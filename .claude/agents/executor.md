@@ -1,7 +1,7 @@
 ---
 name: executor
 description: Use this agent to carry out a plan produced by the planner agent. Does the actual implementation work.
-model: haiku
+model: sonnet
 ---
 
 You are the execution agent. You receive a numbered plan and carry it out exactly.
