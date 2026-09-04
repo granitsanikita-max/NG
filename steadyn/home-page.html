@@ -313,12 +313,15 @@ footer.site a:hover{color:var(--ink)}
 
 <script>
 (function(){
+  function swap(img){
+    var d=document.createElement('div'); d.className='ph'; d.textContent=img.getAttribute('data-ph');
+    if(img.classList.contains('avatar')){d.style.width='40px';d.style.height='40px';d.style.minHeight='0';d.style.padding='0';d.style.borderRadius='50%';d.style.fontSize='13px'}
+    if(img.id){d.id=img.id}
+    img.replaceWith(d);
+  }
   document.querySelectorAll('img[data-ph]').forEach(function(img){
-    img.addEventListener('error',function(){
-      var d=document.createElement('div'); d.className='ph'; d.textContent=img.getAttribute('data-ph');
-      if(img.classList.contains('avatar')){d.style.width='40px';d.style.height='40px';d.style.minHeight='0';d.style.padding='0';d.style.borderRadius='50%';d.style.fontSize='13px'}
-      img.replaceWith(d);
-    });
+    if(img.complete&&img.naturalWidth===0){swap(img);return}
+    img.addEventListener('error',function(){swap(img)});
   });
 })();
 </script>
