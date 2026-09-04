@@ -1,0 +1,405 @@
+<title>Steadyn Hand Device</title>
+<meta name="description" content="Steadyn Hand Device product page: cordless heat and air compression for numb, tingling, stiff hands. 30-day money-back trial, free shipping.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap">
+<style>
+:root{
+  --paper:#F4EFE8; --surface:#FFFDF9; --sunk:#EDE6DB; --ink:#1C2B3A; --body:#2B2B2B; --muted:#6B665E;
+  --moss:#3C7A6E; --moss-deep:#2F6357; --moss-tint:#E3EEEA; --clay:#C87858; --clay-tint:#F6E7DF; --line:#DDD6CB; --focus:#1C2B3A;
+  --shadow:0 10px 30px rgba(28,43,58,.10);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#141B23; --surface:#1B2632; --sunk:#111820; --ink:#F4EFE8; --body:#E4DFD6; --muted:#A8A196;
+    --moss:#5FB39F; --moss-deep:#7CC6B4; --moss-tint:#1F3630; --clay:#E4A184; --clay-tint:#3A2A22; --line:#2C3A49; --focus:#F4EFE8;
+    --shadow:0 10px 30px rgba(0,0,0,.35);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#141B23; --surface:#1B2632; --sunk:#111820; --ink:#F4EFE8; --body:#E4DFD6; --muted:#A8A196;
+  --moss:#5FB39F; --moss-deep:#7CC6B4; --moss-tint:#1F3630; --clay:#E4A184; --clay-tint:#3A2A22; --line:#2C3A49; --focus:#F4EFE8;
+  --shadow:0 10px 30px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto} *{animation:none!important;transition:none!important}}
+body{margin:0;background:var(--paper);color:var(--body);font-family:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;font-size:18px;line-height:1.55;-webkit-font-smoothing:antialiased}
+h1,h2,h3,.display{font-family:"Newsreader",Georgia,"Times New Roman",serif;color:var(--ink);font-weight:500;line-height:1.12;margin:0;text-wrap:balance;letter-spacing:-.01em}
+h1{font-size:clamp(34px,5vw,50px)} h2{font-size:clamp(28px,3.6vw,38px)} h3{font-size:clamp(21px,2.4vw,25px)}
+p{margin:0}
+a{color:inherit}
+img{max-width:100%;display:block}
+button{font:inherit}
+:focus-visible{outline:3px solid var(--focus);outline-offset:3px}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+.narrow{max-width:720px}
+.eyebrow{font-size:14px;letter-spacing:.09em;text-transform:uppercase;color:var(--moss);font-weight:700}
+.lede{font-size:20px;color:var(--body);max-width:62ch}
+.muted{color:var(--muted)}
+.topbar{background:var(--ink);color:var(--paper);font-size:15px;text-align:center;padding:9px 16px}
+.topbar b{font-weight:700}
+header.site{position:sticky;top:0;z-index:20;background:var(--paper);border-bottom:1px solid var(--line)}
+header.site .wrap{display:flex;align-items:center;justify-content:space-between;height:66px;gap:16px}
+.wordmark{font-family:"Newsreader",Georgia,serif;font-size:28px;font-weight:600;color:var(--ink);text-decoration:none;letter-spacing:-.02em}
+.wordmark span{color:var(--moss)}
+nav.main{display:flex;gap:22px;font-size:16px}
+nav.main a{text-decoration:none;color:var(--body)}
+nav.main a:hover{color:var(--moss)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;border-radius:12px;padding:16px 26px;font-weight:700;font-size:18px;text-decoration:none;border:2px solid transparent;cursor:pointer;min-height:56px;transition:background .15s,transform .15s}
+.btn.primary{background:var(--moss);color:#F4EFE8;border-color:var(--moss)}
+.btn.primary:hover{background:var(--moss-deep);border-color:var(--moss-deep)}
+.btn.secondary{background:transparent;color:var(--ink);border-color:var(--ink)}
+.btn.secondary:hover{background:var(--sunk)}
+.btn.block{width:100%}
+section{padding:64px 0}
+section.tight{padding:40px 0}
+section.sunk{background:var(--sunk)}
+.section-head{display:grid;gap:14px;margin-bottom:34px;max-width:720px}
+.grid{display:grid;gap:22px}
+.g2{grid-template-columns:repeat(2,1fr)} .g3{grid-template-columns:repeat(3,1fr)} .g4{grid-template-columns:repeat(4,1fr)}
+@media (max-width:900px){.g3,.g4{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:600px){.g2,.g3,.g4{grid-template-columns:1fr}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:24px}
+.trust{display:flex;flex-wrap:wrap;gap:10px 22px;font-size:15px;color:var(--muted)}
+.trust span{display:inline-flex;align-items:center;gap:8px}
+.trust svg{width:18px;height:18px;flex:none;color:var(--moss)}
+.ph{background:var(--sunk);border:1px dashed var(--line);color:var(--muted);display:grid;place-items:center;text-align:center;font-size:14px;padding:16px;border-radius:12px;width:100%;height:100%;min-height:120px}
+.fig{position:relative;overflow:hidden;border-radius:14px;background:var(--sunk)}
+.fig img{width:100%;height:100%;object-fit:cover}
+/* mechanism list */
+.mech{display:grid;gap:18px}
+.mech li{display:grid;grid-template-columns:52px 1fr;gap:16px;align-items:start;list-style:none}
+.mech .n{width:52px;height:52px;border-radius:50%;background:var(--moss-tint);color:var(--moss-deep);display:grid;place-items:center;font-family:"Newsreader",serif;font-size:24px;font-weight:600}
+.mech ul{padding:0;margin:0}
+/* timeline */
+.timeline{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--surface)}
+.timeline > div{padding:24px;border-right:1px solid var(--line)}
+.timeline > div:last-child{border-right:0}
+.timeline .badge{display:inline-block;background:var(--clay-tint);color:var(--clay);font-weight:700;font-size:14px;letter-spacing:.06em;text-transform:uppercase;padding:5px 10px;border-radius:999px;margin-bottom:12px}
+@media (max-width:760px){.timeline{grid-template-columns:1fr}.timeline > div{border-right:0;border-bottom:1px solid var(--line)}.timeline > div:last-child{border-bottom:0}}
+/* stats */
+.stat{display:grid;gap:6px}
+.stat .num{font-family:"Newsreader",serif;font-size:56px;line-height:1;color:var(--moss-deep);font-variant-numeric:tabular-nums}
+/* reviews */
+.review{display:grid;gap:14px}
+.review .stars{color:var(--clay);letter-spacing:2px;font-size:16px}
+.review blockquote{margin:0;font-family:"Newsreader",serif;font-size:20px;line-height:1.4;color:var(--ink)}
+.review .who{display:flex;align-items:center;gap:12px;font-size:15px;color:var(--muted)}
+.review .avatar{width:40px;height:40px;border-radius:50%;object-fit:cover;background:var(--sunk)}
+/* compare table */
+table.compare{width:100%;border-collapse:separate;border-spacing:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden;font-size:17px}
+table.compare th,table.compare td{padding:16px 18px;text-align:left;border-bottom:1px solid var(--line)}
+table.compare tr:last-child td{border-bottom:0}
+table.compare th{background:var(--sunk);font-weight:700;color:var(--ink)}
+table.compare th.us{background:var(--moss-tint);color:var(--moss-deep)}
+table.compare td.mark{text-align:center;width:120px;font-size:22px}
+table.compare td.yes{color:var(--moss-deep)} table.compare td.no{color:var(--muted)}
+.tablewrap{overflow-x:auto}
+/* FAQ */
+details.faq{border-top:1px solid var(--line);padding:6px 0}
+details.faq:last-child{border-bottom:1px solid var(--line)}
+details.faq summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:20px;align-items:center;padding:16px 0;font-family:"Newsreader",serif;font-size:22px;color:var(--ink)}
+details.faq summary::-webkit-details-marker{display:none}
+details.faq summary::after{content:"+";font-family:"Atkinson Hyperlegible",sans-serif;font-size:26px;color:var(--moss);flex:none}
+details.faq[open] summary::after{content:"–"}
+details.faq .a{padding:0 0 20px;max-width:65ch}
+/* product cards */
+.pcard{display:grid;grid-template-rows:auto 1fr auto;gap:12px}
+.pcard .fig{aspect-ratio:1/1}
+.pcard .price{font-weight:700;color:var(--ink)}
+.pcard h3{font-size:21px}
+.pcard p{font-size:16px;color:var(--muted)}
+/* guarantee */
+.guarantee{background:var(--ink);color:var(--paper);border-radius:18px;padding:40px;display:grid;grid-template-columns:1.2fr .8fr;gap:30px;align-items:center}
+.guarantee h2{color:var(--paper)}
+.guarantee .big{font-family:"Newsreader",serif;font-size:96px;line-height:.9;color:#8FCDBD;text-align:center}
+.guarantee .big small{display:block;font-family:"Atkinson Hyperlegible",sans-serif;font-size:16px;letter-spacing:.1em;text-transform:uppercase;margin-top:10px;color:var(--paper)}
+@media (max-width:760px){.guarantee{grid-template-columns:1fr;padding:28px}}
+footer.site{border-top:1px solid var(--line);padding:40px 0;font-size:15px;color:var(--muted)}
+footer.site .wrap{display:flex;flex-wrap:wrap;gap:16px 34px;justify-content:space-between;align-items:flex-start}
+footer.site a{color:var(--muted);text-decoration:none;margin-right:16px}
+footer.site a:hover{color:var(--ink)}
+.note{font-size:14px;color:var(--muted)}
+
+/* product page specific */
+.hero{padding:34px 0 50px}
+.hero .wrap{display:grid;grid-template-columns:1.05fr .95fr;gap:44px;align-items:start}
+@media (max-width:900px){.hero .wrap{grid-template-columns:1fr;gap:28px}}
+.gallery{display:grid;gap:12px;position:sticky;top:86px}
+@media (max-width:900px){.gallery{position:static}}
+.gallery .main{aspect-ratio:1/1;border-radius:18px;overflow:hidden;background:var(--sunk);border:1px solid var(--line)}
+.gallery .main img{width:100%;height:100%;object-fit:cover}
+.thumbs{display:grid;grid-template-columns:repeat(6,1fr);gap:10px}
+.thumbs button{padding:0;border:2px solid transparent;border-radius:10px;overflow:hidden;background:var(--sunk);aspect-ratio:1/1;cursor:pointer}
+.thumbs button[aria-current="true"]{border-color:var(--moss)}
+.thumbs img{width:100%;height:100%;object-fit:cover}
+.buy{display:grid;gap:22px}
+.buy h1{font-size:clamp(34px,4.4vw,46px)}
+.pricerow{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+.price{font-family:"Newsreader",serif;font-size:40px;color:var(--ink);font-variant-numeric:tabular-nums;line-height:1}
+.was{font-size:20px;color:var(--muted);text-decoration:line-through;font-variant-numeric:tabular-nums}
+.save{background:var(--clay-tint);color:var(--clay);font-weight:700;font-size:14px;padding:5px 10px;border-radius:999px;letter-spacing:.04em}
+.bullets{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.bullets li{display:grid;grid-template-columns:24px 1fr;gap:12px;align-items:start;font-size:18px}
+.bullets svg{width:24px;height:24px;color:var(--moss);margin-top:2px}
+.variant{display:grid;gap:8px;font-size:15px;color:var(--muted)}
+.variant .swatch{display:inline-flex;align-items:center;gap:10px;border:2px solid var(--moss);border-radius:12px;padding:10px 14px;color:var(--ink);font-weight:700;background:var(--surface);width:max-content}
+.variant .dot{width:18px;height:18px;border-radius:50%;background:#C9CBCD;border:1px solid var(--line)}
+.ship{font-size:15px;color:var(--muted)}
+details.box{border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+details.box summary{cursor:pointer;padding:14px 18px;font-weight:700;color:var(--ink);list-style:none;display:flex;justify-content:space-between}
+details.box summary::-webkit-details-marker{display:none}
+details.box summary::after{content:"+";color:var(--moss);font-size:22px;line-height:1}
+details.box[open] summary::after{content:"–"}
+details.box .in{padding:0 18px 16px;font-size:16px;color:var(--body)}
+details.box dl{display:grid;grid-template-columns:auto 1fr;gap:6px 18px;margin:0}
+details.box dt{color:var(--muted)} details.box dd{margin:0}
+.strip{background:var(--ink);color:var(--paper);padding:14px 0;overflow:hidden}
+.strip .wrap{display:flex;gap:40px;justify-content:center;flex-wrap:wrap;font-family:"Newsreader",serif;font-size:20px}
+.strip span::before{content:"✦";color:#8FCDBD;margin-right:14px}
+.split{display:grid;grid-template-columns:1fr 1fr;gap:44px;align-items:center}
+@media (max-width:860px){.split{grid-template-columns:1fr}}
+.split .fig{aspect-ratio:4/5}
+/* button test card */
+.test{background:var(--surface);border:1px solid var(--line);border-radius:18px;padding:32px;display:grid;grid-template-columns:1.1fr .9fr;gap:34px;align-items:start;box-shadow:var(--shadow)}
+@media (max-width:860px){.test{grid-template-columns:1fr;padding:24px}}
+.test table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;font-size:17px}
+.test th,.test td{padding:12px 10px;border-bottom:1px solid var(--line);text-align:left}
+.test th{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.test td.t{font-family:"Newsreader",serif;font-size:22px;color:var(--ink)}
+.test td.blank{color:var(--line);letter-spacing:3px}
+.test .steps{display:grid;gap:14px;counter-reset:s}
+.test .steps p{display:grid;grid-template-columns:34px 1fr;gap:12px;align-items:start}
+.test .steps p::before{counter-increment:s;content:counter(s);width:30px;height:30px;border-radius:50%;background:var(--ink);color:var(--paper);display:grid;place-items:center;font-weight:700;font-size:15px}
+/* sticky mobile bar */
+.stickybar{position:fixed;left:0;right:0;bottom:0;background:var(--surface);border-top:1px solid var(--line);padding:10px 16px calc(10px + env(safe-area-inset-bottom));display:none;z-index:30;box-shadow:0 -8px 30px rgba(28,43,58,.12)}
+.stickybar .wrap{display:flex;align-items:center;gap:14px;padding:0}
+.stickybar .p{font-family:"Newsreader",serif;font-size:24px;color:var(--ink);flex:none}
+@media (max-width:900px){.stickybar{display:block} body{padding-bottom:90px}}
+.finalcta{text-align:center;display:grid;gap:18px;justify-items:center}
+</style>
+
+<div class="topbar">Free shipping worldwide · <b>30-day money-back trial</b> · A real person answers support@steadyn.co</div>
+<header class="site"><div class="wrap">
+  <a class="wordmark" href="#">Steadyn<span>.</span></a>
+  <nav class="main" aria-label="Main">
+    <a href="#how">How it works</a><a href="#test">The button test</a><a href="#reviews">Reviews</a><a href="#faq">FAQ</a>
+  </nav>
+</div></header>
+
+<main>
+<section class="hero"><div class="wrap">
+  <div class="gallery">
+    <div class="main"><img id="mainimg" src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPTImageAug25_2026_08_27_54PM.png" alt="Steadyn Hand Device, light grey, on a kitchen table" data-ph="Product image 1 of 6"></div>
+    <div class="thumbs" role="tablist" aria-label="Product images">
+      <button aria-current="true" data-src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPTImageAug25_2026_08_27_54PM.png"><img src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPTImageAug25_2026_08_27_54PM.png" alt="" data-ph="1"></button>
+      <button data-src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/hf_20260825_102315_f171b37b-dcfa-48d3-82f7-900b8b513566.png"><img src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/hf_20260825_102315_f171b37b-dcfa-48d3-82f7-900b8b513566.png" alt="" data-ph="2"></button>
+      <button data-src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPTImageAug25_2026_08_31_11PM.png"><img src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPTImageAug25_2026_08_31_11PM.png" alt="" data-ph="3"></button>
+      <button data-src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPTImageAug25_2026_08_34_37PM.png"><img src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPTImageAug25_2026_08_34_37PM.png" alt="" data-ph="4"></button>
+      <button data-src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/7bd0b5c4-c272-454c-b13e-f82c84ad6957.png"><img src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/7bd0b5c4-c272-454c-b13e-f82c84ad6957.png" alt="" data-ph="5"></button>
+      <button data-src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/image_2.webp"><img src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/image_2.webp" alt="" data-ph="6"></button>
+    </div>
+  </div>
+
+  <div class="buy" id="buy">
+    <div>
+      <p class="eyebrow">For numb, tingling, stiff hands</p>
+      <h1 style="margin-top:8px">Steadyn Hand Device</h1>
+      <p class="lede" style="margin-top:10px">Cordless heat and compression, ready the moment you need it.</p>
+    </div>
+    <div class="pricerow">
+      <span class="price">A$299.99</span>
+      <span class="ship">Free shipping · GST included</span>
+    </div>
+    <ul class="bullets">
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6 9 17l-5-5"/></svg><span>Heat and air compression in the same device, working together, not one on its own.</span></li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6 9 17l-5-5"/></svg><span>A few minutes most days. 15 minutes in the chair, no cords, no charging cradle.</span></li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6 9 17l-5-5"/></svg><span>Built for hands with reduced feeling: start on the lowest heat setting and only build up if you want to.</span></li>
+      <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6 9 17l-5-5"/></svg><span>30-day money-back trial. You're trying it, not gambling on it.</span></li>
+    </ul>
+    <div class="variant">
+      <span>Colour</span>
+      <span class="swatch"><span class="dot"></span>Light Grey</span>
+    </div>
+    <a class="btn primary block" href="#" id="atc">Add to cart · A$299.99</a>
+    <p class="ship">Ships in 1–3 business days. Delivery 6–11 business days, tracked to your door.</p>
+    <div class="trust">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>30-day money back</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7h13v10H3zM16 10h4l1 3v4h-5z"/><circle cx="7" cy="18" r="1.6"/><circle cx="18" cy="18" r="1.6"/></svg>Free worldwide shipping</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-6 8-6s8 2 8 6"/></svg>A real person answers</span>
+    </div>
+    <details class="box"><summary>What's in the box</summary><div class="in">Hand massager, charging cable, user manual.</div></details>
+    <details class="box"><summary>Specifications</summary><div class="in"><dl>
+      <dt>Functions</dt><dd>Air pressure massage, heat therapy, multi-mode operation</dd>
+      <dt>Targets</dt><dd>Wrist and hand joints, with specialised nodes</dd>
+      <dt>Power</dt><dd>Lithium battery, cordless</dd>
+      <dt>Weight</dt><dd>1.65 kg</dd>
+      <dt>Colour</dt><dd>Light grey</dd>
+    </dl></div></details>
+  </div>
+</div></section>
+
+<div class="strip"><div class="wrap"><span>Instant Relief</span><span>Portability First</span><span>Personalized Comfort</span><span>Trusted Quality</span></div></div>
+
+<section id="how"><div class="wrap split">
+  <div>
+    <p class="eyebrow">Why this, when nothing else did</p>
+    <h2 style="margin:12px 0 18px">A hand that's gone quiet needs three things at once. Most devices only give it one.</h2>
+    <p class="lede" style="margin-bottom:26px">Warmth on its own just sits on the skin. Compression on its own just holds still. Your hands need blood moving, warmth reaching in, and the whole hand worked. Not one of those, all three, together.</p>
+    <ul class="mech">
+      <li><span class="n">1</span><div><h3>Blood moving where it went quiet</h3><p>That's the warmth.</p></div></li>
+      <li><span class="n">2</span><div><h3>The whole hand worked, not just held still</h3><p>That's the pressure, finger by finger.</p></div></li>
+      <li><span class="n">3</span><div><h3>Something for the gate to carry instead of the numbness</h3><p>Warmth and squeeze together, not one on its own.</p></div></li>
+      <li><span class="n">4</span><div><h3>A few minutes most days</h3><p>Not once, not now and then.</p></div></li>
+    </ul>
+  </div>
+  <div class="fig"><img src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPT_Image_Aug_27_2026_08_03_52_PM.png" alt="Steadyn Hand Device in use on a hand" data-ph="Lifestyle image: device in use"></div>
+</div></section>
+
+<section class="sunk"><div class="wrap">
+  <div class="section-head">
+    <p class="eyebrow">What to expect</p>
+    <h2>Not day one. Give it a few weeks, and use the weekly check so you can see it instead of guessing.</h2>
+  </div>
+  <div class="timeline">
+    <div><span class="badge">Week 1</span><p>Honestly? Not much. A bit less stiff of a morning. I nearly wrote it off. But 15 minutes is nothing, so I kept at it.</p></div>
+    <div><span class="badge">Week 2–3</span><p>This is when I noticed. Denise had me timing five shirt buttons every Sunday. Week one it was a joke. By week three I'd knocked ten seconds off it, and I could feel the difference.</p></div>
+    <div><span class="badge">Month 2–4</span><p>I got the guitar out. Couldn't play like I used to. But I could hold a chord long enough to hear it. First time in two years.</p></div>
+  </div>
+  <p class="note" style="margin-top:14px">From Ray's story, Wagga Wagga NSW. Individual experience, not a guarantee of results.</p>
+</div></section>
+
+<section id="test"><div class="wrap">
+  <div class="section-head">
+    <p class="eyebrow">The Sunday button test</p>
+    <h2>How do I know if it's actually helping, or if I'm just hoping it is?</h2>
+    <p class="lede">Most people can't tell week to week on feel alone. Do up a few buttons, open a jar, write your name, and time yourself. Do it the same day each week and you'll see the number move, instead of guessing.</p>
+  </div>
+  <div class="test">
+    <div class="steps">
+      <p><span>Pick one job your hands struggle with. Five shirt buttons is the one Ray used.</span></p>
+      <p><span>Every Sunday, time it once. Write the number in the box. Don't try harder than usual; the point is an honest number.</span></p>
+      <p><span>Use the device a few minutes most days in between. Lowest heat setting first.</span></p>
+      <p><span>If nothing's moving after a fair go, you'll know, and you send it back within 30 days. No hoping.</span></p>
+    </div>
+    <div>
+      <table aria-label="Weekly button test log">
+        <thead><tr><th>Sunday</th><th>Five buttons</th><th>Note</th></tr></thead>
+        <tbody>
+          <tr><td>Week 1</td><td class="t blank">___ s</td><td class="muted">Starting number</td></tr>
+          <tr><td>Week 2</td><td class="t blank">___ s</td><td></td></tr>
+          <tr><td>Week 3</td><td class="t blank">___ s</td><td class="muted">Decide by here</td></tr>
+          <tr><td>Week 4</td><td class="t blank">___ s</td><td class="muted">Last day to return: day 30</td></tr>
+        </tbody>
+      </table>
+      <p class="note" style="margin-top:12px">A printed card with this table ships in the box.</p>
+    </div>
+  </div>
+</div></section>
+
+<section class="sunk tight"><div class="wrap grid g3">
+  <div class="stat"><span class="num">92%</span><h3>Easier mornings, less stiffness</h3><p class="muted">Users said their hands felt looser and easier to get moving after a morning session.</p></div>
+  <div class="stat"><span class="num">87%</span><h3>Everyday tasks felt easier</h3><p class="muted">More comfort while holding mugs, opening jars, turning keys and using their phone.</p></div>
+  <div class="stat"><span class="num">94%</span><h3>A routine they'd actually keep</h3><p class="muted">Soothing heat and compression ready at home whenever their hands started aching.</p></div>
+</div></section>
+
+<section id="reviews"><div class="wrap">
+  <div class="section-head"><p class="eyebrow">Reviews</p><h2>What customers say</h2></div>
+  <div class="grid g2">
+    <div class="card review"><span class="stars" aria-label="5 stars">★★★★★</span><blockquote>"I nearly talked myself out of it over the price. Then I worked out what one more specialist appointment costs, and this was less than that for something I can use every single day instead of once. Cheap it isn't. Worth it, yes."</blockquote><div class="who"><img class="avatar" src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPT_Image_Aug_25_2026_06_46_12_PM.png" alt="" data-ph="G"><span>G.P.</span></div></div>
+    <div class="card review"><span class="stars" aria-label="5 stars">★★★★★</span><blockquote>"I hadn't picked up my guitar in about a year. Didn't think I'd bother again, honestly. Used this most evenings for a few weeks and finally got the case open again. Nothing dramatic, just held a chord for longer than I have in ages."</blockquote><div class="who"><img class="avatar" src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPT_Image_Aug_25_2026_07_54_28_PM.png" alt="" data-ph="R"><span>R.H.</span></div></div>
+    <div class="card review"><span class="stars" aria-label="5 stars">★★★★★</span><blockquote>"I bought this for my husband, not for me. He'd never have looked for something like this himself, too stubborn. I do most of the shopping and I saw this and thought, why not. He actually uses it, which is more than I can say for the last thing I bought him."</blockquote><div class="who"><img class="avatar" src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPT_Image_Aug_25_2026_07_48_57_PM.png" alt="" data-ph="S"><span>S.A.</span></div></div>
+    <div class="card review"><span class="stars" aria-label="5 stars">★★★★★</span><blockquote>"I'll be honest, I don't usually trust things like this. I've fallen for the hype before and been let down. I'm not saying this fixed everything, it hasn't. But it's the first thing in a while that's actually made a difference I can feel, so I kept using it."</blockquote><div class="who"><img class="avatar" src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPT_Image_Aug_25_2026_07_50_57_PM.png" alt="" data-ph="P"><span>P.W.</span></div></div>
+  </div>
+</div></section>
+
+<section class="sunk"><div class="wrap">
+  <div class="section-head">
+    <p class="eyebrow">Why buy from us</p>
+    <h2>Everyone in this category sells the same promise. Almost nobody keeps it.</h2>
+    <p class="lede">You've bought things like this before. The photos looked great, the tracking went quiet, and getting your money back was its own fight. Here's what's actually different about buying from us.</p>
+  </div>
+  <div class="tablewrap"><table class="compare">
+    <thead><tr><th></th><th class="us">Steadyn</th><th>Others</th></tr></thead>
+    <tbody>
+      <tr><td>Heat and compression in the same device</td><td class="mark yes">✓</td><td class="mark no">—</td></tr>
+      <tr><td>A real person answers</td><td class="mark yes">✓</td><td class="mark no">—</td></tr>
+      <tr><td>An easy guarantee</td><td class="mark yes">✓</td><td class="mark no">—</td></tr>
+      <tr><td>Heat safety: lowest setting first, built for reduced feeling</td><td class="mark yes">✓</td><td class="mark no">—</td></tr>
+      <tr><td>Told the truth about what it does</td><td class="mark yes">✓</td><td class="mark no">—</td></tr>
+    </tbody>
+  </table></div>
+  <div style="margin-top:26px"><a class="btn primary" href="#buy">Add to cart · A$299.99</a></div>
+</div></section>
+
+<section><div class="wrap">
+  <div class="section-head">
+    <p class="eyebrow">Complete the routine</p>
+    <h2>Steadyn eases the stiffness. These help with the rest of the day.</h2>
+  </div>
+  <div class="grid g4">
+    <a class="card pcard" href="#" style="text-decoration:none"><div class="fig"><img src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPTImageAug26_2026_07_17_18PM.png" alt="Compression Gloves" data-ph="Compression Gloves"></div><div><h3>Compression Gloves</h3><p>Support that works even when you're not actively treating your hands.</p></div><span class="price">A$39.95</span></a>
+    <a class="card pcard" href="#" style="text-decoration:none"><div class="fig"><img src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPTImageAug26_2026_06_16_30PM.png" alt="Hand Grip Strengthener Set" data-ph="Hand Grip Strengthener Set"></div><div><h3>Hand Grip Strengthener Set</h3><p>Relief feels good in the moment. This rebuilds what's underneath it.</p></div><span class="price">A$44.95</span></a>
+    <a class="card pcard" href="#" style="text-decoration:none"><div class="fig"><img src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/4074e6d1-583f-4a9a-950d-bf39ea0f3e3a.png" alt="4-in-1 Jar and Bottle Opener" data-ph="4-in-1 Jar &amp; Bottle Opener"></div><div><h3>4-in-1 Jar &amp; Bottle Opener</h3><p>One tool that removes grip strength from the equation entirely.</p></div><span class="price">A$24.95</span></a>
+    <a class="card pcard" href="#" style="text-decoration:none"><div class="fig"><img src="https://cdn.shopify.com/s/files/1/0803/7141/7188/files/ChatGPT_Image_Aug_26_2026_08_25_23_PM.png" alt="B12 Liquid Drops" data-ph="B12 Liquid Drops"></div><div><h3>B12 Liquid Drops</h3><p>A basic, easy addition most people don't think to check.</p></div><span class="price">A$34.95</span></a>
+  </div>
+</div></section>
+
+<section class="sunk" id="faq"><div class="wrap narrow">
+  <div class="section-head"><p class="eyebrow">Common questions</p><h2>Frequently asked questions</h2></div>
+  <details class="faq" open><summary>Do I need a diagnosis to use this?</summary><div class="a">No. You don't need to know exactly what's causing it. If your hands have gone numb, stiff, tingly or clumsy, this is for you, whatever's behind it.</div></details>
+  <details class="faq"><summary>Does it help with tingling and burning too, or just numbness?</summary><div class="a">All of it. Numb, tingling, burning, that pins-and-needles feeling, hands that feel dead or clumsy. It's built for the whole range, not just one symptom.</div></details>
+  <details class="faq"><summary>Is the heat safe if I can't feel much in my hands?</summary><div class="a">Fair question, it's the first one most people ask. You start on the lowest setting and only build up if you want to. If your feeling's reduced, stay on the low settings and check your skin after. Slow and low, every time.</div></details>
+  <details class="faq"><summary>How long before I notice anything?</summary><div class="a">Not day one. For most people week one is just a bit less stiff. It's week two or three before you'd say it plainly. Give it a few weeks, and use the weekly check so you can see it instead of guessing.</div></details>
+  <details class="faq"><summary>How do I know if it's actually helping, or if I'm just hoping it is?</summary><div class="a">Most people can't tell week to week on feel alone. Do up a few buttons, open a jar, write your name, and time yourself. Do it the same day each week and you'll see the number move, instead of guessing.</div></details>
+  <details class="faq"><summary>I've tried "one more thing" before and it didn't go anywhere. How is this any different?</summary><div class="a">It might not be. That's not something we can promise you from here. What we'd say is: it's a small thing to try, it's not another pill, and the weekly check-in means you're not just hoping it's working, you're actually looking at it. If it turns out to be another thing that doesn't stick, that's what the 30 days is for. We'd rather you find out for sure than wonder.</div></details>
+  <details class="faq"><summary>What if it doesn't work for me?</summary><div class="a">You send it back within 30 days and get your money back. That's the deal. You're trying it, not gambling on it.</div></details>
+</div></section>
+
+<section><div class="wrap">
+  <div class="guarantee">
+    <div>
+      <p class="eyebrow" style="color:#8FCDBD">The deal</p>
+      <h2 style="margin:10px 0 14px">Send it back within 30 days and get your money back.</h2>
+      <p style="font-size:19px;max-width:52ch">You write your times down once a week. If nothing's moving after a fair go, you'll know, and you send it back. No hoping. Email support@steadyn.co and a real person reads and answers every message.</p>
+    </div>
+    <div class="big">30<small>day money-back trial</small></div>
+  </div>
+</div></section>
+
+<section class="tight"><div class="wrap finalcta">
+  <h2>If your hands have gone numb and you've been told to wait and see, you already know that road.</h2>
+  <p class="lede">Give it a go. If it's not for you, send it back.</p>
+  <a class="btn primary" href="#buy">Add to cart · A$299.99</a>
+  <p class="note">Free shipping · 30-day money-back trial · Ships in 1–3 business days</p>
+</div></section>
+</main>
+
+<footer class="site"><div class="wrap">
+  <div><a class="wordmark" href="#">Steadyn<span>.</span></a><p style="margin-top:8px">support@steadyn.co</p></div>
+  <div><a href="#">Shipping policy</a><a href="#">Refunds &amp; returns</a><a href="#">Terms of service</a><a href="#">Privacy</a><a href="#">Contact</a></div>
+  <p style="max-width:44ch">Steadyn is a comfort device. It is not a medical device and does not diagnose, treat or cure any condition. Talk to your doctor about persistent numbness.</p>
+</div></footer>
+
+<div class="stickybar"><div class="wrap"><span class="p">A$299.99</span><a class="btn primary block" href="#buy">Add to cart</a></div></div>
+
+<script>
+(function(){
+  // image fallback: swap broken images for labelled placeholders (Shopify CDN may be blocked in previews)
+  document.querySelectorAll('img[data-ph]').forEach(function(img){
+    img.addEventListener('error',function(){
+      var d=document.createElement('div'); d.className='ph'; d.textContent=img.getAttribute('data-ph');
+      if(img.classList.contains('avatar')){d.style.width='40px';d.style.height='40px';d.style.minHeight='0';d.style.padding='0';d.style.borderRadius='50%';d.style.fontSize='13px'}
+      img.replaceWith(d);
+    });
+  });
+  var main=document.getElementById('mainimg');
+  document.querySelectorAll('.thumbs button').forEach(function(b){
+    b.addEventListener('click',function(){
+      document.querySelectorAll('.thumbs button').forEach(function(x){x.removeAttribute('aria-current')});
+      b.setAttribute('aria-current','true');
+      if(main&&main.tagName==='IMG'){main.src=b.getAttribute('data-src')}
+    });
+  });
+})();
+</script>
