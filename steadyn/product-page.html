@@ -176,6 +176,18 @@ details.box dt{color:var(--muted)} details.box dd{margin:0}
 .stickybar .wrap{display:flex;align-items:center;gap:14px;padding:0}
 .stickybar .p{font-family:"Newsreader",serif;font-size:24px;color:var(--ink);flex:none}
 @media (max-width:900px){.stickybar{display:block} body{padding-bottom:90px}}
+.bundles{display:grid;gap:10px}
+.bundle{display:grid;grid-template-columns:22px 1fr auto;gap:12px;align-items:center;border:2px solid var(--line);border-radius:14px;padding:14px 16px;background:var(--surface);cursor:pointer}
+.bundle:has(input:checked){border-color:var(--moss);background:var(--moss-tint)}
+.bundle input{width:20px;height:20px;accent-color:var(--moss);margin:0}
+.bundle .bl{display:grid;gap:3px}
+.bundle .bt{font-weight:700;color:var(--ink);font-size:18px}
+.bundle .bt em{font-style:normal;font-size:12px;letter-spacing:.06em;text-transform:uppercase;background:var(--ink);color:var(--paper);padding:3px 8px;border-radius:999px;margin-left:8px;vertical-align:middle}
+.bundle .bs{font-size:15px;color:var(--muted)}
+.bundle .bp{display:grid;justify-items:end;font-variant-numeric:tabular-nums}
+.bundle .bp b{font-family:"Newsreader",serif;font-size:26px;color:var(--ink);font-weight:500;line-height:1}
+.bundle .bp s{font-size:14px;color:var(--muted)}
+@media (max-width:480px){.bundle{grid-template-columns:22px 1fr;} .bundle .bp{grid-column:2;justify-items:start;grid-auto-flow:column;gap:10px;align-items:baseline}}
 .finalcta{text-align:center;display:grid;gap:18px;justify-items:center}
 </style>
 
@@ -207,10 +219,19 @@ details.box dt{color:var(--muted)} details.box dd{margin:0}
       <h1 style="margin-top:8px">Steadyn Hand Device</h1>
       <p class="lede" style="margin-top:10px">Cordless heat and compression, ready the moment you need it.</p>
     </div>
-    <div class="pricerow">
-      <span class="price">A$299.99</span>
-      <span class="ship">Free shipping · GST included</span>
+    <div class="bundles" role="radiogroup" aria-label="Bundle and save">
+      <p class="eyebrow" style="margin-bottom:4px">Bundle &amp; save</p>
+      <label class="bundle"><input type="radio" name="bundle" value="starter" checked>
+        <span class="bl"><span class="bt">Steadyn Starter</span><span class="bs">The device on its own. Save A$170.</span></span>
+        <span class="bp"><b>A$129.99</b><s>A$299.99</s></span></label>
+      <label class="bundle"><input type="radio" name="bundle" value="complete">
+        <span class="bl"><span class="bt">Steadyn Complete <em>Most popular</em></span><span class="bs">Device + Compression Gloves + B12 Drops, Jar &amp; Bottle Opener free. Save A$200.</span></span>
+        <span class="bp"><b>A$199.95</b><s>A$399.84</s></span></label>
+      <label class="bundle"><input type="radio" name="bundle" value="total">
+        <span class="bl"><span class="bt">Steadyn Total System <em>Best value</em></span><span class="bs">Device + Jar &amp; Bottle Opener + B12 Drops + Hand Grip Set, Compression Gloves and Shipping Protection free. Save A$223.</span></span>
+        <span class="bp"><b>A$229.95</b><s>A$452.74</s></span></label>
     </div>
+    <p class="ship">Free shipping · GST included</p>
     <ul class="bullets">
       <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6 9 17l-5-5"/></svg><span>Heat and air compression in the same device, working together, not one on its own.</span></li>
       <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6 9 17l-5-5"/></svg><span>A few minutes most days. 15 minutes in the chair, no cords, no charging cradle.</span></li>
@@ -221,7 +242,7 @@ details.box dt{color:var(--muted)} details.box dd{margin:0}
       <span>Colour</span>
       <span class="swatch"><span class="dot"></span>Light Grey</span>
     </div>
-    <a class="btn primary block" href="#" id="atc">Add to cart · A$299.99</a>
+    <a class="btn primary block" href="#" id="atc">Add to cart · <span id="atcprice">A$129.99</span></a>
     <p class="ship">Ships in 1–3 business days. Delivery 6–11 business days, tracked to your door.</p>
     <div class="trust">
       <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>30-day money back</span>
@@ -329,7 +350,7 @@ details.box dt{color:var(--muted)} details.box dd{margin:0}
       <tr><td>Told the truth about what it does</td><td class="mark yes">✓</td><td class="mark no">—</td></tr>
     </tbody>
   </table></div>
-  <div style="margin-top:26px"><a class="btn primary" href="#buy">Add to cart · A$299.99</a></div>
+  <div style="margin-top:26px"><a class="btn primary" href="#buy">Add to cart · from A$129.99</a></div>
 </div></section>
 
 <section><div class="wrap">
@@ -370,7 +391,7 @@ details.box dt{color:var(--muted)} details.box dd{margin:0}
 <section class="tight"><div class="wrap finalcta">
   <h2>If your hands have gone numb and you've been told to wait and see, you already know that road.</h2>
   <p class="lede">Give it a go. If it's not for you, send it back.</p>
-  <a class="btn primary" href="#buy">Add to cart · A$299.99</a>
+  <a class="btn primary" href="#buy">Add to cart · from A$129.99</a>
   <p class="note">Free shipping · 30-day money-back trial · Ships in 1–3 business days</p>
 </div></section>
 </main>
@@ -381,7 +402,7 @@ details.box dt{color:var(--muted)} details.box dd{margin:0}
   <p style="max-width:44ch">Steadyn is a comfort device. It is not a medical device and does not diagnose, treat or cure any condition. Talk to your doctor about persistent numbness.</p>
 </div></footer>
 
-<div class="stickybar"><div class="wrap"><span class="p">A$299.99</span><a class="btn primary block" href="#buy">Add to cart</a></div></div>
+<div class="stickybar"><div class="wrap"><span class="p" id="stickyprice">A$129.99</span><a class="btn primary block" href="#buy">Add to cart</a></div></div>
 
 <script>
 (function(){
@@ -396,6 +417,11 @@ details.box dt{color:var(--muted)} details.box dd{margin:0}
     if(img.complete&&img.naturalWidth===0){swap(img);return}
     img.addEventListener('error',function(){swap(img)});
   });
+  var prices={starter:'A$129.99',complete:'A$199.95',total:'A$229.95'};
+  document.querySelectorAll('input[name=bundle]').forEach(function(r){r.addEventListener('change',function(){
+    var v=prices[r.value]; var a=document.getElementById('atcprice'); var s=document.getElementById('stickyprice');
+    if(a)a.textContent=v; if(s)s.textContent=v;
+  })});
   var main=document.getElementById('mainimg');
   document.querySelectorAll('.thumbs button').forEach(function(b){
     b.addEventListener('click',function(){

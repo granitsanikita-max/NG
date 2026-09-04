@@ -33,29 +33,29 @@ The advertorial is good. It is a specific persona (Ray, 64, Wagga Wagga), a spec
 
 What the product page does with that reader:
 
-- Title "Steadyn Hand Device", A$299.99, no compare-at price, no reason for the price.
+- Title "Steadyn Hand Device". Before the bundle widget loads, the only price on the page is A$299.99 with no compare-at and no reason for it.
 - The buy-box description is the supplier listing: "Model number: 1802", "Weight: 1.65kg", "Packing List: Hand massager*1, Charging cable*1, User manual*1", followed by five teemdrop.com supplier images.
 - Four empty video blocks in the main section (video_url is blank on all four).
 - Three TikTok videos with "snaptik" filenames, which are downloaded from other creators' accounts.
 - "7,000+ Happy Customers" with 4 reviews and no review app. The advertorial's CTA button says "4.9/5 stars from 7,000+ verified users". The homepage says "10,000+ Happy Customers". The store is 10 days old. An older, skeptical buyer notices the mismatch.
-- The homepage FAQ sells bundles ("Steadyn Starter / Complete / Total System") that do not exist. The product has one variant and no bundle products.
 - The advertorial's weekly button test, the "three things at once" mechanism, the "start on the lowest heat setting" safety answer: none of this is in the buy box where the decision happens.
 
 Result: 66 advertorial sessions, 0 add-to-carts. That is the leak.
 
-### 2. Price with nothing behind it
+### 2. Price (corrected 4 Sep, after seeing the bundle widget)
 
-A$299.99 is about US$195. The category on Meta right now:
+First version of this doc said the product sells at A$299.99. Wrong. The bundle app renders client-side and was not in the theme files I audited. The live offer is:
 
-| Store | Price | Notes |
-|---|---|---|
-| Neurivo (biggest spender in the niche, Dupuytren's angle) | US$99.98 | Ranked #1 ad, 140 active ads |
-| Kallon "WarmPress" | £59.99 | 30-day guarantee, 40% off framing |
-| Generic Amazon/AliExpress listings | US$50–120 | Same 1802-style units |
+| Bundle | Price | Anchor | Contents |
+|---|---|---|---|
+| Steadyn Starter | A$129.99 | A$299.99 | Device |
+| Steadyn Complete + Free Gift | A$199.95 | A$399.84 | Device, Compression Gloves, B12 Drops, Jar & Bottle Opener free |
+| Steadyn Total System + 2 Free Gifts | A$229.95 | A$452.74 | Device, Opener, B12 Drops, Hand Grip Set, Gloves free, Shipping Protection free |
 
-You are 2–3x the category leader with a bare buy box. The price is not automatically wrong: Ray's story justifies a premium if the page carries it. But at A$299.99 the page has to do the work of a Neurivo-grade page. Right now it does the work of an AliExpress listing.
+A$129.99 is in line with the category (Neurivo US$99.98 is about A$150). Price is not the constraint. Two things about how it is presented still cost you:
 
-Recommendation: A$169–199 with a compare-at of A$299.99 while the store has no real reviews. Move back up once you have 30+ real reviews and a bundle. If you want to hold A$299.99, the new product page has to be live first, and you need a payment-split option (Shop Pay Installments / Afterpay) shown next to the price.
+- The A$299.99 anchor is the only price visible until the bundle widget loads, and it is the price in the Shopify catalog (Meta catalog, Shop app, Google, cart drawer before the app discount applies). Set the product's compare-at price to A$299.99 and the price to A$129.99 in Shopify itself so every surface agrees.
+- "Save A$170 instantly" on a 10-day-old store with no reviews reads as a fake discount to a skeptical 60+ buyer. Keep the anchor, but the page needs the guarantee and the button test next to it so the discount is not the only reason to buy.
 
 ### 3. Three different promises across the three pages
 
@@ -89,7 +89,7 @@ The campaign ran to US, CA, GB, NZ, AU. The advertorial is written in Australian
 ## Order of operations
 
 1. Publish the new product page (built in this repo, see `product-page.html`). Same copy, moved to where the decision is made.
-2. Set a compare-at price and either drop the price or add installments.
+2. Set price A$129.99 and compare-at A$299.99 on the product itself so the catalog, cart and checkout match the bundle widget.
 3. Remove every unverifiable number (7,000+, 10,000+, 4.9, the 92/87/94 stats) until you can back them. Replace with the guarantee and the button test.
 4. Fix or remove the advertorial countdown bar.
 5. Publish the new homepage (`home-page.html`) so direct/brand visitors get the same promise as the ad.
