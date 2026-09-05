@@ -30,8 +30,13 @@ No X/Reddit login, no agent-reach CLI in this env. Use **Firecrawl**
 working.
 
 - Reddit: `includeDomains: ["reddit.com"]` — the strongest channel (threaded,
-  honest, long-form). To read a full thread's comments, `WebFetch` the thread
-  URL or search the thread title.
+  honest, long-form). NOTE: direct fetching is BLOCKED here — Reddit 403s
+  `WebFetch` and `r.jina.ai`, and there's no scrape tool. So depth comes from
+  running MANY targeted `firecrawl_search` queries: each result's description
+  IS a real top comment, and the URL is the exact thread permalink. To go
+  deeper on one thread, search quoted phrases from it (`"exact phrase"`) or
+  its title — that surfaces more comments from the same thread. Budget for
+  ~12-20 searches per product to build real depth, not 4.
 - X: `includeDomains: ["x.com","twitter.com"]` — catches customer reviews and
   complaints but drags in noise (games, cars, unrelated "reviews"). Filter hard.
 - No recency filter by default — old chatter is still valid VoC. Add `tbs`
