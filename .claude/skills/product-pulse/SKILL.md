@@ -112,13 +112,23 @@ Don't guess a product and burn a scan on the wrong thing.
 7. **So-what** — end with a short, punchy section: the 3-5 ad angles / hooks
    this research hands him, and the objections his page must kill. This is the
    payoff — don't skip it.
-8. **Save + publish to Notion.** Save the full report to
-   `product-research/<product-slug>-<date>.md` AND write it to the Notion page
-   **"Comments from X"** (page id `3d2d5312-3cd6-8133-ae12-e2fc78d14bf6`) —
-   this is the running home for all product-pulse research. Add each product as
-   its own new section at the TOP of that page (`notion-update-page`,
-   `insert_content`, `position: start`), newest first, so older reports stay
-   below. Tell Nikita the local path and confirm it's on the Notion page.
+8. **Save + publish to Notion (one folder per product).** Save the full report
+   to `product-research/<product-slug>-<date>.md`. Then publish to Notion under
+   the index page **"Comments from X"** (page id
+   `3d2d5312-3cd6-8133-ae12-e2fc78d14bf6`), which is a folder index — each
+   product is its OWN child page (folder) so Nikita clicks the product and sees
+   everything. Exact steps:
+   a. `notion-create-pages` with `parent.page_id` = the Comments-from-X id,
+      title = the product name, icon = a fitting emoji, content = the full
+      report. Keep the returned child page URL.
+   b. Add a bullet linking to that child page under the "📦 Products" heading
+      on the index, using `notion-update-page` `command: "insert_content"`,
+      `position: {type: "start"}` of that section (newest folder on top).
+   ⚠️ NEVER use `replace_content` on the index page — it TRASHES the child
+   folders (they count as unreferenced and get deleted even if you link them).
+   Only ever `insert_content` / `update_content` on the index. If a product
+   already has a folder, update that child page instead of making a duplicate.
+   Tell Nikita the local path and the folder link.
 
 ## EXACT LINKS ONLY
 
