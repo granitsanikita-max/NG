@@ -33,6 +33,15 @@ every post.
 - Site-filter with `includeDomains: ["x.com","twitter.com"]`.
 - Recency with `tbs` from config (`qdr:d` = last 24h; fall back to `qdr:w`
   if a query returns nothing).
+- **EXACT POST LINKS ONLY.** Every link handed to Nikita or written to the
+  knowledge log / Notion page MUST be a direct post URL — the
+  `x.com/<user>/status/<id>` (or `x.com/i/status/<id>`) form. NEVER a bare
+  profile (`x.com/handle`), a `/with_replies`, `/reposts`, or `?lang=` URL —
+  he should click and land on the exact post, not scroll a profile. If a
+  search hit is only a profile/reply URL, run another search for that post's
+  text to resolve the `/status/` link. If you genuinely can't resolve the
+  exact post, drop the item rather than ship a profile link. Strip tracking
+  params and `/photo/1` suffixes down to the clean `/status/<id>`.
 - To read a full thread (not just the search snippet), fetch the post URL
   with `mcp__Firecrawl__firecrawl_search` `related:` / or `WebFetch` the URL.
   Only do this for posts that pass the first-pass filter — don't fetch bodies

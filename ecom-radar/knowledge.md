@@ -16,4 +16,10 @@ Format: `- [bucket] tactic — mechanism in one sentence — src: link`
 - [ad_creative] ~60% of a $100M brand's winning ads came from outside the in-house creative team (real creators/UGC) — favor creator volume over polished in-house — src: https://x.com/dkrd19
 - [ad_creative] Reuse proven winning ads to scale spend into BFCM rather than testing fresh creative right before peak — src: https://x.com/LafranceDa75675
 
+## 2026-09-05 (scan 2)
+- [store_cro] High-converting product/landing page skeleton — hero → subhead → proof bar → problem (customer words) → mechanism → product → comparison → reviews → objection handling → FAQ → CTA; first screen matches buyer intent — src: https://x.com/lifemaximised/status/2094966852887687492
+- [product_research] Systematic competitor teardown — pull competitors from Google Ads Transparency Center + Meta Ad Library, copy their offers/guarantees/reviews/email flows — src: https://x.com/lifemaximised/status/2094966852887687492
+- [email] Abandoned-cart email should use a dynamic cart-restore link (their exact items), not a generic cart page — src: https://x.com/i/status/2094924537070502081
+- [product_research] Google Shopping product title formula: Brand + Product Type + Core Keyword + Key Feature + Use Case/Benefit — src: https://x.com/lifemaximised/status/2094966852887687492
+
 <!-- entries appended above this line by /ecom-daily, newest first -->
