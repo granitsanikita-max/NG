@@ -5,15 +5,18 @@ description: >-
   Winning Hunter AND the Facebook Ad Library, and drops each one as a row (link + metadata) into
   Nikita's Notion "Ad Finds — To Review" database for weekly review. This skill ONLY finds and logs
   ads — it does not tear them down (the ad-skeletonizer skill does that after Nikita approves rows).
-  Use whenever Nikita wants to find or hunt winning/proven ads, fill his ad-finds list, or discover
-  long-running ads in a niche — phrasings like "find winning ads in [niche]", "hunt ads for [product]",
-  "fill my ad finds", "find long-running ads from big stores", "what's been running forever in [niche]".
-  Longest run time is the #1 filter — an ad running for months is a proven money-maker.
+  Can hunt by NICHE, by ad CONCEPT/format (storytelling, VSL, listicle, street interview, UGC
+  testimonial, founder story, etc.), or both. Use whenever Nikita wants to find or hunt winning/proven
+  ads, fill his ad-finds list, or discover long-running ads — phrasings like "find winning ads in
+  [niche]", "hunt [concept] ads", "find the best VSLs in [niche]", "get me storytelling ads",
+  "fill my ad finds", "what's been running forever in [niche]". Before hunting it asks a couple of
+  intake questions (concept + niche + depth) to sharpen the search. Longest run time is the #1 filter —
+  an ad running for months is a proven money-maker.
 ---
 
 # Ad Finder
 
-The first half of Nikita's swipe pipeline. This skill fills the **"Ad Finds — To Review"** Notion database with proven, long-running ads so he can eyeball them weekly and approve the good ones. The second skill (`ad-skeletonizer`) then tears down only what he approves. Keeping find and teardown separate lets Nikita QA the finds before spending time (and Winning Hunter credits) skeletonizing.
+The first half of Nikita's swipe pipeline. This skill fills the **"Ad Finds — To Review"** Notion database with proven, long-running ads — by niche, by ad concept, or both — so he can eyeball them and approve the good ones. `ad-teardown` then tears down what he approves. Keeping find and teardown separate lets Nikita QA the finds before spending time (and Winning Hunter credits) tearing them down. (For a hands-off, one-command run of the whole chain — find → teardown → file — he uses the `swipe-pipeline` skill, which reuses this skill's hunt logic.)
 
 **This skill does NOT tear ads down or write skeletons.** It finds, logs a link + metadata, and stops. Resist the urge to analyze the creative here — that's the next skill's job.
 
@@ -21,10 +24,34 @@ The first half of Nikita's swipe pipeline. This skill fills the **"Ad Finds — 
 
 Nobody keeps paying to run a losing ad. So the strongest signal of a winner is **how long it has been running**. Rank everything by run length; a boring ad running 6 months beats a flashy one running 6 days. This is the whole filter.
 
-## Step 1 — Scope
+## Step 1 — Intake (ask first, then hunt)
 
-Get from Nikita (ask only if missing): the **niche / product / keyword** to hunt, and **how many** to log this run (default 10–15 — the finder is cheap; over-collect, then he filters). Confirm one line and go:
-`Hunting longest-running ads in [niche] across Winning Hunter + FB Ad Library, logging to Ad Finds — To Review.`
+Sharpen the search before spending calls. Unless Nikita already gave these in his message, ask with **one `AskUserQuestion`** (batch the questions, don't drip them):
+
+1. **Concept** — what ad format to hunt: Storytelling / Personal Story · Long-form VSL · UGC Testimonial · Listicle ("X reasons") · Street Interview · Founder Story · Demo/Unboxing · Myth-Buster · **Any format**. (This maps to the *Video Ad concepts* genres and becomes the Video Format when it's later filed.)
+2. **Niche** — niche / product / keyword (e.g. neuropathy, pet odor, eczema). Accept "any / surprise me."
+3. **Depth** — how many to log (default 10–15; the finder is cheap — over-collect, he filters).
+
+Optional 4th only if unclear: **must still be active?** (default: prioritise still-active long-runners, but a proven ad that recently went dark still counts).
+
+Confirm one line and go: `Hunting longest-running [concept] ads in [niche] across Winning Hunter + FB Ad Library → Ad Finds — To Review.`
+
+## Step 1b — Concept → hunt recipe
+
+Translate the chosen concept into concrete `search_facebook_ads` filters + how to confirm it from the creative. Always keep `sort_by=longestrunning`, `sort_order=desc`, `media_type=videos` (except image-heavy concepts). If concept = **Any format**, skip the concept filters and hunt purely on niche + longevity.
+
+| Concept | Filters to add | Keyword cues (searchkeyword=adtext) | Confirm from creative |
+|---|---|---|---|
+| Storytelling / Personal Story | `min_copy_length` ~250 | "my", "I", "years ago", "story", "changed my life" | first-person narrative arc in transcript |
+| Long-form VSL | `min_video_length` 180; often `page_type=funnels` | "watch", "presentation", "discovered" | video ≥3 min, advertorial/funnel LP |
+| UGC Testimonial | short/mid video | "I tried", "I've been using", "obsessed" | selfie/handheld talking head |
+| Listicle ("X reasons") | — | "reasons", "things", "ways", numeric | numbered on-screen list |
+| Street Interview | — | "asked", "stopped people", "on the street" | interviewer + public |
+| Founder Story | `min_copy_length` ~250 | "I started", "I founded", "our founder" | founder narrator |
+| Demo / Unboxing | video | "how it works", "watch this", "unboxing" | product demo B-roll |
+| Myth-Buster | — | "myth", "stop doing", "you're wrong", "lie" | claim → correction structure |
+
+The concept is a **filter + a confirmation check**, not a guarantee — verify each kept ad actually IS that concept (scan the copy/creative) before logging; drop ones that don't match. Record the confirmed concept in the row's **Notes** (e.g. "Concept: Long-form VSL") so the teardown files it under the right Video Format.
 
 ## Step 2 — Hunt both sources
 
@@ -47,7 +74,7 @@ Rank the pool by: **run length (primary) → store revenue tier → number of va
 
 For each, append a row to the **Ad Finds — To Review** database.
 - Data source: `collection://32981cf7-fc4d-4e06-a849-5f6173a312a6` (parent: Ad Swipe File). **Fetch the data source first** to confirm the live schema before writing (schemas change; never write from a cached ID blind).
-- Fill: **Name** (short label, e.g. "PetLab — dog itch UGC"), **Link** (see below — must be a working link), **Store**, **Niche**, **Platform** (Meta/TikTok/Google/FB Library), **Run Length** (e.g. "running since Jan 2026 — 8 months"), **Revenue** (store tier, e.g. "~$1.2M/mo"), **Date Found** (today), **Status = New**.
+- Fill: **Name** (short label, e.g. "PetLab — dog itch UGC"), **Link** (see below — must be a working link), **Store**, **Niche**, **Platform** (Meta/TikTok/Google/FB Library), **Run Length** (e.g. "running since Jan 2026 — 8 months"), **Revenue** (store tier, e.g. "~$1.2M/mo"), **Date Found** (today), **Status = New**, **Notes** (start with `Concept: [concept] ·` then the hook line + FB advertiser-page backup link).
 
 **The Link must open ONE individual ad — this is the #1 thing to get right (confirmed broken twice).** Two hard facts learned the hard way:
 
