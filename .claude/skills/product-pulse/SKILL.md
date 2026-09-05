@@ -6,8 +6,8 @@ description: >
   everything real people say about it — praise, complaints, objections,
   the exact words they use — filters out the noise, and returns one concise
   breakdown he can turn into ad angles and page copy. Trigger on
-  "/product-pulse <product>", "what are people saying about <product>",
-  "research this product", "run a pulse on <product>", or any request to
+  "/product-pulse [product]", "what are people saying about [product]",
+  "research this product", "run a pulse on [product]", or any request to
   find real customer chatter / reviews / complaints about a product.
 ---
 
