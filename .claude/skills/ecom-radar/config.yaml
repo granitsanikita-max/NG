@@ -1,0 +1,48 @@
+# ecom-radar config — tune this, the tool reads it every run.
+# Add/remove queries and accounts freely. Keep queries specific to what YOU
+# actually do: dropshipping brands, ad creative (Meta/TikTok UGC), store/CRO,
+# product research, offers, scaling.
+
+recency: "qdr:d"          # qdr:d = last 24h, qdr:w = last week (fallback if a day is dead)
+per_query_limit: 10       # results pulled per query
+domains: ["x.com", "twitter.com"]
+
+# Each query is run site-filtered to the domains above. Group = the bucket it
+# feeds in the digest.
+queries:
+  ad_creative:
+    - "dropshipping ad creative hook"
+    - "UGC ad angle winning"
+    - "meta ads creative testing dropshipping"
+    - "tiktok ad hook ecom"
+    - "AI UGC ad dropshipping"
+  product_research:
+    - "winning product dropshipping"
+    - "tiktok shop trending product"
+    - "product research method ecom"
+  store_cro:
+    - "shopify product page conversion"
+    - "ecom landing page CRO"
+    - "AOV upsell bundle shopify"
+  scaling_testing:
+    - "scaling meta ads dropshipping"
+    - "ad testing framework ecom"
+    - "meta ads CBO ABO structure"
+  offers:
+    - "ecom offer angle"
+    - "dropshipping offer bundle discount"
+
+# Operators worth watching — read full threads from these when they show up.
+# These are known operators, not course-sellers. Trim/add as you learn who's real.
+watch_accounts:
+  - "sourfraser"        # Fraser Cottrell — Meta/TikTok ad creative
+  - "kamil_sattar"      # Ecom King
+  - "ruben_vdzr"        # brand vs dropship operator
+
+# Hard filters — kill anything that's mostly this.
+reject_signals:
+  - "course / mentorship / community shill (guide.*.io, 'DM me', 'link in bio', 'free course')"
+  - "income flexing with no method ('$1k days', 'made $X', screenshots only)"
+  - "pure mindset / motivation, no executable step"
+  - "engagement bait ('like if', 'comment X', giveaways)"
+  - "already in ecom-radar/knowledge.md (novelty check)"
