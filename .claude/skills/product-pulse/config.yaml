@@ -1,0 +1,46 @@
+# product-pulse config — tune the search net here.
+# {term} is replaced with each expanded term (generic category + brand names).
+# {problem} is the pain the product solves.
+
+domains:
+  reddit: ["reddit.com"]
+  x: ["x.com", "twitter.com"]
+
+per_query_limit: 8
+recency: null        # null = all-time (VoC doesn't expire). set "qdr:m"/"qdr:y" for recent-only.
+
+# Search angles. Each is run on BOTH X and Reddit unless noted.
+query_templates:
+  reviews:
+    - "{term} review"
+    - "{term} honest review"
+    - "{term} does it work"
+  worth_it:
+    - "{term} worth it"
+    - "is {term} worth buying"
+  complaints:
+    - "{term} complaints"
+    - "{term} problems"
+    - "{term} scam"
+    - "{term} waste of money"
+    - "{term} regret buying"
+  results:
+    - "{term} before after results"
+    - "{term} did it help"
+  comparison:
+    - "{term} vs"
+    - "best {term} which one"
+  problem_first:              # buyers describe the problem, not the SKU
+    - "how to fix {problem}"
+    - "{problem} what actually worked"
+
+# Noise to strip on X — keyword-match hits that aren't about the product.
+noise_signals:
+  - "unrelated 'review' (video game, movie, car, phone, software/LLM release)"
+  - "news / politics / sports that happens to contain the term"
+  - "accounts selling the product (vendor promo, affiliate spam) — not a real buyer voice"
+  - "off-topic use of the word (metaphor, brand collision)"
+
+# Optional: seed known-good subreddits per niche to search directly.
+# Leave empty to let the tool discover them from results.
+subreddit_hints: []
