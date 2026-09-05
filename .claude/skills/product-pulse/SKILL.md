@@ -60,22 +60,44 @@ Don't guess a product and burn a scan on the wrong thing.
 ## Pipeline
 
 1. **Expand** the product into the term set above.
-2. **Search** X + Reddit across these angles (run in parallel; ~2-3 terms per
-   angle, mixing generic + brand):
-   - `<term> review` / `<term> honest review`
-   - `<term> worth it` / `does <term> work`
-   - `<term> complaints` / `<term> problems` / `<term> scam` / `<term> waste of money`
-   - `<term> before after` / results
-   - `<term> vs <alternative>`
-   - problem phrasing: `how to fix <problem>`, `<problem> what worked`
-   See `config.yaml` for the editable template and subreddit hints.
+2. **Search WIDE — this is the whole point.** Nikita wants the AVERAGE of
+   what everyone says, not one loud commenter. So gather a large sample:
+   **run 25-45 searches minimum** (budget ~150-300 comment snippets after
+   dedup). Each `firecrawl_search` result description is a real comment, so
+   more searches = more comments. Hit every angle below, on BOTH X and Reddit,
+   AND vary the phrasing (each rephrase surfaces different comments from the
+   same and new threads):
+   - `<term> review` / `<term> honest review` / `<term> real review`
+   - `<term> worth it` / `does <term> work` / `is <term> a gimmick`
+   - `<term> complaints` / `<term> problems` / `<term> scam` / `<term> waste of money` / `<term> returned it` / `<term> regret`
+   - `<term> before after` / `<term> results` / `<term> life changing`
+   - `<term> vs <alternative>` / `best <term> which one`
+   - problem phrasing: `how to fix <problem>`, `<problem> what worked`, `<problem> desperate`
+   - re-run the winners with the brand names and with each specific sub-audience
+     term (e.g. crochet, gaming, arthritis, gift for mom).
+   Run in parallel batches of ~4-5. If you hit HTTP 429, pause and continue —
+   don't stop the sweep early. Do NOT declare the pulse done after 4-6
+   searches; that's a sample of one opinion, which is exactly what Nikita said
+   not to do. See `config.yaml` for the editable template and subreddit hints.
 3. **Relevance filter** — drop anything that only keyword-matches but isn't
    about this product or its category (the X noise: game reviews, car reviews,
    LLM reviews, etc.). A hit survives only if a real person is talking about
    using / buying / considering THIS product or type of product.
-4. **Read bodies** — open the strongest Reddit threads (and any high-signal X
-   posts) so you quote what people actually said, not the search snippet.
-   Reddit comment sections are where the gold is — read them.
+4. **Dedup + aggregate — report the AVERAGE, not anecdotes.** Collect all
+   comment snippets, dedup by thread+text. Then for each bucket, count how
+   many DISTINCT comments express each theme and report it with rough
+   frequency, not as one person's line:
+   - Lead each point with the consensus + weight: "Most common complaint
+     (~N of the ~M comments on this): …", "Recurring across K threads: …",
+     "A minority (~X) say …".
+   - Give an overall **sentiment split** at the top (rough % positive /
+     mixed / negative) based on the sample.
+   - Only AFTER the aggregated claim, back it with 1-2 representative verbatim
+     quotes + exact links. Quotes illustrate the average; they are not the
+     finding. Never build a bucket from a single comment — if only one person
+     said it, label it "isolated, low signal" or drop it.
+   State the sample size honestly ("based on ~N comments sampled across M
+   threads"). If the sample is thin, say so rather than overclaiming a consensus.
 5. **Cluster** everything into these VoC buckets:
    - **💚 What they love** — praise, results, delight, what over-delivers
    - **💢 Complaints / pain points** — what fails, breaks, disappoints, returns
@@ -90,8 +112,13 @@ Don't guess a product and burn a scan on the wrong thing.
 7. **So-what** — end with a short, punchy section: the 3-5 ad angles / hooks
    this research hands him, and the objections his page must kill. This is the
    payoff — don't skip it.
-8. **Save** the full report to `product-research/<product-slug>-<date>.md` and
-   tell Nikita the path. Offer to file it into Notion if he wants.
+8. **Save + publish to Notion.** Save the full report to
+   `product-research/<product-slug>-<date>.md` AND write it to the Notion page
+   **"Comments from X"** (page id `3d2d5312-3cd6-8133-ae12-e2fc78d14bf6`) —
+   this is the running home for all product-pulse research. Add each product as
+   its own new section at the TOP of that page (`notion-update-page`,
+   `insert_content`, `position: start`), newest first, so older reports stay
+   below. Tell Nikita the local path and confirm it's on the Notion page.
 
 ## EXACT LINKS ONLY
 
@@ -108,10 +135,11 @@ search its text to get the permalink, or drop it. Strip tracking params and
 
 ```
 # Product Pulse — <product>
-Sources: <N> Reddit threads, <M> X posts. (<K> hits filtered as noise.)
+Sample: ~<N> comments across <M> threads. Sentiment: ~<x>% positive / <y>% mixed / <z>% negative.
 
 ## 💚 What they love
-- <point> — "<verbatim quote>" — <exact link>
+- **Most common:** <theme> (~N of ~M) — "<representative quote>" — <exact link>
+- <next most common theme, with weight> — <link>
 
 ## 💢 Complaints / pain points
 - ...
