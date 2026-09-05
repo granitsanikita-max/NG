@@ -49,11 +49,16 @@ For each, append a row to the **Ad Finds — To Review** database.
 - Data source: `collection://32981cf7-fc4d-4e06-a849-5f6173a312a6` (parent: Ad Swipe File). **Fetch the data source first** to confirm the live schema before writing (schemas change; never write from a cached ID blind).
 - Fill: **Name** (short label, e.g. "PetLab — dog itch UGC"), **Link** (see below — must be a working link), **Store**, **Niche**, **Platform** (Meta/TikTok/Google/FB Library), **Run Length** (e.g. "running since Jan 2026 — 8 months"), **Revenue** (store tier, e.g. "~$1.2M/mo"), **Date Found** (today), **Status = New**.
 
-**The Link must actually open — this is the #1 thing to get right (confirmed broken once).** WinningHunter's `productid` is **NOT** a Facebook Ad Library archive ID. Building `facebook.com/ads/library/?id=<productid>` produces a dead "this ad isn't on Facebook" link. Do not do it. Instead, log the **advertiser's Ad Library page**, built from the ad's `page_id`:
+**The Link must open ONE individual ad — this is the #1 thing to get right (confirmed broken twice).** Two hard facts learned the hard way:
 
-  `https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&view_all_page_id=<PAGE_ID>`
+  1. WinningHunter's `productid` is **NOT** a Facebook Ad Library archive ID — `facebook.com/ads/library/?id=<productid>` is a dead "ad isn't on Facebook" link.
+  2. Facebook Ad Library **no longer isolates a single ad at all.** Even a *real* archive ID (`?id=<real_library_id>`) now renders the advertiser's entire grid ("~460 results"), not one ad. And `view_all_page_id=<page_id>` is a pure advertiser list with no target ad. Neither gives Nikita the one ad he wants.
 
-  This always resolves and shows every ad that advertiser is running (the winner will be near the top by longevity). Put the specific ad's identifying details — start date, hook line, format — in **Notes** so the exact creative is findable on that page (the ad-teardown skill's browser pull then binds to the specific ad by its real `deeplink_ad_archive` id). For a Winning Hunter link, use the `app.winninghunter.com/ad/<id>` share URL instead — that one resolves inside WH. Never invent or guess a `?id=` archive link.
+  **So log the WinningHunter single-ad share URL** — it opens exactly one ad, and Nikita is logged into WH:
+
+  `https://app.winninghunter.com/ad/<productid>?platform=meta`
+
+  Use the specific target ad's `productid` (the longest-running creative for that store). This is also a link the ad-teardown skill accepts directly. Put the store's FB Ad Library page (`…view_all_page_id=<page_id>`) and the ad's start date + hook in **Notes** as a backup reference. Never log a bare `facebook.com/ads/library/?id=…` link — it will not show a single ad.
 - **Dedup:** before adding, query the database for the Link; if it's already there, skip it (don't create duplicate rows). Since the Link is now per-advertiser, also skip if the same **Store** is already logged for this niche unless it's a genuinely different product/angle.
 
 ## Step 4 — Report
