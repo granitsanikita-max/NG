@@ -1,9 +1,43 @@
 # Step 1 — Deep Market Research: Lymphatic Drainage Drops
 
-**Product:** Herbal lymphatic-support drops (30ml dropper, $39.99) — Stillingia Root, Cleavers, Prickly Ash Bark, Red Clover Blossom.
-**Our brand:** "The honest one in a category of liars." Radical transparency — real Certificate of Analysis + exact mg dosing shown, genuine one-click-cancel, no fake urgency, stark clinical black-on-white identity vs. everyone's warm-pastel confession advertorials.
+**Product:** Herbal lymphatic-drainage drops (60ml dropper) — CJ Dropshipping 10-herb blend (Burdock, Ginger, Echinacea, Red Clover, Elderberry, Milk Thistle, Dandelion, Astragalus, Cleavers, Calendula). Landed AUD $11.48/single. Sell price AUD $59.99. *(Note: this CJ blend is broader than Lymphoria's 4-herb formula — only Cleavers + Red Clover overlap. Four of its herbs — Burdock, Dandelion, Red Clover, Cleavers — are still in the same 1800s "alterative" tradition, so the honest-history angle still holds; the discovery story is reframed to this blend's real ingredients, not the 4-herb claim.)*
+**Market:** Australia (AUD, AU-targeted). Voice-of-customer research below is US-heavy (largest English discourse pool) but the pains/objections/voice map directly to the AU market.
+**Our brand:** see the **Brand Positioning** section immediately below — the locked whole-brand identity, not just an ad angle.
 
 > **Sourcing note:** Every load-bearing claim below carries a real quote + source URL from the research (Reddit, Trustpilot, Amazon, WinningHunter live ad data, medical literature, historical pharmacopeia). Reddit/Trustpilot snippets are marked [VERIFY] where exact wording should be reconfirmed at the URL before going into live creative. Historical claims were run through an adversarial fact-check (see §20).
+
+---
+
+## 🎯 BRAND POSITIONING (locked) — the whole-brand identity, not an ad angle
+
+**The problem this solves:** the market is saturated with million-dollar incumbents (Lymphoria $17.6–32M/mo, Sculptique, etc.). We cannot outspend them. We can only beat them by owning an **identity they structurally cannot copy.** Transparency alone is a feature a rich competitor bolts on next week — not a moat. So the brand is built on identity + enemy + attitude.
+
+**The model we steal:** **Liquid Death.** Canned water — a zero-differentiation commodity vs. billion-dollar giants — won with no product advantage and little money by selling an *identity and attitude* (anti-corporate, irreverent), not water benefits. Coke structurally can't become Liquid Death. We do the same to the lymph-drops category.
+
+**What we stand FOR:** telling women the truth about their bodies and about wellness products — *including* when the truth is "this won't fix everything" or "here's the free thing that works better."
+
+**What we stand AGAINST (the enemy):** the scammy wellness-supplement machine — fake doctors, fake countdown timers, hidden subscriptions, "dissolve your lymph sludge" claims nobody can back up, $30M brands treating tired women as marks. **The enemy is not bloat — it's the industry lying to her.**
+
+**Why it's a real moat (uncopyable, and beats money):**
+- It's an **identity she joins** ("I'm done being scammed — I found the one honest one"), not a product she buys → tribe loyalty + free word-of-mouth, which is how a broke brand out-competes a rich one.
+- **Incumbents literally cannot follow us** — the whole brand exposes exactly what they do. If Lymphoria went "anti-scam," they'd indict their own documented hidden-subs/fake-urgency/no-COA reviews. We weaponize their business model against them.
+- **Turns our weakness into the weapon** — scrappy new underdog vs. slick million-dollar liars = David vs. Goliath, and people root for David.
+
+**How it shows up across the WHOLE store (not one ad):**
+- **About page = a manifesto:** "We started this because we were sick of watching this industry rob women with fake doctors and countdown timers. So we built the opposite."
+- **Product page:** real lab report front-and-centre + a "how to spot a lymph-drops scam" checklist (implicitly indicts every competitor without naming one).
+- **One-click cancel + no fake urgency = proof of the mission,** shown off loudly *because* it's what the enemy won't do.
+- **Ads:** "Here's what the $30M lymph brands don't want you to know" — blunt, funny, anti-BS; never soft-pastel confession.
+- **Reviews:** show the *negative* ones too, openly — a move so far outside the category it becomes proof of everything.
+- **Voice:** a blunt, funny friend who's also a whistleblower — never "wellness goddess."
+
+**One-line brand:** *We're not another lymphatic drops brand. We're the people calling out the whole scammy wellness-supplement racket — and selling the one product that's actually done honestly.* Category owned = **"honest / anti-scam wellness."**
+
+**Two hard guardrails (or it backfires catastrophically):**
+1. **We must actually BE clean** — one fake timer or sneaky subscription and the hypocrisy detonates harder than for any normal brand. This forces the honest funnel (a feature, not a bug).
+2. **Attack the *pattern*, never name-and-shame a specific competitor** — "Lymphoria is a scam" = defamation risk. "The lymph-drops industry is full of fake doctors and hidden subscriptions — here's how to spot them" = fair, safe, hits just as hard.
+
+**So What →** This is the spine. §2 (Purple Ocean), §4 (Contrast), §13B (Discovery), §14 (Voice) and the Funnel Map all execute THIS identity. The transparency/clinical elements are the *proof* of the mission, not the mission itself.
 
 ---
 
@@ -28,23 +62,23 @@ Category = **dietary supplement making structure/function claims.** The brand's 
 
 ---
 
-## 💰 Economics & KPIs (estimate — confirm landed cost to finalize)
+## 💰 Economics & KPIs (AUD — real CJ Dropshipping costs)
 
-⚠️ Landed cost is an **estimate** — a 30ml herbal tincture private-labels cheaply ($2–5/unit landed at low MOQ). Using **$4/unit** as a placeholder. Processing 3%. Pick/pack ~$2/order. **Send real COGS to lock these numbers.**
+Real landed cost from CJ: product **AUD $1.30** + shipping **AUD $10.18** = **AUD $11.48 landed per single order.** Processing 3%. Sell price AUD $59.99 single. **The AUD $10.18 shipping is per-ORDER, not per-bottle** — so a 3-pack barely adds shipping and per-unit margin jumps past 85%. (3-bottle figures below use an estimated ~AUD $15 consolidated shipping — confirm exact 3PCS shipping in CJ to finalize the bundle row.)
 
-| Metric | Single bottle $39.99 | 3-bottle bundle $79.99 |
+| Metric | Single AUD $59.99 | 3-bottle bundle AUD $119.99 (est) |
 |---|---|---|
-| Landed cost | $4.00 (est) | $12.00 (est) |
-| Processing (3%) | $1.20 | $2.40 |
-| Pick/pack | $2.00 | $3.00 |
-| **Contribution margin $** | **$32.79** | **$62.59** |
-| **Contribution margin %** | **82%** | **78%** |
-| **Break-even ROAS** | **1.22** | **1.28** |
-| **Break-even CPA** | **$32.79** | **$62.59** |
-| Target CPA @ ~20% net | $24.79 (ROAS 1.61) | $46.59 (ROAS 1.72) |
-| Target CPA @ ~30% net | $20.79 (ROAS 1.92) | $38.59 (ROAS 2.07) |
+| Product cost | $1.30 | $3.90 |
+| Shipping | $10.18 | ~$15.00 (est, consolidated) |
+| Processing (3%) | $1.80 | $3.60 |
+| **Contribution margin $** | **$46.71** | **~$97.49** |
+| **Contribution margin %** | **78%** | **~81%** |
+| **Break-even ROAS** | **1.28** | **~1.23** |
+| **Break-even CPA** | **$46.71** | **~$97.49** |
+| Target CPA @ ~20% net | $34.71 (ROAS 1.73) | ~$73.49 (ROAS 1.63) |
+| Target CPA @ ~30% net | $28.71 (ROAS 2.09) | ~$61.49 (ROAS 1.95) |
 
-**So What →** Margins are excellent (typical for a cheap-COGS tincture). The category AOV runs ~$63 (Lymphoria) because everyone bundles — push a 3-bottle offer to lift AOV, but the single at 82% CM means even a break-even ROAS of ~1.2 is survivable while testing on a few hundred dollars. **Kill line: CPA above ~$33 on the single. Scale line: CPA under ~$21.**
+**So What →** Margins are strong (78% single, ~81% bundle). The single-order AUD $10.18 flat shipping is the one drag — which is exactly why the **3-bottle bundle is the hero offer**: shipping consolidates, per-unit cost collapses, margin climbs. **Kill line: CPA above ~$46 on the single. Scale line: CPA under ~$29.** Push the bundle hard in cart/upsell (§ Funnel Map).
 
 ---
 
