@@ -1,0 +1,284 @@
+<title>LucenWell Identity</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&family=Hanken+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    color-scheme: light;
+    --paper:#F4F1EA;        /* cream */
+    --paper-card:#FBFAF6;   /* lighter cream for panels */
+    --ink:#121212;          /* charcoal */
+    --ink-soft:#5c5751;     /* warm grey text */
+    --teal:#0E6E6E;         /* accent */
+    --teal-deep:#0B5555;
+    --line:rgba(18,18,18,0.12);
+    --line-on-dark:rgba(244,241,234,0.18);
+    --wm-track:0.30em;
+    --font-display:'Jost', system-ui, sans-serif;
+    --font-util:'Hanken Grotesk', system-ui, sans-serif;
+  }
+  *{box-sizing:border-box;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--font-util);
+    -webkit-font-smoothing:antialiased;
+    line-height:1.5;
+  }
+  .wrap{max-width:960px;margin:0 auto;padding-block:48px 64px;padding-left:20px;padding-right:20px;}
+
+  /* ---- header ---- */
+  .masthead{display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap;padding-bottom:28px;border-bottom:1px solid var(--line);margin-bottom:40px;}
+  .eyebrow{font-family:var(--font-util);font-weight:600;font-size:12px;letter-spacing:0.22em;text-transform:uppercase;color:var(--teal);}
+  .masthead .meta{font-size:12px;letter-spacing:0.14em;text-transform:uppercase;color:var(--ink-soft);}
+
+  section{margin-bottom:26px;}
+  .caption{font-size:11.5px;letter-spacing:0.18em;text-transform:uppercase;color:var(--ink-soft);margin-top:14px;}
+  .caption b{color:var(--ink);font-weight:600;}
+
+  /* ---- the mark ---- */
+  .drop{display:inline-block;vertical-align:middle;}
+  .drop .body{fill:var(--teal);}
+  .drop .tide{fill:var(--cut,var(--paper));}
+  .drop.mono .body{fill:var(--ink);}
+
+  /* ---- wordmark ---- */
+  .wm{
+    font-family:var(--font-display);
+    font-weight:400;
+    letter-spacing:var(--wm-track);
+    text-transform:uppercase;
+    color:var(--ink);
+    white-space:nowrap;
+    padding-left:var(--wm-track); /* balance the trailing track */
+  }
+  .lockup-primary{display:flex;align-items:center;justify-content:center;gap:0;}
+  .lockup-primary .wm{font-size:clamp(30px,7vw,58px);}
+  .lockup-primary .drop{margin:0 0.32em;transform:translateY(-2px);}
+
+  /* hero panel */
+  .hero{
+    background:var(--paper-card);
+    border:1px solid var(--line);
+    border-radius:12px;
+    padding:64px 24px;
+    --cut:var(--paper-card);
+    text-align:center;
+  }
+
+  /* two-up */
+  .two{display:grid;grid-template-columns:1fr 1fr;gap:20px;}
+  .panel{border-radius:12px;padding:52px 20px;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:190px;}
+  .panel.dark{background:var(--ink);--cut:var(--ink);}
+  .panel.dark .wm{color:var(--paper);}
+  .panel.dark .cap{color:rgba(244,241,234,0.55);}
+  .panel.light{background:var(--paper-card);border:1px solid var(--line);--cut:var(--paper-card);}
+  .panel .lockup-primary .wm{font-size:clamp(22px,5vw,34px);}
+  .panel .cap{font-size:11px;letter-spacing:0.18em;text-transform:uppercase;color:var(--ink-soft);margin-top:22px;}
+
+  /* lockups grid */
+  .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
+  .tile{background:var(--paper-card);border:1px solid var(--line);border-radius:12px;padding:34px 18px 20px;--cut:var(--paper-card);display:flex;flex-direction:column;align-items:center;justify-content:flex-start;min-height:200px;}
+  .tile .fill{flex:1;display:flex;align-items:center;justify-content:center;width:100%;}
+  .tile .cap{font-size:10.5px;letter-spacing:0.16em;text-transform:uppercase;color:var(--ink-soft);}
+  .tile .cap b{color:var(--ink);font-weight:600;}
+
+  /* horizontal lockup (mixed case, true spelling) */
+  .horiz{display:flex;align-items:center;gap:12px;}
+  .horiz .name{font-family:var(--font-display);font-weight:500;font-size:26px;letter-spacing:0.01em;color:var(--ink);text-transform:none;}
+  .horiz .name .a{color:var(--ink);}
+  .horiz .name .b{color:var(--teal-deep);}
+
+  /* stacked */
+  .stack{display:flex;flex-direction:column;align-items:center;gap:12px;}
+  .stack .wm{font-size:24px;}
+  .stack .tag{font-size:9.5px;letter-spacing:0.34em;text-transform:uppercase;color:var(--ink-soft);padding-left:0.34em;}
+
+  /* favicon sizes */
+  .favrow{background:var(--paper-card);border:1px solid var(--line);border-radius:12px;padding:28px 24px;--cut:var(--paper-card);display:flex;align-items:flex-end;gap:34px;flex-wrap:wrap;}
+  .favchip{display:flex;flex-direction:column;align-items:center;gap:12px;}
+  .favchip .n{font-size:10px;letter-spacing:0.12em;color:var(--ink-soft);}
+  .favchip .sq{background:var(--ink);border-radius:22%;display:flex;align-items:center;justify-content:center;--cut:var(--ink);}
+
+  /* system row */
+  .sys{display:grid;grid-template-columns:1.15fr 1fr;gap:20px;}
+  .card{background:var(--paper-card);border:1px solid var(--line);border-radius:12px;padding:24px;}
+  .card h3{font-family:var(--font-util);font-size:11px;font-weight:600;letter-spacing:0.2em;text-transform:uppercase;color:var(--ink-soft);margin:0 0 16px;}
+  .swatches{display:flex;flex-direction:column;gap:10px;}
+  .sw{display:flex;align-items:center;gap:12px;font-size:12.5px;}
+  .sw .chip{width:34px;height:34px;border-radius:8px;border:1px solid var(--line);flex:none;}
+  .sw .nm{font-weight:600;color:var(--ink);}
+  .sw .hex{color:var(--ink-soft);font-family:var(--font-util);letter-spacing:0.03em;margin-left:auto;font-variant-numeric:tabular-nums;}
+  .typ-row{margin-bottom:18px;}
+  .typ-row:last-child{margin-bottom:0;}
+  .typ-big{font-family:var(--font-display);font-weight:300;font-size:34px;letter-spacing:0.04em;color:var(--ink);line-height:1.1;}
+  .typ-big.util{font-family:var(--font-util);font-weight:600;letter-spacing:0;font-size:26px;}
+  .typ-meta{font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:var(--ink-soft);margin-top:8px;}
+
+  .note{margin-top:36px;padding-top:24px;border-top:1px solid var(--line);font-size:13.5px;color:var(--ink-soft);max-width:60ch;}
+  .note b{color:var(--ink);font-weight:600;}
+
+  h2.sec{font-family:var(--font-util);font-weight:600;font-size:12px;letter-spacing:0.2em;text-transform:uppercase;color:var(--ink-soft);margin:0 0 14px;}
+
+  @media(max-width:640px){
+    .two,.grid3,.sys{grid-template-columns:1fr;}
+    .hero{padding:48px 18px;}
+  }
+</style>
+
+<div class="wrap">
+
+  <div class="masthead">
+    <span class="eyebrow">LucenWell · Visual Identity</span>
+    <span class="meta">Direction 1 — Clinical</span>
+  </div>
+
+  <!-- PRIMARY -->
+  <section>
+    <div class="hero">
+      <div class="lockup-primary">
+        <span class="wm">Lucen</span>
+        <svg class="drop" width="34" height="38" viewBox="0 0 24 27" aria-hidden="true">
+          <path class="body" d="M12 1.2C12 1.2 3.6 11.6 3.6 17.2a8.4 8.4 0 0 0 16.8 0C20.4 11.6 12 1.2 12 1.2Z"/>
+          <rect class="tide" x="4.4" y="17.4" width="15.2" height="1.7"/>
+        </svg>
+        <span class="wm" style="padding-left:0;">Well</span>
+      </div>
+    </div>
+    <div class="caption"><b>Primary logo</b> — the drop is the product; the tide line is the mechanism</div>
+  </section>
+
+  <!-- REVERSED + MONO -->
+  <section>
+    <div class="two">
+      <div class="panel dark">
+        <div class="lockup-primary">
+          <span class="wm">Lucen</span>
+          <svg class="drop" width="22" height="25" viewBox="0 0 24 27" aria-hidden="true">
+            <path class="body" d="M12 1.2C12 1.2 3.6 11.6 3.6 17.2a8.4 8.4 0 0 0 16.8 0C20.4 11.6 12 1.2 12 1.2Z"/>
+            <rect class="tide" x="4.4" y="17.4" width="15.2" height="1.7"/>
+          </svg>
+          <span class="wm" style="padding-left:0;">Well</span>
+        </div>
+        <div class="cap">Reversed — on charcoal</div>
+      </div>
+      <div class="panel light">
+        <div class="lockup-primary">
+          <span class="wm">Lucen</span>
+          <svg class="drop mono" width="22" height="25" viewBox="0 0 24 27" aria-hidden="true">
+            <path class="body" d="M12 1.2C12 1.2 3.6 11.6 3.6 17.2a8.4 8.4 0 0 0 16.8 0C20.4 11.6 12 1.2 12 1.2Z"/>
+            <rect class="tide" x="4.4" y="17.4" width="15.2" height="1.7"/>
+          </svg>
+          <span class="wm" style="padding-left:0;">Well</span>
+        </div>
+        <div class="cap">Single-colour (charcoal)</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- LOCKUPS -->
+  <section>
+    <h2 class="sec">Lockups</h2>
+    <div class="grid3">
+      <div class="tile">
+        <div class="fill">
+          <div class="horiz">
+            <svg class="drop" width="26" height="29" viewBox="0 0 24 27" aria-hidden="true">
+              <path class="body" d="M12 1.2C12 1.2 3.6 11.6 3.6 17.2a8.4 8.4 0 0 0 16.8 0C20.4 11.6 12 1.2 12 1.2Z"/>
+              <rect class="tide" x="4.4" y="17.4" width="15.2" height="1.7"/>
+            </svg>
+            <span class="name"><span class="a">Lucen</span><span class="b">Well</span></span>
+          </div>
+        </div>
+        <div class="cap"><b>Horizontal</b> · site header</div>
+      </div>
+
+      <div class="tile">
+        <div class="fill">
+          <div class="stack">
+            <svg class="drop" width="30" height="34" viewBox="0 0 24 27" aria-hidden="true">
+              <path class="body" d="M12 1.2C12 1.2 3.6 11.6 3.6 17.2a8.4 8.4 0 0 0 16.8 0C20.4 11.6 12 1.2 12 1.2Z"/>
+              <rect class="tide" x="4.4" y="17.4" width="15.2" height="1.7"/>
+            </svg>
+            <span class="wm">LucenWell</span>
+            <span class="tag">Lymphatic Drainage Drops</span>
+          </div>
+        </div>
+        <div class="cap"><b>Stacked</b> · packaging</div>
+      </div>
+
+      <div class="tile">
+        <div class="fill">
+          <svg class="drop" width="58" height="65" viewBox="0 0 24 27" aria-hidden="true">
+            <path class="body" d="M12 1.2C12 1.2 3.6 11.6 3.6 17.2a8.4 8.4 0 0 0 16.8 0C20.4 11.6 12 1.2 12 1.2Z"/>
+            <rect class="tide" x="4.4" y="17.4" width="15.2" height="1.7"/>
+          </svg>
+        </div>
+        <div class="cap"><b>Mark</b> · icon / avatar</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAVICON SIZES -->
+  <section>
+    <h2 class="sec">The mark holds down to a favicon</h2>
+    <div class="favrow">
+      <div class="favchip">
+        <div class="sq" style="width:72px;height:72px;">
+          <svg class="drop" width="40" height="45" viewBox="0 0 24 27"><path class="body" d="M12 1.2C12 1.2 3.6 11.6 3.6 17.2a8.4 8.4 0 0 0 16.8 0C20.4 11.6 12 1.2 12 1.2Z"/><rect class="tide" x="4.4" y="17.4" width="15.2" height="1.7"/></svg>
+        </div>
+        <span class="n">72px</span>
+      </div>
+      <div class="favchip">
+        <div class="sq" style="width:48px;height:48px;">
+          <svg class="drop" width="26" height="29" viewBox="0 0 24 27"><path class="body" d="M12 1.2C12 1.2 3.6 11.6 3.6 17.2a8.4 8.4 0 0 0 16.8 0C20.4 11.6 12 1.2 12 1.2Z"/><rect class="tide" x="4.4" y="17.4" width="15.2" height="1.7"/></svg>
+        </div>
+        <span class="n">48px</span>
+      </div>
+      <div class="favchip">
+        <div class="sq" style="width:32px;height:32px;">
+          <svg class="drop" width="17" height="19" viewBox="0 0 24 27"><path class="body" d="M12 1.2C12 1.2 3.6 11.6 3.6 17.2a8.4 8.4 0 0 0 16.8 0C20.4 11.6 12 1.2 12 1.2Z"/></svg>
+        </div>
+        <span class="n">32px</span>
+      </div>
+      <div class="favchip">
+        <div class="sq" style="width:20px;height:20px;">
+          <svg class="drop" width="11" height="12" viewBox="0 0 24 27"><path class="body" d="M12 1.2C12 1.2 3.6 11.6 3.6 17.2a8.4 8.4 0 0 0 16.8 0C20.4 11.6 12 1.2 12 1.2Z"/></svg>
+        </div>
+        <span class="n">16px</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- SYSTEM -->
+  <section>
+    <div class="sys">
+      <div class="card">
+        <h3>Palette</h3>
+        <div class="swatches">
+          <div class="sw"><span class="chip" style="background:#F4F1EA"></span><span class="nm">Paper</span><span class="hex">#F4F1EA</span></div>
+          <div class="sw"><span class="chip" style="background:#121212"></span><span class="nm">Ink</span><span class="hex">#121212</span></div>
+          <div class="sw"><span class="chip" style="background:#0E6E6E"></span><span class="nm">Teal</span><span class="hex">#0E6E6E</span></div>
+          <div class="sw"><span class="chip" style="background:#0B5555"></span><span class="nm">Teal Deep</span><span class="hex">#0B5555</span></div>
+          <div class="sw"><span class="chip" style="background:#5c5751"></span><span class="nm">Grey</span><span class="hex">#5C5751</span></div>
+        </div>
+      </div>
+      <div class="card">
+        <h3>Type</h3>
+        <div class="typ-row">
+          <div class="typ-big">Jost</div>
+          <div class="typ-meta">Wordmark · light, wide-tracked</div>
+        </div>
+        <div class="typ-row">
+          <div class="typ-big util">Hanken Grotesk</div>
+          <div class="typ-meta">UI · labels &amp; body</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="note">
+    <b>This is one direction — clinical/premium.</b> Tell me what to change: the wordmark (all-caps vs the mixed-case "LucenWell"), whether the teal is on the drop or a letter, or a warmer/friendlier feel entirely. Once you pick, I export transparent <b>PNG + SVG</b> at Shopify header + favicon sizes, ready to upload.
+  </div>
+
+</div>
