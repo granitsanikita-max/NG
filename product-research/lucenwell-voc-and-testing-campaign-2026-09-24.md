@@ -71,6 +71,35 @@
 
 ---
 
+## 🔥 DEEPER DIG — Amazon / Trustpilot / Mumsnet (the subscription-scam smoking gun)
+
+*Note: Amazon's verbatim review text is sign-in-gated (unscrapeable), so the honest chatter came from Reddit, Mumsnet, Facebook groups, and Trustpilot — where the actual lymphatic-DROPS competitors are reviewed.*
+
+**THE biggest strategic finding: every major lymphatic-drops competitor is getting hammered on Trustpilot for subscription/billing traps.** This is the category's open wound and your sharpest wedge.
+- **Lymphoria** (193 Trustpilot reviews): *"unexpected automatic recurring subscriptions and serious challenges when trying to cancel."* ([link](https://www.trustpilot.com/review/lymphoria.co))
+- **Natures Roots** (4.3, 78 reviews): *"Ignored my cancellation, charged me again, then lied about the refund."* · *"Almost impossible to cancel a subscription you never knew you subscribed to."* · *"I keep getting charged even though I have cancelled."* ([link](https://www.trustpilot.com/review/trynaturesroots.com))
+- Same pattern on Nuflos, Neuropoise, True Nutra — *"unexpected charges / automatic billing without clear awareness."*
+- Facebook groups literally ask: *"Has anyone found a lymphatic drainage product that actually works and is NOT a scam?"*
+
+→ **LucenWell's "no subscription, buy once, keep the bottle" is the direct antidote to the #1 complaint in the entire niche. This should be a lead angle, not fine print.**
+
+**The drops DO work for the right buyer (Trustpilot praise):**
+- *"genuinely help reduce bloating, swelling, and facial puffiness."*
+- *"Easy way to reboot your body and drain your whole system. Great way of reducing bloating."*
+- Praised for *"very easy to use," "pleasant taste," "natural ingredients."* → the drops format itself is a plus (easy, tastes fine) — sell the ease.
+
+**Killer emotional / occasion trigger (verbatim):**
+- *"my wedding is coming up really soon and I have been so insecure about my neck and fluid buildup."* → **event-driven urgency** (wedding, holiday, reunion) + insecurity about neck/face fluid. A whole angle.
+
+**Mumsnet (the exact AU/UK women 40+ demographic, their words):**
+- *"Water retention is a definite symptom of premenopause, and is very common especially during estrogen surges."* ([link](https://www.mumsnet.com/talk/menopause/3277863-Are-anyones-calves-getting-bigger))
+- *"The middle-aged puffy face — is water retention a thing?"* ([link](https://www.mumsnet.com/talk/_chat/4947660-the-middle-aged-puffy-face))
+- *"My HRT belly… I commenced a water retention preparation which helped a little with the hands and feet but not with the belly."* ([link](https://www.mumsnet.com/talk/menopause/4870157-my-hrt-belly))
+
+**Ingredient credibility (what the market trusts):** burdock root (called "the cornerstone" of clinically-studied lymph supplements), cleavers, dandelion, calendula, elderberry, rosehip. Competitor drops (NUTRAHARMONY, the 10-in-1 herbal) lead with these — name yours the same way.
+
+---
+
 # 🚀 THE TESTING CAMPAIGN — formats × angles × concepts
 
 This fuses the **ad-teardown** (winning formats) with the **VoC** (winning angles + real language). Test structure: **3 angles × 3 formats**, hook-led. Judge on 3-sec hold + CTR first, then CPA.
