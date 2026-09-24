@@ -49,15 +49,21 @@
 - **Mass-produce across:** rings · face-in-photos · waistband by afternoon · ankles/socks · wedding-in-3-weeks. One symptom + one real woman (your generated avatars) each.
 - **Mechanism use:** skeptic states disbelief → small honest reveal (fluid not fat) → concrete proof (rings/face) → the honesty that converted them (they told me what it can't do) → soft CTA.
 
-### 🎬 Concept V3 — Founder / Borrowed-Authority × Angle C + honesty
-- **Format:** Founder-to-camera / borrowed-authority explainer (Emma "Dr. Gina Sam," Gundry model).
-- **Modeled-on skeleton:** **Belief-changework Ad Body** 🔥 Elite (flip belief → authority via facts → twist the knife → common enemy + remove blame → product as mechanism → payoff → proof → CTA) + **Borrowed-Authority Story VSL** (Uproot grandpa) + **Storytelling Ad — Open Loop / Authority.**
-- **Awareness:** Problem Aware → Solution Aware · **Funnel:** TOF · **Length:** Mid (1–3 min) · **70/20/10:** 70% proven.
-- **3 exact hooks to test** (Myth-Busting + Authority, filled):
-  1. *"The lymph 'detox' you keep seeing on TikTok is a lie — here's what's actually happening to your body."* (src: Myth-Busting "Everything you've heard about ___ is wrong. Here's the truth.")
-  2. *"I started this brand because the debloat industry lied to me. Let me show you the difference in 30 seconds."* (src: Authority origin + de-influence)
-  3. *"Your puffiness isn't fat, and it isn't your fault — and I can prove both."* (src: "No, your ___ is not because [result]")
-- **Mechanism use:** the full Belief-changework body, common enemy = the subscription-trap debloat industry, product as the honest mechanism.
+### 🎬 Concept V3 — Trigger Events Ad (long-form AI-animation VSL) × Angle B + honesty
+- **Format:** Long-form VSL, **AI-animation** ad. Product is *discovered, never pitched,* and enters late.
+- **Modeled-on skeleton (from your Whole Ad Structures):** **Trigger Events Ad — 5-Act (product enters late)** + **Restural (NeuroFuel) — Clinical-Animation Belief-Flip Mechanism VSL** (for the animated mechanism reveal, no face/persona needed).
+- **Awareness:** Problem Aware · **Funnel:** TOF · **Length:** Long-form VSL (3 min+) · **70/20/10:** 70% proven.
+- **The 5 acts, mapped to LucenWell:**
+  1. **Trigger Event** — cold open on the unbearable moment: 5pm at a friend's wedding / a change-room in an outfit that fit last month / rings that won't come off at dinner. Scene + place + witness (partner, friend, the mirror). *"It was 5pm and I caught my reflection and didn't recognise the puffy, tired face looking back."*
+  2. **Rock Bottom** — the spiral + every failed fix: cutting salt, water pills (dehydrated, dizzy), magnesium (nothing), detox teas, the doctor's 5-minute "just try to lose a bit of weight," resigning to "it's just my age / my hormones now."
+  3. **Discovery** — found, not sold: a friend puts her onto it / she stumbles on the honest page that lists what it *can't* do. Never a pitch.
+  4. **Mechanism (the AI-animation centrepiece — SHOWN not claimed)** — animate the lymphatic system: it has **no pump**, it relies on movement; salt + hormones + sitting slow it → fluid pools in face/fingers/ankles/belly (worse by evening). Then the **21 botanicals** supporting the natural **"tide, not a drain."** This is the UMP→UMS reveal, and animation is exactly why this format beats a talking head here.
+  5. **Payoff** — return to the Act 1 scene: same 5pm, same mirror/wedding — now lighter, rings slide off, her face looks like her face; the witness notices. **60-day keep-the-bottle** kills the risk. CTA.
+- **3 exact cold-open hooks to test** (Trigger-scene, from Problem/Pain + Storytelling libraries):
+  1. *"It was 5pm at my best friend's wedding when I caught my reflection — and didn't recognise the puffy, tired face looking back."*
+  2. *"If you've ever stood in a change room in an outfit that fit last month and thought 'what is wrong with me' — watch this."* (src: Problem/Relatable Pain)
+  3. *"The night my rings wouldn't come off, I finally stopped blaming myself."* (src: Storytelling — trigger moment)
+- **Honesty layer:** woven into Act 3–4 (what it can't do) + Act 5 (no subscription, keep the bottle) — keeps our moat inside the story.
 
 ---
 
@@ -101,6 +107,6 @@
 Every one of our 3 video formats already has a proven structure in **Whole Ad Structures** → nothing new to hunt right now:
 - Persona advertorial listicle → Native MSL 🔥 + Belief Body 🔥 + Soleva Confession
 - UGC testimonial → Stamny Problem-Story + Mountain Ice Review-Quote 🔥 + Hero's Journey
-- Founder/authority → Belief Body 🔥 + Borrowed-Authority VSL + Open-Loop/Authority
+- Trigger Events VSL (AI animation) → Trigger Events Ad 5-Act + Restural Clinical-Animation Belief-Flip Mechanism VSL
 
 **Next step = Step 4:** write the scripts from these skeletons + hooks. Recommend starting with **V2 (UGC skeptic testimonial)** — cheapest to produce, most differentiated, matches the mass-produce winner.
