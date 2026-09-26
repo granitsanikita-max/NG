@@ -1,0 +1,327 @@
+[
+ {
+  "format": "The Censored Ad",
+  "matches": [
+   [
+    "2045648729658118",
+    "Whole creative is a heavy blur behind Instagram-style 'Sensitive Content - This image may contain graphic content... Swipe to view' warning with crossed-eye icon: blur + warning label is the entire hook"
+   ],
+   [
+    "1233226031924208",
+    "Lo-fi photo of dog's inflamed groin/belly with a yellow scribble censor bar drawn over the private area - the censor mark is the focal point"
+   ],
+   [
+    "1276372024675667",
+    "Same PetVets creative variant: dog belly rash photo with yellow scribble censoring the genitals"
+   ],
+   [
+    "1365746848733152",
+    "Close-up of dog's red, irritated belly skin with a hand-drawn black blob censoring the private part"
+   ],
+   [
+    "933865893064108",
+    "'The only formula clinically studied to reverse Gluteal Tendinopathy' - the product bottle itself is deliberately blurred out so the blur works as the curiosity CTA"
+   ],
+   [
+    "1373809467525501",
+    "Vet exam-table photo of an open cardboard box whose contents (a puppy/animal) are heavily blurred out - censored reveal"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1847723702598628",
+    "reason": "JSHealth Berberine before/after: faces hidden with emoji stickers for privacy, no blur/warning curiosity device"
+   },
+   {
+    "id": "1397208245617345",
+    "reason": "Terra Wellness 'WARNING: may cause extreme relaxation' - parody warning label but nothing blurred/censored"
+   },
+   {
+    "id": "36082634034716013",
+    "reason": "Elixa 'Please don't buy' review screenshot: top/bottom blurred only as framing, review itself readable"
+   },
+   {
+    "id": "1753702072720633",
+    "reason": "Meke Baby DM screenshot: username redacted for privacy, not a censor hook"
+   },
+   {
+    "id": "1989348658441325",
+    "reason": "Cheryl Bennett mirror selfie with face blanked - privacy, 45d only"
+   },
+   {
+    "id": "1364934085760527",
+    "reason": "Kenneth Baker-Smith exam sheet: name redaction bars only"
+   },
+   {
+    "id": "1378816164204644",
+    "reason": "Cool Breath 'tob*cco' asterisk in headline only - word self-censor, no blur/warning visual"
+   },
+   {
+    "id": "1869892737307672",
+    "reason": "Explicit Essentials asterisked swear words on packaging (also rejected by I4)"
+   }
+  ],
+  "searched": [
+   "full visual re-screen of 3,828 live 45d+ static winners pooled from all agents' saved results (79 contact sheets)",
+   "uncensored",
+   "banned",
+   "graphic (adtext)",
+   "too graphic",
+   "had to blur (API 502)"
+  ],
+  "notes": "Found by visually scanning every pooled image; keyword search is nearly useless because censor bars/blur live in the image. Variants accepted: full blur + 'Sensitive content' warning (Bogey Bros, the textbook example), scribble/blob censor bars over body parts (PetVets News x2, Mary Rooney), and a blurred product/object reveal (Life with menopause, Claire Mitchell). Several advertisers are persona-style advertorial pages; PetVets News runs 1,377 active ads. With I4's LMMountford the format now has 7."
+ },
+ {
+  "format": "Ugly Ads",
+  "matches": [
+   [
+    "782547677808528",
+    "White canvas with product photos and '50% Off + FREE Keychain' scrawled in black MS-Paint mouse handwriting - deliberately crude"
+   ],
+   [
+    "917963453920665",
+    "Cheap clip-art collage: '35% OFF' starburst, 'LIMITED OFFER' badge, 'FREE SHIPPING' truck sticker slapped around a fan - intentionally tacky design"
+   ],
+   [
+    "1606101100591361",
+    "Phone photo of a whiteboard with 'BACK IN STOCK Under $40!!!' in messy red/blue marker above the product box"
+   ],
+   [
+    "1699358354826251",
+    "Open shipping box with 'WAS $118 NOW $69' written in black marker on the flap - scrappy handmade price sign"
+   ],
+   [
+    "1379223819851897",
+    "Whiteboard with 'HELLO!!! WE WANT TO SPONSOR YOU! WE NEED CREATORS' in marker, products taped around it"
+   ],
+   [
+    "2185988315503293",
+    "Raw Facebook comment screenshot with crude hand-drawn green arrows and a lopsided circle around a comment"
+   ],
+   [
+    "1322074816118154",
+    "Doodle-style handwritten 'THE TOILET RINGS NEVER CAME BACK!' with a scribbled arrow on a plain white background"
+   ],
+   [
+    "2510787242695034",
+    "Phone snap of an office whiteboard with marker text 'Boli cie bark? 12-minutowa terapia...' and a doodle, product held in front"
+   ],
+   [
+    "992911530202297",
+    "Literally says 'this ad is ugly because we spent the money on YOUR visitors instead' next to a stick-figure computer doodle"
+   ],
+   [
+    "2983122338702938",
+    "Yellow balloons with faces drawn in marker ('GLP1 alone' vs 'GLP1 + Skin Salt') on a plain wall - scrappy prop photo"
+   ],
+   [
+    "1531894165283610",
+    "'WE'RE SORRY' painted in wobbly red MS-Paint letters with a hand-drawn heart next to the product"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1581108273345158",
+    "reason": "Winterplay crayon 'daddy's website' drawing - valid ugly ad but max 1 kept for this traffic-seller brand"
+   },
+   {
+    "id": "855697000481991",
+    "reason": "Magicwipe: plain product photo with caption bubble, clean not ugly"
+   },
+   {
+    "id": "1974533993328454",
+    "reason": "HappySelf Journal emoji table: simple but tidy design"
+   },
+   {
+    "id": "1634440037849838",
+    "reason": "Furlique typed apology letter - letter format, not low-production ugly"
+   },
+   {
+    "id": "1286168689645224",
+    "reason": "JSHealth story screenshot before/after - UGC format rather than ugly design"
+   }
+  ],
+  "searched": [
+   "full visual re-screen of 3,828 pooled live 45d+ static winners",
+   "ugly (adtext)",
+   "designer (adtext)"
+  ],
+  "notes": "Accepted only creatives that are visibly, deliberately low-production: MS-Paint scrawl, marker on whiteboards/boxes, clip-art starbursts, crude arrows/circles on screenshots, doodles. Excluded the many lo-fi 'native' phone-photo advertorials (different format). Winterplay Studios sells website traffic - kept one ad as the most literal example, flag if you consider the brand too spammy."
+ },
+ {
+  "format": "Problems (List Of)",
+  "matches": [
+   [
+    "971439838789136",
+    "'SIGNS YOUR MAGNESIUM IS DEPLETED' grid of 6 red flags: 3am wake-ups, muscle cramps, restless legs, eye twitching, poor sleep, fatigue"
+   ],
+   [
+    "4555145261399276",
+    "Hand holding a paper sign: 'Bloated? Problem Skin? Can't Poop?' - three stacked daily frictions"
+   ],
+   [
+    "937538452619866",
+    "4-panel grid of stacked body problems: 'HOLLOW FACE', 'CREPEY ARMS', 'PANCAKE BUTT', 'Skinny Fat'"
+   ],
+   [
+    "2394155944441055",
+    "Search-history list of grinding problems: 'why does my jaw hurt', 'TMJ stretches', 'tension headache every morning'..."
+   ],
+   [
+    "1005740401979482",
+    "'HOOG CORTISOL =' red-X list: bloated feeling, digestion problems, belly weight gain, less restful sleep"
+   ],
+   [
+    "1369586614993994",
+    "Device surrounded by arrows to four problems: Loud Snoring, Gasping At Night, Morning Headaches, Brain Fog"
+   ],
+   [
+    "1358193589368927",
+    "'SAY GOODBYE TO INTIMACY KILLERS' with 4 labeled problems: unusual discharge, vaginal odors, itch + burn, bloating"
+   ],
+   [
+    "1003180052641807",
+    "'YOUR SHARPNESS' banner stacking problem chips: Forgetting Names, Mid-sentence Gaps, Zero Motivation, Brain Fatigue, Can't Focus"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1884034518917258",
+    "reason": "House of Ayurveda: checklist of benefits, not problems"
+   },
+   {
+    "id": "1045398527884311",
+    "reason": "Real Health Talk '3 Foot Signs' - only photos, list not shown"
+   },
+   {
+    "id": "2314872822250230",
+    "reason": "Life with menopause hip doodle - 3 pains but advertorial headline format; kept stronger ones"
+   }
+  ],
+  "searched": [
+   "full visual re-screen of 3,828 pooled live 45d+ static winners",
+   "OCR of pooled images for signs/symptoms/struggle"
+  ],
+  "notes": "Many more valid ones exist in the pool (JPGavan '5 signs you need a new bat', Meravae '5 signs your facial hair is hormonal', Nivara low-ferritin symptom icons, Mens Optimum TRT symptom poster) - kept the 8 longest-running. With I4's 3 the format now has 11."
+ },
+ {
+  "format": "Hack 101",
+  "matches": [
+   [
+    "1930633157845301",
+    "Headline card on a model photo: '5 Eyeliner Hacks every Mature makeup Lover needs to know' - pure tip framing"
+   ],
+   [
+    "1670862770950998",
+    "'NO MORE PANDA EYES - A SIMPLE TRICK TO STOP EYELINER SMUDGING' over a smudged-liner face"
+   ],
+   [
+    "3994173764138304",
+    "Traveller in airport with '5 things I do before every flight that almost nobody talks about' (copy: 'Hack number 5...')"
+   ],
+   [
+    "1042105012126296",
+    "Insider tip headline: 'Flight attendants don't use packing cubes. Here's the only thing they pack with instead...'"
+   ],
+   [
+    "2199093850879640",
+    "Minimal tip card: 'BREATHE THROUGH YOUR NOSE - USE MOUTH TAPE' - reads as advice, not a pitch"
+   ],
+   [
+    "1352714373640438",
+    "Illustrated how-to tip: 'Long quicks don't shorten in one cut, they recede over weeks' before/after claw diagram + 'TRY THIS'"
+   ],
+   [
+    "1017216171144414",
+    "'Best travel hack: Shampoo Bar!' headline over the product flat-lay"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "2483892955387308",
+    "reason": "Hostage Tape: 'sleep hack' only in copy, image is a product portrait"
+   },
+   {
+    "id": "1694899171478831",
+    "reason": "Ayurveda Experience 'Lid-Bright technique' - beauty promo, hack only in copy"
+   },
+   {
+    "id": "958336420319344",
+    "reason": "Aeki: plain offer card"
+   },
+   {
+    "id": "1334743055290524",
+    "reason": "2packbag BOGO card"
+   },
+   {
+    "id": "1624002988884856",
+    "reason": "UMEVO: promo card"
+   },
+   {
+    "id": "1521586652163974",
+    "reason": "Nobl: stat card, hack only in quote"
+   },
+   {
+    "id": "3130291840498319",
+    "reason": "Botanique Paris: sale collage, hack only in copy"
+   },
+   {
+    "id": "953389514165148",
+    "reason": "SuperFeast: ingredient hero card"
+   }
+  ],
+  "searched": [
+   "hack (adtext, lastseen)",
+   "life hack",
+   "hack (pa>=30, toprank p1-3)",
+   "hack (dup>=3)",
+   "hacks",
+   "trick (adtext)",
+   "tip (adtext)",
+   "hack (carousel)",
+   "pool keyword+visual re-screen"
+  ],
+  "notes": "Most ads whose COPY says 'hack' show a normal product image; only the 7 above carry the hack/trick/tip framing in the image. Clawbud and Club Kalm are tip-card variants (advice-style headline) rather than the literal word 'hack'."
+ },
+ {
+  "format": "AI Podcast / Interview Clip (Thumbnail)",
+  "matches": [
+   [
+    "1822020389073890",
+    "Podcast-studio thumbnail: host at a boom mic in a dim studio holding the Night Swim coffee bag"
+   ],
+   [
+    "3909116832716113",
+    "YouTube/podcast-style thumbnail: host behind a Shure podcast mic holding the Evolve journal with quote 'AI is going to destroy the journal business?'"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1540524980890659",
+    "reason": "Ace Metaphor 'Tonight's Conversation' - live-show tour poster, not a thumbnail ad for a product"
+   },
+   {
+    "id": "1452406003147616",
+    "reason": "Ben Greenfield/IM8 podcast-guest ad - last seen 2026-04-26 (dead)"
+   },
+   {
+    "id": "1507761107746400",
+    "reason": "Losing 100 Podcast page: before/after image, no podcast visual"
+   }
+  ],
+  "searched": [
+   "podcast (toprank p1-3)",
+   "podcast (pa>=30)",
+   "podcast (pagename)",
+   "my podcast",
+   "rogan",
+   "interview",
+   "episode",
+   "full episode",
+   "sat down with",
+   "on the show",
+   "pool visual re-screen of 3,828 statics"
+  ],
+  "notes": "GENUINELY RARE as a live static: the podcast/interview look is almost always run as VIDEO (see V1 'Podcast'). Only 2 live 45d+ statics found, both single-host podcast-mic thumbnails rather than the two-person layout. 2 of 5."
+ }
+]

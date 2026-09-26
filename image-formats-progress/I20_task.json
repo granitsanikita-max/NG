@@ -1,0 +1,79 @@
+[
+ {
+  "name": "Email Screenshot",
+  "stages": "TOF",
+  "why": "A forwarded email reads as insider info shared between real people.",
+  "already_found": 4,
+  "existing_ids": [
+   "2209992126423130",
+   "1693454488349172",
+   "1473162311505562",
+   "1581505340241185"
+  ]
+ },
+ {
+  "name": "Venn Diagram",
+  "stages": "TOF,MOF",
+  "why": "The product is the only thing at the intersection.",
+  "already_found": 4,
+  "existing_ids": [
+   "1065585565606110",
+   "1876171250433838",
+   "1392109456184660",
+   "1507751674284461"
+  ]
+ },
+ {
+  "name": "Diagram / Flowchart",
+  "stages": "MOF",
+  "why": "Icons connected into one hub. Shows how the pieces fit.",
+  "already_found": 3,
+  "existing_ids": [
+   "1713265843143291",
+   "4160298404106685",
+   "1314956643430539"
+  ]
+ },
+ {
+  "name": "You Can Avoid",
+  "stages": "MOF",
+  "why": "Loss aversion: what to dodge hits harder than a promised gain.",
+  "already_found": 5,
+  "existing_ids": [
+   "2071097293450761",
+   "1340934924067276",
+   "1008135611797990",
+   "1431274435529474",
+   "1387121296590612"
+  ],
+  "note": "Only 3 distinct creatives are valid so far (Online Patios + one 'Avoid Ozempic Vagina' per persona page); need 2+ more DIFFERENT creatives/brands."
+ },
+ {
+  "name": "WhatsApp Text",
+  "stages": "",
+  "why": "Mimics a WhatsApp conversation screenshot. Native feel.",
+  "already_found": 2,
+  "existing_ids": [
+   "931485672949096",
+   "1316114380063765"
+  ]
+ },
+ {
+  "name": "Text Heavy Static",
+  "stages": "",
+  "why": "Copy-dense static, minimal visual. Stage depends on the copy.",
+  "already_found": 9,
+  "existing_ids": [
+   "1304004684990645",
+   "1366039018704383",
+   "2043393846254733",
+   "971903312426401",
+   "2014709202749288",
+   "1634440037849838",
+   "1252911066885225",
+   "958365697272698",
+   "699362236605619"
+  ],
+  "note": "All 9 existing picks are apology letters (We're Sorry style). Deliver 5+ text-dense statics that are NOT apologies: long-copy letters, manifestos, founder notes, dense text posters, etc."
+ }
+]

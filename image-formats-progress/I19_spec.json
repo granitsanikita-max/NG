@@ -1,0 +1,355 @@
+[
+ {
+  "format": "Trustpilot / Review-Site Screenshot",
+  "matches": [
+   [
+    "848931737919639",
+    "Brummstadt: CarPlay screen with a quoted customer review card and a full-width Trustpilot bar ('Brummstadt is Rated Excellent', green star boxes + Trustpilot logo)."
+   ],
+   [
+    "1626001175438886",
+    "OneCompress (Clinic Discussions page): product collage above a pasted Trustpilot-style review (green star boxes, 'Most amazing results', '1 day ago') - reads as a review-site screenshot."
+   ],
+   [
+    "995472559730460",
+    "Elixa Skincare: 'Please don't buy...' headline over a Trustpilot review card UI (reviewer avatar, '1 review - US', red 1-star boxes, 'Date of experience', Useful/Share)."
+   ],
+   [
+    "26793995773605257",
+    "Sippify (vok): product photo with an overlaid review card using Trustpilot's green 5-star boxes + 'Caroline - Verified' quote."
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1999425947669442",
+    "reason": "KXK: store review widget (Verified + shop reply), not a recognisable third-party review site"
+   },
+   {
+    "id": "36082634034716013",
+    "reason": "Elixa second variant is blurred; same brand already used"
+   },
+   {
+    "id": "2095281901340069",
+    "reason": "Azienda Agricola: small Trustpilot rating badge only"
+   },
+   {
+    "id": "973929988589470",
+    "reason": "NordiskPuls: Trustpilot badge only"
+   },
+   {
+    "id": "1330619059060344",
+    "reason": "VitalPaws: Trustpilot footer badge only"
+   }
+  ],
+  "searched": [
+   "trustpilot (All, toprank, 3 pages)",
+   "trustpilot (adtext, toprank, 2 pages)",
+   "trustpilot (longestrunning, min_active_ads 30)",
+   "trustpilot (mostsaved)",
+   "reviews.io",
+   "OCR grep of ~2k pooled ads for trustpilot/reviews.io/judge.me/verified buyer",
+   "visual sweep of ~3,500 live 45d+ static winners pooled from all hunt2 agents"
+  ],
+  "notes": "4 new (+2 already in I9 = 6). Sippify is the weakest: Trustpilot-style green star boxes on a review overlay rather than a full platform screenshot."
+ },
+ {
+  "format": "iPhone Notes Screenshot",
+  "matches": [
+   [
+    "2043062556245176",
+    "Euclove: dark-mode iPhone Notes page ('< Notes', date, share icons) 'Why does Euclove Linen Spray have too many good reviews?' with checklist."
+   ],
+   [
+    "930583669984230",
+    "Euclove: second Notes-app variant of the same note, larger crop."
+   ],
+   [
+    "1924619048506159",
+    "VaxAid: dark iCloud Notes page ('All iCloud', Done) 'Working Again at 51' first-person note with highlighted lines."
+   ],
+   [
+    "1008424818603502",
+    "Chubby Mealworms: light iCloud Notes screenshot (status bar, 'All iCloud', Done) 'Darren spends 2k/year on bird food' numbered list."
+   ],
+   [
+    "1387917396723084",
+    "Blume: yellow iPhone Notes page ('All iCloud', date) with checklist and struck-through old routines."
+   ],
+   [
+    "2122751781602954",
+    "Protein.com: 'Elin's Notes' iOS Notes screenshot with date + yellow checklist '30 million meals sold'."
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1478412340617304",
+    "reason": "Mia's Mom Hacks: photo of a phone showing a notes page, same store (toddla) as the existing I9 find; too small to read"
+   }
+  ],
+  "searched": [
+   "notes app (toprank)",
+   "OCR grep",
+   "visual sweep of pooled live static winners"
+  ],
+  "notes": "6 new (+1 in I9 = 7)."
+ },
+ {
+  "format": "Let's Talk Numbers",
+  "matches": [
+   [
+    "1701053628114064",
+    "Travlr seat cushion (Aviation Industry Insider page): product centred with hard numbers stacked around it - 36 air cells, 98% keep rate, 0.88 lbs, 4.8 rating."
+   ],
+   [
+    "2047536972637951",
+    "Blume: before/after acne faces + product with stacked stats '100% saw fewer hormonal breakouts', '96% agreed skin felt calmer'."
+   ],
+   [
+    "1023423713461092",
+    "Orykas: '98% feel completely dry', '9/10 never go back', '\u00a31000 saved per year' stacked beside the product."
+   ],
+   [
+    "1492402479038070",
+    "Dream Lab (Boga Mind): product with a stacked stat timeline 84% / 76% / 53% at 7 days, 1 month, 2 months."
+   ],
+   [
+    "1541558404435045",
+    "Her Again (Nova): poll-style bar chart 'What helped your hip pain?' 83% / 10% / 6% / 1% with the product."
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "890122780323044",
+    "reason": "Pure Dose: single '100% of participants' headline (stat headline, not a stack)"
+   },
+   {
+    "id": "1609331770330373",
+    "reason": "JSHealth: one stat in small text"
+   },
+   {
+    "id": "1330619059060344",
+    "reason": "VitalPaws: single 78% stat headline"
+   },
+   {
+    "id": "1981386836075528",
+    "reason": "Keto Australia: single 97% stat"
+   },
+   {
+    "id": "1388548629793993",
+    "reason": "K-Tropix: nutrition specs not percentages"
+   }
+  ],
+  "searched": [
+   "participants",
+   "agreed",
+   "OCR grep for 2+ percentages",
+   "visual sweep"
+  ],
+  "notes": "5 new (+2 in I9 = 7). Orykas and Dream Lab were also used by other agents for other formats (Stat Headline / Transformation)."
+ },
+ {
+  "format": "Sourcing",
+  "matches": [
+   [
+    "931505183194509",
+    "VitalHydra: team packing orders at a warehouse bench, caption 'This is who packs your VitalHydra order. Real people. Real warehouse.'"
+   ],
+   [
+    "1532669978280657",
+    "VitalHydra: second warehouse shot of the staff packing boxes among branded shelving."
+   ],
+   [
+    "1275904291326093",
+    "Gleetoria: 4-photo collage of the artisan hand-making the rosary bracelets at her workbench."
+   ],
+   [
+    "1856273149067892",
+    "SilentBall: behind-the-scenes fulfilment line - branded boxes being packed on a conveyor in the warehouse ('Packed today')."
+   ],
+   [
+    "1349739440605063",
+    "MMA Warehouse: inside-the-warehouse shot of Yokkao/Fairtex gloves stocked on racks, 'One US warehouse. No overseas wait.'"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1618453312544201",
+    "reason": "Kaori: product crate in an orchard ('One harvest a year') - origin claim, no production shot"
+   },
+   {
+    "id": "1363277561874434",
+    "reason": "British Supplements: 'made & packed in UK' text over product only"
+   }
+  ],
+  "searched": [
+   "factory",
+   "our factory (adtext)",
+   "craftsmen",
+   "OCR grep (inside our/our factory/workshop/behind the scenes)",
+   "visual sweep",
+   "warehouse (adtext)"
+  ],
+  "notes": "5 new (+1 in I6 = 6). VitalHydra/SilentBall/MMA are warehouse/fulfilment behind-the-scenes rather than factory production; Gleetoria shows the artisan making the product."
+ },
+ {
+  "format": "WhatsApp Text",
+  "matches": [
+   [
+    "931485672949096",
+    "Try Strawberry: WhatsApp chat UI (green header 'Strawberry - online', doodle wallpaper, 'Today' pill) with the product sent as a photo and '...has left the chat' system bubbles."
+   ],
+   [
+    "1316114380063765",
+    "HiZoo: 'desk neck group' group-chat screenshot with green outgoing bubbles, product photo and before/after sent in-chat."
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1753702072720633",
+    "reason": "Meke Baby: Instagram DM, not WhatsApp"
+   },
+   {
+    "id": "1606929334226111",
+    "reason": "One Glove: iMessage-style"
+   },
+   {
+    "id": "802326156240759",
+    "reason": "White November: iMessage"
+   },
+   {
+    "id": "1140387791473201",
+    "reason": "Tend-2: Messenger"
+   }
+  ],
+  "searched": [
+   "whatsapp (lastseen + toprank)",
+   "group chat",
+   "chat (adtext, min_active 30)",
+   "bestie",
+   "Try Strawberry (pagename)",
+   "OCR grep",
+   "visual sweep of ~3,500 pooled static winners",
+   "left the chat (timed out)"
+  ],
+  "notes": "2 found. Could not reach 5: live long-running WhatsApp mockups are very rare; 'whatsapp' in copy returns click-to-WhatsApp business ads. HiZoo is a generic green-bubble group chat (WhatsApp-like, not branded)."
+ },
+ {
+  "format": "Venn Diagram",
+  "matches": [
+   [
+    "1065585565606110",
+    "Simple Sinus (Cleriva): two overlapping red circles 'I want to stop wasting money on nasal sprays' / 'I want to breathe clearly all day' with the device at the intersection."
+   ],
+   [
+    "1876171250433838",
+    "Balmbare (Laura Bennett page): Venn of 'Type II for your joints' and 'More than skin, hair + nails' with the Revive Plus Mix pouch in the overlap."
+   ],
+   [
+    "1392109456184660",
+    "Balmbare: second Venn variant, same circles on textured background."
+   ],
+   [
+    "1507751674284461",
+    "NATPAT (Dr Sarah Whitfield page): whiteboard-drawn Venn 'No ticks on my kids' / 'No DEET on my kids' with 'TickPatch' in the overlap."
+   ]
+  ],
+  "rejected": [],
+  "searched": [
+   "venn (earlier)",
+   "visual sweep of pooled static winners"
+  ],
+  "notes": "4 found. Balmbare ads started 2026-08-12 (exactly 45d) but are ad rank #1/#2 on the page. NATPAT was also used as Doodle by I11."
+ },
+ {
+  "format": "New vs Old",
+  "matches": [
+   [
+    "854860883916622",
+    "SleepEase: split 'CPAP - Mechanical' (hoses, masks, lifetime equipment) VS 'NEMS Device - Wearable'."
+   ],
+   [
+    "1313743094220068",
+    "NoMore: 'Old device vs new system' - 1 target (old NoMore) vs 3 targets (new MultiRelief)."
+   ],
+   [
+    "2311163246294074",
+    "Track It: split 'The flawed default' (AirTag, red X list) vs 'The upgrade' (TrackIt, green checks)."
+   ],
+   [
+    "2056296285098864",
+    "CPAP.com: 'Then' old CPAP machine vs 'Now' AirSense 11 with clunky/noisy vs intuitive/quiet pills."
+   ],
+   [
+    "1926901701325683",
+    "GeniusVend: '30 MIN old restocking time' vs '5 MIN with PRIME' split."
+   ],
+   [
+    "1059563219828964",
+    "Meravae (Dr. Amy Spence page): 'The difference between shaving hair off and dissolving it' - old way (shaving & waxing, X) vs new (Meravae, check) split faces."
+   ],
+   [
+    "1283613193790916",
+    "Upairy (Raising Toddlers page): '1957: Trained at 18 months' vs 'TODAY: Still in diapers at 3.5 years' old-way vs today split."
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1027012986367373",
+    "reason": "Ambr: dupe price comparison ('old you \u00a3310 / new you \u00a329'), not an old-way/new-way method"
+   },
+   {
+    "id": "1008071851627985",
+    "reason": "Cosi Care scratch cycle vs safe scratching - closer to problem/solution"
+   }
+  ],
+  "searched": [
+   "visual sweep of pooled static winners",
+   "make the switch / outdated / traditional (earlier)"
+  ],
+  "notes": "7 found. SleepEase also has a second 'One NEMS device OR 20 years of CPAP' variant (2378251549650337)."
+ },
+ {
+  "format": "Diagram / Flowchart",
+  "matches": [
+   [
+    "1713265843143291",
+    "Three Warriors: 'The Tan Routine' hub - five products placed on a circle around the central label, each step annotated."
+   ],
+   [
+    "4160298404106685",
+    "The Men's Hair Code (Yora): '6 powerful botanicals' linked by a dotted ring around the central product, each ingredient labelled."
+   ],
+   [
+    "1314956643430539",
+    "Human Pro: four mushroom ingredient icons with arrows pointing into the central product pouch."
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "984890884423674",
+    "reason": "Three Warriors arrows pointing to products, no hub"
+   }
+  ],
+  "searched": [
+   "how it works",
+   "ecosystem/axis (earlier)",
+   "visual sweep",
+   "all-in-one (min_active 20)",
+   "ingredients (adtext, SP/HH/SK, min_active 30)"
+  ],
+  "notes": "3 found. Could not reach 5."
+ },
+ {
+  "format": "Partnership Carousels",
+  "matches": [],
+  "rejected": [],
+  "searched": [
+   "collab (images, carousel)",
+   "partnership (carousel)",
+   "copy grep for collab/partnered/x @ in pooled ads",
+   "visual sweep",
+   "partnership (carousel, toprank)"
+  ],
+  "notes": "0 found. Live collab ads are product shots or co-branded graphics (Thread Logic + Patagonia, Coke x Thread), not IG-profile collab carousels."
+ }
+]

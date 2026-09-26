@@ -1,0 +1,181 @@
+[
+ {
+  "format": "Google Search Result",
+  "matches": [
+   [
+    "2455476981532664",
+    "Google-style search bar reading 'Laundry detergent safe for workout clothes' (magnifier + mic icons) with a search-result card 'Molly Suds Activewear Laundry Detergent Powder, 5 stars (329)' over the product - the ad is the search answer"
+   ],
+   [
+    "2384783128677765",
+    "Glowing search-bar pill 'How to prevent kidney disease?' at the top, cat paws on a keyboard at the bottom and the Pawira fountain shown as the answer between them"
+   ],
+   [
+    "2313647522798722",
+    "'The search:' label over a Google-style search pill 'Best product for bad periods, PMS' with magnifier icon, then 'The solution:' with the Hormone Hero bottle - search-then-answer layout"
+   ],
+   [
+    "1344050224562115",
+    "NZ variant of the same layout: 'The search:' over a search pill 'best product for perimenopause NZ' with magnifier, then 'The solution:' with the Hormone Hero bottle"
+   ]
+  ],
+  "rejected": [
+   [
+    "4327631480899847",
+    "Nontoxic Product Reviews - us-vs-them toothbrush comparison, no search UI"
+   ],
+   [
+    "2031558418235133",
+    "Grove 'Why I switched from Amazon to Grove' dark text post - no search UI"
+   ],
+   [
+    "962285209864548",
+    "Remi comparison card, not search (brand already has a search ad in I8)"
+   ],
+   [
+    "1034380635618396",
+    "Happy V benefit card, not search"
+   ],
+   [
+    "1038001925657074",
+    "Cool Breath gross-out card, not search"
+   ],
+   [
+    "2819413621595404",
+    "JSHealth - browser article + Google REVIEW card, not a search result"
+   ]
+  ],
+  "searched": [],
+  "notes": ""
+ },
+ {
+  "format": "Recipes",
+  "matches": [
+   [
+    "865818006590960",
+    "Recipe card: 'Breakfast Treats! Chocolate Raspberry Ice Cream' photo with a boxed 'Ingredients' list (3/4 cup milk, 1 cup raspberries, 1/2 cup greek yogurt... 1 scoop Truvani Vanilla Protein Powder) - product used as an ingredient"
+   ],
+   [
+    "27830600476563347",
+    "'Protein Bliss Bites' recipe sheet: three recipes (Berry, Chocolate Peanut Butter, Banana Crunch) each with the ingredient row (1 scoop Truvani protein, 1/2 cup almonds, 1 tbsp maple syrup...) pictured item by item"
+   ],
+   [
+    "1567767571624798",
+    "Recipe carousel: card 1 shows the Kahlua Cold Brew Tonic with its ingredients (AeroPress, Kahlua, tonic, jigger); card 2 is the ingredient list (1 oz Kahlua, 1 oz cold brew, 3 oz tonic, lime twist); card 3 numbered steps 1-4 with AeroPress line drawing"
+   ],
+   [
+    "1745254959475944",
+    "Recipe card: headline 'WHOLE GRAIN BRIOCHE RECIPE' over the finished loaf on a cooling rack; links to Janie's Mill recipe blog - the flour is the ingredient"
+   ],
+   [
+    "1514913793466895",
+    "Recipe card: 'OVERNIGHT OATS RECIPE' headline over a jar of overnight oats with blueberries; copy 'Made using Janie's Mill Organic Oat Flakes, this recipe...' and links to the recipe post"
+   ],
+   [
+    "1565556585127317",
+    "Recipe card: headline 'Try this super simple + enriching Toppl Treat recipe!' over the finished stuffed Toppl toys (sardine, raw mince); copy lists the recipe ingredients step by step"
+   ]
+  ],
+  "rejected": [
+   [
+    "2219931458805553",
+    "CAP Beauty 'Chocolate milk reimagined' - recipe only in copy, image is just a pour shot"
+   ],
+   [
+    "1324639999035527",
+    "Yumi Matcha mango iced matcha - product photo, no how-to"
+   ],
+   [
+    "987659697151120",
+    "Spread The Love veggie pad thai - dish photo only (recipe on site)"
+   ],
+   [
+    "4468699470032728",
+    "Healthy Metal 'Which one are you' quiz card"
+   ],
+   [
+    "1713940519953722",
+    "Truvani matcha vs drive-thru comparison, not a recipe"
+   ],
+   [
+    "2190783908411096",
+    "Baked Up - cookie photo only, no recipe framing on the image"
+   ],
+   [
+    "1380439567292050",
+    "Earthmeal - product ingredient list, not a how-to recipe"
+   ],
+   [
+    "1284787917064034",
+    "Bakeverly - cookbook product ad, not a recipe card"
+   ],
+   [
+    "1000102656363607",
+    "AeroPress DCO 'Save this recipe... AeroPress Recipes: Kahlua Cold Brew Tonic' - valid recipe card but same creative as the included AeroPress carousel; kept one per creative"
+   ]
+  ],
+  "searched": [],
+  "notes": ""
+ },
+ {
+  "format": "Free Ticket",
+  "matches": [],
+  "rejected": [
+   [
+    "2029571667910454",
+    "Globalkeep e-bike price ad with a small coupon-stub graphic (CODE:SAVE100) - ticket is a minor element, the ad is a price-drop card"
+   ],
+   [
+    "955159884020226",
+    "Provitalean 'Use code TRYUS' street poster - flyer, not a torn ticket"
+   ],
+   [
+    "1577746266847090",
+    "Real Men 'FREE MONEY' gift-card graphic, not a ticket"
+   ]
+  ],
+  "searched": [],
+  "notes": ""
+ },
+ {
+  "format": "X Post (Tweet Screenshot)",
+  "matches": [
+   [
+    "1057380859480490",
+    "X/Twitter post screenshot: avatar + 'annabelle @belle_' handle, tweet text 'when you love a man you literally just want to buy him everything', two attached photos of the Promise Necklace box - the whole ad is the tweet"
+   ],
+   [
+    "987061930834092",
+    "X/Twitter post screenshot: avatar + 'marissa <3 @marieea', tweet 'i told him i don't want flowers because they die fast so he got me this... its a rose that lasts forever and look what's inside when you rotate it' with three attached photos of the rose box/necklace"
+   ]
+  ],
+  "rejected": [
+   [
+    "2031558418235133",
+    "Grove dark text post - no avatar/handle, not an X post"
+   ],
+   [
+    "1450067249647823",
+    "Sarah Miller persona page (OceAura KP cream) - perfect tweet screenshot but ended 2026-09-23, page 25 active ads, dup 1, 5 page likes: fails scale/established test"
+   ],
+   [
+    "971699005254048",
+    "PreSleep tweet-reply screenshot over product - last seen 2026-08-07, not live"
+   ],
+   [
+    "35894207570194432",
+    "BelloBliss - text-selection overlay on photo, not an X post"
+   ],
+   [
+    "2463167857474456",
+    "JSHealth - IG story style, not X"
+   ],
+   [
+    "1700247420981746",
+    "Kuri Nuka IG 'Ask me anything' story, not X"
+   ]
+  ],
+  "searched": [],
+  "notes": ""
+ }
+]

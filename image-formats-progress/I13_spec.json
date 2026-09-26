@@ -1,0 +1,241 @@
+[
+ {
+  "format": "Text on Skin",
+  "matches": [
+   {
+    "id": "1644649483490392",
+    "why_format": "Mirror selfie of a woman in a red dress; the word 'CANCEL' is written in marker directly on her thigh above a bruised, swollen knee (pre-surgery skin marking). The text lives on the skin itself."
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1642867186772460",
+    "reason": "'ORAL SHOULD NOT END WITH A WEIRD FACE' printed on a blanket, not skin"
+   },
+   {
+    "id": "2206405603481200",
+    "reason": "Venialli WANTED note is a sticky note on fabric, not skin"
+   }
+  ],
+  "searched": [
+   "pool regex: written on / sharpie / marker on / temporary tattoo / body paint / on my arm / on my back",
+   "visual sweep of 413 live long-running skin/body/supplement statics from all saved pools (12 contact sheets)",
+   "sunscreen (min 30 page ads)",
+   "tattoo (min 30 page ads)",
+   "stretch marks (lastseen + toprank)",
+   "self tanner",
+   "body lotion",
+   "niche SK 90d+ min 50 page ads",
+   "written on (adtext)",
+   "inkbox",
+   "tan lines",
+   "body positivity",
+   "sharpie",
+   "sunburn",
+   "body oil",
+   "knee surgery",
+   "onecompress (landing url)",
+   "surgeon marked"
+  ],
+  "notes": "Only 1 verified winner found. Text written/rendered on skin is extremely rare among live long-running Meta statics: ~540 visually screened skin/body/beauty/supplement ads plus 16 targeted searches produced only this one (OneCompress-landing persona page, 114d, 5 active dups, 33 page ads). Skin marks without words (marker lines on a foot sole, arrows drawn on a shoulder/jaw) were seen but are not text, so not counted."
+ },
+ {
+  "format": "Us vs Us",
+  "matches": [
+   {
+    "id": "808291592030149",
+    "why_format": "Two dropper bottles side by side on a counter: the brand's old pink 'Collagen' label with a handwritten 'OLD' sticker next to the new dark-navy bottle. Old version vs new version of their own product."
+   },
+   {
+    "id": "983759157485133",
+    "why_format": "Founder-style woman holding the old pink bottle in one hand and the new navy bottle in the other: the brand's own old packaging vs its new packaging."
+   },
+   {
+    "id": "1689069275877235",
+    "why_format": "Split panel: 'LOVE UR CURLS - Built in 2016' (old bottle line-up) vs 'LOVE UR CURLS - Evolved in 2026' (new bottle line-up). Pure own-product then vs now."
+   },
+   {
+    "id": "1022728157113874",
+    "why_format": "Same split 'Built in 2016' vs 'Evolved in 2026' layout comparing the old and new versions of their 3-step curl system."
+   },
+   {
+    "id": "1563532068521782",
+    "why_format": "Two mascara tubes side by side labeled 'BEFORE' (old white pack) and 'NOW' (new berry pack) under 'Fresh New Look - Same hold. Same formula.'"
+   },
+   {
+    "id": "1343574074004455",
+    "why_format": "'OLD LOOK' PurrVita tub next to 'NEW LOOK' PurrZen tub with an 'IMPROVED FORMULA' badge: own old version vs new version."
+   },
+   {
+    "id": "1361484795310469",
+    "why_format": "Variant of the same OLD LOOK vs NEW LOOK tub comparison (PurrVita -> PurrZen, improved formula) with a cat."
+   }
+  ],
+  "rejected": [
+   {
+    "id": "2331702773904739",
+    "reason": "Healthy Petz 'UNKNOWN' sticker on copycat bottle - copycat warning, not old-vs-new"
+   },
+   {
+    "id": "2396032940919515",
+    "reason": "VelorHealth 2.0 new-release product shot, no visible old vs new comparison"
+   },
+   {
+    "id": "1412838504287721",
+    "reason": "Twillory US vs THEM - competitor comparison, not own old version"
+   },
+   {
+    "id": "2118621362345830",
+    "reason": "Stitch SL2 Gen 2 - product callouts, no old-version shown"
+   },
+   {
+    "id": "1327839322120218",
+    "reason": "BONK PF 2.0 'built better' - callouts, no old version shown"
+   },
+   {
+    "id": "2843937565960504",
+    "reason": "LOHY new shoulder guard '50% longer' - single product, no old version shown"
+   }
+  ],
+  "searched": [
+   "pool re-screen: new and improved / upgraded / 2.0 / redesigned / reformulated / old formula regex over all saved pools",
+   "new and improved (adtext)",
+   "old vs new",
+   "previous version",
+   "you asked we listened",
+   "old formula",
+   "than the original",
+   "what we changed",
+   "second generation",
+   "new look same",
+   "new packaging",
+   "the old one"
+  ],
+  "notes": ""
+ },
+ {
+  "format": "IG Story (Native Callout)",
+  "matches": [
+   {
+    "id": "2112119143054427",
+    "why_format": "Native IG-story treatment: black rounded caption pills (story text tool) over a phone-style house photo reading 'We're looking for ladies 45+ that 1. Feel like menopause is stealing their skin... 2. Don't want another product...' - recruits a specific segment."
+   },
+   {
+    "id": "1427132855913526",
+    "why_format": "Same native story caption-pill layout over a bathroom photo: 'We're looking for women 45+ who 1. Are tired of skincare that stops working after menopause 2. Want the ONLY moisturiser...' - segment callout."
+   },
+   {
+    "id": "1678432637326039",
+    "why_format": "Story-style frame with IG text-sticker pills over a soft photo: 'We're looking for mums worried about breastfeeding..' followed by stacked story stickers and product - native callout recruiting a segment."
+   }
+  ],
+  "rejected": [
+   {
+    "id": "2206405603481200",
+    "reason": "Venialli WANTED sticky note on product - sticky-note format, not a native story"
+   },
+   {
+    "id": "1398552852116283",
+    "reason": "Dr. Sarah Mitchell 'We need 15 women' - designed card with portrait, not native story; persona advertiser"
+   },
+   {
+    "id": "1510636696957485",
+    "reason": "Dr. Sarah Mitchell 'Wanted: 15 post-menopausal women' - designed card, not native story; persona advertiser"
+   },
+   {
+    "id": "934611169657662",
+    "reason": "Renegade Fitness 'Looking for 12 women' - designed poster, not native story; tiny page (4 ads)"
+   },
+   {
+    "id": "847379958305598",
+    "reason": "aestheticwolf 'Are you from Germany' - polished recruitment graphic"
+   },
+   {
+    "id": "1419439313043481",
+    "reason": "Salt Athletic Brand Ambassador - polished graphic"
+   },
+   {
+    "id": "1464576712172523",
+    "reason": "PhycoHealth Google-Doc screenshot variant - different format (doc screenshot)"
+   },
+   {
+    "id": "1756671025757114",
+    "reason": "PhycoHealth banner caption variant - weaker; max 2 per brand used"
+   }
+  ],
+  "searched": [
+   "pool re-screen: wanted / we're looking for / calling all / looking for N / seeking regex over all saved pools",
+   "we're looking for (adtext, 2 pages)",
+   "looking for women",
+   "we need 100"
+  ],
+  "notes": "Combined with I3's 2 Solace Bands ads this format has 5 total. PhycoHealth has 6+ live variants of this story callout (all started 2026-07-24), a strong scale signal."
+ },
+ {
+  "format": "The Spec Sheet",
+  "matches": [
+   {
+    "id": "1055839173452584",
+    "why_format": "'Mobile Safety Pendant' product shot with exactly four icon-led facts stacked on the left: GPS location / Fall alarm / Phone calling / 7 day battery. No adjectives, just the spec list."
+   },
+   {
+    "id": "4785011785060786",
+    "why_format": "Second layout of the same spec list: 7 Day Battery Life / GPS Location / Falls Alarm / Phone Calling, each with an icon, beside a smiling senior wearing the pendant."
+   },
+   {
+    "id": "1889312131737814",
+    "why_format": "'Velor Board 2.0 - More Width. More Strength.' next to a clean product render with a pure spec list: PLATFORM WIDTH 20\" (was 16\"), WEIGHT CAPACITY 300 lbs (was 250 lbs), MATERIAL birch plywood, HINGE steel mechanism, ANGLES 5 settings, WEIGHT 9 lbs."
+   },
+   {
+    "id": "3868128926654807",
+    "why_format": "Capsule close-up background with three stacked big-number facts only: '2 Capsules Daily / 12 Weeks / 3.1 Inches Lost' plus the clinical-trial footnote. Numbers, no adjectives."
+   },
+   {
+    "id": "2118621362345830",
+    "why_format": "'THE SL2 GEN 2' headline over the bag line-up with three labelled feature call-outs (Magnetic Ball Pocket / Stitch Touring Fabric / NEW YKK Tough Zipper) - a plain spec breakdown of the product."
+   },
+   {
+    "id": "1013364574851634",
+    "why_format": "'Aeros Elite 2' shoe on navy with thin leader-line spec call-outs (Reinforced Knit Cage / Memory Foam Arch Support / Aeros Ankle Wing Strap) - product + labelled component facts."
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1327839322120218",
+    "reason": "BONK PF 2.0 callouts include adjectives (ultralight, built to last) - weaker; kept out"
+   },
+   {
+    "id": "1328964402653852",
+    "reason": "Eden Superfoods 'two ingredients' 400mg/300mg - only 2 facts, ingredient-card format"
+   },
+   {
+    "id": "1740672070304138",
+    "reason": "biocol labs 8/10, 9/10 survey stats - stat headline, not a spec sheet"
+   },
+   {
+    "id": "1550950283341666",
+    "reason": "Pure Genius 23g protein - lifestyle product shot, facts only on the bottle"
+   },
+   {
+    "id": "4371087043144708",
+    "reason": "SEEQ 'Tastes like a juicy ripe peach' - adjective headline"
+   },
+   {
+    "id": "937001758786829",
+    "reason": "Melati us-vs-other-brands checklist - comparison table format"
+   },
+   {
+    "id": "1095039303683047",
+    "reason": "Strawberry eczema cream ingredient-% callouts mixed with benefit claims - ingredient callout format"
+   }
+  ],
+  "searched": [
+   "pool re-screen: specs / specifications / battery life / mAh / grams of protein / per serving / by the numbers regex over all saved pools",
+   "battery life (min 30 page ads)",
+   "specs (min 30 page ads)",
+   "grams of protein (min 30 page ads)",
+   "visual sweeps of ~540 live long-running statics (skin/body/supplement/gadget pools)"
+  ],
+  "notes": "Varsity (49d) and Stitch (87d) show 3 labelled facts rather than 4; Simply Big and VelorHealth are the purest examples."
+ }
+]

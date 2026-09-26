@@ -1,0 +1,823 @@
+[
+ {
+  "format": "Trustpilot / Review-Site Screenshot",
+  "matches": [
+   {
+    "id": "848931737919639",
+    "advertiser": "Brummstadt CarPlay Upgrades",
+    "file": "img_848931737919639.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/848931737919639?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=112466144557974",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/d927259d8bf758cb1f7c1a7aaad58dc068c58b448467fcc03c557538f5f86fe4.jpg",
+    "started": "2026-01-04",
+    "last_seen": "2026-09-25",
+    "days_running": 265,
+    "duplicates": 1,
+    "page_active_ads": 14,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "Brummstadt: CarPlay screen with a quoted customer review card and a full-width Trustpilot bar ('Brummstadt is Rated Excellent', green star boxes + Trustpilot logo).",
+    "why_winner": "Live (last seen 2026-09-25), running 265 days since 2026-01-04; ad rank #1 (store: www.brummstadt.com.au)"
+   },
+   {
+    "id": "1626001175438886",
+    "advertiser": "Clinic Discussions: Injuries, Relief & More",
+    "file": "img_1626001175438886.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1626001175438886?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=862228890316678",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/a76a31060d3d561f355a8647606a127b9ce2623bcc4a22c0de57936d04e95511.jpg",
+    "started": "2026-04-07",
+    "last_seen": "2026-09-26",
+    "days_running": 172,
+    "duplicates": 1,
+    "page_active_ads": 33,
+    "ad_rank": 68,
+    "store_revenue": "unconfirmed",
+    "why_format": "OneCompress (Clinic Discussions page): product collage above a pasted Trustpilot-style review (green star boxes, 'Most amazing results', '1 day ago') - reads as a review-site screenshot.",
+    "why_winner": "Live (last seen 2026-09-26), running 172 days since 2026-04-07; 33 active ads on page (store: www.onecompress.com)"
+   },
+   {
+    "id": "995472559730460",
+    "advertiser": "Elixa Skincare",
+    "file": "img_995472559730460.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/995472559730460?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=765054103350668",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/7b7d39cf25f09f87736cd346e490d9008e2cd3952fdd511d9ef1d8c522e3f7be.jpg",
+    "started": "2026-05-17",
+    "last_seen": "2026-09-24",
+    "days_running": 132,
+    "duplicates": 1,
+    "page_active_ads": 257,
+    "ad_rank": 59,
+    "store_revenue": "unconfirmed",
+    "why_format": "Elixa Skincare: 'Please don't buy...' headline over a Trustpilot review card UI (reviewer avatar, '1 review - US', red 1-star boxes, 'Date of experience', Useful/Share).",
+    "why_winner": "Live (last seen 2026-09-24), running 132 days since 2026-05-17; 257 active ads on page (store: elixaskincare.com)"
+   },
+   {
+    "id": "26793995773605257",
+    "advertiser": "Sippify",
+    "file": "img_26793995773605257.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/26793995773605257?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=622344014474045",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/56da9adaf561770695b82a4940f37e3aa9e9e8688d364835c6abdd20adca137a.jpg",
+    "started": "2026-05-18",
+    "last_seen": "2026-09-25",
+    "days_running": 131,
+    "duplicates": 1,
+    "page_active_ads": 43,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "Sippify (vok): product photo with an overlaid review card using Trustpilot's green 5-star boxes + 'Caroline - Verified' quote.",
+    "why_winner": "Live (last seen 2026-09-25), running 131 days since 2026-05-18; 43 active ads on page, ad rank #1 (store: sippify.com.au)"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1999425947669442",
+    "reason": "KXK: store review widget (Verified + shop reply), not a recognisable third-party review site"
+   },
+   {
+    "id": "36082634034716013",
+    "reason": "Elixa second variant is blurred; same brand already used"
+   },
+   {
+    "id": "2095281901340069",
+    "reason": "Azienda Agricola: small Trustpilot rating badge only"
+   },
+   {
+    "id": "973929988589470",
+    "reason": "NordiskPuls: Trustpilot badge only"
+   },
+   {
+    "id": "1330619059060344",
+    "reason": "VitalPaws: Trustpilot footer badge only"
+   }
+  ],
+  "searched": [
+   "trustpilot (All, toprank, 3 pages)",
+   "trustpilot (adtext, toprank, 2 pages)",
+   "trustpilot (longestrunning, min_active_ads 30)",
+   "trustpilot (mostsaved)",
+   "reviews.io",
+   "OCR grep of ~2k pooled ads for trustpilot/reviews.io/judge.me/verified buyer",
+   "visual sweep of ~3,500 live 45d+ static winners pooled from all hunt2 agents"
+  ],
+  "notes": "4 new (+2 already in I9 = 6). Sippify is the weakest: Trustpilot-style green star boxes on a review overlay rather than a full platform screenshot."
+ },
+ {
+  "format": "iPhone Notes Screenshot",
+  "matches": [
+   {
+    "id": "2043062556245176",
+    "advertiser": "Euclove Clean",
+    "file": "img_2043062556245176.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2043062556245176?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=201021746968426",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/119bd087e38ddb8fbf80f95415480e28f2e99345c5b0f03924c320a945be9d7d.jpg",
+    "started": "2026-05-03",
+    "last_seen": "2026-09-26",
+    "days_running": 146,
+    "duplicates": 1,
+    "page_active_ads": 74,
+    "ad_rank": 25,
+    "store_revenue": "unconfirmed",
+    "why_format": "Euclove: dark-mode iPhone Notes page ('< Notes', date, share icons) 'Why does Euclove Linen Spray have too many good reviews?' with checklist.",
+    "why_winner": "Live (last seen 2026-09-26), running 146 days since 2026-05-03; 74 active ads on page (store: euclove.myshopify.com)"
+   },
+   {
+    "id": "930583669984230",
+    "advertiser": "Euclove Clean",
+    "file": "img_930583669984230.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/930583669984230?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=201021746968426",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/bb0f22ce57360776628041b47cb388b811cab750dc835d3ec0bc9631fb11d306.jpg",
+    "started": "2026-05-15",
+    "last_seen": "2026-09-26",
+    "days_running": 134,
+    "duplicates": 1,
+    "page_active_ads": 74,
+    "ad_rank": 12,
+    "store_revenue": "unconfirmed",
+    "why_format": "Euclove: second Notes-app variant of the same note, larger crop.",
+    "why_winner": "Live (last seen 2026-09-26), running 134 days since 2026-05-15; 74 active ads on page (store: euclove.myshopify.com)"
+   },
+   {
+    "id": "1924619048506159",
+    "advertiser": "VaxAid",
+    "file": "img_1924619048506159.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1924619048506159?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101415666185944",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/17f19dbd693cecdc4987b548fba3f8ccb592e0ee3ec316b6d0f477a7bdd79c11.jpg",
+    "started": "2026-07-20",
+    "last_seen": "2026-09-26",
+    "days_running": 68,
+    "duplicates": 1,
+    "page_active_ads": 113,
+    "ad_rank": 79,
+    "store_revenue": "unconfirmed",
+    "why_format": "VaxAid: dark iCloud Notes page ('All iCloud', Done) 'Working Again at 51' first-person note with highlighted lines.",
+    "why_winner": "Live (last seen 2026-09-26), running 68 days since 2026-07-20; 113 active ads on page (store: vaxaid.com)"
+   },
+   {
+    "id": "1008424818603502",
+    "advertiser": "Chubby Mealworms UK",
+    "file": "img_1008424818603502.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1008424818603502?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=609249629092478",
+    "image_url": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.35426-6/698818133_980455754360031_5253122146674952790_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oAXz2aM1VJ8Q7kNvwF-sAc-&_nc_oc=AdqYaDX7pmZoKwZRRiznKhQqHk8Xt86HaLkXwcDYA7aLZ3jD7Y0ISVCHWAYBrU2v4gg&_nc_zt=14&_nc_ht=scontent-mia5-1.xx&_nc_gid=OSe8-hDD1thw3BAAuWAzCg&_nc_ss=7e289&oh=00_AQKaFMoMuXWTKcBu4KKl85JX5sPK43uzZzt1YU451WLpdg&oe=6ABBA27A",
+    "started": "2026-05-15",
+    "last_seen": "2026-09-26",
+    "days_running": 134,
+    "duplicates": 2,
+    "page_active_ads": 34,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "Chubby Mealworms: light iCloud Notes screenshot (status bar, 'All iCloud', Done) 'Darren spends 2k/year on bird food' numbered list.",
+    "why_winner": "Live (last seen 2026-09-26), running 134 days since 2026-05-15; 34 active ads on page, ad rank #1 (store: www.chubbymealworms.co.uk)"
+   },
+   {
+    "id": "1387917396723084",
+    "advertiser": "Meet Blume",
+    "file": "img_1387917396723084.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1387917396723084?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1098892030125622",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/c3102a058faddc715f6cafc9f750833cd124e3adfa53146420b22b0b9eba0bde.jpg",
+    "started": "2026-06-08",
+    "last_seen": "2026-09-26",
+    "days_running": 110,
+    "duplicates": 1,
+    "page_active_ads": 393,
+    "ad_rank": 205,
+    "store_revenue": "unconfirmed",
+    "why_format": "Blume: yellow iPhone Notes page ('All iCloud', date) with checklist and struck-through old routines.",
+    "why_winner": "Live (last seen 2026-09-26), running 110 days since 2026-06-08; 393 active ads on page (store: www.blume.com)"
+   },
+   {
+    "id": "2122751781602954",
+    "advertiser": "Protein.com",
+    "file": "img_2122751781602954.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2122751781602954?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=333962129994679",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/00f9ee26b0110b12522a7a9ad2b8fefbe3c211a3b7b3962ae268df16957760dd.jpg",
+    "started": "2026-05-16",
+    "last_seen": "2026-09-26",
+    "days_running": 133,
+    "duplicates": 1,
+    "page_active_ads": 341,
+    "ad_rank": 268,
+    "store_revenue": "unconfirmed",
+    "why_format": "Protein.com: 'Elin's Notes' iOS Notes screenshot with date + yellow checklist '30 million meals sold'.",
+    "why_winner": "Live (last seen 2026-09-26), running 133 days since 2026-05-16; 341 active ads on page (store: protein.com)"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1478412340617304",
+    "reason": "Mia's Mom Hacks: photo of a phone showing a notes page, same store (toddla) as the existing I9 find; too small to read"
+   }
+  ],
+  "searched": [
+   "notes app (toprank)",
+   "OCR grep",
+   "visual sweep of pooled live static winners"
+  ],
+  "notes": "6 new (+1 in I9 = 7)."
+ },
+ {
+  "format": "Let's Talk Numbers",
+  "matches": [
+   {
+    "id": "1701053628114064",
+    "advertiser": "Aviation Industry Insights",
+    "file": "img_1701053628114064.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1701053628114064?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=921607071043924",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/a561c0505f5ff8ac4d2c829943673f41371b92dc565a482f8c8ebaa53c0ffce5.jpg",
+    "started": "2026-07-18",
+    "last_seen": "2026-09-25",
+    "days_running": 70,
+    "duplicates": 2,
+    "page_active_ads": 35,
+    "ad_rank": 3,
+    "store_revenue": "unconfirmed",
+    "why_format": "Travlr seat cushion (Aviation Industry Insider page): product centred with hard numbers stacked around it - 36 air cells, 98% keep rate, 0.88 lbs, 4.8 rating.",
+    "why_winner": "Live (last seen 2026-09-25), running 70 days since 2026-07-18; 35 active ads on page, ad rank #3 (store: shoptravlr.com)"
+   },
+   {
+    "id": "2047536972637951",
+    "advertiser": "Meet Blume",
+    "file": "img_2047536972637951.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2047536972637951?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1098892030125622",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/89341afa78f2a3cffcf33b7e1d460be46d8222734f5168935b999ebaf590fe2b.jpg",
+    "started": "2026-07-07",
+    "last_seen": "2026-09-26",
+    "days_running": 81,
+    "duplicates": 1,
+    "page_active_ads": 393,
+    "ad_rank": 215,
+    "store_revenue": "unconfirmed",
+    "why_format": "Blume: before/after acne faces + product with stacked stats '100% saw fewer hormonal breakouts', '96% agreed skin felt calmer'.",
+    "why_winner": "Live (last seen 2026-09-26), running 81 days since 2026-07-07; 393 active ads on page (store: www.blume.com)"
+   },
+   {
+    "id": "1023423713461092",
+    "advertiser": "Orykas",
+    "file": "img_1023423713461092.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1023423713461092?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=562494436953266",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/37ab6e022071e47182994e182df2a1b41d39f4e4b6a6914c8b35e833e6bab384.jpg",
+    "started": "2026-06-09",
+    "last_seen": "2026-09-26",
+    "days_running": 109,
+    "duplicates": 1,
+    "page_active_ads": 519,
+    "ad_rank": 247,
+    "store_revenue": "unconfirmed",
+    "why_format": "Orykas: '98% feel completely dry', '9/10 never go back', '\u00a31000 saved per year' stacked beside the product.",
+    "why_winner": "Live (last seen 2026-09-26), running 109 days since 2026-06-09; 519 active ads on page (store: orykas.co.uk)"
+   },
+   {
+    "id": "1492402479038070",
+    "advertiser": "The Dream Lab",
+    "file": "img_1492402479038070.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1492402479038070?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=699342933273297",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/d0252f408f0ae8c970ce23e2150b8df07f72b5bd591123cefbbcb99865f8109c.jpg",
+    "started": "2026-06-12",
+    "last_seen": "2026-09-26",
+    "days_running": 106,
+    "duplicates": 1,
+    "page_active_ads": 67,
+    "ad_rank": 4,
+    "store_revenue": "unconfirmed",
+    "why_format": "Dream Lab (Boga Mind): product with a stacked stat timeline 84% / 76% / 53% at 7 days, 1 month, 2 months.",
+    "why_winner": "Live (last seen 2026-09-26), running 106 days since 2026-06-12; 67 active ads on page, ad rank #4 (store: trydreamlab.com)"
+   },
+   {
+    "id": "1541558404435045",
+    "advertiser": "Life with menopause",
+    "file": "img_1541558404435045.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1541558404435045?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=184210271447004",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/b628956bcda97c6f2367c4afe060c27fd7ec7e70de00d77827e736164d46c514.jpg",
+    "started": "2026-08-03",
+    "last_seen": "2026-09-26",
+    "days_running": 54,
+    "duplicates": 1,
+    "page_active_ads": 89,
+    "ad_rank": 72,
+    "store_revenue": "unconfirmed",
+    "why_format": "Her Again (Nova): poll-style bar chart 'What helped your hip pain?' 83% / 10% / 6% / 1% with the product.",
+    "why_winner": "Live (last seen 2026-09-26), running 54 days since 2026-08-03; 89 active ads on page (store: www.hernovabottle.com)"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "890122780323044",
+    "reason": "Pure Dose: single '100% of participants' headline (stat headline, not a stack)"
+   },
+   {
+    "id": "1609331770330373",
+    "reason": "JSHealth: one stat in small text"
+   },
+   {
+    "id": "1330619059060344",
+    "reason": "VitalPaws: single 78% stat headline"
+   },
+   {
+    "id": "1981386836075528",
+    "reason": "Keto Australia: single 97% stat"
+   },
+   {
+    "id": "1388548629793993",
+    "reason": "K-Tropix: nutrition specs not percentages"
+   }
+  ],
+  "searched": [
+   "participants",
+   "agreed",
+   "OCR grep for 2+ percentages",
+   "visual sweep"
+  ],
+  "notes": "5 new (+2 in I9 = 7). Orykas and Dream Lab were also used by other agents for other formats (Stat Headline / Transformation)."
+ },
+ {
+  "format": "Sourcing",
+  "matches": [
+   {
+    "id": "931505183194509",
+    "advertiser": "Vital Hydra",
+    "file": "img_931505183194509.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/931505183194509?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=679049495300769",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/232ef2c77442991b1662aeee0df0e71f30098e10c8c1bf867dc8d0368df74670.jpg",
+    "started": "2026-05-15",
+    "last_seen": "2026-09-26",
+    "days_running": 134,
+    "duplicates": 2,
+    "page_active_ads": 196,
+    "ad_rank": 283,
+    "store_revenue": "unconfirmed",
+    "why_format": "VitalHydra: team packing orders at a warehouse bench, caption 'This is who packs your VitalHydra order. Real people. Real warehouse.'",
+    "why_winner": "Live (last seen 2026-09-26), running 134 days since 2026-05-15; 196 active ads on page (store: vitalhydra.co)"
+   },
+   {
+    "id": "1532669978280657",
+    "advertiser": "Vital Hydra",
+    "file": "img_1532669978280657.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1532669978280657?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=679049495300769",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/f47c4d08182c410b2b6fc9792cad5ac3716630ed11e0c4db92d370f2e274d24a.jpg",
+    "started": "2026-05-15",
+    "last_seen": "2026-09-26",
+    "days_running": 134,
+    "duplicates": 2,
+    "page_active_ads": 196,
+    "ad_rank": 259,
+    "store_revenue": "unconfirmed",
+    "why_format": "VitalHydra: second warehouse shot of the staff packing boxes among branded shelving.",
+    "why_winner": "Live (last seen 2026-09-26), running 134 days since 2026-05-15; 196 active ads on page (store: vitalhydra.co)"
+   },
+   {
+    "id": "1275904291326093",
+    "advertiser": "Gleetoria Store",
+    "file": "img_1275904291326093.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1275904291326093?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=613191491876159",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/9161f22720dcaef978b82d579a56552b514d4ab300dd67aace5de3ac0c76e2fe.jpg",
+    "started": "2026-05-09",
+    "last_seen": "2026-09-25",
+    "days_running": 140,
+    "duplicates": 1,
+    "page_active_ads": 51,
+    "ad_rank": 22,
+    "store_revenue": "unconfirmed",
+    "why_format": "Gleetoria: 4-photo collage of the artisan hand-making the rosary bracelets at her workbench.",
+    "why_winner": "Live (last seen 2026-09-25), running 140 days since 2026-05-09; 51 active ads on page (store: gleetoriastore.com)"
+   },
+   {
+    "id": "1856273149067892",
+    "advertiser": "SilentBall Academy",
+    "file": "img_1856273149067892.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1856273149067892?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=248708521663926",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/fe12da30e3d4cf9ed3337303e8dc953a43d3b795e87b7f6fd931bc9e2b1b7ec4.jpg",
+    "started": "2026-06-28",
+    "last_seen": "2026-09-25",
+    "days_running": 90,
+    "duplicates": 1,
+    "page_active_ads": 25,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "SilentBall: behind-the-scenes fulfilment line - branded boxes being packed on a conveyor in the warehouse ('Packed today').",
+    "why_winner": "Live (last seen 2026-09-25), running 90 days since 2026-06-28; ad rank #1 (store: silentballacademy.com)"
+   },
+   {
+    "id": "1349739440605063",
+    "advertiser": "MMAWarehouse.com",
+    "file": "img_1349739440605063.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1349739440605063?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=7064870953",
+    "image_url": "https://scontent-mia5-2.xx.fbcdn.net/v/t39.35426-6/750473289_895766383146777_6916468873870960862_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FLGbZ9cE2ikQ7kNvwEWxsKt&_nc_oc=Adrv-k_L-ENPS74mKQ6x4a0peEjekb6K8JfVkGdPHZf5HVgamn3tbTS_ocMVncJvmxk&_nc_zt=14&_nc_ht=scontent-mia5-2.xx&_nc_gid=Mb6D3wwjRgTOt5IXUHDkLw&_nc_ss=7e289&oh=00_AQI-jdrXwT4cqvNx2U-LFqnFUgcrsKJq-d69C5PfCZ9eVA&oe=6ABD4CC8",
+    "started": "2026-07-18",
+    "last_seen": "2026-09-26",
+    "days_running": 70,
+    "duplicates": 1,
+    "page_active_ads": 12,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "MMA Warehouse: inside-the-warehouse shot of Yokkao/Fairtex gloves stocked on racks, 'One US warehouse. No overseas wait.'",
+    "why_winner": "Live (last seen 2026-09-26), running 70 days since 2026-07-18; ad rank #1 (store: www.mmawarehouse.com)"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1618453312544201",
+    "reason": "Kaori: product crate in an orchard ('One harvest a year') - origin claim, no production shot"
+   },
+   {
+    "id": "1363277561874434",
+    "reason": "British Supplements: 'made & packed in UK' text over product only"
+   }
+  ],
+  "searched": [
+   "factory",
+   "our factory (adtext)",
+   "craftsmen",
+   "OCR grep (inside our/our factory/workshop/behind the scenes)",
+   "visual sweep",
+   "warehouse (adtext)"
+  ],
+  "notes": "5 new (+1 in I6 = 6). VitalHydra/SilentBall/MMA are warehouse/fulfilment behind-the-scenes rather than factory production; Gleetoria shows the artisan making the product."
+ },
+ {
+  "format": "WhatsApp Text",
+  "matches": [
+   {
+    "id": "931485672949096",
+    "advertiser": "Try Strawberry",
+    "file": "img_931485672949096.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/931485672949096?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=508860438988313",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/6a4efdbdab35dbb4f7e2ba173458f79e06c18485941c1c9320a1a947501d29eb.jpg",
+    "started": "2026-03-22",
+    "last_seen": "2026-09-26",
+    "days_running": 188,
+    "duplicates": 1,
+    "page_active_ads": 567,
+    "ad_rank": 213,
+    "store_revenue": "unconfirmed",
+    "why_format": "Try Strawberry: WhatsApp chat UI (green header 'Strawberry - online', doodle wallpaper, 'Today' pill) with the product sent as a photo and '...has left the chat' system bubbles.",
+    "why_winner": "Live (last seen 2026-09-26), running 188 days since 2026-03-22; 567 active ads on page (store: trystrawberry.com)"
+   },
+   {
+    "id": "1316114380063765",
+    "advertiser": "HiZoo",
+    "file": "img_1316114380063765.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1316114380063765?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=494564950405209",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/e428f1943c60868d0e6667d881c8c8c04b27212a4db61c7b37e368340c48c8bf.jpg",
+    "started": "2026-05-29",
+    "last_seen": "2026-09-26",
+    "days_running": 120,
+    "duplicates": 1,
+    "page_active_ads": 41,
+    "ad_rank": 212,
+    "store_revenue": "unconfirmed",
+    "why_format": "HiZoo: 'desk neck group' group-chat screenshot with green outgoing bubbles, product photo and before/after sent in-chat.",
+    "why_winner": "Live (last seen 2026-09-26), running 120 days since 2026-05-29; 41 active ads on page (store: hizoo.co)"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1753702072720633",
+    "reason": "Meke Baby: Instagram DM, not WhatsApp"
+   },
+   {
+    "id": "1606929334226111",
+    "reason": "One Glove: iMessage-style"
+   },
+   {
+    "id": "802326156240759",
+    "reason": "White November: iMessage"
+   },
+   {
+    "id": "1140387791473201",
+    "reason": "Tend-2: Messenger"
+   }
+  ],
+  "searched": [
+   "whatsapp (lastseen + toprank)",
+   "group chat",
+   "chat (adtext, min_active 30)",
+   "bestie",
+   "Try Strawberry (pagename)",
+   "OCR grep",
+   "visual sweep of ~3,500 pooled static winners",
+   "left the chat (timed out)"
+  ],
+  "notes": "2 found. Could not reach 5: live long-running WhatsApp mockups are very rare; 'whatsapp' in copy returns click-to-WhatsApp business ads. HiZoo is a generic green-bubble group chat (WhatsApp-like, not branded)."
+ },
+ {
+  "format": "Venn Diagram",
+  "matches": [
+   {
+    "id": "1065585565606110",
+    "advertiser": "Simple Sinus Hacks",
+    "file": "img_1065585565606110.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1065585565606110?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=803962102799527",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/c698916ebd8b73bf763b822483d46d690d12db920a4323be4ef3427d8e445200.jpg",
+    "started": "2025-11-26",
+    "last_seen": "2026-09-25",
+    "days_running": 304,
+    "duplicates": 2,
+    "page_active_ads": 46,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "Simple Sinus (Cleriva): two overlapping red circles 'I want to stop wasting money on nasal sprays' / 'I want to breathe clearly all day' with the device at the intersection.",
+    "why_winner": "Live (last seen 2026-09-25), running 304 days since 2025-11-26; 46 active ads on page, ad rank #1 (store: www.cleriva.com)"
+   },
+   {
+    "id": "1876171250433838",
+    "advertiser": "Laura Bennett",
+    "file": "img_1876171250433838.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1876171250433838?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1036098712917446",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/26532cb53c497383cce25dacb8fdd94cac786719042a54673b33f3dc8488879b.jpg",
+    "started": "2026-08-12",
+    "last_seen": "2026-09-26",
+    "days_running": 45,
+    "duplicates": 1,
+    "page_active_ads": 8,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "Balmbare (Laura Bennett page): Venn of 'Type II for your joints' and 'More than skin, hair + nails' with the Revive Plus Mix pouch in the overlap.",
+    "why_winner": "Live (last seen 2026-09-26), running 45 days since 2026-08-12; ad rank #1 (store: balmbare.com)"
+   },
+   {
+    "id": "1392109456184660",
+    "advertiser": "Laura Bennett",
+    "file": "img_1392109456184660.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1392109456184660?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1036098712917446",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/628b371a992b204e3cf37cbf5f1ede27ff7c6d13e4e057dc2a4c477457bbf6c5.jpg",
+    "started": "2026-08-12",
+    "last_seen": "2026-09-26",
+    "days_running": 45,
+    "duplicates": 1,
+    "page_active_ads": 8,
+    "ad_rank": 2,
+    "store_revenue": "unconfirmed",
+    "why_format": "Balmbare: second Venn variant, same circles on textured background.",
+    "why_winner": "Live (last seen 2026-09-26), running 45 days since 2026-08-12; ad rank #2 (store: balmbare.com)"
+   },
+   {
+    "id": "1507751674284461",
+    "advertiser": "Dr Sarah Whitfield, Ph D",
+    "file": "img_1507751674284461.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1507751674284461?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=105243425221437",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/39f417572d240b86189df0ab44c9760b86dcb26291a10f9e7ab3dbf31b17b8eb.jpg",
+    "started": "2026-05-30",
+    "last_seen": "2026-09-26",
+    "days_running": 119,
+    "duplicates": 1,
+    "page_active_ads": 68,
+    "ad_rank": 8,
+    "store_revenue": "unconfirmed",
+    "why_format": "NATPAT (Dr Sarah Whitfield page): whiteboard-drawn Venn 'No ticks on my kids' / 'No DEET on my kids' with 'TickPatch' in the overlap.",
+    "why_winner": "Live (last seen 2026-09-26), running 119 days since 2026-05-30; 68 active ads on page (store: www.natpat.com)"
+   }
+  ],
+  "rejected": [],
+  "searched": [
+   "venn (earlier)",
+   "visual sweep of pooled static winners"
+  ],
+  "notes": "4 found. Balmbare ads started 2026-08-12 (exactly 45d) but are ad rank #1/#2 on the page. NATPAT was also used as Doodle by I11."
+ },
+ {
+  "format": "New vs Old",
+  "matches": [
+   {
+    "id": "854860883916622",
+    "advertiser": "SleepEase",
+    "file": "img_854860883916622.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/854860883916622?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=267947976394950",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/b3f0a15fc4cbc64779e8f91657bad0e17398e8909e6f95575481da7bb004a978.jpg",
+    "started": "2026-06-16",
+    "last_seen": "2026-09-25",
+    "days_running": 102,
+    "duplicates": 1,
+    "page_active_ads": 434,
+    "ad_rank": 136,
+    "store_revenue": "unconfirmed",
+    "why_format": "SleepEase: split 'CPAP - Mechanical' (hoses, masks, lifetime equipment) VS 'NEMS Device - Wearable'.",
+    "why_winner": "Live (last seen 2026-09-25), running 102 days since 2026-06-16; 434 active ads on page (store: trysleepease.co)"
+   },
+   {
+    "id": "1313743094220068",
+    "advertiser": "NoMore",
+    "file": "img_1313743094220068.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1313743094220068?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=270263216164796",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/8398db12ee76ea561665d87ac715b9676d120301ed60a612adc24ee588351f4a.jpg",
+    "started": "2026-06-10",
+    "last_seen": "2026-09-24",
+    "days_running": 108,
+    "duplicates": 1,
+    "page_active_ads": 66,
+    "ad_rank": 11,
+    "store_revenue": "unconfirmed",
+    "why_format": "NoMore: 'Old device vs new system' - 1 target (old NoMore) vs 3 targets (new MultiRelief).",
+    "why_winner": "Live (last seen 2026-09-24), running 108 days since 2026-06-10; 66 active ads on page (store: try-nomore.com)"
+   },
+   {
+    "id": "2311163246294074",
+    "advertiser": "Track It",
+    "file": "img_2311163246294074.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2311163246294074?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=902436642959184",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/2c2c9113d7f9c43d3aeed7710510ba6bc56a8b47c11bbdcbf40557eb1fe69533.jpg",
+    "started": "2026-07-18",
+    "last_seen": "2026-09-26",
+    "days_running": 70,
+    "duplicates": 1,
+    "page_active_ads": 250,
+    "ad_rank": 35,
+    "store_revenue": "unconfirmed",
+    "why_format": "Track It: split 'The flawed default' (AirTag, red X list) vs 'The upgrade' (TrackIt, green checks).",
+    "why_winner": "Live (last seen 2026-09-26), running 70 days since 2026-07-18; 250 active ads on page (store: trackitofficial.com)"
+   },
+   {
+    "id": "2056296285098864",
+    "advertiser": "CPAP.com",
+    "file": "img_2056296285098864.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2056296285098864?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=104637039628052",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/4bd2f5aebbffe8cf75e8e41cb178773c2e762ba09887f7c06a162147957364f3.jpg",
+    "started": "2026-05-29",
+    "last_seen": "2026-09-26",
+    "days_running": 120,
+    "duplicates": 1,
+    "page_active_ads": 384,
+    "ad_rank": 119,
+    "store_revenue": "unconfirmed",
+    "why_format": "CPAP.com: 'Then' old CPAP machine vs 'Now' AirSense 11 with clunky/noisy vs intuitive/quiet pills.",
+    "why_winner": "Live (last seen 2026-09-26), running 120 days since 2026-05-29; 384 active ads on page (store: www.cpap.com)"
+   },
+   {
+    "id": "1926901701325683",
+    "advertiser": "Genius Vend",
+    "file": "img_1926901701325683.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1926901701325683?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=634034563118432",
+    "image_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.35426-6/679918954_800485739802219_841402707832105922_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x6wRspxKGo0Q7kNvwHMiuvs&_nc_oc=AdpjEgxKzJoeFnq918zb3gc1hIThxcf35mEly3_PDTL0tiVNdKP2ZPyn2e9Ft6K9eAA&_nc_zt=14&_nc_ht=scontent-phl2-1.xx&_nc_gid=l5VNVcfmz1OXprc6Jf3e7A&_nc_ss=7e289&oh=00_AQLmkz2WZibP8ULbDGycKJL-6dcNbodVYqDmntkat92wYg&oe=6ABBB368",
+    "started": "2026-04-27",
+    "last_seen": "2026-09-26",
+    "days_running": 152,
+    "duplicates": 2,
+    "page_active_ads": 45,
+    "ad_rank": 5,
+    "store_revenue": "unconfirmed",
+    "why_format": "GeniusVend: '30 MIN old restocking time' vs '5 MIN with PRIME' split.",
+    "why_winner": "Live (last seen 2026-09-26), running 152 days since 2026-04-27; 45 active ads on page, ad rank #5 (store: geniusvend.com)"
+   },
+   {
+    "id": "1059563219828964",
+    "advertiser": "Dr. Amy Spence M.D I Board Certified Dermatologist",
+    "file": "img_1059563219828964.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1059563219828964?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1022502870936914",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/b3f22576c4869ecff0d1f2ce0bbb5ff207e81f60272dee9624e0fcc0e28ea606.jpg",
+    "started": "2026-06-21",
+    "last_seen": "2026-09-26",
+    "days_running": 97,
+    "duplicates": 1,
+    "page_active_ads": 72,
+    "ad_rank": 39,
+    "store_revenue": "unconfirmed",
+    "why_format": "Meravae (Dr. Amy Spence page): 'The difference between shaving hair off and dissolving it' - old way (shaving & waxing, X) vs new (Meravae, check) split faces.",
+    "why_winner": "Live (last seen 2026-09-26), running 97 days since 2026-06-21; 72 active ads on page (store: meravae.co)"
+   },
+   {
+    "id": "1283613193790916",
+    "advertiser": "Raising Toddlers with Bec",
+    "file": "img_1283613193790916.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1283613193790916?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=961109957075226",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/b0e01302f16a663f180d6c917c68b5b7b38796aa5936812afa66d682f7227ada.jpg",
+    "started": "2025-12-16",
+    "last_seen": "2026-09-26",
+    "days_running": 284,
+    "duplicates": 1,
+    "page_active_ads": 259,
+    "ad_rank": 8,
+    "store_revenue": "unconfirmed",
+    "why_format": "Upairy (Raising Toddlers page): '1957: Trained at 18 months' vs 'TODAY: Still in diapers at 3.5 years' old-way vs today split.",
+    "why_winner": "Live (last seen 2026-09-26), running 284 days since 2025-12-16; 259 active ads on page (store: www.upairy.com)"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1027012986367373",
+    "reason": "Ambr: dupe price comparison ('old you \u00a3310 / new you \u00a329'), not an old-way/new-way method"
+   },
+   {
+    "id": "1008071851627985",
+    "reason": "Cosi Care scratch cycle vs safe scratching - closer to problem/solution"
+   }
+  ],
+  "searched": [
+   "visual sweep of pooled static winners",
+   "make the switch / outdated / traditional (earlier)"
+  ],
+  "notes": "7 found. SleepEase also has a second 'One NEMS device OR 20 years of CPAP' variant (2378251549650337)."
+ },
+ {
+  "format": "Diagram / Flowchart",
+  "matches": [
+   {
+    "id": "1713265843143291",
+    "advertiser": "Three Warriors",
+    "file": "img_1713265843143291.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1713265843143291?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=600515006774403",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/eab2746e2b5d665af15e7a436b83b8a580cfa62f1a747663ec08889927f5aff1.jpg",
+    "started": "2026-06-05",
+    "last_seen": "2026-09-26",
+    "days_running": 113,
+    "duplicates": 2,
+    "page_active_ads": 415,
+    "ad_rank": 166,
+    "store_revenue": "unconfirmed",
+    "why_format": "Three Warriors: 'The Tan Routine' hub - five products placed on a circle around the central label, each step annotated.",
+    "why_winner": "Live (last seen 2026-09-26), running 113 days since 2026-06-05; 415 active ads on page (store: www.threewarriors.com.au)"
+   },
+   {
+    "id": "4160298404106685",
+    "advertiser": "The Men's Hair Code",
+    "file": "img_4160298404106685.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4160298404106685?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1058072790727333",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/8f91e59cc3b34cfb2e9b91019c21c2884335d1a41dc4806ab30b691048726919.jpg",
+    "started": "2026-07-02",
+    "last_seen": "2026-09-26",
+    "days_running": 86,
+    "duplicates": 3,
+    "page_active_ads": 548,
+    "ad_rank": 281,
+    "store_revenue": "unconfirmed",
+    "why_format": "The Men's Hair Code (Yora): '6 powerful botanicals' linked by a dotted ring around the central product, each ingredient labelled.",
+    "why_winner": "Live (last seen 2026-09-26), running 86 days since 2026-07-02; 3 duplicates, 548 active ads on page (store: yoracare.com)"
+   },
+   {
+    "id": "1314956643430539",
+    "advertiser": "Human Pro",
+    "file": "img_1314956643430539.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1314956643430539?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=270630084795941",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/63a97d9c151b13db84cb8539c0ad1900ba9e89ee417d0f2d1dd457384c602eaf.jpg",
+    "started": "2026-06-05",
+    "last_seen": "2026-09-26",
+    "days_running": 113,
+    "duplicates": 1,
+    "page_active_ads": 19,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "Human Pro: four mushroom ingredient icons with arrows pointing into the central product pouch.",
+    "why_winner": "Live (last seen 2026-09-26), running 113 days since 2026-06-05; ad rank #1 (store: human-pro.com)"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "984890884423674",
+    "reason": "Three Warriors arrows pointing to products, no hub"
+   }
+  ],
+  "searched": [
+   "how it works",
+   "ecosystem/axis (earlier)",
+   "visual sweep",
+   "all-in-one (min_active 20)",
+   "ingredients (adtext, SP/HH/SK, min_active 30)"
+  ],
+  "notes": "3 found. Could not reach 5."
+ },
+ {
+  "format": "Partnership Carousels",
+  "matches": [],
+  "rejected": [],
+  "searched": [
+   "collab (images, carousel)",
+   "partnership (carousel)",
+   "copy grep for collab/partnered/x @ in pooled ads",
+   "visual sweep",
+   "partnership (carousel, toprank)"
+  ],
+  "notes": "0 found. Live collab ads are product shots or co-branded graphics (Thread Logic + Patagonia, Coke x Thread), not IG-profile collab carousels."
+ }
+]

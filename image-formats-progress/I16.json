@@ -1,0 +1,852 @@
+[
+ {
+  "format": "Influencer Whitelisting Ads",
+  "matches": [
+   {
+    "id": "1153531710187859",
+    "advertiser": "Onest Health",
+    "file": "img_1153531710187859.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1153531710187859?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=432796150650164",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/c3e871e0d0473a6f04e86835adaeaa3de0909450d51669dc40a938bc29ad1bae.jpg",
+    "started": "2026-04-14",
+    "last_seen": "2026-09-26",
+    "days_running": 165,
+    "duplicates": 1,
+    "page_active_ads": 147,
+    "ad_rank": 25,
+    "store_revenue": "unconfirmed",
+    "why_format": "Creator selfie-style photo holding the Hyperburn tub; copy is in the creator's own voice ('consider this your sign... use my code') tagging @onesthealth - creator content run as a partnership ad",
+    "why_winner": "Live 2026-09-26, running 165 days since 2026-04-14; 147 active ads on page; lands on https://www.onesthealth.com.au/products/hyperburn"
+   },
+   {
+    "id": "943312011824957",
+    "advertiser": "CuboAi Smart Baby Monitor AU",
+    "file": "img_943312011824957.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/943312011824957?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=104827552226436",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/2fca01f53f303cfc97182f69373e289976bd47033d1f3bf1b4e7e428c8307551.jpg",
+    "started": "2026-05-05",
+    "last_seen": "2026-09-26",
+    "days_running": 144,
+    "duplicates": 1,
+    "page_active_ads": 51,
+    "ad_rank": 18,
+    "store_revenue": "unconfirmed",
+    "why_format": "Creator's own 4-photo family grid (mum with baby at the cot, monitor in shot); first-person creator copy and creator discount-code landing URL (CUBOIG20)",
+    "why_winner": "Live 2026-09-26, running 144 days since 2026-05-05; 51 active ads on page; lands on https://au.getcubo.com/discount/CUBOIG20"
+   },
+   {
+    "id": "973869285540849",
+    "advertiser": "U-Perform",
+    "file": "img_973869285540849.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/973869285540849?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=114014519989383",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/998de2c89c0d2d91c39b1a150de70596cd57f463b6313a78da45c94c6ecfd8ac.jpg",
+    "started": "2026-05-13",
+    "last_seen": "2026-09-25",
+    "days_running": 136,
+    "duplicates": 1,
+    "page_active_ads": 74,
+    "ad_rank": 38,
+    "store_revenue": "unconfirmed",
+    "why_format": "CrossFit athlete in his gym holding up two U-Perform bags (active collagen + whey); copy 'proud to be teaming up with U-Perform... use my code BEV'",
+    "why_winner": "Live 2026-09-25, running 136 days since 2026-05-13; 74 active ads on page; lands on https://www.u-perform.co.uk/pages/informed-sports-products"
+   },
+   {
+    "id": "1535510337995318",
+    "advertiser": "JSHealth Vitamins",
+    "file": "img_1535510337995318.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1535510337995318?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=2068789140052361",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/531f0be7980a882ab74409d884516568ddf16d8905c52d0e6b8a80735611954e.jpg",
+    "started": "2026-05-20",
+    "last_seen": "2026-09-25",
+    "days_running": 129,
+    "duplicates": 1,
+    "page_active_ads": 3255,
+    "ad_rank": 142,
+    "store_revenue": "unconfirmed",
+    "why_format": "Creator's Instagram story screenshot (Q-box 'Are you still taking the JS Health creatine?', 'Code LILS15', 'MY CREATINE' link sticker)",
+    "why_winner": "Live 2026-09-25, running 129 days since 2026-05-20; 3255 active ads on page; lands on https://us.jshealthvitamins.com/products/lean-formula"
+   },
+   {
+    "id": "1491627682469860",
+    "advertiser": "rosiepiper_",
+    "file": "img_1491627682469860.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1491627682469860?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101083032939662",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/3b6b431fd2b9818c2366f7082d1b16a800f6aead77c30683cd2ba857f233e71c.jpg",
+    "started": "2026-05-30",
+    "last_seen": "2026-09-26",
+    "days_running": 119,
+    "duplicates": 6,
+    "page_active_ads": 6,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "Ad runs under the creator's own handle 'rosiepiper_' (page name is her Instagram handle); image is her IG-story-style flat-lay of Happy V capsules with handwritten notes ('I've been subscribed for almost 2 years') and her code HAPPYROSIEPIPER15",
+    "why_winner": "Live 2026-09-26, running 119 days since 2026-05-30; 6 duplicates, ad rank #1; lands on https://happyv.com/products/probiotics-vaginal-health-supplement"
+   },
+   {
+    "id": "1320245022833293",
+    "advertiser": "Onest Health",
+    "file": "img_1320245022833293.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1320245022833293?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=432796150650164",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/1e62432b96e4197b664ca06f7a9ca888e984d6d06cd4671ef4137cf8920de4d8.jpg",
+    "started": "2026-06-01",
+    "last_seen": "2026-09-25",
+    "days_running": 117,
+    "duplicates": 1,
+    "page_active_ads": 166,
+    "ad_rank": 118,
+    "store_revenue": "unconfirmed",
+    "why_format": "Fitness creator gym mirror-style shot holding a shaker; creator voice copy 'use my code KATH10' tagging @onesthealth",
+    "why_winner": "Live 2026-09-25, running 117 days since 2026-06-01; 166 active ads on page; lands on https://www.onesthealth.com.au/products/"
+   },
+   {
+    "id": "2745125339195058",
+    "advertiser": "JSHealth Vitamins",
+    "file": "img_2745125339195058.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2745125339195058?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=2068789140052361",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/d619c236ce33946a96527ce192dceb981d43cdfa1e65800e2066b1dbfff17167.jpg",
+    "started": "2026-07-02",
+    "last_seen": "2026-09-26",
+    "days_running": 86,
+    "duplicates": 1,
+    "page_active_ads": 3152,
+    "ad_rank": 231,
+    "store_revenue": "unconfirmed",
+    "why_format": "Creator Instagram story of the JSHealth eye serum with her text stickers 'My code is still live! 15% off with AMYGERARD' and link sticker",
+    "why_winner": "Live 2026-09-26, running 86 days since 2026-07-02; 3152 active ads on page; lands on https://us.jshealthvitamins.com/products/illuminating-peptide-eye-seru"
+   },
+   {
+    "id": "1739489074134421",
+    "advertiser": "CuboAi Smart Baby Monitor AU",
+    "file": "img_1739489074134421.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1739489074134421?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=104827552226436",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/739feaa3cd08e3cf94cfa838b5dd78729b519460affb9a9c6d3a9137616345e0.jpg",
+    "started": "2026-07-07",
+    "last_seen": "2026-09-26",
+    "days_running": 81,
+    "duplicates": 1,
+    "page_active_ads": 51,
+    "ad_rank": 63,
+    "store_revenue": "unconfirmed",
+    "why_format": "Creator's personal 4-photo collage (nursery, her toddler, phone app) with her own caption stickers ('Watching over every nap', 'Official big brother duties'); creator code landing URL (Carlie2025)",
+    "why_winner": "Live 2026-09-26, running 81 days since 2026-07-07; 51 active ads on page; lands on https://au.getcubo.com/discount/Carlie2025"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1611822943465860",
+    "reason": "SKOL Beard 'Jimmy here' creator copy but image could not be downloaded to verify"
+   },
+   {
+    "id": "1622204132384227",
+    "reason": "SKOL creator copy but image is a product flat-lay, not the creator"
+   },
+   {
+    "id": "1634519977768491",
+    "reason": "HELLO underwear 'daddy fit' - reads as customer testimonial, not a creator handle"
+   },
+   {
+    "id": "1684321416192449",
+    "reason": "Ryan & Rose creator copy but image is a plain product shot, no creator"
+   }
+  ],
+  "searched": [
+   "adtext 'use my code' (lastseen)",
+   "adtext 'my partner'",
+   "adtext 'partnered with'",
+   "copy scan of ~4,700 live 45+ day static winners pooled from all hunt2 agents for creator-voice + discount-code copy",
+   "adtext 'my code' (lastseen, 45+ days)",
+   "adtext '#ad'",
+   "adtext 'gifted'",
+   "page_id cross-check across the pool for ads whose page name is an Instagram-style handle / differs from the brand page"
+  ],
+  "notes": "Identified by creator-made image (IG story stickers, creator holding product, personal photos) + creator first-person copy + personal discount code. rosiepiper_ runs under the creator's own handle; for the others Winning Hunter shows the brand page name, so the creator handle itself cannot be confirmed from WH data. Store revenue unconfirmed."
+ },
+ {
+  "format": "Native Advertorial",
+  "matches": [
+   {
+    "id": "694941836972149",
+    "advertiser": "Mums Health Hacks ",
+    "file": "img_694941836972149.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/694941836972149?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=236557406198656",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/a942428cea1d56e6ca723b496934d0f382d4d6b1a462066148f8d7c0fd029103.jpg",
+    "started": "2025-10-21",
+    "last_seen": "2026-09-23",
+    "days_running": 340,
+    "duplicates": 1,
+    "page_active_ads": 378,
+    "ad_rank": 2,
+    "store_revenue": "unconfirmed",
+    "why_format": "Candid phone snapshot of a supermarket self-checkout (no branding, no text); copy is a long first-person confession 'I returned £400 worth of collagen...'",
+    "why_winner": "Live 2026-09-23, running 340 days since 2025-10-21; 378 active ads on page, ad rank #2; lands on https://uk.elavate.com/products/collagen"
+   },
+   {
+    "id": "25222671814055755",
+    "advertiser": "Allison Arnold - Migraine Coach",
+    "file": "img_25222671814055755.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/25222671814055755?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=226809855997477",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/a1bfce9d13e6c2bfe16655fb8889df01c70e4ef5f2b533e7af7360f4cb5347b5.jpg",
+    "started": "2025-11-24",
+    "last_seen": "2026-09-24",
+    "days_running": 306,
+    "duplicates": 1,
+    "page_active_ads": 100,
+    "ad_rank": 8,
+    "store_revenue": "unconfirmed",
+    "why_format": "Unbranded close-up phone photo of a torn medicine sachet on a table; long first-person story 'I was on the floor of the bathroom...'",
+    "why_winner": "Live 2026-09-24, running 306 days since 2025-11-24; 100 active ads on page; lands on https://florusrelief.com/pages/stop-migraines"
+   },
+   {
+    "id": "3959867614304184",
+    "advertiser": "Modern Health Insider",
+    "file": "img_3959867614304184.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3959867614304184?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=892815567249176",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/410c6231b3b92e8ddc464cfbd2967e78cb9e190b011d0f7d31c29f000ae4a88b.jpg",
+    "started": "2025-12-04",
+    "last_seen": "2026-09-26",
+    "days_running": 296,
+    "duplicates": 1,
+    "page_active_ads": 28,
+    "ad_rank": 2,
+    "store_revenue": "unconfirmed",
+    "why_format": "Unfiltered selfie of cystic acne on a jawline, no text or logo; first-person confession 'My dermatologist looked at my jawline...'",
+    "why_winner": "Live 2026-09-26, running 296 days since 2025-12-04; ad rank #2; lands on https://trynutrivance.com/products/nutrivance-pumpkin-seed-oil-softgel"
+   },
+   {
+    "id": "1117879153560975",
+    "advertiser": "Emma's Mom Hacks",
+    "file": "img_1117879153560975.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1117879153560975?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=681873181686696",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/ffc3ced4b25598d745a96e4ebe400c7122de2523dab04b90415f46d0ba4a6ba8.jpg",
+    "started": "2025-12-06",
+    "last_seen": "2026-09-23",
+    "days_running": 294,
+    "duplicates": 1,
+    "page_active_ads": 283,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "Candid floor photo of a spilled box of nappies next to training pants, no branding; first-person mum story about potty training",
+    "why_winner": "Live 2026-09-23, running 294 days since 2025-12-06; 283 active ads on page, ad rank #1; lands on https://www.upairy.com/pages/training-underwear"
+   },
+   {
+    "id": "1323353999789610",
+    "advertiser": "The Balanced Gut",
+    "file": "img_1323353999789610.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1323353999789610?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=902885922914227",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/c66edc1596d23451261dc8af3f760f747bfd7883ef7b580b0c04c92b11fd7a8c.jpg",
+    "started": "2025-12-27",
+    "last_seen": "2026-09-23",
+    "days_running": 273,
+    "duplicates": 1,
+    "page_active_ads": 28,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "Raw bathroom snapshot of a hand holding tissue, no branding; first-person 'I was diagnosed with IBS at 19... turns out I never had IBS'",
+    "why_winner": "Live 2026-09-23, running 273 days since 2025-12-27; ad rank #1; lands on https://cirvano.com/products/para-detox-wormwood"
+   },
+   {
+    "id": "1443073660880115",
+    "advertiser": "Cat Life Magazine",
+    "file": "img_1443073660880115.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1443073660880115?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=738234486047922",
+    "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.35426-6/624597610_851757141020358_9110012317461978410_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CVXhG_DEwgUQ7kNvwHmTmAi&_nc_oc=Adoanbvn3Hl8Kdgk2E_a2BuCbAgD_SPypQ206UXu49aDYAyyg6rKIoOZ3XbSH6QcW3w&_nc_zt=14&_nc_ht=scontent-sjc6-1.xx&_nc_gid=BRsVskX7AG0gYkMUfz8y6Q&_nc_ss=7e289&oh=00_AQIhxnhz_GtxAQg_kYm2AMKT6qfxoeskC3ntZF-OZCBbKQ&oe=6ABD3825",
+    "started": "2026-01-29",
+    "last_seen": "2026-09-26",
+    "days_running": 240,
+    "duplicates": 1,
+    "page_active_ads": 27,
+    "ad_rank": 2,
+    "store_revenue": "unconfirmed",
+    "why_format": "Two candid phone photos (shelter cat behind bars, cat on lap), no text/logo; first-person rescue story",
+    "why_winner": "Live 2026-09-26, running 240 days since 2026-01-29; ad rank #2; lands on https://wagandwhiskers.ca/pages/stop-spraying-and-cat-conflict"
+   },
+   {
+    "id": "1697479751630748",
+    "advertiser": "Dr. Elizabeth Reed",
+    "file": "img_1697479751630748.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1697479751630748?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=908252275696520",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/471f6ef777428937e80b4f9ae0ce49c343b0d65ecb98ac99f4bdd39c829c39fe.jpg",
+    "started": "2026-02-13",
+    "last_seen": "2026-09-25",
+    "days_running": 225,
+    "duplicates": 2,
+    "page_active_ads": 82,
+    "ad_rank": 15,
+    "store_revenue": "unconfirmed",
+    "why_format": "Unbranded candid photo of a woman's chin/neck from below; long first-person confession about facial hair",
+    "why_winner": "Live 2026-09-25, running 225 days since 2026-02-13; 82 active ads on page; lands on https://aurlux.co/pages/instantly-remove-hair"
+   },
+   {
+    "id": "885490614472891",
+    "advertiser": "Margaret Rose",
+    "file": "img_885490614472891.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/885490614472891?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1014349798417419",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/35eb62158261fc921403449ca8c447e85c50746e3640716057d1cc6dacf476f6.jpg",
+    "started": "2026-02-16",
+    "last_seen": "2026-09-26",
+    "days_running": 222,
+    "duplicates": 1,
+    "page_active_ads": 183,
+    "ad_rank": 7,
+    "store_revenue": "unconfirmed",
+    "why_format": "Candid phone photo of a cat next to a litter box, no branding; first-person rant/story from a cat owner",
+    "why_winner": "Live 2026-09-26, running 222 days since 2026-02-16; 183 active ads on page; lands on https://kittysupps.com/products/taurine"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "26097777756477036",
+    "reason": "Emma's Mom Hacks: image is an X-ray style illustration, not a candid photo"
+   },
+   {
+    "id": "805734591847563",
+    "reason": "Life Beyond Leaks: selfie carries a big text caption overlay - more selfie-testimonial than disguised native"
+   }
+  ],
+  "searched": [
+   "copy scan of ~4,700 live 45+ day static winners (copy >=700 chars, first-person density), romance-novel authors excluded",
+   "adtext 'skeptical'",
+   "adtext 'myth'",
+   "adtext 'nobody tells you'"
+  ],
+  "notes": "Most are persona pages (named individuals / 'Health Insider' style) sending traffic to advertorial or product pages - the classic native setup. Store revenue unconfirmed."
+ },
+ {
+  "format": "Claymation Still",
+  "matches": [],
+  "rejected": [
+   {
+    "id": "1248892127090555",
+    "reason": "Everyday Pet Health (Wuffes) clay-figure woman+dog - claymation look but it is a VIDEO ad (poster frame), not static"
+   },
+   {
+    "id": "1611984356963707",
+    "reason": "Everyday Pet Health clay figure - VIDEO ad"
+   },
+   {
+    "id": "2019321685634591",
+    "reason": "Everyday Pet Health 'Senior dog parents' clay figures - VIDEO ad"
+   },
+   {
+    "id": "1046410997719608",
+    "reason": "Cacao Collective clay diorama - VIDEO ad"
+   },
+   {
+    "id": "1037381775823443",
+    "reason": "Cacao Collective crochet doll - VIDEO ad"
+   },
+   {
+    "id": "1060978723259360",
+    "reason": "WildnightX - Pixar-style 3D render, not hand-made craft"
+   },
+   {
+    "id": "1325942762929531",
+    "reason": "Everyday Pet Health - Pixar-style 3D, not clay"
+   },
+   {
+    "id": "1941142186749940",
+    "reason": "Alicia Darling - Pixar-style 3D, not clay"
+   }
+  ],
+  "searched": [
+   "keyword 'claymation' (0 results)",
+   "keyword 'plasticine' (0 results)",
+   "keyword 'stop motion'",
+   "keyword 'made of clay'",
+   "adtext 'clay' (min 30 days)",
+   "landing-url 'jc-5-reasons' (Wuffes clay creatives)",
+   "visual scan of ~3,190 live 45+ day static winners pooled from all hunt2 agents (not previously scanned by I7), 66 grids"
+  ],
+  "notes": "0 verified. The claymation look does run long (Wuffes/Everyday Pet Health 120+ days, Cacao Collective 71 days) but every live clay/craft creative found is a VIDEO (poster frame), which the rules exclude. No static claymation still met live + 45-day + scale. Not padded."
+ },
+ {
+  "format": "The Truth",
+  "matches": [
+   {
+    "id": "1513431953698085",
+    "advertiser": "Benjamin Smith",
+    "file": "img_1513431953698085.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1513431953698085?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=396673363539735",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/c4f29f42d03f7cc47c08a3acb3b0741b353ce5d0b0943764a6690c664639ee2f.jpg",
+    "started": "2026-05-02",
+    "last_seen": "2026-09-26",
+    "days_running": 147,
+    "duplicates": 4,
+    "page_active_ads": 5,
+    "ad_rank": 100,
+    "store_revenue": "unconfirmed",
+    "why_format": "Headline 'MOOBS DON'T LIE. YOUR T LEVELS ARE TANKED.' over a man in a bra - blunt truth reframes chest fat as a hormone problem",
+    "why_winner": "Live 2026-09-26, running 147 days since 2026-05-02; 4 duplicates; lands on https://mengotomars.com/pages/d2-v7"
+   },
+   {
+    "id": "1006471798577841",
+    "advertiser": "Cat Tips Daily",
+    "file": "img_1006471798577841.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1006471798577841?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=919785064546070",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/9f493d4082958271f4ee5e106b278aa2aa9cc39ca780c495908f9696ccefeddd.jpg",
+    "started": "2026-05-25",
+    "last_seen": "2026-09-23",
+    "days_running": 124,
+    "duplicates": 1,
+    "page_active_ads": 93,
+    "ad_rank": 1,
+    "store_revenue": "unconfirmed",
+    "why_format": "'Your litter box releases ammonia gas into your home 24 hours a day - and you stopped smelling it months ago' - hidden-truth reveal",
+    "why_winner": "Live 2026-09-23, running 124 days since 2026-05-25; 93 active ads on page, ad rank #1; lands on https://whisko.co/pages/advertorial-ammonia-v1"
+   },
+   {
+    "id": "1473390907412109",
+    "advertiser": "Frenchbeautyhub",
+    "file": "img_1473390907412109.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1473390907412109?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=150029964864737",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/89785005dddf31382de0c3e7d96667dd4fe239463bf650dfa9d5f01a36febf4e.jpg",
+    "started": "2026-06-01",
+    "last_seen": "2026-09-26",
+    "days_running": 117,
+    "duplicates": 3,
+    "page_active_ads": 107,
+    "ad_rank": 46,
+    "store_revenue": "unconfirmed",
+    "why_format": "Hand-held tube with text 'You're paying $50 for hyaluronic serums and your skin is still dry? That's marketing...' - flips the belief that pricey serums work",
+    "why_winner": "Live 2026-09-26, running 117 days since 2026-06-01; 3 duplicates, 107 active ads on page; lands on https://frenchbeautyhub.com/fr-eu/products/ialuset-hyaluronic-acid-cre"
+   },
+   {
+    "id": "1010870054800880",
+    "advertiser": "Carol M. Bennett, PT",
+    "file": "img_1010870054800880.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1010870054800880?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=850205058167201",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/93c932f5819c4b98ec8fde3f29e7e099e736ba0a30ce189774c00aff40288412.jpg",
+    "started": "2026-06-01",
+    "last_seen": "2026-09-26",
+    "days_running": 117,
+    "duplicates": 1,
+    "page_active_ads": 97,
+    "ad_rank": 77,
+    "store_revenue": "unconfirmed",
+    "why_format": "Vintage poster '5 MYTHS ABOUT NECK HUMPS YOU MUST KNOW' listing Myth: ... statements - explicit myth-busting",
+    "why_winner": "Live 2026-09-26, running 117 days since 2026-06-01; 97 active ads on page; lands on https://trycevera.com/pages/adv2-womens-wellness-report"
+   },
+   {
+    "id": "1780923939707046",
+    "advertiser": "Kenneth Baker-Smith",
+    "file": "img_1780923939707046.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1780923939707046?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1152746551248464",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/0491fd131029c8bc032068698a86151202f04580972564ee77584407299450eb.jpg",
+    "started": "2026-07-14",
+    "last_seen": "2026-09-24",
+    "days_running": 74,
+    "duplicates": 1,
+    "page_active_ads": 77,
+    "ad_rank": 51,
+    "store_revenue": "unconfirmed",
+    "why_format": "Calm sunset image with the single line 'Your nerves aren't \"dying\" they're starving' - myth-flip",
+    "why_winner": "Live 2026-09-24, running 74 days since 2026-07-14; 77 active ads on page; lands on https://uk.avalaine.com/pages/avalaine%C2%AE-magnesium-nerve-relief-pa"
+   },
+   {
+    "id": "1531336408623914",
+    "advertiser": "PurityLabs Co",
+    "file": "img_1531336408623914.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1531336408623914?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=422543844280743",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/995e3b5f65056550dace3efde686a16e8475ab4e3308b0000c6b3e1bcac73d79.jpg",
+    "started": "2026-07-25",
+    "last_seen": "2026-09-26",
+    "days_running": 63,
+    "duplicates": 1,
+    "page_active_ads": 350,
+    "ad_rank": 191,
+    "store_revenue": "unconfirmed",
+    "why_format": "Strikethrough 'Just Eat Less Carbs. You'll Lose the Belly.' then the truth: belly fat in men is hormonal",
+    "why_winner": "Live 2026-09-26, running 63 days since 2026-07-25; 350 active ads on page; lands on https://puritylabs.co/pages/testo-gummies-6"
+   },
+   {
+    "id": "1763554941628975",
+    "advertiser": "Natural Wellness Explained",
+    "file": "img_1763554941628975.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1763554941628975?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1119027261294227",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/92e6d45742b476344a0adca3e84e470bc9d4017a4c6fdaad08fcb6738b3f0516.jpg",
+    "started": "2026-08-06",
+    "last_seen": "2026-09-26",
+    "days_running": 51,
+    "duplicates": 1,
+    "page_active_ads": 82,
+    "ad_rank": 19,
+    "store_revenue": "unconfirmed",
+    "why_format": "'YOUR LEGS AREN'T SWOLLEN BECAUSE YOU'RE ON YOUR FEET ALL DAY. They're swollen because...' - myth-flip headline with diagram",
+    "why_winner": "Live 2026-09-26, running 51 days since 2026-08-06; 82 active ads on page; lands on http://sringe.com/products/lymphatic"
+   },
+   {
+    "id": "1049188627818252",
+    "advertiser": "Chef James Harrington",
+    "file": "img_1049188627818252.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1049188627818252?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1068384806368433",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/bf80c079c0ea7d4035b0f38cf45941185f6b2b6faaad19c7f4c127c09b854a8e.jpg",
+    "started": "2026-08-07",
+    "last_seen": "2026-09-26",
+    "days_running": 50,
+    "duplicates": 1,
+    "page_active_ads": 91,
+    "ad_rank": 42,
+    "store_revenue": "unconfirmed",
+    "why_format": "Split 'ONE PAN / OR FOUR' with the line 'The cheap pan is the expensive one.' - reframes price belief",
+    "why_winner": "Live 2026-09-26, running 50 days since 2026-08-07; 91 active ads on page; lands on https://longwellco.com/pages/harringtondealexplained"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "2092257051704664",
+    "reason": "Amla Green 'BP medication works 12 hours' - comparison, not a truth/myth flip"
+   },
+   {
+    "id": "1455641899606719",
+    "reason": "Takomo 'You're playing the wrong irons' - callout rather than myth flip"
+   },
+   {
+    "id": "1283613193790916",
+    "reason": "Upairy 1957 vs today - then/now comparison"
+   }
+  ],
+  "searched": [
+   "adtext 'truth about'",
+   "adtext 'the truth' (min_active_ads 30, longestrunning)",
+   "adtext 'myth'",
+   "adtext 'nobody tells you'",
+   "re-screen of I7 visual candidate list (29 ids)"
+  ],
+  "notes": "Store revenue unconfirmed. Whisko/Pet Studio, Hizoo, PurityLabs limited to max 2 per brand."
+ },
+ {
+  "format": "Demographic Callout",
+  "matches": [
+   {
+    "id": "1588829802268113",
+    "advertiser": "Mature Beauty Reviews",
+    "file": "img_1588829802268113.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1588829802268113?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=606296935898605",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/8826831f5b031364debdd3c0df381e96fc5099b4394bb19adca6bde08e94b97d.jpg",
+    "started": "2026-02-05",
+    "last_seen": "2026-09-26",
+    "days_running": 233,
+    "duplicates": 1,
+    "page_active_ads": 124,
+    "ad_rank": 31,
+    "store_revenue": "unconfirmed",
+    "why_format": "Split creative 'Think you're TOO OLD for Eyeliner? Eyeliner tips for women 50+' with close-ups of mature eyes",
+    "why_winner": "Live 2026-09-26, running 233 days since 2026-02-05; 124 active ads on page; lands on https://www.primeprometics.com/pages/eyeliner-tips"
+   },
+   {
+    "id": "1220419626910328",
+    "advertiser": "Mature Beauty Reviews",
+    "file": "img_1220419626910328.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1220419626910328?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=606296935898605",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/910415c8bd7230f7ddbd9eaa5fcd26e95a5380d6c052aaedc10584c3a284dccd.jpg",
+    "started": "2026-02-06",
+    "last_seen": "2026-09-26",
+    "days_running": 232,
+    "duplicates": 1,
+    "page_active_ads": 124,
+    "ad_rank": 32,
+    "store_revenue": "unconfirmed",
+    "why_format": "Advertorial card '5 PRO Tips to Perfect Eyeliner Wing In Your 50s'",
+    "why_winner": "Live 2026-09-26, running 232 days since 2026-02-06; 124 active ads on page; lands on https://www.primeprometics.com/pages/eyeliner-tips"
+   },
+   {
+    "id": "701394969623594",
+    "advertiser": "Provitalize Probiotics by BB Company",
+    "file": "img_701394969623594.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/701394969623594?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=2390405827894921",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/25949590426c84f139f82701d8a889c93003b6d47ac58afb7a0d0b5e563ae87a.jpg",
+    "started": "2026-02-15",
+    "last_seen": "2026-09-26",
+    "days_running": 223,
+    "duplicates": 1,
+    "page_active_ads": 128,
+    "ad_rank": null,
+    "store_revenue": "unconfirmed",
+    "why_format": "Headline 'For Women 50-75+ With Hip & Lower Back Pain' above the Provitalize bottle",
+    "why_winner": "Live 2026-09-26, running 223 days since 2026-02-15; 128 active ads on page; lands on https://thebbco.com/pages/provitalize-j-gt-rt-10dollar-rpl"
+   },
+   {
+    "id": "1532926618193362",
+    "advertiser": "Ascendant Research",
+    "file": "img_1532926618193362.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1532926618193362?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=982947081563701",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/3ffcfacb5e6cbfb4996bfd454275a30d556743e88094bd94990257a9e5d6ebf4.jpg",
+    "started": "2026-02-22",
+    "last_seen": "2026-09-26",
+    "days_running": 216,
+    "duplicates": 2,
+    "page_active_ads": 153,
+    "ad_rank": 37,
+    "store_revenue": "unconfirmed",
+    "why_format": "Dark premium card 'WANNA FEEL LIKE SUPERMAN AGAIN AT 51?' over Royal Black Honey sachets",
+    "why_winner": "Live 2026-09-26, running 216 days since 2026-02-22; 153 active ads on page; lands on https://ascendant-labs.com/products/royal-black-honey"
+   },
+   {
+    "id": "959143969920470",
+    "advertiser": "Meroda Cosmetics",
+    "file": "img_959143969920470.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/959143969920470?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101229165396171",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/42d56480b22af9d751d58a62271e855cdf9593f77558da9f542ad2d9674ce029.jpg",
+    "started": "2026-04-08",
+    "last_seen": "2026-09-19",
+    "days_running": 171,
+    "duplicates": 2,
+    "page_active_ads": 2257,
+    "ad_rank": 12,
+    "store_revenue": "unconfirmed",
+    "why_format": "Meroda 'THE 45+ EVERYDAY Essential' makeup bundle",
+    "why_winner": "Live 2026-09-19, running 171 days since 2026-04-08; 2257 active ads on page; lands on https://merodacosmetics.nl/products/endless-summer-bundle"
+   },
+   {
+    "id": "2206405603481200",
+    "advertiser": "Venialli",
+    "file": "img_2206405603481200.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2206405603481200?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1093855517153901",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/68f5df809e19527b3f87d268b8aedf5e392a8025639565f2c9c6ab8a2f9a0495.jpg",
+    "started": "2026-07-08",
+    "last_seen": "2026-09-26",
+    "days_running": 80,
+    "duplicates": 1,
+    "page_active_ads": 41,
+    "ad_rank": 9,
+    "store_revenue": "unconfirmed",
+    "why_format": "Sticky note on the product: 'WANTED: women over 50 to try our high-waisted shaping slip'",
+    "why_winner": "Live 2026-09-26, running 80 days since 2026-07-08; 41 active ads on page; lands on https://venialli.com/pages/high-waisted-shaping-briefs-seamless-tummy-"
+   },
+   {
+    "id": "1075022948284446",
+    "advertiser": "PhycoHealth",
+    "file": "img_1075022948284446.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1075022948284446?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=537799242995727",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/1cffa1aa04bdd43d9dac179fd95b46b72afbf51e07bff0c66b9d631e3ce4dfae.jpg",
+    "started": "2026-07-24",
+    "last_seen": "2026-09-25",
+    "days_running": 64,
+    "duplicates": 1,
+    "page_active_ads": 131,
+    "ad_rank": 112,
+    "store_revenue": "unconfirmed",
+    "why_format": "Candid house photo with caption 'We're looking for ladies 45+ that feel like menopause is stealing their skin...'",
+    "why_winner": "Live 2026-09-25, running 64 days since 2026-07-24; 131 active ads on page; lands on https://www.phycohealth.com/products/nourish-daily-moisturizer-with-th"
+   },
+   {
+    "id": "1398552852116283",
+    "advertiser": "Dr. Sarah Mitchell",
+    "file": "img_1398552852116283.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1398552852116283?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1035754452955416",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/f6114776e635f48dde18947141e3603efec3f83005ab3ebffc4bf54fe8f66908.jpg",
+    "started": "2026-07-29",
+    "last_seen": "2026-09-25",
+    "days_running": 59,
+    "duplicates": 5,
+    "page_active_ads": 60,
+    "ad_rank": 52,
+    "store_revenue": "unconfirmed",
+    "why_format": "Recruitment card 'We need 15 women over 50 who are DONE feeling 90 because of their hips'",
+    "why_winner": "Live 2026-09-25, running 59 days since 2026-07-29; 5 duplicates, 60 active ads on page; lands on https://tryhalsten.com/pages/vsl3"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "2176637239546121",
+    "reason": "Boxhero '12-hour shifts in 90F' - occupation callout, not age/life stage"
+   },
+   {
+    "id": "934611169657662",
+    "reason": "Renegade Fitness 'Sylvania Ladies' - local gym lead-gen, not DTC"
+   },
+   {
+    "id": "901748525959525",
+    "reason": "identical creative to 701394969623594 (same brand, same image); kept one"
+   }
+  ],
+  "searched": [
+   "adtext 'over 40'",
+   "adtext 'over 50'",
+   "adtext 'women over' (min_active_ads 30)",
+   "adtext 'menopause'",
+   "re-screen of I7 visual candidate list (33 ids)"
+  ],
+  "notes": "Store revenue unconfirmed. Max 2 per brand (Mature Beauty Reviews/PrimePrometics, Provitalize)."
+ },
+ {
+  "format": "Objection Handler (Quote-Led)",
+  "matches": [
+   {
+    "id": "2632321027161647",
+    "advertiser": "Pure Living Digest",
+    "file": "img_2632321027161647.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2632321027161647?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101568062195983",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/327675557d9a301b361a9a3590de54141bccc27a1d76373fa01034cc9cd5a34e.jpg",
+    "started": "2026-04-06",
+    "last_seen": "2026-09-26",
+    "days_running": 173,
+    "duplicates": 3,
+    "page_active_ads": 387,
+    "ad_rank": 203,
+    "store_revenue": "unconfirmed",
+    "why_format": "Fake review card 'Cheryl L. - Refund Request Denied - \"TOTAL SCAM!\"' followed by the rebuttal text - quotes the objection then answers it",
+    "why_winner": "Live 2026-09-26, running 173 days since 2026-04-06; 3 duplicates, 387 active ads on page; lands on https://www.onecompress.com/pages/purelivingdigest1202-1"
+   },
+   {
+    "id": "1516148083445343",
+    "advertiser": "Pirate Gold Poker",
+    "file": "img_1516148083445343.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1516148083445343?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=107508961038409",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/3c4d7c95a2a1ab17523e6b6f32e252fd9522f3b2575eaf641b2722b6d28c9d12.jpg",
+    "started": "2026-05-04",
+    "last_seen": "2026-09-26",
+    "days_running": 145,
+    "duplicates": 1,
+    "page_active_ads": 245,
+    "ad_rank": 6,
+    "store_revenue": "unconfirmed",
+    "why_format": "1-star rating + big quote '\"IT'S TOO EXPENSIVE.\"' over the open poker set; copy answers 'Over 50,000 customers would beg to differ'",
+    "why_winner": "Live 2026-09-26, running 145 days since 2026-05-04; 245 active ads on page; lands on https://pirategoldpoker.com/products/bundle-of-loot"
+   },
+   {
+    "id": "1243369291118586",
+    "advertiser": "Pirate Gold Poker",
+    "file": "img_1243369291118586.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1243369291118586?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=107508961038409",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/2e2fe969b30b6a0b99cf725a3eb2e0e0cc4f210f59f88c06994a51f947a9579f.jpg",
+    "started": "2026-05-05",
+    "last_seen": "2026-09-26",
+    "days_running": 144,
+    "duplicates": 1,
+    "page_active_ads": 245,
+    "ad_rank": 81,
+    "store_revenue": "unconfirmed",
+    "why_format": "Second 'IT'S TOO EXPENSIVE' 1-star quote execution on the chip case; copy 'Is it worth the plunge? 11,000+ customers seem to think so'",
+    "why_winner": "Live 2026-09-26, running 144 days since 2026-05-05; 245 active ads on page; lands on https://pirategoldpoker.com/products/bundle-of-loot"
+   },
+   {
+    "id": "978825437887335",
+    "advertiser": "Kaori",
+    "file": "img_978825437887335.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/978825437887335?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=650844748111692",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/3bcd261e0f578adff18833122f3a2188f7232cd43bc35f1b9c7476ddf860ba67.jpg",
+    "started": "2026-05-18",
+    "last_seen": "2026-09-26",
+    "days_running": 131,
+    "duplicates": 1,
+    "page_active_ads": 79,
+    "ad_rank": 18,
+    "store_revenue": "unconfirmed",
+    "why_format": "'YES, KAORI ISN'T CHEAP.' $ vs $$$ soap tags, answered by 'But other soaps can't break down nonenal'",
+    "why_winner": "Live 2026-09-26, running 131 days since 2026-05-18; 79 active ads on page; lands on https://try-kaori.com/products/deodorizing-persimmon-soap"
+   },
+   {
+    "id": "1037469735408841",
+    "advertiser": "Alain Dupetit",
+    "file": "img_1037469735408841.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1037469735408841?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1459638560995680",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/946004bd78158015de64233611c12aff543d18f3555992a78ede6f2615b9806e.jpg",
+    "started": "2026-06-20",
+    "last_seen": "2026-09-26",
+    "days_running": 98,
+    "duplicates": 1,
+    "page_active_ads": 168,
+    "ad_rank": 125,
+    "store_revenue": "unconfirmed",
+    "why_format": "'$69-$99 SUITS. Skeptical? \"Was really skeptical. Five suits later I am amazed.\" 11,368 reviews say otherwise'",
+    "why_winner": "Live 2026-09-26, running 98 days since 2026-06-20; 168 active ads on page; lands on https://alaindupetit.com/collections/all-suits"
+   },
+   {
+    "id": "1320389233616365",
+    "advertiser": "Ozzi Gear",
+    "file": "img_1320389233616365.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1320389233616365?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=124080020785941",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/e70fd90994742067955dcca141087353bbc97d07bbdb340f65bd9ef758e79cbb.jpg",
+    "started": "2026-07-05",
+    "last_seen": "2026-09-23",
+    "days_running": 83,
+    "duplicates": 1,
+    "page_active_ads": 688,
+    "ad_rank": 18,
+    "store_revenue": "unconfirmed",
+    "why_format": "1-star quote '\"They're too expensive\" ~ the person with 5 broken cheaper chairs' plus speech bubble answer 'But...they also have 300+ 5-star reviews'",
+    "why_winner": "Live 2026-09-23, running 83 days since 2026-07-05; 688 active ads on page; lands on https://ozzigear.com/products/ozzi-outdoor-chair"
+   },
+   {
+    "id": "3285146995004631",
+    "advertiser": "Bumpnest Maternity",
+    "file": "img_3285146995004631.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3285146995004631?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=573748639162223",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/eb6ebb8b48a85f3fb32b65589b115c302a74be484b4b59d90eed7dc367fda12e.jpg",
+    "started": "2026-08-08",
+    "last_seen": "2026-09-26",
+    "days_running": 49,
+    "duplicates": 1,
+    "page_active_ads": 57,
+    "ad_rank": 52,
+    "store_revenue": "unconfirmed",
+    "why_format": "iMessage bubbles: 'Should I get a Bumpnest Maternity Pillow? Is it worth it?' answered 'Not to be dramatic but this pillow changed my life'",
+    "why_winner": "Live 2026-09-26, running 49 days since 2026-08-08; 57 active ads on page; lands on https://bumpnest.com.au/products/bumpnest-pillow"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "27702024726127465",
+    "reason": "toddla 'The honest reason ours costs more' - handles price objection but as a founder letter, no quote/bubble"
+   },
+   {
+    "id": "1140387791473201",
+    "reason": "Tend-2 chat 'I was sceptical but...' - customer DM testimonial, objection not the lead"
+   },
+   {
+    "id": "1517114086568309",
+    "reason": "Blume 'Ask me anything' - question about a need, not an objection"
+   }
+  ],
+  "searched": [
+   "adtext 'skeptical'",
+   "adtext 'too expensive'",
+   "adtext 'is it worth it'",
+   "adtext 'you might be wondering'",
+   "adtext 'too good to be true' (502 error)",
+   "copy-regex scan of pool for objection phrasing (199 ads gridded and viewed)",
+   "re-screen of I7 candidate list (7 ids)"
+  ],
+  "notes": "Bumpnest is 49 days (just above the 45-day floor). Store revenue unconfirmed."
+ }
+]

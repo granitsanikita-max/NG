@@ -1,0 +1,345 @@
+[
+ {
+  "format": "Influencer Whitelisting Ads",
+  "picks": [
+   [
+    "1491627682469860",
+    "Ad runs under the creator's own handle 'rosiepiper_' (page name is her Instagram handle); image is her IG-story-style flat-lay of Happy V capsules with handwritten notes ('I've been subscribed for almost 2 years') and her code HAPPYROSIEPIPER15"
+   ],
+   [
+    "1153531710187859",
+    "Creator selfie-style photo holding the Hyperburn tub; copy is in the creator's own voice ('consider this your sign... use my code') tagging @onesthealth - creator content run as a partnership ad"
+   ],
+   [
+    "943312011824957",
+    "Creator's own 4-photo family grid (mum with baby at the cot, monitor in shot); first-person creator copy and creator discount-code landing URL (CUBOIG20)"
+   ],
+   [
+    "973869285540849",
+    "CrossFit athlete in his gym holding up two U-Perform bags (active collagen + whey); copy 'proud to be teaming up with U-Perform... use my code BEV'"
+   ],
+   [
+    "1535510337995318",
+    "Creator's Instagram story screenshot (Q-box 'Are you still taking the JS Health creatine?', 'Code LILS15', 'MY CREATINE' link sticker)"
+   ],
+   [
+    "1320245022833293",
+    "Fitness creator gym mirror-style shot holding a shaker; creator voice copy 'use my code KATH10' tagging @onesthealth"
+   ],
+   [
+    "1739489074134421",
+    "Creator's personal 4-photo collage (nursery, her toddler, phone app) with her own caption stickers ('Watching over every nap', 'Official big brother duties'); creator code landing URL (Carlie2025)"
+   ],
+   [
+    "2745125339195058",
+    "Creator Instagram story of the JSHealth eye serum with her text stickers 'My code is still live! 15% off with AMYGERARD' and link sticker"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1611822943465860",
+    "reason": "SKOL Beard 'Jimmy here' creator copy but image could not be downloaded to verify"
+   },
+   {
+    "id": "1622204132384227",
+    "reason": "SKOL creator copy but image is a product flat-lay, not the creator"
+   },
+   {
+    "id": "1634519977768491",
+    "reason": "HELLO underwear 'daddy fit' - reads as customer testimonial, not a creator handle"
+   },
+   {
+    "id": "1684321416192449",
+    "reason": "Ryan & Rose creator copy but image is a plain product shot, no creator"
+   }
+  ],
+  "searched": [
+   "adtext 'use my code' (lastseen)",
+   "adtext 'my partner'",
+   "adtext 'partnered with'",
+   "copy scan of ~4,700 live 45+ day static winners pooled from all hunt2 agents for creator-voice + discount-code copy",
+   "adtext 'my code' (lastseen, 45+ days)",
+   "adtext '#ad'",
+   "adtext 'gifted'",
+   "page_id cross-check across the pool for ads whose page name is an Instagram-style handle / differs from the brand page"
+  ],
+  "notes": "Identified by creator-made image (IG story stickers, creator holding product, personal photos) + creator first-person copy + personal discount code. rosiepiper_ runs under the creator's own handle; for the others Winning Hunter shows the brand page name, so the creator handle itself cannot be confirmed from WH data. Store revenue unconfirmed."
+ },
+ {
+  "format": "Native Advertorial",
+  "picks": [
+   [
+    "694941836972149",
+    "Candid phone snapshot of a supermarket self-checkout (no branding, no text); copy is a long first-person confession 'I returned \u00a3400 worth of collagen...'"
+   ],
+   [
+    "25222671814055755",
+    "Unbranded close-up phone photo of a torn medicine sachet on a table; long first-person story 'I was on the floor of the bathroom...'"
+   ],
+   [
+    "3959867614304184",
+    "Unfiltered selfie of cystic acne on a jawline, no text or logo; first-person confession 'My dermatologist looked at my jawline...'"
+   ],
+   [
+    "1117879153560975",
+    "Candid floor photo of a spilled box of nappies next to training pants, no branding; first-person mum story about potty training"
+   ],
+   [
+    "1323353999789610",
+    "Raw bathroom snapshot of a hand holding tissue, no branding; first-person 'I was diagnosed with IBS at 19... turns out I never had IBS'"
+   ],
+   [
+    "1443073660880115",
+    "Two candid phone photos (shelter cat behind bars, cat on lap), no text/logo; first-person rescue story"
+   ],
+   [
+    "1697479751630748",
+    "Unbranded candid photo of a woman's chin/neck from below; long first-person confession about facial hair"
+   ],
+   [
+    "885490614472891",
+    "Candid phone photo of a cat next to a litter box, no branding; first-person rant/story from a cat owner"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "26097777756477036",
+    "reason": "Emma's Mom Hacks: image is an X-ray style illustration, not a candid photo"
+   },
+   {
+    "id": "805734591847563",
+    "reason": "Life Beyond Leaks: selfie carries a big text caption overlay - more selfie-testimonial than disguised native"
+   }
+  ],
+  "searched": [
+   "copy scan of ~4,700 live 45+ day static winners (copy >=700 chars, first-person density), romance-novel authors excluded",
+   "adtext 'skeptical'",
+   "adtext 'myth'",
+   "adtext 'nobody tells you'"
+  ],
+  "notes": "Most are persona pages (named individuals / 'Health Insider' style) sending traffic to advertorial or product pages - the classic native setup. Store revenue unconfirmed."
+ },
+ {
+  "format": "Claymation Still",
+  "picks": [],
+  "rejected": [
+   {
+    "id": "1248892127090555",
+    "reason": "Everyday Pet Health (Wuffes) clay-figure woman+dog - claymation look but it is a VIDEO ad (poster frame), not static"
+   },
+   {
+    "id": "1611984356963707",
+    "reason": "Everyday Pet Health clay figure - VIDEO ad"
+   },
+   {
+    "id": "2019321685634591",
+    "reason": "Everyday Pet Health 'Senior dog parents' clay figures - VIDEO ad"
+   },
+   {
+    "id": "1046410997719608",
+    "reason": "Cacao Collective clay diorama - VIDEO ad"
+   },
+   {
+    "id": "1037381775823443",
+    "reason": "Cacao Collective crochet doll - VIDEO ad"
+   },
+   {
+    "id": "1060978723259360",
+    "reason": "WildnightX - Pixar-style 3D render, not hand-made craft"
+   },
+   {
+    "id": "1325942762929531",
+    "reason": "Everyday Pet Health - Pixar-style 3D, not clay"
+   },
+   {
+    "id": "1941142186749940",
+    "reason": "Alicia Darling - Pixar-style 3D, not clay"
+   }
+  ],
+  "searched": [
+   "keyword 'claymation' (0 results)",
+   "keyword 'plasticine' (0 results)",
+   "keyword 'stop motion'",
+   "keyword 'made of clay'",
+   "adtext 'clay' (min 30 days)",
+   "landing-url 'jc-5-reasons' (Wuffes clay creatives)",
+   "visual scan of ~3,190 live 45+ day static winners pooled from all hunt2 agents (not previously scanned by I7), 66 grids"
+  ],
+  "notes": "0 verified. The claymation look does run long (Wuffes/Everyday Pet Health 120+ days, Cacao Collective 71 days) but every live clay/craft creative found is a VIDEO (poster frame), which the rules exclude. No static claymation still met live + 45-day + scale. Not padded."
+ },
+ {
+  "format": "The Truth",
+  "picks": [
+   [
+    "1513431953698085",
+    "Headline 'MOOBS DON'T LIE. YOUR T LEVELS ARE TANKED.' over a man in a bra - blunt truth reframes chest fat as a hormone problem"
+   ],
+   [
+    "1006471798577841",
+    "'Your litter box releases ammonia gas into your home 24 hours a day - and you stopped smelling it months ago' - hidden-truth reveal"
+   ],
+   [
+    "1010870054800880",
+    "Vintage poster '5 MYTHS ABOUT NECK HUMPS YOU MUST KNOW' listing Myth: ... statements - explicit myth-busting"
+   ],
+   [
+    "1473390907412109",
+    "Hand-held tube with text 'You're paying $50 for hyaluronic serums and your skin is still dry? That's marketing...' - flips the belief that pricey serums work"
+   ],
+   [
+    "1780923939707046",
+    "Calm sunset image with the single line 'Your nerves aren't \"dying\" they're starving' - myth-flip"
+   ],
+   [
+    "1531336408623914",
+    "Strikethrough 'Just Eat Less Carbs. You'll Lose the Belly.' then the truth: belly fat in men is hormonal"
+   ],
+   [
+    "1763554941628975",
+    "'YOUR LEGS AREN'T SWOLLEN BECAUSE YOU'RE ON YOUR FEET ALL DAY. They're swollen because...' - myth-flip headline with diagram"
+   ],
+   [
+    "1049188627818252",
+    "Split 'ONE PAN / OR FOUR' with the line 'The cheap pan is the expensive one.' - reframes price belief"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "2092257051704664",
+    "reason": "Amla Green 'BP medication works 12 hours' - comparison, not a truth/myth flip"
+   },
+   {
+    "id": "1455641899606719",
+    "reason": "Takomo 'You're playing the wrong irons' - callout rather than myth flip"
+   },
+   {
+    "id": "1283613193790916",
+    "reason": "Upairy 1957 vs today - then/now comparison"
+   }
+  ],
+  "searched": [
+   "adtext 'truth about'",
+   "adtext 'the truth' (min_active_ads 30, longestrunning)",
+   "adtext 'myth'",
+   "adtext 'nobody tells you'",
+   "re-screen of I7 visual candidate list (29 ids)"
+  ],
+  "notes": "Store revenue unconfirmed. Whisko/Pet Studio, Hizoo, PurityLabs limited to max 2 per brand."
+ },
+ {
+  "format": "Demographic Callout",
+  "picks": [
+   [
+    "1588829802268113",
+    "Split creative 'Think you're TOO OLD for Eyeliner? Eyeliner tips for women 50+' with close-ups of mature eyes"
+   ],
+   [
+    "1220419626910328",
+    "Advertorial card '5 PRO Tips to Perfect Eyeliner Wing In Your 50s'"
+   ],
+   [
+    "701394969623594",
+    "Headline 'For Women 50-75+ With Hip & Lower Back Pain' above the Provitalize bottle"
+   ],
+   [
+    "1532926618193362",
+    "Dark premium card 'WANNA FEEL LIKE SUPERMAN AGAIN AT 51?' over Royal Black Honey sachets"
+   ],
+   [
+    "959143969920470",
+    "Meroda 'THE 45+ EVERYDAY Essential' makeup bundle"
+   ],
+   [
+    "2206405603481200",
+    "Sticky note on the product: 'WANTED: women over 50 to try our high-waisted shaping slip'"
+   ],
+   [
+    "1075022948284446",
+    "Candid house photo with caption 'We're looking for ladies 45+ that feel like menopause is stealing their skin...'"
+   ],
+   [
+    "1398552852116283",
+    "Recruitment card 'We need 15 women over 50 who are DONE feeling 90 because of their hips'"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "2176637239546121",
+    "reason": "Boxhero '12-hour shifts in 90F' - occupation callout, not age/life stage"
+   },
+   {
+    "id": "934611169657662",
+    "reason": "Renegade Fitness 'Sylvania Ladies' - local gym lead-gen, not DTC"
+   },
+   {
+    "id": "901748525959525",
+    "reason": "identical creative to 701394969623594 (same brand, same image); kept one"
+   }
+  ],
+  "searched": [
+   "adtext 'over 40'",
+   "adtext 'over 50'",
+   "adtext 'women over' (min_active_ads 30)",
+   "adtext 'menopause'",
+   "re-screen of I7 visual candidate list (33 ids)"
+  ],
+  "notes": "Store revenue unconfirmed. Max 2 per brand (Mature Beauty Reviews/PrimePrometics, Provitalize)."
+ },
+ {
+  "format": "Objection Handler (Quote-Led)",
+  "picks": [
+   [
+    "2632321027161647",
+    "Fake review card 'Cheryl L. - Refund Request Denied - \"TOTAL SCAM!\"' followed by the rebuttal text - quotes the objection then answers it"
+   ],
+   [
+    "1516148083445343",
+    "1-star rating + big quote '\"IT'S TOO EXPENSIVE.\"' over the open poker set; copy answers 'Over 50,000 customers would beg to differ'"
+   ],
+   [
+    "1243369291118586",
+    "Second 'IT'S TOO EXPENSIVE' 1-star quote execution on the chip case; copy 'Is it worth the plunge? 11,000+ customers seem to think so'"
+   ],
+   [
+    "978825437887335",
+    "'YES, KAORI ISN'T CHEAP.' $ vs $$$ soap tags, answered by 'But other soaps can't break down nonenal'"
+   ],
+   [
+    "1037469735408841",
+    "'$69-$99 SUITS. Skeptical? \"Was really skeptical. Five suits later I am amazed.\" 11,368 reviews say otherwise'"
+   ],
+   [
+    "1320389233616365",
+    "1-star quote '\"They're too expensive\" ~ the person with 5 broken cheaper chairs' plus speech bubble answer 'But...they also have 300+ 5-star reviews'"
+   ],
+   [
+    "3285146995004631",
+    "iMessage bubbles: 'Should I get a Bumpnest Maternity Pillow? Is it worth it?' answered 'Not to be dramatic but this pillow changed my life'"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "27702024726127465",
+    "reason": "toddla 'The honest reason ours costs more' - handles price objection but as a founder letter, no quote/bubble"
+   },
+   {
+    "id": "1140387791473201",
+    "reason": "Tend-2 chat 'I was sceptical but...' - customer DM testimonial, objection not the lead"
+   },
+   {
+    "id": "1517114086568309",
+    "reason": "Blume 'Ask me anything' - question about a need, not an objection"
+   }
+  ],
+  "searched": [
+   "adtext 'skeptical'",
+   "adtext 'too expensive'",
+   "adtext 'is it worth it'",
+   "adtext 'you might be wondering'",
+   "adtext 'too good to be true' (502 error)",
+   "copy-regex scan of pool for objection phrasing (199 ads gridded and viewed)",
+   "re-screen of I7 candidate list (7 ids)"
+  ],
+  "notes": "Bumpnest is 49 days (just above the 45-day floor). Store revenue unconfirmed."
+ }
+]

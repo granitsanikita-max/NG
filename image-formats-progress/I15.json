@@ -1,0 +1,142 @@
+[
+ {
+  "format": "Greenscreen Static",
+  "matches": [],
+  "rejected": [
+   {
+    "id": "924433876203196",
+    "reason": "creator talking head with IG comments overlay - no greenscreen cut-out over a screen/article"
+   },
+   {
+    "id": "1527925925573744",
+    "reason": "product in hand + tweet card, not a creator reacting in front of a screen"
+   }
+  ],
+  "searched": [
+   "re-screened ~3350 unviewed live winners (started<=2026-08-12, live>=2026-09-19, scale ok) from all agents' pools visually (69 grids)",
+   "OCR sweep of pool (tesseract) + other agents' OCR files for 'green screen/stitch/duet/reacting'",
+   "adtext: reacting to, this headline, saw this post, stitch (min_active_ads 30)",
+   "pagename Nutrition Geeks (3 pages)"
+  ],
+  "notes": "0 verified. Combined with I5's ~600 checks, ~4000 live long-running static winners seen; no creator-cut-out-over-screenshot (greenscreen) static found. This look lives in video ads; as a static it appears effectively unused by long-running winners."
+ },
+ {
+  "format": "IG Question Sticker",
+  "matches": [
+   {
+    "id": "792339123749453",
+    "advertiser": "JSHealth Vitamins Berberine+",
+    "file": "img_792339123749453.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/792339123749453?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=694436443761710",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/808538d252c79ae3fc323e096a1cedb960d40e67eea1aa04fe4a3fae95ad23d7.jpg",
+    "started": "2025-11-04",
+    "last_seen": "2026-09-26",
+    "days_running": 326,
+    "duplicates": 1,
+    "page_active_ads": 269,
+    "ad_rank": 73,
+    "store_revenue": "unconfirmed",
+    "why_format": "IG story with the white 'ASK ME ANYTHING' question sticker ('Is berberine actually worth the hype, or is it just another TikTok trend?') answered with 'Not just a trend and here is why' stat text boxes over a creator's midriff photo",
+    "why_winner": "Live 2026-09-26, running 326 days since 2025-11-04; 269 active ads on page; 1 duplicate(s); ad_rank 73"
+   },
+   {
+    "id": "1700247420981746",
+    "advertiser": "Black Hair Growth Hacks (Kuri Nuka)",
+    "file": "img_1700247420981746.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1700247420981746?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1039898659217661",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/9f7c5f3da521ef641363b7b66020423f22e7b6f36afae088dec4dbf8368b09f0.jpg",
+    "started": "2026-05-28",
+    "last_seen": "2026-09-24",
+    "days_running": 121,
+    "duplicates": 3,
+    "page_active_ads": 1011,
+    "ad_rank": 109,
+    "store_revenue": "unconfirmed",
+    "why_format": "Creator IG story (naturallytiff) with 'Ask me anything' question sticker 'What is that oil you keep using on your hair?', answered '@kurinuka Batana oil from Honduras. I swear by it', checklist + 'Link in bio, BOGO' and Send message bar",
+    "why_winner": "Live 2026-09-24, running 121 days since 2026-05-28; 1011 active ads on page; 3 duplicate(s); ad_rank 109"
+   },
+   {
+    "id": "974600775492387",
+    "advertiser": "Black Hair Growth Hacks (Kuri Nuka)",
+    "file": "img_974600775492387.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/974600775492387?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1039898659217661",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/8987b98d2891337c9cd9ccc5a6ba65f8fa3b87da4f57b167168c9d7300530838.jpg",
+    "started": "2026-05-28",
+    "last_seen": "2026-09-24",
+    "days_running": 121,
+    "duplicates": 5,
+    "page_active_ads": 1011,
+    "ad_rank": 102,
+    "store_revenue": "unconfirmed",
+    "why_format": "IG story with 'Q&A' question sticker 'My 4C hair has been the same length for 2 years no matter what I do...' answered 'I used to feel the exact same way, until I found @kurinuka', hand holding Batana oil jar with benefit tags",
+    "why_winner": "Live 2026-09-24, running 121 days since 2026-05-28; 1011 active ads on page; 5 duplicate(s); ad_rank 102"
+   },
+   {
+    "id": "1535510337995318",
+    "advertiser": "JSHealth Vitamins",
+    "file": "img_1535510337995318.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1535510337995318?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=2068789140052361",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/531f0be7980a882ab74409d884516568ddf16d8905c52d0e6b8a80735611954e.jpg",
+    "started": "2026-05-20",
+    "last_seen": "2026-09-25",
+    "days_running": 129,
+    "duplicates": 1,
+    "page_active_ads": 3255,
+    "ad_rank": 142,
+    "store_revenue": "unconfirmed",
+    "why_format": "Creator IG story with 'Ask me a question' sticker 'Are you still taking the JS health creatine?', answer text 'I sure am! It's the best thing...', 'Code LILS15' and 'MY CREATINE' link sticker",
+    "why_winner": "Live 2026-09-25, running 129 days since 2026-05-20; 3255 active ads on page; 1 duplicate(s); ad_rank 142"
+   },
+   {
+    "id": "1517114086568309",
+    "advertiser": "Meet Blume",
+    "file": "img_1517114086568309.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1517114086568309?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1098892030125622",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/83cc05dfa759fff654154546d0a6673cdd55906b06621ca1f5d38b263a12240c.jpg",
+    "started": "2026-06-02",
+    "last_seen": "2026-09-26",
+    "days_running": 116,
+    "duplicates": 1,
+    "page_active_ads": 393,
+    "ad_rank": 217,
+    "store_revenue": "unconfirmed",
+    "why_format": "Branded IG story: black-header 'Ask Me Anything' question sticker 'Any recs for deep, painful cystic acne that never seems to clear up?' answered 'Yes! The Clear Skin Kit is the best system...' above the Blume Meltdown product trio",
+    "why_winner": "Live 2026-09-26, running 116 days since 2026-06-02; 393 active ads on page; 1 duplicate(s); ad_rank 217"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "2098300230956015",
+    "reason": "JSHealth Vitality: IG story with shared DM/question responses ('can you share the debloat supplements...') - valid look, 184d live, dup3, but brand cap (JSHealth already has 2)"
+   },
+   {
+    "id": "2034845940431425",
+    "reason": "(from I5) Key Collagen FAQ box, not IG sticker UI"
+   },
+   {
+    "id": "2745125339195058",
+    "reason": "JSHealth creator story with text stickers + link sticker but no question sticker"
+   },
+   {
+    "id": "1328629085866433",
+    "reason": "Kuri Nuka 'Replied to your story' DM screenshot, not a question sticker"
+   },
+   {
+    "id": "2283467635814000",
+    "reason": "Beauty After 50 IG story frame with Send Message bar but no question sticker"
+   }
+  ],
+  "searched": [
+   "re-screened ~3350 unviewed live winners from all pools (grids)",
+   "OCR grep of all agents' OCR files for 'ask me / Q&A / any recs / send message'",
+   "adtext: i get asked, question of the day, you asked, your questions answered, ask me anything, ask me a question, q&a, link in bio, my code, my DMs, you guys asked",
+   "pagename/landingurl: jshealth, blume, meet blume, black hair growth hacks, kurinuka, nutrition geeks"
+  ],
+  "notes": "5 verified (3 brands: JSHealth x2, Kuri Nuka x2, Blume x1). Shortest run 116 days (Blume, since 2026-06-02); longest 326 days (JSHealth Berberine+). Scale via page active ads (269-3255) and Kuri Nuka dup 3-5. Format is concentrated in supplement/beauty brands using creator/whitelisted story creatives."
+ }
+]

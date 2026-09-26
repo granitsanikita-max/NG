@@ -1,0 +1,361 @@
+[
+ {
+  "format": "The Receipt",
+  "matches": [
+   {
+    "id": "1626273131797178",
+    "advertiser": "KeraLush",
+    "file": "img_1626273131797178.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1626273131797178?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=941147819076094",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/c278b9ba82fbfe4f891db2e7575fae2d6f44cef0516b11b208e374073543d557.jpg",
+    "started": "2026-06-12",
+    "last_seen": "2026-09-26",
+    "days_running": 106,
+    "duplicates": 1,
+    "page_active_ads": 41,
+    "ad_rank": 19,
+    "store_revenue": "unconfirmed",
+    "why_format": "Receipt-style itemized 'TRADITIONAL SUPPLEMENT STACK' slip: line items with dotted leaders and prices, TOTAL $200, then 'KeraLush: $71.10' below",
+    "why_winner": "Live 106 days (since 2026-06-12, last seen 2026-09-26); 41 active ads on page"
+   },
+   {
+    "id": "1034887729485188",
+    "advertiser": "Blueland",
+    "file": "img_1034887729485188.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1034887729485188?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=277005566267077",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/e6864677135c4cd4507155883796db4d972615741b0a938501f5c057acdbcba5.jpg",
+    "started": "2026-06-20",
+    "last_seen": "2026-09-26",
+    "days_running": 98,
+    "duplicates": 1,
+    "page_active_ads": 43,
+    "ad_rank": 8,
+    "store_revenue": "unconfirmed",
+    "why_format": "Literal paper receipt with torn zigzag top: Blueland welcome kit line items with prices/FREE, dashed rule, Total $34 -> $21 and a barcode at the bottom",
+    "why_winner": "Live 98 days (since 2026-06-20, last seen 2026-09-26); 43 active ads on page"
+   },
+   {
+    "id": "877457511993588",
+    "advertiser": "Boxhero Co",
+    "file": "img_877457511993588.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/877457511993588?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=104419721908310",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/4daefba8c0d5245092ad0fb04a457397ff1a621b794d23b75eb4549928b42440.jpg",
+    "started": "2026-05-30",
+    "last_seen": "2026-09-25",
+    "days_running": 119,
+    "duplicates": 2,
+    "page_active_ads": 451,
+    "ad_rank": 60,
+    "store_revenue": "unconfirmed",
+    "why_format": "Checkout/order-summary mockup: product line items with struck-through prices and FREE, then a TOTAL \u00a399.99 -> \u00a329.99 row",
+    "why_winner": "Live 119 days (since 2026-05-30, last seen 2026-09-25); 451 active ads on page"
+   },
+   {
+    "id": "2033791224014408",
+    "advertiser": "Dental Hygiene Finds",
+    "file": "img_2033791224014408.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2033791224014408?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=105691528234496",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/0752e9fcae47fbf68289051c6cb78fb17b6f592fc9767f28c8c78ab8c3f42f12.jpg",
+    "started": "2026-07-10",
+    "last_seen": "2026-09-26",
+    "days_running": 78,
+    "duplicates": 1,
+    "page_active_ads": 255,
+    "ad_rank": 5,
+    "store_revenue": "unconfirmed",
+    "why_format": "Three real printed store receipts laid under three denture cleaners with prices circled in red ($99.95 / $179.99 / $186) - 'which I kept and which I returned'",
+    "why_winner": "Live 78 days (since 2026-07-10, last seen 2026-09-26); 255 active ads on page, ad rank #5"
+   },
+   {
+    "id": "2406671879760289",
+    "advertiser": "KeraLush",
+    "file": "img_2406671879760289.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2406671879760289?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=941147819076094",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/f0880a5ea5cca9cb2ba3136eb891973c6e10a2a1bad5af76ec0329ca8ec1d6b7.jpg",
+    "started": "2026-06-12",
+    "last_seen": "2026-09-26",
+    "days_running": 106,
+    "duplicates": 1,
+    "page_active_ads": 41,
+    "ad_rank": 8,
+    "store_revenue": "unconfirmed",
+    "why_format": "Invoice-style Item/Price table itemizing 7 supplements at $15-$40 each, 'Your Traditional Supplements $200 USD' vs 'KeraLush $71.10 USD' (second KeraLush angle, weaker: table rather than paper slip)",
+    "why_winner": "Live 106 days (since 2026-06-12, last seen 2026-09-26); 41 active ads on page"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1244042027772625",
+    "reason": "Sarah Mitchell/Neurobella: 'Order confirmed' page is tiny on a laptop screen in a lifestyle photo, not the ad's format"
+   },
+   {
+    "id": "914421",
+    "reason": "esnc perfumery THEIRS $198 / OURS $35: price-tag comparison without receipt/barcode elements"
+   },
+   {
+    "id": "2358988731297785",
+    "reason": "Julie Anderson etc: 'receipt' copy search hits are long-copy advertorials whose images are photos, not receipts"
+   }
+  ],
+  "searched": [
+   "receipt (lastseen p1-2, longestrunning)",
+   "receipts (min_active 20-300)",
+   "subtotal",
+   "your order (min_active_ads 30)",
+   "order confirmed",
+   "total (min_days 60, min_active 30)",
+   "checkout",
+   "why pay",
+   "same smell",
+   "dupe",
+   "inspired by (BY niche)",
+   "dossier (pagename)",
+   "no regrets",
+   "visual prefilter over ~4,100 live winners pooled from all hunt2 agents (light, low-saturation images) + OCR"
+  ],
+  "notes": "Receipt statics are rare; the 5 above were found by visually screening ~4,100 pooled live winners. Two KeraLush ads (max 2 per brand). Shortest run 78 days."
+ },
+ {
+  "format": "Doodle",
+  "matches": [
+   {
+    "id": "1677831466976980",
+    "advertiser": "Orykas",
+    "file": "img_1677831466976980.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1677831466976980?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=562494436953266",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/8dc83ffef7403fcf700bc596a9e4b6f7354611e9130c031f8dde8ac780785f42.jpg",
+    "started": "2026-04-17",
+    "last_seen": "2026-09-26",
+    "days_running": 162,
+    "duplicates": 2,
+    "page_active_ads": 519,
+    "ad_rank": 188,
+    "store_revenue": "unconfirmed",
+    "why_format": "Pencil sketch of a boxer brief on grid paper with handwritten notes and arrows ('Soft fabric', 'No bulk', 'Moves with you')",
+    "why_winner": "Live 162 days (since 2026-04-17, last seen 2026-09-26); 519 active ads on page"
+   },
+   {
+    "id": "970646855651415",
+    "advertiser": "Charmlry",
+    "file": "img_970646855651415.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/970646855651415?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=119800344541545",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/7dbddb152e34d478bebdf2ab6f2a424f35e724bc2f66c10a12eaf0ac0ebe9064.jpg",
+    "started": "2026-04-30",
+    "last_seen": "2026-09-26",
+    "days_running": 149,
+    "duplicates": 1,
+    "page_active_ads": 113,
+    "ad_rank": 117,
+    "store_revenue": "unconfirmed",
+    "why_format": "Pencil line sketch of a charm bracelet with handwritten annotations and arrows ('Adjustable Length', 'Removable/Addable Charms', names), beside a small wrist photo",
+    "why_winner": "Live 149 days (since 2026-04-30, last seen 2026-09-26); 113 active ads on page"
+   },
+   {
+    "id": "1507751674284461",
+    "advertiser": "Dr Sarah Whitfield, Ph D",
+    "file": "img_1507751674284461.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1507751674284461?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=105243425221437",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/39f417572d240b86189df0ab44c9760b86dcb26291a10f9e7ab3dbf31b17b8eb.jpg",
+    "started": "2026-05-30",
+    "last_seen": "2026-09-26",
+    "days_running": 119,
+    "duplicates": 1,
+    "page_active_ads": 68,
+    "ad_rank": 8,
+    "store_revenue": "unconfirmed",
+    "why_format": "Hand-drawn pink marker Venn diagram on a real whiteboard ('No ticks on my kids' / 'No DEET on my kids' / 'TickPatch') with the NATPAT pack leaning against it",
+    "why_winner": "Live 119 days (since 2026-05-30, last seen 2026-09-26); 68 active ads on page"
+   },
+   {
+    "id": "1323312036605199",
+    "advertiser": "Regensil",
+    "file": "img_1323312036605199.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1323312036605199?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=739891462537402",
+    "image_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.35426-6/722116827_1688805442322466_567835660178079053_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cubPeSeRyIMQ7kNvwGwHV5z&_nc_oc=Adov1dUJ9Xpwn5PoLIAagH_3GaVpJXDMJEqXkXY3q1hF-E1QZs6iHgH4-77CXfdIEwo&_nc_zt=14&_nc_ht=scontent-phl2-1.xx&_nc_gid=NArFJOJQMmETVRAN83Tgqg&_nc_ss=7e289&oh=00_AQLjhuvWeJnQ94wuj1OhPeHDHNVRkYOLaCaAglC3i37MCw&oe=6ABD3B59",
+    "started": "2026-06-13",
+    "last_seen": "2026-09-26",
+    "days_running": 105,
+    "duplicates": 6,
+    "page_active_ads": 52,
+    "ad_rank": 21,
+    "store_revenue": "unconfirmed",
+    "why_format": "Pencil-sketch BEFORE/AFTER doodle: aching woman bending to toddler vs lifting child with ease, handwritten labels and red pain scribbles",
+    "why_winner": "Live 105 days (since 2026-06-13, last seen 2026-09-26); 6 duplicates, 52 active ads on page"
+   },
+   {
+    "id": "999128173000727",
+    "advertiser": "Regensil",
+    "file": "img_999128173000727.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/999128173000727?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=739891462537402",
+    "image_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.35426-6/751563498_1557307095801785_1492036684085954490_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r-prMtWYFj8Q7kNvwGdtT6v&_nc_oc=Adr0NtjmGkWa-CMDRpB8MZ5uohJrs64ZKA3Qc6O_jBL-42YCOF_rddDJCY_bsZZqUHU&_nc_zt=14&_nc_ht=scontent-phl2-1.xx&_nc_gid=NArFJOJQMmETVRAN83Tgqg&_nc_ss=7e289&oh=00_AQJjH0c1cY92Ge7hzIrrs_KC3EO4hUuZ-fZFiNdjP0ihJA&oe=6ABD543A",
+    "started": "2026-06-30",
+    "last_seen": "2026-09-26",
+    "days_running": 88,
+    "duplicates": 8,
+    "page_active_ads": 52,
+    "ad_rank": 22,
+    "store_revenue": "unconfirmed",
+    "why_format": "Same Regensil doodle angle: pencil-sketched woman struggling out of armchair vs arms-up, handwritten 'Aching hips', 'Sore knees' labels",
+    "why_winner": "Live 88 days (since 2026-06-30, last seen 2026-09-26); 8 duplicates, 52 active ads on page"
+   },
+   {
+    "id": "984890884423674",
+    "advertiser": "Three Warriors",
+    "file": "img_984890884423674.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/984890884423674?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=600515006774403",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/52d65fd8bbdde65919c10367a9b3312ec336f3e843199249cf69d1279f208a02.jpg",
+    "started": "2026-06-05",
+    "last_seen": "2026-09-26",
+    "days_running": 113,
+    "duplicates": 2,
+    "page_active_ads": 415,
+    "ad_rank": 156,
+    "store_revenue": "unconfirmed",
+    "why_format": "Crumpled-paper background with handwritten title 'THE TAN ROUTINE' and hand-lettered labels/arrows pointing at product silhouettes (weaker: products are flat silhouettes)",
+    "why_winner": "Live 113 days (since 2026-06-05, last seen 2026-09-26); 415 active ads on page"
+   },
+   {
+    "id": "992911530202297",
+    "advertiser": "Winterplay Studios",
+    "file": "img_992911530202297.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/992911530202297?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=138611363460851",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/374754a13968723cdd012d580dcd2ca4ebe50823ddab33af445ff3311d023968.jpg",
+    "started": "2026-07-25",
+    "last_seen": "2026-09-23",
+    "days_running": 63,
+    "duplicates": 1,
+    "page_active_ads": 42,
+    "ad_rank": 71,
+    "store_revenue": "unconfirmed",
+    "why_format": "Pure doodle: marker-drawn smiling computer monitor with red arrows and handwritten 'this ad is ugly because we spent the money on YOUR visitors instead'",
+    "why_winner": "Live 63 days (since 2026-07-25, last seen 2026-09-23); 42 active ads on page"
+   },
+   {
+    "id": "1346656971007621",
+    "advertiser": "Sandra Keller, RN",
+    "file": "img_1346656971007621.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1346656971007621?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1018883361310799",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/6842999cda7533366c42427e21e262523250d871e216acdcc9c96823a04a836b.jpg",
+    "started": "2026-08-05",
+    "last_seen": "2026-09-26",
+    "days_running": 52,
+    "duplicates": 1,
+    "page_active_ads": 528,
+    "ad_rank": 262,
+    "store_revenue": "unconfirmed",
+    "why_format": "Hand-drawn crayon nurse doodle on a folded card, 'I CAN'T STAND DOCTORS ANYMORE' in marker, handwritten letter underneath",
+    "why_winner": "Live 52 days (since 2026-08-05, last seen 2026-09-26); 528 active ads on page"
+   },
+   {
+    "id": "1051730764103264",
+    "advertiser": "Natural Wellness Explained",
+    "file": "img_1051730764103264.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1051730764103264?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1119027261294227",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/3d7eb54a1cf308cc09714b3fd0eb6fde3da71f989c455630f48f731d7d578c04.jpg",
+    "started": "2026-08-06",
+    "last_seen": "2026-09-25",
+    "days_running": 51,
+    "duplicates": 1,
+    "page_active_ads": 82,
+    "ad_rank": 74,
+    "store_revenue": "unconfirmed",
+    "why_format": "Pencil-sketch cartoon spray bottles with swollen vs slim legs, handwritten 'Without water pills' caption",
+    "why_winner": "Live 51 days (since 2026-08-06, last seen 2026-09-25); 82 active ads on page"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1627332438549697",
+    "reason": "MagicTree: handwritten header but icons are standard clip-art, not a doodle"
+   },
+   {
+    "id": "977600105055284",
+    "reason": "Dr Michelle Davis/Lumin: detailed etched portrait illustration, not a rough doodle"
+   },
+   {
+    "id": "782547677808528",
+    "reason": "Atma: handwritten '50% off +FREE keychain' text only, no drawing"
+   },
+   {
+    "id": "2070085773583547",
+    "reason": "Gentle Skin Method: polished anatomical pencil illustration, not a doodle note"
+   },
+   {
+    "id": "998752796109253",
+    "reason": "Rheal (brand of the old doodle ref): current live creative is a bold 'DON'T BUY THIS JUICE' design, the doodle version is inactive"
+   },
+   {
+    "id": "198828/471295 (Dr. Amy Spencer)",
+    "reason": "clean vector line-art faces, designed not doodled"
+   },
+   {
+    "id": "702938",
+    "reason": "Skin Salt: faces drawn on balloons (photo), not a doodle"
+   }
+  ],
+  "searched": [
+   "doodle (lastseen, longestrunning)",
+   "hand drawn",
+   "sketch",
+   "drew",
+   "illustration",
+   "cartoon",
+   "handwritten",
+   "notebook",
+   "rheal (pagename)",
+   "visual prefilter (light/low-saturation/edge-dense) over ~4,100 pooled live winners, 384 viewed"
+  ],
+  "notes": "Copy searches were useless for doodles; all matches came from visual screening. Winterplay Studios is a web-traffic service business (not DTC). Sandra Keller RN and Natural Wellness Explained are persona/advertorial pages for Metabolae and Sringe; Dr Sarah Whitfield page runs NATPAT's TickPatch."
+ },
+ {
+  "format": "Song Playlist",
+  "matches": [],
+  "rejected": [
+   {
+    "id": "825702623877147",
+    "reason": "Lettoria: 'Dark wave playlist - Spotify' only in copy; image is a product photo"
+   },
+   {
+    "id": "1684656589647762",
+    "reason": "Needledroptees 'Your Playlist Deserves a New Look': tee photo, not a playlist mockup; page has 1 active ad"
+   },
+   {
+    "id": "1603895074040155",
+    "reason": "CREEM Magazine: magazine cover, Spotify only in copy"
+   },
+   {
+    "id": "1299271725674705",
+    "reason": "Kobi Co candle: 'Your playlist...' in copy, image is product photo"
+   }
+  ],
+  "searched": [
+   "playlist (lastseen, longestrunning)",
+   "spotify (lastseen, longestrunning)",
+   "now playing",
+   "songs",
+   "liked songs",
+   "soundtrack",
+   "music (90d+)",
+   "album",
+   "mixtape",
+   "wrapped",
+   "on repeat",
+   "visual prefilter: 503 dark, text/UI-dense live winners (Spotify-style dark UI) viewed in grids, plus ~1,000 other pooled winners viewed during Receipt/Doodle screening"
+  ],
+  "notes": "0 verified. No live, 45+ day, scaled static in Winning Hunter visually mimics a Spotify/music playlist; every playlist/spotify/song hit mentions music only in copy. The format appears not to exist among current long-running winners."
+ }
+]
