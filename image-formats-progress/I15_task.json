@@ -1,0 +1,16 @@
+[
+ {
+  "name": "Greenscreen Static",
+  "stages": "TOF",
+  "why": "Creator-reacting-to-a-screen look signals native UGC.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "IG Question Sticker",
+  "stages": "TOF",
+  "why": "Question-sticker UI pulls in self-identifying viewers.",
+  "candidate_ids": [],
+  "already_found": 0
+ }
+]

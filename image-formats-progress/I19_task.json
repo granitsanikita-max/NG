@@ -1,0 +1,74 @@
+[
+ {
+  "name": "Trustpilot / Review-Site Screenshot",
+  "stages": "TOF,MOF",
+  "why": "A third-party review platform carries trust the brand can't claim.",
+  "candidate_ids": [],
+  "already_found": 2,
+  "orig_task": "I9"
+ },
+ {
+  "name": "iPhone Notes Screenshot",
+  "stages": "TOF",
+  "why": "Reads as a private note, so the guard drops before the pitch.",
+  "candidate_ids": [],
+  "already_found": 1,
+  "orig_task": "I9"
+ },
+ {
+  "name": "Let's Talk Numbers",
+  "stages": "MOF",
+  "why": "Stacks hard percentages around the product to beat skepticism.",
+  "candidate_ids": [],
+  "already_found": 2,
+  "orig_task": "I9"
+ },
+ {
+  "name": "Partnership Carousels",
+  "stages": "MOF",
+  "why": "Creator/brand collab as an IG profile. Borrows credibility.",
+  "candidate_ids": [],
+  "already_found": 0,
+  "orig_task": "I9"
+ },
+ {
+  "name": "Sourcing",
+  "stages": "MOF",
+  "why": "'Inside our factory' builds trust and justifies price.",
+  "candidate_ids": [],
+  "already_found": 1,
+  "orig_task": "I6"
+ },
+ {
+  "name": "WhatsApp Text",
+  "stages": "",
+  "why": "Mimics a WhatsApp conversation screenshot. Native feel.",
+  "candidate_ids": [],
+  "already_found": 0,
+  "orig_task": "I6"
+ },
+ {
+  "name": "Venn Diagram",
+  "stages": "TOF,MOF",
+  "why": "The product is the only thing at the intersection.",
+  "candidate_ids": [],
+  "already_found": 0,
+  "orig_task": "I6"
+ },
+ {
+  "name": "New vs Old",
+  "stages": "MOF",
+  "why": "Old way vs new way split makes the viewer do the math.",
+  "candidate_ids": [],
+  "already_found": 0,
+  "orig_task": "I6"
+ },
+ {
+  "name": "Diagram / Flowchart",
+  "stages": "MOF",
+  "why": "Icons connected into one hub. Shows how the pieces fit.",
+  "candidate_ids": [],
+  "already_found": 0,
+  "orig_task": "I6"
+ }
+]

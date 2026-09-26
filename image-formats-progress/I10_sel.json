@@ -1,0 +1,17 @@
+[
+{"format":"Sticky Note","matches":[
+ {"id":"922374017566203","why":"Big yellow handwritten-style sticky note ('WARNING! May trigger deep relaxation... FREE Shipping') with curled corner pinned above the acupressure mat, red arrow to product."}
+],"searched":["sticky note (adtext, relevance)","sticky note (lastseen/longestrunning sorts - keyword ignored)","post-it"],"rejected":[{"id":"896040346193775","reason":"DeskBoard Buddy product photo, copy mentions sticky notes but image is not a sticky note"}]},
+{"format":"Comment Section","matches":[],"searched":[]},
+{"format":"Email Screenshot","matches":[],"searched":[]},
+{"format":"You Can Avoid","matches":[],"searched":[]},
+{"format":"Side Effect","matches":[
+ {"id":"1918785148795580","why":"Navy pharma-label style card with headline 'SIDE EFFECTS MAY INCLUDE' and bulleted list of fun 'side effects' of owning a custom cricket bat."},
+ {"id":"1023398126939068","why":"Yellow hazard-warning layout 'WARNING: MAY CAUSE EXTREME RELAXATION - Side effects include: sudden loss of back pain, uncontrollable urge to nap...' over acupressure mat."},
+ {"id":"1397208245617345","why":"Same warning-label 'Side effects include' layout (black mat variant) - benefits reframed as side effects."},
+ {"id":"27591799277123238","why":"Pharma-style supplement bottle labelled 'Organic Growth', 'Daily dose of organic growth', checklist incl. 'No side effects on margins'; copy lists Ingredients + 'Side effects may include compounding revenue'."}
+],"searched":["side effects may include (2 pages)","may cause","side effects include (min_active_ads 20)"],"rejected":[{"id":"2176637239546121","reason":"Boxhero: side-effect copy only, image is plain product/benefit callout"},{"id":"1676565463586855","reason":"Biofit: copy only"},{"id":"2920355198319747","reason":"Drowsy: 'Don't buy this' image, side effects only in copy"},{"id":"1060264129692522","reason":"Meat Up: model photo"}]},
+{"format":"X for X","matches":[],"searched":[]},
+{"format":"Cartoon","matches":[],"searched":[]},
+{"format":"Unboxing (Static)","matches":[],"searched":[]}
+]

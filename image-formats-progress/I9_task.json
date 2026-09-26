@@ -1,0 +1,50 @@
+[
+ {
+  "name": "Before and After",
+  "stages": "MOF",
+  "why": "Classic transformation proof.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Instagram Story Response",
+  "stages": "",
+  "why": "Feels very native to the platform.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Testimonial / Review-Quote-Led Static",
+  "stages": "TOF",
+  "why": "Real customer words with the objection AND the turnaround inside the quote.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Trustpilot / Review-Site Screenshot",
+  "stages": "TOF,MOF",
+  "why": "A third-party review platform carries trust the brand can't claim.",
+  "candidate_ids": []
+ },
+ {
+  "name": "iPhone Notes Screenshot",
+  "stages": "TOF",
+  "why": "Reads as a private note, so the guard drops before the pitch.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Let's Talk Numbers",
+  "stages": "MOF",
+  "why": "Stacks hard percentages around the product to beat skepticism.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Partnership Carousels",
+  "stages": "MOF",
+  "why": "Creator/brand collab as an IG profile. Borrows credibility.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Stop Doing This",
+  "stages": "MOF",
+  "why": "Reframes the current habit as the problem.",
+  "candidate_ids": []
+ }
+]

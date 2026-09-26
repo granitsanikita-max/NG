@@ -1,0 +1,274 @@
+[
+ {
+  "format": "News Headline",
+  "matches": [
+   {
+    "id": "2571282259749563",
+    "why": "Styled as a 'senior news' article: masthead, rule line and editorial headline 'Every home needs this clock designed for dementia' above the product shot"
+   },
+   {
+    "id": "1748979445701365",
+    "why": "Editorial article card: 'ET' masthead, rule and news headline 'This Celeb-Loved Japandi TV Console Is a Can't-Miss Deal...' over a room photo"
+   },
+   {
+    "id": "1227498135114083",
+    "why": "Second 'ET'-masthead editorial card: headline 'This Celeb-Loved Japandi Sideboard Is a Can't-Miss Deal at the Exclusivia Spring Sale' over product photo"
+   },
+   {
+    "id": "1661352955158842",
+    "why": "Photo with black news-caption bar: 'BREAKING: Girl finally gets Fresh Sends flowers after begging boyfriend for months' (satirical headline)"
+   },
+   {
+    "id": "1692846655495632",
+    "why": "Same 'BREAKING:' satirical news-caption creative, separate ad ID running since April"
+   },
+   {
+    "id": "2599601110546348",
+    "why": "TV-news chyron: red 'BREAKING NEWS' tag + ticker-style headline bar over a lifestyle photo (Dutch)"
+   },
+   {
+    "id": "27770525379245067",
+    "why": "'BREAKING | NEWS' broadcast-style banner with headline 'YOU CAN STOP THE BEST PILLOW SPIRAL' and dek text"
+   },
+   {
+    "id": "1841020193974943",
+    "why": "Man holding a printed newspaper whose front-page headline reads 'MITCHDOWD HAS THE BEST BOXERSHORTS EVER MADE'"
+   }
+  ],
+  "searched": [
+   "breaking news (adtext, 3 pages)",
+   "headline",
+   "news",
+   "as seen on",
+   "forbes",
+   "almost gone",
+   "selling fast"
+  ],
+  "notes": "7-8 verified. Strongest: Simply Big 'senior news' card (675d) and Exclusivia 'ET' article cards (456d). Fresh Sends/Gladi/Lincove use a BREAKING caption/chyron on a photo. Shortest run 54d (mitchdowd newspaper).",
+  "rejected": [
+   {
+    "id": "945425594908475",
+    "reason": "Topdrawer - 'Back in stock' banner, not news styling"
+   },
+   {
+    "id": "1248881071639878",
+    "reason": "Nurosym (ref brand) current static is a plain lifestyle 'Recover faster' ad, not a headline"
+   },
+   {
+    "id": "824091813627028",
+    "reason": "Mens Optimum 'RESEARCH:' stat headline, research-claim not news layout; not live-verified brand"
+   }
+  ]
+ },
+ {
+  "format": "Native Ads",
+  "matches": [
+   {
+    "id": "925086440132948",
+    "why": "Candid home photo of an elderly woman rubbing her eyes in an armchair; no product, no headline (only a small Learn More pill); ~1900-char first-person story copy sells",
+    "wnote": "brand yolibrand.com"
+   },
+   {
+    "id": "1385186103432784",
+    "why": "Phone-style photo of a child at a piano recital; zero branding; ~2000-char grandparent story copy",
+    "wnote": "lands on alevia.com"
+   },
+   {
+    "id": "1527072905429709",
+    "why": "UGC-looking laundry-room photo (washer, dog, receipt); no text or logo; long 'Affresh is not for pet homes' story",
+    "wnote": "lands on uprootclean.com"
+   },
+   {
+    "id": "1481196443009522",
+    "why": "Plain photo of a pickle jar next to kidney images; looks like a health post, long doctor-voice story copy",
+    "wnote": "lands on getelavyn.com"
+   },
+   {
+    "id": "2098758144856514",
+    "why": "Snapshot of a burned-out car by a fence; nothing ad-like; long locksmith story copy",
+    "wnote": "lands on antiapex.com"
+   },
+   {
+    "id": "932924799777554",
+    "why": "Vintage family photo of a woman beside a china cabinet; no product; long inherited-furniture story",
+    "wnote": "lands on getluxgrove.com"
+   },
+   {
+    "id": "1747689999564503",
+    "why": "Black-and-white 1947-style photo of grandfather and boy at a kitchen table; no branding; 2000-char story",
+    "wnote": "lands on block-blaster.com"
+   },
+   {
+    "id": "2256169578524354",
+    "why": "Vet-clinic phone photo of a dog on IV with timestamp; no ad elements; long owner story",
+    "wnote": "lands on rhykin.com"
+   }
+  ],
+  "searched": [
+   "headline",
+   "my doctor",
+   "texted me",
+   "this message",
+   "group chat",
+   "my mum",
+   "news",
+   "almost gone",
+   "forbes",
+   "chat",
+   "messages",
+   "outdated",
+   "traditional",
+   "ecosystem",
+   "axis",
+   "workshop",
+   "factory"
+  ],
+  "notes": "Most long-running native statics run from persona/editorial pages (e.g. 'Dr. Isaiah Tyler', 'Auto Theft Report') that send traffic to a DTC brand's advertorial; brand domain noted in why_winner. Many more native candidates were seen (Sarah Mitchell 187d rk1, Essential Women's Health 142d, Dr. Jonathan Foster 106d, Pet Studio 96d, Kenneth Baker-Smith 88d)."
+ },
+ {
+  "format": "Low Stock Alerts",
+  "matches": [
+   {
+    "id": "4280924388861647",
+    "why": "Headline 'ONLY FEW PIECES LEFT' in gold caps above BOGO offer and ring product shot"
+   },
+   {
+    "id": "2409973362832127",
+    "why": "Minimal product photo (tan-drop dropper) with the only text 'ONLY 100 BOTTLES LEFT...' as the hook"
+   },
+   {
+    "id": "1023066113813519",
+    "why": "Lifestyle shoe photo overlaid with 'LOW STOCK IN YOUR COLOUR - and yes... this is targeted.'"
+   },
+   {
+    "id": "1774879786874027",
+    "why": "Yellow 'LOW STOCK' badge sits above the 'BUY 2, GET 2 FREE' headline with product lineup"
+   },
+   {
+    "id": "1375446864031689",
+    "why": "Same 'LOW STOCK' badge + BOGO layout, separate ad ID (rank #10 on page)"
+   },
+   {
+    "id": "972911095741506",
+    "why": "Offer graphic with a red 'WARNING LOW STOCK!' + 'SELLING OUT FAST' badge in the top corner (secondary element)"
+   },
+   {
+    "id": "1683788666010676",
+    "why": "Offer card ending in a red footer bar 'LOW STOCK | OFFER ENDS SOON' (secondary element)"
+   }
+  ],
+  "searched": [
+   "low stock",
+   "almost gone",
+   "selling fast",
+   "left in stock",
+   "artisans"
+  ],
+  "notes": "5 strong (headline IS the stock alert) + 2 weaker where low-stock is a badge/footer. vitaecharm_no 1409487820576924 (240d, rank 1, 'VI SIER FARVEL... last year's stock sold out in 48h') seen but is a last-chance/price message, not added.",
+  "rejected": [
+   {
+    "id": "981610664666618",
+    "reason": "Kidoriman 'FINAL CALL' = last-chance sale, no stock alert"
+   },
+   {
+    "id": "1240852441453780",
+    "reason": "Feather and Noise - plain model photo; scarcity only in copy"
+   }
+  ]
+ },
+ {
+  "format": "WhatsApp Text",
+  "matches": [],
+  "rejected": [],
+  "searched": [
+   "whatsapp",
+   "texted me",
+   "this message",
+   "group chat",
+   "my mum",
+   "chat",
+   "messages",
+   "sent us (keyword ignored by API)"
+  ],
+  "notes": "0 found. 'whatsapp' in copy only returns click-to-WhatsApp business ads; no live 45d+ static mimicking a WhatsApp chat surfaced in ~140 viewed candidates."
+ },
+ {
+  "format": "Venn Diagram",
+  "matches": [],
+  "rejected": [
+   {
+    "id": "1210278627804265",
+    "reason": "Wizardly Tees - Venn diagram is the T-shirt print (product), not the ad format; page <30 ads"
+   }
+  ],
+  "searched": [
+   "venn",
+   "best of both worlds"
+  ],
+  "notes": "0 found. 'venn' matches Norwegian 'venn' (friend). No 45d+ live Venn statics surfaced."
+ },
+ {
+  "format": "New vs Old",
+  "matches": [],
+  "rejected": [
+   {
+    "id": "1037635068835694",
+    "reason": "Innobative 'Otras baterias vs La MAG7' is us-vs-them, not old-way/new-way"
+   },
+   {
+    "id": "1356913969933004",
+    "reason": "THEN/NOW whiteboard = before/after body, not old vs new method"
+   }
+  ],
+  "searched": [
+   "old way (keyword split by API)",
+   "outdated",
+   "traditional",
+   "make the switch"
+  ],
+  "notes": "0 found strictly matching old-way vs new-way split."
+ },
+ {
+  "format": "Sourcing",
+  "matches": [
+   {
+    "id": "4389483878046851",
+    "why": "Collage led by a craftsman hand-engraving a ring at a workshop bench (behind-the-making shot) + finished rings",
+    "wnote": "only partial fit: workshop/craft scene, not a factory tour"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1011453608440760",
+    "reason": "High Country Salmon 'From Glacier to Plate' - origin claim but image is only fillets"
+   },
+   {
+    "id": "874996291769540",
+    "reason": "Ali Guler Furniture 'Handcrafted in Turkiye since 1972' - showroom photo, no production shot"
+   },
+   {
+    "id": "1356685793199380",
+    "reason": "Rarely/Ugmonk 'One workshop' - text + product only"
+   }
+  ],
+  "searched": [
+   "factory",
+   "artisans",
+   "workshop",
+   "harvested",
+   "behind the scenes (timed out)"
+  ],
+  "notes": "Only 1 found. Long-running static sourcing/factory images are rare; text searches return product shots with origin claims in copy."
+ },
+ {
+  "format": "Diagram / Flowchart",
+  "matches": [],
+  "rejected": [],
+  "searched": [
+   "ecosystem",
+   "axis",
+   "how it works (not run)"
+  ],
+  "notes": "0 found."
+ }
+]

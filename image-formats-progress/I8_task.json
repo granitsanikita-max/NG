@@ -1,0 +1,50 @@
+[
+ {
+  "name": "Quiz",
+  "stages": "TOF,MOF",
+  "why": "Interactive framing: 'which one are you' style.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Text Heavy Static",
+  "stages": "",
+  "why": "Copy-dense static, minimal visual. Stage depends on the copy.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Listicle / Curiosity Advertorial Static",
+  "stages": "TOF",
+  "why": "Editorial headline card opens a curiosity gap only a click closes.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Google Search Result",
+  "stages": "TOF",
+  "why": "Borrows Google's authority. The answer looks found, not sold.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Don't Be An Idiot",
+  "stages": "MOF",
+  "why": "A blunt challenge: prove you're not the idiot by reading on.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Free Ticket",
+  "stages": "BOF",
+  "why": "Torn-ticket coupon with code + urgency reads as a deal.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Recipes",
+  "stages": "TOF,MOF",
+  "why": "'How to make X' saveable content, product as an ingredient.",
+  "candidate_ids": []
+ },
+ {
+  "name": "X Post (Tweet Screenshot)",
+  "stages": "TOF",
+  "why": "Borrows the unfiltered-opinion credibility of X/Twitter.",
+  "candidate_ids": []
+ }
+]

@@ -1,0 +1,9 @@
+{"format":"Google Search Result",
+"matches":[
+["2394155944441055","'YOUR PHONE KNOWS YOU GRIND' over a dark search-history list with magnifier icons ('why does my jaw hurt', 'TMJ stretches that actually work', 'tension headache every morning', 'best night guard for teeth grinding') ending on the brand result 'Custom night guards. Dental-grade. From home. Under $100.'"],
+["2555527204843607","Phone screenshot of a search bar 'Lactobacillus for bv' with the autocomplete suggestion list (which lactobacillus helps with bv, does lactobacillus stop bv, best probiotic...) - the ad is the search page itself"],
+["1635956625123462","'the search:' label over a search-bar pill reading 'how to get rid of stinky breath?' then 'the solution:' with the Cool Breath spray devices - the reference layout exactly"]
+],
+"rejected":[["2013773335923230","Cool Breath flavour card, not search"],["1883310472447174","Cool Breath flavour card"],["837146385746033","Recovery Labs 'SEEKING:' forum/classified post - not Google"],["2043062556245176","Euclove iPhone Notes screenshot - Notes format, not search"]],
+"searched":["google (min_active 30)","google (min_dup 3)","googled","googling","stop googling","search (min_active 30)","the search (min_dup 3)","searched","searching","the solution","how to get rid of","how to stop","search history","typed","this is your answer","search results","people also ask (0 results)","Cool Breath (pagename)","frida (pagename)"],
+"notes":"ONLY 3 verified. Search-bar statics are rare among live 45d+ winners and their copy rarely mentions Google, so keyword search surfaces few. Remi Wellness page shows total_active_ads 0/None but dup 3 and rank 19. Tried 19 searches."}

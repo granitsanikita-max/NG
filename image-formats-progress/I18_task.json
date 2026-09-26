@@ -1,0 +1,58 @@
+[
+ {
+  "name": "Sticky Note",
+  "stages": "",
+  "why": "Handwritten sticky-note style. Feels personal and native.",
+  "candidate_ids": [],
+  "already_found": 1
+ },
+ {
+  "name": "Comment Section",
+  "stages": "MOF,BOF",
+  "why": "Mimics a comments thread. Social proof via replies.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "Email Screenshot",
+  "stages": "TOF",
+  "why": "A forwarded email reads as insider info shared between real people.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "You Can Avoid",
+  "stages": "MOF",
+  "why": "Loss aversion: what to dodge hits harder than a promised gain.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "Side Effect",
+  "stages": "MOF",
+  "why": "Pharma 'side effect' framing reframes benefits as consequences.",
+  "candidate_ids": [],
+  "already_found": 4
+ },
+ {
+  "name": "X for X",
+  "stages": "TOF",
+  "why": "'Like [famous brand], but for [category].' Instant positioning.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "Cartoon",
+  "stages": "TOF",
+  "why": "Hand-illustrated cartoon over the product. Playful pattern interrupt.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "Unboxing (Static)",
+  "stages": "TOF",
+  "why": "Candid box-opening photo reads as organic social proof.",
+  "candidate_ids": [],
+  "already_found": 0
+ }
+]

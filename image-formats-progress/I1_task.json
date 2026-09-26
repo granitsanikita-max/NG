@@ -1,0 +1,56 @@
+[
+ {
+  "name": "Where Looking For X (The Person)",
+  "stages": "TOF",
+  "why": "'We're looking for [type of person]' callout directly addresses the avatar.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Bold Headline",
+  "stages": "BOF",
+  "why": "Large, bold, text-led claim that overcomes final hesitation.",
+  "candidate_ids": []
+ },
+ {
+  "name": "The Receipt",
+  "stages": "MOF,BOF",
+  "why": "Mimics a purchase receipt or confirmation. Very native.",
+  "candidate_ids": []
+ },
+ {
+  "name": "The Paint Ad",
+  "stages": "TOF",
+  "why": "Deliberate low effort makes it feel like it isn't selling.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Don't Buy This",
+  "stages": "MOF",
+  "why": "Arguing against the sale disarms the skeptic.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Doodle",
+  "stages": "TOF",
+  "why": "A rough doodle feels like a person's note, not a designed asset.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Song Playlist",
+  "stages": "TOF",
+  "why": "Spotify-playlist mockup. Pattern interrupt that feels organic.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Crossed-Out Problems",
+  "stages": "MOF",
+  "why": "Red X's reject the old solutions before showing the product.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Demo (App/Product Screen)",
+  "stages": "MOF",
+  "why": "Screenshot of the product's own interface in use.",
+  "candidate_ids": []
+ }
+]

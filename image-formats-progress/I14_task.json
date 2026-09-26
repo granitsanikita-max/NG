@@ -1,0 +1,37 @@
+[
+ {
+  "name": "The Censored Ad",
+  "stages": "TOF",
+  "why": "Blur + warning label pulls curiosity. The blur itself is the CTA.",
+  "candidate_ids": [],
+  "already_found": 1
+ },
+ {
+  "name": "Ugly Ads",
+  "stages": "TOF",
+  "why": "Deliberately low-production look to dodge ad blindness.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "Problems (List Of)",
+  "stages": "TOF",
+  "why": "Stacking daily frictions makes the pain feel bigger.",
+  "candidate_ids": [],
+  "already_found": 3
+ },
+ {
+  "name": "Hack 101",
+  "stages": "TOF,MOF",
+  "why": "'Hack' framing reads as a tip, not a pitch.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "AI Podcast / Interview Clip (Thumbnail)",
+  "stages": "TOF",
+  "why": "Podcast-style two-person thumbnail borrows interview credibility.",
+  "candidate_ids": [],
+  "already_found": 0
+ }
+]

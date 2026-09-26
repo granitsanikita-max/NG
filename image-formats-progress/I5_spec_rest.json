@@ -1,0 +1,23 @@
+{"Tier List (Static)": {"matches": [
+ ["1454763635829133","Whiteboard 'Supplement Tier List' with colored S/A/B/F tier rows, 'STRONGER' in S tier, gummies in hand"],
+ ["1417946830015645","Variant of the same 'Supplement Tier List' whiteboard (S TIER: STRONGER, A/B/F tiers below) with product pouch"],
+ ["1536331837961975","'A chef ranked every pan. One stood alone.' with colored S/A/B/C/D tier bars (Pure Titanium S, Stainless A, Cast Iron B, Ceramic C, Teflon D)"],
+ ["872368072333297","'Ways to buy a cricket bat, ranked' - S/A/B/C/F tier rows, custom-made bat in S tier"],
+ ["N186","'Rating every acne wash I've bought my son' - photo of 10 washes each tagged with a /10 score, their own product at 100/10"]
+],
+"rejected":[["2008762999760888","Thyra 'One got a tier of its own' - S-tier coin only, no tier board; brand already in"],["914809214996720","JPGavan duplicate creative, keep one"],["1368746378567732","TerraWellness image is a stock warning card; tier list only in copy"],["N322","Kalba '4/5 coffees tested' ranked list - only 49 days and closer to comparison"]],
+"searched":["tier list","tier","ranked","ranking","S tier","ranked them","rating every","worst to best","I tested","toprank scan"],
+"notes":"Rare static format. Only 5 verified: Try Stronger x2 (153-154d, 64 active ads), Thyra/Healthy Kitchen Report (69d, rank #3), JPGavan (59d, 232 page ads), Shield/Anne Buckner (121d, 3 dups, rank #1). Anne Buckner is a /10 rating grid rather than a letter-tier board."},
+"Script (Curiosity Teaser Copy)": {"matches": [
+ ["N26","Plain purple-red gradient card with one white line: 'If you have hypertension and haven't heard of transdermal magnesium, you're fighting an uphill battle.' No product"],
+ ["N112","Sunset-sea photo card with a single small line 'Your nerves aren't \"dying\" they're starving' - no product, pure curiosity"],
+ ["N239","Same gradient card style, one line: 'If you have hypertension and haven't heard of transdermal magnesium, you're fighting your numbers in circles.'"],
+ ["N208","Dark plain card with one centred sentence 'If you've been through hell and turned it into healing, we'll help you share that story on one of the world's biggest stages.'"],
+ ["23","Hand holding a sticky note that just says 'Read before you buy Elavate' over tea and collagen scoop - one teaser line"],
+ ["N131","Minimal blush card: 'Guessing can be expensive.' single serif line above matcha glasses (sampler pack small print)"]
+],
+"rejected":[["27","Elavate duplicate of 23"],["231","DeborahJones 'oral should not end with a weird face' - text on photo, meme-ish"],["234","Kidoriman 'Japan figured out pants' - product collage dominates"]],
+"searched":["haven't heard of","most people don't know","the real reason","nobody told me","this is your sign","stop scrolling","if you have (short copy)","avalaine landing url","nobody talks about","read this if"],
+"notes":"N26/N112 (Kenneth Baker-Smith page) and N239 (Cheryl Wittman page) all promote the same store uk.avalaine.com - different FB pages; treat as one brand if strict (then 4 brands)."},
+"Greenscreen Static": {"matches": [], "searched":["pooled 1100+ image winners scanned visually","toprank en scan 5 pages","reacting / rating / I tested / ranked searches"], "notes":"0 verified. No live 45d+ static where a creator is cut out over a screenshot/article background was seen in ~600 visually checked winners. This look lives almost only in video ads."},
+"IG Question Sticker": {"matches": [], "rejected":[["N79","Key Collagen Q&A card ('Can Key Collagen help with hair thinning?') - FAQ box, not IG question-sticker UI"],["3331728240321808","CosmicMonica 'ask me' - psychic reader, excluded"]], "searched":["you asked","asked me","ask me anything","ask me","someone asked","people keep asking","pooled winners"], "notes":"0 verified. Keyword searches cannot see sticker UI; none spotted visually in ~600 checked winners."}}

@@ -1,0 +1,382 @@
+[
+ {
+  "format": "Where Looking For X (The Person)",
+  "matches": [
+   [
+    "1553219006550615",
+    "Plain pink card, huge 'WANTED:' headline then 'We're looking for 300 people cutting back on forever chemicals' - pure avatar callout"
+   ],
+   [
+    "2206405603481200",
+    "Product flat-lay with handwritten sticky note 'WANTED: women over 50 to try our high-waisted shaping slip'"
+   ],
+   [
+    "1046548827951428",
+    "Bedroom photo with TikTok-style caption 'We're looking for women with mature skin that 1. feel like their skincare stopped working 2. want to block the 3 enzymes'"
+   ],
+   [
+    "1398552852116283",
+    "Minimal card 'We need 15 women over 50 who are DONE feeling 90 because of their hips... see if you qualify' beside a portrait of the avatar"
+   ],
+   [
+    "934611169657662",
+    "Poster 'SYLVANIA LADIES - LOOKING FOR 12 WOMEN ready to say yes to transform their bodies in 21 days'"
+   ],
+   [
+    "1678432637326039",
+    "Soft photo with headline 'We're looking for mums worried about breastfeeding..' plus pain-point bubbles and product"
+   ],
+   [
+    "1510636696957485",
+    "Same brand, second angle: 'Wanted: 15 post-menopausal women who MUST sleep on their side again without hip pain'"
+   ],
+   [
+    "1427132855913526",
+    "Same brand, second angle: 'We're looking for women 45+ who 1. are tired of skincare that stops working after menopause 2. want the ONLY moisturiser...'"
+   ],
+   [
+    "1516211246966592",
+    "Gym portrait with overlay 'WE'RE LOOKING FOR BRAND AMBASSADORS' (recruit callout, weaker: targets ambassadors rather than buyers)"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "896671148809975",
+    "reason": "Salt Athletic 'Brand Ambassadors apply now' - recruitment banner, no 'looking for' callout in image"
+   },
+   {
+    "id": "2499130800513713",
+    "reason": "aestheticwolf 'Are you from the Netherlands & love creating content?' - creator recruitment, question hook not looking-for callout"
+   },
+   {
+    "id": "1294981698629697",
+    "reason": "Auditorey image is a 'which sound do you hear' quiz, callout only in copy"
+   },
+   {
+    "id": "1195155826141280",
+    "reason": "Venialli BOGO swimsuit promo, callout only in copy"
+   },
+   {
+    "id": "2104238223506576",
+    "reason": "Tegiwa dealer-network B2B banner"
+   },
+   {
+    "id": "613773488339929",
+    "reason": "Lathrop 'perfect boot for any lineman' - avatar callout but not a looking-for format"
+   }
+  ],
+  "searched": [
+   "looking for (adtext, longestrunning & lastseen)",
+   "we're looking for (p1-2)",
+   "we are looking for",
+   "calling all",
+   "testers",
+   "wanted:",
+   "wanted (90d+)",
+   "looking for women",
+   "we need"
+  ],
+  "notes": "True 'we're looking for X' statics are almost all 45-130 days old; none of the longest-running (90+) are in image form except the 1st Phorm ambassador ad. Max 2 per brand kept."
+ },
+ {
+  "format": "Bold Headline",
+  "matches": [
+   [
+    "1683615632620658",
+    "Vintage-poster style; giant bold headline 'OPTIMAL TOILET TRAINING PERIOD: 18-32 MONTHS' fills the top half, simple growth-stage strip below"
+   ],
+   [
+    "939523471906805",
+    "Huge 'ANXIETY WAKE-UP KILLER!' headline over product pouch with $0.56/night and 120k customers callouts"
+   ],
+   [
+    "1943662509852724",
+    "Minimal product shot with oversized bold claim 'THINNEST MAGSAFE WALLET'"
+   ],
+   [
+    "1485715023106783",
+    "Almost all type: massive green 'PRICE MATCH OR BEAT.' then 'Send it to us. We will match or beat it.' - kills the price objection"
+   ],
+   [
+    "1513431953698085",
+    "Bold orange 'MOOBS DON'T LIE. YOUR T LEVELS ARE TANKED.' over a man with a drawn-on bra, product bottom right"
+   ],
+   [
+    "952463317585313",
+    "Giant condensed 'YOUR E-BIKE HAS A CUTOFF - WE REMOVED IT' over action photo"
+   ],
+   [
+    "1285912176652593",
+    "Dark minimal layout, bold 'BUY ONCE / USE FOR YEARS' headline with lifetime warranty, single pen"
+   ],
+   [
+    "1344395440999312",
+    "Massive 'NO MORE BP GUESSWORK' headline dominating the frame, 3 benefit icons and product"
+   ],
+   [
+    "1902970993719399",
+    "Pure type on black: 'You tried to order. It wouldn't let you. That's fixed now.' above the tub"
+   ],
+   [
+    "4420969511506399",
+    "Bold 'PRICE GOES BACK UP AT MIDNIGHT - This is your last chance' with clock at 11:55 and product"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1482709540239143",
+    "reason": "Ascendant 'You've seen it. Now try it.' - headline small relative to product; weaker"
+   },
+   {
+    "id": "27710021792021524",
+    "reason": "Fr\u00f8ya '60-second morning reset' - product collage dominates"
+   }
+  ],
+  "searched": [
+   "visual browse of 577 live 90d+ static winners (2 per brand) from the shared WH result cache",
+   "keyword searches listed in other formats"
+  ],
+  "notes": "Bold headline statics are plentiful; picked the ones where the claim text is the dominant element. All 90d+."
+ },
+ {
+  "format": "Don't Buy This",
+  "matches": [
+   [
+    "935875575508824",
+    "Clean white card, serif headline 'DON'T BUY THIS DOG DEVICE' then 'Unless your dog loses it every time the doorbell rings' over the anti-bark device"
+   ],
+   [
+    "2565008520559916",
+    "Same brand, orange colourway of 'DON'T BUY THIS DOG DEVICE ... unless your dog loses it every time the doorbell rings'"
+   ],
+   [
+    "4513076385587447",
+    "'Please don't buy...' over a 1-star review card that is secretly a rave, ending '...if you don't want your cold sores to disappear.'"
+   ],
+   [
+    "995472559730460",
+    "'Please don't buy...' above a 1-star Trustpilot-style review ('Please don't buy this, I was wrong...') and '...if you don't want your acne scars to fade'"
+   ],
+   [
+    "1768026601277093",
+    "Editorial serif 'Don't Buy This iPhone Case' beside a leather case, with 3 reasons not to (if you like loud, logo-heavy, mass-produced cases)"
+   ],
+   [
+    "1062135406237443",
+    "1-star rating and bold 'DO NOT BUY THIS MULTIVITAMIN' over a parent quote that is actually a rave, product box below"
+   ],
+   [
+    "4863685343858318",
+    "Giant 'DON'T BUY THIS BUNDLE!' over the product bags, tag line 'UNLESS YOU WANT YOUR BEST SEASON YET'"
+   ],
+   [
+    "1484978313344846",
+    "Condensed headline 'DON'T BUY THIS IF YOU'VE GOT BAD BREATH - Unless you want to change that' beside the device"
+   ],
+   [
+    "1715985206346385",
+    "Luxury layout 'Don't buy this serum... You'll get too many compliments on your skin' with 5 stars and 50% off badge"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1726781781971798",
+    "reason": "Liver Health Forum: woman giving thumbs-down to product; 'don't buy' only in copy, not visually stated"
+   },
+   {
+    "id": "1745602136865342",
+    "reason": "Blood Pressure Support: same thumbs-down photo, anti-sale only in copy"
+   },
+   {
+    "id": "1498625721947210",
+    "reason": "Korean Skincare Tips: image says 'the eye patch you're not embarrassed to use' - not an anti-buy headline"
+   },
+   {
+    "id": "1380034544035795",
+    "reason": "Jessika Carter: image is a feature card 'Made for flatties'"
+   },
+   {
+    "id": "2328821700934569",
+    "reason": "Riverside Animal Rescue: long-form story, no don't-buy visual"
+   }
+  ],
+  "searched": [
+   "don't buy",
+   "do not buy",
+   "don't buy this (p1-2)",
+   "please don't buy"
+  ],
+  "notes": "Nuvary (4513076385587447) metrics taken from the I3 hunt record (same WH ad, verified live 2026-09-24); image re-checked here."
+ },
+ {
+  "format": "Crossed-Out Problems",
+  "matches": [
+   [
+    "1329727632021208",
+    "'Do you have urinary leaks? Don't use nappies!' - a nappy with a big red X through it, surrounded by its problems (humiliating design, odours, expensive, pollution); 'Choose Orykas instead'"
+   ],
+   [
+    "1344594767151360",
+    "Split card: our cushion with green ticks vs 'Others' column where every point gets a red X (flattens fast, gives no support)"
+   ],
+   [
+    "1723420978800276",
+    "'Big brand stock' carton with a column of red X's ($4.50/L, mostly water, yeast & sugar, landfill, 7-day life) before the jar with green ticks"
+   ],
+   [
+    "1302258725351861",
+    "Right column 'Cheap imitations' with seven red X problems (tears, chemical smells, melts, 1-star regrets) next to the original mat's green ticks"
+   ],
+   [
+    "24489553654033119",
+    "'Normal brushing' side marked with red X's (doesn't tackle deep stains, 0% whitening) vs 'Brushing with this powder' ticks"
+   ],
+   [
+    "4061610087305534",
+    "'DITCH EYE DROPS.' headline, comparison table where the eye-drops column is filled with red X's"
+   ],
+   [
+    "27611496101794597",
+    "Meme face 'When you're still using drugstore lipstick...' with red crossed circles ($30+, drying, guess your shade) above the HoneyNoir ticks"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "866974039434285",
+    "reason": "Mumshape: myth-vs-truth infographic, a single X only"
+   },
+   {
+    "id": "2651622488537793",
+    "reason": "Dr Michael James 'I tested them all' product lineup, no crossed-out items"
+   },
+   {
+    "id": "949725481262975",
+    "reason": "Blueland: X only in copy, image is UGC tablets"
+   }
+  ],
+  "searched": [
+   "\u274c (90d+, 30+ page ads)",
+   "no more (90d+)",
+   "visual browse of 577 live 90d+ statics"
+  ],
+  "notes": "Only Orykas literally crosses out the old solution itself; the rest use red-X lists against old solutions/competitors next to the product, which is the format's mechanic."
+ },
+ {
+  "format": "Demo (App/Product Screen)",
+  "matches": [
+   [
+    "777541607575269",
+    "Laptop mockup showing the MRPeasy dashboard (tiles for CRM, production plan, accounting) beside 'KNOW YOUR PRODUCTION COSTS & LEAD TIMES'"
+   ],
+   [
+    "1956847695038200",
+    "iPhone showing Takomo's online fitting tool mid-flow ('What is your 7-iron carry distance?' with slider and ball-flight arcs) under 'Buying your first iron set?'"
+   ],
+   [
+    "1666604354486022",
+    "Wellue O2Ring on a sleeper's finger plus phone with the app's overnight oxygen-level and pulse graphs"
+   ],
+   [
+    "1316293306663081",
+    "Hand holding a phone in a car at night showing the BlackVue dashcam app live/recorded view"
+   ],
+   [
+    "4513279425621000",
+    "Two phones doing tap-to-pay: Mollie's merchant screen showing the amount being accepted ('Zahlungen per Smartphone annehmen')"
+   ],
+   [
+    "1251546223359250",
+    "Phone displaying the Waggle camera app's live view of an RV campsite, camera device beside it"
+   ],
+   [
+    "4553488498267571",
+    "Revopoint scanner next to a monitor running the Geomagic Control X inspection software in use"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "1148603993887492",
+    "reason": "PCOS Doctor: dermatoscope photo on a monitor - not the advertiser's own interface"
+   },
+   {
+    "id": "1528331428829957",
+    "reason": "Phorest: award/person creative, no product screen"
+   },
+   {
+    "id": "2502887393556512",
+    "reason": "Revopoint bundle shot, screen too small to read as interface demo"
+   },
+   {
+    "id": "1037532635348787",
+    "reason": "Kuori: phone case product, not an app screen"
+   }
+  ],
+  "searched": [
+   "our app",
+   "app (90d+, 30+ ads)",
+   "app (EL,GG,HT niches)",
+   "in the app",
+   "track your",
+   "dashboard",
+   "on your phone",
+   "real-time",
+   "companion app",
+   "download the app",
+   "software",
+   "visual browse of 577 live 90d+ statics"
+  ],
+  "notes": "E-com heavy index: app-screen statics come mostly from device+app brands and SaaS. MRPeasy has several near-identical dashboard creatives (e.g. 1630422547529392, 797 days) - kept one."
+ },
+ {
+  "format": "The Paint Ad",
+  "matches": [
+   [
+    "782547677808528",
+    "Plain white canvas with two product cut-outs and MS-Paint-style black scrawl '50% Off' and '+FREE Keychain' - looks thrown together in a minute"
+   ],
+   [
+    "922782896909128",
+    "Hand-held product photo with wobbly hand-drawn marker text '20 MINS = MELATONIN-FREE SLEEP' scribbled over the wall"
+   ],
+   [
+    "1663590098002378",
+    "Phone snap of two pads on a bedspread with crude red freehand circles and an arrow drawn on top"
+   ],
+   [
+    "990140193565465",
+    "Raw photo of a sole of a foot with rough blue dashed lines drawn on to mark the pain zone"
+   ],
+   [
+    "1546298883754533",
+    "Museum photo of a statue with a sloppy red freehand ellipse scribbled around the object and a small 'WE BUILD' label"
+   ],
+   [
+    "1375303661175080",
+    "Flood photo with a messy red hand-drawn circle around a house - no design, no product"
+   ],
+   [
+    "1606101100591361",
+    "Real whiteboard with 'BACK IN STOCK Under $40!!!' scrawled in marker above the product box - deliberately low-effort"
+   ]
+  ],
+  "rejected": [
+   {
+    "id": "4555145261399276",
+    "reason": "Mywayup: handwritten sign but polished quiz overlay/CTA - designed asset"
+   },
+   {
+    "id": "1724958832211741",
+    "reason": "Bawdee: tidy sticky-note layout - sticky-note format, not paint"
+   },
+   {
+    "id": "1513431953698085",
+    "reason": "Benjamin Smith (Mars Men): drawn-on bra but pro poster layout; used under Bold Headline"
+   }
+  ],
+  "searched": [
+   "visual browse of 577 live 90d+ statics",
+   "keyword searches in other formats (on your phone, real-time, receipt...) surfaced 1375303661175080"
+  ],
+  "notes": "Paint-style statics are not keyword-searchable (no telltale copy); all found by looking. Last two are the weakest fits (annotation circle; physical marker sign)."
+ }
+]

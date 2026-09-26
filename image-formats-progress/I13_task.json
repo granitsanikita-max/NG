@@ -1,0 +1,30 @@
+[
+ {
+  "name": "Text on Skin",
+  "stages": "",
+  "why": "Text rendered directly onto skin/body in the shot. Pure visual style.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "The Spec Sheet",
+  "stages": "TOF,MOF",
+  "why": "Four facts, zero adjectives. The restraint is the persuasion.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "Us vs Us",
+  "stages": "MOF",
+  "why": "Old version vs new version. Progress without attacking a competitor.",
+  "candidate_ids": [],
+  "already_found": 1
+ },
+ {
+  "name": "IG Story (Native Callout)",
+  "stages": "TOF",
+  "why": "'WANTED'-style native story recruits a specific segment.",
+  "candidate_ids": [],
+  "already_found": 2
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "name": "5 Reasons Why / Listicle",
+  "stages": "TOF,MOF",
+  "why": "Cheapest CPMs of the format list.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Fact Vs Myth",
+  "stages": "TOF,MOF",
+  "why": "Debunking framing builds authority.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Meme Ads",
+  "stages": "TOF",
+  "why": "Only works in niches with inside jokes / community references.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Emergency",
+  "stages": "TOF",
+  "why": "Alert aesthetic hijacks attention like a real notification.",
+  "candidate_ids": []
+ },
+ {
+  "name": "X Signs",
+  "stages": "TOF",
+  "why": "A symptom checklist makes the viewer self-diagnose into the problem.",
+  "candidate_ids": []
+ },
+ {
+  "name": "We're Sorry",
+  "stages": "MOF,BOF",
+  "why": "An apology reads as honesty and lowers the guard.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Tap Your Goals",
+  "stages": "TOF,MOF",
+  "why": "Gamified self-selection grid pulls viewers in via interaction.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Text Message (iMessage Mockup)",
+  "stages": "TOF",
+  "why": "A friend recommending it in iMessage reads as trusted.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Transformation (Progress Timeline)",
+  "stages": "MOF",
+  "why": "Day 7 / 14 / 30 progression sells the journey.",
+  "candidate_ids": []
+ }
+]

@@ -1,0 +1,17 @@
+{"format":"Quiz",
+"matches":[
+["1156095986643522","Headline 'WHICH SHADE IS YOURS?' over a shade-swatch strip with a check mark, 'FIND OUT IN 30 SECONDS' button and '45% off after quiz' - pure which-one-are-you framing"],
+["827053966558874","Big 'CAN YOU PASS A 10TH GRADE ECONOMICS TEST?' challenge headline with a 'Test your knowledge' button - the ad itself is the quiz question"],
+["4555145261399276","Handwritten sign 'Bloated? Problem Skin? Can't Poop?' (self-diagnosis questions) + 'GUT HEALTH IS PERSONAL' + 'Take the 2-min quiz' button"],
+["1956847695038200","'BUYING YOUR FIRST IRON SET? GET FIT ONLINE' above a phone showing the actual quiz step ('WHAT IS YOUR 7-IRON CARRY DISTANCE?' with a slider and Back/Next)"],
+["912642738534862","'Which yard is right for you? Take our quiz now' with a checklist of quiz questions (region, needs, timber, size) and a 'Take the Quiz' button"],
+["1514411440186139","'Dry ends = oily scalp?' diagnostic question with arrows labelling the hair problem + 'Take the 2-min Vedix hair quiz' pill"],
+["27901083402841420","Ring of every earplug colour/style around 'Can't decide? Take the quiz' - the product line-up is the pick-your-type prompt"],
+["1076062304996554","'Quel est votre type de peau ?' with a tappable answer list (Peau seche / mixte / grasse / Aucune idee) - a quiz question rendered as UI"],
+["949620510890716","Second PragerU variant: piggy bank with '???' and 'CAN YOU PASS A 10TH GRADE ECONOMICS TEST?' + 'Test your knowledge' button"],
+["924788113673321","Second Takomo variant: phone screenshot of the fitting quiz question with iron on grey background, 'GET FIT ONLINE'"],
+["1477191374163685","Close-up serum shot with 'Want Glass Skin?' + outlined 'Take the Quiz' button as the entire message"]
+],
+"rejected":[["1411922627639165","Apolonnia: jewelry mood image, no quiz visual"],["1601721944489843","Vedix: BOGO offer card, no quiz visual"],["25004022619295847","Theradome: problem headline, quiz only as small CTA button"],["2086010361960269","E.ON Next: product card, no quiz visual"],["922782896909128","Calm: product hand-hold, no quiz visual"],["2052330416159795","Veneziano: product flat-lay, no quiz visual"],["2782536732101091","SkinKraft: free-gift offer, no quiz visual"],["1006472652068771","Remedy Skin: 'Take The Quiz' pill small; derm-routine offer - weaker, kept as reserve"],["1000866902760445","Maison de la Literie: search-bar quiz, only 53d, weaker"],["2225726351493985","Napoleon Perdis: text comparison, quiz only tiny CTA"],["26814443768231975","Elevated Faith: 'pick your favorite deal' numbered grid - pick-one but a sale grid, not a quiz"],["1082325781429153","DUER: personality caption per wash but single image, no quiz framing"],["1048262730899907","Doulton: 'Take The Quiz' headline but started 2026-08-12 (exactly 45d) - weaker than chosen"],["1343471504606188","Aurora Skin: ticket visual, not quiz"]],
+"searched":["quiz (adtext, lastseen desc, min_dup 3, 2 pages)","which one are you (adtext)","take the quiz (adtext, min_active_ads 30)"],
+"notes":"Quiz matched visually: image must show a question/answer UI, a diagnostic question or 'which X is yours/test your knowledge' framing, not just a small quiz CTA. PragerU is a media nonprofit (established) - flagged in case only DTC is wanted."}

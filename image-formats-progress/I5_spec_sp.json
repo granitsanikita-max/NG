@@ -1,0 +1,13 @@
+{"Social-Proof / Review-Count": {"matches": [
+ ["N161","Sofa hero with a big '20,000+ Happy Customers' banner as the anchor number (plus one 5-star quote)"],
+ ["75","'CHAINS - MOST WANTED' model shot anchored by Trustpilot stars '14,000+ verified 5-star reviews'"],
+ ["N231","Notes-style card headlined '30 million meals sold' with benefit checklist under it"],
+ ["236","'14 MILLION SOLD WORLDWIDE' banner across the top of the steam-cleaner static, 3500+ reviews stars at the bottom"],
+ ["N141","Tight product crop with huge '1,159 Reviews' and 5 stars as the only message"],
+ ["N234","'Loved by 1,000,000+ customers worldwide - EVERY 25 SECONDS SOMEONE CHOOSES timeless' headline over the serum"],
+ ["264","Giant '10,000+ CYCLISTS CARRY THIS ON EVERY RIDE.' headline over the mini pump"],
+ ["357","'Tried and trusted by 40,000+ men' + Trustpilot 4.8 rating block under three product packs (Buy 2 get 1 free)"]
+],
+"rejected":[["82","Barton '100,000+ Reviews' is tiny footer text, product layout leads"],["349","PurityLabs 'Trusted by 40,000+ men' small footer; brand already has 357"]],
+"searched":["reviews can't be wrong","million customers","5-star reviews and counting","sold worldwide","trusted by over","happy customers","5-star reviews","pooled image winners","toprank scan"],
+"notes":"357 (PurityLabs) is only 46 days but 27 duplicate ads."}}

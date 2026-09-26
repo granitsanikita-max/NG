@@ -1,0 +1,843 @@
+[
+ {
+  "format": "5 Reasons Why / Listicle",
+  "matches": [],
+  "rejected": [],
+  "searched": [
+   "adtext:reasons why",
+   "adtext:reasons why sort lastseen",
+   "adtext:reasons why lastseen mindays90",
+   "adtext:5 reasons minact30 mind90",
+   "reasons_why_p2",
+   "reasons_dup3",
+   "adtext:3 reasons mind45 minact30",
+   "adtext:reasons why mind90 p3"
+  ],
+  "notes": ""
+ },
+ {
+  "format": "Fact Vs Myth",
+  "matches": [
+   {
+    "id": "1010870054800880",
+    "advertiser": "Carol M. Bennett, PT",
+    "file": "img_1010870054800880.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1010870054800880?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=850205058167201",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/93c932f5819c4b98ec8fde3f29e7e099e736ba0a30ce189774c00aff40288412.jpg",
+    "started": "2026-06-01",
+    "last_seen": "2026-09-26",
+    "days_running": 117,
+    "duplicates": 1,
+    "page_active_ads": 97,
+    "ad_rank": 77,
+    "store_revenue": "unconfirmed",
+    "why_format": "Poster '5 MYTHS ABOUT NECK HUMPS YOU MUST KNOW' listing bolded Myth: statements each debunked beside an anatomical neck illustration",
+    "why_winner": "Live 2026-09-26 after 117 days running (since 2026-06-01); 97 active ads on page"
+   },
+   {
+    "id": "1554046622911356",
+    "advertiser": "Second Breath ",
+    "file": "img_1554046622911356.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1554046622911356?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=824295014093023",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/fa847187affc4b7d5685823cfb7a89e175b100151b7274c18fbac7ca106f352a.jpg",
+    "started": "2026-07-08",
+    "last_seen": "2026-09-26",
+    "days_running": 80,
+    "duplicates": 1,
+    "page_active_ads": 136,
+    "ad_rank": 108,
+    "store_revenue": "unconfirmed",
+    "why_format": "Title 'Clearing Thick Mucus: Myth vs Fact' with two struck-through grey MYTH bars each answered by a green FACT bar with check icon",
+    "why_winner": "Live 2026-09-26 after 80 days running (since 2026-07-08); 136 active ads on page"
+   },
+   {
+    "id": "1657936138840752",
+    "advertiser": "Fish River Roasters",
+    "file": "img_1657936138840752.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1657936138840752?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1425871094292390",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/753e4b2723bd04ed3e7f1c82ea761c1bc0280a6afc789f4a963cb96f551a2f4b.jpg",
+    "started": "2026-07-22",
+    "last_seen": "2026-09-26",
+    "days_running": 66,
+    "duplicates": 1,
+    "page_active_ads": 96,
+    "ad_rank": 62,
+    "store_revenue": "unconfirmed",
+    "why_format": "2x2 grid of orange MYTH tiles beside green FACT tiles debunking coffee freshness/oily-bean claims",
+    "why_winner": "Live 2026-09-26 after 66 days running (since 2026-07-22); 96 active ads on page"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1722968712210118",
+    "reason": "same creative as 1010870054800880 (same brand dup)"
+   },
+   {
+    "id": "2418333211983324",
+    "reason": "review quote, not myth/fact"
+   },
+   {
+    "id": "1723420978800276",
+    "reason": "us-vs-them comparison"
+   },
+   {
+    "id": "2886389011702650",
+    "reason": "not myth/fact"
+   },
+   {
+    "id": "1898482444372835",
+    "reason": "tips article"
+   },
+   {
+    "id": "1342637488002351",
+    "reason": "UGC photo"
+   },
+   {
+    "id": "724000397392868",
+    "reason": "novel excerpt"
+   },
+   {
+    "id": "1670862770950998",
+    "reason": "not myth"
+   },
+   {
+    "id": "1740672070304138",
+    "reason": "not myth"
+   }
+  ],
+  "searched": [
+   "adtext:myth mind60",
+   "myths",
+   "adtext:myth mind60 p2"
+  ],
+  "notes": ""
+ },
+ {
+  "format": "Meme Ads",
+  "matches": [
+   {
+    "id": "2496139667486338",
+    "advertiser": "Glitterbels",
+    "file": "img_2496139667486338.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2496139667486338?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103276841504826",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/a9a331d82cfcf5825efdc5f4bc20636d6d8206d6d4f0c810a457acc38f3108fc.jpg",
+    "started": "2026-04-22",
+    "last_seen": "2026-09-24",
+    "days_running": 157,
+    "duplicates": 1,
+    "page_active_ads": 98,
+    "ad_rank": 96,
+    "store_revenue": "unconfirmed",
+    "why_format": "'Life of a Nail Artist' relatable cycle meme (always caffeinated, painting nails, being a therapist for clients...) - nail-tech inside joke, copy 'Send this to your nail tech friend'",
+    "why_winner": "Live 2026-09-24 after 157 days running (since 2026-04-22); 98 active ads on page"
+   },
+   {
+    "id": "845596028608296",
+    "advertiser": "Omnilux",
+    "file": "img_845596028608296.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/845596028608296?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=337131756644532",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/84d9a8ad2dc393eabe165bf100b4f0799eaaa4f9c6637f7381e5c615b158a7d2.jpg",
+    "started": "2026-06-04",
+    "last_seen": "2026-09-26",
+    "days_running": 114,
+    "duplicates": 1,
+    "page_active_ads": 727,
+    "ad_rank": 151,
+    "store_revenue": "unconfirmed",
+    "why_format": "Windows-XP 'Bliss' wallpaper with retro 'SKIN ERROR 404' dialog box ('Would you like to reduce unwanted fine lines and wrinkles? YES/NO') above the LED mask - internet meme parody (copy: 'Yes, it's a meme')",
+    "why_winner": "Live 2026-09-26 after 114 days running (since 2026-06-04); 727 active ads on page"
+   },
+   {
+    "id": "1586757719650456",
+    "advertiser": "The Rock Space",
+    "file": "img_1586757719650456.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1586757719650456?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=295885390424220",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/2ed4bde0bf16808eb787be1e972440ebd1306399191f67ccb3b84781016e9139.jpg",
+    "started": "2026-07-09",
+    "last_seen": "2026-09-26",
+    "days_running": 79,
+    "duplicates": 1,
+    "page_active_ads": 43,
+    "ad_rank": 38,
+    "store_revenue": "unconfirmed",
+    "why_format": "'the KW girls' night starter pack' meme: labelled items grid (a crystal, an oat latte, another oat latte, birth chart, intention candle, tarot deck)",
+    "why_winner": "Live 2026-09-26 after 79 days running (since 2026-07-09); 43 active ads on page"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1568965918146282",
+    "reason": "product photo"
+   },
+   {
+    "id": "2199093850879640",
+    "reason": "text poster"
+   },
+   {
+    "id": "1517427729563521",
+    "reason": "cat photo w/ problem headline, not meme format"
+   },
+   {
+    "id": "1309218570920171",
+    "reason": "us vs them"
+   }
+  ],
+  "searched": [
+   "adtext:meme mind45",
+   "adtext:starter pack mind45"
+  ],
+  "notes": ""
+ },
+ {
+  "format": "Emergency",
+  "matches": [
+   {
+    "id": "1013987481578094",
+    "advertiser": "Kanga Kargo",
+    "file": "img_1013987481578094.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1013987481578094?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1087842204408165",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/4277d69daf5d88cbaacf3cd497a82c84a71ff7d401514e8d2ff8ead358b03dc9.jpg",
+    "started": "2026-05-12",
+    "last_seen": "2026-09-25",
+    "days_running": 137,
+    "duplicates": 1,
+    "page_active_ads": 140,
+    "ad_rank": 64,
+    "store_revenue": "unconfirmed",
+    "why_format": "Red wall-mounted emergency case labelled 'IN CASE OF MESSY CAR / BREAK GLASS' with shattered glass and the cargo net inside",
+    "why_winner": "Live 2026-09-25 after 137 days running (since 2026-05-12); 140 active ads on page"
+   },
+   {
+    "id": "1379723337298342",
+    "advertiser": "JUICi",
+    "file": "img_1379723337298342.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1379723337298342?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=743408562183926",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/3fa4187b495b65b1cf5d4ae685502d58e23353f294f5e0aab3b802c36576171c.jpg",
+    "started": "2026-05-27",
+    "last_seen": "2026-09-25",
+    "days_running": 122,
+    "duplicates": 1,
+    "page_active_ads": 246,
+    "ad_rank": 14,
+    "store_revenue": "unconfirmed",
+    "why_format": "Yellow wall-mounted emergency box 'IN CASE OF MUSCLE LOSS / BREAK GLASS' holding the JUICi tub, with hammer on chain",
+    "why_winner": "Live 2026-09-25 after 122 days running (since 2026-05-27); 246 active ads on page"
+   },
+   {
+    "id": "1749019826330895",
+    "advertiser": "Dr. Madison Cole, DVM",
+    "file": "img_1749019826330895.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1749019826330895?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1098536180002940",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/4e2838d2a23e07d6ed855b65b934bcb02e05a99e91f26c6a06f612eb2ff6a96a.jpg",
+    "started": "2026-07-15",
+    "last_seen": "2026-09-25",
+    "days_running": 73,
+    "duplicates": 3,
+    "page_active_ads": 26,
+    "ad_rank": 7,
+    "store_revenue": "unconfirmed",
+    "why_format": "Laptop screen showing a red 'NATIONAL HEAT ADVISORY / EXTREME HEATWAVE' weather-alert banner and heat map, cat in foreground",
+    "why_winner": "Live 2026-09-25 after 73 days running (since 2026-07-15); 3 duplicates"
+   },
+   {
+    "id": "1687039322403325",
+    "advertiser": "JPGavan Cricket Australia",
+    "file": "img_1687039322403325.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1687039322403325?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=449042821789200",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/219848ced126001b3c2b81f42db73ee05d49b88dedc28f8edef846123b888325.jpg",
+    "started": "2026-07-29",
+    "last_seen": "2026-09-25",
+    "days_running": 59,
+    "duplicates": 1,
+    "page_active_ads": 232,
+    "ad_rank": 95,
+    "store_revenue": "unconfirmed",
+    "why_format": "Navy card 'IN CASE OF EMERGENCY, BREAK GLASS' with the cricket bat inside a gold-framed cracked-glass emergency case",
+    "why_winner": "Live 2026-09-25 after 59 days running (since 2026-07-29); 232 active ads on page"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1375303661175080",
+    "reason": "flood photo, not alert UI"
+   },
+   {
+    "id": "866961969750895",
+    "reason": "product"
+   },
+   {
+    "id": "879241813873489",
+    "reason": "gift card"
+   },
+   {
+    "id": "1638963937409661",
+    "reason": "advertorial"
+   },
+   {
+    "id": "3048623062194292",
+    "reason": "text-message style, not alert"
+   },
+   {
+    "id": "1283328420520879",
+    "reason": "starter kit offer"
+   }
+  ],
+  "searched": [
+   "adtext:alert mind45",
+   "adtext:emergency mind45 minact20",
+   "adtext:breaking news mind45",
+   "adtext:in case of emergency mind45",
+   "adtext:break glass mind30",
+   "adtext:warning mind60 dup3"
+  ],
+  "notes": ""
+ },
+ {
+  "format": "X Signs",
+  "matches": [
+   {
+    "id": "1045398527884311",
+    "advertiser": "Real Health Talk",
+    "file": "img_1045398527884311.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1045398527884311?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1016138854923736",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/1e67c1d684d218974adc6be66c2745f3bcfaf46032059ff7eb947b9639301ee3.jpg",
+    "started": "2026-07-23",
+    "last_seen": "2026-09-24",
+    "days_running": 65,
+    "duplicates": 3,
+    "page_active_ads": 652,
+    "ad_rank": 59,
+    "store_revenue": "unconfirmed",
+    "why_format": "Three close-up foot-symptom photos over huge serif headline '3 Foot Signs You Should Never Ignore'",
+    "why_winner": "Live 2026-09-24 after 65 days running (since 2026-07-23); 3 duplicates, 652 active ads on page"
+   },
+   {
+    "id": "1033071629359550",
+    "advertiser": "JPGavan Cricket Australia",
+    "file": "img_1033071629359550.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1033071629359550?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=449042821789200",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/895f9c432ce366ca108498ddb848f6ba2a1ec5b0ac986b6aeba7cec291a5f065.jpg",
+    "started": "2026-07-27",
+    "last_seen": "2026-09-26",
+    "days_running": 61,
+    "duplicates": 1,
+    "page_active_ads": 232,
+    "ad_rank": 188,
+    "store_revenue": "unconfirmed",
+    "why_format": "Navy card '5 SIGNS YOU NEED A NEW BAT' with numbered 1-5 symptom checklist (middle's gone quiet, cracks past saving...) above the bat",
+    "why_winner": "Live 2026-09-26 after 61 days running (since 2026-07-27); 232 active ads on page"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "4584814668461016",
+    "reason": "headline not a signs list (same brand)"
+   },
+   {
+    "id": "2402866540135299",
+    "reason": "before/after photo"
+   },
+   {
+    "id": "35894207570194432",
+    "reason": "not signs"
+   },
+   {
+    "id": "1325166143076173",
+    "reason": "plain symptom photo, no signs framing"
+   },
+   {
+    "id": "1480088580539019",
+    "reason": "plain photo"
+   },
+   {
+    "id": "1029844196457539",
+    "reason": "product card"
+   },
+   {
+    "id": "1708333843879866",
+    "reason": "photo"
+   },
+   {
+    "id": "2056296285098864",
+    "reason": "then/now comparison"
+   },
+   {
+    "id": "1922822441772287",
+    "reason": "product photo"
+   }
+  ],
+  "searched": [
+   "adtext:signs you mind60",
+   "adtext:signs your mind45",
+   "adtext:warning signs mind45"
+  ],
+  "notes": ""
+ },
+ {
+  "format": "We're Sorry",
+  "matches": [
+   {
+    "id": "1148362643570624",
+    "advertiser": "The Jewelry Plug",
+    "file": "img_1148362643570624.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1148362643570624?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=148936955522475",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/13c8b7992a929277f3e3f5cac765672e2ce0f6f4f81c340bc886408912abdfb2.jpg",
+    "started": "2025-11-02",
+    "last_seen": "2026-09-26",
+    "days_running": 328,
+    "duplicates": 1,
+    "page_active_ads": 15,
+    "ad_rank": 4,
+    "store_revenue": "unconfirmed",
+    "why_format": "Black card with italic 'We're Sorry,' headline and a mock-apology letter ('we're sorry you didn't find us sooner') above the Cuban-link chain and BOGO code",
+    "why_winner": "Live 2026-09-26 after 328 days running (since 2025-11-02); ad rank #4"
+   },
+   {
+    "id": "2005553527065245",
+    "advertiser": "Canine Corner Australia",
+    "file": "img_2005553527065245.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2005553527065245?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=151528621366577",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/8ffe7816698b76c2fb69b671402b84315d50657e7a45ec04907244af01809f36.jpg",
+    "started": "2026-04-14",
+    "last_seen": "2026-09-26",
+    "days_running": 165,
+    "duplicates": 1,
+    "page_active_ads": 69,
+    "ad_rank": 66,
+    "store_revenue": "unconfirmed",
+    "why_format": "Serif 'We're Sorry' headline over apology paragraph ('sorry nobody told you about Barkbuddy sooner') with the ultrasonic device below",
+    "why_winner": "Live 2026-09-26 after 165 days running (since 2026-04-14); 69 active ads on page"
+   },
+   {
+    "id": "1461717995707328",
+    "advertiser": "Pet Gently",
+    "file": "img_1461717995707328.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1461717995707328?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=169937812864050",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/575a7a84c32f14497ecec69772f528a03bae535c64f5e6cbca8458f73fe791d6.jpg",
+    "started": "2026-05-28",
+    "last_seen": "2026-09-26",
+    "days_running": 121,
+    "duplicates": 1,
+    "page_active_ads": 227,
+    "ad_rank": 3,
+    "store_revenue": "unconfirmed",
+    "why_format": "Same 'We're sorry.' apology letter layout, second Petgently product (skin & coat pouch)",
+    "why_winner": "Live 2026-09-26 after 121 days running (since 2026-05-28); 227 active ads on page, ad rank #3"
+   },
+   {
+    "id": "1634372441193452",
+    "advertiser": "Pet Gently",
+    "file": "img_1634372441193452.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1634372441193452?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=169937812864050",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/c1c7eaaf51195f3eb636af26daf8730f46f33e252406a0d46fbc30190d58ad3b.jpg",
+    "started": "2026-05-28",
+    "last_seen": "2026-09-26",
+    "days_running": 121,
+    "duplicates": 1,
+    "page_active_ads": 227,
+    "ad_rank": 9,
+    "store_revenue": "unconfirmed",
+    "why_format": "Navy 'We're sorry.' headline + apology letter ('we accidentally built a joint chew so good...') with the Petgently pouch",
+    "why_winner": "Live 2026-09-26 after 121 days running (since 2026-05-28); 227 active ads on page"
+   },
+   {
+    "id": "1434324538487004",
+    "advertiser": "Facelove Cosmetics",
+    "file": "img_1434324538487004.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1434324538487004?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=287050051168043",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/0211908a2a69d497ca9536184e5fb83bde7920f84163fcddde8e25be7306b93f.jpg",
+    "started": "2026-06-24",
+    "last_seen": "2026-09-26",
+    "days_running": 94,
+    "duplicates": 1,
+    "page_active_ads": 94,
+    "ad_rank": 13,
+    "store_revenue": "unconfirmed",
+    "why_format": "Big white 'WE'RE SO SORRY.' headline on purple over the mascara tube, 'Sale is ending today at 11:59PM / GET 50% OFF'",
+    "why_winner": "Live 2026-09-26 after 94 days running (since 2026-06-24); 94 active ads on page"
+   },
+   {
+    "id": "1671604577270437",
+    "advertiser": "Kiierr",
+    "file": "img_1671604577270437.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1671604577270437?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=318593828645766",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/d5f28b4ff4f2126fee0ac1e7b4063a9b73df357a2f88078f7a9ade33d4060415.jpg",
+    "started": "2026-07-15",
+    "last_seen": "2026-09-26",
+    "days_running": 73,
+    "duplicates": 1,
+    "page_active_ads": 319,
+    "ad_rank": 129,
+    "store_revenue": "unconfirmed",
+    "why_format": "Red 'WE'RE SO SORRY...' headline apologising for almost selling out, then restock price drop and 3 bottles",
+    "why_winner": "Live 2026-09-26 after 73 days running (since 2026-07-15); 319 active ads on page"
+   },
+   {
+    "id": "1595296928927457",
+    "advertiser": "Ascent Bicycle",
+    "file": "img_1595296928927457.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1595296928927457?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=652182454644801",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/9d0a7c99e6d5cdf1399b3f4d8dd96a9953a0b5a43ffad4c167d7a7027b48fd8a.jpg",
+    "started": "2026-07-16",
+    "last_seen": "2026-09-26",
+    "days_running": 72,
+    "duplicates": 7,
+    "page_active_ads": 396,
+    "ad_rank": 69,
+    "store_revenue": "unconfirmed",
+    "why_format": "Huge orange 'WE'RE SO SORRY!' headline over apology letter copy ('we forgot to mention...') with the saddle product and an offer to make it right",
+    "why_winner": "Live 2026-09-26 after 72 days running (since 2026-07-16); 7 duplicates, 396 active ads on page"
+   },
+   {
+    "id": "1387836699909047",
+    "advertiser": "Wet & Forget New Zealand",
+    "file": "img_1387836699909047.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1387836699909047?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=449898331723940",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/829176a8b77dcf12a51b2c169b53b839d65a9bd5ec920611f43ab1029f908069.jpg",
+    "started": "2026-07-20",
+    "last_seen": "2026-09-26",
+    "days_running": 68,
+    "duplicates": 1,
+    "page_active_ads": 28,
+    "ad_rank": 4,
+    "store_revenue": "unconfirmed",
+    "why_format": "Shower Witch jug beside a handwritten 'We're Sorry' note card with a heart",
+    "why_winner": "Live 2026-09-26 after 68 days running (since 2026-07-20); ad rank #4"
+   },
+   {
+    "id": "1531894165283610",
+    "advertiser": "Yours Only",
+    "file": "img_1531894165283610.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1531894165283610?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=379899039403770",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/6a6e3a63eb2f3a80512e0a1766aefa685cf6be466c7cc1537714dcdb9c9fdd90.jpg",
+    "started": "2026-08-02",
+    "last_seen": "2026-09-26",
+    "days_running": 55,
+    "duplicates": 1,
+    "page_active_ads": 70,
+    "ad_rank": 5,
+    "store_revenue": "unconfirmed",
+    "why_format": "Big hand-lettered red 'WE'RE SORRY' with heart next to the mask bottle",
+    "why_winner": "Live 2026-09-26 after 55 days running (since 2026-08-02); 70 active ads on page, ad rank #5"
+   },
+   {
+    "id": "1710884680145309",
+    "advertiser": "U-Power",
+    "file": "img_1710884680145309.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1710884680145309?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=396952970425722",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/1783572785901743356546bf267ebe9cd6c194e1ee840f17c878d64e9c84fd9e.jpg",
+    "started": "2026-08-10",
+    "last_seen": "2026-09-26",
+    "days_running": 47,
+    "duplicates": 2,
+    "page_active_ads": 83,
+    "ad_rank": 31,
+    "store_revenue": "unconfirmed",
+    "why_format": "Dark grey 'WE'RE SORRY' headline over work boot, apology line 'You've been wearing uncomfortable work boots... we should have told you sooner'",
+    "why_winner": "Live 2026-09-26 after 47 days running (since 2026-08-10); 83 active ads on page"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1229799709070351",
+    "reason": "UGC shaving photo"
+   },
+   {
+    "id": "4287401661511471",
+    "reason": "UGC photo"
+   },
+   {
+    "id": "1078405511289811",
+    "reason": "UGC photo"
+   },
+   {
+    "id": "3494969950654925",
+    "reason": "skin photo"
+   },
+   {
+    "id": "990676327284565",
+    "reason": "cat litter photo"
+   },
+   {
+    "id": "1519880586834555",
+    "reason": "funeral photo"
+   }
+  ],
+  "searched": [
+   "adtext:we're sorry mind45",
+   "adtext:sorry mind45 minact20"
+  ],
+  "notes": ""
+ },
+ {
+  "format": "Tap Your Goals",
+  "matches": [
+   {
+    "id": "1382788113770632",
+    "advertiser": "Honeybalm-Australia",
+    "file": "img_1382788113770632.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1382788113770632?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=147652641755544",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/b5707c49083bb6aa7d61c972738cb3eb6608f8a06a3b0fdd8e6d15bd67e6e334.jpg",
+    "started": "2026-07-15",
+    "last_seen": "2026-09-26",
+    "days_running": 73,
+    "duplicates": 1,
+    "page_active_ads": 113,
+    "ad_rank": 27,
+    "store_revenue": "unconfirmed",
+    "why_format": "'your star sign = your Honeybalm flavour' grid - 12 zodiac signs each labelled over a lip-balm pot, viewer finds their own sign",
+    "why_winner": "Live 2026-09-26 after 73 days running (since 2026-07-15); 113 active ads on page"
+   },
+   {
+    "id": "1684155129549906",
+    "advertiser": "Unicorn Cosmetics",
+    "file": "img_1684155129549906.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1684155129549906?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1456997541210322",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/9ca872266ae818df989fbe21aedba37b130fa4e58c971b19be5e7eb4993755bb.jpg",
+    "started": "2026-07-17",
+    "last_seen": "2026-09-26",
+    "days_running": 71,
+    "duplicates": 1,
+    "page_active_ads": 73,
+    "ad_rank": 76,
+    "store_revenue": "unconfirmed",
+    "why_format": "2x2 grid of four lash-map options (LIFTED / ROUNDED / SHORT / CAT EYE) with length numbers - pick-your-look grid (copy: 'Which one are you trying first?')",
+    "why_winner": "Live 2026-09-26 after 71 days running (since 2026-07-17); 73 active ads on page"
+   },
+   {
+    "id": "26814443768231975",
+    "advertiser": "Elevated Faith",
+    "file": "img_26814443768231975.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/26814443768231975?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=902274566487283",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/1af25a70dbedf45c0e00e482e1a6de912d8d89d3f89a5372939720720fcc33e0.jpg",
+    "started": "2026-07-31",
+    "last_seen": "2026-09-26",
+    "days_running": 57,
+    "duplicates": 1,
+    "page_active_ads": 520,
+    "ad_rank": 130,
+    "store_revenue": "unconfirmed",
+    "why_format": "'pick your favorite deal:' numbered 1-9 grid of sweatshirts/tees on grey - self-selection grid (copy: 'Which one are you picking?')",
+    "why_winner": "Live 2026-09-26 after 57 days running (since 2026-07-31); 520 active ads on page"
+   },
+   {
+    "id": "1341131718104707",
+    "advertiser": "Honeybalm-Australia",
+    "file": "img_1341131718104707.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1341131718104707?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=147652641755544",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/0dcb13af062d5591a84490a129ab52b5cfc26ce169d44a4dedacae5fd5e0268d.jpg",
+    "started": "2026-08-04",
+    "last_seen": "2026-09-26",
+    "days_running": 53,
+    "duplicates": 1,
+    "page_active_ads": 113,
+    "ad_rank": 19,
+    "store_revenue": "unconfirmed",
+    "why_format": "Same zodiac 'your star sign = your Honeybalm flavour' self-selection grid (second placement)",
+    "why_winner": "Live 2026-09-26 after 53 days running (since 2026-08-04); 113 active ads on page"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1650432557086089",
+    "reason": "photo with price tag, not a grid"
+   },
+   {
+    "id": "1517720536532829",
+    "reason": "2-option VS, not grid"
+   },
+   {
+    "id": "832254406189586",
+    "reason": "model photo"
+   }
+  ],
+  "searched": [
+   "adtext:tap your mind30",
+   "adtext:choose your mind45 minact30",
+   "pagename:noom mind45",
+   "pagename:betterme mind45",
+   "adtext:goal weight mind45",
+   "adtext:pick your mind45 minact30",
+   "adtext:select your mind45",
+   "adtext:which one are you mind45"
+  ],
+  "notes": ""
+ },
+ {
+  "format": "Text Message (iMessage Mockup)",
+  "matches": [
+   {
+    "id": "1030835256261258",
+    "advertiser": "Nyrah Beauty",
+    "file": "img_1030835256261258.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1030835256261258?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=111264031213557",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/e05742c429cf9c92c3d90573055046fc466c001409bc82b6b765adac6b5eb947.jpg",
+    "started": "2026-07-07",
+    "last_seen": "2026-09-26",
+    "days_running": 81,
+    "duplicates": 1,
+    "page_active_ads": 578,
+    "ad_rank": 204,
+    "store_revenue": "unconfirmed",
+    "why_format": "iPhone mockup of an iMessage group chat (Ballina: Sinead, Aoife, Ciara) where friends recommend the skincare set, product photo bubble, 'omg ordering right now'",
+    "why_winner": "Live 2026-09-26 after 81 days running (since 2026-07-07); 578 active ads on page"
+   },
+   {
+    "id": "1474444158044717",
+    "advertiser": "Carla's Candles",
+    "file": "img_1474444158044717.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1474444158044717?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103593731464597",
+    "image_url": "https://scontent.fftk1-1.fna.fbcdn.net/v/t39.35426-6/753707641_2319708478601479_8658639665392099098_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gWuKlv-yuGkQ7kNvwE_41do&_nc_oc=AdpAMq4T6OFQC6P6-mFIojeAnrWPn6IPX6bKhgAFRmLTp79mCEeWpt8tUwD4VxZ4YZo&_nc_zt=14&_nc_ht=scontent.fftk1-1.fna&_nc_gid=ANl_9BgaOowfx19yMXKXSg&_nc_ss=7e289&oh=00_AQLGMMNscE9yZr08jF3ElM-mH9cO-VhFdyBJO5cZ_IfgDQ&oe=6ABD3D51",
+    "started": "2026-07-20",
+    "last_seen": "2026-09-26",
+    "days_running": 68,
+    "duplicates": 1,
+    "page_active_ads": 32,
+    "ad_rank": 13,
+    "store_revenue": "unconfirmed",
+    "why_format": "Grey/green iMessage bubbles 'ok what smells like lemons at your house' / 'one candle. i swear' / 'send the link' floating above the candle",
+    "why_winner": "Live 2026-09-26 after 68 days running (since 2026-07-20); 32 active ads on page"
+   },
+   {
+    "id": "802326156240759",
+    "advertiser": "WHITE NOVEMBER",
+    "file": "img_802326156240759.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/802326156240759?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=112448262253122",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/514165544a1582870f5ce4382ab63a9e1d603824b0dae39fb46878cb00bba5d1.jpg",
+    "started": "2026-07-26",
+    "last_seen": "2026-09-26",
+    "days_running": 62,
+    "duplicates": 3,
+    "page_active_ads": 100,
+    "ad_rank": 98,
+    "store_revenue": "unconfirmed",
+    "why_format": "Full iPhone iMessage screenshot to 'Him' - sent engagement-ring product link card, blue bubbles 'no reason' / 'just thought it was pretty', grey reply '...noted'",
+    "why_winner": "Live 2026-09-26 after 62 days running (since 2026-07-26); 3 duplicates, 100 active ads on page"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "1558627608952621",
+    "reason": "text only headline"
+   },
+   {
+    "id": "653715860560414",
+    "reason": "photo"
+   }
+  ],
+  "searched": [
+   "adtext:texted me mind45",
+   "adtext:group chat mind45",
+   "adtext:text mind90 minact30",
+   "adtext:send the link mind45"
+  ],
+  "notes": ""
+ },
+ {
+  "format": "Transformation (Progress Timeline)",
+  "matches": [
+   {
+    "id": "997302872917843",
+    "advertiser": "Chumgum",
+    "file": "img_997302872917843.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/997302872917843?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=375986492267120",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/243601ee70475faaaec02e4d8b2175675d590e87145fc999efa7bc72358b5fe4.jpg",
+    "started": "2026-06-06",
+    "last_seen": "2026-09-26",
+    "days_running": 112,
+    "duplicates": 1,
+    "page_active_ads": 37,
+    "ad_rank": 39,
+    "store_revenue": "unconfirmed",
+    "why_format": "'BOOTY BUILDER' vertical timeline: 1 WEEK less bloat -> 2-4 WEEKS more lift -> 4-8 WEEKS rounder shape -> 8+ WEEKS confidence boost, beside the gummy jar",
+    "why_winner": "Live 2026-09-26 after 112 days running (since 2026-06-06); 37 active ads on page"
+   },
+   {
+    "id": "1492402479038070",
+    "advertiser": "The Dream Lab",
+    "file": "img_1492402479038070.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1492402479038070?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=699342933273297",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/d0252f408f0ae8c970ce23e2150b8df07f72b5bd591123cefbbcb99865f8109c.jpg",
+    "started": "2026-06-12",
+    "last_seen": "2026-09-26",
+    "days_running": 106,
+    "duplicates": 1,
+    "page_active_ads": 67,
+    "ad_rank": 4,
+    "store_revenue": "unconfirmed",
+    "why_format": "'Iboga for addiction' dotted vertical timeline 7 days 84% / 1 month 76% / 2 month 53% with milestone results beside the dropper bottle",
+    "why_winner": "Live 2026-09-26 after 106 days running (since 2026-06-12); 67 active ads on page, ad rank #4"
+   },
+   {
+    "id": "2216479272482461",
+    "advertiser": "Natural Wellness Explained",
+    "file": "img_2216479272482461.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2216479272482461?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1119027261294227",
+    "image_url": "https://media.winninghunter.com/metalibrary/image/9a130de473a0039c320a72d8cecc0deb058b4c3eb6382345b912a3379441cee1.jpg",
+    "started": "2026-08-06",
+    "last_seen": "2026-09-26",
+    "days_running": 51,
+    "duplicates": 1,
+    "page_active_ads": 82,
+    "ad_rank": 8,
+    "store_revenue": "unconfirmed",
+    "why_format": "'CANKLES?' headline over three side-by-side calf photos labelled January / February / March showing swelling going down month by month, product + 30% off below",
+    "why_winner": "Live 2026-09-26 after 51 days running (since 2026-08-06); 82 active ads on page"
+   }
+  ],
+  "rejected": [
+   {
+    "id": "900408192887738",
+    "reason": "small Week1->Week4->Results icon strip only, main visual is product shot (not a progress timeline)"
+   },
+   {
+    "id": "2402866540135299",
+    "reason": "two-date before/after photo (09/29 vs 12/28) - 2 points only, before/after not timeline"
+   }
+  ],
+  "searched": [
+   "adtext:day 30 mind45",
+   "adtext:week 1 mind45",
+   "adtext:day 1 mind45 minact20",
+   "adtext:day 90 mind45",
+   "adtext:day 14 mind45",
+   "adtext:timeline mind45",
+   "adtext:what to expect mind45",
+   "adtext:month 3 mind45",
+   "adtext:week 4 niches SK,BY,HE,HT mind45"
+  ],
+  "notes": ""
+ }
+]

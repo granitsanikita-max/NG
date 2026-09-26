@@ -1,0 +1,25 @@
+{"format":"Warning Alert",
+"matches":[
+["1177845360454298","iOS-style system alert pop-up ('Offer Incoming / Take It') overlaid on a UGC photo of the product pouches - mimics a phone system notification"],
+["1363277561874434","iOS-style system alert dialog ('New Drop Alert ... Boost Now / Feel It') over product photo - mimics a phone system notification"],
+["1238272218498525","Black alert screen: 'WARNING: SCENT PRICES HIKE INCOMING' in red with siren emoji, notice-style body text - mimics an official warning bulletin"],
+["1488830659450062","'DISCONTINUATION NOTICE' with siren emojis in a bordered notice box - mimics an official alert/notice"],
+["1555455882821250","Phone weather app screenshot (98F, 'HEAT ADVISORY' alert) next to the lipstick - borrows a weather warning notification"],
+["1749019826330895","Laptop showing a TV-style 'NATIONAL HEAT ADVISORY - EXTREME HEATWAVE' weather alert map, cat in foreground - mimics an emergency weather warning"],
+["2045648729658118","Blurred image under an Instagram-style 'Sensitive Content - Swipe to view' system warning overlay"],
+["1397208245617345","Yellow hazard-sign layout: warning triangle + 'WARNING: MAY CAUSE EXTREME RELAXATION' + 'Side effects include...' - mimics a safety/health warning label"],
+["1023398126939068","Same hazard-label execution (warning triangle, 'WARNING:', side-effects list) with purple mat - mimics a safety warning label"]
+],
+"rejected":[
+["2240873989650784","Spicy Cubes: phone lock-screen with text notifications - notification but not a warning"],
+["2856663801341477","Spicy Cubes duplicate lock-screen - not a warning"],
+["1252911066885225","Harvest & Herd: warning icon but it is an apology letter (different format)"],
+["1918785148795580","JPGavan 'Side effects may include' - plain text list, weak warning mimicry; kept out"],
+["1850824128920820","Barbara's Cat Diary: 'WARNING:' headline over cat photo - headline, not a notification mimic"],
+["863664543301152","Essence Vault near-identical duplicate of 1238272218498525 (kept one)"],
+["922374017566203","Terra Wellness third ad (sticky-note warning) - brand cap of 2"],
+["1018357854039992","NordiskPuls 'Advarsel' sticky note - handwritten note, not system/health warning notification"],
+["1038248049173482","TrySnatched text card - not a warning"]
+],
+"searched":["adtext 'warning' (longestrunning + lastseen)","adtext 'alert'","adtext '⚠️' (2 pages)","adtext 'caution'","adtext 'notification'","adtext 'danger' (min_active_ads 30)","adtext '🚨' (min_active_ads 30)","visual scan of ~1,330 live 45+ day static winners pooled from all hunt2 agents' results"],
+"notes":"Most ads with 'warning' in copy are text-only headlines; kept only images that visually mimic a system/phone/weather/safety warning. No store revenue checked (unconfirmed)."}

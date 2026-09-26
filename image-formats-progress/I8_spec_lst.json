@@ -1,0 +1,15 @@
+{"format":"Listicle / Curiosity Advertorial Static",
+"matches":[
+["1408584257705430","Editorial 'GEAR REPORT' card: photo of a captain fishing over a black headline 'THE $70 DAISY CHAIN THAT OUTFISHES $300 LIVE BAIT SPREADS. CAPTAINS EXPLAIN.' - reads like a magazine teaser, links to a 'top 5 reasons' blog"],
+["1580613946553442","'Top 5 Signs of Magnesium Deficiency' numbered 1-5 list (cramps, fatigue, mood swings, trouble sleeping, headaches) beside the bottle - a listicle article card"],
+["2794080487594527","Dark editorial card 'I Tested The Top 5 Sonic Toothbrushes - The Most Expensive One Wasn't The Best' with five brushes numbered 1-5: listicle + curiosity gap"],
+["4584814668461016","Newspaper-style serif headline 'The Unknown Foot Infection Affecting Millions' under two close-up foot photos - curiosity advertorial headline"],
+["1478284130631881","'The Top 5 Car Security Products for Rangers and Hiluxes. Ranked by a Mechanic Who Fixes Stolen Ones Every Week.' over a workbench photo + 'Tap here to see the ranking'"],
+["2193359058079852","Flat-lay of numbered toothbrushes 1-5 with red banner 'I tested top 5 Sonic toothbrushes - the most expensive one wasn't the best' + 'See Which One Ranked #1!'"],
+["1026268296947495","Two toothbrushes photo with bold caption 'The 5 Best Electric Toothbrushes [2026 UPDATE]' - a review-listicle headline card"],
+["2901750073356460","Second Earth Harmony variant: 'Top 5 Benefits of Magnesium' numbered 1-5 list card"],
+["2113218922905575","Liver-stage illustration (healthy/fatty/fibrosis/cirrhosis) with advertorial caption bar 'Revolutionary Anti-Aging & Liver Healing Secret Leaves Doctors Speechless - Try This Tonight'"]
+],
+"rejected":[["797929133320150","We Love Pets: 'When your senior dog forgets who you are' - landing-page screenshot, not editorial card"],["1568917128060094","Dr. Emily Hartman/Noverly: sale card 'We're so sorry' links to listicle but image is an offer"],["911340644745346","Bloomin 'Before you try HRT' - product offer card"],["1205042959362152","PurityLabs: lifestyle photo"],["4392430784374689","2026 Best Work Shoes: product feature card, not editorial"],["874444982089895","Glucora listicle LP but image is native photo"],["27849353008000036","Blume advertorial LP but image is product sale card"]],
+"searched":["reasons why","switching (min_dup 3)","you won't believe","reasons (min_dup 3, min_active 30)","doctors are","here's why (funnels)","listicle (landing url)","advertorial (landing url)","reasons (landing url)","signs","mistakes","things","top 5","nobody talks about"],
+"notes":"Oral Care Tips (dailyproductspicks.com) is an advertorial/affiliate page, 2 ads kept (rk1/rk3, 61d). Discover Weekly links to taoclean.com advertorial. Auric started 2026-08-10 (47d). Most advertorial-funnel ads use native UGC photos, not editorial cards - those were rejected."}

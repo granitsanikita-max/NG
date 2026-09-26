@@ -1,0 +1,368 @@
+{
+ "Zero Star Reviews": {
+  "matches": [
+   [
+    "823754217411596",
+    "Amazon-style review card with 1 of 5 stars ('1 Star - This stuff made me stop using my rescue inhaler because I didn't need it anymore') over the product bottle: expected complaint flips into praise."
+   ],
+   [
+    "4513076385587447",
+    "'Please don't buy...' headline over a 1-star review card ('1 star because I can't give zero') whose body is a glowing result story; '...if you don't want your cold sores to disappear.'"
+   ],
+   [
+    "1733370228022980",
+    "Same 'Please don't buy...' 1-star review card ('1 star. Furious. Kind of.') that turns into a result story; negativity-bias reversal."
+   ],
+   [
+    "993860826531565",
+    "Wrist shot of the watch with a speech-bubble review reading 'Zero stars.' with 0/5 stars and 'Now everyone asks what I do for a living.'"
+   ],
+   [
+    "1149736443831985",
+    "Pull-quote 'Don't even get me started...' with a 1/5 star rating; the complaint is that the kid refuses to get out of the pool in her FloatBuds."
+   ],
+   [
+    "2801349886894737",
+    "Huge 'ZERO STARS' headline with a mock complaint quote ('Now my competitors keep asking where I got it') over the embroidered jacket."
+   ],
+   [
+    "1584635989911300",
+    "Second 'Zero stars.' speech-bubble review variant over the watch-on-wrist shot (0/5 stars, 'Now everyone asks what I do for a living')."
+   ]
+  ],
+  "rejected": [
+   [
+    "1565388995082337",
+    "JPGavan 'ZERO STARS' graphic matches but fails scale: 1 duplicate, page count unknown, rank 104"
+   ],
+   [
+    "1404362234253803",
+    "Cocktail Candy '1 star review' ad: 559d live but only 27 page ads, rank 14 (fails scale); image 404"
+   ],
+   [
+    "1347240853991138",
+    "KeraLush: copy mentions 1-star but image is a price/risk-free offer"
+   ],
+   [
+    "1436509718132222",
+    "Frazer: image is a torn fabric photo, not a review graphic"
+   ],
+   [
+    "1454282149233660",
+    "Sarah Collins/Rejuveen: image is a before/after photo, not a review"
+   ],
+   [
+    "1518574549449140",
+    "NapBae: iMessage refund chat, 63 days, 16 page ads, rank 38 (fails scale)"
+   ],
+   [
+    "1374275664635971",
+    "GroundingWell: 67 days, 14 page ads, rank 32 (fails scale)"
+   ]
+  ],
+  "searched": [
+   "0 stars",
+   "zero stars",
+   "1 star review (longestrunning, 2 pages)",
+   "1-star review",
+   "1 star (lastseen, 2 pages)",
+   "worst review"
+  ],
+  "notes": "Lucky Fours has 2 ads (max allowed). Lucky Fours 1584635989911300 is only 51 days but page runs 2,898 active ads."
+ },
+ "Statistics": {
+  "matches": [
+   [
+    "1225455576225525",
+    "Headline is the stat: 'CLINICAL STUDY: 94% REPORT IMMEDIATE PAIN RELIEF' on a presentation screen with charts, shoe in front."
+   ],
+   [
+    "1223194352741690",
+    "Headline leads with a number: 'HOSPITAL STAFF CHOICE - REDUCES FOOT FATIGUE 87%', plus '87% reduction in foot discomfort' callout."
+   ],
+   [
+    "1737863070629545",
+    "Giant '95' on a football substitution board ('FIBER DEFICIT' vs 'PRE+PRO+POST'), subline '95% of American adults are playing without fiber'."
+   ],
+   [
+    "1675789893743988",
+    "Huge '9/10 Agreed' headline ('Their underarms stayed dry the whole workout') above before/after gym photos."
+   ],
+   [
+    "1383797263616082",
+    "Numeric hook as headline: '15 Headaches a month? Bet you'll be down to 1' around the device."
+   ],
+   [
+    "1500687797614980",
+    "Hand holding the toothpaste with a huge '97%' callout: 'Did you know HA makes up 97% of your tooth enamel?' - the stat is the hook."
+   ],
+   [
+    "1525702252433632",
+    "Variant of the same stat-led creative: big '97%' ('HA makes up 97% of your tooth enamel?') with arrow to the paste."
+   ]
+  ],
+  "rejected": [],
+  "searched": [],
+  "notes": ""
+ },
+ "Borrowed Interface (Screenshot Mimicry)": {
+  "matches": [
+   [
+    "4159904534225517",
+    "Dark-mode X/Twitter post screenshot (avatar, handle, timestamp, views, reply/retweet/like bar): 'It is like Amazon but for Apps / Software.'"
+   ],
+   [
+    "1432907511700155",
+    "Reddit post UI (r/oralhealth, u/ username, flair, upvote 6.4k / 1.9k comments bar): '[UPDATE] That probiotic breath spray I was skeptical about... actually worked??'"
+   ],
+   [
+    "1651694999286807",
+    "X/Twitter post mimic with verified badge and handle (@deepenyourfaith) carrying the whole pitch as a tweet."
+   ],
+   [
+    "1531721681820836",
+    "Reddit thread UI (r/ChronicPain, upvote count, award, nested replies) with commenters recommending Revoget patches plus product photo."
+   ],
+   [
+    "1709327363716020",
+    "Dark-mode X/Twitter post with verified badge, handle, retweet/like counts (126 Retweets, 1.4K likes) - Spanish cervical-pain pitch."
+   ],
+   [
+    "2856663801341477",
+    "Phone lock screen showing iMessage notifications from 'Babe' ('last night was... wow') - borrows the native iOS notification UI."
+   ],
+   [
+    "1043538314766777",
+    "Full iPhone incoming-call screen: black background, product as caller photo, 'A bloat free protein powder is calling ...', red Decline / green Accept buttons."
+   ]
+  ],
+  "rejected": [
+   [
+    "1601682111128658",
+    "FLAME: quote card labelled 'Reddit Commenter', no Reddit UI"
+   ],
+   [
+    "2045393676105166",
+    "Breath Lab iMessage mimic but lastSeen unknown"
+   ],
+   [
+    "1519256695982997",
+    "The Plug advertorial 'editorial review' card, 62 days, weak mimic"
+   ]
+  ],
+  "searched": [
+   "reddit",
+   "did you know that (tweet finds)",
+   "clinically proven results",
+   "9 out of 10"
+  ],
+  "notes": "Spicy Cubes is a photo of a phone lock screen with iMessage notifications (weaker UI mimic than the others)."
+ },
+ "Us vs Us": {
+  "matches": [
+   [
+    "605308632077692",
+    "Split panel: original 'ewan the dream sheep' (3x AAA batteries, 20 min playback, 5 sounds) vs 'ewan DELUXE' (rechargeable, continuous playback, 10 sounds) - own old version vs new version."
+   ]
+  ],
+  "rejected": [],
+  "searched": [
+   "new and improved"
+  ],
+  "notes": ""
+ },
+ "Offer / Discount Announcement": {
+  "matches": [
+   [
+    "720036050949928",
+    "Product-in-hand shot with a red bar 'CYBER MONDAY UP TO 50% OFF!' - the deal is the message."
+   ],
+   [
+    "904188538684148",
+    "Giant 'SCORE 69% OFF VALENTINE'S BUNDLES' headline over three cologne bottles, 'LAST CHANCE TO SMELL YOUR BEST'."
+   ],
+   [
+    "1325406762745570",
+    "Checkerboard grid of jackets with tiles 'UP TO 50% OFF + EXTRA 15%', 'USE CODE: BF2025' - pure deal graphic."
+   ],
+   [
+    "930977706225964",
+    "'ITCHY FREE SKIN ALL SPRING!' with a big red 'SAVE UP TO 50% OFF!' banner under the product tubs."
+   ],
+   [
+    "4594255114194686",
+    "Huge 'LAST CHANCE' + 'BUY 2 GET 1 FREE' pill over the cologne bottle - the offer stated loudly."
+   ],
+   [
+    "896594263463041",
+    "'WAREHOUSE CLEARANCE' with a red footer '60+ SHADES - FINAL STOCK - 50% OFF'."
+   ],
+   [
+    "1292354999774184",
+    "Giant stacked 'SALE / UP TO 60% OFF / LIMITED TIME ONLY' over a jogger product shot."
+   ]
+  ],
+  "rejected": [
+   [
+    "1311390640779189",
+    "Power Plate: offer only in a footer band, headline is a benefit claim"
+   ],
+   [
+    "3986056465029930",
+    "Renogy: 'Up to 40% off' small; only 69 days (kept as backup)"
+   ],
+   [
+    "4202776399942748",
+    "Dr. Squatch 30% off sitewide: image 404, could not verify visually"
+   ],
+   [
+    "1016343354261062",
+    "Respyria: image is before/after, not an offer graphic"
+   ],
+   [
+    "1535632104808396",
+    "Fitness Engineering second variant (max 1 kept to diversify)"
+   ]
+  ],
+  "searched": [
+   "off sitewide (relevance, 90d+)",
+   "off sitewide (lastseen)",
+   "50% off (lastseen, 90d+)",
+   "new formula (found Cupids offer)"
+  ],
+  "notes": ""
+ },
+ "IG Story (Native Callout)": {
+  "matches": [
+   [
+    "1553219006550615",
+    "Full-bleed 9:16 pink story frame, big 'WANTED:' then 'We're looking for 300 people cutting back on forever chemicals to try SOLACE Bands' - native IG-story text callout recruiting a segment, 'Tap below to get yours'."
+   ],
+   [
+    "27385513171112262",
+    "Same native story layout on a blue gradient: 'WANTED: We're looking for 300 people cutting back on forever chemicals...' plain text, no product shot."
+   ]
+  ],
+  "rejected": [
+   [
+    "302833739497129",
+    "Salt Athletic 'Brand Ambassadors' (876d) - polished lifestyle graphic, not a native story callout"
+   ],
+   [
+    "843427841619607",
+    "1st Phorm 'We're looking for brand ambassadors' - polished banner, not native story"
+   ],
+   [
+    "2436109393540390",
+    "Auditorey 'Which door applies to you? Select your age' - quiz graphic, not WANTED story"
+   ],
+   [
+    "1034409888991262",
+    "Alira Bridal 'Calling all brides' in copy only; image is a model shot"
+   ]
+  ],
+  "searched": [
+   "we're looking for",
+   "wanted",
+   "looking for 100",
+   "looking for people",
+   "calling all",
+   "WANTED: people"
+  ],
+  "notes": ""
+ },
+ "Daily Use Does X": {
+  "matches": [
+   [
+    "1731647337836468",
+    "Benefit stack tied to one daily dose: 'Energy. Mood. Bones. Sleep.' then 'One capsule. Once daily.' - the daily habit unlocks a stacked list of benefits."
+   ],
+   [
+    "2523802121369349",
+    "Daily-use timeline stack: columns for Day 7 / Day 30 / Day 90 listing the benefits that build up with continued daily use of the stabiliser."
+   ],
+   [
+    "1451872100018987",
+    "'6 in 1' benefit grid (deep-cleansing, acne care, detox pores, oil control all day, body acne, rough skin) from one daily pad; copy 'Gentle enough for daily use'."
+   ],
+   [
+    "848700387985749",
+    "'Everyday Clean Complete Routine' - five products laid out as routine steps (Cleanse, Wash, Protect, Condition, Moisturize) for daily use, the benefit of each step labeled."
+   ],
+   [
+    "4120125768124457",
+    "Benefit stack mapped to the morning routine: 'Raises testosterone in 30 days / Kills brain fog by 8AM / Works in your very first cup' (weaker: problem-hook headline)."
+   ]
+  ],
+  "rejected": [
+   [
+    "714735151663930",
+    "Metabolae - image is a man holding the bag, no benefit stack"
+   ],
+   [
+    "2475754839527371",
+    "Formula 707 - not a routine/benefit stack visual"
+   ],
+   [
+    "1227827126082438",
+    "Vesuvio - lastSeen 09-24 but image is generic product shot"
+   ],
+   [
+    "1364555508834411",
+    "proto-col - flat 50% off bundle graphic (offer, not DU)"
+   ],
+   [
+    "2050873902309093",
+    "Thurst - UGC testimonial overlay, not a benefit stack"
+   ],
+   [
+    "1334952872161084",
+    "Equip - 'when you learn too much' lifestyle list meme, not product benefit stack"
+   ],
+   [
+    "1241497002378122",
+    "Gorilla Mind - product hero + tagline"
+   ],
+   [
+    "1386788025654341",
+    "Morning Would - ingredient callout diagram (closer to spec sheet)"
+   ],
+   [
+    "4374211699492730",
+    "Beast Pharm - product splash shot"
+   ],
+   [
+    "1493473758872380",
+    "The Skincare Company - testimonial note"
+   ],
+   [
+    "27502381106055919",
+    "Olivier Midy - before/after eye crops"
+   ],
+   [
+    "1638793777358762",
+    "Rukvest - headline + product, no stack"
+   ],
+   [
+    "AgeMate",
+    "AgeMate 'one scoop once daily' ads - lastSeen 09-09/09-10 or missing, not verifiably live"
+   ]
+  ],
+  "searched": [
+   "what happens when you take",
+   "one scoop daily",
+   "daily habit",
+   "every morning",
+   "morning afternoon night",
+   "one scoop",
+   "daily use",
+   "once daily",
+   "morning and night",
+   "week 1 week 4",
+   "what happens after",
+   "just one a day",
+   "daily (rank<=8, 90d+)"
+  ],
+  "notes": "Rare format with no reliable keyword; 5 found, Alpha Brew is the weakest fit. Skintific duplicate creative 1021754677188317 also live (same image)."
+ }
+}

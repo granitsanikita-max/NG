@@ -1,0 +1,425 @@
+[
+ {
+  "format": "Personalized Product Preview (Your Name/Photo On It)",
+  "stage": "TOF,MOF",
+  "definition": "The product shown already customized with a sample name or the buyer's photo, often with a 'name can be changed' tag or photo-to-product arrow.",
+  "why_it_works": "The viewer instantly pictures their own name or pet on it, so the gift sells itself.",
+  "m": [
+   [
+    "251156627972597",
+    "Dachshund angel-wing keychain engraved 'Peanut' with orange 'Name and Breed can be changed' tag"
+   ],
+   [
+    "1729855554199459",
+    "Cat doormat personalised with cat name and 4 selectable cat avatars strip, 'Up to 4 cats' badge"
+   ],
+   [
+    "1247999480207562",
+    "Birthday tee printed with 'SOPHIA' + avatar options column and 'CUSTOMIZE YOUR DESIGN' panel"
+   ],
+   [
+    "3902061283347068",
+    "Kids denim jackets each patched with a different child name (BROOKE, ARIA, CORINNE...)"
+   ],
+   [
+    "1484692433353019",
+    "Wood-grain MagSafe phone case engraved with a sample name"
+   ],
+   [
+    "835543321214046",
+    "'You & Me' couple poster with names David/Ashley + strip of alternate character appearances, 'Custom appearances' tag"
+   ],
+   [
+    "991383438589326",
+    "RV campsite doormat with family name + strip of selectable camper icons, 'Quote, rvs and text can be changed'"
+   ],
+   [
+    "4283663761899838",
+    "Braided bracelet with family monogram and name tiles Adam/Tristan/Gabriel"
+   ],
+   [
+    "1404413621451787",
+    "Sunflower bear pillow embroidered 'Emma' with yellow 'NAME CAN BE CUSTOMIZED' tag"
+   ],
+   [
+    "373442178431166",
+    "Photo bracelet with the source photo inset and red arrow to the engraved result, 'Name & Photo can be changed' tag"
+   ],
+   [
+    "990089290341879",
+    "Watercolor family portrait with the original snapshot inset in a circle and arrow to the artwork"
+   ]
+  ],
+  "searched": [
+   "broad scans: images, min_days_running 90, min_active_ads 30 / min_duplicates 3, sort longestrunning + toprank + lastseen, niches BY,SK / HE,FT / PS,KS,HI / CG,JY,AC,FW / EL,GG,TS,SP,OG,BG (2 pages each)",
+   "~2,500 live static winners from all session search results re-screened by copy regex",
+   "adtext 'personalized' (toprank)",
+   "adtext 'your photo'",
+   "copy regex name/photo can be changed"
+  ],
+  "rejected": [
+   {
+    "id": "1270943778354087",
+    "reason": "custom Pokemon card: no visible customization cue, reads as plain product"
+   },
+   {
+    "id": "1911182306424483",
+    "reason": "photo digitizer, not a personalized product"
+   }
+  ],
+  "notes": "Dominant in print-on-demand/gift stores; name tags or photo-inset arrows are the visual tell. Max 2 per brand kept."
+ },
+ {
+  "format": "Press Mentions (As Seen In / Media Quote)",
+  "stage": "MOF,BOF",
+  "definition": "Static built around third-party media credibility: an 'As seen in' logo bar, a magazine quote as the headline, or a publication award seal.",
+  "why_it_works": "An editor's name vouches for the product in a way the brand can't for itself.",
+  "m": [
+   [
+    "2138932140224811",
+    "Marie Claire masthead with quote \"Dubbed a 'miracle lotion'\" over product-in-use photo"
+   ],
+   [
+    "824234587430965",
+    "Headline '\"BEST SPRAY SUNSCREEN\" -Vogue' over two cans in hand"
+   ],
+   [
+    "1540980090759827",
+    "Glassware hero with 'AS SEEN IN' logo bar: Forbes, Kitchn, Esquire, Apartment Therapy, Bachelor"
+   ],
+   [
+    "1329546412419040",
+    "Omega-3 jar on ice with Vogue / Glamour / Wallpaper / Joyce logo row at bottom"
+   ],
+   [
+    "4396428860614225",
+    "'T3 MAGAZINE REVIEW' label + magazine pull quote as the headline"
+   ],
+   [
+    "1653062762618173",
+    "Product line-up with 'LOVED BY: ELLE, BYRDIE, InStyle, allure' logo strip"
+   ],
+   [
+    "2010854792971012",
+    "Device in hand with a large 'Forbes Vetted 2026 Best Product Awards' seal"
+   ],
+   [
+    "1379883527387257",
+    "Black 'AS SEEN IN VOGUE' banner above the product headline"
+   ],
+   [
+    "2031835774206063",
+    "Black card with a Forbes quote and Forbes wordmark only"
+   ],
+   [
+    "1686172509272020",
+    "Pull quote '\"It fit perfectly under the airline seat\"' + Good Housekeeping Travel Awards winner seal"
+   ]
+  ],
+  "searched": [
+   "broad scans: images, min_days_running 90, min_active_ads 30 / min_duplicates 3, sort longestrunning + toprank + lastseen, niches BY,SK / HE,FT / PS,KS,HI / CG,JY,AC,FW / EL,GG,TS,SP,OG,BG (2 pages each)",
+   "~2,500 live static winners from all session search results re-screened by copy regex",
+   "adtext 'as seen in'",
+   "adtext 'featured in'",
+   "adtext 'good housekeeping'",
+   "adtext 'forbes'",
+   "adtext 'vogue'",
+   "copy regex vogue|forbes|allure|byrdie|marie claire|oprah"
+  ],
+  "rejected": [
+   {
+    "id": "1337079681370756",
+    "reason": "LediBelle magazine-page mockup reads as News Headline mimicry, not a press citation"
+   },
+   {
+    "id": "997886239259074",
+    "reason": "press only in copy; image is an outfit breakdown"
+   },
+   {
+    "id": "1669743390572117",
+    "reason": "Rest GH ad not live (last seen 2026-08-14)"
+   }
+  ],
+  "notes": "Differs from News Headline (which disguises the ad as an article): here the outlet is cited openly as a trust badge. Portland Gear is 69 days (still >45)."
+ },
+ {
+  "format": "HSA/FSA Eligible Callout",
+  "stage": "MOF,BOF",
+  "definition": "The headline or stamp announces the product can be bought with pre-tax HSA/FSA health dollars.",
+  "why_it_works": "Reframes price as 'free money you'll lose anyway', killing the cost objection.",
+  "m": [
+   [
+    "2761766670692373",
+    "Huge 'HSA+FSA ELIGIBLE' headline over barbells, 'Average of 30% savings!'"
+   ],
+   [
+    "929731776539858",
+    "'HSA/FSA payment option is available' headline above air purifiers, HSA|FSA eligible check"
+   ],
+   [
+    "1710135226659063",
+    "Bedroom scene with big red 'HSA/FSA Eligible' check stamp, 'now HSA / FSA approved'"
+   ],
+   [
+    "1021006590456756",
+    "Headline 'HSA/FSA eligible, use pre-tax funds' next to the product"
+   ],
+   [
+    "1008071851627985",
+    "Problem/solution split with full-width 'HSA/FSA eligible, use pre-tax funds' banner"
+   ],
+   [
+    "850730884328624",
+    "Shoe hero with round 'HSA/FSA' approval seal in the corner"
+   ]
+  ],
+  "searched": [
+   "adtext 'HSA' (toprank, min_active_ads 30, 90d)",
+   "broad scans: images, min_days_running 90, min_active_ads 30 / min_duplicates 3, sort longestrunning + toprank + lastseen, niches BY,SK / HE,FT / PS,KS,HI / CG,JY,AC,FW / EL,GG,TS,SP,OG,BG (2 pages each)",
+   "~2,500 live static winners from all session search results re-screened by copy regex"
+  ],
+  "rejected": [
+   {
+    "id": "2252965035230937",
+    "reason": "HSA only in copy, not in image"
+   },
+   {
+    "id": "945104721580115",
+    "reason": "HSA only in copy"
+   },
+   {
+    "id": "1594477761743563",
+    "reason": "image is variety-pack flat-lay, no HSA callout"
+   },
+   {
+    "id": "980988564540946",
+    "reason": "HSA only a tiny icon"
+   }
+  ],
+  "notes": "US health/wellness niche format (sleep, orthopedics, fitness equipment, medical devices). Gravity Defyer ranked last: seal is small but explicit."
+ },
+ {
+  "format": "Now At [Retailer] (Retail Availability)",
+  "stage": "MOF,BOF",
+  "definition": "Announces the product is stocked at a named retailer, using the retailer's logo, a 'now at' line or an in-store shelf photo.",
+  "why_it_works": "A big retailer's shelf is proof the brand is legit and easy to buy.",
+  "m": [
+   [
+    "926008110000694",
+    "Founder in a store aisle holding the Period Kit (Ulta launch), in-store shelf backdrop"
+   ],
+   [
+    "918488404432053",
+    "'LittleOak now available at Mother's Market.' headline + Mother's logo lockup"
+   ],
+   [
+    "958496317104330",
+    "'LittleOak & Sprouts, a match made in nature' + Sprouts logo and 'Find us at your nearest Sprouts' button"
+   ],
+   [
+    "2392010494613254",
+    "Product boxes filling pharmacy retail shelves (in-store shelf shot)"
+   ],
+   [
+    "1703297177792468",
+    "'SEPHORA' wordmark header over the perfume shot"
+   ],
+   [
+    "3729926630480811",
+    "'NOW AT SEPHORA' header over the bottle"
+   ],
+   [
+    "2046704005919337",
+    "Review card plus 'NOW AVAILABLE AT' + Whole Foods Market logo"
+   ],
+   [
+    "2287539421995091",
+    "'MERIT \u00b7 SEPHORA' co-brand header over mascara before/after grid"
+   ],
+   [
+    "1004749245765564",
+    "Bratz x Boy Smells 'available at SEPHORA' header"
+   ]
+  ],
+  "searched": [
+   "broad scans: images, min_days_running 90, min_active_ads 30 / min_duplicates 3, sort longestrunning + toprank + lastseen, niches BY,SK / HE,FT / PS,KS,HI / CG,JY,AC,FW / EL,GG,TS,SP,OG,BG (2 pages each)",
+   "~2,500 live static winners from all session search results re-screened by copy regex",
+   "adtext 'now available at'",
+   "adtext 'in stores'",
+   "adtext 'walmart'",
+   "adtext 'sephora'",
+   "adtext 'whole foods'",
+   "adtext 'target' (timed out)"
+  ],
+  "rejected": [
+   {
+    "id": "3302628249938229",
+    "reason": "Zax's: retail only in copy; image is week 1/4/8 timeline"
+   },
+   {
+    "id": "walmart-search",
+    "reason": "adtext walmart/in stores results were advertorial scenes, none showed retail availability"
+   }
+  ],
+  "notes": "Several are 85-116 days; LittleOak and RedDrop are the longest. Boy Smells/MERIT link to Sephora itself."
+ },
+ {
+  "format": "Ingredient Spotlight",
+  "stage": "TOF,MOF",
+  "definition": "The product surrounded by its raw hero ingredients (herbs, mushrooms, fruit), each labelled or circled with its benefit.",
+  "why_it_works": "Seeing real ingredients makes the formula feel natural, potent and easy to trust.",
+  "m": [
+   [
+    "1855312635423910",
+    "'TURMERIC TRIO' soaps and jars staged with raw turmeric roots"
+   ],
+   [
+    "1257801512863413",
+    "Bowl of capsules surrounded by turmeric roots, ginger and peppercorns, 'Naturally Powerful. Scientifically Proven.'"
+   ],
+   [
+    "732626386410155",
+    "Joint-supplement tub amid dishes of mussel, turmeric, collagen; ingredient name pills Glucosamina/MSM/Mejill\u00f3n verde"
+   ],
+   [
+    "936520372406039",
+    "'3-in-1' coffee bag with icon callouts Lion's Mane, Yacon, No Jitters, Organic Coffee"
+   ],
+   [
+    "863544971815164",
+    "Matcha drink photo labelled Lion's Mane, Cordyceps, Reishi, KSM-66 Ashwagandha, MCT with benefit blurbs"
+   ],
+   [
+    "1551964462137997",
+    "'Cancer HATES Mushrooms': jar ringed by labelled mushroom circles (Cordyceps, Chaga, Turkey Tail...)"
+   ],
+   [
+    "2737708416594517",
+    "Cat with supplement tub and floating mushroom bubbles labelled with benefits"
+   ],
+   [
+    "1506233924452164",
+    "Roller bottle with circled ingredients (Reishi, Wakame, probiotics, cooling ball) and benefit text"
+   ]
+  ],
+  "searched": [
+   "broad scans: images, min_days_running 90, min_active_ads 30 / min_duplicates 3, sort longestrunning + toprank + lastseen, niches BY,SK / HE,FT / PS,KS,HI / CG,JY,AC,FW / EL,GG,TS,SP,OG,BG (2 pages each)",
+   "~2,500 live static winners from all session search results re-screened by copy regex",
+   "adtext 'ingredients' (noisy)",
+   "copy regex turmeric|ashwagandha|superfood|lion's mane|botanical|glucosamine|key ingredients"
+  ],
+  "rejected": [
+   {
+    "id": "4389849004664899",
+    "reason": "Stonehenge '40 ingredients' shows only capsules in hand"
+   },
+   {
+    "id": "1277444644293158",
+    "reason": "raw pet food bowl: ingredients are the product itself"
+   }
+  ],
+  "notes": "Distinct from Spec Sheet (text facts) and Benefit Callout (benefit graphics): here the raw ingredients are the visual."
+ },
+ {
+  "format": "Clean Product Hero Shot (No Headline)",
+  "stage": "TOF,MOF",
+  "definition": "A polished studio or styled photo of the product alone, with at most a logo or product name and no selling headline.",
+  "why_it_works": "Pure desire: the product looks premium and the copy above the image does the selling.",
+  "m": [
+   [
+    "1051791976424066",
+    "Gold and pearl beaded bracelets scattered on white, no text"
+   ],
+   [
+    "1439131623454922",
+    "Black dropper bottle with drops on marble, no headline"
+   ],
+   [
+    "830967295285080",
+    "Eyeglasses on a white table with only the Lensmart script logo"
+   ],
+   [
+    "1405038684414670",
+    "Distressed Australian-flag cap on weathered wood, no text"
+   ],
+   [
+    "1216952669819496",
+    "Cherry/bow earrings in a pink ring box on pink background, no text"
+   ],
+   [
+    "1566430007970867",
+    "Two Puerto Rico themed tees in dramatic studio lighting, no text"
+   ],
+   [
+    "896264880040807",
+    "Silver bracelet on a wood slice, no text"
+   ],
+   [
+    "1671496860548250",
+    "Two pairs of sunglasses on black, no text"
+   ]
+  ],
+  "searched": [
+   "broad scans: images, min_days_running 90, min_active_ads 30 / min_duplicates 3, sort longestrunning + toprank + lastseen, niches BY,SK / HE,FT / PS,KS,HI / CG,JY,AC,FW / EL,GG,TS,SP,OG,BG (2 pages each)",
+   "~2,500 live static winners from all session search results re-screened by copy regex"
+  ],
+  "rejected": [
+   {
+    "id": "1506278623475555",
+    "reason": "Primal bench has product title overlay and page ad rank 24; kept out for cleaner examples"
+   },
+   {
+    "id": "1334799824869700",
+    "reason": "only 102 days and rank ok but kept list to 8"
+   }
+  ],
+  "notes": "Most common winner look in jewelry, apparel, eyewear. Identified purely visually from broad scans (no keyword possible)."
+ },
+ {
+  "format": "Lifestyle Model Shot (No Headline)",
+  "stage": "TOF",
+  "definition": "An aspirational editorial photo of a model wearing or using the product in a real setting, with only a logo or short tagline.",
+  "why_it_works": "Sells the identity and feeling, letting viewers see themselves in the product.",
+  "m": [
+   [
+    "2427261941121902",
+    "Street-style model in sunglasses with product cut-out inset, no copy"
+   ],
+   [
+    "2119669015540665",
+    "Woman in lounge set walking through a flower field, no text"
+   ],
+   [
+    "941892945136874",
+    "Three models in flared leggings, multi-pose collage, no text"
+   ],
+   [
+    "1243495497860116",
+    "Close crop of swimwear on a model by the sea with PAPER LONDON logo only"
+   ],
+   [
+    "755434110702318",
+    "Black-and-white portrait wearing a tennis necklace, logo only"
+   ],
+   [
+    "1591198342426637",
+    "Model in geometric knit top, tiny tagline 'Artful knitwear for everyday life'"
+   ]
+  ],
+  "searched": [
+   "broad scans: images, min_days_running 90, min_active_ads 30 / min_duplicates 3, sort longestrunning + toprank + lastseen, niches BY,SK / HE,FT / PS,KS,HI / CG,JY,AC,FW / EL,GG,TS,SP,OG,BG (2 pages each)",
+   "~2,500 live static winners from all session search results re-screened by copy regex"
+  ],
+  "rejected": [
+   {
+    "id": "979359601492220",
+    "reason": "Aubrey Hayes beach shot is a candid native/advertorial image, not a model shoot"
+   },
+   {
+    "id": "4245533619091763",
+    "reason": "Jo Mercer has a review quote overlay (testimonial format)"
+   }
+  ],
+  "notes": "Fashion/jewelry heavy; distinct from Native Ads (candid, un-branded) because these are polished branded shoots."
+ }
+]

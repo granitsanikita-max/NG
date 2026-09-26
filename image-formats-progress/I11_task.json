@@ -1,0 +1,23 @@
+[
+ {
+  "name": "The Receipt",
+  "stages": "MOF,BOF",
+  "why": "Mimics a purchase receipt or confirmation. Very native.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "Doodle",
+  "stages": "TOF",
+  "why": "A rough doodle feels like a person's note, not a designed asset.",
+  "candidate_ids": [],
+  "already_found": 0
+ },
+ {
+  "name": "Song Playlist",
+  "stages": "TOF",
+  "why": "Spotify-playlist mockup. Pattern interrupt that feels organic.",
+  "candidate_ids": [],
+  "already_found": 0
+ }
+]

@@ -1,0 +1,15 @@
+{"format":"Text Heavy Static",
+"matches":[
+["1304004684990645","Plain white card, broken-heart icon, 'Notre faute' + ~12 lines of serif letter copy signed '- TANNDEM'; no product photo at all"],
+["1366039018704383","'WE'RE SORRY.' letter: 5 dense paragraphs of body copy down the left, small boot image, subscribe-and-save bullet list - copy dominates the frame"],
+["2043393846254733","White rounded card 'We're sorry...' with 7 paragraphs of centred letter copy signed 'With appreciation and zero regrets, LOWEN' - text only"],
+["971903312426401","Sage card 'We're sorry.' followed by ~10 short paragraphs of copy, signed 'With zero regrets, Team Furlique' - text only, tiny bathtub icon"],
+["2014709202749288","Black card 'OFFICIAL APOLOGY STATEMENT' with 8 paragraphs of white copy and pink highlighted phrases, no product image"],
+["1634440037849838","Photo of a printed A4 'OFFICIAL APOLOGY STATEMENT' letter, a full page of typed copy signed 'The Furlique Team'"],
+["1252911066885225","Cream card 'AN APOLOGY TO OUR CUSTOMERS' with 6 paragraphs of serif copy and bolded key phrases, only a small logo"],
+["958365697272698","'WE OWE YOU AN APOLOGY' red headline + 7 lines of centred copy over a dim shampoo shot - the copy block carries the ad"],
+["699362236605619","'WE'RE SO SORRY!' headline and two dense paragraphs of copy filling the top half, cat fountain photo below"]
+],
+"rejected":[["2005553527065245","Canine Corner: 'We're Sorry' headline but short paragraph, product-led"],["987511600781771","CanisLabs: product shot with short headline"],["2598985237223699","PILLAR: product in hand, short copy"],["1347956490840993","GymLamp: half copy/half product, less dense"],["963632912740930","Clinic Discussions: product photo, no text"],["2552183118572692","Dukes Health: lifestyle photo"],["1473390907412109","Frenchbeautyhub: text-bubble UGC, not copy-dense"],["2080882955969869","Help For Heroes: charity campaign photo, not DTC"],["869011962596506","My Story Tale Books: product photo"],["1041997884830804","Charlotte Smith: photo only"]],
+"searched":["open letter","apology","read this (min_days 60, min_active 30)","the truth (min_dup 3)","we owe you","dear (min_dup 3)","confession"],
+"notes":"Apology/open-letter statics are the dominant live text-heavy winner pattern. Most persona-page long-copy ads use photos, not text, so were rejected."}
