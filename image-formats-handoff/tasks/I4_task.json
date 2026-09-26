@@ -1,0 +1,56 @@
+[
+ {
+  "name": "Reddit Post",
+  "stages": "",
+  "why": "Mimics a Reddit thread screenshot. Native, high trust.",
+  "candidate_ids": []
+ },
+ {
+  "name": "The Censored Ad",
+  "stages": "TOF",
+  "why": "Blur + warning label pulls curiosity. The blur itself is the CTA.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Ugly Ads",
+  "stages": "TOF",
+  "why": "Deliberately low-production look to dodge ad blindness.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Problems (List Of)",
+  "stages": "TOF",
+  "why": "Stacking daily frictions makes the pain feel bigger.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Hack 101",
+  "stages": "TOF,MOF",
+  "why": "'Hack' framing reads as a tip, not a pitch.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Comparison (Static)",
+  "stages": "MOF",
+  "why": "Generic head-to-head 'this vs that' comparison.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Notification Offer",
+  "stages": "BOF",
+  "why": "Lock-screen notification mockup delivers the offer.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Bundle Offer (Static)",
+  "stages": "BOF",
+  "why": "Flat-lay of the range with one bundle price. Pushes AOV.",
+  "candidate_ids": []
+ },
+ {
+  "name": "AI Podcast / Interview Clip (Thumbnail)",
+  "stages": "TOF",
+  "why": "Podcast-style two-person thumbnail borrows interview credibility.",
+  "candidate_ids": []
+ }
+]

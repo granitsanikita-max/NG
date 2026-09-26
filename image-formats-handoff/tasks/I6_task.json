@@ -1,0 +1,50 @@
+[
+ {
+  "name": "News Headline",
+  "stages": "TOF",
+  "why": "Very native. Mimics editorial/news content.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Low Stock Alerts",
+  "stages": "BOF",
+  "why": "Creates scarcity and urgency.",
+  "candidate_ids": []
+ },
+ {
+  "name": "WhatsApp Text",
+  "stages": "",
+  "why": "Mimics a WhatsApp conversation screenshot. Native feel.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Venn Diagram",
+  "stages": "TOF,MOF",
+  "why": "The product is the only thing at the intersection.",
+  "candidate_ids": []
+ },
+ {
+  "name": "New vs Old",
+  "stages": "MOF",
+  "why": "Old way vs new way split makes the viewer do the math.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Native Ads",
+  "stages": "TOF",
+  "why": "Image must NOT look like an ad. The long-form copy sells.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Sourcing",
+  "stages": "MOF",
+  "why": "'Inside our factory' builds trust and justifies price.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Diagram / Flowchart",
+  "stages": "MOF",
+  "why": "Icons connected into one hub. Shows how the pieces fit.",
+  "candidate_ids": []
+ }
+]

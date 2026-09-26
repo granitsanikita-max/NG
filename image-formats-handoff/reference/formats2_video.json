@@ -1,0 +1,3603 @@
+[
+ {
+  "id": "3ced53123cd681049be2fa6c1a32e93a",
+  "name": "UGC Testimonial Ads",
+  "stages": "BOF",
+  "status": "",
+  "why": "Direct testimonial delivery, high trust.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1119550237258953&view_all_page_id=235804823214117",
+   "https://www.facebook.com/ads/library/?id=3109353569404465&view_all_page_id=1633779800049051",
+   "https://app.winninghunter.com/ad/777358878179859?platform=meta"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1485414542764521",
+    "file": "vf_1485414542764521.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1485414542764521?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=321847311201286",
+    "days": 340,
+    "advertiser": "Lily and Fox",
+    "pick": false
+   },
+   {
+    "id": "1558995368782953",
+    "file": "vf_1558995368782953.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1558995368782953?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=796698963526145",
+    "days": 323,
+    "advertiser": "Lumine Skin",
+    "pick": false
+   },
+   {
+    "id": "1224367822960919",
+    "file": "vf_1224367822960919.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1224367822960919?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=566143040392108",
+    "days": 231,
+    "advertiser": "Tattoo Numbing Cream Co.",
+    "pick": false
+   },
+   {
+    "id": "1523733959315129",
+    "file": "vf_1523733959315129.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1523733959315129?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=662331720305715",
+    "days": 218,
+    "advertiser": "Bare Ritual",
+    "pick": false
+   },
+   {
+    "id": "1297672228455077",
+    "file": "vf_1297672228455077.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1297672228455077?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=261408213889332",
+    "days": 159,
+    "advertiser": "Nikki Reed",
+    "pick": false
+   },
+   {
+    "id": "1717347882580909",
+    "file": "vf_1717347882580909.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1717347882580909?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=470900729771745",
+    "days": 134,
+    "advertiser": "Wuffes",
+    "pick": false
+   },
+   {
+    "id": "1271228891889627",
+    "file": "vf_1271228891889627.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1271228891889627?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1137445159628832",
+    "days": 130,
+    "advertiser": "Jeuneora",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd68104b32af07083f8766f",
+  "name": "UGC Science Backed",
+  "stages": "MOF",
+  "status": "",
+  "why": "Creator cites research/studies to back claims.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1570288441486977&view_all_page_id=674270965989061",
+   "https://www.facebook.com/ads/library/?id=1638324223928694&view_all_page_id=137528501663"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "913497630352954",
+    "file": "vf_913497630352954.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/913497630352954?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=100781436404327",
+    "days": 803,
+    "advertiser": "JC'S all natural",
+    "pick": false
+   },
+   {
+    "id": "1584511142799707",
+    "file": "vf_1584511142799707.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1584511142799707?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=278851805311073",
+    "days": 238,
+    "advertiser": "Fr\u00f8ya Organics",
+    "pick": false
+   },
+   {
+    "id": "915494174854142",
+    "file": "vf_915494174854142.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/915494174854142?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=883985021457092",
+    "days": 131,
+    "advertiser": "Kelly Moore Skin Expert",
+    "pick": false
+   },
+   {
+    "id": "2057641308149788",
+    "file": "vf_2057641308149788.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2057641308149788?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=196764956858148",
+    "days": 130,
+    "advertiser": "UndrDog Hemp",
+    "pick": false
+   },
+   {
+    "id": "1003186658789106",
+    "file": "vf_1003186658789106.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1003186658789106?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=720822377788755",
+    "days": 102,
+    "advertiser": "Toxin Dodger.",
+    "pick": false
+   },
+   {
+    "id": "1168502588571329",
+    "file": "vf_1168502588571329.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1168502588571329?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=207544652432120",
+    "days": 95,
+    "advertiser": "Q Shield",
+    "pick": false
+   },
+   {
+    "id": "1731634731619459",
+    "file": "vf_1731634731619459.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1731634731619459?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=112125237282259",
+    "days": 86,
+    "advertiser": "Sleepybelly Pregnancy Pillow",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd68123b4dfc078bd45cba3",
+  "name": "Podcast",
+  "stages": "MOF",
+  "status": "",
+  "why": "Mimics a podcast clip/conversation format.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1423069623091901&view_all_page_id=1343771369029582",
+   "https://www.facebook.com/ads/library/?id=1381376323626067&view_all_page_id=314197722000030"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1089619830121165",
+    "file": "vf_1089619830121165.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1089619830121165?platform=meta",
+    "fb_page": "",
+    "days": 13,
+    "advertiser": "Rho Nutrition",
+    "pick": true
+   },
+   {
+    "id": "1553769876466547",
+    "file": "vf_1553769876466547.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1553769876466547?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1822604324534772",
+    "days": 118,
+    "advertiser": "8 Sheep Organics",
+    "pick": false
+   },
+   {
+    "id": "1294799205700379",
+    "file": "vf_1294799205700379.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1294799205700379?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=860930543778314",
+    "days": 114,
+    "advertiser": "Blane Schilling, MD",
+    "pick": false
+   },
+   {
+    "id": "830409039594867",
+    "file": "vf_830409039594867.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/830409039594867?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=164319660102012",
+    "days": 105,
+    "advertiser": "Rhykin Pet Co",
+    "pick": false
+   },
+   {
+    "id": "1706156650639565",
+    "file": "vf_1706156650639565.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1706156650639565?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1517191275212003",
+    "days": 58,
+    "advertiser": "PurelyB",
+    "pick": false
+   },
+   {
+    "id": "1066263279081551",
+    "file": "vf_1066263279081551.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1066263279081551?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101518435352108",
+    "days": 57,
+    "advertiser": "Pulse Devices",
+    "pick": false
+   },
+   {
+    "id": "3150801025108688",
+    "file": "vf_3150801025108688.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3150801025108688?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=585565467970018",
+    "days": 47,
+    "advertiser": "Viv\u00e9a Menopause Skincare",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd681319aa4c6d83beba7fd",
+  "name": "Product Comparison Video",
+  "stages": "MOF",
+  "status": "",
+  "why": "Side-by-side comparison against a competitor or old method.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1090711160157636&view_all_page_id=801113639985410",
+   "https://www.facebook.com/ads/library/?id=1756932975646735&view_all_page_id=84763399274",
+   "https://app.winninghunter.com/ad/619094703739235?platform=meta"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1357888082910459",
+    "file": "vf_1357888082910459.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1357888082910459?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=418753171622111",
+    "days": 126,
+    "advertiser": "The Lauren Ashtyn Collection",
+    "pick": false
+   },
+   {
+    "id": "850871070902427",
+    "file": "vf_850871070902427.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/850871070902427?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=106457868854572",
+    "days": 122,
+    "advertiser": "Troovy Foods",
+    "pick": false
+   },
+   {
+    "id": "1232730692251961",
+    "file": "vf_1232730692251961.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1232730692251961?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=539208285953812",
+    "days": 107,
+    "advertiser": "Hela Hair",
+    "pick": false
+   },
+   {
+    "id": "2773476013013159",
+    "file": "vf_2773476013013159.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2773476013013159?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=315614678610514",
+    "days": 101,
+    "advertiser": "Carpe",
+    "pick": false
+   },
+   {
+    "id": "1356168993087824",
+    "file": "vf_1356168993087824.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1356168993087824?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1533995783507323",
+    "days": 91,
+    "advertiser": "Earth Fed Muscle",
+    "pick": false
+   },
+   {
+    "id": "1533322054905337",
+    "file": "vf_1533322054905337.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1533322054905337?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=109120880850504",
+    "days": 63,
+    "advertiser": "Melodic Forest",
+    "pick": false
+   },
+   {
+    "id": "1416966219425924",
+    "file": "vf_1416966219425924.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1416966219425924?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101255102109707",
+    "days": 53,
+    "advertiser": "The Conscious Bar",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd6813b8f6fdcdbf43435b9",
+  "name": "UGC Listicle",
+  "stages": "MOF",
+  "status": "",
+  "why": "Creator runs through a numbered list on camera.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1628108575582301&view_all_page_id=193863317737",
+   "https://www.facebook.com/ads/library/?id=28958791730392691&view_all_page_id=60686173217",
+   "https://app.winninghunter.com/ad/1170138620899074?platform=meta"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1283849950603594",
+    "file": "vf_1283849950603594.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1283849950603594?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=494479347554950",
+    "days": 164,
+    "advertiser": "Gozney",
+    "pick": false
+   },
+   {
+    "id": "1427740342464727",
+    "file": "vf_1427740342464727.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1427740342464727?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=465154587163132",
+    "days": 156,
+    "advertiser": "Flow Perfumes",
+    "pick": false
+   },
+   {
+    "id": "1715999663168834",
+    "file": "vf_1715999663168834.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1715999663168834?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=106762227770204",
+    "days": 151,
+    "advertiser": "Zima Dental",
+    "pick": false
+   },
+   {
+    "id": "1677053776656276",
+    "file": "vf_1677053776656276.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1677053776656276?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=124339760921488",
+    "days": 100,
+    "advertiser": "Kukoon",
+    "pick": false
+   },
+   {
+    "id": "1275189594565147",
+    "file": "vf_1275189594565147.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1275189594565147?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=346239188767285",
+    "days": 99,
+    "advertiser": "Michael Todd Beauty",
+    "pick": false
+   },
+   {
+    "id": "1562598248573658",
+    "file": "vf_1562598248573658.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1562598248573658?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1618226661764900",
+    "days": 84,
+    "advertiser": "SYOS - Shape Your Own Sound",
+    "pick": false
+   },
+   {
+    "id": "1562870448508141",
+    "file": "vf_1562870448508141.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1562870448508141?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=231722997474305",
+    "days": 77,
+    "advertiser": "TUTTOFARE",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd6813ea2f5f0aca718a877",
+  "name": "Street Interviews",
+  "stages": "TOF",
+  "status": "",
+  "why": "Good for cold audiences.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1510569960462117&view_all_page_id=112516667335834",
+   "https://www.facebook.com/ads/library/?id=3240872072785937&view_all_page_id=517850318391712",
+   "https://app.winninghunter.com/ad/4549848952009574?platform=meta"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1250611267252003",
+    "file": "vf_1250611267252003.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1250611267252003?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=911462225393993",
+    "days": 197,
+    "advertiser": "Dr. Thomas Mercer",
+    "pick": false
+   },
+   {
+    "id": "1003435055464395",
+    "file": "vf_1003435055464395.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1003435055464395?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=847723998417935",
+    "days": 118,
+    "advertiser": "Kannik",
+    "pick": false
+   },
+   {
+    "id": "776610178648074",
+    "file": "vf_776610178648074.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/776610178648074?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1507942232767508",
+    "days": 72,
+    "advertiser": "Jimmy Joy",
+    "pick": false
+   },
+   {
+    "id": "1377832110833780",
+    "file": "vf_1377832110833780.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1377832110833780?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101255102109707",
+    "days": 53,
+    "advertiser": "The Conscious Bar",
+    "pick": false
+   },
+   {
+    "id": "2723893531315792",
+    "file": "vf_2723893531315792.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2723893531315792?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1137153262814756",
+    "days": 64,
+    "advertiser": "Street Interviews Daily",
+    "pick": false
+   },
+   {
+    "id": "1447600023754543",
+    "file": "vf_1447600023754543.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1447600023754543?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=108275968731475",
+    "days": 199,
+    "advertiser": "Saguaro US",
+    "pick": false
+   },
+   {
+    "id": "969950865703767",
+    "file": "vf_969950865703767.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/969950865703767?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=911462225393993",
+    "days": 185,
+    "advertiser": "Dr. Thomas Mercer",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd6813eab0de7acccf4842d",
+  "name": "UGC Reviews",
+  "stages": "MOF",
+  "status": "",
+  "why": "UGC showing the product's benefits. Good for middle of funnel.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=2117336349658372&view_all_page_id=6277576621",
+   "https://www.facebook.com/ads/library/?id=1591242705786525&view_all_page_id=214134769285"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1845934269669789",
+    "file": "vf_1845934269669789.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1845934269669789?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=112270408382086",
+    "days": 374,
+    "advertiser": "Fiido",
+    "pick": false
+   },
+   {
+    "id": "1463056664780642",
+    "file": "vf_1463056664780642.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1463056664780642?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=110783673852555",
+    "days": 319,
+    "advertiser": "Jazzupco",
+    "pick": false
+   },
+   {
+    "id": "1455201082678021",
+    "file": "vf_1455201082678021.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1455201082678021?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=249533715240484",
+    "days": 209,
+    "advertiser": "Thursday Boot Company",
+    "pick": false
+   },
+   {
+    "id": "1486513809585195",
+    "file": "vf_1486513809585195.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1486513809585195?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=114966660419611",
+    "days": 199,
+    "advertiser": "Anaconda Performance",
+    "pick": false
+   },
+   {
+    "id": "1699144364406531",
+    "file": "vf_1699144364406531.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1699144364406531?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=106868946012729",
+    "days": 130,
+    "advertiser": "Latico Leathers",
+    "pick": false
+   },
+   {
+    "id": "1552644999839851",
+    "file": "vf_1552644999839851.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1552644999839851?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=278464725578718",
+    "days": 116,
+    "advertiser": "REP Fitness",
+    "pick": false
+   },
+   {
+    "id": "1391674982785766",
+    "file": "vf_1391674982785766.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1391674982785766?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=156970404429680",
+    "days": 115,
+    "advertiser": "STATE",
+    "pick": false
+   },
+   {
+    "id": "989759297288554",
+    "file": "vf_989759297288554.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/989759297288554?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103692790707",
+    "days": 107,
+    "advertiser": "Turtle Beach",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd6814582f8c0882e4f97f4",
+  "name": "5 Reasons Why",
+  "stages": "MOF",
+  "status": "",
+  "why": "Good for middle of funnel.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1610160920475376&view_all_page_id=2198288203519034",
+   "https://www.facebook.com/ads/library/?id=943879038717611&view_all_page_id=38786916438"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1249126027382463",
+    "file": "vf_1249126027382463.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1249126027382463?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1080881645105156",
+    "days": 162,
+    "advertiser": "Australian Tan Guide",
+    "pick": false
+   },
+   {
+    "id": "972332865442305",
+    "file": "vf_972332865442305.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/972332865442305?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1137445159628832",
+    "days": 138,
+    "advertiser": "Jeuneora",
+    "pick": false
+   },
+   {
+    "id": "1377228977051943",
+    "file": "vf_1377228977051943.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1377228977051943?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=441373639062768",
+    "days": 134,
+    "advertiser": "Aboard Apparel",
+    "pick": false
+   },
+   {
+    "id": "1073645478667284",
+    "file": "vf_1073645478667284.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1073645478667284?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=328240861159503",
+    "days": 98,
+    "advertiser": "Nakie",
+    "pick": false
+   },
+   {
+    "id": "1550596629788896",
+    "file": "vf_1550596629788896.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1550596629788896?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=983615988345484",
+    "days": 94,
+    "advertiser": "John Malecki",
+    "pick": false
+   },
+   {
+    "id": "2047337049183623",
+    "file": "vf_2047337049183623.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2047337049183623?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=632106686656352",
+    "days": 71,
+    "advertiser": "TravelLite",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd6814e8222f97b68863cea",
+  "name": "Fake Doctor",
+  "stages": "MOF",
+  "status": "",
+  "why": "Actor in doctor styling gives a medical endorsement.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1068713112679255&view_all_page_id=182073298490036",
+   "https://www.facebook.com/ads/library/?id=1663336921981468&view_all_page_id=1071855976011454"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "964389965997543",
+    "file": "vf_964389965997543.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/964389965997543?platform=meta",
+    "fb_page": "",
+    "days": 148,
+    "advertiser": "Lymphologist - Emma Bernard, PhD (Sringe)",
+    "pick": true
+   },
+   {
+    "id": "1825568994814278",
+    "file": "vf_1825568994814278.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1825568994814278?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=109699905229885",
+    "days": 246,
+    "advertiser": "Treatmedy",
+    "pick": false
+   },
+   {
+    "id": "2537785636679152",
+    "file": "vf_2537785636679152.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2537785636679152?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=806592715881039",
+    "days": 157,
+    "advertiser": "Pain Relief Journal",
+    "pick": false
+   },
+   {
+    "id": "956269710792349",
+    "file": "vf_956269710792349.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/956269710792349?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1343771369029582",
+    "days": 125,
+    "advertiser": "Happy Mammoth",
+    "pick": false
+   },
+   {
+    "id": "1010651401864082",
+    "file": "vf_1010651401864082.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1010651401864082?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=851429918055798",
+    "days": 118,
+    "advertiser": "Dr. Blane - Pediatric Specialist",
+    "pick": false
+   },
+   {
+    "id": "972198998917709",
+    "file": "vf_972198998917709.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/972198998917709?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=134519076619788",
+    "days": 117,
+    "advertiser": "Taos Footwear",
+    "pick": false
+   },
+   {
+    "id": "1614498040092311",
+    "file": "vf_1614498040092311.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1614498040092311?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101255102109707",
+    "days": 50,
+    "advertiser": "The Conscious Bar",
+    "pick": false
+   },
+   {
+    "id": "843546518769718",
+    "file": "vf_843546518769718.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/843546518769718?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=109699905229885",
+    "days": 168,
+    "advertiser": "Treatmedy",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd68153b0ffccdfdc8c2a67",
+  "name": "Talking Objects / Characters / Body Parts",
+  "stages": "TOF",
+  "status": "",
+  "why": "Anthropomorphized object or body part narrates the ad.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1608262557449491&view_all_page_id=286471728036410",
+   "https://www.facebook.com/ads/library/?id=2174179206706612&view_all_page_id=167081942646"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1463868478618244",
+    "file": "vf_1463868478618244.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1463868478618244?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=876540295535124",
+    "days": 170,
+    "advertiser": "Only Human",
+    "pick": false
+   },
+   {
+    "id": "2114534589497378",
+    "file": "vf_2114534589497378.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2114534589497378?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=683696291488630",
+    "days": 148,
+    "advertiser": "James Kilgour, MD",
+    "pick": false
+   },
+   {
+    "id": "4537128683176109",
+    "file": "vf_4537128683176109.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4537128683176109?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1009921905536344",
+    "days": 108,
+    "advertiser": "Healthy You by Dwight Brennan",
+    "pick": false
+   },
+   {
+    "id": "2763363207351239",
+    "file": "vf_2763363207351239.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2763363207351239?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=683696291488630",
+    "days": 141,
+    "advertiser": "James Kilgour, MD",
+    "pick": false
+   },
+   {
+    "id": "1433322955263050",
+    "file": "vf_1433322955263050.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1433322955263050?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=876540295535124",
+    "days": 140,
+    "advertiser": "Only Human",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd68161a1fcefc0cfe7568e",
+  "name": "Claymation",
+  "stages": "TOF",
+  "status": "",
+  "why": "Stop-motion clay animation, high scroll-stop novelty.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1583315593292621&view_all_page_id=290983137688447",
+   "https://www.facebook.com/ads/library/?id=2918857881792756&view_all_page_id=6550003123"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1660938338430883",
+    "file": "vf_1660938338430883.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1660938338430883?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=706170702586202",
+    "days": 144,
+    "advertiser": "PurrPop",
+    "pick": false
+   },
+   {
+    "id": "1248892127090555",
+    "file": "vf_1248892127090555.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1248892127090555?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=916487614887316",
+    "days": 123,
+    "advertiser": "Everyday Pet Health (Wuffes)",
+    "pick": false
+   },
+   {
+    "id": "2729604724075588",
+    "file": "vf_2729604724075588.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2729604724075588?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=663571616828831",
+    "days": 119,
+    "advertiser": "Alicia Darling (Nuora, mynuora.com)",
+    "pick": false
+   },
+   {
+    "id": "1046410997719608",
+    "file": "vf_1046410997719608.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1046410997719608?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103554148073312",
+    "days": 70,
+    "advertiser": "Cacao Collective",
+    "pick": false
+   },
+   {
+    "id": "2019321685634591",
+    "file": "vf_2019321685634591.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2019321685634591?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=916487614887316",
+    "days": 122,
+    "advertiser": "Everyday Pet Health (Wuffes)",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd6816fb30bc33b8f09b785",
+  "name": "Reply To Question",
+  "stages": "MOF,BOF",
+  "status": "",
+  "why": "Video replying to a real or planted comment/question.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=2617696315332480&view_all_page_id=1102622506595233",
+   "https://www.facebook.com/ads/library/?id=1701353220960899&view_all_page_id=341562318610"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "981411171492954",
+    "file": "vf_981411171492954.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/981411171492954?platform=meta",
+    "fb_page": "",
+    "days": 10,
+    "advertiser": "Milamend",
+    "pick": true
+   },
+   {
+    "id": "1509964516665966",
+    "file": "vf_1509964516665966.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1509964516665966?platform=meta",
+    "fb_page": "",
+    "days": 90,
+    "advertiser": "Neupril",
+    "pick": true
+   },
+   {
+    "id": "4243514499236707",
+    "file": "vf_4243514499236707.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4243514499236707?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=306142462590629",
+    "days": 196,
+    "advertiser": "Turbojet Oz",
+    "pick": false
+   },
+   {
+    "id": "791363514042846",
+    "file": "vf_791363514042846.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/791363514042846?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=102337078599290",
+    "days": 182,
+    "advertiser": "ARRAY Bags",
+    "pick": false
+   },
+   {
+    "id": "1317078410335575",
+    "file": "vf_1317078410335575.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1317078410335575?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1632568446971453",
+    "days": 152,
+    "advertiser": "Boredwalk",
+    "pick": false
+   },
+   {
+    "id": "904032992013908",
+    "file": "vf_904032992013908.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/904032992013908?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=519220224598730",
+    "days": 82,
+    "advertiser": "Secret Nails",
+    "pick": false
+   },
+   {
+    "id": "1404577808252691",
+    "file": "vf_1404577808252691.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1404577808252691?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=106438191920289",
+    "days": 57,
+    "advertiser": "Rip Tie Hair",
+    "pick": false
+   },
+   {
+    "id": "912196081930742",
+    "file": "vf_912196081930742.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/912196081930742?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=258597664014422",
+    "days": 50,
+    "advertiser": "PopSweetly (URO)",
+    "pick": false
+   },
+   {
+    "id": "1045297144887527",
+    "file": "vf_1045297144887527.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1045297144887527?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1632568446971453",
+    "days": 61,
+    "advertiser": "Boredwalk",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd681738691efa5ad293fb1",
+  "name": "Myth Buster",
+  "stages": "TOF,MOF",
+  "status": "",
+  "why": "Debunks a common misconception in the niche.",
+  "links": [
+   "https://app.winninghunter.com/ad/862418478567559?platform=meta",
+   "https://app.winninghunter.com/ad/848561817030031?platform=meta",
+   "https://app.winninghunter.com/ad/734643981776175?platform=meta"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "2596694130702378",
+    "file": "vf_2596694130702378.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2596694130702378?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=907850635739724",
+    "days": 252,
+    "advertiser": "Dr. Destiny Robinson (Nuora, mynuora.com)",
+    "pick": false
+   },
+   {
+    "id": "908700658653580",
+    "file": "vf_908700658653580.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/908700658653580?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=110251440650795",
+    "days": 158,
+    "advertiser": "We Love Pets (Waggie / winkflo.com)",
+    "pick": false
+   },
+   {
+    "id": "954983106995308",
+    "file": "vf_954983106995308.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/954983106995308?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=100268342276173",
+    "days": 158,
+    "advertiser": "Wag Daily",
+    "pick": false
+   },
+   {
+    "id": "1447300660522260",
+    "file": "vf_1447300660522260.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1447300660522260?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=832406153286131",
+    "days": 155,
+    "advertiser": "Newauraskin",
+    "pick": false
+   },
+   {
+    "id": "1313504424081454",
+    "file": "vf_1313504424081454.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1313504424081454?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1869705479909710",
+    "days": 135,
+    "advertiser": "WINPRO Pet",
+    "pick": false
+   },
+   {
+    "id": "1034248599178556",
+    "file": "vf_1034248599178556.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1034248599178556?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=107017127524162",
+    "days": 130,
+    "advertiser": "MooGoo Skin Care UK",
+    "pick": false
+   },
+   {
+    "id": "3092209360985119",
+    "file": "vf_3092209360985119.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3092209360985119?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=145924121926869",
+    "days": 53,
+    "advertiser": "Glov Beauty",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd681a6a0e6f725cdab454a",
+  "name": "Crochet Story",
+  "stages": "ANY",
+  "status": "",
+  "why": "Story told through a crochet/craft visual metaphor. Pure style, copy-dependent.",
+  "links": [],
+  "new": false,
+  "refs": [
+   {
+    "id": "27451708621126181",
+    "file": "vf_27451708621126181.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/27451708621126181?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1077004072157403",
+    "days": 79,
+    "advertiser": "Mini Crafts",
+    "pick": false
+   },
+   {
+    "id": "1037381775823443",
+    "file": "vf_1037381775823443.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1037381775823443?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103554148073312",
+    "days": 70,
+    "advertiser": "Cacao Collective",
+    "pick": false
+   },
+   {
+    "id": "4303901506538121",
+    "file": "vf_4303901506538121.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4303901506538121?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=739407069728599",
+    "days": 67,
+    "advertiser": "The Woobles",
+    "pick": false
+   },
+   {
+    "id": "1611640847418196",
+    "file": "vf_1611640847418196.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1611640847418196?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=739407069728599",
+    "days": 37,
+    "advertiser": "The Woobles (Bluey x Woobles)",
+    "pick": false
+   },
+   {
+    "id": "1068866272190290",
+    "file": "vf_1068866272190290.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1068866272190290?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1077004072157403",
+    "days": 36,
+    "advertiser": "Mini Crafts",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd681a6ac9fe48ff2945368",
+  "name": "UGC Testimonial Mashup",
+  "stages": "BOF",
+  "status": "",
+  "why": "Multiple short testimonial clips cut together.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1059949563550205&view_all_page_id=334191996715482",
+   "https://www.facebook.com/ads/library/?id=1430293862347998&view_all_page_id=5863091683"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "3261578047341741",
+    "file": "vf_3261578047341741.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3261578047341741?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=413939585133150",
+    "days": 465,
+    "advertiser": "ShinDefender",
+    "pick": false
+   },
+   {
+    "id": "1793050711648847",
+    "file": "vf_1793050711648847.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1793050711648847?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=389842447750979",
+    "days": 346,
+    "advertiser": "Paperlike",
+    "pick": false
+   },
+   {
+    "id": "847489561431611",
+    "file": "vf_847489561431611.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/847489561431611?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=109680515485399",
+    "days": 257,
+    "advertiser": "Al Sujood (Zikr Ring)",
+    "pick": false
+   },
+   {
+    "id": "3564596177011951",
+    "file": "vf_3564596177011951.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3564596177011951?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=359108210623770",
+    "days": 148,
+    "advertiser": "Healo",
+    "pick": false
+   },
+   {
+    "id": "1042852252018194",
+    "file": "vf_1042852252018194.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1042852252018194?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=107604812133422",
+    "days": 50,
+    "advertiser": "The Kinetic Arm",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd681cf8c7adbbf7e29afae",
+  "name": "Personal Story",
+  "stages": "TOF,MOF",
+  "status": "",
+  "why": "Creator's own story/journey with the problem.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1028360416555321&view_all_page_id=131305029855",
+   "https://www.facebook.com/ads/library/?id=1450325790191788&view_all_page_id=131305029855"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "980328944663523",
+    "file": "vf_980328944663523.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/980328944663523?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=105077735387084",
+    "days": 174,
+    "advertiser": "Aubrey Hayes",
+    "pick": false
+   },
+   {
+    "id": "2669977790069539",
+    "file": "vf_2669977790069539.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2669977790069539?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=539422189250659",
+    "days": 165,
+    "advertiser": "Parent Sleep Solutions",
+    "pick": false
+   },
+   {
+    "id": "1238658825089789",
+    "file": "vf_1238658825089789.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1238658825089789?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=261408213889332",
+    "days": 159,
+    "advertiser": "Nikki Reed",
+    "pick": false
+   },
+   {
+    "id": "1026943139843182",
+    "file": "vf_1026943139843182.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1026943139843182?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=345837819121518",
+    "days": 138,
+    "advertiser": "Sarah Wayne Callies",
+    "pick": false
+   },
+   {
+    "id": "2910985655921879",
+    "file": "vf_2910985655921879.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2910985655921879?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=817387608134013",
+    "days": 105,
+    "advertiser": "Diane\u2019s Crafting Diary",
+    "pick": false
+   },
+   {
+    "id": "1544330327475382",
+    "file": "vf_1544330327475382.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1544330327475382?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=188081768235977",
+    "days": 101,
+    "advertiser": "Condemned Labz",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd681d595bfe723387ba4d6",
+  "name": "Educational UGC",
+  "stages": "TOF",
+  "status": "",
+  "why": "Teaches something useful, product woven in.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=981005928062279&view_all_page_id=6039999393",
+   "https://www.facebook.com/ads/library/?id=1950001469177618&view_all_page_id=324761664079"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "703744955723924",
+    "file": "vf_703744955723924.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/703744955723924?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=460756657429667",
+    "days": 303,
+    "advertiser": "Blackhorse Lane Ateliers",
+    "pick": false
+   },
+   {
+    "id": "904476662225054",
+    "file": "vf_904476662225054.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/904476662225054?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1822604324534772",
+    "days": 196,
+    "advertiser": "8 Sheep Organics",
+    "pick": false
+   },
+   {
+    "id": "987804117436751",
+    "file": "vf_987804117436751.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/987804117436751?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=2390405827894921",
+    "days": 136,
+    "advertiser": "Provitalize Probiotics by BB Company",
+    "pick": false
+   },
+   {
+    "id": "1235962884720170",
+    "file": "vf_1235962884720170.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1235962884720170?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=105413099038897",
+    "days": 134,
+    "advertiser": "Howdysnax",
+    "pick": false
+   },
+   {
+    "id": "1874514510107038",
+    "file": "vf_1874514510107038.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1874514510107038?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=274512545745294",
+    "days": 113,
+    "advertiser": "KinetoFlex",
+    "pick": false
+   },
+   {
+    "id": "1300636775520156",
+    "file": "vf_1300636775520156.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1300636775520156?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=277697738769648",
+    "days": 107,
+    "advertiser": "Swedish Candy Land",
+    "pick": false
+   },
+   {
+    "id": "1685644088681786",
+    "file": "vf_1685644088681786.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1685644088681786?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1512166082438007",
+    "days": 105,
+    "advertiser": "Dr Chris Brown",
+    "pick": false
+   },
+   {
+    "id": "1322762699706575",
+    "file": "vf_1322762699706575.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1322762699706575?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=107241037747009",
+    "days": 75,
+    "advertiser": "PAUME",
+    "pick": false
+   },
+   {
+    "id": "1603844754460408",
+    "file": "vf_1603844754460408.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1603844754460408?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=105794041366026",
+    "days": 57,
+    "advertiser": "Skin Cupid - Your Korean Skincare Guru",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd681d68e42e62eb80da48d",
+  "name": "Founder Story Ads",
+  "stages": "TOF,MOF",
+  "status": "",
+  "why": "Personal origin story builds trust and relatability.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1837478060596767&view_all_page_id=236959743562",
+   "https://www.facebook.com/ads/library/?id=1434892962022116&view_all_page_id=282592881929497",
+   "https://app.winninghunter.com/ad/759977796539205?platform=meta"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1491201052739106",
+    "file": "vf_1491201052739106.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1491201052739106?platform=meta",
+    "fb_page": "",
+    "days": 5,
+    "advertiser": "Milamend",
+    "pick": true
+   },
+   {
+    "id": "1293592542340460",
+    "file": "vf_1293592542340460.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1293592542340460?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=312023062268771",
+    "days": 444,
+    "advertiser": "Remi Cachet",
+    "pick": false
+   },
+   {
+    "id": "956636883608239",
+    "file": "vf_956636883608239.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/956636883608239?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=174767962396180",
+    "days": 194,
+    "advertiser": "Trade Shades",
+    "pick": false
+   },
+   {
+    "id": "1441228830583854",
+    "file": "vf_1441228830583854.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1441228830583854?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=591344107404577",
+    "days": 156,
+    "advertiser": "Desi khazanay ",
+    "pick": false
+   },
+   {
+    "id": "3140826362769499",
+    "file": "vf_3140826362769499.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3140826362769499?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=382928684894416",
+    "days": 123,
+    "advertiser": "Fuca Organic",
+    "pick": false
+   },
+   {
+    "id": "1986960732706833",
+    "file": "vf_1986960732706833.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1986960732706833?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1730343843868698",
+    "days": 118,
+    "advertiser": "NeoPro Cycling",
+    "pick": false
+   },
+   {
+    "id": "4355921234719322",
+    "file": "vf_4355921234719322.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4355921234719322?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=102705662206257",
+    "days": 108,
+    "advertiser": "Hostage Tape",
+    "pick": false
+   },
+   {
+    "id": "1392141725366031",
+    "file": "vf_1392141725366031.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1392141725366031?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=205510776606384",
+    "days": 98,
+    "advertiser": "A-List Lace Hair Wigs",
+    "pick": false
+   },
+   {
+    "id": "1028905613264846",
+    "file": "vf_1028905613264846.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1028905613264846?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=396824610188848",
+    "days": 84,
+    "advertiser": "Go Go Fun Learning",
+    "pick": false
+   },
+   {
+    "id": "1007077805186733",
+    "file": "vf_1007077805186733.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1007077805186733?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=182571731610500",
+    "days": 76,
+    "advertiser": "Wilderwoofs",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd681e2b45ceb303d84f3a9",
+  "name": "UGC How-To",
+  "stages": "MOF,BOF",
+  "status": "",
+  "why": "Creator walks through how to use the product.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1435146288560014&view_all_page_id=1589398811378132",
+   "https://www.facebook.com/ads/library/?id=1502944405189449&view_all_page_id=603730309652930"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "610381542087267",
+    "file": "vf_610381542087267.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/610381542087267?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=113026267118759",
+    "days": 542,
+    "advertiser": "Epodex - Nederland",
+    "pick": false
+   },
+   {
+    "id": "1475368150491548",
+    "file": "vf_1475368150491548.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1475368150491548?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=100781436404327",
+    "days": 323,
+    "advertiser": "JC'S all natural",
+    "pick": false
+   },
+   {
+    "id": "4124739801189250",
+    "file": "vf_4124739801189250.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4124739801189250?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=550328878169786",
+    "days": 277,
+    "advertiser": "Miracle de Paris",
+    "pick": false
+   },
+   {
+    "id": "1498546035388303",
+    "file": "vf_1498546035388303.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1498546035388303?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=99624069164",
+    "days": 170,
+    "advertiser": "Aussie Bead Supply",
+    "pick": false
+   },
+   {
+    "id": "2059330481652754",
+    "file": "vf_2059330481652754.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2059330481652754?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=108324742221035",
+    "days": 91,
+    "advertiser": "Zena_Makeup",
+    "pick": false
+   },
+   {
+    "id": "908509795609468",
+    "file": "vf_908509795609468.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/908509795609468?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=117892525375558",
+    "days": 90,
+    "advertiser": "Warlord - Men\u2019s Grooming Essentials",
+    "pick": false
+   },
+   {
+    "id": "1504505100902559",
+    "file": "vf_1504505100902559.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1504505100902559?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=106865841636148",
+    "days": 72,
+    "advertiser": "CurvLife",
+    "pick": false
+   },
+   {
+    "id": "1912651749440008",
+    "file": "vf_1912651749440008.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1912651749440008?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=99624069164",
+    "days": 137,
+    "advertiser": "Aussie Bead Supply",
+    "pick": false
+   },
+   {
+    "id": "1239323084795641",
+    "file": "vf_1239323084795641.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1239323084795641?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=99624069164",
+    "days": 112,
+    "advertiser": "Aussie Bead Supply",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ced53123cd681e781d9f2a2df5d8a8e",
+  "name": "Product Demo Ads",
+  "stages": "MOF,BOF",
+  "status": "",
+  "why": "Shows the product in actual use.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1119632703824071&view_all_page_id=617705688406532",
+   "https://www.facebook.com/ads/library/?id=1437342874964528&view_all_page_id=1131411810375596",
+   "https://app.winninghunter.com/ad/1279270506653331?platform=meta"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "2276197226171996",
+    "file": "vf_2276197226171996.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2276197226171996?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=104567622120868",
+    "days": 455,
+    "advertiser": "Kidstoylover",
+    "pick": false
+   },
+   {
+    "id": "862010689724290",
+    "file": "vf_862010689724290.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/862010689724290?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=106558528905857",
+    "days": 329,
+    "advertiser": "Outin Portable Electric Espresso Machine",
+    "pick": false
+   },
+   {
+    "id": "1140982527844588",
+    "file": "vf_1140982527844588.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1140982527844588?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=390079570864051",
+    "days": 281,
+    "advertiser": "Doresty-A",
+    "pick": false
+   },
+   {
+    "id": "533673902963329",
+    "file": "vf_533673902963329.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/533673902963329?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=102091988164065",
+    "days": 189,
+    "advertiser": "Thread & Maple",
+    "pick": false
+   },
+   {
+    "id": "1489343559386563",
+    "file": "vf_1489343559386563.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1489343559386563?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103201251888094",
+    "days": 183,
+    "advertiser": "Rabaconda",
+    "pick": false
+   },
+   {
+    "id": "765638519961472",
+    "file": "vf_765638519961472.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/765638519961472?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=100386639259235",
+    "days": 176,
+    "advertiser": "Mammotion",
+    "pick": false
+   },
+   {
+    "id": "1316855867027137",
+    "file": "vf_1316855867027137.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1316855867027137?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=104277345208163",
+    "days": 162,
+    "advertiser": "Bullbar",
+    "pick": false
+   },
+   {
+    "id": "1016856057690804",
+    "file": "vf_1016856057690804.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1016856057690804?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=803281143056480",
+    "days": 128,
+    "advertiser": "Stamp Prints Life",
+    "pick": false
+   },
+   {
+    "id": "720694867557257",
+    "file": "vf_720694867557257.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/720694867557257?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=745989341920077",
+    "days": 88,
+    "advertiser": "Tottlebee",
+    "pick": false
+   },
+   {
+    "id": "1955710708417889",
+    "file": "vf_1955710708417889.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1955710708417889?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1575149359162611",
+    "days": 86,
+    "advertiser": "ToolBox Widget",
+    "pick": false
+   },
+   {
+    "id": "3083191161879319",
+    "file": "vf_3083191161879319.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3083191161879319?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=289802428059644",
+    "days": 80,
+    "advertiser": "EZARC",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3d8d53123cd681788bc1f50f910f70de",
+  "name": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "stages": "TOF",
+  "status": "",
+  "why": "Borrows attention that already exists, disguised as native reaction content.",
+  "links": [
+   "https://app.winninghunter.com/ad/1335144412079457?platform=facebook"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1695398168284608",
+    "file": "vf_1695398168284608.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1695398168284608?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101297238976106",
+    "days": 176,
+    "advertiser": "Lucent Globe",
+    "pick": false
+   },
+   {
+    "id": "4366706563543173",
+    "file": "vf_4366706563543173.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4366706563543173?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=117792261415761",
+    "days": 120,
+    "advertiser": "Krvvy",
+    "pick": false
+   },
+   {
+    "id": "998290562901003",
+    "file": "vf_998290562901003.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/998290562901003?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=2390544414559170",
+    "days": 110,
+    "advertiser": "FAE Beauty",
+    "pick": false
+   },
+   {
+    "id": "2171622530283086",
+    "file": "vf_2171622530283086.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2171622530283086?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1228526737003734",
+    "days": 70,
+    "advertiser": "Korean Skincare Secrets",
+    "pick": false
+   },
+   {
+    "id": "1045788068111448",
+    "file": "vf_1045788068111448.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1045788068111448?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103809991018447",
+    "days": 68,
+    "advertiser": "Gorilla Mind",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3d8d53123cd681a99c7cc715951757e3",
+  "name": "Scenarios",
+  "stages": "TOF",
+  "status": "",
+  "why": "Opens on a hypothetical ('imagine if...') to pull cold viewers in.",
+  "links": [
+   "https://www.figma.com/board/xDzw2Ix07R7xDUcKluhT11/Short-Form-Lego-Bricks"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1664700001633129",
+    "file": "vf_1664700001633129.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1664700001633129?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=978923771967129",
+    "days": 202,
+    "advertiser": "Luxero",
+    "pick": false
+   },
+   {
+    "id": "982544857623056",
+    "file": "vf_982544857623056.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/982544857623056?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1694968537416272",
+    "days": 156,
+    "advertiser": "Frost NYC",
+    "pick": false
+   },
+   {
+    "id": "4219565178293624",
+    "file": "vf_4219565178293624.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4219565178293624?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=110788355258060",
+    "days": 145,
+    "advertiser": "Charmette",
+    "pick": false
+   },
+   {
+    "id": "1966833947595249",
+    "file": "vf_1966833947595249.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1966833947595249?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=832587586605266",
+    "days": 132,
+    "advertiser": "PresentSpark",
+    "pick": false
+   },
+   {
+    "id": "27876298648628301",
+    "file": "vf_27876298648628301.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/27876298648628301?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=164485226749604",
+    "days": 101,
+    "advertiser": "Tough Trucks For Kids",
+    "pick": false
+   },
+   {
+    "id": "1005525018889735",
+    "file": "vf_1005525018889735.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1005525018889735?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=2239040542846328",
+    "days": 94,
+    "advertiser": "Dr. Woof Apparel",
+    "pick": false
+   },
+   {
+    "id": "1016036981022414",
+    "file": "vf_1016036981022414.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1016036981022414?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=928422957026329",
+    "days": 77,
+    "advertiser": "Ncrovoapex",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3d8d53123cd6812a97d6edbced7580fe",
+  "name": "Personal Learning / Epiphany",
+  "stages": "TOF",
+  "status": "",
+  "why": "One core lesson: 'wish I knew this sooner.' Product is the lesson.",
+  "links": [
+   "https://www.figma.com/board/xDzw2Ix07R7xDUcKluhT11/Short-Form-Lego-Bricks"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1575681866980678",
+    "file": "vf_1575681866980678.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1575681866980678?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=733999149806845",
+    "days": 230,
+    "advertiser": "Women's Wellness Report",
+    "pick": false
+   },
+   {
+    "id": "2200944417315159",
+    "file": "vf_2200944417315159.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2200944417315159?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=108985802026390",
+    "days": 194,
+    "advertiser": "POLSO.",
+    "pick": false
+   },
+   {
+    "id": "958930383631991",
+    "file": "vf_958930383631991.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/958930383631991?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1096701903520880",
+    "days": 121,
+    "advertiser": "Manovera ",
+    "pick": false
+   },
+   {
+    "id": "2026521408303500",
+    "file": "vf_2026521408303500.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2026521408303500?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=117892525375558",
+    "days": 105,
+    "advertiser": "Warlord - Men\u2019s Grooming Essentials",
+    "pick": false
+   },
+   {
+    "id": "27156557060663987",
+    "file": "vf_27156557060663987.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/27156557060663987?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=692501177273905",
+    "days": 97,
+    "advertiser": "Nobona",
+    "pick": false
+   },
+   {
+    "id": "3430758013979490",
+    "file": "vf_3430758013979490.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3430758013979490?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=640284145828991",
+    "days": 105,
+    "advertiser": "Amy Whitehall",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3d8d53123cd6814d93e1fb8d118cb5d7",
+  "name": "Q&A",
+  "stages": "TOF,MOF",
+  "status": "",
+  "why": "The question IS the hook. Answer what the buyer is Googling.",
+  "links": [
+   "https://www.figma.com/board/xDzw2Ix07R7xDUcKluhT11/Short-Form-Lego-Bricks"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "3565129710289614",
+    "file": "vf_3565129710289614.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3565129710289614?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=387782588609311",
+    "days": 415,
+    "advertiser": "Banana Home",
+    "pick": false
+   },
+   {
+    "id": "813316091524909",
+    "file": "vf_813316091524909.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/813316091524909?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=102348431747573",
+    "days": 311,
+    "advertiser": "Hydragun",
+    "pick": false
+   },
+   {
+    "id": "1573233787062566",
+    "file": "vf_1573233787062566.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1573233787062566?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=406486806439462",
+    "days": 204,
+    "advertiser": "Ottawa Valley Meats",
+    "pick": false
+   },
+   {
+    "id": "951255914062736",
+    "file": "vf_951255914062736.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/951255914062736?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=579971955421404",
+    "days": 189,
+    "advertiser": "Imbibe Living",
+    "pick": false
+   },
+   {
+    "id": "2182404145852989",
+    "file": "vf_2182404145852989.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2182404145852989?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=227560550591919",
+    "days": 116,
+    "advertiser": "OiOi",
+    "pick": false
+   },
+   {
+    "id": "2218635915628328",
+    "file": "vf_2218635915628328.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2218635915628328?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=102143802929268",
+    "days": 82,
+    "advertiser": "Butter Brush",
+    "pick": false
+   },
+   {
+    "id": "28099453026339244",
+    "file": "vf_28099453026339244.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/28099453026339244?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=105615541128468",
+    "days": 65,
+    "advertiser": "COAT paints",
+    "pick": false
+   },
+   {
+    "id": "1657590346373301",
+    "file": "vf_1657590346373301.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1657590346373301?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=104117745880893",
+    "days": 52,
+    "advertiser": "The Cheers CEO",
+    "pick": false
+   },
+   {
+    "id": "2001294824044205",
+    "file": "vf_2001294824044205.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2001294824044205?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=219491014912328",
+    "days": 51,
+    "advertiser": "Triquetra Health",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3d8d53123cd68168a53ac5e91b910c7d",
+  "name": "Day In The Life",
+  "stages": "TOF",
+  "status": "",
+  "why": "Native lifestyle content, product appears naturally in-frame.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=2342970876242409&view_all_page_id=357167600818818",
+   "https://www.facebook.com/ads/library/?id=1457009082949698&view_all_page_id=475182892589757"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1411707263448213",
+    "file": "vf_1411707263448213.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1411707263448213?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1039002766126494",
+    "days": 197,
+    "advertiser": "Ethnasia",
+    "pick": false
+   },
+   {
+    "id": "1417839263380055",
+    "file": "vf_1417839263380055.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1417839263380055?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=112705781932412",
+    "days": 157,
+    "advertiser": "Ma Folie",
+    "pick": false
+   },
+   {
+    "id": "1828357727831308",
+    "file": "vf_1828357727831308.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1828357727831308?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=265001866689344",
+    "days": 149,
+    "advertiser": "C\u00e2lin",
+    "pick": false
+   },
+   {
+    "id": "27483462151259798",
+    "file": "vf_27483462151259798.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/27483462151259798?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=100121786362088",
+    "days": 118,
+    "advertiser": "We Heart Nutrition",
+    "pick": false
+   },
+   {
+    "id": "1695033518468740",
+    "file": "vf_1695033518468740.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1695033518468740?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=641420329259407",
+    "days": 90,
+    "advertiser": "Merry People",
+    "pick": false
+   },
+   {
+    "id": "3440834559420900",
+    "file": "vf_3440834559420900.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3440834559420900?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101918721760737",
+    "days": 73,
+    "advertiser": "Moom Health",
+    "pick": false
+   },
+   {
+    "id": "1039943755252353",
+    "file": "vf_1039943755252353.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1039943755252353?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=100457468876044",
+    "days": 59,
+    "advertiser": "Update",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3d8d53123cd681999f6bff32f8607b3d",
+  "name": "Case Studies",
+  "stages": "MOF,BOF",
+  "status": "",
+  "why": "Break down one real result with the product as the cause.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1644119673987004&view_all_page_id=716282765153594",
+   "https://www.facebook.com/ads/library/?id=2264177674339275&view_all_page_id=331483910383974"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1461757575273955",
+    "file": "vf_1461757575273955.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1461757575273955?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=105080986351409",
+    "days": 124,
+    "advertiser": "Calecim Professional",
+    "pick": false
+   },
+   {
+    "id": "1005744655475527",
+    "file": "vf_1005744655475527.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1005744655475527?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=394022167426291",
+    "days": 105,
+    "advertiser": "Tina Davies Professional",
+    "pick": false
+   },
+   {
+    "id": "1321273643530192",
+    "file": "vf_1321273643530192.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1321273643530192?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=108541211674307",
+    "days": 101,
+    "advertiser": "The DRM LAB",
+    "pick": false
+   },
+   {
+    "id": "871180982304663",
+    "file": "vf_871180982304663.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/871180982304663?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=428667110341003",
+    "days": 76,
+    "advertiser": "Seriva",
+    "pick": false
+   },
+   {
+    "id": "1316442197313260",
+    "file": "vf_1316442197313260.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1316442197313260?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=667404893120221",
+    "days": 72,
+    "advertiser": "Restoring With Rachel",
+    "pick": false
+   },
+   {
+    "id": "1761411058032787",
+    "file": "vf_1761411058032787.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1761411058032787?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=105080986351409",
+    "days": 108,
+    "advertiser": "Calecim Professional",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3d8d53123cd681d19434d2b478a3dc8a",
+  "name": "Levels",
+  "stages": "TOF,MOF",
+  "status": "",
+  "why": "Level 1, 2, 3 escalation. Product is the top tier.",
+  "links": [
+   "https://www.figma.com/board/xDzw2Ix07R7xDUcKluhT11/Short-Form-Lego-Bricks"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "3931030287030406",
+    "file": "vf_3931030287030406.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3931030287030406?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=621043574419051",
+    "days": 224,
+    "advertiser": "Aznolt.com",
+    "pick": false
+   },
+   {
+    "id": "1493732562141698",
+    "file": "vf_1493732562141698.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1493732562141698?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=541881182351622",
+    "days": 169,
+    "advertiser": "VelorHealth",
+    "pick": false
+   },
+   {
+    "id": "1523720369128650",
+    "file": "vf_1523720369128650.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1523720369128650?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1009921905536344",
+    "days": 87,
+    "advertiser": "Healthy You by Dwight Brennan",
+    "pick": false
+   },
+   {
+    "id": "26654698914135663",
+    "file": "vf_26654698914135663.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/26654698914135663?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=224668844068364",
+    "days": 60,
+    "advertiser": "Oxyfit",
+    "pick": false
+   },
+   {
+    "id": "1384321017135034",
+    "file": "vf_1384321017135034.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1384321017135034?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=876540295535124",
+    "days": 52,
+    "advertiser": "Only Human",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3d8d53123cd681ee8f26ef047ac96959",
+  "name": "Ranking / Tier List",
+  "stages": "MOF,BOF",
+  "status": "",
+  "why": "Options ranked against each other; your product lands S-tier.",
+  "links": [
+   "https://www.figma.com/board/xDzw2Ix07R7xDUcKluhT11/Short-Form-Lego-Bricks"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "2380176522451379",
+    "file": "vf_2380176522451379.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2380176522451379?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=364304636757942",
+    "days": 116,
+    "advertiser": "Best Kitchen Finds",
+    "pick": false
+   },
+   {
+    "id": "2164203254381635",
+    "file": "vf_2164203254381635.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2164203254381635?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=900661689800791",
+    "days": 113,
+    "advertiser": "Calhealing",
+    "pick": false
+   },
+   {
+    "id": "1517424829952192",
+    "file": "vf_1517424829952192.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1517424829952192?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=639094902614244",
+    "days": 104,
+    "advertiser": "Natty Plus Supps",
+    "pick": false
+   },
+   {
+    "id": "1573582294189249",
+    "file": "vf_1573582294189249.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1573582294189249?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=852212797983368",
+    "days": 90,
+    "advertiser": "Healthy Hands Studio",
+    "pick": false
+   },
+   {
+    "id": "1728362774810885",
+    "file": "vf_1728362774810885.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1728362774810885?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=837482202774835",
+    "days": 86,
+    "advertiser": "Healthy Kitchen Report",
+    "pick": false
+   },
+   {
+    "id": "1333216412309717",
+    "file": "vf_1333216412309717.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1333216412309717?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=837482202774835",
+    "days": 78,
+    "advertiser": "Healthy Kitchen Report",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3d8d53123cd681f1978edfbe0ffb47fe",
+  "name": "Challenge",
+  "stages": "TOF",
+  "status": "",
+  "why": "'I tried X for 7 days.' Demo-friendly, pairs with before/after.",
+  "links": [
+   "https://www.figma.com/board/xDzw2Ix07R7xDUcKluhT11/Short-Form-Lego-Bricks"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "2347000186152175",
+    "file": "vf_2347000186152175.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2347000186152175?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=111674238328024",
+    "days": 165,
+    "advertiser": "Dukes Health",
+    "pick": false
+   },
+   {
+    "id": "833511529800730",
+    "file": "vf_833511529800730.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/833511529800730?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1152552724599653",
+    "days": 145,
+    "advertiser": "IROND",
+    "pick": false
+   },
+   {
+    "id": "2424159354736451",
+    "file": "vf_2424159354736451.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2424159354736451?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=413456941850086",
+    "days": 70,
+    "advertiser": "Flo Pilates",
+    "pick": false
+   },
+   {
+    "id": "2940948299573101",
+    "file": "vf_2940948299573101.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2940948299573101?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1520576304881055",
+    "days": 65,
+    "advertiser": "Majestic Pure Cosmeceuticals",
+    "pick": false
+   },
+   {
+    "id": "4586238368362821",
+    "file": "vf_4586238368362821.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4586238368362821?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101287091271827",
+    "days": 59,
+    "advertiser": "Beauty Hacks Original",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ddd53123cd68181a783c9a6fbb6ce75",
+  "name": "Animated Mechanism Explainer (Clinical VSL)",
+  "stages": "TOF",
+  "status": "",
+  "why": "Looks like a med-school explainer, so the claim inherits textbook credibility.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1083987994418775&view_all_page_id=104896457843",
+   "https://www.facebook.com/ads/library/?id=1620548589813665&view_all_page_id=144074117500"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1654690749074653",
+    "file": "vf_1654690749074653.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1654690749074653?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=809222792268465",
+    "days": 114,
+    "advertiser": "Navea",
+    "pick": false
+   },
+   {
+    "id": "1938789176638963",
+    "file": "vf_1938789176638963.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1938789176638963?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1152552724599653",
+    "days": 82,
+    "advertiser": "IROND",
+    "pick": false
+   },
+   {
+    "id": "1041331448376762",
+    "file": "vf_1041331448376762.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1041331448376762?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=443900098807497",
+    "days": 77,
+    "advertiser": "Icebound Essentials",
+    "pick": false
+   },
+   {
+    "id": "1064462093202052",
+    "file": "vf_1064462093202052.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1064462093202052?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=241514162370728",
+    "days": 72,
+    "advertiser": "Ji Martial Arts",
+    "pick": false
+   },
+   {
+    "id": "1560227758814881",
+    "file": "vf_1560227758814881.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1560227758814881?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=139645592559470",
+    "days": 71,
+    "advertiser": "Dr. James Whitfield",
+    "pick": false
+   },
+   {
+    "id": "1958553651650233",
+    "file": "vf_1958553651650233.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1958553651650233?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1152552724599653",
+    "days": 53,
+    "advertiser": "IROND",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ddd53123cd681769b32eb12cf272f3a",
+  "name": "AI UGC Avatar",
+  "stages": "TOF",
+  "status": "",
+  "why": "10 hooks cost what 1 used to. Test the script, not the casting.",
+  "links": [],
+  "new": false,
+  "refs": [
+   {
+    "id": "1000457079465979",
+    "file": "vf_1000457079465979.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1000457079465979?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=531118800094081",
+    "days": 85,
+    "advertiser": "Citywide Goods",
+    "pick": false
+   },
+   {
+    "id": "2115652129359908",
+    "file": "vf_2115652129359908.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2115652129359908?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1520576304881055",
+    "days": 63,
+    "advertiser": "Majestic Pure Cosmeceuticals",
+    "pick": false
+   },
+   {
+    "id": "2177915743072518",
+    "file": "vf_2177915743072518.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2177915743072518?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=692927073903444",
+    "days": 54,
+    "advertiser": "Ephore Market",
+    "pick": false
+   },
+   {
+    "id": "2042556569683322",
+    "file": "vf_2042556569683322.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2042556569683322?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=731662196987235",
+    "days": 46,
+    "advertiser": "Conceive Plus",
+    "pick": false
+   },
+   {
+    "id": "1051424741169569",
+    "file": "vf_1051424741169569.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1051424741169569?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=531118800094081",
+    "days": 63,
+    "advertiser": "Citywide Goods",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ddd53123cd681e3ba3ec46c700563b0",
+  "name": "Satisfying B-roll (Front-Splice)",
+  "stages": "TOF",
+  "status": "",
+  "why": "Cheapest scroll-stopper test. Buys attention before the ad starts.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1060533886857277&view_all_page_id=101886952638461",
+   "https://www.facebook.com/ads/library/?id=1069516499271773&view_all_page_id=1898638280462729"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1483062219343360",
+    "file": "vf_1483062219343360.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1483062219343360?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=111130541702252",
+    "days": 381,
+    "advertiser": "Chacshop",
+    "pick": false
+   },
+   {
+    "id": "804506059313944",
+    "file": "vf_804506059313944.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/804506059313944?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=315362238333405",
+    "days": 177,
+    "advertiser": "Arencia Global",
+    "pick": false
+   },
+   {
+    "id": "1469642217956710",
+    "file": "vf_1469642217956710.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1469642217956710?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=111695234694578",
+    "days": 161,
+    "advertiser": "Boomforing",
+    "pick": false
+   },
+   {
+    "id": "2130969101069203",
+    "file": "vf_2130969101069203.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2130969101069203?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=145605531959528",
+    "days": 135,
+    "advertiser": "Whispering Pages",
+    "pick": false
+   },
+   {
+    "id": "710328852135238",
+    "file": "vf_710328852135238.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/710328852135238?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=698060653396717",
+    "days": 120,
+    "advertiser": "EverSmooth",
+    "pick": false
+   },
+   {
+    "id": "1304946835154607",
+    "file": "vf_1304946835154607.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1304946835154607?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=117619151430432",
+    "days": 106,
+    "advertiser": "Invariatbly",
+    "pick": false
+   },
+   {
+    "id": "1233603205616724",
+    "file": "vf_1233603205616724.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1233603205616724?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=122420440948555",
+    "days": 91,
+    "advertiser": "Glowxie",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ddd53123cd681f4ac3bd8a51affab0a",
+  "name": "Breakdown / Explainer",
+  "stages": "TOF",
+  "status": "",
+  "why": "Mechanism authority: dissects what happened and why it matters.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=4630930770474606&view_all_page_id=266790296879",
+   "https://www.facebook.com/ads/library/?id=1779873956470766&view_all_page_id=801113639985410"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1241653434427399",
+    "file": "vf_1241653434427399.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1241653434427399?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=720822377788755",
+    "days": 385,
+    "advertiser": "Toxin Dodger.",
+    "pick": false
+   },
+   {
+    "id": "1242859764629543",
+    "file": "vf_1242859764629543.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1242859764629543?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=853203134552976",
+    "days": 198,
+    "advertiser": "The Canine Health Journal",
+    "pick": false
+   },
+   {
+    "id": "4253620608219494",
+    "file": "vf_4253620608219494.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4253620608219494?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=947123585679219",
+    "days": 143,
+    "advertiser": "Ayers Valley Farm",
+    "pick": false
+   },
+   {
+    "id": "1524085115966700",
+    "file": "vf_1524085115966700.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1524085115966700?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=118806568136978",
+    "days": 72,
+    "advertiser": "Wondercide",
+    "pick": false
+   },
+   {
+    "id": "2102550933946244",
+    "file": "vf_2102550933946244.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2102550933946244?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1855453301347243",
+    "days": 65,
+    "advertiser": "Life Cykel",
+    "pick": false
+   },
+   {
+    "id": "2311221866379916",
+    "file": "vf_2311221866379916.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2311221866379916?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=947123585679219",
+    "days": 73,
+    "advertiser": "Ayers Valley Farm",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ddd53123cd681fd82c6c9712251ceca",
+  "name": "Personal Update",
+  "stages": "TOF",
+  "status": "",
+  "why": "Community/retention for warm audiences who already know you.",
+  "links": [],
+  "new": false,
+  "refs": [
+   {
+    "id": "1624807355361096",
+    "file": "vf_1624807355361096.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1624807355361096?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=111474834788524",
+    "days": 238,
+    "advertiser": "STEPR",
+    "pick": false
+   },
+   {
+    "id": "831899353266987",
+    "file": "vf_831899353266987.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/831899353266987?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=215920501603687",
+    "days": 179,
+    "advertiser": "Elavate",
+    "pick": false
+   },
+   {
+    "id": "928559710067737",
+    "file": "vf_928559710067737.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/928559710067737?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=111501020328735",
+    "days": 170,
+    "advertiser": "Slickhair",
+    "pick": false
+   },
+   {
+    "id": "990240803599195",
+    "file": "vf_990240803599195.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/990240803599195?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=171235882728947",
+    "days": 141,
+    "advertiser": "Read The Green",
+    "pick": false
+   },
+   {
+    "id": "1045946731470168",
+    "file": "vf_1045946731470168.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1045946731470168?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1027048647158834",
+    "days": 66,
+    "advertiser": "MacuDefense MD",
+    "pick": false
+   },
+   {
+    "id": "2578903192529767",
+    "file": "vf_2578903192529767.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2578903192529767?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=130531550312255",
+    "days": 57,
+    "advertiser": "Miik Inc",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ddd53123cd6810890e8f0ed11f5006b",
+  "name": "Goal / Dream Journey",
+  "stages": "TOF",
+  "status": "",
+  "why": "Long-arc founder build that keeps people coming back.",
+  "links": [],
+  "new": false,
+  "refs": [
+   {
+    "id": "1964952480707885",
+    "file": "vf_1964952480707885.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1964952480707885?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=146316721905194",
+    "days": 464,
+    "advertiser": "Spencer Wise",
+    "pick": false
+   },
+   {
+    "id": "1714116919954202",
+    "file": "vf_1714116919954202.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1714116919954202?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=546538909079105",
+    "days": 167,
+    "advertiser": "All Seated in a Barn",
+    "pick": false
+   },
+   {
+    "id": "1029371393117165",
+    "file": "vf_1029371393117165.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1029371393117165?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=107374421847684",
+    "days": 91,
+    "advertiser": "Kikiva Collection",
+    "pick": false
+   },
+   {
+    "id": "1571689971000096",
+    "file": "vf_1571689971000096.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1571689971000096?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=902274566487283",
+    "days": 76,
+    "advertiser": "Elevated Faith",
+    "pick": false
+   },
+   {
+    "id": "1168122343059051",
+    "file": "vf_1168122343059051.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1168122343059051?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=100146585406890",
+    "days": 64,
+    "advertiser": "BFT Rowville",
+    "pick": false
+   },
+   {
+    "id": "1028582063125148",
+    "file": "vf_1028582063125148.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1028582063125148?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=302358956625790",
+    "days": 49,
+    "advertiser": "truthpaste",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ddd53123cd6811784afe8e1ac9963ba",
+  "name": "Lesson From Others (Mentor Story)",
+  "stages": "TOF",
+  "status": "",
+  "why": "Borrowed-authority testimonial told in the third person.",
+  "links": [],
+  "new": false,
+  "refs": [
+   {
+    "id": "988214607208974",
+    "file": "vf_988214607208974.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/988214607208974?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1019645921229772",
+    "days": 94,
+    "advertiser": "Natural Healing with Dawn Miller",
+    "pick": false
+   },
+   {
+    "id": "27640319852271014",
+    "file": "vf_27640319852271014.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/27640319852271014?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=969827416221247",
+    "days": 92,
+    "advertiser": "Emma Thompson",
+    "pick": false
+   },
+   {
+    "id": "1465729338102060",
+    "file": "vf_1465729338102060.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1465729338102060?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=317599658104854",
+    "days": 90,
+    "advertiser": "Marlene's Pet Shop",
+    "pick": false
+   },
+   {
+    "id": "1352506706488603",
+    "file": "vf_1352506706488603.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1352506706488603?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1080003328523405",
+    "days": 67,
+    "advertiser": "Rachel Whitfield",
+    "pick": false
+   },
+   {
+    "id": "1016977407514302",
+    "file": "vf_1016977407514302.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1016977407514302?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=940611019128648",
+    "days": 101,
+    "advertiser": "Metodo Pelle Coreana",
+    "pick": false
+   },
+   {
+    "id": "921779834265767",
+    "file": "vf_921779834265767.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/921779834265767?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=128112460390521",
+    "days": 53,
+    "advertiser": "Kaliteas.com",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ddd53123cd68136ac15c74e8791869e",
+  "name": "Episodic Series / Social Show",
+  "stages": "TOF",
+  "status": "",
+  "why": "Repeatable content engine. Episodes compound an audience.",
+  "links": [
+   "https://app.winninghunter.com/ad/1462966611678629?platform=meta",
+   "https://app.winninghunter.com/ad/1896469337564280?platform=meta",
+   "https://app.winninghunter.com/ad/1113352773908196?platform=meta"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "1113352773908196",
+    "file": "vf_1113352773908196.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1113352773908196?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=115419186777908",
+    "days": 332,
+    "advertiser": "Florus Relief",
+    "pick": false
+   },
+   {
+    "id": "1733333898027007",
+    "file": "vf_1733333898027007.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1733333898027007?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1479722638793473",
+    "days": 113,
+    "advertiser": "Abelini Jewellery",
+    "pick": false
+   },
+   {
+    "id": "1958809758156447",
+    "file": "vf_1958809758156447.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1958809758156447?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=249533715240484",
+    "days": 57,
+    "advertiser": "Thursday Boot Company",
+    "pick": false
+   },
+   {
+    "id": "1700995591022771",
+    "file": "vf_1700995591022771.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1700995591022771?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1418408245107820",
+    "days": 86,
+    "advertiser": "woombikesUSA",
+    "pick": false
+   },
+   {
+    "id": "1546949230366858",
+    "file": "vf_1546949230366858.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1546949230366858?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=224110981099062",
+    "days": 56,
+    "advertiser": "Casper",
+    "pick": false
+   },
+   {
+    "id": "1406114091273657",
+    "file": "vf_1406114091273657.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1406114091273657?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103950071911413",
+    "days": 121,
+    "advertiser": "Inka Arthouse",
+    "pick": false
+   },
+   {
+    "id": "1688850319040337",
+    "file": "vf_1688850319040337.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1688850319040337?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=106347472790734",
+    "days": 45,
+    "advertiser": "Kraus Jeans",
+    "pick": false
+   },
+   {
+    "id": "1332848968367843",
+    "file": "vf_1332848968367843.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1332848968367843?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1479722638793473",
+    "days": 87,
+    "advertiser": "Abelini Jewellery",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3ddd53123cd681c69bd1f5b57e3168b1",
+  "name": "Win (Victory Announcement)",
+  "stages": "TOF",
+  "status": "",
+  "why": "Raw social proof: a milestone the viewer can see is real.",
+  "links": [
+   "https://app.winninghunter.com/ad/1744254586285619?platform=meta",
+   "https://app.winninghunter.com/ad/380994524775439?platform=meta",
+   "https://app.winninghunter.com/ad/630243772753529?platform=meta"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "841094475051693",
+    "file": "vf_841094475051693.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/841094475051693?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1694968537416272",
+    "days": 156,
+    "advertiser": "Frost NYC",
+    "pick": false
+   },
+   {
+    "id": "748575764949768",
+    "file": "vf_748575764949768.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/748575764949768?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=902274566487283",
+    "days": 130,
+    "advertiser": "Elevated Faith",
+    "pick": false
+   },
+   {
+    "id": "1467202258144084",
+    "file": "vf_1467202258144084.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1467202258144084?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=429184703621570",
+    "days": 73,
+    "advertiser": "JellyBean Interiors",
+    "pick": false
+   },
+   {
+    "id": "1464535449041225",
+    "file": "vf_1464535449041225.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1464535449041225?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=104076838477027",
+    "days": 65,
+    "advertiser": "That Neatfreakk",
+    "pick": false
+   },
+   {
+    "id": "3535350146639311",
+    "file": "vf_3535350146639311.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3535350146639311?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=184817572099721",
+    "days": 49,
+    "advertiser": "Mindful Souls",
+    "pick": false
+   },
+   {
+    "id": "1747046739753934",
+    "file": "vf_1747046739753934.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1747046739753934?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=184817572099721",
+    "days": 48,
+    "advertiser": "Mindful Souls",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": "3e1d53123cd6814cb179e145b9f5054f",
+  "name": "Problem-Agitate-Solve",
+  "stages": "TOF,MOF",
+  "status": "",
+  "why": "Name the problem, twist the knife, resolve with the product.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1029124352796148&view_all_page_id=2082473258472082",
+   "https://www.facebook.com/ads/library/?id=1251195883502919&view_all_page_id=112448499199569",
+   "https://app.winninghunter.com/ad/1447609643778095?platform=meta"
+  ],
+  "new": false,
+  "refs": [
+   {
+    "id": "3484302388403903",
+    "file": "vf_3484302388403903.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3484302388403903?platform=meta",
+    "fb_page": "",
+    "days": 10,
+    "advertiser": "Heart Health Today (EverWell)",
+    "pick": true
+   },
+   {
+    "id": "25441363408821529",
+    "file": "vf_25441363408821529.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/25441363408821529?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=550328878169786",
+    "days": 318,
+    "advertiser": "Miracle de Paris",
+    "pick": false
+   },
+   {
+    "id": "1846674429217418",
+    "file": "vf_1846674429217418.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1846674429217418?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=390627780796953",
+    "days": 273,
+    "advertiser": "PestLab",
+    "pick": false
+   },
+   {
+    "id": "3223859857775260",
+    "file": "vf_3223859857775260.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3223859857775260?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=112125237282259",
+    "days": 166,
+    "advertiser": "Sleepybelly Pregnancy Pillow",
+    "pick": false
+   },
+   {
+    "id": "1660657862292528",
+    "file": "vf_1660657862292528.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1660657862292528?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=125701703959711",
+    "days": 135,
+    "advertiser": "Norse Organics",
+    "pick": false
+   },
+   {
+    "id": "1397383258746727",
+    "file": "vf_1397383258746727.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1397383258746727?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=550328878169786",
+    "days": 245,
+    "advertiser": "Miracle de Paris",
+    "pick": false
+   },
+   {
+    "id": "3560594450773273",
+    "file": "vf_3560594450773273.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3560594450773273?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=125701703959711",
+    "days": 72,
+    "advertiser": "Norse Organics",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": null,
+  "name": "Pack An Order With Me (Fulfilment POV)",
+  "stages": "MOF",
+  "status": "",
+  "why": "Owner/POV hands pack a real customer order. Looks like a real small business with orders pouring in, and every product gets a close-up.",
+  "links": [],
+  "new": true,
+  "refs": [
+   {
+    "id": "657899776769811",
+    "file": "vf_657899776769811.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/657899776769811?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=698404956688867",
+    "days": 392,
+    "advertiser": "Milk Therapy",
+    "pick": false
+   },
+   {
+    "id": "1430268342149967",
+    "file": "vf_1430268342149967.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1430268342149967?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=444158472635309",
+    "days": 217,
+    "advertiser": "Terra Cottage",
+    "pick": false
+   },
+   {
+    "id": "1483297966400912",
+    "file": "vf_1483297966400912.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1483297966400912?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=315614678610514",
+    "days": 105,
+    "advertiser": "Carpe",
+    "pick": false
+   },
+   {
+    "id": "1556753029480236",
+    "file": "vf_1556753029480236.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1556753029480236?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=424049177458139",
+    "days": 64,
+    "advertiser": "Neck\u2019s best thing",
+    "pick": false
+   },
+   {
+    "id": "4375192022761268",
+    "file": "vf_4375192022761268.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4375192022761268?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=696402253898011",
+    "days": 137,
+    "advertiser": "Educated Beards",
+    "pick": false
+   },
+   {
+    "id": "1442930057675507",
+    "file": "vf_1442930057675507.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1442930057675507?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=372719749552286",
+    "days": 48,
+    "advertiser": "Angel Heart Boutique",
+    "pick": false
+   },
+   {
+    "id": "970608058798230",
+    "file": "vf_970608058798230.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/970608058798230?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1051192358080467",
+    "days": 52,
+    "advertiser": "Grova",
+    "pick": false
+   },
+   {
+    "id": "940618749054704",
+    "file": "vf_940618749054704.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/940618749054704?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=109978915182626",
+    "days": 50,
+    "advertiser": "Soto Studios",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": null,
+  "name": "Stage Talk / Keynote Authority",
+  "stages": "TOF",
+  "status": "",
+  "why": "Speaker with a mic on a stage or in a lecture hall. Borrows the stage's authority so the pitch feels like expert teaching, not an ad.",
+  "links": [],
+  "new": true,
+  "refs": [
+   {
+    "id": "936909075800500",
+    "file": "vf_936909075800500.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/936909075800500?platform=meta",
+    "fb_page": "",
+    "days": 71,
+    "advertiser": "Neupril",
+    "pick": true
+   },
+   {
+    "id": "761695956545847",
+    "file": "vf_761695956545847.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/761695956545847?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=584958974691262",
+    "days": 253,
+    "advertiser": "Neupril",
+    "pick": false
+   },
+   {
+    "id": "965070692580137",
+    "file": "vf_965070692580137.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/965070692580137?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=945195512021093",
+    "days": 176,
+    "advertiser": "St. Matthew",
+    "pick": false
+   },
+   {
+    "id": "2491872284633873",
+    "file": "vf_2491872284633873.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2491872284633873?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=158987104297836",
+    "days": 72,
+    "advertiser": "Toniiq",
+    "pick": false
+   },
+   {
+    "id": "2002447807330961",
+    "file": "vf_2002447807330961.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2002447807330961?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1101761433027562",
+    "days": 115,
+    "advertiser": "PestPro",
+    "pick": false
+   },
+   {
+    "id": "987466337553683",
+    "file": "vf_987466337553683.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/987466337553683?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=584958974691262",
+    "days": 130,
+    "advertiser": "Neupril",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": null,
+  "name": "Text-Wall Story (Read-Along Still)",
+  "stages": "TOF",
+  "status": "",
+  "why": "One still image with a long first-person story on screen. Reads like an organic post; the first line hooks and forces long dwell time.",
+  "links": [],
+  "new": true,
+  "refs": [
+   {
+    "id": "2759012857767185",
+    "file": "vf_2759012857767185.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2759012857767185?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103306058643323",
+    "days": 235,
+    "advertiser": "Best Probiotics For Menopause",
+    "pick": false
+   },
+   {
+    "id": "1630271408048843",
+    "file": "vf_1630271408048843.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1630271408048843?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=118731798001154",
+    "days": 188,
+    "advertiser": "Grounding Health Benefits",
+    "pick": false
+   },
+   {
+    "id": "2036546756907627",
+    "file": "vf_2036546756907627.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2036546756907627?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=885615197970668",
+    "days": 175,
+    "advertiser": "Heart Health Magazine",
+    "pick": false
+   },
+   {
+    "id": "2113204359252954",
+    "file": "vf_2113204359252954.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2113204359252954?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1019645921229772",
+    "days": 94,
+    "advertiser": "Natural Healing with Dawn Miller",
+    "pick": false
+   },
+   {
+    "id": "1302768615402347",
+    "file": "vf_1302768615402347.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1302768615402347?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=818107688062411",
+    "days": 94,
+    "advertiser": "Rachel Morrison",
+    "pick": false
+   },
+   {
+    "id": "1515047220412240",
+    "file": "vf_1515047220412240.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1515047220412240?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=973970662471001",
+    "days": 107,
+    "advertiser": "Women Health Tips",
+    "pick": false
+   },
+   {
+    "id": "1560661942144994",
+    "file": "vf_1560661942144994.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1560661942144994?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1059962633867822",
+    "days": 119,
+    "advertiser": "Real ADHD Parenting Stories",
+    "pick": false
+   },
+   {
+    "id": "1574645030680525",
+    "file": "vf_1574645030680525.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1574645030680525?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=845683191965003",
+    "days": 110,
+    "advertiser": "Marine Rousseau",
+    "pick": false
+   },
+   {
+    "id": "2164131244436352",
+    "file": "vf_2164131244436352.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2164131244436352?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=806942509176484",
+    "days": 112,
+    "advertiser": "Jonathan Ross",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": null,
+  "name": "Unboxing (First-Open Reveal)",
+  "stages": "MOF",
+  "status": "",
+  "why": "Someone opens the box/packaging and reveals the product for the first time. Anticipation + premium first impression.",
+  "links": [],
+  "new": true,
+  "refs": [
+   {
+    "id": "681562608263909",
+    "file": "vf_681562608263909.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/681562608263909?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=388697431936171",
+    "days": 315,
+    "advertiser": "Robosen_Official",
+    "pick": false
+   },
+   {
+    "id": "25940811698888377",
+    "file": "vf_25940811698888377.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/25940811698888377?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=104567622120868",
+    "days": 244,
+    "advertiser": "Kidstoylover",
+    "pick": false
+   },
+   {
+    "id": "1248555967191502",
+    "file": "vf_1248555967191502.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1248555967191502?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103540275720780",
+    "days": 210,
+    "advertiser": "Wakcas",
+    "pick": false
+   },
+   {
+    "id": "1333696162157525",
+    "file": "vf_1333696162157525.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1333696162157525?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1719516115010118",
+    "days": 151,
+    "advertiser": "July",
+    "pick": false
+   },
+   {
+    "id": "942394888696109",
+    "file": "vf_942394888696109.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/942394888696109?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1236481509710650",
+    "days": 144,
+    "advertiser": "Portland Leather Goods",
+    "pick": false
+   },
+   {
+    "id": "3182002768628109",
+    "file": "vf_3182002768628109.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3182002768628109?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=476936002160414",
+    "days": 128,
+    "advertiser": "Melija",
+    "pick": false
+   },
+   {
+    "id": "1730767251427633",
+    "file": "vf_1730767251427633.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1730767251427633?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=450896818337827",
+    "days": 110,
+    "advertiser": "Twirling Boutique",
+    "pick": false
+   },
+   {
+    "id": "1330043142604321",
+    "file": "vf_1330043142604321.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1330043142604321?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=336631129542788",
+    "days": 79,
+    "advertiser": "Art Toy Familia",
+    "pick": false
+   },
+   {
+    "id": "1318852543609860",
+    "file": "vf_1318852543609860.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1318852543609860?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=108343410882782",
+    "days": 67,
+    "advertiser": "Koala Babycare",
+    "pick": false
+   },
+   {
+    "id": "1517532526729573",
+    "file": "vf_1517532526729573.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1517532526729573?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=938501912844088",
+    "days": 45,
+    "advertiser": "Aroma360",
+    "pick": false
+   },
+   {
+    "id": "959469456663530",
+    "file": "vf_959469456663530.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/959469456663530?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103540275720780",
+    "days": 161,
+    "advertiser": "Wakcas",
+    "pick": false
+   },
+   {
+    "id": "1481839739798439",
+    "file": "vf_1481839739798439.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1481839739798439?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=104567622120868",
+    "days": 113,
+    "advertiser": "Kidstoylover",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": null,
+  "name": "Try-On Haul",
+  "stages": "MOF",
+  "status": "",
+  "why": "One creator tries on several pieces back to back, full-body. Shows fit, range and value in one ad.",
+  "links": [],
+  "new": true,
+  "refs": [
+   {
+    "id": "692419330076308",
+    "file": "vf_692419330076308.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/692419330076308?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103612906029490",
+    "days": 476,
+    "advertiser": "Dionne ",
+    "pick": false
+   },
+   {
+    "id": "1043481564777481",
+    "file": "vf_1043481564777481.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1043481564777481?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1872118129714689",
+    "days": 100,
+    "advertiser": "We Are Jolies",
+    "pick": false
+   },
+   {
+    "id": "3160277564168343",
+    "file": "vf_3160277564168343.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/3160277564168343?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=420893144446816",
+    "days": 93,
+    "advertiser": "Samiol",
+    "pick": false
+   },
+   {
+    "id": "2536834586755587",
+    "file": "vf_2536834586755587.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2536834586755587?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=621301544408983",
+    "days": 77,
+    "advertiser": "Vanquish Fitness Ltd",
+    "pick": false
+   },
+   {
+    "id": "1506117117862689",
+    "file": "vf_1506117117862689.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1506117117862689?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=399355933805866",
+    "days": 63,
+    "advertiser": "Marlothelabel",
+    "pick": false
+   },
+   {
+    "id": "1183650557299859",
+    "file": "vf_1183650557299859.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1183650557299859?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=187171325946",
+    "days": 55,
+    "advertiser": "Vine Apparel",
+    "pick": false
+   },
+   {
+    "id": "1074955295184719",
+    "file": "vf_1074955295184719.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1074955295184719?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=205981026587748",
+    "days": 53,
+    "advertiser": "PTULA",
+    "pick": false
+   },
+   {
+    "id": "1059517456465235",
+    "file": "vf_1059517456465235.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1059517456465235?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=116160148073115",
+    "days": 53,
+    "advertiser": "Till Blush Of Night",
+    "pick": false
+   },
+   {
+    "id": "2180863085811144",
+    "file": "vf_2180863085811144.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2180863085811144?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=111580108026434",
+    "days": 49,
+    "advertiser": "Sajiero's Secret",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": null,
+  "name": "Celebrity Podcast Clip (Borrowed Authority)",
+  "stages": "TOF",
+  "status": "",
+  "why": "Opens on a real clip from a famous podcast (Rogan etc.), then pivots to the product. Borrowed authority stops the scroll.",
+  "links": [],
+  "new": true,
+  "refs": [
+   {
+    "id": "1089969073955358",
+    "file": "vf_1089969073955358.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1089969073955358?platform=meta",
+    "fb_page": "",
+    "days": 3,
+    "advertiser": "Successful Men Habits (The Successful Man)",
+    "pick": true
+   },
+   {
+    "id": "976905608484830",
+    "file": "vf_976905608484830.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/976905608484830?platform=meta",
+    "fb_page": "",
+    "days": 2,
+    "advertiser": "Living Low Key (Ketone-IQ / HVMN)",
+    "pick": true
+   },
+   {
+    "id": "2060459028079722",
+    "file": "vf_2060459028079722.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2060459028079722?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=443123078889432",
+    "days": 238,
+    "advertiser": "Tasty Gains",
+    "pick": false
+   },
+   {
+    "id": "921435471064313",
+    "file": "vf_921435471064313.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/921435471064313?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1042924618897331",
+    "days": 199,
+    "advertiser": "Successful Men Habits",
+    "pick": false
+   },
+   {
+    "id": "1435933471617283",
+    "file": "vf_1435933471617283.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1435933471617283?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=225916667262706",
+    "days": 149,
+    "advertiser": "Apex Performance",
+    "pick": false
+   },
+   {
+    "id": "1045788068111448",
+    "file": "vf_1045788068111448.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1045788068111448?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=103809991018447",
+    "days": 68,
+    "advertiser": "Gorilla Mind",
+    "pick": false
+   },
+   {
+    "id": "1039094969039167",
+    "file": "vf_1039094969039167.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1039094969039167?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=359664903908083",
+    "days": 55,
+    "advertiser": "The Successful Man",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": null,
+  "name": "TV Segment Clip (As Seen On TV)",
+  "stages": "TOF",
+  "status": "",
+  "why": "Built on a real TV/news segment (anchors, network set, captions). Instant credibility: 'as seen on TV'.",
+  "links": [],
+  "new": true,
+  "refs": [
+   {
+    "id": "752145983977071",
+    "file": "vf_752145983977071.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/752145983977071?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=785032631896994",
+    "days": 439,
+    "advertiser": "Blissy",
+    "pick": false
+   },
+   {
+    "id": "851756551224948",
+    "file": "vf_851756551224948.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/851756551224948?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=105449991621813",
+    "days": 222,
+    "advertiser": "Fras\u00e9 Skin",
+    "pick": false
+   },
+   {
+    "id": "1239555575022128",
+    "file": "vf_1239555575022128.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1239555575022128?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=113859097472621",
+    "days": 187,
+    "advertiser": "Smilie",
+    "pick": false
+   },
+   {
+    "id": "1291474249740517",
+    "file": "vf_1291474249740517.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1291474249740517?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1774136222607360",
+    "days": 140,
+    "advertiser": "Dont Eat The Homies",
+    "pick": false
+   },
+   {
+    "id": "1674854540239298",
+    "file": "vf_1674854540239298.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1674854540239298?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=106248218576815",
+    "days": 114,
+    "advertiser": "Homecourt",
+    "pick": false
+   },
+   {
+    "id": "1036094158912373",
+    "file": "vf_1036094158912373.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1036094158912373?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=539026449618837",
+    "days": 63,
+    "advertiser": "Hairbrella",
+    "pick": false
+   },
+   {
+    "id": "2090178495206736",
+    "file": "vf_2090178495206736.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/2090178495206736?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=914289408425630",
+    "days": 59,
+    "advertiser": "ANTI APEX CO",
+    "pick": false
+   },
+   {
+    "id": "1583594826608002",
+    "file": "vf_1583594826608002.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1583594826608002?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=105617362048136",
+    "days": 45,
+    "advertiser": "85 Local",
+    "pick": false
+   },
+   {
+    "id": "1480569483333423",
+    "file": "vf_1480569483333423.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1480569483333423?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=106248218576815",
+    "days": 101,
+    "advertiser": "Homecourt",
+    "pick": false
+   }
+  ]
+ },
+ {
+  "id": null,
+  "name": "Gift Reaction Reveal",
+  "stages": "TOF",
+  "status": "",
+  "why": "Camera stays on a real person's face as they open or hear a gift. Emotion sells the gift angle.",
+  "links": [],
+  "new": true,
+  "refs": [
+   {
+    "id": "1435977811511494",
+    "file": "vf_1435977811511494.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1435977811511494?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=109975408631874",
+    "days": 226,
+    "advertiser": "Shop FabuLove",
+    "pick": false
+   },
+   {
+    "id": "1468216794655704",
+    "file": "vf_1468216794655704.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1468216794655704?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=101524255638049",
+    "days": 165,
+    "advertiser": "Ziella",
+    "pick": false
+   },
+   {
+    "id": "985279181114652",
+    "file": "vf_985279181114652.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/985279181114652?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=977156878822764",
+    "days": 150,
+    "advertiser": "Unique Song",
+    "pick": false
+   },
+   {
+    "id": "4277107022619545",
+    "file": "vf_4277107022619545.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/4277107022619545?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=358797030659873",
+    "days": 77,
+    "advertiser": "Knit & Carry",
+    "pick": false
+   },
+   {
+    "id": "27341367268897489",
+    "file": "vf_27341367268897489.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/27341367268897489?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=1035795272946632",
+    "days": 58,
+    "advertiser": "DilGeet",
+    "pick": false
+   },
+   {
+    "id": "27946429698328478",
+    "file": "vf_27946429698328478.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/27946429698328478?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=977156878822764",
+    "days": 82,
+    "advertiser": "Unique Song",
+    "pick": false
+   },
+   {
+    "id": "1361330245958569",
+    "file": "vf_1361330245958569.jpg",
+    "wh_link": "https://app.winninghunter.com/ad/1361330245958569?platform=meta",
+    "fb_page": "https://www.facebook.com/ads/library/?view_all_page_id=358797030659873",
+    "days": 77,
+    "advertiser": "Knit & Carry",
+    "pick": false
+   }
+  ]
+ }
+]

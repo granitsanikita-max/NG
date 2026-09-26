@@ -1,0 +1,56 @@
+[
+ {
+  "name": "Benefit Callout",
+  "stages": "MOF",
+  "why": "Static graphic calling out a specific product benefit directly.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Us Vs Them",
+  "stages": "MOF",
+  "why": "Direct comparison against the old way or a competitor.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Problem Solution",
+  "stages": "TOF,MOF",
+  "why": "Names the exact pain point up front, then shows the fix.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Tier List (Static)",
+  "stages": "TOF",
+  "why": "S/A/B ranking is scannable and begs the viewer to agree or argue.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Greenscreen Static",
+  "stages": "TOF",
+  "why": "Creator-reacting-to-a-screen look signals native UGC.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Social-Proof / Review-Count",
+  "stages": "MOF,BOF",
+  "why": "Leads with a huge review/customer count, not one quote.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Stat Headline",
+  "stages": "MOF",
+  "why": "One big cost/stat headline reframes value.",
+  "candidate_ids": []
+ },
+ {
+  "name": "IG Question Sticker",
+  "stages": "TOF",
+  "why": "Question-sticker UI pulls in self-identifying viewers.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Script (Curiosity Teaser Copy)",
+  "stages": "TOF",
+  "why": "One scripted line on a plain card. Pure curiosity gap.",
+  "candidate_ids": []
+ }
+]

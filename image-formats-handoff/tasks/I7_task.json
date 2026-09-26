@@ -1,0 +1,50 @@
+[
+ {
+  "name": "Influencer Whitelisting Ads",
+  "stages": "",
+  "why": "Running ads through an influencer's handle. A distribution method, not a stage.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Warning Alert",
+  "stages": "TOF",
+  "why": "Mimics a system or health warning notification.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Native Advertorial",
+  "stages": "TOF",
+  "why": "Candid un-branded photo + long first-person confession disguises the ad as organic.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Claymation Still",
+  "stages": "TOF",
+  "why": "Visibly hand-made craft reads as art, not an ad.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Whiteboard Explainer",
+  "stages": "TOF,MOF",
+  "why": "Hand-drawn whiteboard signals a teacher explaining, not a brand selling.",
+  "candidate_ids": []
+ },
+ {
+  "name": "The Truth",
+  "stages": "TOF",
+  "why": "Surprising truth / myth-flip hook reframes the product.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Demographic Callout",
+  "stages": "TOF",
+  "why": "Calls out an age/life stage so the right viewer self-identifies.",
+  "candidate_ids": []
+ },
+ {
+  "name": "Objection Handler (Quote-Led)",
+  "stages": "MOF",
+  "why": "Objection-and-answer bubbles pre-empt hesitation.",
+  "candidate_ids": []
+ }
+]

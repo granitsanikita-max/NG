@@ -1,0 +1,1106 @@
+[
+ {
+  "id": "3ced53123cd6810f8ab4fff60af54370",
+  "name": "Where Looking For X (The Person)",
+  "stages": "TOF",
+  "status": "Concept",
+  "why": "'We're looking for [type of person]' callout directly addresses the avatar.",
+  "links": [],
+  "refs": []
+ },
+ {
+  "id": "3ced53123cd68113bae2f1feaa42590f",
+  "name": "5 Reasons Why / Listicle",
+  "stages": "TOF,MOF",
+  "status": "Swiped",
+  "why": "Cheapest CPMs of the format list.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1280530610792814&view_all_page_id=400492316689279",
+   "https://www.facebook.com/ads/library/?id=1014892861580263&view_all_page_id=354593521329931"
+  ],
+  "refs": [
+   "ad_1280530610792814.jpg",
+   "3ced53123cd68113bae2f1feaa42590f_1.jpg",
+   "3ced53123cd68113bae2f1feaa42590f_2.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd681208c4fe7dd63d4adbb",
+  "name": "Text on Skin",
+  "stages": "",
+  "status": "Concept",
+  "why": "Text rendered directly onto skin/body in the shot. Pure visual style.",
+  "links": [],
+  "refs": [
+   "3ced53123cd681208c4fe7dd63d4adbb_1.jpg",
+   "3ced53123cd681208c4fe7dd63d4adbb_2.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd6812281e1c6f5aaaf1d53",
+  "name": "Reddit Post",
+  "stages": "",
+  "status": "Concept",
+  "why": "Mimics a Reddit thread screenshot. Native, high trust.",
+  "links": [],
+  "refs": [
+   "3ced53123cd6812281e1c6f5aaaf1d53_1.jpg",
+   "3ced53123cd6812281e1c6f5aaaf1d53_2.jpg",
+   "3ced53123cd6812281e1c6f5aaaf1d53_3.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd68131aae0c25b21bdd5ce",
+  "name": "Benefit Callout",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "Static graphic calling out a specific product benefit directly.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1060047550136246&view_all_page_id=1131411810375596",
+   "https://www.facebook.com/ads/library/?id=2015925355777546&view_all_page_id=100688845076573"
+  ],
+  "refs": [
+   "ad_1060047550136246.jpg",
+   "ad_2015925355777546.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd68132afabf8534fb7b2ce",
+  "name": "News Headline",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Very native. Mimics editorial/news content.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=2334294054077320&view_all_page_id=349748152396757",
+   "https://www.facebook.com/ads/library/?id=1132749822653775&view_all_page_id=101912327823665"
+  ],
+  "refs": [
+   "ad_2334294054077320.jpg",
+   "ad_1132749822653775.jpg",
+   "3ced53123cd68132afabf8534fb7b2ce_1.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd6813cb1e7dfb868855608",
+  "name": "Influencer Whitelisting Ads",
+  "stages": "",
+  "status": "Swiped",
+  "why": "Running ads through an influencer's handle. A distribution method, not a stage.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1745656959842086&view_all_page_id=102009705901854",
+   "https://www.facebook.com/ads/library/?id=948590134970787&view_all_page_id=286471728036410"
+  ],
+  "refs": [
+   "ad_948590134970787.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd68145b7cef96d5027c959",
+  "name": "Quiz",
+  "stages": "TOF,MOF",
+  "status": "Swiped",
+  "why": "Interactive framing: 'which one are you' style.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=4540172539573273&view_all_page_id=5699478389",
+   "https://www.facebook.com/ads/library/?id=1003389545547347&view_all_page_id=100588598690823"
+  ],
+  "refs": [
+   "ad_1003389545547347.jpg",
+   "3ced53123cd68145b7cef96d5027c959_1.jpg",
+   "3ced53123cd68145b7cef96d5027c959_2.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd68148b213e23ba0db9c20",
+  "name": "Before and After",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "Classic transformation proof.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1095249156322927&view_all_page_id=111282252247080",
+   "https://www.facebook.com/ads/library/?id=1095998209676382&view_all_page_id=112043435820281",
+   "https://app.winninghunter.com/ad/3277082302462694?platform=meta"
+  ],
+  "refs": [
+   "ad_1095249156322927.jpg",
+   "ad_1095998209676382.jpg",
+   "3ced53123cd68148b213e23ba0db9c20_1.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd6814b82e7dafa778bd086",
+  "name": "Sticky Note",
+  "stages": "",
+  "status": "Swiped",
+  "why": "Handwritten sticky-note style. Feels personal and native.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1557785248862102&view_all_page_id=306050696452078",
+   "https://www.facebook.com/ads/library/?id=1130244176006468&view_all_page_id=119863333184039"
+  ],
+  "refs": [
+   "ad_1557785248862102.jpg",
+   "ad_1130244176006468.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd681658343d5836f93a697",
+  "name": "Bold Headline",
+  "stages": "BOF",
+  "status": "Swiped",
+  "why": "Large, bold, text-led claim that overcomes final hesitation.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=28631503423127645&view_all_page_id=602563393163238",
+   "https://www.facebook.com/ads/library/?id=1821495295691911&view_all_page_id=236959743562"
+  ],
+  "refs": [
+   "ad_28631503423127645.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd68166ae82e148aceb956a",
+  "name": "Fact Vs Myth",
+  "stages": "TOF,MOF",
+  "status": "Concept",
+  "why": "Debunking framing builds authority.",
+  "links": [],
+  "refs": [
+   "3ced53123cd68166ae82e148aceb956a_1.jpg",
+   "3ced53123cd68166ae82e148aceb956a_2.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd681708921df423a79556f",
+  "name": "Zero Star Reviews",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Negativity-bias hack: expect a bad review, find a positive one.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1568187727551070&view_all_page_id=182073298490036",
+   "https://www.facebook.com/ads/library/?id=1325776779459305&view_all_page_id=102856784719441"
+  ],
+  "refs": [
+   "ad_1568187727551070.jpg",
+   "3ced53123cd681708921df423a79556f_1.jpg",
+   "3ced53123cd681708921df423a79556f_2.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd68173b609d8e7dc3aa016",
+  "name": "The Censored Ad",
+  "stages": "TOF",
+  "status": "Concept",
+  "why": "Blur + warning label pulls curiosity. The blur itself is the CTA.",
+  "links": [],
+  "refs": []
+ },
+ {
+  "id": "3ced53123cd6817fafedcdc0d23d9887",
+  "name": "Us Vs Them",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "Direct comparison against the old way or a competitor.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1634357841381002&view_all_page_id=1360608127355960",
+   "https://www.facebook.com/ads/library/?id=1796723958136388&view_all_page_id=121559064656225"
+  ],
+  "refs": [
+   "ad_1796723958136388.jpg",
+   "3ced53123cd6817fafedcdc0d23d9887_1.jpg",
+   "3ced53123cd6817fafedcdc0d23d9887_2.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd681828ed3f8edb2bf030d",
+  "name": "Low Stock Alerts",
+  "stages": "BOF",
+  "status": "Concept",
+  "why": "Creates scarcity and urgency.",
+  "links": [],
+  "refs": [
+   "3ced53123cd681828ed3f8edb2bf030d_1.jpg",
+   "3ced53123cd681828ed3f8edb2bf030d_2.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd681868bb5f7444c9770fd",
+  "name": "Warning Alert",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Mimics a system or health warning notification.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=2301325617340461&view_all_page_id=113187213661634",
+   "https://www.facebook.com/ads/library/?id=2104065393517649&view_all_page_id=290467008215910"
+  ],
+  "refs": [
+   "ad_2301325617340461.jpg",
+   "ad_2104065393517649.jpg",
+   "3ced53123cd681868bb5f7444c9770fd_1.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd6818c8a83dfc7a2329317",
+  "name": "Text Heavy Static",
+  "stages": "",
+  "status": "Swiped",
+  "why": "Copy-dense static, minimal visual. Stage depends on the copy.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1789635688740300&view_all_page_id=112242250425540",
+   "https://www.facebook.com/ads/library/?id=2039546433351901&view_all_page_id=193957350746563"
+  ],
+  "refs": [
+   "ad_2039546433351901.jpg",
+   "3ced53123cd6818c8a83dfc7a2329317_1.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd6818c9754ce0e54134a42",
+  "name": "Instagram Story Response",
+  "stages": "",
+  "status": "Swiped",
+  "why": "Feels very native to the platform.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1687285452336518&view_all_page_id=282592881929497",
+   "https://www.facebook.com/ads/library/?id=1049067737987701&view_all_page_id=284894298576955"
+  ],
+  "refs": [
+   "ad_1687285452336518.jpg",
+   "ad_1049067737987701.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd6819898a9e0cc3dba79c0",
+  "name": "Comment Section",
+  "stages": "MOF,BOF",
+  "status": "Swiped",
+  "why": "Mimics a comments thread. Social proof via replies.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=4548556808753925&view_all_page_id=290192498058451",
+   "https://www.facebook.com/ads/library/?id=1576038150914514&view_all_page_id=214134769285"
+  ],
+  "refs": [
+   "ad_4548556808753925.jpg",
+   "ad_1576038150914514.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd681aa82c3fbad7868805c",
+  "name": "The Receipt",
+  "stages": "MOF,BOF",
+  "status": "Swiped",
+  "why": "Mimics a purchase receipt or confirmation. Very native.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1050326207792706&view_all_page_id=1388685454586225",
+   "https://www.facebook.com/ads/library/?id=2450115088824774&view_all_page_id=304981139881438"
+  ],
+  "refs": [
+   "3ced53123cd681aa82c3fbad7868805c_1.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd681aab9b9ca2b468cc1d8",
+  "name": "Meme Ads",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Only works in niches with inside jokes / community references.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1837384617538732&view_all_page_id=96895859870",
+   "https://www.facebook.com/ads/library/?id=1751578456092501&view_all_page_id=103675775287114",
+   "https://app.winninghunter.com/ad/1198551248869598?platform=meta"
+  ],
+  "refs": [
+   "ad_1837384617538732.jpg",
+   "ad_1751578456092501.jpg",
+   "3ced53123cd681aab9b9ca2b468cc1d8_1.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd681c7819ad56908ddf181",
+  "name": "Statistics",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Leads with a striking stat to stop the scroll.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1783367282789541&view_all_page_id=571810332841952",
+   "https://www.facebook.com/ads/library/?id=1118537114300766&view_all_page_id=24808861862",
+   "https://app.winninghunter.com/ad/3547971372010310?platform=meta"
+  ],
+  "refs": [
+   "ad_1118537114300766.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd681cdba45d30a175ca89f",
+  "name": "Ugly Ads",
+  "stages": "TOF",
+  "status": "Concept",
+  "why": "Deliberately low-production look to dodge ad blindness.",
+  "links": [],
+  "refs": []
+ },
+ {
+  "id": "3ced53123cd681df95c1c58cda7d41ec",
+  "name": "Problem Solution",
+  "stages": "TOF,MOF",
+  "status": "Swiped",
+  "why": "Names the exact pain point up front, then shows the fix.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1973915409991581&view_all_page_id=207736510058292",
+   "https://www.facebook.com/ads/library/?id=1655298598877501&view_all_page_id=107940537227344"
+  ],
+  "refs": [
+   "3ced53123cd681df95c1c58cda7d41ec_1.jpg",
+   "3ced53123cd681df95c1c58cda7d41ec_2.jpg"
+  ]
+ },
+ {
+  "id": "3ced53123cd681f1bd7ceaf8eeeeabcd",
+  "name": "WhatsApp Text",
+  "stages": "",
+  "status": "Swiped",
+  "why": "Mimics a WhatsApp conversation screenshot. Native feel.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1048917238141791&view_all_page_id=2290435917939387",
+   "https://www.facebook.com/ads/library/?id=955081587624865&view_all_page_id=110481524702357"
+  ],
+  "refs": [
+   "ad_1048917238141791.jpg",
+   "3ced53123cd681f1bd7ceaf8eeeeabcd_1.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd6811fa4e5e4b75f3ad26e",
+  "name": "Native Advertorial",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Candid un-branded photo + long first-person confession disguises the ad as organic.",
+  "links": [
+   "https://app.winninghunter.com/ad/768291552299246?platform=meta",
+   "https://app.winninghunter.com/ad/4201474163330693?platform=meta",
+   "https://app.winninghunter.com/ad/299340392857236?platform=meta"
+  ],
+  "refs": []
+ },
+ {
+  "id": "3ddd53123cd6815daff4d0c377c2b538",
+  "name": "Listicle / Curiosity Advertorial Static",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Editorial headline card opens a curiosity gap only a click closes.",
+  "links": [
+   "https://app.winninghunter.com/ad/766517155386286?platform=meta",
+   "https://app.winninghunter.com/ad/165519493300707?platform=meta",
+   "https://app.winninghunter.com/ad/1505103197780762?platform=meta"
+  ],
+  "refs": []
+ },
+ {
+  "id": "3ddd53123cd681b9ae3cc22a19c4c8db",
+  "name": "Testimonial / Review-Quote-Led Static",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Real customer words with the objection AND the turnaround inside the quote.",
+  "links": [
+   "https://app.winninghunter.com/ad/1332851977858145?platform=meta",
+   "https://app.winninghunter.com/ad/2770089136498721?platform=meta",
+   "https://app.winninghunter.com/ad/1479893276073172?platform=meta"
+  ],
+  "refs": [
+   "3ddd53123cd681b9ae3cc22a19c4c8db_1.jpg",
+   "3ddd53123cd681b9ae3cc22a19c4c8db_2.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd68103870bd687132649a2",
+  "name": "Email Screenshot",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "A forwarded email reads as insider info shared between real people.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1550383266588232&view_all_page_id=107371600800343"
+  ],
+  "refs": [
+   "3ddd53123cd68103870bd687132649a2_1.jpg",
+   "3ddd53123cd68103870bd687132649a2_2.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681189e31e5db29b63f21",
+  "name": "The Paint Ad",
+  "stages": "TOF",
+  "status": "Concept",
+  "why": "Deliberate low effort makes it feel like it isn't selling.",
+  "links": [],
+  "refs": []
+ },
+ {
+  "id": "3ddd53123cd6811f90e7df07fd71c826",
+  "name": "Emergency",
+  "stages": "TOF",
+  "status": "Concept",
+  "why": "Alert aesthetic hijacks attention like a real notification.",
+  "links": [],
+  "refs": [
+   "3ddd53123cd6811f90e7df07fd71c826_1.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd6812cadddfd53f25839f0",
+  "name": "The Spec Sheet",
+  "stages": "TOF,MOF",
+  "status": "Swiped",
+  "why": "Four facts, zero adjectives. The restraint is the persuasion.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1083046877535112&view_all_page_id=316619891807463",
+   "https://www.facebook.com/ads/library/?id=1014833824247266&view_all_page_id=175062562514010",
+   "https://app.winninghunter.com/ad/3074016666132110?platform=meta"
+  ],
+  "refs": [
+   "ad_1083046877535112.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd6813bb03cf674166d09e6",
+  "name": "Problems (List Of)",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Stacking daily frictions makes the pain feel bigger.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1764440697803462&view_all_page_id=147169048627313",
+   "https://www.facebook.com/ads/library/?id=933555159816608&view_all_page_id=235220453278398"
+  ],
+  "refs": [
+   "ad_1764440697803462.jpg",
+   "ad_933555159816608.jpg",
+   "3ddd53123cd6813bb03cf674166d09e6_1.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd68144a1ebca26d0634f13",
+  "name": "Tier List (Static)",
+  "stages": "TOF",
+  "status": "Concept",
+  "why": "S/A/B ranking is scannable and begs the viewer to agree or argue.",
+  "links": [],
+  "refs": [
+   "3ddd53123cd68144a1ebca26d0634f13_1.jpg",
+   "3ddd53123cd68144a1ebca26d0634f13_2.jpg",
+   "3ddd53123cd68144a1ebca26d0634f13_3.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681498e76d87f1eedfe25",
+  "name": "Venn Diagram",
+  "stages": "TOF,MOF",
+  "status": "Concept",
+  "why": "The product is the only thing at the intersection.",
+  "links": [],
+  "refs": [
+   "3ddd53123cd681498e76d87f1eedfe25_1.jpg",
+   "3ddd53123cd681498e76d87f1eedfe25_2.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd6814bbd49eaf7cb94c6e4",
+  "name": "Claymation Still",
+  "stages": "TOF",
+  "status": "Concept",
+  "why": "Visibly hand-made craft reads as art, not an ad.",
+  "links": [],
+  "refs": [
+   "3ddd53123cd6814bbd49eaf7cb94c6e4_1.jpg",
+   "3ddd53123cd6814bbd49eaf7cb94c6e4_2.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd68158b2f8dbb12b04d878",
+  "name": "Google Search Result",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Borrows Google's authority. The answer looks found, not sold.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1897177634590764&view_all_page_id=134935099907954",
+   "https://www.facebook.com/ads/library/?id=2231143170760268&view_all_page_id=101886952638461"
+  ],
+  "refs": [
+   "ad_1897177634590764.jpg",
+   "3ddd53123cd68158b2f8dbb12b04d878_1.jpg",
+   "3ddd53123cd68158b2f8dbb12b04d878_2.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd6815fbeb5d7ae3432970e",
+  "name": "Trustpilot / Review-Site Screenshot",
+  "stages": "TOF,MOF",
+  "status": "Swiped",
+  "why": "A third-party review platform carries trust the brand can't claim.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=28138163879198087&view_all_page_id=102720945428638",
+   "https://www.facebook.com/ads/library/?id=1375808368087333&view_all_page_id=1392545734334646"
+  ],
+  "refs": [
+   "ad_28138163879198087.jpg",
+   "ad_1375808368087333.jpg",
+   "3ddd53123cd6815fbeb5d7ae3432970e_1.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681699d4cde1e889e4778",
+  "name": "You Can Avoid",
+  "stages": "MOF",
+  "status": "Concept",
+  "why": "Loss aversion: what to dodge hits harder than a promised gain.",
+  "links": [
+   "https://app.winninghunter.com/ad/1487850548951040?platform=meta"
+  ],
+  "refs": [
+   "3ddd53123cd681699d4cde1e889e4778_1.jpg",
+   "3ddd53123cd681699d4cde1e889e4778_2.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd6817bb3efc8d4655a4d1d",
+  "name": "Don't Buy This",
+  "stages": "MOF",
+  "status": "Concept",
+  "why": "Arguing against the sale disarms the skeptic.",
+  "links": [],
+  "refs": [
+   "3ddd53123cd6817bb3efc8d4655a4d1d_1.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681ac99d7c0b7d47902d4",
+  "name": "X Signs",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "A symptom checklist makes the viewer self-diagnose into the problem.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1657034919420738&view_all_page_id=276454582447360",
+   "https://www.facebook.com/ads/library/?id=1642478107213970&view_all_page_id=224110981099062"
+  ],
+  "refs": [
+   "ad_1642478107213970.jpg",
+   "3ddd53123cd681ac99d7c0b7d47902d4_1.jpg",
+   "3ddd53123cd681ac99d7c0b7d47902d4_2.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681d6bbb9f7844706c481",
+  "name": "Us vs Us",
+  "stages": "MOF",
+  "status": "Concept",
+  "why": "Old version vs new version. Progress without attacking a competitor.",
+  "links": [],
+  "refs": []
+ },
+ {
+  "id": "3ddd53123cd681db98bbcea00138ce93",
+  "name": "Hack 101",
+  "stages": "TOF,MOF",
+  "status": "Swiped",
+  "why": "'Hack' framing reads as a tip, not a pitch.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=2077041326219013&view_all_page_id=112516667335834",
+   "https://www.facebook.com/ads/library/?id=1095826869551915&view_all_page_id=107418161415"
+  ],
+  "refs": [
+   "ad_1095826869551915.jpg",
+   "3ddd53123cd681db98bbcea00138ce93_1.jpg",
+   "3ddd53123cd681db98bbcea00138ce93_2.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681dc80b3fbe82a69db95",
+  "name": "Greenscreen Static",
+  "stages": "TOF",
+  "status": "Concept",
+  "why": "Creator-reacting-to-a-screen look signals native UGC.",
+  "links": [],
+  "refs": [
+   "3ddd53123cd681dc80b3fbe82a69db95_1.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681e2a520d35e06f7acf1",
+  "name": "New vs Old",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "Old way vs new way split makes the viewer do the math.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=28268975222768605&view_all_page_id=104229891456069",
+   "https://www.facebook.com/ads/library/?id=1098515412773180&view_all_page_id=117446295957"
+  ],
+  "refs": [
+   "ad_28268975222768605.jpg",
+   "3ddd53123cd681e2a520d35e06f7acf1_1.jpg",
+   "3ddd53123cd681e2a520d35e06f7acf1_2.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681e3a743f71a36f7e800",
+  "name": "Whiteboard Explainer",
+  "stages": "TOF,MOF",
+  "status": "Concept",
+  "why": "Hand-drawn whiteboard signals a teacher explaining, not a brand selling.",
+  "links": [],
+  "refs": [
+   "3ddd53123cd681e3a743f71a36f7e800_1.jpg",
+   "3ddd53123cd681e3a743f71a36f7e800_2.jpg",
+   "3ddd53123cd681e3a743f71a36f7e800_3.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681e3b15ed234106b44df",
+  "name": "Don't Be An Idiot",
+  "stages": "MOF",
+  "status": "Concept",
+  "why": "A blunt challenge: prove you're not the idiot by reading on.",
+  "links": [],
+  "refs": [
+   "3ddd53123cd681e3b15ed234106b44df_1.jpg",
+   "3ddd53123cd681e3b15ed234106b44df_2.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681e898e7fce3e805708d",
+  "name": "iPhone Notes Screenshot",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Reads as a private note, so the guard drops before the pitch.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1425891946168556&view_all_page_id=236959743562",
+   "https://www.facebook.com/ads/library/?id=1055181520650324&view_all_page_id=160173207331937"
+  ],
+  "refs": [
+   "ad_1425891946168556.jpg",
+   "ad_1055181520650324.jpg",
+   "3ddd53123cd681e898e7fce3e805708d_1.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681fd9466d990c2b855e8",
+  "name": "Side Effect",
+  "stages": "MOF",
+  "status": "Concept",
+  "why": "Pharma 'side effect' framing reframes benefits as consequences.",
+  "links": [],
+  "refs": [
+   "3ddd53123cd681fd9466d990c2b855e8_1.jpg",
+   "3ddd53123cd681fd9466d990c2b855e8_2.jpg",
+   "3ddd53123cd681fd9466d990c2b855e8_3.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd681fdace7fa60d6b1176a",
+  "name": "Doodle",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "A rough doodle feels like a person's note, not a designed asset.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1789756392399074&view_all_page_id=290192498058451",
+   "https://www.facebook.com/ads/library/?id=949461131548401&view_all_page_id=179450065439629"
+  ],
+  "refs": [
+   "ad_1789756392399074.jpg",
+   "3ddd53123cd681fdace7fa60d6b1176a_1.jpg",
+   "3ddd53123cd681fdace7fa60d6b1176a_2.jpg"
+  ]
+ },
+ {
+  "id": "3ddd53123cd68110b11bc8ac8280909c",
+  "name": "We're Sorry",
+  "stages": "MOF,BOF",
+  "status": "Concept",
+  "why": "An apology reads as honesty and lowers the guard.",
+  "links": [],
+  "refs": [
+   "3ddd53123cd68110b11bc8ac8280909c_1.jpg",
+   "3ddd53123cd68110b11bc8ac8280909c_2.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681c48978dd2896d7ef45",
+  "name": "Borrowed Interface (Screenshot Mimicry)",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Mimics a third-party app UI to borrow its credibility.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=27918664784393744&view_all_page_id=2044396059140850",
+   "https://app.winninghunter.com/ad/719965410171926?platform=meta",
+   "https://app.winninghunter.com/ad/1136925538483673?platform=meta"
+  ],
+  "refs": [
+   "ad_1136925538483673.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681e0a76de1bcc05d09a6",
+  "name": "Comparison (Static)",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "Generic head-to-head 'this vs that' comparison.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1689462332536801&view_all_page_id=100139035049081",
+   "https://www.facebook.com/ads/library/?id=1794480838356269&view_all_page_id=100653998267239",
+   "https://app.winninghunter.com/ad/1479890900223560?platform=meta"
+  ],
+  "refs": [
+   "ad_1689462332536801.jpg",
+   "ad_1479890900223560.jpg",
+   "3e1d53123cd681e0a76de1bcc05d09a6_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681f29b5ed15c6fbdf6ca",
+  "name": "Social-Proof / Review-Count",
+  "stages": "MOF,BOF",
+  "status": "Swiped",
+  "why": "Leads with a huge review/customer count, not one quote.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=1760345611966881&view_all_page_id=186268468076113",
+   "https://www.facebook.com/ads/library/?id=1132970189057143&view_all_page_id=355136938262536",
+   "https://app.winninghunter.com/ad/219327384369398?platform=meta"
+  ],
+  "refs": []
+ },
+ {
+  "id": "3ced53123cd681d3ba3fdda879bd2c3f",
+  "name": "Native Ads",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Image must NOT look like an ad. The long-form copy sells.",
+  "links": [
+   "https://www.facebook.com/ads/library/?id=923872397423706&view_all_page_id=362556690454305",
+   "https://www.facebook.com/ads/library/?id=1648652973299312&view_all_page_id=103581851453799"
+  ],
+  "refs": [
+   "ad_923872397423706.jpg",
+   "ad_1648652973299312.jpg",
+   "3ced53123cd681d3ba3fdda879bd2c3f_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd68151af38e45e99c7093b",
+  "name": "The Truth",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Surprising truth / myth-flip hook reframes the product.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd68151af38e45e99c7093b_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681f2b3eccf6bd5d984fe",
+  "name": "Free Ticket",
+  "stages": "BOF",
+  "status": "Swiped",
+  "why": "Torn-ticket coupon with code + urgency reads as a deal.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681f2b3eccf6bd5d984fe_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681feaaa9f09b9db5061a",
+  "name": "Let's Talk Numbers",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "Stacks hard percentages around the product to beat skepticism.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681feaaa9f09b9db5061a_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd68109b7a5c853f3294c38",
+  "name": "X for X",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "'Like [famous brand], but for [category].' Instant positioning.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd68109b7a5c853f3294c38_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd68124a45cde3856f28a05",
+  "name": "Song Playlist",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Spotify-playlist mockup. Pattern interrupt that feels organic.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd68124a45cde3856f28a05_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd6812e960efcc955a187d5",
+  "name": "Tap Your Goals",
+  "stages": "TOF,MOF",
+  "status": "Swiped",
+  "why": "Gamified self-selection grid pulls viewers in via interaction.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd6812e960efcc955a187d5_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681de8b64f0b4c7e84006",
+  "name": "Daily Use Does X",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "The daily-use benefit stack across a routine.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681de8b64f0b4c7e84006_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681ac9499d505182a86f0",
+  "name": "Notification Offer",
+  "stages": "BOF",
+  "status": "Swiped",
+  "why": "Lock-screen notification mockup delivers the offer.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681ac9499d505182a86f0_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681ae869bf3f8aa5171f1",
+  "name": "Stat Headline",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "One big cost/stat headline reframes value.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681ae869bf3f8aa5171f1_1.jpg",
+   "3e1d53123cd681ae869bf3f8aa5171f1_2.jpg",
+   "3e1d53123cd681ae869bf3f8aa5171f1_3.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681aeaeaada0b9985502b",
+  "name": "Sourcing",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "'Inside our factory' builds trust and justifies price.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681aeaeaada0b9985502b_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681b28374e6788932f1e6",
+  "name": "Demographic Callout",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Calls out an age/life stage so the right viewer self-identifies.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681b28374e6788932f1e6_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681c393eaf5ed8fd5d6fa",
+  "name": "Recipes",
+  "stages": "TOF,MOF",
+  "status": "Swiped",
+  "why": "'How to make X' saveable content, product as an ingredient.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681c393eaf5ed8fd5d6fa_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd68174b99ecd7408dbadeb",
+  "name": "Partnership Carousels",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "Creator/brand collab as an IG profile. Borrows credibility.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd68174b99ecd7408dbadeb_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd68177a595cf23b7703cc5",
+  "name": "Cartoon",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Hand-illustrated cartoon over the product. Playful pattern interrupt.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd68177a595cf23b7703cc5_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd6810e92a1fbaf1dd09662",
+  "name": "Crossed-Out Problems",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "Red X's reject the old solutions before showing the product.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd6810e92a1fbaf1dd09662_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681129aa3cf54391cccca",
+  "name": "Text Message (iMessage Mockup)",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "A friend recommending it in iMessage reads as trusted.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681129aa3cf54391cccca_1.jpg",
+   "3e1d53123cd681129aa3cf54391cccca_2.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd68134be35ec96ba2acc89",
+  "name": "IG Story (Native Callout)",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "'WANTED'-style native story recruits a specific segment.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd68134be35ec96ba2acc89_1.jpg",
+   "3e1d53123cd68134be35ec96ba2acc89_2.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd68158aed2ea7a51466c8a",
+  "name": "Bundle Offer (Static)",
+  "stages": "BOF",
+  "status": "Swiped",
+  "why": "Flat-lay of the range with one bundle price. Pushes AOV.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd68158aed2ea7a51466c8a_1.jpg",
+   "3e1d53123cd68158aed2ea7a51466c8a_2.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd6816c97afe4d6a705d89b",
+  "name": "IG Question Sticker",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Question-sticker UI pulls in self-identifying viewers.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd6816c97afe4d6a705d89b_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681988b7fd334bc501452",
+  "name": "Diagram / Flowchart",
+  "stages": "MOF",
+  "status": "Concept",
+  "why": "Icons connected into one hub. Shows how the pieces fit.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681988b7fd334bc501452_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681a184cbe286424db5dc",
+  "name": "Objection Handler (Quote-Led)",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "Objection-and-answer bubbles pre-empt hesitation.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681a184cbe286424db5dc_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681abbf5bc34f3a17ec7b",
+  "name": "X Post (Tweet Screenshot)",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Borrows the unfiltered-opinion credibility of X/Twitter.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681abbf5bc34f3a17ec7b_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681c2b5e8fc8f94af3707",
+  "name": "Stop Doing This",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "Reframes the current habit as the problem.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681c2b5e8fc8f94af3707_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681ef822ed0540d344a50",
+  "name": "Unboxing (Static)",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "Candid box-opening photo reads as organic social proof.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681ef822ed0540d344a50_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd6810ca563ffd1a3fd3829",
+  "name": "Demo (App/Product Screen)",
+  "stages": "MOF",
+  "status": "Concept",
+  "why": "Screenshot of the product's own interface in use.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd6810ca563ffd1a3fd3829_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd6810eae64f562cd060432",
+  "name": "Transformation (Progress Timeline)",
+  "stages": "MOF",
+  "status": "Swiped",
+  "why": "Day 7 / 14 / 30 progression sells the journey.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd6810eae64f562cd060432_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd68140939bf7897f587dbc",
+  "name": "Offer / Discount Announcement",
+  "stages": "BOF",
+  "status": "Swiped",
+  "why": "Flat X% off graphic. Just the deal, stated loudly.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd68140939bf7897f587dbc_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd6817db2d0d4fa3705372a",
+  "name": "AI Podcast / Interview Clip (Thumbnail)",
+  "stages": "TOF",
+  "status": "Concept",
+  "why": "Podcast-style two-person thumbnail borrows interview credibility.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd6817db2d0d4fa3705372a_1.jpg"
+  ]
+ },
+ {
+  "id": "3e1d53123cd681efadbeefebf509528b",
+  "name": "Script (Curiosity Teaser Copy)",
+  "stages": "TOF",
+  "status": "Swiped",
+  "why": "One scripted line on a plain card. Pure curiosity gap.",
+  "links": [],
+  "refs": [
+   "3e1d53123cd681efadbeefebf509528b_1.jpg"
+  ]
+ }
+]
