@@ -39,7 +39,7 @@ A. HUNT: spawn 10 background agents in parallel (I1..I10), each: "Read WORK/IMAG
 B. QA: build contact grids of every format's winners (PIL) and LOOK at them yourself. Remove anything that isn't the format.
 C. MERGE: `cd WORK && python3 merge_hunt2.py image` -> formats2_image.json (new formats appended with new=true; cross-format dedupe).
    Check the printed ISSUES. Keep every "why" to ONE short line (long text overlaps the thumbnails).
-D. DRIVE BACKUP (before building the board, so the links exist): in the Composio workbench, create a Drive folder
+D. DRIVE BACKUP (before building the board, so the links exist): use scripts/img_drive_lib.py (paste its full code at the start of EVERY workbench call: the sandbox resets; it rebuilds state from Drive so re-runs never duplicate). Jobs from scripts/img_drive_jobs.py. Root folder id is set in the lib. Original notes:
    "Image Ad Formats - Winning References" with one subfolder per format; upload each ref with
    run_composio_tool('GOOGLEDRIVE_UPLOAD_FROM_URL', {source_url: <image_url>, name: "<days>d - <advertiser> - <id>.jpg",
    parent_folder_id, mime_type: 'image/jpeg'}). Response: data.id. Save {ad_id: {id, link: "https://drive.google.com/file/d/<id>/view"}}
