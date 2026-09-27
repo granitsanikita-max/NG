@@ -2,7 +2,7 @@
 """gen_hooks_board.py -> hboard/header.svg, hboard/frame_<key>.svg, hboard/plan.json, hboard/frames.json (reads hooks_data.json)"""
 import json, os, html
 H = os.path.dirname(os.path.abspath(__file__)); OUT = f"{H}/hboard"; os.makedirs(OUT, exist_ok=True)
-data = json.load(open(f"{H}/hooks_data.json"))
+data = [d for d in json.load(open(f"{H}/hooks_data.json")) if not d.get("dropped")]
 DRIVE = json.load(open(f"{H}/drive_hooks.json")) if os.path.exists(f"{H}/drive_hooks.json") else {}
 CATS = [("Graphic & text overlays", "g_text", "Graphic & Text Overlays", "Text, graphics and on-screen elements that stop the thumb before a word is said.", "#c6dcff", "#305bab"),
         ("Pattern interrupts", "g_pattern", "Pattern Interrupts", "A switch, cut or clash that breaks what the viewer expected to see.", "#fde2e4", "#9d1c3a"),
@@ -11,7 +11,7 @@ CATS = [("Graphic & text overlays", "g_text", "Graphic & Text Overlays", "Text, 
         ("Unique visual selection", "g_unique", "Unique Visual Selection", "An unusual subject, setting or shot choice that is instantly different from the feed.", "#adf0c7", "#0b6b34")]
 INK, BODY, CARD = "#1a1a1a", "#595959", "#f7f7f7"
 FONT = 'font-family="noto_sans"'
-X0, PAD, GAP = 0, 64, 64
+X0, PAD, GAP = 5000, 64, 64
 TXW, IMW = 900, 1000
 CW = 32 + TXW + 40 + IMW + 32
 FW = PAD * 2 + 2 * CW + GAP
@@ -27,28 +27,33 @@ def num(n): return f"{n/1e6:.1f}M" if n >= 1e6 else f"{n/1e3:.0f}k"
 
 def card(x, y, d, n, bg, fg, plan, fid):
     exs = d["examples"][:MAXEX]
-    ih = int(d["img_size"][1] * IMW / d["img_size"][0]) if exs else 300
+    ih = int(d["img_size"][1] * IMW / d["img_size"][0]) if d.get("img") else 300
     lines = []
     ty = y + 32
     lines.append(f'<text x="{x+32}" y="{ty+40}" {FONT} font-size="40" font-weight="bold" fill="{INK}">{n:02d}  {esc(d["name"])}</text>')
     cx = x + 32; cy = ty + 64
     chips = [(d["category"].title() if False else d["category"], bg, fg, 20 + len(d["category"]) * 11)]
     if d.get("kallaway"): chips.append(("Kallaway collection", "#1a1a1a", "#ffffff", 230))
-    chips.append((f"{len(d['examples'])} example{'s' if len(d['examples']) != 1 else ''}", "#ffffff", "#595959", 150))
+    if d["examples"]: chips.append((f"{len(d['examples'])} example{'s' if len(d['examples']) != 1 else ''}", "#ffffff", "#595959", 150))
+    if d.get("kallaway_stills"): chips.append(("+ Kallaway refs", "#ffffff", "#595959", 170))
     for label, b, f, w in chips:
         lines.append(f'<rect x="{cx}" y="{cy}" width="{w}" height="38" rx="19" fill="{b}" stroke="{"#e7e7e7" if b=="#ffffff" else "none"}" data-content="&lt;b&gt;{esc(label)}&lt;/b&gt;" data-text-color="{f}" data-font-size="18" data-font-family="noto_sans" />')
         cx += w + 12
-    body = (f"<p><b>What you see (0-3s):</b> {esc(d['what_you_see'])}</p>"
+    body = (f"<p><b>Kallaway's definition:</b> {esc(d['kallaway_def'])}</p>" if d.get("kallaway_def") else "")
+    body += (f"<p><b>What you see (0-3s):</b> {esc(d['what_you_see'])}</p>"
             f"<p><b>Why it works:</b> {esc(d.get('why_it_works'))}</p>"
             f"<p><b>Use it for your product:</b> {esc(d.get('how_to_shoot'))}</p>")
     if d.get("aliases"): body += f"<p><b>Also called:</b> {esc(', '.join(d['aliases'][:5]))}</p>"
     bh = est_h(body, 22)
     lines.append(f'<textArea x="{x+32}" y="{cy+60}" width="{TXW}" height="{bh}" {FONT} font-size="22" fill="{BODY}">{html.escape(body, quote=False)}</textArea>')
     ey = cy + 60 + bh + 40
-    if exs:
+    if d.get("img"):
         ex_lines = []
         for k, e in enumerate(exs, 1):
-            stat = (f"TikTok · {num(e['likes'])} likes") if e.get("likes") else (f"Meta ad · {e['days']} days live" if e.get("days") else ("TikTok" if e.get("platform") == "tiktok" else "Meta ad"))
+            if e.get("platform") == "tiktok_organic":
+                stat = "TikTok organic · " + (f"{num(e['views'])} views" if e.get("views") else f"{num(e['likes'])} likes")
+            else:
+                stat = (f"TikTok ad · {num(e['likes'])} likes") if e.get("likes") else (f"Meta ad · {e['days']} days live" if e.get("days") else ("TikTok ad" if e.get("platform") == "tiktok" else "Meta ad"))
             adv = esc((e.get("advertiser") or "").strip()[:32])
             s = f'<b>{k}</b>  <a href="{esc(e["link"])}">▶ Watch</a>  ·  ' + (f'{adv}  ·  ' if adv else '') + stat
             if e.get("platform") == "tiktok" and "media.winninghunter.com" in (e.get("video_url") or ""):
@@ -56,6 +61,8 @@ def card(x, y, d, n, bg, fg, plan, fid):
             dl = DRIVE.get(e["id"])
             if dl: s += f'  ·  <a href="{esc(dl)}">💾 Saved copy</a>'
             ex_lines.append(s)
+        if d.get("kallaway_stills"):
+            ex_lines.append("<b>K</b>  Kallaway's own reference examples: first-frame stills from his Short-Form Lego Bricks board (no links)")
         exh = "<p><b>Examples</b> (numbers match the strips on the right)</p>" + "".join("<p>"+l+"</p>" for l in ex_lines)
         eh = est_h(exh, 20)
         lines.append(f'<textArea x="{x+32}" y="{ey}" width="{TXW}" height="{eh}" {FONT} font-size="20" fill="{INK}">{html.escape(exh, quote=False)}</textArea>')

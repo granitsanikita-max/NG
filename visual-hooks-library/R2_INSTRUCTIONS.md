@@ -1,0 +1,14 @@
+# Round 2 reference hunt: TikTok organic videos (task names R2a/R2b/R2c/R2d)
+H = /tmp/claude-0/-home-user-NG/12cf501e-e1e4-51cb-a9e4-da29e659b5ef/scratchpad/hooks
+Your task file: H/hunt_task_<TASK>.json (formats with 0 or 1 verified reference). GOAL: every format reaches >= 2 verified references (more is fine, max 4 new per format). A format at 0 is top priority: get it to at least 1 before polishing others.
+Context: these are visual hooks (first 3 seconds of a short video). Round 1 searched Winning Hunter ads by text and failed for these. Now use viral ORGANIC TikToks.
+
+## Pipeline (all free, do NOT use Winning Hunter tools: its credits are nearly gone)
+1. FIND: mcp__Firecrawl__firecrawl_search (load via ToolSearch "select:mcp__Firecrawl__firecrawl_search"), sources ["web"], limit 10-20, queries like
+   `site:tiktok.com "<format phrase>"`, `site:tiktok.com <alias> transition`, `site:tiktok.com <effect> capcut`, `site:tiktok.com <effect> trend`, brand/product angles (e.g. `site:tiktok.com fake text message ad product`). Keep only URLs of the form https://www.tiktok.com/@user/video/<id> (vt.tiktok.com short links also OK).
+2. PROOF (metadata only, no download): `yt-dlp -q -j "<url>"` (curl_cffi is installed for TikTok impersonation). Read view_count, like_count, uploader, upload_date, duration. PROVEN = like_count >= 50000 OR view_count >= 1000000. Skip everything else. Batch with a small bash/python loop; be patient, some calls fail: skip failures.
+3. CLIP: `yt-dlp -q -f "b[height<=720]/b" --download-sections "*0-3.5" -o "H/r2/<id>.%(ext)s" "<url>"` then `python3 H/hook_strip.py H/r2/<id>.mp4 H/hunt_strips/<id>.jpg` (7 frames 0.0..3.0s side by side).
+4. VERIFY BY EYE: Read the strip image (batch several strips into one contact sheet with PIL to save tokens). ACCEPT only if the format is clearly visible inside 0-3s and matches the format's what_you_see. Tutorials are OK only if the effect itself plays in the first 3s (not a talking explanation or an app screen). Reject slideshows/static screens unless the format is a graphic one. When unsure, reject.
+5. RECORD in H/<TASK>.json: {"<format name exactly as in task file>": [{"id": "<video id>", "platform": "tiktok_organic", "advertiser": "@<uploader>", "strip": "hunt_strips/<id>.jpg", "video_url": "<tiktok url>", "link": "<tiktok url>", "likes": <int>, "views": <int>, "what_you_see": "<one short line of what happens 0-3s>"}]}. Write the file after every accepted item (progress survives interruptions). Also keep H/<TASK>_cands.json of everything checked (id, url, views, likes, verdict) so nothing is re-checked.
+Rules: prefix helper files with <TASK>_. Delete mp4s after stripping. Don't touch other tasks' files. The same video must not be used for two formats.
+Final report: per format: refs found (id, @user, likes/views); formats still at 0 and what you tried.

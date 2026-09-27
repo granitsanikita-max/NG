@@ -1,7 +1,8 @@
-# Push one frame of the Visual Hooks Library to Miro (your frame key is given in your task: g_text / g_pattern / g_motion / g_fx / g_unique)
+# (REBUILD v2) Push one frame of the Visual Hooks Library to Miro (your frame key is given in your task: g_text / g_pattern / g_motion / g_fx / g_unique)
 BOARD = https://miro.com/app/board/uXjVHhmCPn0=/
 DIR = /tmp/claude-0/-home-user-NG/12cf501e-e1e4-51cb-a9e4-da29e659b5ef/scratchpad/hooks/hboard
 Load tools via ToolSearch: "select:mcp__Miro__canvas_update_from_svg,mcp__Miro__canvas_search,mcp__Miro__canvas_read_as_svg,mcp__Miro__image_get_upload_url,mcp__Miro__image_create".
+IMPORTANT: this is a rebuild. The OLD layout (same frame titles) sits at x < 5000 and will be deleted later by someone else: never touch, read-modify or count items there. Your NEW frame is created by chunk 0 at x = 5000. When searching, always pass target_id=<your new frame_id> so old items are never matched (for step A3 before your frame exists, check the result of chunk 0 itself).
 Progress file: DIR/progress_<KEY>.json = {"frame_id":..., "chunks_done":[n,...], "images":{"<name>":"<item_id>"}}. Read it first if it exists and skip finished steps (you may be a resumed run).
 
 ## A. Cards (chunks DIR/chunk_<KEY>_<n>.svg, n = 0..N-1)

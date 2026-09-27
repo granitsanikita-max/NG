@@ -1,0 +1,54 @@
+{
+ "Fake Crash / Phone Drop": [
+  {
+   "id": "7303618260405161217",
+   "platform": "tiktok_organic",
+   "advertiser": "@thatslowkey.raggedy",
+   "strip": "hunt_strips/7303618260405161217.jpg",
+   "video_url": "https://www.tiktok.com/@thatslowkey.raggedy/video/7303618260405161217",
+   "link": "https://www.tiktok.com/@thatslowkey.raggedy/video/7303618260405161217",
+   "likes": 2500000,
+   "views": 24400000,
+   "what_you_see": "Girl dancing, phone appears to fall: frame tumbles into blur, then she grabs it with a shocked face (fake phone-fall transition)"
+  }
+ ],
+ "Empty Shelves / Sold Out": [
+  {
+   "id": "7611887564340956429",
+   "platform": "tiktok_organic",
+   "advertiser": "@jjgirl660",
+   "strip": "hunt_strips/7611887564340956429.jpg",
+   "video_url": "https://www.tiktok.com/@jjgirl660/video/7611887564340956429",
+   "link": "https://www.tiktok.com/@jjgirl660/video/7611887564340956429",
+   "likes": 9294,
+   "views": 2600000,
+   "what_you_see": "Camera pans along a bare Target shelf with NeeDoh price tags and nothing on it, caption 'i just wanted one'"
+  }
+ ],
+ "Transformation Cover Cut": [
+  {
+   "id": "7567764006132321566",
+   "platform": "tiktok_organic",
+   "advertiser": "@luseeyalu",
+   "strip": "hunt_strips/7567764006132321566.jpg",
+   "video_url": "https://www.tiktok.com/@luseeyalu/video/7567764006132321566",
+   "link": "https://www.tiktok.com/@luseeyalu/video/7567764006132321566",
+   "likes": 410400,
+   "views": 4300000,
+   "what_you_see": "Creator talks bare-faced, a hand sweeps across the lens at ~2s and reveals her in full dramatic clown/art makeup at 2.5s"
+  }
+ ],
+ "Visual Switch": [
+  {
+   "id": "7265607729639591175",
+   "platform": "tiktok_organic",
+   "advertiser": "@charlierosenbergg",
+   "strip": "hunt_strips/7265607729639591175.jpg",
+   "video_url": "https://www.tiktok.com/@charlierosenbergg/video/7265607729639591175",
+   "link": "https://www.tiktok.com/@charlierosenbergg/video/7265607729639591175",
+   "likes": 59700,
+   "views": 1700000,
+   "what_you_see": "Couple stands on a street and does the clap-transition trend; on the clap (~3s) it cuts cleanly to a new street and new outfits"
+  }
+ ]
+}

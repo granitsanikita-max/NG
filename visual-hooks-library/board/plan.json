@@ -27,7 +27,7 @@
 "frame": "g_text",
 "file": "hooks_img/a-vs-b-comparison-graphics.jpg",
 "cx": 3604,
-"cy": 2906,
+"cy": 3108,
 "width": 1000,
 "name": "A vs B Comparison Graphics"
 },
@@ -35,7 +35,7 @@
 "frame": "g_text",
 "file": "hooks_img/bold-headline-text-box.jpg",
 "cx": 1536,
-"cy": 4550,
+"cy": 4656,
 "width": 1000,
 "name": "Bold Headline Text Box"
 },
@@ -43,7 +43,7 @@
 "frame": "g_text",
 "file": "hooks_img/price-slash-sale-tag.jpg",
 "cx": 3604,
-"cy": 4550,
+"cy": 4656,
 "width": 1000,
 "name": "Price Slash / Sale Tag"
 },
@@ -51,7 +51,7 @@
 "frame": "g_text",
 "file": "hooks_img/circle-highlight-annotation.jpg",
 "cx": 1536,
-"cy": 5678,
+"cy": 5784,
 "width": 1000,
 "name": "Circle / Highlight Annotation"
 },
@@ -59,7 +59,7 @@
 "frame": "g_text",
 "file": "hooks_img/image-overlay-motion.jpg",
 "cx": 3604,
-"cy": 5678,
+"cy": 5986,
 "width": 1000,
 "name": "Image Overlay Motion"
 },
@@ -67,7 +67,7 @@
 "frame": "g_text",
 "file": "hooks_img/text-slide-in.jpg",
 "cx": 1536,
-"cy": 6640,
+"cy": 7350,
 "width": 1000,
 "name": "Text Slide In"
 },
@@ -75,7 +75,7 @@
 "frame": "g_text",
 "file": "hooks_img/text-arrow-pointer.jpg",
 "cx": 3604,
-"cy": 6658,
+"cy": 7368,
 "width": 1000,
 "name": "Text/Arrow Pointer"
 },
@@ -83,7 +83,7 @@
 "frame": "g_text",
 "file": "hooks_img/breaking-news-lower-third.jpg",
 "cx": 1536,
-"cy": 7638,
+"cy": 8550,
 "width": 1000,
 "name": "Breaking News Lower Third"
 },
@@ -91,7 +91,7 @@
 "frame": "g_text",
 "file": "hooks_img/handwritten-sign-paper-note.jpg",
 "cx": 3604,
-"cy": 7546,
+"cy": 8458,
 "width": 1000,
 "name": "Handwritten Sign / Paper Note"
 },
@@ -99,63 +99,127 @@
 "frame": "g_text",
 "file": "hooks_img/meme-caption-frame.jpg",
 "cx": 1536,
-"cy": 8656,
+"cy": 9568,
 "width": 1000,
 "name": "Meme Caption Frame"
 },
 {
 "frame": "g_text",
-"file": "hooks_img/tier-list-board.jpg",
+"file": "hooks_img/social-post-screenshot.jpg",
 "cx": 3604,
-"cy": 8656,
+"cy": 9572,
+"width": 1000,
+"name": "Social Post Screenshot"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/tier-list-board.jpg",
+"cx": 1536,
+"cy": 10594,
 "width": 1000,
 "name": "Tier List Board"
 },
 {
 "frame": "g_text",
-"file": "hooks_img/small-image-drop-overlay.jpg",
+"file": "hooks_img/interactive-title.jpg",
+"cx": 3604,
+"cy": 10651,
+"width": 1000,
+"name": "Interactive Title"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/screen-recording-w-motion.jpg",
 "cx": 1536,
-"cy": 9527,
+"cy": 11783,
+"width": 1000,
+"name": "Screen Recording w/ Motion"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/small-image-drop-overlay.jpg",
+"cx": 3604,
+"cy": 11780,
 "width": 1000,
 "name": "Small Image Drop Overlay"
 },
 {
 "frame": "g_text",
 "file": "hooks_img/big-stat-callout.jpg",
-"cx": 3604,
-"cy": 9527,
+"cx": 1536,
+"cy": 12710,
 "width": 1000,
 "name": "Big Stat Callout"
 },
 {
 "frame": "g_text",
-"file": "hooks_img/numbered-listicle-title.jpg",
+"file": "hooks_img/fake-text-imessage-thread.jpg",
+"cx": 3604,
+"cy": 12714,
+"width": 1000,
+"name": "Fake Text / iMessage Thread"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/motion-tracked-text.jpg",
 "cx": 1536,
-"cy": 10264,
+"cy": 13490,
+"width": 1000,
+"name": "Motion-Tracked Text"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/numbered-listicle-title.jpg",
+"cx": 3604,
+"cy": 13446,
 "width": 1000,
 "name": "Numbered Listicle Title"
 },
 {
 "frame": "g_text",
 "file": "hooks_img/redacted-censored-bar.jpg",
-"cx": 3604,
-"cy": 10264,
+"cx": 1536,
+"cy": 14222,
 "width": 1000,
 "name": "Redacted / Censored Bar"
 },
 {
 "frame": "g_text",
 "file": "hooks_img/star-rating-review-card.jpg",
-"cx": 1536,
-"cy": 11022,
+"cx": 3604,
+"cy": 14204,
 "width": 1000,
 "name": "Star Rating / Review Card"
 },
 {
 "frame": "g_text",
+"file": "hooks_img/watch-till-the-end-text.jpg",
+"cx": 1536,
+"cy": 15026,
+"width": 1000,
+"name": "Watch Till The End Text"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/whiteboard-explainer.jpg",
+"cx": 3604,
+"cy": 15030,
+"width": 1000,
+"name": "Whiteboard Explainer"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/countdown.jpg",
+"cx": 1536,
+"cy": 15844,
+"width": 1000,
+"name": "Countdown"
+},
+{
+"frame": "g_text",
 "file": "hooks_img/journal-story-highlight.jpg",
 "cx": 3604,
-"cy": 10930,
+"cy": 15642,
 "width": 1000,
 "name": "Journal Story Highlight"
 },
@@ -163,39 +227,31 @@
 "frame": "g_text",
 "file": "hooks_img/poll-guess-sticker.jpg",
 "cx": 1536,
-"cy": 11694,
+"cy": 16472,
 "width": 1000,
 "name": "Poll / Guess Sticker"
 },
 {
 "frame": "g_text",
-"file": "hooks_img/social-post-screenshot.jpg",
+"file": "hooks_img/search-bar-typing.jpg",
 "cx": 3604,
-"cy": 11694,
+"cy": 16474,
 "width": 1000,
-"name": "Social Post Screenshot"
+"name": "Search Bar Typing"
 },
 {
 "frame": "g_text",
 "file": "hooks_img/spec-callout-lines.jpg",
 "cx": 1536,
-"cy": 12368,
+"cy": 17146,
 "width": 1000,
 "name": "Spec Callout Lines"
-},
-{
-"frame": "g_text",
-"file": "hooks_img/watch-till-the-end-text.jpg",
-"cx": 3604,
-"cy": 12456,
-"width": 1000,
-"name": "Watch Till The End Text"
 },
 {
 "frame": "g_pattern",
 "file": "hooks_img/beat-match-visual-switch.jpg",
 "cx": 1536,
-"cy": 1223,
+"cy": 1424,
 "width": 1000,
 "name": "Beat Match Visual Switch"
 },
@@ -211,7 +267,7 @@
 "frame": "g_pattern",
 "file": "hooks_img/match-cut.jpg",
 "cx": 1536,
-"cy": 2984,
+"cy": 3589,
 "width": 1000,
 "name": "Match Cut"
 },
@@ -219,7 +275,7 @@
 "frame": "g_pattern",
 "file": "hooks_img/rapid-flash-montage.jpg",
 "cx": 3604,
-"cy": 2836,
+"cy": 3239,
 "width": 1000,
 "name": "Rapid Flash Montage"
 },
@@ -227,7 +283,7 @@
 "frame": "g_pattern",
 "file": "hooks_img/viral-stitch-linked-reaction.jpg",
 "cx": 1536,
-"cy": 4300,
+"cy": 5308,
 "width": 1000,
 "name": "Viral Stitch Linked Reaction"
 },
@@ -235,7 +291,7 @@
 "frame": "g_pattern",
 "file": "hooks_img/genre-bait-and-switch.jpg",
 "cx": 3604,
-"cy": 4261,
+"cy": 5067,
 "width": 1000,
 "name": "Genre Bait-and-Switch"
 },
@@ -243,7 +299,7 @@
 "frame": "g_pattern",
 "file": "hooks_img/in-media-res-start.jpg",
 "cx": 1536,
-"cy": 5320,
+"cy": 6528,
 "width": 1000,
 "name": "In Media Res Start"
 },
@@ -251,7 +307,7 @@
 "frame": "g_pattern",
 "file": "hooks_img/multi-creator-mashup.jpg",
 "cx": 3604,
-"cy": 5320,
+"cy": 6528,
 "width": 1000,
 "name": "Multi-Creator Mashup"
 },
@@ -259,55 +315,87 @@
 "frame": "g_pattern",
 "file": "hooks_img/stitch-interview-mic-in-face.jpg",
 "cx": 1536,
-"cy": 6338,
+"cy": 7548,
 "width": 1000,
 "name": "Stitch Interview Mic-In-Face"
 },
 {
 "frame": "g_pattern",
-"file": "hooks_img/freeze-frame-record-scratch.jpg",
+"file": "hooks_img/visual-switch.jpg",
 "cx": 3604,
-"cy": 6150,
+"cy": 7582,
+"width": 1000,
+"name": "Visual Switch"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/freeze-frame-record-scratch.jpg",
+"cx": 1536,
+"cy": 8446,
 "width": 1000,
 "name": "Freeze Frame Record Scratch"
 },
 {
 "frame": "g_pattern",
 "file": "hooks_img/photo-collage-to-video.jpg",
-"cx": 1536,
-"cy": 7209,
+"cx": 3604,
+"cy": 8486,
 "width": 1000,
 "name": "Photo Collage to Video"
 },
 {
 "frame": "g_pattern",
 "file": "hooks_img/remote-control-channel-switch.jpg",
-"cx": 3604,
-"cy": 7209,
+"cx": 1536,
+"cy": 9262,
 "width": 1000,
 "name": "Remote Control Channel Switch"
 },
 {
 "frame": "g_pattern",
-"file": "hooks_img/visual-switch.jpg",
-"cx": 1536,
-"cy": 7824,
+"file": "hooks_img/fake-crash-phone-drop.jpg",
+"cx": 3604,
+"cy": 9113,
 "width": 1000,
-"name": "Visual Switch"
+"name": "Fake Crash / Phone Drop"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/transformation-cover-cut.jpg",
+"cx": 1536,
+"cy": 9877,
+"width": 1000,
+"name": "Transformation Cover Cut"
 },
 {
 "frame": "g_pattern",
 "file": "hooks_img/unexpected-interruption.jpg",
 "cx": 3604,
-"cy": 7824,
+"cy": 9878,
 "width": 1000,
 "name": "Unexpected Interruption"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/viral-stitch-motion-match.jpg",
+"cx": 1536,
+"cy": 10694,
+"width": 1000,
+"name": "Viral Stitch Motion Match"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/viral-stitch-unlinked-switch.jpg",
+"cx": 3604,
+"cy": 10694,
+"width": 1000,
+"name": "Viral Stitch Unlinked Switch"
 },
 {
 "frame": "g_motion",
 "file": "hooks_img/fly-on-wall.jpg",
 "cx": 1536,
-"cy": 1166,
+"cy": 1367,
 "width": 1000,
 "name": "Fly on Wall"
 },
@@ -315,7 +403,7 @@
 "frame": "g_motion",
 "file": "hooks_img/many-of-same-prop.jpg",
 "cx": 3604,
-"cy": 1223,
+"cy": 1424,
 "width": 1000,
 "name": "Many of Same Prop"
 },
@@ -323,7 +411,7 @@
 "frame": "g_motion",
 "file": "hooks_img/move-in-frame.jpg",
 "cx": 1536,
-"cy": 3133,
+"cy": 3718,
 "width": 1000,
 "name": "Move In Frame"
 },
@@ -331,7 +419,7 @@
 "frame": "g_motion",
 "file": "hooks_img/mid-action-demo-start.jpg",
 "cx": 3604,
-"cy": 3076,
+"cy": 3478,
 "width": 1000,
 "name": "Mid-Action Demo Start"
 },
@@ -339,7 +427,7 @@
 "frame": "g_motion",
 "file": "hooks_img/pour-splash.jpg",
 "cx": 1536,
-"cy": 5043,
+"cy": 5810,
 "width": 1000,
 "name": "Pour / Splash"
 },
@@ -347,7 +435,7 @@
 "frame": "g_motion",
 "file": "hooks_img/holding-prop.jpg",
 "cx": 3604,
-"cy": 4894,
+"cy": 5863,
 "width": 1000,
 "name": "Holding Prop"
 },
@@ -355,7 +443,7 @@
 "frame": "g_motion",
 "file": "hooks_img/mirror.jpg",
 "cx": 1536,
-"cy": 6804,
+"cy": 7861,
 "width": 1000,
 "name": "Mirror"
 },
@@ -363,7 +451,7 @@
 "frame": "g_motion",
 "file": "hooks_img/squeeze-squish.jpg",
 "cx": 3604,
-"cy": 6804,
+"cy": 7678,
 "width": 1000,
 "name": "Squeeze / Squish"
 },
@@ -371,7 +459,7 @@
 "frame": "g_motion",
 "file": "hooks_img/sunglasses-on.jpg",
 "cx": 1536,
-"cy": 8418,
+"cy": 9658,
 "width": 1000,
 "name": "Sunglasses On"
 },
@@ -379,7 +467,7 @@
 "frame": "g_motion",
 "file": "hooks_img/camera-whip.jpg",
 "cx": 3604,
-"cy": 8269,
+"cy": 9710,
 "width": 1000,
 "name": "Camera Whip"
 },
@@ -387,7 +475,7 @@
 "frame": "g_motion",
 "file": "hooks_img/yap-cold-open.jpg",
 "cx": 1536,
-"cy": 9882,
+"cy": 11430,
 "width": 1000,
 "name": "Yap Cold Open"
 },
@@ -395,7 +483,7 @@
 "frame": "g_motion",
 "file": "hooks_img/object-into-lens.jpg",
 "cx": 3604,
-"cy": 9882,
+"cy": 11228,
 "width": 1000,
 "name": "Object Into Lens"
 },
@@ -403,7 +491,7 @@
 "frame": "g_motion",
 "file": "hooks_img/problem-reenactment.jpg",
 "cx": 1536,
-"cy": 11198,
+"cy": 12947,
 "width": 1000,
 "name": "Problem Reenactment"
 },
@@ -411,153 +499,217 @@
 "frame": "g_motion",
 "file": "hooks_img/rip-open-unboxing.jpg",
 "cx": 3604,
-"cy": 11198,
+"cy": 12947,
 "width": 1000,
 "name": "Rip-Open Unboxing"
 },
 {
 "frame": "g_motion",
-"file": "hooks_img/wake-up-bed-start.jpg",
+"file": "hooks_img/rock-paper-scissors-coin-flip.jpg",
 "cx": 1536,
-"cy": 12514,
+"cy": 14262,
+"width": 1000,
+"name": "Rock-Paper-Scissors / Coin Flip"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/wake-up-bed-start.jpg",
+"cx": 3604,
+"cy": 14263,
 "width": 1000,
 "name": "Wake Up / Bed Start"
 },
 {
 "frame": "g_motion",
 "file": "hooks_img/object-catch.jpg",
-"cx": 3604,
-"cy": 12366,
+"cx": 1536,
+"cy": 15632,
 "width": 1000,
 "name": "Object Catch"
 },
 {
 "frame": "g_motion",
 "file": "hooks_img/point-to-visual.jpg",
-"cx": 1536,
-"cy": 13682,
+"cx": 3604,
+"cy": 15613,
 "width": 1000,
 "name": "Point To Visual"
 },
 {
 "frame": "g_motion",
 "file": "hooks_img/setting-down-phone.jpg",
-"cx": 3604,
-"cy": 13682,
+"cx": 1536,
+"cy": 17054,
 "width": 1000,
 "name": "Setting Down Phone"
 },
 {
 "frame": "g_motion",
 "file": "hooks_img/destruction-stress-test.jpg",
-"cx": 1536,
-"cy": 14700,
+"cx": 3604,
+"cy": 16852,
 "width": 1000,
 "name": "Destruction / Stress Test"
 },
 {
 "frame": "g_motion",
 "file": "hooks_img/face-lean-in-to-lens.jpg",
-"cx": 3604,
-"cy": 14700,
+"cx": 1536,
+"cy": 18274,
 "width": 1000,
 "name": "Face Lean-In to Lens"
 },
 {
 "frame": "g_motion",
 "file": "hooks_img/hand-grab-from-off-screen.jpg",
-"cx": 1536,
-"cy": 15720,
+"cx": 3604,
+"cy": 18274,
 "width": 1000,
 "name": "Hand Grab From Off-Screen"
 },
 {
 "frame": "g_motion",
 "file": "hooks_img/stop-hand-to-lens.jpg",
-"cx": 3604,
-"cy": 15680,
+"cx": 1536,
+"cy": 19254,
 "width": 1000,
 "name": "Stop-Hand To Lens"
 },
 {
 "frame": "g_motion",
 "file": "hooks_img/walking-backward-talk.jpg",
-"cx": 1536,
-"cy": 16738,
+"cx": 3604,
+"cy": 19294,
 "width": 1000,
 "name": "Walking Backward Talk"
 },
 {
 "frame": "g_motion",
 "file": "hooks_img/fridge-pov.jpg",
-"cx": 3604,
-"cy": 16500,
+"cx": 1536,
+"cy": 20275,
 "width": 1000,
 "name": "Fridge POV"
 },
 {
 "frame": "g_motion",
+"file": "hooks_img/jump-switch.jpg",
+"cx": 3604,
+"cy": 20346,
+"width": 1000,
+"name": "Jump Switch"
+},
+{
+"frame": "g_motion",
 "file": "hooks_img/post-it-cover-reveal.jpg",
 "cx": 1536,
-"cy": 17609,
+"cy": 21251,
 "width": 1000,
 "name": "Post-It / Cover Reveal"
 },
 {
 "frame": "g_motion",
-"file": "hooks_img/slam-drop-start.jpg",
-"cx": 3604,
-"cy": 17609,
-"width": 1000,
-"name": "Slam/Drop Start"
-},
-{
-"frame": "g_motion",
-"file": "hooks_img/anticipated-disaster.jpg",
-"cx": 1536,
-"cy": 18236,
-"width": 1000,
-"name": "Anticipated Disaster"
-},
-{
-"frame": "g_motion",
-"file": "hooks_img/framebreaker.jpg",
-"cx": 3604,
-"cy": 18236,
-"width": 1000,
-"name": "Framebreaker"
-},
-{
-"frame": "g_motion",
-"file": "hooks_img/using-random-product-pope-in-the-pool.jpg",
-"cx": 1536,
-"cy": 19000,
-"width": 1000,
-"name": "Using Random Product (Pope In The Pool)"
-},
-{
-"frame": "g_motion",
 "file": "hooks_img/write-on-screen.jpg",
 "cx": 3604,
-"cy": 19000,
+"cy": 21360,
 "width": 1000,
 "name": "Write on Screen"
 },
 {
 "frame": "g_motion",
-"file": "hooks_img/crumple-throw-at-camera.jpg",
+"file": "hooks_img/money-throw.jpg",
 "cx": 1536,
-"cy": 19786,
+"cy": 22198,
+"width": 1000,
+"name": "Money Throw"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/slam-drop-start.jpg",
+"cx": 3604,
+"cy": 22199,
+"width": 1000,
+"name": "Slam/Drop Start"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/3p-crash-zoom.jpg",
+"cx": 1536,
+"cy": 23028,
+"width": 1000,
+"name": "3P Crash Zoom"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/anticipated-disaster.jpg",
+"cx": 3604,
+"cy": 23009,
+"width": 1000,
+"name": "Anticipated Disaster"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/clone-body-double.jpg",
+"cx": 1536,
+"cy": 23936,
+"width": 1000,
+"name": "Clone Body Double"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/framebreaker.jpg",
+"cx": 3604,
+"cy": 23955,
+"width": 1000,
+"name": "Framebreaker"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/jump-in.jpg",
+"cx": 1536,
+"cy": 24882,
+"width": 1000,
+"name": "Jump In"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/snap-pop-reveal.jpg",
+"cx": 3604,
+"cy": 24882,
+"width": 1000,
+"name": "Snap/Pop Reveal"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/using-random-product-pope-in-the-pool.jpg",
+"cx": 1536,
+"cy": 25809,
+"width": 1000,
+"name": "Using Random Product (Pope In The Pool)"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/crumple-throw-at-camera.jpg",
+"cx": 3604,
+"cy": 25608,
 "width": 1000,
 "name": "Crumple/Throw at Camera"
 },
 {
 "frame": "g_motion",
 "file": "hooks_img/sit-down-into-frame.jpg",
-"cx": 3604,
-"cy": 19786,
+"cx": 1536,
+"cy": 26566,
 "width": 1000,
 "name": "Sit Down Into Frame"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/tear-rip-paper.jpg",
+"cx": 3604,
+"cy": 26566,
+"width": 1000,
+"name": "Tear / Rip Paper"
 },
 {
 "frame": "g_fx",
@@ -579,7 +731,7 @@
 "frame": "g_fx",
 "file": "hooks_img/crazy-transitions.jpg",
 "cx": 1536,
-"cy": 2984,
+"cy": 3186,
 "width": 1000,
 "name": "Crazy Transitions"
 },
@@ -595,7 +747,7 @@
 "frame": "g_fx",
 "file": "hooks_img/experimental-interactive.jpg",
 "cx": 1536,
-"cy": 4453,
+"cy": 5039,
 "width": 1000,
 "name": "Experimental (Interactive)"
 },
@@ -603,7 +755,7 @@
 "frame": "g_fx",
 "file": "hooks_img/look-up-at-camera-top-down.jpg",
 "cx": 3604,
-"cy": 4414,
+"cy": 5014,
 "width": 1000,
 "name": "Look Up At Camera // Top Down"
 },
@@ -611,7 +763,7 @@
 "frame": "g_fx",
 "file": "hooks_img/ai-morph-transformation.jpg",
 "cx": 1536,
-"cy": 5730,
+"cy": 6503,
 "width": 1000,
 "name": "AI Morph / Transformation"
 },
@@ -619,7 +771,7 @@
 "frame": "g_fx",
 "file": "hooks_img/the-zoom-in.jpg",
 "cx": 3604,
-"cy": 5620,
+"cy": 6595,
 "width": 1000,
 "name": "The Zoom In"
 },
@@ -627,7 +779,7 @@
 "frame": "g_fx",
 "file": "hooks_img/blur-to-focus.jpg",
 "cx": 1536,
-"cy": 6801,
+"cy": 7758,
 "width": 1000,
 "name": "Blur-to-Focus"
 },
@@ -635,7 +787,7 @@
 "frame": "g_fx",
 "file": "hooks_img/fooh-cgi-product-stunt.jpg",
 "cx": 3604,
-"cy": 6859,
+"cy": 7816,
 "width": 1000,
 "name": "FOOH / CGI Product Stunt"
 },
@@ -643,7 +795,7 @@
 "frame": "g_fx",
 "file": "hooks_img/snap-zoom-zoom-punch.jpg",
 "cx": 1536,
-"cy": 7878,
+"cy": 8836,
 "width": 1000,
 "name": "Snap Zoom / Zoom Punch"
 },
@@ -651,7 +803,7 @@
 "frame": "g_fx",
 "file": "hooks_img/stop-motion.jpg",
 "cx": 3604,
-"cy": 7800,
+"cy": 8757,
 "width": 1000,
 "name": "Stop Motion"
 },
@@ -659,47 +811,119 @@
 "frame": "g_fx",
 "file": "hooks_img/zoom-out-reveal.jpg",
 "cx": 1536,
-"cy": 8858,
+"cy": 9815,
 "width": 1000,
 "name": "Zoom Out Reveal"
 },
 {
 "frame": "g_fx",
-"file": "hooks_img/glitch-vhs-datamosh.jpg",
-"cx": 3604,
-"cy": 8710,
-"width": 1000,
-"name": "Glitch / VHS / Datamosh"
-},
-{
-"frame": "g_fx",
-"file": "hooks_img/slow-motion-hero.jpg",
-"cx": 1536,
-"cy": 9689,
-"width": 1000,
-"name": "Slow Motion Hero"
-},
-{
-"frame": "g_fx",
 "file": "hooks_img/color-switch.jpg",
 "cx": 3604,
-"cy": 9540,
+"cy": 9907,
 "width": 1000,
 "name": "Color Switch"
 },
 {
 "frame": "g_fx",
+"file": "hooks_img/fish-eye.jpg",
+"cx": 1536,
+"cy": 11030,
+"width": 1000,
+"name": "Fish Eye"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/sudden-danger-1p-pov.jpg",
+"cx": 3604,
+"cy": 11030,
+"width": 1000,
+"name": "Sudden Danger 1P POV"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/dolly-zoom.jpg",
+"cx": 1536,
+"cy": 11876,
+"width": 1000,
+"name": "Dolly Zoom"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/giant-miniature-scale-illusion.jpg",
+"cx": 3604,
+"cy": 11952,
+"width": 1000,
+"name": "Giant / Miniature Scale Illusion"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/glitch-vhs-datamosh.jpg",
+"cx": 1536,
+"cy": 12690,
+"width": 1000,
+"name": "Glitch / VHS / Datamosh"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/reverse-footage.jpg",
+"cx": 3604,
+"cy": 12728,
+"width": 1000,
+"name": "Reverse Footage"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/slow-motion-hero.jpg",
+"cx": 1536,
+"cy": 13505,
+"width": 1000,
+"name": "Slow Motion Hero"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/speed-ramp-effect.jpg",
+"cx": 3604,
+"cy": 13558,
+"width": 1000,
+"name": "Speed Ramp Effect"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/freeze-frame.jpg",
+"cx": 1536,
+"cy": 14219,
+"width": 1000,
+"name": "Freeze Frame"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/jump-out-of-phone.jpg",
+"cx": 3604,
+"cy": 14219,
+"width": 1000,
+"name": "Jump Out of Phone"
+},
+{
+"frame": "g_fx",
 "file": "hooks_img/mask-reveal-transition.jpg",
 "cx": 1536,
-"cy": 10304,
+"cy": 14984,
 "width": 1000,
 "name": "Mask Reveal Transition"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/vanish-magic-disappear.jpg",
+"cx": 3604,
+"cy": 14983,
+"width": 1000,
+"name": "Vanish / Magic Disappear"
 },
 {
 "frame": "g_unique",
 "file": "hooks_img/unusual-first-image-scene.jpg",
 "cx": 1536,
-"cy": 1174,
+"cy": 1302,
 "width": 1000,
 "name": "Unusual First Image/Scene"
 },
@@ -715,7 +939,7 @@
 "frame": "g_unique",
 "file": "hooks_img/animal-pet-hook.jpg",
 "cx": 1536,
-"cy": 3141,
+"cy": 3291,
 "width": 1000,
 "name": "Animal / Pet Hook"
 },
@@ -723,7 +947,7 @@
 "frame": "g_unique",
 "file": "hooks_img/baby-kid-hook.jpg",
 "cx": 3604,
-"cy": 3141,
+"cy": 3291,
 "width": 1000,
 "name": "Baby / Kid Hook"
 },
@@ -731,7 +955,7 @@
 "frame": "g_unique",
 "file": "hooks_img/before-after-result-shot.jpg",
 "cx": 1536,
-"cy": 5051,
+"cy": 5201,
 "width": 1000,
 "name": "Before/After Result Shot"
 },
@@ -739,7 +963,7 @@
 "frame": "g_unique",
 "file": "hooks_img/celebrity-famous-clip.jpg",
 "cx": 3604,
-"cy": 5012,
+"cy": 5162,
 "width": 1000,
 "name": "Celebrity / Famous Clip"
 },
@@ -747,7 +971,7 @@
 "frame": "g_unique",
 "file": "hooks_img/gross-problem-close-up.jpg",
 "cx": 1536,
-"cy": 6961,
+"cy": 7111,
 "width": 1000,
 "name": "Gross / Problem Close-Up"
 },
@@ -755,7 +979,7 @@
 "frame": "g_unique",
 "file": "hooks_img/high-motion-base-b-roll.jpg",
 "cx": 3604,
-"cy": 6774,
+"cy": 7106,
 "width": 1000,
 "name": "High Motion Base B-Roll"
 },
@@ -763,7 +987,7 @@
 "frame": "g_unique",
 "file": "hooks_img/car-talking-head.jpg",
 "cx": 1536,
-"cy": 8722,
+"cy": 8872,
 "width": 1000,
 "name": "Car Talking Head"
 },
@@ -771,7 +995,7 @@
 "frame": "g_unique",
 "file": "hooks_img/absurd-prop.jpg",
 "cx": 3604,
-"cy": 8574,
+"cy": 8724,
 "width": 1000,
 "name": "Absurd Prop"
 },
@@ -779,7 +1003,7 @@
 "frame": "g_unique",
 "file": "hooks_img/archival-vintage-footage.jpg",
 "cx": 1536,
-"cy": 10187,
+"cy": 10337,
 "width": 1000,
 "name": "Archival / Vintage Footage"
 },
@@ -787,7 +1011,7 @@
 "frame": "g_unique",
 "file": "hooks_img/cctv-security-cam-look.jpg",
 "cx": 3604,
-"cy": 10130,
+"cy": 10280,
 "width": 1000,
 "name": "CCTV / Security Cam Look"
 },
@@ -795,7 +1019,7 @@
 "frame": "g_unique",
 "file": "hooks_img/chaos-mess-scene.jpg",
 "cx": 1536,
-"cy": 11503,
+"cy": 11653,
 "width": 1000,
 "name": "Chaos / Mess Scene"
 },
@@ -803,7 +1027,7 @@
 "frame": "g_unique",
 "file": "hooks_img/lo-fi-native-selfie.jpg",
 "cx": 3604,
-"cy": 11502,
+"cy": 11652,
 "width": 1000,
 "name": "Lo-Fi Native Selfie"
 },
@@ -811,7 +1035,7 @@
 "frame": "g_unique",
 "file": "hooks_img/microscope-view.jpg",
 "cx": 1536,
-"cy": 12762,
+"cy": 12912,
 "width": 1000,
 "name": "Microscope View"
 },
@@ -819,7 +1043,7 @@
 "frame": "g_unique",
 "file": "hooks_img/silent-reaction-pip.jpg",
 "cx": 3604,
-"cy": 12610,
+"cy": 12962,
 "width": 1000,
 "name": "Silent Reaction PIP"
 },
@@ -827,7 +1051,7 @@
 "frame": "g_unique",
 "file": "hooks_img/first-person-pov-hands.jpg",
 "cx": 1536,
-"cy": 13872,
+"cy": 14122,
 "width": 1000,
 "name": "First-Person POV Hands"
 },
@@ -835,7 +1059,7 @@
 "frame": "g_unique",
 "file": "hooks_img/low-angle-hero-product.jpg",
 "cx": 3604,
-"cy": 13872,
+"cy": 14122,
 "width": 1000,
 "name": "Low-Angle Hero Product"
 },
@@ -843,7 +1067,7 @@
 "frame": "g_unique",
 "file": "hooks_img/macro-asmr-close-up.jpg",
 "cx": 1536,
-"cy": 14890,
+"cy": 15140,
 "width": 1000,
 "name": "Macro ASMR Close-Up"
 },
@@ -851,7 +1075,7 @@
 "frame": "g_unique",
 "file": "hooks_img/oddly-satisfying-process.jpg",
 "cx": 3604,
-"cy": 14890,
+"cy": 15140,
 "width": 1000,
 "name": "Oddly Satisfying Process"
 },
@@ -859,7 +1083,7 @@
 "frame": "g_unique",
 "file": "hooks_img/out-of-place-element.jpg",
 "cx": 1536,
-"cy": 15872,
+"cy": 16122,
 "width": 1000,
 "name": "Out-of-Place Element"
 },
@@ -867,7 +1091,7 @@
 "frame": "g_unique",
 "file": "hooks_img/megaphone-announcement.jpg",
 "cx": 3604,
-"cy": 15761,
+"cy": 16011,
 "width": 1000,
 "name": "Megaphone Announcement"
 },
@@ -875,7 +1099,7 @@
 "frame": "g_unique",
 "file": "hooks_img/unusual-location.jpg",
 "cx": 1536,
-"cy": 16705,
+"cy": 16955,
 "width": 1000,
 "name": "Unusual Location"
 },
@@ -883,15 +1107,23 @@
 "frame": "g_unique",
 "file": "hooks_img/visual-mistake.jpg",
 "cx": 3604,
-"cy": 16556,
+"cy": 17008,
 "width": 1000,
 "name": "Visual Mistake"
 },
 {
 "frame": "g_unique",
-"file": "hooks_img/lab-side-by-side-experiment.jpg",
+"file": "hooks_img/empty-shelves-sold-out.jpg",
 "cx": 1536,
-"cy": 17320,
+"cy": 17701,
+"width": 1000,
+"name": "Empty Shelves / Sold Out"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/lab-side-by-side-experiment.jpg",
+"cx": 3604,
+"cy": 17702,
 "width": 1000,
 "name": "Lab / Side-by-Side Experiment"
 }

@@ -17,6 +17,9 @@
    "you need this"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 1,
+  "kallaway_def": "Start with creator on screen and then use finger to point to focus visual",
+  "kallaway_refs": 5,
   "kallaway": true,
   "examples": [
    {
@@ -65,10 +68,12 @@
     "what_you_see": "excited man points up at image of Dana White and old man above him, \"why are PEOPLE not talking about this\""
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/point-to-visual.jpg",
   "img_size": [
    1400,
-   1248
+   1759
   ]
  },
  {
@@ -89,6 +94,9 @@
    "real quick"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 2,
+  "kallaway_def": "Creator walks into or around the frame to give motion to the eye",
+  "kallaway_refs": 5,
   "kallaway": true,
   "examples": [
    {
@@ -180,10 +188,12 @@
     "what_you_see": "woman pushes open pink fitting-room curtain and steps out in jeans"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/move-in-frame.jpg",
   "img_size": [
    1400,
-   2496
+   3005
   ]
  },
  {
@@ -204,6 +214,9 @@
    "new drop"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 3,
+  "kallaway_def": "Use fast camera whip motion to create initial stun",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -251,10 +264,12 @@
     "what_you_see": "heavy radial motion blur snapping to teal Woobles bag held up by two girls"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/camera-whip.jpg",
   "img_size": [
    1400,
-   1664
+   2228
   ]
  },
  {
@@ -274,8 +289,32 @@
    "okay listen"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 4,
+  "kallaway_def": "Creator comes into the screen from the side",
+  "kallaway_refs": 3,
   "kallaway": true,
-  "examples": []
+  "examples": [
+   {
+    "id": "7602709271314173197",
+    "platform": "tiktok_organic",
+    "advertiser": "@andy.and.michelle",
+    "strip": "hunt_strips/7602709271314173197.jpg",
+    "video_url": "https://www.tiktok.com/@andy.and.michelle/video/7602709271314173197",
+    "link": "https://www.tiktok.com/@andy.and.michelle/video/7602709271314173197",
+    "likes": 317000,
+    "views": 2500000,
+    "what_you_see": "Woman alone on couch; at 0.5s the boyfriend leaps in from the right edge (leg mid-air) and lands seated next to her by 1.5s, ready to talk",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/jump-in.jpg",
+  "img_size": [
+   1400,
+   979
+  ]
  },
  {
   "category": "Subject motion",
@@ -296,8 +335,32 @@
    "watch this"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 5,
+  "kallaway_def": "Use some visual signature reveal to appear in the frame",
+  "kallaway_refs": 1,
   "kallaway": true,
-  "examples": []
+  "examples": [
+   {
+    "id": "7257924241981492482",
+    "platform": "tiktok_organic",
+    "advertiser": "@jubaer_talukder",
+    "strip": "hunt_strips/7257924241981492482.jpg",
+    "video_url": "https://www.tiktok.com/@jubaer_talukder/video/7257924241981492482",
+    "link": "https://www.tiktok.com/@jubaer_talukder/video/7257924241981492482",
+    "likes": 91500,
+    "views": 2200000,
+    "what_you_see": "Empty rooftop pool shot, a hand snaps its fingers at 1.0s and on the cut the creator is suddenly standing there holding a phone",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/snap-pop-reveal.jpg",
+  "img_size": [
+   1400,
+   979
+  ]
  },
  {
   "category": "Subject motion",
@@ -318,8 +381,32 @@
    "me convincing myself"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 6,
+  "kallaway_def": "Film yourself twice. (Optional - Animate one of them.) Have both versions of you appear on the screen at the same time",
+  "kallaway_refs": 5,
   "kallaway": true,
-  "examples": []
+  "examples": [
+   {
+    "id": "7270636893883141408",
+    "platform": "tiktok_organic",
+    "advertiser": "@bella_does_editing",
+    "strip": "hunt_strips/7270636893883141408.jpg",
+    "video_url": "https://www.tiktok.com/@bella_does_editing/video/7270636893883141408",
+    "link": "https://www.tiktok.com/@bella_does_editing/video/7270636893883141408",
+    "likes": 62300,
+    "views": 768500,
+    "what_you_see": "Two identical copies of the same creator sit side by side on a couch from frame one, 'This is how to clone yourself' text",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/clone-body-double.jpg",
+  "img_size": [
+   1400,
+   926
+  ]
  },
  {
   "category": "Subject motion",
@@ -340,6 +427,9 @@
    "interview"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 7,
+  "kallaway_def": "The subject of the video is looking off screen. Common in podcast interview style clips",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -453,10 +543,12 @@
     "what_you_see": "curly-haired woman in velvet blazer at podcast mic, side angle, looking off-lens"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/fly-on-wall.jpg",
   "img_size": [
    1400,
-   2335
+   2899
   ]
  },
  {
@@ -479,6 +571,9 @@
    "save"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825); 'Impending Disaster' name per brief",
+  "kallaway_num": 8,
+  "kallaway_def": "Use clip of a dangerous thing about to happen to subject in video",
+  "kallaway_refs": 5,
   "kallaway": true,
   "examples": [
    {
@@ -493,10 +588,12 @@
     "what_you_see": "man on top of warehouse shelving drops box toward man below saying 'STOP', blurred cut away before impact"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/anticipated-disaster.jpg",
   "img_size": [
    1400,
-   416
+   928
   ]
  },
  {
@@ -516,6 +613,9 @@
    "found it"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 9,
+  "kallaway_def": "Catch item thrown into frame",
+  "kallaway_refs": 4,
   "kallaway": true,
   "examples": [
    {
@@ -566,10 +666,12 @@
     "what_you_see": "man in sneaker-wall room catches a blue sneaker thrown from above, holds it to lens, cut to beach"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/object-catch.jpg",
   "img_size": [
    1400,
-   1248
+   1812
   ]
  },
  {
@@ -590,6 +692,9 @@
    "storytime"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825); also https://thebrandaudit.ca/blogs/news/10-visual-hooks-to-stop-the-scroll",
+  "kallaway_num": 10,
+  "kallaway_def": "Use random item or task as a subconscious visual distraction",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -609,10 +714,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/using-random-product-pope-in-the-pool.jpg",
   "img_size": [
    1400,
-   416
+   980
   ]
  },
  {
@@ -633,6 +740,9 @@
    "real quick"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 11,
+  "kallaway_def": "Set down recording device as video starts",
+  "kallaway_refs": 4,
   "kallaway": true,
   "examples": [
    {
@@ -681,10 +791,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/setting-down-phone.jpg",
   "img_size": [
    1400,
-   1248
+   1812
   ]
  },
  {
@@ -705,6 +817,9 @@
    "tiktok made me buy it"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 12,
+  "kallaway_def": "Subject starts by holding/looking at a prop, which becomes focus of POV shot",
+  "kallaway_refs": 4,
   "kallaway": true,
   "examples": [
    {
@@ -763,10 +878,12 @@
     "what_you_see": "woman fans three neon-yellow sunscreen tubes right in front of her face toward lens"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/holding-prop.jpg",
   "img_size": [
    1400,
-   2080
+   2644
   ]
  },
  {
@@ -789,6 +906,9 @@
    "sold out"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 13,
+  "kallaway_def": "Multiple items. Could be similar or different",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -891,10 +1011,12 @@
     "what_you_see": "taped paper note \"tested over 50 strollers\" over a garage packed with dozens of strollers"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/many-of-same-prop.jpg",
   "img_size": [
    1400,
-   2496
+   3060
   ]
  },
  {
@@ -914,6 +1036,9 @@
    "3D"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 14,
+  "kallaway_def": "Remove background from initial visual and overlay it on a normal background so subject appears to break the frame",
+  "kallaway_refs": 4,
   "kallaway": true,
   "examples": [
    {
@@ -928,10 +1053,12 @@
     "what_you_see": "woman thrusts pink tumbler at lens, it breaks over a pink inner frame border"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/framebreaker.jpg",
   "img_size": [
    1400,
-   416
+   980
   ]
  },
  {
@@ -952,8 +1079,45 @@
    "before/after"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 15,
+  "kallaway_def": "Creator jumps and when they land the scene changes",
+  "kallaway_refs": 5,
   "kallaway": true,
-  "examples": []
+  "examples": [
+   {
+    "id": "7467199757329370390",
+    "platform": "tiktok_organic",
+    "advertiser": "@twinsstylee",
+    "strip": "hunt_strips/7467199757329370390.jpg",
+    "video_url": "https://www.tiktok.com/@twinsstylee/video/7467199757329370390",
+    "link": "https://www.tiktok.com/@twinsstylee/video/7467199757329370390",
+    "likes": 509600,
+    "views": 39000000,
+    "what_you_see": "Woman jumps in living room in a top; lands wearing a black jacket, outfit swapped on the jump (twinsstylee trend)",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7464215742314073366",
+    "platform": "tiktok_organic",
+    "advertiser": "@stevenwommack",
+    "strip": "hunt_strips/7464215742314073366.jpg",
+    "video_url": "https://www.tiktok.com/@stevenwommack/video/7464215742314073366",
+    "link": "https://www.tiktok.com/@stevenwommack/video/7464215742314073366",
+    "likes": 68900,
+    "views": 1400000,
+    "what_you_see": "Creator jumps in a blue bodysuit and lands in a different outfit (jacket, cargo pants) mid-air cut, shown over creator's greenscreen",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/jump-switch.jpg",
+  "img_size": [
+   1400,
+   1343
+  ]
  },
  {
   "category": "Subject motion",
@@ -972,8 +1136,32 @@
    "spotted"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 16,
+  "kallaway_def": "Use a shot of another person in the distance while zooming in",
+  "kallaway_refs": 3,
   "kallaway": true,
-  "examples": []
+  "examples": [
+   {
+    "id": "7413819230723788064",
+    "platform": "tiktok_organic",
+    "advertiser": "@memezar",
+    "strip": "hunt_strips/7413819230723788064.jpg",
+    "video_url": "https://www.tiktok.com/@memezar/video/7413819230723788064",
+    "link": "https://www.tiktok.com/@memezar/video/7413819230723788064",
+    "likes": 304600,
+    "views": 2200000,
+    "what_you_see": "Filmed third person (worker crouched with a phone) seen from a few metres; camera pushes in fast over 0-2s until his hands/phone fill the frame ('Camera zoom these days is crazy')",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/3p-crash-zoom.jpg",
+  "img_size": [
+   1400,
+   979
+  ]
  },
  {
   "category": "Subject motion",
@@ -993,6 +1181,9 @@
    "what's in my fridge"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825); also https://www.scribd.com/document/904349354/60-Visual-Hooks-1",
+  "kallaway_num": 17,
+  "kallaway_def": "Put camera in fridge, cabinet, food aisle, etc, and then remove item/open door to reveal creator",
+  "kallaway_refs": 2,
   "kallaway": true,
   "examples": [
    {
@@ -1025,10 +1216,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/fridge-pov.jpg",
   "img_size": [
    1400,
-   579
+   1143
   ]
  },
  {
@@ -1049,6 +1242,9 @@
    "#1"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825); also https://www.scribd.com/document/904349354/60-Visual-Hooks-1",
+  "kallaway_num": 18,
+  "kallaway_def": "Use a marker to write text on camera lens / Animate text",
+  "kallaway_refs": 5,
   "kallaway": true,
   "examples": [
    {
@@ -1061,12 +1257,27 @@
     "days": 130,
     "video_url": "https://video-lax3-2.xx.fbcdn.net/o1/v/t2/f2/m86/AQNDVkf8oRXnXRK-ZjQ9s7vQp5OZ7tXuJXlHq0msNyJ0d_hEgLFW5hEQUtImhnlntd74_yRnPNWO7ayqv_0EKc092WULL1VfE4Zr5i4.mp4?_nc_cat=100&_nc_sid=b66105&_nc_ht=video-lax3-2.xx.fbcdn.net&_nc_ohc=Wk4KlGCX3M4Q7kNvwEX7FYF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjQxNDU2MjM2OTAwNzc5MiwiYXNzZXRfYWdlX2RheXMiOjEyMywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3153466031de6129&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85MjQ0QzFBRENCODk0QkQ4NzQ5MzQ4MThERTFFM0NCNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZBNDBGNzA4RTlCRTEwQUFERDc0N0I1MTYwNzg0RUIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgwtfEg4LKCBUCKAJDMywXQDFmZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=Uxib-qTOX89Gc9Oa2Yjcpw&_nc_ss=7e289&_nc_zt=28&oh=00_AQKTYl34hc5gojvDIC6WXtiEwg13pAtaHpCDcwl33KxH7w&oe=6AABF60D",
     "what_you_see": "walking up to clinic glass doors as handwritten \"Cosmetic Acupuncture\" draws on screen, camera whips up to awning"
+   },
+   {
+    "id": "7549571094760508727",
+    "platform": "tiktok_organic",
+    "advertiser": "@svpisaac",
+    "strip": "hunt_strips/7549571094760508727.jpg",
+    "video_url": "https://www.tiktok.com/@svpisaac/video/7549571094760508727",
+    "link": "https://www.tiktok.com/@svpisaac/video/7549571094760508727",
+    "likes": 50500,
+    "views": 607500,
+    "what_you_see": "Fast-cut opener: by 1.0s a hand writes 'I'm' in blue marker on glass in front of the lens over a subject in senior sunglasses, red scribbles follow",
+    "days": null,
+    "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/write-on-screen.jpg",
   "img_size": [
    1400,
-   416
+   1138
   ]
  },
  {
@@ -1087,6 +1298,9 @@
    "morning routine"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 19,
+  "kallaway_def": "Creator talks to audience from reflection in mirror",
+  "kallaway_refs": 5,
   "kallaway": true,
   "examples": [
    {
@@ -1176,10 +1390,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/mirror.jpg",
   "img_size": [
    1400,
-   2080
+   2593
   ]
  },
  {
@@ -1199,7 +1415,9 @@
   ],
   "source": "Kallaway collection (name given in brief; not found in public Kallaway docs - unconfirmed)",
   "kallaway": true,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Subject motion",
@@ -1299,6 +1517,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/object-into-lens.jpg",
   "img_size": [
    1400,
@@ -1340,6 +1560,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/crumple-throw-at-camera.jpg",
   "img_size": [
    1400,
@@ -1397,6 +1619,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/slam-drop-start.jpg",
   "img_size": [
    1400,
@@ -1505,6 +1729,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/sunglasses-on.jpg",
   "img_size": [
    1400,
@@ -1542,6 +1768,8 @@
     "what_you_see": "man walks in with pickleball bag and sits on bench to talk"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/sit-down-into-frame.jpg",
   "img_size": [
    1400,
@@ -1618,6 +1846,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/walking-backward-talk.jpg",
   "img_size": [
    1400,
@@ -1692,6 +1922,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/hand-grab-from-off-screen.jpg",
   "img_size": [
    1400,
@@ -1796,6 +2028,8 @@
     "what_you_see": "hand places blender cup, orange juice poured in thick stream, scoop of powder"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/pour-splash.jpg",
   "img_size": [
    1400,
@@ -1872,6 +2106,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/destruction-stress-test.jpg",
   "img_size": [
    1400,
@@ -1973,6 +2209,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/squeeze-squish.jpg",
   "img_size": [
    1400,
@@ -2057,6 +2295,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/rip-open-unboxing.jpg",
   "img_size": [
    1400,
@@ -2271,6 +2511,8 @@
     "what_you_see": "woman already sliding pink mini straightener through short grey hair"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/mid-action-demo-start.jpg",
   "img_size": [
    1400,
@@ -2293,7 +2535,9 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Subject motion",
@@ -2338,6 +2582,8 @@
     "what_you_see": "man tied to chair with paper bag on head; bag gone on jump cut revealing face, glowing neon text writes in"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/post-it-cover-reveal.jpg",
   "img_size": [
    1400,
@@ -2361,7 +2607,67 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7595304628351257886",
+    "platform": "tiktok_organic",
+    "advertiser": "@mai_yaazi",
+    "strip": "hunt_strips/7595304628351257886.jpg",
+    "video_url": "https://www.tiktok.com/@mai_yaazi/video/7595304628351257886",
+    "link": "https://www.tiktok.com/@mai_yaazi/video/7595304628351257886",
+    "likes": 2000000,
+    "views": 42600000,
+    "what_you_see": "Couple throws rock-paper-scissors over a seafood platter in the first second; winner (husband) instantly dives into the food by 2s",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7593483569545137411",
+    "platform": "tiktok_organic",
+    "advertiser": "@mrandmrsphoenix",
+    "strip": "hunt_strips/7593483569545137411.jpg",
+    "video_url": "https://www.tiktok.com/@mrandmrsphoenix/video/7593483569545137411",
+    "link": "https://www.tiktok.com/@mrandmrsphoenix/video/7593483569545137411",
+    "likes": 1400000,
+    "views": 14400000,
+    "what_you_see": "Two creators shake fists and throw rock-paper-scissors at a table of food ('RPS food challenge gone wrong'); result then the loser reacts",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7358198546052500779",
+    "platform": "tiktok_organic",
+    "advertiser": "@neeniesteenie",
+    "strip": "hunt_strips/7358198546052500779.jpg",
+    "video_url": "https://www.tiktok.com/@neeniesteenie/video/7358198546052500779",
+    "link": "https://www.tiktok.com/@neeniesteenie/video/7358198546052500779",
+    "likes": 1100000,
+    "views": 17400000,
+    "what_you_see": "Couple outside a Five Guys bag plays rock-paper-scissors, hands shaking then thrown by 1s, winner grabs the fries",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7305015958127561990",
+    "platform": "tiktok_organic",
+    "advertiser": "@theglobewanderers",
+    "strip": "hunt_strips/7305015958127561990.jpg",
+    "video_url": "https://www.tiktok.com/@theglobewanderers/video/7305015958127561990",
+    "link": "https://www.tiktok.com/@theglobewanderers/video/7305015958127561990",
+    "likes": 253100,
+    "views": 2500000,
+    "what_you_see": "Couple in a grocery aisle plays rock-paper-scissors from frame one to decide the date-night pick; hands shake and throw within 1.5s",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/rock-paper-scissors-coin-flip.jpg",
+  "img_size": [
+   1400,
+   1660
+  ]
  },
  {
   "category": "Subject motion",
@@ -2432,6 +2738,8 @@
     "what_you_see": "woman shoves open palm at lens, then holds product with neon 'Love' text"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/stop-hand-to-lens.jpg",
   "img_size": [
    1400,
@@ -2455,7 +2763,28 @@
   ],
   "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7523796824956833054",
+    "platform": "tiktok_organic",
+    "advertiser": "@saynohmo",
+    "strip": "hunt_strips/7523796824956833054.jpg",
+    "video_url": "https://www.tiktok.com/@saynohmo/video/7523796824956833054",
+    "link": "https://www.tiktok.com/@saynohmo/video/7523796824956833054",
+    "likes": 100100,
+    "views": 1800000,
+    "what_you_see": "Woman holds a notebook page to camera and rips it apart in the first 1.5s, then cuts to her talking",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/tear-rip-paper.jpg",
+  "img_size": [
+   1400,
+   415
+  ]
  },
  {
   "category": "Subject motion",
@@ -2475,7 +2804,41 @@
   ],
   "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7419501518669237546",
+    "platform": "tiktok_organic",
+    "advertiser": "@lorensharice",
+    "strip": "hunt_strips/7419501518669237546.jpg",
+    "video_url": "https://www.tiktok.com/@lorensharice/video/7419501518669237546",
+    "link": "https://www.tiktok.com/@lorensharice/video/7419501518669237546",
+    "likes": 1700000,
+    "views": 12100000,
+    "what_you_see": "Guest selfie at a Nigerian wedding, then at 2.0s cut to a man spraying cash on the dance floor with bills fluttering down and carpeting the floor by 3s",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "6992012296306363654",
+    "platform": "tiktok_organic",
+    "advertiser": "@kazsawyer",
+    "strip": "hunt_strips/6992012296306363654.jpg",
+    "video_url": "https://www.tiktok.com/@kazsawyer/video/6992012296306363654",
+    "link": "https://www.tiktok.com/@kazsawyer/video/6992012296306363654",
+    "likes": 107500,
+    "views": 1200000,
+    "what_you_see": "Table piled with cash on a rooftop; bills get shoved off and fly into the air over the LA street below by 1.5s",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/money-throw.jpg",
+  "img_size": [
+   1400,
+   830
+  ]
  },
  {
   "category": "Subject motion",
@@ -2544,6 +2907,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/face-lean-in-to-lens.jpg",
   "img_size": [
    1400,
@@ -2628,6 +2993,8 @@
     "what_you_see": "POV in crowd as hand slips toward woman's back pocket, text 'We got pickpocketed 3 times in Europe'"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/problem-reenactment.jpg",
   "img_size": [
    1400,
@@ -2709,6 +3076,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/wake-up-bed-start.jpg",
   "img_size": [
    1400,
@@ -2735,6 +3104,9 @@
    "before after"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825) ('A vs B Graphics' per brief)",
+  "kallaway_num": 21,
+  "kallaway_def": "Use graphics to showcase A vs B of something",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -2816,10 +3188,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/a-vs-b-comparison-graphics.jpg",
   "img_size": [
    1400,
-   1860
+   2424
   ]
  },
  {
@@ -2839,6 +3213,9 @@
    "3 things"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 22,
+  "kallaway_def": "Title text slides into video",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -2887,10 +3264,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/text-slide-in.jpg",
   "img_size": [
    1400,
-   1087
+   1651
   ]
  },
  {
@@ -2909,8 +3288,45 @@
    "the truth about"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 23,
+  "kallaway_def": "Use the title text to create motion by having it come on the screen in an interesting way",
+  "kallaway_refs": 3,
   "kallaway": true,
-  "examples": []
+  "examples": [
+   {
+    "id": "7389694936666377505",
+    "platform": "tiktok_organic",
+    "advertiser": "@benkaluza",
+    "strip": "hunt_strips/7389694936666377505.jpg",
+    "video_url": "https://www.tiktok.com/@benkaluza/video/7389694936666377505",
+    "link": "https://www.tiktok.com/@benkaluza/video/7389694936666377505",
+    "likes": 510000,
+    "views": 9700000,
+    "what_you_see": "Title 'How To Put Text Behind You' types on in empty hallway, creator walks in front of/through the text (1.5-3s)",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7352203354191285512",
+    "platform": "tiktok_organic",
+    "advertiser": "@duekneel",
+    "strip": "hunt_strips/7352203354191285512.jpg",
+    "video_url": "https://www.tiktok.com/@duekneel/video/7352203354191285512",
+    "link": "https://www.tiktok.com/@duekneel/video/7352203354191285512",
+    "likes": 198300,
+    "views": 3200000,
+    "what_you_see": "Creator intro 0-0.5s, then big title 'FOLLOW' is revealed letter by letter as a person walks past it, text sitting behind the walker (1-3s)",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/interactive-title.jpg",
+  "img_size": [
+   1400,
+   1406
+  ]
  },
  {
   "category": "Graphic & text overlays",
@@ -2930,6 +3346,9 @@
    "see that"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 24,
+  "kallaway_def": "Use text and an arrow to direct attention at some visual while explaining what it is",
+  "kallaway_refs": 2,
   "kallaway": true,
   "examples": [
    {
@@ -2970,10 +3389,12 @@
     "what_you_see": "neck X-ray with red arrow, doctor in corner, 'DOCTORS NEVER LOOK HERE FOR VERTIGO!'"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/text-arrow-pointer.jpg",
   "img_size": [
    1400,
-   1138
+   1702
   ]
  },
  {
@@ -2992,6 +3413,9 @@
    "introducing"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 25,
+  "kallaway_def": "Use a small image to drop on a larger image and integrate the small subject into the large",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -3031,10 +3455,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/small-image-drop-overlay.jpg",
   "img_size": [
    1400,
-   832
+   1396
   ]
  },
  {
@@ -3054,8 +3480,45 @@
    "proof"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 26,
+  "kallaway_def": "Start with a screen recording using motion to aim the viewer's attention",
+  "kallaway_refs": 3,
   "kallaway": true,
-  "examples": []
+  "examples": [
+   {
+    "id": "7377841231331642656",
+    "platform": "tiktok_organic",
+    "advertiser": "@googleearth926",
+    "strip": "hunt_strips/7377841231331642656.jpg",
+    "video_url": "https://www.tiktok.com/@googleearth926/video/7377841231331642656",
+    "link": "https://www.tiktok.com/@googleearth926/video/7377841231331642656",
+    "likes": 152600,
+    "views": 7800000,
+    "what_you_see": "Google Earth globe screen recording with a finger/touch pointer panning and zooming into the ocean near Asia (0-3s)",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7626740967495732501",
+    "platform": "tiktok_organic",
+    "advertiser": "@joshtheintern",
+    "strip": "hunt_strips/7626740967495732501.jpg",
+    "video_url": "https://www.tiktok.com/@joshtheintern/video/7626740967495732501",
+    "link": "https://www.tiktok.com/@joshtheintern/video/7626740967495732501",
+    "likes": 156400,
+    "views": 3000000,
+    "what_you_see": "Google Earth screen recording zooms from wide satellite view onto a strange circular structure in the woods (0-2.5s), captions guide the eye",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/screen-recording-w-motion.jpg",
+  "img_size": [
+   1400,
+   1406
+  ]
  },
  {
   "category": "Graphic & text overlays",
@@ -3073,6 +3536,9 @@
    "this is"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 27,
+  "kallaway_def": "Use an image (with or without motion) and text to begin the video",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -3120,10 +3586,12 @@
     "what_you_see": "static photo of old book and jar with long grandma story text overlay"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/image-overlay-motion.jpg",
   "img_size": [
    1400,
-   1248
+   1812
   ]
  },
  {
@@ -3143,8 +3611,32 @@
    "ready"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 28,
+  "kallaway_def": "Start the video by counting down from 3, 2, 1 before revealing something",
+  "kallaway_refs": 3,
   "kallaway": true,
-  "examples": []
+  "examples": [
+   {
+    "id": "7234767547889929499",
+    "platform": "tiktok_organic",
+    "advertiser": "@valentinacarpita",
+    "strip": "hunt_strips/7234767547889929499.jpg",
+    "video_url": "https://www.tiktok.com/@valentinacarpita/video/7234767547889929499",
+    "link": "https://www.tiktok.com/@valentinacarpita/video/7234767547889929499",
+    "likes": 44600,
+    "views": 11700000,
+    "what_you_see": "Big white '3' then '2' flash on black screen counting down to a reveal",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/countdown.jpg",
+  "img_size": [
+   1400,
+   985
+  ]
  },
  {
   "category": "Graphic & text overlays",
@@ -3211,6 +3703,8 @@
     "what_you_see": "podcast guest at mic with big white headline box 'The dangerous fact about your dog's water bowl'"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/bold-headline-text-box.jpg",
   "img_size": [
    1400,
@@ -3447,6 +3941,8 @@
     "what_you_see": "doctor at desk talking under TikTok comment reply bubble about face jowls"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/comment-reply-bubble.jpg",
   "img_size": [
    1400,
@@ -3472,7 +3968,41 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7412790177485081899",
+    "platform": "tiktok_organic",
+    "advertiser": "@aethryn",
+    "strip": "hunt_strips/7412790177485081899.jpg",
+    "video_url": "https://www.tiktok.com/@aethryn/video/7412790177485081899",
+    "link": "https://www.tiktok.com/@aethryn/video/7412790177485081899",
+    "likes": 81600,
+    "views": 1500000,
+    "what_you_see": "iMessage thread UI over gameplay footage; message bubbles pop in one by one from 0.5s",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7522956094482795790",
+    "platform": "tiktok_organic",
+    "advertiser": "@aethryn",
+    "strip": "hunt_strips/7522956094482795790.jpg",
+    "video_url": "https://www.tiktok.com/@aethryn/video/7522956094482795790",
+    "link": "https://www.tiktok.com/@aethryn/video/7522956094482795790",
+    "likes": 47400,
+    "views": 1200000,
+    "what_you_see": "iMessage chat card with photo over gameplay footage; reply bubbles pop in at 1.0-3.0s",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/fake-text-imessage-thread.jpg",
+  "img_size": [
+   1400,
+   842
+  ]
  },
  {
   "category": "Graphic & text overlays",
@@ -3495,6 +4025,32 @@
   "kallaway": false,
   "examples": [
    {
+    "id": "6916730178550992134",
+    "platform": "tiktok_organic",
+    "advertiser": "@rachelschrantzyy",
+    "strip": "hunt_strips/6916730178550992134.jpg",
+    "video_url": "https://www.tiktok.com/@rachelschrantzyy/video/6916730178550992134",
+    "link": "https://www.tiktok.com/@rachelschrantzyy/video/6916730178550992134",
+    "likes": 1200000,
+    "views": 3300000,
+    "what_you_see": "Green-screen: tweet card with photo fills top of frame, creator reacting below it",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "6973478683180813573",
+    "platform": "tiktok_organic",
+    "advertiser": "@bentellect",
+    "strip": "hunt_strips/6973478683180813573.jpg",
+    "video_url": "https://www.tiktok.com/@bentellect/video/6973478683180813573",
+    "link": "https://www.tiktok.com/@bentellect/video/6973478683180813573",
+    "likes": 392000,
+    "views": 1900000,
+    "what_you_see": "Green-screen: tweet text card at top, creator's face below reading/reacting to it",
+    "days": null,
+    "hunted": true
+   },
+   {
     "id": "1302768615402347",
     "platform": "meta",
     "advertiser": "Rachel Morrison",
@@ -3506,10 +4062,12 @@
     "what_you_see": "full-screen Facebook post with long text about trauma research, slowly scrolling"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/social-post-screenshot.jpg",
   "img_size": [
    1400,
-   416
+   1258
   ]
  },
  {
@@ -3567,6 +4125,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/star-rating-review-card.jpg",
   "img_size": [
    1400,
@@ -3654,6 +4214,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/price-slash-sale-tag.jpg",
   "img_size": [
    1400,
@@ -3704,6 +4266,8 @@
     "what_you_see": "man in shop, '5 REASONS' big text pops at 0.5s, then glasses graphic burst and 'BEST SAFETY GLASSES'"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/numbered-listicle-title.jpg",
   "img_size": [
    1400,
@@ -3768,6 +4332,8 @@
     "what_you_see": "TikTok profile with red arrows and circle drawn on '1 follower', zoom, cut to 'UPGRADE MENU' sliders"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/circle-highlight-annotation.jpg",
   "img_size": [
    1400,
@@ -3860,6 +4426,8 @@
     "what_you_see": "man talking with giant blue words popping ('growing', 'research', 'autism') across quick cuts"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/kinetic-typography.jpg",
   "img_size": [
    1400,
@@ -3913,6 +4481,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/big-stat-callout.jpg",
   "img_size": [
    1400,
@@ -3935,7 +4505,9 @@
   ],
   "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Graphic & text overlays",
@@ -3979,6 +4551,8 @@
     "what_you_see": "man seated holding a blurred-out mystery gadget under \"BEST TECH under $200\" title"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/redacted-censored-bar.jpg",
   "img_size": [
    1400,
@@ -4002,7 +4576,9 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Graphic & text overlays",
@@ -4058,6 +4634,8 @@
     "what_you_see": "woman on Miami street holding cardboard sign 'TRY FREE...' then mic interview with passerby"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/handwritten-sign-paper-note.jpg",
   "img_size": [
    1400,
@@ -4081,7 +4659,41 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7486719738547096862",
+    "platform": "tiktok_organic",
+    "advertiser": "@devanlovesnumbers",
+    "strip": "hunt_strips/7486719738547096862.jpg",
+    "video_url": "https://www.tiktok.com/@devanlovesnumbers/video/7486719738547096862",
+    "link": "https://www.tiktok.com/@devanlovesnumbers/video/7486719738547096862",
+    "likes": 236600,
+    "views": 8000000,
+    "what_you_see": "Kid writing a fraction problem with marker on a whiteboard easel, working it out live as he narrates (0-3s)",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7484105893525671198",
+    "platform": "tiktok_organic",
+    "advertiser": "@devanlovesnumbers",
+    "strip": "hunt_strips/7484105893525671198.jpg",
+    "video_url": "https://www.tiktok.com/@devanlovesnumbers/video/7484105893525671198",
+    "link": "https://www.tiktok.com/@devanlovesnumbers/video/7484105893525671198",
+    "likes": 182000,
+    "views": 3700000,
+    "what_you_see": "Kid with marker at a whiteboard easel writing out 152 x 735 working in real time while captions narrate the steps (0-3s)",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/whiteboard-explainer.jpg",
+  "img_size": [
+   1400,
+   842
+  ]
  },
  {
   "category": "Graphic & text overlays",
@@ -4101,7 +4713,28 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7262839443147590944",
+    "platform": "tiktok_organic",
+    "advertiser": "@gamingdenji",
+    "strip": "hunt_strips/7262839443147590944.jpg",
+    "video_url": "https://www.tiktok.com/@gamingdenji/video/7262839443147590944",
+    "link": "https://www.tiktok.com/@gamingdenji/video/7262839443147590944",
+    "likes": 510800,
+    "views": 6900000,
+    "what_you_see": "Google logo animation, then zoomed Google search bar with 'Drop Bear' being typed letter by letter (1.5-2s), results at 3s",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/search-bar-typing.jpg",
+  "img_size": [
+   1400,
+   421
+  ]
  },
  {
   "category": "Graphic & text overlays",
@@ -4141,6 +4774,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/poll-guess-sticker.jpg",
   "img_size": [
    1400,
@@ -4212,6 +4847,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/breaking-news-lower-third.jpg",
   "img_size": [
    1400,
@@ -4278,6 +4915,8 @@
     "what_you_see": "letterboxed shark-meme clip with caption 'Me after my Beard Club kit starts filling in my patches'"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/meme-caption-frame.jpg",
   "img_size": [
    1400,
@@ -4459,6 +5098,8 @@
     "what_you_see": "top/bottom split: bald man with device in mouth above, man talking below, captions"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/split-screen-duet.jpg",
   "img_size": [
    1400,
@@ -4500,6 +5141,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/spec-callout-lines.jpg",
   "img_size": [
    1400,
@@ -4536,6 +5179,8 @@
     "what_you_see": "open journal on wooden table with long story text overlay about grandma's copper vessel"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/journal-story-highlight.jpg",
   "img_size": [
    1400,
@@ -4560,7 +5205,41 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7637190873394023702",
+    "platform": "tiktok_organic",
+    "advertiser": "@kevkevkiwi",
+    "strip": "hunt_strips/7637190873394023702.jpg",
+    "video_url": "https://www.tiktok.com/@kevkevkiwi/video/7637190873394023702",
+    "link": "https://www.tiktok.com/@kevkevkiwi/video/7637190873394023702",
+    "likes": 407100,
+    "views": 4500000,
+    "what_you_see": "Inset night street clip: lyric text tracked into the scene grows/moves with camera (1.5-3s), creator green-screened beside",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7639703827138055445",
+    "platform": "tiktok_organic",
+    "advertiser": "@claranitaf",
+    "strip": "hunt_strips/7639703827138055445.jpg",
+    "video_url": "https://www.tiktok.com/@claranitaf/video/7639703827138055445",
+    "link": "https://www.tiktok.com/@claranitaf/video/7639703827138055445",
+    "likes": 63500,
+    "views": 833600,
+    "what_you_see": "Inset driving clip: big lyric text camera-tracked onto the road, sliding past as the car moves (0-2s), creator below",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/motion-tracked-text.jpg",
+  "img_size": [
+   1400,
+   842
+  ]
  },
  {
   "category": "Graphic & text overlays",
@@ -4582,6 +5261,19 @@
   "kallaway": false,
   "examples": [
    {
+    "id": "7680213088120868128",
+    "platform": "tiktok_organic",
+    "advertiser": "@real_yusuf_mustapha",
+    "strip": "hunt_strips/7680213088120868128.jpg",
+    "video_url": "https://www.tiktok.com/@real_yusuf_mustapha/video/7680213088120868128",
+    "link": "https://www.tiktok.com/@real_yusuf_mustapha/video/7680213088120868128",
+    "likes": 55000,
+    "views": 3500000,
+    "what_you_see": "'Wait for end' caption bar splits a reacting creator (top) from teaser footage of guys about to jump a drainage ditch (bottom), text persists 0-3s",
+    "days": null,
+    "hunted": true
+   },
+   {
     "id": "7620651437571850247",
     "platform": "tiktok",
     "advertiser": "",
@@ -4593,10 +5285,12 @@
     "what_you_see": "two covered motorbikes in driveway with 'Watch Till end' text, hand points, cover pulled"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/watch-till-the-end-text.jpg",
   "img_size": [
    1400,
-   411
+   832
   ]
  },
  {
@@ -4616,6 +5310,9 @@
    "this is why"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 33,
+  "kallaway_def": "Start with a viral clip and then react to it as a transition into your video",
+  "kallaway_refs": 4,
   "kallaway": true,
   "examples": [
    {
@@ -4670,10 +5367,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/viral-stitch-linked-reaction.jpg",
   "img_size": [
    1400,
-   1248
+   1812
   ]
  },
  {
@@ -4692,6 +5391,9 @@
    "transition"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 34,
+  "kallaway_def": "Use a rapid series of visuals/text that line up",
+  "kallaway_refs": 4,
   "kallaway": true,
   "examples": [
    {
@@ -4779,10 +5481,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/match-cut.jpg",
   "img_size": [
    1400,
-   2080
+   2644
   ]
  },
  {
@@ -4801,8 +5505,24 @@
    "switch"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 35,
+  "kallaway_def": "Use an action in the first shot to cleanly transition to the second shot",
+  "kallaway_refs": 5,
   "kallaway": true,
   "examples": [
+   {
+    "id": "7265607729639591175",
+    "platform": "tiktok_organic",
+    "advertiser": "@charlierosenbergg",
+    "strip": "hunt_strips/7265607729639591175.jpg",
+    "video_url": "https://www.tiktok.com/@charlierosenbergg/video/7265607729639591175",
+    "link": "https://www.tiktok.com/@charlierosenbergg/video/7265607729639591175",
+    "likes": 59700,
+    "views": 1700000,
+    "what_you_see": "Couple stands on a street and does the clap-transition trend; on the clap (~3s) it cuts cleanly to a new street and new outfits",
+    "days": null,
+    "hunted": true
+   },
    {
     "id": "851732547906924",
     "platform": "meta",
@@ -4822,10 +5542,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/visual-switch.jpg",
   "img_size": [
    1400,
-   416
+   1343
   ]
  },
  {
@@ -4845,6 +5567,9 @@
    "beat"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825) ('Beat Match Switch' per brief)",
+  "kallaway_num": 36,
+  "kallaway_def": "Edit the timing of the clips turning on matched to the beat of the song",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -4944,10 +5669,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/beat-match-visual-switch.jpg",
   "img_size": [
    1400,
-   2496
+   3060
   ]
  },
  {
@@ -4965,8 +5692,18 @@
    "wait for it"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 37,
+  "kallaway_def": "Start with a viral clip and then match cut your own motion to match",
+  "kallaway_refs": 4,
   "kallaway": true,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/viral-stitch-motion-match.jpg",
+  "img_size": [
+   1400,
+   564
+  ]
  },
  {
   "category": "Pattern interrupts",
@@ -4984,8 +5721,18 @@
    "speaking of"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 38,
+  "kallaway_def": "Use a viral clip (high anticipation) and then cold switch to a clip of your brand/business",
+  "kallaway_refs": 4,
   "kallaway": true,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/viral-stitch-unlinked-switch.jpg",
+  "img_size": [
+   1400,
+   564
+  ]
  },
  {
   "category": "Pattern interrupts",
@@ -5083,6 +5830,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/camera-wipe.jpg",
   "img_size": [
    1400,
@@ -5153,6 +5902,8 @@
     "what_you_see": "quick cuts: man sleeping with eye mask and mouth tape, Oura ring, supplements, blackout curtains"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/rapid-flash-montage.jpg",
   "img_size": [
    1400,
@@ -5176,7 +5927,9 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Pattern interrupts",
@@ -5195,7 +5948,9 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Pattern interrupts",
@@ -5270,6 +6025,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/in-media-res-start.jpg",
   "img_size": [
    1400,
@@ -5294,7 +6051,28 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7303618260405161217",
+    "platform": "tiktok_organic",
+    "advertiser": "@thatslowkey.raggedy",
+    "strip": "hunt_strips/7303618260405161217.jpg",
+    "video_url": "https://www.tiktok.com/@thatslowkey.raggedy/video/7303618260405161217",
+    "link": "https://www.tiktok.com/@thatslowkey.raggedy/video/7303618260405161217",
+    "likes": 2500000,
+    "views": 24400000,
+    "what_you_see": "Girl dancing, phone appears to fall: frame tumbles into blur, then she grabs it with a shocked face (fake phone-fall transition)",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/fake-crash-phone-drop.jpg",
+  "img_size": [
+   1400,
+   415
+  ]
  },
  {
   "category": "Pattern interrupts",
@@ -5351,6 +6129,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/freeze-frame-record-scratch.jpg",
   "img_size": [
    1400,
@@ -5396,6 +6176,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/unexpected-interruption.jpg",
   "img_size": [
    1400,
@@ -5453,6 +6235,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/photo-collage-to-video.jpg",
   "img_size": [
    1400,
@@ -5512,6 +6296,8 @@
     "what_you_see": "rapid cuts of 5 different people each holding a boar-bristle toothbrush, one word per cut"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/multi-creator-mashup.jpg",
   "img_size": [
    1400,
@@ -5573,6 +6359,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/remote-control-channel-switch.jpg",
   "img_size": [
    1400,
@@ -5631,6 +6419,8 @@
     "what_you_see": "epic fantasy crystal with castle inside, 'They don't want you to know', crochet wizard appears 'The world is dying'"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/genre-bait-and-switch.jpg",
   "img_size": [
    1400,
@@ -5654,7 +6444,9 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Pattern interrupts",
@@ -5674,7 +6466,28 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7567764006132321566",
+    "platform": "tiktok_organic",
+    "advertiser": "@luseeyalu",
+    "strip": "hunt_strips/7567764006132321566.jpg",
+    "video_url": "https://www.tiktok.com/@luseeyalu/video/7567764006132321566",
+    "link": "https://www.tiktok.com/@luseeyalu/video/7567764006132321566",
+    "likes": 410400,
+    "views": 4300000,
+    "what_you_see": "Creator talks bare-faced, a hand sweeps across the lens at ~2s and reveals her in full dramatic clown/art makeup at 2.5s",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/transformation-cover-cut.jpg",
+  "img_size": [
+   1400,
+   415
+  ]
  },
  {
   "category": "Pattern interrupts",
@@ -5728,6 +6541,8 @@
     "what_you_see": "street interview: woman holds mic to passer-by \"do you like chocolate?\""
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/stitch-interview-mic-in-face.jpg",
   "img_size": [
    1400,
@@ -5750,8 +6565,32 @@
    "edit"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 39,
+  "kallaway_def": "Add a speed ramp transition in the edit from shot 1 to shot 2",
+  "kallaway_refs": 4,
   "kallaway": true,
-  "examples": []
+  "examples": [
+   {
+    "id": "7250168325773331718",
+    "platform": "tiktok_organic",
+    "advertiser": "@thereelcoach",
+    "strip": "hunt_strips/7250168325773331718.jpg",
+    "video_url": "https://www.tiktok.com/@thereelcoach/video/7250168325773331718",
+    "link": "https://www.tiktok.com/@thereelcoach/video/7250168325773331718",
+    "likes": 812400,
+    "views": 12700000,
+    "what_you_see": "Static wide shot of a food-court table, then a fast whip push-in (blur) that slows into a slow-motion glide past the drink cans",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/speed-ramp-effect.jpg",
+  "img_size": [
+   1400,
+   979
+  ]
  },
  {
   "category": "Visual effects",
@@ -5769,6 +6608,9 @@
    "here's the truth"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 40,
+  "kallaway_def": "Zoom in on creator",
+  "kallaway_refs": 4,
   "kallaway": true,
   "examples": [
    {
@@ -5817,10 +6659,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/the-zoom-in.jpg",
   "img_size": [
    1400,
-   1248
+   1812
   ]
  },
  {
@@ -5840,6 +6684,9 @@
    "caught on camera"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 41,
+  "kallaway_def": "Film using a camera up in the corner of a room to give a different look",
+  "kallaway_refs": 4,
   "kallaway": true,
   "examples": [
    {
@@ -5909,10 +6756,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/look-up-at-camera-top-down.jpg",
   "img_size": [
    1400,
-   1554
+   2118
   ]
  },
  {
@@ -5931,8 +6780,45 @@
    "watch out"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 42,
+  "kallaway_def": "Use clip of a dangerous thing about to happen to viewer and fast switch/stitch",
+  "kallaway_refs": 4,
   "kallaway": true,
-  "examples": []
+  "examples": [
+   {
+    "id": "7224630569982758171",
+    "platform": "tiktok_organic",
+    "advertiser": "@pubity",
+    "strip": "hunt_strips/7224630569982758171.jpg",
+    "video_url": "https://www.tiktok.com/@pubity/video/7224630569982758171",
+    "link": "https://www.tiktok.com/@pubity/video/7224630569982758171",
+    "likes": 6700000,
+    "views": 36200000,
+    "what_you_see": "Chest-cam POV: golden retriever charges straight at the lens until its face fills the frame",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7381646440910687520",
+    "platform": "tiktok_organic",
+    "advertiser": "@pubity",
+    "strip": "hunt_strips/7381646440910687520.jpg",
+    "video_url": "https://www.tiktok.com/@pubity/video/7381646440910687520",
+    "link": "https://www.tiktok.com/@pubity/video/7381646440910687520",
+    "likes": 368200,
+    "views": 3800000,
+    "what_you_see": "Lost-GoPro POV: a black bear's snout fills the lens as it bites at the camera, then cut to black",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/sudden-danger-1p-pov.jpg",
+  "img_size": [
+   1400,
+   1394
+  ]
  },
  {
   "category": "Visual effects",
@@ -5950,8 +6836,45 @@
    "90s"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 43,
+  "kallaway_def": "Film using a fish eye lens to give a different look",
+  "kallaway_refs": 4,
   "kallaway": true,
-  "examples": []
+  "examples": [
+   {
+    "id": "7359990867219746080",
+    "platform": "tiktok_organic",
+    "advertiser": "@odinswissshepherd",
+    "strip": "hunt_strips/7359990867219746080.jpg",
+    "video_url": "https://www.tiktok.com/@odinswissshepherd/video/7359990867219746080",
+    "link": "https://www.tiktok.com/@odinswissshepherd/video/7359990867219746080",
+    "likes": 5700000,
+    "views": 66100000,
+    "what_you_see": "360/ultra-wide shot: dog's face bulges huge at center, horizon curves into a tiny-planet",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7352496780594007302",
+    "platform": "tiktok_organic",
+    "advertiser": "@team7funny",
+    "strip": "hunt_strips/7352496780594007302.jpg",
+    "video_url": "https://www.tiktok.com/@team7funny/video/7352496780594007302",
+    "link": "https://www.tiktok.com/@team7funny/video/7352496780594007302",
+    "likes": 2200000,
+    "views": 32600000,
+    "what_you_see": "Pedro raccoon meme: circular fisheye bubble spins, raccoon's face bulges and warps at the center",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": true,
+  "dropped": false,
+  "img": "hooks_img/fish-eye.jpg",
+  "img_size": [
+   1400,
+   1394
+  ]
  },
  {
   "category": "Visual effects",
@@ -5968,8 +6891,13 @@
    "cinematic"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 44,
+  "kallaway_def": "Slowly collapse the top and bottom of the frame until it reveals an aspect ratio you want, time with beat",
+  "kallaway_refs": 0,
   "kallaway": true,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Visual effects",
@@ -5988,6 +6916,9 @@
    "transition"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 45,
+  "kallaway_def": "Using high motion editing transitions or templates in Capcut",
+  "kallaway_refs": 2,
   "kallaway": true,
   "examples": [
    {
@@ -6066,10 +6997,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/crazy-transitions.jpg",
   "img_size": [
    1400,
-   2080
+   2644
   ]
  },
  {
@@ -6090,6 +7023,9 @@
    "don't scroll"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 46,
+  "kallaway_def": "Use motion graphics on screen to suggest thumb movement, and then edit to match the motion",
+  "kallaway_refs": 5,
   "kallaway": true,
   "examples": [
    {
@@ -6137,10 +7073,12 @@
     "what_you_see": "blue card 'Make Bluey dance!' with drawn finger swiping, then crochet Bluey plushies dance"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/experimental-interactive.jpg",
   "img_size": [
    1400,
-   1664
+   2187
   ]
  },
  {
@@ -6159,6 +7097,9 @@
    "in color"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825); https://thebrandaudit.ca/blogs/news/10-visual-hooks-to-stop-the-scroll",
+  "kallaway_num": 47,
+  "kallaway_def": "Use any visual, start with 0 saturation, change to full color on tap/beat",
+  "kallaway_refs": 4,
   "kallaway": true,
   "examples": [
    {
@@ -6171,12 +7112,27 @@
     "days": 311,
     "video_url": "ff97943d7a69fce45c1cc8cab817d1e77289982e581a443f4df2eb8a7acef708.mp4",
     "what_you_see": "grayscale guy on phone 'IT'S A SCAM' with comment bubble, snaps to color at 1.5s"
+   },
+   {
+    "id": "7279146917857070369",
+    "platform": "tiktok_organic",
+    "advertiser": "@stevenwommack",
+    "strip": "hunt_strips/7279146917857070369.jpg",
+    "video_url": "https://www.tiktok.com/@stevenwommack/video/7279146917857070369",
+    "link": "https://www.tiktok.com/@stevenwommack/video/7279146917857070369",
+    "likes": 82700,
+    "views": 1700000,
+    "what_you_see": "Inset clip of a woman walking plays in black and white, then snaps to full color at 2.5s",
+    "days": null,
+    "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/color-switch.jpg",
   "img_size": [
    1400,
-   416
+   1395
   ]
  },
  {
@@ -6248,6 +7204,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/snap-zoom-zoom-punch.jpg",
   "img_size": [
    1400,
@@ -6271,7 +7229,41 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7490314327329705271",
+    "platform": "tiktok_organic",
+    "advertiser": "@ellzditz",
+    "strip": "hunt_strips/7490314327329705271.jpg",
+    "video_url": "https://www.tiktok.com/@ellzditz/video/7490314327329705271",
+    "link": "https://www.tiktok.com/@ellzditz/video/7490314327329705271",
+    "likes": 936200,
+    "views": 5000000,
+    "what_you_see": "Movie-clip montage: boy stays same size while the crowd behind him stretches/zooms (vertigo), then next dolly-zoom clip",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "6925817035851042053",
+    "platform": "tiktok_organic",
+    "advertiser": "@raidersofthelostpodcast",
+    "strip": "hunt_strips/6925817035851042053.jpg",
+    "video_url": "https://www.tiktok.com/@raidersofthelostpodcast/video/6925817035851042053",
+    "link": "https://www.tiktok.com/@raidersofthelostpodcast/video/6925817035851042053",
+    "likes": 68100,
+    "views": 798300,
+    "what_you_see": "Jaws beach shot: Brody's face stays the same size while the beach behind him stretches away (classic vertigo), caption 'The Dolly Zoom'",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/dolly-zoom.jpg",
+  "img_size": [
+   1400,
+   616
+  ]
  },
  {
   "category": "Visual effects",
@@ -6291,7 +7283,41 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7508794852016950558",
+    "platform": "tiktok_organic",
+    "advertiser": "@cosette",
+    "strip": "hunt_strips/7508794852016950558.jpg",
+    "video_url": "https://www.tiktok.com/@cosette/video/7508794852016950558",
+    "link": "https://www.tiktok.com/@cosette/video/7508794852016950558",
+    "likes": 390400,
+    "views": 14100000,
+    "what_you_see": "Reversed clip: she walked backwards through a theme park so played in reverse she walks forward while the whole crowd moves backwards",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7680596232833649950",
+    "platform": "tiktok_organic",
+    "advertiser": "@thescarlettegamble",
+    "strip": "hunt_strips/7680596232833649950.jpg",
+    "video_url": "https://www.tiktok.com/@thescarlettegamble/video/7680596232833649950",
+    "link": "https://www.tiktok.com/@thescarlettegamble/video/7680596232833649950",
+    "likes": 438300,
+    "views": 3300000,
+    "what_you_see": "Man ran backwards and the footage is reversed, so he 'runs' toward camera with an uncanny rewind gait (caption explains)",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/reverse-footage.jpg",
+  "img_size": [
+   1400,
+   830
+  ]
  },
  {
   "category": "Visual effects",
@@ -6310,7 +7336,28 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "6854092245361036549",
+    "platform": "tiktok_organic",
+    "advertiser": "@subwaysurfers",
+    "strip": "hunt_strips/6854092245361036549.jpg",
+    "video_url": "https://www.tiktok.com/@subwaysurfers/video/6854092245361036549",
+    "link": "https://www.tiktok.com/@subwaysurfers/video/6854092245361036549",
+    "likes": 365400,
+    "views": 1600000,
+    "what_you_see": "Subway Surfers runner races toward an oncoming train, crashes and the frame freezes on the character (record-scratch freeze)",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/freeze-frame.jpg",
+  "img_size": [
+   1400,
+   415
+  ]
  },
  {
   "category": "Visual effects",
@@ -6364,6 +7411,8 @@
     "what_you_see": "paper-cutout X slams onto coffee cup, stop-motion week calendar with smiley flips"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/stop-motion.jpg",
   "img_size": [
    1400,
@@ -6420,6 +7469,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/slow-motion-hero.jpg",
   "img_size": [
    1400,
@@ -6519,6 +7570,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/time-lapse-hyperlapse.jpg",
   "img_size": [
    1400,
@@ -6590,6 +7643,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/blur-to-focus.jpg",
   "img_size": [
    1400,
@@ -6611,7 +7666,9 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Visual effects",
@@ -6667,6 +7724,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/glitch-vhs-datamosh.jpg",
   "img_size": [
    1400,
@@ -6813,6 +7872,8 @@
     "what_you_see": "doctor cut out over macro of purple bruised fragile skin, 'Actinic Purpura' headline"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/green-screen-composite.jpg",
   "img_size": [
    1400,
@@ -6835,7 +7896,28 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7549938079100931341",
+    "platform": "tiktok_organic",
+    "advertiser": "@zachking",
+    "strip": "hunt_strips/7549938079100931341.jpg",
+    "video_url": "https://www.tiktok.com/@zachking/video/7549938079100931341",
+    "link": "https://www.tiktok.com/@zachking/video/7549938079100931341",
+    "likes": 112700,
+    "views": 2500000,
+    "what_you_see": "Phone music player: Zach leaps out of the album-art square and lands on the phone home screen, dancing among the app icons",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/jump-out-of-phone.jpg",
+  "img_size": [
+   1400,
+   415
+  ]
  },
  {
   "category": "Visual effects",
@@ -6852,7 +7934,9 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Visual effects",
@@ -6871,7 +7955,28 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7360518569366424878",
+    "platform": "tiktok_organic",
+    "advertiser": "@themuthership",
+    "strip": "hunt_strips/7360518569366424878.jpg",
+    "video_url": "https://www.tiktok.com/@themuthership/video/7360518569366424878",
+    "link": "https://www.tiktok.com/@themuthership/video/7360518569366424878",
+    "likes": 97600,
+    "views": 3000000,
+    "what_you_see": "Inset clip: woman waves in front of a waterfall, then vanishes leaving the empty scene (2.5s) while creator reacts",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/vanish-magic-disappear.jpg",
+  "img_size": [
+   1400,
+   415
+  ]
  },
  {
   "category": "Visual effects",
@@ -6892,7 +7997,41 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7218514305401031941",
+    "platform": "tiktok_organic",
+    "advertiser": "@jacquemus",
+    "strip": "hunt_strips/7218514305401031941.jpg",
+    "video_url": "https://www.tiktok.com/@jacquemus/video/7218514305401031941",
+    "link": "https://www.tiktok.com/@jacquemus/video/7218514305401031941",
+    "likes": 1700000,
+    "views": 15400000,
+    "what_you_see": "Car-sized Jacquemus Bambino handbags drive down a Paris street past the Opera Garnier like vehicles",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7675694454165998880",
+    "platform": "tiktok_organic",
+    "advertiser": "@mad.studio.cgi",
+    "strip": "hunt_strips/7675694454165998880.jpg",
+    "video_url": "https://www.tiktok.com/@mad.studio.cgi/video/7675694454165998880",
+    "link": "https://www.tiktok.com/@mad.studio.cgi/video/7675694454165998880",
+    "likes": 73400,
+    "views": 1100000,
+    "what_you_see": "Red drape drops off an ancient temple column revealing a building-sized SKIMS corset wrapped around it, crowd filming",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/giant-miniature-scale-illusion.jpg",
+  "img_size": [
+   1400,
+   830
+  ]
  },
  {
   "category": "Visual effects",
@@ -6950,6 +8089,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/fooh-cgi-product-stunt.jpg",
   "img_size": [
    1400,
@@ -7035,6 +8176,8 @@
     "what_you_see": "pilled grey tee: fuzz balls swell and explode off revealing clean black blank tee"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/ai-morph-transformation.jpg",
   "img_size": [
    1400,
@@ -7073,6 +8216,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/mask-reveal-transition.jpg",
   "img_size": [
    1400,
@@ -7144,6 +8289,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/zoom-out-reveal.jpg",
   "img_size": [
    1400,
@@ -7323,6 +8470,8 @@
     "what_you_see": "CGI anatomical muscle arm squeezing spiky forearm ball, 'DON'T USE THIS'"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/x-ray-cutaway-3d.jpg",
   "img_size": [
    1400,
@@ -7344,7 +8493,9 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Unique visual selection",
@@ -7361,6 +8512,9 @@
    "action"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 29,
+  "kallaway_def": "The core base visuals have high motion embedded in them",
+  "kallaway_refs": 5,
   "kallaway": true,
   "examples": [
    {
@@ -7419,10 +8573,12 @@
     "what_you_see": "helmet-cam surfer riding big wave, then wipeout in whitewater"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/high-motion-base-b-roll.jpg",
   "img_size": [
    1400,
-   1970
+   2482
   ]
  },
  {
@@ -7441,6 +8597,9 @@
    "wait what"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 30,
+  "kallaway_def": "Use a full screen image of something that visually breaks conventional pattern",
+  "kallaway_refs": 7,
   "kallaway": true,
   "examples": [
    {
@@ -7642,10 +8801,12 @@
     "what_you_see": "crocheted grinning ringmaster doll on circus stage 'Welcome to Freak Circus'"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/unusual-first-image-scene.jpg",
   "img_size": [
    1400,
-   2358
+   2716
   ]
  },
  {
@@ -7664,6 +8825,9 @@
    "watch this"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 31,
+  "kallaway_def": "Creator watches a base clip silently and then reacts",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -7705,10 +8869,12 @@
     "what_you_see": "b&w man talking under comment bubble \"every addict should know this\", reacting creator in corner PIP"
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/silent-reaction-pip.jpg",
   "img_size": [
    1400,
-   1079
+   1643
   ]
  },
  {
@@ -7727,6 +8893,9 @@
    "wait"
   ],
   "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)",
+  "kallaway_num": 32,
+  "kallaway_def": "Add something unexpected (that often looks like an error or glitch) to the frame",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -7745,10 +8914,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/visual-mistake.jpg",
   "img_size": [
    1400,
-   416
+   980
   ]
  },
  {
@@ -7804,6 +8975,8 @@
     "what_you_see": "macro of crocheted dragon eye, crochet hook working, then woman with dragon hat kit"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/macro-asmr-close-up.jpg",
   "img_size": [
    1400,
@@ -7862,6 +9035,8 @@
     "what_you_see": "gloved hands peel white protective film off a wheel-rim watch"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/oddly-satisfying-process.jpg",
   "img_size": [
    1400,
@@ -8174,6 +9349,8 @@
     "what_you_see": "finger pointing at dark armpit close-up, 'I am a surgeon' text"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/gross-problem-close-up.jpg",
   "img_size": [
    1400,
@@ -8310,6 +9487,8 @@
     "what_you_see": "two legs side by side, one pale one deep tan, handwritten labels"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/before-after-result-shot.jpg",
   "img_size": [
    1400,
@@ -8367,6 +9546,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/unusual-location.jpg",
   "img_size": [
    1400,
@@ -8448,6 +9629,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/absurd-prop.jpg",
   "img_size": [
    1400,
@@ -8520,6 +9703,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/out-of-place-element.jpg",
   "img_size": [
    1400,
@@ -8578,6 +9763,8 @@
     "what_you_see": "POV hands pulling red/green ratchet straps in truck bed, 'perfect Christmas gift for your Dad' text"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/first-person-pov-hands.jpg",
   "img_size": [
    1400,
@@ -8659,6 +9846,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/cctv-security-cam-look.jpg",
   "img_size": [
    1400,
@@ -8891,6 +10080,8 @@
     "what_you_see": "letterboxed Joe Rogan podcast clip with top caption 'The cure for depression no one talks about'"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/celebrity-famous-clip.jpg",
   "img_size": [
    1400,
@@ -9026,6 +10217,8 @@
     "what_you_see": "tabby cat eating from bowl next to supplement tub, red \"BUYER BEWARE\" banner, cut to black cat vomiting"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/animal-pet-hook.jpg",
   "img_size": [
    1400,
@@ -9182,6 +10375,8 @@
     "what_you_see": "hand applying balm tin to newborn's face in snowsuit, text '3 things I wish I knew about newborn skin'"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/baby-kid-hook.jpg",
   "img_size": [
    1400,
@@ -9205,7 +10400,9 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Unique visual selection",
@@ -9241,6 +10438,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/lab-side-by-side-experiment.jpg",
   "img_size": [
    1400,
@@ -9317,6 +10516,8 @@
     "what_you_see": "grayscale microscope footage of neuron extending, 'This is what a new neural connection looks like in the brain'"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/microscope-view.jpg",
   "img_size": [
    1400,
@@ -9410,6 +10611,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/chaos-mess-scene.jpg",
   "img_size": [
    1400,
@@ -9431,7 +10634,9 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Unique visual selection",
@@ -9482,6 +10687,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/megaphone-announcement.jpg",
   "img_size": [
    1400,
@@ -9589,6 +10796,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/car-talking-head.jpg",
   "img_size": [
    1400,
@@ -9683,6 +10892,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/lo-fi-native-selfie.jpg",
   "img_size": [
    1400,
@@ -9755,6 +10966,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/low-angle-hero-product.jpg",
   "img_size": [
    1400,
@@ -9836,6 +11049,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/archival-vintage-footage.jpg",
   "img_size": [
    1400,
@@ -9858,7 +11073,28 @@
   ],
   "source": "general",
   "kallaway": false,
-  "examples": []
+  "examples": [
+   {
+    "id": "7611887564340956429",
+    "platform": "tiktok_organic",
+    "advertiser": "@jjgirl660",
+    "strip": "hunt_strips/7611887564340956429.jpg",
+    "video_url": "https://www.tiktok.com/@jjgirl660/video/7611887564340956429",
+    "link": "https://www.tiktok.com/@jjgirl660/video/7611887564340956429",
+    "likes": 9294,
+    "views": 2600000,
+    "what_you_see": "Camera pans along a bare Target shelf with NeeDoh price tags and nothing on it, caption 'i just wanted one'",
+    "days": null,
+    "hunted": true
+   }
+  ],
+  "kallaway_stills": false,
+  "dropped": false,
+  "img": "hooks_img/empty-shelves-sold-out.jpg",
+  "img_size": [
+   1400,
+   415
+  ]
  },
  {
   "category": "Unique visual selection",
@@ -9875,7 +11111,9 @@
   ],
   "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)",
   "kallaway": false,
-  "examples": []
+  "examples": [],
+  "kallaway_stills": false,
+  "dropped": true
  },
  {
   "category": "Unique visual selection",
@@ -10109,6 +11347,8 @@
     "what_you_see": "claymation cranberry pill character with honey drink says 'I am your Cranberry Pill'"
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/3d-talking-character.jpg",
   "img_size": [
    1400,
@@ -10181,6 +11421,8 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": false,
+  "dropped": false,
   "img": "hooks_img/tier-list-board.jpg",
   "img_size": [
    1400,
@@ -10195,16 +11437,19 @@
    "cold open talking head",
    "already talking"
   ],
-  "what_you_see": "Frame 1 is the creator already mid-sentence and mid-gesture (often walking or leaning toward the lens). No intro, no settling in: the video feels like you dropped into a conversation already in motion.",
-  "why_it_works": "Skipping the wind-up removes the dead first half-second where viewers swipe. Energy plus movement from frame 1 reads as 'something is already happening'.",
-  "how_to_shoot": "Start recording, talk for 2-3 seconds, then cut the clip so it opens mid-word while you're moving toward camera holding the product. Title text on screen carries the hook.",
+  "what_you_see": "Creator just starts talking to camera; nothing special happens visually. The hook rides entirely on the first spoken line and on-screen title text.",
+  "why_it_works": "Baseline talking-head start: zero production, feels native. Works when the first sentence and title text are strong enough on their own.",
+  "how_to_shoot": "Film yourself mid-thought holding the product, open on your strongest line, and put a punchy title text on screen from frame 1.",
   "detection_cues": "0s creator already mid-word with mouth open/gesturing; 0.5-3s continuous talking, often moving toward lens; no intro pause or settling.",
   "search_keywords": [
    "talking head",
    "storytime",
    "yap"
   ],
-  "source": "Kallaway Short-Form Lego Bricks FigJam (Visual Hooks #20). Definition inferred: card text not readable without Figma login",
+  "source": "Kallaway Short-Form Lego Bricks FigJam (Visual Hooks #20)",
+  "kallaway_num": 20,
+  "kallaway_def": "Creator starts talking to audience and there is nothing happening in visual hook",
+  "kallaway_refs": 3,
   "kallaway": true,
   "examples": [
    {
@@ -10268,10 +11513,12 @@
     "hunted": true
    }
   ],
+  "kallaway_stills": true,
+  "dropped": false,
   "img": "hooks_img/yap-cold-open.jpg",
   "img_size": [
    1400,
-   1664
+   2228
   ]
  }
 ]

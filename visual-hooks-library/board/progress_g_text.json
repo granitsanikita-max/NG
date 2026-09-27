@@ -1,1 +1,46 @@
-{"frame_id": "3458764685108806946", "chunks_done": [0, 1, 2, 3, 4, 5, 6], "images": {"Comment Reply Bubble": "3458764685109097252", "Kinetic Typography": "3458764685109097279", "Split Screen / Duet": "3458764685109097320", "A vs B Comparison Graphics": "3458764685109151287", "Bold Headline Text Box": "3458764685109151309", "Price Slash / Sale Tag": "3458764685109151332", "Circle / Highlight Annotation": "3458764685109202438", "Image Overlay Motion": "3458764685109202470", "Text Slide In": "3458764685109202492", "Text/Arrow Pointer": "3458764685109242604", "Breaking News Lower Third": "3458764685109242635", "Handwritten Sign / Paper Note": "3458764685109242660", "Meme Caption Frame": "3458764685109285518", "Tier List Board": "3458764685109285532", "Small Image Drop Overlay": "3458764685109285548", "Big Stat Callout": "3458764685109346763", "Numbered Listicle Title": "3458764685109346780", "Redacted / Censored Bar": "3458764685109346821", "Star Rating / Review Card": "3458764685109423609", "Journal Story Highlight": "3458764685109423636", "Poll / Guess Sticker": "3458764685109423671", "Social Post Screenshot": "3458764685109498056", "Spec Callout Lines": "3458764685109498085", "Watch Till The End Text": "3458764685109498123"}}
+{
+ "frame_id": "3458764685113277502",
+ "chunks_done": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "images": {
+  "Comment Reply Bubble": "3458764685113869641",
+  "Kinetic Typography": "3458764685113869667",
+  "Split Screen / Duet": "3458764685113869692",
+  "A vs B Comparison Graphics": "3458764685113978205",
+  "Bold Headline Text Box": "3458764685113978228",
+  "Price Slash / Sale Tag": "3458764685113978290",
+  "Circle / Highlight Annotation": "3458764685114020594",
+  "Image Overlay Motion": "3458764685114020621",
+  "Text Slide In": "3458764685114020660",
+  "Text/Arrow Pointer": "3458764685114069902",
+  "Breaking News Lower Third": "3458764685114121958",
+  "Handwritten Sign / Paper Note": "3458764685114121990",
+  "Meme Caption Frame": "3458764685114170356",
+  "Social Post Screenshot": "3458764685114170497",
+  "Tier List Board": "3458764685114170571",
+  "Interactive Title": "3458764685114256188",
+  "Screen Recording w/ Motion": "3458764685114256265",
+  "Small Image Drop Overlay": "3458764685114256291",
+  "Big Stat Callout": "3458764685114305689",
+  "Fake Text / iMessage Thread": "3458764685114305730",
+  "Motion-Tracked Text": "3458764685114305762",
+  "Numbered Listicle Title": "3458764685114401244",
+  "Redacted / Censored Bar": "3458764685114401288",
+  "Star Rating / Review Card": "3458764685114401315",
+  "Watch Till The End Text": "3458764685114446749",
+  "Whiteboard Explainer": "3458764685114446786",
+  "Countdown": "3458764685114446810",
+  "Journal Story Highlight": "3458764685114566395",
+  "Poll / Guess Sticker": "3458764685114566428",
+  "Search Bar Typing": "3458764685114566460",
+  "Spec Callout Lines": "3458764685114617197"
+ }
+}

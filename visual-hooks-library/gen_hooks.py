@@ -34,13 +34,16 @@ def add(fmt, e):
     if fmt in ex and e["id"] not in seen[fmt] and e["id"] not in EXCL and os.path.exists(f"{H}/{e['strip']}"):
         ex[fmt].append(e); seen[fmt].add(e["id"])
 # hunted (targeted, verified) first
+HUNT_FILES = []
 for f in sorted(glob.glob(f"{H}/K*.json")):
     if not re.fullmatch(r"K\d+[ab]?\.json", os.path.basename(f)): continue
+    HUNT_FILES.append(f)
+for f in HUNT_FILES + sorted(f for f in glob.glob(f"{H}/R2*.json") if re.fullmatch(r"R2[a-d]\.json", os.path.basename(f))):
     for fmt, lst in json.load(open(f)).items():
         for e in lst:
             e = dict(e); e["id"] = str(e["id"]); e.setdefault("strip", f"hunt_strips/{e['id']}.jpg")
             e["days"] = e.get("days_running") or e.get("days") or span(e); e["hunted"] = True
-            if e.get("platform") == "tiktok" and e.get("likes"): e["days"] = None
+            if e.get("platform") in ("tiktok", "tiktok_organic") and (e.get("likes") or e.get("views")): e["days"] = None
             add(fmt, e)
 for i, v in json.load(open(f"{H}/cls_tt_all.json")).items():
     if v.get("confidence") == "high": add(v.get("format"), ex_tt(i, v))
@@ -50,7 +53,7 @@ for i, v in json.load(open(f"{H}/cls_meta_all.json")).items():
         if (e.get("days") or 0) >= 30: add(v.get("format"), e)
 # rank: real product brands first, then likes/days
 def score(e):
-    return (e.get("likes") or 0) / 1000 + (e.get("days") or 0)
+    return (e.get("likes") or 0) / 1000 + (e.get("days") or 0) + (e.get("views") or 0) / 20000
 for k in ex: ex[k] = sorted(ex[k], key=score, reverse=True)
 # cross-format dedupe: same ad under several formats -> drop it from the richer format unless that pushes it below 3
 from collections import defaultdict
@@ -78,17 +81,30 @@ IW = 1400
 def slug(s): return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 def fmt_num(n):
     return f"{n/1e6:.1f}M" if n >= 1e6 else f"{n/1e3:.0f}k"
+def stat(e):
+    if e.get("platform") == "tiktok_organic":
+        return "TikTok organic " + (fmt_num(e["views"]) + " views" if e.get("views") else fmt_num(e["likes"]) + " likes")
+    return ("TikTok ad " + fmt_num(e["likes"]) + " likes") if e.get("likes") else (f"Meta ad {e['days']} days live" if e.get("days") else "")
 def label(e, n):
-    bits = [f"{n}", e.get("advertiser") or "", ("TikTok " + fmt_num(e["likes"]) + " likes") if e.get("likes") else (f"{e['days']} days live" if e.get("days") else "")]
+    bits = [f"{n}", e.get("advertiser") or "", stat(e)]
     return "  ·  ".join(b for b in bits if b)
 for d in data:
     exs = d["examples"][:MAXEX]
-    if not exs: continue
+    kp = f"{H}/../figma/kref/{d.get('kallaway_num', 0):02d}.jpg"
+    has_k = bool(d.get("kallaway_num")) and os.path.exists(kp)
+    d["kallaway_stills"] = has_k
+    d["dropped"] = not exs and not has_k
+    if d["dropped"]: continue
     rows = []
     for n, e in enumerate(exs, 1):
         im = Image.open(f"{H}/{e['strip']}").convert("RGB")
         im = im.resize((IW, int(im.height * IW / im.width)))
         rows.append((label(e, n), im))
+    if has_k:
+        k = Image.open(kp).convert("RGB")
+        kh = 520 if k.width * 520 / k.height <= IW else int(k.height * IW / k.width)
+        k = k.resize((int(k.width * kh / k.height), kh)); kc = Image.new("RGB", (IW, kh), "white"); kc.paste(k, (0, 0))
+        rows.append(("K  ·  Kallaway's own reference examples (first-frame stills from his Short-Form Lego Bricks board)", kc))
     Ht = sum(34 + im.height + 10 for _, im in rows)
     c = Image.new("RGB", (IW, Ht), "white"); dr = ImageDraw.Draw(c); y = 0
     for lab, im in rows:
@@ -97,5 +113,6 @@ for d in data:
     d["img"] = f"hooks_img/{slug(d['name'])}.jpg"; d["img_size"] = c.size
     c.save(f"{H}/{d['img']}", quality=82)
 json.dump(data, open(f"{H}/hooks_data.json", "w"), indent=1)
+print("dropped (no refs at all):", [d["name"] for d in data if d.get("dropped")])
 print("formats", len(data), "with examples", sum(1 for d in data if d["examples"]), "examples shown", sum(min(len(d["examples"]), MAXEX) for d in data),
       ">=3:", sum(1 for d in data if len(d["examples"]) >= 3))

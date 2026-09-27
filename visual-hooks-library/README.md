@@ -1,6 +1,6 @@
 # Visual Hooks Library (Miro: https://miro.com/app/board/uXjVHhmCPn0=/)
-155 visual hook formats for the first 3 seconds of a video ad, in Kallaway's 5 categories (all 47 from his Short-Form Lego Bricks FigJam included).
-Examples are proven only: TikTok 50k+ likes, or Meta ad live 30+ days at scale. Each example is shown as a 7-frame strip (0.0s to 3.0s).
+141 visual hook formats for the first 3 seconds of a video ad, in Kallaway's 5 categories (all 47 from his Short-Form Lego Bricks FigJam, with his definitions and reference stills in kallaway_refs/). Every format has at least one real reference; 14 formats with none were dropped.
+References are proven: TikTok ads 50k+ likes, Meta ads live 30+ days at scale, or viral organic TikToks (50k+ likes or 1M+ views).
 
 - taxonomy.json: the 155 formats (what you see, why it works, how to shoot, aliases, source)
 - hooks_data.json: formats plus their verified examples (after filters, exclusions and cross-format dedupe)

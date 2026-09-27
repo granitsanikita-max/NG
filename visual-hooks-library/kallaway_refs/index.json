@@ -1,0 +1,237 @@
+{
+ "1": {
+  "name": "Point To Visual",
+  "desc": "Starting Point: Start with creator on screen and then use finger to point to focus visual",
+  "count": 5
+ },
+ "2": {
+  "name": "Move In Frame",
+  "desc": "Starting Point: Creator walks into or around the frame to give motion to the eye",
+  "count": 5
+ },
+ "3": {
+  "name": "Camera Whip",
+  "desc": "Starting Point: Use fast camera whip motion to create initial stun",
+  "count": 3
+ },
+ "4": {
+  "name": "Jump In",
+  "desc": "Starting Point: Creator comes into the screen from the side",
+  "count": 3
+ },
+ "5": {
+  "name": "Snap/Pop Reveal",
+  "desc": "Starting Point: Use some visual signature reveal to appear in the frame",
+  "count": 1
+ },
+ "6": {
+  "name": "Clone // Body Double",
+  "desc": "Starting Point: Film yourself twice. (Optional - Animate one of them.) Have both versions of you appear on the screen at the same time",
+  "count": 5
+ },
+ "7": {
+  "name": "Fly On Wall",
+  "desc": "Starting Point: The subject of the video is looking off screen. Common in podcast interview style clips",
+  "count": 3
+ },
+ "8": {
+  "name": "Anticipated Disaster",
+  "desc": "Starting Point: Use clip of a dangerous thing about to happen to subject in video",
+  "count": 5
+ },
+ "9": {
+  "name": "Object Catch",
+  "desc": "Starting Point: Catch item thrown into frame",
+  "count": 4
+ },
+ "10": {
+  "name": "Using Random Product (Pope In The Pool)",
+  "desc": "Starting Point: Use random item or task as a subconscious visual distraction",
+  "count": 3
+ },
+ "11": {
+  "name": "Setting Down Phone",
+  "desc": "Starting Point: Set down recording device as video starts",
+  "count": 4
+ },
+ "12": {
+  "name": "Holding Prop",
+  "desc": "Starting Point: Subject starts by holding/looking at a prop, which becomes focus of POV shot",
+  "count": 4
+ },
+ "13": {
+  "name": "Many Of Same Prop",
+  "desc": "Starting Point: Multiple items. Could be similar or different",
+  "count": 3
+ },
+ "14": {
+  "name": "Framebreaker",
+  "desc": "Starting Point: Remove background from initial visual and overlay it on a normal background so subject appears to break the frame",
+  "count": 4
+ },
+ "15": {
+  "name": "Jump Switch",
+  "desc": "Starting Point: Creator jumps and when they land the scene changes",
+  "count": 5
+ },
+ "16": {
+  "name": "3P Crash Zoom",
+  "desc": "Starting Point: Use a shot of another person in the distance while zooming in",
+  "count": 3
+ },
+ "17": {
+  "name": "Fridge POV",
+  "desc": "Starting Point: Put camera in fridge, cabinet, food aisle, etc, and then remove item/open door to reveal creator",
+  "count": 2
+ },
+ "18": {
+  "name": "Write On Screen",
+  "desc": "Starting Point: Use a marker to write text on camera lens / Animate text",
+  "count": 5
+ },
+ "19": {
+  "name": "Mirror",
+  "desc": "Starting Point: Creator talks to audience from reflection in mirror",
+  "count": 5
+ },
+ "20": {
+  "name": "Yap Cold Open",
+  "desc": "Starting Point: Creator starts talking to audience and there is nothing happening in visual hook",
+  "count": 3
+ },
+ "21": {
+  "name": "A vs B Comparison Graphics",
+  "desc": "Starting Point: Use graphics to showcase A vs B of something",
+  "count": 3
+ },
+ "22": {
+  "name": "Text Slide In",
+  "desc": "Starting Point: Title text slides into video",
+  "count": 3
+ },
+ "23": {
+  "name": "Interactive Titles",
+  "desc": "Starting Point: Use the title text to create motion by having it come on the screen in an interesting way",
+  "count": 3
+ },
+ "24": {
+  "name": "Text Arrow Pointer",
+  "desc": "Starting Point: Use text and an arrow to direct attention at some visual while explaining what it is",
+  "count": 2
+ },
+ "25": {
+  "name": "Small Image Drop Overlay",
+  "desc": "Starting Point: Use a small image to drop on a larger image and integrate the small subject into the large",
+  "count": 3
+ },
+ "26": {
+  "name": "Screen Recording w/ Motion",
+  "desc": "Starting Point: Start with a screen recording using motion to aim the viewer's attention",
+  "count": 3
+ },
+ "27": {
+  "name": "Image Overlay Motion",
+  "desc": "Starting Point: Use an image (with or without motion) and text to begin the video",
+  "count": 3
+ },
+ "28": {
+  "name": "Countdown",
+  "desc": "Starting Point: Start the video by counting down from 3, 2, 1 before revealing something",
+  "count": 3
+ },
+ "29": {
+  "name": "High Motion Base B-Roll",
+  "desc": "Starting Point: The core base visuals have high motion embedded in them",
+  "count": 5
+ },
+ "30": {
+  "name": "Unusual First Image/Scene",
+  "desc": "Starting Point: Use a full screen image of something that visually breaks conventional pattern",
+  "count": 7
+ },
+ "31": {
+  "name": "Silent Reaction PIP",
+  "desc": "Starting Point: Creator watches a base clip silently and then reacts",
+  "count": 3
+ },
+ "32": {
+  "name": "Visual Mistake",
+  "desc": "Starting Point: Add something unexpected (that often looks like an error or glitch) to the frame",
+  "count": 3
+ },
+ "33": {
+  "name": "Viral Stitch Reaction",
+  "desc": "Starting Point: Start with a viral clip and then react to it as a transition into your video",
+  "count": 4
+ },
+ "34": {
+  "name": "Match Cut",
+  "desc": "Starting Point: Use a rapid series of visuals/text that line up",
+  "count": 4
+ },
+ "35": {
+  "name": "Visual Switch",
+  "desc": "Starting Point: Use an action in the first shot to cleanly transition to the second shot",
+  "count": 5
+ },
+ "36": {
+  "name": "Beat Match Visual Switch",
+  "desc": "Starting Point: Edit the timing of the clips turning on matched to the beat of the song",
+  "count": 3
+ },
+ "37": {
+  "name": "Viral Stitch Motion Match",
+  "desc": "Starting Point: Start with a viral clip and then match cut your own motion to match",
+  "count": 4
+ },
+ "38": {
+  "name": "Viral Stitch Unlinked Switch",
+  "desc": "Starting Point: Use a viral clip (high anticipation) and then cold switch to a clip of your brand/business",
+  "count": 4
+ },
+ "39": {
+  "name": "Speed Ramp Effect",
+  "desc": "Starting Point: Add a speed ramp transition in the edit from shot 1 to shot 2",
+  "count": 4
+ },
+ "40": {
+  "name": "The Zoom In",
+  "desc": "Starting Point: Zoom in on creator",
+  "count": 4
+ },
+ "41": {
+  "name": "Look Up At Camera // Top Down",
+  "desc": "Starting Point: Film using a camera up in the corner of a room to give a different look",
+  "count": 4
+ },
+ "42": {
+  "name": "Sudden Danger 1P POV",
+  "desc": "Starting Point: Use clip of a dangerous thing about to happen to viewer and fast switch/stitch",
+  "count": 4
+ },
+ "43": {
+  "name": "Fish Eye",
+  "desc": "Starting Point: Film using a fish eye lens to give a different look",
+  "count": 4
+ },
+ "44": {
+  "name": "Frame Collapse",
+  "desc": "Starting Point: Slowly collapse the top and bottom of the frame until it reveals an aspect ratio you want, time with beat",
+  "count": 0
+ },
+ "45": {
+  "name": "Crazy Transition",
+  "desc": "Starting Point: Using high motion editing transitions or templates in Capcut",
+  "count": 2
+ },
+ "46": {
+  "name": "Experimental (Interactive)",
+  "desc": "Starting Point: Use motion graphics on screen to suggest thumb movement, and then edit to match the motion",
+  "count": 5
+ },
+ "47": {
+  "name": "Color Switch",
+  "desc": "Starting Point: Use any visual, start with 0 saturation, change to full color on tap/beat",
+  "count": 4
+ }
+}
