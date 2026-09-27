@@ -1042,6 +1042,32 @@
   "kallaway": true,
   "examples": [
    {
+    "id": "7532749882092719366",
+    "platform": "tiktok_organic",
+    "advertiser": "@digimemory.bycin",
+    "strip": "hunt_strips/7532749882092719366.jpg",
+    "video_url": "https://www.tiktok.com/@digimemory.bycin/video/7532749882092719366",
+    "link": "https://www.tiktok.com/@digimemory.bycin/video/7532749882092719366",
+    "likes": 499200,
+    "views": 9500000,
+    "what_you_see": "IG-story 'out of frame' edit: girl holding matcha cups is cut out so her head and drinks break out of the photo frame over a leafy background, visible from 0s",
+    "days": null,
+    "hunted": true
+   },
+   {
+    "id": "7498257158018977029",
+    "platform": "tiktok_organic",
+    "advertiser": "@digimemory.bycin",
+    "strip": "hunt_strips/7498257158018977029.jpg",
+    "video_url": "https://www.tiktok.com/@digimemory.bycin/video/7498257158018977029",
+    "link": "https://www.tiktok.com/@digimemory.bycin/video/7498257158018977029",
+    "likes": 73700,
+    "views": 1700000,
+    "what_you_see": "Cut-out girl eating breaks out of a phone-screen frame laid over a real food table background (3D pop-out story), visible from 0s",
+    "days": null,
+    "hunted": true
+   },
+   {
     "id": "2111611239696055",
     "platform": "meta",
     "advertiser": "kixa.life",
@@ -1058,7 +1084,7 @@
   "img": "hooks_img/framebreaker.jpg",
   "img_size": [
    1400,
-   980
+   1822
   ]
  },
  {
@@ -5725,13 +5751,27 @@
   "kallaway_def": "Use a viral clip (high anticipation) and then cold switch to a clip of your brand/business",
   "kallaway_refs": 4,
   "kallaway": true,
-  "examples": [],
+  "examples": [
+   {
+    "id": "7154302747272937473",
+    "platform": "tiktok",
+    "advertiser": "Crowd Evolution!",
+    "strip": "hunt_strips/7154302747272937473.jpg",
+    "video_url": "https://media.winninghunter.com/tiktok/video/cba9fc05ff53ccc38196da570ecbf5f76e5e4629363ffb17a3e07b409fa45e1b.mp4",
+    "link": "https://app.winninghunter.com/ad/7154302747272937473?platform=tiktok",
+    "likes": 322120,
+    "views": null,
+    "what_you_see": "Real viral-style footage of arrows being shot into an orange gel block ('your math is not enough for this game'), hard cold switch at ~2.7s to the mobile game before any payoff",
+    "days": null,
+    "hunted": true
+   }
+  ],
   "kallaway_stills": true,
   "dropped": false,
   "img": "hooks_img/viral-stitch-unlinked-switch.jpg",
   "img_size": [
    1400,
-   564
+   974
   ]
  },
  {

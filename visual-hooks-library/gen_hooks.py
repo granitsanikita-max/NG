@@ -38,7 +38,7 @@ HUNT_FILES = []
 for f in sorted(glob.glob(f"{H}/K*.json")):
     if not re.fullmatch(r"K\d+[ab]?\.json", os.path.basename(f)): continue
     HUNT_FILES.append(f)
-for f in HUNT_FILES + sorted(f for f in glob.glob(f"{H}/R2*.json") if re.fullmatch(r"R2[a-d]\.json", os.path.basename(f))):
+for f in HUNT_FILES + sorted(f for f in glob.glob(f"{H}/R[23]*.json") if re.fullmatch(r"R[23][a-d]?\.json", os.path.basename(f))):
     for fmt, lst in json.load(open(f)).items():
         for e in lst:
             e = dict(e); e["id"] = str(e["id"]); e.setdefault("strip", f"hunt_strips/{e['id']}.jpg")
