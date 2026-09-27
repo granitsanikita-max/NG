@@ -1,0 +1,898 @@
+[
+{
+"frame": "g_text",
+"file": "hooks_img/comment-reply-bubble.jpg",
+"cx": 1536,
+"cy": 1223,
+"width": 1000,
+"name": "Comment Reply Bubble"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/kinetic-typography.jpg",
+"cx": 3604,
+"cy": 1166,
+"width": 1000,
+"name": "Kinetic Typography"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/split-screen-duet.jpg",
+"cx": 1536,
+"cy": 3054,
+"width": 1000,
+"name": "Split Screen / Duet"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/a-vs-b-comparison-graphics.jpg",
+"cx": 3604,
+"cy": 2906,
+"width": 1000,
+"name": "A vs B Comparison Graphics"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/bold-headline-text-box.jpg",
+"cx": 1536,
+"cy": 4550,
+"width": 1000,
+"name": "Bold Headline Text Box"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/price-slash-sale-tag.jpg",
+"cx": 3604,
+"cy": 4550,
+"width": 1000,
+"name": "Price Slash / Sale Tag"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/circle-highlight-annotation.jpg",
+"cx": 1536,
+"cy": 5678,
+"width": 1000,
+"name": "Circle / Highlight Annotation"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/image-overlay-motion.jpg",
+"cx": 3604,
+"cy": 5678,
+"width": 1000,
+"name": "Image Overlay Motion"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/text-slide-in.jpg",
+"cx": 1536,
+"cy": 6640,
+"width": 1000,
+"name": "Text Slide In"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/text-arrow-pointer.jpg",
+"cx": 3604,
+"cy": 6658,
+"width": 1000,
+"name": "Text/Arrow Pointer"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/breaking-news-lower-third.jpg",
+"cx": 1536,
+"cy": 7638,
+"width": 1000,
+"name": "Breaking News Lower Third"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/handwritten-sign-paper-note.jpg",
+"cx": 3604,
+"cy": 7546,
+"width": 1000,
+"name": "Handwritten Sign / Paper Note"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/meme-caption-frame.jpg",
+"cx": 1536,
+"cy": 8656,
+"width": 1000,
+"name": "Meme Caption Frame"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/tier-list-board.jpg",
+"cx": 3604,
+"cy": 8656,
+"width": 1000,
+"name": "Tier List Board"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/small-image-drop-overlay.jpg",
+"cx": 1536,
+"cy": 9527,
+"width": 1000,
+"name": "Small Image Drop Overlay"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/big-stat-callout.jpg",
+"cx": 3604,
+"cy": 9527,
+"width": 1000,
+"name": "Big Stat Callout"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/numbered-listicle-title.jpg",
+"cx": 1536,
+"cy": 10264,
+"width": 1000,
+"name": "Numbered Listicle Title"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/redacted-censored-bar.jpg",
+"cx": 3604,
+"cy": 10264,
+"width": 1000,
+"name": "Redacted / Censored Bar"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/star-rating-review-card.jpg",
+"cx": 1536,
+"cy": 11022,
+"width": 1000,
+"name": "Star Rating / Review Card"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/journal-story-highlight.jpg",
+"cx": 3604,
+"cy": 10930,
+"width": 1000,
+"name": "Journal Story Highlight"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/poll-guess-sticker.jpg",
+"cx": 1536,
+"cy": 11694,
+"width": 1000,
+"name": "Poll / Guess Sticker"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/social-post-screenshot.jpg",
+"cx": 3604,
+"cy": 11694,
+"width": 1000,
+"name": "Social Post Screenshot"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/spec-callout-lines.jpg",
+"cx": 1536,
+"cy": 12368,
+"width": 1000,
+"name": "Spec Callout Lines"
+},
+{
+"frame": "g_text",
+"file": "hooks_img/watch-till-the-end-text.jpg",
+"cx": 3604,
+"cy": 12456,
+"width": 1000,
+"name": "Watch Till The End Text"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/beat-match-visual-switch.jpg",
+"cx": 1536,
+"cy": 1223,
+"width": 1000,
+"name": "Beat Match Visual Switch"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/camera-wipe.jpg",
+"cx": 3604,
+"cy": 1074,
+"width": 1000,
+"name": "Camera Wipe"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/match-cut.jpg",
+"cx": 1536,
+"cy": 2984,
+"width": 1000,
+"name": "Match Cut"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/rapid-flash-montage.jpg",
+"cx": 3604,
+"cy": 2836,
+"width": 1000,
+"name": "Rapid Flash Montage"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/viral-stitch-linked-reaction.jpg",
+"cx": 1536,
+"cy": 4300,
+"width": 1000,
+"name": "Viral Stitch Linked Reaction"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/genre-bait-and-switch.jpg",
+"cx": 3604,
+"cy": 4261,
+"width": 1000,
+"name": "Genre Bait-and-Switch"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/in-media-res-start.jpg",
+"cx": 1536,
+"cy": 5320,
+"width": 1000,
+"name": "In Media Res Start"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/multi-creator-mashup.jpg",
+"cx": 3604,
+"cy": 5320,
+"width": 1000,
+"name": "Multi-Creator Mashup"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/stitch-interview-mic-in-face.jpg",
+"cx": 1536,
+"cy": 6338,
+"width": 1000,
+"name": "Stitch Interview Mic-In-Face"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/freeze-frame-record-scratch.jpg",
+"cx": 3604,
+"cy": 6150,
+"width": 1000,
+"name": "Freeze Frame Record Scratch"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/photo-collage-to-video.jpg",
+"cx": 1536,
+"cy": 7209,
+"width": 1000,
+"name": "Photo Collage to Video"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/remote-control-channel-switch.jpg",
+"cx": 3604,
+"cy": 7209,
+"width": 1000,
+"name": "Remote Control Channel Switch"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/visual-switch.jpg",
+"cx": 1536,
+"cy": 7824,
+"width": 1000,
+"name": "Visual Switch"
+},
+{
+"frame": "g_pattern",
+"file": "hooks_img/unexpected-interruption.jpg",
+"cx": 3604,
+"cy": 7824,
+"width": 1000,
+"name": "Unexpected Interruption"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/fly-on-wall.jpg",
+"cx": 1536,
+"cy": 1166,
+"width": 1000,
+"name": "Fly on Wall"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/many-of-same-prop.jpg",
+"cx": 3604,
+"cy": 1223,
+"width": 1000,
+"name": "Many of Same Prop"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/move-in-frame.jpg",
+"cx": 1536,
+"cy": 3133,
+"width": 1000,
+"name": "Move In Frame"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/mid-action-demo-start.jpg",
+"cx": 3604,
+"cy": 3076,
+"width": 1000,
+"name": "Mid-Action Demo Start"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/pour-splash.jpg",
+"cx": 1536,
+"cy": 5043,
+"width": 1000,
+"name": "Pour / Splash"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/holding-prop.jpg",
+"cx": 3604,
+"cy": 4894,
+"width": 1000,
+"name": "Holding Prop"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/mirror.jpg",
+"cx": 1536,
+"cy": 6804,
+"width": 1000,
+"name": "Mirror"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/squeeze-squish.jpg",
+"cx": 3604,
+"cy": 6804,
+"width": 1000,
+"name": "Squeeze / Squish"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/sunglasses-on.jpg",
+"cx": 1536,
+"cy": 8418,
+"width": 1000,
+"name": "Sunglasses On"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/camera-whip.jpg",
+"cx": 3604,
+"cy": 8269,
+"width": 1000,
+"name": "Camera Whip"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/yap-cold-open.jpg",
+"cx": 1536,
+"cy": 9882,
+"width": 1000,
+"name": "Yap Cold Open"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/object-into-lens.jpg",
+"cx": 3604,
+"cy": 9882,
+"width": 1000,
+"name": "Object Into Lens"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/problem-reenactment.jpg",
+"cx": 1536,
+"cy": 11198,
+"width": 1000,
+"name": "Problem Reenactment"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/rip-open-unboxing.jpg",
+"cx": 3604,
+"cy": 11198,
+"width": 1000,
+"name": "Rip-Open Unboxing"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/wake-up-bed-start.jpg",
+"cx": 1536,
+"cy": 12514,
+"width": 1000,
+"name": "Wake Up / Bed Start"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/object-catch.jpg",
+"cx": 3604,
+"cy": 12366,
+"width": 1000,
+"name": "Object Catch"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/point-to-visual.jpg",
+"cx": 1536,
+"cy": 13682,
+"width": 1000,
+"name": "Point To Visual"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/setting-down-phone.jpg",
+"cx": 3604,
+"cy": 13682,
+"width": 1000,
+"name": "Setting Down Phone"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/destruction-stress-test.jpg",
+"cx": 1536,
+"cy": 14700,
+"width": 1000,
+"name": "Destruction / Stress Test"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/face-lean-in-to-lens.jpg",
+"cx": 3604,
+"cy": 14700,
+"width": 1000,
+"name": "Face Lean-In to Lens"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/hand-grab-from-off-screen.jpg",
+"cx": 1536,
+"cy": 15720,
+"width": 1000,
+"name": "Hand Grab From Off-Screen"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/stop-hand-to-lens.jpg",
+"cx": 3604,
+"cy": 15680,
+"width": 1000,
+"name": "Stop-Hand To Lens"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/walking-backward-talk.jpg",
+"cx": 1536,
+"cy": 16738,
+"width": 1000,
+"name": "Walking Backward Talk"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/fridge-pov.jpg",
+"cx": 3604,
+"cy": 16500,
+"width": 1000,
+"name": "Fridge POV"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/post-it-cover-reveal.jpg",
+"cx": 1536,
+"cy": 17609,
+"width": 1000,
+"name": "Post-It / Cover Reveal"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/slam-drop-start.jpg",
+"cx": 3604,
+"cy": 17609,
+"width": 1000,
+"name": "Slam/Drop Start"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/anticipated-disaster.jpg",
+"cx": 1536,
+"cy": 18236,
+"width": 1000,
+"name": "Anticipated Disaster"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/framebreaker.jpg",
+"cx": 3604,
+"cy": 18236,
+"width": 1000,
+"name": "Framebreaker"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/using-random-product-pope-in-the-pool.jpg",
+"cx": 1536,
+"cy": 19000,
+"width": 1000,
+"name": "Using Random Product (Pope In The Pool)"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/write-on-screen.jpg",
+"cx": 3604,
+"cy": 19000,
+"width": 1000,
+"name": "Write on Screen"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/crumple-throw-at-camera.jpg",
+"cx": 1536,
+"cy": 19786,
+"width": 1000,
+"name": "Crumple/Throw at Camera"
+},
+{
+"frame": "g_motion",
+"file": "hooks_img/sit-down-into-frame.jpg",
+"cx": 3604,
+"cy": 19786,
+"width": 1000,
+"name": "Sit Down Into Frame"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/green-screen-composite.jpg",
+"cx": 1536,
+"cy": 1223,
+"width": 1000,
+"name": "Green Screen Composite"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/x-ray-cutaway-3d.jpg",
+"cx": 3604,
+"cy": 1223,
+"width": 1000,
+"name": "X-Ray / Cutaway 3D"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/crazy-transitions.jpg",
+"cx": 1536,
+"cy": 2984,
+"width": 1000,
+"name": "Crazy Transitions"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/time-lapse-hyperlapse.jpg",
+"cx": 3604,
+"cy": 2986,
+"width": 1000,
+"name": "Time-lapse / Hyperlapse"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/experimental-interactive.jpg",
+"cx": 1536,
+"cy": 4453,
+"width": 1000,
+"name": "Experimental (Interactive)"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/look-up-at-camera-top-down.jpg",
+"cx": 3604,
+"cy": 4414,
+"width": 1000,
+"name": "Look Up At Camera // Top Down"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/ai-morph-transformation.jpg",
+"cx": 1536,
+"cy": 5730,
+"width": 1000,
+"name": "AI Morph / Transformation"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/the-zoom-in.jpg",
+"cx": 3604,
+"cy": 5620,
+"width": 1000,
+"name": "The Zoom In"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/blur-to-focus.jpg",
+"cx": 1536,
+"cy": 6801,
+"width": 1000,
+"name": "Blur-to-Focus"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/fooh-cgi-product-stunt.jpg",
+"cx": 3604,
+"cy": 6859,
+"width": 1000,
+"name": "FOOH / CGI Product Stunt"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/snap-zoom-zoom-punch.jpg",
+"cx": 1536,
+"cy": 7878,
+"width": 1000,
+"name": "Snap Zoom / Zoom Punch"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/stop-motion.jpg",
+"cx": 3604,
+"cy": 7800,
+"width": 1000,
+"name": "Stop Motion"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/zoom-out-reveal.jpg",
+"cx": 1536,
+"cy": 8858,
+"width": 1000,
+"name": "Zoom Out Reveal"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/glitch-vhs-datamosh.jpg",
+"cx": 3604,
+"cy": 8710,
+"width": 1000,
+"name": "Glitch / VHS / Datamosh"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/slow-motion-hero.jpg",
+"cx": 1536,
+"cy": 9689,
+"width": 1000,
+"name": "Slow Motion Hero"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/color-switch.jpg",
+"cx": 3604,
+"cy": 9540,
+"width": 1000,
+"name": "Color Switch"
+},
+{
+"frame": "g_fx",
+"file": "hooks_img/mask-reveal-transition.jpg",
+"cx": 1536,
+"cy": 10304,
+"width": 1000,
+"name": "Mask Reveal Transition"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/unusual-first-image-scene.jpg",
+"cx": 1536,
+"cy": 1174,
+"width": 1000,
+"name": "Unusual First Image/Scene"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/3d-talking-character.jpg",
+"cx": 3604,
+"cy": 1227,
+"width": 1000,
+"name": "3D Talking Character"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/animal-pet-hook.jpg",
+"cx": 1536,
+"cy": 3141,
+"width": 1000,
+"name": "Animal / Pet Hook"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/baby-kid-hook.jpg",
+"cx": 3604,
+"cy": 3141,
+"width": 1000,
+"name": "Baby / Kid Hook"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/before-after-result-shot.jpg",
+"cx": 1536,
+"cy": 5051,
+"width": 1000,
+"name": "Before/After Result Shot"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/celebrity-famous-clip.jpg",
+"cx": 3604,
+"cy": 5012,
+"width": 1000,
+"name": "Celebrity / Famous Clip"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/gross-problem-close-up.jpg",
+"cx": 1536,
+"cy": 6961,
+"width": 1000,
+"name": "Gross / Problem Close-Up"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/high-motion-base-b-roll.jpg",
+"cx": 3604,
+"cy": 6774,
+"width": 1000,
+"name": "High Motion Base B-Roll"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/car-talking-head.jpg",
+"cx": 1536,
+"cy": 8722,
+"width": 1000,
+"name": "Car Talking Head"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/absurd-prop.jpg",
+"cx": 3604,
+"cy": 8574,
+"width": 1000,
+"name": "Absurd Prop"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/archival-vintage-footage.jpg",
+"cx": 1536,
+"cy": 10187,
+"width": 1000,
+"name": "Archival / Vintage Footage"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/cctv-security-cam-look.jpg",
+"cx": 3604,
+"cy": 10130,
+"width": 1000,
+"name": "CCTV / Security Cam Look"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/chaos-mess-scene.jpg",
+"cx": 1536,
+"cy": 11503,
+"width": 1000,
+"name": "Chaos / Mess Scene"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/lo-fi-native-selfie.jpg",
+"cx": 3604,
+"cy": 11502,
+"width": 1000,
+"name": "Lo-Fi Native Selfie"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/microscope-view.jpg",
+"cx": 1536,
+"cy": 12762,
+"width": 1000,
+"name": "Microscope View"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/silent-reaction-pip.jpg",
+"cx": 3604,
+"cy": 12610,
+"width": 1000,
+"name": "Silent Reaction PIP"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/first-person-pov-hands.jpg",
+"cx": 1536,
+"cy": 13872,
+"width": 1000,
+"name": "First-Person POV Hands"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/low-angle-hero-product.jpg",
+"cx": 3604,
+"cy": 13872,
+"width": 1000,
+"name": "Low-Angle Hero Product"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/macro-asmr-close-up.jpg",
+"cx": 1536,
+"cy": 14890,
+"width": 1000,
+"name": "Macro ASMR Close-Up"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/oddly-satisfying-process.jpg",
+"cx": 3604,
+"cy": 14890,
+"width": 1000,
+"name": "Oddly Satisfying Process"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/out-of-place-element.jpg",
+"cx": 1536,
+"cy": 15872,
+"width": 1000,
+"name": "Out-of-Place Element"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/megaphone-announcement.jpg",
+"cx": 3604,
+"cy": 15761,
+"width": 1000,
+"name": "Megaphone Announcement"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/unusual-location.jpg",
+"cx": 1536,
+"cy": 16705,
+"width": 1000,
+"name": "Unusual Location"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/visual-mistake.jpg",
+"cx": 3604,
+"cy": 16556,
+"width": 1000,
+"name": "Visual Mistake"
+},
+{
+"frame": "g_unique",
+"file": "hooks_img/lab-side-by-side-experiment.jpg",
+"cx": 1536,
+"cy": 17320,
+"width": 1000,
+"name": "Lab / Side-by-Side Experiment"
+}
+]

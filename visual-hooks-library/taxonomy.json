@@ -1,0 +1,2738 @@
+[
+ {
+  "category": "Subject motion",
+  "name": "Point To Visual",
+  "aliases": [
+   "point at graphic",
+   "finger point hook"
+  ],
+  "what_you_see": "Creator on screen in frame 1 immediately points (finger or both hands) up/sideways at a product, graphic or text block that sits beside/above them.",
+  "why_it_works": "Gaze-and-gesture cueing: viewers reflexively follow a pointing finger to the target.",
+  "how_to_shoot": "Green-screen or split the frame: creator bottom half points up at a product shot or claim text top half.",
+  "detection_cues": "0s creator visible with arm rising; 0.5s index finger extended toward an off-body object/graphic; 1s target element fully shown; 1.5s creator still pointing or talking.",
+  "search_keywords": [
+   "look at this",
+   "this right here",
+   "wait",
+   "you need this"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Move In Frame",
+  "aliases": [
+   "walk into frame",
+   "walk-in",
+   "enter frame"
+  ],
+  "what_you_see": "Frame starts empty or on a background; the creator walks/leans/steps into shot from an edge within the first second, often ending close to lens.",
+  "why_it_works": "Motion onset is the strongest pre-attentive attention trigger; an empty frame filling creates mini-anticipation.",
+  "how_to_shoot": "Lock phone on tripod, start recording on empty kitchen/bathroom, walk in holding the product and stop at mid-shot.",
+  "detection_cues": "0s empty/near-empty background; 0.5s body part entering from edge; 1s subject centered; 1.5s subject static and talking/holding product.",
+  "search_keywords": [
+   "okay so",
+   "let me show you",
+   "real quick"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Camera Whip",
+  "aliases": [
+   "whip pan",
+   "swish pan",
+   "camera whip pan"
+  ],
+  "what_you_see": "Frame 1 is a fast horizontal/vertical camera swing with heavy motion blur that snaps to the subject or product.",
+  "why_it_works": "Blur-to-sharp resolution creates a mini 'arrival' moment; motion blur reads as energy.",
+  "how_to_shoot": "Handheld: start pointed at wall, whip fast to product on counter and stop hard; add whoosh SFX.",
+  "detection_cues": "0s heavy directional blur; 0.5s blur resolving; 1s sharp subject/product; 1.5s stable framing.",
+  "search_keywords": [
+   "whoosh",
+   "check this out",
+   "new drop"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Jump In",
+  "aliases": [
+   "jump into frame",
+   "pop in from side"
+  ],
+  "what_you_see": "Creator physically jumps/leaps into the frame from the side or from below, landing in position to talk.",
+  "why_it_works": "Sudden large-body movement + surprise entry = startle response.",
+  "how_to_shoot": "Tripod shot at counter height; creator crouches below frame and springs up holding the product.",
+  "detection_cues": "0s empty or partial frame; 0.5s body mid-air/entering fast from edge; 1s landed, facing camera; 1.5s talking/holding product.",
+  "search_keywords": [
+   "guess what",
+   "surprise",
+   "okay listen"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Snap/Pop Reveal",
+  "aliases": [
+   "snap to appear",
+   "finger snap reveal",
+   "signature reveal",
+   "magic appear"
+  ],
+  "what_you_see": "A snap, clap or gesture instantly makes the creator or product appear (jump cut on the action).",
+  "why_it_works": "Impossible instant change breaks expectations; the gesture signals 'magic' and payoff.",
+  "how_to_shoot": "Film hand snap on empty table, cut on the snap, second clip same framing with product sitting there.",
+  "detection_cues": "0s hand gesture/empty scene; 0.5s snap/clap frame; 1s product/person suddenly present in identical framing; 1.5s hold on product.",
+  "search_keywords": [
+   "like magic",
+   "just like that",
+   "watch this"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Clone Body Double",
+  "aliases": [
+   "clone",
+   "twin me",
+   "talking to myself",
+   "split self"
+  ],
+  "what_you_see": "Two (or more) copies of the same person in one frame at once, often interacting (one asks, one answers).",
+  "why_it_works": "Impossible image forces a double-take; implies dialogue/argument structure.",
+  "how_to_shoot": "Tripod locked, film creator on left then right, mask together in CapCut; one plays skeptic, one holds product.",
+  "detection_cues": "0s two identical people visible; 0.5s both moving independently; 1s dialogue gesture between them; 1.5s one holds product.",
+  "search_keywords": [
+   "me vs me",
+   "my brain vs",
+   "me convincing myself"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Fly on Wall",
+  "aliases": [
+   "looking off camera",
+   "podcast side angle",
+   "observational"
+  ],
+  "what_you_see": "Subject is looking off screen (not at lens) mid-conversation, like an interview or podcast clip, framed from a side angle.",
+  "why_it_works": "Voyeur effect: feels like overhearing something real rather than being sold to.",
+  "how_to_shoot": "Seat founder/customer at 45 degrees, interviewer off camera; open on a mid-answer punchy line about the product.",
+  "detection_cues": "0s subject eyeline off-lens; 0.5s mouth moving mid-sentence; 1s mic or second person implied; 1.5s no direct address.",
+  "search_keywords": [
+   "honestly",
+   "the craziest thing",
+   "podcast",
+   "interview"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Anticipated Disaster",
+  "aliases": [
+   "Impending Disaster",
+   "about to go wrong",
+   "near miss",
+   "danger 3P"
+  ],
+  "what_you_see": "Opening clip shows something dangerous/bad about to happen to someone (spill, fall, crash) and cuts/stitches away right before or at impact.",
+  "why_it_works": "Threat detection + need for closure: brain must see the outcome.",
+  "how_to_shoot": "Film a full glass teetering at table edge or phone about to drop, cut to creator with the protective product.",
+  "detection_cues": "0s precarious object/person; 0.5s motion toward danger; 1s hard cut before/at impact; 1.5s new scene/creator.",
+  "search_keywords": [
+   "almost",
+   "this could have been bad",
+   "wait for it",
+   "save"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825); 'Impending Disaster' name per brief"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Object Catch",
+  "aliases": [
+   "catch thrown item",
+   "throw and catch"
+  ],
+  "what_you_see": "An object flies into frame from off-screen and the creator catches it, usually the product.",
+  "why_it_works": "Unpredicted incoming motion triggers reflexive tracking.",
+  "how_to_shoot": "Off-camera helper tosses product; creator catches at chest height and starts talking.",
+  "detection_cues": "0s creator idle; 0.5s blurred object entering frame; 1s hands closing on object; 1.5s product held up to lens.",
+  "search_keywords": [
+   "catch",
+   "heads up",
+   "found it"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Using Random Product (Pope In The Pool)",
+  "aliases": [
+   "random activity distraction",
+   "doing something unrelated",
+   "Pope in the pool"
+  ],
+  "what_you_see": "Creator talks while doing an unrelated, visually odd task (e.g., in a pool, juggling, peeling fruit) that is not the topic.",
+  "why_it_works": "Subconscious incongruity keeps eyes busy while the audio delivers the hook.",
+  "how_to_shoot": "Founder delivers the pitch while ironing, feeding a goat, or floating in a pool - product appears later.",
+  "detection_cues": "0s person doing a physical task unrelated to caption; 0.5s continued task + talking; 1s no product yet; 1.5s task continues.",
+  "search_keywords": [
+   "while I",
+   "random but",
+   "storytime"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825); also https://thebrandaudit.ca/blogs/news/10-visual-hooks-to-stop-the-scroll"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Setting Down Phone",
+  "aliases": [
+   "phone set down",
+   "prop camera",
+   "sit-down start"
+  ],
+  "what_you_see": "First frames are shaky as the recording device is placed on a surface, then settle on the creator already talking.",
+  "why_it_works": "Feels raw/unscripted (native, not an ad) and implies urgency.",
+  "how_to_shoot": "Hold phone, record while placing it against the bathroom mirror/car dash, then start the pitch.",
+  "detection_cues": "0s tilted/shaky frame, maybe hand filling frame; 0.5s camera settling; 1s stable frame with creator; 1.5s talking.",
+  "search_keywords": [
+   "okay",
+   "so I have to tell you",
+   "real quick"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Holding Prop",
+  "aliases": [
+   "prop in hand",
+   "product in hand opener",
+   "hold up product"
+  ],
+  "what_you_see": "Creator starts holding or staring at an object close to camera; the object dominates the frame.",
+  "why_it_works": "Object curiosity + gives the eye a concrete focus before words.",
+  "how_to_shoot": "Open with the product held 20cm from the lens, creator glancing at it then camera.",
+  "detection_cues": "0s object in hand filling 1/3+ of frame; 0.5s creator eyes on object; 1s object rotated/shown; 1.5s talking.",
+  "search_keywords": [
+   "this thing",
+   "I found",
+   "tiktok made me buy it"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Many of Same Prop",
+  "aliases": [
+   "stack of products",
+   "product pile",
+   "multiple items",
+   "wall of units"
+  ],
+  "what_you_see": "Frame filled with many units of the same (or similar) item - a pile, grid, or stack.",
+  "why_it_works": "Abundance/scarcity signal and pattern density demand a second look.",
+  "how_to_shoot": "Arrange 30 units of the product on bed or counter, creator sits behind them.",
+  "detection_cues": "0s repeated identical items fill frame; 0.5s creator or hand among them; 1s items still dominant; 1.5s one item picked up.",
+  "search_keywords": [
+   "I bought 20",
+   "restock",
+   "haul",
+   "sold out"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Framebreaker",
+  "aliases": [
+   "frame break",
+   "pop-out effect",
+   "out of bounds"
+  ],
+  "what_you_see": "Subject is cut out and layered so part of it (hand, product, head) breaks over the border of a framed photo/box, appearing 3D.",
+  "why_it_works": "Depth illusion violates the flat-screen expectation.",
+  "how_to_shoot": "Rotoscope the hand holding product so it pokes out of a white-bordered card over a blurred background.",
+  "detection_cues": "0s visible inner frame/border; 0.5s subject part crossing border edge; 1s layered depth clear; 1.5s motion continues outside frame.",
+  "search_keywords": [
+   "pop out",
+   "3D"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Jump Switch",
+  "aliases": [
+   "jump transition",
+   "jump cut outfit change",
+   "land in new scene"
+  ],
+  "what_you_see": "Creator jumps; on landing, the location/outfit/product has changed.",
+  "why_it_works": "Action-matched change feels seamless and surprising.",
+  "how_to_shoot": "Jump in old clothes, cut at apex, land wearing product/in new room.",
+  "detection_cues": "0s creator crouching/jumping; 0.5s mid-air; 1s landing in different setting/outfit; 1.5s pose.",
+  "search_keywords": [
+   "transformation",
+   "glow up",
+   "before/after"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "3P Crash Zoom",
+  "aliases": [
+   "third-person crash zoom",
+   "zoom on person in distance"
+  ],
+  "what_you_see": "A shot of another person (third person) in the distance with a fast push/zoom in onto them.",
+  "why_it_works": "Rapid scale change toward a target signals 'this person matters'.",
+  "how_to_shoot": "Film customer across a room/street using the product, digitally crash-zoom to them.",
+  "detection_cues": "0s wide shot with a small distant person; 0.5s rapid zoom motion; 1s person fills frame; 1.5s action/reaction visible.",
+  "search_keywords": [
+   "this guy",
+   "look at her",
+   "spotted"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Fridge POV",
+  "aliases": [
+   "inside the fridge POV",
+   "cabinet POV",
+   "shelf POV"
+  ],
+  "what_you_see": "Camera placed inside a fridge/cabinet/drawer/shelf; the door opens or item is removed to reveal the creator looking in.",
+  "why_it_works": "Unusual vantage point + 'being seen by an object' novelty.",
+  "how_to_shoot": "Put phone on fridge shelf behind the product; creator opens door and grabs product.",
+  "detection_cues": "0s dark or interior view of shelves; 0.5s door opening/light flood; 1s creator face looking in; 1.5s hand reaches for product.",
+  "search_keywords": [
+   "POV you're my",
+   "POV",
+   "what's in my fridge"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825); also https://www.scribd.com/document/904349354/60-Visual-Hooks-1"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Write on Screen",
+  "aliases": [
+   "write on lens",
+   "marker on glass",
+   "drawn text"
+  ],
+  "what_you_see": "A marker writes text directly on the lens/glass between camera and subject, or text is animated as if handwritten.",
+  "why_it_works": "Watching text form creates suspense until the word completes.",
+  "how_to_shoot": "Shoot through a glass pane; creator writes the benefit claim with a dry-erase marker.",
+  "detection_cues": "0s marker tip near lens; 0.5s partial letters; 1s word forming; 1.5s full word readable over subject.",
+  "search_keywords": [
+   "don't buy",
+   "stop",
+   "#1"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825); also https://www.scribd.com/document/904349354/60-Visual-Hooks-1"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Mirror",
+  "aliases": [
+   "mirror talk",
+   "reflection shot",
+   "mirror selfie"
+  ],
+  "what_you_see": "Creator addresses the audience via a mirror reflection; the phone may be visible.",
+  "why_it_works": "Familiar get-ready framing reads native; reflection composition is visually layered.",
+  "how_to_shoot": "Film skincare/apparel pitch in bathroom mirror with product on sink.",
+  "detection_cues": "0s mirror edges/reflection; 0.5s phone visible in hand; 1s creator talking to reflection; 1.5s product near face.",
+  "search_keywords": [
+   "GRWM",
+   "get ready with me",
+   "morning routine"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Body Swaps",
+  "aliases": [
+   "person swap",
+   "subject swap"
+  ],
+  "what_you_see": "Mid-action, the person on screen is replaced by another person in identical pose/framing (hard cut on action).",
+  "why_it_works": "Identity discontinuity creates instant confusion to resolve.",
+  "how_to_shoot": "Two creators repeat same movement holding product; cut on the action beat.",
+  "detection_cues": "0s person A in pose; 0.5s action beat; 1s person B in same pose/framing; 1.5s continues.",
+  "search_keywords": [
+   "everyone",
+   "one product for everyone"
+  ],
+  "source": "Kallaway collection (name given in brief; not found in public Kallaway docs - unconfirmed)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Object Into Lens",
+  "aliases": [
+   "push to lens",
+   "throw at camera",
+   "product to camera",
+   "shove in lens"
+  ],
+  "what_you_see": "Product (or hand) moves rapidly toward the lens until it fills/blacks out the frame.",
+  "why_it_works": "Looming motion triggers a defensive startle reflex.",
+  "how_to_shoot": "Creator thrusts the product at the phone until it blocks the lens, cut to next shot.",
+  "detection_cues": "0s product small in hand; 0.5s product growing rapidly; 1s product fills/blurs frame; 1.5s cut to new shot.",
+  "search_keywords": [
+   "you need this",
+   "look",
+   "here"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Crumple/Throw at Camera",
+  "aliases": [
+   "paper thrown at camera",
+   "toss at lens"
+  ],
+  "what_you_see": "Creator crumples paper or tosses an object straight at the camera.",
+  "why_it_works": "Looming object + aggression reads as startling.",
+  "how_to_shoot": "Crumple a competitor's receipt/ad printout and throw at lens.",
+  "detection_cues": "0s paper/object in hand; 0.5s throwing motion; 1s object hits/approaches lens; 1.5s creator talking.",
+  "search_keywords": [
+   "forget",
+   "throw away",
+   "stop wasting"
+  ],
+  "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Slam/Drop Start",
+  "aliases": [
+   "slam object",
+   "drop something",
+   "loud prop"
+  ],
+  "what_you_see": "First frame: a hand slams a product/book on a table or drops something noisily, then speaking begins.",
+  "why_it_works": "Sound-synced impact is a zero-edit pattern interrupt.",
+  "how_to_shoot": "Slam the product box onto a desk in close-up, then tilt to creator.",
+  "detection_cues": "0s hand high with object; 0.5s impact on surface (bounce/shake); 1s camera settles; 1.5s creator talking.",
+  "search_keywords": [
+   "listen",
+   "enough",
+   "stop"
+  ],
+  "source": "https://medium.com/@joshuanapilay/the-hook-swipe-file-50-tiktok-ad-hooks-you-can-steal-before-your-next-campaign-4d1a8ec64c08; https://www.scribd.com/document/904349354/60-Visual-Hooks-1"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Sunglasses On",
+  "aliases": [
+   "put on sunglasses",
+   "deal with it"
+  ],
+  "what_you_see": "Creator puts on sunglasses (or takes them off) in the first second before speaking.",
+  "why_it_works": "Confident gesture + motion onset; meme-familiar.",
+  "how_to_shoot": "Creator slides on shades while holding product, 'deal-with-it' vibe.",
+  "detection_cues": "0s hands raising glasses; 0.5s glasses on face; 1s pose; 1.5s speaking.",
+  "search_keywords": [
+   "main character",
+   "let's go"
+  ],
+  "source": "https://medium.com/@joshuanapilay/the-hook-swipe-file-50-tiktok-ad-hooks-you-can-steal-before-your-next-campaign-4d1a8ec64c08"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Sit Down Into Frame",
+  "aliases": [
+   "sit down",
+   "drop into chair"
+  ],
+  "what_you_see": "Creator sits down into the frame (chair/car seat/floor) as the video starts.",
+  "why_it_works": "Subtle movement grabs attention and signals 'settle in, this is a story'.",
+  "how_to_shoot": "Creator drops into car seat or couch, product in hand.",
+  "detection_cues": "0s standing torso or empty chair; 0.5s body lowering; 1s seated at eye level; 1.5s talking.",
+  "search_keywords": [
+   "storytime",
+   "so",
+   "let me tell you"
+  ],
+  "source": "https://www.instagram.com/reel/C7wmSgjOXiU/"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Walking Backward Talk",
+  "aliases": [
+   "walk and talk",
+   "moving selfie"
+  ],
+  "what_you_see": "Handheld selfie while walking (often backward) through a busy space, background moving.",
+  "why_it_works": "Constant background motion keeps eyes engaged; feels vlog-native.",
+  "how_to_shoot": "Founder walks through warehouse or street holding phone at arm's length.",
+  "detection_cues": "0s selfie framing, background motion; 0.5s parallax; 1s ongoing walk; 1.5s talking.",
+  "search_keywords": [
+   "come with me",
+   "day in the life"
+  ],
+  "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Hand Grab From Off-Screen",
+  "aliases": [
+   "hand reach in",
+   "snatch"
+  ],
+  "what_you_see": "A hand enters the frame and grabs the product off a surface (or out of someone's hand).",
+  "why_it_works": "Implied desire/competition for the item.",
+  "how_to_shoot": "Static product shot, hand swoops in and snatches it.",
+  "detection_cues": "0s product alone on surface; 0.5s hand entering; 1s product lifted; 1.5s product out of frame or at lens.",
+  "search_keywords": [
+   "mine",
+   "hands off",
+   "everyone keeps taking"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Pour / Splash",
+  "aliases": [
+   "liquid pour",
+   "splash shot",
+   "spill"
+  ],
+  "what_you_see": "Liquid, powder or cream being poured/splashed in close-up, often onto the product or a surface.",
+  "why_it_works": "Fluid motion is hypnotic and satisfying.",
+  "how_to_shoot": "Pour coffee on a stain-proof shirt; splash water on waterproof gear.",
+  "detection_cues": "0s container tilting; 0.5s liquid stream; 1s impact/splash; 1.5s result visible.",
+  "search_keywords": [
+   "waterproof",
+   "stain proof",
+   "watch this"
+  ],
+  "source": "general; https://zeely.ai/blog/7-scroll-stopping-hooks/"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Destruction / Stress Test",
+  "aliases": [
+   "smash test",
+   "drop test",
+   "durability test",
+   "torture test"
+  ],
+  "what_you_see": "The product (or rival) is hit, dropped, crushed, cut, burned, or run over in the first frames.",
+  "why_it_works": "Violence to objects + 'will it survive?' curiosity.",
+  "how_to_shoot": "Drop phone case from head height onto concrete; stand on the bottle.",
+  "detection_cues": "0s product in hazardous setup; 0.5s impact/force applied; 1s product under stress; 1.5s outcome partly visible.",
+  "search_keywords": [
+   "indestructible",
+   "unbreakable",
+   "will it survive",
+   "tested"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Squeeze / Squish",
+  "aliases": [
+   "oddly satisfying squish",
+   "press"
+  ],
+  "what_you_see": "Close-up of fingers squeezing, pressing, peeling, or stretching a soft product.",
+  "why_it_works": "Tactile ASMR mirror-neuron satisfaction.",
+  "how_to_shoot": "Macro shot of thumb pressing into memory foam or peeling a pimple patch.",
+  "detection_cues": "0s fingers on product; 0.5s deformation begins; 1s max squish; 1.5s rebound.",
+  "search_keywords": [
+   "satisfying",
+   "so soft",
+   "asmr"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Rip-Open Unboxing",
+  "aliases": [
+   "unboxing",
+   "tear open package"
+  ],
+  "what_you_see": "Hands tearing tape/box/bag open with product about to emerge.",
+  "why_it_works": "Anticipation of reveal; TikTok names unboxing a proven opener.",
+  "how_to_shoot": "Top-down shot of hands slicing the mailer and pulling the product out.",
+  "detection_cues": "0s sealed package; 0.5s tearing/cutting; 1s product partially visible; 1.5s product lifted.",
+  "search_keywords": [
+   "unboxing",
+   "it came",
+   "finally arrived"
+  ],
+  "source": "https://ads.tiktok.com/business/creativecenter/quicktok/online/tiktok_creative_accelerator/pc/en"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Mid-Action Demo Start",
+  "aliases": [
+   "in media res demo",
+   "product in action",
+   "demo first"
+  ],
+  "what_you_see": "Video begins with the product already working mid-task (vacuum sucking, blade cutting, serum applied).",
+  "why_it_works": "Immediate proof; TikTok recommends showing the product in action right away.",
+  "how_to_shoot": "Cut the first 2s of the demo clip away so frame 1 is peak action.",
+  "detection_cues": "0s product actively operating; 0.5s visible effect; 1s result progressing; 1.5s continues/cut.",
+  "search_keywords": [
+   "watch",
+   "look at this",
+   "it actually works"
+  ],
+  "source": "https://ads.tiktok.com/business/en/guides/video-advertising-guide"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Chase Sequence",
+  "aliases": [
+   "chasing the product"
+  ],
+  "what_you_see": "Creator literally runs after the product (on a string, rolling, carried by someone).",
+  "why_it_works": "Absurd literalism captures attention and dramatizes desire.",
+  "how_to_shoot": "Tie product to fishing line and pull it away as creator chases.",
+  "detection_cues": "0s product moving away; 0.5s creator running behind; 1s chase continues; 1.5s grab or cut.",
+  "search_keywords": [
+   "chase what you love",
+   "can't stop"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Post-It / Cover Reveal",
+  "aliases": [
+   "sticky note reveal",
+   "cover pull",
+   "cardboard reveal"
+  ],
+  "what_you_see": "Product (or answer) is hidden under a post-it, cloth or cardboard that is peeled/pulled away.",
+  "why_it_works": "Curiosity gap: hidden object demands the reveal.",
+  "how_to_shoot": "Stick a question post-it on product front; peel it in first second.",
+  "detection_cues": "0s covered object with note/cloth; 0.5s hand pulling cover; 1s product exposed; 1.5s product hero.",
+  "search_keywords": [
+   "what are you doing this summer",
+   "guess",
+   "reveal"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez); https://www.scribd.com/document/1065686973/Short-Form-Hooks-Workshop (Kallaway)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Rock-Paper-Scissors / Coin Flip",
+  "aliases": [
+   "decision game",
+   "heads or tails"
+  ],
+  "what_you_see": "Two creators play RPS or flip a coin on camera with labels (save money vs buy product).",
+  "why_it_works": "Game outcome suspense; viewers predict the winner.",
+  "how_to_shoot": "Label each hand with text overlay; product always 'wins'.",
+  "detection_cues": "0s two hands/coin; 0.5s shake/flip motion; 1s result; 1.5s product appears.",
+  "search_keywords": [
+   "heads = ",
+   "save or splurge"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Stop-Hand To Lens",
+  "aliases": [
+   "palm to camera",
+   "stop scrolling gesture"
+  ],
+  "what_you_see": "Creator shoves an open palm or 'stop' sign to the lens in the first frame.",
+  "why_it_works": "Literal command gesture + looming hand.",
+  "how_to_shoot": "Palm at lens, pull back to reveal product in other hand.",
+  "detection_cues": "0s palm fills frame; 0.5s hand pulls back; 1s creator visible; 1.5s product shown.",
+  "search_keywords": [
+   "stop scrolling",
+   "wait",
+   "don't scroll"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Tear / Rip Paper",
+  "aliases": [
+   "rip page",
+   "tear list"
+  ],
+  "what_you_see": "Creator tears a page, contract, or printed 'rules' in half on camera.",
+  "why_it_works": "Destruction + symbolic rejection.",
+  "how_to_shoot": "Tear a printed competitor price list.",
+  "detection_cues": "0s paper held; 0.5s tearing starts; 1s two halves; 1.5s pieces falling.",
+  "search_keywords": [
+   "break the rules",
+   "forget what you know"
+  ],
+  "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Money Throw",
+  "aliases": [
+   "throw cash",
+   "make it rain"
+  ],
+  "what_you_see": "Bills thrown into the air around creator.",
+  "why_it_works": "Money is a primal attention magnet; chaos motion.",
+  "how_to_shoot": "Toss prop cash while announcing a sale.",
+  "detection_cues": "0s hands with cash; 0.5s bills airborne; 1s bills falling across frame; 1.5s creator speaking.",
+  "search_keywords": [
+   "save money",
+   "sale",
+   "I spent"
+  ],
+  "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Face Lean-In to Lens",
+  "aliases": [
+   "extreme close face",
+   "whisper lean"
+  ],
+  "what_you_see": "Creator's face lunges toward lens into extreme close-up, eyes filling frame.",
+  "why_it_works": "Intimacy/looming face triggers social attention circuits.",
+  "how_to_shoot": "Lean in to whisper the 'secret' benefit.",
+  "detection_cues": "0s normal framing; 0.5s face approaching; 1s eyes/nose fill frame; 1.5s pull back or talk.",
+  "search_keywords": [
+   "secret",
+   "don't tell anyone",
+   "psst"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Problem Reenactment",
+  "aliases": [
+   "pain point skit",
+   "struggle scene"
+  ],
+  "what_you_see": "Exaggerated acting out of the problem (hair frizz, back pain, spilling) before the product appears.",
+  "why_it_works": "Instant self-identification with the pain.",
+  "how_to_shoot": "Creator dramatically fails at the task the product fixes.",
+  "detection_cues": "0s person struggling/frustrated; 0.5s failure moment; 1s exaggerated reaction; 1.5s product intro or continue.",
+  "search_keywords": [
+   "me every morning",
+   "POV",
+   "tell me you"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Wake Up / Bed Start",
+  "aliases": [
+   "waking up",
+   "lying down POV"
+  ],
+  "what_you_see": "Creator lying in bed/on floor, often shot from above, before sitting up.",
+  "why_it_works": "Vulnerable, unusual horizontal framing.",
+  "how_to_shoot": "Top-down bed shot, creator sits up and grabs product from nightstand.",
+  "detection_cues": "0s horizontal body/top-down; 0.5s sitting up; 1s product reached; 1.5s talking.",
+  "search_keywords": [
+   "morning routine",
+   "I woke up",
+   "sleep"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "A vs B Comparison Graphics",
+  "aliases": [
+   "A vs B Graphics",
+   "this vs that",
+   "versus graphic",
+   "split comparison"
+  ],
+  "what_you_see": "Screen divided with labels (e.g., 'Theirs' vs 'Ours', 'Before' vs 'After') and graphics/checkmarks on each side.",
+  "why_it_works": "Comparisons trigger instant judgement; brain wants to pick a winner.",
+  "how_to_shoot": "Left: competitor product with red X; right: yours with green check; labels at top.",
+  "detection_cues": "0s two panels with labels; 0.5s icons/checks animating; 1s one side highlighted; 1.5s holds.",
+  "search_keywords": [
+   "vs",
+   "us vs them",
+   "which one",
+   "before after"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825) ('A vs B Graphics' per brief)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Text Slide In",
+  "aliases": [
+   "title slide-in",
+   "animated title"
+  ],
+  "what_you_see": "Headline text slides in from an edge over the opening footage within the first second.",
+  "why_it_works": "Motion on text draws eye to message before audio.",
+  "how_to_shoot": "Keyframe the benefit headline sliding in from left over product B-roll.",
+  "detection_cues": "0s footage without text or partial text; 0.5s text mid-slide; 1s text locked; 1.5s text static.",
+  "search_keywords": [
+   "how to",
+   "the reason",
+   "3 things"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Interactive Title",
+  "aliases": [
+   "title interaction",
+   "creator touches text"
+  ],
+  "what_you_see": "Title text appears in an interesting way - creator pushes, catches, or is revealed from behind it.",
+  "why_it_works": "Text becomes a physical object in the scene, breaking the 2D plane.",
+  "how_to_shoot": "Creator 'pulls down' the headline like a blind to reveal product.",
+  "detection_cues": "0s creator hand near text zone; 0.5s text moving with gesture; 1s text set; 1.5s creator talking.",
+  "search_keywords": [
+   "watch this",
+   "the truth about"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Text/Arrow Pointer",
+  "aliases": [
+   "arrow callout",
+   "pointer graphic",
+   "annotation arrow"
+  ],
+  "what_you_see": "Arrow(s) and short label point at a detail in the image (a feature, a flaw).",
+  "why_it_works": "Directs gaze precisely; implies something noteworthy hidden in plain sight.",
+  "how_to_shoot": "Freeze on product close-up, red arrow + 'this saved me $300'.",
+  "detection_cues": "0s image with arrow graphic; 0.5s arrow pulsing/drawing; 1s label; 1.5s zoom toward target.",
+  "search_keywords": [
+   "look closely",
+   "notice this",
+   "see that"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Small Image Drop Overlay",
+  "aliases": [
+   "image drop-in",
+   "sticker drop"
+  ],
+  "what_you_see": "A small image (logo, product, face) drops/bounces onto a larger background image and integrates into it.",
+  "why_it_works": "Unexpected element entering composition; scale contrast.",
+  "how_to_shoot": "Drop a PNG of the product onto a lifestyle photo with bounce animation.",
+  "detection_cues": "0s base image; 0.5s small element falling/scaling in; 1s element settled; 1.5s text or voice.",
+  "search_keywords": [
+   "meet",
+   "introducing"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Screen Recording w/ Motion",
+  "aliases": [
+   "screen rec zoom",
+   "app screen hook"
+  ],
+  "what_you_see": "Starts with a phone/desktop screen recording that zooms/pans to guide the eye to a specific element.",
+  "why_it_works": "Familiar UI + motion guidance; implies proof or tutorial.",
+  "how_to_shoot": "Screen-record the Shopify order notification or review page and zoom on the key number.",
+  "detection_cues": "0s UI screen; 0.5s zoom/pan motion; 1s highlighted UI element; 1.5s cursor/touch.",
+  "search_keywords": [
+   "how I",
+   "screen recording",
+   "proof"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Image Overlay Motion",
+  "aliases": [
+   "photo + text opener",
+   "still image opener"
+  ],
+  "what_you_see": "Begins on an image (with or without Ken Burns motion) plus text headline instead of live video.",
+  "why_it_works": "Clean readable composition delivers the idea instantly.",
+  "how_to_shoot": "Use a striking product photo with slow zoom and bold claim text.",
+  "detection_cues": "0s still image + text; 0.5s subtle zoom; 1s still image; 1.5s cut to video.",
+  "search_keywords": [
+   "did you know",
+   "this is"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Countdown",
+  "aliases": [
+   "3-2-1",
+   "timer countdown"
+  ],
+  "what_you_see": "On-screen numbers 3, 2, 1 before revealing something.",
+  "why_it_works": "Countdowns create built-in anticipation and a promised payoff.",
+  "how_to_shoot": "Big 3-2-1 over covered product, reveal on 'go'.",
+  "detection_cues": "0s large '3'; 0.5s '2'; 1s '1'; 1.5s reveal.",
+  "search_keywords": [
+   "3 2 1",
+   "in 3 seconds",
+   "ready"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Bold Headline Text Box",
+  "aliases": [
+   "text-on-screen hook",
+   "caption block",
+   "big text"
+  ],
+  "what_you_see": "Large high-contrast text block (white box/black text or outlined) dominating the top third from frame 1.",
+  "why_it_works": "Readable in silent autoplay; frames the value instantly.",
+  "how_to_shoot": "Overlay a 6-8 word claim in TikTok-native font over any UGC opener.",
+  "detection_cues": "0s big text present; 0.5s same; 1s same; 1.5s maybe swaps line.",
+  "search_keywords": [
+   "you're doing it wrong",
+   "this changed my",
+   "nobody talks about"
+  ],
+  "source": "https://thebrandaudit.ca/blogs/news/10-visual-hooks-to-stop-the-scroll"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Comment Reply Bubble",
+  "aliases": [
+   "reply to comment",
+   "comment sticker",
+   "skeptic comment"
+  ],
+  "what_you_see": "TikTok/IG comment bubble overlaid on frame (e.g., 'Those seem so extra') with creator reacting beside it.",
+  "why_it_works": "Social conflict + native UI; viewers want to see the response.",
+  "how_to_shoot": "Use TikTok 'reply with video' sticker to a real objection comment.",
+  "detection_cues": "0s comment bubble UI; 0.5s creator reacting; 1s bubble persists; 1.5s demo starts.",
+  "search_keywords": [
+   "replying to",
+   "you asked",
+   "does it really work"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Fake Text / iMessage Thread",
+  "aliases": [
+   "text message hook",
+   "DM screenshot",
+   "chat bubbles"
+  ],
+  "what_you_see": "iMessage/WhatsApp/DM bubbles popping in over footage asking about the product.",
+  "why_it_works": "Voyeurism into private conversation + social proof.",
+  "how_to_shoot": "Animate a friend asking 'where did you get that??' bubble by bubble.",
+  "detection_cues": "0s chat UI; 0.5s bubble appears; 1s reply bubble; 1.5s cut to product.",
+  "search_keywords": [
+   "where did you get",
+   "girl what",
+   "link?"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Social Post Screenshot",
+  "aliases": [
+   "tweet overlay",
+   "reddit screenshot",
+   "review screenshot"
+  ],
+  "what_you_see": "A tweet/Reddit post/Amazon review card fills the screen or sits over the creator (green-screen style).",
+  "why_it_works": "Borrowed credibility and relatable complaint.",
+  "how_to_shoot": "Green-screen creator in front of a Reddit thread about the problem.",
+  "detection_cues": "0s post card with UI chrome; 0.5s highlight/zoom on text; 1s creator reaction; 1.5s talk.",
+  "search_keywords": [
+   "reddit",
+   "people are saying",
+   "viral review"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Star Rating / Review Card",
+  "aliases": [
+   "5-star overlay",
+   "review badge"
+  ],
+  "what_you_see": "5 gold stars and a quoted review line over product footage.",
+  "why_it_works": "Instant social proof heuristic.",
+  "how_to_shoot": "Stars animate in one by one over hero shot.",
+  "detection_cues": "0s stars graphic; 0.5s stars filling; 1s quote text; 1.5s product.",
+  "search_keywords": [
+   "5 stars",
+   "10,000 reviews",
+   "rated"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Price Slash / Sale Tag",
+  "aliases": [
+   "strikethrough price",
+   "discount graphic"
+  ],
+  "what_you_see": "Old price with animated strike-through and new price or '% OFF' badge.",
+  "why_it_works": "Loss aversion and deal-seeking.",
+  "how_to_shoot": "Animate red slash over $89, show $39.",
+  "detection_cues": "0s price text; 0.5s slash line drawing; 1s new price; 1.5s product.",
+  "search_keywords": [
+   "50% off",
+   "sale",
+   "was $",
+   "today only"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Numbered Listicle Title",
+  "aliases": [
+   "3 reasons",
+   "top 5",
+   "list number"
+  ],
+  "what_you_see": "Big number + list headline ('3 reasons your skin...') with number '1' marker.",
+  "why_it_works": "Promises finite, skimmable payoff.",
+  "how_to_shoot": "Title '5 things I wish I knew before buying X', '#1' tag on first item.",
+  "detection_cues": "0s number headline; 0.5s item #1 label; 1s first visual; 1.5s continues.",
+  "search_keywords": [
+   "reasons",
+   "things",
+   "top",
+   "ways"
+  ],
+  "source": "https://medium.com/@joshuanapilay/the-hook-swipe-file-50-tiktok-ad-hooks-you-can-steal-before-your-next-campaign-4d1a8ec64c08"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Circle / Highlight Annotation",
+  "aliases": [
+   "red circle",
+   "highlight box",
+   "zoom circle"
+  ],
+  "what_you_see": "Hand-drawn red circle or highlight box around a detail, often with zoom.",
+  "why_it_works": "Mimics YouTube thumbnail cues: 'something is here'.",
+  "how_to_shoot": "Circle the stain before/after or the tiny label.",
+  "detection_cues": "0s image; 0.5s circle drawing; 1s zoom into circle; 1.5s hold.",
+  "search_keywords": [
+   "notice",
+   "look closely",
+   "did you see"
+  ],
+  "source": "https://www.scribd.com/document/1065686973/Short-Form-Hooks-Workshop (Kallaway)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Kinetic Typography",
+  "aliases": [
+   "word-by-word text",
+   "animated captions pop"
+  ],
+  "what_you_see": "Words pop/scale in one at a time, synced to speech or beat, dominant on screen.",
+  "why_it_works": "Rhythmic reading keeps eyes locked.",
+  "how_to_shoot": "CapCut auto-captions with bounce animation and keyword color.",
+  "detection_cues": "0s single big word; 0.5s next word; 1s next word; 1.5s phrase complete.",
+  "search_keywords": [
+   "this",
+   "will",
+   "change"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Big Stat Callout",
+  "aliases": [
+   "number hook",
+   "stat overlay"
+  ],
+  "what_you_see": "Giant number (e.g., '93%' or '$10,000') occupies the frame.",
+  "why_it_works": "Specific numbers imply evidence and scale.",
+  "how_to_shoot": "Show '2,000,000 sold' counter animating up.",
+  "detection_cues": "0s large number; 0.5s counter moving; 1s label; 1.5s cut.",
+  "search_keywords": [
+   "%",
+   "sold",
+   "customers",
+   "in 7 days"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Checklist Tick",
+  "aliases": [
+   "checkbox animation"
+  ],
+  "what_you_see": "List items with checkboxes being ticked in sequence.",
+  "why_it_works": "Completion satisfaction and quick info hit.",
+  "how_to_shoot": "Benefits checklist ticking next to product.",
+  "detection_cues": "0s list; 0.5s first check; 1s second; 1.5s third.",
+  "search_keywords": [
+   "checklist",
+   "everything you need"
+  ],
+  "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Redacted / Censored Bar",
+  "aliases": [
+   "blurred word",
+   "black bar secret"
+  ],
+  "what_you_see": "Key word/brand hidden behind a black bar, blur, or emoji.",
+  "why_it_works": "Withheld info creates curiosity gap.",
+  "how_to_shoot": "Blur product name in the headline until reveal.",
+  "detection_cues": "0s text with bar/blur; 0.5s same; 1s hint; 1.5s reveal or hold.",
+  "search_keywords": [
+   "secret",
+   "I can't say",
+   "the brand"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Phone Screen Magic",
+  "aliases": [
+   "text appears on phone",
+   "screen text"
+  ],
+  "what_you_see": "A phone lies among products and text appears 'magically' on its screen.",
+  "why_it_works": "Device screens pull gaze; magical appearance is unexpected.",
+  "how_to_shoot": "Composite claim text onto phone screen in flat lay.",
+  "detection_cues": "0s phone screen blank; 0.5s text appears; 1s text readable; 1.5s products around.",
+  "search_keywords": [
+   "read this",
+   "your sign"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Handwritten Sign / Paper Note",
+  "aliases": [
+   "paper sign",
+   "cardboard sign",
+   "note reveal"
+  ],
+  "what_you_see": "Creator holds a handwritten sign/paper with a message, possibly flipping it.",
+  "why_it_works": "Low-fi human authenticity; readable without sound.",
+  "how_to_shoot": "Hold sign 'I tried every acne cream' then flip to product.",
+  "detection_cues": "0s paper with handwriting; 0.5s creator holding it; 1s flip; 1.5s next message.",
+  "search_keywords": [
+   "sign",
+   "read this",
+   "honest review"
+  ],
+  "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Whiteboard Explainer",
+  "aliases": [
+   "drawing explainer",
+   "marker board"
+  ],
+  "what_you_see": "Hand drawing a diagram on a whiteboard/paper in real time.",
+  "why_it_works": "Watching a drawing form = process curiosity.",
+  "how_to_shoot": "Sketch 'problem -> product -> result' quickly.",
+  "detection_cues": "0s marker on board; 0.5s lines forming; 1s partial diagram; 1.5s creator.",
+  "search_keywords": [
+   "let me explain",
+   "here's how it works"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Search Bar Typing",
+  "aliases": [
+   "Google search animation",
+   "typing query"
+  ],
+  "what_you_see": "Search bar UI with a query being typed and autocompleted.",
+  "why_it_works": "Familiar UI mirrors the viewer's own question.",
+  "how_to_shoot": "Animate 'how to get rid of...' typing then show product.",
+  "detection_cues": "0s search bar; 0.5s letters typing; 1s full query; 1.5s results/cut.",
+  "search_keywords": [
+   "how to",
+   "search",
+   "google"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Poll / Guess Sticker",
+  "aliases": [
+   "quiz overlay",
+   "can you guess"
+  ],
+  "what_you_see": "Question with A/B options or a guess prompt overlaid on a mystery visual.",
+  "why_it_works": "Invites participation; viewers commit to an answer.",
+  "how_to_shoot": "Show extreme close-up of product texture with 'Guess what this is?'",
+  "detection_cues": "0s question overlay; 0.5s options; 1s mystery visual; 1.5s hint.",
+  "search_keywords": [
+   "guess",
+   "can you tell",
+   "which one"
+  ],
+  "source": "https://medium.com/@joshuanapilay/the-hook-swipe-file-50-tiktok-ad-hooks-you-can-steal-before-your-next-campaign-4d1a8ec64c08"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Breaking News Lower Third",
+  "aliases": [
+   "news banner",
+   "headline ticker"
+  ],
+  "what_you_see": "TV-news style lower third/ticker ('BREAKING:') over footage.",
+  "why_it_works": "Authority and urgency cues borrowed from news.",
+  "how_to_shoot": "Creator as anchor with banner 'BREAKING: this sold out 3x'.",
+  "detection_cues": "0s red banner graphic; 0.5s ticker moving; 1s anchor framing; 1.5s continues.",
+  "search_keywords": [
+   "breaking",
+   "news",
+   "just in"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Meme Caption Frame",
+  "aliases": [
+   "meme format",
+   "white bar caption"
+  ],
+  "what_you_see": "Video letterboxed inside a white top bar with meme-style black caption.",
+  "why_it_works": "Native meme grammar reads as entertainment, not ad.",
+  "how_to_shoot": "Put funny relatable caption above product fail clip.",
+  "detection_cues": "0s white top bar text; 0.5s clip playing; 1s punchline motion; 1.5s continues.",
+  "search_keywords": [
+   "me when",
+   "nobody:",
+   "POV"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Split Screen / Duet",
+  "aliases": [
+   "side by side",
+   "duet layout",
+   "stacked screens"
+  ],
+  "what_you_see": "Frame split into two (left/right or top/bottom) playing different clips simultaneously.",
+  "why_it_works": "Two stimuli at once; comparison or reaction dynamic.",
+  "how_to_shoot": "Top: problem footage; bottom: product fixing it.",
+  "detection_cues": "0s clear divider line; 0.5s both halves moving; 1s both active; 1.5s continues.",
+  "search_keywords": [
+   "duet",
+   "side by side",
+   "vs"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Spec Callout Lines",
+  "aliases": [
+   "feature infographic",
+   "product callouts"
+  ],
+  "what_you_see": "Product hero shot with thin lines/dots pointing to labeled features that draw in.",
+  "why_it_works": "Premium tech-product aesthetic; organized information.",
+  "how_to_shoot": "Rotate product and animate 3-4 feature callouts.",
+  "detection_cues": "0s product center; 0.5s lines drawing; 1s labels; 1.5s rotation.",
+  "search_keywords": [
+   "features",
+   "built with",
+   "why it's different"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Journal Story Highlight",
+  "aliases": [
+   "story time journal",
+   "diary entry"
+  ],
+  "what_you_see": "Handwritten journal page with brand name highlighted by marker.",
+  "why_it_works": "Intimate diary voyeurism + highlight draws eye.",
+  "how_to_shoot": "Highlight product name in handwritten entry.",
+  "detection_cues": "0s journal page; 0.5s highlighter stroke; 1s brand highlighted; 1.5s page turn.",
+  "search_keywords": [
+   "dear diary",
+   "my story"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Motion-Tracked Text",
+  "aliases": [
+   "text stuck to object",
+   "tracked label"
+  ],
+  "what_you_see": "Label/text pinned to a moving object/person via tracking.",
+  "why_it_works": "Text feels part of the physical scene.",
+  "how_to_shoot": "Track 'this is $12' to the bottle as creator waves it.",
+  "detection_cues": "0s text attached to object; 0.5s both moving together; 1s still attached; 1.5s continues.",
+  "search_keywords": [
+   "this",
+   "me",
+   "you"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Watch Till The End Text",
+  "aliases": [
+   "wait for it",
+   "end payoff caption"
+  ],
+  "what_you_see": "Explicit 'wait for it' / 'watch till the end' overlay over teaser footage.",
+  "why_it_works": "Explicit open loop commitment.",
+  "how_to_shoot": "Overlay over satisfying build-up footage.",
+  "detection_cues": "0s overlay text; 0.5s footage building; 1s text persists; 1.5s continues.",
+  "search_keywords": [
+   "wait for it",
+   "watch till the end",
+   "the end"
+  ],
+  "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1; https://medium.com/@joshuanapilay/the-hook-swipe-file-50-tiktok-ad-hooks-you-can-steal-before-your-next-campaign-4d1a8ec64c08"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Viral Stitch Linked Reaction",
+  "aliases": [
+   "stitch reaction",
+   "react to viral clip"
+  ],
+  "what_you_see": "Opens on a recognizable viral clip, then cuts to creator reacting and linking it to the topic.",
+  "why_it_works": "Borrowed attention from a proven clip + curiosity about the link.",
+  "how_to_shoot": "Stitch a viral fail related to the problem, cut to founder: 'this is why we made X'.",
+  "detection_cues": "0s third-party viral footage (different quality/style); 0.5s peak moment; 1s cut to creator; 1.5s creator talking.",
+  "search_keywords": [
+   "stitch",
+   "#stitch",
+   "this is why"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Match Cut",
+  "aliases": [
+   "graphic match",
+   "shape match cut"
+  ],
+  "what_you_see": "Rapid series of shots where shapes/positions/text line up across cuts.",
+  "why_it_works": "Visual continuity with content change feels clever and hypnotic.",
+  "how_to_shoot": "Product circle lid -> moon -> cup rim cuts aligned at center.",
+  "detection_cues": "0s shape centered; 0.5s cut, same shape/position new content; 1s another; 1.5s product.",
+  "search_keywords": [
+   "match cut",
+   "transition"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Visual Switch",
+  "aliases": [
+   "action transition",
+   "seamless switch"
+  ],
+  "what_you_see": "An action in shot 1 (cover lens, spin, clap) cleanly transitions into shot 2.",
+  "why_it_works": "Continuity of motion masks the cut; payoff is the new scene.",
+  "how_to_shoot": "Cover lens with product box, uncover in new setting.",
+  "detection_cues": "0s action beginning; 0.5s occlusion/motion peak; 1s new scene; 1.5s continue.",
+  "search_keywords": [
+   "transition",
+   "switch"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Beat Match Visual Switch",
+  "aliases": [
+   "Beat Match Switch",
+   "beat sync cuts",
+   "cuts on the beat"
+  ],
+  "what_you_see": "Clips switch exactly on music beats in the first seconds.",
+  "why_it_works": "Audio-visual synchrony is pleasurable and propulsive.",
+  "how_to_shoot": "Cut 4 product shots to a trending sound's beats.",
+  "detection_cues": "0s shot A; ~0.4s cut on beat; ~0.8s cut on beat; 1.2s cut on beat.",
+  "search_keywords": [
+   "trending sound",
+   "beat"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825) ('Beat Match Switch' per brief)"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Viral Stitch Motion Match",
+  "aliases": [
+   "motion-matched stitch"
+  ],
+  "what_you_see": "Starts with a viral clip, then your footage matches its motion (e.g., same swing/throw).",
+  "why_it_works": "Continuation illusion links borrowed attention to your brand.",
+  "how_to_shoot": "Viral basketball throw clip -> your product caught in matching motion.",
+  "detection_cues": "0s viral clip motion; 0.5s motion peak; 1s your clip continues same direction; 1.5s product.",
+  "search_keywords": [
+   "continuation",
+   "wait for it"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Viral Stitch Unlinked Switch",
+  "aliases": [
+   "cold switch",
+   "bait and switch clip"
+  ],
+  "what_you_see": "High-anticipation viral clip, then a cold hard cut to unrelated brand/business footage.",
+  "why_it_works": "Anticipation from clip carries over; the jarring switch is itself the hook.",
+  "how_to_shoot": "Open on a crazy stunt; cut before resolution to founder at desk.",
+  "detection_cues": "0s viral high-tension footage; 0.5s tension rising; 1s hard cut to unrelated brand scene; 1.5s creator talks.",
+  "search_keywords": [
+   "anyway",
+   "speaking of"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Camera Wipe",
+  "aliases": [
+   "lens wipe transition",
+   "object wipe"
+  ],
+  "what_you_see": "Something (hand, object, person) passes across the lens, wiping the frame into a new scene.",
+  "why_it_works": "Occlusion + reveal resets attention.",
+  "how_to_shoot": "Swipe product across lens, reveal after-state.",
+  "detection_cues": "0s scene A; 0.5s object crossing frame; 1s scene B revealed behind wipe; 1.5s hold.",
+  "search_keywords": [
+   "transition",
+   "before after"
+  ],
+  "source": "Kallaway collection (name given in brief; not found in public Kallaway docs - unconfirmed)"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Rapid Flash Montage",
+  "aliases": [
+   "jump cut montage",
+   "0.2s cuts",
+   "quick cuts"
+  ],
+  "what_you_see": "4-8 very short (0.1-0.3s) shots in the first 1.5 seconds.",
+  "why_it_works": "Novelty density overwhelms scroll reflex.",
+  "how_to_shoot": "Cut 6 product close-ups and reactions in 1.5s.",
+  "detection_cues": "0s shot A; 0.3s shot B; 0.6s shot C; 1s shot D; 1.5s shot E+.",
+  "search_keywords": [
+   "fast",
+   "everything"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Fake Ending / Cut to Black",
+  "aliases": [
+   "black screen",
+   "fake end"
+  ],
+  "what_you_see": "Opens with or quickly hits a black screen/credits, then continues.",
+  "why_it_works": "Violates expectation of a starting video.",
+  "how_to_shoot": "Black frame with 'the end' then rewind to explain.",
+  "detection_cues": "0s black/end card; 0.5s black; 1s snap back to footage; 1.5s talk.",
+  "search_keywords": [
+   "the end",
+   "just kidding"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Fake Drop / Beat Drop Tease",
+  "aliases": [
+   "drop tease",
+   "build-up then drop"
+  ],
+  "what_you_see": "Visual build-up then an abrupt freeze or hard cut when the beat should drop.",
+  "why_it_works": "Violated anticipation and rhythm.",
+  "how_to_shoot": "Slow product build-up, freeze at the drop, then reveal.",
+  "detection_cues": "0s rising motion/build; 0.5s intensifying; 1s abrupt freeze/cut; 1.5s reveal.",
+  "search_keywords": [
+   "wait for the drop",
+   "drop"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "In Media Res Start",
+  "aliases": [
+   "mid-sentence start",
+   "mid-action start"
+  ],
+  "what_you_see": "Video begins mid-sentence/mid-argument/mid-chaos with no setup.",
+  "why_it_works": "Missing context forces viewer to catch up.",
+  "how_to_shoot": "Start on creator mid-rant with product in hand.",
+  "detection_cues": "0s speaker mid-motion with no intro; 0.5s continued; 1s context ambiguous; 1.5s context building.",
+  "search_keywords": [
+   "and that's why",
+   "so anyway"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Fake Crash / Phone Drop",
+  "aliases": [
+   "dropped phone POV",
+   "camera falls"
+  ],
+  "what_you_see": "The camera appears to fall/crash; frame tumbles, cracks, or goes black.",
+  "why_it_works": "Simulated accident = startle and concern.",
+  "how_to_shoot": "Film phone dropping onto a bed, add crack overlay, cut to case ad.",
+  "detection_cues": "0s normal shot; 0.5s violent tilt/spin; 1s impact/crack/black; 1.5s recovery.",
+  "search_keywords": [
+   "oops",
+   "dropped",
+   "screen protector"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Freeze Frame Record Scratch",
+  "aliases": [
+   "'yep that's me'",
+   "freeze intro"
+  ],
+  "what_you_see": "Action freezes suddenly (often with record-scratch), with a label or narration intro.",
+  "why_it_works": "Classic sitcom trope; motion stop is jarring.",
+  "how_to_shoot": "Freeze on creator mid-spill: 'yep that's me. you're probably wondering...'",
+  "detection_cues": "0s action in progress; 0.5s freeze; 1s freeze holds + text; 1.5s rewind or narrate.",
+  "search_keywords": [
+   "yep that's me",
+   "you're probably wondering"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Unexpected Interruption",
+  "aliases": [
+   "someone walks in",
+   "partner interrupts",
+   "husband's surprise"
+  ],
+  "what_you_see": "A second person barges into frame/scene mid-speech.",
+  "why_it_works": "Social disruption hooks curiosity about who and why.",
+  "how_to_shoot": "Partner walks in: 'that tip you gave me worked'.",
+  "detection_cues": "0s creator talking; 0.5s door/second person entering; 1s interaction; 1.5s product.",
+  "search_keywords": [
+   "babe",
+   "my husband",
+   "he came in"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Photo Collage to Video",
+  "aliases": [
+   "still collage start"
+  ],
+  "what_you_see": "Starts as a static collage of photos that snaps into live video.",
+  "why_it_works": "Format switch resets attention.",
+  "how_to_shoot": "Collage of customer photos animating into UGC clip.",
+  "detection_cues": "0s grid of photos; 0.5s still; 1s transition; 1.5s live video.",
+  "search_keywords": [
+   "customers",
+   "results"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Multi-Creator Mashup",
+  "aliases": [
+   "creator montage",
+   "everyone uses it"
+  ],
+  "what_you_see": "Rapid succession of different people each showing the product.",
+  "why_it_works": "Social proof + face variety.",
+  "how_to_shoot": "Cut 5 UGC creators saying one word each.",
+  "detection_cues": "0s person A with product; 0.4s person B; 0.8s person C; 1.2s person D.",
+  "search_keywords": [
+   "everyone",
+   "obsessed",
+   "viral"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Remote Control Channel Switch",
+  "aliases": [
+   "TV remote click",
+   "channel surf"
+  ],
+  "what_you_see": "A remote clicks and the scene/product variant changes stop-motion style.",
+  "why_it_works": "Interactive feel; each click is a mini-reveal.",
+  "how_to_shoot": "Click through each colorway of the product.",
+  "detection_cues": "0s remote pointed; 0.5s click; 1s new variant; 1.5s another click.",
+  "search_keywords": [
+   "which color",
+   "variants"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Genre Bait-and-Switch",
+  "aliases": [
+   "fake-out",
+   "looks like a movie trailer"
+  ],
+  "what_you_see": "Opens like a different genre (horror, nature doc, cooking show) then reveals it's a product ad.",
+  "why_it_works": "Prediction error when genre breaks.",
+  "how_to_shoot": "Nature-documentary style shot of 'wild' product, then cut to UGC.",
+  "detection_cues": "0s cinematic/genre styling; 0.5s genre cue; 1s tone break; 1.5s product.",
+  "search_keywords": [
+   "plot twist",
+   "wait what"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Audio-Visual Mismatch",
+  "aliases": [
+   "contrast hook",
+   "wrong sound"
+  ],
+  "what_you_see": "Visual contradicts sound or caption (calm scene + panic text, luxury look + 'cheap').",
+  "why_it_works": "Cognitive dissonance forces resolution.",
+  "how_to_shoot": "Show fancy spa scene while caption says '$9 from Amazon'.",
+  "detection_cues": "0s visual vs text/sound conflict; 0.5s same; 1s conflict emphasized; 1.5s explanation.",
+  "search_keywords": [
+   "this cost $",
+   "you won't believe"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Transformation Cover Cut",
+  "aliases": [
+   "hand over lens transformation",
+   "glow-up cut"
+  ],
+  "what_you_see": "Hand/cloth covers the lens then reveals a transformed look (hair, skin, room).",
+  "why_it_works": "Instant before/after payoff.",
+  "how_to_shoot": "Cover lens with palm, reveal after using product.",
+  "detection_cues": "0s before state; 0.5s cover; 1s after state; 1.5s pose.",
+  "search_keywords": [
+   "glow up",
+   "before after",
+   "transformation"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Pattern interrupts",
+  "name": "Stitch Interview Mic-In-Face",
+  "aliases": [
+   "street interview opener",
+   "man on the street"
+  ],
+  "what_you_see": "Handheld mic thrust toward a stranger on the street, question asked.",
+  "why_it_works": "Spontaneity and real-person reactions.",
+  "how_to_shoot": "Ask shoppers 'what are you looking for?' and hand product.",
+  "detection_cues": "0s mic in foreground with stranger; 0.5s stranger reacts; 1s answer; 1.5s product.",
+  "search_keywords": [
+   "street interview",
+   "asking strangers"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Speed Ramp Effect",
+  "aliases": [
+   "speed ramp",
+   "velocity edit"
+  ],
+  "what_you_see": "Footage speeds up then slows (or vice versa) across the transition from shot 1 to shot 2.",
+  "why_it_works": "Time distortion is dynamic and cinematic.",
+  "how_to_shoot": "Ramp a pour to slow-mo at splash.",
+  "detection_cues": "0s normal speed; 0.5s accelerated blur; 1s slow motion; 1.5s normal.",
+  "search_keywords": [
+   "velocity",
+   "edit"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "The Zoom In",
+  "aliases": [
+   "slow push in",
+   "slow zoom"
+  ],
+  "what_you_see": "Slow continuous zoom toward creator's face/product from frame 1.",
+  "why_it_works": "Subtle intensification signals importance; cinematic tension.",
+  "how_to_shoot": "Digital slow zoom 100->115% on founder saying the claim.",
+  "detection_cues": "0s medium shot; 0.5s slightly tighter; 1s tighter; 1.5s close.",
+  "search_keywords": [
+   "listen",
+   "here's the truth"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Look Up At Camera // Top Down",
+  "aliases": [
+   "top-down CCTV angle",
+   "high corner cam",
+   "overhead"
+  ],
+  "what_you_see": "Camera placed high in a room corner or overhead; subject looks up at it.",
+  "why_it_works": "Unusual angle reads like security cam/surveillance.",
+  "how_to_shoot": "Stick phone high on the kitchen wall, creator looks up.",
+  "detection_cues": "0s steep high angle; 0.5s subject tilting head up; 1s eye contact upward; 1.5s talk.",
+  "search_keywords": [
+   "top down",
+   "caught on camera"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Sudden Danger 1P POV",
+  "aliases": [
+   "first-person danger",
+   "POV danger"
+  ],
+  "what_you_see": "First-person view of something dangerous heading toward the viewer (ball, car, dog), cut at the moment.",
+  "why_it_works": "Self-threat triggers visceral startle.",
+  "how_to_shoot": "POV of product flying at face, cut to creator.",
+  "detection_cues": "0s POV scene; 0.5s object approaching lens; 1s near impact/cut; 1.5s new scene.",
+  "search_keywords": [
+   "POV",
+   "watch out"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Fish Eye",
+  "aliases": [
+   "fisheye lens",
+   "wide lens distortion"
+  ],
+  "what_you_see": "Barrel-distorted ultra-wide image, faces/products bulge at center.",
+  "why_it_works": "Distortion is novel and playful.",
+  "how_to_shoot": "Clip-on fisheye lens, product pushed to the camera.",
+  "detection_cues": "0s curved lines/bulged center; 0.5s movement exaggerated; 1s same; 1.5s same.",
+  "search_keywords": [
+   "fisheye",
+   "90s"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Frame Collapse",
+  "aliases": [
+   "letterbox collapse",
+   "aspect ratio squeeze"
+  ],
+  "what_you_see": "Black bars slide in top & bottom, collapsing frame into cinematic ratio, timed to a beat.",
+  "why_it_works": "Framing change feels like a 'moment' begins.",
+  "how_to_shoot": "Keyframe black bars closing on the beat before hero shot.",
+  "detection_cues": "0s full frame; 0.5s bars entering; 1s letterboxed; 1.5s hero shot.",
+  "search_keywords": [
+   "cinematic"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Crazy Transitions",
+  "aliases": [
+   "CapCut transitions",
+   "template transitions"
+  ],
+  "what_you_see": "High-motion editing transitions: spins, zoom blurs, glitch, shake, from templates.",
+  "why_it_works": "Visual energy + novelty.",
+  "how_to_shoot": "Apply a CapCut trending template to product shots.",
+  "detection_cues": "0s shot with motion blur; 0.5s spin/zoom transition; 1s new shot; 1.5s another transition.",
+  "search_keywords": [
+   "capcut",
+   "template",
+   "transition"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Experimental (Interactive)",
+  "aliases": [
+   "fake swipe",
+   "thumb interaction",
+   "fake UI tap"
+  ],
+  "what_you_see": "On-screen motion graphics that suggest the viewer's thumb (swipe/tap), then the edit responds.",
+  "why_it_works": "Hijacks the scrolling gesture itself; feels interactive.",
+  "how_to_shoot": "Animate a fake 'tap here' hand icon; video 'responds' by zooming to product.",
+  "detection_cues": "0s hand/finger icon or fake UI; 0.5s simulated tap/swipe; 1s screen reacts; 1.5s content.",
+  "search_keywords": [
+   "tap",
+   "swipe",
+   "don't scroll"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Color Switch",
+  "aliases": [
+   "black and white to color",
+   "desaturation pop"
+  ],
+  "what_you_see": "Opens in grayscale (0 saturation) and snaps to full color on a tap/beat.",
+  "why_it_works": "Color onset is a strong pre-attentive trigger.",
+  "how_to_shoot": "Grey 'before' scene turns vivid when product used.",
+  "detection_cues": "0s B&W frame; 0.5s B&W; 1s sudden full color; 1.5s color.",
+  "search_keywords": [
+   "life before",
+   "in color"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825); https://thebrandaudit.ca/blogs/news/10-visual-hooks-to-stop-the-scroll"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Snap Zoom / Zoom Punch",
+  "aliases": [
+   "punch-in",
+   "crash zoom",
+   "jump zoom"
+  ],
+  "what_you_see": "Instant zoom (jump or 2-4 frame ramp) into face/product on a key word.",
+  "why_it_works": "Sudden scale jump = emphasis and jolt.",
+  "how_to_shoot": "Punch in 130% on 'ONE product'.",
+  "detection_cues": "0s normal frame; 0.3s sudden tighter frame; 1s held; 1.5s back out.",
+  "search_keywords": [
+   "this",
+   "one"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Dolly Zoom",
+  "aliases": [
+   "vertigo effect",
+   "zolly"
+  ],
+  "what_you_see": "Subject stays same size while background stretches/compresses.",
+  "why_it_works": "Uncanny spatial warping signals realization.",
+  "how_to_shoot": "Walk phone backward while zooming in on product.",
+  "detection_cues": "0s subject centered; 0.5s background scale shifting; 1s strong warp; 1.5s done.",
+  "search_keywords": [
+   "realization",
+   "mind blown"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Reverse Footage",
+  "aliases": [
+   "reverse drop",
+   "rewind physics",
+   "reverse motion"
+  ],
+  "what_you_see": "Motion plays backward - product flies up into hand, liquid returns to glass.",
+  "why_it_works": "Physics violation.",
+  "how_to_shoot": "Drop product, reverse clip so it jumps back into hand.",
+  "detection_cues": "0s object on ground/splash; 0.5s moving upward unnaturally; 1s lands in hand; 1.5s normal.",
+  "search_keywords": [
+   "magic",
+   "how"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Freeze Frame",
+  "aliases": [
+   "still hold",
+   "pause frame"
+  ],
+  "what_you_see": "Motion stops dead on a frame with a highlight or text.",
+  "why_it_works": "Motion-to-stillness contrast.",
+  "how_to_shoot": "Freeze mid-splash with label.",
+  "detection_cues": "0s motion; 0.5s freeze; 1s freeze; 1.5s resume.",
+  "search_keywords": [
+   "pause",
+   "wait"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Stop Motion",
+  "aliases": [
+   "stop-motion animation",
+   "frame-by-frame"
+  ],
+  "what_you_see": "Product moves in choppy frame-by-frame steps, assembling or walking itself.",
+  "why_it_works": "Handcrafted novelty; objects 'alive'.",
+  "how_to_shoot": "Shoot 20 photos moving product box, play at 12fps.",
+  "detection_cues": "0s product; 0.5s jumped position; 1s another; 1.5s another (no motion blur).",
+  "search_keywords": [
+   "stop motion",
+   "satisfying"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Slow Motion Hero",
+  "aliases": [
+   "slo-mo",
+   "high frame rate"
+  ],
+  "what_you_see": "Ultra slow-motion of action (hair flip, splash, crumble).",
+  "why_it_works": "Reveals invisible detail; luxurious feel.",
+  "how_to_shoot": "240fps shot of serum drop hitting skin.",
+  "detection_cues": "0s action starting slowly; 0.5s droplet/motion visible in detail; 1s still slow; 1.5s slow.",
+  "search_keywords": [
+   "slow mo"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Time-lapse / Hyperlapse",
+  "aliases": [
+   "sped-up process"
+  ],
+  "what_you_see": "Hours compressed into seconds (plant growth, cleaning, melting).",
+  "why_it_works": "Visible change at unnatural speed.",
+  "how_to_shoot": "Time-lapse of the stain vanishing over 30 minutes.",
+  "detection_cues": "0s scene; 0.5s rapid change; 1s more change; 1.5s near end.",
+  "search_keywords": [
+   "overnight",
+   "24 hours"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Blur-to-Focus",
+  "aliases": [
+   "rack focus",
+   "blurred focus technique",
+   "depth of field pull"
+  ],
+  "what_you_see": "Opens blurred (text or subject) and slowly/sharply comes into focus.",
+  "why_it_works": "Brain needs to resolve unclear information.",
+  "how_to_shoot": "Blurred claim on paper racks into focus; or foreground product racks to face.",
+  "detection_cues": "0s blurred frame; 0.5s partial focus; 1s sharp; 1.5s sharp.",
+  "search_keywords": [
+   "focus",
+   "clear"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez); https://www.linkedin.com/posts/shafay-arif_never-put-all-your-eggs-in-one-basket-activity-7467913033139290113-jvb7"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Camera Shake Impact",
+  "aliases": [
+   "screen shake"
+  ],
+  "what_you_see": "Frame shakes violently on an impact or word.",
+  "why_it_works": "Simulated physical force.",
+  "how_to_shoot": "Add shake on product slam.",
+  "detection_cues": "0s stable; 0.5s violent jitter; 1s settle; 1.5s stable.",
+  "search_keywords": [
+   "boom"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Glitch / VHS / Datamosh",
+  "aliases": [
+   "glitch effect",
+   "vhs filter",
+   "digital error"
+  ],
+  "what_you_see": "Pixel smearing, RGB split, scan lines or datamosh artifacts.",
+  "why_it_works": "Looks like a malfunction; brain checks.",
+  "how_to_shoot": "Glitch transition into the product reveal.",
+  "detection_cues": "0s RGB split/scan lines; 0.5s pixel smear; 1s clean image; 1.5s clean.",
+  "search_keywords": [
+   "glitch",
+   "error"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Green Screen Composite",
+  "aliases": [
+   "green screen",
+   "background replace"
+  ],
+  "what_you_see": "Creator cut out over an image/article/website/product page background.",
+  "why_it_works": "Credibility of source + native TikTok look.",
+  "how_to_shoot": "Creator over the product page or an article about the problem.",
+  "detection_cues": "0s creator edges over still background; 0.5s creator talking; 1s background shows headline; 1.5s pointing.",
+  "search_keywords": [
+   "green screen",
+   "article"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Jump Out of Phone",
+  "aliases": [
+   "out of screen",
+   "portal"
+  ],
+  "what_you_see": "Creator appears to exit a phone/TV screen into the real world.",
+  "why_it_works": "Impossible 2D-to-3D crossing.",
+  "how_to_shoot": "Composite creator stepping out of phone with product.",
+  "detection_cues": "0s phone screen showing creator; 0.5s creator breaching screen; 1s in real room; 1.5s talking.",
+  "search_keywords": [
+   "out of my phone"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Multi-Screen Self Conversation",
+  "aliases": [
+   "talking to self on screens"
+  ],
+  "what_you_see": "The same person on multiple screens (laptop, phone, monitor) talking to each other.",
+  "why_it_works": "Repetition + dialogue novelty.",
+  "how_to_shoot": "Record 3 takes, play on devices, film the desk.",
+  "detection_cues": "0s several screens with same face; 0.5s one speaks; 1s another responds; 1.5s continues.",
+  "search_keywords": [
+   "meeting with myself"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Vanish / Magic Disappear",
+  "aliases": [
+   "object removal",
+   "poof"
+  ],
+  "what_you_see": "Object or person disappears with a snap/poof effect.",
+  "why_it_works": "Object permanence violation.",
+  "how_to_shoot": "Make the clutter vanish, leaving organizer.",
+  "detection_cues": "0s object present; 0.5s gesture; 1s object gone; 1.5s clean scene.",
+  "search_keywords": [
+   "gone",
+   "poof"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Giant / Miniature Scale Illusion",
+  "aliases": [
+   "forced perspective",
+   "giant product",
+   "tiny person"
+  ],
+  "what_you_see": "Product appears huge next to people/buildings or creator appears tiny.",
+  "why_it_works": "Scale violation grabs attention instantly.",
+  "how_to_shoot": "Forced perspective: product close to lens, person far away 'holding' it.",
+  "detection_cues": "0s scale mismatch; 0.5s interaction; 1s mismatch persists; 1.5s reveal of trick or not.",
+  "search_keywords": [
+   "giant",
+   "tiny",
+   "huge"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "FOOH / CGI Product Stunt",
+  "aliases": [
+   "fake out of home",
+   "3D product in city"
+  ],
+  "what_you_see": "CGI product doing the impossible in real environment (giant lipstick on a bus, bottle on a building).",
+  "why_it_works": "Looks real yet impossible.",
+  "how_to_shoot": "AI video generator composite of product over city skyline.",
+  "detection_cues": "0s real location with oversized CGI product; 0.5s product moving; 1s people react; 1.5s.",
+  "search_keywords": [
+   "CGI",
+   "FOOH"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "AI Morph / Transformation",
+  "aliases": [
+   "morph",
+   "AI transition"
+  ],
+  "what_you_see": "One object/person morphs smoothly into another (old product morphs into new).",
+  "why_it_works": "Continuous impossible change.",
+  "how_to_shoot": "Morph competitor bottle into your bottle.",
+  "detection_cues": "0s object A; 0.5s blending; 1s object B; 1.5s hold.",
+  "search_keywords": [
+   "upgrade",
+   "switch"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Mask Reveal Transition",
+  "aliases": [
+   "object mask transition"
+  ],
+  "what_you_see": "A new scene appears within a moving object's silhouette (door, arm, product).",
+  "why_it_works": "Layered reveal.",
+  "how_to_shoot": "Mask 'after' scene within the product as it passes.",
+  "detection_cues": "0s scene A; 0.5s object shows scene B within it; 1s scene B full; 1.5s hold.",
+  "search_keywords": [
+   "reveal"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Zoom Out Reveal",
+  "aliases": [
+   "pull back reveal"
+  ],
+  "what_you_see": "Starts extreme close on a detail, pulls out to reveal full surprising context.",
+  "why_it_works": "Recontextualization payoff.",
+  "how_to_shoot": "Close on texture; pull back to show it's the product in use.",
+  "detection_cues": "0s abstract close texture; 0.5s widening; 1s context emerging; 1.5s full reveal.",
+  "search_keywords": [
+   "what is this",
+   "guess"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "X-Ray / Cutaway 3D",
+  "aliases": [
+   "anatomy animation",
+   "3D explainer"
+  ],
+  "what_you_see": "3D render showing inside body/product (how it works).",
+  "why_it_works": "Seeing the invisible.",
+  "how_to_shoot": "3D animation of product fibers or gut bacteria.",
+  "detection_cues": "0s rendered 3D internal view; 0.5s animated; 1s callout; 1.5s continues.",
+  "search_keywords": [
+   "how it works",
+   "science"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Visual effects",
+  "name": "Sunglasses Text Reflection",
+  "aliases": [
+   "reflection text"
+  ],
+  "what_you_see": "Zoom into sunglasses lenses reflecting a screen with the key message.",
+  "why_it_works": "Hidden message in reflection = discovery.",
+  "how_to_shoot": "Creator in shades facing laptop with claim; zoom into reflection.",
+  "detection_cues": "0s face with sunglasses; 0.5s zooming; 1s reflection text readable; 1.5s hold.",
+  "search_keywords": [
+   "read this"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "High Motion Base B-Roll",
+  "aliases": [
+   "high-motion footage",
+   "action b-roll"
+  ],
+  "what_you_see": "The base footage itself contains high motion (sports, vehicles, crowds, splashes).",
+  "why_it_works": "Motion-rich frames beat static talking heads.",
+  "how_to_shoot": "Use product in motion: bike ride, workout, pouring.",
+  "detection_cues": "0s lots of motion across frame; 0.5s continues; 1s continues; 1.5s continues.",
+  "search_keywords": [
+   "action"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Unusual First Image/Scene",
+  "aliases": [
+   "weird opener",
+   "out-of-pattern image"
+  ],
+  "what_you_see": "A full-screen image or scene that visually breaks convention (odd object, bizarre place).",
+  "why_it_works": "Novelty detection.",
+  "how_to_shoot": "Product in a bizarre spot (bathtub full of product).",
+  "detection_cues": "0s unusual composition; 0.5s held; 1s maybe creator; 1.5s continues.",
+  "search_keywords": [
+   "weird",
+   "wait what"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Silent Reaction PIP",
+  "aliases": [
+   "reaction picture-in-picture",
+   "silent watch"
+  ],
+  "what_you_see": "Base clip plays while creator in a small corner box watches silently, then reacts.",
+  "why_it_works": "Emotional contagion; curiosity about reaction.",
+  "how_to_shoot": "Founder in corner watching a customer video, reacts.",
+  "detection_cues": "0s base clip + small face box; 0.5s silent face; 1s reaction; 1.5s talk.",
+  "search_keywords": [
+   "reaction",
+   "watch this"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Visual Mistake",
+  "aliases": [
+   "glitch in frame",
+   "error-looking element"
+  ],
+  "what_you_see": "Something that looks like an error (misplaced object, weird crop, mis-framed shot).",
+  "why_it_works": "Brain fixates on anomalies.",
+  "how_to_shoot": "Leave a deliberate 'mistake' (camera upside down, product half-out).",
+  "detection_cues": "0s anomalous element; 0.5s still there; 1s continues; 1.5s.",
+  "search_keywords": [
+   "oops",
+   "wait"
+  ],
+  "source": "Kallaway collection (Short-Form Lego Bricks DB, https://www.scribd.com/document/1064813825)"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Macro ASMR Close-Up",
+  "aliases": [
+   "extreme close-up",
+   "macro texture"
+  ],
+  "what_you_see": "Extreme macro of texture: cream swirl, fabric weave, bubbles.",
+  "why_it_works": "Sensory detail rarely seen; ASMR satisfaction.",
+  "how_to_shoot": "Macro lens on product texture.",
+  "detection_cues": "0s abstract texture filling frame; 0.5s movement; 1s detail; 1.5s pull back.",
+  "search_keywords": [
+   "asmr",
+   "texture",
+   "satisfying"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Oddly Satisfying Process",
+  "aliases": [
+   "satisfying video",
+   "clean cut"
+  ],
+  "what_you_see": "Perfectly clean process: peeling film, cutting, pressure washing, perfect fit.",
+  "why_it_works": "Completion satisfaction.",
+  "how_to_shoot": "Peel protective film off product; pressure wash a stain.",
+  "detection_cues": "0s process start; 0.5s partially done; 1s progress; 1.5s near-complete.",
+  "search_keywords": [
+   "satisfying",
+   "clean"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Gross / Problem Close-Up",
+  "aliases": [
+   "ick shot",
+   "disgust hook"
+  ],
+  "what_you_see": "Close-up of the problem: dirty filter, blackheads, stain, mold.",
+  "why_it_works": "Disgust grabs attention; self-check.",
+  "how_to_shoot": "Show the gunk in an old pillow.",
+  "detection_cues": "0s repellent problem visual; 0.5s closer; 1s more; 1.5s product appears.",
+  "search_keywords": [
+   "gross",
+   "disgusting",
+   "look at this"
+  ],
+  "source": "general; https://zeely.ai/blog/7-scroll-stopping-hooks/"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Before/After Result Shot",
+  "aliases": [
+   "side-by-side result",
+   "transformation proof"
+  ],
+  "what_you_see": "Opens directly on the result or side-by-side before/after.",
+  "why_it_works": "Instant proof payoff.",
+  "how_to_shoot": "Show result first, then how.",
+  "detection_cues": "0s after state or split; 0.5s same; 1s before shown; 1.5s.",
+  "search_keywords": [
+   "before",
+   "after",
+   "results"
+  ],
+  "source": "https://ads.tiktok.com/business/en/guides/video-advertising-guide"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Unusual Location",
+  "aliases": [
+   "weird place filming",
+   "shower clothed"
+  ],
+  "what_you_see": "Creator in odd place: shopping cart, washing machine, car trunk, freezer aisle.",
+  "why_it_works": "Setting incongruity.",
+  "how_to_shoot": "Pitch skincare sitting in a bathtub full of clothes.",
+  "detection_cues": "0s atypical location; 0.5s creator speaking; 1s location obvious; 1.5s continues.",
+  "search_keywords": [
+   "why am I here"
+  ],
+  "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Absurd Prop",
+  "aliases": [
+   "banana microphone",
+   "silly prop"
+  ],
+  "what_you_see": "Creator uses an absurd prop (banana as microphone, giant clock).",
+  "why_it_works": "Humor + incongruity.",
+  "how_to_shoot": "Oversized prop version of product.",
+  "detection_cues": "0s prop visible; 0.5s use; 1s creator; 1.5s continues.",
+  "search_keywords": [
+   "breaking news"
+  ],
+  "source": "https://www.scribd.com/document/904349354/60-Visual-Hooks-1"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Out-of-Place Element",
+  "aliases": [
+   "one thing wrong",
+   "odd item"
+  ],
+  "what_you_see": "Orderly scene with one element clearly not belonging.",
+  "why_it_works": "Anomaly detection.",
+  "how_to_shoot": "Neat vanity with a live lobster beside product.",
+  "detection_cues": "0s orderly frame + anomaly; 0.5s anomaly moves; 1s; 1.5s.",
+  "search_keywords": [
+   "spot the difference"
+  ],
+  "source": "https://thebrandaudit.ca/blogs/news/10-visual-hooks-to-stop-the-scroll"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "First-Person POV Hands",
+  "aliases": [
+   "POV hands",
+   "first person"
+  ],
+  "what_you_see": "Camera at eye level showing the viewer's own hands using the product.",
+  "why_it_works": "Self-projection.",
+  "how_to_shoot": "Chest mount or head-height shot of hands opening the product.",
+  "detection_cues": "0s hands in foreground from bottom edge; 0.5s interacting; 1s; 1.5s.",
+  "search_keywords": [
+   "POV",
+   "you"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "CCTV / Security Cam Look",
+  "aliases": [
+   "ring doorbell footage",
+   "surveillance"
+  ],
+  "what_you_see": "Grainy, high-angle, timestamped security footage.",
+  "why_it_works": "Voyeuristic realism.",
+  "how_to_shoot": "Doorbell-cam style: package delivered, dog steals.",
+  "detection_cues": "0s fisheye high angle + timestamp; 0.5s action; 1s; 1.5s.",
+  "search_keywords": [
+   "caught on camera",
+   "ring camera"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Celebrity / Famous Clip",
+  "aliases": [
+   "celebrity b-roll"
+  ],
+  "what_you_see": "Recognizable celebrity/meme face in the first frame.",
+  "why_it_works": "Face recognition triggers attention.",
+  "how_to_shoot": "Licensed or meme clip relevant to benefit (use carefully).",
+  "detection_cues": "0s famous face; 0.5s; 1s; 1.5s cut.",
+  "search_keywords": [
+   "celebrity"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Animal / Pet Hook",
+  "aliases": [
+   "dog opener",
+   "cat hook"
+  ],
+  "what_you_see": "Pet in frame doing something cute or funny with product.",
+  "why_it_works": "Universally attractive stimulus.",
+  "how_to_shoot": "Dog 'reviewing' the pet product.",
+  "detection_cues": "0s animal visible; 0.5s action; 1s; 1.5s product.",
+  "search_keywords": [
+   "my dog",
+   "pets"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Baby / Kid Hook",
+  "aliases": [
+   "child opener"
+  ],
+  "what_you_see": "Baby or child in frame reacting/using product.",
+  "why_it_works": "Protective attention bias.",
+  "how_to_shoot": "Toddler trying the product with parent reaction.",
+  "detection_cues": "0s child; 0.5s action; 1s reaction; 1.5s.",
+  "search_keywords": [
+   "mom hack",
+   "my toddler"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Creative Absurd Demo",
+  "aliases": [
+   "tomato concealer",
+   "unexpected object demo"
+  ],
+  "what_you_see": "Product demonstrated on an unexpected object (tomato, egg, balloon).",
+  "why_it_works": "Absurdity is memorable.",
+  "how_to_shoot": "Apply concealer to a tomato with eyes cut out.",
+  "detection_cues": "0s odd object; 0.5s product applied; 1s effect visible; 1.5s.",
+  "search_keywords": [
+   "test",
+   "on a"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Lab / Side-by-Side Experiment",
+  "aliases": [
+   "science test",
+   "comparison experiment"
+  ],
+  "what_you_see": "Two containers/samples side by side with labels being tested.",
+  "why_it_works": "Evidence framing.",
+  "how_to_shoot": "Two cups: competitor vs yours.",
+  "detection_cues": "0s two labeled samples; 0.5s test begins; 1s divergence; 1.5s.",
+  "search_keywords": [
+   "test",
+   "experiment"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Microscope View",
+  "aliases": [
+   "under the microscope"
+  ],
+  "what_you_see": "Microscope/magnified imagery of skin, fabric, bacteria.",
+  "why_it_works": "Invisible world revealed.",
+  "how_to_shoot": "USB microscope on skin before/after.",
+  "detection_cues": "0s magnified circle; 0.5s; 1s; 1.5s.",
+  "search_keywords": [
+   "microscope",
+   "zoomed in"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Chaos / Mess Scene",
+  "aliases": [
+   "disaster scene"
+  ],
+  "what_you_see": "Opens on a messy, chaotic room/situation.",
+  "why_it_works": "Disorder draws scanning.",
+  "how_to_shoot": "Messy closet before organizer.",
+  "detection_cues": "0s cluttered frame; 0.5s; 1s creator; 1.5s.",
+  "search_keywords": [
+   "mess",
+   "chaos"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Window Watching Scenario",
+  "aliases": [
+   "spotting someone"
+  ],
+  "what_you_see": "Creator peeks out window at someone with product.",
+  "why_it_works": "Voyeurism + intrigue.",
+  "how_to_shoot": "Peek through blinds at neighbor with product.",
+  "detection_cues": "0s blinds/window; 0.5s creator peering; 1s POV of outside; 1.5s.",
+  "search_keywords": [
+   "my neighbor"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Megaphone Announcement",
+  "aliases": [
+   "PSA megaphone"
+  ],
+  "what_you_see": "Creator shouting through a megaphone.",
+  "why_it_works": "Urgency and noise cue.",
+  "how_to_shoot": "Announce sale through megaphone.",
+  "detection_cues": "0s megaphone; 0.5s; 1s; 1.5s.",
+  "search_keywords": [
+   "PSA",
+   "attention"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Car Talking Head",
+  "aliases": [
+   "car selfie"
+  ],
+  "what_you_see": "Creator in driver's seat talking, parked.",
+  "why_it_works": "Native, authentic UGC setting.",
+  "how_to_shoot": "Film car review for car accessory.",
+  "detection_cues": "0s car interior; 0.5s talking; 1s; 1.5s.",
+  "search_keywords": [
+   "car",
+   "storytime"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Lo-Fi Native Selfie",
+  "aliases": [
+   "UGC selfie",
+   "phone front camera"
+  ],
+  "what_you_see": "Vertical front-camera selfie, casual lighting, no graphics.",
+  "why_it_works": "Looks like a friend's post.",
+  "how_to_shoot": "Creator's phone front cam in real home.",
+  "detection_cues": "0s arm-length selfie; 0.5s talking; 1s; 1.5s.",
+  "search_keywords": [
+   "honest",
+   "real"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Low-Angle Hero Product",
+  "aliases": [
+   "hero shot",
+   "product beauty shot"
+  ],
+  "what_you_see": "Low-angle product shot with dramatic lighting.",
+  "why_it_works": "Monumentality.",
+  "how_to_shoot": "Shoot product from table level against backlight.",
+  "detection_cues": "0s product large from below; 0.5s light; 1s rotation; 1.5s.",
+  "search_keywords": [
+   "new"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Archival / Vintage Footage",
+  "aliases": [
+   "old footage",
+   "retro"
+  ],
+  "what_you_see": "Old film grain footage or historical photo.",
+  "why_it_works": "Nostalgia + contrast.",
+  "how_to_shoot": "Vintage ad clip then modern product.",
+  "detection_cues": "0s grainy footage; 0.5s; 1s; 1.5s cut.",
+  "search_keywords": [
+   "back in",
+   "history"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Empty Shelves / Sold Out",
+  "aliases": [
+   "sold out shelves"
+  ],
+  "what_you_see": "Empty store shelves or 'sold out' signs.",
+  "why_it_works": "Scarcity.",
+  "how_to_shoot": "Film empty display in store.",
+  "detection_cues": "0s empty shelves; 0.5s pan; 1s sign; 1.5s.",
+  "search_keywords": [
+   "sold out",
+   "restock"
+  ],
+  "source": "general"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "Cloud Message Mystery",
+  "aliases": [
+   "look up at sky"
+  ],
+  "what_you_see": "Creator points skyward, then holds up sign.",
+  "why_it_works": "Curiosity build.",
+  "how_to_shoot": "Point up; sign with value prop.",
+  "detection_cues": "0s pointing up; 0.5s; 1s sign; 1.5s.",
+  "search_keywords": [
+   "message"
+  ],
+  "source": "https://motionapp.com/blog/best-dtc-meta-ad-hooks-2025 (Savannah Sanchez)"
+ },
+ {
+  "category": "Unique visual selection",
+  "name": "3D Talking Character",
+  "aliases": [
+   "Talking Organ",
+   "Pixar-style mascot",
+   "AI character opener",
+   "Claymation character"
+  ],
+  "what_you_see": "Frame 1 is a 3D/Pixar-style or claymation character (an organ, pill, body part, germ, animal or product) looking at camera and talking, often in a real-world set.",
+  "why_it_works": "An unexpected cartoon character in a feed of real people breaks the pattern and personifies the problem.",
+  "how_to_shoot": "Generate a character of the problem (e.g. a tired liver, a hair follicle) with an AI image/video tool and have it deliver line 1 straight to camera.",
+  "detection_cues": "Non-human 3D/clay character with a face in the first frame, mouth moving across 0-1.5s.",
+  "search_keywords": [
+   "liver",
+   "gut",
+   "hair follicle",
+   "talking"
+  ],
+  "source": "found in winning ads (this hunt)"
+ },
+ {
+  "category": "Graphic & text overlays",
+  "name": "Tier List Board",
+  "aliases": [
+   "S-tier ranking",
+   "Tier ranking graphic"
+  ],
+  "what_you_see": "Opens on an S/A/B/C/F tier-list board being filled with products or options.",
+  "why_it_works": "Rankings trigger opinion and the urge to see where their pick lands.",
+  "how_to_shoot": "Screen-record or overlay a tier board; drag competitors into low tiers and your product into S tier.",
+  "detection_cues": "Coloured tier rows labelled S/A/B/C in the first second.",
+  "search_keywords": [
+   "tier list",
+   "ranking",
+   "ranked",
+   "s tier"
+  ],
+  "source": "found in winning ads (this hunt)"
+ },
+ {
+  "category": "Subject motion",
+  "name": "Yap Cold Open",
+  "aliases": [
+   "mid-sentence open",
+   "cold open talking head",
+   "already talking"
+  ],
+  "what_you_see": "Frame 1 is the creator already mid-sentence and mid-gesture (often walking or leaning toward the lens). No intro, no settling in: the video feels like you dropped into a conversation already in motion.",
+  "why_it_works": "Skipping the wind-up removes the dead first half-second where viewers swipe. Energy plus movement from frame 1 reads as 'something is already happening'.",
+  "how_to_shoot": "Start recording, talk for 2-3 seconds, then cut the clip so it opens mid-word while you're moving toward camera holding the product. Title text on screen carries the hook.",
+  "detection_cues": "0s creator already mid-word with mouth open/gesturing; 0.5-3s continuous talking, often moving toward lens; no intro pause or settling.",
+  "search_keywords": [
+   "talking head",
+   "storytime",
+   "yap"
+  ],
+  "source": "Kallaway Short-Form Lego Bricks FigJam (Visual Hooks #20). Definition inferred: card text not readable without Figma login"
+ }
+]
