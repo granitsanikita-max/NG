@@ -55,7 +55,16 @@ def fetch(src, organic, out):
             if r.status_code != 200: return False
             with open(out, "wb") as f:
                 for c in r.iter_content(1 << 20): f.write(c)
-    return os.path.exists(out) and os.path.getsize(out) > 20000
+    return is_video(out)
+def is_video(p):
+    if not os.path.exists(p) or os.path.getsize(p) < 20000: return False
+    with open(p, "rb") as f: return f.read(12)[4:8] == b"ftyp"
+def purge_bad(st, bad_ids):
+    """Trash Drive copies of known-bad (non-video) downloads so they get redone or dropped."""
+    for vid in bad_ids:
+        fid = st["done"].pop(vid, None)
+        if fid: px("PATCH", f"https://www.googleapis.com/drive/v3/files/{fid}", body={"trashed": True}); log(f"purged {vid}")
+    save(st)
 def upload(path, name, parent):
     d = px("POST", "https://www.googleapis.com/upload/drive/v3/files", body={"name": name, "parents": [parent]},
            headers={"X-Upload-Content-Type": "video/mp4"}, query={"uploadType": "resumable"})
@@ -79,6 +88,8 @@ def one(job, st):
 def run():
     jobs = requests.get(JOBS_URL, timeout=60).json()
     st = load(); sync(st)
+    try: purge_bad(st, requests.get(JOBS_URL.replace("drive_jobs.json", "bad_vids.json"), timeout=60).json())
+    except Exception as e: log("purge skipped " + str(e)[:100])
     for fname in sorted({j[0] for j in jobs}):
         if fname not in st["folders"]: st["folders"][fname] = mkfolder(fname, st["root"])
     save(st)
