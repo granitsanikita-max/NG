@@ -1,0 +1,79 @@
+{
+ "g_text": {
+  "cards": 31,
+  "cards_expected": 31,
+  "images": 88,
+  "expected_images": 88,
+  "plan_slots": 89,
+  "missing": [
+   {
+    "pos": 51,
+    "id": "6973478683180813573",
+    "kind": "gif",
+    "cx": 1536,
+    "cy": 8385,
+    "name": "Social Post Screenshot"
+   }
+  ],
+  "duplicates_deleted": [],
+  "strays": [],
+  "full_video_labels": 81,
+  "full_video_raw_matches": 112,
+  "gif_entries": 81,
+  "note": "position 51 (id 6973478683180813573, Social Post Screenshot) is the known-missing slot; not uploaded per instructions."
+ },
+ "g_pattern": {
+  "cards": 18,
+  "cards_expected": 18,
+  "images": 53,
+  "expected_images": 53,
+  "plan_slots": 53,
+  "missing": [],
+  "duplicates_deleted": [],
+  "strays": [],
+  "full_video_labels": 47,
+  "full_video_raw_matches": 64,
+  "gif_entries": 47,
+  "note": "64 raw Full video matches = 47 clip labels (300px, each mapped to a gif slot) + 17 card descriptions; one card description (right card at y=28563) lacks the phrase."
+ },
+ "g_motion": {
+  "cards": 40,
+  "cards_expected": 40,
+  "images": 143,
+  "expected_images": 143,
+  "plan_slots": 143,
+  "missing": [],
+  "duplicates_deleted": [],
+  "strays": [],
+  "full_video_labels": 123,
+  "full_video_raw_matches": 163,
+  "gif_entries": 123
+ },
+ "g_fx": {
+  "cards": 26,
+  "cards_expected": 26,
+  "images": 75,
+  "expected_images": 75,
+  "plan_slots": 75,
+  "missing": [],
+  "duplicates_deleted": [],
+  "strays": [],
+  "full_video_labels": 67,
+  "full_video_raw_matches": 93,
+  "gif_entries": 67
+ },
+ "g_unique": {
+  "cards": 26,
+  "cards_expected": 26,
+  "images": 104,
+  "expected_images": 104,
+  "plan_slots": 104,
+  "missing": [],
+  "duplicates_deleted": [],
+  "strays": [],
+  "full_video_labels": 100,
+  "full_video_raw_matches": 126,
+  "gif_entries": 100
+ },
+ "_method": "full_video_labels for g_text/g_motion/g_fx/g_unique = raw matches minus one card-description match per card; g_pattern verified label-by-label."
+}

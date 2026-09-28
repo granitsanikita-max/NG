@@ -1,0 +1,4642 @@
+[
+{
+"frame": "g_text",
+"file": "gifs/791363514042846.gif",
+"cx": 1186,
+"cy": 598,
+"width": 300,
+"name": "Comment Reply Bubble",
+"id": "791363514042846",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7198217388105334786.gif",
+"cx": 1536,
+"cy": 598,
+"width": 300,
+"name": "Comment Reply Bubble",
+"id": "7198217388105334786",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1659465078428929.gif",
+"cx": 1886,
+"cy": 598,
+"width": 300,
+"name": "Comment Reply Bubble",
+"id": "1659465078428929",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1317078410335575.gif",
+"cx": 1186,
+"cy": 1281,
+"width": 300,
+"name": "Comment Reply Bubble",
+"id": "1317078410335575",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7537969608994537473.gif",
+"cx": 1536,
+"cy": 1281,
+"width": 300,
+"name": "Comment Reply Bubble",
+"id": "7537969608994537473",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1374554344168414.gif",
+"cx": 1886,
+"cy": 1281,
+"width": 300,
+"name": "Comment Reply Bubble",
+"id": "1374554344168414",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1426451735807170.gif",
+"cx": 3254,
+"cy": 598,
+"width": 300,
+"name": "Kinetic Typography",
+"id": "1426451735807170",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1694993784990054.gif",
+"cx": 3604,
+"cy": 598,
+"width": 300,
+"name": "Kinetic Typography",
+"id": "1694993784990054",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1457222762283461.gif",
+"cx": 3954,
+"cy": 598,
+"width": 300,
+"name": "Kinetic Typography",
+"id": "1457222762283461",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7516573919123767303.gif",
+"cx": 3254,
+"cy": 1281,
+"width": 300,
+"name": "Kinetic Typography",
+"id": "7516573919123767303",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1392141725366031.gif",
+"cx": 3604,
+"cy": 1281,
+"width": 300,
+"name": "Kinetic Typography",
+"id": "1392141725366031",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1023936047275903.gif",
+"cx": 3954,
+"cy": 1281,
+"width": 300,
+"name": "Kinetic Typography",
+"id": "1023936047275903",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/851756551224948.gif",
+"cx": 1186,
+"cy": 2092,
+"width": 300,
+"name": "Split Screen / Duet",
+"id": "851756551224948",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1695398168284608.gif",
+"cx": 1536,
+"cy": 2092,
+"width": 300,
+"name": "Split Screen / Duet",
+"id": "1695398168284608",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1313504424081454.gif",
+"cx": 1886,
+"cy": 2092,
+"width": 300,
+"name": "Split Screen / Duet",
+"id": "1313504424081454",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/2057641308149788.gif",
+"cx": 1186,
+"cy": 2775,
+"width": 300,
+"name": "Split Screen / Duet",
+"id": "2057641308149788",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/972198998917709.gif",
+"cx": 1536,
+"cy": 2775,
+"width": 300,
+"name": "Split Screen / Duet",
+"id": "972198998917709",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1548575990227434.gif",
+"cx": 1886,
+"cy": 2775,
+"width": 300,
+"name": "Split Screen / Duet",
+"id": "1548575990227434",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1516389016946968.gif",
+"cx": 3254,
+"cy": 2092,
+"width": 300,
+"name": "A vs B Comparison Graphics",
+"id": "1516389016946968",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7568135413107130385.gif",
+"cx": 3604,
+"cy": 2092,
+"width": 300,
+"name": "A vs B Comparison Graphics",
+"id": "7568135413107130385",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1357635396267194.gif",
+"cx": 3954,
+"cy": 2092,
+"width": 300,
+"name": "A vs B Comparison Graphics",
+"id": "1357635396267194",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/2773476013013159.gif",
+"cx": 3254,
+"cy": 2775,
+"width": 300,
+"name": "A vs B Comparison Graphics",
+"id": "2773476013013159",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "../figma/kref/21.jpg",
+"cx": 3448,
+"cy": 3434,
+"width": 688,
+"name": "A vs B Comparison Graphics",
+"id": "K21",
+"kind": "kref"
+},
+{
+"frame": "g_text",
+"file": "gifs/1182374697319552.gif",
+"cx": 1186,
+"cy": 4022,
+"width": 300,
+"name": "Price Slash / Sale Tag",
+"id": "1182374697319552",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/625994050536793.gif",
+"cx": 1536,
+"cy": 4022,
+"width": 300,
+"name": "Price Slash / Sale Tag",
+"id": "625994050536793",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/2053478465382981.gif",
+"cx": 1886,
+"cy": 4022,
+"width": 300,
+"name": "Price Slash / Sale Tag",
+"id": "2053478465382981",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1627303135485493.gif",
+"cx": 1186,
+"cy": 4705,
+"width": 300,
+"name": "Price Slash / Sale Tag",
+"id": "1627303135485493",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7242635897233276929.gif",
+"cx": 3254,
+"cy": 4022,
+"width": 300,
+"name": "Circle / Highlight Annotation",
+"id": "7242635897233276929",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/946212441224736.gif",
+"cx": 3604,
+"cy": 4022,
+"width": 300,
+"name": "Circle / Highlight Annotation",
+"id": "946212441224736",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7573945942438051856.gif",
+"cx": 3954,
+"cy": 4022,
+"width": 300,
+"name": "Circle / Highlight Annotation",
+"id": "7573945942438051856",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/2164131244436352.gif",
+"cx": 1186,
+"cy": 5516,
+"width": 300,
+"name": "Image Overlay Motion",
+"id": "2164131244436352",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7550793700121788424.gif",
+"cx": 1536,
+"cy": 5516,
+"width": 300,
+"name": "Image Overlay Motion",
+"id": "7550793700121788424",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1012212318339436.gif",
+"cx": 1886,
+"cy": 5516,
+"width": 300,
+"name": "Image Overlay Motion",
+"id": "1012212318339436",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "../figma/kref/27.jpg",
+"cx": 1379,
+"cy": 6175,
+"width": 686,
+"name": "Image Overlay Motion",
+"id": "K27",
+"kind": "kref"
+},
+{
+"frame": "g_text",
+"file": "gifs/947241038183865.gif",
+"cx": 3254,
+"cy": 5516,
+"width": 300,
+"name": "Text/Arrow Pointer",
+"id": "947241038183865",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7543870414394523649.gif",
+"cx": 3604,
+"cy": 5516,
+"width": 300,
+"name": "Text/Arrow Pointer",
+"id": "7543870414394523649",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1960639737950578.gif",
+"cx": 3954,
+"cy": 5516,
+"width": 300,
+"name": "Text/Arrow Pointer",
+"id": "1960639737950578",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "../figma/kref/24.jpg",
+"cx": 3312,
+"cy": 6175,
+"width": 416,
+"name": "Text/Arrow Pointer",
+"id": "K24",
+"kind": "kref"
+},
+{
+"frame": "g_text",
+"file": "gifs/1930087600921834.gif",
+"cx": 1186,
+"cy": 6763,
+"width": 300,
+"name": "Bold Headline Text Box",
+"id": "1930087600921834",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1258656005599647.gif",
+"cx": 1536,
+"cy": 6763,
+"width": 300,
+"name": "Bold Headline Text Box",
+"id": "1258656005599647",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/2238052297021822.gif",
+"cx": 1886,
+"cy": 6763,
+"width": 300,
+"name": "Bold Headline Text Box",
+"id": "2238052297021822",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7600339144322236417.gif",
+"cx": 3254,
+"cy": 6763,
+"width": 300,
+"name": "Breaking News Lower Third",
+"id": "7600339144322236417",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/2090178495206736.gif",
+"cx": 3604,
+"cy": 6763,
+"width": 300,
+"name": "Breaking News Lower Third",
+"id": "2090178495206736",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/2311196736357247.gif",
+"cx": 3954,
+"cy": 6763,
+"width": 300,
+"name": "Breaking News Lower Third",
+"id": "2311196736357247",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1532333041894960.gif",
+"cx": 1186,
+"cy": 7574,
+"width": 300,
+"name": "Handwritten Sign / Paper Note",
+"id": "1532333041894960",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1617398302825371.gif",
+"cx": 1536,
+"cy": 7574,
+"width": 300,
+"name": "Handwritten Sign / Paper Note",
+"id": "1617398302825371",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/2247925729395267.gif",
+"cx": 1886,
+"cy": 7574,
+"width": 300,
+"name": "Handwritten Sign / Paper Note",
+"id": "2247925729395267",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1929208381318205.gif",
+"cx": 3254,
+"cy": 7574,
+"width": 300,
+"name": "Meme Caption Frame",
+"id": "1929208381318205",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/2016221466446105.gif",
+"cx": 3604,
+"cy": 7574,
+"width": 300,
+"name": "Meme Caption Frame",
+"id": "2016221466446105",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7532407435593138192.gif",
+"cx": 3954,
+"cy": 7574,
+"width": 300,
+"name": "Meme Caption Frame",
+"id": "7532407435593138192",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/6916730178550992134.gif",
+"cx": 1186,
+"cy": 8385,
+"width": 300,
+"name": "Social Post Screenshot",
+"id": "6916730178550992134",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/6973478683180813573.gif",
+"cx": 1536,
+"cy": 8385,
+"width": 300,
+"name": "Social Post Screenshot",
+"id": "6973478683180813573",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1302768615402347.gif",
+"cx": 1886,
+"cy": 8385,
+"width": 300,
+"name": "Social Post Screenshot",
+"id": "1302768615402347",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1441327897443731.gif",
+"cx": 3254,
+"cy": 8385,
+"width": 300,
+"name": "Tier List Board",
+"id": "1441327897443731",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1517424829952192.gif",
+"cx": 3604,
+"cy": 8385,
+"width": 300,
+"name": "Tier List Board",
+"id": "1517424829952192",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/2664015937329074.gif",
+"cx": 3954,
+"cy": 8385,
+"width": 300,
+"name": "Tier List Board",
+"id": "2664015937329074",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7389694936666377505.gif",
+"cx": 1186,
+"cy": 9196,
+"width": 300,
+"name": "Interactive Title",
+"id": "7389694936666377505",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7352203354191285512.gif",
+"cx": 1536,
+"cy": 9196,
+"width": 300,
+"name": "Interactive Title",
+"id": "7352203354191285512",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "../figma/kref/23.jpg",
+"cx": 1380,
+"cy": 9855,
+"width": 688,
+"name": "Interactive Title",
+"id": "K23",
+"kind": "kref"
+},
+{
+"frame": "g_text",
+"file": "gifs/7377841231331642656.gif",
+"cx": 3254,
+"cy": 9196,
+"width": 300,
+"name": "Screen Recording w/ Motion",
+"id": "7377841231331642656",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7626740967495732501.gif",
+"cx": 3604,
+"cy": 9196,
+"width": 300,
+"name": "Screen Recording w/ Motion",
+"id": "7626740967495732501",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "../figma/kref/26.jpg",
+"cx": 3430,
+"cy": 9855,
+"width": 652,
+"name": "Screen Recording w/ Motion",
+"id": "K26",
+"kind": "kref"
+},
+{
+"frame": "g_text",
+"file": "gifs/1556753029480236.gif",
+"cx": 1186,
+"cy": 10443,
+"width": 300,
+"name": "Small Image Drop Overlay",
+"id": "1556753029480236",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1687815808944209.gif",
+"cx": 1536,
+"cy": 10443,
+"width": 300,
+"name": "Small Image Drop Overlay",
+"id": "1687815808944209",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "../figma/kref/25.jpg",
+"cx": 1361,
+"cy": 11102,
+"width": 650,
+"name": "Small Image Drop Overlay",
+"id": "K25",
+"kind": "kref"
+},
+{
+"frame": "g_text",
+"file": "gifs/26045790968384101.gif",
+"cx": 3254,
+"cy": 10443,
+"width": 300,
+"name": "Text Slide In",
+"id": "26045790968384101",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7220485633347977217.gif",
+"cx": 3604,
+"cy": 10443,
+"width": 300,
+"name": "Text Slide In",
+"id": "7220485633347977217",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "../figma/kref/22.jpg",
+"cx": 3448,
+"cy": 11101,
+"width": 688,
+"name": "Text Slide In",
+"id": "K22",
+"kind": "kref"
+},
+{
+"frame": "g_text",
+"file": "gifs/847489561431611.gif",
+"cx": 1186,
+"cy": 11690,
+"width": 300,
+"name": "Big Stat Callout",
+"id": "847489561431611",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/3535350146639311.gif",
+"cx": 1536,
+"cy": 11690,
+"width": 300,
+"name": "Big Stat Callout",
+"id": "3535350146639311",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7412790177485081899.gif",
+"cx": 3254,
+"cy": 11690,
+"width": 300,
+"name": "Fake Text / iMessage Thread",
+"id": "7412790177485081899",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7522956094482795790.gif",
+"cx": 3604,
+"cy": 11690,
+"width": 300,
+"name": "Fake Text / iMessage Thread",
+"id": "7522956094482795790",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7637190873394023702.gif",
+"cx": 1186,
+"cy": 12501,
+"width": 300,
+"name": "Motion-Tracked Text",
+"id": "7637190873394023702",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7639703827138055445.gif",
+"cx": 1536,
+"cy": 12501,
+"width": 300,
+"name": "Motion-Tracked Text",
+"id": "7639703827138055445",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1275189594565147.gif",
+"cx": 3254,
+"cy": 12501,
+"width": 300,
+"name": "Numbered Listicle Title",
+"id": "1275189594565147",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1550596629788896.gif",
+"cx": 3604,
+"cy": 12501,
+"width": 300,
+"name": "Numbered Listicle Title",
+"id": "1550596629788896",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1322531166387516.gif",
+"cx": 1186,
+"cy": 13312,
+"width": 300,
+"name": "Redacted / Censored Bar",
+"id": "1322531166387516",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1511734873659291.gif",
+"cx": 1536,
+"cy": 13312,
+"width": 300,
+"name": "Redacted / Censored Bar",
+"id": "1511734873659291",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7680213088120868128.gif",
+"cx": 3254,
+"cy": 13312,
+"width": 300,
+"name": "Watch Till The End Text",
+"id": "7680213088120868128",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7620651437571850247.gif",
+"cx": 3604,
+"cy": 13312,
+"width": 300,
+"name": "Watch Till The End Text",
+"id": "7620651437571850247",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7486719738547096862.gif",
+"cx": 1186,
+"cy": 14123,
+"width": 300,
+"name": "Whiteboard Explainer",
+"id": "7486719738547096862",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7484105893525671198.gif",
+"cx": 1536,
+"cy": 14123,
+"width": 300,
+"name": "Whiteboard Explainer",
+"id": "7484105893525671198",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7234767547889929499.gif",
+"cx": 3254,
+"cy": 14123,
+"width": 300,
+"name": "Countdown",
+"id": "7234767547889929499",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "../figma/kref/28.jpg",
+"cx": 3447,
+"cy": 14781,
+"width": 686,
+"name": "Countdown",
+"id": "K28",
+"kind": "kref"
+},
+{
+"frame": "g_text",
+"file": "gifs/1352506706488603.gif",
+"cx": 1186,
+"cy": 15368,
+"width": 300,
+"name": "Journal Story Highlight",
+"id": "1352506706488603",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/2167542794178348.gif",
+"cx": 3254,
+"cy": 15368,
+"width": 300,
+"name": "Poll / Guess Sticker",
+"id": "2167542794178348",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/7262839443147590944.gif",
+"cx": 1186,
+"cy": 16179,
+"width": 300,
+"name": "Search Bar Typing",
+"id": "7262839443147590944",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/1489084949440593.gif",
+"cx": 3254,
+"cy": 16179,
+"width": 300,
+"name": "Spec Callout Lines",
+"id": "1489084949440593",
+"kind": "gif"
+},
+{
+"frame": "g_text",
+"file": "gifs/3745974202211997.gif",
+"cx": 1186,
+"cy": 16990,
+"width": 300,
+"name": "Star Rating / Review Card",
+"id": "3745974202211997",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7605220923478032404.gif",
+"cx": 1186,
+"cy": 598,
+"width": 300,
+"name": "Beat Match Visual Switch",
+"id": "7605220923478032404",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7480817436272623617.gif",
+"cx": 1536,
+"cy": 598,
+"width": 300,
+"name": "Beat Match Visual Switch",
+"id": "7480817436272623617",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7245300660405157889.gif",
+"cx": 1886,
+"cy": 598,
+"width": 300,
+"name": "Beat Match Visual Switch",
+"id": "7245300660405157889",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/803349842137221.gif",
+"cx": 1186,
+"cy": 1281,
+"width": 300,
+"name": "Beat Match Visual Switch",
+"id": "803349842137221",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7599307697639915536.gif",
+"cx": 1536,
+"cy": 1281,
+"width": 300,
+"name": "Beat Match Visual Switch",
+"id": "7599307697639915536",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1074955295184719.gif",
+"cx": 1886,
+"cy": 1281,
+"width": 300,
+"name": "Beat Match Visual Switch",
+"id": "1074955295184719",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "../figma/kref/36.jpg",
+"cx": 1381,
+"cy": 1940,
+"width": 690,
+"name": "Beat Match Visual Switch",
+"id": "K36",
+"kind": "kref"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7554842385349378065.gif",
+"cx": 3254,
+"cy": 598,
+"width": 300,
+"name": "Camera Wipe",
+"id": "7554842385349378065",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/25242369045401076.gif",
+"cx": 3604,
+"cy": 598,
+"width": 300,
+"name": "Camera Wipe",
+"id": "25242369045401076",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1648680299903591.gif",
+"cx": 3954,
+"cy": 598,
+"width": 300,
+"name": "Camera Wipe",
+"id": "1648680299903591",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1955710708417889.gif",
+"cx": 3254,
+"cy": 1281,
+"width": 300,
+"name": "Camera Wipe",
+"id": "1955710708417889",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7595192294786695186.gif",
+"cx": 3604,
+"cy": 1281,
+"width": 300,
+"name": "Camera Wipe",
+"id": "7595192294786695186",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1983737189065492.gif",
+"cx": 1186,
+"cy": 2528,
+"width": 300,
+"name": "Match Cut",
+"id": "1983737189065492",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7318115528608976129.gif",
+"cx": 1536,
+"cy": 2528,
+"width": 300,
+"name": "Match Cut",
+"id": "7318115528608976129",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7481894057393733639.gif",
+"cx": 1886,
+"cy": 2528,
+"width": 300,
+"name": "Match Cut",
+"id": "7481894057393733639",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1014244934305825.gif",
+"cx": 1186,
+"cy": 3211,
+"width": 300,
+"name": "Match Cut",
+"id": "1014244934305825",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1693753131844204.gif",
+"cx": 1536,
+"cy": 3211,
+"width": 300,
+"name": "Match Cut",
+"id": "1693753131844204",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "../figma/kref/34.jpg",
+"cx": 1498,
+"cy": 3870,
+"width": 924,
+"name": "Match Cut",
+"id": "K34",
+"kind": "kref"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7181910292904312833.gif",
+"cx": 3254,
+"cy": 2528,
+"width": 300,
+"name": "Rapid Flash Montage",
+"id": "7181910292904312833",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1828357727831308.gif",
+"cx": 3604,
+"cy": 2528,
+"width": 300,
+"name": "Rapid Flash Montage",
+"id": "1828357727831308",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1524690065688439.gif",
+"cx": 3954,
+"cy": 2528,
+"width": 300,
+"name": "Rapid Flash Montage",
+"id": "1524690065688439",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1399124382267161.gif",
+"cx": 3254,
+"cy": 3211,
+"width": 300,
+"name": "Rapid Flash Montage",
+"id": "1399124382267161",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7223837746263244802.gif",
+"cx": 1186,
+"cy": 4458,
+"width": 300,
+"name": "Viral Stitch Linked Reaction",
+"id": "7223837746263244802",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/2491299364656238.gif",
+"cx": 1536,
+"cy": 4458,
+"width": 300,
+"name": "Viral Stitch Linked Reaction",
+"id": "2491299364656238",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/849908054657245.gif",
+"cx": 1886,
+"cy": 4458,
+"width": 300,
+"name": "Viral Stitch Linked Reaction",
+"id": "849908054657245",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "../figma/kref/33.jpg",
+"cx": 1494,
+"cy": 5117,
+"width": 916,
+"name": "Viral Stitch Linked Reaction",
+"id": "K33",
+"kind": "kref"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7333013649903222786.gif",
+"cx": 3254,
+"cy": 4458,
+"width": 300,
+"name": "Genre Bait-and-Switch",
+"id": "7333013649903222786",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/962341169504114.gif",
+"cx": 3604,
+"cy": 4458,
+"width": 300,
+"name": "Genre Bait-and-Switch",
+"id": "962341169504114",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/27451708621126181.gif",
+"cx": 3954,
+"cy": 4458,
+"width": 300,
+"name": "Genre Bait-and-Switch",
+"id": "27451708621126181",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1183090503998405.gif",
+"cx": 1186,
+"cy": 5705,
+"width": 300,
+"name": "In Media Res Start",
+"id": "1183090503998405",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1355580152701622.gif",
+"cx": 1536,
+"cy": 5705,
+"width": 300,
+"name": "In Media Res Start",
+"id": "1355580152701622",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1003435055464395.gif",
+"cx": 1886,
+"cy": 5705,
+"width": 300,
+"name": "In Media Res Start",
+"id": "1003435055464395",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1584511142799707.gif",
+"cx": 3254,
+"cy": 5705,
+"width": 300,
+"name": "Multi-Creator Mashup",
+"id": "1584511142799707",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/956636883608239.gif",
+"cx": 3604,
+"cy": 5705,
+"width": 300,
+"name": "Multi-Creator Mashup",
+"id": "956636883608239",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1572360397730390.gif",
+"cx": 3954,
+"cy": 5705,
+"width": 300,
+"name": "Multi-Creator Mashup",
+"id": "1572360397730390",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1250611267252003.gif",
+"cx": 1186,
+"cy": 6516,
+"width": 300,
+"name": "Stitch Interview Mic-In-Face",
+"id": "1250611267252003",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/3272664362906092.gif",
+"cx": 1536,
+"cy": 6516,
+"width": 300,
+"name": "Stitch Interview Mic-In-Face",
+"id": "3272664362906092",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1377832110833780.gif",
+"cx": 1886,
+"cy": 6516,
+"width": 300,
+"name": "Stitch Interview Mic-In-Face",
+"id": "1377832110833780",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7265607729639591175.gif",
+"cx": 3254,
+"cy": 6516,
+"width": 300,
+"name": "Visual Switch",
+"id": "7265607729639591175",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/851732547906924.gif",
+"cx": 3604,
+"cy": 6516,
+"width": 300,
+"name": "Visual Switch",
+"id": "851732547906924",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "../figma/kref/35.jpg",
+"cx": 3604,
+"cy": 7148,
+"width": 1000,
+"name": "Visual Switch",
+"id": "K35",
+"kind": "kref"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/2353026065193110.gif",
+"cx": 1186,
+"cy": 7709,
+"width": 300,
+"name": "Freeze Frame Record Scratch",
+"id": "2353026065193110",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1504251771367873.gif",
+"cx": 1536,
+"cy": 7709,
+"width": 300,
+"name": "Freeze Frame Record Scratch",
+"id": "1504251771367873",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7541498488728158215.gif",
+"cx": 3254,
+"cy": 7709,
+"width": 300,
+"name": "Photo Collage to Video",
+"id": "7541498488728158215",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/2569799956785365.gif",
+"cx": 3604,
+"cy": 7709,
+"width": 300,
+"name": "Photo Collage to Video",
+"id": "2569799956785365",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/3840976449538258.gif",
+"cx": 1186,
+"cy": 8520,
+"width": 300,
+"name": "Remote Control Channel Switch",
+"id": "3840976449538258",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/977998961372935.gif",
+"cx": 1536,
+"cy": 8520,
+"width": 300,
+"name": "Remote Control Channel Switch",
+"id": "977998961372935",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7154302747272937473.gif",
+"cx": 3254,
+"cy": 8520,
+"width": 300,
+"name": "Viral Stitch Unlinked Switch",
+"id": "7154302747272937473",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "../figma/kref/38.jpg",
+"cx": 3566,
+"cy": 9179,
+"width": 924,
+"name": "Viral Stitch Unlinked Switch",
+"id": "K38",
+"kind": "kref"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7303618260405161217.gif",
+"cx": 1186,
+"cy": 9767,
+"width": 300,
+"name": "Fake Crash / Phone Drop",
+"id": "7303618260405161217",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/7567764006132321566.gif",
+"cx": 3254,
+"cy": 9767,
+"width": 300,
+"name": "Transformation Cover Cut",
+"id": "7567764006132321566",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "gifs/1637005264449077.gif",
+"cx": 1186,
+"cy": 10578,
+"width": 300,
+"name": "Unexpected Interruption",
+"id": "1637005264449077",
+"kind": "gif"
+},
+{
+"frame": "g_pattern",
+"file": "../figma/kref/37.jpg",
+"cx": 3566,
+"cy": 10553,
+"width": 924,
+"name": "Viral Stitch Motion Match",
+"id": "K37",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7442672637112074257.gif",
+"cx": 1186,
+"cy": 598,
+"width": 300,
+"name": "Fly on Wall",
+"id": "7442672637112074257",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1484059306650748.gif",
+"cx": 1536,
+"cy": 598,
+"width": 300,
+"name": "Fly on Wall",
+"id": "1484059306650748",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1435933471617283.gif",
+"cx": 1886,
+"cy": 598,
+"width": 300,
+"name": "Fly on Wall",
+"id": "1435933471617283",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1295316982576836.gif",
+"cx": 1186,
+"cy": 1281,
+"width": 300,
+"name": "Fly on Wall",
+"id": "1295316982576836",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1553769876466547.gif",
+"cx": 1536,
+"cy": 1281,
+"width": 300,
+"name": "Fly on Wall",
+"id": "1553769876466547",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1639729264390763.gif",
+"cx": 1886,
+"cy": 1281,
+"width": 300,
+"name": "Fly on Wall",
+"id": "1639729264390763",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/07.jpg",
+"cx": 1381,
+"cy": 1940,
+"width": 690,
+"name": "Fly on Wall",
+"id": "K7",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7552270481269981185.gif",
+"cx": 3254,
+"cy": 598,
+"width": 300,
+"name": "Many of Same Prop",
+"id": "7552270481269981185",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7481229416975990802.gif",
+"cx": 3604,
+"cy": 598,
+"width": 300,
+"name": "Many of Same Prop",
+"id": "7481229416975990802",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7472665937817862161.gif",
+"cx": 3954,
+"cy": 598,
+"width": 300,
+"name": "Many of Same Prop",
+"id": "7472665937817862161",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1912651749440008.gif",
+"cx": 3254,
+"cy": 1281,
+"width": 300,
+"name": "Many of Same Prop",
+"id": "1912651749440008",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/26780864338276194.gif",
+"cx": 3604,
+"cy": 1281,
+"width": 300,
+"name": "Many of Same Prop",
+"id": "26780864338276194",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1687787868935165.gif",
+"cx": 3954,
+"cy": 1281,
+"width": 300,
+"name": "Many of Same Prop",
+"id": "1687787868935165",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/13.jpg",
+"cx": 3447,
+"cy": 1940,
+"width": 686,
+"name": "Many of Same Prop",
+"id": "K13",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7515104734100979720.gif",
+"cx": 1186,
+"cy": 2528,
+"width": 300,
+"name": "Move In Frame",
+"id": "7515104734100979720",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1463056664780642.gif",
+"cx": 1536,
+"cy": 2528,
+"width": 300,
+"name": "Move In Frame",
+"id": "1463056664780642",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/4243514499236707.gif",
+"cx": 1886,
+"cy": 2528,
+"width": 300,
+"name": "Move In Frame",
+"id": "4243514499236707",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7302120182201663489.gif",
+"cx": 1186,
+"cy": 3211,
+"width": 300,
+"name": "Move In Frame",
+"id": "7302120182201663489",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1445524950563556.gif",
+"cx": 1536,
+"cy": 3211,
+"width": 300,
+"name": "Move In Frame",
+"id": "1445524950563556",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1043481564777481.gif",
+"cx": 1886,
+"cy": 3211,
+"width": 300,
+"name": "Move In Frame",
+"id": "1043481564777481",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/02.jpg",
+"cx": 1536,
+"cy": 3842,
+"width": 1000,
+"name": "Move In Frame",
+"id": "K2",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7550261717067169793.gif",
+"cx": 3254,
+"cy": 2528,
+"width": 300,
+"name": "Mid-Action Demo Start",
+"id": "7550261717067169793",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7288955129458130945.gif",
+"cx": 3604,
+"cy": 2528,
+"width": 300,
+"name": "Mid-Action Demo Start",
+"id": "7288955129458130945",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1352743980007785.gif",
+"cx": 3954,
+"cy": 2528,
+"width": 300,
+"name": "Mid-Action Demo Start",
+"id": "1352743980007785",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7542569437179691009.gif",
+"cx": 3254,
+"cy": 3211,
+"width": 300,
+"name": "Mid-Action Demo Start",
+"id": "7542569437179691009",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7283509239841783809.gif",
+"cx": 3604,
+"cy": 3211,
+"width": 300,
+"name": "Mid-Action Demo Start",
+"id": "7283509239841783809",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1304946835154607.gif",
+"cx": 3954,
+"cy": 3211,
+"width": 300,
+"name": "Mid-Action Demo Start",
+"id": "1304946835154607",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1406057497732765.gif",
+"cx": 1186,
+"cy": 4402,
+"width": 300,
+"name": "Pour / Splash",
+"id": "1406057497732765",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1354807713080004.gif",
+"cx": 1536,
+"cy": 4402,
+"width": 300,
+"name": "Pour / Splash",
+"id": "1354807713080004",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7262842590092361729.gif",
+"cx": 1886,
+"cy": 4402,
+"width": 300,
+"name": "Pour / Splash",
+"id": "7262842590092361729",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7303956485204279297.gif",
+"cx": 1186,
+"cy": 5085,
+"width": 300,
+"name": "Pour / Splash",
+"id": "7303956485204279297",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1002381899270966.gif",
+"cx": 1536,
+"cy": 5085,
+"width": 300,
+"name": "Pour / Splash",
+"id": "1002381899270966",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7206027487578587138.gif",
+"cx": 1886,
+"cy": 5085,
+"width": 300,
+"name": "Pour / Splash",
+"id": "7206027487578587138",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7255040739800399874.gif",
+"cx": 3254,
+"cy": 4402,
+"width": 300,
+"name": "Holding Prop",
+"id": "7255040739800399874",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7316902652112617473.gif",
+"cx": 3604,
+"cy": 4402,
+"width": 300,
+"name": "Holding Prop",
+"id": "7316902652112617473",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1321846375999371.gif",
+"cx": 3954,
+"cy": 4402,
+"width": 300,
+"name": "Holding Prop",
+"id": "1321846375999371",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1309666984446374.gif",
+"cx": 3254,
+"cy": 5085,
+"width": 300,
+"name": "Holding Prop",
+"id": "1309666984446374",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1764343858607781.gif",
+"cx": 3604,
+"cy": 5085,
+"width": 300,
+"name": "Holding Prop",
+"id": "1764343858607781",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/12.jpg",
+"cx": 3509,
+"cy": 5743,
+"width": 810,
+"name": "Holding Prop",
+"id": "K12",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/2517176618742793.gif",
+"cx": 1186,
+"cy": 6330,
+"width": 299,
+"name": "Mirror",
+"id": "2517176618742793",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7400116377365725200.gif",
+"cx": 1536,
+"cy": 6330,
+"width": 300,
+"name": "Mirror",
+"id": "7400116377365725200",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7609029714992218130.gif",
+"cx": 1886,
+"cy": 6330,
+"width": 300,
+"name": "Mirror",
+"id": "7609029714992218130",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1532701971673525.gif",
+"cx": 1186,
+"cy": 7013,
+"width": 300,
+"name": "Mirror",
+"id": "1532701971673525",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7537446233988779295.gif",
+"cx": 1536,
+"cy": 7013,
+"width": 300,
+"name": "Mirror",
+"id": "7537446233988779295",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/19.jpg",
+"cx": 1536,
+"cy": 7646,
+"width": 1000,
+"name": "Mirror",
+"id": "K19",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7664673249896254751.gif",
+"cx": 3254,
+"cy": 6330,
+"width": 300,
+"name": "Squeeze / Squish",
+"id": "7664673249896254751",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7574335583565479952.gif",
+"cx": 3604,
+"cy": 6330,
+"width": 300,
+"name": "Squeeze / Squish",
+"id": "7574335583565479952",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7660905478897110286.gif",
+"cx": 3954,
+"cy": 6330,
+"width": 300,
+"name": "Squeeze / Squish",
+"id": "7660905478897110286",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7678171345909206303.gif",
+"cx": 3254,
+"cy": 7013,
+"width": 300,
+"name": "Squeeze / Squish",
+"id": "7678171345909206303",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7660718648448847118.gif",
+"cx": 3604,
+"cy": 7013,
+"width": 300,
+"name": "Squeeze / Squish",
+"id": "7660718648448847118",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7591179579718303761.gif",
+"cx": 1186,
+"cy": 8208,
+"width": 300,
+"name": "Sunglasses On",
+"id": "7591179579718303761",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1377979324371790.gif",
+"cx": 1536,
+"cy": 8208,
+"width": 300,
+"name": "Sunglasses On",
+"id": "1377979324371790",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/2817334801935136.gif",
+"cx": 1886,
+"cy": 8208,
+"width": 300,
+"name": "Sunglasses On",
+"id": "2817334801935136",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1565263675109600.gif",
+"cx": 1186,
+"cy": 8891,
+"width": 300,
+"name": "Sunglasses On",
+"id": "1565263675109600",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1602854164531327.gif",
+"cx": 1536,
+"cy": 8891,
+"width": 300,
+"name": "Sunglasses On",
+"id": "1602854164531327",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/4060532854248951.gif",
+"cx": 3254,
+"cy": 8208,
+"width": 300,
+"name": "Camera Whip",
+"id": "4060532854248951",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7554269332919009296.gif",
+"cx": 3604,
+"cy": 8208,
+"width": 300,
+"name": "Camera Whip",
+"id": "7554269332919009296",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7502050276833230849.gif",
+"cx": 3954,
+"cy": 8208,
+"width": 300,
+"name": "Camera Whip",
+"id": "7502050276833230849",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1562346265473888.gif",
+"cx": 3254,
+"cy": 8891,
+"width": 300,
+"name": "Camera Whip",
+"id": "1562346265473888",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/03.jpg",
+"cx": 3449,
+"cy": 9550,
+"width": 690,
+"name": "Camera Whip",
+"id": "K3",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7564903779700097041.gif",
+"cx": 1186,
+"cy": 10138,
+"width": 300,
+"name": "Yap Cold Open",
+"id": "7564903779700097041",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7541873593211699217.gif",
+"cx": 1536,
+"cy": 10138,
+"width": 300,
+"name": "Yap Cold Open",
+"id": "7541873593211699217",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7599692677459279873.gif",
+"cx": 1886,
+"cy": 10138,
+"width": 300,
+"name": "Yap Cold Open",
+"id": "7599692677459279873",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7517009627561951248.gif",
+"cx": 1186,
+"cy": 10821,
+"width": 300,
+"name": "Yap Cold Open",
+"id": "7517009627561951248",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/20.jpg",
+"cx": 1379,
+"cy": 11479,
+"width": 686,
+"name": "Yap Cold Open",
+"id": "K20",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1221129746758639.gif",
+"cx": 3254,
+"cy": 10138,
+"width": 300,
+"name": "Object Into Lens",
+"id": "1221129746758639",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1283849950603594.gif",
+"cx": 3604,
+"cy": 10138,
+"width": 300,
+"name": "Object Into Lens",
+"id": "1283849950603594",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1434206035062236.gif",
+"cx": 3954,
+"cy": 10138,
+"width": 300,
+"name": "Object Into Lens",
+"id": "1434206035062236",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1601318701612347.gif",
+"cx": 3254,
+"cy": 10821,
+"width": 300,
+"name": "Object Into Lens",
+"id": "1601318701612347",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1642753536950933.gif",
+"cx": 1186,
+"cy": 12066,
+"width": 300,
+"name": "Problem Reenactment",
+"id": "1642753536950933",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/798387866405040.gif",
+"cx": 1536,
+"cy": 12066,
+"width": 300,
+"name": "Problem Reenactment",
+"id": "798387866405040",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1521150099456133.gif",
+"cx": 1886,
+"cy": 12066,
+"width": 300,
+"name": "Problem Reenactment",
+"id": "1521150099456133",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1072261372159754.gif",
+"cx": 1186,
+"cy": 12749,
+"width": 300,
+"name": "Problem Reenactment",
+"id": "1072261372159754",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/959469456663530.gif",
+"cx": 3254,
+"cy": 12066,
+"width": 300,
+"name": "Rip-Open Unboxing",
+"id": "959469456663530",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1730767251427633.gif",
+"cx": 3604,
+"cy": 12066,
+"width": 300,
+"name": "Rip-Open Unboxing",
+"id": "1730767251427633",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1330043142604321.gif",
+"cx": 3954,
+"cy": 12066,
+"width": 300,
+"name": "Rip-Open Unboxing",
+"id": "1330043142604321",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1517532526729573.gif",
+"cx": 3254,
+"cy": 12749,
+"width": 300,
+"name": "Rip-Open Unboxing",
+"id": "1517532526729573",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7595304628351257886.gif",
+"cx": 1186,
+"cy": 13560,
+"width": 300,
+"name": "Rock-Paper-Scissors / Coin Flip",
+"id": "7595304628351257886",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7593483569545137411.gif",
+"cx": 1536,
+"cy": 13560,
+"width": 299,
+"name": "Rock-Paper-Scissors / Coin Flip",
+"id": "7593483569545137411",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7358198546052500779.gif",
+"cx": 1886,
+"cy": 13560,
+"width": 300,
+"name": "Rock-Paper-Scissors / Coin Flip",
+"id": "7358198546052500779",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7305015958127561990.gif",
+"cx": 1186,
+"cy": 14243,
+"width": 300,
+"name": "Rock-Paper-Scissors / Coin Flip",
+"id": "7305015958127561990",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1446089954197868.gif",
+"cx": 3254,
+"cy": 13560,
+"width": 300,
+"name": "Wake Up / Bed Start",
+"id": "1446089954197868",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/27483462151259798.gif",
+"cx": 3604,
+"cy": 13560,
+"width": 300,
+"name": "Wake Up / Bed Start",
+"id": "27483462151259798",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7533658012935880720.gif",
+"cx": 3954,
+"cy": 13560,
+"width": 300,
+"name": "Wake Up / Bed Start",
+"id": "7533658012935880720",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7244479235016474625.gif",
+"cx": 3254,
+"cy": 14243,
+"width": 300,
+"name": "Wake Up / Bed Start",
+"id": "7244479235016474625",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/823788356592197.gif",
+"cx": 1186,
+"cy": 15054,
+"width": 300,
+"name": "Object Catch",
+"id": "823788356592197",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/2016221466446105.gif",
+"cx": 1536,
+"cy": 15054,
+"width": 300,
+"name": "Object Catch",
+"id": "2016221466446105",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7167018870405103618.gif",
+"cx": 1886,
+"cy": 15054,
+"width": 300,
+"name": "Object Catch",
+"id": "7167018870405103618",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/09.jpg",
+"cx": 1496,
+"cy": 15713,
+"width": 920,
+"name": "Object Catch",
+"id": "K9",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1683761322910344.gif",
+"cx": 3254,
+"cy": 15054,
+"width": 300,
+"name": "Point To Visual",
+"id": "1683761322910344",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7309208838318096386.gif",
+"cx": 3604,
+"cy": 15054,
+"width": 300,
+"name": "Point To Visual",
+"id": "7309208838318096386",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1516346156558543.gif",
+"cx": 3954,
+"cy": 15054,
+"width": 300,
+"name": "Point To Visual",
+"id": "1516346156558543",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/01.jpg",
+"cx": 3604,
+"cy": 15686,
+"width": 1000,
+"name": "Point To Visual",
+"id": "K1",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7559620065756577793.gif",
+"cx": 1186,
+"cy": 16301,
+"width": 300,
+"name": "Setting Down Phone",
+"id": "7559620065756577793",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7509331834288848897.gif",
+"cx": 1536,
+"cy": 16301,
+"width": 300,
+"name": "Setting Down Phone",
+"id": "7509331834288848897",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7309208838318096386.gif",
+"cx": 1886,
+"cy": 16301,
+"width": 300,
+"name": "Setting Down Phone",
+"id": "7309208838318096386",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/11.jpg",
+"cx": 1498,
+"cy": 16960,
+"width": 924,
+"name": "Setting Down Phone",
+"id": "K11",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7453843366607536144.gif",
+"cx": 3254,
+"cy": 16301,
+"width": 300,
+"name": "Destruction / Stress Test",
+"id": "7453843366607536144",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1803390444350299.gif",
+"cx": 3604,
+"cy": 16301,
+"width": 300,
+"name": "Destruction / Stress Test",
+"id": "1803390444350299",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1392019382774816.gif",
+"cx": 3954,
+"cy": 16301,
+"width": 298,
+"name": "Destruction / Stress Test",
+"id": "1392019382774816",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1500620454793754.gif",
+"cx": 1186,
+"cy": 17548,
+"width": 300,
+"name": "Face Lean-In to Lens",
+"id": "1500620454793754",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7156395563695554561.gif",
+"cx": 1536,
+"cy": 17548,
+"width": 300,
+"name": "Face Lean-In to Lens",
+"id": "7156395563695554561",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/2001294824044205.gif",
+"cx": 1886,
+"cy": 17548,
+"width": 300,
+"name": "Face Lean-In to Lens",
+"id": "2001294824044205",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7535004508592062471.gif",
+"cx": 3254,
+"cy": 17548,
+"width": 300,
+"name": "Hand Grab From Off-Screen",
+"id": "7535004508592062471",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1286445983684896.gif",
+"cx": 3604,
+"cy": 17548,
+"width": 300,
+"name": "Hand Grab From Off-Screen",
+"id": "1286445983684896",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/3654619864690415.gif",
+"cx": 3954,
+"cy": 17548,
+"width": 300,
+"name": "Hand Grab From Off-Screen",
+"id": "3654619864690415",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1427740342464727.gif",
+"cx": 1186,
+"cy": 18359,
+"width": 300,
+"name": "Stop-Hand To Lens",
+"id": "1427740342464727",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/3443123245844682.gif",
+"cx": 1536,
+"cy": 18359,
+"width": 300,
+"name": "Stop-Hand To Lens",
+"id": "3443123245844682",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7396077593634799617.gif",
+"cx": 1886,
+"cy": 18359,
+"width": 300,
+"name": "Stop-Hand To Lens",
+"id": "7396077593634799617",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1677053776656276.gif",
+"cx": 3254,
+"cy": 18359,
+"width": 300,
+"name": "Walking Backward Talk",
+"id": "1677053776656276",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7566369557478326289.gif",
+"cx": 3604,
+"cy": 18359,
+"width": 300,
+"name": "Walking Backward Talk",
+"id": "7566369557478326289",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1571689971000096.gif",
+"cx": 3954,
+"cy": 18359,
+"width": 300,
+"name": "Walking Backward Talk",
+"id": "1571689971000096",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7532749882092719366.gif",
+"cx": 1186,
+"cy": 19170,
+"width": 300,
+"name": "Framebreaker",
+"id": "7532749882092719366",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7498257158018977029.gif",
+"cx": 1536,
+"cy": 19170,
+"width": 300,
+"name": "Framebreaker",
+"id": "7498257158018977029",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/14.jpg",
+"cx": 1498,
+"cy": 19829,
+"width": 924,
+"name": "Framebreaker",
+"id": "K14",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/2347000186152175.gif",
+"cx": 3254,
+"cy": 19170,
+"width": 300,
+"name": "Fridge POV",
+"id": "2347000186152175",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/2178182952953233.gif",
+"cx": 3604,
+"cy": 19170,
+"width": 300,
+"name": "Fridge POV",
+"id": "2178182952953233",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/17.jpg",
+"cx": 3330,
+"cy": 19829,
+"width": 452,
+"name": "Fridge POV",
+"id": "K17",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7467199757329370390.gif",
+"cx": 1186,
+"cy": 20417,
+"width": 300,
+"name": "Jump Switch",
+"id": "7467199757329370390",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7464215742314073366.gif",
+"cx": 1536,
+"cy": 20417,
+"width": 300,
+"name": "Jump Switch",
+"id": "7464215742314073366",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/15.jpg",
+"cx": 1536,
+"cy": 21049,
+"width": 1000,
+"name": "Jump Switch",
+"id": "K15",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7560444496762060817.gif",
+"cx": 3254,
+"cy": 20417,
+"width": 300,
+"name": "Post-It / Cover Reveal",
+"id": "7560444496762060817",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7576720700427681809.gif",
+"cx": 3604,
+"cy": 20417,
+"width": 300,
+"name": "Post-It / Cover Reveal",
+"id": "7576720700427681809",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7419501518669237546.gif",
+"cx": 1186,
+"cy": 21611,
+"width": 300,
+"name": "Money Throw",
+"id": "7419501518669237546",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/6992012296306363654.gif",
+"cx": 1536,
+"cy": 21611,
+"width": 300,
+"name": "Money Throw",
+"id": "6992012296306363654",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7413819230723788064.gif",
+"cx": 3254,
+"cy": 21611,
+"width": 300,
+"name": "3P Crash Zoom",
+"id": "7413819230723788064",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/16.jpg",
+"cx": 3448,
+"cy": 22270,
+"width": 688,
+"name": "3P Crash Zoom",
+"id": "K16",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1564620571950210.gif",
+"cx": 1186,
+"cy": 22858,
+"width": 300,
+"name": "Anticipated Disaster",
+"id": "1564620571950210",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/08.jpg",
+"cx": 1536,
+"cy": 23490,
+"width": 1000,
+"name": "Anticipated Disaster",
+"id": "K8",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7270636893883141408.gif",
+"cx": 3254,
+"cy": 22858,
+"width": 300,
+"name": "Clone Body Double",
+"id": "7270636893883141408",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/06.jpg",
+"cx": 3604,
+"cy": 23490,
+"width": 1000,
+"name": "Clone Body Double",
+"id": "K6",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7602709271314173197.gif",
+"cx": 1186,
+"cy": 24051,
+"width": 300,
+"name": "Jump In",
+"id": "7602709271314173197",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/04.jpg",
+"cx": 1381,
+"cy": 24710,
+"width": 690,
+"name": "Jump In",
+"id": "K4",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7257924241981492482.gif",
+"cx": 3254,
+"cy": 24051,
+"width": 300,
+"name": "Snap/Pop Reveal",
+"id": "7257924241981492482",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/05.jpg",
+"cx": 3205,
+"cy": 24710,
+"width": 202,
+"name": "Snap/Pop Reveal",
+"id": "K5",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7595994191071985681.gif",
+"cx": 1186,
+"cy": 25298,
+"width": 300,
+"name": "Using Random Product (Pope In The Pool)",
+"id": "7595994191071985681",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/10.jpg",
+"cx": 1380,
+"cy": 25956,
+"width": 688,
+"name": "Using Random Product (Pope In The Pool)",
+"id": "K10",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7549571094760508727.gif",
+"cx": 3254,
+"cy": 25298,
+"width": 300,
+"name": "Write on Screen",
+"id": "7549571094760508727",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "../figma/kref/18.jpg",
+"cx": 3604,
+"cy": 25930,
+"width": 1000,
+"name": "Write on Screen",
+"id": "K18",
+"kind": "kref"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7515298873453936656.gif",
+"cx": 1186,
+"cy": 26543,
+"width": 300,
+"name": "Crumple/Throw at Camera",
+"id": "7515298873453936656",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/1352207983723513.gif",
+"cx": 3254,
+"cy": 26543,
+"width": 300,
+"name": "Sit Down Into Frame",
+"id": "1352207983723513",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/4219565178293624.gif",
+"cx": 1186,
+"cy": 27354,
+"width": 300,
+"name": "Slam/Drop Start",
+"id": "4219565178293624",
+"kind": "gif"
+},
+{
+"frame": "g_motion",
+"file": "gifs/7523796824956833054.gif",
+"cx": 3254,
+"cy": 27354,
+"width": 300,
+"name": "Tear / Rip Paper",
+"id": "7523796824956833054",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7236135060809891842.gif",
+"cx": 1186,
+"cy": 598,
+"width": 300,
+"name": "Green Screen Composite",
+"id": "7236135060809891842",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1564921988092025.gif",
+"cx": 1536,
+"cy": 598,
+"width": 300,
+"name": "Green Screen Composite",
+"id": "1564921988092025",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1731634731619459.gif",
+"cx": 1886,
+"cy": 598,
+"width": 300,
+"name": "Green Screen Composite",
+"id": "1731634731619459",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7145460547685892098.gif",
+"cx": 1186,
+"cy": 1281,
+"width": 300,
+"name": "Green Screen Composite",
+"id": "7145460547685892098",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1945738002799340.gif",
+"cx": 1536,
+"cy": 1281,
+"width": 298,
+"name": "Green Screen Composite",
+"id": "1945738002799340",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1524085115966700.gif",
+"cx": 1886,
+"cy": 1281,
+"width": 300,
+"name": "Green Screen Composite",
+"id": "1524085115966700",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/2008321783126848.gif",
+"cx": 3254,
+"cy": 598,
+"width": 300,
+"name": "X-Ray / Cutaway 3D",
+"id": "2008321783126848",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7539476789106999297.gif",
+"cx": 3604,
+"cy": 598,
+"width": 300,
+"name": "X-Ray / Cutaway 3D",
+"id": "7539476789106999297",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1546475573539573.gif",
+"cx": 3954,
+"cy": 598,
+"width": 300,
+"name": "X-Ray / Cutaway 3D",
+"id": "1546475573539573",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1344186967850806.gif",
+"cx": 3254,
+"cy": 1281,
+"width": 300,
+"name": "X-Ray / Cutaway 3D",
+"id": "1344186967850806",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/2147976539383259.gif",
+"cx": 3604,
+"cy": 1281,
+"width": 300,
+"name": "X-Ray / Cutaway 3D",
+"id": "2147976539383259",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1553715086431704.gif",
+"cx": 3954,
+"cy": 1281,
+"width": 300,
+"name": "X-Ray / Cutaway 3D",
+"id": "1553715086431704",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/759762986766105.gif",
+"cx": 1186,
+"cy": 2092,
+"width": 300,
+"name": "Time-lapse / Hyperlapse",
+"id": "759762986766105",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/2460235547773919.gif",
+"cx": 1536,
+"cy": 2092,
+"width": 300,
+"name": "Time-lapse / Hyperlapse",
+"id": "2460235547773919",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/891460997046614.gif",
+"cx": 1886,
+"cy": 2092,
+"width": 300,
+"name": "Time-lapse / Hyperlapse",
+"id": "891460997046614",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1859796465000349.gif",
+"cx": 1186,
+"cy": 2775,
+"width": 299,
+"name": "Time-lapse / Hyperlapse",
+"id": "1859796465000349",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1786252392536598.gif",
+"cx": 1536,
+"cy": 2775,
+"width": 300,
+"name": "Time-lapse / Hyperlapse",
+"id": "1786252392536598",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/822377927560518.gif",
+"cx": 3254,
+"cy": 2092,
+"width": 300,
+"name": "Crazy Transitions",
+"id": "822377927560518",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1441228830583854.gif",
+"cx": 3604,
+"cy": 2092,
+"width": 300,
+"name": "Crazy Transitions",
+"id": "1441228830583854",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7541405406338924562.gif",
+"cx": 3954,
+"cy": 2092,
+"width": 300,
+"name": "Crazy Transitions",
+"id": "7541405406338924562",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7522017347026206736.gif",
+"cx": 3254,
+"cy": 2775,
+"width": 300,
+"name": "Crazy Transitions",
+"id": "7522017347026206736",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "../figma/kref/45.jpg",
+"cx": 3564,
+"cy": 3434,
+"width": 920,
+"name": "Crazy Transitions",
+"id": "K45",
+"kind": "kref"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7122806894486175746.gif",
+"cx": 1186,
+"cy": 4022,
+"width": 300,
+"name": "Experimental (Interactive)",
+"id": "7122806894486175746",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7099077052724674561.gif",
+"cx": 1536,
+"cy": 4022,
+"width": 300,
+"name": "Experimental (Interactive)",
+"id": "7099077052724674561",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7262459988336459777.gif",
+"cx": 1886,
+"cy": 4022,
+"width": 300,
+"name": "Experimental (Interactive)",
+"id": "7262459988336459777",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1611640847418196.gif",
+"cx": 1186,
+"cy": 4705,
+"width": 300,
+"name": "Experimental (Interactive)",
+"id": "1611640847418196",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "../figma/kref/46.jpg",
+"cx": 1536,
+"cy": 5341,
+"width": 1000,
+"name": "Experimental (Interactive)",
+"id": "K46",
+"kind": "kref"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1455201082678021.gif",
+"cx": 3254,
+"cy": 4022,
+"width": 300,
+"name": "AI Morph / Transformation",
+"id": "1455201082678021",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7568670166528376849.gif",
+"cx": 3604,
+"cy": 4022,
+"width": 300,
+"name": "AI Morph / Transformation",
+"id": "7568670166528376849",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1006555631739317.gif",
+"cx": 3954,
+"cy": 4022,
+"width": 300,
+"name": "AI Morph / Transformation",
+"id": "1006555631739317",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/3980131088950223.gif",
+"cx": 3254,
+"cy": 4705,
+"width": 300,
+"name": "AI Morph / Transformation",
+"id": "3980131088950223",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7333013649903222786.gif",
+"cx": 1186,
+"cy": 5906,
+"width": 300,
+"name": "The Zoom In",
+"id": "7333013649903222786",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/2075377437191874.gif",
+"cx": 1536,
+"cy": 5906,
+"width": 300,
+"name": "The Zoom In",
+"id": "2075377437191874",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7255730621385097217.gif",
+"cx": 1886,
+"cy": 5906,
+"width": 300,
+"name": "The Zoom In",
+"id": "7255730621385097217",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "../figma/kref/40.jpg",
+"cx": 1496,
+"cy": 6565,
+"width": 920,
+"name": "The Zoom In",
+"id": "K40",
+"kind": "kref"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7553999960187781137.gif",
+"cx": 3254,
+"cy": 5906,
+"width": 300,
+"name": "Blur-to-Focus",
+"id": "7553999960187781137",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7285424473435275266.gif",
+"cx": 3604,
+"cy": 5906,
+"width": 300,
+"name": "Blur-to-Focus",
+"id": "7285424473435275266",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7166301106250334210.gif",
+"cx": 3954,
+"cy": 5906,
+"width": 300,
+"name": "Blur-to-Focus",
+"id": "7166301106250334210",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7556550351467233281.gif",
+"cx": 1186,
+"cy": 7153,
+"width": 300,
+"name": "FOOH / CGI Product Stunt",
+"id": "7556550351467233281",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7312560884022001666.gif",
+"cx": 1536,
+"cy": 7153,
+"width": 300,
+"name": "FOOH / CGI Product Stunt",
+"id": "7312560884022001666",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7569087687936851985.gif",
+"cx": 1886,
+"cy": 7153,
+"width": 300,
+"name": "FOOH / CGI Product Stunt",
+"id": "7569087687936851985",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1348916193719475.gif",
+"cx": 3254,
+"cy": 7153,
+"width": 300,
+"name": "Snap Zoom / Zoom Punch",
+"id": "1348916193719475",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/987641397532011.gif",
+"cx": 3604,
+"cy": 7153,
+"width": 300,
+"name": "Snap Zoom / Zoom Punch",
+"id": "987641397532011",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7608734758164250640.gif",
+"cx": 3954,
+"cy": 7153,
+"width": 300,
+"name": "Snap Zoom / Zoom Punch",
+"id": "7608734758164250640",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7567286824038973457.gif",
+"cx": 1186,
+"cy": 7964,
+"width": 300,
+"name": "Stop Motion",
+"id": "7567286824038973457",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1570284171203942.gif",
+"cx": 1536,
+"cy": 7964,
+"width": 300,
+"name": "Stop Motion",
+"id": "1570284171203942",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/2591458891283642.gif",
+"cx": 1886,
+"cy": 7964,
+"width": 300,
+"name": "Stop Motion",
+"id": "2591458891283642",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7359990867219746080.gif",
+"cx": 3254,
+"cy": 7964,
+"width": 300,
+"name": "Fish Eye",
+"id": "7359990867219746080",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7352496780594007302.gif",
+"cx": 3604,
+"cy": 7964,
+"width": 300,
+"name": "Fish Eye",
+"id": "7352496780594007302",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "../figma/kref/43.jpg",
+"cx": 3544,
+"cy": 8605,
+"width": 880,
+"name": "Fish Eye",
+"id": "K43",
+"kind": "kref"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7206300408277073922.gif",
+"cx": 1186,
+"cy": 9175,
+"width": 300,
+"name": "Look Up At Camera // Top Down",
+"id": "7206300408277073922",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1859295661948126.gif",
+"cx": 1536,
+"cy": 9175,
+"width": 300,
+"name": "Look Up At Camera // Top Down",
+"id": "1859295661948126",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "../figma/kref/41.jpg",
+"cx": 1496,
+"cy": 9833,
+"width": 920,
+"name": "Look Up At Camera // Top Down",
+"id": "K41",
+"kind": "kref"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7224630569982758171.gif",
+"cx": 3254,
+"cy": 9175,
+"width": 300,
+"name": "Sudden Danger 1P POV",
+"id": "7224630569982758171",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7381646440910687520.gif",
+"cx": 3604,
+"cy": 9175,
+"width": 300,
+"name": "Sudden Danger 1P POV",
+"id": "7381646440910687520",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "../figma/kref/42.jpg",
+"cx": 3558,
+"cy": 9834,
+"width": 908,
+"name": "Sudden Danger 1P POV",
+"id": "K42",
+"kind": "kref"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7490314327329705271.gif",
+"cx": 1186,
+"cy": 10422,
+"width": 300,
+"name": "Dolly Zoom",
+"id": "7490314327329705271",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/6925817035851042053.gif",
+"cx": 1536,
+"cy": 10422,
+"width": 300,
+"name": "Dolly Zoom",
+"id": "6925817035851042053",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7218514305401031941.gif",
+"cx": 3254,
+"cy": 10422,
+"width": 300,
+"name": "Giant / Miniature Scale Illusion",
+"id": "7218514305401031941",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7675694454165998880.gif",
+"cx": 3604,
+"cy": 10422,
+"width": 300,
+"name": "Giant / Miniature Scale Illusion",
+"id": "7675694454165998880",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7508794852016950558.gif",
+"cx": 1186,
+"cy": 11233,
+"width": 300,
+"name": "Reverse Footage",
+"id": "7508794852016950558",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7680596232833649950.gif",
+"cx": 1536,
+"cy": 11233,
+"width": 300,
+"name": "Reverse Footage",
+"id": "7680596232833649950",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7264605268075888642.gif",
+"cx": 3254,
+"cy": 11233,
+"width": 300,
+"name": "Slow Motion Hero",
+"id": "7264605268075888642",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1589928405909428.gif",
+"cx": 3604,
+"cy": 11233,
+"width": 300,
+"name": "Slow Motion Hero",
+"id": "1589928405909428",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7553330728941420560.gif",
+"cx": 1186,
+"cy": 12044,
+"width": 300,
+"name": "Zoom Out Reveal",
+"id": "7553330728941420560",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7583319140627906577.gif",
+"cx": 1536,
+"cy": 12044,
+"width": 300,
+"name": "Zoom Out Reveal",
+"id": "7583319140627906577",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7279146917857070369.gif",
+"cx": 3254,
+"cy": 12044,
+"width": 300,
+"name": "Color Switch",
+"id": "7279146917857070369",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "../figma/kref/47.jpg",
+"cx": 3583,
+"cy": 12703,
+"width": 958,
+"name": "Color Switch",
+"id": "K47",
+"kind": "kref"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7250168325773331718.gif",
+"cx": 1186,
+"cy": 13291,
+"width": 300,
+"name": "Speed Ramp Effect",
+"id": "7250168325773331718",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "../figma/kref/39.jpg",
+"cx": 1496,
+"cy": 13950,
+"width": 920,
+"name": "Speed Ramp Effect",
+"id": "K39",
+"kind": "kref"
+},
+{
+"frame": "g_fx",
+"file": "gifs/6854092245361036549.gif",
+"cx": 3254,
+"cy": 13291,
+"width": 300,
+"name": "Freeze Frame",
+"id": "6854092245361036549",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/1251240149994672.gif",
+"cx": 1186,
+"cy": 14538,
+"width": 300,
+"name": "Glitch / VHS / Datamosh",
+"id": "1251240149994672",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7549938079100931341.gif",
+"cx": 3254,
+"cy": 14538,
+"width": 300,
+"name": "Jump Out of Phone",
+"id": "7549938079100931341",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7634733262788362260.gif",
+"cx": 1186,
+"cy": 15349,
+"width": 300,
+"name": "Mask Reveal Transition",
+"id": "7634733262788362260",
+"kind": "gif"
+},
+{
+"frame": "g_fx",
+"file": "gifs/7360518569366424878.gif",
+"cx": 3254,
+"cy": 15349,
+"width": 300,
+"name": "Vanish / Magic Disappear",
+"id": "7360518569366424878",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7599471486240342032.gif",
+"cx": 1186,
+"cy": 598,
+"width": 300,
+"name": "Unusual First Image/Scene",
+"id": "7599471486240342032",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7237430167474454529.gif",
+"cx": 1536,
+"cy": 598,
+"width": 300,
+"name": "Unusual First Image/Scene",
+"id": "7237430167474454529",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1660938338430883.gif",
+"cx": 1886,
+"cy": 598,
+"width": 300,
+"name": "Unusual First Image/Scene",
+"id": "1660938338430883",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7597733830943047681.gif",
+"cx": 1186,
+"cy": 1281,
+"width": 300,
+"name": "Unusual First Image/Scene",
+"id": "7597733830943047681",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/2019321685634591.gif",
+"cx": 1536,
+"cy": 1281,
+"width": 300,
+"name": "Unusual First Image/Scene",
+"id": "2019321685634591",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1611984356963707.gif",
+"cx": 1886,
+"cy": 1281,
+"width": 298,
+"name": "Unusual First Image/Scene",
+"id": "1611984356963707",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "../figma/kref/30.jpg",
+"cx": 1536,
+"cy": 1858,
+"width": 1000,
+"name": "Unusual First Image/Scene",
+"id": "K30",
+"kind": "kref"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7247578993715806210.gif",
+"cx": 3254,
+"cy": 598,
+"width": 300,
+"name": "3D Talking Character",
+"id": "7247578993715806210",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7533306656106053649.gif",
+"cx": 3604,
+"cy": 598,
+"width": 300,
+"name": "3D Talking Character",
+"id": "7533306656106053649",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1617619072626213.gif",
+"cx": 3954,
+"cy": 598,
+"width": 296,
+"name": "3D Talking Character",
+"id": "1617619072626213",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1463868478618244.gif",
+"cx": 3254,
+"cy": 1281,
+"width": 300,
+"name": "3D Talking Character",
+"id": "1463868478618244",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1454906532272963.gif",
+"cx": 3604,
+"cy": 1281,
+"width": 296,
+"name": "3D Talking Character",
+"id": "1454906532272963",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/2114534589497378.gif",
+"cx": 3954,
+"cy": 1281,
+"width": 300,
+"name": "3D Talking Character",
+"id": "2114534589497378",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1432751985010285.gif",
+"cx": 1186,
+"cy": 2365,
+"width": 300,
+"name": "Animal / Pet Hook",
+"id": "1432751985010285",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7604815700779434001.gif",
+"cx": 1536,
+"cy": 2365,
+"width": 300,
+"name": "Animal / Pet Hook",
+"id": "7604815700779434001",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1498426375074049.gif",
+"cx": 1886,
+"cy": 2365,
+"width": 298,
+"name": "Animal / Pet Hook",
+"id": "1498426375074049",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/2296288127572132.gif",
+"cx": 1186,
+"cy": 3048,
+"width": 300,
+"name": "Animal / Pet Hook",
+"id": "2296288127572132",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/3430758013979490.gif",
+"cx": 1536,
+"cy": 3048,
+"width": 300,
+"name": "Animal / Pet Hook",
+"id": "3430758013979490",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1925518124807219.gif",
+"cx": 1886,
+"cy": 3048,
+"width": 300,
+"name": "Animal / Pet Hook",
+"id": "1925518124807219",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7307689549324599298.gif",
+"cx": 3254,
+"cy": 2365,
+"width": 300,
+"name": "Baby / Kid Hook",
+"id": "7307689549324599298",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1489343559386563.gif",
+"cx": 3604,
+"cy": 2365,
+"width": 300,
+"name": "Baby / Kid Hook",
+"id": "1489343559386563",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1756760079025763.gif",
+"cx": 3954,
+"cy": 2365,
+"width": 300,
+"name": "Baby / Kid Hook",
+"id": "1756760079025763",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/27876298648628301.gif",
+"cx": 3254,
+"cy": 3048,
+"width": 300,
+"name": "Baby / Kid Hook",
+"id": "27876298648628301",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7528422674008768513.gif",
+"cx": 3604,
+"cy": 3048,
+"width": 300,
+"name": "Baby / Kid Hook",
+"id": "7528422674008768513",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1028905613264846.gif",
+"cx": 3954,
+"cy": 3048,
+"width": 300,
+"name": "Baby / Kid Hook",
+"id": "1028905613264846",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7539315064496029697.gif",
+"cx": 1186,
+"cy": 3859,
+"width": 300,
+"name": "Before/After Result Shot",
+"id": "7539315064496029697",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1371909618307710.gif",
+"cx": 1536,
+"cy": 3859,
+"width": 300,
+"name": "Before/After Result Shot",
+"id": "1371909618307710",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7540548859623374865.gif",
+"cx": 1886,
+"cy": 3859,
+"width": 300,
+"name": "Before/After Result Shot",
+"id": "7540548859623374865",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/833511529800730.gif",
+"cx": 1186,
+"cy": 4542,
+"width": 299,
+"name": "Before/After Result Shot",
+"id": "833511529800730",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7550265907776831504.gif",
+"cx": 1536,
+"cy": 4542,
+"width": 300,
+"name": "Before/After Result Shot",
+"id": "7550265907776831504",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1016036981022414.gif",
+"cx": 1886,
+"cy": 4542,
+"width": 300,
+"name": "Before/After Result Shot",
+"id": "1016036981022414",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/752145983977071.gif",
+"cx": 3254,
+"cy": 3859,
+"width": 300,
+"name": "Celebrity / Famous Clip",
+"id": "752145983977071",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7320213187041935361.gif",
+"cx": 3604,
+"cy": 3859,
+"width": 300,
+"name": "Celebrity / Famous Clip",
+"id": "7320213187041935361",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7293939399276003329.gif",
+"cx": 3954,
+"cy": 3859,
+"width": 300,
+"name": "Celebrity / Famous Clip",
+"id": "7293939399276003329",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7209023639953801218.gif",
+"cx": 3254,
+"cy": 4542,
+"width": 300,
+"name": "Celebrity / Famous Clip",
+"id": "7209023639953801218",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7213446593025507329.gif",
+"cx": 3604,
+"cy": 4542,
+"width": 300,
+"name": "Celebrity / Famous Clip",
+"id": "7213446593025507329",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7303681759090769921.gif",
+"cx": 3954,
+"cy": 4542,
+"width": 300,
+"name": "Celebrity / Famous Clip",
+"id": "7303681759090769921",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7428480514858893313.gif",
+"cx": 1186,
+"cy": 5353,
+"width": 300,
+"name": "Gross / Problem Close-Up",
+"id": "7428480514858893313",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1710003939959646.gif",
+"cx": 1536,
+"cy": 5353,
+"width": 300,
+"name": "Gross / Problem Close-Up",
+"id": "1710003939959646",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7514779203867918353.gif",
+"cx": 1886,
+"cy": 5353,
+"width": 300,
+"name": "Gross / Problem Close-Up",
+"id": "7514779203867918353",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1349414173167005.gif",
+"cx": 1186,
+"cy": 6036,
+"width": 300,
+"name": "Gross / Problem Close-Up",
+"id": "1349414173167005",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1397383258746727.gif",
+"cx": 1536,
+"cy": 6036,
+"width": 300,
+"name": "Gross / Problem Close-Up",
+"id": "1397383258746727",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7592952542154211329.gif",
+"cx": 1886,
+"cy": 6036,
+"width": 300,
+"name": "Gross / Problem Close-Up",
+"id": "7592952542154211329",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7075246831601090562.gif",
+"cx": 3254,
+"cy": 5353,
+"width": 300,
+"name": "High Motion Base B-Roll",
+"id": "7075246831601090562",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1472533811293620.gif",
+"cx": 3604,
+"cy": 5353,
+"width": 300,
+"name": "High Motion Base B-Roll",
+"id": "1472533811293620",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7247671744562020353.gif",
+"cx": 3954,
+"cy": 5353,
+"width": 300,
+"name": "High Motion Base B-Roll",
+"id": "7247671744562020353",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7555663449003950097.gif",
+"cx": 3254,
+"cy": 6036,
+"width": 300,
+"name": "High Motion Base B-Roll",
+"id": "7555663449003950097",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/2135350594028691.gif",
+"cx": 3604,
+"cy": 6036,
+"width": 300,
+"name": "High Motion Base B-Roll",
+"id": "2135350594028691",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "../figma/kref/29.jpg",
+"cx": 3604,
+"cy": 6668,
+"width": 1000,
+"name": "High Motion Base B-Roll",
+"id": "K29",
+"kind": "kref"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1467461257677448.gif",
+"cx": 1186,
+"cy": 7229,
+"width": 300,
+"name": "Car Talking Head",
+"id": "1467461257677448",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/961751682887424.gif",
+"cx": 1536,
+"cy": 7229,
+"width": 300,
+"name": "Car Talking Head",
+"id": "961751682887424",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1544330327475382.gif",
+"cx": 1886,
+"cy": 7229,
+"width": 300,
+"name": "Car Talking Head",
+"id": "1544330327475382",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1499273768084466.gif",
+"cx": 1186,
+"cy": 7912,
+"width": 300,
+"name": "Car Talking Head",
+"id": "1499273768084466",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1073227222332978.gif",
+"cx": 1536,
+"cy": 7912,
+"width": 300,
+"name": "Car Talking Head",
+"id": "1073227222332978",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1447600023754543.gif",
+"cx": 3254,
+"cy": 7229,
+"width": 300,
+"name": "Absurd Prop",
+"id": "1447600023754543",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1362391602438229.gif",
+"cx": 3604,
+"cy": 7229,
+"width": 300,
+"name": "Absurd Prop",
+"id": "1362391602438229",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1575086367363814.gif",
+"cx": 3954,
+"cy": 7229,
+"width": 300,
+"name": "Absurd Prop",
+"id": "1575086367363814",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1065303662554441.gif",
+"cx": 3254,
+"cy": 7912,
+"width": 300,
+"name": "Absurd Prop",
+"id": "1065303662554441",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1287606709892008.gif",
+"cx": 1186,
+"cy": 8723,
+"width": 300,
+"name": "Archival / Vintage Footage",
+"id": "1287606709892008",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1571819437440570.gif",
+"cx": 1536,
+"cy": 8723,
+"width": 300,
+"name": "Archival / Vintage Footage",
+"id": "1571819437440570",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1677332200222445.gif",
+"cx": 1886,
+"cy": 8723,
+"width": 300,
+"name": "Archival / Vintage Footage",
+"id": "1677332200222445",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1040273831812104.gif",
+"cx": 1186,
+"cy": 9406,
+"width": 300,
+"name": "Archival / Vintage Footage",
+"id": "1040273831812104",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1468216794655704.gif",
+"cx": 3254,
+"cy": 8723,
+"width": 300,
+"name": "CCTV / Security Cam Look",
+"id": "1468216794655704",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1524625319203384.gif",
+"cx": 3604,
+"cy": 8723,
+"width": 300,
+"name": "CCTV / Security Cam Look",
+"id": "1524625319203384",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/2084205542514496.gif",
+"cx": 3954,
+"cy": 8723,
+"width": 300,
+"name": "CCTV / Security Cam Look",
+"id": "2084205542514496",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1009078658764502.gif",
+"cx": 3254,
+"cy": 9406,
+"width": 300,
+"name": "CCTV / Security Cam Look",
+"id": "1009078658764502",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/744977112020267.gif",
+"cx": 1186,
+"cy": 10217,
+"width": 300,
+"name": "Chaos / Mess Scene",
+"id": "744977112020267",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1329078975818066.gif",
+"cx": 1536,
+"cy": 10217,
+"width": 300,
+"name": "Chaos / Mess Scene",
+"id": "1329078975818066",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/958930383631991.gif",
+"cx": 1886,
+"cy": 10217,
+"width": 300,
+"name": "Chaos / Mess Scene",
+"id": "958930383631991",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/995110286484819.gif",
+"cx": 1186,
+"cy": 10900,
+"width": 300,
+"name": "Chaos / Mess Scene",
+"id": "995110286484819",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7239841689979063598.gif",
+"cx": 3254,
+"cy": 10217,
+"width": 300,
+"name": "Lo-Fi Native Selfie",
+"id": "7239841689979063598",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/2092630265016746.gif",
+"cx": 3604,
+"cy": 10217,
+"width": 300,
+"name": "Lo-Fi Native Selfie",
+"id": "2092630265016746",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/2262639524491019.gif",
+"cx": 3954,
+"cy": 10217,
+"width": 300,
+"name": "Lo-Fi Native Selfie",
+"id": "2262639524491019",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/818036241240243.gif",
+"cx": 3254,
+"cy": 10900,
+"width": 300,
+"name": "Lo-Fi Native Selfie",
+"id": "818036241240243",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1207920748117874.gif",
+"cx": 1186,
+"cy": 11711,
+"width": 300,
+"name": "Microscope View",
+"id": "1207920748117874",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1001099125927995.gif",
+"cx": 1536,
+"cy": 11711,
+"width": 300,
+"name": "Microscope View",
+"id": "1001099125927995",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/28145951031658558.gif",
+"cx": 1886,
+"cy": 11711,
+"width": 300,
+"name": "Microscope View",
+"id": "28145951031658558",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1317198760483542.gif",
+"cx": 1186,
+"cy": 12394,
+"width": 300,
+"name": "Microscope View",
+"id": "1317198760483542",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7568595659063492625.gif",
+"cx": 3254,
+"cy": 11711,
+"width": 300,
+"name": "First-Person POV Hands",
+"id": "7568595659063492625",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1966833947595249.gif",
+"cx": 3604,
+"cy": 11711,
+"width": 300,
+"name": "First-Person POV Hands",
+"id": "1966833947595249",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7563111396284563457.gif",
+"cx": 3954,
+"cy": 11711,
+"width": 300,
+"name": "First-Person POV Hands",
+"id": "7563111396284563457",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/26550499654541816.gif",
+"cx": 1186,
+"cy": 13205,
+"width": 300,
+"name": "Low-Angle Hero Product",
+"id": "26550499654541816",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1938789176638963.gif",
+"cx": 1536,
+"cy": 13205,
+"width": 300,
+"name": "Low-Angle Hero Product",
+"id": "1938789176638963",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1400954781962688.gif",
+"cx": 1886,
+"cy": 13205,
+"width": 300,
+"name": "Low-Angle Hero Product",
+"id": "1400954781962688",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/976527182019592.gif",
+"cx": 3254,
+"cy": 13205,
+"width": 300,
+"name": "Macro ASMR Close-Up",
+"id": "976527182019592",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7186654196123582465.gif",
+"cx": 3604,
+"cy": 13205,
+"width": 300,
+"name": "Macro ASMR Close-Up",
+"id": "7186654196123582465",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/3618415001646799.gif",
+"cx": 3954,
+"cy": 13205,
+"width": 299,
+"name": "Macro ASMR Close-Up",
+"id": "3618415001646799",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/4665555827004853.gif",
+"cx": 1186,
+"cy": 14016,
+"width": 300,
+"name": "Oddly Satisfying Process",
+"id": "4665555827004853",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7078292187671265281.gif",
+"cx": 1536,
+"cy": 14016,
+"width": 300,
+"name": "Oddly Satisfying Process",
+"id": "7078292187671265281",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7460869817291210768.gif",
+"cx": 1886,
+"cy": 14016,
+"width": 300,
+"name": "Oddly Satisfying Process",
+"id": "7460869817291210768",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1716130172687962.gif",
+"cx": 3254,
+"cy": 14016,
+"width": 296,
+"name": "Out-of-Place Element",
+"id": "1716130172687962",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7254671312558276609.gif",
+"cx": 3604,
+"cy": 14016,
+"width": 300,
+"name": "Out-of-Place Element",
+"id": "7254671312558276609",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1483297966400912.gif",
+"cx": 3954,
+"cy": 14016,
+"width": 300,
+"name": "Out-of-Place Element",
+"id": "1483297966400912",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1447609490197794.gif",
+"cx": 1186,
+"cy": 14827,
+"width": 300,
+"name": "Silent Reaction PIP",
+"id": "1447609490197794",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1249085294057167.gif",
+"cx": 1536,
+"cy": 14827,
+"width": 300,
+"name": "Silent Reaction PIP",
+"id": "1249085294057167",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "../figma/kref/31.jpg",
+"cx": 1381,
+"cy": 15486,
+"width": 690,
+"name": "Silent Reaction PIP",
+"id": "K31",
+"kind": "kref"
+},
+{
+"frame": "g_unique",
+"file": "gifs/3770633939739760.gif",
+"cx": 3254,
+"cy": 14827,
+"width": 300,
+"name": "Megaphone Announcement",
+"id": "3770633939739760",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/1047510424932496.gif",
+"cx": 3604,
+"cy": 14827,
+"width": 300,
+"name": "Megaphone Announcement",
+"id": "1047510424932496",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/982433897542382.gif",
+"cx": 1186,
+"cy": 16074,
+"width": 300,
+"name": "Unusual Location",
+"id": "982433897542382",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/2369179243609411.gif",
+"cx": 1536,
+"cy": 16074,
+"width": 300,
+"name": "Unusual Location",
+"id": "2369179243609411",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7282838552362352641.gif",
+"cx": 3254,
+"cy": 16074,
+"width": 300,
+"name": "Visual Mistake",
+"id": "7282838552362352641",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "../figma/kref/32.jpg",
+"cx": 3449,
+"cy": 16733,
+"width": 690,
+"name": "Visual Mistake",
+"id": "K32",
+"kind": "kref"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7611887564340956429.gif",
+"cx": 1186,
+"cy": 17321,
+"width": 300,
+"name": "Empty Shelves / Sold Out",
+"id": "7611887564340956429",
+"kind": "gif"
+},
+{
+"frame": "g_unique",
+"file": "gifs/7389593862158204944.gif",
+"cx": 3254,
+"cy": 17321,
+"width": 300,
+"name": "Lab / Side-by-Side Experiment",
+"id": "7389593862158204944",
+"kind": "gif"
+}
+]

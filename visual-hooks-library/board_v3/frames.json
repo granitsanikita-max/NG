@@ -1,0 +1,52 @@
+[
+ {
+  "key": "g_text",
+  "title": "Graphic & Text Overlays",
+  "x": 12000,
+  "y": 420,
+  "w": 4200,
+  "h": 17543,
+  "cards": 31,
+  "images": 89
+ },
+ {
+  "key": "g_pattern",
+  "title": "Pattern Interrupts",
+  "x": 12000,
+  "y": 18283,
+  "w": 4200,
+  "h": 11131,
+  "cards": 18,
+  "images": 53
+ },
+ {
+  "key": "g_motion",
+  "title": "Subject Motion",
+  "x": 12000,
+  "y": 29734,
+  "w": 4200,
+  "h": 27907,
+  "cards": 40,
+  "images": 143
+ },
+ {
+  "key": "g_fx",
+  "title": "Visual Effects",
+  "x": 12000,
+  "y": 57961,
+  "w": 4200,
+  "h": 15902,
+  "cards": 26,
+  "images": 75
+ },
+ {
+  "key": "g_unique",
+  "title": "Unique Visual Selection",
+  "x": 12000,
+  "y": 74183,
+  "w": 4200,
+  "h": 17874,
+  "cards": 26,
+  "images": 104
+ }
+]
