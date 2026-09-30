@@ -25,8 +25,8 @@
     <rect x="407" y="201" width="12" height="21" rx="2" fill="#EFCB86"/>
     <rect x="425" y="193" width="12" height="29" rx="2" fill="#EFCB86"/>
   </g>
-  <!-- positioning stamp -->
-  <text x="405" y="290" font-family="SG Medium" font-size="15" fill="#F4ECDF" fill-opacity="0.82" text-anchor="middle" letter-spacing="3">NOT A BIG KID &#183; NOT A SMALL WOMAN</text>
+  <!-- slogan -->
+  <text x="405" y="292" font-family="SG Medium" font-size="17" fill="#F4ECDF" fill-opacity="0.85" text-anchor="middle" letter-spacing="4">KNOW HER NUMBER</text>
 
   <!-- STRADDLING WORDMARK -->
   <text x="405" y="548" font-family="SG Bold" font-size="196" text-anchor="middle" letter-spacing="-6" fill="#F4ECDF" clip-path="url(#topClip)">iryn</text>

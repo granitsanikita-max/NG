@@ -10,7 +10,8 @@
 
 **Brand:** IRYN — gentle daily iron for teen girls.
 - On-pack line: **"gentle daily iron for teen girls"** (literal, no misread).
-- Ad / positioning line: **"iron for her years · not a big kid, not a small woman."**
+- Slogan (on-pack + brand): **"Know her number."** (the mission + funnel in 3 words; clear & professional).
+- Ad-only lines: **"iron for her years"** and **"not a big kid, not a small woman"** (great with room to explain; too clever for a bare package).
 **Category:** Teen-girl iron supplement (DTC, dropship test).
 **Status:** Pre-launch. Capped $1,500 / 14-day US test in October 2026. Not a brand build yet.
 
