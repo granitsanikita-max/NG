@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="810" height="810" viewBox="0 0 810 810" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect x="0" y="0" width="810" height="810" fill="#F4ECDF"/>
+
+  <!-- ===== SUPPLEMENT FACTS (white, black, verbatim/faithful) ===== -->
+  <rect x="56" y="44" width="698" height="222" fill="#FFFFFF" stroke="#111111" stroke-width="3"/>
+  <text x="72" y="88" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#111">Supplement Facts</text>
+  <line x1="66" y1="98" x2="744" y2="98" stroke="#111" stroke-width="1"/>
+  <text x="72" y="120" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111">Serving Size: 1 Oral Strip (200 mg)</text>
+  <text x="72" y="140" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111">Servings Per Container: 30</text>
+  <rect x="66" y="147" width="678" height="5" fill="#111"/>
+  <text x="744" y="170" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111" text-anchor="end">Amount Per Serving       % DV</text>
+  <line x1="66" y1="178" x2="744" y2="178" stroke="#111" stroke-width="1"/>
+  <text x="72" y="200" font-family="Arial, sans-serif" font-size="15" fill="#111">Folate</text>
+  <text x="744" y="200" font-family="Arial, sans-serif" font-size="15" fill="#111" text-anchor="end">400 mcg DFE          100 %</text>
+  <text x="744" y="216" font-family="Arial, sans-serif" font-size="11" font-style="italic" fill="#111" text-anchor="end">(240 mcg Folic Acid)</text>
+  <line x1="66" y1="224" x2="744" y2="224" stroke="#111" stroke-width="1"/>
+  <text x="72" y="246" font-family="Arial, sans-serif" font-size="15" fill="#111">Iron <tspan font-style="italic">(as Ferric Saccharate)</tspan></text>
+  <text x="744" y="246" font-family="Arial, sans-serif" font-size="15" fill="#111" text-anchor="end">19 mg          106 %</text>
+  <line x1="66" y1="256" x2="744" y2="256" stroke="#111" stroke-width="2"/>
+
+  <!-- Other ingredients -->
+  <text x="56" y="290" font-family="Arial, sans-serif" font-size="13.5" fill="#2B1418"><tspan font-weight="700">Other Ingredients:</tspan> Pullulan, Cellulose, Lecithin, Raspberry Flavor, Monk</text>
+  <text x="56" y="307" font-family="Arial, sans-serif" font-size="13.5" fill="#2B1418">Fruit Extract, Citric Acid, Medium-Chain Triglycerides, Xanthan Gum, Steviol Glycosides.</text>
+
+  <!-- SUGGESTED USE -->
+  <text x="56" y="340" font-family="SG Bold" font-size="15" fill="#A0203F" letter-spacing="1.5">SUGGESTED USE</text>
+  <text x="56" y="360" font-family="Arial, sans-serif" font-size="14" fill="#2B1418">One strip on her tongue each morning — let it dissolve. Take it with water or juice,</text>
+  <text x="56" y="378" font-family="Arial, sans-serif" font-size="14" fill="#2B1418">not with milk, tea, or coffee (those block iron). Ask her doctor to check her iron</text>
+  <text x="56" y="396" font-family="Arial, sans-serif" font-size="14" fill="#2B1418">again in 2–3 months.</text>
+
+  <!-- ABOUT -->
+  <text x="56" y="428" font-family="SG Bold" font-size="15" fill="#A0203F" letter-spacing="1.5">ABOUT IRYN</text>
+  <text x="56" y="448" font-family="Arial, sans-serif" font-size="14" fill="#2B1418">iryn is a gentle daily iron for teen girls — the ones who are always tired, have heavy</text>
+  <text x="56" y="466" font-family="Arial, sans-serif" font-size="14" fill="#2B1418">periods, or play a lot of sports. It's a daily top-up, not a medicine. If a doctor has said</text>
+  <text x="56" y="484" font-family="Arial, sans-serif" font-size="14" fill="#2B1418">her iron is very low, or that she's anemic, she needs a stronger iron from her doctor first.</text>
+
+  <!-- CAUTION -->
+  <text x="56" y="516" font-family="SG Bold" font-size="15" fill="#A0203F" letter-spacing="1.5">CAUTION</text>
+  <text x="56" y="536" font-family="Arial, sans-serif" font-size="14" fill="#2B1418">Don't take more than one a day. Talk to a doctor first if she's pregnant, nursing,</text>
+  <text x="56" y="554" font-family="Arial, sans-serif" font-size="14" fill="#2B1418">under 18, or has a health condition.</text>
+
+  <!-- KEEP OUT (verbatim) -->
+  <text x="56" y="584" font-family="Arial, sans-serif" font-size="13.5" font-weight="800" fill="#111">KEEP OUT OF REACH OF CHILDREN. STORE IN A COOL, DRY PLACE.</text>
+
+  <!-- FDA disclaimer box (verbatim) -->
+  <rect x="56" y="596" width="698" height="46" fill="none" stroke="#111" stroke-width="1.5"/>
+  <text x="66" y="616" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111">*This statement has not been evaluated by the Food and Drug Administration. This</text>
+  <text x="66" y="632" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111">product is not intended to diagnose, treat, cure, or prevent any disease.</text>
+
+  <!-- Overdose WARNING box (verbatim) -->
+  <rect x="56" y="650" width="698" height="66" fill="none" stroke="#111" stroke-width="1.5"/>
+  <text x="66" y="670" font-family="Arial, sans-serif" font-size="12" font-weight="800" fill="#111">WARNING: Accidental overdose of iron-containing products is a leading cause of fatal</text>
+  <text x="66" y="686" font-family="Arial, sans-serif" font-size="12" font-weight="800" fill="#111">poisoning in children under 6. Keep this product out of reach of children. In case of</text>
+  <text x="66" y="702" font-family="Arial, sans-serif" font-size="12" font-weight="800" fill="#111">accidental overdose, call a doctor or poison control center immediately.</text>
+
+  <!-- Contact + QR -->
+  <!-- bottom-left kept clear for Supliful's fixed QR; contact moved right -->
+  <text x="300" y="744" font-family="Arial, sans-serif" font-size="13" fill="#2B1418"><tspan font-weight="700">Distributed by:</tspan> IRYN Health Co.,</text>
+  <text x="300" y="762" font-family="Arial, sans-serif" font-size="13" fill="#2B1418">Austin, TX, USA  ·  hello@tryiryn.com</text>
+  <text x="300" y="782" font-family="Arial, sans-serif" font-size="10.5" fill="#8A6A4A">Placeholder — replace with real details before selling.</text>
+</svg>
