@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="600" viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="garnet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B62A4C"/><stop offset="60%" stop-color="#A0203F"/><stop offset="100%" stop-color="#7C1730"/>
+    </linearGradient>
+    <linearGradient id="foil" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EFCB86"/><stop offset="45%" stop-color="#D8A24A"/><stop offset="100%" stop-color="#A9762C"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="500" height="600" fill="#F4ECDF"/>
+  <rect x="500" y="0" width="500" height="600" fill="url(#garnet)"/>
+
+  <!-- LEFT emblem (garnet chip on cream) -->
+  <g>
+    <rect x="150" y="90" width="200" height="200" rx="30" fill="url(#garnet)"/>
+    <text x="172" y="138" font-family="SG Medium" font-size="24" fill="#EFCB86">26</text>
+    <text x="250" y="212" font-family="SG Bold" font-size="96" fill="#F4ECDF" text-anchor="middle">Fe</text>
+    <rect x="206" y="258" width="16" height="10" rx="2" fill="#EFCB86"/>
+    <rect x="230" y="250" width="16" height="18" rx="2" fill="#EFCB86"/>
+    <rect x="254" y="240" width="16" height="28" rx="2" fill="#EFCB86"/>
+    <rect x="278" y="228" width="16" height="40" rx="2" fill="#EFCB86"/>
+  </g>
+  <text x="250" y="392" font-family="SG Bold" font-size="76" fill="#A0203F" text-anchor="middle" letter-spacing="-3">level</text>
+  <text x="250" y="428" font-family="SG Medium" font-size="17" fill="#7C1730" text-anchor="middle" letter-spacing="1">gentle daily iron for teen girls</text>
+  <text x="250" y="560" font-family="SG Medium" font-size="14" fill="#9A5A3E" text-anchor="middle" letter-spacing="3">ON LIGHT</text>
+
+  <!-- RIGHT emblem (gold/cream on garnet) -->
+  <g>
+    <rect x="650" y="90" width="200" height="200" rx="30" fill="none" stroke="url(#foil)" stroke-width="5"/>
+    <text x="672" y="138" font-family="SG Medium" font-size="24" fill="#EFCB86">26</text>
+    <text x="750" y="212" font-family="SG Bold" font-size="96" fill="#F4ECDF" text-anchor="middle">Fe</text>
+    <rect x="706" y="258" width="16" height="10" rx="2" fill="#EFCB86"/>
+    <rect x="730" y="250" width="16" height="18" rx="2" fill="#EFCB86"/>
+    <rect x="754" y="240" width="16" height="28" rx="2" fill="#EFCB86"/>
+    <rect x="778" y="228" width="16" height="40" rx="2" fill="#EFCB86"/>
+  </g>
+  <text x="750" y="392" font-family="SG Bold" font-size="76" fill="#F4ECDF" text-anchor="middle" letter-spacing="-3">level</text>
+  <text x="750" y="428" font-family="SG Medium" font-size="17" fill="#F4ECDF" fill-opacity="0.85" text-anchor="middle" letter-spacing="1">gentle daily iron for teen girls</text>
+  <text x="750" y="560" font-family="SG Medium" font-size="14" fill="#EFCB86" text-anchor="middle" letter-spacing="3">ON GARNET</text>
+</svg>
