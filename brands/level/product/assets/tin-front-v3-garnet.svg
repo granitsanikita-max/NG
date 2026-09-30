@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="810" height="810" viewBox="0 0 810 810" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="garnet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B62A4C"/>
+      <stop offset="60%" stop-color="#A0203F"/>
+      <stop offset="100%" stop-color="#7C1730"/>
+    </linearGradient>
+    <linearGradient id="foil" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EFCB86"/>
+      <stop offset="45%" stop-color="#D8A24A"/>
+      <stop offset="100%" stop-color="#A9762C"/>
+    </linearGradient>
+    <clipPath id="topClip"><polygon points="0,0 810,0 810,540 0,486"/></clipPath>
+    <clipPath id="botClip"><polygon points="0,486 810,540 810,810 0,810"/></clipPath>
+  </defs>
+
+  <!-- base cream (bottom shows through) -->
+  <rect x="0" y="0" width="810" height="810" fill="#F4ECDF"/>
+  <!-- garnet top block (diagonal) -->
+  <polygon points="0,0 810,0 810,540 0,486" fill="url(#garnet)"/>
+  <!-- ghost Fe in garnet for depth -->
+  <text x="620" y="470" font-family="SG Bold" font-size="560" fill="#F4ECDF" fill-opacity="0.07" text-anchor="middle" clip-path="url(#topClip)">Fe</text>
+  <!-- gold seam on the split -->
+  <line x1="0" y1="486" x2="810" y2="540" stroke="url(#foil)" stroke-width="4"/>
+
+  <!-- periodic chip top-left -->
+  <g>
+    <rect x="92" y="92" width="106" height="120" rx="9" fill="none" stroke="url(#foil)" stroke-width="2.6"/>
+    <text x="107" y="121" font-family="SG Medium" font-size="17" fill="#EFCB86">26</text>
+    <text x="145" y="173" font-family="SG Bold" font-size="54" fill="#F4ECDF" text-anchor="middle">Fe</text>
+    <text x="145" y="196" font-family="SG Medium" font-size="12.5" fill="#EFCB86" text-anchor="middle" letter-spacing="1">55.85</text>
+  </g>
+  <!-- kicker top-right -->
+  <text x="716" y="118" font-family="SG Medium" font-size="14" fill="#F4ECDF" fill-opacity="0.8" text-anchor="end" letter-spacing="3.5">DIETARY</text>
+  <text x="716" y="138" font-family="SG Medium" font-size="14" fill="#F4ECDF" fill-opacity="0.8" text-anchor="end" letter-spacing="3.5">SUPPLEMENT</text>
+
+  <!-- STRADDLING WORDMARK -->
+  <text x="405" y="545" font-family="SG Bold" font-size="196" text-anchor="middle" letter-spacing="-8" fill="#F4ECDF" clip-path="url(#topClip)">level</text>
+  <text x="405" y="545" font-family="SG Bold" font-size="196" text-anchor="middle" letter-spacing="-8" fill="#A0203F" clip-path="url(#botClip)">level</text>
+
+  <!-- bottom cream panel content -->
+  <text x="405" y="606" font-family="SG Medium" font-size="33" fill="#7C1730" text-anchor="middle" letter-spacing="2">iron for her years</text>
+
+  <!-- hero dose number -->
+  <text x="405" y="686" font-family="SG Bold" font-size="70" text-anchor="middle" fill="#A0203F" letter-spacing="-1">19<tspan font-size="42" fill="#B08A44">mg</tspan></text>
+  <text x="405" y="716" font-family="SG Medium" font-size="17" fill="#6A5A3C" text-anchor="middle" letter-spacing="5">IRON &#183; ONE A DAY</text>
+
+  <text x="405" y="762" font-family="SG Medium" font-size="15.5" fill="#6A5A3C" text-anchor="middle" letter-spacing="2.2">MADE FOR GIRLS 12+ &#183; RASPBERRY &#183; 30 ORAL STRIPS</text>
+</svg>
