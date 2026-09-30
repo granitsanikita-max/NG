@@ -1,4 +1,6 @@
-# LEVEL — Visual Identity (v1)
+# IRYN — Visual Identity (v1)
+
+> Brand name locked: **IRYN** (see brand.md). Wordmark is lowercase `iryn`.
 
 > Built from `research.md` §4B. Locked here so every asset (tin, PDP, ads, Her Page) stays one system.
 
@@ -16,7 +18,7 @@ The research demands "plain-spoken, on her side… chemistry class, not medicine
 Everything else stays monochrome. Discipline is the brand.
 
 ## Type direction
-- **Wordmark:** `level` — always lowercase, clean geometric/grotesque sans (e.g. a Neue Haas / Söhne / Inter feel), tight tracking. Cool on her desk, clear in Mum's ad.
+- **Wordmark:** `iryn` — always lowercase, Space Grotesk (technical/lab letterforms), tight tracking. Cool on her desk, clear in Mum's ad.
 - **Tagline:** `iron for her years` — same family, lighter weight, sentence case.
 - **Numbers:** slightly heavier weight, Ferritin Gold, because the whole brand is about a number.
 - No script, no rounded "friendly" fonts, no all-caps shouting.

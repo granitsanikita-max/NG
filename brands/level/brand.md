@@ -1,13 +1,21 @@
-# LEVEL — Brand Quick Reference
+# IRYN — Brand Quick Reference
 
 > Full research: `brands/level/research.md`. This is the at-a-glance card. When in doubt, the research doc wins.
 
-**Brand:** LEVEL · iron for her years. Not a big kid. Not a small woman.
+## ⚑ BRAND NAME — LOCKED
+- **Name:** **IRYN** (iron, respelled to read as a girl's name — says the category, feels like a person).
+- **Domain:** `tryiryn.com` (verified unregistered via RDAP). Alt: `irynco.com`. Grab `.com` + `@iryn`/`@tryiryn` handles.
+- **Trademark:** run a USPTO Class 5 (supplements) search before printing at scale. Not needed for the $1,500 test.
+- **History:** research doc was written under the working name "LEVEL"; founder locked **IRYN** on 2026-09-30. Wherever the research says "LEVEL," read "IRYN." The strategy is unchanged.
+
+**Brand:** IRYN — gentle daily iron for teen girls.
+- On-pack line: **"gentle daily iron for teen girls"** (literal, no misread).
+- Ad / positioning line: **"iron for her years · not a big kid, not a small woman."**
 **Category:** Teen-girl iron supplement (DTC, dropship test).
 **Status:** Pre-launch. Capped $1,500 / 14-day US test in October 2026. Not a brand build yet.
 
 ## The one thing
-Everyone sells iron a size up (women's, "not for under 18") or a size down (kids', "ages 2–12"). LEVEL makes *her* size — the 12–18 girl whose iron need nearly doubles at 14.
+Everyone sells iron a size up (women's, "not for under 18") or a size down (kids', "ages 2–12"). IRYN makes *her* size — the 12–18 girl whose iron need nearly doubles at 14.
 
 ## Positioning
 - **Enemy:** The Gap Years (system that treats her as a big kid or a small woman). Sub-enemy: The Fine Print (cancel mazes, planted reviews, hidden doses).
@@ -26,7 +34,7 @@ Everyone sells iron a size up (women's, "not for under 18") or a size down (kids
 - $69 60-Day Start (⭐ default) · $119 100-Day Reset (anchor) · $39 single (decoy) · +$29 Bottle for Mum.
 - 100-day no-questions refund (no lab). Buy once or subscribe; one-click cancel.
 
-## Hard rules for any LEVEL copy/creative
+## Hard rules for any IRYN copy/creative
 - **Master filter:** if it doesn't serve "her years, her number", the $69 default, or one of the 3 objection answers — cut it.
 - Say the biggest flaw first: "Under ~15 or anemic = doctor's dose." Put it above the fold.
 - Every stat in an ad carries a URL or PMID.

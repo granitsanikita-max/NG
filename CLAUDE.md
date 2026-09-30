@@ -18,7 +18,7 @@ If a decision contradicts the research, flag it and explain why before proceedin
 
 <!-- One line per brand. Update this list when a new brand folder is added. -->
 
-- **LEVEL** — `brands/level/` — teen-girl iron supplement ("iron for her years"). Pre-launch; $1,500 US test, Oct 2026.
+- **IRYN** — `brands/level/` — teen-girl iron supplement ("iron for her years"). Name locked IRYN (2026-09-30); research written under working name "LEVEL" — read LEVEL as IRYN. Domain `tryiryn.com`. Pre-launch; $1,500 US test, Oct 2026.
 
 ## How research docs get here
 

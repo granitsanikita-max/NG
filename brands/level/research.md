@@ -1,5 +1,7 @@
 # LEVEL — Step 1 Deep Market Research
 
+> ⚑ NAME UPDATE: The brand name is now **IRYN** (locked 2026-09-30). This research was written under the working name "LEVEL" — everywhere it says LEVEL, read IRYN. Positioning/strategy unchanged. See `brand.md`.
+>
 > Source: Nikita's "Step 1 — Deep Market Research" (Parts 1 & 2), dated 29 Sep 2026.
 > Sources behind it: Reddit, Mumsnet, DCUM, 559 Amazon/Walmart reviews, WinningHunter, Meta Ad Library, PubMed, 6 live competitor funnel walks. Full evidence file: STEP1_TEEN_IRON_EVIDENCE.md.
 > **This is the source of truth for LEVEL. Read it in full before any LEVEL work.**
