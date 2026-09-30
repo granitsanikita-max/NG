@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="810" height="810" viewBox="0 0 810 810" xmlns="http://www.w3.org/2000/svg">
+  <!-- 2.45in x 2.45in + 0.125in bleed all sides @ 300dpi. Trim = inner 735x735. -->
+  <defs>
+    <radialGradient id="matte" cx="50%" cy="42%" r="75%">
+      <stop offset="0%" stop-color="#B0432F"/>
+      <stop offset="72%" stop-color="#A63D2D"/>
+      <stop offset="100%" stop-color="#8E3324"/>
+    </radialGradient>
+  </defs>
+
+  <!-- full bleed background -->
+  <rect x="0" y="0" width="810" height="810" fill="url(#matte)"/>
+
+  <!-- keyline frame (safe zone) -->
+  <rect x="95" y="95" width="620" height="620" rx="20" fill="none" stroke="#F2ECE1" stroke-opacity="0.55" stroke-width="2"/>
+
+  <!-- Fe 26 periodic tile -->
+  <g>
+    <rect x="330" y="150" width="150" height="172" rx="10" fill="#F2ECE1"/>
+    <text x="347" y="188" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#A63D2D">26</text>
+    <text x="405" y="272" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800" fill="#A63D2D" text-anchor="middle">Fe</text>
+    <text x="405" y="300" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#A63D2D" text-anchor="middle">55.85</text>
+    <text x="405" y="316" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#A63D2D" text-anchor="middle" letter-spacing="3">IRON</text>
+  </g>
+
+  <!-- wordmark -->
+  <text x="405" y="448" font-family="Arial, Helvetica, sans-serif" font-size="132" font-weight="800" fill="#F2ECE1" text-anchor="middle" letter-spacing="-3">level</text>
+
+  <!-- tagline -->
+  <text x="405" y="500" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="400" fill="#F2ECE1" text-anchor="middle" letter-spacing="4">iron for her years</text>
+
+  <!-- hairline -->
+  <line x1="300" y1="548" x2="510" y2="548" stroke="#F2ECE1" stroke-opacity="0.6" stroke-width="1.5"/>
+
+  <!-- dose -->
+  <text x="212" y="600" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="600" fill="#F2ECE1" text-anchor="start">
+    <tspan fill="#C98A3A" font-weight="800">19 mg</tspan><tspan fill="#F2ECE1"> iron &#183; one a day</tspan>
+  </text>
+
+  <!-- bottom descriptor -->
+  <text x="405" y="702" font-family="Arial, Helvetica, sans-serif" font-size="18.5" font-weight="600" fill="#F2ECE1" fill-opacity="0.9" text-anchor="middle" letter-spacing="2.5">MADE FOR GIRLS 12+  &#183;  RASPBERRY  &#183;  30 ORAL STRIPS</text>
+</svg>
