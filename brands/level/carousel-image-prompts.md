@@ -25,11 +25,12 @@ Using the attached tin as reference, create a vibrant, photorealistic 1:1 lifest
 ```
 
 ## SLIDE 2 — BEFORE & AFTER (real girl, real transformation)
-⬜ **No reference needed** — but see the consistency tip (reuse the same girl).
+🎨 **Attach your Slide-1 girl as a character reference, THEN paste** (reusing her also keeps it the same person AND helps it clear the content filter):
 
 ```
-Create a photorealistic 1:1 before-and-after split image showing the SAME teenage girl (around 14–16, authentic, relatable, natural) in both halves, so she is clearly recognisable as one person. LEFT panel, small label "BEFORE": she looks genuinely drained and exhausted — slumped at a school desk or on the couch, pale, dark under-eyes, heavy low-energy posture; dull, desaturated, cool overcast color grade. Small clean overlay tag, bottom corner: "Ferritin: 9" with the 9 large in garnet (#A0203F). RIGHT panel, small label "AFTER — 10 WEEKS": the same girl now bright-eyed, upright, smiling with real energy; warm, vibrant, sunlit color grade. Small tag: "Ferritin: 31" with the 31 large in gold (#D8A24A). Across the top, bold garnet (#A0203F) headline: "Normal bloodwork. Empty tank. Here's what moved." Photoreal, cinematic, authentic documentary feel (not stocky), consistent same face both sides, crisp legible text. 1:1. No watermark.
+Using the attached image as a character reference, create a photorealistic 1:1 image: two candid lifestyle photos of the SAME girl from the reference, taken ten weeks apart, side by side. LEFT, small label "WEEK 0": she's relaxing on the couch after a long school day, a bit tired and low-energy, soft indoor light, gently muted cool color grade; small corner tag "Ferritin: 9" with the 9 large in garnet (#A0203F). RIGHT, small label "WEEK 10": the same girl outdoors in warm sunlight, upright and smiling with real energy and life; warm, vibrant cream-and-garnet grade; small corner tag "Ferritin: 31" with the 31 large in gold (#D8A24A). Top headline in bold garnet (#A0203F): "Normal bloodwork. Empty tank. Here's what moved." Warm, authentic editorial lifestyle photography, the same recognisable face in both, natural and wholesome, nothing clinical, medical or distressing, crisp legible text. 1:1. No watermark.
 ```
+*If it still flags:* generate the two photos separately (one relaxed-tired, one bright-energetic, same girl via reference) and place them side by side in Canva; or make it the mum's two moments instead of the daughter's.
 
 ## SLIDE 3 — MAIN OBJECTION ("but her bloodwork was normal")
 ⬜ **No reference needed.**
