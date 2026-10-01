@@ -17,29 +17,25 @@ Using the attached product as reference, create a premium e-commerce product pho
 
 ---
 
-## SLIDE 1 — HERO (product + 3 dream outcomes)
+## SLIDE 1 — HERO (real girl + product + benefits)
 🟥 **Attach the STEP 0 product image, THEN paste:**
 
 ```
-Create a premium 1:1 carousel slide on a seamless warm cream (#F4ECDF) background. LEFT HALF: place the attached garnet supplement tin, softly lit, realistic contact shadow, matte finish. RIGHT HALF: a vertical stack of three short benefit lines, each with a small muted-gold (#D8A24A) dot icon, in clean geometric sans-serif, warm near-black ink (#2B1418) text. At the top in bold garnet (#A0203F): "Give her her spark back." The three lines read exactly:
-"Awake through 6th period — not face-down on the desk."
-"Finishing the season — not fading at halftime."
-"Her old self back: the laugh, the focus, the energy."
-At the very bottom, small ink text: "gentle daily iron for girls 12–18 · one raspberry strip a day". Editorial, airy, lots of whitespace, premium DTC brand style. Crisp legible typography. No watermark.
+Using the attached tin as reference, create a vibrant, photorealistic 1:1 lifestyle hero image. SCENE: an authentic, candid photo of a happy, energetic teenage girl (around 14–16, natural, relatable, minimal makeup) genuinely laughing and full of life in warm natural daylight — outdoors after sport or heading to school, hair catching the light, real energy. Warm cream-and-garnet color grade. In the lower-right foreground place the attached garnet IRYN tin, in sharp focus, resting naturally (on a bag or ledge), realistic and matte. TEXT: top-left bold garnet (#A0203F) headline "Give her her spark back." Along the bottom, three small semi-transparent cream (#F4ECDF) rounded chips, each a tiny gold (#D8A24A) icon + short warm-ink (#2B1418) label: "Awake in class", "Finishing the season", "Her old self back". Keep text crisp and minimal. Authentic editorial brand photography, shallow depth of field, not stocky, emotionally warm. 1:1. No watermark.
 ```
 
-## SLIDE 2 — BEFORE & AFTER (the number moves)
-⬜ **No reference needed.** (Optional: 🎨 attach Slide 1 for consistent style.)
+## SLIDE 2 — BEFORE & AFTER (real girl, real transformation)
+⬜ **No reference needed** — but see the consistency tip (reuse the same girl).
 
 ```
-Create a 1:1 carousel slide on a warm cream (#F4ECDF) background, split into two cards side by side. LEFT CARD labeled "BEFORE" in small ink caps: a minimalist lab-result slip showing two lines — "Hemoglobin: normal" with a small green check, and "Ferritin: 9" with a small garnet (#A0203F) cross — below it small ink text "always tired · heavy periods · 'her bloods are fine.'" RIGHT CARD labeled "AFTER — 10 WEEKS": a lab slip showing "Ferritin: 31" large in garnet, below it "back at practice · awake in class · herself again." Across the top in bold garnet: "Normal bloodwork. Empty tank. Here's what moved." The numbers 9 and 31 are large and in muted gold (#D8A24A). Clean geometric sans-serif, flat modern infographic style, generous spacing, subtle card shadows. No real people, no watermark.
+Create a photorealistic 1:1 before-and-after split image showing the SAME teenage girl (around 14–16, authentic, relatable, natural) in both halves, so she is clearly recognisable as one person. LEFT panel, small label "BEFORE": she looks genuinely drained and exhausted — slumped at a school desk or on the couch, pale, dark under-eyes, heavy low-energy posture; dull, desaturated, cool overcast color grade. Small clean overlay tag, bottom corner: "Ferritin: 9" with the 9 large in garnet (#A0203F). RIGHT panel, small label "AFTER — 10 WEEKS": the same girl now bright-eyed, upright, smiling with real energy; warm, vibrant, sunlit color grade. Small tag: "Ferritin: 31" with the 31 large in gold (#D8A24A). Across the top, bold garnet (#A0203F) headline: "Normal bloodwork. Empty tank. Here's what moved." Photoreal, cinematic, authentic documentary feel (not stocky), consistent same face both sides, crisp legible text. 1:1. No watermark.
 ```
 
-## SLIDE 3 — MAIN OBJECTION ("but the doctor said she's fine")
-⬜ **No reference needed.** (Optional: 🎨 Slide 1 for style.)
+## SLIDE 3 — MAIN OBJECTION ("but her bloodwork was normal")
+⬜ **No reference needed.**
 
 ```
-Create a 1:1 carousel slide on a warm cream (#F4ECDF) background. TOP: a large quotation in warm near-black ink (#2B1418), geometric sans-serif: "But her bloodwork was normal." BELOW: a simple two-part diagram comparing a "spending account" and a "savings account" — two minimalist wallet/piggy-bank line icons in garnet (#A0203F) and gold (#D8A24A). Caption under the diagram, ink text: "A blood count checks her spending money. Ferritin checks her savings." At the bottom in a small garnet pill/banner with cream text: "83.6% of iron-deficient girls aren't anemic." Tiny ink footnote: "PMID 37367984". Clean editorial infographic, flat icons, lots of whitespace, legible. No watermark.
+Create a photorealistic 1:1 image with an emotional, intimate scene. SCENE: a candid photo of an American mother (around 40, authentic, relatable, no glam) sitting at a softly lit kitchen table at night, looking down at a printed lab report in her hands with a worried, thoughtful expression; her tired teenage daughter is softly out of focus in the background. Warm, cinematic lighting, cream-and-garnet color grade, shallow depth of field. TEXT: a large quote overlaid in the upper area, warm near-black ink (#2B1418), geometric sans-serif, with "normal" in garnet (#A0203F): "“But her bloodwork was normal.”" LOWER THIRD: a slim semi-transparent cream (#F4ECDF) info strip with two tiny line icons (a wallet and a piggy-bank) and short text: "A blood count checks her spending money. Ferritin checks her savings." and a small garnet (#A0203F) pill with cream text: "83.6% of iron-deficient girls aren't anemic." Authentic editorial photography with a clean minimal data overlay, emotional, legible. 1:1. No watermark.
 ```
 
 ## SLIDE 4 — ALL OBJECTIONS (the fast no-list)
