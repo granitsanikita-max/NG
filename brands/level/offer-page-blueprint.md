@@ -193,6 +193,29 @@ Problem she didn't know she had + the promise of her girl back (S1–S2) → it'
 
 **Two engines running in parallel the whole way down:** BELIEF (she has a real, missable problem → ferritin is the number → test-first → gentle dose → honest brand → risk-free) AND DESIRE (her girl back → she's the mum who caught it → calm control → break the cycle). Belief makes it true; desire makes her buy.
 
+## OBJECTION-COVERAGE MATRIX (every research §11 objection → where it's killed)
+| Objection (her words) | Killed at |
+|---|---|
+| "Is it even enough? / needs an infusion" | S7 (dose), S14 (who it's NOT for), S20 FAQ |
+| "She won't take pills" | S16 (strip ritual), S17, S20 FAQ |
+| "Tastes like pennies" | **S7 + S17 (raspberry, dissolves, no metal taste) — see GAP 1** |
+| "Why $69 when iron is $16?" | S15 (contrast), S18 (pay for the plan), S20 |
+| "The doctor said she's fine" | S4 (mechanism), S6 (2026 guidance), S20 (attack the range, never the doctor) |
+| "Iron is dangerous / overdose" | S14 (under teen limit, child-resistant), S7, S20 |
+| "Will it work? How fast?" | S8 (Test→Top Up→Retest, honest timeline), S20 |
+| "Subscription trap" | S1 (persistent one-click cancel), S18, S20 |
+| "Scam / heavy metals" | S14 (clean label, 3rd-party test, real founder) |
+| "Fake reviews / momfluencers" | S10 ("zero reviews, and we say so") |
+| "Methyl-B makes her anxious" | S7 + S14 (folic acid, NOT methylfolate) |
+| "Is it for someone like her?" | S5 ("where she fits" / made for girls 12+), S15 |
+| "Returns?" | S1 + S18 (70-day no-questions promise) |
+
+## GAPS TO CLOSE (found in the audit — add these or the page isn't bulletproof)
+1. **Taste needs its own proof moment, not just an FAQ line.** Taste is the #1 Amazon complaint (39% negative) and the make-or-break for reorders. In S7/S17: "raspberry, dissolves on her tongue, no pill, no metal taste," and reserve a slot for a REAL uncut "first-taste reaction" UGC clip once seeded. Don't bury taste in the FAQ.
+2. **Test friction / needle fear — the hidden blocker of "test first."** The page tells her to know the number, but getting the blood draw stalls many mums (research §19 insight 4). Must address in S8 + S20: the **Quest pathway** (ages 10+, parent present, no doctor visit) + "add ferritin to a draw she's already having" + a one-line needle-fear reassurance. Without this, "test first" dies.
+3. **"She'll actually take it" reassurance to the mum** — the daily-adherence fear (she'll refuse, I'll nag). Strengthen S16/S17: the strip she'll take + **Her Page** ("talks to her, not at her") + the refund covers "even if she won't take it." This pays off core desire #5 (no fight at breakfast).
+4. **Price anchoring must appear at S15 + S18:** vs Cavaé $49.99/tin (adults only), vs a $59 lab test just to find out, vs infusions $400–4,800 — **never anchor to Thorne $16.**
+
 ## NON-NEGOTIABLE FLAGS (the bulletproofing)
 - **Zero fabricated reviews, testimonials, doctors, or stats.** Every proof element is a real cited number, a real published quote, or a labeled placeholder for seeded UGC. (FTC + it's the brand's whole moat.)
 - **Problem before product.** No product/price until after S14.
