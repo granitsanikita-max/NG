@@ -43,62 +43,62 @@ TOP headline, bold garnet (#A0203F): "Normal bloodwork. Empty tank. Here's what 
 Create a photorealistic 1:1 image with an emotional, intimate scene. SCENE: a candid photo of an American mother (around 40, authentic, relatable, no glam) sitting at a softly lit kitchen table at night, looking down at a printed lab report in her hands with a worried, thoughtful expression; her tired teenage daughter is softly out of focus in the background. Warm, cinematic lighting, cream-and-garnet color grade, shallow depth of field. TEXT: a large quote overlaid in the upper area, warm near-black ink (#2B1418), geometric sans-serif, with "normal" in garnet (#A0203F): "“But her bloodwork was normal.”" LOWER THIRD: a slim semi-transparent cream (#F4ECDF) info strip with two tiny line icons (a wallet and a piggy-bank) and short text: "A blood count checks her spending money. Ferritin checks her savings." and a small garnet (#A0203F) pill with cream text: "83.6% of iron-deficient girls aren't anemic." Authentic editorial photography with a clean minimal data overlay, emotional, legible. 1:1. No watermark.
 ```
 
-## SLIDE 4 — ALL OBJECTIONS (the fast no-list)
-⬜ **No reference needed.**
+## SLIDE 4 — ALL OBJECTIONS (every worry, answered)
+⬜ **No reference needed.** (Optional: 🟥 Step 0 tin resting in a corner.)
 
 ```
-Create a 1:1 carousel slide on a warm cream (#F4ECDF) background. Header in bold garnet (#A0203F): "Every worry, answered." Below it, a clean vertical list of six rows, each row = a short grey question on the left and a bold garnet answer on the right, geometric sans-serif, warm ink (#2B1418) text, thin gold (#D8A24A) divider lines between rows. The six rows read exactly:
-"Will she swallow a pill?  →  No pill. A strip."
-"Too strong for her?  →  19 mg gentle, not 65."
-"Tastes like pennies?  →  Raspberry. Dissolves."
-"Is it even enough?  →  A daily top-up to a number."
-"Locked in a subscription?  →  Cancel in one click."
-"Is it safe?  →  Clean label · made for 12+."
-Flat, modern, tidy, highly legible. Generous spacing. No watermark.
+Create a premium, modern 1:1 slide on a warm cream (#F4ECDF) background with subtle depth — soft shadows, rounded cards, clean app-like UI feel. Header at the top in bold garnet (#A0203F): "Every worry, answered." Below, six tidy rounded cards in a 2-column grid. Each card shows a small muted-grey crossed-out worry on top, and below it a bold garnet (#A0203F) answer with a gold (#D8A24A) check icon. Exact text:
+"She won't swallow pills" → "No pill — a strip."
+"Too strong for her" → "19 mg gentle, not 65."
+"Tastes like pennies" → "Raspberry. Dissolves."
+"Is it even enough?" → "A daily top-up to a number."
+"Subscription trap" → "Cancel in one click."
+"Is it safe?" → "Clean label · made for 12+."
+Clean geometric sans-serif, warm ink (#2B1418) text, crisp and highly legible, generous spacing, premium and confident. 1:1. No watermark, no people.
 ```
 
 ## SLIDE 5 — LOGICAL EVIDENCE (the 2026 authority peg)
-⬜ **No reference needed.**
+⬜ **No reference needed. No people.**
 
 ```
-Create a 1:1 carousel slide on a warm cream (#F4ECDF) background. Headline in bold garnet (#A0203F), geometric sans-serif: "In 2026, the doctors who write the rules changed them." Below, three evenly spaced proof blocks, each with a small gold (#D8A24A) icon and short ink (#2B1418) text:
-"AAP: screen every girl by 14."
-"ASH: under 30 is low."
-"38.6% of US girls 12–21 are iron-deficient."
-One number per block is large and gold. Tiny ink footnote at the bottom: "AAP 2026 · ASH 2026 · PMID 37367984". Clean authoritative infographic, flat, lots of whitespace, legible. No logos, no real faces, no watermark.
+Create a premium 1:1 editorial "authority" slide on a warm cream (#F4ECDF) background — treat it like a confident health headline. Top, bold garnet (#A0203F) headline: "In 2026, the doctors who write the rules changed them." Below, three clean stat blocks separated by thin gold (#D8A24A) divider lines, each with a large gold word/number and a short warm-ink (#2B1418) caption plus a tiny source label:
+"Screen every girl by 14."  — label "AAP 2026"
+"Under 30 is low."  — label "ASH 2026"
+"38.6% of US girls 12–21 are iron-deficient."  — label "PMID 37367984"
+Optional: a very faint, low-opacity blurred medical-journal / clinical-guideline texture in the background for an authoritative feel. Trustworthy, editorial, crisp typography, generous whitespace. 1:1. No logos, no people, no watermark.
 ```
 
 ## SLIDE 6 — TAKE THEM TO THE FUTURE (day 85 + identity)
-⬜ **No reference needed.** (If you want a photo version, see note below.)
+⬜ **No reference needed. No people** — an emotional still-life instead.
 
 ```
-Create a 1:1 carousel slide on a warm cream (#F4ECDF) background, calm and hopeful. Centered, a large elegant quote in warm near-black ink (#2B1418), geometric sans-serif, with key words in garnet (#A0203F): "Picture her next blood test — printed in black, not red." Below, smaller ink text: "The season finished. The focus back. And you? The mom who caught it." A single thin gold (#D8A24A) underline accent. Minimalist, editorial, emotional but restrained, lots of whitespace. No watermark.
+Create a warm, emotional, photorealistic 1:1 still-life, NO people. SCENE: a printed blood-test result lying on a sunlit kitchen table in soft morning light, with the key line clearly legible — "Ferritin: 31" printed in black (not red) with a small check — a cup of tea/coffee and the garnet IRYN tin resting softly in the frame, slightly out of focus. Warm golden light, cream-and-garnet color grade, shallow depth of field, premium lifestyle still-life. TEXT overlay in warm near-black ink (#2B1418) with key words in garnet (#A0203F): "Picture her next blood test — printed in black, not red." Smaller line below: "The season finished. The focus back. And you? The mom who caught it." A thin gold (#D8A24A) underline accent. Emotional, aspirational, premium, legible. 1:1. No people, no watermark.
 ```
-*Photo option (optional):* attach Slide 1 for color style and add: "Soft, warm photo of a teenage girl (shown from behind or softly out of focus, not identifiable) crossing a cross-country finish line at golden hour, muted garnet-and-cream color grade, same quote overlaid." Keep her non-identifiable.
 
-## SLIDE 7 — TESTIMONIALS (specific mom proof)
-⬜ **No reference needed.** (Clean quote cards — no fake faces, more premium and consistent.)
+## SLIDE 7 — TESTIMONIALS (clean quote cards, no people)
+⬜ **No reference needed. No people.**
 
 ```
-Create a 1:1 carousel slide on a warm cream (#F4ECDF) background with two stacked testimonial quote cards (soft rounded cards, subtle shadow, cream/white). Each card has five small gold (#D8A24A) stars, a quote in warm ink (#2B1418) geometric sans-serif with the number in garnet (#A0203F), and a small attribution line. Card 1: "14 → 31 in 10 weeks. She's back at cross-country and I got my kid back." — "mum of a 15-yo, OH". Card 2: "First iron she'll actually take. No fight at breakfast." — "mum of a 13-yo". Header above in bold garnet: "Moms who were right." Clean, trustworthy, editorial. No photos of people, no watermark.
+Create a premium 1:1 testimonial slide on a warm cream (#F4ECDF) background with two stacked rounded quote cards (soft shadow, clean). Each card: five gold (#D8A24A) stars, a short quote in warm ink (#2B1418) with the number in garnet (#A0203F), and a small attribution line. Header at top in bold garnet (#A0203F): "Moms who were right." Card 1: "14 → 31 in 10 weeks. She's back at cross-country and I got my kid back." — "mum of a 15-yo". Card 2: "First iron she'll actually take. No fight at breakfast." — "mum of a 13-yo". Clean, trustworthy, editorial, crisp legible text. 1:1. No people, no watermark.
 ```
+*One real note:* the two quotes above are placeholders — swap in **genuine seeded-mom reviews** before launch. Don't publish invented quotes as real customer testimonials (that's the one thing that gets an ad account/Shopify Payments pulled). Keep the card design; fill it with real words.
 
 ## SLIDE 8 — RISK REVERSAL (the 70-day promise)
-⬜ **No reference needed.** (Optional: 🟥 a small tin in the corner — attach Step 0.)
+🟥 **Optional: attach Step 0 tin for the corner. No people.**
 
 ```
-Create a 1:1 carousel slide on a deep garnet (#A0203F) background with warm cream (#F4ECDF) text (high contrast, premium). Centered, a bold headline: "70 days. If her number doesn't move — or she won't take it — full refund." Below, in smaller cream text: "Keep the gifts. No lab result needed. One email." At the bottom, three small cream badge chips with check icons: "70-day money-back", "cancel in one click", "made for girls 12+". A subtle gold (#D8A24A) seal/guarantee-ribbon icon near the headline. Clean, confident, geometric sans-serif, lots of whitespace. No watermark.
+Create a confident, premium 1:1 slide on a deep garnet (#A0203F) background with warm cream (#F4ECDF) text (high contrast). Centered bold headline: "70 days. If her number doesn't move — or she won't take it — full refund." Smaller cream line below: "Keep the gifts. No lab result needed. One email." A tasteful gold (#D8A24A) guarantee seal / ribbon icon near the headline. At the bottom, three small cream pill-chips with check icons: "70-day money-back", "cancel in one click", "made for girls 12+". Optionally place the attached garnet tin resting subtly in a lower corner. Clean, reassuring, high-end, geometric sans-serif, lots of whitespace. 1:1. No people, no watermark.
 ```
 
 ## SLIDE 9 — INGREDIENTS (what's inside)
-🟥 **Attach the STEP 0 product image** (so the strip/tin matches), **THEN paste:**
+🟥 **Attach the STEP 0 product image** (so the strip/tin matches), **THEN paste. No people.**
 
 ```
-Create a 1:1 carousel slide on a warm cream (#F4ECDF) background. CENTER/LEFT: a single thin dissolvable oral strip (raspberry-tinted, semi-translucent) resting elegantly, with the attached garnet tin softly blurred behind it. RIGHT: three clean ingredient callouts, each with a small gold (#D8A24A) icon and warm ink (#2B1418) geometric sans-serif text, the amounts large in garnet (#A0203F):
+Using the attached tin as reference, create a premium, appetizing 1:1 product-macro slide on a warm cream (#F4ECDF) background. CENTER-LEFT: a close, beautiful macro of a single raspberry-tinted dissolvable oral strip (semi-translucent, delicate), with one fresh raspberry and a tiny green leaf beside it, and the garnet tin softly blurred behind. Soft natural light, shallow depth of field, fresh and clean, high-end. RIGHT: three clean ingredient callouts, each a small gold (#D8A24A) icon + warm-ink (#2B1418) text with the amount large in garnet (#A0203F):
 "19 mg gentle iron — ferric saccharate, easy on her stomach"
 "400 mcg folate — plain folic acid, not methylfolate"
-"Raspberry flavor — no sugar, dissolves on the tongue"
-Header in bold garnet at top: "What's actually in it." Clean editorial product-infographic, soft shadows, generous whitespace, legible. No extra text, no watermark.
+"Raspberry — no sugar, dissolves on the tongue"
+Header at top in bold garnet (#A0203F): "What's actually in it." Premium editorial product photography with clean callouts, soft shadows, generous whitespace, legible. 1:1. No people, no watermark.
 ```
 
 ---
@@ -108,11 +108,11 @@ Header in bold garnet at top: "What's actually in it." Clean editorial product-i
 |---|---|
 | Step 0 — product | 🟥 your real product/tin photo |
 | 1 — Hero | 🟥 Step 0 product image |
-| 2 — Before/After | ⬜ (🎨 Slide 1 optional) |
-| 3 — Main objection | ⬜ |
+| 2 — Before/After | 🎨 your girl photo (people) |
+| 3 — Main objection | 🎨 a mum (people) |
 | 4 — All objections | ⬜ |
 | 5 — Logical evidence | ⬜ |
-| 6 — Future | ⬜ (🎨 Slide 1 if doing photo version) |
+| 6 — Future | ⬜ (still-life, no people) |
 | 7 — Testimonials | ⬜ |
 | 8 — Risk reversal | ⬜ (🟥 Step 0 optional, corner tin) |
 | 9 — Ingredients | 🟥 Step 0 product image |
