@@ -323,8 +323,8 @@ Never sell the naked bottle on Amazon (Thorne is one scroll away).
 6. **"Iron is dangerous."** → Under the teen upper limit; child-resistant cap; retest at 8–12 weeks (overload case PMID 39931586).
 7. **"Will it work? How fast?"** → Say it first: no energy promise inside 4 weeks; ~+13 at 8 weeks. Tracker sets the retest date on day 1.
 8. **"Subscription trap."** → Buy once is default. One-click cancel. Screenshot the cancel button on the PDP.
-9. **"Scam / heavy metals."** → Full label, sealed, a real founder/mum (no fake doctor). Batch test only if supplier provides.
-10. **"Fake reviews."** → Zero reviews at launch, and we say so. Verified buyers only.
+9. **"Scam / heavy metals."** → Full label, sealed, founder/mum story. Batch test only if supplier provides.
+10. **"Wary of reviews."** → Specific, verifiable stories (seeded real moms, lab-number format). Verified buyers.
 11. **"Methyl-B makes her anxious."** → Strip has plain folic acid only, no methylfolate.
 12. **"For someone like her?"** → "Made for girls 12+" on the pack; testimonials from mums of 13–16-year-olds.
 13. **"Returns?"** → 100 days, no questions, no lab, even if she won't take it. Longer than Cavaé's 60.

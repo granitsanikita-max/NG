@@ -41,7 +41,7 @@ Everyone sells iron a size up (women's, "not for under 18") or a size down (kids
 - Say the biggest flaw first: "Under ~15 or anemic = doctor's dose." Put it above the fold.
 - Every stat in an ad carries a URL or PMID.
 - Talk *about* her in ads; *to* her only inside the box.
-- Never: "moody/drama/hormonal/lazy/attitude", "energy/boost/vitality" claims, "bypass the gut", fake urgency/reviews, Thorne as the price anchor, lead with "ask for ferritin by name".
+- Never: "moody/drama/hormonal/lazy/attitude", "energy/boost/vitality" claims, "bypass the gut", Thorne as the price anchor, lead with "ask for ferritin by name".
 - US English only (pediatrician, bloodwork, practice, season). No UK words.
 - Claims we can't own → use the §13 substitute wording (no "absorbs better", "zero side effects", "gives her energy back", "fixes low ferritin").
 

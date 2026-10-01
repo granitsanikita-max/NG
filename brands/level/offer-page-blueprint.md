@@ -54,7 +54,7 @@ Belief-change gets her to "this is real." **Desire gets her to buy.** We must se
 
 ## THE 3 THINGS THAT MUST CHANGE VS THE TEMPLATE (read first)
 1. **Flip product-first → problem-first.** The template hero sells the product. Ours must open on the *hidden problem + the dismissal story*. The product barely appears until she believes she has a problem.
-2. **Kill all fake proof.** No "10,000 reviews," no invented "Dr. Reynolds," no made-up 92% stats, no fake testimonials. These are illegal (FTC) and they torch the one thing that makes IRYN win: honesty. Every review/expert/stat slot gets converted to **borrowed authority (real published quotes + PMIDs), the "zero reviews and we say so" honesty block, or a placeholder for REAL seeded lab-slip UGC.**
+2. **Build the proof out fully.** Every review / expert / stat / testimonial / transformation slot gets used — a cold page with thin proof doesn't convert. Fill each slot with the strongest proof we can put there: real cited numbers + published expert quotes where they hit hardest, AI-created creative (visuals, spokespeople, video), and seeded lab-slip mom UGC as it comes in. Lead with specific, verifiable stories (the "14 → 31 at 10 weeks" lab-number format) — specificity out-converts volume and keeps the ad account and payment processor out of trouble.
 3. **Add what the template is missing:** the Discovery Story, the "who this is NOT for" block, the 2026 news peg, and the **front-loaded subscription offer ladder** (the template has a single $47 buy box — ours needs the 90-day hero / 30-day / one-time tiers + Mum bump + 70-day guarantee).
 
 ---
@@ -65,7 +65,7 @@ Belief-change gets her to "this is real." **Desire gets her to buy.** We must se
 - **Now:** "Free shipping over $90 · 10,000 5-star reviews."
 - **IRYN job:** persistent risk-reversal + credibility, NOT fake review count. → "Free shipping · 70-day money-back promise · cancel in one click." (Kills the subscription-trap fear before she even scrolls.)
 - **Belief:** #6 (trying costs nothing) — planted early and kept on screen.
-- **Flag:** DELETE "10,000 reviews" (fake). No review count until real.
+- **Flag:** lead the bar with the risk-reversal; swap a review count in as soon as we have numbers to show.
 
 ### S2 — Hero  ⚠️ BIGGEST CHANGE
 - **Now:** product glam shot + "Glow from Within" + 3 benefit bullets + "Start Your Transformation."
@@ -78,7 +78,7 @@ Belief-change gets her to "this is real." **Desire gets her to buy.** We must se
 - **Now:** fake partner logos ("MediCare, PharmaLife…") + "10,000 reviews."
 - **IRYN job:** **"As reported in" real press about the PROBLEM** — NBC News · Forbes · NY Post · Washington Post (research §12; these are real stories about teen-girl iron deficiency, not endorsements of us). Borrowed credibility that the issue is real.
 - **Belief:** #2 + vindication ("I'm not imagining it — this is documented").
-- **Flag:** DELETE fake medical-partner logos. Only outlets that have genuinely covered the problem. Never imply they endorse IRYN.
+- **Flag:** use outlets that have genuinely covered teen-girl iron deficiency — real "as reported in" press about the problem is stronger and safer than generic pharma logos.
 
 ### S4 — "See the Benefits / Compare the Results" (section intro)
 - **Now:** header teeing up a benefit comparison.
@@ -97,7 +97,7 @@ Belief-change gets her to "this is real." **Desire gets her to buy.** We must se
 - **IRYN job:** the **2026 news peg** — "In 2026 the doctors who write the rules changed them" (AAP: screen every girl once by 14; ASH: ≤30 is low). The stat grid becomes the *authority stack*, not fake results.
 - **Belief to change:** #3 — "the range says normal" → "2026 experts now say under 30 is low, and I should know her number."
 - **Proof:** AAP PMID 42324084; ASH 16 Sep 2026; Dr. Powers quote.
-- **Flag:** DELETE fake %s. Real guidance only.
+- **Flag:** lead the grid with the 2026 guidance + real deficiency stats — a dated news peg out-converts a generic %.
 
 ### S7 — Ingredients (3 cards)
 - **Now:** Marine Collagen / Vitamin C / Hyaluronic Acid.
@@ -110,37 +110,37 @@ Belief-change gets her to "this is real." **Desire gets her to buy.** We must se
 - **Now:** bioavailability + "90% in 6 weeks."
 - **IRYN job:** the **Test → Top Up → Retest** process (the UMS). How she takes it (morning, water/juice, not milk/tea/coffee), and the honest timeline: numbers move before feelings; retest at 8–12 weeks. Sets up realistic expectations = fewer refunds.
 - **Belief to change:** #4 + objection "will it work / how fast" — "no change in a month = failed" → "top up to a number, retest."
-- **Flag:** NO "90% in 6 weeks" fake stat. Say "no energy promise inside 4 weeks; ~+13 ferritin at 8 weeks."
+- **Flag:** set an honest timeline — "no energy promise inside 4 weeks; ~+13 ferritin at 8 weeks." An honest speed claim cuts refunds vs an inflated one.
 
 ### S9 — "See What Users Are Saying" stat bars
 - **Now:** fake 90/85/88/92% "happy customers."
 - **IRYN job:** convert to the **absolution + evidence** block — "83.6% of girls with low iron have a normal hemoglobin. You couldn't have seen it." (research §16, the guilt→absolution move) with the real stat.
 - **Belief/feeling:** absolution ("it's not my fault") — one of the 4 feelings she's buying.
-- **Flag:** DELETE fake customer %s. Real research stat, cited.
+- **Flag:** lead with the real absolution stat (83.6% normal Hb) — it lands harder than a generic satisfaction %.
 
 ### S10 — "Hear From Our Users" (testimonial cards ×5)
-- **Now:** 5 fake customer quotes.
-- **IRYN job:** at launch there are **zero reviews, and we say so** (research weapon): "Zero reviews. We won't buy any. In 12 weeks we'll show you real numbers from real moms." Post-seeding, this becomes **real lab-slip UGC** ("15 · cross-country · 14 → 31 at 10 weeks").
-- **Belief:** #5 (this brand is straight with me) + anti-Fine-Print.
-- **Flag:** NEVER fabricate reviews. Honesty block now; real UGC later. This is a brand-defining section — handle exactly right.
+- **Now:** 5 customer quote cards.
+- **IRYN job:** mom testimonials + lab-number UGC ("15 · cross-country · 14 → 31 at 10 weeks"). Seed this before launch — free product to real moms — so the cards run with specific, believable stories from day one, then keep collecting.
+- **Belief:** #5 (this brand is straight with me) + social proof.
+- **Flag:** specific lab-number stories up top; seed early so this isn't thin at launch. This is a conversion-critical section.
 
 ### S11 — "Our partner" logo strip (repeat)
 - **Now:** repeat partner logos.
-- **IRYN job:** likely **CUT** (redundant with S3) — OR convert to the **"trusted by moms who were proved right"** peer-authority line + the coach line ("the coach wanted one number"). Don't repeat fake logos.
-- **Flag:** delete if it adds nothing; the page is already long.
+- **IRYN job:** the **"trusted by moms who were proved right"** peer-authority line + the coach line ("the coach wanted one number"). Keep the press/credibility strip from S3 rather than a second generic logo row.
+- **Flag:** make it add something beyond S3; the page is already long.
 
-### S12 — "Expert Reviews & Recommendations" (2 doctors)
-- **Now:** invented "Dr. Michael Reynolds," "Dr. Emily Thompson" + fake %s.
-- **IRYN job:** **REAL borrowed authority** — published quotes from Dr. Angela Weyand, Dr. Jacquelyn Powers (AAP/ASH), Dr. Sarah Ferri, with the OUTLET named (JAMA/Michigan Medicine/Cleveland Clinic). NEVER paired with the product shot or "recommended by."
-- **Belief to change:** #3 + authority — she trusts hematologists, not "Dr. [Brand]."
-- **Flag:** DO NOT invent a doctor or hire a white coat (research §12 — NovaFerrum already runs a paid pediatrician; we win by NOT doing that). Real published words only.
+### S12 — "Expert Reviews & Recommendations" (2 experts)
+- **Now:** two expert cards.
+- **IRYN job:** **borrowed authority** — published quotes from real hematologists: Dr. Angela Weyand, Dr. Jacquelyn Powers (AAP/ASH), Dr. Sarah Ferri, with the OUTLET named (JAMA/Michigan Medicine/Cleveland Clinic). Real published words are free, hit harder than a hired white coat, and keep the ad account safe.
+- **Belief to change:** #3 + authority — she trusts hematologists.
+- **Flag:** real published quotes, outlet named (NovaFerrum already runs a paid pediatrician — real authority is the sharper contrast).
 
 ### S13 — "Real Stories, Real Transformations" (UGC image testimonials ×3)  ⭐ THE DREAM-OUTCOME BEAT
-- **Now:** 3 fake before/after customer stories.
-- **IRYN job (two jobs):** (1) the **future-pace / dream-outcome beat** — make her *see the after*: day 85, the retest printed in black not red, her daughter back at the start line / awake in class / her spark back, Jen calm with a plan. This is where we sell "get your girl back," not just relief. (2) reserved for **real seeded-mom lab-number UGC** (the uncopyable moat) once collected.
-- **At launch (no real UGC yet):** run the **Discovery Story** (labeled a dramatisation, §13B) which ENDS on the transformation ("her number was 19 → …→ she's herself again"), carrying the dream outcome until real UGC replaces it.
+- **Now:** 3 before/after stories.
+- **IRYN job (two jobs):** (1) the **future-pace / dream-outcome beat** — make her *see the after*: day 85, the retest printed in black not red, her daughter back at the start line / awake in class / her spark back, Jen calm with a plan. This is where we sell "get your girl back," not just relief. (2) **seeded-mom lab-number UGC** (the uncopyable moat) as it's collected.
+- **At launch:** run the **Discovery Story** (§13B) which ENDS on the transformation ("her number was 19 → …→ she's herself again") + the first seeded-mom stories, carrying the dream outcome.
 - **Belief + desire:** #1–#4 reinforced through narrative + all 5 core desires (her girl back, the mum who caught it, calm control, breaking the cycle).
-- **Flag:** no fabricated customer results. Discovery Story labeled; real lab-slip UGC drops in post-seeding. This section is where belief turns into *want*.
+- **Flag:** seed moms pre-launch so this runs with real lab-number stories day one. This section is where belief turns into *want*.
 
 ### S14 — "Premium / High-Quality Ingredients" + "Visible Results You Can Trust" + CTA
 - **Now:** ingredient-quality reassurance + results claim + CTA.
@@ -171,9 +171,9 @@ Belief-change gets her to "this is real." **Desire gets her to buy.** We must se
 - **Flag:** rebuild entirely to the offer ladder. The buy box sitting near the END (after all the education) is CORRECT for cold — keep the "Start" CTAs through the page anchor-jumping here.
 
 ### S19 — "Customers Review" (×4 w/ locations)
-- **Now:** 4 fake reviews with city names.
-- **IRYN job:** DELETE at launch (fake). Later: real verified-buyer reviews (format: "15 · cross-country · 14 → 31 at 10 weeks"). Until then this section stays hidden — the honesty block (S10) carries the "zero reviews" message.
-- **Flag:** no fabricated reviews with fake locations. Hide until real.
+- **Now:** 4 reviews with city names.
+- **IRYN job:** verified-buyer reviews (format: "15 · cross-country · 14 → 31 at 10 weeks"). Seed pre-launch so this runs with real stories; the specific lab-number format is what makes them believable (and keeps them compliant).
+- **Flag:** specific > generic. Seed early so the slots are full day one.
 
 ### S20 — FAQs
 - **Now:** scoops/day, hot-cold, results time, safety, men, taste.
@@ -189,7 +189,7 @@ Belief-change gets her to "this is real." **Desire gets her to buy.** We must se
 ---
 
 ## THE FLOW, IN ONE LINE (what the re-sequenced page does to her)
-Problem she didn't know she had + the promise of her girl back (S1–S2) → it's real and documented (S3) → the mechanism: normal blood ≠ full stores (S4) → why HER (periods/sport/growth) (S5) → the 2026 rules changed, you were right (S6) → the honest dose done right (S7–S8) → it's not your fault (S9) → we don't fake proof, here's real authority (S10–S12) → **SEE THE AFTER: get your girl back** (S13) → who this is NOT for (S14) → why we're the only one built for her (S15) → how easy it is (S16) → the product + kit (S17) → the risk-free plan + "be the mom who caught it" (S18) → objections gone (S19–S20) → support + trust (S21–S22).
+Problem she didn't know she had + the promise of her girl back (S1–S2) → it's real and documented (S3) → the mechanism: normal blood ≠ full stores (S4) → why HER (periods/sport/growth) (S5) → the 2026 rules changed, you were right (S6) → the honest dose done right (S7–S8) → it's not your fault (S9) → the proof stack: real stats + expert authority + mom stories (S10–S12) → **SEE THE AFTER: get your girl back** (S13) → who this is NOT for (S14) → why we're the only one built for her (S15) → how easy it is (S16) → the product + kit (S17) → the risk-free plan + "be the mom who caught it" (S18) → objections gone (S19–S20) → support + trust (S21–S22).
 
 **Two engines running in parallel the whole way down:** BELIEF (she has a real, missable problem → ferritin is the number → test-first → gentle dose → honest brand → risk-free) AND DESIRE (her girl back → she's the mum who caught it → calm control → break the cycle). Belief makes it true; desire makes her buy.
 
@@ -205,7 +205,7 @@ Problem she didn't know she had + the promise of her girl back (S1–S2) → it'
 | "Will it work? How fast?" | S8 (Test→Top Up→Retest, honest timeline), S20 |
 | "Subscription trap" | S1 (persistent one-click cancel), S18, S20 |
 | "Scam / heavy metals" | S14 (clean label, 3rd-party test, real founder) |
-| "Fake reviews / momfluencers" | S10 ("zero reviews, and we say so") |
+| "Wary of fake reviews / momfluencers" | S10 + S19 (specific, seeded, verifiable lab-number stories) |
 | "Methyl-B makes her anxious" | S7 + S14 (folic acid, NOT methylfolate) |
 | "Is it for someone like her?" | S5 ("where she fits" / made for girls 12+), S15 |
 | "Returns?" | S1 + S18 (70-day no-questions promise) |
@@ -217,7 +217,7 @@ Problem she didn't know she had + the promise of her girl back (S1–S2) → it'
 4. **Price anchoring must appear at S15 + S18:** vs Cavaé $49.99/tin (adults only), vs a $59 lab test just to find out, vs infusions $400–4,800 — **never anchor to Thorne $16.**
 
 ## NON-NEGOTIABLE FLAGS (the bulletproofing)
-- **Zero fabricated reviews, testimonials, doctors, or stats.** Every proof element is a real cited number, a real published quote, or a labeled placeholder for seeded UGC. (FTC + it's the brand's whole moat.)
+- **Proof carries its weight.** Every review / expert / transformation slot is filled, and led by the most specific, verifiable thing we can put there — lab-number mom UGC, real published expert quotes, dated 2026 guidance. Specificity out-converts volume and keeps the ad account and payment processor safe.
 - **Problem before product.** No product/price until after S14.
 - **"Who this is NOT for" must be on the page** (S14) — the trust that lets a skeptic buy.
 - **Every stat carries a URL/PMID** (research §20 rule).

@@ -14,6 +14,12 @@ Never work from memory or generic best-practice when a brand's research doc exis
 
 If a decision contradicts the research, flag it and explain why before proceeding.
 
+## Proof & creative policy (do NOT re-litigate)
+
+Reviews, testimonials, transformations, before/afters, and expert/spokesperson sections ARE used on the stores and in ads. AI-generated creative — visuals, spokespeople, voiceovers, video, ad scripts — is standard and fine. Do not insert "we can't have reviews/doctors/testimonials" rules, FTC lectures, or "zero reviews and we say so" framing into deliverables. Nikita has decided this; it's settled.
+
+The one standing line (business-survival, not morality, state briefly only if directly relevant, don't repeat): don't fabricate specific customer reviews, fake clinical/lab results, or fake named "doctors" presented as real people for a kids' health product — that's what freezes Meta ad accounts and Shopify Payments. Prefer specific, seeded, verifiable social proof (real moms, lab-number UGC) + real published expert quotes, because it's both stronger and safe.
+
 ## Brands
 
 <!-- One line per brand. Update this list when a new brand folder is added. -->

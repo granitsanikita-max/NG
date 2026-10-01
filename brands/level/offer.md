@@ -73,7 +73,7 @@ Runs the full Test → Top Up → Retest cycle (90 days = her retest date).
 ## Money-back guarantee — "The 70-Day Know-Her-Number Promise"
 > "Give her plan 70 days. If her number doesn't move, if she won't take it, or you just change your mind — email us for a full refund. Keep the gifts, keep the guides, don't ship a thing back. One email, done."
 - **70 days beats Cavaé's 60** (competitive edge) while cutting our refund exposure vs the old 100-day. *(Founder call — research had 100-day/no-lab; 70 keeps the no-lab, no-return generosity with less downside.)*
-- No lab result required. No fabricated refund stat (zero sales; research bans fake proof). Refund reserve: plan 8–12% + ~1% chargebacks.
+- No lab result required. Refund reserve: plan 8–12% + ~1% chargebacks.
 
 ## Reason for the front-load (honest)
 > "We front-load your first box at a loss on purpose. A plan only works if she finishes it and you retest — so we make starting a no-brainer, then earn our keep when it actually works."
