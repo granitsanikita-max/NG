@@ -25,12 +25,16 @@ Using the attached tin as reference, create a striking, premium 1:1 HERO product
 ```
 
 ## SLIDE 2 — BEFORE & AFTER (real girl, real transformation)
-🎨 **Attach your Slide-1 girl as a character reference, THEN paste** (reusing her also keeps it the same person AND helps it clear the content filter):
+🎨 **Attach a clear photo of your girl as the character reference, THEN paste:**
 
 ```
-Using the attached image as a character reference, create a photorealistic 1:1 image: two candid lifestyle photos of the SAME girl from the reference, taken ten weeks apart, side by side. LEFT, small label "WEEK 0": she's relaxing on the couch after a long school day, a bit tired and low-energy, soft indoor light, gently muted cool color grade; small corner tag "Ferritin: 9" with the 9 large in garnet (#A0203F). RIGHT, small label "WEEK 10": the same girl outdoors in warm sunlight, upright and smiling with real energy and life; warm, vibrant cream-and-garnet grade; small corner tag "Ferritin: 31" with the 31 large in gold (#D8A24A). Top headline in bold garnet (#A0203F): "Normal bloodwork. Empty tank. Here's what moved." Warm, authentic editorial lifestyle photography, the same recognisable face in both, natural and wholesome, nothing clinical, medical or distressing, crisp legible text. 1:1. No watermark.
+Using the attached image as a character reference for the same girl, create a professional, photorealistic 1:1 before-and-after of her — two moments ten weeks apart, side by side with MATCHING framing (same half-body crop, same eye-level angle in both). Documentary editorial quality, true-to-life realistic skin and texture, cinematic natural lighting — NOT glossy, NOT influencer-style, NOT over-retouched.
+LEFT, small label "WEEK 0": she is visibly worn out and depleted — sitting slumped on the couch at home in a cozy everyday sweater, head resting against her hand, heavy tired eyes, a flat faraway expression, no smile. Soft dim indoor light, muted desaturated cool grade. It should feel quietly exhausted, honest and relatable.
+RIGHT, small label "WEEK 10": the SAME girl outdoors in warm golden-hour light, standing tall with a genuine joyful laugh, bright eyes, clearly full of life and energy, in a simple casual everyday outfit. Warm, vibrant, luminous grade.
+Make the emotional contrast strong and real: flat and depleted vs alive and radiant. Modest, wholesome, authentic teenage girl — not a model/fashion shoot.
+TOP headline, bold garnet (#A0203F): "Normal bloodwork. Empty tank. Here's what moved." BOTTOM corners, small tags: left "Ferritin: 9" (9 large, garnet #A0203F); right "Ferritin: 31" (31 large, gold #D8A24A). Crisp legible text. Nothing clinical or medical. 1:1. No watermark.
 ```
-*If it still flags:* generate the two photos separately (one relaxed-tired, one bright-energetic, same girl via reference) and place them side by side in Canva; or make it the mum's two moments instead of the daughter's.
+*For the most control (and the strongest emotion):* generate the two photos SEPARATELY — "week 0" depleted and "week 10" radiant, same girl via the reference, matched crop — then place them side by side in Canva and add the headline + ferritin tags there. This beats asking the model to nail both halves + text in one shot.
 
 ## SLIDE 3 — MAIN OBJECTION ("but her bloodwork was normal")
 ⬜ **No reference needed.**
