@@ -68,11 +68,11 @@ Create a premium 1:1 editorial "authority" slide on a warm cream (#F4ECDF) backg
 Optional: a very faint, low-opacity blurred medical-journal / clinical-guideline texture in the background for an authoritative feel. Trustworthy, editorial, crisp typography, generous whitespace. 1:1. No logos, no people, no watermark.
 ```
 
-## SLIDE 6 — TAKE THEM TO THE FUTURE (day 85 + identity)
-⬜ **No reference needed. No people** — an emotional still-life instead.
+## SLIDE 6 — TAKE THEM TO THE FUTURE (the emotional payoff)
+🎨 **Attach your girl reference. This is a people slide — keep it simple and heartfelt.**
 
 ```
-Create a warm, emotional, photorealistic 1:1 still-life, NO people. SCENE: a printed blood-test result lying on a sunlit kitchen table in soft morning light, with the key line clearly legible — "Ferritin: 31" printed in black (not red) with a small check — a cup of tea/coffee and the garnet IRYN tin resting softly in the frame, slightly out of focus. Warm golden light, cream-and-garnet color grade, shallow depth of field, premium lifestyle still-life. TEXT overlay in warm near-black ink (#2B1418) with key words in garnet (#A0203F): "Picture her next blood test — printed in black, not red." Smaller line below: "The season finished. The focus back. And you? The mom who caught it." A thin gold (#D8A24A) underline accent. Emotional, aspirational, premium, legible. 1:1. No people, no watermark.
+Using the attached girl as a character reference, create a warm, emotional, SIMPLE photorealistic 1:1 image. SCENE: a tender, real moment between a mother (around 40, authentic, relatable) and her teenage daughter (the same girl from the reference) at home in soft golden-hour light — the mum's arm around her, foreheads close or a quiet hug, both with genuine, relaxed, happy, slightly relieved expressions. Natural and candid, NOT posed or cheesy. Keep the background simple and uncluttered, shallow depth of field, warm cream-and-garnet color grade, authentic documentary feel, lots of breathing room. TEXT overlay, minimal: bold garnet (#A0203F) headline "You got your girl back." and a smaller warm-ink (#2B1418) line "The season finished. The spark back. The mum who caught it." A thin gold (#D8A24A) accent line. Heartfelt, intimate, premium, uncluttered. 1:1. No watermark.
 ```
 
 ## SLIDE 7 — TESTIMONIALS (clean quote cards, no people)
@@ -112,7 +112,7 @@ Header at top in bold garnet (#A0203F): "What's actually in it." Premium editori
 | 3 — Main objection | 🎨 a mum (people) |
 | 4 — All objections | ⬜ |
 | 5 — Logical evidence | ⬜ |
-| 6 — Future | ⬜ (still-life, no people) |
+| 6 — Future | 🎨 your girl (people) |
 | 7 — Testimonials | ⬜ |
 | 8 — Risk reversal | ⬜ (🟥 Step 0 optional, corner tin) |
 | 9 — Ingredients | 🟥 Step 0 product image |
