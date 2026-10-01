@@ -17,11 +17,11 @@ Using the attached product as reference, create a premium e-commerce product pho
 
 ---
 
-## SLIDE 1 — HERO (real girl + product + benefits)
+## SLIDE 1 — HERO (product-first, no people)
 🟥 **Attach the STEP 0 product image, THEN paste:**
 
 ```
-Using the attached tin as reference, create a vibrant, photorealistic 1:1 lifestyle hero image. SCENE: an authentic, candid photo of a happy, energetic teenage girl (around 14–16, natural, relatable, minimal makeup) genuinely laughing and full of life in warm natural daylight — outdoors after sport or heading to school, hair catching the light, real energy. Warm cream-and-garnet color grade. In the lower-right foreground place the attached garnet IRYN tin, in sharp focus, resting naturally (on a bag or ledge), realistic and matte. TEXT: top-left bold garnet (#A0203F) headline "Give her her spark back." Along the bottom, three small semi-transparent cream (#F4ECDF) rounded chips, each a tiny gold (#D8A24A) icon + short warm-ink (#2B1418) label: "Awake in class", "Finishing the season", "Her old self back". Keep text crisp and minimal. Authentic editorial brand photography, shallow depth of field, not stocky, emotionally warm. 1:1. No watermark.
+Using the attached tin as reference, create a striking, premium 1:1 HERO product image — the PRODUCT is the star, no people. Place the garnet IRYN tin large, prominent and hero-lit, slightly angled, with soft directional studio light and a rich realistic shadow, standing on a clean background that blends from warm cream (#F4ECDF) into a soft garnet (#A0203F) glow in one corner. Beside the tin, show one raspberry-tinted dissolvable oral strip (semi-translucent) leaning on or floating near it, plus one fresh raspberry and a small green leaf as a tasteful, minimal taste cue. Keep the label crisp and legible: "iryn / gentle daily iron for teen girls / 19 mg" with the small "Fe 26" tile. TEXT: top-left bold garnet (#A0203F) headline "Give her her spark back." Along the bottom, three small clean cream (#F4ECDF) rounded chips, each a tiny gold (#D8A24A) icon + short warm-ink (#2B1418) label: "Awake in class", "Finishing the season", "Her old self back". Premium editorial product photography, crisp and high-end, energetic but clean, lots of intentional whitespace. 1:1. No watermark, no people.
 ```
 
 ## SLIDE 2 — BEFORE & AFTER (real girl, real transformation)
