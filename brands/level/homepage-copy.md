@@ -185,6 +185,28 @@ Blueprint MUST-ADD: the "who this is NOT for" honesty block + clean label. Belie
 - **CTA:** Get your girl back →
 - **Note:** who-it's-NOT-for is the trust move; also kills is-it-enough/infusion objection. Clean-label claims all true to spec.
 
+## S18 — BUY BOX (full rebuild to v6 offer) ⚠️ biggest build
+Replace ALL collagen leftovers (10k reviews, Core Power/Pure Radiance, 92% Collagen stats, $39.95, skin bullets, 30-day guarantee, add-1-scoop). Build to offer.md v6.
+- **Review badge:** ★★★★★ Made for girls 12 to 18 (NO fake count pre-launch; swap to real count after orders).
+- **Title:** Iron Strips · **Deck:** Gentle daily iron for teen girls. 19 mg, one a day.
+- **Plan selector (offer ladder):**
+  - ⭐ 90-Day Challenge, MOST POPULAR, pre-selected: Today $89 first box (3 tins), then $99 every 90 days. Small: $33 a tin · ~$1.10 a day · free shipping.
+  - 30-Day Start: Today $29 first month, then $36/mo. Small: free shipping.
+  - One-time: $39 + shipping (one tin).
+  - DISPLAY RULE: per-tin/per-day ONLY on steady 90-day rate; first-order flat "today $X", no per-day.
+- **3 stat cards (replace 92% Collagen etc):** 19 mg Gentle iron · 400 mcg Folate · 0 g Sugar. Subline: The right dose for a girl 12 to 18, in a strip she'll actually take.
+- **Extra Gift → digital welcome kit:** Every box includes her digital welcome kit: Her Page + retest tracker, the Know Her Number guide, and a doctor-visit script. (DIGITAL ONLY)
+- **4 dream-outcome bullets (future-pace, she pictures it):**
+  - Watch her spark come back. The energy, the focus, the girl you remember.
+  - See her finish the season strong instead of fading at practice.
+  - Feel the relief of catching what her bloodwork missed, and knowing you handled it.
+  - End the morning battle. One raspberry strip she'll actually take, no pills, no fight.
+- **ATC:** Add to cart (or "Start her comeback →")
+- **Trust row (replace 30-day):** 70-day money-back guarantee · cancel anytime in one click · HSA/FSA eligible + payment icons.
+- **How to use (replace add-1-scoop):** One strip on her tongue, once a day. Let it dissolve.
+- **RULES:** Free shipping = SUBSCRIPTIONS ONLY (one-time is $39 + shipping; no blanket free-shipping badge). Afterpay only if actually enabled + math matches. Hero image "Give her her spark back" + pills (Awake in class / Finishing the season / Her old self back) = KEEP, on-brand.
+- **Note:** bullets hit all 4 dream outcomes (girl back, season, mom-who-caught-it, no fight). Kills #6 risk-free + subscription-trap + "why $89".
+
 ## S16 — "How it works" daily ritual (adherence objection killer)
 Blueprint KEEP. Shows how easy daily use is → kills "she won't take it." Product = ONE strip/day, so replace the template's 4 clock times (7AM/8AM/12PM/8PM) with simple steps (not 4 doses).
 - **Heading:** How it works
