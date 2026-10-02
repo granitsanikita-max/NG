@@ -67,19 +67,22 @@ Two halves shown together. Left = problem agitation. Right = blueprint S6 (2026 
 - **Solution caption:** One gentle raspberry strip a day at the right dose for her age, plus a simple plan to find her iron number and bring it back up.
 - **Note:** frame as signs, never promises (Lund 2026: no ferritin-fatigue link, PMID 42551383). Worded to not echo S5's arrow cards.
 
-### S6 right — "In 2026, the experts who make the rules changed them." (stat grid)
-- **Heading:** In 2026, the experts who make the rules changed them.
-- **Subhead:** For years, a girl's iron only got checked if she was already anemic. Not anymore. In 2026 pediatricians started telling parents to check every girl's iron by 14, and blood specialists lowered the number that counts as low.
-- **Group 1 label:** How common it really is
+### S6 right — "The experts changed the rules. We built IRYN to match them." (news peg → BRAND TRUST)
+Rebalanced per Nikita: less problem-fact wall, more brand trust ("prove WE can deliver"). Problem credibility trimmed to 2 stats; then pivot to what IRYN does + why she can trust us.
+- **Heading:** The experts changed the rules. We built IRYN to match them.
+- **Subhead:** In 2026, pediatricians started telling parents to check every girl's iron by 14, and blood specialists lowered the number that counts as low. We made IRYN for exactly that: the right gentle dose for a girl 12 to 18, plus a simple plan to find her number and bring it back up.
+- **2 credibility stats (trimmed from 4):**
   - Nearly 40% | of teen girls are low in iron¹
-  - 77.5% | have a ferritin under 50¹
-- **Group 2 label:** What the experts now say
-  - By 14 | pediatricians now say check every girl's iron²
-  - 30 | a ferritin at or under this is now called low³
-  - ¹ PMID 37367984 · ² AAP 2026, PMID 42324084 · ³ ASH, Sept 2026
+  - By 14 | the age experts now say to check every girl's iron²
+  - ¹ PMID 37367984 · ² AAP 2026, PMID 42324084
+- **Brand-trust block ("Why IRYN"):**
+  - Made only for her years. The right dose for a girl 12 to 18, with folate. Not a grown-up's pill, not a kid's gummy.
+  - A strip she'll actually take. Raspberry, dissolves on her tongue, nothing to swallow, so the plan actually happens instead of sitting in a drawer.
+  - A plan, not just a tin. We help you find her number, top it up daily, then retest so you can see it worked.
+  - Straight with you. If her iron is too low for a supplement to fix, we tell you to see a doctor instead of us.
 - **CTA:** Get your girl back → (anchors to buy box)
 - **CTA line:** The honest, gentle way to find her iron number and bring it back up.
-- **Note:** stats chosen to NOT repeat S4 (83.6%) or S5. Every number carries a PMID/source per non-negotiable flag.
+- **Note:** "see a doctor instead of us" = strongest trust move (previews S14 who-it's-NOT-for). Stats don't repeat S4/S5. Every number carries a PMID.
 
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
