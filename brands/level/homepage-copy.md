@@ -84,6 +84,15 @@ Rebalanced per Nikita: less problem-fact wall, more brand trust ("prove WE can d
 - **CTA line:** The honest, gentle way to find her iron number and bring it back up.
 - **Note:** "see a doctor instead of us" = strongest trust move (previews S14 who-it's-NOT-for). Stats don't repeat S4/S5. Every number carries a PMID.
 
+## S7 — Formula section (3 ingredient cards) "Beauty and Strength Combined"
+Blueprint job: "why this dose, done right." Belief #4 + objections (is it enough / stomach / taste / won't take pills / methyl-B). Only claims we can own; no energy, no "absorbs better."
+- **Heading:** The right iron, done right for her.
+- **Card 1 (replaces Marine Collagen) — Gentle Iron, 19 mg:** A gentle form of iron at the right daily dose for a girl 12 to 18. It's a top-up for low iron, not the 65 mg treatment dose a doctor gives for anemia. That big dose is exactly why so many iron pills leave girls with cramps and nausea. In trials, a low dose like this caused far fewer stomach complaints than a high one (7% vs 87%).¹
+  - ¹ PMID 42124000
+- **Card 2 (replaces Vitamin C) — Folate, 400 mcg:** Plain folic acid, the kind that works alongside iron, especially for girls who eat little or no meat. No methylfolate, which some girls say leaves them feeling wired or anxious.
+- **Card 3 (replaces Hyaluronic Acid) — Raspberry Strip:** It dissolves on her tongue in seconds. No pill to swallow, no metal taste, no sugar. This is the reason she'll actually take it every day instead of leaving it in a drawer.
+- **Note:** Card 1 = "is it enough" + stomach (honest top-up framing). Card 2 = vegetarian + methylfolate objection (#11). Card 3 = taste (#1 Amazon, 39% neg) + won't-take-pills, taste gets its own moment per GAP 1. "*" on folate claim → footer disclaimer. Spec confirmed research line 509 (19 mg ferric saccharate, 400 mcg DFE folate, raspberry, no sugar).
+
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
 - **Headline:** Why she'll actually take IRYN when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")
