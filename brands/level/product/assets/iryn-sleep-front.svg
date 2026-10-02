@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="810" height="810" viewBox="0 0 810 810" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="garnet" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#B62A4C"/><stop offset="60%" stop-color="#A0203F"/><stop offset="100%" stop-color="#7C1730"/>
+  </linearGradient>
+  <linearGradient id="foil" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#EFCB86"/><stop offset="45%" stop-color="#D8A24A"/><stop offset="100%" stop-color="#A9762C"/>
+  </linearGradient>
+  <clipPath id="topClip"><polygon points="0,0 810,0 810,540 0,486"/></clipPath>
+  <clipPath id="botClip"><polygon points="0,486 810,540 810,810 0,810"/></clipPath>
+</defs>
+  <rect x="0" y="0" width="810" height="810" fill="#F4ECDF"/>
+  <polygon points="0,0 810,0 810,540 0,486" fill="url(#garnet)"/>
+  <line x1="0" y1="486" x2="810" y2="540" stroke="url(#foil)" stroke-width="4"/>
+
+  <!-- emblem chip -->
+  <rect x="333" y="92" width="144" height="150" rx="20" fill="none" stroke="url(#foil)" stroke-width="3.4"/>
+  <circle cx="397" cy="168" r="48" fill="#F4ECDF"/><circle cx="429" cy="156" r="44" fill="#A82344"/><circle cx="445" cy="136" r="5" fill="#EFCB86"/><circle cx="439" cy="188" r="4" fill="#EFCB86"/><circle cx="455" cy="160" r="3" fill="#EFCB86"/>
+
+  <!-- slogan -->
+  <text x="405" y="292" font-family="SG Medium" font-size="16" fill="#F4ECDF" fill-opacity="0.85" text-anchor="middle" letter-spacing="3">A CALM END TO A LONG DAY</text>
+
+  <!-- straddling wordmark -->
+  <text x="405" y="548" font-family="SG Bold" font-size="196" text-anchor="middle" letter-spacing="-6" fill="#F4ECDF" clip-path="url(#topClip)">iryn</text>
+  <text x="405" y="548" font-family="SG Bold" font-size="196" text-anchor="middle" letter-spacing="-6" fill="#A0203F" clip-path="url(#botClip)">iryn</text>
+
+  <!-- deck line -->
+  <text x="405" y="606" font-family="SG Medium" font-size="30" fill="#7C1730" text-anchor="middle" letter-spacing="0.5">gentle sleep support</text>
+
+  <!-- hero line -->
+  <text x="405" y="690" font-family="SG Bold" font-size="40" text-anchor="middle" fill="#A0203F" letter-spacing="1">WIND DOWN &#183; ONE BEFORE BED</text>
+
+  <text x="405" y="752" font-family="SG Medium" font-size="14.5" fill="#6A5A3C" text-anchor="middle" letter-spacing="2.5">RASPBERRY &#183; 30 ORAL STRIPS</text>
+</svg>
