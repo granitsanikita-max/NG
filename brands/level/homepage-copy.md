@@ -185,16 +185,16 @@ Blueprint MUST-ADD: the "who this is NOT for" honesty block + clean label. Belie
 - **CTA:** Get your girl back →
 - **Note:** who-it's-NOT-for is the trust move; also kills is-it-enough/infusion objection. Clean-label claims all true to spec.
 
-## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
-- **Eyebrow:** WHY MOMS SWITCH TO IRYN
-- **Headline:** Why she'll actually take IRYN when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")
-- **Table (IRYN vs iron pills vs gummies):**
-  | | IRYN strip | Iron pills | Iron gummies |
-  |---|---|---|---|
-  | How she takes it | Dissolves on her tongue | Horse pill she won't swallow | Sugary chew |
-  | Made for her age | 19 mg for girls 12 to 18 | Adult dose | Often underdosed |
-  | Her stomach | Gentle, no cramps or nausea | Constipation and nausea, the reason girls quit | Varies |
-  | Taste | Raspberry she likes | Metallic | Candy with added sugar |
-  | Folate included | ✓ Yes | Rarely | Rarely |
-  | A real plan | Test, top up, retest | Just a bottle | Just a bottle |
-- **Note:** last row (plan vs bottle) is our moat. Blueprint S15 also wants price-anchoring (vs Cavaé $49.99/tin adults-only; vs $59 test; NEVER anchor to Thorne $16) + rows for one-click cancel + "says 'period' out loud" + test-first honesty. Fold in when we build S15 for real.
+## S15 — "Why IRYN Stands Out" comparison (template format: IRYN vs Others, ✓/✗)
+Template is a 2-column ✓/✗ table. Factual gaps for the teen-girl use case, no fake bashing.
+- **Heading:** Why IRYN Stands Out
+- **Columns:** IRYN (tin image) · Others
+- **Rows (IRYN ✓ / Others ✗):**
+  - Made for girls 12 to 18
+  - Gentle dose, easy on her stomach
+  - Dissolvable raspberry strip, no pills
+  - Dose printed clearly on the front
+  - Folate included for her growing years
+  - Cancel anytime in one click
+- **Note:** keep "Others" column honest (category = drugstore/adult/kids' iron). Price-anchoring belongs at buy box (vs Cavaé $49.99/tin adults-only; vs $59 test; NEVER anchor to Thorne $16).
+- **ALT (3-column, if a richer table is wanted):** IRYN strip vs iron pills vs gummies — how she takes it (dissolves / horse pill / sugary chew), made for her age (19 mg 12-18 / adult / underdosed), stomach (gentle / constipation+nausea / varies), taste (raspberry / metallic / candy+sugar), folate (yes / rarely / rarely), plan (test-top up-retest / bottle / bottle).
