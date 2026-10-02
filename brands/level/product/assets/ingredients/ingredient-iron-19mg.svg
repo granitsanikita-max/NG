@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#B62A4C"/><stop offset="60%" stop-color="#A0203F"/><stop offset="100%" stop-color="#7C1730"/>
+  </linearGradient>
+  <linearGradient id="foil" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#EFCB86"/><stop offset="50%" stop-color="#D8A24A"/><stop offset="100%" stop-color="#A9762C"/>
+  </linearGradient>
+  <style>text{font-family:"SG Bold","Space Grotesk";} .m{font-family:"SG Medium","Space Grotesk";}</style>
+</defs>
+<!-- element chip -->
+<rect x="196" y="96" width="208" height="236" rx="26" fill="url(#g)" stroke="url(#foil)" stroke-width="5"/>
+<text x="228" y="150" class="m" font-size="34" fill="#EFCB86">26</text>
+<text x="300" y="258" font-size="118" fill="#F4ECDF" text-anchor="middle">Fe</text>
+<text x="300" y="306" class="m" font-size="26" fill="#EFCB86" text-anchor="middle" letter-spacing="2">55.85</text>
+<!-- dose -->
+<text x="300" y="440" font-size="96" fill="#A0203F" text-anchor="middle" letter-spacing="-2">19<tspan font-size="54" fill="#D8A24A"> mg</tspan></text>
+<text x="300" y="486" class="m" font-size="26" fill="#6A5A3C" text-anchor="middle" letter-spacing="7">IRON &#183; ONE A DAY</text>
+<!-- gentle marker -->
+<text x="300" y="534" class="m" font-size="23" fill="#A0203F" text-anchor="middle" letter-spacing="2">gentle daily top-up</text>
+</svg>
