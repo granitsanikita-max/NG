@@ -209,7 +209,19 @@ Subhead typo fix: "We're here to help" (not "hereto"). Pick 6-8.
 - **Can a girl under 12, or an adult, take it?** It's made for girls 12 to 18. Under 12 should see a doctor for the right dose. An adult can take it, but it's dosed for her teen years.
 - **What if it doesn't work for her?** You're covered by our 70-day money-back guarantee. If it's not right for her, send it back for a full refund, even if the tin is open.
 - **When will it arrive?** Orders ship within [X business days] and arrive in [X to X days]. (FILL real fulfillment times.)
+- **Will it help with her hair?** Low iron is one of the most common causes of hair shedding in girls, and folate supports healthy hair, skin and nails. Topping up her iron stores can help. (secondary benefit; keep honest, "can help" not "cures")
 - **CONFIRM before publishing:** shipping times. Everything else matches official facts. Do NOT claim third-party tested / GMP / Made in USA (unconfirmed/false).
+
+## "The science behind it" — research trust block (supplier-provided studies)
+Place near buy box or above FAQs. Cite as evidence for the CONDITION/mechanism (addressing low iron in menstruating girls works), NOT as "our 19 mg replicates 80 mg trial results." Compliant framing + FDA disclaimer.
+- **Heading:** The science behind it
+- **Point 1 (Verdon — strongest):** Low iron drains you before you're ever "anemic." In a controlled trial of women who were exhausted but not anemic, iron improved fatigue, and the benefit showed up in those with ferritin at or below 50, the same "normal but low" range most girls sit in. (Verdon et al., BMJ)
+- **Point 2 (Cochrane):** Daily iron works for menstruating girls. The gold-standard review of 8,506 menstruating women found daily iron raised iron levels, cut deficiency, and improved exercise performance and energy. (Cochrane Review)
+- **Point 3 (form):** A gentler form. IRYN uses ferric saccharate, an iron linked to easier digestion than the ferrous sulfate in many iron pills.
+- **Optional Point 4 (hair, secondary angle only):** Low iron is also one of the most common causes of hair shedding in girls, and folate supports healthy hair, skin and nails. (Vitamins/minerals in hair loss review) — use sparingly; don't drift to beauty positioning.
+- **FDA disclaimer line** under the block.
+- **Study 3 (Anemia of Inflammation)** = background depth only (hepcidin/why gentle-daily beats big doses); do NOT make immune claims.
+- **CAVEAT (internal):** Verdon = 80 mg, adults; Cochrane = mixed doses. Cite as category/mechanism proof, never as our-product efficacy. Keep "may/can/linked to," never "cures."
 
 ## S18 — BUY BOX (full rebuild to v6 offer) ⚠️ biggest build
 Replace ALL collagen leftovers (10k reviews, Core Power/Pure Radiance, 92% Collagen stats, $39.95, skin bullets, 30-day guarantee, add-1-scoop). Build to offer.md v6.
