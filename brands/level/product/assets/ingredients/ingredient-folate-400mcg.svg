@@ -7,17 +7,9 @@
   <linearGradient id="foil2" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#EFCB86"/><stop offset="50%" stop-color="#D8A24A"/><stop offset="100%" stop-color="#A9762C"/>
   </linearGradient>
-  <style>text{font-family:"SG Bold","Space Grotesk";} .m{font-family:"SG Medium","Space Grotesk";}</style>
 </defs>
-<!-- leaf -->
-<path d="M300 322 C208 288 206 150 300 88 C394 150 392 288 300 322 Z" fill="url(#g2)" stroke="url(#foil2)" stroke-width="5"/>
-<path d="M300 312 V110" stroke="#EFCB86" stroke-width="5" stroke-linecap="round"/>
-<path d="M300 200 L256 170 M300 175 L262 150 M300 200 L344 170 M300 175 L338 150 M300 240 L262 214 M300 240 L338 214" stroke="#EFCB86" stroke-width="4" stroke-linecap="round" fill="none"/>
-<!-- B9 molecular dots -->
-<circle cx="300" cy="150" r="9" fill="#EFCB86"/>
-<text x="300" y="275" font-size="40" fill="#F4ECDF" text-anchor="middle">B9</text>
-<!-- dose -->
-<text x="300" y="440" font-size="86" fill="#A0203F" text-anchor="middle" letter-spacing="-2">400<tspan font-size="46" fill="#D8A24A"> mcg</tspan></text>
-<text x="300" y="486" class="m" font-size="26" fill="#6A5A3C" text-anchor="middle" letter-spacing="6">FOLATE &#183; FOLIC ACID</text>
-<text x="300" y="534" class="m" font-size="23" fill="#A0203F" text-anchor="middle" letter-spacing="2">for her growing years</text>
+<path d="M300 512 C150 452 146 180 300 70 C454 180 450 452 300 512 Z" fill="url(#g2)" stroke="url(#foil2)" stroke-width="9"/>
+<path d="M300 494 V110" stroke="#EFCB86" stroke-width="9" stroke-linecap="round"/>
+<path d="M300 230 L220 180 M300 185 L228 142 M300 230 L380 180 M300 185 L372 142 M300 310 L228 262 M300 310 L372 262 M300 390 L236 348 M300 390 L364 348" stroke="#EFCB86" stroke-width="7" stroke-linecap="round" fill="none"/>
+<circle cx="300" cy="118" r="15" fill="#EFCB86"/>
 </svg>
