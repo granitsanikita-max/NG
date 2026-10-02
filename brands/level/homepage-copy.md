@@ -52,6 +52,35 @@ Blueprint job: future-pace / dream outcome beat (0B rule: make her see the after
   - Row 2 (▼): Less | afternoon crashes
 - **Note:** all 4 are real low-iron signs from research (reduced exercise capacity, pallor, fatigue/crashes). Kept off "energy/boost." Add "*" and run FDA structure/function disclaimer in footer. Tiredness stays support language, never an ad lead.
 
+## S6 — Problem/Solution panel (left) + news-peg stat grid (right)
+Two halves shown together. Left = problem agitation. Right = blueprint S6 (2026 news peg + authority stack; belief #3). Fake 90/85/88/92% removed.
+
+### S6 left — "What You're Noticing" / "Our Solution"
+- **Left title (stacked):** What You're / Noticing  (accent on "Noticing")
+- **Problem pills (real low-iron SIGNS, not diagnosis; research line 285):**
+  - Always tired, even after sleeping all night
+  - Dizzy or breathless at practice
+  - Pale skin and dark circles
+  - Cold hands and feet
+  - Foggy, losing focus at school
+- **Right title (stacked):** Our / Solution
+- **Solution caption:** One gentle raspberry strip a day at the right dose for her age, plus a simple plan to find her iron number and bring it back up.
+- **Note:** frame as signs, never promises (Lund 2026: no ferritin-fatigue link, PMID 42551383). Worded to not echo S5's arrow cards.
+
+### S6 right — "In 2026, the experts who make the rules changed them." (stat grid)
+- **Heading:** In 2026, the experts who make the rules changed them.
+- **Subhead:** For years, a girl's iron only got checked if she was already anemic. Not anymore. In 2026 pediatricians started telling parents to check every girl's iron by 14, and blood specialists lowered the number that counts as low.
+- **Group 1 label:** How common it really is
+  - Nearly 40% | of teen girls are low in iron¹
+  - 77.5% | have a ferritin under 50¹
+- **Group 2 label:** What the experts now say
+  - By 14 | pediatricians now say check every girl's iron²
+  - 30 | a ferritin at or under this is now called low³
+  - ¹ PMID 37367984 · ² AAP 2026, PMID 42324084 · ³ ASH, Sept 2026
+- **CTA:** Get your girl back → (anchors to buy box)
+- **CTA line:** The honest, gentle way to find her iron number and bring it back up.
+- **Note:** stats chosen to NOT repeat S4 (83.6%) or S5. Every number carries a PMID/source per non-negotiable flag.
+
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
 - **Headline:** Why she'll actually take IRYN when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")
