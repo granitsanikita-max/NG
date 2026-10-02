@@ -1,5 +1,8 @@
 # IRYN — CJ Dropshipping Gift Sourcing Guide
 
+> ⏸️ ON HOLD (2026-10-02): the offer (offer.md v5) now runs **digital gifts only + Supliful strip upsells** — no physical free gifts for the test (matches Cavaé; avoids making her pay for junk she didn't ask for). Keep this doc for later if a physical delighter is added deliberately after the test.
+
+
 > The physical gifts for the offer, sourced via **CJ Dropshipping** (Supliful = tins only). What to search, specs, how it must look, target cost, and why *she* (teen girl 12–18) would actually want it. Aesthetic rule: **elevated, feminine, dainty — never kiddy/cartoon.** Palette: garnet `#A0203F`, cream `#F4ECDF`, warm gold `#D8A24A`. Girl has a hard veto on anything that looks like a "kids' vitamin" freebie.
 
 ## Buy rules (read first)
