@@ -115,6 +115,15 @@ Blueprint job: absolution (one of the 4 feelings she pays for). Guilt → "you c
 - **Paragraph:** Low iron hides behind a normal blood test. Most girls who run low still look completely normal on a standard check, so even good doctors miss it, and no mom is expected to catch it on her own. You're not behind. You noticed something was off, and that's exactly what she needed.
 - **Note:** carries the 83.6%-normal-Hb fact WITHOUT repeating the S4 number (no echo). Delivers absolution + vindication + a little pride (the mom who caught it). No CTA on purpose, let it sit quiet.
 
+## S8B — Results-over-time chart → her ferritin climbing (honest, replaces fake "90% in 6 weeks")
+Fake "90% visible improvements in 6 weeks" removed (fake % + contradicts honest timeline). Reframe the rising-line chart to the TRUE ferritin climb. Reinforces S8 honest timeline.
+- **Left stat block:**
+  - Big: +13
+  - Body: points. That's about how much a girl's ferritin climbed over 8 weeks in studies.¹ Low iron doesn't fix overnight. It builds, week by week, with one strip a day.
+  - ¹ PMID 38545733 · study average, individual results vary
+- **IMAGE PASS (chart):** rising line = her ferritin climbing from "low" into "healthy (30+)" over ~8-12 weeks. Same rising shape, real data. Swap collagen jar + molecule for IRYN tin + strip. Label as study average.
+- **Note:** no fake user %, no "visible in 6 weeks." The honest climb builds trust with a mom burned by overpromises; reinforces (not contradicts) S8.
+
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
 - **Headline:** Why she'll actually take IRYN when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")
