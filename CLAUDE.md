@@ -36,8 +36,11 @@ The one standing line (business-survival, not morality, state briefly only if di
 - Always-on: HSA/FSA (Truemed) · 70-day guarantee · store-credit "$25 toward 2nd box" · one-click cancel (lead with it).
 - Upsell tins designed: `product/assets/iryn-bone-front*`, `iryn-sleep-front*`.
 
-## Store / landing-page rule — MESSAGE MATCH (do NOT violate)
-Every ad must land on a page whose TOP (hero headline + subhead + visual) continues that exact ad's angle/words/tone. Mismatch = the #1 bounce leak (killed Nikita's last store). Build pages as **modular hero (swapped per ad angle) + one universal body (shared mechanism→offer that every angle converges into)**. See `brands/level/homepage-architecture.md`.
+## Store / landing-page rules — do NOT violate
+- **MESSAGE MATCH:** every ad must land on a page whose TOP (hero headline + subhead + visual) continues that exact ad's angle/words/tone. Mismatch = the #1 bounce leak (killed Nikita's last store). Build pages as **modular hero (swapped per ad angle) + one universal body (shared mechanism→offer every angle converges into)**. See `brands/level/homepage-architecture.md`.
+- **BUILD FROM RESEARCH, NOT THE TEMPLATE.** When filling a GemPages/template section, IGNORE whatever placeholder text is already in it — it's a wireframe to overwrite. Pull every word from `research.md` (ICP Jen, pain points, exact customer language) + `offer.md`. Do not let the template's existing copy anchor you.
+- **NEVER STATE ANYTHING WE DON'T ACTUALLY DO.** Every claim must be literally true to the offer. Specifically: **free shipping is SUBSCRIPTIONS ONLY (90-Day + 30-Day); the one-time IS charged shipping (~$6).** No blanket "free shipping on every plan." No fake review counts. No claims the offer doesn't back.
+- Speak to Jen perfectly and effectively — her real pains, her real words, the belief chain, the 4 feelings.
 
 ## How research docs get here
 
