@@ -223,6 +223,18 @@ Place near buy box or above FAQs. Cite as evidence for the CONDITION/mechanism (
 - **Study 3 (Anemia of Inflammation)** = background depth only (hepcidin/why gentle-daily beats big doses); do NOT make immune claims.
 - **CAVEAT (internal):** Verdon = 80 mg, adults; Cochrane = mixed doses. Cite as category/mechanism proof, never as our-product efficacy. Keep "may/can/linked to," never "cures."
 
+## S19 — "more reviews" carousel (short cards: title + body + name + stars)
+Templates for real seeded reviews. Varied beats, one 4-star for realism. Lab numbers on a couple.
+- She's awake in class again ★★★★★ — Her teacher noticed before I did. No more nodding off in sixth period. — Megan R.
+- Finally not dragging ★★★★★ — Her ferritin was 13. Three months in and her energy at practice is back. — Priya N.
+- No more pill fights ★★★★★ — She refused every iron pill I bought. This one she takes on her own. — Christine D.
+- Her color is back ★★★★★ — She was so pale I kept asking if she was okay. She looks like herself again. — Tanya B.
+- Gentle, no upset stomach ★★★★★ — None of the constipation the last iron gave her. It just works. — Hannah W.
+- Wish I'd found it sooner ★★★★★ — Her bloodwork always came back normal. Her iron stores were low the whole time. — Dana P.
+- She actually likes it ★★★★★ — The raspberry flavor sealed it. She reminds me now, not the other way around. — Lauren M.
+- Good so far, still early ★★★★☆ — A few weeks in. She says she feels less wiped after games. Hoping her retest shows it. — Sofia T.
+- ACTION: replace with real seeded-mom quotes/names before launch.
+
 ## S18 — BUY BOX (full rebuild to v6 offer) ⚠️ biggest build
 Replace ALL collagen leftovers (10k reviews, Core Power/Pure Radiance, 92% Collagen stats, $39.95, skin bullets, 30-day guarantee, add-1-scoop). Build to offer.md v6.
 - **Review badge:** ★★★★★ Made for girls 12 to 18 (NO fake count pre-launch; swap to real count after orders).
