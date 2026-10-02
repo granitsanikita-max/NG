@@ -8,7 +8,8 @@
 
 ## S2 — Hero (SPORT angle)
 - **Eyebrow (replaces fake "10,000 reviews" badge):** FOR MOMS OF TEEN-GIRL ATHLETES
-- **Headline:** She's fading at practice — and her "normal" bloodwork is hiding why.
+- **Headline:** She's always tired at practice. Her blood test says she's fine.
+  - (Clarity rule for ALL big headlines: short plain words, 2 short sentences over 1 clause-stacked line, one idea, no nested quotes/dashes to decode. Alts: "Worn out at practice — but the doctor says nothing's wrong?" / "She trains hard. So why is she always running on empty?")
 - **Subhead:** When a strong girl keeps running out of gas, it's usually low iron — the kind a standard blood test misses. One simple number tells you the truth, and a gentle daily strip brings it back up.
 - **Bullets (5 — effectiveness over minimalism):**
   - **Finds the hidden cause** — the "just tired" crash is often low iron, even when her bloodwork came back "normal."
