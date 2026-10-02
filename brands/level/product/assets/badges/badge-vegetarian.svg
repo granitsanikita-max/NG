@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="360" viewBox="0 0 300 360" xmlns="http://www.w3.org/2000/svg">
+<style>text{font-family:"SG Medium","Space Grotesk";}</style>
+<circle cx="150" cy="130" r="104" fill="none" stroke="#A0203F" stroke-width="5"/>
+
+<path d="M150 185 V110" fill="none" stroke="#A0203F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M150 120 C150 120 108 118 100 150 C140 156 150 130 150 120 Z" fill="#A0203F"/>
+<path d="M150 108 C150 108 192 106 200 138 C160 144 150 118 150 108 Z" fill="#A0203F"/>
+<text x="150" y="290" fill="#A0203F" font-size="30" font-weight="600" text-anchor="middle" letter-spacing="1">VEGETARIAN</text>
+</svg>
