@@ -40,12 +40,17 @@ Blueprint job: the UMP. A normal blood count does not mean full stores. Belief #
   - ¹ Powers et al., 2019, PMID 37367984
 - **Note:** cash vs savings is the memorable hook; heading stays plain-clear. Every stat carries its PMID.
 
-## S5 — the two arrow cards → NEED up / STORES down (why her)
-Blueprint job: periods, growth and sport are the REASON, not "just tired." Belief #1 deepened.
-- **Card 1 (▲ up):** Her iron need nearly doubles around 14. Growth and her first periods demand far more iron than her body ever needed as a kid.
-- **Card 2 (▼ down):** Her iron stores run low. Heavy periods, fast growth and hard training pull iron out faster than food can put it back.²
-  - ² Heavy periods OR 3.0, PMID 41335582
-- **Note:** arrow format = the gap visualized (need up, stores down). Fuller age strip (kids 2 to 12, HER YEARS, women 18+) goes in the next S5-type template block if one exists.
+## S5 — the two arrow cards → the "after" picture (what comes back)
+Actual layout: 2 cards, each 2 rows. Each row = [left text] [arrow] [right text]. Up arrow = good rises, down arrow = bad drops.
+Blueprint job: future-pace / dream outcome beat (0B rule: make her see the after). Mechanism (need/stores) already covered in S4 columns, so no repeat here.
+- **Section heading:** When her iron comes back, so does she.
+- **Card 1 (At practice):**
+  - Row 1 (▲): More | stamina at practice
+  - Row 2 (▼): Less | fading late in the game
+- **Card 2 (Every day):**
+  - Row 1 (▲): More | color back in her cheeks
+  - Row 2 (▼): Less | afternoon crashes
+- **Note:** all 4 are real low-iron signs from research (reduced exercise capacity, pallor, fatigue/crashes). Kept off "energy/boost." Add "*" and run FDA structure/function disclaimer in footer. Tiredness stays support language, never an ad lead.
 
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
