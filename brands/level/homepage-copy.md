@@ -174,6 +174,17 @@ Home for the 5 deleted objection reviews. Each kills a distinct objection. Produ
 - **Monica (price/value):** "I used to grab the cheap drugstore iron and it just sat in the cupboard because she'd never take it. This costs more, but it's the first one she actually uses. Beats throwing bottles away." · 5/5
 - **ACTION:** these are templates for real seeded-mom reviews; swap in real quotes/names before launch. Product tag = IRYN tin + "Iron Strips, Raspberry" on all cards.
 
+## S14 — "High-Quality Ingredients" + "Visible Results" → clean formula + WHO IT'S NOT FOR (MUST-ADD)
+Blueprint MUST-ADD: the "who this is NOT for" honesty block + clean label. Belief #5 (brand is straight with me) + kills "is it enough/infusion." The trust that lets a skeptic buy.
+- **Eyebrow:** Premium
+- **Heading 1:** A clean formula, made only for her
+- **Paragraph:** IRYN is a gentle 19 mg daily iron with folate, made for girls 12 to 18. No dyes, no sugar, no methylfolate, no megadoses. Just the right amount to top up low iron, in a raspberry strip she'll actually take.
+- **Photo callout pills (replace skin-hydration/joint ones):** Gentle 19 mg dose · Folate for her growing years · No sugar, no dyes · Raspberry, no metal taste. (photo = teen girl, image-pass)
+- **Heading 2:** We'll tell you when it's not for her
+- **Paragraph (power move):** IRYN is for the girl who's running low on iron but isn't severely deficient. If her ferritin is very low or she's already anemic, that's a doctor's dose, not ours, and we'll tell you to see them first. For the girl who looks fine on paper but keeps running out of gas, this is the gentle daily top-up that brings her back.
+- **CTA:** Get your girl back →
+- **Note:** who-it's-NOT-for is the trust move; also kills is-it-enough/infusion objection. Clean-label claims all true to spec.
+
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
 - **Headline:** Why she'll actually take IRYN when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")
