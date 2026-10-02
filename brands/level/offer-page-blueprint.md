@@ -1,7 +1,13 @@
 # IRYN — Offer Page Blueprint (Powder Collagen click-through template, 22 sections)
 
 > Strategy only — NO copy yet. For each of the template's 22 sections: what it does now, what it must do for IRYN, the belief it changes or cancels in Jen's head, the proof mode, and the flag.
-> Source of truth: `research.md` + `offer.md`. This page is the whole storefront (no separate home/product page). Traffic = cold US mums 35–55 (Meta Advantage+), creative does the call-out.
+> Source of truth: `research.md` + `offer.md` (v6) + `homepage-architecture.md`. This page is the whole storefront (no separate home/product page). Traffic = cold US mums (Meta), creative does the call-out.
+>
+> **REVISION (2026-10-02) — reconciled with current decisions:**
+> - **Offer = v6** (`offer.md`): 90-Day Challenge **$89 first box → $99/90d** (shown **$33/tin · $1.10/day**) · 30-Day **$29→$36** · one-time **$39** decoy. Per-tin display rule. Digital gifts only. Strip upsells (Bone/Sleep) + Mum bump. HSA/FSA. 70-day guarantee.
+> - **Gifts = DIGITAL only** (Her Page + retest tracker · Know Her Number guide + Doctor-Visit Script). No physical welcome kit — update S10/S13/S17 accordingly.
+> - **Hero follows message-match** (`homepage-architecture.md`): S1–S2 = modular hero that mirrors the ad; a **convergence bridge** sits right after it to funnel any angle into the shared body (S3→).
+> - **TEST 1 angle = SPORT** (best cold avatar, research): hero hook = "she's fading at practice." Build this hero first; the body (S3→S22) is universal for every future angle.
 
 ---
 
@@ -19,7 +25,7 @@
 5. This brand is straight with me (says who it's NOT for, plans a retest).
 6. Trying it costs me nothing (buy once, one-click cancel, refund).
 
-**The 6 objections to cancel (research §11):** is it enough / needs an infusion · she won't take pills · tastes like pennies · why $69 when iron is $16 · "the doctor said she's fine" · iron is dangerous/overdose · will it work & how fast · subscription trap · scam/heavy metals · "is it for someone like her."
+**The 6 objections to cancel (research §11):** is it enough / needs an infusion · she won't take pills · tastes like pennies · why pay $89 ($33/tin) when drugstore iron is $16 · "the doctor said she's fine" · iron is dangerous/overdose · will it work & how fast · subscription trap · scam/heavy metals · "is it for someone like her."
 
 **The page's ONE job:** take a mum who thinks her kid is just a tired teenager and walk her, belief by belief, to "I need to know my daughter's number, and this is the honest, easy way to do it." Sell the **plan AND the transformation** — not the pill.
 
@@ -67,12 +73,18 @@ Belief-change gets her to "this is real." **Desire gets her to buy.** We must se
 - **Belief:** #6 (trying costs nothing) — planted early and kept on screen.
 - **Flag:** lead the bar with the risk-reversal; swap a review count in as soon as we have numbers to show.
 
-### S2 — Hero  ⚠️ BIGGEST CHANGE
+### S2 — Hero (MODULAR, per ad angle)  ⚠️ BIGGEST CHANGE
 - **Now:** product glam shot + "Glow from Within" + 3 benefit bullets + "Start Your Transformation."
-- **IRYN job:** open on the **hidden problem + dismissal pain**, not the product. The lab-slip hook: her bloodwork said "normal," nobody checked her ferritin. Mirror the ad (message match). Soft CTA that scrolls down ("See what her bloodwork missed →"), NOT "Buy."
-- **Belief to change:** #1 — "she's just a tired teenager" → "this could be a real, missable thing."
-- **Proof mode:** the lab slip as hero image ("Hemoglobin: normal. Ferritin: 9") — the research's #1 unused creative format.
-- **Flag:** no product hero, no price, no "energy" promise. This is the make-or-break section for cold traffic.
+- **IRYN job:** open on the **hidden problem + dismissal pain**, not the product — and **mirror the exact ad that drove the click** (message match). This is the swappable zone; the body below is universal.
+- **TEST 1 (SPORT) hero:** "She's fading at practice — and her 'normal' bloodwork is hiding why." Visual = teen athlete / the lab slip. Soft CTA that scrolls ("See what her bloodwork missed →"), NOT "Buy."
+- **Belief to change:** #1 — "she's just tired / just off at practice" → "this could be a real, missable thing."
+- **Proof mode:** lab slip ("Hemoglobin: normal. Ferritin: 9") — research's #1 unused creative format.
+- **Flag:** no product hero, no price, no "energy" promise (performance/"keep up" is fine; "boosts energy" is not). Make-or-break for cold traffic.
+
+### S2B — Convergence bridge (NEW, universal)  ← the message-match merge lane
+- **IRYN job:** one short block right under the hero that takes ANY angle's symptom and ties it to the one number, so every ad lands legally in the same body: *"Whatever you noticed — fading at practice, falling asleep in class, heavy periods, 'normal' bloodwork — it can trace back to one number her blood test didn't show: her ferritin."* From here down the page is identical for every angle.
+- **Belief:** sets up #2 (the mechanism) and makes the sport hook — or any hook — flow into the ferritin story.
+- **Flag:** this is what lets us run unlimited TOF angles into one body. Keep it short; it's a transition, not a section.
 
 ### S3 — Trust / logo strip
 - **Now:** fake partner logos ("MediCare, PharmaLife…") + "10,000 reviews."
@@ -161,14 +173,14 @@ Belief-change gets her to "this is real." **Desire gets her to buy.** We must se
 
 ### S17 — Product image gallery
 - **Now:** product photos.
-- **IRYN job:** the tin + strip visuals (the branded tin, strip on the tongue, the carry case + gifts). First place the product appears in full — AFTER she believes she has a problem. Show the gift kit here (value made tangible).
-- **Belief:** desire + the welcome-kit value.
+- **IRYN job:** the tin + strip visuals (the branded tin, strip on the tongue). First place the product appears in full — AFTER she believes she has a problem. Show the **digital welcome gifts** (Her Page + retest tracker + Know Her Number guide) as the value made tangible — NO physical kit. Optionally tease the strip family (Bone/Sleep) here as "the rest of her routine."
+- **Belief:** desire + the (digital) kit value.
 
 ### S18 — Product buy box  ⚠️ BIGGEST BUILD
 - **Now:** single product, Core Power/Pure Radiance variants, $47 ($59, 20% off), "extra gift," ATC, 30-day guarantee.
-- **IRYN job:** the **front-loaded subscription ladder** from `offer.md`: ⭐ 90-Day Plan ($99 first box, then $129/90d, free shipping + welcome kit) auto-selected · 30-Day Start ($29→$36) · One-time ($39 + shipping, no gifts). Value stack with struck-through prices. "Cancel in one click" next to every price. **70-day** guarantee (not 30). Mum-bump in the cart. Dose + elemental mg in big print.
-- **Belief to change:** #6 (risk-free) + "subscription trap" + "why $69 when iron is $16" (you pay for the plan).
-- **Flag:** rebuild entirely to the offer ladder. The buy box sitting near the END (after all the education) is CORRECT for cold — keep the "Start" CTAs through the page anchor-jumping here.
+- **IRYN job:** the **v6 offer ladder** from `offer.md`: ⭐ **90-Day Challenge** — shown **"$33 a tin · $1.10 a day"**, today **$89** first box → **$99/90d**, free shipping + digital gifts, auto-selected/"MOST POPULAR" · **30-Day Start** $29→$36 (smaller card) · **One-time $39** (tiny decoy link). **Display rule:** per-tin/per-day on the steady sub rate only; first-order price as flat "today $X", NO per-day. "Cancel in one click" by every price. **70-day** guarantee. **Mum bump (+$24)** in cart; **Bone Support strip** post-purchase. **HSA/FSA** (Truemed). Dose + elemental mg in big print.
+- **Belief to change:** #6 (risk-free) + "subscription trap" + "why pay $89/$33-a-tin when drugstore iron is $16" (you pay for the plan + the number, not the pill).
+- **Flag:** build to the v6 ladder exactly. Buy box near the END (after education) is CORRECT for cold — keep "Start" CTAs through the page anchor-jumping here.
 
 ### S19 — "Customers Review" (×4 w/ locations)
 - **Now:** 4 reviews with city names.
@@ -199,7 +211,7 @@ Problem she didn't know she had + the promise of her girl back (S1–S2) → it'
 | "Is it even enough? / needs an infusion" | S7 (dose), S14 (who it's NOT for), S20 FAQ |
 | "She won't take pills" | S16 (strip ritual), S17, S20 FAQ |
 | "Tastes like pennies" | **S7 + S17 (raspberry, dissolves, no metal taste) — see GAP 1** |
-| "Why $69 when iron is $16?" | S15 (contrast), S18 (pay for the plan), S20 |
+| "Why $89 / $33-a-tin when iron is $16?" | S15 (contrast), S18 (pay for the plan + the number), S20 |
 | "The doctor said she's fine" | S4 (mechanism), S6 (2026 guidance), S20 (attack the range, never the doctor) |
 | "Iron is dangerous / overdose" | S14 (under teen limit, child-resistant), S7, S20 |
 | "Will it work? How fast?" | S8 (Test→Top Up→Retest, honest timeline), S20 |
