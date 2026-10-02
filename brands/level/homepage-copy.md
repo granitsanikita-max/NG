@@ -109,6 +109,12 @@ DEVIATION FROM BLUEPRINT (flagged + approved by Nikita 2026-10): blueprint had T
 - **IMAGE PASS:** replace the fake 71%/94% two-body graphic with a clean 3-habit graphic (daily / with juice not milk / 8-12 weeks) OR a gentle "levels climbing over weeks" visual. Do NOT rebuild the fake comparison, no required-test step.
 - **Note:** test moved from a start-gate to an OPTIONAL end-proof. Honest timeline still cuts refunds. "+13 ferritin at 8 weeks" (PMID 38545733) available if we want a proof stat later.
 
+## S9 — "Unlock Your Best Skin" → THE ABSOLUTION BEAT
+Blueprint job: absolution (one of the 4 feelings she pays for). Guilt → "you couldn't have seen it." Emotional pause, no pitch.
+- **Heading:** This was never your fault.
+- **Paragraph:** Low iron hides behind a normal blood test. Most girls who run low still look completely normal on a standard check, so even good doctors miss it, and no mom is expected to catch it on her own. You're not behind. You noticed something was off, and that's exactly what she needed.
+- **Note:** carries the 83.6%-normal-Hb fact WITHOUT repeating the S4 number (no echo). Delivers absolution + vindication + a little pride (the mom who caught it). No CTA on purpose, let it sit quiet.
+
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
 - **Headline:** Why she'll actually take IRYN when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")
