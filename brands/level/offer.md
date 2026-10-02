@@ -1,110 +1,86 @@
-# IRYN — The Offer (Front-Loaded Subscription) — v3 FINAL
+# IRYN — The Offer (FINAL, v4) — the one we're running
 
-> From Playbook Step 2 + Grand-Slam Offer Build (Type 1) + Funnel Selection Board, run through `research.md` with real product + gift economics.
-> ⚠️ Margins use an ESTIMATED Supliful ship/fulfillment (~$6/order first unit, +~$2 each extra). **Confirm the exact Supliful fee before launch.** All prices/margins in USD (US market); AUD costs converted at ~0.66.
-
-## Cost stack (USD)
-| Item | Cost |
-|---|---|
-| Iron tin (product) | $11.99 |
-| Supliful ship + fulfillment | ~$6 first unit, +~$2 each extra unit in same box |
-| → 1 tin / 2 tins / 3 tins landed | ~$18 / ~$32 / ~$46 |
-| Planner (dropship, per order) | **~$6.60 (AUD 10)** |
-| Faux-silk eye mask 4-pc set (dropship) | ~$13 (AUD 19.72) |
-| Bottle (1L, upsell only — customer pays) | ~$13 (AUD 19.07) |
-| Payment processing | ~3% + $0.30 |
-
-**Gift rule:** the physical kit (planner + eye-mask set = ~$19.60) rides the **90-day hero only**. The 30-day gets the free digital Her Page; the one-time gets nothing. Bottle = paid upsell, never free.
-**Vitamin C dropped** — every Supliful option carries zinc/calcium (block iron) or biotin (skews her ferritin retest). Instead: "take with orange juice/vitamin C" free on the Her Page.
+> The actual offer. Hero = 90-Day Challenge. 30-Day sits under it. One-time is a small decoy button (tin only). Everything is built to push the 90-Day.
+> **Fulfillment:** Supliful ships the **tins only**. **All physical gifts ship from CJ Dropshipping** (separate parcel — see `cj-gift-sourcing.md`). Digital gifts deliver instantly via the Her Page. Costs USD; tin landed ≈ $18 (1) / $46 (3); processing ≈ 3% + $0.30.
 
 ---
 
-## 💰 MARGINS — all tiers (before ad spend)
-| Tier | Customer pays | Our cost (landed + gifts + fees) | **Gross margin** |
-|---|---|---|---|
-| One-time 1 tin | $39 + $6 shipping = **$45** | $17.99 + $1.65 = $19.64 | **$25.36** |
-| 30-Day Start — first month | **$29** | $17.99 + $1.17 = $19.16 | **$9.84** |
-| 30-Day Start — recurring | **$36 / mo** | $17.99 + $1.38 = $19.37 | **$16.63 / mo** (~$49.89/qtr) |
-| ⭐ 90-Day Plan — first box | **$99** | tins $45.97 + kit $19.60 + $3.27 = $68.84 | **$30.16** |
-| ⭐ 90-Day Plan — recurring | **$129 / 90 days** | tins $45.97 + $4.17 = $50.14 | **$78.86 / quarter** ← profit engine |
-| Order bump: Tin for Mum | **+$24** | +$13.99 (1 tin in same box) + $0.72 | **+$9.29** |
-| Upsell: hydration bottle | **$19** | $12.60 + $0.87 = $13.47 | **+$5.53** |
+## ⭐ OFFER 1 — THE KNOW-HER-NUMBER 90-DAY CHALLENGE (hero, auto-selected)
+**First box $99 → then $129 every 90 days.** Free shipping · ~$1.10/day · 70-day money-back · cancel in one click.
 
-**Reading it:**
-- The **90-day recurring (~$79/quarter)** is where the money is. Everything before it is customer acquisition.
-- **Break-even CPA on the hero first box ≈ $30.** That's tight for cold Meta — see the lever below.
-- 30-day first month (~$10 gross) can't cover a real CPA on its own — it's the "smaller commitment" option, not the tier we push.
+**She gets:**
+- **3 tins of IRYN** — her full 90-day supply (runs right to the retest).
+- 🎁 **"Her Number" bracelet** (CJ) — dainty, wearable, hers. Ships with the welcome gifts.
+- 🎁 **Satin scrunchie** (CJ, garnet/cream) — small everyday delight.
+- 🎁 **Her Page** (digital) — her private portal + the retest tracker that sets her day-85 date.
+- 🎁 **"Know Her Number" guide + Doctor-Visit Script** (digital) — real hematologist guidance + the "ask for a ferritin test" card.
+- ✅ **Day-85 Retest Reward (for staying):** the **discreet carry pouch** (CJ) + a **$15 credit** toward her next box. *"Cancel before day 85 and you lose your retest reward."*
 
-**Lever if you want more ad-spend cushion:** raise the hero first box **$99 → $109** → first-box gross jumps to **~$40** (break-even CPA ~$40), with only a small hit to conversion. Recommended if your cold CPA runs above $35.
+**Value stack (what the buy box shows):**
+~~3 tins $147~~ · ~~bracelet $19~~ · ~~scrunchie $8~~ · ~~guide + script $29~~ · Her Page included · ~~free shipping $6~~ = **~$209 value → $99 to start.**
+
+**Margin:** first box COGS ≈ 3 tins $46 + CJ gift parcel (bracelet+scrunchie) ~$4 + Supliful ship $6 + fees $3.27 = **~$59** → **gross ~$40** (break-even CPA ~$40). Recurring $129/90d COGS ≈ tins $46 + ship $4.17 + fees = ~$54 → **gross ~$75/quarter** (the profit engine). Day-85 pouch + $15 credit ≈ $20 one-time retention spend, charged once per customer at the renewal moment.
 
 ---
 
-## THE OFFER — "Know Her Number Plan"
+## OFFER 2 — THE 30-DAY START (sits under the hero, smaller)
+**First month $29 → then $36/month.** Free shipping · cancel in one click.
 
-### ⭐ 90-DAY PLAN — subscription (HERO, auto-selected)
-Runs the full Test → Top Up → Retest cycle (90 days = her retest date).
-- First box: **3 tins + planner + eye-mask 4-pc kit**, FREE shipping.
-- Value stack (struck through): 3 tins ~~$147~~ · eye-mask set ~~$39~~ · planner ~~$19~~ · Her Page + guide free → **~$205 value**
-- **First box $99** ("Save $106") → then **$129 every 90 days**, free shipping, no kit. One-click cancel.
+**She gets:**
+- **1 tin of IRYN** (30-day supply).
+- 🎁 **Her Page** (digital) + the retest tracker.
+- 🎁 **"Know Her Number" guide + Doctor-Visit Script** (digital).
+- ❌ **No physical gifts** — the bracelet/scrunchie/pouch are the reason to pick the 90-Day. (Also protects this tier's thin margin.)
 
-### 30-DAY START — subscription
-- First tin (digital Her Page only), FREE shipping. **First month $29** → then **$36/month**.
-- Smaller commitment; we push the 90-day.
+**Value stack:** ~~1 tin $49~~ · ~~guide + script $29~~ · Her Page included · ~~free shipping $6~~ = **~$84 value → $29 first month.**
 
-### ONE-TIME — 1 tin (decoy)
-- **$39 + shipping charged (~$6)**, no gifts. *"Most moms start the 30-Day plan — free shipping included."*
-
-### Cart order bump
-- **"A Tin for Mum" +$24** — *"Heavy periods run in families. So does low iron."*
-
-### Post-purchase 1-click upsell (one only)
-- 30-Day buyers → *"Upgrade to the full 90-day plan"* (+$50).
-- 90-Day buyers → *"Add the hydration bottle"* **$19**.
-- Opening line: *"You just did what most parents never get to — a plan with a number."*
+**Margin:** first month COGS ≈ tin $18 + ship $6 + fees $1.17 = ~$25 → **gross ~$4** (deliberately a thin step-down, not the push). Recurring $36/mo ≈ tin $18 + ship $2 + fees $1.38 = ~$21 → **gross ~$15/mo.**
 
 ---
 
-## Free shipping — where it goes, where it doesn't
-- ✅ **90-Day & 30-Day subs:** free (baked into price) — conversion lever + makes subs beat one-time.
-- ❌ **One-time single:** charge ~$6 — recovers cost on the lowest-margin order + nudges to subscription.
-- Bump/upsell ride free (same box).
-- Rule: free shipping only where it's already priced in (subs). Never on the bare single.
+## OFFER 3 — ONE-TIME (small decoy button, tin only)
+**$39 + shipping (~$6).** No subscription, no gifts. Rendered as a **small text link/button** under the two plans — present but visually minor.
+> Microcopy: *"Just want to try one tin? Buy once — $39 + shipping."* (then, softly: "Most mums start the 90-Day Challenge — free shipping + the full kit.")
+**Margin:** $45 in − $19.64 = **~$25 gross** (our healthiest single order; it exists to make the subscriptions look like the obvious deal).
 
-## Money-back guarantee — "The 70-Day Know-Her-Number Promise"
-> "Give her plan 70 days. If her number doesn't move, if she won't take it, or you just change your mind — email us for a full refund. Keep the gifts, keep the guides, don't ship a thing back. One email, done."
-- **70 days beats Cavaé's 60** (competitive edge) while cutting our refund exposure vs the old 100-day. *(Founder call — research had 100-day/no-lab; 70 keeps the no-lab, no-return generosity with less downside.)*
-- No lab result required. Refund reserve: plan 8–12% + ~1% chargebacks.
+---
 
-## Reason for the front-load (honest)
-> "We front-load your first box at a loss on purpose. A plan only works if she finishes it and you retest — so we make starting a no-brainer, then earn our keep when it actually works."
+## HOW THE BUY BOX LOOKS (layout)
+```
+┌───────────────────────────────────────────────┐
+│ ⭐ MOST POPULAR — THE 90-DAY CHALLENGE          │ ← big card, pre-selected, garnet border
+│ ~~$209 value~~   $99 first box · then $129/90d │
+│ ✓ 3 tins (full plan to the retest)             │
+│ ✓ "Her Number" bracelet + satin scrunchie      │
+│ ✓ Her Page + retest tracker                    │
+│ ✓ Know Her Number guide + doctor script        │
+│ ✓ Free shipping · 70-day guarantee · 1-click cancel │
+│ ✓ Stay to day 85 → carry pouch + $15 reward    │
+│           [ START HER 90-DAY PLAN ]            │
+├───────────────────────────────────────────────┤
+│ The 30-Day Start — $29 first month, then $36/mo │ ← smaller card under it
+│ 1 tin · Her Page + guide · free shipping        │
+│              [ Start the 30-Day ]              │
+└───────────────────────────────────────────────┘
+      just want one tin? buy once — $39 + shipping   ← tiny decoy link
+      Pay with HSA/FSA — save ~30%
+```
+- 90-Day card: biggest, garnet, "MOST POPULAR," pre-ticked. 30-Day: smaller, muted, under it. One-time: tiny grey link beneath both.
+- Every tier shows **"cancel in one click"** (our wedge vs the category's #1 complaint).
 
-## Always-on components
-- Price anchors (never Thorne $16): Cavaé $49.99/tin (adults only) · a $59 lab test just to find out · infusions billed $400–4,800.
-- Protect margin: front-load the first box; keep recurring near anchor ($129 = ~$43/tin vs $49).
-- Specificity: odd exact numbers ($99 / $29 / $36 / $129), never round "40% off."
-- Target AOV: 90-day first box $99 (~$123 with the Mum bump).
+---
 
-## First-order pop-up
-Never "10% off." One number. AOV <$100 → %-off/store-credit wins. Test A: "$25 toward her first plan" (store-credit, won the playbook's 8-way test); B: free Doctor-Visit Script in the welcome email. Best: do both.
+## ALWAYS-ON
+- **Order bump (cart):** "A Tin for Mum +$24 — heavy periods run in families. So does low iron." (+ free Mum's ferritin guide.) Adds ~$9 gross.
+- **Post-purchase 1-click:** 30-Day buyers → upgrade to the 90-Day Challenge (+$50). 90-Day buyers → "Build her plan" (add Mum/sibling tin at a bundle discount).
+- **HSA/FSA checkout (Truemed):** pay with pre-tax dollars, ~30% cheaper to her, $0 to us.
+- **First-order incentive:** store-credit "$25 toward her next box" (applied to box 2, NOT the loss-leading first box).
+- **Guarantee:** "The 70-Day Know-Her-Number Promise" — number doesn't move, she won't take it, or you change your mind → full refund, keep the gifts, no lab result needed, one email.
 
-## Funnel — DECISION
-**Primary: a single long-form, click-through "advertorial-style Offer Page"** (ad → one long page → checkout), not advertorial → separate PDP.
-- Why: education-heavy + low-AOV can't afford the 20–40% drop on a page-to-page click. One page = one unbroken narrative.
-- Board's "Offer Pre-sell Page." Hard rule: the TOP reads like an advertorial (editorial, story-led). Spine: Discovery Story → spending-vs-savings mechanism → 2026 guidance → why pills fail → who it's NOT for → offer + buy box → guarantee → FAQ. Never a "BUY NOW" hero (a short PDP speaks to only ~17%).
-- Fallback A/B later: split the advertorial back out if cold CVR is soft. Never cold traffic to a short PDP or Home Page.
+## KPIs
+- Win (day 14): CPA ≤ $45, AOV ≥ $90, ≥50% choosing the 90-Day, 25+ orders.
+- Kill (day 14): CPA > $70 or AOV < $70.
+- Break-even CPA ≈ $40 on the 90-day first box ($109 first box → ~$50 cushion if cold CPA runs high). Profit = 90-day recurring (~$75/qtr) + Mum bump + retention past renewal 1.
 
-## Test 2–3 variants (test offers, not discount depths)
-1. **A — "Welcome Kit"** (recommended lead): the hero above, one-time available, full kit on the 90-day.
-2. **B — "Aggressive front-load, no kit"**: 90-day first box ~$89 but planner only, smaller recurring discount. Tests if the eye-mask kit earns its ~$13.
-3. **C — "Subscribe-only"**: remove the one-time. Highest LTV, but fights the "just try it once" ICP — test small, watch refunds.
-
-## KPIs — measure BOTH
-- **Win (day 14):** CPA ≤ $50, AOV ≥ $90, 25+ orders, ≥50% choosing the 90-day.
-- **Kill (day 14):** CPA > $75 or AOV < $70.
-- **Break-even CPA on the hero first box ≈ $30** ($40 if you raise the first box to $109). Real profit = 90-day retention/LTV (~$79 gross per recurring quarter). Watch churn after the first box.
-
-## Where the profit actually is
-First box is ~breakeven by design. Profit = the $129/quarter recurring (~$79 gross) + the Mum bump (~$9) + the bottle upsell (~$6) + charging shipping on the one-time. Keep customers past ONE renewal and the whole thing prints.
-
-## Build order
-✅ Part A — this offer. Part B — long-form offer page (Shopify/GemPages) to $99 AOV. Part C — advertorial content baked into the offer page top. Apps: Recharge · ReConvert/Rebuy · Klaviyo/Postscript · Judge.me · GemPages.
+## Why this wins
+Big, tangible unboxing (real products she wants) + digital value at $0 + the retest reward that punishes cancelling + HSA/FSA + one-click cancel. Value where it's cheap (digital + cheap CJ trinkets), discount where it matters (the front-loaded sub), and every element pushes the 90-Day.
