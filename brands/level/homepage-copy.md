@@ -185,6 +185,15 @@ Blueprint MUST-ADD: the "who this is NOT for" honesty block + clean label. Belie
 - **CTA:** Get your girl back →
 - **Note:** who-it's-NOT-for is the trust move; also kills is-it-enough/infusion objection. Clean-label claims all true to spec.
 
+## S16 — "How it works" daily ritual (adherence objection killer)
+Blueprint KEEP. Shows how easy daily use is → kills "she won't take it." Product = ONE strip/day, so replace the template's 4 clock times (7AM/8AM/12PM/8PM) with simple steps (not 4 doses).
+- **Heading:** How it works
+- **Row 1 (Morning):** One raspberry strip on her tongue. It dissolves in seconds.
+- **Row 2 (With breakfast):** A glass of water or juice. Skip the milk, tea and coffee.
+- **Row 3 (All day):** That's it. No pills to swallow, nothing to carry, no reminders.
+- **Row 4 (Day 90):** Retest if you want, and watch her number climb.
+- **Note:** toggles = "done" ticks. Photo (image-pass) = teen girl taking a strip / the strip+tin, not a man mixing a drink. Belief #4 + "she won't take pills."
+
 ## S15 — "Why IRYN Stands Out" comparison (template format: IRYN vs Others, ✓/✗)
 Template is a 2-column ✓/✗ table. Factual gaps for the teen-girl use case, no fake bashing.
 - **Heading:** Why IRYN Stands Out
