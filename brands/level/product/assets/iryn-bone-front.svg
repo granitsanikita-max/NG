@@ -13,23 +13,13 @@
   <rect x="0" y="0" width="810" height="810" fill="#F4ECDF"/>
   <polygon points="0,0 810,0 810,540 0,486" fill="url(#garnet)"/>
   <line x1="0" y1="486" x2="810" y2="540" stroke="url(#foil)" stroke-width="4"/>
-
-  <!-- emblem chip -->
-  <rect x="333" y="92" width="144" height="150" rx="20" fill="none" stroke="url(#foil)" stroke-width="3.4"/>
-  <rect x="347" y="159" width="116" height="18" rx="9" fill="#F4ECDF"/><circle cx="347" cy="155" r="16" fill="#F4ECDF"/><circle cx="347" cy="181" r="16" fill="#F4ECDF"/><circle cx="463" cy="155" r="16" fill="#F4ECDF"/><circle cx="463" cy="181" r="16" fill="#F4ECDF"/>
-
-  <!-- slogan -->
-  <text x="405" y="292" font-family="SG Medium" font-size="16" fill="#F4ECDF" fill-opacity="0.85" text-anchor="middle" letter-spacing="3">BUILT FOR HER GROWING YEARS</text>
-
-  <!-- straddling wordmark -->
-  <text x="405" y="548" font-family="SG Bold" font-size="196" text-anchor="middle" letter-spacing="-6" fill="#F4ECDF" clip-path="url(#topClip)">iryn</text>
-  <text x="405" y="548" font-family="SG Bold" font-size="196" text-anchor="middle" letter-spacing="-6" fill="#A0203F" clip-path="url(#botClip)">iryn</text>
-
-  <!-- deck line -->
-  <text x="405" y="606" font-family="SG Medium" font-size="30" fill="#7C1730" text-anchor="middle" letter-spacing="0.5">daily bone support for teen girls</text>
-
-  <!-- hero line -->
-  <text x="405" y="690" font-family="SG Bold" font-size="40" text-anchor="middle" fill="#A0203F" letter-spacing="1">STRONG BONES &#183; ONE A DAY</text>
-
-  <text x="405" y="752" font-family="SG Medium" font-size="14.5" fill="#6A5A3C" text-anchor="middle" letter-spacing="2.5">RASPBERRY &#183; 30 ORAL STRIPS</text>
+  <rect x="340" y="86" width="130" height="138" rx="18" fill="none" stroke="url(#foil)" stroke-width="3.2"/>
+  <rect x="349" y="152" width="112" height="16" rx="8" fill="#F4ECDF"/><circle cx="349" cy="148" r="15" fill="#F4ECDF"/><circle cx="349" cy="172" r="15" fill="#F4ECDF"/><circle cx="461" cy="148" r="15" fill="#F4ECDF"/><circle cx="461" cy="172" r="15" fill="#F4ECDF"/>
+  <text x="405" y="272" font-family="SG Medium" font-size="15.5" fill="#F4ECDF" fill-opacity="0.85" text-anchor="middle" letter-spacing="3">BUILT FOR HER GROWING YEARS</text>
+  <text x="405" y="536" font-family="SG Bold" font-size="188" text-anchor="middle" letter-spacing="-6" fill="#F4ECDF" clip-path="url(#topClip)">iryn</text>
+  <text x="405" y="536" font-family="SG Bold" font-size="188" text-anchor="middle" letter-spacing="-6" fill="#A0203F" clip-path="url(#botClip)">iryn</text>
+  <text x="405" y="592" font-family="SG Medium" font-size="29" fill="#7C1730" text-anchor="middle" letter-spacing="0.5">daily bone support for teen girls</text>
+  <text x="405" y="650" font-family="SG Bold" font-size="34" text-anchor="middle" fill="#A0203F" letter-spacing="1">STRONG BONES &#183; ONE A DAY</text>
+  <text x="405" y="688" font-family="SG Regular" font-size="15" fill="#5A4A44" text-anchor="middle">Promotes bone health*</text>
+  <text x="405" y="738" font-family="SG Medium" font-size="14" fill="#6A5A3C" text-anchor="middle" letter-spacing="2">DIETARY SUPPLEMENT &#160;&#183;&#160; RASPBERRY &#160;&#183;&#160; 30 ORAL STRIPS</text>
 </svg>

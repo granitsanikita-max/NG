@@ -13,23 +13,13 @@
   <rect x="0" y="0" width="810" height="810" fill="#F4ECDF"/>
   <polygon points="0,0 810,0 810,540 0,486" fill="url(#garnet)"/>
   <line x1="0" y1="486" x2="810" y2="540" stroke="url(#foil)" stroke-width="4"/>
-
-  <!-- emblem chip -->
-  <rect x="333" y="92" width="144" height="150" rx="20" fill="none" stroke="url(#foil)" stroke-width="3.4"/>
-  <circle cx="397" cy="168" r="48" fill="#F4ECDF"/><circle cx="429" cy="156" r="44" fill="#A82344"/><circle cx="445" cy="136" r="5" fill="#EFCB86"/><circle cx="439" cy="188" r="4" fill="#EFCB86"/><circle cx="455" cy="160" r="3" fill="#EFCB86"/>
-
-  <!-- slogan -->
-  <text x="405" y="292" font-family="SG Medium" font-size="16" fill="#F4ECDF" fill-opacity="0.85" text-anchor="middle" letter-spacing="3">A CALM END TO A LONG DAY</text>
-
-  <!-- straddling wordmark -->
-  <text x="405" y="548" font-family="SG Bold" font-size="196" text-anchor="middle" letter-spacing="-6" fill="#F4ECDF" clip-path="url(#topClip)">iryn</text>
-  <text x="405" y="548" font-family="SG Bold" font-size="196" text-anchor="middle" letter-spacing="-6" fill="#A0203F" clip-path="url(#botClip)">iryn</text>
-
-  <!-- deck line -->
-  <text x="405" y="606" font-family="SG Medium" font-size="30" fill="#7C1730" text-anchor="middle" letter-spacing="0.5">gentle sleep support</text>
-
-  <!-- hero line -->
-  <text x="405" y="690" font-family="SG Bold" font-size="40" text-anchor="middle" fill="#A0203F" letter-spacing="1">WIND DOWN &#183; ONE BEFORE BED</text>
-
-  <text x="405" y="752" font-family="SG Medium" font-size="14.5" fill="#6A5A3C" text-anchor="middle" letter-spacing="2.5">RASPBERRY &#183; 30 ORAL STRIPS</text>
+  <rect x="340" y="86" width="130" height="138" rx="18" fill="none" stroke="url(#foil)" stroke-width="3.2"/>
+  <circle cx="397" cy="160" r="46" fill="#F4ECDF"/><circle cx="429" cy="148" r="42" fill="#A82344"/><circle cx="443" cy="130" r="5" fill="#EFCB86"/><circle cx="437" cy="178" r="4" fill="#EFCB86"/><circle cx="453" cy="154" r="3" fill="#EFCB86"/>
+  <text x="405" y="272" font-family="SG Medium" font-size="15.5" fill="#F4ECDF" fill-opacity="0.85" text-anchor="middle" letter-spacing="3">A CALM END TO A LONG DAY</text>
+  <text x="405" y="536" font-family="SG Bold" font-size="188" text-anchor="middle" letter-spacing="-6" fill="#F4ECDF" clip-path="url(#topClip)">iryn</text>
+  <text x="405" y="536" font-family="SG Bold" font-size="188" text-anchor="middle" letter-spacing="-6" fill="#A0203F" clip-path="url(#botClip)">iryn</text>
+  <text x="405" y="592" font-family="SG Medium" font-size="29" fill="#7C1730" text-anchor="middle" letter-spacing="0.5">gentle sleep support</text>
+  <text x="405" y="650" font-family="SG Bold" font-size="34" text-anchor="middle" fill="#A0203F" letter-spacing="1">WIND DOWN &#183; ONE BEFORE BED</text>
+  <text x="405" y="688" font-family="SG Regular" font-size="15" fill="#5A4A44" text-anchor="middle">May support healthy sleep patterns, including</text><text x="405" y="708" font-family="SG Regular" font-size="15" fill="#5A4A44" text-anchor="middle">difficulty falling asleep, stress-related sleep</text><text x="405" y="728" font-family="SG Regular" font-size="15" fill="#5A4A44" text-anchor="middle">disturbances &amp; disruptions in non-REM sleep*</text>
+  <text x="405" y="778" font-family="SG Medium" font-size="14" fill="#6A5A3C" text-anchor="middle" letter-spacing="2">DIETARY SUPPLEMENT &#160;&#183;&#160; RASPBERRY &#160;&#183;&#160; 30 ORAL STRIPS</text>
 </svg>
