@@ -82,8 +82,10 @@ The offer's value is mostly digital — so it only converts (and only stays hone
 
 ---
 
-## 8. FINAL RECOMMENDED SET FOR THE $1,500 TEST (lean)
-**Free gifts (all digital, $0):** 90-Day Program · Know Her Number guide + Doctor Script · Retest Tracker · Her Page.
+## 8. FINAL RECOMMENDED SET FOR THE $1,500 TEST (rebalanced — real products + 2 digital)
+> Updated per Nikita: don't over-do digital (2 max), add real products.
+**Free gifts:** 2 digital max → (1) Know Her Number guide + Doctor Script, (2) Her Page (incl. retest tracker). PLUS real products → **"Her Number" charm/bracelet in box 1** (~$1.50) and the **discreet carry pouch as the Day-85 retest reward** (~$4). The 90-Day "Program" folds into the guide/Her Page (not a separate padded digital item).
+  - Physical fulfillment: confirm Supliful can insert the charm; else ship a small separate parcel or self-fulfil a small batch for the test.
 **Offer:** 90-Day Challenge $99→$129 (hero) · 30-Day $29→$36 · One-time $39+ship.
 **Bump:** Tin for Mum +$24. **Post-purchase:** 30→90 upgrade; build-her-plan.
 **Margin-free levers:** HSA/FSA · free shipping on subs · 70-day guarantee · one-click cancel (lead with it).

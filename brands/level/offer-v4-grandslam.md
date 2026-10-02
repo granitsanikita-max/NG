@@ -19,24 +19,26 @@
 ### ⭐ HERO — 90-Day Challenge (quarterly, auto-selected, "BEST VALUE")
 **First box $99** (then $129 every 90 days) · free shipping · ~$1.10/day · 70-day guarantee.
 
-**What's in the box + Welcome Kit (the value stack):**
-| Item | Value | Our COGS |
-|---|---|---|
-| 3 tins IRYN — her full 90-day supply (to the retest) | ~~$147~~ (3×$49) | $46 |
-| **The 90-Day Know-Her-Number Program** (guided digital program: how to take it, how to get her ferritin tested without the doctor runaround, what to expect week by week, the day-85 retest) | ~~$89~~ | $0 |
-| **"Know Her Number" guide** — real published hematologist guidance + the printable Doctor-Visit "ask for a ferritin test" script | ~~$29~~ | $0 |
-| **Period & Energy Retest Tracker** — sets her day-85 retest date on day one | ~~$19~~ | $0 |
-| **Her Page** — the daughter's private portal (talks to her, not at her) | included | $0 |
-| Free shipping | ~~$6~~ | $6 |
-| **Total value** | **~$290** | **~$52** |
+**What's in the box + Welcome Kit (the value stack) — 2 real products + 2 digital:**
+| Item | Type | Value | Our COGS |
+|---|---|---|---|
+| 3 tins IRYN — her full 90-day supply (to the retest) | product | ~~$147~~ (3×$49) | $46 |
+| **"Her Number" charm / thin bracelet** — she wears it or clips it to her bag; a milestone object, not a kid sticker | **physical gift** | ~~$19~~ | ~$1.50 |
+| **"Know Her Number" guide + Doctor-Visit Script** — real hematologist guidance + the printable "ask for a ferritin test" card | digital | ~~$29~~ | $0 |
+| **Her Page** — her private portal; includes the retest tracker that sets her day-85 date | digital | included | $0 |
+| Free shipping | — | ~~$6~~ | $6 |
+| gift fulfillment (charm — Supliful insert, else small separate parcel) | — | — | ~$2–3 |
+| **Total value** | | **~$207** | **~$56–57** |
 
-→ **"$290 of plan. $99 to start. Save ~$190."**
+→ **"$207 of plan. $99 to start."**
 
 **Future unlocks — only if she stays (the retention engine):**
 - **Day 45 — Mid-Plan Check-In:** "is it working yet?" guide + a one-tap "add Mum's tin" nudge.
-- **Day 85 — Retest Bonus:** retest reminder + **the "Her Number Moved" celebration** + a **$15 credit** toward the next box (+ a collectible milestone charm *if Supliful can insert it*).
+- **Day 85 — Retest Reward (PHYSICAL):** the **discreet matte carry pouch** (holds her tin + essentials) + the "Her Number Moved" celebration + a **$15 credit** toward the next box. *(Putting the pouch here, not in box 1, protects first-box margin AND ties a real product to staying.)*
 - **Box 2 renewal — Next-Level unlock:** the sport/energy + nutrition guide, and loyalty points.
-- Framed on the page: *"Cancel before day 85 and you lose your retest bonus."*
+- Framed on the page: *"Cancel before day 85 and you lose your retest reward."*
+
+> **Alt config (fuller first-box unboxing):** put BOTH the charm and the pouch in box 1 → value ~$231, first-box gross drops to ~$34, so raise the first box to **$109** to keep the CPA cushion.
 
 ### 30-DAY START (smaller commitment)
 First month **$29** → **$36/mo**, free shipping. Gets the digital Welcome Kit (guide + tracker + Her Page), not the full 90-day Program. We still push the 90-day.
@@ -55,25 +57,24 @@ First month **$29** → **$36/mo**, free shipping. Gets the digital Welcome Kit 
 ## MARGINS — why this version is BETTER for us
 | Tier | Customer pays | Our cost (landed + digital gifts + fees) | Gross |
 |---|---|---|---|
-| ⭐ 90-Day first box | **$99** | 3 tins $46 + $0 digital + $3.27 = **$49.27** | **~$49.73** |
-| ⭐ 90-Day recurring | **$129 / 90d** | $46 + $4.17 = $50.17 | **~$78.83 / quarter** (profit engine) |
+| ⭐ 90-Day first box | **$99** | 3 tins $46 + charm $1.50 + fulfil $2.50 + $3.27 = **$53.27** | **~$45.73** |
+| ⭐ 90-Day recurring | **$129 / 90d** | $46 + pouch $4 + fulfil $2.50 (day-85 box) + $4.17 = $56.67 | **~$72.33 / quarter** (profit engine) |
 | 30-Day first month | **$29** | $18 + $1.17 = $19.17 | **~$9.83** |
 | One-time 1 tin | **$45** | $19.64 | **~$25.36** |
 
-**The headline number:** dropping the ~$19.60 physical eye-mask kit for a **$0-COGS digital Welcome Kit** lifts the hero first-box gross from **~$30 → ~$50**, so **break-even CPA goes from ~$30 to ~$50.** That's a far more survivable test on cold Meta — and the offer *looks bigger*, not smaller. (If you keep the first box at $99; bump to $109 and break-even CPA ≈ $60.)
+**The headline number:** vs the old ~$19.60 eye-mask kit (first-box gross ~$30), this rebalanced kit — **1 cheap physical (charm) + 2 digital** in box 1, pouch moved to the day-85 reward — lands first-box gross at **~$46** (break-even CPA ~$46). Still a big improvement because the physical gifts are cheap/flat and one is deferred to the retest. Put BOTH physical in box 1 and gross drops to ~$34 (then raise the box to $109 to recover). The digital gifts carry the perceived value at $0 COGS; the physical gifts give the real unboxing.
 
 ---
 
 ## How the buy box reads (the stack she sees)
 > **The Know-Her-Number 90-Day Challenge**
-> ~~$290 value~~ → **$99 your first box** · then $129 every 90 days · ~$1.10/day
+> ~~$207 value~~ → **$99 your first box** · then $129 every 90 days · ~$1.10/day
 > ✓ 3 tins — her full plan to the retest
-> ✓ The 90-Day Know-Her-Number Program ($89)
+> ✓ "Her Number" charm — made for her ($19)
 > ✓ Hematologist guide + Doctor-Visit Script ($29)
-> ✓ Retest Tracker — sets her day-85 date ($19)
-> ✓ Her Page — made for her
+> ✓ Her Page + retest tracker — sets her day-85 date
 > ✓ Free shipping · 70-day money-back · **cancel in one click**
-> *Pay with HSA/FSA — save ~30%* · *Keep going and unlock her Day-85 Retest Bonus*
+> *Pay with HSA/FSA — save ~30%* · *Stay to day 85 → unlock her carry-pouch Retest Reward*
 
 ---
 
