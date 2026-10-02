@@ -17,7 +17,8 @@
   - One raspberry strip a day — no pills to swallow
   - Gentle on her stomach — no cramps or nausea
   - A real plan: test, top up, retest in 90 days
-- **Button:** See what her bloodwork missed →
+- **Button:** Get her back to full speed →
+  - (Outcome-driven CTA rule: sell the dream outcome, not the mechanism. Alts: "Help her feel like herself again →" / "Start her comeback →" / "Get your girl back →" for broad/non-sport heroes.)
 - **Trust line:** 70-day money-back guarantee · cancel anytime in one click · made for girls 12–18
 - **IMAGE:** teen girl athlete spent on the sideline/track + lab slip overlay "Hemoglobin: normal ✓ · Ferritin: 9 ✗".
 - **Note:** no fake review count; "fading/keep up/full speed" ok, no "energy/boost" claim. "*" on 19 mg/folate claims → FDA disclaimer back panel.
