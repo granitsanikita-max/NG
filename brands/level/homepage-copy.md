@@ -94,6 +94,22 @@ Blueprint job: "why this dose, done right." Belief #4 + objections (is it enough
 - **Note:** Card 1 = "is it enough" + stomach (honest top-up framing). Card 2 = vegetarian + methylfolate objection (#11). Card 3 = taste (#1 Amazon, 39% neg) + won't-take-pills, taste gets its own moment per GAP 1; monk fruit/stevia line backs the no-sugar claim. "*" on folate claim → footer disclaimer. Spec confirmed research line 509.
 - **FULL INGREDIENT LIST (put in a separate transparency / "what's inside" block near product/buy area, NOT on the benefit cards — this is the "honest label" trust play + helps Meta approval):** Iron (as Ferric Saccharate) 19 mg, Vitamin B9 (Folate) 400 mcg, Pullulan, Cellulose, Lecithin, Raspberry Flavor, Monk Fruit Extract, Citric Acid, Medium-Chain Triglycerides, Xanthan Gum, Steviol Glycosides. Raspberry flavor. 30 strips. Suggested use: one strip on the tongue to dissolve, max 1/day.
 
+## S8 — "Maximize Absorption" → THE PLAN (Test, Top Up, Retest)
+Blueprint job: the UMS process + honest timeline. Belief #4 + "will it work / how fast." NO "absorbs better / bioavailability" (can't own). Honest timeline cuts refunds.
+- **Eyebrow:** Know her number, then bring it up.
+- **Heading:** The plan: test, top up, retest.
+- **3 steps (also the infographic brief):**
+  1. Test. Find her ferritin number with a simple blood test. No doctor visit needed. Walk-in lab from age 10 with a parent there, or add ferritin to any blood draw she's already getting. (covers GAP 2 test-friction/needle-fear: Quest 10+, parent present)
+  2. Top up. One raspberry strip a day. Gentle enough to take every day through her periods, her growth, and her sport season.
+  3. Retest. Check her number again at 8 to 12 weeks so you can see it moved. Aim for 30 or higher, or 50+ if she has heavy periods or trains hard.
+- **Honest-timeline box (replaces "Fast, Effective Absorption"):**
+  - Label: What to actually expect
+  - Body: Iron is a top-up, not an overnight fix. Her number climbs over weeks, not days. In studies, ferritin went up by about 13 points over 8 weeks.¹ The number on paper moves before she feels different, and that's exactly why you retest instead of guessing. If it isn't moving, you'll know, and we'll help you figure out why.
+  - ¹ PMID 38545733
+- **CTA:** Get your girl back →
+- **IMAGE PASS:** replace the fake 71%/94% two-body "nutrient requirements met" graphic with a 3-step Test→Top Up→Retest graphic OR an honest ferritin-climbing chart (low → 30+ over 90 days, labeled study average, individual results vary). Do NOT rebuild the fake comparison.
+- **Note:** honest timeline = refund-cutter; "numbers move before feelings" aligns with no-fatigue-at-4-weeks (PMID 22272750).
+
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
 - **Headline:** Why she'll actually take IRYN when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")
