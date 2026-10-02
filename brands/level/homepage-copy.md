@@ -19,6 +19,7 @@
   - A real plan: test, top up, retest in 90 days
 - **Button:** Get her back to full speed →
   - (Outcome-driven CTA rule: sell the dream outcome, not the mechanism. Alts: "Help her feel like herself again →" / "Start her comeback →" / "Get your girl back →" for broad/non-sport heroes.)
-- **Trust line:** 70-day money-back guarantee · cancel anytime in one click · made for girls 12–18
+- **Trust line:** Free shipping on subscriptions · HSA/FSA eligible · dissolves on her tongue, no pills
+  - (NON-REPETITION RULE: don't repeat the same trust signal across adjacent sections. S1 already carries guarantee + cancel-anytime + "made for girls 12–18", so the hero trust line uses NEW signals. The 70-day guarantee gets its big un-repeated moment at the buy box. Repeat a signal at most once, never in neighboring sections.)
 - **IMAGE:** teen girl athlete spent on the sideline/track + lab slip overlay "Hemoglobin: normal ✓ · Ferritin: 9 ✗".
 - **Note:** no fake review count; "fading/keep up/full speed" ok, no "energy/boost" claim. "*" on 19 mg/folate claims → FDA disclaimer back panel.
