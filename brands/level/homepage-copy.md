@@ -136,6 +136,25 @@ Nikita: keep as a percentage grid; testimonials move to the NEXT section. Fake "
   - ¹ PMID 37367984 · ² PMID 27262832
 - **Note:** dropped 53.9% athlete stat (no solid citation). Every number sourced per non-negotiable flag. Seeded-mom testimonials = NEXT section (S19-style).
 
+## S12 — "Expert Reviews & Recommendations" → REAL published expert quotes (NO fabricated doctors)
+Fabricated named doctors = account-killer + settled line. Use REAL hematologists' REAL published quotes about the PROBLEM (not IRYN endorsements). Belief #3 + borrowed authority. Outlet-forward visuals (no stock face on a real doctor's name).
+- **Heading:** What the Experts Say About Teen Iron
+- **Card 1 — Dr. Angela Weyand (money quote):**
+  - Quote: "Almost 40% of 12 to 21 year old females are iron deficient, and most of them have no idea."
+  - Name: Dr. Angela Weyand
+  - Title: Pediatric hematologist, University of Michigan
+  - Big number: 38.6% | found iron deficient in her JAMA study
+- **Card 2 — Dr. Sarah Ferri (sport angle match):**
+  - Quote: "Everything flags normal between 15 and 200. But for high school and college athletes, many clinicians aim for ferritin of at least 50."
+  - Name: Dr. Sarah Ferri
+  - Title: Cleveland Clinic
+  - Big number: 50 | the ferritin level doctors want for active girls
+- **Card 3 (optional) — Dr. Jacquelyn Powers (guidance authority):**
+  - Quote: "We hope these recommendations empower patients to better understand and ask for the testing they need."
+  - Title: Lead author, 2026 AAP iron-screening guidance
+- **IMAGES:** outlet-forward, NO stock/AI face on a real doctor. Best: quote-mark card + "As published in JAMA / Cleveland Clinic / AAP 2026." If a face is used, only the doctor's real public photo with "as quoted in [outlet]."
+- **Note:** framed as experts on the PROBLEM, not IRYN endorsements (they have not endorsed us). Quotes verbatim from research lines 344-346.
+
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
 - **Headline:** Why she'll actually take IRYN when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")
