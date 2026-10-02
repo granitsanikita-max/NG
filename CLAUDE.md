@@ -26,6 +26,19 @@ The one standing line (business-survival, not morality, state briefly only if di
 
 - **IRYN** — `brands/level/` — teen-girl iron supplement ("iron for her years"). Name locked IRYN (2026-09-30); research written under working name "LEVEL" — read LEVEL as IRYN. Domain `tryiryn.com`. Pre-launch; $1,500 US test, Oct 2026.
 
+## IRYN offer — LOCKED (full detail in `brands/level/offer.md` v6)
+- **90-Day Challenge** (hero, pre-ticked): shown **$33/tin · $1.10/day**; today **$89** first box (3 tins) → **$99/90 days**.
+- **30-Day Start**: shown $36/tin · $1.20/day; today **$29** first month → **$36/mo**.
+- **One-time** (tiny decoy): **$39 + shipping** ($1.30/day).
+- **Display rule:** per-tin/per-day shown ONLY on the steady sub rate (90-day cheapest on every line); first-order prices show as flat "today $X", NO per-day (never let the 30-day out-value the hero).
+- Free gifts = **digital only** (Her Page + retest tracker · Know Her Number guide + Doctor-Visit Script). No physical gifts for the test.
+- Bump: Tin for Mum (+$24). Post-purchase: 30→90 upgrade; Bone Support strip (teen); Sleep strip (mum). Upsells = Supliful strips — NEVER Appetite/Weight (teen ED risk), Libido, Hangover.
+- Always-on: HSA/FSA (Truemed) · 70-day guarantee · store-credit "$25 toward 2nd box" · one-click cancel (lead with it).
+- Upsell tins designed: `product/assets/iryn-bone-front*`, `iryn-sleep-front*`.
+
+## Store / landing-page rule — MESSAGE MATCH (do NOT violate)
+Every ad must land on a page whose TOP (hero headline + subhead + visual) continues that exact ad's angle/words/tone. Mismatch = the #1 bounce leak (killed Nikita's last store). Build pages as **modular hero (swapped per ad angle) + one universal body (shared mechanism→offer that every angle converges into)**. See `brands/level/homepage-architecture.md`.
+
 ## How research docs get here
 
 Nikita hands over deep market research (Reddit, Amazon reviews, forums, competitor ads, etc.). It goes in `brands/<brand-name>/research.md`. Everything downstream (store, ads, copy) is built off it.
