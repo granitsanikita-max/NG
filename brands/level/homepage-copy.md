@@ -155,6 +155,15 @@ Fabricated named doctors = account-killer + settled line. Use REAL hematologists
 - **IMAGES:** outlet-forward, NO stock/AI face on a real doctor. Best: quote-mark card + "As published in JAMA / Cleveland Clinic / AAP 2026." If a face is used, only the doctor's real public photo with "as quoted in [outlet]."
 - **Note:** framed as experts on the PROBLEM, not IRYN endorsements (they have not endorsed us). Quotes verbatim from research lines 344-346.
 
+## S13 — "Real Stories, Real Transformations" → dream-outcome beat (video/UGC testimonials)
+Blueprint ⭐ beat: future-pace / "get your girl back" + seeded-mom lab-number UGC. Faces/videos = real seeded-customer UGC. Quotes below are TEMPLATES to fill with real moms' words.
+- **Heading:** Real Stories, Real Transformations
+- **Subhead:** See how other moms found what their daughter's bloodwork missed, and watched her come back to herself.
+- **Card 1 (video):** Headline "I have my girl back." | Body: "She was exhausted for months and every blood test said she was fine. We checked her ferritin, started the strips, and by her retest she was finally herself again." | [real mom], Mom of a 15-year-old
+- **Card 2 (video):** Headline "Her number went from 12 to 34." | Body: "One strip a day for three months. Watching her keep up at practice again is the part I still can't get over." | [real mom], Mom of a 14-year-old runner
+- **Card 3 (optional):** Headline "No more fight every morning." | Body: "She actually asks for it now. It's the first supplement we've ever managed to stick with." | [real mom], Mom of a 13-year-old
+- **Note:** Card1 = get-your-girl-back; Card2 = lab-number jump; Card3 = adherence relief. No overlap. Fill with real seeded UGC before launch.
+
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
 - **Headline:** Why she'll actually take IRYN when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")

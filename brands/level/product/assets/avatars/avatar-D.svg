@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#B62A4C"/><stop offset="60%" stop-color="#A0203F"/><stop offset="100%" stop-color="#7C1730"/>
+  </linearGradient>
+  <linearGradient id="foil" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#EFCB86"/><stop offset="50%" stop-color="#D8A24A"/><stop offset="100%" stop-color="#A9762C"/>
+  </linearGradient>
+  <style>text{font-family:"SG Bold","Space Grotesk";}</style>
+</defs>
+<circle cx="200" cy="200" r="190" fill="url(#g)" stroke="url(#foil)" stroke-width="7"/>
+<text x="200" y="272" font-size="200" fill="#F4ECDF" text-anchor="middle">D</text>
+</svg>
