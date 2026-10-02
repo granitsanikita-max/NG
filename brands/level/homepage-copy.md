@@ -196,11 +196,11 @@ Replace ALL collagen leftovers (10k reviews, Core Power/Pure Radiance, 92% Colla
   - DISPLAY RULE: per-tin/per-day ONLY on steady 90-day rate; first-order flat "today $X", no per-day.
 - **3 stat cards (replace 92% Collagen etc):** 19 mg Gentle iron · 400 mcg Folate · 0 g Sugar. Subline: The right dose for a girl 12 to 18, in a strip she'll actually take.
 - **Extra Gift → digital welcome kit:** Every box includes her digital welcome kit: Her Page + retest tracker, the Know Her Number guide, and a doctor-visit script. (DIGITAL ONLY)
-- **4 dream-outcome bullets (future-pace, she pictures it):**
-  - Watch her spark come back. The energy, the focus, the girl you remember.
-  - See her finish the season strong instead of fading at practice.
-  - Feel the relief of catching what her bloodwork missed, and knowing you handled it.
-  - End the morning battle. One raspberry strip she'll actually take, no pills, no fight.
+- **4 dream-outcome bullets (short + scannable):**
+  - Get her spark back
+  - Strong to the final whistle
+  - The relief of finally knowing
+  - No pills, no morning fight
 - **ATC:** Add to cart (or "Start her comeback →")
 - **Trust row (replace 30-day):** 70-day money-back guarantee · cancel anytime in one click · HSA/FSA eligible + payment icons.
 - **How to use (replace add-1-scoop):** One strip on her tongue, once a day. Let it dissolve.
