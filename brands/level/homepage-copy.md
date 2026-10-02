@@ -55,7 +55,7 @@ Blueprint job: future-pace / dream outcome beat (0B rule: make her see the after
 ## S6 — Problem/Solution panel (left) + news-peg stat grid (right)
 Two halves shown together. Left = problem agitation. Right = blueprint S6 (2026 news peg + authority stack; belief #3). Fake 90/85/88/92% removed.
 
-### S6 left — "What You're Noticing" / "Our Solution"
+### S6 left — "What You're Noticing" / "Our Solution"  [IMAGE PASS — this panel is an image, not copy; build it in the image pass. Copy below kept only as the brief for that image.]
 - **Left title (stacked):** What You're / Noticing  (accent on "Noticing")
 - **Problem pills (real low-iron SIGNS, not diagnosis; research line 285):**
   - Always tired, even after sleeping all night
