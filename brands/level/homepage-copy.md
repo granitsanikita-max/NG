@@ -164,6 +164,16 @@ Blueprint ⭐ beat: future-pace / "get your girl back" + seeded-mom lab-number U
 - **Card 3 (optional):** Headline "No more fight every morning." | Body: "She actually asks for it now. It's the first supplement we've ever managed to stick with." | [real mom], Mom of a 13-year-old
 - **Note:** Card1 = get-your-girl-back; Card2 = lab-number jump; Card3 = adherence relief. No overlap. Fill with real seeded UGC before launch.
 
+## Reviews carousel — "Positive Customer Reviews" (text reviews, objection-handling)
+Home for the 5 deleted objection reviews. Each kills a distinct objection. Product tag on each card = IRYN tin thumbnail + "Iron Strips, Raspberry" (NOT the template's Orange Squeeze / sparkling water). Avatars = garnet initial avatars or real seeded-mom photos (template's Steph avatar is a stock man, must change).
+- **Heading:** Positive Customer Reviews (or "Reviews From Real Moms")
+- **Rachel (safety):** "I was nervous about giving my daughter iron on my own. What sold me was that it's a gentle amount made for her age, not a big adult pill. I feel fine giving it to her daily." · 5/5
+- **Steph (picky teen):** "My 14-year-old gags on pills and refuses anything that tastes like vitamins. The raspberry strip is the only thing she hasn't fought me on. She reminds me now." · 5/5
+- **Lauren (dismissive doctor + lab number):** "Her doctor said her bloodwork was normal and she was just a tired teenager. I asked them to check her ferritin anyway. It came back at 14. A few months on the strips and she's finally not dragging." · 5/5
+- **Danielle (subscription trap):** "I almost didn't order because I'm done with subscriptions you can't get out of. I changed my delivery date myself in a couple of seconds and I know I can cancel anytime. No hoops." · 5/5
+- **Monica (price/value):** "I used to grab the cheap drugstore iron and it just sat in the cupboard because she'd never take it. This costs more, but it's the first one she actually uses. Beats throwing bottles away." · 5/5
+- **ACTION:** these are templates for real seeded-mom reviews; swap in real quotes/names before launch. Product tag = IRYN tin + "Iron Strips, Raspberry" on all cards.
+
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
 - **Headline:** Why she'll actually take IRYN when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")
