@@ -124,6 +124,16 @@ Fake "90% visible improvements in 6 weeks" removed (fake % + contradicts honest 
 - **IMAGE PASS (chart):** rising line = her ferritin climbing from "low" into "healthy (30+)" over ~8-12 weeks. Same rising shape, real data. Swap collagen jar + molecule for IRYN tin + strip. Label as study average.
 - **Note:** no fake user %, no "visible in 6 weeks." The honest climb builds trust with a mom burned by overpromises; reinforces (not contradicts) S8.
 
+## S10 — "See What Users Are Saying" → seeded-mom testimonials (replaces fake 90/85/88/92%)
+Fake "% of users" removed (no users pre-launch; fabricated % = account-killer). This is the social-proof section. Fill with REAL seeded-mom quotes + lab-number format ("14 → 31"). Drafts below are TEMPLATES to replace with real seeded quotes before launch. SEED 8-10 real moms with free tins now.
+- **Heading:** What Moms Are Saying About IRYN
+- **Format:** repurpose the big % slot into the ferritin jump / rating / short tag.
+- **Card 1:** "She'd given up on iron pills, they made her sick to her stomach. This one she actually takes every morning, no reminding." | big: no more fights | Mom of a 14-year-old
+- **Card 2:** "Her coach said she looked wiped at practice. We checked her iron, started the strips, and retested three months later." | big: 14 → 31 | Mom of a 15-year-old cross-country runner
+- **Card 3:** "No metal taste, no upset stomach. The raspberry is honestly the only reason she keeps up with it." | big: ★★★★★ | Mom of a 13-year-old
+- **Card 4:** "I wish someone had told me to check this years ago. I went through the exact same thing as a teen." | big: finally | Mom of a 16-year-old vegetarian
+- **ACTION:** these are TEMPLATES ONLY. Replace with real seeded-mom quotes before going live. Keep the lab-number format on 1-2 (research's #1 most-believable format). Do NOT publish fabricated named reviews.
+
 ## S15 — Comparison table (RELOCATED here from earlier draft; blueprint S15 "Why IRYN Stands Out")
 - **Eyebrow:** WHY MOMS SWITCH TO IRYN
 - **Headline:** Why she'll actually take IRYN when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")
