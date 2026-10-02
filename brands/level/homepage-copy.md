@@ -185,6 +185,32 @@ Blueprint MUST-ADD: the "who this is NOT for" honesty block + clean label. Belie
 - **CTA:** Get your girl back →
 - **Note:** who-it's-NOT-for is the trust move; also kills is-it-enough/infusion objection. Clean-label claims all true to spec.
 
+## OFFICIAL SUPLIFUL FACTS (source of truth, 2026-10) + REQUIRED WARNINGS
+- Spec: Iron (ferric saccharate) 19 mg + Vitamin B9 (folate) 400 mcg; Pullulan, Cellulose, Lecithin, Raspberry Flavor, Monk Fruit, Citric Acid, MCT, Xanthan Gum, Steviol Glycosides. Raspberry. 30 strips. Max 1/day.
+- Made in: INDIA. NEVER claim "Made in USA."
+- Certs (official, all confirmed): Gluten Free · Vegetarian (NOT vegan) · Lactose Free · Allergen Free · Hormone Free · 100% Natural · Antibiotic Free · Alcohol Free · Cruelty Free.
+- Supplier-approved claim language: "help maintain normal energy levels and overall vitality," "nutrients involved in red blood cell formation," "normal red blood cell production and oxygen transport," "supports healthy cell formation and general wellness." (On-page ok; keep ADS off "energy" as the lead.)
+- Only the METAL TIN is customizable. Individual strip packets are generic black "ORAL STRIP / RASPBERRY FLAVOR" (not IRYN-branded) — reflect in product imagery.
+- **REQUIRED WARNINGS (must appear on page/footer — federal for iron):**
+  1. "Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately."
+  2. "Keep out of reach of children. Do not use if the safety seal is damaged or missing. Store in a cool, dry place. Do not exceed recommended dose."
+  3. "Pregnant or nursing mothers, children under 18, and individuals with a known medical condition should consult a physician before using this or any dietary supplement."
+  4. FDA disclaimer: "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease."
+- Tension to respect: official caution says under-18 consult a physician. Keep S14 "see a doctor / not for everyone" honesty; don't contradict it.
+
+## S20 — FAQs (replace collagen FAQs; new objections only, corrected to official facts)
+Subhead typo fix: "We're here to help" (not "hereto"). Pick 6-8.
+- **Do I need to get her a blood test first?** No. You can start her on IRYN today. If you ever want to see the change on paper, a simple ferritin check at the 3-month mark will show it. It's optional, not required.
+- **Is it safe?** It's a gentle 19 mg dose made for a girl's teen years, far below a treatment dose. It's gluten free, lactose free, allergen free, with no added hormones or antibiotics. Like all iron products, keep it out of reach of younger children.
+- **Is it vegetarian / gluten-free / dairy-free?** Yes, it's vegetarian, gluten free, lactose free and allergen free. The strip dissolves with no gelatin.
+- **Can she take it with her other vitamins or medications?** For most girls it's fine alongside a daily multivitamin. If she takes prescription medication or has a health condition, check with her doctor first.
+- **How long does one tin last?** One tin is 30 strips, a full month at one a day.
+- **What if she's already on iron from her doctor?** Follow her doctor's plan. IRYN is a gentle daily top-up for girls running low but not being treated for anemia. If she's on a prescribed dose, talk to her doctor before adding anything.
+- **Can a girl under 12, or an adult, take it?** It's made for girls 12 to 18. Under 12 should see a doctor for the right dose. An adult can take it, but it's dosed for her teen years.
+- **What if it doesn't work for her?** You're covered by our 70-day money-back guarantee. If it's not right for her, send it back for a full refund, even if the tin is open.
+- **When will it arrive?** Orders ship within [X business days] and arrive in [X to X days]. (FILL real fulfillment times.)
+- **CONFIRM before publishing:** shipping times. Everything else matches official facts. Do NOT claim third-party tested / GMP / Made in USA (unconfirmed/false).
+
 ## S18 — BUY BOX (full rebuild to v6 offer) ⚠️ biggest build
 Replace ALL collagen leftovers (10k reviews, Core Power/Pure Radiance, 92% Collagen stats, $39.95, skin bullets, 30-day guarantee, add-1-scoop). Build to offer.md v6.
 - **Review badge:** ★★★★★ Made for girls 12 to 18 (NO fake count pre-launch; swap to real count after orders).
