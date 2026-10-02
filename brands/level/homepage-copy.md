@@ -23,3 +23,25 @@
   - (NON-REPETITION RULE: don't repeat the same trust signal across adjacent sections. S1 already carries guarantee + cancel-anytime + "made for girls 12–18", so the hero trust line uses NEW signals. The 70-day guarantee gets its big un-repeated moment at the buy box. Repeat a signal at most once, never in neighboring sections.)
 - **IMAGE:** teen girl athlete spent on the sideline/track + lab slip overlay "Hemoglobin: normal ✓ · Ferritin: 9 ✗".
 - **Note:** no fake review count; "fading/keep up/full speed" ok, no "energy/boost" claim. "*" on 19 mg/folate claims → FDA disclaimer back panel.
+
+## S3 — Trust-badge bar (REPLACES fake media logos: MediCare/PharmaLife/etc.)
+We're pre-launch — NO press, NO fake "as seen in." Turn the logo strip into honest product-fact badges (icon + short label). None repeat S1/S2.
+- 🍓 Dissolvable raspberry strip — no pills
+- 🧬 19 mg iron + folate — made for her
+- 🤍 Gentle, stomach-friendly iron — no cramps
+- 💳 HSA/FSA eligible
+- 🇺🇸 Made in the USA* — CONFIRM with Supliful first; else swap for "Third-party tested*"
+
+## S4 — Comparison ("Why Choose / See the Benefits and Compare")
+- **Eyebrow:** WHY MOMS SWITCH TO IRYN
+- **Headline:** Why she'll actually take IRYN — when the pills just sit in the drawer. (alt: "Everything iron pills get wrong. Fixed.")
+- **Table (IRYN vs iron pills vs gummies):**
+  | | IRYN strip | Iron pills | Iron gummies |
+  |---|---|---|---|
+  | How she takes it | Dissolves on her tongue | Horse pill she won't swallow | Sugary chew |
+  | Made for her age | 19 mg for girls 12–18 | Adult dose | Often underdosed |
+  | Her stomach | Gentle — no cramps or nausea | Constipation + nausea (why girls quit) | Varies |
+  | Taste | Raspberry she likes | Metallic | Candy + added sugar |
+  | Folate included | ✓ Yes | Rarely | Rarely |
+  | A real plan | Test → top up → retest | Just a bottle | Just a bottle |
+- **Note:** last row (plan vs bottle) is our moat. Every row = a research pain point.
