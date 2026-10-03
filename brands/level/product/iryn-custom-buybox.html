@@ -27,7 +27,7 @@
   .iryn-gift .gp{font-size:13.5px;white-space:nowrap}
   .iryn-gift .gp s{color:#9A8E80;margin-right:6px}
   .iryn-gift .gp b{color:#A0203F;font-weight:800;letter-spacing:.03em}
-  #irynBB button.iryn-cta{width:100%;border:0;border-radius:999px;background:#A0203F !important;color:#fff !important;font-weight:800;font-size:18px;padding:18px 20px;cursor:pointer;margin-top:6px;display:block;text-align:center}
+  #irynBB button.iryn-cta{width:100%;border:0;border-radius:999px;background:#A0203F !important;color:#fff !important;font-weight:800;font-size:19px;padding:19px 20px;cursor:pointer;margin-top:6px;display:block;text-align:center;box-shadow:0 8px 20px rgba(160,32,63,.30);letter-spacing:.01em}
   #irynBB button.iryn-cta:hover{background:#7C1730 !important}
   .iryn-cta:disabled{opacity:.6;cursor:default}
   .iryn-trust{text-align:center;font-size:12.5px;color:#6A5F57;margin-top:11px}
@@ -81,6 +81,14 @@
   var BB=document.getElementById('irynBB'); if(!BB)return;
   // Selection is native (radio + label + CSS :has). JS only handles add-to-cart.
   var btn=document.getElementById('irynAdd');
+  // Reset the button if the shopper returns via back/forward (bfcache) so it never sticks on "Adding...".
+  window.addEventListener('pageshow',function(){btn.disabled=false;btn.textContent='Get her back to full speed';});
+  // On a reload, don't let a leftover #section hash jump the page to the bottom; send it to the top.
+  window.addEventListener('load',function(){
+    var nav=(window.performance&&performance.getEntriesByType)?performance.getEntriesByType('navigation')[0]:null;
+    var isReload=nav?nav.type==='reload':(window.performance&&performance.navigation&&performance.navigation.type===1);
+    if(isReload&&location.hash){try{history.replaceState(null,'',location.pathname+location.search);}catch(e){}window.scrollTo(0,0);}
+  });
   btn.addEventListener('click',function(){
     var chk=BB.querySelector('input[name="iryn-plan"]:checked');
     var opt=chk?chk.closest('.iryn-opt'):null;
