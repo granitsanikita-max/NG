@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Her Page + Retest Tracker — IRYN</title>
+<style>
+@font-face{font-family:'SG';src:url('file:///root/.fonts/SpaceGrotesk-Regular.ttf');font-weight:400;}
+@font-face{font-family:'SG';src:url('file:///root/.fonts/SpaceGrotesk-Medium.ttf');font-weight:500;}
+@font-face{font-family:'SG';src:url('file:///root/.fonts/SpaceGrotesk-Bold.ttf');font-weight:700;}
+:root{--garnet:#A0203F;--garnet-dk:#7C1730;--cream:#F4ECDF;--cream-2:#FBF6EE;--gold:#D8A24A;--gold-lt:#EFCB86;--ink:#2B2B2B;--muted:#6a5f57;}
+*{box-sizing:border-box;margin:0;padding:0;}
+html{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+body{font-family:'SG',sans-serif;color:var(--ink);background:var(--cream-2);font-size:11.5pt;line-height:1.6;}
+@page{size:Letter;margin:0;}
+.page{width:8.5in;min-height:11in;padding:0.9in 0.95in;position:relative;page-break-after:always;background:var(--cream-2);overflow:hidden;}
+.page:last-child{page-break-after:auto;}
+.cover{background:var(--garnet);color:var(--cream);display:flex;flex-direction:column;justify-content:space-between;padding:1.1in 0.95in;}
+.fe{border:2px solid var(--gold-lt);border-radius:9px;width:68px;height:68px;display:flex;flex-direction:column;align-items:center;justify-content:center;color:var(--gold-lt);}
+.fe .num{font-size:9pt;align-self:flex-start;margin:4px 0 -4px 9px;}.fe .sym{font-size:26pt;font-weight:700;line-height:1;}.fe .bars{font-size:12pt;letter-spacing:1px;margin-top:-2px;}
+.cover .kicker{letter-spacing:3px;text-transform:uppercase;font-size:10pt;color:var(--gold-lt);font-weight:500;}
+.cover h1{font-size:50pt;line-height:1;font-weight:700;margin:.2in 0 .18in;}
+.cover h1 em{font-style:normal;color:var(--gold-lt);}
+.cover .sub{font-size:14pt;color:#f3dfe4;max-width:5in;line-height:1.5;}
+.cover .foot{font-size:10.5pt;color:#e7c9d1;border-top:1px solid rgba(239,203,134,.4);padding-top:.16in;}
+.cover .wm{font-size:20pt;font-weight:700;}.cover .wm span{color:var(--gold-lt);}
+h2{font-size:23pt;color:var(--garnet);font-weight:700;line-height:1.08;margin:0 0 .12in;}
+h2 .no{color:var(--gold);font-size:12pt;display:block;letter-spacing:2px;text-transform:uppercase;margin-bottom:6px;font-weight:500;}
+h3{font-size:13.5pt;color:var(--garnet-dk);font-weight:700;margin:.2in 0 .06in;}
+p{margin:0 0 .12in;}
+.lead{font-size:14pt;color:#4a4039;line-height:1.5;margin-bottom:.16in;}
+strong{color:var(--garnet-dk);font-weight:700;}
+.rule{height:3px;width:54px;background:var(--gold);border-radius:3px;margin:.1in 0 .18in;}
+.card{background:#fff;border:1px solid #ecdfce;border-radius:14px;padding:.26in .3in;margin:.16in 0;}
+.card.garnet{background:var(--garnet);color:var(--cream);border:none;}.card.garnet h3{color:var(--gold-lt);}.card.garnet strong{color:#fff;}
+.card.cream{background:var(--cream);border:1px solid #e7d9c4;}
+.tag{position:absolute;top:.5in;right:.95in;font-size:8.5pt;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:500;}
+.pagenum{position:absolute;bottom:.5in;right:.95in;font-size:9pt;color:var(--muted);}
+.fill{display:inline-block;border-bottom:2px solid var(--garnet);min-width:1.6in;height:1.1em;}
+.bignum{display:flex;gap:.3in;margin:.16in 0;}
+.bignum .box{flex:1;background:#fff;border:1px solid #ecdfce;border-radius:12px;padding:.22in;text-align:center;}
+.bignum .box .lab{font-size:9.5pt;color:var(--muted);text-transform:uppercase;letter-spacing:1px;}
+.bignum .box .blank{font-size:26pt;font-weight:700;color:var(--garnet);border-bottom:2px solid #e2d4c0;margin:.1in .3in 0;min-height:40px;}
+.grid{display:grid;grid-template-columns:repeat(10,1fr);gap:7px;margin:.1in 0 .18in;}
+.grid .b{aspect-ratio:1/1;border:2px solid var(--garnet);border-radius:6px;}
+.month{font-size:11pt;font-weight:700;color:var(--garnet-dk);margin:.14in 0 .04in;letter-spacing:1px;}
+ul.clean{list-style:none;margin:.06in 0 .1in;}
+ul.clean li{position:relative;padding-left:.32in;margin-bottom:.08in;}
+ul.clean li:before{content:"";position:absolute;left:0;top:.09in;width:11px;height:11px;border-radius:50%;background:var(--gold);}
+.feelrow{background:#fff;border:1px solid #ecdfce;border-radius:12px;padding:.2in .24in;margin-bottom:.14in;}
+.feelrow .wk{font-size:12pt;font-weight:700;color:var(--garnet);}
+.scale{display:flex;gap:.5in;margin-top:.06in;font-size:10.5pt;color:var(--muted);align-items:center;}
+.dot{width:16px;height:16px;border:2px solid var(--garnet);border-radius:50%;display:inline-block;margin-right:5px;vertical-align:middle;}
+.writeline{border-bottom:1.5px solid #d9cab4;height:1.5em;margin-top:.14in;}
+.disclaim{font-size:8.5pt;color:var(--muted);line-height:1.45;border-top:1px solid #e3d6c3;padding-top:.14in;margin-top:.2in;}
+</style>
+</head>
+<body>
+
+<section class="page cover">
+  <div class="fe"><span class="num">26</span><span class="sym">Fe</span><span class="bars">▪▫▪▪</span></div>
+  <div>
+    <div class="kicker">This part isn't for your mum</div>
+    <h1>This one's <em>yours.</em></h1>
+    <p class="sub">Your number, your streak, your retest. A page to track your iron, so you can actually see it change instead of taking anyone's word for it.</p>
+  </div>
+  <div class="foot"><div class="wm">ir<span>y</span>n</div><div>iron for her years · know your number</div></div>
+</section>
+
+<section class="page">
+  <span class="tag">Read this once</span>
+  <h2><span class="no">Straight up</span>You're not lazy, and you're not a little kid.</h2>
+  <div class="rule"></div>
+  <p class="lead">If you've been dragging, falling asleep after practice, cold all the time, foggy in class, that's not a character flaw and it's not you being dramatic. Sometimes it's just low iron, and low iron is a number you can fix.</p>
+  <p>Here's the deal, no lecture. Your body stores iron like a savings account. Periods, growing, and training spend it. A normal blood test checks the cash in your pocket, not the savings. So you can look "fine" on paper and still be running low. That's probably what's been going on.</p>
+  <div class="card garnet">
+    <h3>The whole job</h3>
+    <p style="margin-bottom:0;font-size:13pt;">One strip. Once a day. That's it. It melts on your tongue, tastes like raspberry, no pill to choke down, nothing to carry. You're not going to feel a lightning bolt tomorrow. It builds up quietly over a couple of months, and then one day you notice you're just... not wiped out anymore.</p>
+  </div>
+  <p>This page is so you can prove it to yourself. Write your starting number, tick off the days, and check the number again in a couple of months. Watch it climb. That's the point.</p>
+  <span class="pagenum">2</span>
+</section>
+
+<section class="page">
+  <span class="tag">Day one</span>
+  <h2><span class="no">Your starting line</span>Write your number down before you start.</h2>
+  <div class="rule"></div>
+  <p class="lead">If you got a ferritin test, put the number here. If you haven't yet, that's okay, start the streak and add it when you get it. This is your "before."</p>
+
+  <div class="bignum">
+    <div class="box"><div class="lab">My ferritin now</div><div class="blank"></div><div class="lab" style="margin-top:6px;">ng/mL</div></div>
+    <div class="box"><div class="lab">Date I started</div><div class="blank"></div><div class="lab" style="margin-top:6px;">day / month</div></div>
+  </div>
+
+  <h3>Why one a day actually matters</h3>
+  <ul class="clean">
+    <li><strong>Every day beats a big day.</strong> Iron builds up slowly, so a strip most days does way more than doubling up now and then.</li>
+    <li><strong>Take it with water or juice.</strong> A splash of orange juice helps it absorb. Skip milk, tea or coffee right after, they block it. Wait about an hour.</li>
+    <li><strong>Pick a time you won't forget.</strong> Morning, before practice, whenever. Attach it to something you already do every day.</li>
+  </ul>
+
+  <div class="card cream">
+    <h3>One honest thing</h3>
+    <p style="margin-bottom:0;">This isn't about being perfect. You'll miss a day. Fine. Just get back to it. The streak below is a tool, not a test you can fail.</p>
+  </div>
+  <span class="pagenum">3</span>
+</section>
+
+<section class="page">
+  <span class="tag">The streak</span>
+  <h2><span class="no">90 days</span>One box a day. Watch them fill up.</h2>
+  <div class="rule"></div>
+  <p class="lead">Tick a box every day you take your strip. Three tins, about 90 days, is what gets you to a retest that actually means something.</p>
+
+  <div class="month">MONTH 1</div>
+  <div class="grid">
+    <div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div>
+    <div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div>
+    <div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div>
+  </div>
+  <div class="month">MONTH 2</div>
+  <div class="grid">
+    <div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div>
+    <div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div>
+    <div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div>
+  </div>
+  <div class="month">MONTH 3</div>
+  <div class="grid">
+    <div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div>
+    <div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div>
+    <div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div><div class="b"></div>
+  </div>
+  <p style="text-align:center;color:var(--garnet-dk);font-weight:700;margin-top:.1in;">90 boxes. 90 days. Then you retest.</p>
+  <span class="pagenum">4</span>
+</section>
+
+<section class="page">
+  <span class="tag">Check in</span>
+  <h2><span class="no">How you feel</span>Quick gut-check, every few weeks.</h2>
+  <div class="rule"></div>
+  <p class="lead">Don't overthink it. Just circle where you're at. It's useful to look back on when you're deciding if it's working.</p>
+
+  <div class="feelrow">
+    <div class="wk">Week 4</div>
+    <div class="scale"><span><span class="dot"></span>Still wiped</span><span><span class="dot"></span>A bit better</span><span><span class="dot"></span>Noticeably better</span></div>
+    <div class="writeline"></div>
+  </div>
+  <div class="feelrow">
+    <div class="wk">Week 8</div>
+    <div class="scale"><span><span class="dot"></span>Still wiped</span><span><span class="dot"></span>A bit better</span><span><span class="dot"></span>Noticeably better</span></div>
+    <div class="writeline"></div>
+  </div>
+  <div class="feelrow">
+    <div class="wk">Week 12</div>
+    <div class="scale"><span><span class="dot"></span>Still wiped</span><span><span class="dot"></span>A bit better</span><span><span class="dot"></span>Noticeably better</span></div>
+    <div class="writeline"></div>
+  </div>
+
+  <div class="card cream">
+    <h3>Heads up</h3>
+    <p style="margin-bottom:0;">A lot of the time the number climbs <strong>before</strong> the feeling does. So if week 4 still feels meh, that's normal, don't quit. The retest is the real scoreboard.</p>
+  </div>
+  <span class="pagenum">5</span>
+</section>
+
+<section class="page">
+  <span class="tag">The payoff</span>
+  <h2><span class="no">Retest day</span>Check the number again. This is the proof.</h2>
+  <div class="rule"></div>
+  <p class="lead">Around the 8 to 12 week mark, get your ferritin checked again. Put the new number next to your old one and see the gap.</p>
+
+  <div class="bignum">
+    <div class="box"><div class="lab">Before</div><div class="blank"></div><div class="lab" style="margin-top:6px;">ng/mL</div></div>
+    <div class="box" style="background:var(--garnet);color:#fff;border:none;"><div class="lab" style="color:var(--gold-lt);">After</div><div class="blank" style="color:#fff;border-color:rgba(255,255,255,.4);"></div><div class="lab" style="margin-top:6px;color:var(--gold-lt);">ng/mL</div></div>
+  </div>
+  <p style="text-align:center;font-size:13pt;color:var(--garnet-dk);font-weight:700;">That difference? That's you, showing up most days, for three months.</p>
+
+  <div class="card">
+    <h3>What the new number tells you</h3>
+    <ul class="clean" style="margin-bottom:0;">
+      <li>Climbing and you feel better → keep going, recheck down the line.</li>
+      <li>Climbing but slowly → normal, iron takes time. Stay with it.</li>
+      <li>Not moving, or you still feel rough → tell your mum, and loop in your doctor. Something else might be going on, and that's worth checking.</li>
+    </ul>
+  </div>
+
+  <div class="card garnet"><p style="margin-bottom:0;font-size:13pt;">You didn't need a personality transplant or more sleep you don't have time for. You needed a number brought back up. Now you know how to do it.</p></div>
+  <span class="pagenum">6</span>
+</section>
+
+<section class="page">
+  <span class="tag">Keep it simple</span>
+  <h2><span class="no">The rules, short</span>Everything on one page.</h2>
+  <div class="rule"></div>
+  <div class="card"><h3>Do</h3><ul class="clean" style="margin-bottom:0;"><li>One strip a day, same-ish time.</li><li>Take it with water or a little juice.</li><li>Tick your box. Get back on if you miss one.</li><li>Retest around 8 to 12 weeks.</li></ul></div>
+  <div class="card"><h3>Skip right after your strip</h3><ul class="clean x" style="margin-bottom:0;"><li>Milk and dairy</li><li>Tea and coffee</li><li>(Wait about an hour, then whatever you want.)</li></ul></div>
+  <div class="card cream"><h3>Don't</h3><p style="margin-bottom:0;">Don't double up to "catch up," and don't take it on top of another iron supplement. More iron isn't better, and the daily amount is already set for you. If anything feels off, tell your mum.</p></div>
+
+  <p class="disclaim">This tracker is for personal use and encouragement, not medical advice. IRYN is a gentle daily iron supplement for girls aged 12 to 18. If your ferritin is very low, or you've been told you're anemic, that needs a doctor's dose, not a daily strip, so talk to your doctor. These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Keep iron supplements away from young children.</p>
+  <div style="text-align:center;margin-top:.2in;"><span style="font-size:16pt;font-weight:700;color:var(--garnet);">ir<span style="color:var(--gold);">y</span>n</span></div>
+  <span class="pagenum">7</span>
+</section>
+
+</body>
+</html>

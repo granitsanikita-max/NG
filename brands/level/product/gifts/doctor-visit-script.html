@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Doctor-Visit Script — IRYN</title>
+<style>
+@font-face{font-family:'SG';src:url('file:///root/.fonts/SpaceGrotesk-Regular.ttf');font-weight:400;}
+@font-face{font-family:'SG';src:url('file:///root/.fonts/SpaceGrotesk-Medium.ttf');font-weight:500;}
+@font-face{font-family:'SG';src:url('file:///root/.fonts/SpaceGrotesk-Bold.ttf');font-weight:700;}
+:root{--garnet:#A0203F;--garnet-dk:#7C1730;--cream:#F4ECDF;--cream-2:#FBF6EE;--gold:#D8A24A;--gold-lt:#EFCB86;--ink:#2B2B2B;--muted:#6a5f57;}
+*{box-sizing:border-box;margin:0;padding:0;}
+html{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+body{font-family:'SG',sans-serif;color:var(--ink);background:var(--cream-2);font-size:11.5pt;line-height:1.6;}
+@page{size:Letter;margin:0;}
+.page{width:8.5in;min-height:11in;padding:0.9in 0.95in;position:relative;page-break-after:always;background:var(--cream-2);overflow:hidden;}
+.page:last-child{page-break-after:auto;}
+.cover{background:var(--garnet);color:var(--cream);display:flex;flex-direction:column;justify-content:space-between;padding:1.1in 0.95in;}
+.fe{border:2px solid var(--gold-lt);border-radius:9px;width:68px;height:68px;display:flex;flex-direction:column;align-items:center;justify-content:center;color:var(--gold-lt);}
+.fe .num{font-size:9pt;align-self:flex-start;margin:4px 0 -4px 9px;}
+.fe .sym{font-size:26pt;font-weight:700;line-height:1;}
+.fe .bars{font-size:12pt;letter-spacing:1px;margin-top:-2px;}
+.cover .kicker{letter-spacing:3px;text-transform:uppercase;font-size:10pt;color:var(--gold-lt);font-weight:500;}
+.cover h1{font-size:42pt;line-height:1.03;font-weight:700;margin:.2in 0 .18in;}
+.cover h1 em{font-style:normal;color:var(--gold-lt);}
+.cover .sub{font-size:14pt;color:#f3dfe4;max-width:5.3in;line-height:1.5;}
+.cover .foot{font-size:10.5pt;color:#e7c9d1;border-top:1px solid rgba(239,203,134,.4);padding-top:.16in;}
+.cover .wm{font-size:20pt;font-weight:700;}.cover .wm span{color:var(--gold-lt);}
+h2{font-size:22pt;color:var(--garnet);font-weight:700;line-height:1.08;margin:0 0 .12in;}
+h2 .no{color:var(--gold);font-size:12pt;display:block;letter-spacing:2px;text-transform:uppercase;margin-bottom:6px;font-weight:500;}
+h3{font-size:13.5pt;color:var(--garnet-dk);font-weight:700;margin:.2in 0 .06in;}
+p{margin:0 0 .12in;}
+.lead{font-size:13pt;color:#4a4039;line-height:1.55;margin-bottom:.16in;}
+strong{color:var(--garnet-dk);font-weight:700;}
+.rule{height:3px;width:54px;background:var(--gold);border-radius:3px;margin:.1in 0 .18in;}
+.card{background:#fff;border:1px solid #ecdfce;border-radius:14px;padding:.26in .3in;margin:.16in 0;}
+.card.garnet{background:var(--garnet);color:var(--cream);border:none;}
+.card.garnet h3{color:var(--gold-lt);}.card.garnet strong{color:#fff;}
+.card.cream{background:var(--cream);border:1px solid #e7d9c4;}
+.say{background:var(--cream);border-left:5px solid var(--gold);border-radius:8px;padding:.22in .28in;margin:.14in 0;}
+.say .role{font-size:9pt;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:6px;}
+.say .line{font-size:14pt;color:var(--garnet-dk);font-weight:500;line-height:1.4;font-style:italic;}
+.tag{position:absolute;top:.5in;right:.95in;font-size:8.5pt;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:500;}
+.pagenum{position:absolute;bottom:.5in;right:.95in;font-size:9pt;color:var(--muted);}
+ul.clean{list-style:none;margin:.06in 0 .14in;}
+ul.clean li{position:relative;padding-left:.32in;margin-bottom:.09in;}
+ul.clean li:before{content:"";position:absolute;left:0;top:.09in;width:11px;height:11px;border-radius:50%;background:var(--gold);}
+.word{font-size:40pt;font-weight:700;color:var(--garnet);letter-spacing:-.5px;}
+.scenario{display:flex;gap:.22in;margin-bottom:.16in;align-items:flex-start;}
+.scenario .tagn{flex:none;width:44px;height:44px;border-radius:12px;background:var(--garnet);color:var(--cream);font-weight:700;font-size:11pt;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1;}
+.check{list-style:none;}
+.check li{position:relative;padding-left:.4in;margin-bottom:.12in;font-size:12pt;}
+.check li:before{content:"";position:absolute;left:0;top:-1px;width:20px;height:20px;border:2px solid var(--garnet);border-radius:5px;}
+.pocket{border:2px dashed var(--garnet);border-radius:14px;padding:.3in;background:#fff;}
+.pocket h3{margin-top:0;}
+.scissors{font-size:10pt;color:var(--muted);letter-spacing:4px;margin-bottom:.1in;}
+.disclaim{font-size:8.5pt;color:var(--muted);line-height:1.45;border-top:1px solid #e3d6c3;padding-top:.14in;margin-top:.2in;}
+</style>
+</head>
+<body>
+
+<section class="page cover">
+  <div class="fe"><span class="num">26</span><span class="sym">Fe</span><span class="bars">▪▫▪▪</span></div>
+  <div>
+    <div class="kicker">The IRYN Guide · take this to the appointment</div>
+    <h1>The Doctor-Visit <em>Script.</em></h1>
+    <p class="sub">The exact words to get her iron stores checked, and the calm lines for when you get the shrug. Two minutes of prep. One number back.</p>
+  </div>
+  <div class="foot"><div class="wm">ir<span>y</span>n</div><div>iron for her years · know her number</div></div>
+</section>
+
+<section class="page">
+  <span class="tag">Start here</span>
+  <h2><span class="no">The 20-second version</span>If you only read one page, read this.</h2>
+  <div class="rule"></div>
+  <p class="lead">A standard blood panel checks hemoglobin, the iron in her blood today. It usually does not check her storage iron unless you ask for it by name. So you ask for it by name. Here's the whole ask:</p>
+  <div class="say"><div class="role">You say</div><div class="line">"I'd like her to have a serum ferritin test, please. I know her blood count can look normal while her iron stores are low, and I want to see the actual number."</div></div>
+  <p>That's it. You're not demanding, you're not arguing, you're asking for one specific, reasonable test. Most of the time, that sentence is all it takes.</p>
+  <div class="card cream">
+    <h3>The one word that does the work</h3>
+    <div class="word">ferritin</div>
+    <p style="margin-bottom:0;margin-top:.1in;">Not "an iron test" (too vague, they'll run a blood count). Not "is she anemic" (that's a different question). The storage number is <strong>serum ferritin.</strong> Say that word and you've already done the hard part.</p>
+  </div>
+  <p class="say" style="border-color:var(--garnet);"><strong>Bonus line if she has heavy periods or plays a sport:</strong> "She has heavy periods and trains most days, so I'd especially like to know her ferritin, not just her blood count."</p>
+  <span class="pagenum">2</span>
+</section>
+
+<section class="page">
+  <span class="tag">The details</span>
+  <h2><span class="no">Exactly what to ask for</span>Get the right test, not just "a blood test."</h2>
+  <div class="rule"></div>
+  <p class="lead">If you want to be precise (some parents like to be), here's what to request and why each part matters.</p>
+  <ul class="clean">
+    <li><strong>Serum ferritin</strong> — the main event. This is her iron storage number. Without it, you're flying blind.</li>
+    <li><strong>A full blood count (CBC)</strong> — fine to include. It shows hemoglobin and whether she's anemic. Just know it is <em>not</em> the ferritin number on its own.</li>
+    <li><strong>Optional: CRP or inflammation marker</strong> — ferritin can read falsely high if she's fighting an infection. If she's unwell that week, it's reasonable to recheck when she's better, or test this alongside.</li>
+  </ul>
+  <div class="card garnet">
+    <h3>Why "iron test" isn't enough</h3>
+    <p style="margin-bottom:0;">Ask vaguely for "an iron test" and you'll often get a blood count that measures the cash in her pocket, not the savings account. That report comes back "normal," everyone relaxes, and the storage number, the one that was actually low, was never looked at. The word <strong>ferritin</strong> is what closes that gap.</p>
+  </div>
+  <p>You can even write it on a sticky note and hand it over: <strong>"Please check: serum ferritin."</strong> No one will think less of you. Clinics see this every day.</p>
+  <span class="pagenum">3</span>
+</section>
+
+<section class="page">
+  <span class="tag">If you get pushback</span>
+  <h2><span class="no">The shrug, handled</span>Calm words for the three things you might hear.</h2>
+  <div class="rule"></div>
+  <p class="lead">You are not anti-doctor. You're anti-shrug. These lines keep it respectful and still get you the number. Say them warmly, you're on the same team.</p>
+
+  <div class="card">
+    <p style="color:var(--muted);font-style:italic;margin-bottom:.06in;">If they say: "Her bloodwork is normal."</p>
+    <div class="say" style="margin:0;"><div class="role">You say</div><div class="line">"I understand her blood count is normal. That checks hemoglobin, not her iron stores. Can we add a ferritin so we can see the storage number too?"</div></div>
+  </div>
+  <div class="card">
+    <p style="color:var(--muted);font-style:italic;margin-bottom:.06in;">If they say: "She's just a teenager / it's her age."</p>
+    <div class="say" style="margin:0;"><div class="role">You say</div><div class="line">"Maybe. But she bleeds every month and she's still growing, and that's exactly when iron runs low. I'd feel better knowing her number before we call it her age."</div></div>
+  </div>
+  <div class="card">
+    <p style="color:var(--muted);font-style:italic;margin-bottom:.06in;">If they say: "We don't usually test that."</p>
+    <div class="say" style="margin:0;"><div class="line" style="font-size:13.5pt;">"I know it's not routine yet, but the newer guidance leans toward checking a girl's iron by around 14. I'd like to do that one check now. If it's fine, we'll both be reassured."</div></div>
+  </div>
+  <p class="card cream" style="margin-top:.16in;">If a clinic still won't order it, you can usually request a direct serum ferritin test through a lab yourself for a modest fee. You don't have to escalate or argue. You have options.</p>
+  <span class="pagenum">4</span>
+</section>
+
+<section class="page">
+  <span class="tag">The results</span>
+  <h2><span class="no">Reading it together</span>You got the number. Now what?</h2>
+  <div class="rule"></div>
+  <p class="lead">Write her ferritin value down (put it on Her Page). Then use this as a plain-English map to talk through with her doctor. These are guides for a conversation, never a diagnosis you make alone.</p>
+
+  <div class="scenario"><div class="tagn">under<br>~15</div><div><h3 style="margin-top:0;">Very low, or anemic</h3><p style="margin-bottom:0;">This is a doctor's call, and usually a doctor's dose, which is much higher than a daily top-up. Do not try to fix this with a gentle supplement. Ask her doctor about treatment and a recheck plan. This is the honest "see them, not us" zone.</p></div></div>
+  <div class="scenario"><div class="tagn">~15<br>to 30</div><div><h3 style="margin-top:0;">Low-normal, "fine on paper"</h3><p style="margin-bottom:0;">The classic gap. A gentle daily top-up and a retest around 8 to 12 weeks fits here. Write this number down as her "before." This is where a daily strip does its best work.</p></div></div>
+  <div class="scenario"><div class="tagn">~30<br>to 50+</div><div><h3 style="margin-top:0;">Okay (but athletes aim higher)</h3><p style="margin-bottom:0;">Comfortable for many girls. If she trains hard or has heavy periods, many clinicians like to see her nearer 50. Keep an eye on symptoms and recheck if they return.</p></div></div>
+
+  <div class="card garnet"><h3>One question to ask the doctor out loud</h3><p style="margin-bottom:0;">"What's her actual ferritin number, and what would you want it to be for a girl her age who has periods and plays sport?" That one question turns a vague "she's fine" into a real target you can work toward.</p></div>
+  <span class="pagenum">5</span>
+</section>
+
+<section class="page">
+  <span class="tag">Cut this out</span>
+  <h2><span class="no">The pocket card</span>Cut along the line. Keep it in your bag.</h2>
+  <div class="rule"></div>
+  <div class="scissors">✂ ─────────────────────────────────────────────</div>
+  <div class="pocket">
+    <h3>At the appointment, say:</h3>
+    <p style="font-size:13pt;color:var(--garnet-dk);font-weight:500;font-style:italic;">"I'd like a serum ferritin test for her. Her blood count can look normal while her iron stores are low, and I want to see the actual number."</p>
+    <h3>If they push back:</h3>
+    <ul class="clean" style="margin-bottom:.1in;">
+      <li>"Normal bloodwork" → "That's hemoglobin, not her stores. Can we add ferritin?"</li>
+      <li>"She's just a teenager" → "She bleeds and she's growing. I'd like her number first."</li>
+      <li>"We don't test that" → "Newer guidance says check by 14. One check now."</li>
+    </ul>
+    <h3>Write down:</h3>
+    <p style="margin-bottom:0;font-size:12pt;">Her ferritin number: ________  ng/mL &nbsp;·&nbsp; Date: __________ &nbsp;·&nbsp; Retest on: __________</p>
+  </div>
+  <div class="scissors" style="margin-top:.1in;">✂ ─────────────────────────────────────────────</div>
+
+  <h3 style="margin-top:.3in;">Before-you-go checklist</h3>
+  <ul class="check">
+    <li>I know the word to say: <strong>serum ferritin</strong></li>
+    <li>I have her symptoms in mind (tired, pale, fading at sport, heavy periods)</li>
+    <li>I'm ready to write the number down</li>
+    <li>I know what each result range roughly means</li>
+  </ul>
+
+  <p class="disclaim">This script is general guidance to help you have a conversation with a qualified clinician. It is not medical advice and not a diagnosis. Reference ranges and recommendations vary between labs and doctors; always follow your clinician's guidance for your daughter. These statements have not been evaluated by the FDA. IRYN is a dietary supplement and is not intended to diagnose, treat, cure, or prevent any disease.</p>
+  <div style="text-align:center;margin-top:.2in;"><span style="font-size:16pt;font-weight:700;color:var(--garnet);">ir<span style="color:var(--gold);">y</span>n</span></div>
+  <span class="pagenum">6</span>
+</section>
+
+</body>
+</html>

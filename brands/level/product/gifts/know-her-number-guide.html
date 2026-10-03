@@ -1,0 +1,365 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Know Her Number — The IRYN Guide</title>
+<style>
+@font-face{font-family:'SG';src:url('file:///root/.fonts/SpaceGrotesk-Regular.ttf');font-weight:400;}
+@font-face{font-family:'SG';src:url('file:///root/.fonts/SpaceGrotesk-Medium.ttf');font-weight:500;}
+@font-face{font-family:'SG';src:url('file:///root/.fonts/SpaceGrotesk-Bold.ttf');font-weight:700;}
+:root{
+  --garnet:#A0203F; --garnet-dk:#7C1730; --cream:#F4ECDF; --cream-2:#FBF6EE;
+  --gold:#D8A24A; --gold-lt:#EFCB86; --ink:#2B2B2B; --muted:#6a5f57;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+html{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+body{font-family:'SG',sans-serif;color:var(--ink);background:var(--cream-2);font-size:11.5pt;line-height:1.62;}
+@page{size:Letter;margin:0;}
+.page{width:8.5in;min-height:11in;padding:0.9in 0.95in;position:relative;page-break-after:always;background:var(--cream-2);overflow:hidden;}
+.page:last-child{page-break-after:auto;}
+.pad0{padding:0;}
+
+/* Cover */
+.cover{background:var(--garnet);color:var(--cream);display:flex;flex-direction:column;justify-content:space-between;padding:1.1in 0.95in;}
+.cover .topmark{display:flex;align-items:center;gap:.5rem;}
+.fe{border:2px solid var(--gold-lt);border-radius:9px;width:68px;height:68px;display:flex;flex-direction:column;align-items:center;justify-content:center;color:var(--gold-lt);}
+.fe .num{font-size:9pt;align-self:flex-start;margin:4px 0 -4px 9px;}
+.fe .sym{font-size:26pt;font-weight:700;line-height:1;}
+.fe .bars{font-size:12pt;letter-spacing:1px;margin-top:-2px;}
+.cover .kicker{letter-spacing:3px;text-transform:uppercase;font-size:10pt;color:var(--gold-lt);font-weight:500;}
+.cover h1{font-size:46pt;line-height:1.02;font-weight:700;margin:.2in 0 .18in;}
+.cover h1 em{font-style:normal;color:var(--gold-lt);}
+.cover .sub{font-size:14pt;color:#f3dfe4;max-width:5.3in;line-height:1.5;}
+.cover .foot{font-size:10.5pt;color:#e7c9d1;border-top:1px solid rgba(239,203,134,.4);padding-top:.16in;}
+.cover .wm{font-size:20pt;font-weight:700;letter-spacing:-.5px;}
+.cover .wm span{color:var(--gold-lt);}
+
+/* Typographic system */
+h2{font-size:23pt;color:var(--garnet);font-weight:700;line-height:1.08;margin:0 0 .12in;}
+h2 .no{color:var(--gold);font-size:13pt;display:block;letter-spacing:2px;text-transform:uppercase;margin-bottom:6px;font-weight:500;}
+h3{font-size:14pt;color:var(--garnet-dk);font-weight:700;margin:.22in 0 .06in;}
+p{margin:0 0 .12in;}
+.lead{font-size:13pt;color:#4a4039;line-height:1.55;margin-bottom:.16in;}
+strong{color:var(--garnet-dk);font-weight:700;}
+.em-gold{color:var(--gold);font-weight:700;}
+a{color:var(--garnet);}
+.rule{height:3px;width:54px;background:var(--gold);border-radius:3px;margin:.1in 0 .18in;}
+
+.card{background:#fff;border:1px solid #ecdfce;border-radius:14px;padding:.26in .3in;margin:.16in 0;box-shadow:0 1px 0 #efe4d4;}
+.card.garnet{background:var(--garnet);color:var(--cream);border:none;}
+.card.garnet h3{color:var(--gold-lt);}
+.card.garnet strong{color:#fff;}
+.card.cream{background:var(--cream);border:1px solid #e7d9c4;}
+.callout{background:var(--cream);border-left:5px solid var(--gold);border-radius:8px;padding:.2in .26in;margin:.16in 0;font-size:11pt;}
+.quote{font-size:14pt;color:var(--garnet-dk);font-style:italic;line-height:1.45;border-left:4px solid var(--gold);padding-left:.22in;margin:.18in 0;}
+
+.two{display:flex;gap:.28in;margin:.16in 0;}
+.two>div{flex:1;}
+.statbox{background:#fff;border:1px solid #ecdfce;border-radius:12px;padding:.2in;text-align:center;}
+.statbox .big{font-size:30pt;font-weight:700;color:var(--garnet);line-height:1;}
+.statbox .lbl{font-size:9.5pt;color:var(--muted);margin-top:6px;line-height:1.3;}
+
+ul.clean{list-style:none;margin:.06in 0 .14in;}
+ul.clean li{position:relative;padding-left:.32in;margin-bottom:.09in;}
+ul.clean li:before{content:"";position:absolute;left:0;top:.09in;width:11px;height:11px;border-radius:50%;background:var(--gold);}
+ul.x li:before{background:var(--garnet);}
+
+.ladder{width:100%;border-collapse:collapse;margin:.14in 0;font-size:10.5pt;}
+.ladder th{background:var(--garnet);color:var(--cream);text-align:left;padding:.12in .16in;font-weight:500;}
+.ladder td{padding:.12in .16in;border-bottom:1px solid #e9dcc9;}
+.ladder tr:nth-child(even) td{background:#fff;}
+
+.imgwrap{margin:.18in 0;border-radius:14px;overflow:hidden;border:1px solid #e7d9c4;}
+.imgwrap img{width:100%;display:block;}
+.imgcap{font-size:9pt;color:var(--muted);text-align:center;margin-top:6px;}
+
+.steps{counter-reset:s;margin:.1in 0;}
+.step{display:flex;gap:.22in;margin-bottom:.16in;align-items:flex-start;}
+.step .n{counter-increment:s;flex:none;width:40px;height:40px;border-radius:50%;background:var(--garnet);color:var(--cream);font-weight:700;font-size:16pt;display:flex;align-items:center;justify-content:center;}
+.step .n:before{content:counter(s);}
+.step .b h3{margin-top:0;}
+
+.pagenum{position:absolute;bottom:.5in;right:.95in;font-size:9pt;color:var(--muted);}
+.tag{position:absolute;top:.5in;right:.95in;font-size:8.5pt;letter-spacing:2px;text-transform:uppercase;color:var(--gold);font-weight:500;}
+.faq q{display:block;font-weight:700;color:var(--garnet-dk);font-size:12pt;margin:.18in 0 .04in;}
+.faq q:before{content:"";}
+.src{font-size:9pt;color:var(--muted);line-height:1.5;}
+.src b{color:var(--garnet-dk);}
+.disclaim{font-size:8.5pt;color:var(--muted);line-height:1.45;border-top:1px solid #e3d6c3;padding-top:.14in;margin-top:.2in;}
+</style>
+</head>
+<body>
+
+<!-- COVER -->
+<section class="page cover">
+  <div class="topmark">
+    <div class="fe"><span class="num">26</span><span class="sym">Fe</span><span class="bars">▪▫▪▪</span></div>
+  </div>
+  <div>
+    <div class="kicker">The IRYN Guide · for her years</div>
+    <h1>Know <em>her</em><br>number.</h1>
+    <p class="sub">The one iron number her blood test probably skipped, what it means, and the calm, honest plan to bring it back up. For the mum who's done guessing.</p>
+  </div>
+  <div class="foot">
+    <div class="wm">ir<span>y</span>n</div>
+    <div>gentle daily iron for teen girls · 19 mg · one a day</div>
+  </div>
+</section>
+
+<!-- LETTER -->
+<section class="page">
+  <span class="tag">A quick note first</span>
+  <h2>You already knew something was off.</h2>
+  <div class="rule"></div>
+  <p class="lead">You watched her drag through practice, fall asleep over homework, go pale and snappy, and you were told she's "just a teenager" or her "bloodwork was normal." You believed your eyes over the printout. You were right to.</p>
+  <p>This guide is not here to scare you. There is already enough of that online. It's here to hand you one thing the system kept skipping: <strong>her number.</strong> Once you know it, the guessing stops. You stop wondering if it's attitude or iron. You stop feeling behind. You get a plan you can actually follow, and a way to check, in black and white, that it worked.</p>
+  <p>We'll keep it plain. No "big pharma" talk, no fear, no spinach lectures. Just what's real, where it comes from, and what to do. Every number in here is from published medical research, and we list the studies at the back so you can check us.</p>
+  <div class="callout"><strong>One promise up front:</strong> if her iron is too low for a gentle daily supplement to fix, this guide tells you so, and tells you to see her doctor instead of us. That line is the whole point. We'd rather keep your trust than make a sale we shouldn't.</div>
+  <p>Read it in ten minutes. Keep it for the fridge. Then use the two tools that came with it: the <strong>Doctor-Visit Script</strong> (the exact words to get her number checked) and <strong>Her Page + Retest Tracker</strong> (so she'll actually take it, and you can watch the number climb).</p>
+  <p style="margin-top:.2in;color:var(--garnet-dk);font-weight:700;">Let's find her number.</p>
+  <span class="pagenum">2</span>
+</section>
+
+<!-- PART 1 -->
+<section class="page">
+  <span class="tag">Part one</span>
+  <h2><span class="no">The one number</span>Her blood test checked the wrong thing.</h2>
+  <div class="rule"></div>
+  <p class="lead">A standard blood test measures <strong>hemoglobin</strong>, the iron in her blood right now. It almost never measures <strong>ferritin</strong>, the iron she keeps in storage. Those are two different numbers, and the gap between them is where low iron hides.</p>
+
+  <div class="card cream">
+    <h3>Think of it like money.</h3>
+    <p style="margin-bottom:0;">Hemoglobin is the <strong>cash in her pocket</strong> today. Ferritin is her <strong>savings account</strong>. She can have cash on her and look completely fine, while the savings account quietly runs to zero. A normal blood count checks the cash. It was never designed to check the savings. That's the ferritin gap.</p>
+  </div>
+
+  <p>This is why "her bloodwork was fine" and "she's low on iron" can both be true at the same time. It isn't a mistake by your doctor. The standard panel simply doesn't include the storage number unless someone asks for it <em>by name.</em></p>
+
+  <div class="two">
+    <div class="statbox"><div class="big">83.6%</div><div class="lbl">of girls who are low in iron still show a <b>normal</b> hemoglobin</div></div>
+    <div class="statbox"><div class="big">41.4%</div><div class="lbl">only this many low-iron girls are caught by a standard blood count</div></div>
+  </div>
+
+  <div class="imgwrap"><img src="file:///home/user/NG/brands/level/product/assets/store-images/s4-bloodtest-real.png" alt="two blood tubes"><div class="imgcap">The number they measured can look full while the one they skipped runs empty.</div></div>
+
+  <p><strong>What to do with this:</strong> you don't need to argue with anyone. You need one word: <em>ferritin.</em> Ask for a serum ferritin test by name. The Doctor-Visit Script that came with this guide gives you the exact wording, and what to say if you get the shrug.</p>
+  <span class="pagenum">3</span>
+</section>
+
+<!-- PART 2 -->
+<section class="page">
+  <span class="tag">Part two</span>
+  <h2><span class="no">Why her, why now</span>Her years drain iron faster than almost any other stage of life.</h2>
+  <div class="rule"></div>
+  <p class="lead">This isn't bad luck or bad eating. Three things stack up in the exact window between her first period and about 19, and the iron aisle wasn't built for any of them.</p>
+
+  <div class="steps">
+    <div class="step"><div class="n"></div><div class="b"><h3>She bleeds every month.</h3><p>Periods lose iron, and heavy ones lose a lot. Heavy periods roughly <strong>triple</strong> the odds she's deficient. Most girls, and most moms, were never told the two are connected.</p></div></div>
+    <div class="step"><div class="n"></div><div class="b"><h3>She's still growing.</h3><p>A growing body is building more blood and more muscle, and both need iron. Her iron need nearly doubles in her early teens. The kids' aisle stops at 12. The women's aisle says "not for under 18." She falls in the gap.</p></div></div>
+    <div class="step"><div class="n"></div><div class="b"><h3>She might train on top of it.</h3><p>Running, dance, soccer, any real sport burns through iron stores faster. A tired athlete who "just can't finish the season like last year" is often a low-ferritin athlete.</p></div></div>
+  </div>
+
+  <div class="card garnet">
+    <h3>The pattern you might recognize</h3>
+    <p style="margin-bottom:0;">Tired after a full night's sleep. Fading late in practice. Pale, with dark circles. Cold hands and feet. Foggy, losing focus at school. Maybe chewing ice, or more anxious than usual for no clear reason. <strong>None of these alone proves low iron. Together, in a girl who bleeds, grows and trains, they're worth one number.</strong></p>
+  </div>
+
+  <p class="callout" style="margin-top:.2in;"><strong>Said plainly:</strong> it's not drama, and it's not attitude. It's a blood test she hasn't had yet.</p>
+  <span class="pagenum">4</span>
+</section>
+
+<!-- PART 3 -->
+<section class="page">
+  <span class="tag">Part three</span>
+  <h2><span class="no">Reading the number</span>What counts as low (and what the old range gets wrong).</h2>
+  <div class="rule"></div>
+  <p class="lead">Here's the part that makes moms furious once they see it. On many lab reports, the "normal" range for ferritin starts as low as 6 or 15. A number can land inside "normal" and still leave her running on empty.</p>
+
+  <p>Experts have been moving that line. The current thinking from blood specialists is that the old floor is far too low for a growing, menstruating, active girl. Use this as a plain-English map, not a diagnosis:</p>
+
+  <table class="ladder">
+    <tr><th>Ferritin (ng/mL)</th><th>What it usually means</th><th>What tends to make sense</th></tr>
+    <tr><td><strong>Under ~15</strong></td><td>Very low / likely deficient</td><td>A doctor's call. Often a treatment dose, not a gentle top-up.</td></tr>
+    <tr><td><strong>~15 to 30</strong></td><td>Low-normal, "fine on paper"</td><td>The classic gap. A gentle daily top-up + a retest fits here.</td></tr>
+    <tr><td><strong>~30 to 50</strong></td><td>Okay, but low for an athlete or heavy periods</td><td>Many clinicians want active girls nearer 50.</td></tr>
+    <tr><td><strong>Above ~50</strong></td><td>Comfortable stores</td><td>Keep an eye on it, recheck if symptoms return.</td></tr>
+  </table>
+
+  <div class="callout"><strong>Important and honest:</strong> if her ferritin comes back very low, or she's actually anemic, that is a doctor's dose, not ours. A gentle daily strip is a top-up for the low-normal girl, not a treatment for severe deficiency. Numbers like these are a guide to talk to her doctor with, never a replacement for one.</div>
+
+  <p>This is also why we don't chase a scary number. We're not trying to frighten you with "empty." We're handing you a target, so you can top her up <em>to a number</em> and then check it, instead of guessing forever.</p>
+  <span class="pagenum">5</span>
+</section>
+
+<!-- PART 4 -->
+<section class="page">
+  <span class="tag">Part four</span>
+  <h2><span class="no">What changed in 2026</span>The guidance moved. Most moms haven't heard yet.</h2>
+  <div class="rule"></div>
+  <p class="lead">For years, nobody told parents to check a healthy-looking girl's iron. In 2026 that started to change, and it's the single best reason to stop feeling behind: you're not late, this is genuinely new.</p>
+
+  <ul class="clean">
+    <li>Pediatric guidance now points toward <strong>checking every girl's iron by around age 14</strong>, not just the ones who already look sick.</li>
+    <li>Blood specialists have been <strong>lowering the number that counts as "low,"</strong> because the old floor let too many girls slip through as "normal."</li>
+    <li>The honest takeaway: <strong>one ferritin check, once, is now considered reasonable care</strong> for a girl in her years. It is not over-testing, and it is not you being "that mom."</li>
+  </ul>
+
+  <div class="quote">"Her doctor wasn't going to order it. I had to ask by name. It came back at 14."</div>
+
+  <p>You don't have to wait for the system to catch up to this in your clinic. You can ask for the number today. That's exactly what the Doctor-Visit Script is for, including the lines for a doctor who says "she's fine" before the storage number has ever been looked at.</p>
+
+  <p class="callout"><strong>The shift in one sentence:</strong> checking her iron stores used to be something you had to fight for. Now it's something you're allowed to simply ask for.</p>
+  <span class="pagenum">6</span>
+</section>
+
+<!-- PART 5 -->
+<section class="page">
+  <span class="tag">Part five</span>
+  <h2><span class="no">The honest plan</span>Test, top up, retest. That's the whole thing.</h2>
+  <div class="rule"></div>
+  <p class="lead">Low iron does not fix overnight, and any brand that promises energy in a week is lying to you. Stores rebuild slowly, over weeks. The good news is the plan is simple and you can see it working.</p>
+
+  <div class="steps">
+    <div class="step"><div class="n"></div><div class="b"><h3>Test. Get her number.</h3><p>Ask for a serum ferritin test (the script makes this easy). Write the number down. This is your "before."</p></div></div>
+    <div class="step"><div class="n"></div><div class="b"><h3>Top up. One gentle strip a day.</h3><p>A small daily amount of iron, at a dose built for her years, taken every day. Not a treatment blast. A steady top-up to a target.</p></div></div>
+    <div class="step"><div class="n"></div><div class="b"><h3>Retest. Watch the number climb.</h3><p>Recheck her ferritin around the 8 to 12 week mark. Compare it to your "before." This is the proof it worked, in black and white, not a feeling you have to trust.</p></div></div>
+  </div>
+
+  <div class="imgwrap"><img src="file:///home/user/NG/brands/level/product/assets/store-images/s8b-ferritin-chart.png" alt="ferritin climbing over 8 weeks"><div class="imgcap">In studies, a gentle daily dose raised ferritin by about 13 points over 8 weeks. Study average; individual results vary.</div></div>
+
+  <p><strong>What "about +13 points over 8 weeks" really means:</strong> a girl starting low-normal, around 12, can reasonably climb toward the healthier range over a couple of months. Not overnight, not dramatic, but real, and visible on a retest. That's why three tins, roughly 90 days, is the amount that actually gets you to a retest worth taking.</p>
+  <span class="pagenum">7</span>
+</section>
+
+<!-- PART 6 -->
+<section class="page">
+  <span class="tag">Part six</span>
+  <h2><span class="no">The honest line</span>When it's NOT for her.</h2>
+  <div class="rule"></div>
+  <p class="lead">This is the page most supplement brands would never write. We're writing it because it's the truth, and because you deserve a brand that tells you when to walk away.</p>
+
+  <div class="card garnet">
+    <h3>See her doctor first, not us, if:</h3>
+    <ul class="clean" style="margin-bottom:0;">
+      <li style="color:#fff;">Her ferritin is <strong>very low</strong> (roughly under 15) or she's been told she's <strong>anemic.</strong> That needs a doctor's dose, which is far higher than a daily top-up.</li>
+      <li style="color:#fff;">She's <strong>under 15 with a very low number,</strong> pregnant, nursing, or has a known medical condition.</li>
+      <li style="color:#fff;">She already takes <strong>another iron product.</strong> Don't stack iron. Too much iron is a real risk, not a "more is better" situation.</li>
+    </ul>
+  </div>
+
+  <p>A gentle daily strip is the right tool for the <strong>low-normal girl</strong>, the one who looks fine on paper but keeps running out of gas. It is a top-up, not a rescue. If she needs a rescue, her doctor has stronger tools, and that's a good thing.</p>
+
+  <div class="callout"><strong>And a safety note that matters:</strong> iron supplements must be kept away from young children. Accidental iron overdose is one of the leading causes of poisoning in little kids. Keep it up high, like any medicine.</div>
+
+  <p>If you read this page and realized she needs a doctor, then this guide already did its job. Take the Doctor-Visit Script with you. That's what it's for.</p>
+  <span class="pagenum">8</span>
+</section>
+
+<!-- PART 7 -->
+<section class="page">
+  <span class="tag">Part seven</span>
+  <h2><span class="no">Making it actually work</span>Three small habits that do most of the job.</h2>
+  <div class="rule"></div>
+
+  <div class="two">
+    <div>
+      <div class="card"><h3>1 · Same time, every day</h3><p style="margin-bottom:0;">Iron builds up over weeks, so the daily habit is what moves her number, not the odd day here and there. One strip, one time she'll remember. Pick a trigger: brushing teeth, the first glass of water, before practice.</p></div>
+      <div class="card"><h3>2 · With water or juice, not milk or tea</h3><p style="margin-bottom:0;">A little vitamin C (a splash of orange juice) helps iron absorb. Milk, tea and coffee can block it, so save those for an hour later. This one swap genuinely matters.</p></div>
+    </div>
+    <div>
+      <div class="imgwrap" style="margin-top:0;"><img src="file:///home/user/NG/brands/level/product/assets/store-images/iryn-product-real.png" alt="IRYN tin and strips"></div>
+      <div class="card cream"><h3>3 · Give it 8 to 12 weeks</h3><p style="margin-bottom:0;">The change builds slowly while her body does the work in the background. It's normal for how she feels to catch up <em>after</em> the number does. Don't judge it at two weeks. Judge it at the retest.</p></div>
+    </div>
+  </div>
+
+  <h3>Why a gentle dose beats a big one</h3>
+  <p>The reason so many iron pills leave girls with cramps and nausea is the size of the dose. A big treatment dose is hard on the stomach, so she quits, and a supplement she won't take does nothing. In trials, a low dose like a daily strip caused <strong>far fewer stomach complaints than a high one (about 7% versus 87%).</strong> Gentle isn't a weaker choice here. For a girl who has to take it for weeks, gentle is what makes it actually happen.</p>
+
+  <p class="callout"><strong>The format matters too:</strong> a raspberry strip that dissolves on her tongue beats a horse-pill she gags on and a gummy she thinks is for babies. The best iron is the one she'll actually take every day.</p>
+  <span class="pagenum">9</span>
+</section>
+
+<!-- PART 8 -->
+<section class="page">
+  <span class="tag">Part eight</span>
+  <h2><span class="no">Food, honestly</span>What helps, what blocks, and why food alone usually isn't enough.</h2>
+  <div class="rule"></div>
+  <p class="lead">"Just feed her more spinach" is the advice every mom is sick of hearing. Food helps. It's also rarely enough on its own to refill stores that are already low, especially for a girl who bleeds monthly or eats little meat. Use food as support, not as the fix.</p>
+
+  <div class="two">
+    <div class="card"><h3>Iron she absorbs well</h3><ul class="clean" style="margin-bottom:0;"><li>Red meat, chicken, turkey</li><li>Fish and shellfish</li><li>Eggs</li></ul><p class="src" style="margin-top:.1in;">(The body absorbs the iron in animal foods more easily.)</p></div>
+    <div class="card"><h3>Plant iron (pair with vitamin C)</h3><ul class="clean" style="margin-bottom:0;"><li>Lentils, beans, chickpeas</li><li>Tofu, pumpkin seeds</li><li>Dark leafy greens</li></ul><p class="src" style="margin-top:.1in;">(Add citrus, peppers or tomato to help it absorb.)</p></div>
+  </div>
+
+  <div class="card garnet">
+    <h3>What quietly blocks iron at mealtime</h3>
+    <p style="margin-bottom:0;">Milk and dairy, tea, coffee, and large amounts of calcium can all cut how much iron she absorbs from the same meal. You don't have to ban them. Just keep her iron (food or strip) and her big glass of milk or cup of tea about an hour apart.</p>
+  </div>
+
+  <p>Why food usually isn't enough on its own: refilling a low savings account takes a steady daily surplus for weeks. A few good dinners don't do it, which is exactly why a small, consistent daily top-up plus a retest is the plan that actually moves the number.</p>
+  <span class="pagenum">10</span>
+</section>
+
+<!-- PART 9 FAQ -->
+<section class="page">
+  <span class="tag">Part nine</span>
+  <h2><span class="no">Straight answers</span>The questions moms actually ask.</h2>
+  <div class="rule"></div>
+
+  <div class="faq">
+    <q>Do I have to get her tested first?</q>
+    <p>No, you can start a gentle daily top-up now. But a ferritin test gives you a "before" number, which makes the retest meaningful. If you can, test. If you can't yet, you can still start and test later.</p>
+
+    <q>How fast will she feel different?</q>
+    <p>Honestly, not in a few days. Stores rebuild over weeks. Some girls notice more stamina and fewer crashes within a month or two; for others the number climbs first and the feeling follows. Judge it at the 8 to 12 week retest.</p>
+
+    <q>Is a daily strip enough, or does she need an infusion?</q>
+    <p>For a low-normal girl, a gentle daily top-up fits. For very low ferritin or anemia, that's a doctor's dose or sometimes an infusion, and you should see her doctor. This guide's "When it's NOT for her" page tells you which camp she's likely in.</p>
+
+    <q>Will it upset her stomach like iron pills did?</q>
+    <p>A gentle low dose is specifically chosen to avoid the cramps and nausea that come with big treatment doses (about 7% versus 87% stomach complaints in trials). Taking it with a little water or juice, not on a totally empty stomach, helps too.</p>
+
+    <q>She won't swallow pills. Will she take this?</q>
+    <p>That's the whole reason the format is a raspberry strip that melts on her tongue. No pill to gag on, nothing to carry, no "kids' gummy" embarrassment. The best iron is the one she'll actually take.</p>
+
+    <q>Can she just eat better instead?</q>
+    <p>Food helps and we're all for it, but it rarely refills already-low stores on its own, especially with monthly periods or a meat-light diet. Use food as support alongside the daily top-up.</p>
+
+    <q>Is iron dangerous?</q>
+    <p>Too much iron is a real risk, which is why we use a gentle dose, say "don't stack it with another iron product," and tell you to keep it away from young children. Done at the right dose, for the right girl, it's a daily top-up, not a megadose.</p>
+  </div>
+  <span class="pagenum">11</span>
+</section>
+
+<!-- CLOSING + sources -->
+<section class="page">
+  <span class="tag">Last page</span>
+  <h2><span class="no">Your next three steps</span>You know her number matters. Here's what to do with that.</h2>
+  <div class="rule"></div>
+  <ul class="clean">
+    <li><strong>Open the Doctor-Visit Script.</strong> It's the exact words to get her ferritin checked, and what to say if you get the shrug. Two minutes of prep for the appointment.</li>
+    <li><strong>Start Her Page + Retest Tracker.</strong> Write her "before" number, mark the daily strip, and book the retest. It's also written for her, so she'll actually take it.</li>
+    <li><strong>Top up daily, then retest around 8 to 12 weeks.</strong> Compare the two numbers. That's the moment the guessing ends for good.</li>
+  </ul>
+
+  <div class="card garnet" style="margin-top:.2in;">
+    <h3>What you're really buying</h3>
+    <p style="margin-bottom:0;">Not a pretty jar. Calm control. "I know her number, I have a plan, and I'm not guessing anymore." That's the whole promise, and it's one you can actually keep.</p>
+  </div>
+
+  <h3 style="margin-top:.26in;">Where these numbers come from</h3>
+  <p class="src">
+    <b>38.6% deficient · 83.6% normal hemoglobin · ~77.5% under ferritin 50:</b> Powers et al., 2019 (PMID 37367984).<br>
+    <b>Standard blood count catches only 41.4%:</b> PMID 27262832.<br>
+    <b>Check every girl's iron by ~14 (2026 guidance):</b> AAP 2026 (PMID 42324084).<br>
+    <b>~+13 ferritin points over 8 weeks on a gentle dose:</b> PMID 38545733 (study average; individual results vary).<br>
+    <b>Heavy periods roughly triple deficiency odds:</b> PMID 41335582.<br>
+    <b>Far fewer stomach complaints on a low vs high dose (~7% vs 87%):</b> PMID 42124000.
+  </p>
+
+  <p class="disclaim">This guide is general education for parents, not medical advice, and it is not a substitute for care from a qualified clinician. These statements have not been evaluated by the Food and Drug Administration. IRYN is a dietary supplement and is not intended to diagnose, treat, cure, or prevent any disease. Pregnant or nursing mothers, children under 18, and anyone with a known medical condition should consult a physician before using this or any supplement. Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6; keep out of reach of children. Always confirm your daughter's numbers and plan with her doctor.</p>
+  <div style="text-align:center;margin-top:.24in;"><span style="font-size:17pt;font-weight:700;color:var(--garnet);">ir<span style="color:var(--gold);">y</span>n</span><div class="src" style="text-align:center;">iron for her years · tryiryn.com</div></div>
+  <span class="pagenum">12</span>
+</section>
+
+</body>
+</html>
