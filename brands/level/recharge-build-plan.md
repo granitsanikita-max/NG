@@ -76,10 +76,12 @@ Attach all 3 digital products at **$0**, shown with strike-through "value":
 
 ---
 
-## 6. UPSELLS / BUMPS (after core is live)
-- **Cart bump:** "Tin for Mum" (2nd Iron tin) **+$24**. Line: "Heavy periods run in families. So does low iron."
-- **Post-purchase 1-click:** Bone Support Strips (teen) **+$29**, OR 30→90 upgrade offer.
-- **Secondary post-purchase:** Sleep Strips (mum).
+## 6. UPSELLS / BUMPS — DEFERRED (do NOT build for launch)
+Decision (Nikita): skip the upsell funnel entirely for the first test. Validate the
+core offer converts (real CPA/AOV) BEFORE building any upsells. Upsell products were
+deleted; re-add only once there are sales.
+When the time comes (not now):
+- Cart bump: "Tin for Mum" (+$24) · Post-purchase: Bone Support (teen, +$29) or 30→90 upgrade · Sleep (mum).
 - NEVER near IRYN: Appetite/Weight, Libido, Hangover (per offer.md).
 
 ---
