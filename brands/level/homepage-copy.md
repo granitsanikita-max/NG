@@ -25,6 +25,17 @@
 - **IMAGE:** teen girl athlete spent on the sideline/track + lab slip overlay "Hemoglobin: normal ✓ · Ferritin: 9 ✗".
 - **Note:** no fake review count; "fading/keep up/full speed" ok, no "energy/boost" claim. "*" on 19 mg/folate claims goes to FDA disclaimer back panel.
 
+## S2B — Convergence bridge (NEW section, goes RIGHT AFTER the hero)
+Purpose: the "merge lane." Each ad angle has its own hero, but the body below is the same for everyone. This one short block takes ANY angle's symptom and ties it to the one number (ferritin) so every ad lands on the same page without feeling mismatched. This is what lets you run unlimited ad angles into one page.
+PLACEMENT: a thin section immediately after S2 hero, before S3/S4. Short (transition, not a full section).
+NEEDED WHEN: running more than one ad angle. For the SPORT-only first test you can skip it. Build it before you add a 2nd angle.
+- **Heading:** It all comes back to one number.
+- **Body:** Whatever you've noticed, fading at practice, falling asleep in class, heavy periods, pale skin, or bloodwork that came back "normal," it often traces back to one number her blood test didn't show: her ferritin, the iron she keeps in storage. (accent "ferritin" in garnet)
+- **Short version (if tight):** Fading at practice, asleep in class, heavy periods, "normal" bloodwork, it often traces back to one number: her ferritin.
+- **Flow:** leads straight into S4 (the ferritin gap). No button needed; it's a bridge. Optional soft link "Here's what that means ↓".
+- **GemPages build:** add a new blank section after the hero → one Heading element + one Paragraph element → cream bg, garnet accent on "ferritin" → keep padding tight so it reads as a transition, not a wall.
+- **Note:** this preserves message-match (CLAUDE.md store rule). Each angle's hero swaps; S2B + everything below stays identical.
+
 ## S3 — "As reported in" real-press strip (REPLACES fake logos: MediCare/PharmaLife/etc.)
 Blueprint job: borrowed credibility that the PROBLEM is real. Belief #2 + vindication. NOT a product-fact badge row, NOT fake "as seen in."
 - Logos: **NBC News · Forbes · NY Post · Washington Post** (research.md line 351: real stories on teen-girl iron deficiency. NO NYT/NPR/TODAY, no article exists.)
