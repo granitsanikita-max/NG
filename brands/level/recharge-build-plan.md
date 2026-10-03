@@ -14,7 +14,7 @@
 
 | Tier | Ships | TODAY (first order) | Then (recurring) | Per tin | Per day |
 |---|---|---|---|---|---|
-| ⭐ **90-Day Challenge** (hero, pre-ticked, "Most Popular") | 3 tins / 90 days | **$89** (save $10) | **$99 / 90 days** | $33 | $1.10 |
+| ⭐ **90-Day Challenge** (hero, pre-ticked, "Most Popular", FRONT-LOADED) | 3 tins / 90 days | **$79** (save $20) *(or $89 to protect CPA — pending lock)* | **$99 / 90 days** | $33 | $1.10 |
 | **30-Day Start** | 1 tin / month | **$29** (save $7) | **$36 / month** | $36 | $1.20 |
 | One-time (decoy, tiny grey link) | 1 tin, once | **$39 + ~$6 ship** | — | $39 | $1.30 |
 
@@ -24,27 +24,34 @@
 
 ## 2. RECHARGE SELLING PLANS (the recurring engine)
 
-Base 1-tin variant price = **$39.00**. Configure two selling plans + leave one-time.
+Base 1-tin variant price = **$39.00** (currently A$39.95 — same %s apply after the USD fix). Configure two **dynamic-pricing** subscription plans + leave one-time.
 
-### Plan A — "90-Day Challenge"
-- Frequency: **every 90 days**
-- Quantity per shipment: **3 tins** (use a 3-pack variant OR set plan qty = 3)
-- Recurring target: **$99 / 90 days** → that's **$33/tin = 15.4% off** the $39 base (3 × $33 = $99)
-- First-order intro: **$89** (first box only). First-order discount ≈ **$10 off** the $99, i.e. first order $89.
-- Free shipping: **ON**
-- Label on widget: ⭐ Most Popular · pre-selected
+> **CRITICAL BUILD NOTE:** both plans are **"Subscription with dynamic pricing"** — NOT prepaid. Prepaid canNOT discount the first order, so it can't front-load. Dynamic pricing front-loads via **Initial discount (applies for 0 recurring orders)** + a separate **Recurring discount**. The 90-day is a dynamic subscription shipping **every 3 months, quantity 3** — that keeps the 3-tin box AND lets us front-load the first order hard.
 
-### Plan B — "30-Day Start"
-- Frequency: **every 1 month**
-- Quantity per shipment: **1 tin**
-- Recurring target: **$36 / month** → **7.7% off** the $39 base
-- First-order intro: **$29** (first month only). First-order discount ≈ **$7 off** the $36.
+### Plan A — "90-Day Challenge" (AGGRESSIVE front-load — the pull)
+Type: **Subscription with dynamic pricing**
+- **Ship every: 3 months**
+- **Quantity per shipment: 3 tins** (3 × the 1-tin variant)
+- **Initial discount: 33%** → first box ≈ **$79** *(recommended aggressive pull; set 24% for $89 if protecting CPA)*
+- **Initial discount applies for: 0 recurring orders** (only the first charge)
+- **Recurring discount: 15%** → **$99 / 90 days** after
+- Free shipping: **ON** · pre-selected · "MOST POPULAR"
+- Margin at $79 first box: ~$30 gross (cost $46 + fees). Break-even CPA ~$30. At $89: ~$40 gross / CPA ~$40 (safer). Recurring $99 → ~$50/qtr.
+
+### Plan B — "30-Day Start" (softer on-ramp — less aggressive, still profits)
+Type: **Subscription with dynamic pricing**
+- **Ship every: 1 month**
+- **Quantity per shipment: 1 tin**
+- **Initial discount: 26%** → first month ≈ **$29**
+- **Initial discount applies for: 0 recurring orders**
+- **Recurring discount: 8%** → **$36 / month** after
 - Free shipping: **ON**
+- Margin: first month $29 → ~$10 gross. Recurring $36 → ~$17/mo.
 
 ### One-time
-- No selling plan. 1 tin, **$39**, shipping charged (~$6). Render as a **small grey text link** under the two plans, not a card.
+- No selling plan. 1 tin, **$39**, shipping charged (~$6). Render as a **small grey text link** under the two plans, not a card. No gifts.
 
-> Recharge mechanics: subscription price = base price − subscription discount %. Use the %s above for the recurring rate, then set a **first-order discount** for the intro price. If Recharge wants a flat "first order" override instead of %, just enter $89 / $29.
+> Why the 90-day front-load is bigger than the 30-day's: we're PUSHING to the 90-day. 90-day = biggest dollar save + best value (the pull). 30-day = least money down (catches the hesitant), deliberately softer so it still profits and never out-values the hero. One-time = worst value + pays shipping = pure decoy.
 
 ---
 
@@ -96,8 +103,8 @@ When the time comes (not now):
 
 ## 8. LAUNCH CHECKLIST (offer side)
 - [ ] Currency USD
-- [ ] Plan A (90-day, 3 tins, $89→$99) live
-- [ ] Plan B (30-day, 1 tin, $29→$36) live
+- [ ] Plan A (90-day, dynamic sub, 3 tins, ship every 3mo, 33% initial/15% recurring → ~$79→$99) live
+- [ ] Plan B (30-day, dynamic sub, 1 tin, 26% initial/8% recurring → $29→$36) live
 - [ ] One-time $39 + ship as grey link
 - [ ] 3 gifts attached free to both plans, strike-through value shown
 - [ ] Free shipping subs-only (one-time charged)
