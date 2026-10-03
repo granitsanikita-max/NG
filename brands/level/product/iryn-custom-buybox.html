@@ -1,84 +1,88 @@
-<!-- IRYN custom buy box — paste into a GemPages Custom Code (HTML/Liquid) element in the buy box.
-     Works on ANY page (homepage/landing included). Adds Iron Strips to cart with the Recharge
-     selling plan attached, so Recharge bills it normally. No Recharge widget needed. -->
+<!-- IRYN custom buy box v2 — paste into a GemPages Custom Code (HTML) element in the buy box.
+     Both options, clean bullets, embedded guide covers with strike-through values.
+     Adds Iron Strips to cart with the Recharge selling plan attached. -->
 <style>
-  .iryn-bb{max-width:520px;font-family:inherit;color:#2B2B2B}
+  .iryn-bb{max-width:540px;font-family:inherit;color:#2B2B2B;line-height:1.5}
   .iryn-bb *{box-sizing:border-box}
-  .iryn-opt{display:block;border:2px solid #E7DCCB;border-radius:14px;padding:16px 18px;margin:0 0 12px;cursor:pointer;background:#FBF6EE;transition:border-color .15s,box-shadow .15s;position:relative}
-  .iryn-opt:hover{border-color:#C8A86a}
-  .iryn-opt.sel{border-color:#A0203F;box-shadow:0 0 0 2px rgba(160,32,63,.12)}
+  .iryn-opt{display:block;border:2px solid #E7DCCB;border-radius:16px;padding:18px 20px;margin:0 0 14px;cursor:pointer;background:#FBF6EE;transition:border-color .15s,box-shadow .15s;position:relative}
+  .iryn-opt:hover{border-color:#C8A86A}
+  .iryn-opt.sel{border-color:#A0203F;box-shadow:0 0 0 3px rgba(160,32,63,.10)}
   .iryn-opt input{position:absolute;opacity:0;pointer-events:none}
-  .iryn-row{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
-  .iryn-name{font-weight:700;font-size:18px;display:flex;align-items:center;gap:10px}
-  .iryn-dot{width:18px;height:18px;border-radius:50%;border:2px solid #B2A79A;flex:0 0 18px;display:inline-block}
-  .iryn-opt.sel .iryn-dot{border-color:#A0203F;background:radial-gradient(#A0203F 42%,#fff 46%)}
-  .iryn-price{font-weight:700;font-size:18px;white-space:nowrap}
-  .iryn-price s{color:#9A8E80;font-weight:500;margin-right:6px}
-  .iryn-sub{font-size:13.5px;color:#6A5F57;margin:6px 0 0 28px}
-  .iryn-badge{position:absolute;top:-11px;right:16px;background:#A0203F;color:#fff;font-size:11px;font-weight:700;letter-spacing:.04em;padding:4px 10px;border-radius:999px;text-transform:uppercase}
-  .iryn-gifts{margin:4px 0 0 28px;font-size:13.5px;color:#2B2B2B;line-height:1.7}
-  .iryn-gifts b{color:#A0203F}
-  .iryn-cta{width:100%;border:0;border-radius:999px;background:#A0203F;color:#fff;font-weight:800;font-size:18px;padding:17px 20px;cursor:pointer;margin-top:4px;letter-spacing:.01em}
+  .iryn-head{display:flex;align-items:center;justify-content:space-between;gap:12px}
+  .iryn-name{font-weight:700;font-size:19px;display:flex;align-items:center;gap:11px}
+  .iryn-dot{width:20px;height:20px;border-radius:50%;border:2px solid #B2A79A;flex:0 0 20px}
+  .iryn-opt.sel .iryn-dot{border-color:#A0203F;background:radial-gradient(#A0203F 42%,#FBF6EE 46%)}
+  .iryn-price{font-weight:800;font-size:19px;white-space:nowrap}
+  .iryn-price s{color:#9A8E80;font-weight:500;margin-right:7px}
+  .iryn-badge{position:absolute;top:-11px;right:18px;background:#A0203F;color:#fff;font-size:11px;font-weight:700;letter-spacing:.05em;padding:4px 11px;border-radius:999px;text-transform:uppercase}
+  .iryn-rate{font-size:14px;color:#6A5F57;margin:7px 0 12px 31px}
+  .iryn-ul{list-style:none;margin:0 0 0 31px;padding:0}
+  .iryn-ul li{position:relative;padding:3px 0 3px 24px;font-size:14.5px}
+  .iryn-ul li:before{content:"";position:absolute;left:0;top:10px;width:14px;height:8px;border-left:2.5px solid #A0203F;border-bottom:2.5px solid #A0203F;transform:rotate(-45deg)}
+  .iryn-ul.plain li:before{border:0;left:6px;top:11px;width:5px;height:5px;border-radius:50%;background:#B2A79A;transform:none}
+  .iryn-gifthead{margin:14px 0 8px 31px;font-weight:800;color:#A0203F;font-size:15px}
+  .iryn-gift{display:flex;align-items:center;gap:12px;margin:0 0 9px 31px}
+  .iryn-gift img{width:38px;height:auto;border-radius:4px;box-shadow:0 2px 6px rgba(0,0,0,.18);flex:0 0 38px}
+  .iryn-gift .gn{font-size:14px;font-weight:600;flex:1}
+  .iryn-gift .gp{font-size:13.5px;white-space:nowrap}
+  .iryn-gift .gp s{color:#9A8E80;margin-right:6px}
+  .iryn-gift .gp b{color:#A0203F;font-weight:800;letter-spacing:.03em}
+  .iryn-cta{width:100%;border:0;border-radius:999px;background:#A0203F;color:#fff;font-weight:800;font-size:18px;padding:18px 20px;cursor:pointer;margin-top:6px}
   .iryn-cta:hover{background:#7C1730}
   .iryn-cta:disabled{opacity:.6;cursor:default}
-  .iryn-trust{text-align:center;font-size:12.5px;color:#6A5F57;margin-top:10px}
+  .iryn-trust{text-align:center;font-size:12.5px;color:#6A5F57;margin-top:11px}
 </style>
 
 <div class="iryn-bb" id="irynBB">
   <label class="iryn-opt sel" data-plan="11380130113">
     <span class="iryn-badge">Best value</span>
     <input type="radio" name="iryn-plan" value="sub" checked>
-    <span class="iryn-row">
+    <span class="iryn-head">
       <span class="iryn-name"><span class="iryn-dot"></span>Subscribe &amp; Save</span>
       <span class="iryn-price"><s>$39.95</s>$29.56</span>
     </span>
-    <span class="iryn-sub">$29.56 first month, then $35.96 a month. Free shipping. Cancel in one click.</span>
-    <span class="iryn-gifts">
-      <b>+ $67 of guides, free:</b><br>
-      Know Her Number Guide, Doctor-Visit Script, Her Page + 90-Day Retest Tracker
-    </span>
+    <div class="iryn-rate">$29.56 first month, then $35.96 a month</div>
+    <ul class="iryn-ul">
+      <li>Free shipping</li>
+      <li>Cancel anytime, one click</li>
+      <li>70-day money-back promise</li>
+    </ul>
+    <div class="iryn-gifthead">+ $67 of guides, free</div>
+    <div class="iryn-gift"><img src="data:image/webp;base64,UklGRl4FAABXRUJQVlA4IFIFAAAQHQCdASp4AJYAPmEwlEekIyShIbgLKJAMCWMA1ez/zRT7/4zQieYD9ivXdyADpe/85ksrP5F35y0GHPf8X32uJf5ktf0mN/0T/M/ar8nOkz6u9gT9bP+PwJ5IHU9nppxZitaOizFc2iPfdYUjzMxQDL81r2Swlp6Mx4HnCzKaQG5OEh9JOXwuvLCi2/RbFwN43Up34fp7ka4XY06XN8b+0gfDAZ/m3yfpzPrMJ6XF5DS9MC/OT3WfrznU6B4lO8iL1FJ2dKOEeUs6w6E+2ivtsGLN+IKP1Fr7gX3d0htB8RULTl/Ss/8+UqnZtzs8zneAAP78IuGnuesyggDNpd8wr0zSd9fnXzFKtYv18i8beiH5R/yYyzAuhSGIbx5fFfp0k9XYMgjeJdyaPm5DzHjiYfVhjP/rq7/gveY/kuvEM132fAmYDNu9mBP+W3J3md5MX740F8wKb1NFusZzipz/wF74YZnUJsom09unoyilOxSSGapN24IvaqMid39rS+mHLC9RNbriP4cA6bOoZHieNYOwM2F/T/gBQuTn8gRBBkHLyvOd+3K/1plOM52Sb2iFLarLRXKtir8RfLJOf4myveUxjFBu8v8PILXwbeJD3alrEVakePiM/j9EyWX2eMqHckZ++JIkrBbkp5cUd4Sri+TcBb2p0wuTNH1p1NKSV4m8/GSTtTC7O1JyHrIZycf6f/nmZEzNk1t7Z82lFymzlQ+X/3Tv7sNyt975xp60abO7PzvAraExWaTfXB6cPFfl6Hgr6d3hwvmCTDjn779kPGWCb3jdLgczTFqF42sTySa6pUyH+3T6uN2G/pedraFH4eWXPTlJF1SRThbo9+Inizv5FgXeooXA5CbsdBATIzUPMlCeEZT6pwH8ODk0WOzB3o3xP3bvIPlVfdeh9BJzqef5t1Qg0EhUbX6SNwvQyK6wPACfe0D8cqbKyJhrN2ic/iPe5Lphu7BMXyPOCxE71gZWoHbyljvdbkKlJm44bPD1B0n2t0VnqJiD4P1rm/ifhuPw+uPvr+prz1iZ1P6BND7CoSGxAzq1fxyA9lr/VNTPT0lP1WFxEAVZXLw2+2Uw3CMcM87hPR2uoCgqkSuUnL48RWGN5KZEsSJMPduMw70LB9j7+o39rsyDA/jeR9CvcAZgeDhGywvklQn9I3ppeyN8IO6rQ9ao6DUaEGCK33pZ4oz5tsGWXjfhgBrV6YxA/uQf3b7IK/Nzly2ELrkyZix2QmdOtSwXvrrWVU3jWuMtJg//0m71/wlLN8txcSbIEtxpNXTRhU0o3wBsAEBw2o4cBy9T8v+AfmBvyHJT17t9En0hcUZl7fNaEeQf0i7Mm0P5fiyT7LNEzkpSQBezkNkYOEWHZjOJL1mWnOPkmjN4vUosgcnfjT9UTlbXa3OziIGlz8Bi9v4KpH23Ky+KFdyHfNBuNrq1Jm0piFYcLjgKwUhWzpg+CxqL6pfvG7Vm0m8mNkvvjviotObT3zE+wxYItnPe0Fyp5fpgHpw5PnsbkkUCrgoPE2YZQ9lo9yIFAbrKi3Kwlqhkj5G7IEV3dENgMlhAZh6JtgkZmf8F9r3GLNfiDRJPhTT0NvC4ZTDPi2XpkjAOprrQYnkwT2XpgolBYPH/pNggWSKeKEydlLcISdq207pZSPKGM+nNoXNbOEQ5YuqbIGWNISMP9si4jz7lBcNneUcAhKPSMJeS0ej+XO3LN5ZrFfnDNBaCcW78KNn9QpMIClWpkSZuOGnkuEbUv3arJ4b6tUc7y1rRtPCHlZzTg4nhxH/A7tKb60UyAAPXwIJMThkEL2tQAAAAAAA="><span class="gn">Know Her Number Guide</span><span class="gp"><s>$29</s><b>FREE</b></span></div>
+    <div class="iryn-gift"><img src="data:image/webp;base64,UklGRvQDAABXRUJQVlA4IOgDAADQFwCdASp4AJYAPmEskkgkIiYhotSa2MAMCWkA1SXBuy20BZOv/yYOu7vUiezvGR3B/FXRueiLoG1Df1VIi8dsAz3OkdtyZypPgMR2sYUi45JgBeQKyC0A3yEoEiImslsE4cjEw9ilYC6c6DgL293Avw46t6GC4rkvWdD9ch+3z7ATbApaOd6bSMEGpK8Rd6NgawTNlmZkPVzJWTT287I1wsUkupH4+4kManVsWVXDCTeaUbsJPAV/J8EWvng3klVhCukmBzkAAP78h+e5P0uGScdEwQ5t2Rjei5f9fsUZt09/h7cciAVAY07kBgzbQ+MOT9Sa2vERuntey/MIQ7guO7LUhUNfw0uyw95D3lFOHrftonbsKUNpyMXhwd7MyPizTBwLjhgBBDPba/k+5nEzn0fJSU+xVlpgzs1afH62jiG1ZzUGV0meXSstqS6hr+RKUK9PHY1oPed+7Agt5zM4x6BpyoppgH2KyVom6di5mgkdP49ElRX6O8dGA5vSGtEP/gISf2uurtzO8lNfo4FmTaK1nsfBqh+szDUuz0vBlU/ZW3D5/l0uIUV+O1B+Kx/QrJxUc36m2LKvcBWQ8k2QXgfM9WPNou++FSw0Tfq9hBKIGwtFJrla/BBsaAZklF5smh+1yi3v6JjSq2PeQmVzgoh2lizRi/Pj/s834HqwRYo1rTLUTwlivS5u1tUlQwQ83Gkm67C5AocTY0RX0w5fd6LT9jYYIH+meaoWmNvNpKQQBx/aJgGGFO3BTlMarD3XG3ggrROY0bp06AOwmYBLcB8/XLHD7urHGYqwL9g5C7s2Rb+M26OkGeSdKhQPD5av08zGX6r6GluwDmvSRrJSAixNAzN8cI0Pjuk93RogIVAaF5s4fuBzLmTlYiat3alhjRwrC5mnB65zFevzb7P6GhTgNdCScGzmrN18O4Ww1m9fsazI4HCky0+ccx1CJPwZr+iRX5sx5dH0rb+y4wLCVENaMxWzqbdA/4sCIFW+27TkuR7geqn05GL2poqU9b0732we0H57bBzi6ZKkGtEikHasL526BB0rBc+z2XnjqxAKLRziwWCg3Q00gRtWDlSOQMhAMKDYZUn6D42CXqP1my/P6t9h3PKzGV90ENn1EF9asmkmax0tOZKK9gbNffsFXgyG5DYTpW2jr60SEwdUkXNTgYug5wNDZgEvtN6IMlIAyOMcyC5XqxrC2uQatd4PN6IzGyr2VZjW6UqFHVsWwWovNrEAMrZwNWTwpc6CTOoG1F6zJGPxXvsP6YWSeueUSaj1w3LO317yAsXYZPZ4I+tvZTpclWRlCDg79IONggECXDEAAAAA"><span class="gn">Doctor-Visit Script</span><span class="gp"><s>$19</s><b>FREE</b></span></div>
+    <div class="iryn-gift"><img src="data:image/webp;base64,UklGRlIFAABXRUJQVlA4IEYFAAAQGQCdASp4AJYAPmEqk0ekIiQhIhma4IAMCWMDsB6L1y/X/md9X/QaFLzAed3ZNH+mYPbxPUXU2eJPScYRXqi6GvqT2CN1rIrgz3NUfEqPWpb5x79ee1oXVQpfr4YnWVQxXfPJcpMJZTmTChhVEi6QnjCtqyPeA+2DciNVKgjixGDdOZRyHpyXmeip6a/kSoPXavJmsOInLuWAntzvlvzDE88i31quEAbqrNXV2hkiTgnlZI1qOX5f/kQv5xvNZ0frsForGL/qw0fVfdGypEjPAAD+/Ifnhu1tsbhN74yCscbHKeDdi4OLxX9otstyHyemlSNcjCg3/tfXn/7j/n/eK6s1izG5F/HqpMN9uebvd23SH1gvaROohe0NQvYQejz0IuEXrtIEbLS8XMsz/83s3//4l/Akqog25kK4HWdzZoqHNTk2qUAGSy6BS31gdOXGXwQm7CfdfPO8Gr5O4ubkwmGDhojryGPHL3z+r5QVPYfWmstWGQn4xmZQPieJ4q8LwT1jf6//ABy8ukl6h8mbamv5jrGAEH/DdvNjt+7Wl9neZZ2MmVJnp3SL27gI9Qsu2xQlHMRTQY3Mnk4jF+IU9O7gaqCGlF6bK/M/zJ0WG/SXIkwzxYhZiZ3SvtUWccvKfERHtAefX3zRn+aNAA7q8bd/s5O6ceD8709kt2LrtXb6f6kmWuvx2UReYwGs8Pe4L5LEMRTOe4tE6ixwVb3k7zlfSgZ5TPPUgMpqIqXo9rfXj4/VNb/+B69io/S83Wkf/9jDldzBidWDhF3IolEVP63mXMa07hD/8i1lXWIBSo2tOVVFR7jbkFFbE/0PCYYWuzgE67qsbuve0tiUw2ofOOcnH52r3kolJl+YDNe3JtgANnl1/gcShHpCNGhkVYjSBWcKDrHqVtRmdJSSUjbIFngP/ui99teFPCHuLx7y6zM/wmy96gtIUwa6yW2qMkRdKAV0joLUV9FVQD8w9Nl3j07ND1gJJz/MsY9rO7vw108Y3bV8IIc9zAmmH2MMjz1RR6gonDj9rD86lwBdfL/LNZ/sXhmr4UkYNitxWnqkWAb/dWBozhxeGJOgqdbPpqXxLIdMkmQZB1kvQO3f8t4X49xibPMCBancpdyn/bzvNcJJKFlGVG+dHPIr0SlGuZqDwDSl3nL+Wm5Nfy48NajIQiG5Jefi7I2WOS6rj4J3BbksMS4dGOf/5/0mqt7LitlGbrUbGZavGMg9Mtc/fy3PslvoXcuAoyD4vaV/TSUlo8wTMWi1l0cRnRIN1fZ0NmYB9jZABqVgHpklYupKQnLp2PfGsA+C6kVvbW4/xSjz9nyfqkADo39ZUD+iVtoJt0pBItvK29ulNoIpimt/EwCSCeUDIW2gK1R1HiK0yqhWUG6H4/d2FPLHnVhgE0vrQxS42mo/slh7fle0enLYAH8m53e0WC4e5SgXqonJbZBmJE3cMA/a6cMJZtxFtiTRaMxYTKlVLvYTojHsAt4hd4v73kekmZob8/oG/AerKfypMIOmadoxUBakGE6ybdlGPYOk+wjTcii/SgLLPU5l//t3UhlhkUJAU67zf+Wr8xNLYbRtibYnQNWxNH3ZREYStDHILD0i0kRnDhA6nnLqi6qmcDOeqX4CPeE601g6ecLiHVAREYbydmp/tQr6kj+S8bkSwBtMfQFOuc46vGhfv/kQEyN2IIWmr7FYncF7793wB769nZSY03udDE6q1r0KHdLU/KtCVPCbvFbpNzx23sXWH0G58MMM6WB2YTXKH/xOuI66TZ5HI3AeK/gBf4H9eHfAAAAAAAA="><span class="gn">Her Page + 90-Day Retest Tracker</span><span class="gp"><s>$19</s><b>FREE</b></span></div>
   </label>
 
   <label class="iryn-opt" data-plan="">
     <input type="radio" name="iryn-plan" value="once">
-    <span class="iryn-row">
+    <span class="iryn-head">
       <span class="iryn-name"><span class="iryn-dot"></span>One-time</span>
       <span class="iryn-price">$39.95</span>
     </span>
-    <span class="iryn-sub">One tin. Shipping charged. No guides.</span>
+    <ul class="iryn-ul plain" style="margin-top:12px">
+      <li>One tin, shipped once</li>
+      <li>Shipping charged (about $6)</li>
+      <li>No free guides</li>
+    </ul>
   </label>
 
   <button class="iryn-cta" id="irynAdd">Get her back to full speed</button>
-  <div class="iryn-trust">70-day money-back promise · Cancel anytime, one click</div>
+  <div class="iryn-trust">70-day money-back promise &middot; Cancel anytime, one click</div>
 </div>
 
 <script>
 (function(){
-  var VARIANT = 67600551117121;
-  var BB = document.getElementById('irynBB');
-  if(!BB) return;
-  var opts = BB.querySelectorAll('.iryn-opt');
-  opts.forEach(function(o){
-    o.addEventListener('click', function(){
-      opts.forEach(function(x){x.classList.remove('sel')});
-      o.classList.add('sel');
-      o.querySelector('input').checked = true;
-    });
-  });
-  var btn = document.getElementById('irynAdd');
-  btn.addEventListener('click', function(){
-    var sel = BB.querySelector('.iryn-opt.sel');
-    var plan = sel ? sel.getAttribute('data-plan') : '';
-    var item = { id: VARIANT, quantity: 1 };
-    if(plan){ item.selling_plan = Number(plan); }
-    btn.disabled = true; btn.textContent = 'Adding...';
-    fetch('/cart/add.js', {
-      method:'POST',
-      headers:{'Content-Type':'application/json'},
-      body: JSON.stringify({ items:[item] })
-    }).then(function(r){ return r.json(); })
-      .then(function(){ window.location.href = '/checkout'; })
-      .catch(function(){ btn.disabled=false; btn.textContent='Get her back to full speed'; alert('Something went wrong, please try again.'); });
+  var VARIANT=67600551117121, BB=document.getElementById('irynBB'); if(!BB)return;
+  var opts=BB.querySelectorAll('.iryn-opt');
+  opts.forEach(function(o){o.addEventListener('click',function(){opts.forEach(function(x){x.classList.remove('sel')});o.classList.add('sel');o.querySelector('input').checked=true;});});
+  var btn=document.getElementById('irynAdd');
+  btn.addEventListener('click',function(){
+    var sel=BB.querySelector('.iryn-opt.sel'), plan=sel?sel.getAttribute('data-plan'):'';
+    var item={id:VARIANT,quantity:1}; if(plan){item.selling_plan=Number(plan);}
+    btn.disabled=true;btn.textContent='Adding...';
+    fetch('/cart/add.js',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:[item]})})
+      .then(function(r){return r.json();}).then(function(){window.location.href='/checkout';})
+      .catch(function(){btn.disabled=false;btn.textContent='Get her back to full speed';alert('Something went wrong, please try again.');});
   });
 })();
 </script>
