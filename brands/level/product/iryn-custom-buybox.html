@@ -76,16 +76,23 @@
 
 <script>
 (function(){
-  var VARIANT=67600551117121, BB=document.getElementById('irynBB'); if(!BB)return;
+  var VARIANT=67600551117121;            // Iron Strips (1 tin)
+  var GIFTS=[67617814610241,67617814675777,67617814774081]; // 3 digital guides ($0), subscribe only
+  var BB=document.getElementById('irynBB'); if(!BB)return;
   // Selection is native (radio + label + CSS :has). JS only handles add-to-cart.
   var btn=document.getElementById('irynAdd');
   btn.addEventListener('click',function(){
     var chk=BB.querySelector('input[name="iryn-plan"]:checked');
     var opt=chk?chk.closest('.iryn-opt'):null;
     var plan=opt?opt.getAttribute('data-plan'):'';
-    var item={id:VARIANT,quantity:1}; if(plan){item.selling_plan=Number(plan);}
+    var items=[]; var tin={id:VARIANT,quantity:1};
+    if(plan){tin.selling_plan=Number(plan); items.push(tin); GIFTS.forEach(function(g){items.push({id:g,quantity:1});});}
+    else{items.push(tin);}
     btn.disabled=true;btn.textContent='Adding...';
-    fetch('/cart/add.js',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:[item]})})
+    // Clear first so switching offers never stacks stale items; clear failure must not block the add.
+    fetch('/cart/clear.js',{method:'POST',headers:{'Content-Type':'application/json'},body:'{}'})
+      .catch(function(){})
+      .then(function(){return fetch('/cart/add.js',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})});})
       .then(function(r){return r.json();}).then(function(){window.location.href='/checkout';})
       .catch(function(){btn.disabled=false;btn.textContent='Get her back to full speed';alert('Something went wrong, please try again.');});
   });
