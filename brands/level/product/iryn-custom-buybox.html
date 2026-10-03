@@ -1,0 +1,84 @@
+<!-- IRYN custom buy box — paste into a GemPages Custom Code (HTML/Liquid) element in the buy box.
+     Works on ANY page (homepage/landing included). Adds Iron Strips to cart with the Recharge
+     selling plan attached, so Recharge bills it normally. No Recharge widget needed. -->
+<style>
+  .iryn-bb{max-width:520px;font-family:inherit;color:#2B2B2B}
+  .iryn-bb *{box-sizing:border-box}
+  .iryn-opt{display:block;border:2px solid #E7DCCB;border-radius:14px;padding:16px 18px;margin:0 0 12px;cursor:pointer;background:#FBF6EE;transition:border-color .15s,box-shadow .15s;position:relative}
+  .iryn-opt:hover{border-color:#C8A86a}
+  .iryn-opt.sel{border-color:#A0203F;box-shadow:0 0 0 2px rgba(160,32,63,.12)}
+  .iryn-opt input{position:absolute;opacity:0;pointer-events:none}
+  .iryn-row{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
+  .iryn-name{font-weight:700;font-size:18px;display:flex;align-items:center;gap:10px}
+  .iryn-dot{width:18px;height:18px;border-radius:50%;border:2px solid #B2A79A;flex:0 0 18px;display:inline-block}
+  .iryn-opt.sel .iryn-dot{border-color:#A0203F;background:radial-gradient(#A0203F 42%,#fff 46%)}
+  .iryn-price{font-weight:700;font-size:18px;white-space:nowrap}
+  .iryn-price s{color:#9A8E80;font-weight:500;margin-right:6px}
+  .iryn-sub{font-size:13.5px;color:#6A5F57;margin:6px 0 0 28px}
+  .iryn-badge{position:absolute;top:-11px;right:16px;background:#A0203F;color:#fff;font-size:11px;font-weight:700;letter-spacing:.04em;padding:4px 10px;border-radius:999px;text-transform:uppercase}
+  .iryn-gifts{margin:4px 0 0 28px;font-size:13.5px;color:#2B2B2B;line-height:1.7}
+  .iryn-gifts b{color:#A0203F}
+  .iryn-cta{width:100%;border:0;border-radius:999px;background:#A0203F;color:#fff;font-weight:800;font-size:18px;padding:17px 20px;cursor:pointer;margin-top:4px;letter-spacing:.01em}
+  .iryn-cta:hover{background:#7C1730}
+  .iryn-cta:disabled{opacity:.6;cursor:default}
+  .iryn-trust{text-align:center;font-size:12.5px;color:#6A5F57;margin-top:10px}
+</style>
+
+<div class="iryn-bb" id="irynBB">
+  <label class="iryn-opt sel" data-plan="11380130113">
+    <span class="iryn-badge">Best value</span>
+    <input type="radio" name="iryn-plan" value="sub" checked>
+    <span class="iryn-row">
+      <span class="iryn-name"><span class="iryn-dot"></span>Subscribe &amp; Save</span>
+      <span class="iryn-price"><s>$39.95</s>$29.56</span>
+    </span>
+    <span class="iryn-sub">$29.56 first month, then $35.96 a month. Free shipping. Cancel in one click.</span>
+    <span class="iryn-gifts">
+      <b>+ $67 of guides, free:</b><br>
+      Know Her Number Guide, Doctor-Visit Script, Her Page + 90-Day Retest Tracker
+    </span>
+  </label>
+
+  <label class="iryn-opt" data-plan="">
+    <input type="radio" name="iryn-plan" value="once">
+    <span class="iryn-row">
+      <span class="iryn-name"><span class="iryn-dot"></span>One-time</span>
+      <span class="iryn-price">$39.95</span>
+    </span>
+    <span class="iryn-sub">One tin. Shipping charged. No guides.</span>
+  </label>
+
+  <button class="iryn-cta" id="irynAdd">Get her back to full speed</button>
+  <div class="iryn-trust">70-day money-back promise · Cancel anytime, one click</div>
+</div>
+
+<script>
+(function(){
+  var VARIANT = 67600551117121;
+  var BB = document.getElementById('irynBB');
+  if(!BB) return;
+  var opts = BB.querySelectorAll('.iryn-opt');
+  opts.forEach(function(o){
+    o.addEventListener('click', function(){
+      opts.forEach(function(x){x.classList.remove('sel')});
+      o.classList.add('sel');
+      o.querySelector('input').checked = true;
+    });
+  });
+  var btn = document.getElementById('irynAdd');
+  btn.addEventListener('click', function(){
+    var sel = BB.querySelector('.iryn-opt.sel');
+    var plan = sel ? sel.getAttribute('data-plan') : '';
+    var item = { id: VARIANT, quantity: 1 };
+    if(plan){ item.selling_plan = Number(plan); }
+    btn.disabled = true; btn.textContent = 'Adding...';
+    fetch('/cart/add.js', {
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({ items:[item] })
+    }).then(function(r){ return r.json(); })
+      .then(function(){ window.location.href = '/checkout'; })
+      .catch(function(){ btn.disabled=false; btn.textContent='Get her back to full speed'; alert('Something went wrong, please try again.'); });
+  });
+})();
+</script>
