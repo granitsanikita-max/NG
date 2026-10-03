@@ -16,9 +16,10 @@
 - **Image:** real outlet logos only — NBC News, Forbes, NY Post, Washington Post (each linking a real article on teen-girl iron). Not photos.
 - **Why:** borrowed credibility that the problem is real.
 
-## S4 — The Ferritin Gap (cash vs savings)
-- **Image:** a clean two-part infographic: a full WALLET labeled "Hemoglobin (the iron in her blood today)" next to a nearly-empty SAVINGS JAR labeled "Ferritin (the iron in storage)." Garnet/cream.
-- **Why:** makes the invisible, abstract idea click instantly. The metaphor is the memorable hook; the picture seals it.
+## S4 — The Ferritin Gap ("Her blood test checked the wrong number")
+- **Image (LOCKED direction):** a REAL photographic blood-test still-life — two blood collection tubes in a rack: one full of deep red blood (the number the test checked, looks normal), one drained to a single drop at the bottom (ferritin, the number it skipped, empty). No text baked on; S4's two columns carry the cash/savings explanation. File: `product/assets/store-images/s4-bloodtest-real.png` (pick) + `-alt.png`.
+- **Why:** on-topic at a glance (it's obviously a blood test, matching the heading), photographic/trusted (not AI-vector), and visually distinct from the hero's paper lab slip (no redundancy).
+- **Rejected:** wallet-vs-jar still-life (`s4-ferritin-gap-real*.png`) — the cash/savings line belongs in the TEXT; as a standalone image it reads as stock money, disconnected from blood/iron.
 
 ## S5 — arrow cards (the "after")
 - **Image:** one warm shot of a healthy, energetic teen girl back at practice / finishing strong, color in her cheeks. (Plus small up/down arrow icons on the cards.)
