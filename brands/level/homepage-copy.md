@@ -82,10 +82,12 @@ Two halves shown together. Left = problem agitation. Right = blueprint S6 (2026 
 Rebalanced per Nikita: less problem-fact wall, more brand trust ("prove WE can deliver"). Problem credibility trimmed to 2 stats; then pivot to what IRYN does + why she can trust us.
 - **Heading:** The experts changed the rules. We built IRYN to match them.
 - **Subhead:** In 2026, pediatricians started telling parents to check every girl's iron by 14, and blood specialists lowered the number that counts as low. We made IRYN for exactly that: the right gentle dose for a girl 12 to 18, plus a simple plan to find her number and bring it back up.
+- **Group label (replace collagen "Skin & Hair Benefits"):** What the experts found
 - **2 credibility stats (trimmed from 4):**
   - Nearly 40% | of teen girls are low in iron¹
   - By 14 | the age experts now say to check every girl's iron²
   - ¹ PMID 37367984 · ² AAP 2026, PMID 42324084
+  - (If a 2nd leftover label like "Joints & Hydration" exists below, delete it.)
 - **Brand-trust block ("Why IRYN"):**
   - Made only for her years. The right dose for a girl 12 to 18, with folate. Not a grown-up's pill, not a kid's gummy.
   - A strip she'll actually take. Raspberry, dissolves on her tongue, nothing to swallow, so the plan actually happens instead of sitting in a drawer.
