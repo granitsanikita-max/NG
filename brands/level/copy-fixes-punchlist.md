@@ -1,6 +1,24 @@
-# IRYN Product Page — Copy Fix Punch List (exact find → replace)
+# IRYN Product Page — Copy Fixes
 
-> All edits are made in the GemPages editor on the **product page** (iron-strips). Each is a quick in-element edit. Nothing here deletes content Nikita wants kept. After editing, Save in GemPages and Claude will publish.
+> STATUS: ✅ ALL DONE & PUBLISHED LIVE (2026-10-03). Applied server-side via the GemPages connector (surgical node patches), published, and verified on https://tryiryn.com/products/iron-strips. Nothing was deleted; only flaws were corrected. Homepage redirect to the product page confirmed still live.
+
+## Done (verified live)
+- #13 New hero headline + eyebrow — "Her \"normal\" blood test skipped the one iron number that was low. New in 2026: doctors say check it by 14." / eyebrow "Iron made for girls 12 to 18".
+- #6 Stomach line → "Gentler on her stomach, with fewer stomach complaints".
+- #4 Stat consistency → stat card "92%" changed to "7% vs 87%" (now identical to the ingredients drawer; other 3 stats each appear once).
+- #8 Blue → garnet — the 4 benefit checkmark icons recolored to #A0203F (circle tints #F6E7EA/#E7B9C4). (Spec-card molecule icons are images Nikita said to leave.)
+- #9 "Sale 0% off" — the native price/sale row (ProductPrice x2 + ProductBadge) hidden on all devices; custom buy box untouched.
+- #10 Duplicate name — review "Lauren M." renamed to "Bianca R." (one Lauren remains, no duplicate).
+- #12 / #16 Dashes — all em/en dashes removed and "12-18" → "12 to 18" (announcement bar, hero eyebrow + bullets, ingredient drawer, FAQ "here to help", review attributions all "- Name").
+- Bonus flaw: comparison table "GemFlex" placeholder → "IRYN".
+
+## NOT changed (per Nikita)
+- Images — reviewed, good. Reviews/testimonials & "200+ 5-Star" count — Nikita handling. Footer (McAfee + iron warning). HSA/FSA (confirmed true). "Learn more" links. Currency still AUD (switch to USD market before US ads).
+
+---
+# Original punch list (for reference)
+
+> All edits were made server-side via the GemPages connector.
 
 ---
 
