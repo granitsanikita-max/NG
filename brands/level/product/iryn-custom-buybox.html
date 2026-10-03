@@ -6,12 +6,12 @@
   .iryn-bb *{box-sizing:border-box}
   .iryn-opt{display:block;border:2px solid #E7DCCB;border-radius:16px;padding:18px 20px;margin:0 0 14px;cursor:pointer;background:#FBF6EE;transition:border-color .15s,box-shadow .15s;position:relative}
   .iryn-opt:hover{border-color:#C8A86A}
-  .iryn-opt.sel{border-color:#A0203F;box-shadow:0 0 0 3px rgba(160,32,63,.10)}
+  .iryn-opt:has(input:checked){border-color:#A0203F;box-shadow:0 0 0 3px rgba(160,32,63,.10)}
   .iryn-opt input{position:absolute;opacity:0;pointer-events:none}
   .iryn-head{display:flex;align-items:center;justify-content:space-between;gap:12px}
   .iryn-name{font-weight:700;font-size:19px;display:flex;align-items:center;gap:11px}
   .iryn-dot{width:20px;height:20px;border-radius:50%;border:2px solid #B2A79A;flex:0 0 20px}
-  .iryn-opt.sel .iryn-dot{border-color:#A0203F;background:radial-gradient(#A0203F 42%,#FBF6EE 46%)}
+  .iryn-opt:has(input:checked) .iryn-dot{border-color:#A0203F;background:radial-gradient(#A0203F 42%,#FBF6EE 46%)}
   .iryn-price{font-weight:800;font-size:19px;white-space:nowrap}
   .iryn-price s{color:#9A8E80;font-weight:500;margin-right:7px}
   .iryn-badge{position:absolute;top:-11px;right:18px;background:#A0203F;color:#fff;font-size:11px;font-weight:700;letter-spacing:.05em;padding:4px 11px;border-radius:999px;text-transform:uppercase}
@@ -36,7 +36,7 @@
 </style>
 
 <div class="iryn-bb" id="irynBB">
-  <label class="iryn-opt sel" data-plan="11380130113">
+  <label class="iryn-opt" data-plan="11380130113">
     <span class="iryn-badge">Best value</span>
     <input type="radio" name="iryn-plan" value="sub" checked>
     <span class="iryn-head">
@@ -77,11 +77,12 @@
 <script>
 (function(){
   var VARIANT=67600551117121, BB=document.getElementById('irynBB'); if(!BB)return;
-  var opts=BB.querySelectorAll('.iryn-opt');
-  opts.forEach(function(o){o.addEventListener('click',function(){opts.forEach(function(x){x.classList.remove('sel')});o.classList.add('sel');o.querySelector('input').checked=true;});});
+  // Selection is native (radio + label + CSS :has). JS only handles add-to-cart.
   var btn=document.getElementById('irynAdd');
   btn.addEventListener('click',function(){
-    var sel=BB.querySelector('.iryn-opt.sel'), plan=sel?sel.getAttribute('data-plan'):'';
+    var chk=BB.querySelector('input[name="iryn-plan"]:checked');
+    var opt=chk?chk.closest('.iryn-opt'):null;
+    var plan=opt?opt.getAttribute('data-plan'):'';
     var item={id:VARIANT,quantity:1}; if(plan){item.selling_plan=Number(plan);}
     btn.disabled=true;btn.textContent='Adding...';
     fetch('/cart/add.js',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:[item]})})
