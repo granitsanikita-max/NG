@@ -92,7 +92,9 @@ Tool mechanics for the usual deliverables (these are HOW-to-call notes, not rule
 - **Google Doc inside it:** `mcp__Google_Drive__create_file` with `parentId: <folder id>`,
   `contentMimeType: "text/html"`, `textContent: <full HTML>` → auto-converts to a native Google Doc.
   Use `<h1>` per section, `<h2>` per sub-part, real `<table>`s, `<a href>` for every source URL.
-- **Markdown copies:** write each to the scratchpad and send with `SendUserFile`.
+- **Google Sheet inside it** (e.g. a data bank): `mcp__Google_Drive__create_file` with `parentId`, `contentMimeType: "text/csv"`, `textContent: <CSV>` → auto-converts to a native Sheet.
+- **Markdown copies:** write each to the scratchpad and send with `SendUserFile`. If the page asks for them in Drive too, use `contentMimeType: "text/markdown"` + `disableConversionToGoogleType: true` (otherwise Drive turns them into Docs).
+- **Browser work** (`playwright-skill`): run headless; if it fails, use `browser-use`. Never pay, never place an order, never enter real personal data.
 - **Notion write-back** (only if the page says to offer it and Nikita says yes): `mcp__Notion__notion-create-pages`
   under the product page; read `notion://docs/enhanced-markdown-spec` first.
 
