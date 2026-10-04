@@ -1,0 +1,524 @@
+{
+ "Recipe Reel (Product as Ingredient)": {
+  "orig": "Recipe Reel (Product as Ingredient)",
+  "decision": "KEEP",
+  "definition": "A food-creator style recipe video: opens on the finished, craveable dish/drink (or a 'best drink I ever made' hook), then shows the recipe built step by step with the product added as one ingredient (pack shot mid-way), and closes on the money shot / first bite.",
+  "why": "It looks like native recipe content people save and share, so the product gets screen time inside something useful instead of a pitch; ideal for consumables (powders, oils, drink mixes, sauces, supplements).",
+  "how": [
+   "Pick a craveable, trending recipe (mocktail, s'mores bars, protein bites) where your product is a natural ingredient.",
+   "Open on the finished result, then shoot hands/creator assembling it step by step with a clear branded pack shot as the product goes in.",
+   "End on the bite/sip reaction or hero shot with recipe card text and a soft CTA."
+  ],
+  "stage": "TOF",
+  "closest_existing": "UGC How-To / Product Demo - those show how to use the product itself; here the ad is a recipe and the product is just one ingredient in a bigger dish.",
+  "in_ids": [
+   "1037716495245362",
+   "2558112907940061",
+   "1372222191408540",
+   "1547023083544260",
+   "2985905978408148",
+   "886724687230197",
+   "1325854916319530",
+   "1675201200421991",
+   "1057190610423443",
+   "2298361951004641",
+   "1036824129289223",
+   "1439727921337848"
+  ],
+  "out_ids": [
+   "1636530837632480",
+   "4394495230762842",
+   "1025834956624327",
+   "1328238518708560"
+  ],
+  "top5": [
+   {
+    "id": "1037716495245362",
+    "task": "F10",
+    "brand": "Liquid I.V.",
+    "days": 130,
+    "what_you_see": "Creator makes a lime margarita with Liquid I.V. Energy stick"
+   },
+   {
+    "id": "1372222191408540",
+    "task": "F3",
+    "brand": "TruHeight Vitamins",
+    "days": 122,
+    "what_you_see": "Top-down hands roll chocolate strawberry protein bites using the shake"
+   },
+   {
+    "id": "1547023083544260",
+    "task": "F10",
+    "brand": "Ka'Chava",
+    "days": 101,
+    "what_you_see": "Ka'Chava mint mousse spread on rice cakes, chilled, bitten"
+   },
+   {
+    "id": "2985905978408148",
+    "task": "F3",
+    "brand": "Blueprint Bryan Johnson",
+    "days": 97,
+    "what_you_see": "Burrata and pesto dish built around Blueprint olive oil pour"
+   },
+   {
+    "id": "886724687230197",
+    "task": "F10",
+    "brand": "LMNT",
+    "days": 95,
+    "what_you_see": "Creator blends a watermelon hydration mocktail with an LMNT packet"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "notes": "886724687230197 appears twice in cands.json (F3 labels brand 'Mars By GHC', F10 'LMNT'); ad copy names LMNT, so LMNT is correct. 1636530837632480/1025834956624327/1328238518708560 are just powder+water drink mixing (product demo), 4394495230762842 is mostly talking heads."
+ },
+ "Animated Character Story (Pixar / Cartoon)": {
+  "orig": "Animated Character Story (Pixar / Cartoon)",
+  "decision": "KEEP",
+  "definition": "The whole ad is a short animated story (Pixar-style 3D or hand-drawn 2D picture book) with a human or pet protagonist: opens on the character living the problem, middle shows failed fixes then discovering the product, close shows the happy 'after' and a product end card.",
+  "why": "Cartoon storytelling stops the scroll, lets you dramatize embarrassing or invisible problems (bloating, acne, a sick dog) without real actors, and is cheap to make with AI video.",
+  "how": [
+   "Write a 30-60s first- or third-person story: problem moment, what they tried that failed, discovery of the product, life after.",
+   "Generate a consistent Pixar-style or storybook character and animate each beat as a scene, with captions/voiceover.",
+   "Show the real product clearly at the discovery beat and end on a product card with offer."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Claymation / Talking Objects - Claymation is a different style and Talking Objects has the product or body part narrating; here an animated person/pet acts out a problem-to-solution story.",
+  "in_ids": [
+   "2369500973518503",
+   "1258114536300128",
+   "1368542028585895",
+   "1738134914095698",
+   "1056333033820305",
+   "1070895912520145",
+   "946179727741300",
+   "1621504509367043",
+   "1521876849720910",
+   "2132981630829539",
+   "994594222952572"
+  ],
+  "out_ids": [
+   "1448368966767205",
+   "765856763183219",
+   "2215857112361101",
+   "1900938167731356"
+  ],
+  "top5": [
+   {
+    "id": "2369500973518503",
+    "task": "F1",
+    "brand": "47 Skin",
+    "days": 186,
+    "what_you_see": "Hand-drawn comic: acne guy, failed creams, serum, clear skin"
+   },
+   {
+    "id": "1258114536300128",
+    "task": "F10",
+    "brand": "MUD\\WTR",
+    "days": 76,
+    "what_you_see": "Storybook illustration of anxious coffee drinker switching to MUD\\WTR"
+   },
+   {
+    "id": "1368542028585895",
+    "task": "F3",
+    "brand": "XARA Shilajit",
+    "days": 62,
+    "what_you_see": "Pixar-style dad with shaky hands, long story to recovery"
+   },
+   {
+    "id": "1738134914095698",
+    "task": "F1",
+    "brand": "Glov Beauty",
+    "days": 44,
+    "what_you_see": "Pixar woman wakes puffy, takes capsules, glows by morning"
+   },
+   {
+    "id": "1621504509367043",
+    "task": "F10",
+    "brand": "RYZE",
+    "days": 41,
+    "what_you_see": "Spanish Pixar sitcom: husband's mushroom coffee change, friends react"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "notes": "OUT: Rheal 1448368966767205 is inside-body talking ingredient characters (Talking Characters / Mechanism); Conturve 765856763183219 is a UGC testimonial with a Pixar filter; Treatmedy 2215857112361101 is a talking bunion (Talking Body Parts); Afina 1900938167731356 is a Reply-To-Question talking head as an avatar. Treatmedy 946179727741300 is IN but mixed (cuts to real UGC in second half)."
+ },
+ "Set Up With Me (Space Makeover)": {
+  "orig": "Makeover Reveal (Space Transformation)",
+  "decision": "KEEP",
+  "definition": "A 'come set up / reset with me' video: opens on a bare, messy or outdated space (stripped bed, empty wall, cluttered counter), the creator unpacks and installs or styles the product in quick satisfying steps, and it closes on a slow pan of the finished 'dream' space.",
+  "why": "The before-to-after build is satisfying to watch and lets the viewer picture the product in their own home; best for home decor, bedding, furniture, organizers and wall art.",
+  "how": [
+   "Start on the space looking plain or tired (or the sealed package next to it) with a POV caption like 'the bed of my dreams'.",
+   "Film fast hands-on steps of putting the product in: fitting sheets, hanging the piece, placing items, with close-ups of texture and the logo tag.",
+   "End on a styled wide shot of the finished space with soft lighting or a cosy moment (candle, pet, lying down)."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Unboxing / Product Demo - Unboxing stops at the first open and Demo shows the product working; here the whole ad is installing the product into a room and revealing the transformed space.",
+  "in_ids": [
+   "943071665314958",
+   "1477436337209918",
+   "749527194196970",
+   "962856976779514",
+   "1288439903216907",
+   "876111898795162",
+   "1679232493074090",
+   "929569206659272",
+   "959498339943200",
+   "1223754943077969",
+   "1439123474542294",
+   "1335590832115033",
+   "2207309023434814",
+   "906480035854759"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "943071665314958",
+    "task": "F7",
+    "brand": "Ecoy",
+    "days": 155,
+    "what_you_see": "Creator unpacks bamboo bedding, makes bed, cosy finished bedroom"
+   },
+   {
+    "id": "1477436337209918",
+    "task": "F7",
+    "brand": "Branch",
+    "days": 150,
+    "what_you_see": "'Come set up my standing desk with me' aesthetic office build"
+   },
+   {
+    "id": "749527194196970",
+    "task": "F7",
+    "brand": "Enjoy The Wood",
+    "days": 118,
+    "what_you_see": "Unboxes wooden world map, mounts it on wall, travel montage"
+   },
+   {
+    "id": "1288439903216907",
+    "task": "F7",
+    "brand": "Ecoy",
+    "days": 76,
+    "what_you_see": "Bare mattress to fully styled striped bed, 'bed of my dreams'"
+   },
+   {
+    "id": "906480035854759",
+    "task": "F7",
+    "brand": "Dorai Home",
+    "days": 40,
+    "what_you_see": "Coffee station reset: unboxes stone mats, places them, clean counter"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "notes": "days for F7 are null in cands.json; computed as last - started. Renamed from 'Makeover Reveal (Space Transformation)'. Rowen Homes 962856976779514 is IN but weak (mostly styled console pan); left out of top5 for a cleaner Dorai example."
+ },
+ "Aesthetic Room Tour (Styled Space Walkthrough)": {
+  "orig": "Room Tour (Styled Space Walkthrough)",
+  "decision": "KEEP",
+  "definition": "A silent, music-led handheld/gimbal walkthrough of one beautifully styled room or home: opens on a 'pov: the life I want' / 'small bedrooms can still be beautiful' caption over a wide shot, glides past details (bed, lamp, shelves, textures), and closes on the full room with a 'shop the look' line.",
+  "why": "It sells the aspirational lifestyle, not the item; the viewer wants the whole room and the products come with it. Works for home decor, furniture and bedding brands with an influencer-styled space.",
+  "how": [
+   "Style one room fully with your products (or partner with a home influencer whose room already looks great).",
+   "Shoot slow gimbal glides and detail close-ups in warm golden light, with a short aspirational POV caption on top.",
+   "Cut to trending calm music, end on the hero wide shot with 'shop the collection' or a price/offer line."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Day In The Life / Satisfying B-roll - no person's routine or random b-roll here; the whole ad is a guided tour of a styled room as the aspiration.",
+  "in_ids": [
+   "1316970793600581",
+   "1775887000464135",
+   "1268107378839770",
+   "1043463844874413",
+   "1722004215547928",
+   "1428110886115422",
+   "1217963603838740",
+   "1888984758740696"
+  ],
+  "out_ids": [
+   "3388228961337812",
+   "1526100828774368",
+   "1050819300992109",
+   "1781376859647841"
+  ],
+  "top5": [
+   {
+    "id": "1316970793600581",
+    "task": "F7",
+    "brand": "DUSK",
+    "days": 198,
+    "what_you_see": "7s golden-hour pan around a styled bed, 'me + my bed'"
+   },
+   {
+    "id": "1775887000464135",
+    "task": "F7",
+    "brand": "DUSK",
+    "days": 164,
+    "what_you_see": "'pov: the life I want in Provence' French-country room tour"
+   },
+   {
+    "id": "1043463844874413",
+    "task": "F7",
+    "brand": "Nugget",
+    "days": 87,
+    "what_you_see": "Girls' room tour around blue Nugget couch, toddler playing"
+   },
+   {
+    "id": "1722004215547928",
+    "task": "F7",
+    "brand": "Rowen Homes",
+    "days": 57,
+    "what_you_see": "Night walk-in reveal of glowing luxe bedroom, candles, chandeliers"
+   },
+   {
+    "id": "1428110886115422",
+    "task": "F7",
+    "brand": "Rowen Homes",
+    "days": 43,
+    "what_you_see": "'Styling our snug' living room walkthrough with accessories"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "Only 3 brands IN; for more variety search WH for 'room tour', 'pov your home', 'dream bedroom' in home decor/furniture (e.g. Castlery, Sixpenny, Burrow, Loaf, Lulu and Georgia).",
+  "notes": "OUT: Ecoy 3388228961337812, Rowen 1526100828774368 and 1781376859647841 are single-product close-up b-roll, not a room walkthrough; Sofa Club 1050819300992109 is a staff showroom price walk (closer to listicle/recommendations). days computed from last - started; 1217963603838740 (27d) and 1888984758740696 (26d) are under 30 days."
+ },
+ "Before/After Transformation Reveal (Glow-Up)": {
+  "orig": "Barber-Chair Glow-Up",
+  "decision": "KEEP",
+  "definition": "The whole ad is one transformation: opens on the 'before' (shaggy hair in the barber chair, frizzy curls, a 'Day 0' body/face), the middle shows the product doing the work (a pro cutting and styling with it, or an AI morph sliding from Day 0 to Day 90), and it closes on the big 'after' reveal plus product card/offer.",
+  "why": "A visible change from bad to great is the strongest proof there is and the viewer watches to see the reveal; use for hair, skin, body, cleaning or any product with a visual result. Live-action (salon/barber chair) builds trust, the AI-morph version is a cheap 10s test.",
+  "how": [
+   "Pick the most dramatic 'before' you can show (real client in the chair, or an AI-generated Day 0 image) with a hook caption like 'every transformation…' or 'Face fat? gone'.",
+   "Show the product in action mid-ad: pro applying/styling it, or a smooth morph with the product pack sitting in frame.",
+   "Hold on the 'after' (turn, hair flip, Day 90 label), then cut to a clean product shot with price/offer."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Challenge / Case Studies - those follow a person over days or break down a result in talk; here the ad is just the before → product → after reveal, either a live makeover or an AI morph.",
+  "in_ids": [
+   "685204970899118",
+   "681190501221963",
+   "1529439825591722",
+   "1229885269130785",
+   "1888639361834820",
+   "1043074014778506",
+   "2578908252560432",
+   "4710738485821331"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "685204970899118",
+    "task": "F2",
+    "brand": "Forte Series",
+    "days": 484,
+    "what_you_see": "Shaggy teen in barber chair, cut and styled, reveal"
+   },
+   {
+    "id": "681190501221963",
+    "task": "F2",
+    "brand": "Forte Series",
+    "days": 484,
+    "what_you_see": "Kid's grown-out bowl cut turned into textured fade"
+   },
+   {
+    "id": "1529439825591722",
+    "task": "F3",
+    "brand": "What's Up Wellness",
+    "days": 130,
+    "what_you_see": "AI split screen: Day 0 puffy face morphs to Day 90"
+   },
+   {
+    "id": "1229885269130785",
+    "task": "F3",
+    "brand": "What's Up Wellness",
+    "days": 111,
+    "what_you_see": "AI arm fat melts from 35cm to 25cm, pills in frame"
+   },
+   {
+    "id": "4710738485821331",
+    "task": "F2",
+    "brand": "Hairstory",
+    "days": 87,
+    "what_you_see": "Salon chair: frizzy curls BEFORE, hairdresser treats, springy curls after"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "Only 3 brands; for variety search WH 'transformation', 'glow up', 'day 0 day 90', 'barber transformation' (e.g. hair tools, teeth whitening, cleaning sprays).",
+  "notes": "MERGED: 'AI Before/After Morph' is the same whole-ad beat (before -> product -> after -> pack shot) made with AI instead of a live makeover, so it is folded into this format as a variant. 'Input vs Result Pairs' is kept separate (see its entry). Hairstory 4710738485821331 is IN but has a talky middle section."
+ },
+ "AI Before/After Morph": {
+  "orig": "AI Before/After Morph",
+  "decision": "MERGE_INTO:Before/After Transformation Reveal (Glow-Up)",
+  "definition": "6-15s ad: an AI-generated body part or face morphs from 'Day 0' to 'Day 90' with the product pack in frame, then cuts to a product card with price and code.",
+  "why": "Variant of the transformation reveal; cheap and fast to test, but all IN examples are one brand.",
+  "how": [
+   "Generate a Day 0 and Day 90 image of the problem area.",
+   "Morph between them with the product pack overlaid and a punchy headline.",
+   "End on a product card with price per day and a code."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "None directly; merged into Before/After Transformation Reveal (Glow-Up) as its AI version.",
+  "in_ids": [
+   "1529439825591722",
+   "1229885269130785",
+   "1888639361834820",
+   "1043074014778506",
+   "2578908252560432"
+  ],
+  "out_ids": [],
+  "top5": [],
+  "need_fill": 0,
+  "fill_hint": "",
+  "notes": "All 5 are What's Up Wellness; 2578908252560432 is a 3-stage organ progression graphic (Day 1 / 4 weeks / 3 months). Top picks carried into the merged format."
+ },
+ "Input vs Result (Custom-Made Reveal)": {
+  "orig": "Input vs Result Pairs",
+  "decision": "KEEP",
+  "definition": "Rapid paired montage for a custom/made-to-order product: opens on a caption like 'the stones our clients chose vs the rings we made', then alternates 'the stone' / 'the inspiration' shots with the finished piece made from it, and closes on 'design yours' with the brand logo.",
+  "why": "Each pair is a mini reveal that proves craftsmanship and makes the viewer imagine their own version; ideal for personalised/custom products (custom jewellery, pet portraits, photo gifts, engraved items).",
+  "how": [
+   "Collect 4-8 pairs of customer input (photo, stone, sketch, inspiration image) and the finished product made from it.",
+   "Cut them as quick labelled pairs ('the photo' / 'the portrait') over trending music, close-up and hand-held.",
+   "End on a line like 'Send us yours / design your own' with the logo and offer."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Product Comparison Video - that compares against a competitor or old method; here each pair is the customer's raw input next to the custom piece made from it.",
+  "in_ids": [
+   "717408330649358",
+   "1425120955852842",
+   "989047503585630",
+   "798794319836636",
+   "24219285704345442"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "717408330649358",
+    "task": "F6",
+    "brand": "Staghead Designs",
+    "days": 477,
+    "what_you_see": "'Stones our clients chose vs rings we made' paired cuts"
+   },
+   {
+    "id": "989047503585630",
+    "task": "F6",
+    "brand": "Staghead Designs",
+    "days": 151,
+    "what_you_see": "Nature 'inspiration' photos then the wedding rings made from them"
+   }
+  ],
+  "need_fill": 3,
+  "fill_hint": "Only one brand found. Search WH for 'what you sent vs what we made', 'your photo vs', 'custom portrait', 'the inspo vs the result' (pet portrait shops, custom jewellery like Etsy-style brands, photo-to-plush, custom LEGO/figure brands, custom wedding cake toppers).",
+  "notes": "All 5 IN are Staghead Designs and are two creatives: 717408330649358/1425120955852842/798794319836636 = stone vs ring cut; 989047503585630/24219285704345442 = inspiration vs ring cut. Considered merging into Before/After Transformation Reveal but kept separate: it is a multi-pair portfolio showing customisation, not one problem being fixed."
+ },
+ "Stop-Motion Product Showcase": {
+  "orig": "Stop-Motion Product Build",
+  "decision": "KEEP",
+  "definition": "A 6-10s frame-by-frame stop-motion of the real product and props (no clay, no people): opens on the product alone or a closed case, items pop in, stack, pack or swap frame by frame to build a flat lay or scene, and it closes on the finished arrangement with one line of copy.",
+  "why": "The jerky 'magic' motion stops the scroll and shows many features or bundle items in seconds with no talent; great cheap test for accessories, bundles, luggage, beauty kits and gifts.",
+  "how": [
+   "Shoot top-down or locked-off on a clean backdrop; move the product and props a little between each photo.",
+   "Build a story in 40-80 frames: empty to full flat lay, unpacked to packed case, or one colourway swapping to the next.",
+   "Add one short headline ('Overpack. It fits.') and end on the finished arrangement with logo."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Claymation - same frame-by-frame technique, but here it is the real product and props building a scene, not clay characters telling a story.",
+  "in_ids": [
+   "778051511837452",
+   "1217248993687866",
+   "812418775027255"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "778051511837452",
+    "task": "F1",
+    "brand": "Musc Intime",
+    "days": 169,
+    "what_you_see": "Top-down flat lay: accessories pop in frame by frame around product"
+   },
+   {
+    "id": "1217248993687866",
+    "task": "F6",
+    "brand": "Beis",
+    "days": 138,
+    "what_you_see": "'Overpack. It fits.' suitcase unpacks and repacks itself in stop-motion"
+   },
+   {
+    "id": "812418775027255",
+    "task": "F6",
+    "brand": "Beis",
+    "days": 137,
+    "what_you_see": "Red suitcases and poppi cans hop around a beach set"
+   }
+  ],
+  "need_fill": 2,
+  "fill_hint": "Search WH for 'stop motion' / 'stopmotion' product ads in accessories, beauty kits, bags, stationery, snacks (e.g. Stoney Clover, Dagne Dover, Paravel, Calpak, Glossier gift sets).",
+  "notes": "Only 2 brands; all 3 are 7-8s."
+ },
+ "Prop Analogy Explainer (Physical Mechanism Demo)": {
+  "orig": "Prop Analogy Explainer",
+  "decision": "KEEP",
+  "definition": "An expert in a white coat (or just hands) explains how the problem works using an everyday object as a stand-in for the body: opens on the prop and a hook ('nobody wants to be the short kid', 'double cleansing: scam?'), the middle acts the mechanism out on the prop (orange peel = pores, tube = urethra, pool noodle = growth plate, straw = blood vessel), and it closes with the product as the fix plus offer.",
+  "why": "A physical analogy makes an invisible mechanism instantly understandable and believable, and the odd prop is a pattern-interrupt hook; best for supplements, skincare and health devices.",
+  "how": [
+   "Pick one cheap prop that mirrors the body part or problem (fruit for skin, hose for veins, sponge for gut lining).",
+   "Script 30-60s where every claim is shown on the prop: the problem happening, why common fixes fail, what your product's ingredient does.",
+   "Bring the product into frame next to the prop for the fix, then end with the offer."
+  ],
+  "stage": "MOF",
+  "closest_existing": "Fake Doctor / Animated Mechanism Explainer - Fake Doctor is a spoken endorsement and the Mechanism Explainer is animation; here the mechanism is acted out on a physical everyday prop, with or without a presenter.",
+  "in_ids": [
+   "1994081387816659",
+   "954924096930369",
+   "1493247792497710",
+   "1611165333679424",
+   "2628059367611925",
+   "3120800814978325"
+  ],
+  "out_ids": [
+   "967410415706788"
+  ],
+  "top5": [
+   {
+    "id": "1994081387816659",
+    "task": "F1",
+    "brand": "MooGoo AU",
+    "days": 262,
+    "what_you_see": "Makeup smeared on orange, oil cleanser washes the 'pores' clean"
+   },
+   {
+    "id": "954924096930369",
+    "task": "F3",
+    "brand": "Triquetra™",
+    "days": 178,
+    "what_you_see": "Pharmacist uses plastic tube as urethra to explain UTIs"
+   },
+   {
+    "id": "1493247792497710",
+    "task": "F3",
+    "brand": "Juvenon",
+    "days": 146,
+    "what_you_see": "Lab-coat doctor squeezes red straw to show blood flow"
+   },
+   {
+    "id": "1611165333679424",
+    "task": "F3",
+    "brand": "First Day Life Inc.",
+    "days": 47,
+    "what_you_see": "Pharmacist measures a model femur to explain growth plates"
+   },
+   {
+    "id": "2628059367611925",
+    "task": "F3",
+    "brand": "First Day Life Inc.",
+    "days": 37,
+    "what_you_see": "Doctor uses pool-noodle 'bone' for growth plates, stitch reply"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "notes": "Borderline with Fake Doctor for the white-coat ones, but the prop demo carries the whole ad, so kept. OUT: Rheal 967410415706788 is a hand-drawn whiteboard stick-figure story (whiteboard animation), not a prop analogy. 3120800814978325 is the Spanish version of 2628059367611925."
+ }
+}

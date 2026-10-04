@@ -1,0 +1,61 @@
+{
+ "Brand Blunder Confession": [
+  {
+   "id": "1772207307124456",
+   "brand": "RYZE",
+   "domain": "ryzesuperfoods",
+   "started": "2026-09-04",
+   "last": "2026-10-02",
+   "page_active_ads": 4516,
+   "ad_text": "RYZE's Ritual Set elevates coffee into a full experience. Made in the USA, this set contains 2 bags of our Iconic Mushroom Coffee with 6 Adaptogenic Mushrooms paired with a creamy, nutrient-dense prob",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/976dcfb935100a1f56fd60ba0fdc3c86ddefc8274989aeb101fb9e85f083f1dd.mp4",
+   "what_you_see": "3D mascot: 'we f*cked up at 30% off', 3% error, 50% fix",
+   "task": "XR2b",
+   "days": 28
+  }
+ ],
+ "Torture Test (Try To Break It)": [
+  {
+   "id": "4198221343824436",
+   "brand": "The Perfect Jean",
+   "domain": "theperfectjean.nyc",
+   "started": "2026-08-13",
+   "last": "2026-10-02",
+   "page_active_ads": 0,
+   "ad_text": "We fixed uncomfortable nut-crushing jeans. \n\n\ud83e\udd5c Everything fits as it should \n\ud83c\udf51 \ud83d\udc40 Your booty will get long looks \n\u2601\ufe0f So comfy \u2026 you'll think they're sweats",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/4bdb971c9e352714c9ee7712567a2d811926438bc1d014f6ecced653be365c60.mp4",
+   "what_you_see": "jeans stretch-tested: splits, pilates machine, kettlebell lunges, survive",
+   "task": "XR2b",
+   "days": 50
+  },
+  {
+   "id": "1006011405497863",
+   "brand": "Mous",
+   "domain": "mous.co",
+   "started": "2026-06-23",
+   "last": "2026-09-28",
+   "page_active_ads": 1038,
+   "ad_text": "Most carry-ons make you choose: light but fragile, or tough but heavy. The Mous Optimal Carry-On does both. Now on sale as part of our Summer Sale - up to 30% off across Mous.",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/8cd257018592e3a69d1b0399d7053e18605e1b540c83b40b5a1d66a8abe7581c.mp4",
+   "what_you_see": "suitcase dropped from atrium, 250m, out of plane; survives (some engineering inserts)",
+   "confidence": "medium",
+   "task": "XR2b",
+   "days": 97
+  }
+ ],
+ "Meme Montage (Chaos Edit)": [
+  {
+   "id": "926269247152799",
+   "brand": "Mythos Men (via Tim Gray page)",
+   "domain": "mythosmen.com",
+   "started": "2026-07-10",
+   "last": "2026-10-01",
+   "page_active_ads": 94,
+   "ad_text": "Your \u201cskincare\u201d is pro-aging not anti-aging, and here\u2019s why.  It\u2019s loaded with junk that wrecks your skin barrier, clogs your pores, and creates problems that keep you coming back for more of their so",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/95c9c82c5e1dacb6f5a9609654f1c16ce534f7bb4acbba6656dea0a138d89c96.mp4",
+   "what_you_see": "VO over rapid stock/movie clips, glitch tears, article screenshots, cream at end",
+   "task": "XR2b",
+   "days": 83
+  }
+ ]
+}

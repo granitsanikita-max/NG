@@ -1,0 +1,494 @@
+{
+ "Offer Stack Breakdown (Here's Everything You Get)": {
+  "orig": "Offer Stack Breakdown",
+  "decision": "KEEP",
+  "definition": "The whole ad is the deal itself: a hook that teases an unbelievable offer ('someone's getting fired', 'we need to apologize to anyone who paid full price'), then the presenter or hands pull out each item one at a time and name it ('you get X... plus Y for FREE... plus Z'), stacking value until a price/discount reveal, guarantee and 'before it's gone' close.",
+  "why": "Turns a bundle or gift-with-purchase into a visible pile of value so the price feels like a steal; best for warm audiences and sale periods when you have a bundle or free gifts to push.",
+  "how": [
+   "Build a bundle (main product + 2-4 cheap free add-ons) and open on an offer-shock hook like 'Don't buy X until you see this deal'.",
+   "Hold up or unpack each item one by one with a caption per item ('FREE glass bottle', 'PLUS a travel bag'), keeping a running 'and you also get...' rhythm.",
+   "Reveal total value vs price (or % off / per-unit price), add the guarantee, and close with urgency ('grab it before it's gone')."
+  ],
+  "stage": "MOF→BOF",
+  "closest_existing": "Unboxing (First-Open Reveal) - unboxing is about the first-impression reveal of one product; here every beat is a priced offer item and the ad is built around the deal math, not the product experience.",
+  "in_ids": [
+   "1130611919221946",
+   "1066312073228557",
+   "942742718274357",
+   "924692671576497",
+   "813455875016330",
+   "1554108232806606",
+   "1897571854253613",
+   "1453131842740755",
+   "1019630987348231",
+   "1500318558314351",
+   "1331875889069377",
+   "1537021514729840",
+   "2265976960806495",
+   "1726292658688618",
+   "1554939879433258",
+   "4587509791464299",
+   "1310659034231126",
+   "1514129467132564",
+   "1763901121464129",
+   "1772207307124456"
+  ],
+  "out_ids": [
+   "2066381924180988",
+   "2029464044450533",
+   "955938787269601",
+   "1305425777677804"
+  ],
+  "top5": [
+   {
+    "id": "1130611919221946",
+    "task": "F3",
+    "brand": "Ancestral Supplements",
+    "days": 347,
+    "what_you_see": "Woman at kitchen table lists each free bottle in the welcome kit"
+   },
+   {
+    "id": "1066312073228557",
+    "task": "F3",
+    "brand": "RYZE",
+    "days": 208,
+    "what_you_see": "Creator holds up each bundle item, then cuts to price page"
+   },
+   {
+    "id": "1554108232806606",
+    "task": "F3",
+    "brand": "Zooki",
+    "days": 143,
+    "what_you_see": "Hands unpack starter box, caption labels each 'Free' item"
+   },
+   {
+    "id": "1019630987348231",
+    "task": "F10",
+    "brand": "Dr. Squatch",
+    "days": 95,
+    "what_you_see": "'9 soaps and a FREE Dopp kit?' then kit features and 39% off"
+   },
+   {
+    "id": "1331875889069377",
+    "task": "F3",
+    "brand": "CUPPA",
+    "days": 94,
+    "what_you_see": "Sticky-note 50% off, per-cup price math, 360 cups unpacked"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": ""
+ },
+ "Video Static (Caption Over Looping B-roll)": {
+  "orig": "Video Static (Caption Over Looping B-roll)",
+  "decision": "KEEP",
+  "definition": "A 5-20s ad that is basically a static ad that moves: one silent, lo-fi b-roll loop of the product (pour, stir, fizz, held bottle) with a single headline or meme caption burned on top (sometimes a few benefit tags or a short rolling caption list), no voiceover or presenter, ending on the same shot or a quick product/offer card.",
+  "why": "As cheap as a static image to make but plays as native video, so you can test dozens of headlines/angles fast; best for consumables and any product with a satisfying visual action.",
+  "how": [
+   "Film one 5-10s phone clip of the product's best action (pour, mix, open, spray, wear) in natural light.",
+   "Burn one strong headline on top (question, POV, 'X for less than $Y', relatable line) plus 2-4 small benefit/price tags if needed.",
+   "Export 3-10 versions with different headlines on the same loop and let spend pick the winner."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Text-Wall Story (Read-Along Still) - that is one still image carrying a long story; here it is a moving product loop with a single short headline, no story and no dwell-time read.",
+  "in_ids": [
+   "2349608395507901",
+   "26237670925862586",
+   "2138323566987492",
+   "894751580190538",
+   "1185390070270794",
+   "1297705718433070",
+   "1661358555016636",
+   "937303935581067",
+   "26744175965235987",
+   "1549408100253437",
+   "2560449447734884",
+   "1296027135731221",
+   "1832651604381253",
+   "28076098228694419",
+   "1603440464860082",
+   "1060974249653108",
+   "3260369560831510",
+   "2270145187120529",
+   "1591574399014634"
+  ],
+  "out_ids": [
+   "1489075852504663",
+   "4554613578152887"
+  ],
+  "top5": [
+   {
+    "id": "2349608395507901",
+    "task": "F10",
+    "brand": "Huel",
+    "days": 233,
+    "what_you_see": "Forks lifting pasta cups under 'Eat pasta. Lose weight?' headline"
+   },
+   {
+    "id": "26237670925862586",
+    "task": "F10",
+    "brand": "Magic Spoon",
+    "days": 214,
+    "what_you_see": "Cereal pour loop then mom and kid, one nostalgic caption"
+   },
+   {
+    "id": "937303935581067",
+    "task": "F3",
+    "brand": "TruHeight Vitamins",
+    "days": 158,
+    "what_you_see": "Gummies poured into palm by tree, 'gift my moody teen thanked me for'"
+   },
+   {
+    "id": "26744175965235987",
+    "task": "F3",
+    "brand": "Zooki",
+    "days": 145,
+    "what_you_see": "Silent sachet pour b-roll under rolling 'POV: 1 month later' results"
+   },
+   {
+    "id": "1549408100253437",
+    "task": "F10",
+    "brand": "MUD\\WTR",
+    "days": 78,
+    "what_you_see": "Iced drink pour with typewriter caption, ends on $25-off card"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": ""
+ },
+ "AI Story VSL (Cinematic Caption Story)": {
+  "orig": "AI Cinematic Caption Story",
+  "decision": "KEEP",
+  "definition": "A 45-120s story-VSL told entirely through AI-generated, film-look scenes with burned-in captions (often with VO): it opens on a humiliating or emotional moment from the buyer's or spouse's point of view ('At 43 I had to ask for an XXL', 'My wife came home and froze'), shows the struggle and failed fixes, reveals the hidden cause with a 3D mechanism shot, then the product, the transformation scenes and a guarantee/offer close. No real presenter carries the ad.",
+  "why": "Gets the emotional pull of a long advertorial story with cinematic visuals you could never afford to shoot; best for problem-aware supplements and health/wellness products with a 'hidden cause' angle.",
+  "how": [
+   "Write a 60-90s first-person (or spouse's) story script: embarrassing moment -> 'I was doing everything right' -> real hidden cause -> product -> life after -> guarantee.",
+   "Generate one consistent AI character across 10-15 cinematic scenes plus 1-2 3D mechanism shots (organ/cell glow), and burn each script line on as a caption.",
+   "Close on real product-in-hand footage and the offer (guarantee, bundle, 'link below')."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Personal Story [TOF,MOF] - same story arc, but here no creator is on camera: the whole story is acted out in AI cinematic scenes with captions/VO, plus a built-in mechanism reveal like a VSL.",
+  "in_ids": [
+   "973297965302771",
+   "3990882254426035",
+   "1577272050811142",
+   "4580180292226566"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "973297965302771",
+    "task": "F3",
+    "brand": "Beyond Alpha",
+    "days": 145,
+    "what_you_see": "AI man buys XXL shirt, cortisol glow, quiz, then eats freely"
+   },
+   {
+    "id": "3990882254426035",
+    "task": "F3",
+    "brand": "XARA Shilajit",
+    "days": 98,
+    "what_you_see": "Wife narrates husband's decline, mitochondria shots, AI recovery scenes"
+   },
+   {
+    "id": "1577272050811142",
+    "task": "F3",
+    "brand": "Beyond Alpha",
+    "days": 77,
+    "what_you_see": "'My wife came home and froze', liver mechanism, bottle on beach"
+   },
+   {
+    "id": "4580180292226566",
+    "task": "F3",
+    "brand": "XARA Shilajit",
+    "days": 62,
+    "what_you_see": "AI couple, Rx note 'just manages', blood-cell shot, buy-2-get-1 card"
+   }
+  ],
+  "need_fill": 1,
+  "fill_hint": "WH keywords: 'my wife', 'I was doing everything right', 'the real reason', 'hidden cause' + AI-looking video in supplements (shilajit, testosterone, menopause, weight loss, joint, gut); brands like Happy Mammoth, Primal Queen, Physicians Choice, Blessed Herbs."
+ },
+ "Meme Caption Loop": {
+  "orig": "Meme Caption Loop",
+  "decision": "MERGE_INTO:Video Static (Caption Over Looping B-roll)",
+  "definition": "A 4-10s single-shot (or quick-montage) clip with one relatable meme-format caption ('Me cancelling my $900 dental surgery after...', 'When you know who the killer is but can't prove it yet', 'Forever girl who needs something in her arms to fall asleep'), no voiceover, product visible in frame; it ends when the loop ends.",
+  "why": "Reads as a meme post rather than an ad, so it gets shared and watched to the end; same build as Video Static, only the caption is a relatable joke instead of a product headline.",
+  "how": [
+   "Film or source a 5-8s clip of someone (or a pet) using the product in a funny or relatable moment.",
+   "Write one 'Me when...' / 'When you...' caption that ties the joke to the product's benefit.",
+   "Burn it on in native TikTok/IG text style, no VO, and test several captions on the same clip."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Reaction / Trend-Hijack (Borrowed Fame) - that borrows an existing viral clip or trend; here it is the brand's own simple clip with a meme caption. Structurally identical to Video Static, so merged as its meme-caption variant.",
+  "in_ids": [
+   "712313431721940",
+   "1288145859858445",
+   "947318567670711",
+   "1909634189718614",
+   "2045691902976961",
+   "1727829568267212",
+   "1599244741628618"
+  ],
+  "out_ids": [
+   "2171490000285894"
+  ],
+  "top5": [
+   {
+    "id": "712313431721940",
+    "task": "F9",
+    "brand": "Kawaiies",
+    "days": 273,
+    "what_you_see": "Girl in bed hugging plush, 'forever girl who needs something' caption"
+   },
+   {
+    "id": "947318567670711",
+    "task": "F9",
+    "brand": "Detective for a Day",
+    "days": 202,
+    "what_you_see": "Nodding-man meme cutout over case files, 'when you know the killer'"
+   },
+   {
+    "id": "1909634189718614",
+    "task": "F4",
+    "brand": "NovaaLab",
+    "days": 139,
+    "what_you_see": "Sunglasses-cat meme over woman using red-light mouthpiece, '$900 surgery'"
+   },
+   {
+    "id": "2045691902976961",
+    "task": "F1",
+    "brand": "Mito Red Light",
+    "days": 80,
+    "what_you_see": "Woman wears glowing LED mask at airport gate, 'stop caring' caption"
+   },
+   {
+    "id": "1599244741628618",
+    "task": "F9",
+    "brand": "YuMOVE",
+    "days": 41,
+    "what_you_see": "Dog staring at laptop beside product, 'Me trying to figure out why'"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": ""
+ },
+ "Meme Montage (Chaos Edit)": {
+  "orig": "Meme Montage (Chaos Edit)",
+  "decision": "KEEP",
+  "definition": "A voiceover (or punchy one-word captions) carries the pitch while the picture cuts every 1-2s to a different borrowed or absurd clip - archival B&W film, movie/anime moments, stunts, stock disasters, glitch zooms, cut-out meme stickers - with big word-by-word captions; the product only appears in a beat or two near the end, then a logo/CTA.",
+  "why": "The 'brainrot' edit pace makes it impossible to scroll past and lets a dry message (mechanism, comfort, ingredients) feel like entertainment; best for younger, meme-literate audiences and brands with a playful voice.",
+  "how": [
+   "Write a tight 20-45s VO or caption script for the product's one key claim (problem -> mechanism -> product).",
+   "Cut a visual every 1-2s that literally or absurdly illustrates each word (archival clips, movie/anime moments, stock disasters, stunts), with glitch/zoom transitions and bold word-by-word captions.",
+   "Land the product in the last 5-8s (founder or hand holding it) and end on logo + one-line CTA."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Reaction / Trend-Hijack (Borrowed Fame) - that borrows one existing viral clip or trend and reacts to it; here dozens of unrelated borrowed/absurd clips are spliced under your own VO as pure edit style.",
+  "in_ids": [
+   "2989135171293080",
+   "980774204372969",
+   "2090318125162799"
+  ],
+  "out_ids": [
+   "2068796140658477"
+  ],
+  "top5": [
+   {
+    "id": "2989135171293080",
+    "task": "F3",
+    "brand": "Rho Nutrition",
+    "days": 187,
+    "what_you_see": "Founder VO over rapid archival, anime and trash-pile clips, word captions"
+   },
+   {
+    "id": "980774204372969",
+    "task": "F6",
+    "brand": "The Perfect Jean",
+    "days": 130,
+    "what_you_see": "Comedian, log squats, flying kicks, glitch zooms, 'Butt slappingly comfy'"
+   },
+   {
+    "id": "2090318125162799",
+    "task": "F3",
+    "brand": "Blueprint Bryan Johnson",
+    "days": 129,
+    "what_you_see": "Founder cut-outs as wizard/scientist, scribble text, glitch pun edit"
+   }
+  ],
+  "need_fill": 2,
+  "fill_hint": "WH keywords: fast-cut / 'brainrot' edit with archival or movie clips under VO; look at Gen-Z-voiced DTC brands (Liquid Death, Rho, Magic Mind, Feastables, Duolingo-style), plus apparel and supplements using meme editors; search phrases like 'here's why', 'your body when', 'meanwhile your liver'."
+ },
+ "Multi-Panel Split Screen": {
+  "orig": "Multi-Panel Split Screen",
+  "decision": "KEEP",
+  "definition": "The vertical frame is cut into 2-9 panels that all play at the same time for the whole ad: e.g. on-model 360 spin, macro fabric/detail loop, back view, several body types or several outfits, with a small brand/product label or one title tile ('Fall '26 is here', 'Stretchy jeans will change your life'); no VO or presenter, 6-15s.",
+  "why": "Shows fit, detail, movement and range in one glance with no edit for the eye to wait on, so it works as a richer catalog ad; best for apparel, underwear and anything where fit plus texture sells.",
+  "how": [
+   "Shoot 3-4 short clips of the same product: on-model spin, back view, close-up texture/detail, and a second model or colourway.",
+   "Stack them as 3-4 horizontal panels (or a 3x3 grid for a collection) all looping at once, aligned to the same beat.",
+   "Add the brand + product name (or one headline tile) and keep it 6-15s with no VO."
+  ],
+  "stage": "MOF",
+  "closest_existing": "Try-On Haul [MOF] - a haul shows one creator trying pieces one after another with talking; here several silent views play at the same time in split panels, like a moving catalog page.",
+  "in_ids": [
+   "1460973045563494",
+   "935791209534017",
+   "1338586601815927",
+   "3519356034891816",
+   "888478744121951"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "1460973045563494",
+    "task": "F6",
+    "brand": "The Perfect Jean",
+    "days": 130,
+    "what_you_see": "Four panels: men dancing and squatting in jeans, one headline bar"
+   },
+   {
+    "id": "935791209534017",
+    "task": "F6",
+    "brand": "Scuffers",
+    "days": 84,
+    "what_you_see": "Three stacked panels: hoodie spin, model turn, embossed logo macro"
+   },
+   {
+    "id": "1338586601815927",
+    "task": "F6",
+    "brand": "Scuffers",
+    "days": 82,
+    "what_you_see": "Three panels: striped zip hoodie logo, model spin, zipper close-up"
+   },
+   {
+    "id": "3519356034891816",
+    "task": "F5",
+    "brand": "Show Me Your Mumu",
+    "days": 39,
+    "what_you_see": "3x3 grid of outfit clips around a 'Fall '26 is here' tile"
+   },
+   {
+    "id": "888478744121951",
+    "task": "F6",
+    "brand": "Negative Underwear",
+    "days": 34,
+    "what_you_see": "Two side-by-side panels of models moving in white underwear set"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": ""
+ },
+ "Not For Everyone (Reverse Qualifier)": {
+  "orig": "Not For Everyone (Reverse Qualifier)",
+  "decision": "KEEP",
+  "definition": "Opens with reverse psychology - 'Don't buy X', '3 reasons you SHOULDN'T buy X', 'Honestly, this isn't for everyone' - then runs a list of sarcastic or tongue-in-cheek disqualifiers ('if you're okay with blades that dull in months', 'if the pharmacy creams are working', 'you're just not that into glowing skin (said no one ever)'), each one secretly a benefit, before flipping to 'but if you want...' and closing on proof plus a guarantee/CTA.",
+  "why": "The 'don't buy' hook breaks ad blindness and makes the viewer qualify themselves in, so the pitch feels like honest filtering rather than selling; great for premium-priced products and markets tired of hype.",
+  "how": [
+   "Open on a 'Don't buy [product] if...' / 'This isn't for everyone' line on the hero shot or a creator to camera.",
+   "List 3-5 disqualifiers that are really the pains your product solves (shown as captions, sticky notes or product demo shots, each with a wink).",
+   "Flip to 'But if you want [result]...', show one proof point or mechanism, and close on the guarantee and CTA."
+  ],
+  "stage": "MOF",
+  "closest_existing": "Myth Buster [TOF,MOF] - myth buster corrects a false belief; here the whole ad is framed as reasons NOT to buy, and each 'reason' is a disguised benefit before the flip.",
+  "in_ids": [
+   "1468049567940500",
+   "1055423120336410",
+   "919062081231058",
+   "37561393730170453",
+   "1372687405013270",
+   "895676026557267",
+   "1093099903252398",
+   "1057414157012182"
+  ],
+  "out_ids": [
+   "4222070318084634",
+   "2458410037903916"
+  ],
+  "top5": [
+   {
+    "id": "1468049567940500",
+    "task": "F1",
+    "brand": "Dermaflash",
+    "days": 136,
+    "what_you_see": "'3 reasons you SHOULDN'T buy Dermaflash' with sarcastic captions over use"
+   },
+   {
+    "id": "1055423120336410",
+    "task": "F1",
+    "brand": "Dermaflash",
+    "days": 106,
+    "what_you_see": "14s cut of the 3 sarcastic 'don't buy' reasons, awards end card"
+   },
+   {
+    "id": "919062081231058",
+    "task": "F1",
+    "brand": "47 Skin",
+    "days": 65,
+    "what_you_see": "Woman says 'Don't buy 47 Skin', holds up sticky-note disqualifiers"
+   },
+   {
+    "id": "37561393730170453",
+    "task": "F7",
+    "brand": "HexClad",
+    "days": 53,
+    "what_you_see": "'HexClad knives aren't for...' cheap knives, dull blades, struggling chops"
+   },
+   {
+    "id": "1372687405013270",
+    "task": "F7",
+    "brand": "HexClad",
+    "days": 53,
+    "what_you_see": "'Honestly, this sharpness isn't for everyone' then knife slicing demos"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "More brands welcome: WH keywords 'don't buy', 'reasons you shouldn't buy', 'not for everyone', 'this isn't for you if'."
+ },
+ "Review Read-Aloud (Owner Reads Real Reviews)": {
+  "orig": "Review Read-Aloud",
+  "decision": "KEEP",
+  "definition": "The owner, founder or an expert host sits with a tablet/laptop (selfie or podcast set) and goes through real customer reviews or customer-submitted before/after photos one at a time, each shown on screen as a screenshot/photo card, reading them aloud and reacting/explaining; often opens by addressing a skeptic ('these positive reviews are all bought!') and closes with the guarantee and link. Usually long (1-5 min).",
+  "why": "Turns a pile of reviews into a personal, believable walkthrough that answers 'are these real?' head-on; best for warm/retargeting audiences and products with lots of strong written reviews or customer photos.",
+  "how": [
+   "Open on the objection: read a skeptical comment ('your reviews are fake') or tease 'let's look at what you sent us'.",
+   "Sit with a tablet and read 5-10 real reviews (or react to before/after photos) one by one, overlaying each as a Trustpilot/review screenshot and adding a short comment on each.",
+   "Close by restating the guarantee ('if it doesn't work you get your money back') and pointing to the link."
+  ],
+  "stage": "MOF→BOF",
+  "closest_existing": "UGC Testimonial Mashup [BOF] - that cuts together clips of customers speaking; here no customer appears, the owner/host reads their written reviews or photos aloud and reacts to each.",
+  "in_ids": [
+   "26980943081548759",
+   "1654069942373105",
+   "2228639004554110",
+   "1801162964185192"
+  ],
+  "out_ids": [
+   "1549136686117372"
+  ],
+  "top5": [
+   {
+    "id": "26980943081548759",
+    "task": "F9",
+    "brand": "Tierliebhaber",
+    "days": 124,
+    "what_you_see": "Owner with tablet answers 'reviews are bought' comment, reads reviews"
+   },
+   {
+    "id": "1654069942373105",
+    "task": "F3",
+    "brand": "Zooki",
+    "days": 110,
+    "what_you_see": "Host on podcast set reacts to customer collagen before/after photos"
+   },
+   {
+    "id": "2228639004554110",
+    "task": "F9",
+    "brand": "Tierliebhaber",
+    "days": 39,
+    "what_you_see": "Woman reads Trustpilot reviews aloud, each shown as screenshot card"
+   }
+  ],
+  "need_fill": 2,
+  "fill_hint": "WH keywords: 'reading your reviews', 'reacting to your reviews', 'are these reviews real', 'reading comments', 'Trustpilot' + founder/owner selfie video; supplements, pet health, skincare brands; e.g. founders of Ancestral Supplements, Primal Viking, Bloom, Arrae, Mary Ruth's, Nutrafol."
+ }
+}

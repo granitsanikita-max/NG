@@ -1,0 +1,431 @@
+{
+ "Cinematic Brand Film (TV-Style Spot)": {
+  "orig": "Cinematic Brand Film (TV-Style Spot)",
+  "decision": "KEEP",
+  "definition": "A polished, agency-grade commercial with no one talking to camera: it opens on a striking cinematic shot (location, model or CGI product), cuts through a music-led montage of styled lifestyle, macro texture or CGI product shots (often one short feature super per shot), and closes on a logo/wordmark or offer end card.",
+  "why": "Sells a premium mood and perceived brand size instead of an argument, so it lifts trust and price tolerance for aesthetic or giftable products, especially to warm-ish audiences and as a retargeting/brand layer.",
+  "how": [
+   "Pick one setting/mood that matches the buyer's aspiration (rainy city, golden-hour beach, moody studio) or render the product in CGI.",
+   "Shoot 8-12 slow, well-lit shots: product hero, macro textures, hands/model using it; add one 2-4 word benefit super per shot, no voiceover.",
+   "Cut to a licensed music track and end on a clean logo + offer card."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Satisfying B-roll (Front-Splice) / Product Demo Ads: those buy attention or show function; this is a whole wordless TV-style brand spot selling mood and premium perception.",
+  "in_ids": [
+   "1387335803193129",
+   "2416173998899411",
+   "926015000036243",
+   "1275128731376238",
+   "936540595867365",
+   "2098554740710541",
+   "1329261262459348",
+   "1857316164950231",
+   "2527846214301618",
+   "1615372222870035",
+   "1381364753796081",
+   "995095832880188",
+   "2288178118660811",
+   "833756639481704",
+   "1553469756346143",
+   "892228393225606",
+   "819565501208109",
+   "1348997450307573",
+   "509277398428097",
+   "1024496733525048",
+   "794009666771040",
+   "887324561115608",
+   "1457818005648164",
+   "1323239646373607",
+   "1327749379512917"
+  ],
+  "out_ids": [
+   "935452389385601",
+   "1653958469074638",
+   "1296616069095847",
+   "829701569900062",
+   "993898026377768",
+   "3134874786705433",
+   "1513471234163267"
+  ],
+  "unviewed_ids_note": "Remaining ~65 weaker candidates (mostly Big Joe/Rowen/EBC/Sol de Janeiro/Paul Rich F6-F7 dups) not viewed; defs match the format but unverified.",
+  "top5": [
+   {
+    "id": "1387335803193129",
+    "task": "F2",
+    "brand": "Fugazzi Fragrances",
+    "days": 228,
+    "what_you_see": "Wordless fashion film: model with umbrella on rainy Amsterdam canal, perfume close-ups"
+   },
+   {
+    "id": "2416173998899411",
+    "task": "F8",
+    "brand": "xTool",
+    "days": 214,
+    "what_you_see": "Polished laser-cutter montage, one benefit super per shot, logo end card"
+   },
+   {
+    "id": "926015000036243",
+    "task": "F10",
+    "brand": "LMNT",
+    "days": 195,
+    "what_you_see": "All-CGI cans splashing and spinning through icy sets, logo end"
+   },
+   {
+    "id": "1275128731376238",
+    "task": "F6",
+    "brand": "AMIRI",
+    "days": 163,
+    "what_you_see": "Gloved hands open luxury trunk, slow macro sunglasses shots, wordmark close"
+   },
+   {
+    "id": "936540595867365",
+    "task": "F9",
+    "brand": "Gathre",
+    "days": 154,
+    "what_you_see": "Studio launch film: kids pillow-fight on styled bedding, 'Introducing' super"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": ""
+ },
+ "Brand Anthem Montage (Manifesto)": {
+  "orig": "Brand Anthem Montage (Manifesto)",
+  "decision": "KEEP",
+  "definition": "A cinematic manifesto: opens on a bold logo or one-word line, then a fast montage of many aspirational people/moments (or one protagonist in vignettes) runs under a single VO or word-by-word super that states what the brand believes, and closes on logo + tagline.",
+  "why": "Turns a commodity into an identity ('people like us use this'), building brand recall and a tribe; best for cold reach and to give the brand a point of view.",
+  "how": [
+   "Write a 4-8 line belief statement about the buyer's identity, not the product (e.g. 'Your body needs it to perform, to recover, to embrace the moments').",
+   "Cut 10-15 short, high-energy lifestyle/athlete clips (stock or shot), one line of the manifesto per clip as a centered super or VO.",
+   "Show the product only in 1-2 beats, end on logo + tagline."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Goal / Dream Journey or Personal Story: those follow one real person's arc; this is a belief statement read over a montage of many people.",
+  "in_ids": [
+   "972179725676918",
+   "1032924236301362",
+   "927460427093574",
+   "1638356224357953",
+   "1114148784517302",
+   "1043120071786098",
+   "27427085420324416"
+  ],
+  "out_ids": [
+   "1479383397164591",
+   "1337955105115499",
+   "1289235449795603"
+  ],
+  "notes": "1479383397164591 is a named-expert doc (fits Mini-Doc Portrait); 1337955105115499/1289235449795603 are 6s LMNT bumpers (Micro Bumper). Suta 1043120071786098/27427085420324416 (from Cinematic Mini-Film) are poem-over-vignettes and fit here (poem variant).",
+  "top5": [
+   {
+    "id": "972179725676918",
+    "task": "F10",
+    "brand": "LMNT",
+    "days": 168,
+    "what_you_see": "Cyclists, swimmers, firefighter montage, one manifesto line per shot, logo"
+   },
+   {
+    "id": "1032924236301362",
+    "task": "F10",
+    "brand": "MUD\\WTR",
+    "days": 59,
+    "what_you_see": "100s brand-story montage with word-by-word italic captions"
+   },
+   {
+    "id": "1043120071786098",
+    "task": "F5",
+    "brand": "Suta",
+    "days": 57,
+    "what_you_see": "Saree-clad woman in quiet vignettes under a Hindi love poem"
+   },
+   {
+    "id": "1638356224357953",
+    "task": "F10",
+    "brand": "AG1",
+    "days": 38,
+    "what_you_see": "Football club sponsorship anthem: stadium, goals, players drinking AG1"
+   }
+  ],
+  "need_fill": 1,
+  "fill_hint": "WH search 'manifesto' / 'this is for the' / 'we believe' video ads; brands: Liquid Death, Oura, Athletic Brewing, Gymshark, Vuori, Hydro Flask."
+ },
+ "Cinematic Mini-Film (Brand Short Story)": {
+  "orig": "Cinematic Mini-Film (Brand Short Story)",
+  "decision": "KEEP",
+  "definition": "A 10-40s film-style micro story with a character, a setting and a small plot (a bellhop loads the bag, a man hunts the sea for his underwear, a kid's fingerprint becomes mom's necklace): the product is a prop inside the scene, there is no pitch or VO, and it ends on a title-card style logo.",
+  "why": "Feels like a film scene, not an ad, so it earns attention and brand intrigue; works for fashion, gifting and lifestyle products with a strong aesthetic.",
+  "how": [
+   "Write a 3-beat scene (setup, small twist/action, payoff) where the product is the object the character wants or uses.",
+   "Shoot it like cinema: one location, styled cast, slow camera, natural sound or one music cue, no talking to camera.",
+   "End on a title card with the brand name (like a film title) instead of a hard offer."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Scenarios / Day In The Life: those are creator-native or hypothetical; this is a scripted cinematic scene with a micro plot and a film title-card close.",
+  "in_ids": [
+   "846304927918102",
+   "1629053538548383",
+   "1269739657972754",
+   "2489949364805115",
+   "1284930893518248"
+  ],
+  "out_ids": [
+   "4400846716896826",
+   "1043120071786098",
+   "27427085420324416"
+  ],
+  "notes": "Paul Rich 4400846716896826 is a mood film (Cinematic Brand Film). Suta pair is poem-over-vignettes (moved to Brand Anthem). 1284930893518248 is the same creative as 1269739657972754.",
+  "top5": [
+   {
+    "id": "846304927918102",
+    "task": "F6",
+    "brand": "Nads",
+    "days": 358,
+    "what_you_see": "Bearded man pries rocks at sea, fishes out underwear, holds it to sun"
+   },
+   {
+    "id": "1629053538548383",
+    "task": "F6",
+    "brand": "AMIRI",
+    "days": 226,
+    "what_you_see": "Night hotel scene: bellhop loads luggage cart with AMIRI bag, title card"
+   },
+   {
+    "id": "1269739657972754",
+    "task": "F6",
+    "brand": "Staghead Designs",
+    "days": 178,
+    "what_you_see": "Mom takes toddler's fingerprint; it becomes her keepsake necklace"
+   },
+   {
+    "id": "2489949364805115",
+    "task": "F6",
+    "brand": "Freja New York",
+    "days": 51,
+    "what_you_see": "Single wide Wes-Anderson-style shot: woman at desk leaves with bag"
+   }
+  ],
+  "need_fill": 1,
+  "fill_hint": "WH search fashion/jewelry brands with 'short film' cinematic ads: Jacquemus, Mejuri, Aime Leon Dore, Glossier, Bellroy; keywords 'a short film', 'chapter'."
+ },
+ "Celebrity Spokesperson Spot": {
+  "orig": "Celebrity Spokesperson Spot",
+  "decision": "KEEP",
+  "definition": "A real famous person fronts the ad as the brand's spokesperson: opens on the celebrity's face/name delivering the hook to camera (selfie-style or studio), intercuts product close-ups and demo b-roll with kinetic claim supers while they keep talking, and closes back on them with a sign-off + logo/shop card.",
+  "why": "The face stops the scroll and transfers trust/status instantly; works when a recognizable person (even a niche micro-celebrity or known pro) can credibly endorse the product.",
+  "how": [
+   "Book the most recognizable face your niche respects (micro-celebrity, known athlete/chef/creator) and have them open with their name or a personal hook.",
+   "Intercut their lines with 4-6 hero product/demo shots, each with one bold claim super.",
+   "Close on them saying a one-line endorsement, then logo + offer card."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Celebrity Podcast Clip (Borrowed Authority): that borrows a real podcast clip; here the celebrity is hired and speaks directly as the brand's paid presenter.",
+  "in_ids": [
+   "867633259065379",
+   "1513471234163267",
+   "1572559810988765",
+   "876310802188502",
+   "1697368774815977",
+   "1466944242122903",
+   "1948264535838845"
+  ],
+  "out_ids": [
+   "1476317063973907"
+  ],
+  "notes": "1513471234163267 (Foxtale, Sonali Bendre) came from the Cinematic Brand Film cluster. 1476317063973907 is a non-famous chef presenter. HexClad (F7) ads have no days value.",
+  "top5": [
+   {
+    "id": "867633259065379",
+    "task": "F9",
+    "brand": "theory11",
+    "days": 311,
+    "what_you_see": "Neil Patrick Harris selfie-style at home office pitching magic kit"
+   },
+   {
+    "id": "1513471234163267",
+    "task": "F1",
+    "brand": "Foxtale",
+    "days": 65,
+    "what_you_see": "Sonali Bendre in red studio, mask textures, launch end card"
+   },
+   {
+    "id": "1572559810988765",
+    "task": "F10",
+    "brand": "Dr. Squatch",
+    "days": 34,
+    "what_you_see": "Megan Fox sprays deodorant, bold kinetic claim supers, retailer card"
+   },
+   {
+    "id": "876310802188502",
+    "task": "F7",
+    "brand": "HexClad",
+    "days": null,
+    "what_you_see": "Gordon Ramsay to camera, intercut knife-cutting demos with claim supers"
+   },
+   {
+    "id": "1697368774815977",
+    "task": "F7",
+    "brand": "HexClad",
+    "days": null,
+    "what_you_see": "Gordon Ramsay intro, dark-studio Damascus knife macros, feature supers"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": ""
+ },
+ "Mini-Doc Portrait": {
+  "orig": "Mini-Doc Portrait",
+  "decision": "KEEP",
+  "definition": "A cinematic 30s documentary vignette of one real, named person (athlete, mom, founder) with a name/title lower-third: they narrate their own life and routine in VO over observational footage, the product appears as part of that routine, and it closes on logo + tagline.",
+  "why": "Feels like documentary truth rather than a testimonial pitch, so the claim rides on a real identity the viewer aspires to; great for supplements, fitness and performance products.",
+  "how": [
+   "Find one real customer with an aspirational identity (triathlete, busy mom, fighter) and record a 2-min audio interview about their routine.",
+   "Shoot observational b-roll of their day (training, kitchen, family) with the product used naturally; add a name/title lower-third early.",
+   "Cut the best 5-6 VO lines over the footage with small captions, end on logo + tagline."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "UGC Testimonial / Personal Story: those are selfie talk-to-camera; this is a produced observational doc with VO and a named lower-third.",
+  "in_ids": [
+   "1979483876110823",
+   "1390011409562700",
+   "944424888382164",
+   "820246937790226",
+   "1293704862913222",
+   "1285845373720829",
+   "1493660569145400",
+   "1581454640382471",
+   "1067332145827312",
+   "1479383397164591"
+  ],
+  "out_ids": [],
+  "notes": "All 'Mars By GHC' F3 ads are visibly LMNT creatives (LMNT logo/cans) - brand label in cands looks wrong. 1390011409562700 dup of 1979483876110823; 1285845373720829 dup of 1293704862913222; 1479383397164591 (Anthem cluster) = 1581454640382471.",
+  "top5": [
+   {
+    "id": "1979483876110823",
+    "task": "F3",
+    "brand": "LMNT (listed Mars By GHC)",
+    "days": 176,
+    "what_you_see": "Older triathlete 'Ra Rondell' training montage narrating his salt habit"
+   },
+   {
+    "id": "944424888382164",
+    "task": "F3",
+    "brand": "LMNT (listed Mars By GHC)",
+    "days": 174,
+    "what_you_see": "Farm mom with baby, yoga and morning ritual, soft VO"
+   },
+   {
+    "id": "1493660569145400",
+    "task": "F3",
+    "brand": "Rho Nutrition",
+    "days": 74,
+    "what_you_see": "Man's morning routine doc with bold word captions, NAD+ bottle"
+   }
+  ],
+  "need_fill": 2,
+  "fill_hint": "WH search 'documentary' style supplement/fitness ads with name lower-thirds: Momentous, Ketone-IQ (HVMN), Athletic Greens athlete stories, Whoop, Ten Thousand."
+ },
+ "Limited Collab Drop (IP Trailer)": {
+  "orig": "IP Collab Drop Trailer",
+  "decision": "KEEP",
+  "definition": "A hype launch for a limited-edition product co-branded with a franchise or another brand: opens on the two logos locked up ('X x Y', 'Limited Edition'), shows the co-branded pack in the franchise's world with VFX/action beats and a quick product-in-use moment, and closes on a 'limited time only / before it's gone' scarcity card.",
+  "why": "Borrows a fandom's existing excitement and adds scarcity, so it pulls both fans and existing buyers into an urgent purchase; use for drops, seasonal editions and collabs.",
+  "how": [
+   "Create a limited edition (collab with a creator/brand/local artist, or a seasonal theme) and design a co-branded pack.",
+   "Open on the 'X x Y Limited Edition' lockup, then 3-5 dramatic VFX/themed shots of the pack plus one quick use shot.",
+   "Close on 'Limited time only - gone when it's gone' with the shop link."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Reaction / Trend-Hijack (Borrowed Fame): that disguises borrowed attention as native content; this is an official co-branded product launch trailer with a scarcity close.",
+  "in_ids": [
+   "840952245143571",
+   "1038940985484654",
+   "1367912952150878"
+  ],
+  "out_ids": [
+   "1328637802724393",
+   "1241993517942499"
+  ],
+  "notes": "1328637802724393 is a static photo slideshow (collab only as angle); 1241993517942499 is a UGC-style mix/pour demo. Collab is partly an angle; structure kept strict to trailer + scarcity close.",
+  "top5": [
+   {
+    "id": "840952245143571",
+    "task": "F10",
+    "brand": "Dr. Squatch",
+    "days": 151,
+    "what_you_see": "The Boys soap: laser-eye VFX, limited-edition lockup, lather close-ups"
+   },
+   {
+    "id": "1038940985484654",
+    "task": "F10",
+    "brand": "Liquid I.V.",
+    "days": 99,
+    "what_you_see": "Spider-Man motion graphic, sticks pour into glass, 'limited time only'"
+   },
+   {
+    "id": "1367912952150878",
+    "task": "F10",
+    "brand": "Liquid I.V.",
+    "days": 66,
+    "what_you_see": "Spider-Man movie-style gag scene, drink, collab pack end card"
+   }
+  ],
+  "need_fill": 2,
+  "fill_hint": "WH search 'limited edition' 'x' collab video ads: Crocs x, Stanley x, Olipop x, Heinz x, Glossier x, Poppi x; keywords 'collab', 'limited drop', 'before it's gone'."
+ },
+ "Micro Bumper (2-6s)": {
+  "orig": "Micro Bumper (2-6s)",
+  "decision": "KEEP",
+  "definition": "An ultra-short 2-6s looping spot: one fixed headline or offer line sits on screen the whole time ('An icon of play. Rarely in stock.', 'the dreamiest sleepsuits for just £20') over 1-4 rapid product-in-use shots, then a logo flash; no VO, no story.",
+  "why": "Costs almost nothing, loops for repeat views and hammers one message cheaply; ideal for frequency/retargeting and for testing headlines and offers fast.",
+  "how": [
+   "Write one 5-8 word headline or price/offer line.",
+   "Grab 1-4 one-second clips of the product in use (or a hanger-swap of variants) and cut to 2-6s so it loops cleanly.",
+   "Keep the headline fixed on screen, add a logo flash at the end, run many headline variants."
+  ],
+  "stage": "MOF→BOF",
+  "closest_existing": "Satisfying B-roll (Front-Splice): that is a scroll-stopper spliced before a longer ad; this is the whole ad in under 6s with one fixed headline.",
+  "in_ids": [
+   "1183435927228843",
+   "848989091196039",
+   "906664799110217",
+   "944703505286799",
+   "1337955105115499",
+   "1289235449795603"
+  ],
+  "out_ids": [
+   "973477458474893"
+  ],
+  "notes": "973477458474893 is an 8s wordless chalkboard loop (no headline). 1337955105115499/1289235449795603 are LMNT creatives though listed as Mars By GHC under F3.",
+  "top5": [
+   {
+    "id": "1183435927228843",
+    "task": "F9",
+    "brand": "MORI",
+    "days": 118,
+    "what_you_see": "Hand swaps baby sleepsuit colors on hanger, '£20' fixed headline"
+   },
+   {
+    "id": "848989091196039",
+    "task": "F9",
+    "brand": "Gathre",
+    "days": 113,
+    "what_you_see": "2s trampoline loop under 'An icon of play. Rarely in stock.'"
+   },
+   {
+    "id": "944703505286799",
+    "task": "F9",
+    "brand": "Gathre",
+    "days": 96,
+    "what_you_see": "Kid shoots ball into designer mini hoop, 'Now Online' super"
+   },
+   {
+    "id": "1337955105115499",
+    "task": "F10",
+    "brand": "LMNT",
+    "days": 64,
+    "what_you_see": "6s: salt pour, drink, underwater swimmers, 'MORE SALT', logo"
+   }
+  ],
+  "need_fill": 1,
+  "fill_hint": "WH filter video duration <=6s; brands: Quince, Jenni Kayne, Our Place, Ruggable, Caraway; keyword 'just $' 'back in stock'."
+ }
+}

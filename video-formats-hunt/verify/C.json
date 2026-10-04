@@ -1,0 +1,275 @@
+{
+ "Animated Static (Motion-Graphic Packshot)": {
+  "orig": "Motion-Graphic Packshot (Animated Static)",
+  "decision": "KEEP",
+  "definition": "A 5-15s ad that is basically a static image ad brought to life: one product packshot (or offer card) on a designed background, a bold headline, then benefit callouts, a stat, a price/offer badge or a countdown animate in one by one, ending on the packshot + CTA. No people talking, no footage story.",
+  "why": "Cheapest video asset to make and test: it gets static-ad clarity (product + promise + offer in one glance) into Reels/Stories placements, and the motion buys the extra second of attention a flat static loses.",
+  "how": [
+   "Take a clean packshot (or render) of the product on a brand-colour or moody background and write one punchy headline.",
+   "Animate in 3-4 elements in sequence: benefit tags/leader-line callouts, one stat ('91% saw results'), then the offer badge or a ticking timer.",
+   "Hold on the full card for 2-3s with the CTA; export 9:16 and 4:5, swap only headline/offer for variants."
+  ],
+  "stage": "MOF\u2192BOF",
+  "closest_existing": "Text-Wall Story (Read-Along Still): both are 'one still', but that is a long first-person story to read; this is a product packshot with short callouts/offer animating in.",
+  "in_ids": [
+   "1975653650501569",
+   "2192108804871944",
+   "4579062415655567",
+   "793192880519386",
+   "817356360934652",
+   "928498726841672",
+   "997473482979008",
+   "2519295488485110",
+   "1394472366047887",
+   "1682175526158978",
+   "2128727727913751",
+   "1012219621291023",
+   "4491166584460569",
+   "930151033380683",
+   "1792323045083887",
+   "783063281494376",
+   "2294826498005778",
+   "1021452763761614",
+   "1726038541874517",
+   "1628120398757277",
+   "1743890883417583",
+   "1318480580405212",
+   "1531206828455469",
+   "1311548644297736",
+   "1612072547172608",
+   "1713263919880624",
+   "1005650305798509",
+   "1053888776990422",
+   "1762651158236810",
+   "1700768607867340",
+   "1567512371705679",
+   "4633600746869238",
+   "997845753278350",
+   "2177925799447702",
+   "1743224710327557",
+   "4524867024401456",
+   "1598954625199134",
+   "921471137638731",
+   "4538345993155657",
+   "1581156670178090",
+   "1083587534320387",
+   "1695901341488554",
+   "1574786767686894",
+   "1973920536646446",
+   "1058199446591856",
+   "1344542230997857",
+   "1029964173135358",
+   "1064908189835833",
+   "1773329263343816",
+   "2210857546407565",
+   "1639480497598356",
+   "1844742933168605",
+   "1499633281288551",
+   "1558815518992158",
+   "1643637533395409"
+  ],
+  "out_ids": [
+   "2693382851037933",
+   "826196173310900",
+   "3022696134590478",
+   "1311508694410123",
+   "781647951550981",
+   "27429902906614882",
+   "1476059327594870",
+   "1440620721161656",
+   "1984286435783267",
+   "1759694478714797",
+   "934938436249260",
+   "3148417865357230",
+   "1052009724220004",
+   "978718811890524",
+   "1583046699874994",
+   "1579238607077263",
+   "1229975005647971",
+   "1495393442080656",
+   "1800921684199002",
+   "1009626514730428",
+   "1733625241385083",
+   "2509730512876199",
+   "1071833885283340",
+   "859681583662789"
+  ],
+  "top5": [
+   {
+    "id": "2192108804871944",
+    "task": "F8",
+    "brand": "Raycon",
+    "days": 209,
+    "what_you_see": "3D earbud render floats on moody blue, one headline"
+   },
+   {
+    "id": "4579062415655567",
+    "task": "F10",
+    "brand": "Dr. Squatch",
+    "days": 204,
+    "what_you_see": "Three cologne bottles pop in under 'Top 3 Sexiest Scents'"
+   },
+   {
+    "id": "793192880519386",
+    "task": "F10",
+    "brand": "Huel",
+    "days": 187,
+    "what_you_see": "Hand holds shake; 'GLP-1 makes me skip meals' plus benefit chips"
+   },
+   {
+    "id": "817356360934652",
+    "task": "F8",
+    "brand": "carpuride",
+    "days": 174,
+    "what_you_see": "Car-screen render with 47% off badge, then install-spec cards"
+   },
+   {
+    "id": "928498726841672",
+    "task": "F3",
+    "brand": "Juvenon",
+    "days": 166,
+    "what_you_see": "Static photo, product pops in, 'Bears eat beets' punchline appears"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "notes": "Ulike 930151033380683 (from Sale Flipbook cluster, ticking 24h countdown over sale card) moved IN here. 5 colourway/multi-SKU cycling ads moved to the Flipbook format. Text-only sale cards (no product) and footage-backed captions marked OUT (Micro Bumper / Video Static)."
+ },
+ "Flipbook Slideshow (Fixed Frame, Cards Flip)": {
+  "orig": "Catalog Drop Slideshow",
+  "decision": "KEEP",
+  "definition": "A 6-15s motion graphic where the frame stays locked (brand header, sale line or 'live now' label) while the image in the middle flips every ~0.5-1.5s through many cards: each product/SKU/colourway as a cutout or model+flat-lay card, or the brand's own past sale creatives. It ends on the last card or a shop-now card.",
+  "why": "Shows the whole range or offer history in one scroll-stopping rhythm; the fixed headline carries the message (new drop, sale, 'we won't do this again') while the flipping cards keep eyes on it. Ideal for multi-SKU stores and sales.",
+  "how": [
+   "Lock a template: brand name + one line ('Live now', 'Up to 40% off', 'We won't do this again') and a clean white or brand-colour background.",
+   "Drop in 6-12 product cutouts / colourways (or screenshots of your past sale statics), one per card, each with its name or price.",
+   "Flip a card every 0.5-1.5s to a beat, add a ticker/countdown if it's a sale, end on a shop-now card; export 9:16."
+  ],
+  "stage": "MOF\u2192BOF",
+  "closest_existing": "Try-On Haul / Collection Lookbook show range with live footage of a person; this is a pure graphic template where only the card in a fixed frame changes.",
+  "in_ids": [
+   "1254633209783448",
+   "1759694478714797",
+   "934938436249260",
+   "1538494351065233",
+   "1006883585487694",
+   "3148417865357230",
+   "2114970792710388",
+   "1057957566915086",
+   "1052009724220004",
+   "1844109053237343",
+   "1840761276686855",
+   "1379532884243979",
+   "1034516839213872",
+   "1596354252017837",
+   "1397540165689956",
+   "3100416470162561",
+   "1355925806521212",
+   "1739716633733975",
+   "2299654807528618",
+   "1812619476576041",
+   "1773606303981994",
+   "1972201436819124",
+   "1800921684199002",
+   "3682323901920992"
+  ],
+  "out_ids": [
+   "4123991154397802",
+   "913680777769727",
+   "2842447399454906",
+   "1387480306811667",
+   "1057942637164067"
+  ],
+  "top5": [
+   {
+    "id": "1254633209783448",
+    "task": "F6",
+    "brand": "REPRESENT",
+    "days": 144,
+    "what_you_see": "Tee cards flip: model front/side/back + flat-lay, 'live now'"
+   },
+   {
+    "id": "934938436249260",
+    "task": "F5",
+    "brand": "Petal & Pup",
+    "days": 87,
+    "what_you_see": "Flat-lay outfits swap every second over a sea backdrop"
+   },
+   {
+    "id": "1538494351065233",
+    "task": "F6",
+    "brand": "ALOHAS",
+    "days": 82,
+    "what_you_see": "Shoe cutouts flip under fixed 'Summer Sales up to 40%'"
+   },
+   {
+    "id": "3148417865357230",
+    "task": "F10",
+    "brand": "Athletic Brewing",
+    "days": 79,
+    "what_you_see": "Beer cans swap under fixed 'New customers free shipping' header"
+   },
+   {
+    "id": "1034516839213872",
+    "task": "F4",
+    "brand": "Megelin",
+    "days": 39,
+    "what_you_see": "Past sale banners flip under 'WE WON'T DO THIS AGAIN'"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "notes": "Sale Flipbook Countdown merged here (only 1 real brand, Megelin; it is the same fixed-frame flip structure with past sale creatives as the cards). Cross-listed from Motion-Graphic cluster: Petal & Pup, Athletic Brewing, edelkrone, Nugget (colourway flip), Alternative Brewing (AeroPress colour flip). DUSK lifestyle-room slideshows and Sofa Club footage are live-action lookbooks -> OUT (Collection Lookbook Reel). Alternates: Paul Kenzie 1844109053237343 (69d), edelkrone 1052009724220004 (75d)."
+ },
+ "Sale Flipbook Countdown": {
+  "orig": "Sale Flipbook Countdown",
+  "decision": "MERGE_INTO:Flipbook Slideshow (Fixed Frame, Cards Flip)",
+  "definition": "Fixed urgency header ('WE WON'T DO THIS AGAIN / up to 50% off now') + FINAL HOURS ticker while the frame rapid-flips through the brand's past sale creatives; 6s loop.",
+  "why": "Reuses old sale statics to signal 'this is the best deal we've ever run' with zero new production.",
+  "how": [
+   "Collect 6 past sale/offer statics.",
+   "Place them in a fixed frame under one urgency headline and a scrolling 'final hours' ticker.",
+   "Flip one per 0.5s, loop to 6s."
+  ],
+  "stage": "BOF",
+  "closest_existing": "Same structure as the Flipbook Slideshow (fixed frame, cards flip), with past sale creatives as the cards, so it is merged as a variant.",
+  "in_ids": [
+   "1034516839213872",
+   "1596354252017837",
+   "1397540165689956",
+   "3100416470162561",
+   "1355925806521212",
+   "1739716633733975",
+   "2299654807528618",
+   "1812619476576041",
+   "1773606303981994",
+   "1972201436819124"
+  ],
+  "out_ids": [
+   "930151033380683",
+   "4393089554337987",
+   "1382149127216140",
+   "1060798086460285",
+   "1035815809230358"
+  ],
+  "top5": [
+   {
+    "id": "1034516839213872",
+    "task": "F4",
+    "brand": "Megelin",
+    "days": 39,
+    "what_you_see": "Past sale banners flip under 'WE WON'T DO THIS AGAIN'"
+   },
+   {
+    "id": "1596354252017837",
+    "task": "F4",
+    "brand": "Megelin",
+    "days": 39,
+    "what_you_see": "Same flip of old promos with FINAL HOURS ticker"
+   }
+  ],
+  "need_fill": 3,
+  "fill_hint": "Only 1 genuine brand (Megelin, 10 near-identical variants). Ulike is an animated countdown static (moved to Animated Static); Revomadic is a UGC clip montage under a sale banner (existing UGC Testimonial Mashup). Moot if merge accepted. If kept separate, search WH for 'we won't do this again', 'final hours', 'last chance' + 'biggest sale' motion-graphic ads in red-light/beauty-device/skincare brands.",
+  "notes": "Recommend merge: alone it fails brand diversity (1 brand); as a variant of the Flipbook format the cluster has 10 brands."
+ }
+}

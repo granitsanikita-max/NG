@@ -1,0 +1,352 @@
+{
+ "Editorial Lookbook (Model Shoot Reel)": {
+  "orig": "Collection Lookbook Reel",
+  "decision": "KEEP",
+  "definition": "A music-only, campaign-quality model shoot of the product: opens on a wide hero shot of the model in a styled location or studio, cuts between turns, back views and macro fabric/detail close-ups (often several looks or colourways), and closes on a logo or offer end card. No talking, no story, no claims.",
+  "why": "For fashion, swim and jewellery the garment is the pitch: a polished shoot makes the piece look premium and aspirational in 6-20s, and it scales cheaply into one ad per SKU or drop.",
+  "how": [
+   "Book one model and one strong location or seamless backdrop; shoot each piece wide, walking, turning, back view and 3-4 macro detail shots.",
+   "Cut fast to a trending or moody track (1 shot per ~1s), alternating full-body hero with fabric/detail close-ups; optionally add 'Introducing X' / 'New in' super.",
+   "End on a clean logo/offer card (e.g. '10% off everything', 'Shop the edit')."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Try-On Haul - a haul is a creator trying on pieces on her phone and reacting; this is a brand's polished, silent editorial shoot of the product with no creator persona.",
+  "in_ids": [
+   "1274248527407387",
+   "880292694180890",
+   "1180443600909220",
+   "1979443649572325",
+   "2562193997317775",
+   "1589630208745971",
+   "1256265759266087",
+   "1504036844575514",
+   "2012797056257962",
+   "4338364623057929",
+   "1685014229163052",
+   "1501783191607518",
+   "973147102129999",
+   "554286547663026",
+   "1412024644289837",
+   "1528212572198702",
+   "27721087947479428",
+   "1700507867620936",
+   "847163988058214"
+  ],
+  "out_ids": [
+   "1830491237664270",
+   "27070167602620546",
+   "1302541314814479",
+   "1630343191551892",
+   "2373748662811390",
+   "1632031957865196"
+  ],
+  "top5": [
+   {
+    "id": "1274248527407387",
+    "task": "F5",
+    "brand": "Mew Mews",
+    "days": 866,
+    "what_you_see": "Two models in embellished black looks, luxe hotel-corridor shoot, logo end"
+   },
+   {
+    "id": "1180443600909220",
+    "task": "F5",
+    "brand": "Gingham and Heels",
+    "days": 295,
+    "what_you_see": "Model in pink maxi dress on white wall: front, back, turn, close-up"
+   },
+   {
+    "id": "1589630208745971",
+    "task": "F5",
+    "brand": "Monday Swimwear",
+    "days": 216,
+    "what_you_see": "Studio swim shoot, one model through several matching green pieces"
+   },
+   {
+    "id": "1256265759266087",
+    "task": "F5",
+    "brand": "MICAS",
+    "days": 207,
+    "what_you_see": "Model walks European streets in one outfit, MICAS watermark, Shop Now card"
+   },
+   {
+    "id": "1504036844575514",
+    "task": "F5",
+    "brand": "SIR.",
+    "days": 172,
+    "what_you_see": "Satin slip dress, concrete studio: wide, lace macro, back, face close-ups"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "notes": "Viewed strongest 25 of 87; remaining 62 not viewed (left out of in/out). Kizik launch spots = cinematic brand film; Staghead ring carousel = handheld catalog; Petal&Pup 'as seen on your bump' = customer-photo montage; That's So Fetch denim POV = silent try-on haul."
+ },
+ "Fit Check (Single Outfit)": {
+  "orig": "Fit Check (Single Outfit)",
+  "decision": "KEEP",
+  "definition": "Native phone-shot clip of one person in ONE complete outfit: opens mid-pose (mirror selfie, bedroom, doorway, street), then she turns, walks, twirls and shows front/back/detail to music, with a single relatable one-line caption ('dinner and drinks fit', 'never taking these off', 'what I'm wearing as a size 12'). No talking, no demo, no multiple outfits.",
+  "why": "It looks exactly like an organic TikTok/IG OOTD post, so it slips past ad blindness and shows true fit and movement on a real body; perfect for one hero garment.",
+  "how": [
+   "Put one creator in the full outfit (hero product + simple styling) in a real home/street spot; film handheld or propped phone, 8-15s.",
+   "Capture walk-in, slow turn, back view, hand-on-fabric detail and a confident end pose, cut to a trending sound.",
+   "Add one native-style caption line (POV / occasion / size), no logo until the end or watermark only."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Try-On Haul - a haul shows several pieces back to back; a fit check commits the whole ad to one outfit with no talking.",
+  "in_ids": [
+   "1116454183770854",
+   "1265483022137132",
+   "1448896216877175",
+   "2114323406082999",
+   "1458196499288248",
+   "1706152350748748",
+   "1275476844055075",
+   "1865090020875553",
+   "1263418428777131",
+   "1790300482355613",
+   "1279449637632148",
+   "3052203294989720",
+   "1313831817364890",
+   "1525317999382186",
+   "2059029774643860",
+   "26945172545139690",
+   "1654255615688372",
+   "2158295334993559",
+   "1704597260668222",
+   "1661143528430323",
+   "1407328167884893"
+  ],
+  "out_ids": [
+   "1550206029636995",
+   "1462902818835228",
+   "856048840852129",
+   "952593041151875"
+  ],
+  "top5": [
+   {
+    "id": "1116454183770854",
+    "task": "F5",
+    "brand": "That's So Fetch",
+    "days": 270,
+    "what_you_see": "Girl in orange mini dress twirls in bedroom, caption 'this color'"
+   },
+   {
+    "id": "1265483022137132",
+    "task": "F5",
+    "brand": "Billy J",
+    "days": 220,
+    "what_you_see": "Hallway mirror selfie, sequin pants fit, 'dinner and drinks fit' caption"
+   },
+   {
+    "id": "1275476844055075",
+    "task": "F6",
+    "brand": "Scuffers",
+    "days": 174,
+    "what_you_see": "Creator vibes in grey hoodie tracksuit, handheld selfie at home"
+   },
+   {
+    "id": "1263418428777131",
+    "task": "F5",
+    "brand": "SIR.",
+    "days": 172,
+    "what_you_see": "Woman poses in brown knit two-piece against wardrobe doors"
+   },
+   {
+    "id": "1790300482355613",
+    "task": "F5",
+    "brand": "Petal & Pup",
+    "days": 163,
+    "what_you_see": "Floral maxi dress poses at wooden door, selfie start and end"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "notes": "Viewed strongest 25 of 56; rest not viewed. OUT = creator talking to camera (UGC review) or narrated piece-by-piece outfit builds."
+ },
+ "Styling Remix (One Piece, Many Looks)": {
+  "orig": "Styling Remix (One Piece, Many Looks)",
+  "decision": "KEEP",
+  "definition": "One hero item styled into several different outfits: opens with the item and a hook ('One skirt. Three lives', 'How I style my favourite boots'), cuts outfit by outfit with an occasion label each (school drop-off, lunch date, night out), and ends on 'which is your favourite?' or the product end card.",
+  "why": "Sells versatility and cost-per-wear, which kills the 'where would I even wear it' objection for a single mid-priced piece.",
+  "how": [
+   "Pick one hero piece and plan 3-5 outfits around it for distinct occasions.",
+   "Film same spot, same framing; open on the item in hand + hook text, then quick-cut each look with an occasion label.",
+   "Close with 'Which is your favourite?' or the product name card and offer."
+  ],
+  "stage": "MOF",
+  "closest_existing": "Try-On Haul - a haul shows many different products; a remix keeps ONE product constant and changes everything around it.",
+  "in_ids": [
+   "998619335928569",
+   "1997391284466139"
+  ],
+  "out_ids": [
+   "1606845550529988",
+   "1429612892379080"
+  ],
+  "top5": [
+   {
+    "id": "998619335928569",
+    "task": "F5",
+    "brand": "The Lullaby Club",
+    "days": 191,
+    "what_you_see": "'One skirt. Three lives': same black skirt, three occasion outfits"
+   },
+   {
+    "id": "1997391284466139",
+    "task": "F6",
+    "brand": "Thursday Boot Company",
+    "days": 32,
+    "what_you_see": "'How I style my favourite boots': four outfits, same boots"
+   }
+  ],
+  "need_fill": 3,
+  "fill_hint": "WH keywords: 'ways to style', 'one piece 3 ways', 'how I style', 'outfits with one', 'capsule wardrobe', '3 looks 1'. Brands: Quince, Abercrombie, Aritzia, Kotn, Everlane, Vuori, Lululemon (wardrobe versatility ads).",
+  "notes": "MICAS and Littlebox are flat-lay 'outfit builder' (different items per look), not one piece many looks."
+ },
+ "GRWM (Get Ready With Me)": {
+  "orig": "GRWM (Get Ready With Me)",
+  "decision": "KEEP",
+  "definition": "Creator opens undone (robe, casual clothes, bare face) with a 'get ready / get dressed with me' hook, chats or captions through each step as she applies or puts on the product (makeup, skincare, outfit), and ends on the finished look reveal, often with a walk-out or twirl.",
+  "why": "The before-to-done arc is a built-in curiosity loop that holds viewers to the reveal, and the chatty native format lets the product be used naturally instead of pitched.",
+  "how": [
+   "Start the creator 'before' (robe, messy hair, no makeup) on camera with a 'GRWM for ___' text hook tied to an occasion.",
+   "Film each step of using the product in order with casual chat or captions (what it is, why she likes it); keep cuts quick.",
+   "End on the full reveal: final look, turn or walk-out, plus product/offer card."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "UGC How-To - a how-to teaches usage step by step; GRWM is a native lifestyle ritual with chat, built around a transformation reveal and an occasion.",
+  "in_ids": [
+   "1632973024422723",
+   "963717036525675",
+   "35326473866995901",
+   "1554321839685873",
+   "2334126740670976",
+   "4709825322679789"
+  ],
+  "out_ids": [
+   "1006485948821410"
+  ],
+  "top5": [
+   {
+    "id": "1632973024422723",
+    "task": "F5",
+    "brand": "chlobellexx",
+    "days": 159,
+    "what_you_see": "Robe to yellow ruffle dress, 'Wedding Guest Inspo', hair flip reveal"
+   },
+   {
+    "id": "963717036525675",
+    "task": "F2",
+    "brand": "Thrive Causemetics",
+    "days": 144,
+    "what_you_see": "Mom does mascara on camera while chatting with her daughter"
+   },
+   {
+    "id": "1554321839685873",
+    "task": "F5",
+    "brand": "Suta",
+    "days": 57,
+    "what_you_see": "'Get Dressed with me': casual shirt to draped saree reveal"
+   },
+   {
+    "id": "2334126740670976",
+    "task": "F5",
+    "brand": "Littlebox.India",
+    "days": 54,
+    "what_you_see": "'GRWM for Devil Wears Prada 2': puts on pinstripe suit, walk-out"
+   },
+   {
+    "id": "4709825322679789",
+    "task": "F1",
+    "brand": "Foxtale",
+    "days": 37,
+    "what_you_see": "Actress's 'first ever GRWM': festive skincare steps with serum"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "notes": "Mito Red Light 'romanticize my night routine' = routine vlog (Day In The Life), no ready/reveal arc."
+ },
+ "Pack My Bag (What's In My Bag)": {
+  "orig": "Pack My Bag (What's In My Bag)",
+  "decision": "KEEP",
+  "definition": "Hands (or a faceless torso) pack everyday essentials (phone, wallet, laptop, keys, lipstick, AirPods) into the bag one by one on a table or cafe bench, showing it swallows everything, then lift it onto the shoulder and close on the logo.",
+  "why": "Answers the main bag/organiser objection, 'will my stuff fit?', visually and in seconds, and the satisfying packing reads as native 'what's in my bag' content.",
+  "how": [
+   "Lay the bag plus 6-8 recognisable daily essentials neatly around it on a clean surface or a lifestyle spot (cafe, desk).",
+   "Film overhead or chest height as hands drop items in one at a time, showing pockets/compartments; add one line of copy ('A work bag designed for more than the office').",
+   "End with the packed bag zipped and lifted onto the shoulder, then logo."
+  ],
+  "stage": "MOF",
+  "closest_existing": "Product Demo Ads - a general demo shows features in use; this is one fixed beat (packing real daily essentials) that proves capacity and organisation.",
+  "in_ids": [
+   "1103141868664029",
+   "3632892273540572",
+   "2040115686597708",
+   "991595656992016",
+   "776843102152081",
+   "1073750091696096",
+   "1094338716464221",
+   "2151838745770777"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "1103141868664029",
+    "task": "F6",
+    "brand": "Freja New York",
+    "days": 192,
+    "what_you_see": "Overhead hands toss phone, comb, lipstick into dark tote"
+   },
+   {
+    "id": "3632892273540572",
+    "task": "F6",
+    "brand": "Freja New York",
+    "days": 104,
+    "what_you_see": "Woman in blazer packs cream bag with essentials on white table"
+   }
+  ],
+  "need_fill": 3,
+  "fill_hint": "WH keywords: 'what's in my bag', 'pack with me', 'pack my bag', 'everything fits', 'fits my laptop'. Brands: Bellroy, Cuyana, Dagne Dover, Paravel, BÉIS, Monos, Calpak, Lo & Sons, Polene, Longchamp (tote / backpack / organiser ads).",
+  "notes": "Only one brand in cluster. 2040115686597708 = same creative as 3632892273540572; 776843102152081/1073750091696096/1094338716464221 = same 4s cafe-tote creative."
+ },
+ "This or That (Pick Your Vibe)": {
+  "orig": "This or That (Pick Your Vibe)",
+  "decision": "KEEP",
+  "definition": "Two product variants shown side by side under a fixed header ('Choose your spooky season vibe', 'Same but different'), each labelled by name, swapping to a new pair every 1-2s for 6-8 rounds so the viewer silently picks, then ending on a full collection grid + shop CTA.",
+  "why": "Turns browsing into a game: every pair is a micro-decision that keeps the viewer watching, shows the whole range fast, and makes them mentally pick a favourite before the CTA; ideal for products with many SKUs.",
+  "how": [
+   "Pick 12-16 variants (colours, shapes, scents) and pair them; film each pair side by side in the same framing (e.g. two fingers, two hands, two items).",
+   "Add a fixed 'Choose your ___ vibe' header and name labels; cut a new pair every ~1.5s.",
+   "Close on a grid of the whole collection with 'Shop the collection' / offer badge, and ask 'which one are you?' in copy."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Ranking / Tier List - a tier list ranks options with your product on top; this lets the viewer pick between your own variants with no ranking or competitor.",
+  "in_ids": [
+   "1377548494349311",
+   "2209984866235753",
+   "1613078547008753",
+   "919287320726640"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "1377548494349311",
+    "task": "F5",
+    "brand": "Glamnetic",
+    "days": 55,
+    "what_you_see": "Two press-on nails side by side, 'Choose your spooky season vibe'"
+   },
+   {
+    "id": "1613078547008753",
+    "task": "F5",
+    "brand": "Glamnetic",
+    "days": 46,
+    "what_you_see": "'Same but different': same colour nail in two shapes, Buy-3 badge"
+   }
+  ],
+  "need_fill": 3,
+  "fill_hint": "WH keywords: 'this or that', 'pick one', 'choose your vibe', 'which one are you', 'A or B', 'pick your favorite'. Brands: Olive & June, Kiko, Dossier (scents), Stanley/Owala (colourways), Nails.INC, Kylie Cosmetics, Bloom Nutrition (flavours).",
+  "notes": "Only one brand. 2209984866235753 = same creative as 1377548494349311; F2/F5 rows are the same ad ids."
+ }
+}

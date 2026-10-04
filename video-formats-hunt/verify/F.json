@@ -1,0 +1,472 @@
+{
+ "POV Comedy Skit (Creator Plays the Roles)": {
+  "orig": "POV Comedy Skit (Creator Plays the Roles)",
+  "decision": "KEEP",
+  "definition": "One creator acts out a relatable 'POV:' situation as characters (often playing both sides with outfit swaps): open on the POV caption, middle is quick comic scenes or back-and-forth dialogue where the problem plays out, close with the product as the in-story fix or punchline.",
+  "why": "Reads as native TikTok comedy, not an ad, so cold viewers watch to the end and the product lands as the joke's payoff.",
+  "how": [
+   "Write a 'POV: you...' line around the exact pain your product fixes.",
+   "Film 4-8 short scenes on a phone; swap a shirt/prop to play the 'problem' person and the 'fixer'.",
+   "Put the product in as the punchline in the last third, then a one-line CTA."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Scenarios - that opens on 'imagine if' and narrates; here the creator performs the scene as characters, skit-style.",
+  "in_ids": [
+   "1867147557337229",
+   "957143660036929",
+   "1301812562059233",
+   "943976091810732",
+   "964544019878903",
+   "28702976255992723",
+   "3544637795717714",
+   "1027103906438598"
+  ],
+  "out_ids": [
+   "3239850806177866",
+   "2056937801605047",
+   "1047015218237001"
+  ],
+  "top5": [
+   {
+    "id": "1867147557337229",
+    "task": "F7",
+    "brand": "TUSHY",
+    "days": 191,
+    "what_you_see": "Creator plays roommate giving a tour of her new bidet"
+   },
+   {
+    "id": "1301812562059233",
+    "task": "F10",
+    "brand": "Magic Spoon",
+    "days": 162,
+    "what_you_see": "'POV: you discover Magic Spoon' - same creator, many outfits/scenes"
+   },
+   {
+    "id": "943976091810732",
+    "task": "F9",
+    "brand": "Bully Bunches",
+    "days": 140,
+    "what_you_see": "Same man plays patient and therapist who 'prescribes' dog chews"
+   },
+   {
+    "id": "964544019878903",
+    "task": "F10",
+    "brand": "LMNT",
+    "days": 95,
+    "what_you_see": "'POV: you sweat all the time' rapid comedic micro-scenes, drink mid-way"
+   },
+   {
+    "id": "28702976255992723",
+    "task": "F10",
+    "brand": "Everyday Dose",
+    "days": 59,
+    "what_you_see": "One guy plays junk-food self and expert self, cutting back and forth"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "note": "943976091810732 (Bully Bunches) was filed under Scripted Comedy Sketch but the same man plays both roles, so moved here. Alt clean pick: 3544637795717714 Qure (54d, dup3, rank2) - creator plays patient + derm."
+ },
+ "Partner POV (She Buys It For Him)": {
+  "orig": "Partner POV (She Sells His Product)",
+  "decision": "KEEP",
+  "definition": "A wife/girlfriend talks to camera (or narrates) about a men's product from her side: open on a line to other women ('ladies...', 'my husband used to...'), middle shows him using/wearing it as silent proof while she explains why she made him switch, close on the couple and a 'get it for him' CTA.",
+  "why": "Targets the woman who actually buys or gifts men's products, and her approval doubles as social proof for the man.",
+  "how": [
+   "Cast a couple; she leads, he only appears in b-roll wearing/using the product.",
+   "Script: what she hated about his old version -> why she switched him -> what changed (looks, mood, confidence).",
+   "End with an affectionate couple shot and 'ladies, get this for your man'."
+  ],
+  "stage": "MOF",
+  "closest_existing": "Lesson From Others (Mentor Story) - third-person story too, but here the narrator is the buyer's partner and the ad is aimed at women buying for men.",
+  "in_ids": [
+   "1288762739714852",
+   "2800559990277227",
+   "1532597598564871",
+   "494194110098506",
+   "1593821603339431",
+   "1413088850687766",
+   "618768644044699",
+   "2151622572329118"
+  ],
+  "out_ids": [
+   "1952084632398707",
+   "803212045507411"
+  ],
+  "top5": [
+   {
+    "id": "1288762739714852",
+    "task": "F6",
+    "brand": "Nads",
+    "days": 357,
+    "what_you_see": "Woman tells wives to swap his polyester boxers for organic ones"
+   },
+   {
+    "id": "2800559990277227",
+    "task": "F10",
+    "brand": "Brickell",
+    "days": 87,
+    "what_you_see": "Girlfriend says 'I basically built him', applies skincare on him"
+   },
+   {
+    "id": "494194110098506",
+    "task": "F6",
+    "brand": "Thursday Boot Company",
+    "days": 66,
+    "what_you_see": "Woman with mic pitches his boots, boyfriend stands beside"
+   },
+   {
+    "id": "1593821603339431",
+    "task": "F3",
+    "brand": "Beyond Alpha",
+    "days": 55,
+    "what_you_see": "Wife's captions: 'I've noticed his energy' over candid footage of him"
+   },
+   {
+    "id": "618768644044699",
+    "task": "F6",
+    "brand": "birddogs",
+    "days": 34,
+    "what_you_see": "Wife shows husband's pants around house, 'he will love you'"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "note": "Musc Intime ads are OUT: women's product with a 'send this to your boyfriend' gift-hint, a different structure."
+ },
+ "Scripted Comedy Sketch (Produced Skit)": {
+  "orig": "Scripted Comedy Sketch",
+  "decision": "KEEP",
+  "definition": "A produced, multi-actor comedy scene with a script: open on a relatable or absurd setup (genre parody, office/home chaos, staff skit), middle escalates the gag with the product woven into the plot, close on the product as the punchline plus a benefit/offer card.",
+  "why": "Entertainment buys attention and brand memory; works for broad products where the problem can be exaggerated into a joke.",
+  "how": [
+   "Pick one exaggerated problem moment or a genre to parody (zombie film, sitcom, therapy).",
+   "Shoot a 15-60s skit with 2+ actors and a clear setup -> escalation -> product punchline.",
+   "Close on a pack shot with one benefit line and the offer."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Problem-Agitate-Solve - same problem->fix arc, but delivered as an acted comedy sketch with characters, not a pitch.",
+  "in_ids": [
+   "406773788467314",
+   "798326482862443",
+   "873685435711422",
+   "1458465252648554",
+   "923826400152683",
+   "3276736362506797",
+   "1029159910034474"
+  ],
+  "out_ids": [
+   "943976091810732",
+   "1966732534008335"
+  ],
+  "top5": [
+   {
+    "id": "406773788467314",
+    "task": "F4",
+    "brand": "BedJet",
+    "days": 964,
+    "what_you_see": "Long comedy infomercial: sweaty partner as literal devil in bed"
+   },
+   {
+    "id": "798326482862443",
+    "task": "F8",
+    "brand": "EcoFlow",
+    "days": 272,
+    "what_you_see": "Cinematic kitchen chaos skit, 'Dad got this' punchline end card"
+   },
+   {
+    "id": "873685435711422",
+    "task": "F3",
+    "brand": "Clean Nutrition",
+    "days": 248,
+    "what_you_see": "Staff skit in gold race car ending in spit-take gag"
+   },
+   {
+    "id": "923826400152683",
+    "task": "F6",
+    "brand": "KURU",
+    "days": 69,
+    "what_you_see": "Zombie-apocalypse parody where the shoes are the running joke"
+   },
+   {
+    "id": "1458465252648554",
+    "task": "F3",
+    "brand": "Clean Nutrition",
+    "days": 225,
+    "what_you_see": "Staff in tracksuits dry-scoop pre-workout gag, 2+1 offer"
+   }
+  ],
+  "need_fill": 0,
+  "fill_hint": "",
+  "note": "Bully Bunches moved to POV Comedy Skit (one actor plays both roles). Soundcore OUT (straight problem/solution TV spot, not comedy). Juvenon short slapstick ads (1268539775406296, 848979311563482) fit here too - see Slapstick Old-Way Struggle merge."
+ },
+ "Absurdist Visual Gag (One Surreal Shot)": {
+  "orig": "Absurdist Visual Gag",
+  "decision": "KEEP",
+  "definition": "A single surreal, impossible staged image held for 6-10s: open mid-scene on the weird visual, a small pull-back or twist reveals the full gag, close with at most one caption and the product as the prop.",
+  "why": "Cheap pattern-interrupt that stops the scroll on pure curiosity; best for brand-world building and retargeting creative refresh.",
+  "how": [
+   "Brainstorm one impossible image that ties to the product (bath in a truck bed, product playing on an old TV).",
+   "Shoot it cinematically in one location, 6-10s, with a slow reveal.",
+   "Add one short caption or none; keep the product visible but secondary."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Satisfying B-roll (Front-Splice) - also a visual scroll-stopper, but this is a staged surreal joke that IS the whole ad, not a splice before the pitch.",
+  "in_ids": [
+   "1720152652604613",
+   "1837166540775507",
+   "4605864603071531"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "1720152652604613",
+    "task": "F10",
+    "brand": "Duke Cannon",
+    "days": 82,
+    "what_you_see": "Man in bubble bath in pickup bed, pull-back reveal"
+   },
+   {
+    "id": "1837166540775507",
+    "task": "F10",
+    "brand": "Liquid I.V.",
+    "days": 76,
+    "what_you_see": "Product stick 'plays' on a purple retro TV with sparkles"
+   },
+   {
+    "id": "4605864603071531",
+    "task": "F10",
+    "brand": "Duke Cannon",
+    "days": 53,
+    "what_you_see": "'Lost in the suds' truck-bed bath, kicks soap bar up"
+   }
+  ],
+  "need_fill": 2,
+  "fill_hint": "WH keywords: surreal, absurd, 'lost in', unexpected, CGI product, impossible; brands: Liquid Death, Dr. Squatch, Duke Cannon, Jacquemus-style fake OOH, Poppi, Olipop."
+ },
+ "Prank Skit (Product Used On A Friend)": {
+  "orig": "Prank / Versus Skit",
+  "decision": "KEEP",
+  "definition": "Lo-fi handheld prank: open on a caption like 'lasering my roommate's stuff' or sneaking up on a sleeping friend, middle is the product used on the unaware victim (often a quick montage), close on the victim's reaction or 'what should I do next?'.",
+  "why": "Prank content is natively shareable and demos the product in a fun, real-world way for cold audiences.",
+  "how": [
+   "Pick a harmless prank only your product can do (engrave their things, blast cold air on them).",
+   "Film handheld, secretive, 15-60s; montage several 'victims' or items.",
+   "End on the reaction and a comment-bait question."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Product Demo Ads - shows the product working, but framed as a prank on a friend with a reaction payoff.",
+  "in_ids": [
+   "1636548594438700",
+   "1488876135517720"
+  ],
+  "out_ids": [
+   "2103975773883419"
+  ],
+  "top5": [
+   {
+    "id": "1636548594438700",
+    "task": "F8",
+    "brand": "xTool",
+    "days": 58,
+    "what_you_see": "Guy lasers roommate's toothbrush, book and rice grains"
+   },
+   {
+    "id": "1488876135517720",
+    "task": "F4",
+    "brand": "BedJet",
+    "days": 55,
+    "what_you_see": "Friends sneak BedJet onto sleeping roommate, she reacts"
+   }
+  ],
+  "need_fill": 3,
+  "fill_hint": "WH keywords: prank, 'pranked my', roommate, boyfriend prank, 'my wife', sneaking; product types: laser engravers, water guns, fart/joke gadgets, massage guns, cooling fans. DeerRun 'Wife vs Husband' (2103975773883419, 135d) is a separate one-up 'Couple Versus' structure, OUT here (closest existing: Challenge)."
+ },
+ "Slapstick Old-Way Struggle": {
+  "orig": "Slapstick Old-Way Struggle",
+  "decision": "MERGE_INTO:Scripted Comedy Sketch",
+  "definition": "Acts out the old/natural alternative in an absurd, messy slapstick way (smashing beets with hammers, juice everywhere), then cuts to the product as the easy way and a pack shot.",
+  "why": "Makes the old way look ridiculous so the product feels like the obvious upgrade.",
+  "how": [
+   "Pick the old method your product replaces.",
+   "Film an over-the-top messy gag of someone doing it.",
+   "Cut to the product as the punchline with one benefit card."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Product Comparison Video (old method) - this is the same idea told as a short comedy gag; structurally the same as Scripted Comedy Sketch (EcoFlow skit = same shape).",
+  "in_ids": [
+   "1268539775406296",
+   "848979311563482"
+  ],
+  "out_ids": [
+   "1970734027152062",
+   "806400905870128"
+  ],
+  "top5": [
+   {
+    "id": "1268539775406296",
+    "task": "F3",
+    "brand": "Juvenon",
+    "days": 165,
+    "what_you_see": "'Bears eat beets' man crushes beet, shirt splattered, holds pills"
+   },
+   {
+    "id": "848979311563482",
+    "task": "F3",
+    "brand": "Juvenon",
+    "days": 164,
+    "what_you_see": "'Death to beets!!' woman smashes beet, screams, product card"
+   }
+  ],
+  "need_fill": 3,
+  "fill_hint": "Only one brand (Juvenon). If kept separate, search WH: 'the old way', 'stop doing this', messy, fail, struggle. Long Juvenon VSLs (1970734027152062, 806400905870128) only use slapstick as a hook into a mechanism VSL, so OUT."
+ },
+ "IRL Brand Stunt (Street Activation Recap)": {
+  "orig": "IRL Brand Stunt",
+  "decision": "KEEP",
+  "definition": "Documentary-style recap of a real-world stunt the brand staged: open on the strange public moment (posters with tear-off samples, costumed bellhops, a medieval troupe), middle shows passers-by reacting and engaging, close on the product reveal and brand card.",
+  "why": "Real-world spectacle feels like news, not an ad, and makes a small brand look big and culturally present.",
+  "how": [
+   "Plan one cheap physical stunt tied to the product (sample tear-off posters, costumed staff handing it out).",
+   "Film it handheld/documentary style with real bystander reactions.",
+   "Cut to 15-30s: stunt -> reactions -> product reveal -> logo."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Street Interviews - also filmed in public, but here the brand stages a stunt and films reactions instead of asking questions.",
+  "in_ids": [
+   "3955637918088504",
+   "1939104183456746",
+   "26984409464588060",
+   "4425464664336109"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "3955637918088504",
+    "task": "F2",
+    "brand": "Fugazzi Fragrances",
+    "days": 197,
+    "what_you_see": "Dessert posters with tear-off perfume samples on Amsterdam poles"
+   },
+   {
+    "id": "1939104183456746",
+    "task": "F2",
+    "brand": "REFY",
+    "days": 107,
+    "what_you_see": "Creator vlogs REFY pop-up in Selfridges, portrait painted"
+   },
+   {
+    "id": "26984409464588060",
+    "task": "F9",
+    "brand": "tonies",
+    "days": 100,
+    "what_you_see": "Medieval 'King of Silence' troupe appears when parents yell"
+   },
+   {
+    "id": "4425464664336109",
+    "task": "F1",
+    "brand": "DIME Beauty",
+    "days": 59,
+    "what_you_see": "White-gloved bellhops carry skincare hatbox across NYC crosswalks"
+   }
+  ],
+  "need_fill": 1,
+  "fill_hint": "WH keywords: pop-up, activation, 'we took over', guerrilla, giveaway on the street, stunt, NYC/London; brands: Liquid Death, Poppi, Glossier, Rhode, Jacquemus, Skims."
+ },
+ "Party Game Play-Along": {
+  "orig": "Party Game Play-Along",
+  "decision": "KEEP",
+  "definition": "Friends at a table play a real party game (Wavelength dial, red flag/green flag) re-skinned with prompts about the product category: open on the game title, middle is 1-2 min of banter and laughs as they debate prompts, close with the product as the answer/punchline.",
+  "why": "Long, fun watch time and natural objection-handling through banter; great for awkward or taboo categories.",
+  "how": [
+   "Pick a known game format and write 8-10 prompts about your niche's habits and objections.",
+   "Film 2-3 friends playing unscripted with a light brand bug on screen.",
+   "Cut to the best moments; let the product win the last prompt."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Episodic Series / Social Show - also show-like, but this is one self-contained game round with category prompts, not a recurring series.",
+  "in_ids": [
+   "1464183438566930",
+   "1302094391966340"
+  ],
+  "out_ids": [
+   "1325148639041755"
+  ],
+  "top5": [
+   {
+    "id": "1464183438566930",
+    "task": "F7",
+    "brand": "TUSHY",
+    "days": 240,
+    "what_you_see": "Two friends play red flag/green flag about bidet habits"
+   },
+   {
+    "id": "1302094391966340",
+    "task": "F7",
+    "brand": "TUSHY",
+    "days": 221,
+    "what_you_see": "Wavelength dial 'TUSHY edition': bidet user vs non-bidet user"
+   }
+  ],
+  "need_fill": 3,
+  "fill_hint": "WH keywords: 'red flag green flag', wavelength, 'would you rather', 'smash or pass', 'guess the', game night, 'this or that'. Rheal (1325148639041755) is a Jubilee-style debate set, a different structure, OUT."
+ },
+ "Product Jingle (Original Song)": {
+  "orig": "Jingle / Music Video",
+  "decision": "KEEP",
+  "definition": "The whole ad is an original catchy song about the product: open on 'Have you heard this song?', middle is karaoke-captioned lyrics carrying every benefit over a montage of people using it, close on a lyric that is the CTA.",
+  "why": "Melody makes benefits memorable and the lyric captions keep people watching; good for broad lifestyle products.",
+  "how": [
+   "Write a 20-30s song whose lines are your benefits (AI music tools work).",
+   "Cut a montage of different people using the product, one shot per line.",
+   "Add karaoke-style lyric captions with a waveform; end on the brand name line."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Satisfying B-roll / Product Demo - montage of use, but the original song is the script and the hook.",
+  "in_ids": [
+   "1223040922881436"
+  ],
+  "out_ids": [
+   "1054362440647422"
+  ],
+  "top5": [
+   {
+    "id": "1223040922881436",
+    "task": "F8",
+    "brand": "Raycon",
+    "days": 216,
+    "what_you_see": "'Have you heard this song?' karaoke lyrics over earbud montage"
+   }
+  ],
+  "need_fill": 4,
+  "fill_hint": "WH keywords: 'have you heard this song', jingle, 'song about', 'I made a song', lyrics, sing-along; brands: Raycon, Liquid Death, Duolingo, Dr. Squatch, Manscaped. Littlebox lip-sync outfit changes (1054362440647422) is closer to Try-On Haul, OUT."
+ },
+ "Photoshop Fix ('Fixed It For You')": {
+  "orig": "Photoshop Fix ('Fixed It For You')",
+  "decision": "KEEP",
+  "definition": "Open on a real-looking 'problem' photo (plain room, old item), cut to a Photoshop screen recording where the item is erased and the product dropped in, then the edit comes alive as real footage of the product in that spot under 'Fixed it for you'.",
+  "why": "Borrows the 'fixed it for you' meme so the product reads as the obvious upgrade; very easy to copy for home, decor and lifestyle goods.",
+  "how": [
+   "Shoot a still of the space/situation with the 'wrong' item.",
+   "Screen-record a quick Photoshop swap putting your product in.",
+   "Cut to real footage of the product in that exact spot being used, caption 'Fixed it for you'."
+  ],
+  "stage": "TOF\u2192MOF",
+  "closest_existing": "Product Comparison Video - old vs new, but told through a meme photo-edit reveal instead of side-by-side.",
+  "in_ids": [
+   "984762657387776"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "984762657387776",
+    "task": "F7",
+    "brand": "Nugget",
+    "days": 150,
+    "what_you_see": "Coffee table Photoshopped into play couch, then kid plays on it"
+   }
+  ],
+  "need_fill": 4,
+  "fill_hint": "WH keywords: 'fixed it for you', 'fixed it', photoshop, 'let me fix that', 'I fixed your'; niches: home decor, furniture, kids' play, car accessories, rugs/lighting."
+ }
+}

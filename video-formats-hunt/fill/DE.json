@@ -1,0 +1,73 @@
+{
+ "Stop-Motion Product Showcase": [
+  {
+   "id": "1506616944843743",
+   "task": "XDE",
+   "brand": "Mintworx Tools",
+   "domain": "mintworxtools.com",
+   "started": "2026-08-20",
+   "last": "2026-09-30",
+   "days": 41,
+   "page_active_ads": 21,
+   "ad_text": "This stop-motion video took forever to make. Keeping your ammo organized should not. Mintworx ammo inserts turn loose boxes and scattered rounds into a clean Packout setup",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/24b0cbe5561aa950f431d7ba1b0cd04ef62b145346314f49f1f084df5cda00ee.mp4",
+   "what_you_see": "Open Packout case fills with ammo frame by frame, lid closes"
+  },
+  {
+   "id": "2210857546407565",
+   "task": "XDE",
+   "brand": "Nugget",
+   "domain": "nuggetcomfort.com",
+   "started": "2026-08-11",
+   "last": "2026-10-04",
+   "days": 54,
+   "page_active_ads": 188,
+   "ad_text": "Birthdays are even sweeter with the Chunk\u00ae play ottoman! Shop today for a gift that'll grow their imagination for years to come.",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/dff945b126091732c85b6715ad15e6aeca0f79cb69aaabeaaa00fc7a3c45fdfc.mp4",
+   "what_you_see": "Ottoman pieces stack frame by frame into birthday cake"
+  }
+ ],
+ "AI Story VSL (Cinematic Caption Story)": [
+  {
+   "id": "2228328077742302",
+   "task": "XDE",
+   "brand": "Tucann",
+   "domain": "www.tucann.com",
+   "started": "2026-08-23",
+   "last": "2026-10-03",
+   "days": 41,
+   "page_active_ads": 563,
+   "ad_text": "Three women. One pool day. My wife noticed all of them.  She'd been telling me for months my old trunks looked faded and hung weird. I didn't listen. Then she bought these. Mirage Red. First wear.  \u2705 ",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/cecf32eb507f6619720be95471422b3e8a578151ecb43caa96812436876b0c77.mp4",
+   "what_you_see": "AI cinematic pool scenes, captioned wife-noticed story, swim trunks reveal"
+  }
+ ],
+ "Review Read-Aloud (Owner Reads Real Reviews)": [
+  {
+   "id": "1351177150158617",
+   "task": "XDE",
+   "brand": "Dosaze",
+   "domain": "dosaze.com",
+   "started": "2026-06-01",
+   "last": "2026-10-03",
+   "days": 124,
+   "page_active_ads": 416,
+   "ad_text": "We know the price makes you scroll past. But our reviews keep saying the same thing \u2014 \"I thought waking up in pain was normal.\" It's not. Try the Dosaze Contoured Pillow risk-free for 60 nights. If it",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/7f012382b0d11b1e823cadf0240b8f48aaebda45fab46dab5e500906ab41ccad.mp4",
+   "what_you_see": "Dosaze staffer answers price objection, reads review screenshots, guarantee close"
+  },
+  {
+   "id": "1829835191730125",
+   "task": "XDE",
+   "brand": "Henson Shaving",
+   "domain": "hensonshaving",
+   "started": "2026-07-27",
+   "last": "2026-10-01",
+   "days": 66,
+   "page_active_ads": 0,
+   "ad_text": "If you have to shave everyday, the Henson is the razor you want to be using.",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/16696289eedfcfec514b8d2d5d023854282ba0fb1544df06709690fbd17e20fe.mp4",
+   "what_you_see": "Henson staffer reads military/firefighter review screenshots aloud"
+  }
+ ]
+}

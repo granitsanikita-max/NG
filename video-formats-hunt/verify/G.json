@@ -1,0 +1,572 @@
+{
+ "Usage Timeline (Timestamp Countdown)": {
+  "orig": "Usage Timeline Countdown",
+  "decision": "KEEP",
+  "definition": "The whole ad is paced by an on-screen clock or progress bar: it opens on the promise/first use, then each beat jumps forward in time (8:03pm > 8:14pm, or 5 sec > 15 min > 5 days > 2 weeks) with one caption saying what the product is doing at that moment, and closes on the end-state result + offer.",
+  "why": "Turns a vague benefit into a concrete, believable sequence of milestones and makes viewers stay to see the final timestamp.",
+  "how": [
+   "List 4-6 real milestones of using the product (first seconds, first session, day 5, week 2) with one benefit each.",
+   "Film or animate one shot per milestone with a big timestamp/progress bar overlay that advances every beat.",
+   "End on the final milestone result, then cut to product + offer card."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Challenge ('I tried X for 7 days') - this is not a creator challenge diary; the timer/progress bar itself is the structure and can run in minutes inside one session or as an animated graphic.",
+  "in_ids": [
+   "3152095204970752",
+   "3921612621304291",
+   "1759280328424220",
+   "1086868290352046",
+   "2475462052881316"
+  ],
+  "out_ids": [
+   "1072420101786308"
+  ],
+  "top5": [
+   {
+    "id": "3152095204970752",
+    "task": "F4",
+    "brand": "SmoothSpine",
+    "days": 264,
+    "what_you_see": "Animated 5 sec > 15 min > 5 days > 2 weeks timeline over product"
+   },
+   {
+    "id": "3921612621304291",
+    "task": "F4",
+    "brand": "Healifeco",
+    "days": 104,
+    "what_you_see": "Foot-spa body animations paced by a 1 min to 2 weeks progress bar"
+   },
+   {
+    "id": "1759280328424220",
+    "task": "F1",
+    "brand": "Revomadic",
+    "days": 62,
+    "what_you_see": "POV couch cupping session with running clock 8:03PM to 8:15PM"
+   },
+   {
+    "id": "1086868290352046",
+    "task": "F10",
+    "brand": "Clevr Blends",
+    "days": 54,
+    "what_you_see": "Creator logs drink effect with big timestamps 8:40pm to asleep 9:43pm"
+   },
+   {
+    "id": "2475462052881316",
+    "task": "F4",
+    "brand": "HeavenlyHeatSaunas",
+    "days": 31,
+    "what_you_see": "Woman in sauna, captions step minute by minute through body effects"
+   }
+  ],
+  "fill_hint": "Full. More: WH search 'timestamps', 'minute by minute', 'what happens after', '5 seconds 15 minutes', 'day 1 day 7 day 30'.",
+  "need_fill": 0
+ },
+ "In-Store Find (Retail Aisle)": {
+  "orig": "In-Store Find (Retail Aisle)",
+  "decision": "KEEP",
+  "definition": "Shopper-POV video filmed inside a real, recognisable retailer: opens outside/at the shelf, the creator finds the product (or asks staff, who recommend it), shows the shelf, price tag and cart, then cuts home for close-ups and a 'grab it next time you're there / or online' close.",
+  "why": "Retail shelf presence borrows the store's credibility and signals 'this is a real mainstream brand', removing the 'random internet product' objection.",
+  "how": [
+   "Only usable if the product is (or looks) stocked in a known store or a stockist boutique - film a POV walk to the shelf.",
+   "Show shelf, price tag, staff recommendation or the item going into the cart with captions on value.",
+   "Cut to home close-ups and end with 'in store or online, link below'."
+  ],
+  "stage": "MOF",
+  "closest_existing": "Product Demo / Day In The Life - here the setting (the retail aisle and the purchase moment) is the proof, not product use. Note: hard for pure dropshippers without retail placement.",
+  "in_ids": [
+   "2244616142974276",
+   "1685769405848351",
+   "1532675448876916"
+  ],
+  "out_ids": [
+   "2494980580971711"
+  ],
+  "top5": [
+   {
+    "id": "2244616142974276",
+    "task": "F3",
+    "brand": "Zooki",
+    "days": 119,
+    "what_you_see": "POV inside Harrods, staff member recommends Zooki collagen off shelf"
+   },
+   {
+    "id": "1685769405848351",
+    "task": "F6",
+    "brand": "Duke Cannon",
+    "days": 41,
+    "what_you_see": "Costco shelf POV, $19.99 price, cart, then home close-ups"
+   }
+  ],
+  "fill_hint": "WH keywords: 'Costco find', 'Target run', 'found at', 'TJ Maxx', 'Walmart haul', 'Sephora', 'Ulta', 'Boots', 'in store now'; brands with retail: Duke Cannon, Olaplex, Bubble Skincare, Liquid IV, Poppi, Touchland.",
+  "need_fill": 3
+ },
+ "Behind the Build (Factory / Process Tour)": {
+  "orig": "Behind the Build (Factory / Process Tour)",
+  "decision": "KEEP",
+  "definition": "A brand insider or a step-by-step sequence takes the viewer through where/how the product is made: opens on the finished product or the person on the factory/workshop floor, walks through materials, build and quality checks (often as numbered steps), and closes on the finished product in use or the reveal + brand card.",
+  "why": "Shows the craftsmanship and quality control behind the price, answering 'is it cheap junk / is it safe' objections with visible proof.",
+  "how": [
+   "Get supplier/factory or workshop footage (ask your supplier for production-line clips) or film a rep in the warehouse.",
+   "Structure it as 3-4 steps: raw material > build > QC/packing, with one caption or line per step.",
+   "End on the finished product reveal or in use + offer."
+  ],
+  "stage": "MOF",
+  "closest_existing": "Pack An Order With Me (Fulfilment POV) - that shows packing a customer order; this shows manufacturing/quality of the product itself. Also unlike Founder Story, it is about the process, not the person's journey.",
+  "in_ids": [
+   "1937460170220927",
+   "1438974271365814",
+   "928335230183374",
+   "1996125931293478",
+   "1021592300322044"
+  ],
+  "out_ids": [
+   "1938426837562275"
+  ],
+  "top5": [
+   {
+    "id": "1937460170220927",
+    "task": "F4",
+    "brand": "Plunge",
+    "days": 177,
+    "what_you_see": "Rep walks lumber warehouse explaining how each sauna is built"
+   },
+   {
+    "id": "928335230183374",
+    "task": "F10",
+    "brand": "Magic Mind",
+    "days": 145,
+    "what_you_see": "VP of Ops in hairnet on production line answers purity question"
+   },
+   {
+    "id": "1996125931293478",
+    "task": "F6",
+    "brand": "Staghead Designs",
+    "days": 141,
+    "what_you_see": "Step 1-4: choose stone, design, jewelers handcraft, ring unveil"
+   }
+  ],
+  "fill_hint": "WH keywords: 'how it's made', 'inside our factory', 'our process', 'made in', 'quality control', 'step 1 step 2 handcraft', 'behind the scenes production'; brands: Ridge Wallet, Our Place, Caraway, Solo Stove, Ember, Manscaped factory tour.",
+  "need_fill": 2
+ },
+ "Product ASMR": {
+  "orig": "Product ASMR",
+  "decision": "KEEP",
+  "definition": "An 'ASMR' labelled ad with little or no voiceover: opens on the title + close-mic packaging sound, then a run of tactile sound moments (crinkle, pump, pour, lather, spray, crunch) using the product, closing on a calm end shot with the product.",
+  "why": "Sound-led sensory content is watched as entertainment, holds attention without a pitch and makes the product feel premium and satisfying.",
+  "how": [
+   "Pick 5-8 sound-rich actions with the product (opening, pouring, applying, using).",
+   "Record close to a mic in a quiet room, no music or talking, and add a persistent 'ASMR' title overlay.",
+   "End on product hero shot + brand; keep it 10-35s."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Satisfying B-roll (Front-Splice) - that is only a short visual hook spliced before a normal ad; here the whole ad is a sound-first ASMR routine with no pitch.",
+  "in_ids": [
+   "1308360610800330",
+   "2263897977769260",
+   "1528081255372232",
+   "2399543353867979"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "1308360610800330",
+    "task": "F1",
+    "brand": "Musc Intime",
+    "days": 129,
+    "what_you_see": "'ASMR routine' title: foam pump, lather, cream, body-perfume spray"
+   },
+   {
+    "id": "2263897977769260",
+    "task": "F9",
+    "brand": "YuMOVE",
+    "days": 39,
+    "what_you_see": "'YuMOVE ASMR' pack crinkle, treats into bowl, dog crunching"
+   },
+   {
+    "id": "1528081255372232",
+    "task": "F9",
+    "brand": "YuMOVE",
+    "days": 35,
+    "what_you_see": "Pack tearing, dog takes treats, ends asleep in bed"
+   }
+  ],
+  "fill_hint": "WH keywords: 'ASMR', 'asmr routine', 'satisfying sounds', 'no talking', 'restock asmr', 'unboxing asmr'; niches: skincare, pet treats, snacks, cleaning, stationery.",
+  "need_fill": 2
+ },
+ "Panic Restock Reaction": {
+  "orig": "Panic Restock Reaction",
+  "decision": "KEEP",
+  "definition": "A ~10s single-shot meme: a creator holds the nearly empty product box with a shocked hand-over-mouth face under one caption ('why did I wait... it's almost gone AND almost sold out'), shows what's left, and that is the whole ad.",
+  "why": "Combines habit proof (she's used it up) with scarcity in one glance; cheap to make and reads as native content, best for warm/retargeting audiences.",
+  "how": [
+   "Film a creator with an almost-used-up product (empty slots, last bottle) making a shocked/panic face.",
+   "Add one caption: 'I messed up... thought I had time, now I'm almost out and it's low stock'.",
+   "Keep it 8-12s, no VO; put the restock/low-stock offer in the copy."
+  ],
+  "stage": "BOF",
+  "closest_existing": "UGC Testimonial - no claims or story spoken; it is a silent reaction meme where the empty packaging + low-stock caption do the selling.",
+  "in_ids": [
+   "1047806178224154",
+   "1621599142972223",
+   "1694756082219742"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "1047806178224154",
+    "task": "F1",
+    "brand": "Qure Skincare",
+    "days": 29,
+    "what_you_see": "Shocked face, almost-empty kit box, 'I messed up' caption"
+   },
+   {
+    "id": "1621599142972223",
+    "task": "F1",
+    "brand": "Qure Skincare",
+    "days": 28,
+    "what_you_see": "'why did I wait... almost gone AND sold out' box reveal"
+   }
+  ],
+  "fill_hint": "WH keywords: 'almost sold out', 'running low', 'last one', 'panic ordering', 'restock', 'why did I wait', 'I messed up'; brands: Qure, Medicube, Glow Recipe, Kitsch, Bubble.",
+  "need_fill": 3
+ },
+ "Callout Montage (If You're X, This Is For You)": {
+  "orig": "Callout Montage (If You're X, This Is For You)",
+  "decision": "EXISTING:Educational UGC",
+  "definition": "Only candidate (MUD\\WTR) uses an audience-gate hook ('If you're under 20, DON'T WATCH') over a founder talking-head that explains cortisol/caffeine, intercut with stock-style actors; the body is an educational explainer, so the callout is a hook, not a whole-ad structure.",
+  "why": "Dropped: the distinct part is only the hook line.",
+  "how": [],
+  "stage": "TOF",
+  "closest_existing": "Educational UGC (founder teaches the caffeine/cortisol mechanism; the gate line is just the hook).",
+  "in_ids": [],
+  "out_ids": [
+   "1264577155749521"
+  ],
+  "top5": [],
+  "fill_hint": "n/a (dropped)",
+  "need_fill": 0
+ },
+ "Phone-Screen Investigation": {
+  "orig": "Phone-Screen Investigation",
+  "decision": "KEEP",
+  "definition": "A first-person 'I looked into it' story told almost entirely through phone screens: opens on a call screen or Google search ('I called my water company' / 'does legal water mean safe'), moves through real-looking web pages, databases, stats and a review card as evidence, then reveals the product as the fix with a before/after number and closes on the offer.",
+  "why": "Screen evidence feels like the viewer's own research, so the problem reads as discovered fact rather than an ad claim; great for invisible-problem products.",
+  "how": [
+   "Write the investigation as 5-7 'then I found...' beats tied to a hidden problem your product fixes.",
+   "Screen-record each step (call screen, Google search typing, a stat page, a lookup tool, a review) with one caption per beat.",
+   "Finish with the product shown solving it (number before > after) and an offer card."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Breakdown / Explainer - this is not a talking-head explanation; the whole ad is phone screen recordings acting as personal investigation evidence.",
+  "in_ids": [
+   "3579039288913309",
+   "1065198576112465"
+  ],
+  "out_ids": [
+   "1039819318932669"
+  ],
+  "top5": [
+   {
+    "id": "3579039288913309",
+    "task": "F1",
+    "brand": "Afina",
+    "days": 33,
+    "what_you_see": "Call screen 'I called my water company', EWG pages, ZIP lookup, filter"
+   },
+   {
+    "id": "1065198576112465",
+    "task": "F1",
+    "brand": "Afina",
+    "days": 32,
+    "what_you_see": "Google search 'does legal water mean safe', EWG stats, filter reveal"
+   }
+  ],
+  "fill_hint": "WH keywords: 'I googled', 'I looked it up', 'I called', 'turns out', 'look up your zip code', 'I did some research'; niches: water filters, air purifiers, mattress toxins, supplements testing; brands: Jolie, Afina, Canopy, Hydroviv.",
+  "need_fill": 3
+ },
+ "Brand Blunder Confession": {
+  "orig": "Brand Blunder Confession",
+  "decision": "KEEP",
+  "definition": "The brand opens by admitting a public mistake ('We f*cked up our spring sale'), proves it with a screen recording of the error and screenshots of angry/mocking customer comments, then 'makes it right' with an even bigger discount + free gifts and closes on urgency ('before we sell out').",
+  "why": "Self-deprecating honesty stops the scroll and the apology gives a believable reason for an unusually big discount.",
+  "how": [
+   "Pick a real or plausible slip (wrong % live, typo, shipping delay) and open with a blunt confession caption.",
+   "Show proof: screen recording of the mistake + 3-5 customer comment screenshots roasting you.",
+   "Pivot to the make-good offer (bigger discount, gifts) with product b-roll and a sell-out urgency close."
+  ],
+  "stage": "MOF→BOF",
+  "closest_existing": "Reply To Question / Personal Update - here the hook is the brand's own public mistake and comment backlash, used as the reason-why for a sale.",
+  "in_ids": [
+   "26111564305210022"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "26111564305210022",
+    "task": "F3",
+    "brand": "RYZE",
+    "days": 207,
+    "what_you_see": "'We f*cked up our spring sale', code at 3%, angry comments, 42% off"
+   }
+  ],
+  "fill_hint": "WH keywords: 'we messed up', 'we f*cked up', 'our mistake', 'pricing error', 'typo', 'we owe you', 'apology sale', 'glitch'; brands: RYZE, Kizik, Bruush, Laird, Manscaped.",
+  "need_fill": 4
+ },
+ "Quiz Walkthrough": {
+  "orig": "Quiz Walkthrough",
+  "decision": "KEEP",
+  "definition": "A relatable person states a problem and the confusion ('hundreds of products... which one do I even need?'), says an expert built a short quiz, then a screen recording walks through the quiz questions and the 'calculating your results' screen, closing on 'take the free 2-minute quiz, link below'.",
+  "why": "Sells a free personalised answer instead of a product, lowering friction for cold traffic and segmenting buyers into the right SKU.",
+  "how": [
+   "Build a 4-6 question quiz that routes to your product/bundle (Typeform, Octane AI, Shopify quiz app).",
+   "Film a person with the problem + 'which one do I need?' confusion, then screen-record answering the quiz.",
+   "End on the results-loading screen and a 'take the free quiz' CTA."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Q&A - there the creator answers a question; here the call-to-action is the quiz itself and the ad demos taking it.",
+  "in_ids": [
+   "4449695255357283",
+   "1331153901716409"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "4449695255357283",
+    "task": "F3",
+    "brand": "Beyond Alpha",
+    "days": 145,
+    "what_you_see": "Dad hides belly, 'did some research', quiz screens, 'link to assessment'"
+   },
+   {
+    "id": "1331153901716409",
+    "task": "F3",
+    "brand": "Beyond Alpha",
+    "days": 112,
+    "what_you_see": "'Which one do I need?', 2-minute dad bod quiz, calculating results"
+   }
+  ],
+  "fill_hint": "WH keywords: 'take the quiz', '2-minute quiz', 'find your', 'which one is right for you', 'assessment', 'hair quiz', 'skin quiz'; brands: Hims, Prose, Function of Beauty, Nutrafol, Ritual, Noom.",
+  "need_fill": 3
+ },
+ "BTS vs Final Shot Reveal": {
+  "orig": "BTS vs Final Shot Reveal",
+  "decision": "KEEP",
+  "definition": "Opens on the raw behind-the-scenes setup (rig, tripod, suction mount, studio) capturing a shot, then cuts to the polished final footage it produced, alternating setup vs result a few times and ending on the brand card.",
+  "why": "Proves the product's output quality directly - the viewer sees exactly what they'd get - ideal for tools that produce a result (camera gear, lighting, editing, beauty tools).",
+  "how": [
+   "Film the product set up doing its job in a plain/messy real environment (the 'how').",
+   "Capture or render the clean final result it produces (the 'wow').",
+   "Cut setup > result 2-4 times with a 'POV: no crew, just this' caption, end on product + offer."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Product Demo Ads - a demo shows use; this hinges on the contrast reveal between the scrappy setup and the polished output it created.",
+  "in_ids": [
+   "2013288585922860",
+   "2159635548152837",
+   "893141893819750"
+  ],
+  "out_ids": [
+   "1517291476835118",
+   "2304623477006623"
+  ],
+  "top5": [
+   {
+    "id": "2013288585922860",
+    "task": "F8",
+    "brand": "edelkrone",
+    "days": 174,
+    "what_you_see": "Motion-control rig in studio, then glossy perfume/can/watch packshots"
+   },
+   {
+    "id": "2159635548152837",
+    "task": "F8",
+    "brand": "edelkrone",
+    "days": 49,
+    "what_you_see": "Rig on tripod by plinth, then cinematic axe product shot"
+   }
+  ],
+  "fill_hint": "NEEWER 893141893819750 is IN but has no video file. WH keywords: 'POV no cameraman', 'behind the scenes vs final', 'how I shot this', 'setup vs result', 'the setup / the shot'; brands: NEEWER, SmallRig, Insta360, DJI, Ulanzi, Moment.",
+  "need_fill": 3
+ },
+ "Campaign Shoot Vlog (On Set BTS)": {
+  "orig": "BTS vs Final Shot Reveal (split out: 1517291476835118, 2304623477006623)",
+  "decision": "KEEP",
+  "definition": "Lo-fi phone vlog from the brand's own campaign/photo shoot: opens 'we're on set for our ... shoot', then handheld clips of models/founder changing, crew, lights, mood boards and between-take moments showing the new collection, closing on a final look or group shot.",
+  "why": "Shows a new collection on real bodies in an exciting insider context, so it reads as native content rather than a polished catalogue ad.",
+  "how": [
+   "During any product photoshoot, have someone film vertical handheld BTS: setup, outfit changes, models laughing, shot review.",
+   "Add casual narrator captions ('we're on set for...', 'she wants to frame this one').",
+   "Cut 30-60s, end on the best final look or a lineup of the pieces."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Day In The Life / Try-On Haul - here the setting is the brand's own shoot and the collection is revealed through on-set BTS, not a creator's day or a solo try-on.",
+  "in_ids": [
+   "1517291476835118",
+   "2304623477006623"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "1517291476835118",
+    "task": "F5",
+    "brand": "Monday Swimwear",
+    "days": 53,
+    "what_you_see": "'We're on set at our founder shoot', poolside models, photographers"
+   },
+   {
+    "id": "2304623477006623",
+    "task": "F6",
+    "brand": "REPRESENT",
+    "days": 32,
+    "what_you_see": "Handheld studio shoot, founder changing into new collection pieces"
+   }
+  ],
+  "fill_hint": "WH keywords: 'on set', 'behind the scenes of our shoot', 'campaign shoot', 'come to our photoshoot', 'BTS', 'shoot day'; fashion/swim/jewelry brands: Skims, Oh Polly, Frankies Bikinis, Gymshark, Represent, Monday Swimwear.",
+  "need_fill": 3
+ },
+ "Torture Test (Try To Break It)": {
+  "orig": "Torture Test (Try To Break It)",
+  "decision": "KEEP",
+  "definition": "The whole ad is a sequence of escalating abuse or stress attempts on the product (flips, jumps, drops, water, weight) with it surviving each one, ending on the verdict shot ('still in / still works') and brand.",
+  "why": "Visual proof of durability or fit beats any claim and the escalation keeps people watching to see if it finally fails.",
+  "how": [
+   "List 5-7 increasingly extreme tests relevant to your product's promise (falls out? breaks? leaks?).",
+   "Film each in one clean shot with a short caption, hardest test last.",
+   "End on the intact product + a 'still going' verdict and offer."
+  ],
+  "stage": "TOF→MOF",
+  "closest_existing": "Product Demo Ads / Challenge - a demo shows normal use; this is a pure escalating stress test where survival is the payoff.",
+  "in_ids": [
+   "3558309554334660"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "3558309554334660",
+    "task": "F8",
+    "brand": "Shokz",
+    "days": 132,
+    "what_you_see": "Athlete flips, muscle-ups, box jumps; earbuds never fall out"
+   }
+  ],
+  "fill_hint": "WH keywords: 'try to break', 'durability test', 'drop test', 'will it survive', 'stress test', 'still works', 'indestructible', 'waterproof test'; brands: Shokz, Ridge, Loop, Stanley, Hydro Flask, Rhinoshield, Pela, Nomatic.",
+  "need_fill": 4
+ },
+ "YouTube Reviewer Clip (Borrowed Expert)": {
+  "orig": "YouTube Reviewer Clip (Borrowed Expert)",
+  "decision": "KEEP",
+  "definition": "A horizontal, letterboxed excerpt from an independent long-form YouTube reviewer: often opens on a YouTube-style thumbnail hook, then the reviewer talks through and handles the product with screen recordings/specs, with a branded header bar, closing on 'see full review on YouTube' or a shop end card.",
+  "why": "An independent niche expert's real review carries authority no brand claim has; the YouTube look signals unsponsored, in-depth content.",
+  "how": [
+   "Send product to niche YouTubers and license a 30-80s segment of their review.",
+   "Keep it horizontal with black bars, add a product-name header and burned-in captions; optional thumbnail-style opener.",
+   "Close with end card or 'full review on YouTube + discount code'."
+  ],
+  "stage": "MOF",
+  "closest_existing": "Celebrity Podcast Clip / UGC Reviews - this borrows a niche YouTube reviewer's long-form review (letterboxed), not a famous podcast or a vertical UGC creator.",
+  "in_ids": [
+   "913615038343528",
+   "27214775404878656",
+   "1574430400845962"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "913615038343528",
+    "task": "F8",
+    "brand": "UGREEN",
+    "days": 186,
+    "what_you_see": "Letterboxed tech YouTuber reviewing NAS, screen recording, shop card"
+   },
+   {
+    "id": "27214775404878656",
+    "task": "F8",
+    "brand": "BLUETTI",
+    "days": 135,
+    "what_you_see": "Thumbnail 'How is it so small?' then reviewer comparing power stations"
+   },
+   {
+    "id": "1574430400845962",
+    "task": "F8",
+    "brand": "carpuride",
+    "days": 32,
+    "what_you_see": "Reviewer's screen rundown, 'see my full rundown on YouTube'"
+   }
+  ],
+  "fill_hint": "WH keywords: 'full review on YouTube', 'my honest review', 'after 30 days', 'tested', 'review', 'rundown'; tech/outdoor brands: Anker, EcoFlow, Jackery, Dreame, Roborock, Baseus, Insta360.",
+  "need_fill": 2
+ },
+ "Trade-Show Booth Demo": {
+  "orig": "Trade-Show Booth Demo",
+  "decision": "KEEP",
+  "definition": "Founder/rep with a lanyard filmed at an expo booth (banners, crowd) pitching and demoing the product live to camera, intercut with bold spec cards and a 'NEW' badge, closing on the rep summing up and the brand card.",
+  "why": "The expo setting signals a real, industry-recognised launch and makes a pitch feel like news coverage rather than an ad.",
+  "how": [
+   "Film at a trade show, pop-up or market stall with branded backdrop - rep demos the product live.",
+   "Intercut 3-4 full-screen spec cards (key numbers) between demo shots, add a 'NEW' sticker.",
+   "End with the rep's one-line summary to camera + logo card."
+  ],
+  "stage": "MOF",
+  "closest_existing": "Stage Talk / Keynote Authority - no stage or audience lecture; it is a hands-on booth demo with spec cards, closer to a news segment from the show floor.",
+  "in_ids": [
+   "937839115544699",
+   "1465116865359009"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "937839115544699",
+    "task": "F8",
+    "brand": "LockNLube",
+    "days": 161,
+    "what_you_see": "Lanyard rep demoing fluid pump at expo booth, spec cards"
+   }
+  ],
+  "fill_hint": "1465116865359009 is the same creative (not added). WH keywords: 'live from', 'at the show', 'CES', 'SEMA', 'expo', 'booth', 'trade show', 'NAB'; tool/auto/tech brands: LockNLube, Milwaukee, Wolfbox, Fanttik, Dreame.",
+  "need_fill": 4
+ },
+ "Good-Deed Vlog (Giving It Away)": {
+  "orig": "Good-Deed Vlog (Giving It Away)",
+  "decision": "KEEP",
+  "definition": "The brand owner vlogs explaining the product in the shop, then delivers/donates it to a community hero group (e.g. a police K9 unit), filming the handover, the recipients' thank-yous and why it matters, ending on the brand card.",
+  "why": "Goodwill and a respected recipient make the brand likeable and quietly endorse the product's usefulness.",
+  "how": [
+   "Pick a sympathetic recipient that genuinely needs the product (rescue shelter, nurses, K9 unit, coaches).",
+   "Film the owner explaining the product, then the real handover and reactions in one continuous vlog.",
+   "Close with the recipients' thanks and a soft brand/offer card."
+  ],
+  "stage": "TOF",
+  "closest_existing": "Gift Reaction Reveal - that focuses on one person's emotional unwrap; this is an owner vlog of a donation to a community group, with the product explained along the way.",
+  "in_ids": [
+   "899776702898356"
+  ],
+  "out_ids": [],
+  "top5": [
+   {
+    "id": "899776702898356",
+    "task": "F9",
+    "brand": "Waggle",
+    "days": 37,
+    "what_you_see": "Owner explains pet monitor, hands units to police K9 officers"
+   }
+  ],
+  "fill_hint": "WH keywords: 'we donated', 'giving away', 'surprised', 'for every order we donate', 'to the shelter', 'nurses', 'first responders', 'give back'; brands: Bombas, Waggle, Figs, Grunt Style, Kind Humans.",
+  "need_fill": 4
+ },
+ "De-Influencing (Don't Buy That, Buy This)": {
+  "orig": "De-Influencing (Don't Buy That, Buy This)",
+  "decision": "EXISTING:UGC How-To",
+  "definition": "Only candidate (Foxtale) uses a 'De-influence skincare routine' title and one line that generic serums won't work, then the body is a numbered routine walkthrough (cleanser > serum > moisturiser > sunscreen) - a How-To/routine with a de-influence hook.",
+  "why": "Dropped: de-influencing is only the title/hook here.",
+  "how": [],
+  "stage": "MOF",
+  "closest_existing": "UGC How-To (routine walkthrough); the 'don't buy that' idea alone is also covered by Myth Buster / Product Comparison.",
+  "in_ids": [],
+  "out_ids": [
+   "1536092038274814"
+  ],
+  "top5": [],
+  "fill_hint": "n/a (dropped)",
+  "need_fill": 0
+ }
+}

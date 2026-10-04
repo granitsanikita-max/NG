@@ -1,0 +1,42 @@
+[
+ {
+  "key": "n_TOF",
+  "title": "NEW \u00b7 Top of Funnel",
+  "x": 10600,
+  "y": 380,
+  "w": 4120,
+  "h": 13827,
+  "cards": 20,
+  "images": 89
+ },
+ {
+  "key": "n_TOF_MOF",
+  "title": "NEW \u00b7 Top to Middle",
+  "x": 10600,
+  "y": 14527,
+  "w": 4120,
+  "h": 12540,
+  "cards": 17,
+  "images": 74
+ },
+ {
+  "key": "n_MOF",
+  "title": "NEW \u00b7 Middle of Funnel",
+  "x": 10600,
+  "y": 27387,
+  "w": 4120,
+  "h": 7145,
+  "cards": 10,
+  "images": 50
+ },
+ {
+  "key": "n_MOF_BOF",
+  "title": "NEW \u00b7 Middle to Bottom",
+  "x": 10600,
+  "y": 34852,
+  "w": 4120,
+  "h": 4539,
+  "cards": 6,
+  "images": 27
+ }
+]

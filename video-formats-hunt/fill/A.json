@@ -1,0 +1,103 @@
+{
+ "Micro Bumper (2-6s)": [
+  {
+   "id": "1881100982583663",
+   "brand": "Maggie the Label",
+   "domain": "maggiethelabel.com.au",
+   "started": "2026-09-01",
+   "last": "2026-10-03",
+   "page_active_ads": 60,
+   "ad_text": "New Arrivals Landed. Meet the Luna Dress \ud83d\udd4a\ufe0f    A black dress you\u2019ll reach for on repeat.  Clean. Flattering. Easy to style.  Shop Luna in black at https://maggiethelabel.com.au/",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/65e51d7ffd2de1197ffbb55305b168111298a09ef8589d73cb65fb18669e1e64.mp4",
+   "task": "XA",
+   "days": 32,
+   "what_you_see": "Fixed 'MAGGIE The art of everyday' line over 3 dress shots"
+  }
+ ],
+ "Mini-Doc Portrait": [
+  {
+   "id": "1741858220138083",
+   "brand": "Jackery",
+   "domain": "ca.jackery.com",
+   "started": "2026-06-10",
+   "last": "2026-09-28",
+   "page_active_ads": 1858,
+   "ad_text": "\ud83d\ude80 The Ultimate Power Solution Is Now Up to 65% OFF. Whether you're preparing for extended outages, living off-grid, traveling in an RV, or powering remote adventures, the Explorer 5000 Plus delivers t",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/832d7004e1aac912460a1b8f2a9a686473d9f934ee67b88287324bcad0b7dc90.mp4",
+   "task": "XA",
+   "days": 110,
+   "what_you_see": "'Jackery Stories': named homeowner Rick Hart narrates his solar-backup life"
+  },
+  {
+   "id": "965289266234864",
+   "brand": "Jackery",
+   "domain": "ca.jackery.com",
+   "started": "2026-05-08",
+   "last": "2026-09-28",
+   "page_active_ads": 1858,
+   "ad_text": "Save up to $2,200 on Jackery Explorer 5000 Plus this Mother's Day Sale. Outage-proof your entire home with industrial-grade power. \ud83c\udfe0\u26a1\ufe0f \u2705 7200W Output: Industrial power to drive your toughest 120V/240V",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/ddbf7299f9b36a216349a9d933b00c85b5599fcc1e391469fd4714af16d9918b.mp4",
+   "task": "XA",
+   "days": 143,
+   "what_you_see": "Homeowner narrates CPAP/outage life, installs Jackery; '50 Homes' end card"
+  }
+ ],
+ "Limited Collab Drop (IP Trailer)": [
+  {
+   "id": "1537073451799190",
+   "brand": "Nugget",
+   "domain": "nuggetcomfort.com",
+   "started": "2026-08-22",
+   "last": "2026-10-04",
+   "page_active_ads": 188,
+   "ad_text": "Designed with fun colors. Runs on imagination. Shop the Crayola x Nugget\u00ae collab today!",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/043cd185e6e9fd71e3d9538c9dbff4cd90ef192bce1559c3923b926d7bb2a1f3.mp4",
+   "task": "XA",
+   "days": 43,
+   "what_you_see": "'Crayola x Nugget New Limited Edition Collab' lockup, kids play, doodle FX"
+  },
+  {
+   "id": "2937579019908159",
+   "brand": "Paul Kenzie",
+   "domain": "paulkenzie.com",
+   "started": "2026-08-17",
+   "last": "2026-10-03",
+   "page_active_ads": null,
+   "ad_text": "Paul Kenzie x Durex Pockets.\n\nHaz\u0131r olmak hi\u00e7 bu kadar kolay olmam\u0131\u015ft\u0131.\n\n#i\u015fbirli\u011fi @durexturkiye",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/d9b4b39040c9589a966d9c28e1455903448795b9f633a4ac8f3079c9cb13ce41.mp4",
+   "task": "XA",
+   "days": 47,
+   "what_you_see": "Durex packs fly in, co-branded briefs, 'Paul Kenzie x durex' lockup"
+  }
+ ],
+ "Brand Anthem Montage (Manifesto)": [
+  {
+   "id": "927460427093574",
+   "brand": "MUD\\WTR",
+   "domain": "mudwtr.com",
+   "started": "2026-08-26",
+   "last": "2026-09-25",
+   "page_active_ads": 185,
+   "ad_text": "No more 2pm crash.",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/a6c9f06ce322db41d82d6aaa2064262894f0bb4a5a6b236a1af0595081c422c4.mp4",
+   "task": "XA",
+   "days": 30,
+   "what_you_see": "One woman's vignettes under word-by-word poem about soul, presence"
+  }
+ ],
+ "Cinematic Mini-Film (Brand Short Story)": [
+  {
+   "id": "4400846716896826",
+   "brand": "Paul Rich",
+   "domain": "paul-rich.com",
+   "started": "2026-07-14",
+   "last": "2026-09-29",
+   "page_active_ads": 161,
+   "ad_text": "Stop waiting to \u201clook successful.\u201d Start looking like someone who\u2019s serious about becoming successful. @paulrichwatches",
+   "video_url": "https://media.winninghunter.com/metalibrary/video/9d45237489e05a38ca76897bcb10254110ce0dd8095cd5e8e400e4e59d0e4d28.mp4",
+   "task": "XA",
+   "days": 77,
+   "what_you_see": "Moody bar scene: man unboxes, wears gold watch; Paul Rich title"
+  }
+ ]
+}
