@@ -1,0 +1,3503 @@
+{
+ "1108785901471677": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "physician's morning: beach walk, red-light panel, routine, kinetic captions"
+ },
+ "1666660817769634": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'3 weddings: this is the one skincare step I refuse to skip' glam montage + mask modes"
+ },
+ "1218251910456523": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "travel montage -> hotel mask session"
+ },
+ "1589487982824948": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "summer girl mask review with close-ups"
+ },
+ "1130661345545117": {
+  "format": "Lesson From Others (Mentor Story)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "brand staffer at desk reads real customer reviews (review cards pop in), third-person stories"
+ },
+ "1376724144243726": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "staff dandruff on black shirt -> shampoo -> clean, one-word captions 11s"
+ },
+ "1154536236640171": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "8s satisfying texture macro (pink cream combed) + packshot"
+ },
+ "1994081387816659": {
+  "format": "NEW",
+  "new_name": "Stand-In Object Demo",
+  "new_def": "The whole demo is performed on a proxy object standing in for skin (an orange's peel as 'pores'): apply makeup to the orange, then run the product routine on it and rinse to show the result, under a 'game-changer or scam?' question header. No face, no talking head.",
+  "closest": "Product Demo Ads / Satisfying B-roll",
+  "stage": "Uses a visual metaphor object as the test subject so the mechanism is visible and oddly satisfying; distinct from demoing on a person",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "2066111240465850": {
+  "format": "Scenarios",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "woman + dog thought-bubble skit choosing products, unbox with dog, cross-sell card"
+ },
+ "1466893045092438": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "warehouse/lab behind-the-scenes with one-word captions -> customer result"
+ },
+ "1443981037477673": {
+  "format": "Case Studies",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "lab -> customer 'Connor' flaky scalp -> shower -> result, one-word captions"
+ },
+ "924034950639506": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator with mic 'how to get rid of dandruff', pharmacy aisle label reading, before/after"
+ },
+ "1439736547363308": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "customer selfie + his DM to brand, 2 washes later 10/10"
+ },
+ "1362422042295484": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "customer mirror selfies: package arrives, shower, result"
+ },
+ "1720127188951815": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "young man's day (coast walk, cafe) -> shower routine with products"
+ },
+ "1394472366047887": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "'Did you know HA makes up 97% of enamel?' fact card + product lineup sliding panels",
+  "closest": "Product Demo Ads",
+  "stage": "motion still",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "1017223990818087": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "product macro under a pinned customer comment 'used MooGoo 8 years, never go back' 10s"
+ },
+ "1824266771896257": {
+  "format": "Challenge",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'I beat my flaky scalp' before -> shower routine -> no more flakes"
+ },
+ "1546210870186167": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "celebrity mom (actress) + baby, toothpaste partnership talk"
+ },
+ "1984286435783267": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "testimonial clip 3s front-spliced onto sliding promo banner cards",
+  "closest": "Product Demo Ads",
+  "stage": "motion still promo",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "1952084632398707": {
+  "format": "NEW",
+  "new_name": "Send-This-To-Your-Partner Hint",
+  "new_def": "Creator opens with a warning card 'send this video to your boyfriend quickly' and talks directly to the partner as a gift guide (which set to buy, why, how to order on site, deadline), so the viewer forwards it as a hint.",
+  "closest": "UGC Reviews / Gift Reaction Reveal",
+  "stage": "Ad is engineered to be shared to a third party (the buyer) rather than persuade the viewer; whole script addresses the absent gift-giver",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "1975653650501569": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "split-screen: static product image + foam application loop under 'NOUVEAUTÉ' ticker",
+  "closest": "Product Demo Ads",
+  "stage": "motion promo",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "1219589657013726": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "French creator deodorant review"
+ },
+ "803212045507411": {
+  "format": "NEW",
+  "new_name": "Send-This-To-Your-Partner Hint",
+  "new_def": "creator addresses 'ton copain' (your boyfriend) directly: what to gift, look at me",
+  "closest": "UGC Reviews",
+  "stage": "variant, talking to the partner",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "975934078446554": {
+  "format": "Myth Buster",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'Méfiez-vous du...' beware hook, then product range"
+ },
+ "823949180025527": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "creator day vignettes (out, mirror, dinner) with product routine, 'POV tu sens bon'"
+ },
+ "778051511837452": {
+  "format": "NEW",
+  "new_name": "Flat-Lay Build Stop-Motion",
+  "new_def": "7s top-down flat lay where items (accessories + product) pop in frame by frame to build an aesthetic arrangement around the product; no person, no text beyond brand.",
+  "closest": "Satisfying B-roll / Animated Packshot",
+  "stage": "Stop-motion assembly of a lifestyle flat lay; the reveal-by-accumulation is the whole ad",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "26711729425154401": {
+  "format": "UGC Listicle",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'3 astuces' femininity tips with products"
+ },
+ "1308360610800330": {
+  "format": "NEW",
+  "new_name": "ASMR Routine",
+  "new_def": "Whisper/ASMR-labelled routine: tapping, pumping foam, lathering, spraying each product close to the mic with on-screen 'ASMR routine with [brand]' title; sound is the hook.",
+  "closest": "UGC How-To / Satisfying B-roll",
+  "stage": "Sensory ASMR execution of the routine is the hook, not instruction",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "1090593874140299": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "press quote + multiple creators/customers on body butter"
+ },
+ "1253184636583287": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator mineral sunscreen review"
+ },
+ "1429759238903117": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'THIS replaced every perfume' lotion application montage with serif captions"
+ },
+ "2190715185055534": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "founder in car 'never seen women agree on a product like this'"
+ },
+ "1320269233393644": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "founder + several women's testimonials, 'never wear makeup again'"
+ },
+ "26215598211453062": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "founder in car 'all I pack in my toiletry bag' travel kit"
+ },
+ "1825367398845714": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "Polished brand spot: aesthetic product/texture/model shots with serif captions and review quote; no creator story.",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "aesthetic deodorant spot with review quote + serif captions"
+ },
+ "895736386432587": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'I regret buying this' reverse-hook lotion demo montage"
+ },
+ "903863086122232": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "variant"
+ },
+ "1020712054102663": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'buying this made me less productive' lotion montage"
+ },
+ "1749109396124125": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'THIS is why I stopped wearing perfume' duo montage"
+ },
+ "898788752816117": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "founder + older women testimonials for balm"
+ },
+ "1555047699706269": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "lotion montage variant"
+ },
+ "1387196616727433": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "founder outdoors walks through travel body routine bag ('travel pet peeve' hook)"
+ },
+ "2253166022183116": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "dup car travel kit variant"
+ },
+ "1707283527371328": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "morning routine with ingredient captions per step"
+ },
+ "1605805760501660": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "natural deodorant creator review"
+ },
+ "1327852432533203": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "travel bag minis walk-through at airport"
+ },
+ "1343123154329079": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator non-toxic body products review"
+ },
+ "1404722141495807": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "beach girl day with sunscreen, kinetic captions"
+ },
+ "833756639481704": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "retro-film brand spot (model in tub in a meadow, 'Trust the sun. Question your sunscreen.')",
+  "closest": "Product Demo Ads",
+  "stage": "brand film",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "993898026377768": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "sunscreen finger-written slogan on back, 10s brand spot",
+  "closest": "Product Demo Ads",
+  "stage": "brand film",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "1956956391609481": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'how beef tallow helped my skin' creator story + mask"
+ },
+ "1491589169648709": {
+  "format": "Case Studies",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'my skin went from...' acne journey to May result, step by step"
+ },
+ "2632972033786792": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "dup morning routine"
+ },
+ "1889479328697756": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "new mom tallow products review"
+ },
+ "1807881820371671": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'sick and tired of drugstore toxic' creator travel kit review"
+ },
+ "1623351666068722": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "dup"
+ },
+ "1600003868401965": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "natural deodorant honest review"
+ },
+ "1581156670178090": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "8s static bundle offer card ($62->$48 + free bag), products swap subtly",
+  "closest": "Product Demo Ads",
+  "stage": "motion still offer",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1574786767686894": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "dup bundle card",
+  "closest": "Product Demo Ads",
+  "stage": "dup",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "2615251485603376": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "airport/airplane travel routine with kit"
+ },
+ "1379630096992579": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "dup"
+ },
+ "3687949281363202": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "several creators on deodorant w/ ingredient-list comparison screenshots"
+ },
+ "1402513858752245": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "natural skincare routine steps"
+ },
+ "26267401899549866": {
+  "format": "UGC Science Backed",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "real dermatologist (Dr Muneeb Shah) demonstrates micro-infusion how-to"
+ },
+ "1321625226513438": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "derm replies to comment 'how do you use LED masks properly?'"
+ },
+ "1062864349475985": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'it looks scary, it really isn't' micro-infusion tutorial with before/after"
+ },
+ "1400610861883902": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'5 min ritual -> 50 sec tutorial'"
+ },
+ "1771023780995928": {
+  "format": "Breakdown / Explainer",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "derm explains micro-infusion vs microneedling with 3D skin animations + study stat (long)"
+ },
+ "3544637795717714": {
+  "format": "NEW",
+  "new_name": "Dual-Role POV Skit",
+  "new_def": "One creator plays two characters in a 'POV:' scenario (patient who ghosted her derm vs. the over-the-top dermatologist in glasses/white coat), cutting between roles in a comic dialogue that ends with the derm prescribing the product.",
+  "closest": "Fake Doctor / Scenarios",
+  "stage": "Comedy sketch where the creator acts both sides; the doctor is a parody character, not an authority endorsement",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1047806178224154": {
+  "format": "NEW",
+  "new_name": "Panic Restock Reaction",
+  "new_def": "~10s single-shot meme: creator holds an almost-empty product box with a shocked hand-over-mouth face under one caption ('I messed up... thought I had time, now I'm almost out and they're low stock' / 'panic ordering'). Loyal-user scarcity, no explanation, no demo.",
+  "closest": "Unboxing / Reaction / Personal Update",
+  "stage": "The emotion of running out IS the ad: implies habit-forming product + scarcity in one beat",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "2334482624019858": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator micro-infusion use with friend inset, talks while applying"
+ },
+ "1081622460925964": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "car review of micro-infusion kit, animated reactions"
+ },
+ "1086209717495903": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'Did you say NEEDLES?' duet-style reaction with other creators inset, '1000% worth it'"
+ },
+ "1569057320821202": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator demo with 3D skin inset"
+ },
+ "1694756082219742": {
+  "format": "NEW",
+  "new_name": "Panic Restock Reaction",
+  "new_def": "'panic ordering because I'm almost out and they're selling out' box reveal",
+  "closest": "Unboxing",
+  "stage": "variant",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "2368520857289608": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'needle fear? look away' application"
+ },
+ "1089916486911729": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'don't zoom in if you hate needles' kit walkthrough"
+ },
+ "1805013104028386": {
+  "format": "UGC Science Backed",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'I'm an aesthetic nurse and here's the no BS reason' while applying"
+ },
+ "1795682398534043": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'yes those are tiny needles' application"
+ },
+ "1621599142972223": {
+  "format": "NEW",
+  "new_name": "Panic Restock Reaction",
+  "new_def": "'why did I wait... it's almost gone AND almost sold out' shocked face + box",
+  "closest": "Unboxing",
+  "stage": "variant",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1458190099472221": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator talks while applying, kinetic"
+ },
+ "2178287622739264": {
+  "format": "Claymation",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "clay-style animated scenes with a podcast-host narrator inset (AI clay look) for cupping device"
+ },
+ "1697650944627619": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "reply to comment 'omg my back feels this' gym cupping demo"
+ },
+ "1759280328424220": {
+  "format": "NEW",
+  "new_name": "Timestamped POV Session Log",
+  "new_def": "First-person POV of one use session where a big running clock caption (8:03PM -> 8:04 -> 8:14 -> 8:15) advances shot by shot with a micro-caption per beat ('my 8pm physical therapist', 'one button', 'finally shut up'), ending on offer card.",
+  "closest": "Day In The Life / Product Demo Ads",
+  "stage": "The clock-stamp progression compresses a single session into a diary log; not a whole day, not a talking demo",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "1634125928378565": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'had a knot for six months' creator testimonial + scarcity close"
+ },
+ "2380533062357761": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "dup of reply-to-comment gym cupping"
+ },
+ "4393089554337987": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "'NOW OR NEVER SALE / up to 55% off' persistent banner over rapid montage of stacked boxes, phone order, calendar 'TODAY', mosaic of customer clips; announcement-of-sale structure",
+  "closest": "none",
+  "stage": "sale-event hype montage (same family as Megelin flipbook)",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "1528746921717538": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "bearded guy kinetic-caption device review + bundle"
+ },
+ "1012488761613236": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator testimonial with Amazon review screenshots"
+ },
+ "1795763154758933": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "POV 3 reasons text wall over looping device clip"
+ },
+ "29163384599917154": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'POV your derm low-key admits' text wall -> feature callout cards"
+ },
+ "4361529534160347": {
+  "format": "Myth Buster",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'WARNING you've been using LED wands WRONG' creator demo"
+ },
+ "1657927205680886": {
+  "format": "Challenge",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'try this before you blame your face shape' half-face test"
+ },
+ "2195654710978270": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'your LED mask is lazy' creator demo review"
+ },
+ "887324561115608": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "beach football brand film with bold kinetic type 'Play it your way'",
+  "closest": "Product Demo Ads",
+  "stage": "brand film",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1282176213856387": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "male creator new scents review"
+ },
+ "1726159485169224": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "brand film with odor-molecule CGI 'Odor defense'",
+  "closest": "Product Demo Ads",
+  "stage": "brand film",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "37196887183292254": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "6s cutdown of beach brand film",
+  "closest": "Product Demo Ads",
+  "stage": "brand film",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1089756903609154": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "15s brand film variant",
+  "closest": "Product Demo Ads",
+  "stage": "brand film",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1328694722678608": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "scent-ingredient sensory macro brand spot with kinetic words (coffee bubbles, 'savoring the first sip')",
+  "closest": "Product Demo Ads",
+  "stage": "brand film",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1476264734466495": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "scent-note ingredient macros 'roasted pistachio / vanilla absolute' + bottle",
+  "closest": "Product Demo Ads",
+  "stage": "brand film",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "27416505524693354": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "dup",
+  "closest": "Product Demo Ads",
+  "stage": "dup",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1592294285696556": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "creator answers DM/comments 'body mist that lasts?' with 3 bottles line-up"
+ },
+ "1024464103752407": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "6s cutdown",
+  "closest": "Product Demo Ads",
+  "stage": "dup",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1797752101383040": {
+  "format": "NEW",
+  "new_name": "Outfit Lookbook POV",
+  "new_def": "street-style fashion reel: model posing/walking in city with cologne as accessory, no speech",
+  "closest": "Day In The Life",
+  "stage": "fashion lookbook reel with product as prop",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "1636307734685869": {
+  "format": "NEW",
+  "new_name": "Outfit Lookbook POV",
+  "new_def": "fit-check: man cycles through outfits in hallway with jump-cut transitions, spritzes cologne, walks out to vintage car",
+  "closest": "Day In The Life / Try-On Haul",
+  "stage": "fit-check transitions where the scent completes the look; not a haul review",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "2527846214301618": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "studio beauty spot: model + lip close-ups + kinetic benefit type + logo",
+  "closest": "Product Demo Ads",
+  "stage": "brand film",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "4629991427224738": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'get the ready in 5 look' step-by-step bundle tutorial"
+ },
+ "2590389484736353": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "variant"
+ },
+ "1743224710327557": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "4s palette packshot swapping warm/cool variants",
+  "closest": "Product Demo Ads",
+  "stage": "motion still",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1047199921351121": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'only trio you need this fall' numbered application"
+ },
+ "2915190742191985": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'lazy girl hack' 3-step with before/after"
+ },
+ "1038301245484178": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "variant"
+ },
+ "1059486246634600": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "dup trio"
+ },
+ "1394062372671939": {
+  "format": "Levels",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "model shows Minimalist -> Chic -> Glam looks from one palette (looks escalate), inset eye close-ups"
+ },
+ "1418829233678472": {
+  "format": "Challenge",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'not gatekeeping' lip stain + all-day wear test with clock timestamps 9am->12pm->5pm->9pm (eating, drinks)"
+ },
+ "1695901341488554": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "1.5s 'can't keep in stock' before/after card",
+  "closest": "Product Demo Ads",
+  "stage": "motion still",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1381747236646976": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "lip serum creator review"
+ },
+ "1784118049452287": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'back in stock' badge mascara review"
+ },
+ "1708361540455824": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "136s long bundle review full face"
+ },
+ "4487682638212950": {
+  "format": "5 Reasons Why",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'5 reasons Thrive tubing mascara is the best'"
+ },
+ "4438002423176745": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "dup back in stock review"
+ },
+ "1075258041902149": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "lip stain swatch review"
+ },
+ "1970716540266327": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "before/after lip macro application with captions 18s"
+ },
+ "837857875596385": {
+  "format": "UGC Science Backed",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "real pharmacist (Phil's my pharmacist) in his pharmacy with skin-model prop explains IPL"
+ },
+ "1329188192650991": {
+  "format": "UGC Science Backed",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "pharmacist shaves a balloon to show razor damage then explains IPL device"
+ },
+ "930151033380683": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "15s sale card with a live ticking 24:00:00 countdown timer, 'biggest sale of the year / today only / buy 1 get 4'",
+  "closest": "none",
+  "stage": "the ticking timer is the whole ad",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1628120398757277": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "holiday sale card 'Buy 1 Get 16' with subtle motion",
+  "closest": "Product Demo Ads",
+  "stage": "motion still offer",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1570295028030443": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'I skipped Botox, still got great skin and saved $2000' LED mask testimonial"
+ },
+ "1005650305798509": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "24h flash sale card",
+  "closest": "Product Demo Ads",
+  "stage": "motion still offer",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1562261402250875": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "studio model serum dropper beauty spot with mono captions",
+  "closest": "Product Demo Ads",
+  "stage": "brand film",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "27701794812835580": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator shows dark knee, explains glow up pads"
+ },
+ "2277520279753391": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator 'spread and wipe' pads review"
+ },
+ "1871613910914615": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'want a pink kitty?' body dark-spot pads with ingredient screenshots"
+ },
+ "905292172340325": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'POV you finally found' unbox + wipe face with ingredient captions"
+ },
+ "2369500973518503": {
+  "format": "NEW",
+  "new_name": "Illustrated Comic Story",
+  "new_def": "Entire ad is a hand-drawn comic/storybook narrated beat by beat (character with breakouts in mirror -> spiral of failed Rx creams -> angry cartoon products -> discovery of ingredient with simple diagram -> happy character -> real before/after -> vignette panels of users -> packshot), one caption per panel.",
+  "closest": "Founder Story Ads / Animated Mechanism Explainer / Claymation",
+  "stage": "Story-driven (not clinical 3D explainer); flat 2D illustration style is the novelty, like Claymation but drawn",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "946289534779304": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator 'sweat without the worry' testimonial + workout b-roll, kinetic captions"
+ },
+ "1550435900221152": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'hack for post-gym breakouts' boyfriend serum routine in mirror"
+ },
+ "1699711691253195": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "founder outdoors + doodle mechanism animation, 'I sold one every 28 seconds', awards packshot"
+ },
+ "1396741705683413": {
+  "format": "Challenge",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'47 days apart, same lighting' Day 1 vs Day 47"
+ },
+ "919062081231058": {
+  "format": "NEW",
+  "new_name": "Don't-Buy-If Anti-Pitch",
+  "new_def": "Creator opens 'Don't buy [brand]...' and holds up handwritten sticky notes of conditions under which you shouldn't buy (if OTC creams worked, if your GP fixed it...), then flips: 'but if nothing worked, buy it', quick mechanism + 47-day money-back guarantee.",
+  "closest": "Problem-Agitate-Solve / UGC Listicle / Myth Buster",
+  "stage": "Reverse-psychology qualifier structure; the whole ad is reasons NOT to buy that pre-qualify the viewer",
+  "confidence": "MOF",
+  "notes": "high"
+ },
+ "1702968307617333": {
+  "format": "Case Studies",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'This is Nic.' third-person narrated customer story with b-roll"
+ },
+ "2724213344611569": {
+  "format": "Podcast",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'parents of teens with breakouts keep watching' two-guest podcast set + b-roll"
+ },
+ "1344542230997857": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "~10s near-static studio packshot where UI-style callout panels ('The ingredient' / 'What it does' dropdowns, bullet benefits) animate in one by one beside the product, ending on a 'Try it now' button. No person, no VO story.",
+  "closest": "Product Demo Ads / Breakdown / Explainer",
+  "stage": "Product is never used; the whole ad is a motion-graphic spec sheet on a packshot (cheap BOF retargeting creative)",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1057414157012182": {
+  "format": "NEW",
+  "new_name": "Don't-Buy-If Anti-Pitch",
+  "new_def": "'Don't buy this for your teenager. Don't order it tonight...' card over packshot -> sticky-note disqualifiers -> mechanism -> guarantee",
+  "closest": "Problem-Agitate-Solve",
+  "stage": "variant",
+  "confidence": "MOF",
+  "notes": "high"
+ },
+ "3949451618528090": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator 'if you're still struggling' review + laptop site walkthrough, guarantee"
+ },
+ "924085713530493": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "seated studio interview of a dancer customer"
+ },
+ "3271437786399881": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "dancer interview cut"
+ },
+ "1774441207340504": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'is your teen suffering' before/after -> molecule -> routine b-roll"
+ },
+ "2020799088574491": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "mother+daughter seated interview, review card before/after"
+ },
+ "1064908189835833": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "packshot with hands, callout leader lines animate around bottle, 'Everything else was a guess' + CTA",
+  "closest": "Product Demo Ads",
+  "stage": "variant",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "2136844976931688": {
+  "format": "Challenge",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'47 days apart, same lighting' Day 1 vs Day 47 (near-dup)"
+ },
+ "2519295488485110": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "8s near-static routine lineup card with words typing in ('Ready. Set. Regenerate.')",
+  "closest": "Product Demo Ads",
+  "stage": "video-ized static card",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "1531206828455469": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "8s static bundle card with savings badge, faint texture motion",
+  "closest": "Product Demo Ads",
+  "stage": "video-ized static card",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "1311548644297736": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "8s static bundle card with savings badge",
+  "closest": "Product Demo Ads",
+  "stage": "video-ized static card",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "1796341921545242": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "8s hand-held product reveal with serif captions 'the wait is over / new formula'"
+ },
+ "1762651158236810": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "7s review-quote + award card, subtle texture motion",
+  "closest": "Product Demo Ads",
+  "stage": "video-ized static card",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "1567512371705679": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "8s 'when suncare is skincare' packshot with two-side benefit callouts",
+  "closest": "Product Demo Ads",
+  "stage": "video-ized static card",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "921471137638731": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "11s award + review card",
+  "closest": "Product Demo Ads",
+  "stage": "video-ized static card",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "4538345993155657": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "dup award review card",
+  "closest": "Product Demo Ads",
+  "stage": "dup",
+  "confidence": "BOF",
+  "notes": "medium"
+ },
+ "887354240869026": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator acne-scar journey 'this is what my skin looked like' -> routine"
+ },
+ "1634403291536144": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'two most important steps of my morning routine' application"
+ },
+ "1756357419466220": {
+  "format": "UGC Science Backed",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "derm PA eye cream non-negotiables, ingredient card"
+ },
+ "3579039288913309": {
+  "format": "NEW",
+  "new_name": "Phone-Screen Investigation",
+  "new_def": "Narrated as a personal investigation told through screens: phone call screen 'I called my water company' -> shower b-roll -> EWG web page '77% exceed health guidelines' -> 'fully legal' -> review card -> ZIP-code database lookup 'your own ZIP code' -> lab numbers 1.68->0.02ppm on product -> offer.",
+  "closest": "Breakdown / Explainer / Myth Buster",
+  "stage": "Evidence is presented as screen captures the viewer can verify themselves (call log, database, ZIP lookup), receipts-thread style rather than presenter",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "941146265707471": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "184s long first-person text wall over looping shower clip, ends on 4.9 review card"
+ },
+ "1946789383392135": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator review with kinetic captions, CNN underscored proof"
+ },
+ "1630909885306050": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'POV your shower filter never had to be stuck' handheld demo with dog 18s"
+ },
+ "3657959807700930": {
+  "format": "Product Comparison Video",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'viral showerhead chlorine test' multiple heads tested over weeks, Afina wins"
+ },
+ "1362004566096427": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'pay for the filter now or the hair extensions later' single caption over hair-loss -> order -> unbox -> install -> offer card"
+ },
+ "1695852044822462": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "kinetic-caption feature montage (filter cartridge, glass of yellow water, install) -> flash sale card"
+ },
+ "1631090191704754": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "founder green-screen opening on his own Shark Tank clip, wife's eczema origin, 50% off"
+ },
+ "1005300392540459": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'not sponsored' 1-week test review with filter cartridge reveal"
+ },
+ "4383868821869184": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "3D Pixar-style talking conditioner tubes in a salon gossip about shower water"
+ },
+ "2034509470533601": {
+  "format": "Podcast",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "two hosts at mics discussing it + b-roll, offer card"
+ },
+ "1755810438669945": {
+  "format": "Product Comparison Video",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'every filter left the water feeling the same... except one' rusty heads vs Afina, offer card"
+ },
+ "1065198576112465": {
+  "format": "NEW",
+  "new_name": "Phone-Screen Investigation",
+  "new_def": "Google search typing 'does legal water mean safe', EWG pages, 'fully legal' stamp, review card, ZIP lookup, lab numbers, spec-sheet offer",
+  "closest": "Breakdown / Explainer",
+  "stage": "variant of P014L",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1057090743938763": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "hair-in-drain hook creator review, kinetic captions, guarantee card"
+ },
+ "2610782952713902": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'STOP I'm begging you before you buy' 50-yr-old testimonial"
+ },
+ "926823313281701": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'always read the reviews' 50-yr-old review with screenshot inset"
+ },
+ "1005950689161729": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator review, kinetic captions (near-dup of P015L)"
+ },
+ "1900938167731356": {
+  "format": "NEW",
+  "new_name": "3D Cartoon Character Story",
+  "new_def": "Pixar-style 3D character replies to comment 'Hard water?', explains in animated scenes (tap, glass, unboxing), offer card",
+  "closest": "AI UGC Avatar / Reply To Question",
+  "stage": "animated human character presenter in scenes",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "1621231009550622": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'okay' hair-after-shower review, wait-what reveal"
+ },
+ "1379173960313438": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "mom in car: 'my daughter deleted every photo of herself because of her skin' -> tallow balm"
+ },
+ "1042545031507464": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "white-coat 'what 9/10 parents get WRONG about teen acne'"
+ },
+ "1525445292604846": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "white-coat 'most of my patients think they have dry skin'"
+ },
+ "1010523105319662": {
+  "format": "Myth Buster",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'you eat like your health depends on it, then rub rapeseed oil into your face' seed-oil myth"
+ },
+ "3265431806974778": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "mom in car: '14-year-old ashamed to show her face, until 3 weeks ago'"
+ },
+ "27915974934696489": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "white-coat duet beside a creator's red face: 'the retinol, the acids... breaking your skin'"
+ },
+ "1091019360283361": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'dermatologist explains why beef tallow outperforms' + farm/making b-roll"
+ },
+ "1052659507613048": {
+  "format": "Myth Buster",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "seed-oils-on-skin variant"
+ },
+ "1575469410726107": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'I had eczema for eight years' story -> tallow balm"
+ },
+ "1389964419705555": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'a dermatologist said something the beauty industry doesn't want you to hear' white-coat man with creator insets"
+ },
+ "1037871782084008": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "white coat 'pick up your moisturiser and count the ingredients'"
+ },
+ "1076610055091897": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'as a dermatologist, biggest mistakes parents make with teen acne'"
+ },
+ "1072203725719571": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'my sensitive skin reacted to every sensitive skin product' car story"
+ },
+ "2017350368970075": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'for two years my daughter hid from every camera' car story"
+ },
+ "1100036842448235": {
+  "format": "Myth Buster",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'the seed oils you banned from your kitchen are in your moisturizer'"
+ },
+ "1415119020534591": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "white coat 'nobody tells you your expensive routine is breaking your skin'"
+ },
+ "2114474009492434": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "white coat 'real reason beef tallow works better' + farm/making b-roll"
+ },
+ "28216822931247309": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "white coat 'the science behind beef tallow' + making b-roll"
+ },
+ "1697336678001816": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'my daughter stopped wanting to go to school' car story"
+ },
+ "1375665091076872": {
+  "format": "Myth Buster",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "expert over FDA article: FDA-cleared vs approved, device demo b-roll"
+ },
+ "1000669465723265": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'I need to show you my new favourite' vitamin C serum review"
+ },
+ "2782105662165640": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "studio texture swatches + application macro"
+ },
+ "952333884208073": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator vitamin C serum review"
+ },
+ "1617719842649731": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "founder (Colleen) walks through Prep & Hydrate ingredients"
+ },
+ "2164102141050849": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "12s swatch + face application in aesthetic flat-lay"
+ },
+ "2843125359369160": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "founder presents new scalp serum + glossing mist (launch announcement)"
+ },
+ "2417132768817188": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'sign to stop over-complicating your routine' cream review"
+ },
+ "1966673040698597": {
+  "format": "UGC Listicle",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "founder '3 most important things you can do for your skin'"
+ },
+ "1042812515038763": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "tinted eye cream one-eye comparison review"
+ },
+ "2792027487821398": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'why I made an eyeliner for brown eyes' founder + lab chemist"
+ },
+ "1029414003381500": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "same edit"
+ },
+ "1504274598386686": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "founder seated 'holy grail product' why we developed a 1.5mm tip"
+ },
+ "1396848695882690": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'my eyeshadow always creased until I tried this' application 12s"
+ },
+ "1011301768455885": {
+  "format": "Street Interviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'she smelled SO good I had to know' mic stop-and-ask on NYC street"
+ },
+ "4425464664336109": {
+  "format": "NEW",
+  "new_name": "IRL Brand Stunt Recap",
+  "new_def": "Doc-style recap of a real-world brand activation: costumed bellhops ('Hotel DIME') in white gloves carry hatboxes across NYC crosswalks, pop-up valet table on the sidewalk, elevator, hailing a cab, then the kit revealed inside the box. No talking head, no VO pitch; the staged public spectacle is the content.",
+  "closest": "Day In The Life / Street Interviews / Unboxing",
+  "stage": "Sells via FOMO around a real event/stunt rather than a testimonial, interview or demo",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1373806754722228": {
+  "format": "UGC Listicle",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'3 reasons this viral DIME skincare is the secret to baby soft skin' numbered overlays"
+ },
+ "1030328446475855": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "Polished TV-style brand spot cut to music: water splash/texture macros, bottle drop into water, model holding tube to face, 'Daily exfoliation, made gentle', logo end card; no creator, no VO story.",
+  "closest": "Product Demo Ads / Satisfying B-roll (Front-Splice)",
+  "stage": "The whole ad is a high-production brand film rather than a demo or a front-spliced hook",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1031617302818129": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "11s texture macro: jojoba beads pouring into palm, gel on hand, packshot"
+ },
+ "947355428434101": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator double-cleansing routine in bathrobe"
+ },
+ "1391553129709435": {
+  "format": "UGC Listicle",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'3 reasons why you should be double cleansing' numbered overlays"
+ },
+ "1384520953830423": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "male creator '2 step skincare routine for radiant skin'"
+ },
+ "1715914136659146": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator in bathroom cleansing routine explaining ingredients"
+ },
+ "2317538105343175": {
+  "format": "Myth Buster",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Myths debunked' dermatologist + celebrity MUA TV-style segments"
+ },
+ "3917363558398763": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'send undereye bags packing' device on face with 91% stat, end card"
+ },
+ "1500502778254256": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "macro dermaplaning device demo with callout bubble"
+ },
+ "1468049567940500": {
+  "format": "NEW",
+  "new_name": "Don't-Buy-If Anti-Pitch",
+  "new_def": "'3 reasons you SHOULDN'T buy Dermaflash' numbered sarcastic disqualifiers ('you're just not that into glowing skin (said no one ever)', '(ouch!)', '(wait, what?)') over demo footage, awards + guarantee end card",
+  "closest": "Problem-Agitate-Solve / UGC Listicle / 5 Reasons Why",
+  "stage": "brand-produced sarcastic variant; reverse-psychology reasons-not-to-buy",
+  "confidence": "MOF",
+  "notes": "high"
+ },
+ "1055423120336410": {
+  "format": "NEW",
+  "new_name": "Don't-Buy-If Anti-Pitch",
+  "new_def": "same as P046L 14s cut",
+  "closest": "UGC Listicle",
+  "stage": "variant",
+  "confidence": "MOF",
+  "notes": "high"
+ },
+ "1726038541874517": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "11s device packshot with headline + '91% reduced' stat animating in, end card",
+  "closest": "Product Demo Ads",
+  "stage": "motion still",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1008510905145824": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "review quote card over device-on-eye loop, end card 12s"
+ },
+ "1050873674365757": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'can you hear how satisfying' dermaplaning creator review"
+ },
+ "2091528411455077": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "same creator variant"
+ },
+ "1058199446591856": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "12s device packshot, question headline + '100% saw instant improvement' stat animating, end card",
+  "closest": "Product Demo Ads",
+  "stage": "motion still",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1103724552089156": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'one part of my routine I'll never change' weekly-use routine"
+ },
+ "1323239646373607": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "studio model + serum with big kinetic benefit typography (Treats Dullness, Even-tones), logo + marketplace end card",
+  "closest": "Product Demo Ads",
+  "stage": "brand spot",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1307646571452679": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator compares four face washes for skin types"
+ },
+ "1941339339904637": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator 'Hi I'm Katarina' presents pigmentation cream"
+ },
+ "1049601074084370": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "hand opens gift box revealing serum set 12s"
+ },
+ "1460802022346508": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator foaming cleanser + serum routine"
+ },
+ "809122908287103": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator moisturizer review with application"
+ },
+ "1010931198474708": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator 4-step SkinMedica routine"
+ },
+ "1024496733525048": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "retailer brand film: model with devices + products, kinetic category words (Face Devices, Contour, Anti-), logo",
+  "closest": "Product Demo Ads",
+  "stage": "brand spot",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "2148315115717009": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "retailer brand film + rewards tiers ('Dermatologists recommended must-haves', Silver/Gold/Platinum)",
+  "closest": "Product Demo Ads",
+  "stage": "brand spot",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "37474360788873974": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "SkinMedica studio spot: texture swirls, model, before/after, '+250 clinical studies' stat cards",
+  "closest": "Product Demo Ads",
+  "stage": "brand spot",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1108106001542194": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "SkinMedica studio spot: bottles, serif claims ('Over 1 million bottles sold', 'appear 6 years younger'), textures",
+  "closest": "Product Demo Ads",
+  "stage": "brand spot",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1633520398448455": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "multi-brand product split-panel montage 'Your glow covered'",
+  "closest": "Product Demo Ads",
+  "stage": "brand spot",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1391846209568079": {
+  "format": "Pack An Order With Me (Fulfilment POV)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "creator enters the retailer's warehouse, picks products off shelves into a basket, staff scan, pack and tape the box (warehouse shopping-spree twist)"
+ },
+ "2012978866005156": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "mood brand film 'small rituals, in confidence': women in mirrors/home, serif words, logo",
+  "closest": "Product Demo Ads",
+  "stage": "brand spot",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1533396231350738": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator opens the ritual bag and pulls products out one by one"
+ },
+ "1771878147345147": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "dup multi-brand montage 'your glow covered'",
+  "closest": "Product Demo Ads",
+  "stage": "dup",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "2177947833603779": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "dup retailer brand film",
+  "closest": "Product Demo Ads",
+  "stage": "dup",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1076629958630253": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'September Ritual Bag unboxing' hands-only on bed"
+ },
+ "1094810606372691": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator opens ritual bag and applies products"
+ },
+ "887117150428486": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'can I be honest' acne testimonial, last month vs today, routine products"
+ },
+ "1009211788565919": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator pH-strip tests face wash then washes face ('let's test this')"
+ },
+ "1750517122742177": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "cleanser use close-ups with VO captions"
+ },
+ "1018285403920692": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'your face wash failed the test, ours won't' pH-test kit demo"
+ },
+ "1306065817982399": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "male creator de-tan purple mask review with insets"
+ },
+ "1578858213655192": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Hindi creator mask review, celebrity-user insert"
+ },
+ "1513471234163267": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "celebrity ambassador (Sonali Bendre) red studio spot with mask textures, new-launch end card",
+  "closest": "Product Demo Ads",
+  "stage": "brand spot with celebrity",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1836072340901867": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "half-face two-mask application (one step radiance)"
+ },
+ "1215081838359110": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator with lav mic face wash review"
+ },
+ "1476497604309636": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "opens on Karan Johar's IG story ('@iamsrk should post a what's in my bag video' showing the mask), then creator applies the mask"
+ },
+ "4524867024401456": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "5s static card: '97% users saw reduction' + product in prism + 3 concern tiles",
+  "closest": "Product Demo Ads",
+  "stage": "motion still",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1077015114687456": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "before -> purple mask application with checkmark benefit captions -> after"
+ },
+ "4634982106826749": {
+  "format": "Product Comparison Video",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'pink mask vs viral purple mask' (own two SKUs) texture comparison"
+ },
+ "1420035723314011": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "polished actress skit 'girls night in two hours and I look like this' -> face wash splash -> glow 'zero to glow in 30 seconds'"
+ },
+ "1536092038274814": {
+  "format": "NEW",
+  "new_name": "De-Influencing Swap Routine",
+  "new_def": "Creator frames the video with a 'De-influence skincare routine' title: says the generic/hyped products 'aren't going to work' for her skin type, then walks a numbered 1-2-3 routine of what to use instead (cleanser, serum, moisturiser, sunscreen) with swatches.",
+  "closest": "Myth Buster / UGC Listicle / UGC How-To",
+  "stage": "Positions the pitch as anti-hype consumer advice (TikTok de-influencing trend) with the brand routine as the payoff",
+  "confidence": "MOF",
+  "notes": "medium"
+ },
+ "27934181239543021": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'it's just a face wash, what can it really do?' acne skin result in 3 days"
+ },
+ "2642394706191416": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "before -> purple mask application -> after, hijabi creator"
+ },
+ "4709825322679789": {
+  "format": "NEW",
+  "new_name": "Get Ready With Me (GRWM)",
+  "new_def": "Talent (here a celebrity actress, festive setting) opens 'welcome to my first ever get ready with me' and chats to camera while doing each skincare/makeup step for an occasion; each product enters as a natural step, ending on the finished festive look.",
+  "closest": "Day In The Life / UGC How-To",
+  "stage": "Framed around getting ready for a specific moment with a final-look payoff; not a single-product tutorial nor a whole day",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "1047015218237001": {
+  "format": "NEW",
+  "new_name": "Couple Banter Skit",
+  "new_def": "Two people (couple) on a sofa in candid banter; the skeptical partner gets talked into trying the product (purple mask on his face), laughter and reactions, product title cards, brand end card.",
+  "closest": "Scenarios / Reaction / Gift Reaction Reveal",
+  "stage": "Relationship comedy carries the ad; not a testimonial, interview or demo",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "964921596027376": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "male actor polished testimonial with before/after (de-tan face wash)"
+ },
+ "2131320500760244": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "white-coat 'doctor' green-screen over 3D anatomy animations ('your bra fits at 8am, cuts in by 5pm'), lymphatic capsules"
+ },
+ "3177702739103103": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "AI-generated montage with one-word kinetic captions + 3D gut/anatomy shots"
+ },
+ "1075631055414105": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'spent $200 on skincare and my face was still puffy' (AI-generated visuals)"
+ },
+ "951766181288932": {
+  "format": "AI UGC Avatar",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "AI-generated woman UGC testimonial with pouch in kitchen/garden"
+ },
+ "1593305592322435": {
+  "format": "AI UGC Avatar",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "AI woman talking head + cutaways ('this is what would happen')"
+ },
+ "1085658117226694": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "AI-generated montage of many women, one-word captions, product + 'buy 2 get 1 free'"
+ },
+ "831671790033055": {
+  "format": "AI UGC Avatar",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "AI woman walk-and-talk 'two words: lymphatic drainage' with 3D lymph cutaway"
+ },
+ "1056333033820305": {
+  "format": "NEW",
+  "new_name": "3D Cartoon Character Story",
+  "new_def": "Whole ad is a Pixar-style 3D animated woman acting out a first-person problem->discovery->relief story in scenes (puffy in mirror, tight clothes, detox teas, finds the pouch, takes capsules, feels better, flexes in mirror) with bold karaoke captions and a product hero end shot.",
+  "closest": "AI UGC Avatar / Personal Story / Claymation",
+  "stage": "Not a talking avatar pitching to camera and not an anthropomorphized object: an animated human protagonist acts the story out (cartoon novelty like Claymation, but 3D/AI)",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1738134914095698": {
+  "format": "NEW",
+  "new_name": "3D Cartoon Character Story",
+  "new_def": "Pixar-style 3D character: wakes puffy -> finds Glov -> capsules with breakfast -> park walk -> glow -> product hero",
+  "closest": "AI UGC Avatar",
+  "stage": "variant",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1070895912520145": {
+  "format": "NEW",
+  "new_name": "3D Cartoon Character Story",
+  "new_def": "Pixar-style 3D anthropomorphic cat couple sitcom: she's less puffy, he's furious/jealous, steals her capsules, flexes in the mirror; product hero shots between scenes",
+  "closest": "Talking Objects / Characters / Body Parts",
+  "stage": "animated characters act a comedic story in scenes rather than narrate/pitch",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "2368496167016737": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "AI visuals of fluid-clogged face/legs + 3D glowing lymph system + ingredients"
+ },
+ "1637467628002384": {
+  "format": "AI UGC Avatar",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "AI woman holding pouch talking, sister-in-law photo inset"
+ },
+ "2373181156546432": {
+  "format": "AI UGC Avatar",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'what the first 30 days on Glov actually does to your body' AI presenter week-by-week"
+ },
+ "1697711814670775": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "AI-generated first-person 'I was puffy every single day' story, one-word captions"
+ },
+ "1096540156134422": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "AI-generated variant 'I thought I was swollen'"
+ },
+ "2172924369936457": {
+  "format": "AI UGC Avatar",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "AI presenter + 3D lymph cutaways, 'be careful, get the authentic Glov'"
+ },
+ "1692671185351433": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'#1 moisturiser in Pakistan has entered the chat' packaging + texture macro with captions 22s"
+ },
+ "782068544927659": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'viral salicylic facewash reviews' several creators framed in a collage cut together"
+ },
+ "2251698428570113": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'just buy these two' hair serums application"
+ },
+ "1014369934415280": {
+  "format": "NEW",
+  "new_name": "Outfit Lookbook POV",
+  "new_def": "Fashion-reel style: a model in a traditional outfit poses in a garden holding/presenting the skincare products under a 'POV: you're in your desi girl era' caption; vibe/identity-led, no speech, no demo, framed in a product-collage border.",
+  "closest": "Day In The Life / Try-On Haul",
+  "stage": "Aspirational identity reel where the product is a prop of the look, not demonstrated or reviewed",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "983349904517143": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator presents new urea body lotion launch with dry-skin macro"
+ },
+ "1705057363778926": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'suffering from frizzy hair? hairfall?' creator -> products"
+ },
+ "1557005299388664": {
+  "format": "UGC Science Backed",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "derm in white coat at clinic desk 'POV: the one haircare product I recommend to my patients' (collage border)"
+ },
+ "1038469648833863": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "hijabi creator fragrance-free moisturizer review"
+ },
+ "1313245244295141": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'I hate these bumps' anti-acne soap 15s review"
+ },
+ "1699233877794543": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'sensitive skin? don't test random products' advice -> recommendation"
+ },
+ "1075798815093612": {
+  "format": "UGC Listicle",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'these are 5 products I use' numbered routine"
+ },
+ "1864301831209301": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "creator beside a stock/viral face image with thought bubble ('Face + body acne? one soap'), then soap review"
+ },
+ "1396731188665125": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'if you struggle with acne scars please use...' with cartoon inset"
+ },
+ "1209301318008915": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'summer essentials' routine montage with product split panels"
+ },
+ "1752296659125561": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'thesis stress breakouts, Jenpharm became my savior' (framed with product images)"
+ },
+ "1530774665456887": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator morning routine -> office day with products, 'gotta get back to work, bye'"
+ },
+ "1062526222820876": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Eid glow duo review + flat 15% off"
+ },
+ "2559115781224176": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Baisti program' dropper demo with condition photos + cartoon inserts, 10% off badge"
+ },
+ "1866372451004164": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "dup of sensitive-skin advice (bow border)"
+ },
+ "2179751212570903": {
+  "format": "UGC Listicle",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'my top recommendations' hijabi creator with B-roll inserts"
+ },
+ "1597586478405152": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "pro athlete testimonial for red-light bag + gym b-roll, discount code"
+ },
+ "1397540165689956": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "6s rapid-fire flip through the brand's past sale/promo creatives under a fixed 'WE WON'T DO THIS AGAIN / up to 50% off now' header with a scrolling 'FINAL HOURS' ticker; pure urgency, no person, no product use.",
+  "closest": "Animated Packshot Callouts / Win (Victory Announcement)",
+  "stage": "The format IS the scarcity device: an archive of past offers flashing by implies this deal is the last; 9 live duplicates",
+  "confidence": "BOF",
+  "notes": "high"
+ },
+ "1881414172842787": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "177s long-form chatty creator unboxing + uses red-light mat on kitchen floor"
+ },
+ "1477393564222293": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'red light therapy bag for gut health?!' creator answers in bed demo"
+ },
+ "1113895334643650": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "older athlete woman 'I thought recovery meant resting' testimonial + device b-roll, code"
+ },
+ "1121078873916702": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'your body heals itself, this is how I support it' man with diagram insets + device use"
+ },
+ "1918539688792337": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "woman wears LED mask while doing chores around the house (couch, cushions)"
+ },
+ "1610689086857796": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "before/after + mask + serum review"
+ },
+ "969702945893017": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator LED mask review 'I started doing my skincare...'"
+ },
+ "3902302030078175": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "POV multitasking while wearing the mask (emails, kitchen, stairs, car, errands)"
+ },
+ "1040895358360993": {
+  "format": "Personal Learning / Epiphany",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'don't be like me' one-piece-of-advice, 'I aged backwards'"
+ },
+ "2932437103762712": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'only using red light? your skin has more than one concern' mode explainer"
+ },
+ "1006485948821410": {
+  "format": "NEW",
+  "new_name": "Night Routine Romanticize Vlog",
+  "new_def": "Aesthetic 'romanticize my night care routine with me' vlog: salt lamp, supplements, legs up the wall, LED mask, bed ('sweet dreams'); each step captioned with its benefit, moody lighting, no talking to camera.",
+  "closest": "Day In The Life / UGC How-To / Satisfying B-roll",
+  "stage": "A ritual-montage of one evening routine in ASMR/aesthetic tone, rather than a whole day or an instructional how-to",
+  "confidence": "TOF",
+  "notes": "medium"
+ },
+ "1036282142606241": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'I've tried a lot of beauty devices' WFH mask review"
+ },
+ "2045691902976961": {
+  "format": "NEW",
+  "new_name": "Public Wear Meme Clip",
+  "new_def": "7s single-scene meme: a woman shamelessly wears the glowing LED mask at an airport gate under one relatable caption ('When you find the best travel friendly skincare device you stop caring what people think'); no VO, no pitch.",
+  "closest": "Day In The Life / Satisfying B-roll",
+  "stage": "One-joke relatable meme moment carried entirely by a caption, not a routine, review or demo",
+  "confidence": "TOF",
+  "notes": "high"
+ },
+ "1773307947433789": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'since going through [X]... red light for years' kinetic captions, mask at home"
+ },
+ "1635643904790310": {
+  "format": "Q&A",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Is red light the wrong color for your skin concern?' creator green-screen over mask colors"
+ },
+ "910746214953812": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "busy mom 'my new wellness routine': workout -> red-light panel session, habit stacking"
+ },
+ "1069077268902431": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "family members take turns in front of the panel giving lines + training b-roll"
+ },
+ "1093099903252398": {
+  "format": "NEW",
+  "new_name": "Don't-Buy-If Anti-Pitch",
+  "new_def": "Creator opens 'Don't buy [brand]...' and holds up handwritten sticky notes of conditions under which you shouldn't buy (if OTC creams worked, if your GP fixed it...), then flips: 'but if nothing worked, buy it', quick mechanism + 47-day money-back guarantee.",
+  "closest": "Problem-Agitate-Solve / UGC Listicle / Myth Buster",
+  "stage": "Reverse-psychology qualifier structure; the whole ad is reasons NOT to buy that pre-qualify the viewer",
+  "confidence": "MOF",
+  "notes": "near-identical duplicate of 919062081231058; high"
+ },
+ "1713263919880624": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "8s static bundle card with savings badge, faint texture motion",
+  "closest": "Product Demo Ads",
+  "stage": "video-ized static card",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1531206828455469; medium"
+ },
+ "1700768607867340": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "8s static bundle card with savings badge",
+  "closest": "Product Demo Ads",
+  "stage": "video-ized static card",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1311548644297736; medium"
+ },
+ "1765830661094258": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1796341921545242; 8s hand-held product reveal with serif captions 'the wait is over / new formula'"
+ },
+ "949202784175195": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1796341921545242; 8s hand-held product reveal with serif captions 'the wait is over / new formula'"
+ },
+ "1973920536646446": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "8s 'when suncare is skincare' packshot with two-side benefit callouts",
+  "closest": "Product Demo Ads",
+  "stage": "video-ized static card",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1567512371705679; high"
+ },
+ "2283444905777739": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1946789383392135; creator review with kinetic captions, CNN underscored proof"
+ },
+ "1984368655668297": {
+  "format": "Fake Doctor",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1389964419705555; 'a dermatologist said something the beauty industry doesn't want you to hear' white-coat man with creator insets"
+ },
+ "1325871589377409": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1504274598386686; founder seated 'holy grail product' why we developed a 1.5mm tip"
+ },
+ "1543911350843695": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1050873674365757; 'can you hear how satisfying' dermaplaning creator review"
+ },
+ "1676071456787498": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 2091528411455077; same creator variant"
+ },
+ "1550205083553989": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "retailer brand film: model with devices + products, kinetic category words (Face Devices, Contour, Anti-), logo",
+  "closest": "Product Demo Ads",
+  "stage": "brand spot",
+  "confidence": "TOF",
+  "notes": "near-identical duplicate of 1024496733525048; high"
+ },
+ "1543019984528078": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "dup multi-brand montage 'your glow covered'",
+  "closest": "Product Demo Ads",
+  "stage": "dup",
+  "confidence": "TOF",
+  "notes": "near-identical duplicate of 1771878147345147; high"
+ },
+ "1081838927924143": {
+  "format": "AI UGC Avatar",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1593305592322435; AI woman talking head + cutaways ('this is what would happen')"
+ },
+ "899168602868226": {
+  "format": "AI UGC Avatar",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1593305592322435; AI woman talking head + cutaways ('this is what would happen')"
+ },
+ "937276122748277": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1085658117226694; AI-generated montage of many women, one-word captions, product + 'buy 2 get 1 free'"
+ },
+ "1788345435670110": {
+  "format": "AI UGC Avatar",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1637467628002384; AI woman holding pouch talking, sister-in-law photo inset"
+ },
+ "1355925806521212": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "6s rapid-fire flip through the brand's past sale/promo creatives under a fixed 'WE WON'T DO THIS AGAIN / up to 50% off now' header with a scrolling 'FINAL HOURS' ticker; pure urgency, no person, no product use.",
+  "closest": "Animated Packshot Callouts / Win (Victory Announcement)",
+  "stage": "The format IS the scarcity device: an archive of past offers flashing by implies this deal is the last; 9 live duplicates",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1397540165689956; high"
+ },
+ "1596354252017837": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "6s rapid-fire flip through the brand's past sale/promo creatives under a fixed 'WE WON'T DO THIS AGAIN / up to 50% off now' header with a scrolling 'FINAL HOURS' ticker; pure urgency, no person, no product use.",
+  "closest": "Animated Packshot Callouts / Win (Victory Announcement)",
+  "stage": "The format IS the scarcity device: an archive of past offers flashing by implies this deal is the last; 9 live duplicates",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1397540165689956; high"
+ },
+ "1034516839213872": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "6s rapid-fire flip through the brand's past sale/promo creatives under a fixed 'WE WON'T DO THIS AGAIN / up to 50% off now' header with a scrolling 'FINAL HOURS' ticker; pure urgency, no person, no product use.",
+  "closest": "Animated Packshot Callouts / Win (Victory Announcement)",
+  "stage": "The format IS the scarcity device: an archive of past offers flashing by implies this deal is the last; 9 live duplicates",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1397540165689956; high"
+ },
+ "3100416470162561": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "6s rapid-fire flip through the brand's past sale/promo creatives under a fixed 'WE WON'T DO THIS AGAIN / up to 50% off now' header with a scrolling 'FINAL HOURS' ticker; pure urgency, no person, no product use.",
+  "closest": "Animated Packshot Callouts / Win (Victory Announcement)",
+  "stage": "The format IS the scarcity device: an archive of past offers flashing by implies this deal is the last; 9 live duplicates",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1397540165689956; high"
+ },
+ "2299654807528618": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "6s rapid-fire flip through the brand's past sale/promo creatives under a fixed 'WE WON'T DO THIS AGAIN / up to 50% off now' header with a scrolling 'FINAL HOURS' ticker; pure urgency, no person, no product use.",
+  "closest": "Animated Packshot Callouts / Win (Victory Announcement)",
+  "stage": "The format IS the scarcity device: an archive of past offers flashing by implies this deal is the last; 9 live duplicates",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1397540165689956; high"
+ },
+ "1739716633733975": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "6s rapid-fire flip through the brand's past sale/promo creatives under a fixed 'WE WON'T DO THIS AGAIN / up to 50% off now' header with a scrolling 'FINAL HOURS' ticker; pure urgency, no person, no product use.",
+  "closest": "Animated Packshot Callouts / Win (Victory Announcement)",
+  "stage": "The format IS the scarcity device: an archive of past offers flashing by implies this deal is the last; 9 live duplicates",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1397540165689956; high"
+ },
+ "1773606303981994": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "6s rapid-fire flip through the brand's past sale/promo creatives under a fixed 'WE WON'T DO THIS AGAIN / up to 50% off now' header with a scrolling 'FINAL HOURS' ticker; pure urgency, no person, no product use.",
+  "closest": "Animated Packshot Callouts / Win (Victory Announcement)",
+  "stage": "The format IS the scarcity device: an archive of past offers flashing by implies this deal is the last; 9 live duplicates",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1397540165689956; high"
+ },
+ "1812619476576041": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "6s rapid-fire flip through the brand's past sale/promo creatives under a fixed 'WE WON'T DO THIS AGAIN / up to 50% off now' header with a scrolling 'FINAL HOURS' ticker; pure urgency, no person, no product use.",
+  "closest": "Animated Packshot Callouts / Win (Victory Announcement)",
+  "stage": "The format IS the scarcity device: an archive of past offers flashing by implies this deal is the last; 9 live duplicates",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1397540165689956; high"
+ },
+ "1972201436819124": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "6s rapid-fire flip through the brand's past sale/promo creatives under a fixed 'WE WON'T DO THIS AGAIN / up to 50% off now' header with a scrolling 'FINAL HOURS' ticker; pure urgency, no person, no product use.",
+  "closest": "Animated Packshot Callouts / Win (Victory Announcement)",
+  "stage": "The format IS the scarcity device: an archive of past offers flashing by implies this deal is the last; 9 live duplicates",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1397540165689956; high"
+ },
+ "1018329997840445": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1881414172842787; 177s long-form chatty creator unboxing + uses red-light mat on kitchen floor"
+ },
+ "4457985664414091": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1477393564222293; 'red light therapy bag for gut health?!' creator answers in bed demo"
+ },
+ "2700074050426810": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1477393564222293; 'red light therapy bag for gut health?!' creator answers in bed demo"
+ },
+ "1076020271789863": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1477393564222293; 'red light therapy bag for gut health?!' creator answers in bed demo"
+ },
+ "1267565288908919": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1477393564222293; 'red light therapy bag for gut health?!' creator answers in bed demo"
+ },
+ "26480105641650446": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1918539688792337; woman wears LED mask while doing chores around the house (couch, cushions)"
+ },
+ "1611510067017502": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1069077268902431; family members take turns in front of the panel giving lines + training b-roll"
+ },
+ "1571209074548904": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1108785901471677; physician's morning: beach walk, red-light panel, routine, kinetic captions"
+ },
+ "1996558074273006": {
+  "format": "Lesson From Others (Mentor Story)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1130661345545117; brand staffer at desk reads real customer reviews (review cards pop in), third-person stories"
+ },
+ "1723830642367714": {
+  "format": "Case Studies",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1443981037477673; lab -> customer 'Connor' flaky scalp -> shower -> result, one-word captions"
+ },
+ "1682175526158978": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "'Did you know HA makes up 97% of enamel?' fact card + product lineup sliding panels",
+  "closest": "Product Demo Ads",
+  "stage": "motion still",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1394472366047887; medium"
+ },
+ "1012219621291023": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "'Did you know HA makes up 97% of enamel?' fact card + product lineup sliding panels",
+  "closest": "Product Demo Ads",
+  "stage": "motion still",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1394472366047887; medium"
+ },
+ "1689390505752655": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1429759238903117; 'THIS replaced every perfume' lotion application montage with serif captions"
+ },
+ "1481797776680512": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 2190715185055534; founder in car 'never seen women agree on a product like this'"
+ },
+ "981501774733670": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 2190715185055534; founder in car 'never seen women agree on a product like this'"
+ },
+ "1012066264728091": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1320269233393644; founder + several women's testimonials, 'never wear makeup again'"
+ },
+ "1521737249748802": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "Polished brand spot: aesthetic product/texture/model shots with serif captions and review quote; no creator story.",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1825367398845714; aesthetic deodorant spot with review quote + serif captions"
+ },
+ "1693121405248175": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1062864349475985; 'it looks scary, it really isn't' micro-infusion tutorial with before/after"
+ },
+ "1384979833608580": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1400610861883902; '5 min ritual -> 50 sec tutorial'"
+ },
+ "1060798086460285": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "'NOW OR NEVER SALE / up to 55% off' persistent banner over rapid montage of stacked boxes, phone order, calendar 'TODAY', mosaic of customer clips; announcement-of-sale structure",
+  "closest": "none",
+  "stage": "sale-event hype montage (same family as Megelin flipbook)",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 4393089554337987; medium"
+ },
+ "1382149127216140": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "'NOW OR NEVER SALE / up to 55% off' persistent banner over rapid montage of stacked boxes, phone order, calendar 'TODAY', mosaic of customer clips; announcement-of-sale structure",
+  "closest": "none",
+  "stage": "sale-event hype montage (same family as Megelin flipbook)",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 4393089554337987; medium"
+ },
+ "1035815809230358": {
+  "format": "NEW",
+  "new_name": "Sale Flipbook Countdown",
+  "new_def": "'NOW OR NEVER SALE / up to 55% off' persistent banner over rapid montage of stacked boxes, phone order, calendar 'TODAY', mosaic of customer clips; announcement-of-sale structure",
+  "closest": "none",
+  "stage": "sale-event hype montage (same family as Megelin flipbook)",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 4393089554337987; medium"
+ },
+ "1760276395255335": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1528746921717538; bearded guy kinetic-caption device review + bundle"
+ },
+ "908541285133997": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1528746921717538; bearded guy kinetic-caption device review + bundle"
+ },
+ "3578883978944627": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1528746921717538; bearded guy kinetic-caption device review + bundle"
+ },
+ "1314912658361477": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 29163384599917154; 'POV your derm low-key admits' text wall -> feature callout cards"
+ },
+ "1431113302215917": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1282176213856387; male creator new scents review"
+ },
+ "1887608905580591": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "near-identical duplicate of 1282176213856387; male creator new scents review"
+ },
+ "2157781378105653": {
+  "format": "NEW",
+  "new_name": "Cinematic Studio Commercial",
+  "new_def": "6s cutdown of beach brand film",
+  "closest": "Product Demo Ads",
+  "stage": "brand film",
+  "confidence": "TOF",
+  "notes": "near-identical duplicate of 37196887183292254; high"
+ },
+ "1083587534320387": {
+  "format": "NEW",
+  "new_name": "Animated Packshot Callouts",
+  "new_def": "4s palette packshot swapping warm/cool variants",
+  "closest": "Product Demo Ads",
+  "stage": "motion still",
+  "confidence": "BOF",
+  "notes": "near-identical duplicate of 1743224710327557; high"
+ },
+ "2577636745980463": {
+  "format": "Levels",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1394062372671939; model shows Minimalist -> Chic -> Glam looks from one palette (looks escalate), inset eye close-ups"
+ },
+ "876362948875705": {
+  "format": "UNSCREENED",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": null,
+  "notes": "video download failed"
+ },
+ "1715296399132388": {
+  "format": "UNSCREENED",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": null,
+  "notes": "video download failed"
+ }
+}

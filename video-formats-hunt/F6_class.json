@@ -1,0 +1,1512 @@
+{
+ "554286547663026": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "silent music-driven launch reel: product on feet in styled scenes, 'Introducing X' super, logo end",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "1997391284466139": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "creator styles the one boot in 4 different outfits, 'Which is your favorite?' CTA",
+  "new_name": "One Item, Many Outfits",
+  "new_def": "A single product is styled into 3-5 different outfits back to back (GRWM-style outfit changes in same spot), each look = one beat, ending with a 'which look is your favorite?' engagement question.",
+  "closest": "Try-On Haul (that is many different items; here one item across many looks)",
+  "stage": "TOF"
+ },
+ "2373748662811390": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "same as launch lookbook reel, with box open beat",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads",
+  "stage": "TOF"
+ },
+ "1133529664576276": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator review of white sneaker at table"
+ },
+ "1207160487134156": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator review in front of podcast mic, product in hand"
+ },
+ "422453450770007": {
+  "format": "UGC Listicle",
+  "confidence": "medium",
+  "notes": "'Men style guide: 3 shoes you need' + 'prove me wrong'"
+ },
+ "343912662139446": {
+  "format": "Product Demo Ads",
+  "confidence": "high",
+  "notes": "jacket close-ups with VO"
+ },
+ "381091938430683": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'worst purchase' reverse hook, split-screen talking head over b-roll"
+ },
+ "438745068899670": {
+  "format": "Product Demo Ads",
+  "confidence": "high",
+  "notes": "text-overlay loafer demo"
+ },
+ "494194110098506": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "woman with handheld mic + boyfriend standing: she pitches what guys should wear, cuts to product b-roll",
+  "new_name": "Partner POV (Wife/Girlfriend Sells His Product)",
+  "new_def": "A woman speaking as the wife/girlfriend (or to other wives/girlfriends) pitches a MEN'S product from the partner's side: why she makes him wear it, how he looks in it, or the founder-husband's story; the man is the silent proof in b-roll. Built for the female buyer/gifter and for male social proof ('she approves').",
+  "closest": "Founder Story Ads / UGC Testimonial Ads / Street Interviews - none has the female partner as narrator selling a men's product",
+  "stage": "TOF"
+ },
+ "4485547188337607": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'Not Thursday' box hook then podcast-mic creator review + b-roll"
+ },
+ "1416805310641818": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "single continuous shot of model walking toward camera (denim + boots), 8s loop, no text",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads",
+  "stage": "TOF"
+ },
+ "1809701756872192": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "macro beauty shots of bags, logo hardware, music only, AMIRI wordmark end",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "A music-only luxury spot built entirely from slow, studio-lit macro shots of product textures, hardware and logo, ending on the brand wordmark; no people, no claims, no voice - pure desire/brand film.",
+  "closest": "Satisfying B-roll (Front-Splice) (that is a hook splice before a real ad; here the whole ad is the cinematic product film) / Product Demo Ads (no use shown)",
+  "stage": "TOF"
+ },
+ "1629053538548383": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "moody hotel night scene: bellhop loads cart, bag on luggage, 'Chateau Amiri California' title - micro story",
+  "new_name": "Cinematic Mini-Film (Brand Short)",
+  "new_def": "A 10-20s film-style micro narrative with characters and a setting (hotel, bellhop, guest), product appears as a prop inside the story, closes on a title card like a movie; no voiceover or selling.",
+  "closest": "Day In The Life / Scenarios (but scripted cinematic fiction, not native UGC or 'imagine if' hook)",
+  "stage": "TOF"
+ },
+ "1275128731376238": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "sunglasses in a jewelry trunk, macro beauty shots",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "see 1809701756872192",
+  "closest": "Satisfying B-roll",
+  "stage": "TOF"
+ },
+ "1615372222870035": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "sneaker macro texture shots, music, wordmark",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "see 1809701756872192",
+  "closest": "Satisfying B-roll",
+  "stage": "TOF"
+ },
+ "2302646950120405": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "Outlaw boot launch: styled on-feet shots, 'Introducing' super",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "see 554286547663026",
+  "closest": "Product Demo Ads (no demo, pure editorial)",
+  "stage": "TOF"
+ },
+ "1056240143666397": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "247 FW26 athlete campaign film, moody, logo overlay",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "see 554286547663026",
+  "closest": "Product Demo Ads",
+  "stage": "TOF"
+ },
+ "1091059906799495": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "FW26 'Drop 1' campaign film: models, macro details of hardware, wordmark",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "see 554286547663026",
+  "closest": "Product Demo Ads",
+  "stage": "TOF"
+ },
+ "2493168661164395": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "FW26 Jawbreaker campaign montage with 'LIVE NOW' super throughout",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "see 554286547663026",
+  "closest": "Product Demo Ads",
+  "stage": "TOF"
+ },
+ "1738671374069602": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "designer in studio walks through one garment ('This is the Outlander parka... washed out with Cobrax poppers...'), macro fabric shots, captions",
+  "new_name": "Designer Piece Walkthrough",
+  "new_def": "The brand's designer/founder narrates one specific garment piece-by-piece in the design studio (fabric, hardware, wash, inspiration) over extreme close-ups, then shows it worn; feels like a 'how it was made' design note, not a pitch.",
+  "closest": "Founder Story Ads (no origin story) / Product Demo Ads (design-detail narration rather than use)",
+  "stage": "MOF"
+ },
+ "1254633209783448": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "e-com catalog cards cycling: 3 model angles + flat-lay + product name 'LIVE NOW', one card per second",
+  "new_name": "Catalog Drop Slideshow",
+  "new_def": "Animated product-catalog grid: each 1-2s card shows one item as model front/side/back plus flat-lay with its name and 'live now', cycling through the whole new drop like a scrolling lookbook PDF; no people talking, no music cues needed.",
+  "closest": "Text-Wall Story / Product Demo Ads (none show a multi-SKU catalog card sequence)",
+  "stage": "BOF"
+ },
+ "2304623477006623": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "raw iPhone BTS of campaign shoot day: founder at shoot, trying on pieces, mirror, racks, lights",
+  "new_name": "Behind-The-Scenes Shoot Vlog",
+  "new_def": "Lo-fi handheld footage from the brand's own campaign photoshoot (racks, lights, models/founder changing, mirror shots) cut as a vlog so the new collection is revealed 'backstage' before the polished campaign.",
+  "closest": "Day In The Life (not a lifestyle day; it's the production set) / Founder Story",
+  "stage": "TOF"
+ },
+ "2140926470165085": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "FW26 cinematic night-out/party campaign film, music only, wordmark end",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "see 554286547663026",
+  "closest": "Product Demo Ads",
+  "stage": "TOF"
+ },
+ "1984662912374898": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "high",
+  "notes": "'Why all guys are switching to these pants' - many customer clips + other-brand comparison"
+ },
+ "2571121469763255": {
+  "format": "Founder Story Ads",
+  "confidence": "medium",
+  "notes": "founder on podcast set recounts Shark Tank rejection (Mark Cuban 'I'm out' clip) then product b-roll; borrowed TV clip but structure = founder story"
+ },
+ "1192190506460795": {
+  "format": "Founder Story Ads",
+  "confidence": "medium",
+  "notes": "same Shark Tank-rejection founder story on podcast mic"
+ },
+ "1743740792902584": {
+  "format": "5 Reasons Why",
+  "confidence": "high",
+  "notes": "'CAUTION: Do NOT buy these shorts' reverse-psychology numbered reasons text-overlay over UGC clips"
+ },
+ "1139944931116509": {
+  "format": "Podcast",
+  "confidence": "high",
+  "notes": "'a podcast for people who love pants' founder + host on mics"
+ },
+ "618768644044699": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'I'm married to a Shark Tank founder...' wife narrates husband's invention, couple scenes, she shows how she loves how he looks in them",
+  "new_name": "Partner POV (Wife/Girlfriend Sells His Product)",
+  "new_def": "A woman speaking as the wife/girlfriend (or to other wives/girlfriends) pitches a MEN'S product from the partner's side: why she makes him wear it, how he looks in it, or the founder-husband's story; the man is the silent proof in b-roll. Built for the female buyer/gifter and for male social proof ('she approves').",
+  "closest": "Founder Story Ads / UGC Testimonial Ads / Street Interviews - none has the female partner as narrator selling a men's product",
+  "stage": "TOF"
+ },
+ "2151622572329118": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "wife talking head on sofa: 'I'll never forget when my husband told me he was quitting his job to invent this', cutaways to pants",
+  "new_name": "Partner POV (Wife/Girlfriend Sells His Product)",
+  "new_def": "A woman speaking as the wife/girlfriend (or to other wives/girlfriends) pitches a MEN'S product from the partner's side: why she makes him wear it, how he looks in it, or the founder-husband's story; the man is the silent proof in b-roll. Built for the female buyer/gifter and for male social proof ('she approves').",
+  "closest": "Founder Story Ads / UGC Testimonial Ads / Street Interviews - none has the female partner as narrator selling a men's product",
+  "stage": "TOF"
+ },
+ "1172354051167064": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "high",
+  "notes": "'Why all guys in their 20s are switching' many UGC clips"
+ },
+ "696042409441396": {
+  "format": "5 Reasons Why",
+  "confidence": "high",
+  "notes": "'worst $55 you'll ever spend' reverse hook + numbered reasons over UGC clips"
+ },
+ "578021731933158": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "female creator green-screen over men's short b-roll: 'women are obsessed with men's butts' - female-gaze recommending men's product (adjacent to Partner POV)"
+ },
+ "1616083770071458": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "off-road creator (Currie) shows his jeep/garage day then uses Duke Cannon x Jeep soap - sponsored creator integration"
+ },
+ "1720152652604613": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "single absurd shot: man taking a bubble bath in the bed of a Jeep pickup in the woods, pulls back to reveal truck; 9s",
+  "new_name": "Surreal Visual Gag",
+  "new_def": "One impossible/absurd staged image (bubble bath in a truck bed) held for a few seconds with a tiny pull-back reveal and a one-line caption; the joke itself is the ad and the product is the punchline prop.",
+  "closest": "Satisfying B-roll (that is a hook splice); Scenarios ('imagine if' talk) - here it is a single surreal visual stunt with no talk",
+  "stage": "TOF"
+ },
+ "4605864603071531": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Lost in the suds.' man in bubble bath in Jeep bed by lake, 7s",
+  "new_name": "Surreal Visual Gag",
+  "new_def": "see 1720152652604613",
+  "closest": "Satisfying B-roll",
+  "stage": "TOF"
+ },
+ "3134874786705433": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "coffee poured from a camp kettle onto the soap box like it's a mug, 'Newly-Brewed Scent', co-brand end card",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "Visual-pun product film: studio product shot where the scent ingredient is literally acted out (coffee poured over the soap box), no voice",
+  "closest": "Satisfying B-roll",
+  "stage": "TOF"
+ },
+ "3158495817694393": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "duplicate creative of 3134874786705433",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "see 3134874786705433",
+  "closest": "Satisfying B-roll",
+  "stage": "TOF"
+ },
+ "990313887066547": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "'Day in the life' athlete gym/golf, product in shower"
+ },
+ "1532675448876916": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'Costco find' : creator films product on Costco shelf, price tag, cart, then at home 'my husband is obsessed', scent close-ups; text-overlay captions",
+  "new_name": "In-Store Find (Retail Aisle Haul)",
+  "new_def": "Shopper POV filmed inside a big-box retailer (Costco/Target): spot the product on the shelf, show price tag and the cart, then home cut with close-ups; framed as a 'look what I found at Costco' deal tip, driving retail + online.",
+  "closest": "Unboxing / UGC Reviews (those start at home with the package; this is a retail-shelf discovery + price-deal format)",
+  "stage": "MOF"
+ },
+ "1685769405848351": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "same Costco find creative (dup)",
+  "new_name": "In-Store Find (Retail Aisle Haul)",
+  "new_def": "see 1532675448876916",
+  "closest": "Unboxing",
+  "stage": "MOF"
+ },
+ "952593041151875": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'One fit' - creator lays out sneakers, tee, shorts, chain one by one then wears the assembled outfit, poses",
+  "new_name": "Fit Check (Single-Outfit OOTD)",
+  "new_def": "Native TikTok OOTD: one creator presents ONE complete outfit on body (mirror selfie, stoop, bedroom), poses/walks/turns for the camera and names the pieces or overlays height/weight/size; sometimes built piece-by-piece (shoes, tee, shorts, chain) before the reveal. No problem/solution, no review talk - the look is the pitch.",
+  "closest": "Try-On Haul (that cycles many pieces/outfits; this is one finished look) / One Item Many Outfits (reverse)",
+  "stage": "TOF"
+ },
+ "4073628609439237": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'HE HAS TO BE RICH' creator on church steps poses in hoodie+shorts, talks about the fit",
+  "new_name": "Fit Check (Single-Outfit OOTD)",
+  "new_def": "Native TikTok OOTD: one creator presents ONE complete outfit on body (mirror selfie, stoop, bedroom), poses/walks/turns for the camera and names the pieces or overlays height/weight/size; sometimes built piece-by-piece (shoes, tee, shorts, chain) before the reveal. No problem/solution, no review talk - the look is the pitch.",
+  "closest": "Try-On Haul",
+  "stage": "TOF"
+ },
+ "1518260102912337": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'MNML SHORTS' creator posing by car in full fit, 19s loop",
+  "new_name": "Fit Check (Single-Outfit OOTD)",
+  "new_def": "Native TikTok OOTD: one creator presents ONE complete outfit on body (mirror selfie, stoop, bedroom), poses/walks/turns for the camera and names the pieces or overlays height/weight/size; sometimes built piece-by-piece (shoes, tee, shorts, chain) before the reveal. No problem/solution, no review talk - the look is the pitch.",
+  "closest": "Try-On Haul",
+  "stage": "TOF"
+ },
+ "1035781982394049": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Baggy cargo shorts' fit check with 6'2 220 Sz XL overlay, dancing/posing",
+  "new_name": "Fit Check (Single-Outfit OOTD)",
+  "new_def": "Native TikTok OOTD: one creator presents ONE complete outfit on body (mirror selfie, stoop, bedroom), poses/walks/turns for the camera and names the pieces or overlays height/weight/size; sometimes built piece-by-piece (shoes, tee, shorts, chain) before the reveal. No problem/solution, no review talk - the look is the pitch.",
+  "closest": "Try-On Haul",
+  "stage": "TOF"
+ },
+ "2168533783877024": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "mirror-selfie fit check 'Vintage Shirt'",
+  "new_name": "Fit Check (Single-Outfit OOTD)",
+  "new_def": "Native TikTok OOTD: one creator presents ONE complete outfit on body (mirror selfie, stoop, bedroom), poses/walks/turns for the camera and names the pieces or overlays height/weight/size; sometimes built piece-by-piece (shoes, tee, shorts, chain) before the reveal. No problem/solution, no review talk - the look is the pitch.",
+  "closest": "Try-On Haul",
+  "stage": "TOF"
+ },
+ "1036415915911773": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "creator talks through his outfit piece by piece (cargo pants, chain, zip hoodie, Salomons) in front of plinth",
+  "new_name": "Fit Check (Single-Outfit OOTD)",
+  "new_def": "Native TikTok OOTD: one creator presents ONE complete outfit on body (mirror selfie, stoop, bedroom), poses/walks/turns for the camera and names the pieces or overlays height/weight/size; sometimes built piece-by-piece (shoes, tee, shorts, chain) before the reveal. No problem/solution, no review talk - the look is the pitch.",
+  "closest": "Try-On Haul / UGC Reviews",
+  "stage": "TOF"
+ },
+ "1779242946596399": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator in closet holds up printed denim, details, wears it - single-item review"
+ },
+ "1015223007940361": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'MNML super flare denims' shirtless fit check posing",
+  "new_name": "Fit Check (Single-Outfit OOTD)",
+  "new_def": "Native TikTok OOTD: one creator presents ONE complete outfit on body (mirror selfie, stoop, bedroom), poses/walks/turns for the camera and names the pieces or overlays height/weight/size; sometimes built piece-by-piece (shoes, tee, shorts, chain) before the reveal. No problem/solution, no review talk - the look is the pitch.",
+  "closest": "Try-On Haul",
+  "stage": "TOF"
+ },
+ "2277746896330651": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'Camo Cargo Jorts Showcase & Review' with height/weight/size overlay, fabric close-ups"
+ },
+ "1467786678438786": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'Affordable designer alts' distressed jeans review with size overlay"
+ },
+ "1574572890975191": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "medium",
+  "notes": "pulls track pants out of poly bag then tries on in kitchen"
+ },
+ "926986353766960": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator talking to camera about leather vest he's wearing"
+ },
+ "1545290687192468": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "lo-fi flat-lay pile of hoodies in all colorways, hand pans across, small logo super; 8s - colorway range shot, no talk"
+ },
+ "963640149884590": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "flat-lay zip hoodies, hand zips one; 8s colorway range shot"
+ },
+ "1338586601815927": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "screen split into 3 stacked panels playing at once: macro of print (top), model turning in full garment (middle), zipper detail (bottom); logo+product name small; 10s",
+  "new_name": "Multi-Panel Split Screen",
+  "new_def": "The vertical frame is cut into 3-4 panels that all play at once (macro texture, on-model 360/dance, detail loop, or several models) so fit, fabric and details land in one glance; music only, tiny caption, 6-10s.",
+  "closest": "Product Demo Ads (single-frame demo) / Product Comparison Video (split screen but comparison, not three views of one item)",
+  "stage": "MOF"
+ },
+ "935791209534017": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "same 3-panel stack: model 360 (top), product name (middle), embossed logo macro (bottom)",
+  "new_name": "Multi-Panel Split Screen",
+  "new_def": "The vertical frame is cut into 3-4 panels that all play at once (macro texture, on-model 360/dance, detail loop, or several models) so fit, fabric and details land in one glance; music only, tiny caption, 6-10s.",
+  "closest": "Product Demo Ads",
+  "stage": "MOF"
+ },
+ "1275476844055075": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "girl selfie-cam showing off grey hoodie set, adjusting, 12s",
+  "new_name": "Fit Check (Single-Outfit OOTD)",
+  "new_def": "Native TikTok OOTD: one creator presents ONE complete outfit on body (mirror selfie, stoop, bedroom), poses/walks/turns for the camera and names the pieces or overlays height/weight/size; sometimes built piece-by-piece (shoes, tee, shorts, chain) before the reveal. No problem/solution, no review talk - the look is the pitch.",
+  "closest": "Try-On Haul",
+  "stage": "TOF"
+ },
+ "1865090020875553": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "girl dancing/posing in blue zip hoodie, selfie cam, 24s",
+  "new_name": "Fit Check (Single-Outfit OOTD)",
+  "new_def": "Native TikTok OOTD: one creator presents ONE complete outfit on body (mirror selfie, stoop, bedroom), poses/walks/turns for the camera and names the pieces or overlays height/weight/size; sometimes built piece-by-piece (shoes, tee, shorts, chain) before the reveal. No problem/solution, no review talk - the look is the pitch.",
+  "closest": "Try-On Haul",
+  "stage": "TOF"
+ },
+ "1288762739714852": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "woman talks to other wives: 'you make him bone broth, sneak liver into tacos... and he's wearing polyester boxers? Girl, no!' -> organic cotton",
+  "new_name": "Partner POV (Wife/Girlfriend Sells His Product)",
+  "new_def": "A woman speaking as the wife/girlfriend (or to other wives/girlfriends) pitches a MEN'S product from the partner's side: why she makes him wear it, how he looks in it, or the founder-husband's story; the man is the silent proof in b-roll. Built for the female buyer/gifter and for male social proof ('she approves').",
+  "closest": "Founder Story Ads / UGC Testimonial Ads / Street Interviews - none has the female partner as narrator selling a men's product",
+  "stage": "TOF"
+ },
+ "825686536470199": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "shirtless fitness creator explains why organic underwear matters, gym b-roll"
+ },
+ "846304927918102": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'My balls are my business Pt.2' cinematic primal man on sea rocks, holds up underwear to sun, logo; music only",
+  "new_name": "Cinematic Mini-Film (Brand Short)",
+  "new_def": "A 10-20s film-style micro narrative with characters and a setting (hotel, bellhop, guest), product appears as a prop inside the story, closes on a title card like a movie; no voiceover or selling.",
+  "closest": "Day In The Life / Scenarios (but scripted cinematic fiction, not native UGC or 'imagine if' hook)",
+  "stage": "TOF"
+ },
+ "997029462569032": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "high",
+  "notes": "multi-creator text-overlay: polyester underwear traps heat -> switched to NADS"
+ },
+ "987955380940891": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "older man at RV park, '55 years of wearing the wrong shoes', holds old vs KURU shoe"
+ },
+ "3276736362506797": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "TV-show-quality zombie-apocalypse parody skit (Last-of-Us style): survivors in a cabin, dad's feet don't hurt in KURUs, dialogue jokes, end card 'Life is good when foot pain is gone'",
+  "new_name": "Scripted Parody Sketch",
+  "new_def": "A professionally shot comedy sketch that parodies a famous TV/film genre (zombie apocalypse drama) with actors and dialogue; the product is woven into the plot as the running joke and the end card lands the benefit. 30-70s, multiple cutdowns.",
+  "closest": "Cinematic Mini-Film (no dialogue/comedy) / Scenarios ('imagine if' talking head) / Talking Objects",
+  "stage": "TOF"
+ },
+ "1029159910034474": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "16:9 cutdown of zombie parody",
+  "new_name": "Scripted Parody Sketch",
+  "new_def": "see 3276736362506797",
+  "closest": "Scenarios",
+  "stage": "TOF"
+ },
+ "923826400152683": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "72s long cut of zombie parody sketch",
+  "new_name": "Scripted Parody Sketch",
+  "new_def": "see 3276736362506797",
+  "closest": "Scenarios",
+  "stage": "TOF"
+ },
+ "1472270774944610": {
+  "format": "Product Comparison Video",
+  "confidence": "high",
+  "notes": "6s 2D animation: KURU heel cup vs 'your shoes' with pain emojis - animated side-by-side"
+ },
+ "1531709011457021": {
+  "format": "Personal Update",
+  "confidence": "medium",
+  "notes": "'PLEASE DO NOT OPEN' box gag then founder in warehouse announces Warehouse Sale (50% off)"
+ },
+ "1370671508225446": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "medium",
+  "notes": "ultramarathoner in flag costume testimonial + Memorial Day sale"
+ },
+ "1532224121893906": {
+  "format": "Challenge",
+  "confidence": "medium",
+  "notes": "'Day 57 of wearing Hollow compression socks' diary-style UGC review"
+ },
+ "1553958359432027": {
+  "format": "Myth Buster",
+  "confidence": "high",
+  "notes": "'Lies every tradesperson believes' lie #1/#2/#3 debunked on jobsite"
+ },
+ "789992807272282": {
+  "format": "Myth Buster",
+  "confidence": "high",
+  "notes": "dup of tradesperson lies"
+ },
+ "1328202796164053": {
+  "format": "Myth Buster",
+  "confidence": "medium",
+  "notes": "trades guy debunks foot fixes, multiple workers"
+ },
+ "25006689132352565": {
+  "format": "UGC Listicle",
+  "confidence": "high",
+  "notes": "'3 signs you need compression socks' numbered signs"
+ },
+ "1633560374421147": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "medium",
+  "notes": "'My husband calls them his swelling stoppers' hook then multiple users"
+ },
+ "1740657550230061": {
+  "format": "Personal Update",
+  "confidence": "medium",
+  "notes": "founder selfie in warehouse announcing end-of-season BOGO sale"
+ },
+ "26053902120957179": {
+  "format": "Founder Story Ads",
+  "confidence": "high",
+  "notes": "founder Zach: research trip, alpaca fiber, factory, made in NC by American workers"
+ },
+ "2494184361079106": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "unbox + hands-free step-in demo + run, text overlay"
+ },
+ "27070167602620546": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Introducing the new Athens 2' cinematic lifestyle montage of people stepping in, wordmark end",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads",
+  "stage": "TOF"
+ },
+ "1302541314814479": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Introducing the Athens 2' cinematic montage with taglines (Step in, All-day comfort), wordmark",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads",
+  "stage": "TOF"
+ },
+ "980481018295983": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "creator green-screens over Google 'running shoes' results then shows Kizik step-in and runs"
+ },
+ "4198221343824436": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "men's jeans 'extreme stretch test' inside a women's pilates class (absurd-setting torture test), captions + reviews"
+ },
+ "2937631156436294": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "same pilates-studio stretch test edit"
+ },
+ "994044746397984": {
+  "format": "Gift Reaction Reveal",
+  "confidence": "high",
+  "notes": "'surprising my man with some treats' girlfriend films boyfriend opening khakis gift in car"
+ },
+ "988205970211293": {
+  "format": "5 Reasons Why",
+  "confidence": "high",
+  "notes": "'3 reasons men love these pants' (wife/husband hook) numbered reasons"
+ },
+ "2137942536983991": {
+  "format": "Reply To Question",
+  "confidence": "high",
+  "notes": "opens on comment 'How can I elevate basic style but stay comfortable? send recos', older man answers with khakis"
+ },
+ "2741845179518983": {
+  "format": "Product Demo Ads",
+  "confidence": "high",
+  "notes": "'Levi's never fixed this' stretch demo with captions"
+ },
+ "980774204372969": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "rapid chaotic edit: comedian on stage, shirtless guy lifting log, glitch zoom, flying kick, couple butt-grab, trampoline flip; 'Wear responsibly. Or don't.'",
+  "new_name": "Meme Montage (Chaos Edit)",
+  "new_def": "Fast-cut remix of absurd/meme-style clips (stunts, comedy stage bit, glitch zooms) with punchy one-word captions; the product barely features - the irreverent brand voice and pattern-interrupt pacing are the ad.",
+  "closest": "Reaction / Trend-Hijack (no borrowed celebrity), Satisfying B-roll (not satisfying, chaotic)",
+  "stage": "TOF"
+ },
+ "1508035937701566": {
+  "format": "Gift Reaction Reveal",
+  "confidence": "high",
+  "notes": "girlfriend in car surprises boyfriend with khakis gift"
+ },
+ "1333279558859055": {
+  "format": "Gift Reaction Reveal",
+  "confidence": "high",
+  "notes": "same car gift-surprise creative"
+ },
+ "2009833932955067": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "confidence": "high",
+  "notes": "Pixar-style AI 3D animated talking jeans tells its story, 121s"
+ },
+ "1460973045563494": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "4-panel grid of models dancing/squatting in stretch jeans, 'Stretchy jeans will change your life', 6s",
+  "new_name": "Multi-Panel Split Screen",
+  "new_def": "see 1338586601815927",
+  "closest": "Product Demo Ads",
+  "stage": "TOF"
+ },
+ "1692038091776349": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "guy jokes about nut-crushing jeans, demo stretch, with comic delivery"
+ },
+ "946970514355901": {
+  "format": "Reply To Question",
+  "confidence": "high",
+  "notes": "reply to comment 'How were the waterproof shoes?' - 10 days in Ireland review"
+ },
+ "1483176223593079": {
+  "format": "Reply To Question",
+  "confidence": "medium",
+  "notes": "same creative (text dup)"
+ },
+ "1222241736396582": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "travel-day UGC review on beach/airport"
+ },
+ "1619318562759046": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "travel creator: 'saw someone get these for Europe trip on TikTok' review + rain/walk b-roll"
+ },
+ "954052943675190": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "text dup of travel review series"
+ },
+ "1226437709589309": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "text dup of travel review series"
+ },
+ "2007693253157872": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "Europe trip vlog wearing the sneakers everywhere (Rome, Cinque Terre)"
+ },
+ "2043370829871027": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "text dup travel vlog"
+ },
+ "4298823563716431": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "text dup travel vlog"
+ },
+ "975305068317520": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "text dup travel vlog"
+ },
+ "1490357622498172": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "'the only shoe you need on vacation' text-overlay travel montage"
+ },
+ "1819326586168119": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "dup of 1490357622498172"
+ },
+ "1840761276686855": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "boxer 3-pack catalog cards cycling: box + product + name, one per ~0.7s",
+  "new_name": "Catalog Drop Slideshow",
+  "new_def": "Animated product-catalog grid: each 1-2s card shows one item as model front/side/back plus flat-lay with its name and 'live now', cycling through the whole new drop like a scrolling lookbook PDF; no people talking, no music cues needed.",
+  "closest": "Text-Wall Story / Product Demo Ads (none show a multi-SKU catalog card sequence)",
+  "stage": "BOF"
+ },
+ "1844109053237343": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "boxer set catalog cards cycling with sticker accents",
+  "new_name": "Catalog Drop Slideshow",
+  "new_def": "Animated product-catalog grid: each 1-2s card shows one item as model front/side/back plus flat-lay with its name and 'live now', cycling through the whole new drop like a scrolling lookbook PDF; no people talking, no music cues needed.",
+  "closest": "Text-Wall Story / Product Demo Ads (none show a multi-SKU catalog card sequence)",
+  "stage": "BOF"
+ },
+ "1379532884243979": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "text dup of boxer set catalog cards",
+  "new_name": "Catalog Drop Slideshow",
+  "new_def": "Animated product-catalog grid: each 1-2s card shows one item as model front/side/back plus flat-lay with its name and 'live now', cycling through the whole new drop like a scrolling lookbook PDF; no people talking, no music cues needed.",
+  "closest": "Text-Wall Story / Product Demo Ads (none show a multi-SKU catalog card sequence)",
+  "stage": "BOF"
+ },
+ "1583104196528081": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'outfit of the day' girl fit check showing waistband, poses",
+  "new_name": "Fit Check (Single-Outfit OOTD)",
+  "new_def": "Native TikTok OOTD: one creator presents ONE complete outfit on body (mirror selfie, stoop, bedroom), poses/walks/turns for the camera and names the pieces or overlays height/weight/size; sometimes built piece-by-piece (shoes, tee, shorts, chain) before the reveal. No problem/solution, no review talk - the look is the pitch.",
+  "closest": "Try-On Haul (that cycles many pieces/outfits; this is one finished look) / One Item Many Outfits (reverse)",
+  "stage": "TOF"
+ },
+ "2937579019908159": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "Paul Kenzie x Durex collab: products fly/stop-motion onto white sheet, co-logo end",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "A music-only luxury spot built entirely from slow, studio-lit macro shots of product textures, hardware and logo, ending on the brand wordmark; no people, no claims, no voice - pure desire/brand film.",
+  "closest": "Satisfying B-roll (Front-Splice) (that is a hook splice before a real ad; here the whole ad is the cinematic product film) / Product Demo Ads (no use shown)",
+  "stage": "TOF"
+ },
+ "858297317219021": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'Everyday Rituals' pajama-set lifestyle montage, music only",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "1716988079337322": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "medium",
+  "notes": "PR box unboxing then try-on"
+ },
+ "1618719933010536": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "medium",
+  "notes": "text dup PR box unboxing"
+ },
+ "1077837944719657": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "medium",
+  "notes": "outdoor box unboxing of printed boxers then guy wears"
+ },
+ "907670655739729": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "medium",
+  "notes": "text dup outdoor unboxing"
+ },
+ "943733505434957": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "guy talks through 5-pack boxers, waistband, sizes"
+ },
+ "1390181449908007": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "guy changes outfits through his day (cafe, gym, invite) with text, boxers under; box end"
+ },
+ "1467844454826206": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "POV-caption skit in plane aisle: woman lifts carry-on into overhead bin ('an overhead bin born to see you coming')"
+ },
+ "736398739535274": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "'PSA: get free personalization' suitcase monogram close-ups"
+ },
+ "1813419220064268": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator compares renovated weekender + roller, packing demo"
+ },
+ "2776885569337082": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator talks matching luggage set"
+ },
+ "2365960180595403": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "text dup of matching set reviews"
+ },
+ "1307197547554880": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "text dup of set reviews"
+ },
+ "4316499158624089": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "pregnant mom day with diaper backpack, park, stroller"
+ },
+ "1017411840794982": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "carry-on walkthrough features, text captions"
+ },
+ "4409630212639813": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "text dup carry-on walkthrough"
+ },
+ "984823234088685": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'I spent weeks digging through luggage reviews' creator review"
+ },
+ "1217248993687866": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "top-down stop-motion: suitcase opens, clothes/cubes pop in frame by frame, 'OVERPACK. IT FITS.' 8s",
+  "new_name": "Object Stop-Motion",
+  "new_def": "Frame-by-frame stop-motion of the real product and props (no clay): items jump, pack, stack or swap sets on their own in a short music-driven loop with one bold line of copy.",
+  "closest": "Claymation (clay characters/story; this is product objects animated) / Satisfying B-roll",
+  "stage": "TOF"
+ },
+ "812418775027255": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "BEIS x poppi collab: red suitcases on painted beach/sunset backdrops, sets swap in stop-motion jumps, cans and props",
+  "new_name": "Object Stop-Motion",
+  "new_def": "see 1217248993687866",
+  "closest": "Claymation",
+  "stage": "TOF"
+ },
+ "717408330649358": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'the stones our clients chose vs the rings we made for them': alternating 'the stone' (loose gem in tweezers/on finger) -> 'the ring' (finished piece) pairs, captions only, music",
+  "new_name": "Input vs Result Pairs",
+  "new_def": "Rapid alternating pairs of 'what the customer brought/chose' (raw stone, inspiration photo) and 'what we made' (finished custom piece), each pair labeled with the same two captions; repeats 5-8 times then CTA. Proof of craft/customization through reveal pairs.",
+  "closest": "Product Comparison Video (vs competitor, not input/output) / Challenge (before/after of a person)",
+  "stage": "TOF"
+ },
+ "1425120955852842": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "text dup of stone-vs-ring pairs",
+  "new_name": "Input vs Result Pairs",
+  "new_def": "see 717408330649358",
+  "closest": "Product Comparison Video",
+  "stage": "TOF"
+ },
+ "798794319836636": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'the stones our clients chose vs the rings we made' pairs",
+  "new_name": "Input vs Result Pairs",
+  "new_def": "see 717408330649358",
+  "closest": "Product Comparison Video",
+  "stage": "TOF"
+ },
+ "989047503585630": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'the wedding ring inspo vs the wedding rings we made': nature/architecture inspiration photos then the ring",
+  "new_name": "Input vs Result Pairs",
+  "new_def": "see 717408330649358",
+  "closest": "Product Comparison Video",
+  "stage": "TOF"
+ },
+ "24219285704345442": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "dup of inspo-vs-ring creative",
+  "new_name": "Input vs Result Pairs",
+  "new_def": "see 717408330649358",
+  "closest": "Product Comparison Video",
+  "stage": "TOF"
+ },
+ "1269739657972754": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "warm cinematic family film: toddler, mom takes fingerprint with kit, unboxes fingerprint pendant, wears it; logo end",
+  "new_name": "Cinematic Mini-Film (Brand Short)",
+  "new_def": "A 10-20s film-style micro narrative with characters and a setting (hotel, bellhop, guest), product appears as a prop inside the story, closes on a title card like a movie; no voiceover or selling.",
+  "closest": "Day In The Life",
+  "stage": "TOF"
+ },
+ "1284930893518248": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "dup of fingerprint pendant family film",
+  "new_name": "Cinematic Mini-Film (Brand Short)",
+  "new_def": "A 10-20s film-style micro narrative with characters and a setting (hotel, bellhop, guest), product appears as a prop inside the story, closes on a title card like a movie; no voiceover or selling.",
+  "closest": "Day In The Life",
+  "stage": "TOF"
+ },
+ "1996125931293478": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'Step 1 choose a stone, Step 2 finalize design (CAD), Step 3 jewelers handcraft (torch, bench), Step 4 unveil your dream ring' 15s",
+  "new_name": "Numbered Process Steps (How It Works)",
+  "new_def": "Brand shows its ordering/production process as 3-4 numbered steps with one shot each (choose -> design -> craft -> unveil), ending on the finished product reveal; explains a custom/made-to-order purchase in 15s.",
+  "closest": "UGC How-To (creator demonstrates using the product, not the brand's ordering/making process) / Founder Story",
+  "stage": "MOF"
+ },
+ "1021592300322044": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "text dup of 4-step custom ring process",
+  "new_name": "Numbered Process Steps (How It Works)",
+  "new_def": "see 1996125931293478",
+  "closest": "UGC How-To",
+  "stage": "MOF"
+ },
+ "1938426837562275": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "text dup of design-your-own-ring steps",
+  "new_name": "Numbered Process Steps (How It Works)",
+  "new_def": "see 1996125931293478",
+  "closest": "UGC How-To",
+  "stage": "MOF"
+ },
+ "1630343191551892": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'lab diamond engagement ring inspo' - hand-held ring after ring, music",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads",
+  "stage": "TOF"
+ },
+ "1477704736646692": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "'pov: he wants a unique ring too' men's band close-up on hand, 6s"
+ },
+ "2098554740710541": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "watch box opens, macro dial sparkle, music",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "A music-only luxury spot built entirely from slow, studio-lit macro shots of product textures, hardware and logo, ending on the brand wordmark; no people, no claims, no voice - pure desire/brand film.",
+  "closest": "Satisfying B-roll (Front-Splice) (that is a hook splice before a real ad; here the whole ad is the cinematic product film) / Product Demo Ads (no use shown)",
+  "stage": "TOF"
+ },
+ "935452389385601": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "macro dial sparkle loop 'When it catches the light'",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "A music-only luxury spot built entirely from slow, studio-lit macro shots of product textures, hardware and logo, ending on the brand wordmark; no people, no claims, no voice - pure desire/brand film.",
+  "closest": "Satisfying B-roll (Front-Splice) (that is a hook splice before a real ad; here the whole ad is the cinematic product film) / Product Demo Ads (no use shown)",
+  "stage": "TOF"
+ },
+ "1653958469074638": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "dup macro sparkle loop",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "A music-only luxury spot built entirely from slow, studio-lit macro shots of product textures, hardware and logo, ending on the brand wordmark; no people, no claims, no voice - pure desire/brand film.",
+  "closest": "Satisfying B-roll (Front-Splice) (that is a hook splice before a real ad; here the whole ad is the cinematic product film) / Product Demo Ads (no use shown)",
+  "stage": "TOF"
+ },
+ "1296616069095847": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "macro gold bezel sparkle loop 5s",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "A music-only luxury spot built entirely from slow, studio-lit macro shots of product textures, hardware and logo, ending on the brand wordmark; no people, no claims, no voice - pure desire/brand film.",
+  "closest": "Satisfying B-roll (Front-Splice) (that is a hook splice before a real ad; here the whole ad is the cinematic product film) / Product Demo Ads (no use shown)",
+  "stage": "TOF"
+ },
+ "1895724378069824": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "hands-on macro of gold watch on suited wrist",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "A music-only luxury spot built entirely from slow, studio-lit macro shots of product textures, hardware and logo, ending on the brand wordmark; no people, no claims, no voice - pure desire/brand film.",
+  "closest": "Satisfying B-roll (Front-Splice) (that is a hook splice before a real ad; here the whole ad is the cinematic product film) / Product Demo Ads (no use shown)",
+  "stage": "TOF"
+ },
+ "37941243415520991": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "unbox + macro + wrist, music",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "A music-only luxury spot built entirely from slow, studio-lit macro shots of product textures, hardware and logo, ending on the brand wordmark; no people, no claims, no voice - pure desire/brand film.",
+  "closest": "Satisfying B-roll (Front-Splice) (that is a hook splice before a real ad; here the whole ad is the cinematic product film) / Product Demo Ads (no use shown)",
+  "stage": "TOF"
+ },
+ "1373346768276061": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "studio 360 turntable 'ONLY 100 MADE'",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "A music-only luxury spot built entirely from slow, studio-lit macro shots of product textures, hardware and logo, ending on the brand wordmark; no people, no claims, no voice - pure desire/brand film.",
+  "closest": "Satisfying B-roll (Front-Splice) (that is a hook splice before a real ad; here the whole ad is the cinematic product film) / Product Demo Ads (no use shown)",
+  "stage": "TOF"
+ },
+ "2933042457062657": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "dup studio 360 lapis",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "A music-only luxury spot built entirely from slow, studio-lit macro shots of product textures, hardware and logo, ending on the brand wordmark; no people, no claims, no voice - pure desire/brand film.",
+  "closest": "Satisfying B-roll (Front-Splice) (that is a hook splice before a real ad; here the whole ad is the cinematic product film) / Product Demo Ads (no use shown)",
+  "stage": "TOF"
+ },
+ "971136552600731": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "studio 360 tiger eye (text sibling)",
+  "new_name": "Cinematic Macro Product Film",
+  "new_def": "A music-only luxury spot built entirely from slow, studio-lit macro shots of product textures, hardware and logo, ending on the brand wordmark; no people, no claims, no voice - pure desire/brand film.",
+  "closest": "Satisfying B-roll (Front-Splice) (that is a hook splice before a real ad; here the whole ad is the cinematic product film) / Product Demo Ads (no use shown)",
+  "stage": "TOF"
+ },
+ "2171490000285894": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "night POV: wrist with watch on Maserati steering wheel/door, red Maserati logo graphics, 'the watch that gets strangers asking what brand is that'",
+  "new_name": "Status Flex POV",
+  "new_def": "First-person POV of the product worn inside a status setting (luxury car, private jet, VIP table) - short loop of the wrist/outfit with the luxury cues doing the talking; aspirational 'you'll get asked about this' copy, no voice.",
+  "closest": "Day In The Life (not a day vlog) / Cinematic Macro Product Film (studio, no status context)",
+  "stage": "TOF"
+ },
+ "4400846716896826": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "moody cinematic bar scene: man in suit unboxes and wears watch, 'stop waiting to look successful'",
+  "new_name": "Cinematic Mini-Film (Brand Short)",
+  "new_def": "A 10-20s film-style micro narrative with characters and a setting (hotel, bellhop, guest), product appears as a prop inside the story, closes on a title card like a movie; no voiceover or selling.",
+  "closest": "Day In The Life / Scenarios (but scripted cinematic fiction, not native UGC or 'imagine if' hook)",
+  "stage": "TOF"
+ },
+ "1500482161351847": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "'set coming along nicely' handheld pan over collection of watches on counter"
+ },
+ "604361628834461": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "confidence": "high",
+  "notes": "'Duke Dennis caught wearing Draco pajamas in his Snapchat story' - reposted celebrity/creator clip"
+ },
+ "1620227538648354": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "confidence": "medium",
+  "notes": "'Bro tried to be funny but Marlon proud wearing Draco slides' - creator mall interview clip"
+ },
+ "1819539125281257": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "POV feet in reflective slides 'Gotta have these'"
+ },
+ "772730888978221": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "text dup of slides POV"
+ },
+ "773593085433946": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "female creator travel/everyday UGC review of taos shoes (text overlay + talking head + walking b-roll)"
+ },
+ "929980966219780": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "female creator travel/everyday UGC review of taos shoes (text overlay + talking head + walking b-roll)"
+ },
+ "1274611347069623": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "female creator travel/everyday UGC review of taos shoes (text overlay + talking head + walking b-roll)"
+ },
+ "1448566563004237": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "female creator travel/everyday UGC review of taos shoes (text overlay + talking head + walking b-roll)"
+ },
+ "1826692057884582": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "female creator travel/everyday UGC review of taos shoes (text overlay + talking head + walking b-roll)"
+ },
+ "729913796240497": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "female creator travel/everyday UGC review of taos shoes (text overlay + talking head + walking b-roll)"
+ },
+ "800565652503026": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "female creator travel/everyday UGC review of taos shoes (text overlay + talking head + walking b-roll)"
+ },
+ "715466574390665": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "female creator travel/everyday UGC review of taos shoes (text overlay + talking head + walking b-roll)"
+ },
+ "2176189799810076": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "female creator travel/everyday UGC review of taos shoes (text overlay + talking head + walking b-roll)"
+ },
+ "1403652094838827": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "female creator travel/everyday UGC review of taos shoes (text overlay + talking head + walking b-roll)"
+ },
+ "1806979120209713": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "confidence": "high",
+  "notes": "'DDG spotted in sponsored watch that resembles a $300k Cartier' celebrity clip with price card $365 vs $250,000 (dupe reveal)"
+ },
+ "655931047567755": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "wrist POV watch catching sunlight, 13s"
+ },
+ "1121865172901005": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "high",
+  "notes": "woman unboxes surreal melting watch, puts it on"
+ },
+ "1332737118207248": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "high",
+  "notes": "'this watch reminds me of Salvador Dali' unboxing + wrist"
+ },
+ "24590815730590372": {
+  "format": "Reply To Question",
+  "confidence": "high",
+  "notes": "reply to comment 'is it for men or only women' while showing gold watch"
+ },
+ "2314041539336985": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "studio model lookbook with sparse copy, logo",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "997981676581837": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "dup studio lookbook",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "1513586743794775": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "studio lookbook 'Breaking news' copy",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "1047036804611220": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "studio lookbook Sorbet colorway, macro fabric",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "1394989792571166": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "dup Sorbet lookbook",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "1821472925549379": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "studio lookbook Cloud Cotton 3-pack",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "888478744121951": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "2-panel side-by-side: two models in same white set, synced, logo",
+  "new_name": "Multi-Panel Split Screen",
+  "new_def": "The vertical frame is cut into 3-4 panels that all play at once (macro texture, on-model 360/dance, detail loop, or several models) so fit, fabric and details land in one glance; music only, tiny caption, 6-10s.",
+  "closest": "Product Demo Ads (single-frame demo) / Product Comparison Video (split screen but comparison, not three views of one item)",
+  "stage": "MOF"
+ },
+ "1039819318932669": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "mirror selfie in loungewear while fake iMessage bubbles pop up ('SOS', 'this is the softest fabric I've ever touched', 'I'm never taking it off'), then lookbook shots",
+  "new_name": "Text-Thread Overlay",
+  "new_def": "Native footage (mirror selfie/try-on) overlaid with a fake phone text conversation whose bubbles pop in one by one to tell the product story ('SOS this is the softest...'), making the ad read like a screenshot shared between friends.",
+  "closest": "Text-Wall Story (one long static text block, not chat bubbles over video)",
+  "stage": "TOF"
+ },
+ "4348386968810296": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'Trying the viral \"make a guy freak\" top' creator try-on review"
+ },
+ "2496367530808427": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'Trying the viral \"make a guy freak\" top' creator try-on review"
+ },
+ "1784036595917439": {
+  "format": "Try-On Haul",
+  "confidence": "high",
+  "notes": "creator tries on Whipped pieces back to back"
+ },
+ "1917503632251489": {
+  "format": "Try-On Haul",
+  "confidence": "high",
+  "notes": "creator tries on Whipped pieces back to back"
+ },
+ "1073750091696096": {
+  "format": "NEW",
+  "confidence": "high",
+  "new_name": "Pack My Bag (What's In My Bag)",
+  "new_def": "Hands-only (or founder) packing sequence: the everyday essentials are laid out (laptop, phone, wallet, keys, lipstick) and placed into the bag one by one to prove capacity/organization, ending on the bag carried out; caption names the bag's job ('a work bag designed for more than the office').",
+  "closest": "Pack An Order With Me (that packs a customer order for shipping; this packs the product itself with personal items) / UGC How-To",
+  "stage": "MOF",
+  "notes": "caf\u00e9 table: hands pack laptop/phone into Paloma tote, 4s, 'a work bag designed for more than the office'"
+ },
+ "1094338716464221": {
+  "format": "NEW",
+  "confidence": "high",
+  "new_name": "Pack My Bag (What's In My Bag)",
+  "new_def": "Hands-only (or founder) packing sequence: the everyday essentials are laid out (laptop, phone, wallet, keys, lipstick) and placed into the bag one by one to prove capacity/organization, ending on the bag carried out; caption names the bag's job ('a work bag designed for more than the office').",
+  "closest": "Pack An Order With Me (that packs a customer order for shipping; this packs the product itself with personal items) / UGC How-To",
+  "stage": "MOF",
+  "notes": "dup Paloma pack 4s"
+ },
+ "776843102152081": {
+  "format": "NEW",
+  "confidence": "high",
+  "new_name": "Pack My Bag (What's In My Bag)",
+  "new_def": "Hands-only (or founder) packing sequence: the everyday essentials are laid out (laptop, phone, wallet, keys, lipstick) and placed into the bag one by one to prove capacity/organization, ending on the bag carried out; caption names the bag's job ('a work bag designed for more than the office').",
+  "closest": "Pack An Order With Me (that packs a customer order for shipping; this packs the product itself with personal items) / UGC How-To",
+  "stage": "MOF",
+  "notes": "dup Paloma pack 4s"
+ },
+ "2040115686597708": {
+  "format": "NEW",
+  "confidence": "high",
+  "new_name": "Pack My Bag (What's In My Bag)",
+  "new_def": "Hands-only (or founder) packing sequence: the everyday essentials are laid out (laptop, phone, wallet, keys, lipstick) and placed into the bag one by one to prove capacity/organization, ending on the bag carried out; caption names the bag's job ('a work bag designed for more than the office').",
+  "closest": "Pack An Order With Me (that packs a customer order for shipping; this packs the product itself with personal items) / UGC How-To",
+  "stage": "MOF",
+  "notes": "studio: woman in blazer packs Chrystie with phone, airpods, wallet, carries it out"
+ },
+ "3632892273540572": {
+  "format": "NEW",
+  "confidence": "high",
+  "new_name": "Pack My Bag (What's In My Bag)",
+  "new_def": "Hands-only (or founder) packing sequence: the everyday essentials are laid out (laptop, phone, wallet, keys, lipstick) and placed into the bag one by one to prove capacity/organization, ending on the bag carried out; caption names the bag's job ('a work bag designed for more than the office').",
+  "closest": "Pack An Order With Me (that packs a customer order for shipping; this packs the product itself with personal items) / UGC How-To",
+  "stage": "MOF",
+  "notes": "dup Chrystie pack"
+ },
+ "991595656992016": {
+  "format": "NEW",
+  "confidence": "high",
+  "new_name": "Pack My Bag (What's In My Bag)",
+  "new_def": "Hands-only (or founder) packing sequence: the everyday essentials are laid out (laptop, phone, wallet, keys, lipstick) and placed into the bag one by one to prove capacity/organization, ending on the bag carried out; caption names the bag's job ('a work bag designed for more than the office').",
+  "closest": "Pack An Order With Me (that packs a customer order for shipping; this packs the product itself with personal items) / UGC How-To",
+  "stage": "MOF",
+  "notes": "dup Chrystie pack"
+ },
+ "2151838745770777": {
+  "format": "NEW",
+  "confidence": "high",
+  "new_name": "Pack My Bag (What's In My Bag)",
+  "new_def": "Hands-only (or founder) packing sequence: the everyday essentials are laid out (laptop, phone, wallet, keys, lipstick) and placed into the bag one by one to prove capacity/organization, ending on the bag carried out; caption names the bag's job ('a work bag designed for more than the office').",
+  "closest": "Pack An Order With Me (that packs a customer order for shipping; this packs the product itself with personal items) / UGC How-To",
+  "stage": "MOF",
+  "notes": "studio: packs laptop, notebook, keys into Paloma tote"
+ },
+ "1103141868664029": {
+  "format": "NEW",
+  "confidence": "medium",
+  "new_name": "Pack My Bag (What's In My Bag)",
+  "new_def": "Hands-only (or founder) packing sequence: the everyday essentials are laid out (laptop, phone, wallet, keys, lipstick) and placed into the bag one by one to prove capacity/organization, ending on the bag carried out; caption names the bag's job ('a work bag designed for more than the office').",
+  "closest": "Pack An Order With Me (that packs a customer order for shipping; this packs the product itself with personal items) / UGC How-To",
+  "stage": "MOF",
+  "notes": "'Freja's founder packs the Mini Chrystie for a night out' top-down hands pack"
+ },
+ "1341198701326862": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "on-body bag swing, new color Olive, 3s",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "1588428495961507": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "dup Olive colorway on-body",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "1844690340032618": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "on-body walk with Mae bag, 7s",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "1298415398949661": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "man in suits dancing/walking Italian street with loafers, film-y lookbook",
+  "new_name": "Collection Lookbook Reel",
+  "new_def": "Music-only editorial sequence of models wearing/using the new product or collection in styled sets (campaign-shoot footage), with 'Introducing X' / 'Live now' super and logo end card; no voice, no claims, no functional demo.",
+  "closest": "Product Demo Ads (but no use/feature demonstration, pure editorial reveal)",
+  "stage": "TOF"
+ },
+ "2489949364805115": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "symmetrical Wes-Anderson-style library tableau, woman walks out with canvas bag, 8s",
+  "new_name": "Cinematic Mini-Film (Brand Short)",
+  "new_def": "A 10-20s film-style micro narrative with characters and a setting (hotel, bellhop, guest), product appears as a prop inside the story, closes on a title card like a movie; no voiceover or selling.",
+  "closest": "Day In The Life / Scenarios (but scripted cinematic fiction, not native UGC or 'imagine if' hook)",
+  "stage": "TOF"
+ },
+ "1538494351065233": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Better than Summer Sales' cycling product cards (boots, sandals, sneakers) one per ~0.8s",
+  "new_name": "Catalog Drop Slideshow",
+  "new_def": "Animated product-catalog grid: each 1-2s card shows one item as model front/side/back plus flat-lay with its name and 'live now', cycling through the whole new drop like a scrolling lookbook PDF; no people talking, no music cues needed.",
+  "closest": "Text-Wall Story / Product Demo Ads (none show a multi-SKU catalog card sequence)",
+  "stage": "BOF"
+ },
+ "2114970792710388": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'Better than Summer Sales' cycling product cards (boots, sandals, sneakers) one per ~0.8s",
+  "new_name": "Catalog Drop Slideshow",
+  "new_def": "Animated product-catalog grid: each 1-2s card shows one item as model front/side/back plus flat-lay with its name and 'live now', cycling through the whole new drop like a scrolling lookbook PDF; no people talking, no music cues needed.",
+  "closest": "Text-Wall Story / Product Demo Ads (none show a multi-SKU catalog card sequence)",
+  "stage": "BOF"
+ },
+ "1006883585487694": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'Better than Summer Sales' cycling product cards (boots, sandals, sneakers) one per ~0.8s",
+  "new_name": "Catalog Drop Slideshow",
+  "new_def": "Animated product-catalog grid: each 1-2s card shows one item as model front/side/back plus flat-lay with its name and 'live now', cycling through the whole new drop like a scrolling lookbook PDF; no people talking, no music cues needed.",
+  "closest": "Text-Wall Story / Product Demo Ads (none show a multi-SKU catalog card sequence)",
+  "stage": "BOF"
+ },
+ "1057957566915086": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'Better than Summer Sales' cycling product cards (boots, sandals, sneakers) one per ~0.8s",
+  "new_name": "Catalog Drop Slideshow",
+  "new_def": "Animated product-catalog grid: each 1-2s card shows one item as model front/side/back plus flat-lay with its name and 'live now', cycling through the whole new drop like a scrolling lookbook PDF; no people talking, no music cues needed.",
+  "closest": "Text-Wall Story / Product Demo Ads (none show a multi-SKU catalog card sequence)",
+  "stage": "BOF"
+ },
+ "1659783005078018": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "'the perfect bag doesn't exist...' playful creator with Hilma bag"
+ },
+ "1381417183435731": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "'POV: the Aven loafers' first-person feet at caf\u00e9 table, coffee and cake"
+ },
+ "1688077489054050": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "'POV: the Aven loafers' first-person feet at caf\u00e9 table, coffee and cake"
+ },
+ "27019846230977531": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "'POV: the Aven loafers' first-person feet at caf\u00e9 table, coffee and cake"
+ },
+ "1274805311271919": {
+  "format": "Myth Buster",
+  "confidence": "medium",
+  "notes": "'\"Barefoot shoes are not cool\"' objection caption over cool on-body styling shots"
+ },
+ "1300452078846990": {
+  "format": "Myth Buster",
+  "confidence": "medium",
+  "notes": "'\"Barefoot shoes are not cool\"' objection caption over cool on-body styling shots"
+ },
+ "1707274993614105": {
+  "format": "Myth Buster",
+  "confidence": "medium",
+  "notes": "'\"Barefoot shoes are not cool\"' objection caption over cool on-body styling shots"
+ },
+ "2230258007496563": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator explains Bible necklace as gift for Christian partner, nano chip close-ups"
+ },
+ "1749925728937202": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "high",
+  "notes": "church hook, many women testimonials + nanotech lab + microscope proof"
+ },
+ "1348321043643205": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "medium",
+  "notes": "text sibling of 1749925728937202"
+ },
+ "831949279606840": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "medium",
+  "notes": "text sibling"
+ },
+ "1854121565192769": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "high",
+  "notes": "macro + microscope proof + women reactions + restock"
+ },
+ "2803024929891329": {
+  "format": "TV Segment Clip (As Seen On TV)",
+  "confidence": "high",
+  "notes": "i24 news segment on founders + nano bible chip, then UGC testimonials"
+ },
+ "767399272985935": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "high",
+  "notes": "tiny slate macro -> testimonials -> couple"
+ },
+ "1933739314114261": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "male creator with cross necklace + microscope/Tel Aviv lab b-roll"
+ },
+ "819522097104598": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "high",
+  "notes": "newlyweds/grandparents reactions + 112,000 Christians collage"
+ },
+ "1859085161421212": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "medium",
+  "notes": "text sibling of Bible necklace mashup"
+ },
+ "1183481327004165": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "high",
+  "notes": "tweet-card 'POV: you thought it was just jewelry' hook + reactions + microscope"
+ },
+ "1753895331764119": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "single woman selfie testimonial"
+ }
+}

@@ -1,0 +1,1874 @@
+{
+ "1022909280665441": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator in closet talks through dress fit 62s"
+ },
+ "1034149012505517": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator walks/talks showing dress"
+ },
+ "1035920082128674": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "unpack bikini then mirror selfie, text overlay"
+ },
+ "1038690691988015": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "campaign/editorial style, may be AI-generated"
+ },
+ "1046175581702900": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "faceless cropped outfit loop + caption 'events between yes and I do'"
+ },
+ "1049702194503140": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "beat-synced outfit-swap montage vs plain wall, no talking"
+ },
+ "1049858347794178": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator presents hoodie talking"
+ },
+ "1090694377246834": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator talks hoodie fit"
+ },
+ "1083511114248132": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "off-niche Glamnetic nails ad on simkhai landing; car selfie review"
+ },
+ "1095845322975970": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "walk-away POV 'taking the long way home to show off my new outfit'"
+ },
+ "1263418428777131": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "silent mirror/wall posing one knit set, no caption"
+ },
+ "1293000839320223": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "swimwear haul flatlay opening bags"
+ },
+ "1313831817364890": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "cropped walking in sweatpants, caption never taking these off"
+ },
+ "1338492484883915": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'what I wore today as 41yo SAHM' two dresses talking"
+ },
+ "1022894074131012": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Glamnetic nails on simkhai landing"
+ },
+ "1345050261044449": {
+  "format": "NEW",
+  "new_name": "Aspirational Moment Montage",
+  "new_def": "Fast-cut montage of MANY different real women wearing the brand in aspirational real-life moments (weddings, travel, parties, landmarks), music only, brand watermark/tagline. Sells the lifestyle and 'everyone is wearing it' rather than the garment",
+  "closest": "UGC Testimonial Mashup (no testimonials, no talking) / Day In The Life",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Eventwear Shop: pyramids, beach, champagne, many guests"
+ },
+ "1361596016115792": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator top review"
+ },
+ "1371007371888984": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "nail close-ups then catalog end card"
+ },
+ "1372521498114076": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Adanola campaign film, cover text 'Meet your go-to summer wardrobe'"
+ },
+ "1375013104086116": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'This is your sign to buy the fringe dress' night terrace"
+ },
+ "1377548494349311": {
+  "format": "NEW",
+  "new_name": "This or That (Pick Your Vibe)",
+  "new_def": "Two variants shown side by side under a fixed header ('Choose your ... vibe'), swapping pairs every 1-2s with names labelled; viewer silently picks a favourite each round; ends on full collection grid + CTA. Interactive choice game, no ranking, no voice",
+  "closest": "Ranking / Tier List (no ranking, viewer chooses) / Levels",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Glamnetic Halloween nails pairs, end grid (simkhai landing)"
+ },
+ "1383055010342248": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'lounge maxxing' hoodie poses on sofa"
+ },
+ "1407328167884893": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "back-of-hoodie 'viral for a reason'"
+ },
+ "1412024644289837": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Petal & Pup 'Soft Summer' lifestyle edit"
+ },
+ "1436091525053595": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'Plaid season loading' cropped"
+ },
+ "1454430806711683": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator dress review at home"
+ },
+ "1058903046612476": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "try-on with height/weight/size overlay"
+ },
+ "1073675648572428": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "try-on two colours, shows built-in shapewear"
+ },
+ "1462902818835228": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "silent posing in romper + end card"
+ },
+ "1501783191607518": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio cyc lookbook Naked Wardrobe"
+ },
+ "1504036844575514": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio lookbook slip dress (SIR)"
+ },
+ "1521748336019596": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "plus-size shapewear dress haul 96s"
+ },
+ "1022319006964230": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'TikTok made me buy this' multi-creator strapless bra + flash sale end card"
+ },
+ "1369401531803709": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "plus-size try-on with stat sidebar, word-by-word captions"
+ },
+ "1528212572198702": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "SIR Pre-Fall editorial stills/motion"
+ },
+ "1577903753961617": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Adanola studio Soft Modal"
+ },
+ "1579238607077263": {
+  "format": "NEW",
+  "new_name": "Motion Poster Announcement (Drop / Restock / Sale)",
+  "new_def": "Short (5-16s) motion poster that only announces news: a launch, restock or sitewide sale. One looping animated or moody video background + big title text ('Fall 26 collection', 'MUSE RESTOCK', '25% OFF sitewide' with code) and optionally a flat-lay grid of pieces/colourways. No people talking, no demo, no story; pure news/urgency",
+  "closest": "Crochet Story / Satisfying B-roll (neither is a launch poster)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "Show Me Your Mumu embroidered cowgirl lasso animation 'Fall 26 collection'"
+ },
+ "1593973042162194": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "two-dress try-on talking"
+ },
+ "1398977748747477": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "split collage lookbook 'Better than your old t-shirt'"
+ },
+ "1607850914203584": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "silent spring-break outfit swaps"
+ },
+ "1613078547008753": {
+  "format": "NEW",
+  "new_name": "This or That (Pick Your Vibe)",
+  "new_def": "Two variants shown side by side under a fixed header ('Choose your ... vibe'), swapping pairs every 1-2s with names labelled; viewer silently picks a favourite each round; ends on full collection grid + CTA. Interactive choice game, no ranking, no voice",
+  "closest": "Ranking / Tier List (no ranking, viewer chooses) / Levels",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'same but different' nail pairs + offer badge, grid end"
+ },
+ "1631090191704754": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Afina shower filter (off-niche on micas landing): Shark Tank clip then green-screen founder story"
+ },
+ "1632031957865196": {
+  "format": "NEW",
+  "new_name": "Aspirational Moment Montage",
+  "new_def": "Fast-cut montage of MANY different real women wearing the brand in aspirational real-life moments (weddings, travel, parties, landmarks), music only, brand watermark/tagline. Sells the lifestyle and 'everyone is wearing it' rather than the garment",
+  "closest": "UGC Testimonial Mashup (no testimonials, no talking) / Day In The Life",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'As seen on you & your bump' customer maternity photo montage"
+ },
+ "1654255615688372": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'The LBD you'll wear all summer' faceless terrace"
+ },
+ "1394989792571166": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio lookbook w/ kinetic copy 'Imagine the softest thing'"
+ },
+ "1513586743794775": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio lookbook 'Breaking news' kinetic copy"
+ },
+ "1661143528430323": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "street posing in two dresses with dialogue captions (goodbye/never/maybe someday)"
+ },
+ "1713428899947853": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "B&W macro leather coat film"
+ },
+ "1717168192861626": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "try-on with captions, built-in shapewear"
+ },
+ "1727376955116857": {
+  "format": "NEW",
+  "new_name": "Aspirational Moment Montage",
+  "new_def": "Fast-cut montage of MANY different real women wearing the brand in aspirational real-life moments (weddings, travel, parties, landmarks), music only, brand watermark/tagline. Sells the lifestyle and 'everyone is wearing it' rather than the garment",
+  "closest": "UGC Testimonial Mashup (no testimonials, no talking) / Day In The Life",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "variant: green-screen staffer narrating over a gallery of real customer maternity photos"
+ },
+ "1065120952624530": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator talks PJ set"
+ },
+ "1309521203877731": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "unbox then silent pose in slip"
+ },
+ "1790300482355613": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "maxi dress posing at doorway, selfie open/close"
+ },
+ "1795295024800412": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'An espresso and gelato kind of summer' swimsuit"
+ },
+ "1821472925549379": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "macro body crops underwear + kinetic copy + pack end card"
+ },
+ "1866612964053530": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "silent same-spot outfit swaps 'wedding guest dresses are so expensive / they don't have to be'"
+ },
+ "1343929991197235": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "detail close-ups halter dress 2 colours"
+ },
+ "1917503632251489": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator walks through Whipped set pieces"
+ },
+ "1925263344822902": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "bikini pool posing w/ relatable caption 48s"
+ },
+ "1967941227216132": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "try-on maxi w/ built-in shapewear"
+ },
+ "1992043228370762": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "multi-creator cami shaper + sale cards"
+ },
+ "1995726207977652": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "crochet collection studio montage"
+ },
+ "1589630208745971": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio swim lookbook Apple shade"
+ },
+ "2012797056257962": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "polaroid-frame flip lookbook basics"
+ },
+ "2059029774643860": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "back-in-stock set posing low angle"
+ },
+ "2083947792522379": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "2.5s teaser 'register your interest'"
+ },
+ "2108219250109584": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Adanola beach campaign"
+ },
+ "2138843510033618": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Adanola autumn campaign"
+ },
+ "1401703871767337": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "yacht swim dress model posing"
+ },
+ "1685014229163052": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "swim close-ups 'Summer is here / selling fast'"
+ },
+ "1700507867620936": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Monday yacht campaign"
+ },
+ "2223379671571738": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "coat rack haul with mic"
+ },
+ "2231928247645153": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "hoodie talk variant"
+ },
+ "2314041539336985": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio lingerie kinetic copy"
+ },
+ "2397803870643231": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Where to wear: resort edition' outfits labelled by occasion"
+ },
+ "2399076233919281": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'help me pick a dress for hoco' rapid swaps (audience-choice hook)"
+ },
+ "1517291476835118": {
+  "format": "NEW",
+  "new_name": "Behind-the-Scenes Shoot Vlog",
+  "new_def": "Phone-shot vlog from the brand's own campaign/photo shoot: crew, cameras, models between takes, mood boards, captions narrating 'we're on set for...'; ends on the finished hero look. Sells the collection via insider access to its making",
+  "closest": "Day In The Life (brand set, not a creator's day) / Founder Story Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Monday Swimwear 'The making of the Founders Edit'"
+ },
+ "1305557184370819": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'my summer rotation' swim haul"
+ },
+ "1436698474912134": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Ask me anything: favorite eco-swim for travel?' sticker, outdoor"
+ },
+ "1491166345749543": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "swim dress talk"
+ },
+ "1706152350748748": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "beach posing two swimsuits caption 'Obsessed with your beach look'"
+ },
+ "2490691331333915": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "silent closet styling two one-pieces"
+ },
+ "25332381186463247": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "baby shower outfit inspo maternity"
+ },
+ "2588316254947349": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "t-shirt bra review"
+ },
+ "27429902906614882": {
+  "format": "NEW",
+  "new_name": "Motion Poster Announcement (Drop / Restock / Sale)",
+  "new_def": "Short (5-16s) motion poster that only announces news: a launch, restock or sitewide sale. One looping animated or moody video background + big title text ('Fall 26 collection', 'MUSE RESTOCK', '25% OFF sitewide' with code) and optionally a flat-lay grid of pieces/colourways. No people talking, no demo, no story; pure news/urgency",
+  "closest": "Crochet Story / Satisfying B-roll (neither is a launch poster)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "TLC 'MUSE RESTOCK' product grid over escalator footage"
+ },
+ "3519356034891816": {
+  "format": "NEW",
+  "new_name": "Video Mosaic Grid",
+  "new_def": "Screen split into a 3x3 grid of simultaneously playing short clips (different outfits/people/settings) with one centre title tile ('Fall 26 is here'). The whole collection is visible at once; no voice, no single hero",
+  "closest": "Aspirational Moment Montage / UGC Testimonial Mashup (simultaneous grid, not sequential cuts)",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Show Me Your Mumu fall shop open"
+ },
+ "1308391211104297": {
+  "format": "Myth Buster",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "green-screen creator debunks 'nursing friendly' claims over model footage"
+ },
+ "27721087947479428": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio print set"
+ },
+ "27870281195896838": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "girls-trip aesthetic vlog with checklist caption (matching PJ sets, brunch)"
+ },
+ "27897545219855139": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Superlatives studio lookbook"
+ },
+ "3406320266333618": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "silent studio posing one dress with size stats + colour inset"
+ },
+ "3564570873711494": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "collab set posing on deck"
+ },
+ "1050994510729577": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "spoken 'fit check' review"
+ },
+ "1353550716232813": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "30 weeks pregnant feeding top review"
+ },
+ "1704597260668222": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'Googled my symptoms... tropical holiday and new outfit' plus-size"
+ },
+ "2158295334993559": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'what I'm wearing today as a size 12 girl' in-store"
+ },
+ "2207935709987190": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "feeding top review"
+ },
+ "2585469851867947": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'For every version of you' multiple women try-ons"
+ },
+ "37452641107682790": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Adanola city running campaign"
+ },
+ "4348386968810296": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Trying the viral make a guy freak top' trend hook"
+ },
+ "4491166584460569": {
+  "format": "NEW",
+  "new_name": "Motion Poster Announcement (Drop / Restock / Sale)",
+  "new_def": "Short (5-16s) motion poster that only announces news: a launch, restock or sitewide sale. One looping animated or moody video background + big title text ('Fall 26 collection', 'MUSE RESTOCK', '25% OFF sitewide' with code) and optionally a flat-lay grid of pieces/colourways. No people talking, no demo, no story; pure news/urgency",
+  "closest": "Crochet Story / Satisfying B-roll (neither is an announcement poster)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "Petal & Pup '25% OFF sitewide' text animation over watermelon close-up"
+ },
+ "2651342151930369": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "hands-only flatlay blouse features w/ bullet labels"
+ },
+ "26945172545139690": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "saree fitcheck"
+ },
+ "4390758821177777": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "faceless hands POV caption story nails"
+ },
+ "4438462323079990": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "swim dress colours try-on talking"
+ },
+ "4455014008149510": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Kylie KHY x Frankies celeb campaign"
+ },
+ "4496145224042556": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "split-screen two angles one-piece"
+ },
+ "475011225548457": {
+  "format": "5 Reasons Why",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Why Conturve bra' numbered reasons mashup + sale"
+ },
+ "1043120071786098": {
+  "format": "NEW",
+  "new_name": "Poetry Film (Spoken-Word Mood Piece)",
+  "new_def": "Cinematic short film of one woman in quiet everyday moments (reading, rain at the window, chai, a rose) wearing the product, carried entirely by a recited poem / lyrical voiceover with line-by-line captions; no product talk, no features, logo end card. Sells the emotion the garment belongs to",
+  "closest": "Personal Story (not first-person testimony; a poem) / Editorial Lookbook Film (has a narrative VO)",
+  "stage": "TOF",
+  "confidence": "high",
+  "notes": "Suta white saree, Hindi poem about love (laal/safed ishq)"
+ },
+ "27427085420324416": {
+  "format": "NEW",
+  "new_name": "Poetry Film (Spoken-Word Mood Piece)",
+  "new_def": "Cinematic short film of one woman in quiet everyday moments (reading, rain at the window, chai, a rose) wearing the product, carried entirely by a recited poem / lyrical voiceover with line-by-line captions; no product talk, no features, logo end card. Sells the emotion the garment belongs to",
+  "closest": "Personal Story (not first-person testimony; a poem) / Editorial Lookbook Film (has a narrative VO)",
+  "stage": "TOF",
+  "confidence": "high",
+  "notes": "Suta teal saree, Hindi monsoon poem with old photos/letters"
+ },
+ "1554321839685873": {
+  "format": "NEW",
+  "new_name": "Get Ready With Me (GRWM) Reveal",
+  "new_def": "Creator starts in casual clothes talking to camera ('Get dressed with me'), then cuts through the dressing steps into a full styled reveal of the product, ending on posing in the finished look. Transformation arc, before -> after outfit",
+  "closest": "Day In The Life / UGC How-To (it is a dressing transformation, not a tutorial or a day)",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Suta 'Get Dressed with me' casual shirt -> saree"
+ },
+ "1012701068162396": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "hands flatlay blouse features restock VO"
+ },
+ "1042741618745520": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Jui collection with feature words"
+ },
+ "1061041399846938": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Agomoni cinematic teaser 'coming soon' stamp frame"
+ },
+ "1572126621247391": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "two women demo reversible blouse 1 blouse 2 looks"
+ },
+ "2555947318256389": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Durga painted saree heritage location"
+ },
+ "1069725118841925": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'Perfect date dress' creator posing"
+ },
+ "1103030498730360": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "hands unfold saree after saree on puja-props flatlay"
+ },
+ "1370275525276230": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Agomoni dance editorial"
+ },
+ "1566632328489468": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "littlebox try-on haul labelled vibes"
+ },
+ "1610622654021183": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'Ohh how I love being a woman' twirl"
+ },
+ "1790957412081170": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'find someone who calls you...' caption, photoshoot style"
+ },
+ "2257579944977740": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'love me a pretty blue dress'"
+ },
+ "28269443242692480": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "white dress field, collage opener"
+ },
+ "1054362440647422": {
+  "format": "NEW",
+  "new_name": "Song-Vibe Dress Up (Lyric Lip-Sync)",
+  "new_def": "Creator lip-syncs a trending song and changes into a different outfit for each lyric/verse ('playing dress up to the vibe of the song'), shot like a mini music video across streets/night locations, lyric captions on screen. Entertainment first, outfits as costume changes",
+  "closest": "Try-On Haul (structure driven by a song, music-video staging) / Reaction-Trend-Hijack",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Littlebox 'Playing dress up to the vibe of the song' night street"
+ },
+ "1429612892379080": {
+  "format": "NEW",
+  "new_name": "Outfit Builder (Flat-Lay to Look)",
+  "new_def": "Animated product cut-outs on a plain background are added one by one with labels (Dress -> Footwear -> Bag -> Outfit) to assemble a full look, then cut to the real model wearing the assembled outfit; repeat for 2-3 looks, logo end card. Sells complete looks / basket building",
+  "closest": "Product Demo Ads / Editorial Lookbook Film (step-by-step outfit assembly graphic)",
+  "stage": "MOF",
+  "confidence": "medium",
+  "notes": "Littlebox top-rated dresses outfit builder"
+ },
+ "2334126740670976": {
+  "format": "NEW",
+  "new_name": "Get Ready With Me (GRWM) Reveal",
+  "new_def": "Creator starts in casual clothes talking to camera ('Get dressed with me'), then cuts through the dressing steps into a full styled reveal of the product, ending on posing in the finished look. Transformation arc, before -> after outfit",
+  "closest": "Day In The Life / UGC How-To (it is a dressing transformation, not a tutorial or a day)",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "GRWM for Devil Wears Prada 2 pinstripe suit"
+ },
+ "1028582626824865": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'Fitted shirts you need' outdoor two shirts"
+ },
+ "1116454183770854": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'this color' strapless dress"
+ },
+ "1550206029636995": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "black gown posing at home"
+ },
+ "2280158636087749": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Littlebox haul under 899'"
+ },
+ "27938721092457193": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Littlebox fit check' hanger -> mirror two tops"
+ },
+ "765856763183219": {
+  "format": "NEW",
+  "new_name": "3D Cartoon UGC (Pixar-Style)",
+  "new_def": "A normal UGC/testimonial script (selfie mirror shots, unboxing pouch, 'this beats my M&S bra', problem then wear-test) rendered entirely as AI-generated Pixar/Disney-style 3D cartoon women, captions word-by-word, ending on real-photo sale card. The cartoon look is the scroll-stopper, the beats are classic UGC",
+  "closest": "AI UGC Avatar (realistic avatar, not cartoon) / Claymation (stop-motion clay)",
+  "stage": "TOF",
+  "confidence": "high",
+  "notes": "Conturve wire-free bra, 135d live"
+ },
+ "1257837285791978": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "blue maxi talk"
+ },
+ "1448896216877175": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "white dress model kitchen, 'you found the dress'"
+ },
+ "1458196499288248": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "red maxi bedroom posing"
+ },
+ "1491523342627225": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "black dress talk"
+ },
+ "1830491237664270": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'POV: your new denim collection' rapid model looks"
+ },
+ "2114323406082999": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "lace dress poolside"
+ },
+ "4774457822774572": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "three women walking crop 'on the go'"
+ },
+ "1632973024422723": {
+  "format": "NEW",
+  "new_name": "Get Ready With Me (GRWM) Reveal",
+  "new_def": "Creator starts in casual clothes talking to camera ('Get dressed with me'), then cuts through the dressing steps into a full styled reveal of the product, ending on posing in the finished look. Transformation arc, before -> after outfit",
+  "closest": "Day In The Life / UGC How-To (it is a dressing transformation, not a tutorial or a day)",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "robe -> yellow dress wedding guest 'series', comment-for-link"
+ },
+ "1265483022137132": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "mirror 'dinner and drinks fit'"
+ },
+ "1483383536826764": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "rapid same-spot haul"
+ },
+ "2428628967563651": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "outfits labelled by occasion NYC"
+ },
+ "4185302285055427": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "bump-friendly haul"
+ },
+ "785113317945441": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "jeans try-on talk"
+ },
+ "785154331356876": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Harry Potter nails long review"
+ },
+ "808138971715297": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "pink dress talk"
+ },
+ "813455875016330": {
+  "format": "NEW",
+  "new_name": "Offer Stack Escalation ('Wasn't Enough?')",
+  "new_def": "Presenter-led sale ad built as a running bargain: each beat tops the last deal with a banner question ('40% OFF... wasn't enough?' -> 'What about FREE SHIPPING?' -> 'Today only'), presenter reacting/pointing at the product between stacks, end card with guarantee + BNPL. The offer escalation IS the structure",
+  "closest": "Levels (levels of deal, not product tiers) / Problem-Agitate-Solve",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "Conturve bra 147d"
+ },
+ "826196173310900": {
+  "format": "NEW",
+  "new_name": "Motion Poster Announcement (Drop / Restock / Sale)",
+  "new_def": "Short (5-16s) motion poster that only announces news: a launch, restock or sitewide sale. One looping animated or moody video background + big title text ('Fall 26 collection', 'MUSE RESTOCK', '25% OFF sitewide' with code) and optionally a flat-lay grid of pieces/colourways. No people talking, no demo, no story; pure news/urgency",
+  "closest": "Crochet Story / Satisfying B-roll (neither is an announcement poster)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "TLC 'MUSE' title over mirrored escalator footage"
+ },
+ "1279449637632148": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "POV caption outfit poolside"
+ },
+ "1525317999382186": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "red maxi 'event ready'"
+ },
+ "2076526850409330": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Lake Como photoshoot-style mini dress"
+ },
+ "2392034121208675": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'outfits I wore today' 4 changes in a day montage"
+ },
+ "848174684725596": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Eberjey PJ day vlog VO"
+ },
+ "849757124293584": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "nursing dress 3 reasons"
+ },
+ "1566138901572711": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'life is a fashion show' caption"
+ },
+ "2505833453211519": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "crosswalk strut w/ dating-joke caption"
+ },
+ "856048840852129": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'It girl set' posing"
+ },
+ "868556695710622": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio swim 'open back summer'"
+ },
+ "888478744121951": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "split-screen lingerie silent"
+ },
+ "903120962807542": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "NYC street PJs model"
+ },
+ "911308614693955": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "3s rapid lookbook flash"
+ },
+ "916055401050246": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "silent try + fabric macro waffle knit"
+ },
+ "924692671576497": {
+  "format": "NEW",
+  "new_name": "Offer Stack Escalation ('Wasn't Enough?')",
+  "new_def": "Presenter-led sale ad built as a running bargain: each beat tops the last deal with a banner question ('40% OFF... wasn't enough?' -> 'What about FREE SHIPPING?' -> 'Today only'), presenter reacting/pointing at the product between stacks, end card with guarantee + BNPL. The offer escalation IS the structure",
+  "closest": "Levels (levels of deal, not product tiers) / Problem-Agitate-Solve",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "Conturve shapewear 60% variant"
+ },
+ "934938436249260": {
+  "format": "NEW",
+  "new_name": "Motion Poster Announcement (Drop / Restock / Sale)",
+  "new_def": "Short (5-16s) motion poster that only announces news: a launch, restock or sitewide sale. One looping animated or moody video background + big title text ('Fall 26 collection', 'MUSE RESTOCK', '25% OFF sitewide' with code) and optionally a flat-lay grid of pieces/colourways. No people talking, no demo, no story; pure news/urgency",
+  "closest": "Crochet Story / Satisfying B-roll (neither is an announcement poster)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "Petal & Pup 'Shop Getaway' flat-lay capsule grid over Riviera bg"
+ },
+ "919287320726640": {
+  "format": "NEW",
+  "new_name": "This or That (Pick Your Vibe)",
+  "new_def": "Two variants shown side by side under a fixed header ('Choose your ... vibe'), swapping pairs every 1-2s with names labelled; viewer silently picks a favourite each round; ends on full collection grid + CTA. Interactive choice game, no ranking, no voice",
+  "closest": "Ranking / Tier List (no ranking, viewer chooses) / Levels",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Glamnetic 'same but different' shapes"
+ },
+ "1274248527407387": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Mew Mews hotel lookbook"
+ },
+ "1979443649572325": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "gown lookbook + 10% card"
+ },
+ "880292694180890": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "red gown staircase"
+ },
+ "929700256229729": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "slip dress street"
+ },
+ "933346109774663": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "staffer office review talk"
+ },
+ "1225423833077714": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "timestamped surf day 'COMESURF'"
+ },
+ "2562193997317775": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Mew Mews feather dress"
+ },
+ "3579039288913309": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Afina filter (off-niche on micas) text over b-roll"
+ },
+ "941146265707471": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Afina 184s text wall over looping video"
+ },
+ "4338364623057929": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Mew Mews lookbook (not viewed closely)"
+ },
+ "904121988996215": {
+  "format": "Challenge",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'run 4 miles with me while I test the shorts' selfie-run test"
+ },
+ "942357661730340": {
+  "format": "UGC Listicle",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "green-screen 'my six favorite spring dresses and where to wear them' over product pages"
+ },
+ "951634431053283": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "cottagecore dresses outdoor"
+ },
+ "1606845550529988": {
+  "format": "NEW",
+  "new_name": "Outfit Builder (Flat-Lay to Look)",
+  "new_def": "Animated product cut-outs on a plain background are added one by one with labels (Dress -> Footwear -> Bag -> Outfit) to assemble a full look, then cut to the real model wearing the assembled outfit; repeat for 2-3 looks, logo end card. Sells complete looks / basket building",
+  "closest": "Product Demo Ads / Editorial Lookbook Film (step-by-step outfit assembly graphic)",
+  "stage": "MOF",
+  "confidence": "medium",
+  "notes": "MICAS knolling outfit builder -> 70% off card, 207d"
+ },
+ "1440620721161656": {
+  "format": "NEW",
+  "new_name": "Motion Poster Announcement (Drop / Restock / Sale)",
+  "new_def": "Short (5-16s) motion poster that only announces news: a launch, restock or sitewide sale. One looping animated or moody video background + big title text ('Fall 26 collection', 'MUSE RESTOCK', '25% OFF sitewide' with code) and optionally a flat-lay grid of pieces/colourways. No people talking, no demo, no story; pure news/urgency",
+  "closest": "Crochet Story / Satisfying B-roll (neither is an announcement poster)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "Gingham&Heels EOFY sale 2s curtain"
+ },
+ "2693382851037933": {
+  "format": "NEW",
+  "new_name": "Motion Poster Announcement (Drop / Restock / Sale)",
+  "new_def": "Short (5-16s) motion poster that only announces news: a launch, restock or sitewide sale. One looping animated or moody video background + big title text ('Fall 26 collection', 'MUSE RESTOCK', '25% OFF sitewide' with code) and optionally a flat-lay grid of pieces/colourways. No people talking, no demo, no story; pure news/urgency",
+  "closest": "Crochet Story / Satisfying B-roll (neither is an announcement poster)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "Gingham&Heels 'New to sale' 1s flat pink card"
+ },
+ "1064712096148790": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio cyc lookbook"
+ },
+ "1180443600909220": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio cyc lookbook"
+ },
+ "1553662736540052": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio cyc"
+ },
+ "27681270828197348": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio cyc"
+ },
+ "2166255550602084": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "model demo leggings w/ UGC-style caption 'people keep stopping me'"
+ },
+ "951899451261249": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "variant"
+ },
+ "1256265759266087": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "MICAS AI-looking editorial street"
+ },
+ "3052203294989720": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "creator jeans fitcheck MICAS"
+ },
+ "888460417572967": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "micas haul"
+ },
+ "1630909885306050": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Afina off-niche variant (not viewed)"
+ },
+ "1946789383392135": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Afina off-niche variant (not viewed)"
+ },
+ "3657959807700930": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Afina variant (not viewed)"
+ },
+ "1727363895206500": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "G&H studio (not viewed, same series)"
+ },
+ "847163988058214": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "G&H studio (not viewed, same series)"
+ },
+ "953456620912346": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "bump-friendly wedding guest haul"
+ },
+ "962390480193518": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "bikini posing at home"
+ },
+ "962555573373431": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "dress talk"
+ },
+ "973147102129999": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Monday beach campaign"
+ },
+ "978718811890524": {
+  "format": "NEW",
+  "new_name": "Motion Poster Announcement (Drop / Restock / Sale)",
+  "new_def": "Short (5-16s) motion poster that only announces news: a launch, restock or sitewide sale. One looping animated or moody video background + big title text ('Fall 26 collection', 'MUSE RESTOCK', '25% OFF sitewide' with code) and optionally a flat-lay grid of pieces/colourways. No people talking, no demo, no story; pure news/urgency",
+  "closest": "Crochet Story / Satisfying B-roll (neither is an announcement poster)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "SMYM 'Guess who's back' kinetic text restock"
+ },
+ "998619335928569": {
+  "format": "NEW",
+  "new_name": "One Piece, Many Ways (Styling Remix)",
+  "new_def": "One hero item (skirt, blouse) styled into 3+ different outfits back to back, each labelled by occasion ('school drop-off / lunch date / night out'), same spot, quick cuts, product name end card. Sells versatility / cost-per-wear of a single SKU",
+  "closest": "Try-On Haul (one item restyled, not many items) / UGC How-To",
+  "stage": "MOF",
+  "confidence": "medium",
+  "notes": "TLC Lacey Skirt 'One skirt. Three lives', 191d"
+ },
+ "976465545381989": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "studio silk dresses"
+ },
+ "985289201238803": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "nail application steps + 'which fall mani are you'"
+ },
+ "993009110160369": {
+  "format": "NEW",
+  "new_name": "Editorial Lookbook Film",
+  "new_def": "Polished model shoot on location: wide hero, macro fabric/detail close-ups, turns; no talking, no story, music + brand, offer in copy",
+  "closest": "Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "split-screen lingerie"
+ },
+ "993471689736397": {
+  "format": "Try-On Haul",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "two-dress talking try-on"
+ },
+ "996193839919275": {
+  "format": "NEW",
+  "new_name": "Fit Check (Silent Outfit Pose)",
+  "new_def": "Phone-shot clip of one person in ONE outfit, silently posing, turning or walking (often faceless/cropped, mirror or walk-away POV) to music, usually with a single relatable one-liner caption (POV / never taking these off). No talking, no demo, no story, no multiple outfits",
+  "closest": "Try-On Haul (one outfit not several, no voice) / Product Demo Ads",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'friendship bracelets but matching hoodies' duo"
+ }
+}

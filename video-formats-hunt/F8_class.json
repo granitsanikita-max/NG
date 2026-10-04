@@ -1,0 +1,1811 @@
+{
+"959129366454607": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "swimmer training day vlog"
+},
+"1319086376747801": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "race-day vlog creator"
+},
+"2156007658586193": {
+"format": "Personal Story",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "marathon race vlog, product woven in"
+},
+"1644253103459033": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "mom stroller walk talking review"
+},
+"1291953289212538": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "run-with-me talking selfie run"
+},
+"1921860825164974": {
+"format": "Unboxing (First-Open Reveal)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "limited edition box reveal"
+},
+"3529821707188672": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "'why is everyone wearing these' hook then review"
+},
+"1547736250247606": {
+"format": "UGC Listicle",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "green screen #1 #2 #3 reasons"
+},
+"1526168269014498": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "creator review w/ caption overlays"
+},
+"3558309554334660": {
+"format": "NEW",
+"new_name": "Torture Test (Try To Break It)",
+"new_def": "Whole ad is a series of escalating abuse/stress attempts on the product (flips, jumps, muscle-ups, drops) with the product surviving each one; the verdict 'still on / still works' is the payoff.",
+"closest": "Product Demo Ads / Challenge",
+"stage": "Demo shows normal use; Challenge is time-based self-experiment. Here the structure is attempt-to-fail escalation, product as survivor.",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1002294486070276": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "aesthetic fashion city day"
+},
+"887464640309905": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "aesthetic city day voiceover"
+},
+"1014061237762343": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "cyclist's perspective review on ride"
+},
+"979457851734305": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "'tried every sport earbud' switch review"
+},
+"1485723453324779": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "NYC day voiceover"
+},
+"1355057196538763": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "POV swimmer setup & use of headphones"
+},
+"1553469756346143": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Polished, studio-shot commercial: model/lifestyle beauty shots and product macro cut to music, each shot carrying one on-screen feature super (design, battery, charging), ending on logo end-card. No talking, no creator, no story.",
+"closest": "Product Demo Ads",
+"stage": "Demo shows functional use; this is an editorial/TV-style brand film where mood + feature captions do the selling.",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1486265799941642": {
+"format": "Pack An Order With Me (Fulfilment POV)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "POV printing a shirt order start-to-finish then packing with thank-you card"
+},
+"1653225915653000": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "craft-room workflow demo with word-by-word captions"
+},
+"1118697570378057": {
+"format": "Pack An Order With Me (Fulfilment POV)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "custom jeans order made start-to-finish ASMR, then packed"
+},
+"2057099631578013": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "creator unbox + make keychains demo (Spanish)"
+},
+"1022327943597589": {
+"format": "Pack An Order With Me (Fulfilment POV)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "same creative as 1486265799941642"
+},
+"2367364533783378": {
+"format": "Case Studies",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "school STEAM coordinator + feature supers (education vertical)"
+},
+"1040984022130036": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "small-biz owner preps for open house w/ printer"
+},
+"931251749701634": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "UV laser branding demo w/ meme captions"
+},
+"2416173998899411": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Polished brand film montage with one feature/benefit super per shot, music-driven, logo end card, no talent speaking.",
+"closest": "Product Demo Ads",
+"stage": "Mood/brand montage rather than functional demo.",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1642277450973182": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "print-to-frame satisfying demo"
+},
+"1636548594438700": {
+"format": "NEW",
+"new_name": "Prank Montage (Doing It To Their Stuff)",
+"new_def": "Creator secretly uses the product on a friend/roommate's belongings \u2014 a rapid comedic montage of item after item (toothbrush, book, rice grains) \u2014 ending on the victim reaction or 'what should I do next?'.",
+"closest": "Product Demo Ads / Satisfying B-roll",
+"stage": "Demo is neutral use; here the comedic frame (prank on a named victim, escalating absurd objects) is the whole structure and invites comments.",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1336944445230206": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "make World Cup trading cards step-by-step brand demo"
+},
+"2464549117351558": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "live event engraving demo w/ captions"
+},
+"1047732634435954": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "mom makes matching shirts then trip to Nintendo world"
+},
+"2166582813895201": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "assemble printed lightbox, satisfying"
+},
+"1951044718790345": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "works-on-every-material roll call demo"
+},
+"1322594999934691": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "couple camping weekend vlog"
+},
+"1457818005648164": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Polished lifestyle brand film (moody overlanding/camping), music only, product woven into scenes, logo end card.",
+"closest": "Day In The Life / Product Demo Ads",
+"stage": "Scripted cinematic commercial, no creator voice, mood sells.",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1981350716117750": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Polished lifestyle commercial: van-life morning espresso powered by station, music only, logo end.",
+"closest": "Day In The Life",
+"stage": "No creator voice; cinematic commercial.",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1558083346327813": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "stonemason jobsite use with feature supers"
+},
+"1397741278853866": {
+"format": "UGC How-To",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "overlander install walkthrough"
+},
+"1770517733797519": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "cinematic overlanding w/ creator VO review"
+},
+"1694940495177085": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "fridge backup battery demo at home (storm context)"
+},
+"27214775404878656": {
+"format": "NEW",
+"new_name": "YouTube Reviewer Clip (Borrowed Expert)",
+"new_def": "Ad opens on a YouTube-style thumbnail hook ('How is it so small?'), then plays a horizontal, letterboxed excerpt from an independent long-form YouTube reviewer's desk review comparing models, captions underneath, ending on brand end-card.",
+"closest": "Celebrity Podcast Clip / TV Segment Clip / Product Comparison Video",
+"stage": "Source of borrowed authority is a niche YouTube reviewer's long-form video (not podcast/TV/celebrity); keeps YT framing and thumbnail as the hook.",
+"confidence": "MOF",
+"notes": "medium"
+},
+"1237909031504675": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "product feature sizzle w/ supers"
+},
+"2740615602968582": {
+"format": "Reaction / Trend-Hijack (Borrowed Fame)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "green-screen creator hypes 'Raycon just launched' over b-roll like tech-news"
+},
+"1243125894425248": {
+"format": "Problem-Agitate-Solve",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "frayed cables problem -> magnetic cable"
+},
+"2098944917541424": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "cable use montage with word captions"
+},
+"2099859630851063": {
+"format": "Problem-Agitate-Solve",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "'Tired of...' cable problem -> solution"
+},
+"1223040922881436": {
+"format": "NEW",
+"new_name": "Jingle Music Video (Sung Product Song)",
+"new_def": "The whole ad is an original catchy song about the product ('Have you heard this song?'), lyrics karaoke-captioned on screen with a waveform, cut over a montage of different people using it in their day; the lyrics carry every benefit and the CTA.",
+"closest": "Day In The Life / UGC Testimonial Mashup",
+"stage": "No one speaks to camera; the song is the script, built for audio-on recall and re-use as sound.",
+"confidence": "TOF",
+"notes": "high"
+},
+"2192108804871944": {
+"format": "NEW",
+"new_name": "Animated Product Poster (Moving Static)",
+"new_def": "Short (6-10s) 3D-rendered product floating/rotating on a moody background with one headline + one benefit line; no people, no scenes \u2014 essentially a moving static.",
+"closest": "Satisfying B-roll / Product Demo Ads",
+"stage": "No real footage or use; pure CGI hero render as a motion poster.",
+"confidence": "ANY",
+"notes": "medium"
+},
+"1591071235431770": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "'PSA: being tired isn't normal' sleep earbud review"
+},
+"2008605566757759": {
+"format": "5 Reasons Why",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "employee presenter numbered 1-5 features"
+},
+"1244413863978626": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "vanlife couple camping review"
+},
+"828535170275453": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "French creator long review outdoors"
+},
+"1599882204773990": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "walk-and-talk feature review w/ bold captions"
+},
+"3310643299143763": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "creator walkaround review + discount code"
+},
+"1323529195901457": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "unfold + feature demo"
+},
+"2834333233617542": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Cinematic riding film, music only, no talking, logo end.",
+"closest": "Product Demo Ads",
+"stage": "Mood film not a demo.",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1340132567998437": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "creator city ride review w/ feature captions"
+},
+"1381364753796081": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Horizontal action brand film, music only.",
+"closest": "Product Demo Ads",
+"stage": "Mood film.",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1540535597701664": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "C-stand setup demo"
+},
+"1755309915458340": {
+"format": "Unboxing (First-Open Reveal)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "top-down unbox light ASMR"
+},
+"1548393816728959": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "unbox+setup review creator"
+},
+"1640670164126936": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "creator tiny light review"
+},
+"1356394009743173": {
+"format": "Unboxing (First-Open Reveal)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "mic kit unbox"
+},
+"893141893819750": {
+"format": "NEW",
+"new_name": "BTS vs Final Shot Reveal",
+"new_def": "'POV: no drone, no cameraman, just this' \u2014 suction-mount rig on car, then the cinematic driving footage it captured.",
+"closest": "Product Demo Ads",
+"stage": "setup->result reveal",
+"confidence": "MOF",
+"notes": "medium"
+},
+"2449426958836806": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "flashlight gobo projection demo"
+},
+"851144171056633": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "mic feature demo"
+},
+"1349133527352935": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "phone camera grip demo"
+},
+"1397556949069307": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "flashlight gobo demo"
+},
+"27652485644392648": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "tripod stand demo"
+},
+"906008742551811": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "'POV you're a dad, your turn to reset the house' couple framing then robot review"
+},
+"2599733137108001": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "mom naptime productivity with robot vac"
+},
+"2037485260528474": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "mom robot review w/ Prime Day banner"
+},
+"1048745257554560": {
+"format": "Product Comparison Video",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "split-screen Dreame vs other vacuum"
+},
+"2090537645678184": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "robot vac review"
+},
+"1721185285920413": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "laptop stand demo"
+},
+"1282468373221702": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "charger stand demo"
+},
+"3615969605199625": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "foldable charger demo"
+},
+"779422891873128": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "KUXIU desk ASMR product demo"
+},
+"28009154308684965": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "KUXIU desk ASMR product demo"
+},
+"783740534253471": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "KUXIU desk ASMR product demo"
+},
+"1516677693443413": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "KUXIU desk ASMR product demo"
+},
+"983135744466108": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "laptop stand demo"
+},
+"689107510210033": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "creator tripod review 161s"
+},
+"1439497760931619": {
+"format": "Product Comparison Video",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "employee presenter compares new vs older model, feature supers"
+},
+"1572254063836447": {
+"format": "Myth Buster",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "'they said it can't run a microwave' facecam bubble over test footage"
+},
+"798326482862443": {
+"format": "NEW",
+"new_name": "Meme-Caption Comedy Skit",
+"new_def": "Opens on a relatable meme caption ('When you can't run two heavy devices at once') over a short, cinematically shot, exaggerated slapstick skit of the frustration (absurd visual gag), then a one-line punchline title ('Dad got this') and product end-card. No dialogue, no review.",
+"closest": "Problem-Agitate-Solve / Scenarios",
+"stage": "PAS explains and agitates; here the problem is acted as a wordless absurd comedy bit under a meme caption \u2014 a joke, not an argument.",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1465116865359009": {
+"format": "NEW",
+"new_name": "Trade-Show Booth Demo",
+"new_def": "Founder/rep filmed at an expo booth (lanyard, crowd, banners) pitching and demoing the product live to camera, intercut with spec cards; feels like news footage from a trade show.",
+"closest": "Product Demo Ads / Stage Talk / Founder Story",
+"stage": "Demo is in a booth-at-a-show context that borrows 'industry launch' credibility; not a stage keynote, not a founder origin story.",
+"confidence": "MOF",
+"notes": "medium"
+},
+"937839115544699": {
+"format": "NEW",
+"new_name": "Trade-Show Booth Demo",
+"new_def": "same creative as 1465116865359009",
+"closest": "Product Demo Ads",
+"stage": "booth context",
+"confidence": "MOF",
+"notes": "medium"
+},
+"997473482979008": {
+"format": "NEW",
+"new_name": "Animated Product Poster (Moving Static)",
+"new_def": "5s animated product card with 'Order now' \u2014 moving static.",
+"closest": "Satisfying B-roll",
+"stage": "no footage.",
+"confidence": "BOF",
+"notes": "medium"
+},
+"817356360934652": {
+"format": "NEW",
+"new_name": "Animated Product Poster (Moving Static)",
+"new_def": "Short (5-10s) ad that is essentially a static product poster/slideshow with motion: product render or spec/installation cards, price/discount badge, 'order now'. No people, no use footage.",
+"closest": "Satisfying B-roll / Product Demo Ads",
+"stage": "Not footage of use; it's a motion graphic of the offer.",
+"confidence": "BOF",
+"notes": "medium"
+},
+"1642124773474759": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "Romanian moto creator review"
+},
+"2077565803638130": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "moto shop creator review w/ captions"
+},
+"1574430400845962": {
+"format": "NEW",
+"new_name": "YouTube Reviewer Clip (Borrowed Expert)",
+"new_def": "Cut-down from an independent reviewer's YouTube rundown, horizontal/letterboxed, ends with 'see my full rundown on YouTube + discount code'.",
+"closest": "Celebrity Podcast Clip / UGC Reviews",
+"stage": "Source is niche YouTube reviewer long-form; YT framing kept.",
+"confidence": "MOF",
+"notes": "medium"
+},
+"2177925799447702": {
+"format": "NEW",
+"new_name": "Animated Product Poster (Moving Static)",
+"new_def": "Motion-graphic sale poster: brand anniversary year timeline (2015..2026) then big discount number, no footage of use.",
+"closest": "Satisfying B-roll",
+"stage": "offer motion graphic",
+"confidence": "BOF",
+"notes": "medium"
+},
+"986217087458913": {
+"format": "UGC How-To",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "unbox + install walkthrough"
+},
+"1420920376526021": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "Spanish moto creator review"
+},
+"1015156331512289": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "Spanish creator long review"
+},
+"1254380623168419": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "rider review w/ captions"
+},
+"1004946345763395": {
+"format": "Episodic Series / Social Show",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "unbox+errand day ending 'To be continued... part 2'"
+},
+"1333390495547323": {
+"format": "Unboxing (First-Open Reveal)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "unbox + assemble ebike"
+},
+"1020720764106374": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "fold ebike rider review"
+},
+"1360069385945202": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "reviewer + CGI motor inserts"
+},
+"1371971304784140": {
+"format": "UGC Testimonial Mashup",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "several creators cut together"
+},
+"1515558519932693": {
+"format": "UGC Testimonial Mashup",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "multiple reviewers cut together"
+},
+"880738318390575": {
+"format": "UGC Testimonial Mashup",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "multiple riders cut together"
+},
+"1755524862080760": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "in-store bike shop walkaround with feature captions"
+},
+"27701130929513149": {
+"format": "UGC How-To",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "unbox + assembly 178s"
+},
+"995095832880188": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Horizontal TV-style launch commercial with CGI macro shots of the robot handling spills, music only.",
+"closest": "Product Demo Ads",
+"stage": "commercial not demo",
+"confidence": "TOF",
+"notes": "medium"
+},
+"2147388462506316": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "horizontal robot vac demo"
+},
+"1676354476786453": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "same as 2147388462506316"
+},
+"1688654455454235": {
+"format": "Product Comparison Video",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "top-down 3-way stain test animation"
+},
+"1476059327594870": {
+"format": "NEW",
+"new_name": "Animated Product Poster (Moving Static)",
+"new_def": "7s cinematic hero shot of robot in dark room, brand moving poster.",
+"closest": "Satisfying B-roll",
+"stage": "no use story",
+"confidence": "ANY",
+"notes": "medium"
+},
+"999869559455317": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "robot vac rug review w/ dog"
+},
+"1593072815759934": {
+"format": "Problem-Agitate-Solve",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "NOTE: Narwal Apparel swim shorts (different brand, matched pagename) - problem/solution UGC"
+},
+"829701569900062": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Talent-led polished horizontal commercial (Italian presenter in villa), product in luxe home, ends on Prime Day card.",
+"closest": "Product Demo Ads",
+"stage": "TV-commercial production",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1480124020325459": {
+"format": "Unboxing (First-Open Reveal)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "NAS unbox ASMR"
+},
+"1361906049210977": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "stacking storage counter then NAS demo"
+},
+"1395429435838731": {
+"format": "Unboxing (First-Open Reveal)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "NAS unbox"
+},
+"1074838018434486": {
+"format": "Unboxing (First-Open Reveal)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "NAS unbox+setup"
+},
+"1719815702667315": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "NAS feature demo after banner"
+},
+"1034385262477407": {
+"format": "Unboxing (First-Open Reveal)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "top-down unbox"
+},
+"913615038343528": {
+"format": "NEW",
+"new_name": "YouTube Reviewer Clip (Borrowed Expert)",
+"new_def": "Letterboxed horizontal excerpt of a YouTube tech reviewer talking + screen recording, branded header bar, end card.",
+"closest": "Celebrity Podcast Clip",
+"stage": "niche YouTuber source",
+"confidence": "MOF",
+"notes": "medium"
+},
+"1748181346545210": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "dock demo"
+},
+"28307064382317650": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "NAS feature supers demo"
+},
+"4485527885009975": {
+"format": "Educational UGC",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "brand tutorial on infill density with slicer screen recording"
+},
+"1362858608619717": {
+"format": "UGC How-To",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "tutorial: two resins in one print"
+},
+"986941750529889": {
+"format": "Educational UGC",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "same infill tutorial"
+},
+"1440051904468444": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "3D print process -> finished object demo"
+},
+"1418407119934203": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "3D print process -> finished object demo"
+},
+"1247448677431409": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "3D print process -> finished object demo"
+},
+"2041509586573780": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "3D print process -> finished object demo"
+},
+"1355888513175533": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "resin print process to painted mask"
+},
+"1658691289595800": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "opens on the printed figure animated 'coming alive', then printer specs"
+},
+"1728602751710821": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "printed toys interaction demo"
+},
+"1031351122198836": {
+"format": "UGC How-To",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "install walkthrough"
+},
+"3323011754513671": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "3 steps install demo captions"
+},
+"1668455490515568": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "POV driving mirror screen demo"
+},
+"4161060194125524": {
+"format": "UGC How-To",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "wiring install tutorial"
+},
+"1258216205966886": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "POV mirror dash cam demo"
+},
+"951258520963987": {
+"format": "Reply To Question",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "comment bubble 'thought it was just plastic' -> engineering + motocross footage"
+},
+"1324476436168743": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "mousepad review"
+},
+"1072451322197012": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "walk to setup and game, 12s"
+},
+"1574039194284654": {
+"format": "Unboxing (First-Open Reveal)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "anime pad unbox"
+},
+"1337867928243956": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "8s routine -> gaming setup"
+},
+"4424193324521834": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "jump-cut setup assembles itself then gameplay"
+},
+"2340249303130049": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "8s routine to gaming"
+},
+"2011484519439714": {
+"format": "Unboxing (First-Open Reveal)",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "pad unbox"
+},
+"1403088621844656": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "jump-cut setup build then gameplay"
+},
+"4455021684783003": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "6s setup appears build"
+},
+"754079514178418": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "influencer sleep earbuds review"
+},
+"892228393225606": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Polished model beauty-shot spot (possibly AI-generated) with logo, earbuds as jewelry, case reveal, no talking.",
+"closest": "Product Demo Ads",
+"stage": "fashion-editorial commercial",
+"confidence": "TOF",
+"notes": "medium"
+},
+"982506941490094": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "projector lifestyle montage inside persistent price/offer frame"
+},
+"1711150933439468": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "camping projector VO review inside persistent offer frame"
+},
+"1069588965606960": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "AI-generated luxury beauty/jewelry film: model, diamonds, earbuds case reveal, logo; no talking.",
+"closest": "Product Demo Ads",
+"stage": "editorial commercial (AI-made)",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1966732534008335": {
+"format": "NEW",
+"new_name": "Scripted Workplace Mini-Skit",
+"new_def": "Short acted sitcom-style scene with professional actors (office chaos: spilled coffee, noisy call), the product solves it mid-scene with a punchline line of dialogue ('Can you hear me?' 'Yes, crystal clear'), then product card. Looks like a TV spot, not UGC.",
+"closest": "Scenarios / Problem-Agitate-Solve",
+"stage": "PAS is told to camera; Scenarios is an 'imagine if' hook. Here the whole ad is an acted scene with dialogue and a comedic beat.",
+"confidence": "TOF",
+"notes": "medium"
+},
+"4633600746869238": {
+"format": "NEW",
+"new_name": "Animated Product Poster (Moving Static)",
+"new_def": "Motion-graphic ad: renders, '9H', '3g', feather visuals, limited-time deal banner; no footage of use.",
+"closest": "Satisfying B-roll",
+"stage": "offer motion graphic",
+"confidence": "BOF",
+"notes": "medium"
+},
+"997845753278350": {
+"format": "NEW",
+"new_name": "Animated Product Poster (Moving Static)",
+"new_def": "Motion-graphic benefit cards with renders and deal banner.",
+"closest": "Satisfying B-roll",
+"stage": "offer motion graphic",
+"confidence": "BOF",
+"notes": "medium"
+},
+"968636692807486": {
+"format": "UGC How-To",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "'how to throw the coolest backyard party' projector setup"
+},
+"26506276145709794": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "car adapter demo POV"
+},
+"760850866789586": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "Japanese car adapter demo"
+},
+"1341093814122019": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "JP mirror touch demo"
+},
+"2036253660358462": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "'idk why it took until 2026' baby monitor carplay review"
+},
+"1564031158784062": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "car adapter demo (dup creative)"
+},
+"1460542212420842": {
+"format": "Product Comparison Video",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "old vs new adapter comparison Italian"
+},
+"1433464528835780": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "installs adapter in sister's 4Runner, word captions"
+},
+"2526361994463460": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "Italian adapter demo w/ code"
+},
+"3481078512093390": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "'thought it was just a dash cam' demo"
+},
+"1752783416073708": {
+"format": "Educational UGC",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "Dutch creator explains plug-in home battery savings"
+},
+"2240564780052376": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "creator power station review"
+},
+"1181874380366027": {
+"format": "Case Studies",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "165s horizontal customer mini-documentary (home backup)"
+},
+"965289266234864": {
+"format": "Case Studies",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "horizontal mini-doc of man through outage, brand 50th anniversary"
+},
+"988618193874480": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "'Small business big power' montage of food truck/flower shop use cases in branded frame"
+},
+"1534781528019685": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "bearded creator home backup review"
+},
+"1305743971188249": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "jobsite power tool demo horizontal"
+},
+"1535809854706409": {
+"format": "UGC Testimonial Mashup",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "UGC clips inside branded template with offer"
+},
+"997609826394503": {
+"format": "Problem-Agitate-Solve",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "cinematic storm-night outage story, one click restores power"
+},
+"903743498681605": {
+"format": "UGC Reviews",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "homeowner setup + use"
+},
+"1053888776990422": {
+"format": "NEW",
+"new_name": "Animated Product Poster (Moving Static)",
+"new_def": "9s two-state still: 'Power's out' dark living room flips to 'Lights on, life goes on' with specs + customer quote overlay.",
+"closest": "Satisfying B-roll",
+"stage": "moving static before/after",
+"confidence": "BOF",
+"notes": "medium"
+},
+"1741858220138083": {
+"format": "Case Studies",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "horizontal homeowner testimonial mini-doc with Prime Day overlay"
+},
+"2288178118660811": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Horizontal lifestyle montage (drone city, family, jobsite) with discount end card.",
+"closest": "Product Demo Ads",
+"stage": "brand film",
+"confidence": "TOF",
+"notes": "medium"
+},
+"892497030540411": {
+"format": "Problem-Agitate-Solve",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "cinematic outage family vignette with sale overlay"
+},
+"1601242388455352": {
+"format": "Day In The Life",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "cinematic off-grid cabin life with VO, product woven in"
+},
+"1052009724220004": {
+"format": "NEW",
+"new_name": "Animated Product Poster (Moving Static)",
+"new_def": "15s motion graphic of product renders cycling on black with 'Save 30% storewide / Stocks limited / Shop now'.",
+"closest": "Satisfying B-roll",
+"stage": "offer motion graphic",
+"confidence": "BOF",
+"notes": "medium"
+},
+"642948748438081": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "motion control rig sizzle demo"
+},
+"2159635548152837": {
+"format": "NEW",
+"new_name": "BTS vs Final Shot Reveal",
+"new_def": "Opens on the raw behind-the-scenes setup (rig, tripod, studio, phone on suction mount) capturing a shot, then cuts to the polished final footage it produced; the gap between humble setup and pro result is the whole pitch.",
+"closest": "Product Demo Ads / Before-After",
+"stage": "Demo shows the product working; here the product is a capture tool and the structure is a setup->result reveal of the content it makes.",
+"confidence": "MOF",
+"notes": "medium"
+},
+"2124187048345037": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "slider demo"
+},
+"1360432666138725": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "feature demo w/ supers"
+},
+"2013288585922860": {
+"format": "NEW",
+"new_name": "BTS vs Final Shot Reveal",
+"new_def": "Alternates rig-in-studio BTS with the glossy product-commercial shots it produced (perfume, cans, watch).",
+"closest": "Product Demo Ads",
+"stage": "setup->result reveal",
+"confidence": "MOF",
+"notes": "medium"
+},
+"1779176766399793": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "edelkrone rig demo"
+},
+"932803239733394": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "edelkrone rig demo"
+},
+"4689723084582224": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "edelkrone rig demo"
+},
+"988307870847860": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "edelkrone rig demo"
+},
+"3643737539116796": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "flex tilt head demo in kitchen/studio"
+},
+"1666442594617700": {
+"format": "Product Comparison Video",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "medium",
+"notes": "night road beam before/after with bulb render"
+},
+"2492852441132762": {
+"format": "Product Demo Ads",
+"new_name": "",
+"new_def": "",
+"closest": "",
+"stage": "",
+"confidence": "high",
+"notes": "POV night off-road light demo"
+},
+"25902796302750925": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Studio macro product film of light pod, each shot one feature super, logo end.",
+"closest": "Product Demo Ads",
+"stage": "commercial not use",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1047396898083406": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Studio macro product film with feature supers.",
+"closest": "Product Demo Ads",
+"stage": "commercial",
+"confidence": "TOF",
+"notes": "medium"
+},
+"2250984328775549": {
+"format": "NEW",
+"new_name": "Paparazzi Street-Style Clip",
+"new_def": "One continuous candid long-lens shot of a stylish woman walking down the street on her phone (like a celebrity 'spotted' paparazzi clip); the product is just the accessory in her hand; no voice, no supers or minimal copy.",
+"closest": "Day In The Life / Cinematic Brand Spot",
+"stage": "Not a routine or a review; it borrows the 'spotted in the wild' celebrity street-style aesthetic as the entire ad.",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1045529181426752": {
+"format": "NEW",
+"new_name": "Paparazzi Street-Style Clip",
+"new_def": "Variant of 2250984328775549 (same candid street walk).",
+"closest": "Day In The Life",
+"stage": "candid paparazzi aesthetic",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1377977717635996": {
+"format": "NEW",
+"new_name": "Cinematic Brand Spot (Feature Supers)",
+"new_def": "Editorial top-down fashion shot (heels, clutch) with case and feature supers, end card offer.",
+"closest": "Product Demo Ads",
+"stage": "editorial commercial",
+"confidence": "TOF",
+"notes": "medium"
+},
+"1583046699874994": {
+"format": "NEW",
+"new_name": "Animated Product Poster (Moving Static)",
+"new_def": "10s near-static mirror selfie of model holding case, brand header; a moving still.",
+"closest": "Satisfying B-roll",
+"stage": "moving static",
+"confidence": "ANY",
+"notes": "medium"
+}
+}

@@ -1,0 +1,239 @@
+[
+ {
+  "domain": "amiri.com",
+  "name": "AMIRI",
+  "rev30_min": 3300000,
+  "active_ads": 101,
+  "cat": "Men's Clothing",
+  "ads_screened": 5
+ },
+ {
+  "domain": "representclo.com",
+  "name": "REPRESENT | US",
+  "rev30_min": 7000000,
+  "active_ads": 495,
+  "cat": "Men's Clothing",
+  "ads_screened": 7
+ },
+ {
+  "domain": "birddogs.com",
+  "name": "birddogs",
+  "rev30_min": 800000,
+  "active_ads": 800,
+  "cat": "Men's Clothing",
+  "ads_screened": 10
+ },
+ {
+  "domain": "jackarcher.com",
+  "name": "Jack Archer",
+  "rev30_min": 1400000,
+  "active_ads": 147,
+  "cat": "Men's Clothing",
+  "ads_screened": 8
+ },
+ {
+  "domain": "mnml.la",
+  "name": "mnml",
+  "rev30_min": 6700000,
+  "active_ads": 158,
+  "cat": "Men's Clothing",
+  "ads_screened": 12
+ },
+ {
+  "domain": "scuffers.com",
+  "name": "Scuffers",
+  "rev30_min": 6500000,
+  "active_ads": 3739,
+  "cat": "Men's Clothing",
+  "ads_screened": 6
+ },
+ {
+  "domain": "nadsunder.com",
+  "name": "Nads",
+  "rev30_min": 1294000,
+  "active_ads": 137,
+  "cat": "Men's Clothing",
+  "ads_screened": 4
+ },
+ {
+  "domain": "built-different.co",
+  "name": "Built Different",
+  "rev30_min": 998000,
+  "active_ads": 549,
+  "cat": "Men's Clothing",
+  "ads_screened": 0,
+  "note": "19 winning ads found but all video URLs expired (download failed)"
+ },
+ {
+  "domain": "theperfectjean.nyc",
+  "name": "The Perfect Jean",
+  "rev30_min": 1300000,
+  "active_ads": 175,
+  "cat": "Men's Clothing",
+  "ads_screened": 12
+ },
+ {
+  "domain": "paulkenzie.com",
+  "name": "Paul Kenzie",
+  "rev30_min": 445000,
+  "active_ads": 155,
+  "cat": "Men's Clothing",
+  "ads_screened": 12
+ },
+ {
+  "domain": "hollowsocks.com",
+  "name": "Hollow Socks",
+  "rev30_min": 3938000,
+  "active_ads": 497,
+  "cat": "Men's Clothing",
+  "ads_screened": 10
+ },
+ {
+  "domain": "fearofgod.com",
+  "name": "Fear of God",
+  "rev30_min": 6980000,
+  "active_ads": 135,
+  "cat": "Sports Footwear",
+  "ads_screened": 0,
+  "note": "no video ads live 30+ days"
+ },
+ {
+  "domain": "thursdayboots.com",
+  "name": "Thursday Boot Company",
+  "rev30_min": 21000000,
+  "active_ads": 1761,
+  "cat": "Shoes",
+  "ads_screened": 12
+ },
+ {
+  "domain": "kurufootwear.com",
+  "name": "KURU Footwear",
+  "rev30_min": 8500000,
+  "active_ads": 172,
+  "cat": "Shoes",
+  "ads_screened": 5
+ },
+ {
+  "domain": "kizik.com",
+  "name": "Kizik",
+  "rev30_min": 5200000,
+  "active_ads": 87,
+  "cat": "Shoes",
+  "ads_screened": 4
+ },
+ {
+  "domain": "vessi.com",
+  "name": "Vessi",
+  "rev30_min": 3680000,
+  "active_ads": 627,
+  "cat": "Shoes",
+  "ads_screened": 12
+ },
+ {
+  "domain": "taosfootwear.com",
+  "name": "Taos Footwear",
+  "rev30_min": 2958000,
+  "active_ads": 87,
+  "cat": "Shoes",
+  "ads_screened": 10
+ },
+ {
+  "domain": "alohas.com",
+  "name": "ALOHAS",
+  "rev30_min": 3050000,
+  "active_ads": 139,
+  "cat": "Shoes",
+  "ads_screened": 12
+ },
+ {
+  "domain": "dracoslides.com",
+  "name": "Dracoslides",
+  "rev30_min": 985000,
+  "active_ads": 350,
+  "cat": "Shoes",
+  "ads_screened": 4
+ },
+ {
+  "domain": "bearfoot.store",
+  "name": "Bearfoot",
+  "rev30_min": 465000,
+  "active_ads": 82,
+  "cat": "Footwear",
+  "ads_screened": 0,
+  "note": "no current ads"
+ },
+ {
+  "domain": "beistravel.com",
+  "name": "B\u00e9is",
+  "rev30_min": 12000000,
+  "active_ads": 967,
+  "cat": "Luggage & Travel Bags",
+  "ads_screened": 12
+ },
+ {
+  "domain": "frejanyc.com",
+  "name": "Freja New York",
+  "rev30_min": 1100000,
+  "active_ads": 262,
+  "cat": "Women's Bags",
+  "ads_screened": 12
+ },
+ {
+  "domain": "nappadori.com",
+  "name": "Nappa Dori",
+  "rev30_min": 270000,
+  "active_ads": 146,
+  "cat": "Functional Bags",
+  "ads_screened": 0,
+  "note": "no video ads live 30+ days"
+ },
+ {
+  "domain": "stagheaddesigns.com",
+  "name": "Staghead Designs",
+  "rev30_min": 1420000,
+  "active_ads": 86,
+  "cat": "Fashion Accessories",
+  "ads_screened": 12
+ },
+ {
+  "domain": "auratenewyork.com",
+  "name": "Aurate New York",
+  "rev30_min": 1450000,
+  "active_ads": 98,
+  "cat": "Artificial Gemstones",
+  "ads_screened": 0,
+  "note": "no video ads live 30+ days"
+ },
+ {
+  "domain": "paul-rich.com",
+  "name": "Paul Rich US",
+  "rev30_min": 313000,
+  "active_ads": 118,
+  "cat": "Fashion Accessories",
+  "ads_screened": 12
+ },
+ {
+  "domain": "pascaldesign.com",
+  "name": "Pascal Official",
+  "rev30_min": 1200000,
+  "active_ads": 210,
+  "cat": "Non-natural Crystal",
+  "ads_screened": 5
+ },
+ {
+  "domain": "tanaorjewelry.com",
+  "name": "TANAOR Jewelry US",
+  "rev30_min": 128000,
+  "active_ads": 98,
+  "cat": "Gold",
+  "ads_screened": 12
+ },
+ {
+  "domain": "negativeunderwear.com",
+  "name": "Negative Underwear",
+  "rev30_min": 2100000,
+  "active_ads": 107,
+  "cat": "Women's Clothing",
+  "ads_screened": 12
+ }
+]

@@ -1,0 +1,2297 @@
+{
+ "3921612621304291": {
+  "format": "NEW",
+  "new_name": "Usage Timeline Countdown",
+  "new_def": "Whole ad is paced by an on-screen progress bar of elapsed usage time (1 min > 30 min > 5 days > 2 weeks); each stage cuts to what happens inside the body / to the user at that moment (animated organs, then lifestyle payoff), ending on offer.",
+  "closest": "Animated Mechanism Explainer (Clinical VSL)",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Hook: UGC woman + dirty foot-bath water; mechanism animation sequenced by time-elapsed tracker"
+ },
+ "890365224118410": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "confidence": "high",
+  "notes": "demo + 3D organ animation, voiceover",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1072420101786308": {
+  "format": "NEW",
+  "new_name": "Usage Timeline Countdown",
+  "new_def": "Ad structured around a time-elapsed tracker (minutes > days > weeks) showing body changes at each milestone.",
+  "closest": "Animated Mechanism Explainer (Clinical VSL)",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "parasite-jar hook, 3D xray anatomy, then timeline bar stages, offer card"
+ },
+ "913734728425992": {
+  "format": "Podcast",
+  "notes": "UGC hook (man feet in brown water) then podcast studio conversation + timeline bar overlays",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "4553112778286675": {
+  "format": "UNCLEAR",
+  "confidence": "medium",
+  "notes": "video is a single static stock rose image for 19s; copy-only ad, no format",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1047252591591620": {
+  "format": "Podcast",
+  "notes": "green-screen reactor hook then podcast studio + mechanism inserts",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "3148598951995074": {
+  "format": "Problem-Agitate-Solve",
+  "notes": "AI cinematic toxin-world montage w/ bold captions, then foot spa reset + offer",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "27637329595930666": {
+  "format": "Problem-Agitate-Solve",
+  "notes": "fake-doctor green-screen hook, AI cinematic toxin montage, product resolve",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "3152095204970752": {
+  "format": "NEW",
+  "new_name": "Usage Timeline Countdown",
+  "new_def": "Animated graphic: headline promise + a horizontal timeline that fills milestone by milestone (5 seconds > 15 minutes > 5 days > 2 weeks) each with the benefit felt at that point, product hero below, CTA button.",
+  "closest": "Animated Mechanism Explainer (Clinical VSL)",
+  "stage": "MOF",
+  "confidence": "medium",
+  "notes": "4s motion-graphic version, 264 days live"
+ },
+ "2044471902778561": {
+  "format": "Product Comparison Video",
+  "confidence": "medium",
+  "notes": "creator in living room with 3 vibration plates, long unscripted side-by-side try/compare",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "951344090940415": {
+  "format": "Product Demo Ads",
+  "notes": "creator using vibration plate at home, multiple angles",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2156355671608467": {
+  "format": "Product Demo Ads",
+  "notes": "follow-along workout on ab machine, exercise sequence",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1328839842299735": {
+  "format": "Product Demo Ads",
+  "notes": "single static shot creator on stepper watching TV, relatable 'friendly reminder' text overlay",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2379484055835581": {
+  "format": "Product Demo Ads",
+  "notes": "51-year-old man rowing outdoors, text overlay longevity",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1748083259891038": {
+  "format": "Product Demo Ads",
+  "notes": "POV text hook, creator using vibration plate",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1582584292756697": {
+  "format": "UGC Reviews",
+  "notes": "fit creator honest review of rower, setup + metrics + folding",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1527115695784667": {
+  "format": "Product Demo Ads",
+  "notes": "POV text-overlay, creator on vibration plate",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1597525104575404": {
+  "format": "UGC Reviews",
+  "notes": "fitness creator reviews walking pad, specs + code",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1301989364694095": {
+  "format": "Product Comparison Video",
+  "confidence": "medium",
+  "notes": "trainer compares Merach rower vs Concept2 in gym",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1505441370612076": {
+  "format": "Product Demo Ads",
+  "notes": "stair stepper workout with script text overlays",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1488349382890148": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "medium",
+  "notes": "woman tells friend about topper, demo on bed, ends in salon chat + PDP screen",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "975342094958102": {
+  "format": "Product Demo Ads",
+  "notes": "hands-on sandal feature demo w/ captions",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1620606279029574": {
+  "format": "Product Demo Ads",
+  "notes": "heel protector put-on demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1326988695791762": {
+  "format": "Product Demo Ads",
+  "notes": "creator VO, cost comparison caption, topper demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1472369047581813": {
+  "format": "Product Demo Ads",
+  "notes": "feature callout boxes over lifestyle sandal shots + creator chat",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1237730191749129": {
+  "format": "Product Demo Ads",
+  "notes": "feature-callout lifestyle sandal demo, PDP screen end",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1872075766995193": {
+  "format": "Product Demo Ads",
+  "notes": "model lifestyle sandal demo w/ kinetic captions",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "4396547474003633": {
+  "format": "Product Demo Ads",
+  "notes": "lifestyle demo + anatomy insert",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "705870142571511": {
+  "format": "Product Demo Ads",
+  "notes": "9s chair feature reel",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1612051753241818": {
+  "format": "UGC Reviews",
+  "notes": "Hinglish creator shoe review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1139257244958566": {
+  "format": "UGC How-To",
+  "notes": "bunion corrector put-on POV",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1762189901219933": {
+  "format": "UGC Reviews",
+  "notes": "creator sandal review w/ feature callouts",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "830529669624945": {
+  "format": "Product Demo Ads",
+  "notes": "launch demo with creator",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1691387242216596": {
+  "format": "UGC How-To",
+  "notes": "knee wrap put-on, static shot",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1496230271974342": {
+  "format": "Product Demo Ads",
+  "notes": "lifestyle sandal reel",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2376288482869568": {
+  "format": "Product Demo Ads",
+  "notes": "cinematic chair feature demo, moody lighting",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1665382901574141": {
+  "format": "UGC Reviews",
+  "notes": "'in real time' chair walkthrough",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1260813676106640": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "brand rep in branded tee explains lumbar belt compression mechanics",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "4249598675290897": {
+  "format": "Product Demo Ads",
+  "notes": "travel pillow creator demo in airport",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "897073262736195": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "confidence": "medium",
+  "notes": "'WDNCC - we don't need content creators' lo-fi trend: owner films raw shaky product clip with persistent trend caption",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1549136686117372": {
+  "format": "NEW",
+  "new_name": "Review Quote Montage",
+  "new_def": "No person speaks: polished product/lifestyle b-roll where each cut carries a different written customer review card (quote + 5 stars + name, city), stacking social proof beat after beat, ending on review-count + guarantee end card.",
+  "closest": "UGC Testimonial Mashup",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "BedJet 339 days. Testimonials as on-screen text cards over brand footage, not UGC clips"
+ },
+ "3431403767004412": {
+  "format": "Product Demo Ads",
+  "notes": "studio install/explainer demo, adjustable base",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1773329263343816": {
+  "format": "Product Demo Ads",
+  "notes": "6s motion graphic temp demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "952257154275332": {
+  "format": "Product Demo Ads",
+  "notes": "94s raw single-take home demo of adjustable base",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1488876135517720": {
+  "format": "NEW",
+  "new_name": "Prank Skit",
+  "new_def": "Handheld lo-fi skit: friends sneak up on someone asleep/unaware and use the product on them as a prank; payoff is the victim's reaction and the prankster's laugh to camera, product shown as the punchline.",
+  "closest": "Gift Reaction Reveal",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'This is your sign to get a BedJet' caption; two girls sneak to bed, BedJet inflates sheets over sleeping person; verify with full watch"
+ },
+ "782255514841860": {
+  "format": "Product Demo Ads",
+  "notes": "POV setup + app + bed demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1499633281288551": {
+  "format": "Product Demo Ads",
+  "notes": "8s motion graphic thermometer loop",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1558815518992158": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "confidence": "medium",
+  "notes": "single flat-lay still with joke text lines building (college parent gift angle) + 30% off",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "2348748588925382": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "confidence": "medium",
+  "notes": "WDNCC trend, variant of 897073262736195",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1596540144414046": {
+  "format": "UGC Reviews",
+  "notes": "creator talking head + bed b-roll + promo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "846895734671049": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "medium",
+  "notes": "dorm too hot/cold angle, kinetic text over b-roll, parent-tuition line, product solve",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "433289955828920": {
+  "format": "UGC Reviews",
+  "notes": "creator talking head + setup b-roll",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1380633073877328": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "369s horizontal influencer vlog-style integration (bed, sleep mask), product woven in",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "406773788467314": {
+  "format": "NEW",
+  "new_name": "Comedic Brand Sketch (Harmon-Style)",
+  "new_def": "Long (3-5 min) high-production scripted comedy commercial: a charismatic spokesperson character narrates the problem and product with rapid absurd gags (devil character in bed, slapstick), studio-quality sets, while still covering every feature, objection and offer.",
+  "closest": "Problem-Agitate-Solve",
+  "stage": "TOF",
+  "confidence": "high",
+  "notes": "BedJet 964 days live, 266s landscape; 'I'm from Northern Wisconsin', devil in bed 'dual zone' gag. Squatty-Potty/Purple style"
+ },
+ "2292361204864628": {
+  "format": "UGC Reviews",
+  "notes": "selfie walk-through of adjustable base",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2648481448872059": {
+  "format": "Product Demo Ads",
+  "notes": "wife sets up BedJet as gift for husband, kinetic caps",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "972180325531201": {
+  "format": "UGC Reviews",
+  "notes": "variant of 2292361204864628",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1737393794198804": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "medium",
+  "notes": "dorm angle variant of 846895734671049 w/ AI freezing dorm",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "987632370309078": {
+  "format": "Product Demo Ads",
+  "notes": "walking pad demo w/ captions",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1898915224281996": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "medium",
+  "notes": "garage hands-on first setup walkthrough of treadmill",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1061141726713077": {
+  "format": "Product Demo Ads",
+  "notes": "5s POV text overlay on vibration plate",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2430236474053594": {
+  "format": "UGC Reviews",
+  "notes": "Part 2 review, setup + walking",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1123856876638705": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "medium",
+  "notes": "static timelapse unbox + setup + walking at desk, WFH story caption",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "2103975773883419": {
+  "format": "NEW",
+  "new_name": "Versus Battle Skit",
+  "new_def": "Two people (wife vs husband) square off in alternating rounds of tricks/moves on the product (kicks, push-ups, dance, meditation), each trying to one-up the other; the escalating rivalry is the entertainment and demos the product's stability and versatility.",
+  "closest": "Challenge",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "'WIFE VS HUSBAND' title card on treadmill; Challenge is solo 'I tried X for 7 days', this is a head-to-head competition skit"
+ },
+ "1359802198858191": {
+  "format": "Product Demo Ads",
+  "notes": "feature-labelled outdoor demo + app screens",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "9409928972440456": {
+  "format": "Product Demo Ads",
+  "notes": "POV hands-on feature demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "3688381868124434": {
+  "format": "UGC Reviews",
+  "notes": "Spanish creator Mother's Day review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "889581897519902": {
+  "format": "UGC Reviews",
+  "notes": "creator review w/ code; same creator as versus skit",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1209803940432036": {
+  "format": "Product Demo Ads",
+  "notes": "studio model demo w/ feature labels",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "4153575331577947": {
+  "format": "Unboxing (First-Open Reveal)",
+  "notes": "lo-fi unbox + assemble + walk",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1454364696366969": {
+  "format": "Educational UGC",
+  "notes": "nurse explains sedentary health risks via on-screen text while using under-desk pad",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1066300858257210": {
+  "format": "Product Demo Ads",
+  "notes": "feature-labelled demo in home gym",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1395146218473960": {
+  "format": "Unboxing (First-Open Reveal)",
+  "notes": "couple unbox + setup in home gym",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1676324100265673": {
+  "format": "Unboxing (First-Open Reveal)",
+  "notes": "variant of 1123856876638705",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "887755317065839": {
+  "format": "Product Demo Ads",
+  "notes": "variant of 987632370309078",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "738097375715697": {
+  "format": "Product Demo Ads",
+  "notes": "creator unbox+demo w/ kinetic caps",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "750045287789596": {
+  "format": "Product Demo Ads",
+  "notes": "walking pad demo w/ kinetic caps + code",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2961030174287274": {
+  "format": "UGC Reviews",
+  "notes": "older man review/demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1267565288908919": {
+  "format": "UGC Reviews",
+  "notes": "creator talking head + using RLT bag in bed",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1018329997840445": {
+  "format": "UGC Reviews",
+  "notes": "177s long-form creator unbox+use review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1121078873916702": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "creator explains mechanism with diagrams inset while using mat",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1113895334643650": {
+  "format": "UGC Reviews",
+  "notes": "creator review with code",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1034516839213872": {
+  "format": "NEW",
+  "new_name": "Promo Flipbook (Past Sales Recap)",
+  "new_def": "6s motion graphic: headline 'WE WON'T DO THIS AGAIN' stays fixed while the frame rapid-flips through the brand's previous sale banners/offer creatives, with a scrolling 'FINAL HOURS' ticker - framing the current deal as the last/biggest one.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "Megelin, ~10 near-identical variants all running 30-40 days"
+ },
+ "1597586478405152": {
+  "format": "UGC Testimonial Ads",
+  "notes": "athlete talking head + gym use b-roll, code",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1596354252017837": {
+  "format": "NEW",
+  "new_name": "Promo Flipbook (Past Sales Recap)",
+  "new_def": "Fixed urgency headline over rapid flip-through of past sale creatives + final-hours ticker.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "variant of 1034516839213872"
+ },
+ "1881414172842787": {
+  "format": "UGC Reviews",
+  "notes": "near-identical duplicate of 1018329997840445",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1076020271789863": {
+  "format": "UGC Reviews",
+  "notes": "near-identical duplicate of 1267565288908919",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2700074050426810": {
+  "format": "UGC Reviews",
+  "notes": "near-identical duplicate of 1267565288908919",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "4457985664414091": {
+  "format": "UGC Reviews",
+  "notes": "near-identical duplicate of 1267565288908919",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1477393564222293": {
+  "format": "UGC Reviews",
+  "notes": "near-identical duplicate of 1267565288908919",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1972201436819124": {
+  "format": "NEW",
+  "new_name": "Promo Flipbook (Past Sales Recap)",
+  "new_def": "6s motion graphic: headline 'WE WON'T DO THIS AGAIN' stays fixed while the frame rapid-flips through the brand's previous sale banners/offer creatives, with a scrolling 'FINAL HOURS' ticker - framing the current deal as the last/biggest one.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1034516839213872"
+ },
+ "1397540165689956": {
+  "format": "NEW",
+  "new_name": "Promo Flipbook (Past Sales Recap)",
+  "new_def": "6s motion graphic: headline 'WE WON'T DO THIS AGAIN' stays fixed while the frame rapid-flips through the brand's previous sale banners/offer creatives, with a scrolling 'FINAL HOURS' ticker - framing the current deal as the last/biggest one.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1034516839213872"
+ },
+ "1812619476576041": {
+  "format": "NEW",
+  "new_name": "Promo Flipbook (Past Sales Recap)",
+  "new_def": "6s motion graphic: headline 'WE WON'T DO THIS AGAIN' stays fixed while the frame rapid-flips through the brand's previous sale banners/offer creatives, with a scrolling 'FINAL HOURS' ticker - framing the current deal as the last/biggest one.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1034516839213872"
+ },
+ "1739716633733975": {
+  "format": "NEW",
+  "new_name": "Promo Flipbook (Past Sales Recap)",
+  "new_def": "6s motion graphic: headline 'WE WON'T DO THIS AGAIN' stays fixed while the frame rapid-flips through the brand's previous sale banners/offer creatives, with a scrolling 'FINAL HOURS' ticker - framing the current deal as the last/biggest one.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1034516839213872"
+ },
+ "1773606303981994": {
+  "format": "NEW",
+  "new_name": "Promo Flipbook (Past Sales Recap)",
+  "new_def": "6s motion graphic: headline 'WE WON'T DO THIS AGAIN' stays fixed while the frame rapid-flips through the brand's previous sale banners/offer creatives, with a scrolling 'FINAL HOURS' ticker - framing the current deal as the last/biggest one.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1034516839213872"
+ },
+ "2299654807528618": {
+  "format": "NEW",
+  "new_name": "Promo Flipbook (Past Sales Recap)",
+  "new_def": "6s motion graphic: headline 'WE WON'T DO THIS AGAIN' stays fixed while the frame rapid-flips through the brand's previous sale banners/offer creatives, with a scrolling 'FINAL HOURS' ticker - framing the current deal as the last/biggest one.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1034516839213872"
+ },
+ "3100416470162561": {
+  "format": "NEW",
+  "new_name": "Promo Flipbook (Past Sales Recap)",
+  "new_def": "Fixed urgency headline over rapid flip-through of past sale creatives + final-hours ticker.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "BOF",
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1596354252017837"
+ },
+ "982969321256782": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "'We have to apologize' fake-apology hook, then fast-cut demo + review cards + BOGO offer",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "992095290132612": {
+  "format": "UGC Reviews",
+  "notes": "7s text-overlay side-sleeper demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "4502452916669844": {
+  "format": "Product Demo Ads",
+  "notes": "comforter demo + offer card",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "921329411033997": {
+  "format": "UGC Reviews",
+  "notes": "selfie in-bed review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "4633719500191697": {
+  "format": "UGC Reviews",
+  "notes": "creator comforter review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1412070607540966": {
+  "format": "UGC Reviews",
+  "notes": "PSA couples hot/cold review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2291721018032821": {
+  "format": "Product Demo Ads",
+  "notes": "hands-on texture demo w/ captions",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2069331307286977": {
+  "format": "UGC Reviews",
+  "notes": "creator 'what's inside' review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2020464385210940": {
+  "format": "Product Demo Ads",
+  "notes": "10s BOGO promo motion slideshow",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1667620394353701": {
+  "format": "Problem-Agitate-Solve",
+  "notes": "fast cut kinetic caption PAS",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1351177150158617": {
+  "format": "Reply To Question",
+  "confidence": "medium",
+  "notes": "'We know it's expensive' price-objection: creator green-screened over review screenshots",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "828926453328359": {
+  "format": "Product Comparison Video",
+  "notes": "$1 pillow vs Dosaze",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1542000260375162": {
+  "format": "Problem-Agitate-Solve",
+  "notes": "'throw out your trash pillow' kinetic PAS + PDP end",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "26710187608578117": {
+  "format": "Reply To Question",
+  "confidence": "medium",
+  "notes": "'Most brands hide bad reviews, we show ours' - creator green-screened over own negative review on PDP, explains fix/guarantee. Candidate sub-format 'Negative Review Rebuttal'",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "967387885910582": {
+  "format": "Problem-Agitate-Solve",
+  "notes": "warehouse-sale PAS w/ PDP price crossouts",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2129480414631893": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "'up to 70% of people' face-grid stat hook, then creator testimonial",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "969647576140802": {
+  "format": "UGC Testimonial Ads",
+  "notes": "woman testimonial in bed",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1622643725469711": {
+  "format": "Problem-Agitate-Solve",
+  "notes": "BOGO PAS kinetic captions",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "35586661587647036": {
+  "format": "Product Demo Ads",
+  "notes": "10s BOGO promo slideshow",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "826660369880618": {
+  "format": "UGC Reviews",
+  "notes": "'I've bought many pillows from Instagram' review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2151315532354986": {
+  "format": "Day In The Life",
+  "notes": "morning routine aesthetic vlog, bedding in-frame",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "866228476043786": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "aesthetic b-roll + on-screen text about PFAS/chemical coatings",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "2116702232227786": {
+  "format": "Day In The Life",
+  "notes": "making bed routine vlog with text overlay",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1775176773485527": {
+  "format": "Product Demo Ads",
+  "notes": "pillow system demo, Prime Day caption",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2105995130021875": {
+  "format": "Product Demo Ads",
+  "notes": "variant of 1775176773485527",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "3065308737008059": {
+  "format": "Product Demo Ads",
+  "notes": "variant of 1775176773485527",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1596216785410020": {
+  "format": "UGC Reviews",
+  "notes": "comedic male creator review in bed",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1612690990514190": {
+  "format": "Product Demo Ads",
+  "notes": "kinetic caption demo w/ arrows",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1176719484791543": {
+  "format": "Product Demo Ads",
+  "notes": "unbox+use demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1557211608959718": {
+  "format": "Product Demo Ads",
+  "notes": "variant of 1176719484791543",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "3461772647311579": {
+  "format": "UGC Testimonial Ads",
+  "notes": "CrossFit champ Justin Medeiros endorsement clip inside branded template frame w/ headline + Trustpilot bar",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1265788566618800": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "medium",
+  "notes": "recorded Zoom/webcam-call customer interview (virtual background, captions) - sub-variant 'Video Call Testimonial'",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1909634189718614": {
+  "format": "NEW",
+  "new_name": "Meme Reaction Split",
+  "new_def": "Ad built as a relatable meme: top caption 'Me cancelling my $900 dental surgery after switching to...' with a looping meme reaction clip (cat in sunglasses) on one half and the product-in-use clip on the other half, plus offer sticker; reads as a shared meme, not an ad.",
+  "closest": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "NovaaLab 139 days; 10s loop"
+ },
+ "2929775414026115": {
+  "format": "UGC Testimonial Ads",
+  "notes": "variant of 3461772647311579",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1162922845794646": {
+  "format": "UGC Testimonial Ads",
+  "notes": "woman 58 testimonial in sale template frame",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1470928331495105": {
+  "format": "Product Demo Ads",
+  "notes": "gym athletes grid in template frame w/ ticker",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1050777637485591": {
+  "format": "Product Demo Ads",
+  "notes": "POV 'loading' caption demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1372312137997094": {
+  "format": "UGC Reviews",
+  "notes": "couple sauna review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "28237814249188035": {
+  "format": "Breakdown / Explainer",
+  "confidence": "medium",
+  "notes": "brand rep explains what makes IR sauna different, product cutaways",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1656610322018340": {
+  "format": "UGC Reviews",
+  "notes": "creator cold plunge review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "829549020199148": {
+  "format": "UGC Reviews",
+  "notes": "'4th cold plunge I've owned' review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1833687544267103": {
+  "format": "UGC Reviews",
+  "notes": "creator review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1008043455421293": {
+  "format": "UGC Reviews",
+  "notes": "creator review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1438974271365814": {
+  "format": "NEW",
+  "new_name": "Factory Tour (Behind the Build)",
+  "new_def": "A brand rep walks the camera through the warehouse/factory floor: raw materials, how each unit is built and quality-checked, packing/delivery, then cuts to the finished product in a customer's home and the app - the manufacturing process itself is the proof of quality.",
+  "closest": "Founder Story Ads",
+  "stage": "MOF",
+  "confidence": "medium",
+  "notes": "Plunge sauna, 166 days; differs from Founder Story (no origin story) and Pack An Order With Me (manufacturing not fulfilment)"
+ },
+ "998418796289263": {
+  "format": "UGC Reviews",
+  "notes": "creator in showroom sauna, discount",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1937460170220927": {
+  "format": "NEW",
+  "new_name": "Factory Tour (Behind the Build)",
+  "new_def": "Rep walks through warehouse showing how units are built, then product in use.",
+  "closest": "Founder Story Ads",
+  "stage": "MOF",
+  "confidence": "medium",
+  "notes": "near-identical duplicate of 1438974271365814, 177 days"
+ },
+ "1957284765173235": {
+  "format": "UGC Reviews",
+  "notes": "postpartum pilates board review w/ text",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "9476451082478440": {
+  "format": "Product Demo Ads",
+  "notes": "13s text overlay workout demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1822909261748001": {
+  "format": "Product Demo Ads",
+  "notes": "multi-creator demo montage + review screenshot",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1392011062961315": {
+  "format": "Product Demo Ads",
+  "notes": "multi-creator montage w/ captions",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1398200358730476": {
+  "format": "Product Demo Ads",
+  "notes": "8s static workout loop + text",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1555477538880128": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "medium",
+  "notes": "instructor + multiple users mashup",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1262528622188392": {
+  "format": "UGC Testimonial Ads",
+  "notes": "plus-size woman testimonial using board",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "3398374577000144": {
+  "format": "Product Demo Ads",
+  "notes": "montage w/ text",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1645427730173486": {
+  "format": "Product Demo Ads",
+  "notes": "13s demo text overlay",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "991325343223919": {
+  "format": "Personal Story",
+  "notes": "postpartum rebuild story text overlay over workouts",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1699206007766337": {
+  "format": "UGC Testimonial Ads",
+  "notes": "woman testimonial + app screens",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1542201030211117": {
+  "format": "Product Demo Ads",
+  "notes": "15s demo text overlay",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "27346092345013525": {
+  "format": "UGC Reviews",
+  "notes": "marathoner unbox + use review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2841449142871720": {
+  "format": "UGC Reviews",
+  "notes": "talking head review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1003223015740116": {
+  "format": "UGC Reviews",
+  "notes": "'red light pro athletes use' talking head",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1487975905663613": {
+  "format": "UGC Reviews",
+  "notes": "creator review w/ family uses",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1386487876739278": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "notes": "155s VSL: neck pain causes, anatomy, device, users",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "4040541412902714": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "notes": "equation cards 'low energy=slow repair', lab, device, testimonial",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1769783190552492": {
+  "format": "UGC Reviews",
+  "notes": "talking head demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1415851440557047": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "notes": "variant of 4040541412902714",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1745062493281410": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "confidence": "medium",
+  "notes": "138s back-pain VSL with lifestyle, doctor, anatomy",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "3733696196786072": {
+  "format": "Product Demo Ads",
+  "notes": "daily use montage",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1226162611683893": {
+  "format": "UGC Science Backed",
+  "notes": "'three reasons your back...' + study screenshots, med university",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "944800714981208": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "confidence": "medium",
+  "notes": "'red flags of chronic back pain' VSL + reviews + testimonials",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "2419181318554152": {
+  "format": "TV Segment Clip (As Seen On TV)",
+  "notes": "podcast hook + Deals & Steals TV segment + countdown",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2444025185993331": {
+  "format": "Product Demo Ads",
+  "notes": "demo + offer bundle cards",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1402808251472285": {
+  "format": "Fake Doctor",
+  "confidence": "medium",
+  "notes": "'Dr. Kyle' physio in clinic demonstrating roller",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "742444662287371": {
+  "format": "TV Segment Clip (As Seen On TV)",
+  "notes": "podcast + TV segment + countdown, variant of 2419181318554152",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1959665301305296": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "confidence": "medium",
+  "notes": "237s VSL anatomy + users + physio",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1777079319976537": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "notes": "372s scrolling first-person story over still of marked heel",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1805808133446640": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "confidence": "medium",
+  "notes": "tennis elbow VSL w/ doctor, testimonials",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1522244399610012": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "confidence": "medium",
+  "notes": "855s physio-hosted long VSL",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "3463377867144162": {
+  "format": "UGC Reviews",
+  "notes": "nurse review w/ demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1052053173900068": {
+  "format": "Product Comparison Video",
+  "confidence": "medium",
+  "notes": "'Did you get scammed?' knockoff vs real Vibit",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1593521371897874": {
+  "format": "Challenge",
+  "notes": "Day 1 -> Day 14 TENS diary",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1567205424896422": {
+  "format": "Fake Doctor",
+  "notes": "podiatrist in scrubs explains bunions + product",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1825568994814278": {
+  "format": "Ranking / Tier List",
+  "notes": "podiatrist 'my top 3 bunion treatments' #1-#3",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1453809716587537": {
+  "format": "Personal Story",
+  "notes": "woman's bunion journey talking head, before/after",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "3546609755490412": {
+  "format": "UGC Testimonial Ads",
+  "notes": "POV demo + anatomy + testimonial",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1419951273318563": {
+  "format": "AI UGC Avatar",
+  "confidence": "medium",
+  "notes": "AI-generated older couple dialogue scene explaining bunion + brace",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "2215857112361101": {
+  "format": "NEW",
+  "new_name": "Animated Cartoon Story",
+  "new_def": "Fully illustrated/animated cartoon narrative (2D comic or 3D Pixar style): a cartoon protagonist lives the problem across scenes (tries fixes, sees doctor, uses product, week-by-week improvement), with cute anthropomorphic side-characters, VO + captions, ending on guarantee/offer.",
+  "closest": "Talking Objects / Characters / Body Parts",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Treatmedy 31 days; 2D flat-illustration comic, bunion with a face. Differs from Talking Objects: it's a full scene-based story with a human protagonist, not an object narrating"
+ },
+ "1054475150694641": {
+  "format": "Ranking / Tier List",
+  "notes": "'I lined up everything I've tried and ranked them'",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1456899446498649": {
+  "format": "Ranking / Tier List",
+  "notes": "variant of 1054475150694641",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "27862525883419556": {
+  "format": "Ranking / Tier List",
+  "notes": "variant, pilates-class hook",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2092828048307633": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "notes": "x-ray mechanism + before/after + UGC grid",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1765155801338535": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "notes": "variant of 2092828048307633",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "946179727741300": {
+  "format": "NEW",
+  "new_name": "Animated Cartoon Story",
+  "new_def": "3D Pixar-style animated narrative: cartoon woman with bunion visits podiatrist, cute anthropomorphic brace character, week-2 progress, then cuts to real testimonial faces + surgery-cost card + offer.",
+  "closest": "Talking Objects / Characters / Body Parts",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Treatmedy 43 days, 237s"
+ },
+ "986427943979956": {
+  "format": "UGC Reviews",
+  "notes": "same copy+duration as 829549020199148 (variant)",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1355702673188233": {
+  "format": "UGC Reviews",
+  "notes": "same copy+duration as 829549020199148 (variant)",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1688856655801017": {
+  "format": "UGC Reviews",
+  "notes": "same copy+duration as 1372312137997094 (variant)",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1087878850435867": {
+  "format": "Product Demo Ads",
+  "notes": "same copy+duration as 3733696196786072 (variant)",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1351404359965459": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "notes": "same copy+duration as 1386487876739278 (variant)",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1869939693594934": {
+  "format": "Fake Doctor",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "same Dr. Kyle copy as 1402808251472285, longer cut"
+ },
+ "1218251910456523": {
+  "format": "Day In The Life",
+  "notes": "road trip travel vlog, mask in hotel",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1069077268902431": {
+  "format": "Day In The Life",
+  "notes": "athlete summer training montage + RLT panel",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1108785901471677": {
+  "format": "Educational UGC",
+  "notes": "guy explains RLT wavelengths in panel light, beach b-roll",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1040895358360993": {
+  "format": "UGC Reviews",
+  "notes": "'Don't be like me' energetic review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2045691902976961": {
+  "format": "Product Demo Ads",
+  "notes": "7s airport mask POV meme caption",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1666660817769634": {
+  "format": "Product Demo Ads",
+  "notes": "glam lifestyle + mask modes montage",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "910746214953812": {
+  "format": "Day In The Life",
+  "notes": "mom wellness routine",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1067746662456499": {
+  "format": "Product Demo Ads",
+  "notes": "compression boots unbox/use at home (PT)",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1357821163105105": {
+  "format": "Breakdown / Explainer",
+  "notes": "physio founder explains pressotherapy with model, studio",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1915215752768761": {
+  "format": "Breakdown / Explainer",
+  "notes": "FR version physio explainer",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1575166550819143": {
+  "format": "Personal Update",
+  "confidence": "medium",
+  "notes": "rep in warehouse in front of stacked stock announcing purchase gift",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1320107916547583": {
+  "format": "Founder Story Ads",
+  "confidence": "medium",
+  "notes": "'Miguel, founder' intro + explainer studio",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "1269309041780353": {
+  "format": "Day In The Life",
+  "notes": "spa-at-home routine w/ boots + LED mask",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2287512038712300": {
+  "format": "Breakdown / Explainer",
+  "notes": "variant of physio explainer",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2141527753260837": {
+  "format": "UGC Reviews",
+  "notes": "staffer insole review in hallway",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "911882868554724": {
+  "format": "UGC How-To",
+  "notes": "skin-tag remover step-by-step",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1534274314999783": {
+  "format": "UGC How-To",
+  "notes": "variant how-to",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1419230166588409": {
+  "format": "UGC Reviews",
+  "notes": "woman leggings review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1707747386906606": {
+  "format": "Educational UGC",
+  "notes": "staffer teaches walking-pole technique by the lake",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2038210010240581": {
+  "format": "Product Demo Ads",
+  "notes": "shoe put-on demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2047848745766244": {
+  "format": "Product Demo Ads",
+  "notes": "7s massager loop",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "26086407007727435": {
+  "format": "Educational UGC",
+  "notes": "shin splints explainer w/ slant board",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1720101878985589": {
+  "format": "Educational UGC",
+  "notes": "walking poles teaching",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "825160746724335": {
+  "format": "UGC Reviews",
+  "notes": "staffer belt talking head",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1649600946179607": {
+  "format": "UGC Reviews",
+  "notes": "variant of 2141527753260837",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "967427736379724": {
+  "format": "UGC Reviews",
+  "notes": "10s selfie mirror post-sauna reaction",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1401415495245008": {
+  "format": "Unboxing (First-Open Reveal)",
+  "notes": "delivery + assembly + use",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1029704070042766": {
+  "format": "Educational UGC",
+  "notes": "creator explains glue-free build w/ comparison table",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1059461439802895": {
+  "format": "Breakdown / Explainer",
+  "notes": "toxic glue explainer + quiz end",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1590922599489240": {
+  "format": "Educational UGC",
+  "notes": "traditional vs infrared selfie talk",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2526876697752565": {
+  "format": "Educational UGC",
+  "notes": "creator explains EMF/build features",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "28123736553982244": {
+  "format": "UGC Science Backed",
+  "notes": "cites systematic review on sweat detox",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2021854498697794": {
+  "format": "Stage Talk / Keynote Authority",
+  "notes": "speaker at podium w/ flags, sauna inserts",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "2475462052881316": {
+  "format": "NEW",
+  "new_name": "Usage Timeline Countdown",
+  "new_def": "'Real-time body breakdown': footage of a person in the sauna with big overlay captions advancing minute by minute (0-30 min explained: 12 min heart rate up, 15 min white blood cells, 20 min cardio, 30+ dehydration, 60 min risk), turning a single session into an elapsed-time story of what happens in the body.",
+  "closest": "Educational UGC",
+  "stage": "TOF",
+  "confidence": "medium",
+  "notes": "Heavenly Heat 31 days; second brand using the time-elapsed structure (also Healifeco x3, SmoothSpine)"
+ },
+ "1067783159024875": {
+  "format": "UGC Reviews",
+  "notes": "couple sauna review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1038742048753686": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "salesman at expo booth pitch + phone number, PDP end",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": ""
+ },
+ "2109326069646093": {
+  "format": "Unboxing (First-Open Reveal)",
+  "notes": "couple install outdoor sauna vlog",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1456894685933905": {
+  "format": "Product Demo Ads",
+  "notes": "kinetic caption fast-cut demo",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "832976132708762": {
+  "format": "Product Demo Ads",
+  "notes": "sale fast-cut multi-creator",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "28141876698785648": {
+  "format": "Product Demo Ads",
+  "notes": "'one collection endless possibilities' montage",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "806162889199146": {
+  "format": "Product Demo Ads",
+  "notes": "sale fast-cut montage",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1899230160673260": {
+  "format": "UGC Testimonial Mashup",
+  "notes": "multi-creator pillow clips",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1258326162956703": {
+  "format": "Educational UGC",
+  "notes": "grounding/earthing explainer to barefoot shoes",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "965654286138588": {
+  "format": "Product Demo Ads",
+  "notes": "sale montage variant",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1477156417140052": {
+  "format": "Product Demo Ads",
+  "notes": "sale montage",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1034398992552109": {
+  "format": "UGC Reviews",
+  "notes": "creator offer review",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1183190493235252": {
+  "format": "UGC Testimonial Mashup",
+  "notes": "multi-creator mashup w/ grid",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1314216560811687": {
+  "format": "Problem-Agitate-Solve",
+  "notes": "neck hump PAS",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "high"
+ },
+ "1589487982824948": {
+  "format": "Product Demo Ads",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "not tiled; same copy as other PainFreeAussies sale montages"
+ },
+ "1773307947433789": {
+  "format": "Product Demo Ads",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "not tiled; same copy as other PainFreeAussies sale montages"
+ },
+ "3902302030078175": {
+  "format": "Product Demo Ads",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "not tiled; same copy as other PainFreeAussies sale montages"
+ },
+ "1036282142606241": {
+  "format": "Product Demo Ads",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "not tiled; same copy as other PainFreeAussies sale montages"
+ },
+ "2932437103762712": {
+  "format": "Product Demo Ads",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "not tiled; same copy as other PainFreeAussies sale montages"
+ },
+ "1523773255603598": {
+  "format": "Product Demo Ads",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "not tiled; same copy as other PainFreeAussies sale montages"
+ },
+ "1393320139423939": {
+  "format": "Product Demo Ads",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "not tiled; same copy as other PainFreeAussies sale montages"
+ },
+ "1562577165417647": {
+  "format": "Product Demo Ads",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "not tiled; same copy as other PainFreeAussies sale montages"
+ },
+ "1527172545288317": {
+  "format": "Product Demo Ads",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "not tiled; same copy as other PainFreeAussies sale montages"
+ },
+ "1092237079908299": {
+  "format": "Product Demo Ads",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "not tiled; same copy as other PainFreeAussies sale montages"
+ },
+ "1568628491506311": {
+  "format": "Product Demo Ads",
+  "new_name": "",
+  "new_def": "",
+  "closest": "",
+  "stage": "",
+  "confidence": "medium",
+  "notes": "not tiled; same copy as other PainFreeAussies sale montages"
+ }
+}

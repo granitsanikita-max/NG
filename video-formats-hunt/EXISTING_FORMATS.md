@@ -1,0 +1,49 @@
+# The 47 video ad formats ALREADY on the board (name: what the whole ad is)
+
+- UGC Testimonial Ads [BOF]: Direct testimonial delivery, high trust.
+- UGC Science Backed [MOF]: Creator cites research/studies to back claims.
+- Podcast [MOF]: Mimics a podcast clip/conversation format.
+- Product Comparison Video [MOF]: Side-by-side comparison against a competitor or old method.
+- UGC Listicle [MOF]: Creator runs through a numbered list on camera.
+- Street Interviews [TOF]: Good for cold audiences.
+- UGC Reviews [MOF]: UGC showing the product's benefits. Good for middle of funnel.
+- 5 Reasons Why [MOF]: Good for middle of funnel.
+- Fake Doctor [MOF]: Actor in doctor styling gives a medical endorsement.
+- Talking Objects / Characters / Body Parts [TOF]: Anthropomorphized object or body part narrates the ad.
+- Claymation [TOF]: Stop-motion clay animation, high scroll-stop novelty.
+- Reply To Question [MOF,BOF]: Video replying to a real or planted comment/question.
+- Myth Buster [TOF,MOF]: Debunks a common misconception in the niche.
+- Crochet Story [ANY]: Story told through a crochet/craft visual metaphor. Pure style, copy-dependent.
+- UGC Testimonial Mashup [BOF]: Multiple short testimonial clips cut together.
+- Personal Story [TOF,MOF]: Creator's own story/journey with the problem.
+- Educational UGC [TOF]: Teaches something useful, product woven in.
+- Founder Story Ads [TOF,MOF]: Personal origin story builds trust and relatability.
+- UGC How-To [MOF,BOF]: Creator walks through how to use the product.
+- Product Demo Ads [MOF,BOF]: Shows the product in actual use.
+- Reaction / Trend-Hijack (Borrowed Fame) [TOF]: Borrows attention that already exists, disguised as native reaction content.
+- Scenarios [TOF]: Opens on a hypothetical ('imagine if...') to pull cold viewers in.
+- Personal Learning / Epiphany [TOF]: One core lesson: 'wish I knew this sooner.' Product is the lesson.
+- Q&A [TOF,MOF]: The question IS the hook. Answer what the buyer is Googling.
+- Day In The Life [TOF]: Native lifestyle content, product appears naturally in-frame.
+- Case Studies [MOF,BOF]: Break down one real result with the product as the cause.
+- Levels [TOF,MOF]: Level 1, 2, 3 escalation. Product is the top tier.
+- Ranking / Tier List [MOF,BOF]: Options ranked against each other; your product lands S-tier.
+- Challenge [TOF]: 'I tried X for 7 days.' Demo-friendly, pairs with before/after.
+- Animated Mechanism Explainer (Clinical VSL) [TOF]: Looks like a med-school explainer, so the claim inherits textbook credibility.
+- AI UGC Avatar [TOF]: 10 hooks cost what 1 used to. Test the script, not the casting.
+- Satisfying B-roll (Front-Splice) [TOF]: Cheapest scroll-stopper test. Buys attention before the ad starts.
+- Breakdown / Explainer [TOF]: Mechanism authority: dissects what happened and why it matters.
+- Personal Update [TOF]: Community/retention for warm audiences who already know you.
+- Goal / Dream Journey [TOF]: Long-arc founder build that keeps people coming back.
+- Lesson From Others (Mentor Story) [TOF]: Borrowed-authority testimonial told in the third person.
+- Episodic Series / Social Show [TOF]: Repeatable content engine. Episodes compound an audience.
+- Win (Victory Announcement) [TOF]: Raw social proof: a milestone the viewer can see is real.
+- Problem-Agitate-Solve [TOF,MOF]: Name the problem, twist the knife, resolve with the product.
+- Pack An Order With Me (Fulfilment POV) [MOF]: Owner/POV hands pack a real customer order. Looks like a real small business with orders pouring in, and every product gets a close-up.
+- Stage Talk / Keynote Authority [TOF]: Speaker with a mic on a stage or in a lecture hall. Borrows the stage's authority so the pitch feels like expert teaching, not an ad.
+- Text-Wall Story (Read-Along Still) [TOF]: One still image with a long first-person story on screen. Reads like an organic post; the first line hooks and forces long dwell time.
+- Unboxing (First-Open Reveal) [MOF]: Someone opens the box/packaging and reveals the product for the first time. Anticipation + premium first impression.
+- Try-On Haul [MOF]: One creator tries on several pieces back to back, full-body. Shows fit, range and value in one ad.
+- Celebrity Podcast Clip (Borrowed Authority) [TOF]: Opens on a real clip from a famous podcast (Rogan etc.), then pivots to the product. Borrowed authority stops the scroll.
+- TV Segment Clip (As Seen On TV) [TOF]: Built on a real TV/news segment (anchors, network set, captions). Instant credibility: 'as seen on TV'.
+- Gift Reaction Reveal [TOF]: Camera stays on a real person's face as they open or hear a gift. Emotion sells the gift angle.

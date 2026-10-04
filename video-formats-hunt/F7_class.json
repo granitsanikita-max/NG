@@ -1,0 +1,2477 @@
+{
+ "1022793336504431": {
+  "format": "5 Reasons Why",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "VO '3 reasons this grinder is better', product b-roll with captions"
+ },
+ "1124872713009763": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "silent beach espresso-making demo, brand overlay"
+ },
+ "1165139625555619": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "aspirational cliffside espresso film 'Our kind of luxury'"
+ },
+ "1177591303475289": {
+  "format": "5 Reasons Why",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "couple at home, '3 reasons we make coffee at home', ends 'we're saving so much money'"
+ },
+ "1367031881171466": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator camping hack review of Bellman"
+ },
+ "1393101109351994": {
+  "format": "Ranking / Tier List",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "7 grinders under $500 tier list on S-D chart"
+ },
+ "1484908403649352": {
+  "format": "5 Reasons Why",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'3 reasons why' Varia VS6 grinder with caption beats"
+ },
+ "1657517825302447": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "step-by-step Aeropress brewing tutorial with captions (studio hands, not creator)"
+ },
+ "1800921684199002": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling) and a sale/new badge; no footage, no story. Exists to run in video placements cheaply.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a still with a long story to read; this is a designed product poster that just loops a variant animation",
+  "confidence": "medium",
+  "notes": "5s animated static: product poster with colour-cycling product variants"
+ },
+ "1872174010376727": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "lakeside camping espresso mood film 'Craving a good coffee anywhere'"
+ },
+ "1005340692237029": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "pool float lifestyle spot, drone + slow-mo, logo end"
+ },
+ "1010174314928528": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "bean-bag chair spot with 'Cloud Mode' dreamy VFX, logo end"
+ },
+ "1022438250332320": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Solvana patio sofa by pool, models lounging, logo end"
+ },
+ "1031961782704706": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Solvana patio sofa variant, sunset couple, logo end"
+ },
+ "1999577764154191": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'What's it like having good coffee everywhere I go?' creator road-trip POV making espresso at EV charger"
+ },
+ "1279284757438016": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Solvana patio sofa spot, 20% off copy"
+ },
+ "1367697775252189": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Sealander pool lounger spot"
+ },
+ "1369094331953613": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Solvana spot variant"
+ },
+ "1400407518678268": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Turnabout lounger indoor overhead lifestyle spot"
+ },
+ "1495393442080656": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "9s still of sofa with 'Step out. Settle in.' headline, slow fade"
+ },
+ "1682319899710244": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Solvana spot (dup cut)"
+ },
+ "1733625241385083": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "7s pool still with animated 'Float Away from pool to patio' text"
+ },
+ "1757312602295758": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "FUF XXL bean bag mood spot in glass sunroom"
+ },
+ "1010853627958329": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "shower falls stats -> suction mats slide -> locked mat -> testimonial screenshot -> 50% off"
+ },
+ "2131055007816770": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Driftscape sofa: woman comes home, eye patches, sinks in, logo end"
+ },
+ "2116702232227786": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "creator makes bed, VO why she switched to Buffy (dyes, 1/3 of life in bed)"
+ },
+ "1234482628563945": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "boho blanket UGC with reviews overlay and before/after bed"
+ },
+ "1241718570975000": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'POV wrapping yourself in this boho blanket' creator review, 50% off CTA"
+ },
+ "1354354216528060": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "shower mat: falls stat, other mats fail, ours locks, testimonial, refund"
+ },
+ "1423850945309827": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "hospital/broken hip agitation -> mat solution -> reviews"
+ },
+ "1532539467807421": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'big risk' shower falls -> mat -> reviews -> 'don't wait'"
+ },
+ "1691258028539953": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'I bought this blanket' bedroom transformation review"
+ },
+ "1903449500353401": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'I'm done gatekeeping' sad grey blanket -> boho blanket, 50% off"
+ },
+ "1967373540857254": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "shower falls PAS variant"
+ },
+ "2151315532354986": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "creator night routine, 'I've always been a hot sleeper', makes bed with Buffy Breeze"
+ },
+ "1057942637164067": {
+  "format": "NEW",
+  "new_name": "Collection Lookbook Slideshow",
+  "new_def": "Fast sequence of studio-styled room/product shots from one collection with a brand line or price-attitude headline (\"we are not cheap, everyone else is just expensive\") and small product-name callouts; music only. A moving catalogue page.",
+  "closest": "Product Demo Ads / Animated Static",
+  "stage": "Not a demo (nothing is used or explained) and not a single still; it is a multi-shot catalogue flip with labels",
+  "confidence": "medium",
+  "notes": "'Your sofa's summer wardrobe' styled cushion/sofa shots slideshow"
+ },
+ "1217963603838740": {
+  "format": "NEW",
+  "new_name": "Room Tour (Styled Space Walkthrough)",
+  "new_def": "Handheld/gimbal walkthrough of one beautifully styled room (often an influencer home), slow pans across bed, shelves, lamps, ending on the hero piece; on-screen line like \"small bedrooms can still be beautiful\" or \"pov: the life I want\", products tagged in copy. No talking head, no demo.",
+  "closest": "Day In The Life",
+  "stage": "Day In The Life follows a person through routine; here the ROOM is the subject and the viewer is shopping the look, like a home-tour reel",
+  "confidence": "high",
+  "notes": "influencer cottage bedroom walkthrough 'small bedrooms can still be beautiful'"
+ },
+ "1260659345525515": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "influencer mum breakfast in bed with child, DUSK bedding/candle"
+ },
+ "1268107378839770": {
+  "format": "NEW",
+  "new_name": "Room Tour (Styled Space Walkthrough)",
+  "new_def": "Handheld/gimbal walkthrough of one beautifully styled room (often an influencer home), slow pans across bed, shelves, lamps, ending on the hero piece; on-screen line like \"small bedrooms can still be beautiful\" or \"pov: the life I want\", products tagged in copy. No talking head, no demo.",
+  "closest": "Day In The Life",
+  "stage": "Day In The Life follows a person through routine; here the ROOM is the subject and the viewer is shopping the look, like a home-tour reel",
+  "confidence": "high",
+  "notes": "@the_hollies_1 bedroom walkthrough, opening storage, styled bed"
+ },
+ "1316970793600581": {
+  "format": "NEW",
+  "new_name": "Room Tour (Styled Space Walkthrough)",
+  "new_def": "Handheld/gimbal walkthrough of one beautifully styled room (often an influencer home), slow pans across bed, shelves, lamps, ending on the hero piece; on-screen line like \"small bedrooms can still be beautiful\" or \"pov: the life I want\", products tagged in copy. No talking head, no demo.",
+  "closest": "Day In The Life",
+  "stage": "Day In The Life follows a person through routine; here the ROOM is the subject and the viewer is shopping the look, like a home-tour reel",
+  "confidence": "medium",
+  "notes": "7s 'me <3 my bed' slow pan of styled bed"
+ },
+ "1387480306811667": {
+  "format": "NEW",
+  "new_name": "Collection Lookbook Slideshow",
+  "new_def": "Fast sequence of studio-styled room/product shots from one collection with a brand line or price-attitude headline (\"we are not cheap, everyone else is just expensive\") and small product-name callouts; music only. A moving catalogue page.",
+  "closest": "Product Demo Ads / Animated Static",
+  "stage": "Not a demo (nothing is used or explained) and not a single still; it is a multi-shot catalogue flip with labels",
+  "confidence": "medium",
+  "notes": "'we're not cheap, everyone else is just expensive' bedding sets slideshow with name callouts"
+ },
+ "1775887000464135": {
+  "format": "NEW",
+  "new_name": "Room Tour (Styled Space Walkthrough)",
+  "new_def": "Handheld/gimbal walkthrough of one beautifully styled room (often an influencer home), slow pans across bed, shelves, lamps, ending on the hero piece; on-screen line like \"small bedrooms can still be beautiful\" or \"pov: the life I want\", products tagged in copy. No talking head, no demo.",
+  "closest": "Day In The Life",
+  "stage": "Day In The Life follows a person through routine; here the ROOM is the subject and the viewer is shopping the look, like a home-tour reel",
+  "confidence": "high",
+  "notes": "'pov: the life I want somewhere in Provence' styled rooms with countdown + shop link sticker"
+ },
+ "1888984758740696": {
+  "format": "NEW",
+  "new_name": "Room Tour (Styled Space Walkthrough)",
+  "new_def": "Handheld/gimbal walkthrough of one beautifully styled room (often an influencer home), slow pans across bed, shelves, lamps, ending on the hero piece; on-screen line like \"small bedrooms can still be beautiful\" or \"pov: the life I want\", products tagged in copy. No talking head, no demo.",
+  "closest": "Day In The Life",
+  "stage": "Day In The Life follows a person through routine; here the ROOM is the subject and the viewer is shopping the look, like a home-tour reel",
+  "confidence": "high",
+  "notes": "'POV: furniture that makes your home look more expensive' influencer home walkthrough"
+ },
+ "1071833885283340": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "8s animated text '20% off' back to school sale banner"
+ },
+ "2233054740815484": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Cloudberry chair spot w/ Cloud Mode VFX (variant)"
+ },
+ "1076836634892223": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'my dog loves being messy' dog bowl stone base review"
+ },
+ "1083678104604421": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator 'aesthetic swaps' dish rack review"
+ },
+ "1339683504992574": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'Wet counters? bacteria already growing' -> stone range showcase"
+ },
+ "1387800046623235": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'my number one kitchen pet peeve' dish mat review"
+ },
+ "1410588504250301": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'what's living inside your toilet brush?' -> new holder"
+ },
+ "1416846703641343": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'this is your sign to swap to warm tones' bath aesthetic creator clip"
+ },
+ "1536280201504004": {
+  "format": "UGC Listicle",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'my top three most satisfying kitchen swaps'"
+ },
+ "1191620236262690": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "fitness creator sleep routine basics, ends making bed with Ecoy sheets"
+ },
+ "1223754943077969": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "'pov you bought reversible bed sheets' creator remakes bed, reveal"
+ },
+ "2509730512876199": {
+  "format": "NEW",
+  "new_name": "Handwritten Sign Reveal",
+  "new_def": "Hands on a desk draw or flip through coloured paper sheets (\"big reveal!\", \"wait for it\") with urgency banner on top; the last page reveals the offer in marker. A low-fi, suspense-built sale announcement.",
+  "closest": "Text-Wall Story (Read-Along Still) / Animated Static",
+  "stage": "Text-Wall is a still story; this is live-action hand-drawn suspense flipbook that only reveals the deal at the end",
+  "confidence": "medium",
+  "notes": "EOFY 'Big reveal! wait for it' hand drawing on coloured paper pad -> 'Save on Normcore espresso gear'"
+ },
+ "2499160403865528": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'most people don't realize what's growing inside their toilet brush holder'"
+ },
+ "1288439903216907": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "'the bed of my dreams' creator remakes bed in Ecoy sheets, sped up, final reveal"
+ },
+ "1392815855647135": {
+  "format": "UGC Listicle",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'3 ways I'm improving my sleep as a shift worker' (walk, cool bedding, reading)"
+ },
+ "1430802682108737": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "man in bed with coffee and magazine, Ambi sheets aesthetic slow morning"
+ },
+ "1439123474542294": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "'slow morning starts here' bed made from scratch, candle, room reveal"
+ },
+ "1679232493074090": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "'dopamine bedding combos' unpack set + make bed + dog reveal"
+ },
+ "1335590832115033": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "unbox wooden world map and assemble on wall, sped up, reveal"
+ },
+ "1698197784947187": {
+  "format": "NEW",
+  "new_name": "AI Fantasy Product Render",
+  "new_def": "Fully AI/CGI-rendered scenes place the product (lamp) inside a fantasy/fandom world (castle, rainy window, glowing magic) with a fandom tease line (\"Have you seen this wizard? No, not the wizard\"); no humans, no real footage.",
+  "closest": "Scenarios / Claymation",
+  "stage": "Scenarios is a spoken hypothetical; Claymation is a craft style. This is a generated fantasy-world product reveal riding a fandom",
+  "confidence": "medium",
+  "notes": "AI-rendered Hogwarts house lamps 'ever dreamed of choosing your house?'"
+ },
+ "2207309023434814": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "woman assembles 3D wooden world map on wall, finished map reveal + CTA"
+ },
+ "1005746678873501": {
+  "format": "UGC Science Backed",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'why women with shedding hair are obsessed' lab claims, before/after"
+ },
+ "1010748208208418": {
+  "format": "UGC Science Backed",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator cites in-vitro studies, lab results, tap vs filtered water"
+ },
+ "27143209821985568": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "cinematic macro Rancilio espresso brewing sequence, end card 'brew better coffee at home'"
+ },
+ "3750510308415409": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Bellman outdoor espresso making demo"
+ },
+ "3682323901920992": {
+  "format": "NEW",
+  "new_name": "Collection Lookbook Slideshow",
+  "new_def": "Fast sequence of studio-styled room/product shots from one collection with a brand line or price-attitude headline (\"we are not cheap, everyone else is just expensive\") and small product-name callouts; music only. A moving catalogue page.",
+  "closest": "Product Demo Ads / Animated Static",
+  "stage": "Not a demo (nothing is used or explained) and not a single still; it is a multi-shot catalogue flip with labels",
+  "confidence": "medium",
+  "notes": "'Summer Sale' postage-stamp frames cycling collection photos"
+ },
+ "4123991154397802": {
+  "format": "NEW",
+  "new_name": "Collection Lookbook Slideshow",
+  "new_def": "Fast sequence of studio-styled room/product shots from one collection with a brand line or price-attitude headline (\"we are not cheap, everyone else is just expensive\") and small product-name callouts; music only. A moving catalogue page.",
+  "closest": "Product Demo Ads / Animated Static",
+  "stage": "Not a demo (nothing is used or explained) and not a single still; it is a multi-shot catalogue flip with labels",
+  "confidence": "medium",
+  "notes": "'Say bonjour to better bedding' Provence collection slideshow + intro card"
+ },
+ "4086165308340583": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'aesthetic kitchen find you didn't know you needed' unbox and use dish mat, sale pill"
+ },
+ "3388228961337812": {
+  "format": "NEW",
+  "new_name": "Room Tour (Styled Space Walkthrough)",
+  "new_def": "Handheld/gimbal walkthrough of one beautifully styled room (often an influencer home), slow pans across bed, shelves, lamps, ending on the hero piece; on-screen line like \"small bedrooms can still be beautiful\" or \"pov: the life I want\", products tagged in copy. No talking head, no demo.",
+  "closest": "Day In The Life",
+  "stage": "Day In The Life follows a person through routine; here the ROOM is the subject and the viewer is shopping the look, like a home-tour reel",
+  "confidence": "medium",
+  "notes": "slow pans around bed in reversible bedding, 'Reversible Bedding' sticker"
+ },
+ "3540651272768931": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "traveller story: airport, 'obsessed with maps', adventures, assembles map"
+ },
+ "1020757967106171": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'look at this, my shower filter' dirty filter after months -> replace with Filterbaby"
+ },
+ "1059831366608855": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "same dirty-filter reveal creator variant"
+ },
+ "1059450883143854": {
+  "format": "Personal Learning / Epiphany",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'No one saw: 12-step routine... because NONE of that happened, I just started filtering my shower water'"
+ },
+ "1279423361061676": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "meme: 'how it feels when your girl notices less hair on pillow' + famous movie/boxing clips"
+ },
+ "1310818494101950": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "dermatologist green-screen stitch of street interview 'tap water victim #2' -> lab claims"
+ },
+ "789606214090471": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'10,000+ people bought this... we'd rather show you' several creators with blanket"
+ },
+ "800159195914878": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'stop buying the wrong shower mat' mold/slip agitation -> locking mat -> refund"
+ },
+ "4382514765312375": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'I'm 24 and not afraid to admit...' life montage (gym, beach, concert) ending at bed"
+ },
+ "749527194196970": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "unbox map, assemble on bedroom wall, travel b-roll"
+ },
+ "1339389284449029": {
+  "format": "Street Interviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "chlorine drop test with passers-by at Venice beach, then filtered beach shower"
+ },
+ "1365536458799586": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'Don't buy this shower filter... unless' skin creator, claims checklist"
+ },
+ "1704910890789994": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "reply to comment 'what treatment? your skin looks perfect' -> filter secret, sale"
+ },
+ "1752124092891074": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "multiple creators 'I used to spend 200 dollars...' cut together"
+ },
+ "2092000231671071": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "shower heads with human mouths/eyes argue about lab scores in 90s bedroom"
+ },
+ "2246434326126295": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'We're not doing this again' BOGO offer montage of users/before-after"
+ },
+ "2405119863301795": {
+  "format": "UGC Science Backed",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "dermatologist explains water impact on acne, 99% contaminants, before/after"
+ },
+ "2793648121014904": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "talking shower heads variant with Oasis scorecards"
+ },
+ "803487459174198": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'it's messy and dialing in...' Baratza grinder feature demo with captions"
+ },
+ "851930813524288": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "satisfying Normcore tamping/distribution tools demo, studio"
+ },
+ "864652222657456": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'POV you get cafe-quality coffee anywhere you go' camping espresso"
+ },
+ "866228476043786": {
+  "format": "Myth Buster",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'most cooling bedding is a chemical coating' text over slow bed b-roll, PFAS/organic myths"
+ },
+ "805392001923485": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "shower mat PAS variant"
+ },
+ "859681583662789": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "4s 'Never step on a soggy bath mat again' loop"
+ },
+ "811772618645869": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'let's open my new quilt cover' creator unbox and review"
+ },
+ "876111898795162": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "creator makes bed in pink/black Ecoy set, styled reveal"
+ },
+ "855213740664367": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "talking shower heads over rating app"
+ },
+ "1372687405013270": {
+  "format": "NEW",
+  "new_name": "Not For Everyone (Reverse Qualifier)",
+  "new_def": "Opens \"honestly, this is not for everyone\", then alternates disqualifiers (\"if you are okay with blades that dull in months...\") against qualifiers (\"but if you need razor-sharp precision...\") over hard-hitting product torture b-roll; closes \"X can take it\".",
+  "closest": "Problem-Agitate-Solve / Myth Buster",
+  "stage": "PAS agitates one pain; here the whole spine is a repeated if-you-are-okay / but-if-you-need contrast that flatters the premium buyer and repels the cheap one",
+  "confidence": "medium",
+  "notes": "'Honestly... this sharpness isn't for everyone' knife contrast lines over cutting b-roll"
+ },
+ "1466944242122903": {
+  "format": "NEW",
+  "new_name": "Celebrity / Pro Spokesperson Spot",
+  "new_def": "A real famous chef/celebrity (or named pro) is the on-camera presenter of a produced commercial: talking-head lines to camera intercut with premium product b-roll and spec callouts, ending on their endorsement + guarantee. Paid authority, not borrowed clip.",
+  "closest": "Celebrity Podcast Clip (Borrowed Authority) / Fake Doctor",
+  "stage": "Celebrity Podcast Clip borrows an existing interview clip; Fake Doctor is an actor in costume. Here the real celebrity/pro is hired and scripted as the ad host",
+  "confidence": "high",
+  "notes": "Gordon Ramsay to camera presents HexClad Damascus knives with spec callouts"
+ },
+ "1476317063973907": {
+  "format": "NEW",
+  "new_name": "Celebrity / Pro Spokesperson Spot",
+  "new_def": "A real famous chef/celebrity (or named pro) is the on-camera presenter of a produced commercial: talking-head lines to camera intercut with premium product b-roll and spec callouts, ending on their endorsement + guarantee. Paid authority, not borrowed clip.",
+  "closest": "Celebrity Podcast Clip (Borrowed Authority) / Fake Doctor",
+  "stage": "Celebrity Podcast Clip borrows an existing interview clip; Fake Doctor is an actor in costume. Here the real celebrity/pro is hired and scripted as the ad host",
+  "confidence": "medium",
+  "notes": "chef Chris Baber to camera 'as a chef...' pan b-roll, lifetime warranty"
+ },
+ "888171667210096": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Averra sofa: delivered, set up, friends lounging, mood spot"
+ },
+ "913680777769727": {
+  "format": "NEW",
+  "new_name": "Collection Lookbook Slideshow",
+  "new_def": "Fast sequence of studio-styled room/product shots from one collection with a brand line or price-attitude headline (\"we are not cheap, everyone else is just expensive\") and small product-name callouts; music only. A moving catalogue page.",
+  "closest": "Product Demo Ads / Animated Static",
+  "stage": "Not a demo (nothing is used or explained) and not a single still; it is a multi-shot catalogue flip with labels",
+  "confidence": "medium",
+  "notes": "'we're not cheap, everyone else is just expensive' DUSK multi-product slideshow with callouts"
+ },
+ "878142308065400": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "bath stone feature callouts (absorbs water) + 30% off badge"
+ },
+ "906480035854759": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "'the coffee station reset you didn't know you needed' unbox stone pads, place, reveal"
+ },
+ "943119612150432": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Can your bath mat do this?' single-shot absorb demo, 20% badge"
+ },
+ "929569206659272": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "'sheets out of my Pinterest dreams' bed styled, flowers, spray, reveal"
+ },
+ "943071665314958": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "'pov you found the bedding of your dreams' bed remade, cat, reveal"
+ },
+ "933833002987251": {
+  "format": "NEW",
+  "new_name": "AI Fantasy Product Render",
+  "new_def": "Fully AI/CGI-rendered scenes place the product (lamp) inside a fantasy/fandom world (castle, rainy window, glowing magic) with a fandom tease line (\"Have you seen this wizard? No, not the wizard\"); no humans, no real footage.",
+  "closest": "Scenarios / Claymation",
+  "stage": "Scenarios is a spoken hypothetical; Claymation is a craft style. This is a generated fantasy-world product reveal riding a fandom",
+  "confidence": "medium",
+  "notes": "AI-rendered 'Have you seen this wizard?' nightlight in castle scenes"
+ },
+ "1697368774815977": {
+  "format": "NEW",
+  "new_name": "Celebrity / Pro Spokesperson Spot",
+  "new_def": "A real famous chef/celebrity (or named pro) is the on-camera presenter of a produced commercial: talking-head lines to camera intercut with premium product b-roll and spec callouts, ending on their endorsement + guarantee. Paid authority, not borrowed clip.",
+  "closest": "Celebrity Podcast Clip (Borrowed Authority) / Fake Doctor",
+  "stage": "Celebrity Podcast Clip borrows an existing interview clip; Fake Doctor is an actor in costume. Here the real celebrity/pro is hired and scripted as the ad host",
+  "confidence": "high",
+  "notes": "Gordon Ramsay knives spot (60s cut)"
+ },
+ "1948264535838845": {
+  "format": "NEW",
+  "new_name": "Celebrity / Pro Spokesperson Spot",
+  "new_def": "A real famous chef/celebrity (or named pro) is the on-camera presenter of a produced commercial: talking-head lines to camera intercut with premium product b-roll and spec callouts, ending on their endorsement + guarantee. Paid authority, not borrowed clip.",
+  "closest": "Celebrity Podcast Clip (Borrowed Authority) / Fake Doctor",
+  "stage": "Celebrity Podcast Clip borrows an existing interview clip; Fake Doctor is an actor in costume. Here the real celebrity/pro is hired and scripted as the ad host",
+  "confidence": "high",
+  "notes": "Gordon Ramsay knives spot (118s cut)"
+ },
+ "2458410037903916": {
+  "format": "NEW",
+  "new_name": "Not For Everyone (Reverse Qualifier)",
+  "new_def": "Opens \"honestly, this is not for everyone\" / \"HexClad knives aren't...\", then alternates disqualifiers (\"if you want cheap knives / blades that lose their edge\") against qualifiers (\"if you are ready for knives built for years\") over hard product-torture b-roll; closes on the brand line.",
+  "closest": "Problem-Agitate-Solve / Myth Buster",
+  "stage": "PAS agitates one pain; here the whole spine is a repeated if-you-want-X / if-you-are-ready-for-Y contrast that flatters the premium buyer and repels the cheap one",
+  "confidence": "high",
+  "notes": "'If you think investing in quality knives isn't worth it...' contrast lines"
+ },
+ "37561393730170453": {
+  "format": "NEW",
+  "new_name": "Not For Everyone (Reverse Qualifier)",
+  "new_def": "Opens \"honestly, this is not for everyone\" / \"HexClad knives aren't...\", then alternates disqualifiers (\"if you want cheap knives / blades that lose their edge\") against qualifiers (\"if you are ready for knives built for years\") over hard product-torture b-roll; closes on the brand line.",
+  "closest": "Problem-Agitate-Solve / Myth Buster",
+  "stage": "PAS agitates one pain; here the whole spine is a repeated if-you-want-X / if-you-are-ready-for-Y contrast that flatters the premium buyer and repels the cheap one",
+  "confidence": "high",
+  "notes": "'HexClad knives aren't... if you want cheap knives / blades that lose their edge'"
+ },
+ "976143494742279": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Solvana patio spot (not viewed, same creative family as other Solvana cuts)"
+ },
+ "945774811122798": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "shower mat PAS (not viewed; same copy family as viewed PAS variants)"
+ },
+ "948051367716958": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "boho blanket creator review (not viewed; same copy family)"
+ },
+ "953963367397469": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "boho blanket creator review (not viewed; same copy family)"
+ },
+ "959498339943200": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "creator swaps yellow bedding for pink Ecoy combo, sped up, night reveal"
+ },
+ "4222070318084634": {
+  "format": "NEW",
+  "new_name": "Not For Everyone (Reverse Qualifier)",
+  "new_def": "Opens \"honestly, this is not for everyone\" / \"HexClad knives aren't...\", then alternates disqualifiers (\"if you want cheap knives / blades that lose their edge\") against qualifiers (\"if you are ready for knives built for years\") over hard product-torture b-roll; closes on the brand line.",
+  "closest": "Problem-Agitate-Solve / Myth Buster",
+  "stage": "PAS agitates one pain; here the whole spine is a repeated if-you-want-X / if-you-are-ready-for-Y contrast that flatters the premium buyer and repels the cheap one",
+  "confidence": "high",
+  "notes": "'if you think quality knives aren't worth it... that's not a purchase, that's a subscription... just stop'"
+ },
+ "876310802188502": {
+  "format": "NEW",
+  "new_name": "Celebrity / Pro Spokesperson Spot",
+  "new_def": "A real famous chef/celebrity (or named pro) is the on-camera presenter of a produced commercial: talking-head lines to camera intercut with premium product b-roll and spec callouts, ending on their endorsement + guarantee. Paid authority, not borrowed clip.",
+  "closest": "Celebrity Podcast Clip (Borrowed Authority) / Fake Doctor",
+  "stage": "Celebrity Podcast Clip borrows an existing interview clip; Fake Doctor is an actor in costume. Here the real celebrity/pro is hired and scripted as the ad host",
+  "confidence": "high",
+  "notes": "Gordon Ramsay to camera 'dull knives ruin and mash your food' + cutting b-roll"
+ },
+ "895676026557267": {
+  "format": "NEW",
+  "new_name": "Not For Everyone (Reverse Qualifier)",
+  "new_def": "Opens \"honestly, this is not for everyone\" / \"HexClad knives aren't...\", then alternates disqualifiers (\"if you want cheap knives / blades that lose their edge\") against qualifiers (\"if you are ready for knives built for years\") over hard product-torture b-roll; closes on the brand line.",
+  "closest": "Problem-Agitate-Solve / Myth Buster",
+  "stage": "PAS agitates one pain; here the whole spine is a repeated if-you-want-X / if-you-are-ready-for-Y contrast that flatters the premium buyer and repels the cheap one",
+  "confidence": "high",
+  "notes": "'Before you buy HexClad... if you want dull/cheap knives' + Netflix 'are you still watching? settle for dull knives' gag"
+ },
+ "1048605804177887": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "water-beading test on Mellow Mat rug"
+ },
+ "1239469894668124": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "kids playing on mat with fake 'LIVE' badge + typewriter captions"
+ },
+ "1299451841828694": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "water-beading test variant"
+ },
+ "1541336357165437": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'THIS is a game changer' mat in living room with feature captions"
+ },
+ "1302094391966340": {
+  "format": "NEW",
+  "new_name": "Party Game Play-Along (Branded Edition)",
+  "new_def": "Two or more friends at a table play a real party game (Wavelength dial, red-flag/green-flag) re-skinned with product-category prompts (\"bidet user vs non-bidet user\", \"thinks toilet paper is enough\"); banter and laughs carry 1-2 min, the product is the punchline/answer, light brand bug on screen.",
+  "closest": "Episodic Series / Social Show / Street Interviews",
+  "stage": "Not a recurring show or strangers on the street: it is friends playing a recognisable game whose rules force the audience to guess along, with the category opinions built into the game cards",
+  "confidence": "high",
+  "notes": "'WAVELENGTH TUSHY Edition' two friends play dial game: clean/dirty, bidet user/non-bidet user (132s, live since Feb)"
+ },
+ "1464183438566930": {
+  "format": "NEW",
+  "new_name": "Party Game Play-Along (Branded Edition)",
+  "new_def": "Two or more friends at a table play a real party game (Wavelength dial, red-flag/green-flag) re-skinned with product-category prompts (\"bidet user vs non-bidet user\", \"thinks toilet paper is enough\"); banter and laughs carry 1-2 min, the product is the punchline/answer, light brand bug on screen.",
+  "closest": "Episodic Series / Social Show / Street Interviews",
+  "stage": "Not a recurring show or strangers on the street: it is friends playing a recognisable game whose rules force the audience to guess along, with the category opinions built into the game cards",
+  "confidence": "high",
+  "notes": "same friends play red flag / green flag with paper flags, 'if he's got a TUSHY he's a green flag' (86s, live since Feb)"
+ },
+ "934143942944355": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'watch if you use wipes or toilet paper' creator unboxes bidet, 'took me 10 minutes'"
+ },
+ "1389708886535648": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "UGC: UTIs/irritation/bacteria -> bidet seat best investment"
+ },
+ "2439615943162529": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "Aura bidet seat feature tour + guy installs it"
+ },
+ "1212500140872083": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator 'I used to... this thing' Cloud+ review with site screenshot"
+ },
+ "745786875194492": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'instead of flowers' husband installs bidet for Mother's Day, she loves it"
+ },
+ "957143660036929": {
+  "format": "NEW",
+  "new_name": "POV Character Skit",
+  "new_def": "Single-take selfie skit acting out a relatable \"pov:\" situation as a character (\"pov: your roommate got a bidet\" giving a tour; \"pov: on vacation, five-star everything, but still missing my bidet\"); comedy acting, no review, product implied.",
+  "closest": "Scenarios / Day In The Life",
+  "stage": "Scenarios opens on a spoken hypothetical; Day In The Life is real routine. This is acted comedy from a character perspective, the viewer plays the other person",
+  "confidence": "medium",
+  "notes": "'POV: on vacation, ocean view... still missing my TUSHY' selfie skit"
+ },
+ "2135606820597947": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "reply to 'bidets look complicated, need a plumber' -> 9-min install timer"
+ },
+ "1392846455192561": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "CEO Justin Allen 'let me show you our new bidet' founder demo in office"
+ },
+ "2418319181945275": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "comment bubble 'can't wait to try' -> Reboot gummies explainer"
+ },
+ "1566397758413947": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "13s dark 3D render of bidet with feature lines"
+ },
+ "1867147557337229": {
+  "format": "NEW",
+  "new_name": "POV Character Skit",
+  "new_def": "Single-take selfie skit acting out a relatable \"pov:\" situation as a character (\"pov: your roommate got a bidet\" giving a tour; \"pov: on vacation, five-star everything, but still missing my bidet\"); comedy acting, no review, product implied.",
+  "closest": "Scenarios / Day In The Life",
+  "stage": "Scenarios opens on a spoken hypothetical; Day In The Life is real routine. This is acted comedy from a character perspective, the viewer plays the other person",
+  "confidence": "medium",
+  "notes": "'pov: your roommate got a bidet' acted tour/explainer selfie skit"
+ },
+ "978136611460508": {
+  "format": "NEW",
+  "new_name": "History Lesson Timeline",
+  "new_def": "Narrated walk through how humans solved the problem across eras (Edo-period Japan used water -> 18th-century newspapers -> 1857 toilet paper invented) with archival art/maps, then \"but we kept wiping\" pivot to the modern product as the next chapter.",
+  "closest": "Breakdown / Explainer / Educational UGC",
+  "stage": "Explainers dissect a mechanism or event; this is a chronological history montage that frames the status quo as an accident of history",
+  "confidence": "medium",
+  "notes": "'why you should clean... Edo Japan used water, 18th c newspapers, 1857 toilet paper' history then TUSHY Wave"
+ },
+ "952257154275332": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "man in bed tests adjustable base on platform bed, long raw demo"
+ },
+ "1499633281288551": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "8s branded banner with thermometer animation over bed graphic"
+ },
+ "1596540144414046": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator 'tired of tossing and turning? say hello to BedJet' + promo"
+ },
+ "1488876135517720": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'this is your sign to get a BedJet' friends' bedroom vlog"
+ },
+ "3431403767004412": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "studio install of PowerLayer under mattress, spec callouts"
+ },
+ "1773329263343816": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "6s 'Climate control for your bed... yup' animated banner"
+ },
+ "433289955828920": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "creator 'ready to hear how I transform my nights' BedJet review"
+ },
+ "406773788467314": {
+  "format": "NEW",
+  "new_name": "Comedy Infomercial (Scripted DRTV Sketch)",
+  "new_def": "Long (3-5 min) produced infomercial with hired actors playing exaggerated characters (a sweaty partner as \"the spawn of Satan\", a literal devil in bed), problem sketches, product intro, animated mechanism graphics, offer stack and guarantee, punchline ending. TV direct-response style rebuilt for feed.",
+  "closest": "Problem-Agitate-Solve / Animated Mechanism Explainer",
+  "stage": "PAS and explainers are short and single-voice; this is a full DRTV script with a cast of characters, comedy beats and offer stack",
+  "confidence": "high",
+  "notes": "266s scripted comedy infomercial: 'spawn of Satan' hot partner, devil character, mechanism graphics, offer"
+ },
+ "782255514841860": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "dual-zone setup with app, cat, silent demo"
+ },
+ "1584926139314925": {
+  "format": "UGC Testimonial Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "210s woman talking-head long testimonial"
+ },
+ "2348748588925382": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'WDNCC let's not gatekeep our sleep hacks' perimenopause review"
+ },
+ "1558815518992158": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "'They won't call home enough... at least they'll sleep well enough' text animates over flat lay, 30% off"
+ },
+ "2292361204864628": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Bed upgrade! check this out' creator shows PowerLayer"
+ },
+ "1380633073877328": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "369s long creator vlog using BedJet across a day"
+ },
+ "1374554344168414": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "reply to '$189 is just too much for a pillow' -> why it's worth it montage"
+ },
+ "1374655614081353": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "101s older woman shows Hugl pillow on bed"
+ },
+ "1180657850289017": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'Monthly expenses' list of sleep spending -> 'watch me cut' to one Hugl pillow (value math)"
+ },
+ "26114098948290043": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "reply 'was going to get this but saw the price' -> cheaper vs Hugl comparison"
+ },
+ "784128541322208": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "multiple users: couples, pregnant, cooling"
+ },
+ "673786645670928": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "night-sweats users montage + $110 off"
+ },
+ "937814631958173": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "mom finds girls reading in new Smore chair, building forts"
+ },
+ "2137814650110208": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'POV: you get to play like a kid again' dad and boys build with Nugget"
+ },
+ "27622966164056312": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'why the Nugget is the one toy we can't live without' text-over setups"
+ },
+ "982199444167907": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "creator shows many Nugget configurations"
+ },
+ "895164826891008": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'your double-Nugget build is ready to roll' mom builds ramp for toddler"
+ },
+ "1719111652472598": {
+  "format": "Product Comparison Video",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "animated 'Ours vs Others' Smore chair: play/pretend/build vs sit"
+ },
+ "984762657387776": {
+  "format": "NEW",
+  "new_name": "Photoshop Fix (Edit-It-For-You)",
+  "new_def": "Opens on a real-looking photo of a \"problem\" room (hard coffee table in a toddler home), cuts to a Photoshop/editing screen recording where the item is swapped for the product, captioned \"Fixed it for you\", then the edited room comes alive in real footage of the kid using the product.",
+  "closest": "Product Comparison Video / Reply To Question",
+  "stage": "Comparison shows two products side by side; here the conceit is the brand \"editing\" the viewer's room in software and then proving it in real life",
+  "confidence": "medium",
+  "notes": "room photo -> Photoshop swap coffee table for Chunk -> 'Fixed it for you' kid plays"
+ },
+ "4356129981265667": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'your toddler broke your coffee table so you got something kid friendly' unbox Chunk"
+ },
+ "962856976779514": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "hands restyle console table with Rowen decor, finished vignette"
+ },
+ "1428110886115422": {
+  "format": "NEW",
+  "new_name": "Room Tour (Styled Space Walkthrough)",
+  "new_def": "Handheld/gimbal walkthrough of one beautifully styled room (often an influencer home), slow pans across bed, shelves, lamps, ending on the hero piece; on-screen line like \"small bedrooms can still be beautiful\" or \"pov: the life I want\", products tagged in copy. No talking head, no demo.",
+  "closest": "Day In The Life",
+  "stage": "Day In The Life follows a person through routine; here the ROOM is the subject and the viewer is shopping the look, like a home-tour reel",
+  "confidence": "high",
+  "notes": "'styling our snug with Rowen accessories' living room walkthrough"
+ },
+ "1722004215547928": {
+  "format": "NEW",
+  "new_name": "Room Tour (Styled Space Walkthrough)",
+  "new_def": "Handheld/gimbal walkthrough of one beautifully styled room (often an influencer home), slow pans across bed, shelves, lamps, ending on the hero piece; on-screen line like \"small bedrooms can still be beautiful\" or \"pov: the life I want\", products tagged in copy. No talking head, no demo.",
+  "closest": "Day In The Life",
+  "stage": "Day In The Life follows a person through routine; here the ROOM is the subject and the viewer is shopping the look, like a home-tour reel",
+  "confidence": "high",
+  "notes": "door opens on candlelit glam bedroom, slow pan"
+ },
+ "983257704596988": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'POV: the home accessories addiction strikes again' unboxing haul"
+ },
+ "1373875831559703": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "drilling and hanging wall butterflies"
+ },
+ "1070756185335672": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "influencer 'the chair everyone's been loving... get it before it sells out'"
+ },
+ "1810679770360815": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "AI-rendered serene bed scenes with caption lines + 0% finance end card"
+ },
+ "1783747402644616": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "opening free fabric sample pack"
+ },
+ "1050819300992109": {
+  "format": "NEW",
+  "new_name": "Showroom Walkthrough (Staff Picks)",
+  "new_def": "Staff/creators walk the brand's physical showroom selfie-style (\"if you've got a smaller budget, these are the sofas for you\"), stopping at each pick to sit on it and zoom on the price tag; captions name model, colour and price. Retail floor as content.",
+  "closest": "UGC Listicle / Ranking / Tier List",
+  "stage": "A listicle is a creator at home counting points; here the set is the store floor and the beats are physical price-tag stops",
+  "confidence": "high",
+  "notes": "two girls in Sofa Club showroom: 'if you've got a smaller budget, these are the sofas for you' + price tags"
+ },
+ "1380536564199621": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "couple unboxes next-day-delivered sofa"
+ },
+ "1394941052483678": {
+  "format": "NEW",
+  "new_name": "Studio Fashion Editorial",
+  "new_def": "Locked-off seamless-studio shot styled like a fashion campaign: one styled model walks in, poses and lounges on the single product against a flat colour backdrop, minimal brand headline (\"It's timeless. It's Chelsea.\", \"Bloomsbury, an understated icon\"), then the model exits leaving the product alone. 10-13s, no VO.",
+  "closest": "Cinematic Lifestyle Spot (new) / Product Demo Ads",
+  "stage": "No location, no story, no demo: it borrows fashion-lookbook grammar (model + seamless + tagline) to make furniture feel like a designer item",
+  "confidence": "high",
+  "notes": "'We have landed in Croydon' fashion-editorial showroom opening spot"
+ },
+ "2688342174948080": {
+  "format": "NEW",
+  "new_name": "Studio Fashion Editorial",
+  "new_def": "Locked-off seamless-studio shot styled like a fashion campaign: one styled model walks in, poses and lounges on the single product against a flat colour backdrop, minimal brand headline (\"It's timeless. It's Chelsea.\", \"Bloomsbury, an understated icon\"), then the model exits leaving the product alone. 10-13s, no VO.",
+  "closest": "Cinematic Lifestyle Spot (new) / Product Demo Ads",
+  "stage": "No location, no story, no demo: it borrows fashion-lookbook grammar (model + seamless + tagline) to make furniture feel like a designer item",
+  "confidence": "high",
+  "notes": "'The Marylebone Effect' studio model editorial on sofa"
+ },
+ "3045976365793805": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "overhead gingerbread recipe process with Hestan pans, no talking"
+ },
+ "26268444312826517": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Michelin chef Adam Byatt cooks steak, explains copper-core pan"
+ },
+ "2029041377986476": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "chef bouillabaisse recipe in three steps with Hestan pan"
+ },
+ "2004254973545953": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "chef 'I know tons of brands that say they have the best cookware...' NanoBond in oven/coals"
+ },
+ "1477436337209918": {
+  "format": "NEW",
+  "new_name": "Makeover Reveal (Set-Up Transformation)",
+  "new_def": "Creator strips/empties a space and builds it back with the product on camera (makes the bed with new sheets, assembles a wall map piece by piece), sped-up and satisfying, one caption line (\"the bed of my dreams\", \"dopamine bedding combos\"), ending on the finished-room reveal.",
+  "closest": "Product Demo Ads / Unboxing (First-Open Reveal)",
+  "stage": "Unboxing stops at the first reveal and Product Demo shows function; here the payoff is the transformed room, the build process IS the ad",
+  "confidence": "medium",
+  "notes": "'come set up my new Branch standing desk with me' desk styled from scratch"
+ },
+ "1522788265887171": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'POV finally found the best dishwasher tabs' switch review"
+ },
+ "2648481448872059": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'I found the perfect gift to surprise him' creator sets up BedJet"
+ },
+ "897073262736195": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "WDNCC sleep-hack perimenopause review variant"
+ },
+ "846895734671049": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'dorm rooms are either boiling or freezing' fast-cut, BedJet Mini, tuition angle"
+ },
+ "1737393794198804": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "dorm boiling/freezing PAS variant"
+ },
+ "972180325531201": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'Bed upgrade!' creator variant"
+ },
+ "990334423607832": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Cloudberry chair Cloud Mode spot variant"
+ },
+ "988739303987116": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Modora lounger mood spot, reading woman, logo end"
+ },
+ "936902029404627": {
+  "format": "Founder Story Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "founders in Target aisle 'products we bring home are most harmful... find us at Target'"
+ },
+ "2252023505612247": {
+  "format": "5 Reasons Why",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'3 reasons plastic-free dishwasher tablet' fast captions"
+ },
+ "991519036820079": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'we owe an apology / not doing this again' BOGO montage"
+ },
+ "992596709811143": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "comment 'try Filterbaby instead of skincare?' reaction -> filter"
+ },
+ "1639480497598356": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "high",
+  "notes": "Hestan 'Complete your collection & save' bundle tiers animating"
+ },
+ "878450017979798": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Adam Byatt steak + copper-core pan explanation"
+ },
+ "1857277625253661": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "Adam Byatt steak variant"
+ },
+ "2286119305524419": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "chef duck a l'orange recipe with NanoBond pan"
+ },
+ "999172329369935": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'this pan is an absolute game-changer' 2-year HexClad review"
+ },
+ "1733412347655056": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "woman unrolls rug and lounges, aesthetic demo"
+ },
+ "1581471640221199": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'don't cry over spilt milk' spill wipe test"
+ },
+ "1806956784802894": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "water-beading test variant"
+ },
+ "3532337526929630": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "mum + toddler unroll giant mat, play, stretch"
+ },
+ "772295892302395": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'when we bought our mattress we were gutted' topper review"
+ },
+ "27608229238847515": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "topper review variant"
+ },
+ "1646379413231706": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'RUG AUDIT' creator rates her Mellow Mat"
+ },
+ "1637902534113066": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'my daughter...' unbox topper for daughter's bed"
+ },
+ "1691722508447596": {
+  "format": "Personal Story",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "topper daughter variant"
+ },
+ "1401467835247693": {
+  "format": "UGC Listicle",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "educator lists ways to start mushroom hobby (blocks, greenhouse, subscription box)"
+ },
+ "27700869209609256": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "BoomRoom grow tent harvest montage"
+ },
+ "1080632320980879": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "North Spore educator explains BoomRoom tent"
+ },
+ "1534642298151099": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'whether you're looking to grow...' monotub explainer"
+ },
+ "1415602357094072": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "monotub explainer variant"
+ },
+ "1089533493632551": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "lion's mane grow fast montage"
+ },
+ "1471990634739493": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "pink oysters fruiting in garden bed, silent"
+ },
+ "1586743439850436": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "gardener plants grow blocks in raised beds"
+ },
+ "958361507303212": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "cinematic witchy gardener buries Mycosphere, harvests"
+ },
+ "1614983560160035": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "forest farm 'building a shroomy' log setup"
+ },
+ "1981024082550823": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'pov you grew the most magical mushrooms' basket"
+ },
+ "873718999121275": {
+  "format": "Educational UGC",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "122s 'growing fungi outdoors' creator vlog"
+ },
+ "2215855972538290": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "step-by-step wine cap beds"
+ },
+ "991494813877682": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "wine cap bed layering tutorial"
+ },
+ "1984411842213736": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "harvest close-ups montage"
+ },
+ "1790652035151490": {
+  "format": "UGC How-To",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'easiest mushroom I've ever grown' family planting"
+ },
+ "2210857546407565": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "7s pink ottoman with animated cake drawing overlay 'birthday gift that takes the cake'"
+ },
+ "1580173317183420": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'more boxes, more builds, more fun' bundle builds"
+ },
+ "1537073451799190": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "Crayola x Nugget collab kids playing, stickers"
+ },
+ "1354869176843753": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "Smore chair sit/build/play with brand bug"
+ },
+ "944117838331610": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "double-Nugget build variant"
+ },
+ "1844742933168605": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "15s near-static looping shot of child in Nugget fort 'screen-free rainy day fun'"
+ },
+ "1643637533395409": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "rainy day fort loop variant"
+ },
+ "1759694478714797": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "Smore intro-price graphic cycling colours/configs"
+ },
+ "3513067445535705": {
+  "format": "UGC Testimonial Mashup",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "stitch of many creators' 'things worth the money' lists all naming Nugget"
+ },
+ "2204510380351804": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'Nugget playroom builds' one vs one+chunk configurations"
+ },
+ "1043463844874413": {
+  "format": "NEW",
+  "new_name": "Room Tour (Styled Space Walkthrough)",
+  "new_def": "Handheld/gimbal walkthrough of one beautifully styled room (often an influencer home), slow pans across bed, shelves, lamps, ending on the hero piece; on-screen line like \"small bedrooms can still be beautiful\" or \"pov: the life I want\", products tagged in copy. No talking head, no demo.",
+  "closest": "Day In The Life",
+  "stage": "Day In The Life follows a person through routine; here the ROOM is the subject and the viewer is shopping the look, like a home-tour reel",
+  "confidence": "medium",
+  "notes": "'we found the perfect Nugget to match the girls' room' styled room pan"
+ },
+ "943143848540773": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'our favorite cover colors' colour swap jump-cuts in same room"
+ },
+ "1197331305840830": {
+  "format": "Problem-Agitate-Solve",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'most days are nonstop... my back is tight' 3D spine animation -> Hugl"
+ },
+ "4098720807106967": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "reply 'amazing pillow but too expensive' -> 'you're right, here's why'"
+ },
+ "829391259960156": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'finally' creator unbox Hugl review + mystery gift"
+ },
+ "1235313318787614": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "reply 'should I buy cheap body pillow' -> difference explained"
+ },
+ "2395834827521809": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "reply 'who pays $189 for a pillow' -> math/benefits"
+ },
+ "937576225880725": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "reply 'hot sleeper debating $50 vs $189' -> comparison"
+ },
+ "2569561120113507": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "reply 'is the Hugl worth $189?' honest take"
+ },
+ "1687342499110556": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "night-sweats copy family (not viewed; same Plufl reply-format batch)"
+ },
+ "950935660632031": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "night-sweats copy family (not viewed)"
+ },
+ "864468843313453": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "night-sweats copy family (not viewed)"
+ },
+ "786594024508351": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "night-sweats copy family (not viewed)"
+ },
+ "847064617661354": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "night-sweats copy family (not viewed)"
+ },
+ "2014205819161756": {
+  "format": "Reply To Question",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "night-sweats copy family (not viewed)"
+ },
+ "1526100828774368": {
+  "format": "NEW",
+  "new_name": "Room Tour (Styled Space Walkthrough)",
+  "new_def": "Handheld/gimbal walkthrough of one beautifully styled room (often an influencer home), slow pans across bed, shelves, lamps, ending on the hero piece; on-screen line like \"small bedrooms can still be beautiful\" or \"pov: the life I want\", products tagged in copy. No talking head, no demo.",
+  "closest": "Day In The Life",
+  "stage": "Day In The Life follows a person through routine; here the ROOM is the subject and the viewer is shopping the look, like a home-tour reel",
+  "confidence": "medium",
+  "notes": "'want the boutique hotel look? the secret is a statement headboard' bedroom pans"
+ },
+ "1005085662551495": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "stacking candle colours on table, 6s"
+ },
+ "1781376859647841": {
+  "format": "NEW",
+  "new_name": "Room Tour (Styled Space Walkthrough)",
+  "new_def": "Handheld/gimbal walkthrough of one beautifully styled room (often an influencer home), slow pans across bed, shelves, lamps, ending on the hero piece; on-screen line like \"small bedrooms can still be beautiful\" or \"pov: the life I want\", products tagged in copy. No talking head, no demo.",
+  "closest": "Day In The Life",
+  "stage": "Day In The Life follows a person through routine; here the ROOM is the subject and the viewer is shopping the look, like a home-tour reel",
+  "confidence": "medium",
+  "notes": "'your room is missing one thing' AI-styled wall art room pans"
+ },
+ "1022060654086934": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'pov you've found the perfect wall art' influencer poses with art"
+ },
+ "2112178496038416": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "wall art pov variant"
+ },
+ "1105165208510437": {
+  "format": "Product Demo Ads",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "placing gold cherry ornament on shelf"
+ },
+ "1568439611474280": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "AI-render wallpaper/paint showroom pans"
+ },
+ "1837688877611367": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "influencer holds throw 'so incredibly cosy'"
+ },
+ "1395890152686119": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "'a statement chair you can sink into... meet Abella only \u00a3399' moody AI-ish spot"
+ },
+ "1774513490393995": {
+  "format": "NEW",
+  "new_name": "Studio Fashion Editorial",
+  "new_def": "Locked-off seamless-studio shot styled like a fashion campaign: one styled model walks in, poses and lounges on the single product against a flat colour backdrop, minimal brand headline (\"It's timeless. It's Chelsea.\", \"Bloomsbury, an understated icon\"), then the model exits leaving the product alone. 10-13s, no VO.",
+  "closest": "Cinematic Lifestyle Spot (new) / Product Demo Ads",
+  "stage": "No location, no story, no demo: it borrows fashion-lookbook grammar (model + seamless + tagline) to make furniture feel like a designer item",
+  "confidence": "high",
+  "notes": "studio: man on chair, box -> sofa appears, 'transform your space with next day delivery'"
+ },
+ "1362995685198326": {
+  "format": "NEW",
+  "new_name": "Studio Fashion Editorial",
+  "new_def": "Locked-off seamless-studio shot styled like a fashion campaign: one styled model walks in, poses and lounges on the single product against a flat colour backdrop, minimal brand headline (\"It's timeless. It's Chelsea.\", \"Bloomsbury, an understated icon\"), then the model exits leaving the product alone. 10-13s, no VO.",
+  "closest": "Cinematic Lifestyle Spot (new) / Product Demo Ads",
+  "stage": "No location, no story, no demo: it borrows fashion-lookbook grammar (model + seamless + tagline) to make furniture feel like a designer item",
+  "confidence": "high",
+  "notes": "'It's timeless, it's Chelsea' model lounges on sofa in seamless studio"
+ },
+ "1479695227537803": {
+  "format": "NEW",
+  "new_name": "Studio Fashion Editorial",
+  "new_def": "Locked-off seamless-studio shot styled like a fashion campaign: one styled model walks in, poses and lounges on the single product against a flat colour backdrop, minimal brand headline (\"It's timeless. It's Chelsea.\", \"Bloomsbury, an understated icon\"), then the model exits leaving the product alone. 10-13s, no VO.",
+  "closest": "Cinematic Lifestyle Spot (new) / Product Demo Ads",
+  "stage": "No location, no story, no demo: it borrows fashion-lookbook grammar (model + seamless + tagline) to make furniture feel like a designer item",
+  "confidence": "high",
+  "notes": "Chelsea studio variant"
+ },
+ "929531406777147": {
+  "format": "NEW",
+  "new_name": "Studio Fashion Editorial",
+  "new_def": "Locked-off seamless-studio shot styled like a fashion campaign: one styled model walks in, poses and lounges on the single product against a flat colour backdrop, minimal brand headline (\"It's timeless. It's Chelsea.\", \"Bloomsbury, an understated icon\"), then the model exits leaving the product alone. 10-13s, no VO.",
+  "closest": "Cinematic Lifestyle Spot (new) / Product Demo Ads",
+  "stage": "No location, no story, no demo: it borrows fashion-lookbook grammar (model + seamless + tagline) to make furniture feel like a designer item",
+  "confidence": "high",
+  "notes": "'Bloomsbury, an understated icon' model on sofa, studio"
+ },
+ "26858138173848943": {
+  "format": "NEW",
+  "new_name": "Studio Fashion Editorial",
+  "new_def": "Locked-off seamless-studio shot styled like a fashion campaign: one styled model walks in, poses and lounges on the single product against a flat colour backdrop, minimal brand headline (\"It's timeless. It's Chelsea.\", \"Bloomsbury, an understated icon\"), then the model exits leaving the product alone. 10-13s, no VO.",
+  "closest": "Cinematic Lifestyle Spot (new) / Product Demo Ads",
+  "stage": "No location, no story, no demo: it borrows fashion-lookbook grammar (model + seamless + tagline) to make furniture feel like a designer item",
+  "confidence": "high",
+  "notes": "Bloomsbury variant"
+ },
+ "1380099623515673": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "'the sofa everyone's talking about, now back in stock' AI/CG room shots"
+ },
+ "1064232099911178": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "'it's finally the day our sofa is going up' assembly + review captions"
+ },
+ "1962842721307446": {
+  "format": "UGC Reviews",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "same variant"
+ },
+ "1061138543190229": {
+  "format": "Unboxing (First-Open Reveal)",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "high",
+  "notes": "couple unboxes Cloud sofa"
+ },
+ "1369252098055048": {
+  "format": "Day In The Life",
+  "new_name": null,
+  "new_def": null,
+  "closest": null,
+  "stage": null,
+  "confidence": "medium",
+  "notes": "'our idea of a good time: little one, furry friend' family on sofa"
+ },
+ "1229975005647971": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "7s sofa vignette with cat, '0% APR finance' overlay"
+ },
+ "1009626514730428": {
+  "format": "NEW",
+  "new_name": "Animated Static (Motion Banner)",
+  "new_def": "A static image ad with one small loop of motion (product colours cycling / text animating / slow zoom) and a headline or offer badge; no footage, no story. Runs a still in video placements.",
+  "closest": "Text-Wall Story (Read-Along Still)",
+  "stage": "Text-Wall is a long first-person story; this is a designed product poster that only loops a tiny animation",
+  "confidence": "medium",
+  "notes": "0% APR cat vignette variant"
+ },
+ "1327749379512917": {
+  "format": "NEW",
+  "new_name": "Cinematic Lifestyle Spot",
+  "new_def": "Polished, music-only brand commercial: aspirational models using the product in a beautiful setting (pool, cliff, lake), slow-mo/drone/macro texture shots, no talking or claims, ends on logo + product name.",
+  "closest": "Product Demo Ads / Day In The Life",
+  "stage": "Product Demo shows how the product works; Day In The Life is native creator content. This is a produced TV-style mood spot selling a feeling, no demo beats, no creator, no VO",
+  "confidence": "medium",
+  "notes": "Bishop sofa in library, kids, captions, mood spot"
+ },
+ "2842447399454906": {
+  "format": "NEW",
+  "new_name": "Collection Lookbook Slideshow",
+  "new_def": "Fast sequence of studio-styled room/product shots from one collection with a brand line or price-attitude headline (\"we are not cheap, everyone else is just expensive\") and small product-name callouts; music only. A moving catalogue page.",
+  "closest": "Product Demo Ads / Animated Static",
+  "stage": "Not a demo (nothing is used or explained) and not a single still; it is a multi-shot catalogue flip with labels",
+  "confidence": "medium",
+  "notes": "'back by popular demand' montage of customer homes with sofas"
+ }
+}

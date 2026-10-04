@@ -1,0 +1,129 @@
+[
+ {
+  "domain": "everydaydose",
+  "name": "Everyday Dose",
+  "rev30_min": 6400000,
+  "active_ads": 452
+ },
+ {
+  "domain": "magicspoon",
+  "name": "Magic Spoon",
+  "rev30_min": 1050000,
+  "active_ads": 153,
+  "note": "store shows 17 active now, 153 on 09-20..29"
+ },
+ {
+  "domain": "huel.com",
+  "name": "Huel",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 1296
+ },
+ {
+  "domain": "drinklmnt",
+  "name": "LMNT",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 342
+ },
+ {
+  "domain": "dukecannon",
+  "name": "Duke Cannon",
+  "rev30_min": 1500000,
+  "active_ads": 154
+ },
+ {
+  "domain": "chomps.com",
+  "name": "Chomps",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 235
+ },
+ {
+  "domain": "athleticbrewing.com",
+  "name": "Athletic Brewing",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 68
+ },
+ {
+  "domain": "drinkag1",
+  "name": "AG1",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 1002
+ },
+ {
+  "domain": "clevr",
+  "name": "Clevr Blends",
+  "rev30_min": 493000,
+  "active_ads": 261
+ },
+ {
+  "domain": "hensonshaving",
+  "name": "Henson Shaving",
+  "rev30_min": 1580000,
+  "active_ads": 273
+ },
+ {
+  "domain": "manscaped",
+  "name": "Manscaped",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 70
+ },
+ {
+  "domain": "mudwtr.com",
+  "name": "MUD\\WTR",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 185
+ },
+ {
+  "domain": "kachava.com",
+  "name": "Ka'Chava",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 601
+ },
+ {
+  "domain": "piquelife.com",
+  "name": "Pique",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 289
+ },
+ {
+  "domain": "drsquatch",
+  "name": "Dr. Squatch",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 1092
+ },
+ {
+  "domain": "ryzesuperfoods",
+  "name": "RYZE",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 13680
+ },
+ {
+  "domain": "magicmind",
+  "name": "Magic Mind",
+  "rev30_min": 700000,
+  "active_ads": 814
+ },
+ {
+  "domain": "liquid-iv",
+  "name": "Liquid I.V.",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 144
+ },
+ {
+  "domain": "tiege",
+  "name": "Tiege Hanley",
+  "rev30_min": 1020000,
+  "active_ads": 52
+ },
+ {
+  "domain": "harrys.com",
+  "name": "Harry's",
+  "rev30_min": "not looked up (large known DTC brand)",
+  "active_ads": 36
+ },
+ {
+  "domain": "brickellmensproducts",
+  "name": "Brickell",
+  "rev30_min": 650000,
+  "active_ads": 172
+ }
+]

@@ -1,0 +1,1995 @@
+{
+ "1200053088867702": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "medium",
+  "notes": "Creator smears stool-like paste on paper towel strips (gross prop demo) + 3D animated gut characters + testimonials, refund CTA"
+ },
+ "930009749396905": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "high",
+  "notes": "older man unboxes Ritual set"
+ },
+ "4317243371852837": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "Spanish UGC montage + St Patrick sale"
+ },
+ "2703157206727741": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "man seated testimonial, sexual-performance angle"
+ },
+ "947143771060610": {
+  "format": "AI UGC Avatar",
+  "confidence": "high",
+  "notes": "labelled AI-generated endorser, offer stack walk-through"
+ },
+ "897480789585205": {
+  "format": "Pack An Order With Me (Fulfilment POV)",
+  "confidence": "high",
+  "notes": "warehouse packing POV"
+ },
+ "1814919399465492": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "medium",
+  "notes": "Spanish VO b-roll montage, beer-belly hook, St Patrick's sale offer + paid endorser clips"
+ },
+ "742194435490774": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "medium",
+  "notes": "same as 1814919399465492, female version"
+ },
+ "1066312073228557": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "Spanish creator walks through every item in bundle + gifts, LP screenshot, link",
+  "new_name": "Offer Stack Walkthrough",
+  "new_def": "Creator holds up the bundle and goes item-by-item ('you get X... plus Y for FREE... plus Z'), cuts to the landing page price/discount screenshot, then urgency ('before they sell out'). The whole ad is the value stack of the offer, not the product experience.",
+  "closest": "Unboxing (First-Open Reveal) / Product Demo Ads - but there is no first-open anticipation and no usage demo; the structure is a spoken price/value stack like a TV-shopping pitch",
+  "stage": "BOF"
+ },
+ "26111564305210022": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'We f***ed up our spring sale': dev-tools screen recording of price edit, mocking comment overlays ('3% discount?'), then corrected 42% off + free gifts, sell-out urgency",
+  "new_name": "Brand Blunder Confession (Pricing Mistake)",
+  "new_def": "Brand opens by confessing a public mistake (sale launched at the wrong discount / a typo), proves it with screen recordings + angry/mocking comment screenshots, then 'makes it right' with a bigger deal and a sell-out deadline. The story of the screw-up carries the whole ad.",
+  "closest": "Reply To Question / Personal Update - but it is a staged brand-error narrative used to justify a deep discount",
+  "stage": "BOF"
+ },
+ "1269300311816945": {
+  "format": "Ranking / Tier List",
+  "confidence": "high",
+  "notes": "creator ranks items in the bundle #3..#1"
+ },
+ "942742718274357": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'Someone at RYZE is getting fired... their mistake, it's yours' then item-by-item bundle stack",
+  "new_name": "Offer Stack Walkthrough",
+  "new_def": "see 1066312073228557",
+  "closest": "Unboxing",
+  "stage": "BOF"
+ },
+ "956001700207449": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "'Did you know' gut education with 3D anatomy + creator, reviews, refund"
+ },
+ "1258595835927445": {
+  "format": "Breakdown / Explainer",
+  "confidence": "medium",
+  "notes": "POV skit hook (wife finds 3-pack) then motion-graphic ingredient/stat explainer + review wall"
+ },
+ "1941339339904637": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "OFF-BRAND: exclusivebeautyclub.com page matched Dose search"
+ },
+ "1460802022346508": {
+  "format": "UGC How-To",
+  "confidence": "high",
+  "notes": "OFF-BRAND exclusivebeautyclub skincare routine"
+ },
+ "1024496733525048": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "OFF-BRAND exclusivebeautyclub polished studio montage with category title cards"
+ },
+ "1550205083553989": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "OFF-BRAND duplicate of 1024496733525048"
+ },
+ "1108106001542194": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand exclusivebeautyclub"
+ },
+ "1533396231350738": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand"
+ },
+ "1633520398448455": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand"
+ },
+ "1076629958630253": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand"
+ },
+ "1049601074084370": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand"
+ },
+ "809122908287103": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand"
+ },
+ "2148315115717009": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand"
+ },
+ "37474360788873974": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand"
+ },
+ "707328755723243": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "1313831330758223": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "688799713826536": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "1441217133657201": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "1356408616160069": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "840092145151307": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "773722695496165": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "1505807197166126": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "1564929614952323": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "795421953117331": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "1146895207007868": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "846370107808916": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "814307761425315": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand Tailored Canvases page matched shopbeam search"
+ },
+ "2090318125162799": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "founder cut-out in wizard costume, hand-drawn text, 'not Magic Johnson, Science Johnson' pun",
+  "new_name": "Pun Meme Collage",
+  "new_def": "Short meme-edit built around one pun/rhyme: cut-out photos of the founder/mascot in costumes, hand-drawn scribble text, glitch/sticker effects, punchline ties to product, end card. Comedy edit, no talking head or demo.",
+  "closest": "Talking Objects / Characters; Claymation (pure-style) - but this is a 2D cut-out meme collage carried by a wordplay joke",
+  "stage": "TOF"
+ },
+ "1364368502233274": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "confidence": "high",
+  "notes": "TikTok stitch of founder clip, creator reacts + drinks product"
+ },
+ "2985905978408148": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "burrata+pesto dip recipe, 'Don't buy olive oil until you hear this', founder sticker, creator face cutaways",
+  "new_name": "Recipe Tutorial (Cook With Me)",
+  "new_def": "Hands-only or creator 'cook with me' recipe: ingredients assembled step by step, the product is a hero ingredient poured/added on camera, VO/captions slip the benefits in while the dish comes together, ends on the finished dish + link. Looks like native food content.",
+  "closest": "Day In The Life / UGC How-To - but the subject is a recipe and the product is an ingredient, not a usage tutorial",
+  "stage": "TOF"
+ },
+ "1325854916319530": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Get ready with me' salad dressing recipe with olive oil, label close-up, benefits VO",
+  "new_name": "Recipe Tutorial (Cook With Me)",
+  "new_def": "see 2985905978408148",
+  "closest": "UGC How-To",
+  "stage": "TOF"
+ },
+ "1318480580405212": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "8s motion graphic: product bottle on white, benefit pills pop in, headline 'Don't buy this olive oil unless you want...'",
+  "new_name": "Animated Callout Static",
+  "new_def": "A static product shot with a provocative headline where benefit call-out tags animate in one by one; 6-10s, no people, no VO. A moving image-ad rather than a video story.",
+  "closest": "Satisfying B-roll (Front-Splice) - but there is no b-roll, it is an animated static",
+  "stage": "ANY"
+ },
+ "1015248191382689": {
+  "format": "Challenge",
+  "confidence": "high",
+  "notes": "7-day olive oil shot challenge, POV"
+ },
+ "1636530837632480": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "aesthetic drink-build: scoop, pour, froth, single caption 'I switched out my coffee for this longevity drink'",
+  "new_name": "Recipe Tutorial (Cook With Me)",
+  "new_def": "see 2985905978408148 (drink-build variant)",
+  "closest": "Satisfying B-roll",
+  "stage": "TOF"
+ },
+ "1675201200421991": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "olive oil + balsamic dip hosting hack, hands-only",
+  "new_name": "Recipe Tutorial (Cook With Me)",
+  "new_def": "see 2985905978408148",
+  "closest": "UGC How-To",
+  "stage": "TOF"
+ },
+ "4394495230762842": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "creator makes Bryan Johnson's daily veggie bowl, founder clips cut in",
+  "new_name": "Recipe Tutorial (Cook With Me)",
+  "new_def": "see 2985905978408148 (copy-the-founder's-meal variant)",
+  "closest": "Educational UGC",
+  "stage": "TOF"
+ },
+ "1036824129289223": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "dirty chai protein latte build, espresso machine, hands-only",
+  "new_name": "Recipe Tutorial (Cook With Me)",
+  "new_def": "see 2985905978408148",
+  "closest": "UGC How-To",
+  "stage": "TOF"
+ },
+ "1025834956624327": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "summer spritz swap drink build",
+  "new_name": "Recipe Tutorial (Cook With Me)",
+  "new_def": "see 1636530837632480",
+  "closest": "Satisfying B-roll",
+  "stage": "TOF"
+ },
+ "1580535283492510": {
+  "format": "Educational UGC",
+  "confidence": "high",
+  "notes": "talking-head explains polyphenols/throat burn with b-roll"
+ },
+ "1328238518708560": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "summer drink build",
+  "new_name": "Recipe Tutorial (Cook With Me)",
+  "new_def": "see 1636530837632480",
+  "closest": "Satisfying B-roll",
+  "stage": "TOF"
+ },
+ "1611165333679424": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "pharmacist in candy-store pharmacy set uses plastic femur + tape measure to explain growth plates",
+  "new_name": "Prop Analogy Explainer",
+  "new_def": "An expert (white coat/pharmacist) or creator explains the hidden mechanism with a physical everyday-object stand-in (pool noodle = growth plate, model bone + tape measure, paper towel = intestine), manipulating the prop on camera for the whole explanation, then reveals the product as the fix.",
+  "closest": "Fake Doctor / Animated Mechanism Explainer - same authority/mechanism job but done with tactile props instead of animation",
+  "stage": "TOF"
+ },
+ "2628059367611925": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "stitch of 4'11 woman, then doctor uses pool noodle as growth plate",
+  "new_name": "Prop Analogy Explainer",
+  "new_def": "An expert (white coat/pharmacist) or creator explains the hidden mechanism with a physical everyday-object stand-in (pool noodle = growth plate, model bone + tape measure, paper towel = intestine), manipulating the prop on camera for the whole explanation, then reveals the product as the fix.",
+  "closest": "Fake Doctor / Reply To Question",
+  "stage": "TOF"
+ },
+ "2275297036558229": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "mom car selfie testimonial about kid height"
+ },
+ "3120800814978325": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "Spanish version of 2628059367611925",
+  "new_name": "Prop Analogy Explainer",
+  "new_def": "An expert (white coat/pharmacist) or creator explains the hidden mechanism with a physical everyday-object stand-in (pool noodle = growth plate, model bone + tape measure, paper towel = intestine), manipulating the prop on camera for the whole explanation, then reveals the product as the fix.",
+  "closest": "Fake Doctor",
+  "stage": "TOF"
+ },
+ "966740282377543": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "morning routine with collagen, creator code"
+ },
+ "2036109920659670": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "TV personality vlog day incl. TV studio, making collagen drink"
+ },
+ "2232632847245689": {
+  "format": "Personal Story",
+  "confidence": "high",
+  "notes": "Dutch dad/worker story, low energy -> testo supplement, UGC wall"
+ },
+ "1539518847313840": {
+  "format": "Podcast",
+  "confidence": "high",
+  "notes": "sponsored read inside real Dutch podcast Vechtersbazen"
+ },
+ "2353368185160857": {
+  "format": "Product Comparison Video",
+  "confidence": "medium",
+  "notes": "Gordon Ramsay hook, vs Amazon testo pills & shelf stack cost, reviews, guarantee"
+ },
+ "944500661289156": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "ex-champion boxer Johnny Nelson interview-style testimonial (celebrity)"
+ },
+ "1176551864576922": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "Carl Froch celebrity talk-to-camera endorsement + UGC grid"
+ },
+ "1817936735566066": {
+  "format": "Podcast",
+  "confidence": "high",
+  "notes": "two-man podcast set, guest holds product"
+ },
+ "1500954041400416": {
+  "format": "Podcast",
+  "confidence": "medium",
+  "notes": "two athletes with branded Zapply mics bantering, outdoor interview"
+ },
+ "701847096194827": {
+  "format": "Podcast",
+  "confidence": "high",
+  "notes": "Carl Froch + Eddie Hearn branded-mic couch chat"
+ },
+ "1303990868171705": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "high",
+  "notes": "'3 huge red flags' 3D anatomy + stock men + product"
+ },
+ "748288698337397": {
+  "format": "Podcast",
+  "confidence": "medium",
+  "notes": "celebrity solo at podcast mic giving testimonial"
+ },
+ "1608971276967763": {
+  "format": "Personal Story",
+  "confidence": "high",
+  "notes": "Dutch man 1-year transformation story"
+ },
+ "1295014822541232": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "Johnny Nelson celebrity testimonial cut"
+ },
+ "926015000036243": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "LMNT sparkling cans CGI/3D renders: ice, splash, condensation, cans flying, logo end card; no people",
+  "new_name": "CGI Product Hero Reel",
+  "new_def": "An all-CGI (or high-end studio) product commercial: the pack/can is the only character, floating, splashing, spinning through stylised environments while nutrition specs show on-pack; music only, logo end card.",
+  "closest": "Satisfying B-roll (Front-Splice) / Product Demo Ads - but the whole ad is a rendered product hero film, no use, no person",
+  "stage": "TOF"
+ },
+ "1979483876110823": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "LMNT: 'RA RONDELL triathlete' lower-third, VO in his own words over beach/training/bike b-roll, LMNT end card",
+  "new_name": "Mini-Doc Athlete/Customer Portrait",
+  "new_def": "Cinematic 30s documentary vignette of one real person (athlete, mom, triathlete) with a name/title lower-third: they narrate their own life and routine in VO while we see filmed b-roll of their training/family, the product appears as part of their habit, ends on a brand-only end card. Brand-film style, no talking-to-camera pitch.",
+  "closest": "UGC Testimonial Ads / Day In The Life - but it is a produced documentary portrait of a named person, not a selfie testimonial",
+  "stage": "TOF"
+ },
+ "820246937790226": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "LMNT: Lindsey Bomgren founder/mom portrait, kids, workout, sachet pour",
+  "new_name": "Mini-Doc Athlete/Customer Portrait",
+  "new_def": "Cinematic 30s documentary vignette of one real person (athlete, mom, triathlete) with a name/title lower-third: they narrate their own life and routine in VO while we see filmed b-roll of their training/family, the product appears as part of their habit, ends on a brand-only end card. Brand-film style, no talking-to-camera pitch.",
+  "closest": "Day In The Life",
+  "stage": "TOF"
+ },
+ "1293704862913222": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "LMNT: female MMA fighter, 'since I was 13', nutritionist added LMNT, title-belt win",
+  "new_name": "Mini-Doc Athlete/Customer Portrait",
+  "new_def": "Cinematic 30s documentary vignette of one real person (athlete, mom, triathlete) with a name/title lower-third: they narrate their own life and routine in VO while we see filmed b-roll of their training/family, the product appears as part of their habit, ends on a brand-only end card. Brand-film style, no talking-to-camera pitch.",
+  "closest": "Personal Story",
+  "stage": "TOF"
+ },
+ "1285845373720829": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "LMNT: same fighter mini-doc, alt cut",
+  "new_name": "Mini-Doc Athlete/Customer Portrait",
+  "new_def": "Cinematic 30s documentary vignette of one real person (athlete, mom, triathlete) with a name/title lower-third: they narrate their own life and routine in VO while we see filmed b-roll of their training/family, the product appears as part of their habit, ends on a brand-only end card. Brand-film style, no talking-to-camera pitch.",
+  "closest": "Personal Story",
+  "stage": "TOF"
+ },
+ "964544019878903": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'POV: You sweat ALL THE TIME' creator acts out exaggerated sweaty scenarios (ice rink, collapsing in yard, chef), fast word-by-word captions, mixes LMNT, punchline",
+  "new_name": "Relatable POV Comedy Skit",
+  "new_def": "Creator acts out an exaggerated, relatable scenario set up by a 'POV:' caption, rapid scene/costume changes and comedic timing; the product appears as the in-story fix or punchline. Entertainment first, pitch is a beat at the end.",
+  "closest": "Scenarios ('imagine if...') / Day In The Life - but it is scripted comedy acting, not a hypothetical opener or lifestyle footage",
+  "stage": "TOF"
+ },
+ "886724687230197": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Summer Hydration Mocktail' watermelon blender recipe with LMNT stick",
+  "new_name": "Recipe Tutorial (Cook With Me)",
+  "new_def": "see 2985905978408148",
+  "closest": "UGC How-To",
+  "stage": "TOF"
+ },
+ "1337955105115499": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "6s: 'MORE SALT / ZERO SUGAR' word supers over swimmer b-roll, logo",
+  "new_name": "6-Second Bumper",
+  "new_def": "Ultra-short 5-7s brand spot: 2-3 giant word supers over fast lifestyle b-roll, product pour, logo lock-up. Built for reach/frequency, one idea only.",
+  "closest": "Satisfying B-roll (Front-Splice) - but it is a complete standalone micro-ad, not a hook spliced onto another ad",
+  "stage": "TOF"
+ },
+ "1581454640382471": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "Dr Kelly Starrett named-expert portrait, archival football, athletes",
+  "new_name": "Mini-Doc Athlete/Customer Portrait",
+  "new_def": "see 1979483876110823 (expert variant)",
+  "closest": "Stage Talk / UGC Science Backed",
+  "stage": "TOF"
+ },
+ "1067332145827312": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'DIXON McDONALD Triathlete & IRONMAN' pre-dawn training portrait",
+  "new_name": "Mini-Doc Athlete/Customer Portrait",
+  "new_def": "see 1979483876110823",
+  "closest": "Day In The Life",
+  "stage": "TOF"
+ },
+ "1390011409562700": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "duplicate of RA Rondell mini-doc",
+  "new_name": "Mini-Doc Athlete/Customer Portrait",
+  "new_def": "see 1979483876110823",
+  "closest": "UGC Testimonial Ads",
+  "stage": "TOF"
+ },
+ "1289235449795603": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "6s LMNT bumper alt cut",
+  "new_name": "6-Second Bumper",
+  "new_def": "see 1337955105115499",
+  "closest": "Satisfying B-roll",
+  "stage": "TOF"
+ },
+ "944424888382164": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "LMNT mom-on-farm documentary portrait",
+  "new_name": "Mini-Doc Athlete/Customer Portrait",
+  "new_def": "see 1979483876110823",
+  "closest": "Day In The Life",
+  "stage": "TOF"
+ },
+ "1426800759026256": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "confidence": "medium",
+  "notes": "3-min older expert talking-head VSL with stock + clinical graphics, nitric oxide"
+ },
+ "1475958633958730": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "medium",
+  "notes": "several men's testimonial clips + 'famous professor discovered' story + 3D artery anim"
+ },
+ "1758211725159054": {
+  "format": "Fake Doctor",
+  "confidence": "high",
+  "notes": "woman in nurse scrubs selfie pitch"
+ },
+ "928498726841672": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "10s: 'BEARS EAT BEETS TO BOOST NITRIC OXIDE' surreal photo of man eating beet, product pops in, 'HUMANS TAKE BLOODFLOW-7'",
+  "new_name": "Animated Callout Static",
+  "new_def": "see 1318480580405212 (punchline variant: headline joke + product pop-in)",
+  "closest": "Satisfying B-roll",
+  "stage": "ANY"
+ },
+ "1894025017984208": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "creator holding handheld podcast mic as prop, explains leg circulation"
+ },
+ "1708218263671406": {
+  "format": "Street Interviews",
+  "confidence": "high",
+  "notes": "park interview with fit 80-y-o retired psychologist"
+ },
+ "1447773299922482": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "high",
+  "notes": "multiple older adults cold hands/feet testimonials w/ emoji overlays"
+ },
+ "1493247792497710": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "lab-coat man uses red straw/tube as artery: 'here's the physics', squeezes to show flow",
+  "new_name": "Prop Analogy Explainer",
+  "new_def": "see 1611165333679424",
+  "closest": "Fake Doctor / Animated Mechanism Explainer",
+  "stage": "TOF"
+ },
+ "1268539775406296": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "10s: man with beet-stained white shirt crushes beet 'BEARS EAT BEETS / HUMANS TAKE BLOODFLOW-7' then product card",
+  "new_name": "Slapstick Hard-Way Gag",
+  "new_def": "Comedy ad that acts out the old/natural alternative in an absurd, messy way (people smashing raw beets with hammers and chainsaws, juice splattered over white shirts), then cuts to the product as the easy grown-up way, ending on a pack shot/benefit card. The gag is the whole ad.",
+  "closest": "Product Comparison Video / Problem-Agitate-Solve - but carried by absurd physical comedy rather than side-by-side or agitation",
+  "stage": "TOF"
+ },
+ "1970734027152062": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "68s: people chainsaw/hammer raw beets, beet-stained shirts, beet powder label critique, then BloodFlow testimonials on pickleball court, 'Boost N-O better than beets'",
+  "new_name": "Slapstick Hard-Way Gag",
+  "new_def": "Comedy ad that acts out the old/natural alternative in an absurd, messy way (people smashing raw beets with hammers and chainsaws, juice splattered over white shirts), then cuts to the product as the easy grown-up way, ending on a pack shot/benefit card. The gag is the whole ad.",
+  "closest": "Product Comparison Video",
+  "stage": "TOF"
+ },
+ "806400905870128": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Here's a confession' beet-smeared men, doodle line-art mechanism, 3D artery, testimonials, review grid",
+  "new_name": "Slapstick Hard-Way Gag",
+  "new_def": "see 1970734027152062",
+  "closest": "Product Comparison Video",
+  "stage": "TOF"
+ },
+ "848979311563482": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "11s 'DEATH TO BEETS!!' woman smashes beet on stump, screams, product 'The Beet Root Killer' card",
+  "new_name": "Slapstick Hard-Way Gag",
+  "new_def": "see 1970734027152062",
+  "closest": "Product Comparison Video",
+  "stage": "TOF"
+ },
+ "2148362772670484": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "medium",
+  "notes": "older man outdoors selfie: blood flow problem -> agitation -> product, Men's Health badge"
+ },
+ "686703974273829": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "creator gags on chalky matcha, then shows Cuppa matcha mix, 25% off"
+ },
+ "1270690501064976": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "green-screen creator over aesthetic matcha b-roll"
+ },
+ "2066381924180988": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "11s: piles of coffee pouches, caption 'Did I scam this company or did they mess up my order?' -> 'Turns out neither, deal of the century, 162 free cups'",
+  "new_name": "Offer Stack Walkthrough",
+  "new_def": "see 1066312073228557 (silent deal-haul variant: product pile + 'too good to be true' caption)",
+  "closest": "Unboxing",
+  "stage": "BOF"
+ },
+ "1218721716382871": {
+  "format": "Personal Story",
+  "confidence": "medium",
+  "notes": "walking selfie 'I got rid of...' dopamine story w/ cartoon meme insert, sale ends"
+ },
+ "2029464044450533": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'biggest deal of 2025' bag -> 'Inside the bag' landing-page graphic with creator PiP listing contents, 45% off, free shipping",
+  "new_name": "Offer Stack Walkthrough",
+  "new_def": "see 1066312073228557",
+  "closest": "Unboxing",
+  "stage": "BOF"
+ },
+ "1673050013894973": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "high",
+  "notes": "'Is this you?' bloating UGC -> product"
+ },
+ "3239850806177866": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "7s green-screen: guy facepalms/regrets over caption 'ME rn because cuppa giving away 6 months free and I just stocked up last week'",
+  "new_name": "Relatable POV Comedy Skit",
+  "new_def": "see 964544019878903 (meme-reaction micro variant)",
+  "closest": "Reaction / Trend-Hijack",
+  "stage": "BOF"
+ },
+ "1516118169890851": {
+  "format": "Product Comparison Video",
+  "confidence": "high",
+  "notes": "vs old mushroom coffee: potency, taste, cost w/ sticky notes"
+ },
+ "1554458829595816": {
+  "format": "Product Comparison Video",
+  "confidence": "high",
+  "notes": "whiteboard dose math vs competitor"
+ },
+ "1331875889069377": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'50% off Year of Coffee bundle - /bin/bash.50 per cup' sticky-note prices on bags, box opening, compare to $1,800 others pay, lifestyle, 'click below to lock in'",
+  "new_name": "Offer Stack Walkthrough",
+  "new_def": "see 1066312073228557",
+  "closest": "Unboxing",
+  "stage": "BOF"
+ },
+ "1733343304498477": {
+  "format": "Product Comparison Video",
+  "confidence": "high",
+  "notes": "'Stop wasting money on mushroom coffee' label comparison"
+ },
+ "1676384437068772": {
+  "format": "Fake Doctor",
+  "confidence": "medium",
+  "notes": "pharmacist in pharmacy wearing open shirt over fake belly costume, explains GLP-1 endocrine; costume prop"
+ },
+ "1816839205658488": {
+  "format": "Educational UGC",
+  "confidence": "high",
+  "notes": "selfie explainer GLP-1/cinnamon -> end card"
+ },
+ "2381067385703402": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "older woman holds bottle, UTI testimonial"
+ },
+ "947845244491051": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "12s silent: 'POV: overstimulated mom finally found natural solution' while taking dropper"
+ },
+ "1633886444679025": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "man talking head + b-roll gummies"
+ },
+ "990821316455084": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "mom VO over toddler footage, gummies"
+ },
+ "553183074537161": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "high",
+  "notes": "mom on teen fatigue + motion graphics vitamins"
+ },
+ "1417498332805051": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "high",
+  "notes": "toddler meltdown b-roll VO -> gummies -> calm kids"
+ },
+ "1337702838084432": {
+  "format": "UGC Listicle",
+  "confidence": "medium",
+  "notes": "'4 proven tips for beer belly' Dutch creator"
+ },
+ "1493476221646614": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "44-y-o man beanie selfie testimonial"
+ },
+ "1157671022782104": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "influencer in sauna, polished testimonial"
+ },
+ "1300079701502363": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "car selfie 1-year glutathione testimonial"
+ },
+ "2989135171293080": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "creator VO over rapid-fire found footage: B&W archival film, garbage truck, NIH paper screenshot, anime power-up, landfill, microscopy; creator holds bottle at end",
+  "new_name": "Found-Footage Meme Montage",
+  "new_def": "A voiceover (creator/founder) explains the problem while every 1-2s cuts to a different borrowed clip: archival B&W film, movie/anime moments, news/journal screenshots, metaphor stock (trash heap = toxins). Word-by-word captions; the person appears only briefly with the product. A 'brainrot'-style edit that makes an explainer feel like entertainment.",
+  "closest": "Breakdown / Explainer / Educational UGC - same teaching job, but the whole ad is a meme-clip collage rather than a talking head or animation",
+  "stage": "TOF"
+ },
+ "2239752583175033": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "medium",
+  "notes": "celebrity athlete couple (Laird Hamilton/Gabby Reece style) talking at kitchen island, interview framing"
+ },
+ "1038859148357257": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "seated celebrity athlete interview-style testimonial + b-roll"
+ },
+ "1885237035464929": {
+  "format": "Educational UGC",
+  "confidence": "high",
+  "notes": "MTHFR education in kitchen, dropper"
+ },
+ "1778044792811443": {
+  "format": "Podcast",
+  "confidence": "high",
+  "notes": "man at podcast mic testimonial-style about NAD"
+ },
+ "24443917985245952": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "trainer in gym holding bottle"
+ },
+ "1493660569145400": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "cinematic morning-routine brand film of named biohacker (white jacket), close-ups, VO 'my mornings...NAD+', bottle end",
+  "new_name": "Mini-Doc Athlete/Customer Portrait",
+  "new_def": "see 1979483876110823",
+  "closest": "Day In The Life",
+  "stage": "TOF"
+ },
+ "717100671361293": {
+  "format": "Podcast",
+  "confidence": "medium",
+  "notes": "podcast-mic talking head + b-roll"
+ },
+ "1489075852504663": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "10s silent B&W (AI-looking) red-carpet loop: glamorous young woman with old heavy man; all selling done by long primary text about male sexual health",
+  "new_name": "Silent Visual Loop + Long Copy",
+  "new_def": "A short (6-12s) silent, intriguing or provocative visual loop (often AI/archival look) with NO on-screen text or VO; it exists only to stop the scroll and carry a long-form story in the primary text, advertorial style.",
+  "closest": "Text-Wall Story (Read-Along Still) - but the story is in the caption not on screen, and the visual is a moving cinematic loop",
+  "stage": "TOF"
+ },
+ "24084840031147118": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "labelled actor testimonial, grandma prime"
+ },
+ "1620130706433932": {
+  "format": "Fake Doctor",
+  "confidence": "high",
+  "notes": "pharmacist in pharmacy w/ Dwight Schrute cardboard cutout gag"
+ },
+ "1416921833782153": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "woman holding bottle reflux story"
+ },
+ "2180191979466637": {
+  "format": "Educational UGC",
+  "confidence": "high",
+  "notes": "'3 signs you have MTHFR' listicle-ish education, dropper into drink"
+ },
+ "4147375968907316": {
+  "format": "Case Studies",
+  "confidence": "medium",
+  "notes": "'3 different problems, 3 different people, 1 supplement' pharmacist car selfie, case stories"
+ },
+ "4402390523351289": {
+  "format": "Founder Story Ads",
+  "confidence": "medium",
+  "notes": "branded-sweatshirt founder explaining why they made it"
+ },
+ "2560406907686893": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "UGC embedded in a 3-panel landscape template: offer banner + UGC + benefit icons"
+ },
+ "954924096930369": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "pharmacist in 'PHARMACY' candy-store set blows into clear tube 'pee tube', uses plastic tubing to show E. coli path, cranberry pack",
+  "new_name": "Prop Analogy Explainer",
+  "new_def": "see 1611165333679424",
+  "closest": "Fake Doctor",
+  "stage": "TOF"
+ },
+ "1591451022334755": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "mom UGC + review screenshots + Cinnabon collab end card"
+ },
+ "2259874031447973": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator UGC with Cinnabon collab, macros paper cutouts"
+ },
+ "1388778853133648": {
+  "format": "Celebrity Podcast Clip (Borrowed Authority)",
+  "confidence": "medium",
+  "notes": "celebrity (Sonia Kruger-like) on podcast set talking about shakes, then product card"
+ },
+ "1524152926420727": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "influencer reviews Hydraglow flavors"
+ },
+ "4447016225570863": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "TV presenter behind-the-scenes busy day, glow shakes"
+ },
+ "2521042625015457": {
+  "format": "Product Comparison Video",
+  "confidence": "high",
+  "notes": "POV budget: $20 takeaway vs $6 shake whiteboard math"
+ },
+ "901822125755952": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "medium",
+  "notes": "several creators' clips on energy drink"
+ },
+ "1708680530383750": {
+  "format": "Podcast",
+  "confidence": "high",
+  "notes": "woman at podcast mic, bloating, 20% off"
+ },
+ "939327268712383": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "'Don't skip if you want to lose 10kg' weight-loss testimonial + review cards + before/after"
+ },
+ "1296027135731221": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "silent b-roll of mom+baby making shake with a fake tweet card 'I struggled to lose weight postpartum... dropped two dress sizes' fixed on screen, end card",
+  "new_name": "Tweet Card Over B-roll",
+  "new_def": "A social-post screenshot (tweet/review card with avatar + handle) sits on screen for the whole ad over silent lifestyle/product b-roll; the testimonial is read, not spoken. Looks like a reposted tweet video.",
+  "closest": "Text-Wall Story (Read-Along Still) / UGC Testimonial Ads - but it is moving b-roll with a social-post card, not a still with a long story, and nobody speaks",
+  "stage": "MOF"
+ },
+ "1413907497309304": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "'POV: weight loss is easy because it tastes like childhood dessert' pour + checklist ticks + collab card"
+ },
+ "4512910275619268": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "nutritionist at whiteboard 'spilling the tea about bloating', model with bloated belly, 15% off"
+ },
+ "1086704070547349": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "'I've been taking peptides' face hook then pour demo with benefit ticks"
+ },
+ "1792272731334755": {
+  "format": "Myth Buster",
+  "confidence": "medium",
+  "notes": "comedian JP Sears satirizes 'science-backed' big supplement cos (cartoon evil factory), Amazon proof"
+ },
+ "1130611919221946": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "creator lists everything in FEM welcome kit: 2 bottles + free 3rd + colostrum + magnesium spray + tote + 365-day guarantee",
+  "new_name": "Offer Stack Walkthrough",
+  "new_def": "see 1066312073228557",
+  "closest": "Unboxing",
+  "stage": "BOF"
+ },
+ "1568640430827533": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "Black Friday creator 'I tossed my multivitamins' w/ dog"
+ },
+ "1851498589570047": {
+  "format": "Fake Doctor",
+  "confidence": "medium",
+  "notes": "real doctor partner (Dr Ken Berry) talking head + podcast + UGC testimonials"
+ },
+ "1944828056240376": {
+  "format": "Fake Doctor",
+  "confidence": "medium",
+  "notes": "10s 'POV: your patients start taking...' nurse holds bottle, clinic b-roll"
+ },
+ "1301909802003846": {
+  "format": "UGC Science Backed",
+  "confidence": "medium",
+  "notes": "8.7-min doctor long-form talk with studies, 3D cells, testimonials, guarantee"
+ },
+ "955938787269601": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "silent 15s product haul pile 'Just got all of this for \u00a3100 off!!'",
+  "new_name": "Offer Stack Walkthrough",
+  "new_def": "see 2066381924180988 (silent haul variant)",
+  "closest": "Unboxing",
+  "stage": "BOF"
+ },
+ "1281829860831387": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "seated woman interview-style testimonial 'what happens when you take 11,000mg'"
+ },
+ "2244616142974276": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Buying the best collagen in Harrods': creator walks into Harrods, asks shop assistant 'could you show me?', staff (filmed from neck down) recommends Zooki as most popular, explains it, bags it; ends with Harrods bag",
+  "new_name": "In-Store Staff Recommendation",
+  "new_def": "Creator films a POV shopping trip into a prestigious real retailer and asks the sales assistant which product to buy; the staff member's unscripted-looking recommendation and explanation is the pitch, ending with the purchase/shopping bag. Borrows the store's prestige and the staff's neutrality.",
+  "closest": "Street Interviews (asking strangers) / Reaction (borrowed fame) - here the authority is a retail expert inside a premium store, and the brand is shown winning on a real shelf",
+  "stage": "TOF"
+ },
+ "1531209985200450": {
+  "format": "UGC Listicle",
+  "confidence": "medium",
+  "notes": "founder in retail aisle '3 reasons why collagen doesn't work'"
+ },
+ "1529223425505988": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "celebrity presenter (Rochelle Humes) kitchen-counter UGC"
+ },
+ "26744175965235987": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "17s silent: 'POV: It's been 1 month since your first sachet and...' then each result line ('fine lines disappearing', 'hair growing faster') over slow-mo sachet pour b-roll",
+  "new_name": "Silent POV Caption B-roll",
+  "new_def": "Silent aesthetic product b-roll (pour, fizz, stir) under a 'POV: it's been X weeks since...' caption that rolls through a list of results one line per shot; no person talks. A results promise delivered as a mood edit.",
+  "closest": "Satisfying B-roll (Front-Splice) / Text-Wall Story - but it is a full standalone ad where the caption sequence carries a future-self results narrative",
+  "stage": "MOF"
+ },
+ "1554108232806606": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'POV: You open your free Zooki starter pack' hands-only unbox, each item labelled Free Glass Bottle / Free Magnesium / Free Vitamin C...",
+  "new_name": "Offer Stack Walkthrough",
+  "new_def": "see 1066312073228557 (hands-only free-gift unbox variant)",
+  "closest": "Unboxing (First-Open Reveal)",
+  "stage": "BOF"
+ },
+ "944093518204992": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "'how to delay botox' creator results, silent captions"
+ },
+ "1488246808907162": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "medium",
+  "notes": "multiple creators + seated host explainer"
+ },
+ "1517558493405701": {
+  "format": "UGC How-To",
+  "confidence": "medium",
+  "notes": "'CollagenMaxxing' routine: LED mask + collagen stack, creator routine"
+ },
+ "2043153366305211": {
+  "format": "Reply To Question",
+  "confidence": "high",
+  "notes": "founder on podcast set replies to TikTok comment re botox, pros/cons cards, clinical chart"
+ },
+ "985017190565058": {
+  "format": "Founder Story Ads",
+  "confidence": "high",
+  "notes": "founder car selfie 'that's why we made Zooki'"
+ },
+ "1654069942373105": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "4.5-min: founder at podcast desk reviews customer 'Botox vs Zooki collagen before and afters' photos one by one, commenting on each",
+  "new_name": "Before/After Photo Review Show",
+  "new_def": "Host/founder/expert sits on a podcast-style set and goes through customer-submitted before/after photos one at a time, reacting and explaining what changed and why; the photo parade is the proof engine.",
+  "closest": "Case Studies (one result) / Reaction - here it is a long running review of many customers' photos by a host",
+  "stage": "MOF"
+ },
+ "1297705718433070": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "11s POV walking holding gummy bottle, caption 'Crazy Saving'",
+  "new_name": "Silent POV Caption B-roll",
+  "new_def": "see 26744175965235987",
+  "closest": "Satisfying B-roll",
+  "stage": "BOF"
+ },
+ "1372222191408540": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "top-down protein energy-bites recipe with protein powder",
+  "new_name": "Recipe Tutorial (Cook With Me)",
+  "new_def": "see 2985905978408148",
+  "closest": "UGC How-To",
+  "stage": "TOF"
+ },
+ "4543756329241636": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "basketball dunk session, drinks hydration packet between dunks"
+ },
+ "2494980580971711": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "creator meets tall guy on court who can't dunk, '10 minutes later' cuts to CVS, buys TruHeight off shelf, hands it over 'here take these, CVS got Tru'",
+  "new_name": "Stranger Problem, Store-Run Fix",
+  "new_def": "Street-creator stops a stranger with a visible problem, chats on camera, then a '10 minutes later' cut shows the creator buying the product off a real retail shelf and handing it to the stranger. Combines street-interaction authenticity with proof the product is in mainstream stores.",
+  "closest": "Street Interviews - but there is no interview Q&A; it is a good-deed mini-story with a retail-shelf purchase",
+  "stage": "TOF"
+ },
+ "1060974249653108": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "12s static bottle on towel, 'Looking for vitamin D, K and calcium in one gummy?' caption, red arrow",
+  "new_name": "Silent POV Caption B-roll",
+  "new_def": "see 26744175965235987 (static-bottle variant)",
+  "closest": "Satisfying B-roll",
+  "stage": "MOF"
+ },
+ "1661358555016636": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "handheld bottle + gummy on table, brand caption only",
+  "new_name": "Silent POV Caption B-roll",
+  "new_def": "see 26744175965235987",
+  "closest": "Product Demo Ads",
+  "stage": "MOF"
+ },
+ "3260369560831510": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "dup of 1060974249653108",
+  "new_name": "Silent POV Caption B-roll",
+  "new_def": "see 26744175965235987",
+  "closest": "Satisfying B-roll",
+  "stage": "MOF"
+ },
+ "937303935581067": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "8s hand pours gummies by Xmas tree, 'The gift my moody teen actually thanked me for'",
+  "new_name": "Silent POV Caption B-roll",
+  "new_def": "see 26744175965235987",
+  "closest": "Gift Reaction Reveal",
+  "stage": "TOF"
+ },
+ "1401289481764459": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "15s handheld two bottles on counter, silent"
+ },
+ "2522090251577377": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "2112178496038416": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "962856976779514": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "1568439611474280": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "1105165208510437": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "1837688877611367": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "1722004215547928": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "1526100828774368": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "1373875831559703": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "1810679770360815": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "1428110886115422": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "1070756185335672": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "1005085662551495": {
+  "format": "SKIPPED",
+  "confidence": "high",
+  "notes": "off-brand rowenhomes (Rowen page) matched happyv search"
+ },
+ "4554613578152887": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "12s silent handheld bottles outdoors, label turn",
+  "new_name": "Silent POV Caption B-roll",
+  "new_def": "see 26744175965235987",
+  "closest": "Product Demo Ads",
+  "stage": "MOF"
+ },
+ "2270145187120529": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "12s 'Parent approved' gummies on flower backdrop",
+  "new_name": "Silent POV Caption B-roll",
+  "new_def": "see 26744175965235987",
+  "closest": "Satisfying B-roll",
+  "stage": "MOF"
+ },
+ "1795551218262837": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "teen 'All it takes is gummies..?' handheld"
+ },
+ "773608001359796": {
+  "format": "Myth Buster",
+  "confidence": "medium",
+  "notes": "'Before you buy a hydrogen bottle' dupes warning, stitches, studies, 3D anatomy"
+ },
+ "4098907390372376": {
+  "format": "Personal Story",
+  "confidence": "medium",
+  "notes": "captioned first-person 52-y-o cortisol belly story with b-roll, 4/6 weeks in"
+ },
+ "973297965302771": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "60s cinematic AI-generated scenes (clothing store XXL, pitying clerk, Polaroid belly, glowing cortisol anatomy, AI doctor) with first-person captions, then phone quiz walkthrough -> results",
+  "new_name": "AI Cinematic Caption Story",
+  "new_def": "A fully AI-generated, film-look narrative: photoreal scenes of a protagonist's humiliating moment and struggle, told only through first-person captions (no lip-sync avatar), cutting to stylised 'mechanism' visuals and an expert, then the fix (product or quiz). Cheap to produce, reads like a short film.",
+  "closest": "AI UGC Avatar (talking avatar) / Personal Story - different: no talking head at all, it is AI b-roll cinema carrying a captioned story",
+  "stage": "TOF"
+ },
+ "1703354074314330": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "wife in car 'Your man isn't fat, he's estrogen dominant' + UGC grid end"
+ },
+ "1577272050811142": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "captioned husband story 'my wife came home and froze' over staged/AI cinematic scenes w/ comic speech bubble, AI estrogen chart, 3D liver, capsule cutaway",
+  "new_name": "AI Cinematic Caption Story",
+  "new_def": "see 973297965302771",
+  "closest": "Personal Story",
+  "stage": "TOF"
+ },
+ "1446661794261491": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "medium",
+  "notes": "wife with notepad 'diagnosing' couch-potato husband, then two bottles"
+ },
+ "4011806688954010": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "wife in car on husband's moobs, ingredient study screenshots"
+ },
+ "27037648832492563": {
+  "format": "Challenge",
+  "confidence": "medium",
+  "notes": "'POV: lost beer belly without giving up beer' week 2/4/8 progress + explosive CGI bottle end"
+ },
+ "4449695255357283": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "man's mirror story -> 'did research' -> scientist 'High-T Male' -> screen-records taking the 2-min hormone-type quiz on phone -> results page -> 'link below to take the assessment'",
+  "new_name": "Quiz Walkthrough",
+  "new_def": "The ad's payoff is the brand's online quiz: a relatable person explains their problem, says they found a quiz/assessment, then the screen recording walks through the questions and the personalised result, CTA = take the quiz (not buy). Sells the diagnosis step instead of the product.",
+  "closest": "Product Demo Ads / UGC How-To - but what is demoed is the quiz funnel, not the product",
+  "stage": "TOF"
+ },
+ "1509638137576122": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "medium",
+  "notes": "dup of 1446661794261491 wife notepad husband"
+ },
+ "1660586031681531": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "dad energetic with kids, captioned 'stop the afternoon crash with one change'"
+ },
+ "1331153901716409": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'You found our three products... which one do I even need?' -> men types montage -> scientist 'free 2-minute dad bod quiz' -> quiz screens 'calculating your results'",
+  "new_name": "Quiz Walkthrough",
+  "new_def": "see 4449695255357283",
+  "closest": "Product Comparison Video",
+  "stage": "TOF"
+ },
+ "1593821603339431": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "wife's captions 'I used to notice Gerry hitting a wall...' over candid footage of husband working, biking, walking dog",
+  "new_name": "Partner-Observed Testimonial",
+  "new_def": "The spouse/partner narrates (captions or VO) what they have noticed in their partner since he/she started the product, over candid fly-on-the-wall footage of the partner's daily routine (taking capsules at breakfast, working, walking the dog). The user never pitches; the observer's 'I noticed...' is the proof.",
+  "closest": "Lesson From Others (Mentor Story) / UGC Testimonial Ads - testimonial is third-person by a live-in observer over candid b-roll of the user",
+  "stage": "MOF"
+ },
+ "1413088850687766": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "wife captions over Gerry taking 3 capsules at breakfast 'I've noticed steadier energy'",
+  "new_name": "Partner-Observed Testimonial",
+  "new_def": "The spouse/partner narrates (captions or VO) what they have noticed in their partner since he/she started the product, over candid fly-on-the-wall footage of the partner's daily routine (taking capsules at breakfast, working, walking the dog). The user never pitches; the observer's 'I noticed...' is the proof.",
+  "closest": "Lesson From Others",
+  "stage": "MOF"
+ },
+ "1362775675657760": {
+  "format": "Product Comparison Video",
+  "confidence": "medium",
+  "notes": "before blue pill/after nature's viagra split, AI imagery + UGC grid, scarcity"
+ },
+ "2347558652390948": {
+  "format": "Fake Doctor",
+  "confidence": "high",
+  "notes": "(AI?) doctor green-screened over urine/toilet + 3D kidney footage, week-by-week"
+ },
+ "1892462591462770": {
+  "format": "Personal Story",
+  "confidence": "medium",
+  "notes": "AI-ish fitness man diabetes/ED story, b-roll + UGC"
+ },
+ "1041071238266709": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "medium",
+  "notes": "fit creator, fat man prop beside, carrot gag, ingredient pitch"
+ },
+ "2151225712115890": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "confidence": "medium",
+  "notes": "green-screen presenter over AI cell/brain animations, Parkinson's angle"
+ },
+ "1293260946218184": {
+  "format": "Breakdown / Explainer",
+  "confidence": "medium",
+  "notes": "captioned AI b-roll story/explainer nurse Parkinson's, ashwagandha vs shilajit"
+ },
+ "1070309415412953": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "confidence": "high",
+  "notes": "10-min slow-scrolling text crawl over one photo 'A neurologist's confession' - scrolling video variant"
+ },
+ "1092518687063586": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "confidence": "high",
+  "notes": "AI skeleton character in bedroom narrates ED joke + mechanism"
+ },
+ "3990882254426035": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "AI photoreal story: wife 'I thought my husband...' Parkinson's, gummies with coffee, day 60 neurologist, family photo album; captions/VO",
+  "new_name": "AI Cinematic Caption Story",
+  "new_def": "see 973297965302771",
+  "closest": "Personal Story",
+  "stage": "TOF"
+ },
+ "1043064665351919": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "confidence": "medium",
+  "notes": "3D cartoon doctor character narrates over real/AI footage"
+ },
+ "3231099657092464": {
+  "format": "Breakdown / Explainer",
+  "confidence": "medium",
+  "notes": "dup-style of 1293260946218184 captioned AI b-roll explainer"
+ },
+ "4580180292226566": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "AI photoreal couple story: wife hands husband gummies, Rx 'just manages' note, blood cells, he dances in yard, family photo",
+  "new_name": "AI Cinematic Caption Story",
+  "new_def": "see 973297965302771",
+  "closest": "Personal Story",
+  "stage": "TOF"
+ },
+ "1368542028585895": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "5.6-min Pixar-style 3D animated story: man with Parkinson's can't open car door in front of son, neurology clinic, scientist with amber bottle, week 2/3 progress, doctor 'motor scores improved', product end",
+  "new_name": "3D Animated Story (Pixar-Style)",
+  "new_def": "A full narrative short in Pixar/Disney-style 3D animation: a cartoon protagonist lives the problem in emotional scenes, meets the discovery/expert, and recovers over 'week 1/2/3' beats, with mechanism visuals cut in; captions/VO carry the story; ends on product + offer.",
+  "closest": "Animated Mechanism Explainer (clinical, textbook look) / Claymation - different: it is character-driven cartoon storytelling, not a medical explainer or clay",
+  "stage": "TOF"
+ },
+ "2294826498005778": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "8s animated static: strawberry + jar, headline 'Wake up your metabolism', frost particles, guarantee bar",
+  "new_name": "Animated Callout Static",
+  "new_def": "see 1318480580405212",
+  "closest": "Satisfying B-roll",
+  "stage": "ANY"
+ },
+ "783063281494376": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "8s animated static variant",
+  "new_name": "Animated Callout Static",
+  "new_def": "see 1318480580405212",
+  "closest": "Satisfying B-roll",
+  "stage": "ANY"
+ },
+ "1649791402762022": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "creator w/ handwritten yellow sign 'Collagenic Burn' prop + jar"
+ },
+ "967410415706788": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "real hand draws on whiteboard with markers: stick-figure woman, 'Can't have HRT', 'KSM-66 38 clinical trials', sticky notes, drawn product jar, checklist energy/sleep/mood, real product end",
+  "new_name": "Whiteboard Doodle Explainer",
+  "new_def": "A hand with markers draws the whole story live on a whiteboard/paper (stick-figure protagonist, problem words, crossed-out alternatives, ingredient sticky-notes, a drawn product), VO/captions narrate; the real product appears only at the end. Lo-fi, hand-made teaching style.",
+  "closest": "Animated Mechanism Explainer (polished clinical animation) / Educational UGC (talking head) - this is hand-drawn-in-real-time whiteboard storytelling",
+  "stage": "TOF"
+ },
+ "1448368966767205": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "Pixar-style 3D: woman with hot flash, cute cortisol blob character wreaks havoc in body, ingredient-hero 'KSM-66 Ashwagandha' monk character restores order, product end",
+  "new_name": "3D Animated Story (Pixar-Style)",
+  "new_def": "see 1368542028585895 (inside-the-body ingredient-hero variant; overlaps Talking Characters)",
+  "closest": "Talking Objects / Characters / Body Parts",
+  "stage": "TOF"
+ },
+ "1628865678399354": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "car selfie perimenopause testimonial"
+ },
+ "1325148639041755": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Woman lectures millennial about menopause' - two women at a black studio table, AGREE/DISAGREE title card, they debate, captions; brand appears subtly",
+  "new_name": "Jubilee-Style Debate Show",
+  "new_def": "Two (or more) people from opposing camps (generations, beliefs) sit across a table on a dark studio set in the 'Jubilee/Middle Ground' YouTube style, with prompt cards like AGREE/DISAGREE; the unscripted-feeling disagreement surfaces the problem and the product enters as the resolution. Looks like a viral debate show clip.",
+  "closest": "Podcast / Street Interviews - but it is a staged opposing-views debate show set, not a host interview",
+  "stage": "TOF"
+ },
+ "27570236605945837": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "text-in-powder 'Bloated again...' aesthetic product b-roll w/ captions"
+ },
+ "2156351348464719": {
+  "format": "Founder Story Ads",
+  "confidence": "high",
+  "notes": "founder talking to camera + superfood b-roll"
+ },
+ "4391427277766225": {
+  "format": "Reply To Question",
+  "confidence": "high",
+  "notes": "founder answers customer comment cards re animal collagen"
+ },
+ "1068008212218452": {
+  "format": "TV Segment Clip (As Seen On TV)",
+  "confidence": "high",
+  "notes": "Dragons' Den pitch clip"
+ },
+ "28817020334565123": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "'a friend told me about this' woman kitchen"
+ },
+ "1361404692753194": {
+  "format": "UGC How-To",
+  "confidence": "medium",
+  "notes": "'coffee hack' hands-only collagen latte + price per day"
+ },
+ "4303855306531705": {
+  "format": "Pack An Order With Me (Fulfilment POV)",
+  "confidence": "high",
+  "notes": "warehouse POV, packs customer order w/ new formula"
+ },
+ "872413075231629": {
+  "format": "Personal Story",
+  "confidence": "high",
+  "notes": "car + kitchen captioned perimenopause story"
+ },
+ "2832318847132222": {
+  "format": "Breakdown / Explainer",
+  "confidence": "medium",
+  "notes": "lab-coat expert at flipchart explains perimenopause & KSM-66 trials"
+ },
+ "873685435711422": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "CN founder in gold F1 race car in HQ teases staffer Julian, 2+1 deal, dramatic 'VOOR GOUD' spit/smoke gag",
+  "new_name": "In-House Sketch Comedy (Brand Staff Skit)",
+  "new_def": "Founder/staff act out a short scripted comedy sketch inside the brand's own HQ/warehouse/office (characters, costumes, props, punchline gag such as a dry-scoop spit-take), with the product or deal as the punchline; recurring cast makes it feel like a brand sitcom. Entertainment-first, offer stated in one line.",
+  "closest": "Relatable POV Comedy Skit (single creator, relatable scenario) / Founder Story - different: recurring brand cast doing a gag sketch in HQ",
+  "stage": "TOF"
+ },
+ "1458465252648554": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "8s founder + staff in Dutch-flag tracksuits on branded backdrop, 'Ga voor goud' 2+1 deal, staff dives in, dry-scoop gag",
+  "new_name": "In-House Sketch Comedy (Brand Staff Skit)",
+  "new_def": "Founder/staff act out a short scripted comedy sketch inside the brand's own HQ/warehouse/office (characters, costumes, props, punchline gag such as a dry-scoop spit-take), with the product or deal as the punchline; recurring cast makes it feel like a brand sitcom. Entertainment-first, offer stated in one line.",
+  "closest": "Relatable POV Comedy Skit",
+  "stage": "BOF"
+ },
+ "948410227750429": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "staff/athlete talking to camera about favourite pre-workout + 2+1 deal"
+ },
+ "1008760768158263": {
+  "format": "Founder Story Ads",
+  "confidence": "low",
+  "notes": "founder (Jay Cutler) in gym direct-to-camera offer announcement - closest: founder offer pitch"
+ },
+ "1170381278358614": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator reads review screenshots overlaid, product"
+ },
+ "1565026964563689": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "founder introduces new product, drinks it"
+ },
+ "1503701868079545": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "'How I finally got abs' kitchen creator, fast cuts"
+ },
+ "959117193239069": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator pours shot, explains carnitine"
+ },
+ "1263845719279842": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "TikTok-shop style 'TS gave me abs' creator stack"
+ },
+ "1296795895981032": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "high-energy creator smashing watermelons w/ machete then carnitine pitch (chaotic TikTok Shop style)"
+ },
+ "1897571854253613": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "founder in warehouse rapidly stacks 3 products on table 'pick any 3, 35% off + free gift'",
+  "new_name": "Offer Stack Walkthrough",
+  "new_def": "see 1066312073228557 (founder warehouse variant)",
+  "closest": "Unboxing",
+  "stage": "BOF"
+ },
+ "1527942448688201": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator stack demo"
+ },
+ "970124938836750": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'How I revealed my abs' kitchen stack"
+ },
+ "1465828404489476": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'this feels illegal' kitchen counter carnitine"
+ },
+ "1453131842740755": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "founder in warehouse stacks bundle, 35% off any 3",
+  "new_name": "Offer Stack Walkthrough",
+  "new_def": "see 1897571854253613",
+  "closest": "Unboxing",
+  "stage": "BOF"
+ },
+ "1479149660679463": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "Hindi creator selfie liver detox w/ liver-damage sticker"
+ },
+ "906268552486872": {
+  "format": "TV Segment Clip (As Seen On TV)",
+  "confidence": "medium",
+  "notes": "Shark Tank India judge clip opener then founder seated pitch + 3D lungs"
+ },
+ "1529439825591722": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'FACE FAT? Gone at Rs66/day' AI morph Day 0 -> Day 90 face, then capsule rain + combo pack + code",
+  "new_name": "AI Before/After Morph",
+  "new_def": "A 6-15s ad built around one AI-generated transformation: the same body part/face morphs from 'Day 0' to 'Day 90' (measurement tape, fat melting away) under a bold problem headline, then cuts to the product pack with price-per-day and code. No people speaking, no real testimonial; the morph IS the promise.",
+  "closest": "Animated Callout Static / Challenge (before/after) - here the transformation morph itself is the ad",
+  "stage": "BOF"
+ },
+ "2068670584077895": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "confidence": "medium",
+  "notes": "hand feeds cute fatty-liver character ingredients, liver turns healthy & flexes (non-speaking character)"
+ },
+ "1229885269130785": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Bye bye arm fat' AI arm morph 35cm->25cm Day 0->Day 90, product + code",
+  "new_name": "AI Before/After Morph",
+  "new_def": "A 6-15s ad built around one AI-generated transformation: the same body part/face morphs from 'Day 0' to 'Day 90' (measurement tape, fat melting away) under a bold problem headline, then cuts to the product pack with price-per-day and code. No people speaking, no real testimonial; the morph IS the promise.",
+  "closest": "Challenge",
+  "stage": "BOF"
+ },
+ "1888639361834820": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'From saggy chest to defined chest in 90 days' CG torso morph Day0->Day90, combo + 40% off",
+  "new_name": "AI Before/After Morph",
+  "new_def": "see 1529439825591722",
+  "closest": "Challenge",
+  "stage": "BOF"
+ },
+ "1335001027986590": {
+  "format": "UGC Listicle",
+  "confidence": "high",
+  "notes": "trainer '3 signs of bad recovery' with sticker overlays"
+ },
+ "948212001542068": {
+  "format": "Founder Story Ads",
+  "confidence": "medium",
+  "notes": "founder at desk 'Founder's Speak' + Shark Tank clip insert"
+ },
+ "1043074014778506": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Biryani belly to beach body' illustrated belly morph Day0->Day90",
+  "new_name": "AI Before/After Morph",
+  "new_def": "see 1529439825591722",
+  "closest": "Challenge",
+  "stage": "BOF"
+ },
+ "1643906016682229": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "woman tired/drained -> electrolytes -> active day montage"
+ },
+ "2578908252560432": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "15s animated 3-panel progression Day1/4 weeks/3 months artery+liver clearing, price per capsule",
+  "new_name": "AI Before/After Morph",
+  "new_def": "see 1529439825591722 (internal-organ progression variant)",
+  "closest": "Animated Mechanism Explainer",
+  "stage": "BOF"
+ },
+ "1004422495805400": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "presenter talking to camera holding combo, ingredient graphics"
+ },
+ "1700899707861786": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'finally got it' restock vlog selfie"
+ },
+ "1411030900187697": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "3458983494242592": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1524077891937814": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1527219008310984": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1604157534325071": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "706029848606710": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "683744404665833": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1309348667279229": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1731191294203964": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "791456326616379": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1083761177165746": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1820592722178089": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1386034979777408": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "2287953384954933": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "653908747770046": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1840114280232292": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1636645777002405": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1044874277807084": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1252659556327873": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1271032044405563": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "731274362995847": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "2501136246909932": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "844300284687425": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1008563961435773": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "2035016193985198": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "734056642329028": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1512049716614760": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1172784344397593": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed); ad text suggests office-humor staff skit (#officelife) -> possibly In-House Sketch Comedy"
+ },
+ "1400225832110733": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed); ad text suggests office-humor staff skit (#officelife) -> possibly In-House Sketch Comedy"
+ },
+ "1109095614757870": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1817869705437121": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "2152243848541763": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "763297236074250": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "990435439759769": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1729349678012192": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "785772583812584": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1482835346161312": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "2042957526538295": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "2344221376039209": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1348584706934159": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "780708495013136": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "4256368424574521": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "844591064707255": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1429607605396039": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1326516232274004": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "2070499553757887": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1517467149662622": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "640292208391726": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "769308532189263": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1101017251883992": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1316292806887445": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "611095728317253": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1084608546945411": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "759426303126124": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "756813756925034": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "753320310716553": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1282249103294532": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "712548011596378": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1169426908388709": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1020260830189540": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "661461226683872": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1513775503410579": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1303341781530735": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1234519188708088": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "3681173398845215": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "2345556025863181": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "801085382805165": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1532376044345341": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ },
+ "1188044159885340": {
+  "format": "UNVIEWABLE",
+  "confidence": "n/a",
+  "notes": "video unavailable (WH media 404 + expired fbcdn; transcript download_failed)"
+ }
+}

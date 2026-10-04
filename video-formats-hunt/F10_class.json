@@ -1,0 +1,1239 @@
+{
+ "1565027605167255": {
+  "format": "Product Demo Ads",
+  "confidence": "high",
+  "notes": "athlete mixes and drinks AG1, PSA text + benefit list"
+ },
+ "2092175784728090": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "Ironman champ morning routine making AG1"
+ },
+ "1035657015739644": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "same concept as 2092175784728090"
+ },
+ "2510406972793517": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "high",
+  "notes": "welcome kit + YETI shaker reveal"
+ },
+ "1083501914169621": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator tries new gummies, shows site + label"
+ },
+ "1090009246742231": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator talks gummies vs pills"
+ },
+ "1638356224357953": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "cinematic montage of football club partnership, co-branded end card (sponsorship variant of Brand Anthem Montage)",
+  "new_name": "Brand Anthem Montage",
+  "new_def": "Cinematic anthem montage of a pro sports team/event the brand now sponsors (crowd, stadium with logo, players drinking product, goals), closes on co-branded lockup; announces the partnership rather than selling the product.",
+  "closest": "Win (Victory Announcement) - both announce a milestone, but this is a produced brand-film montage borrowing a team's fandom, not raw social proof",
+  "stage": "TOF"
+ },
+ "1114148784517302": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "same Swansea partnership film variant (sponsorship variant of Brand Anthem Montage)",
+  "new_name": "Brand Anthem Montage",
+  "new_def": "see 1638356224357953",
+  "closest": "Win (Victory Announcement)",
+  "stage": "TOF"
+ },
+ "1051802984327175": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "Ironman champion says why she drinks it, morning routine b-roll"
+ },
+ "1555667479086936": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "high",
+  "notes": "multiple creators' gummy reactions cut together"
+ },
+ "1416975137225677": {
+  "format": "Breakdown / Explainer",
+  "confidence": "medium",
+  "notes": "rugby star announces offer then whiteboard explains benefits; offer-led ambassador spot"
+ },
+ "2320466458768734": {
+  "format": "Street Interviews",
+  "confidence": "high",
+  "notes": "street interviewers quiz man about skincare, hand sample kit"
+ },
+ "1532597598564871": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "girlfriend narrates how she upgraded her clueless boyfriend's skin, ends with couple affection + 'ladies help your man'",
+  "new_name": "Partner Glow-Up (She Fixed Him)",
+  "new_def": "The buyer is the partner: girlfriend/wife on camera says men are clueless, shows how she 'built' her man with the product (applying it to him), ends on the visible result + couple affection and a CTA aimed at partners to buy for him.",
+  "closest": "Personal Story / Lesson From Others - but the narrator is the partner who buys and applies the product to someone else, targeting the gift/partner purchaser",
+  "stage": "TOF"
+ },
+ "2264859770932748": {
+  "format": "UGC Reviews",
+  "confidence": "medium",
+  "notes": "shirtless guy mocks 3-in-1 'shampoo/energy drink/mousetrap' bottles then praises Brickell"
+ },
+ "1435663831510209": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "6s toddler happily eating Chomps sticks, native clip"
+ },
+ "1775438379709966": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "mom in car talks about snacks she keeps for kids"
+ },
+ "2761594100877346": {
+  "format": "Q&A",
+  "confidence": "high",
+  "notes": "creator holds can, answers 'Why do people drink non-alcoholic beer?'"
+ },
+ "2827908997576982": {
+  "format": "Q&A",
+  "confidence": "high",
+  "notes": "variant of 2761594100877346"
+ },
+ "2800559990277227": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "same girlfriend 'I built him' creative (other cut)",
+  "new_name": "Partner Glow-Up (She Fixed Him)",
+  "new_def": "see 1532597598564871",
+  "closest": "Personal Story / Lesson From Others",
+  "stage": "TOF"
+ },
+ "1414562473202769": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "pilates instructor timestamped evening vlog, Chomps in bag"
+ },
+ "1743890883417583": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "pure motion-graphics: flat color backgrounds, kinetic type, product sticks animating in, flavor cards + Shop Now",
+  "new_name": "Motion-Graphic Packshot",
+  "new_def": "No people: flat brand-color frames with kinetic headline type ('NEW!', '12g protein / 0g sugar') while packshots animate in, ending on per-variant 'Shop Now' cards. A moving catalog/launch card.",
+  "closest": "Product Demo Ads - but nothing is used or demonstrated; it is an animated static/spec card",
+  "stage": "BOF"
+ },
+ "1988513275182216": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "confidence": "high",
+  "notes": "AI 3D animated talking bag + matcha glass characters"
+ },
+ "1015298831259498": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "confidence": "high",
+  "notes": "same talking-character concept"
+ },
+ "1720854092299816": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "confidence": "high",
+  "notes": "illustrated cortisol/adrenal explainer"
+ },
+ "3148417865357230": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "animated new-customer offer card, cans swapping on flat blue bg",
+  "new_name": "Motion-Graphic Packshot",
+  "new_def": "see 1743890883417583",
+  "closest": "Product Demo Ads",
+  "stage": "BOF"
+ },
+ "3116013058596423": {
+  "format": "Street Interviews",
+  "confidence": "high",
+  "notes": "NYC park interview, hands out Brickell kit"
+ },
+ "1514763077066746": {
+  "format": "Educational UGC",
+  "confidence": "high",
+  "notes": "creator explains cortisol + magnesium ingredients, product woven in"
+ },
+ "2560449447734884": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "single meme caption ('don't text, i'm about to get 8 hrs of sleep') over drink-prep b-roll, nothing else",
+  "new_name": "Video Static (Headline Over Looping B-roll)",
+  "new_def": "Whole ad = one short lo-fi product b-roll loop (pour/stir the drink) with a single meme/headline caption burned on top and a product tag; no talking, no story, reads like an organic story post or a moving static image ad.",
+  "closest": "Satisfying B-roll (Front-Splice) - that is a hook spliced in front of another ad; here the b-roll + one caption IS the entire ad. Text-Wall Story uses a still and a long story",
+  "stage": "ANY"
+ },
+ "1681447146300360": {
+  "format": "Educational UGC",
+  "confidence": "high",
+  "notes": "same creator as 1514763077066746"
+ },
+ "2962531897422068": {
+  "format": "UGC Testimonial Mashup",
+  "confidence": "medium",
+  "notes": "'Clevr asked us to tell you' - customer review quotes as captions/VO over drink b-roll"
+ },
+ "1832651604381253": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "6s 'sleeptime mocktail' typing caption over stirring drink",
+  "new_name": "Video Static (Headline Over Looping B-roll)",
+  "new_def": "see 2560449447734884",
+  "closest": "Satisfying B-roll (Front-Splice)",
+  "stage": "ANY"
+ },
+ "28076098228694419": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "14s 'Delete your sleep apps. Drink this instead.' headline over looping drink shot",
+  "new_name": "Video Static (Headline Over Looping B-roll)",
+  "new_def": "see 2560449447734884",
+  "closest": "Satisfying B-roll (Front-Splice)",
+  "stage": "ANY"
+ },
+ "3394880847433676": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "high",
+  "notes": "sample kit box opened, each mini shown, then used at mirror"
+ },
+ "1086868290352046": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'let's play how fast can I forget how stressful today was (with timestamps)': drinks at 8:40pm, check-ins 9:08pm, asleep 9:43pm",
+  "new_name": "Timestamped Real-Time Test",
+  "new_def": "Creator takes the product on camera and logs its effect live with big on-screen clock timestamps (8:40pm mix, 9:08pm 'jaw loosening', 9:43pm asleep); the clock jumps carry the proof in one sitting.",
+  "closest": "Challenge ('I tried X for 7 days') - same proof logic but compressed into minutes/hours of one session with timestamp cuts instead of days",
+  "stage": "TOF"
+ },
+ "1633983931474440": {
+  "format": "Animated Mechanism Explainer (Clinical VSL)",
+  "confidence": "high",
+  "notes": "illustrated coffee vs latte cortisol explainer"
+ },
+ "1603440464860082": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "review quote headline, then ingredient tags and 'back in stock' cards over drink-stirring b-roll",
+  "new_name": "Video Static (Headline Over Looping B-roll)",
+  "new_def": "see 2560449447734884",
+  "closest": "Satisfying B-roll (Front-Splice)",
+  "stage": "ANY"
+ },
+ "3800130003460905": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator makes 'nightcap' in wine glass, talks benefits"
+ },
+ "1837530884074588": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "same creator variant"
+ },
+ "2756248718085176": {
+  "format": "Ranking / Tier List",
+  "confidence": "high",
+  "notes": "'Top 3 sexiest scents voted by women' ranked #1-#3"
+ },
+ "1463836025756799": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "bathroom creator compares soap bars, word-by-word captions"
+ },
+ "4533935610175617": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "dad talks about eye cream for tired eyes"
+ },
+ "4876451535923924": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "pov restock, creator talks matcha in wine glass"
+ },
+ "4579062415655567": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "8s animated 'Top 3 sexiest scents of 2026 voted by women' bottles on pedestals",
+  "new_name": "Motion-Graphic Packshot",
+  "new_def": "see 1743890883417583",
+  "closest": "Product Demo Ads / Ranking",
+  "stage": "BOF"
+ },
+ "1305425777677804": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'Do NOT buy Dr Squatch until you hear this' -> fast b-roll of bundle, women reacting, discount banner pinned on top",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "Whole ad is the deal: provocative offer hook ('Don't buy X until you hear this', 'We need to apologize to anyone who bought before this deal'), then VO/captions walk item-by-item through what's in the bundle + free gifts + % off over fast lifestyle/b-roll clips, persistent discount banner, scarcity close ('grab yours before it's too late').",
+  "closest": "Unboxing / Product Demo - but the subject is the offer (bundle contents, gifts, price) not the product experience; it's an infomercial-style value stack",
+  "stage": "BOF"
+ },
+ "2128727727913751": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "9s animated offer graphic 'Yo, free bag + gifts, 55% off'",
+  "new_name": "Motion-Graphic Packshot",
+  "new_def": "see 1743890883417583",
+  "closest": "Product Demo Ads",
+  "stage": "BOF"
+ },
+ "1019630987348231": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'9 soaps and a FREE Dopp kit??? This deal is fire' - walks bundle + bag features, 39% off, 'grab before too late'",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "see 1305425777677804",
+  "closest": "Unboxing / Product Demo",
+  "stage": "BOF"
+ },
+ "1500318558314351": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'People don't believe the bag is free' - item-by-item bag + 9 soaps value walk",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "see 1305425777677804",
+  "closest": "Unboxing / Product Demo",
+  "stage": "BOF"
+ },
+ "1537021514729840": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'We need to apologize to anyone who bought before this deal' numbered gift stack 1-2-3",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "see 1305425777677804",
+  "closest": "Unboxing / Product Demo",
+  "stage": "BOF"
+ },
+ "927947277053362": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "same wine-glass magnesium creator"
+ },
+ "840952245143571": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "licensed TV-show (The Boys) limited soap: cinematic product hero shots with VFX lasers/explosions, lather, franchise logo end card",
+  "new_name": "IP Collab Drop Trailer",
+  "new_def": "Movie-trailer-style launch of a limited-edition product co-branded with a film/TV franchise: dramatic set dressing in the show's world, VFX (lasers, explosions), hero packshots, product in use, franchise logo + URL end card. The borrowed IP is the hook.",
+  "closest": "Reaction / Trend-Hijack (Borrowed Fame) - borrows existing attention, but via an official licensed product drop styled as a trailer, not a reaction clip",
+  "stage": "TOF"
+ },
+ "2265976960806495": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "creator holds tower of 12 soaps, 'you get 12 at that price + free gift'",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "see 1305425777677804",
+  "closest": "Unboxing / Product Demo",
+  "stage": "BOF"
+ },
+ "1726292658688618": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "teen pulls cologne, soap, deo out of free travel bag, 'this sale is gone'",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "see 1305425777677804",
+  "closest": "Unboxing / Product Demo",
+  "stage": "BOF"
+ },
+ "1083438877579828": {
+  "format": "Reply To Question",
+  "confidence": "medium",
+  "notes": "replies to comment 'give me free Dr Squatch and I'll buy it' then walks Squatchfest deal"
+ },
+ "1310659034231126": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'Always read the reviews' guy shows free bag + each item",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "see 1305425777677804",
+  "closest": "Unboxing / Product Demo",
+  "stage": "BOF"
+ },
+ "1514129467132564": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'F in the chat for the boys who got Dr Squatch before this deal' numbered gift stack",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "see 1305425777677804",
+  "closest": "Unboxing / Product Demo",
+  "stage": "BOF"
+ },
+ "1029964173135358": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "12s animated offer card 'free man shelf'",
+  "new_name": "Motion-Graphic Packshot",
+  "new_def": "see 1743890883417583",
+  "closest": "Product Demo Ads",
+  "stage": "BOF"
+ },
+ "959500507147513": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "confidence": "high",
+  "notes": "3D animated insomniac glass character in bed, product cures it"
+ },
+ "1572559810988765": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "Megan Fox sprays deodorant in locker room, big kinetic claims, retailer end card",
+  "new_name": "Celebrity Cameo Commercial",
+  "new_def": "Short, polished TV-style spot built entirely around a famous celebrity using the product on a styled set, with bold kinetic claim supers ('Natural spray', '72 hour protection') and a retail end card. Fame is the hook; no testimony or story.",
+  "closest": "Celebrity Podcast Clip / TV Segment Clip - those borrow existing footage; here the brand hires the celebrity for an original commercial",
+  "stage": "TOF"
+ },
+ "1374804170971413": {
+  "format": "Reply To Question",
+  "confidence": "high",
+  "notes": "replies to 'is it suction? will it hold a full beer?' by mounting man shelf"
+ },
+ "990313887066547": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "'day in the life' athlete: gym, Jeep, golf, shower with Duke Cannon x Jeep"
+ },
+ "1616083770071458": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "off-road Jeep influencer gets dirty then showers with the product"
+ },
+ "1720152652604613": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "9s single surreal staged shot: man in a bubble bath inside a Jeep truck bed in a forest, pull-back reveal",
+  "new_name": "Absurdist Brand Vignette",
+  "new_def": "One surreal, staged visual gag (a bubble bath in a pickup bed in the woods) shot cinematically, 6-10s, one caption at most ('Lost in the suds'), product barely shown; pure brand-world absurdity meant to stop the scroll.",
+  "closest": "Scenarios - opens on a hypothetical but explains it; this is a wordless visual joke with no pitch",
+  "stage": "TOF"
+ },
+ "4605864603071531": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "7s variant 'Lost in the suds' bubble bath in Jeep bed by lake",
+  "new_name": "Absurdist Brand Vignette",
+  "new_def": "see 1720152652604613",
+  "closest": "Scenarios",
+  "stage": "TOF"
+ },
+ "3134874786705433": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "cinematic product hero: coffee poured beside coffee-scent soap, collab lineup end card"
+ },
+ "1532675448876916": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "shopper films Costco: store exterior, pallet display, price tag '$19.99 for 4', cart, then at home 'my husband is obsessed', 'add a few boxes on your next Costco haul'",
+  "new_name": "Retail Aisle Find",
+  "new_def": "Shopper-POV video shot inside a big-box retailer: walks to the display, holds up the pack against the shelf, calls out the price/value, drops it in the cart, quick at-home use, CTA to grab it on your next store run. Sells availability + deal at a specific retailer.",
+  "closest": "Day In The Life / UGC Reviews - but the store shelf, price tag and 'next haul' CTA are the structure; it drives retail, not DTC",
+  "stage": "MOF"
+ },
+ "3158495817694393": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "dup cut of 3134874786705433"
+ },
+ "1374998038109684": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "high",
+  "notes": "'I want every woman over 60...' gut/cortisol problem, anatomy CGI, many actors, solution coffee (VSL-ish)"
+ },
+ "28702976255992723": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "same creator plays two roles in a kitchen: red-shirt junk-food guy complains (gut, skin), green-shirt guy diagnoses and introduces the coffee, objection 'does it taste like dirt?' answered",
+  "new_name": "Split-Self Skit (Creator Plays Both Roles)",
+  "new_def": "One creator plays two characters cut back and forth (different shirts/props): the 'problem' self with bad habits voices symptoms and objections, the 'expert' self diagnoses and pitches the product, ending with the convert won over + CTA.",
+  "closest": "Problem-Agitate-Solve / Myth Buster - same beats but delivered as a scripted two-character dialogue skit by one person",
+  "stage": "TOF"
+ },
+ "1554939879433258": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'Memorial Day sale last chance' guy unpacks VIP box, walks each item in the bundle, makes a drink, 'link'",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "see 1305425777677804",
+  "closest": "Unboxing / Product Demo",
+  "stage": "BOF"
+ },
+ "4587509791464299": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "variant of 1554939879433258",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "see 1305425777677804",
+  "closest": "Unboxing / Product Demo",
+  "stage": "BOF"
+ },
+ "829431200145715": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "woman tries her guy friend's black lip balm"
+ },
+ "1808302213655966": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "woman applies tattoo balm on sleeve, talks results"
+ },
+ "1021538103950644": {
+  "format": "UGC How-To",
+  "confidence": "high",
+  "notes": "creator uses cleansing brush on face step by step"
+ },
+ "2248456785919732": {
+  "format": "UGC How-To",
+  "confidence": "high",
+  "notes": "bald man lathers head/face with brush"
+ },
+ "1829835191730125": {
+  "format": "Reply To Question",
+  "confidence": "high",
+  "notes": "'Can I use the Henson razor every day?' staff answers with review screenshots"
+ },
+ "1262989492069554": {
+  "format": "Myth Buster",
+  "confidence": "medium",
+  "notes": "'what they've sold us on vs what we need' macro shave-cream b-roll, function over fluff"
+ },
+ "1535136764966126": {
+  "format": "Case Studies",
+  "confidence": "high",
+  "notes": "staff + firefighter chief before/after Henson study, reviews"
+ },
+ "794009666771040": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "17s CGI render: blade angle 24deg callout, rinse channels arrows, knurling, exploded blade view, end tagline",
+  "new_name": "3D Render Feature Tour",
+  "new_def": "All-CGI hero render of the product rotating through close-ups with engineering callouts (angles, arrows, materials, exploded view) one feature per beat, ending on a tagline. Sells precision/build quality without any human.",
+  "closest": "Animated Mechanism Explainer - that animates the body/biology; this animates the product's engineering",
+  "stage": "MOF"
+ },
+ "2023805255013823": {
+  "format": "UGC Science Backed",
+  "confidence": "medium",
+  "notes": "replies to 'same results with any razor?' with medical-imaging split-face study, thermal maps"
+ },
+ "1051348464151982": {
+  "format": "Founder Story Ads",
+  "confidence": "medium",
+  "notes": "documentary-style interviews with company team + users about irritation, made-well product"
+ },
+ "2362658114143372": {
+  "format": "Founder Story Ads",
+  "confidence": "medium",
+  "notes": "same doc-style creative as 1051348464151982 (same copy/duration)"
+ },
+ "1631576828117336": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "same CGI render as 794009666771040 (same copy/duration)",
+  "new_name": "3D Render Feature Tour",
+  "new_def": "see 794009666771040",
+  "closest": "Animated Mechanism Explainer",
+  "stage": "MOF"
+ },
+ "1957354721804956": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "guy explains Huel Black Edition for his sister on GLP-1"
+ },
+ "2349608395507901": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "5s 'EAT PASTA. LOSE WEIGHT?' headline + spec bullets over two cups of pasta being forked",
+  "new_name": "Video Static (Headline Over Looping B-roll)",
+  "new_def": "see 2560449447734884",
+  "closest": "Satisfying B-roll (Front-Splice)",
+  "stage": "ANY"
+ },
+ "1475183064126772": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator eats Huel meal pack, talks taste"
+ },
+ "793192880519386": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "5s animated 'GLP-1 makes me skip meals' card, shake slides in with badge callouts",
+  "new_name": "Motion-Graphic Packshot",
+  "new_def": "see 1743890883417583",
+  "closest": "Product Demo Ads",
+  "stage": "BOF"
+ },
+ "2138323566987492": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "6s 'Want 40g protein before 9am? This is for you.' over trial box with sticky notes",
+  "new_name": "Video Static (Headline Over Looping B-roll)",
+  "new_def": "see 2560449447734884",
+  "closest": "Satisfying B-roll (Front-Splice)",
+  "stage": "ANY"
+ },
+ "945728561338085": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "GLP-1 user testimonial in kitchen with bottle"
+ },
+ "2014481189418391": {
+  "format": "UGC How-To",
+  "confidence": "medium",
+  "notes": "German, hands-only shake prep with spec callouts ('1 scoop = 200 kcal', '1,22 EUR/portion')"
+ },
+ "4371101063172734": {
+  "format": "UGC How-To",
+  "confidence": "medium",
+  "notes": "variant of 2014481189418391"
+ },
+ "1962454804644704": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'A week of 40g protein breakfasts for less than $15': Monday chocolate $2.65, Tuesday vanilla $5.30 ... Friday $13.25, running price counter",
+  "new_name": "Week-of-Meals Cost Tally",
+  "new_def": "Day-by-day sequence (Mon to Fri) preparing one serving per day, each with a cumulative running-cost sticker that ticks up, ending under a headline price cap ('a week for <$15'). The math reveal is the hook.",
+  "closest": "Levels / UGC Listicle - sequential beats, but structured as a calendar week with a running price total proving value",
+  "stage": "MOF"
+ },
+ "894751580190538": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "9s 'A week of breakfast for less than $20' headline + spec badges over single pour",
+  "new_name": "Video Static (Headline Over Looping B-roll)",
+  "new_def": "see 2560449447734884",
+  "closest": "Satisfying B-roll (Front-Splice)",
+  "stage": "ANY"
+ },
+ "3985275838272850": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "confidence": "high",
+  "notes": "AI 3D bag + nutrient characters (protein, fiber, vitamins) talk"
+ },
+ "2477791472676763": {
+  "format": "Myth Buster",
+  "confidence": "medium",
+  "notes": "trainer: 'everyone's obsessed with protein, that's why they aren't losing weight'"
+ },
+ "1255361956641789": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "weekend-warrior runner: mix at home, race day"
+ },
+ "1381708243283735": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "coach explains what he recommends clients, reads label, mixes shake"
+ },
+ "1185390070270794": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "17s pour shot with spec badges (40g, 11g fiber, $2.65, 30-day) + long caption headline",
+  "new_name": "Video Static (Headline Over Looping B-roll)",
+  "new_def": "see 2560449447734884",
+  "closest": "Satisfying B-roll (Front-Splice)",
+  "stage": "ANY"
+ },
+ "936161609292477": {
+  "format": "Text-Wall Story (Read-Along Still)",
+  "confidence": "medium",
+  "notes": "long first-person text block ('You look happier' / 'Thanks, I stopped going broke...') over dimmed gym/selfie clips instead of a still"
+ },
+ "2222028155207573": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "GLP-1 user, dynamic camera, fridge to counter"
+ },
+ "1430969025244736": {
+  "format": "Product Comparison Video",
+  "confidence": "medium",
+  "notes": "dietitians blind-taste 3 shakes (Ka'Chava vs 2 'other leading brands'), reveal winner"
+ },
+ "1547023083544260": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "recipe reel: chocolate mint crunch bars made with the shake powder, mixing, fridge, bite, creator code",
+  "new_name": "Recipe Reel (Product as Ingredient)",
+  "new_def": "Food-creator recipe video where the product is an ingredient in something craveable (bars, s'mores, pancakes): hero bite first, then hands-only mixing steps, ingredient/directions card, final bite + CTA. Sells taste and versatility rather than the product's own claims.",
+  "closest": "UGC How-To - that shows how to use the product as intended; here the product disappears into a new recipe and the recipe is the content",
+  "stage": "TOF"
+ },
+ "1418074286812327": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "medium",
+  "notes": "9s hype clip of fan dancing with bag, quote overlay 'I've had kachava 874 days straight'"
+ },
+ "2261688661300402": {
+  "format": "UGC Listicle",
+  "confidence": "high",
+  "notes": "creator counts reasons Ka'Chava beats protein powder, 'number three'"
+ },
+ "1057190610423443": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "s'mores recipe with ingredients/directions card, product as ingredient, macro bites",
+  "new_name": "Recipe Reel (Product as Ingredient)",
+  "new_def": "see 1547023083544260",
+  "closest": "UGC How-To",
+  "stage": "TOF"
+ },
+ "2298361951004641": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "same s'mores recipe as 1057190610423443",
+  "new_name": "Recipe Reel (Product as Ingredient)",
+  "new_def": "see 1547023083544260",
+  "closest": "UGC How-To",
+  "stage": "TOF"
+ },
+ "926015000036243": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "all-CGI cans floating/splashing in icy water, nutrition-label close-ups, can pop-open, logo end card",
+  "new_name": "3D Render Feature Tour",
+  "new_def": "see 794009666771040 (here a CGI beverage hero without arrows, label specs read on the can)",
+  "closest": "Animated Mechanism Explainer",
+  "stage": "MOF"
+ },
+ "820246937790226": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "medium",
+  "notes": "produced mini-doc of a fitness founder/mom: lower-third name, daily life, using LMNT, logo end card"
+ },
+ "972179725676918": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "cinematic brand manifesto montage: logo, cyclist, cold plunge, amputee runner, firefighter, VO 'salt is an essential mineral... to perform, to recover', 'Stay Salty'",
+  "new_name": "Brand Anthem Montage",
+  "new_def": "Cinematic manifesto film: fast montage of many aspirational people/athletes/moments under a single VO or super line that states the brand belief, a spec card mid-way, tagline + logo end card. No single protagonist, no testimony.",
+  "closest": "Win (Victory Announcement) / Episodic Series - neither; it's a TV-style brand anthem cut for vertical. AG1's football sponsorship film (1638356224357953) is the same structure",
+  "stage": "TOF"
+ },
+ "1479383397164591": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "same LMNT manifesto film variant",
+  "new_name": "Brand Anthem Montage",
+  "new_def": "see 972179725676918",
+  "closest": "Win (Victory Announcement)",
+  "stage": "TOF"
+ },
+ "1293704862913222": {
+  "format": "UGC Science Backed",
+  "confidence": "medium",
+  "notes": "Dr. Kelly Starrett (physio, author) explains salt need, montage of athletes"
+ },
+ "1285845373720829": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "medium",
+  "notes": "produced pro-MMA athlete mini-doc: training, nutritionist added LMNT, title belt"
+ },
+ "964544019878903": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'POV: you sweat ALL the time' creator plays sweaty guy across many quick comedic scenes (ice rink, pickleball, chef), mixes LMNT",
+  "new_name": "POV Comedy Montage Skit",
+  "new_def": "One creator acts out an exaggerated relatable trait ('POV: you sweat all the time') across rapid-cut comedic micro-scenes in different settings, product slotted in as the fix mid-way, ends on another gag. Comedy is the vehicle, word-by-word captions.",
+  "closest": "Scenarios / Day In The Life - but it's scripted sketch comedy built on one POV premise rather than a hypothetical or a real day",
+  "stage": "TOF"
+ },
+ "886724687230197": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "creator makes 'Summer Hydration Mocktail' with watermelon + LMNT stick, blend, rim, sip",
+  "new_name": "Recipe Reel (Product as Ingredient)",
+  "new_def": "see 1547023083544260",
+  "closest": "UGC How-To",
+  "stage": "TOF"
+ },
+ "1337955105115499": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "6s kinetic bumper: 'MORE SALT' / 'ZERO SUGAR' over swimmers, stick pour, logo build",
+  "new_name": "Brand Anthem Montage",
+  "new_def": "see 972179725676918 (6s bumper cut)",
+  "closest": "Win (Victory Announcement)",
+  "stage": "TOF"
+ },
+ "1581454640382471": {
+  "format": "UGC Science Backed",
+  "confidence": "medium",
+  "notes": "Kelly Starrett expert spot (same as 1293704862913222)"
+ },
+ "1067332145827312": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "medium",
+  "notes": "produced triathlete mini-doc, lower-third name, pre-dawn training, logo end"
+ },
+ "1289235449795603": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "dup of 1337955105115499 bumper",
+  "new_name": "Brand Anthem Montage",
+  "new_def": "see 972179725676918",
+  "closest": "Win (Victory Announcement)",
+  "stage": "TOF"
+ },
+ "1037716495245362": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "creator mixes Liquid IV Energy into a 'margarita' mocktail with shaker, salt rim",
+  "new_name": "Recipe Reel (Product as Ingredient)",
+  "new_def": "see 1547023083544260",
+  "closest": "UGC How-To",
+  "stage": "TOF"
+ },
+ "2558112907940061": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "creator blends frozen lime margarita mocktail with the stick, 'online exclusive' overlay",
+  "new_name": "Recipe Reel (Product as Ingredient)",
+  "new_def": "see 1547023083544260",
+  "closest": "UGC How-To",
+  "stage": "TOF"
+ },
+ "1328637802724393": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "12s photo slideshow of a real proposal with a Ring Pop ring, co-branded Liquid IV x Ring Pop stick overlaid, fiance era",
+  "new_name": "IP Collab Drop Trailer",
+  "new_def": "see 840952245143571 (here a licensed candy brand collab shown via a proposal photo story)",
+  "closest": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "stage": "TOF"
+ },
+ "1026123446536705": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "mom POV afternoon with kids, makes drink, nap time"
+ },
+ "1038940985484654": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "6s Spider-Man movie collab animated packshot card",
+  "new_name": "IP Collab Drop Trailer",
+  "new_def": "see 840952245143571 (motion-graphic cut of a film tie-in)",
+  "closest": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "stage": "TOF"
+ },
+ "1241993517942499": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "creator makes drink with Spider-Man collab packs, comic-style title 'Liquid IV x Spider-Man'",
+  "new_name": "IP Collab Drop Trailer",
+  "new_def": "see 840952245143571",
+  "closest": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "stage": "TOF"
+ },
+ "1837166540775507": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "8s purple retro CRT TV + DVD player; product stick appears on screen with sparkles, 'inner child' nostalgia gag",
+  "new_name": "Absurdist Brand Vignette",
+  "new_def": "see 1720152652604613",
+  "closest": "Scenarios",
+  "stage": "TOF"
+ },
+ "1367912952150878": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "6s cinematic movie-tie-in spot: Spider-Man swings by, kid catches pot, drinks Liquid IV, collab packshot + 'in theaters' card",
+  "new_name": "IP Collab Drop Trailer",
+  "new_def": "see 840952245143571",
+  "closest": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "stage": "TOF"
+ },
+ "1598954625199134": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "15s animated offer card: free cooler bag + flavor carousel",
+  "new_name": "Motion-Graphic Packshot",
+  "new_def": "see 1743890883417583",
+  "closest": "Product Demo Ads",
+  "stage": "BOF"
+ },
+ "1209863338882239": {
+  "format": "Day In The Life",
+  "confidence": "medium",
+  "notes": "UK fitness influencer gym session sipping the drink"
+ },
+ "1591574399014634": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "7s hands-only commuters pour sticks into tumblers on a train bench, one iMessage-bubble caption",
+  "new_name": "Video Static (Headline Over Looping B-roll)",
+  "new_def": "see 2560449447734884",
+  "closest": "Satisfying B-roll (Front-Splice)",
+  "stage": "ANY"
+ },
+ "919250537897905": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "'Early morning gym routine' vlog with drink"
+ },
+ "1328465872461411": {
+  "format": "Educational UGC",
+  "confidence": "high",
+  "notes": "'First timer's guide to functional mushrooms' explainer w/ stock b-roll + sale badge"
+ },
+ "34912525648391141": {
+  "format": "Founder Story Ads",
+  "confidence": "high",
+  "notes": "founder talks to camera about why he made it, b-roll, offer"
+ },
+ "1264577155749521": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'If you're under 20, DON'T WATCH': cast of different-age actors each say a line, explainer host, b-roll; age-gated callout",
+  "new_name": "Age-Gated Callout Montage",
+  "new_def": "Opens with a reverse-psychology audience gate ('If you're under 20, don't watch'), then a cast of different people (each a target demo) deliver alternating lines of one script, intercut with an explainer host and product b-roll. The rotating cast mirrors each viewer back.",
+  "closest": "Problem-Agitate-Solve / UGC Testimonial Mashup - mashup cuts real testimonials; here one script is split across many actors",
+  "stage": "TOF"
+ },
+ "1651920585839086": {
+  "format": "Educational UGC",
+  "confidence": "medium",
+  "notes": "'This is EXPENSIVE' host explains ingredient cost/value, b-roll, CTA card"
+ },
+ "3615708808569641": {
+  "format": "Founder Story Ads",
+  "confidence": "medium",
+  "notes": "founder at kitchen table introduces new mushroom coffee, lab b-roll"
+ },
+ "2195635711212975": {
+  "format": "Podcast",
+  "confidence": "medium",
+  "notes": "podcast host-read (Know Thyself) on studio set, vanity URL offer card"
+ },
+ "1513342996849476": {
+  "format": "Q&A",
+  "confidence": "medium",
+  "notes": "'This video is ONLY for people who get jitters after coffee' - mic'd creator, quick pros/cons, b-roll"
+ },
+ "1549408100253437": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "30s hands-only iced latte pour with typewriter first-person caption ('my favorite new... I still love my morning coffee') + fireworks offer end card",
+  "new_name": "Video Static (Headline Over Looping B-roll)",
+  "new_def": "see 2560449447734884",
+  "closest": "Satisfying B-roll (Front-Splice)",
+  "stage": "ANY"
+ },
+ "1258114536300128": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "hand-drawn 2D illustrated story: anxious woman, heart racing, tried therapy/journaling/supplements (red X), coffee was the cause, switch, calm 'took about a week' (2D hand-drawn variant)",
+  "new_name": "Animated Character Story",
+  "new_def": "A first/third-person story told entirely in hand-drawn 2D illustration panels (picture-book style) with VO + captions: relatable character, failed fixes crossed out, hidden cause revealed, product switch, calm resolution. The drawing style makes a PAS/testimonial feel like a gentle storybook.",
+  "closest": "Crochet Story / Claymation - also pure-style story vehicles, but in illustration; Animated Mechanism Explainer animates biology, not a character's story",
+  "stage": "TOF"
+ },
+ "1032924236301362": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "100s cinematic brand-story montage with kinetic word captions (founding, warehouse, Target shelves, community)",
+  "new_name": "Brand Anthem Montage",
+  "new_def": "see 972179725676918",
+  "closest": "Founder Story Ads - no founder on camera; a montage manifesto",
+  "stage": "TOF"
+ },
+ "991941010500255": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "mom with toddler makes iced mushroom coffee at counter"
+ },
+ "927460427093574": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "aesthetic mood film of one woman (journal, tea set, garden) with scattered kinetic poem text about presence/soul, product barely shown",
+  "new_name": "Brand Anthem Montage",
+  "new_def": "see 972179725676918 (single-protagonist poem variant)",
+  "closest": "Day In The Life",
+  "stage": "TOF"
+ },
+ "2184421882133319": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "daughter films her mom's testimonial in kitchen"
+ },
+ "2187348255164141": {
+  "format": "Street Interviews",
+  "confidence": "high",
+  "notes": "park taste test with mic, 3 cups"
+ },
+ "2772521419755281": {
+  "format": "Personal Story",
+  "confidence": "medium",
+  "notes": "faceless first-person VO story over b-roll ('someone accused me of...'), handwritten notes, product"
+ },
+ "781647951550981": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "14s animated: plane-towed banner 'Buy one get one free / Publix' over beach umbrellas, then BOGO packshot card",
+  "new_name": "Motion-Graphic Packshot",
+  "new_def": "see 1743890883417583 (retail BOGO variant)",
+  "closest": "Product Demo Ads",
+  "stage": "BOF"
+ },
+ "1284422353300705": {
+  "format": "Fake Doctor",
+  "confidence": "high",
+  "notes": "woman in white lab coat at whiteboard explains ingredients"
+ },
+ "1617396322673243": {
+  "format": "Celebrity Podcast Clip (Borrowed Authority)",
+  "confidence": "high",
+  "notes": "real podcast clips (Pete Holmes etc.) raving, then product card"
+ },
+ "928335230183374": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "VP of Operations in hairnet + lab coat on the factory floor debunks pills/powders, purity testing, production line b-roll",
+  "new_name": "Factory Floor Insider",
+  "new_def": "A named company insider (ops/QA lead, lower-third title) films on the production floor in PPE, walking the line and answering a quality/purity objection with machinery as proof, then offer card. The factory is the credibility.",
+  "closest": "Founder Story Ads / Fake Doctor - not an origin story and not a borrowed white-coat authority; it's an employee showing the real plant",
+  "stage": "MOF"
+ },
+ "955326320615239": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "Discovery TV host Forrest Galante on location testimonial, title lower-third"
+ },
+ "1697674447946234": {
+  "format": "Founder Story Ads",
+  "confidence": "high",
+  "notes": "founder 'six cups of coffee landed me in the ER' cinematic origin story"
+ },
+ "1641809497019077": {
+  "format": "Founder Story Ads",
+  "confidence": "high",
+  "notes": "same founder ER story, different cut"
+ },
+ "1366327938870840": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "TV host testimonial office + jungle"
+ },
+ "2028269261067639": {
+  "format": "Unboxing (First-Open Reveal)",
+  "confidence": "medium",
+  "notes": "'POV: no cereal before school isn't a thing at your house' box opened, each product shown"
+ },
+ "2629744717407311": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "skeptical mom tries protein pastry 'this seems risky'"
+ },
+ "26237670925862586": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "9s two-scene nostalgia parallel with one caption: kid pours cereal watching cartoons / now mom does it with her child",
+  "new_name": "Video Static (Headline Over Looping B-roll)",
+  "new_def": "see 2560449447734884",
+  "closest": "Satisfying B-roll (Front-Splice)",
+  "stage": "ANY"
+ },
+ "1279227610795689": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'This is the cheat code to adulthood' pastry review"
+ },
+ "1660044641848616": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "creator taste review with macros callouts"
+ },
+ "971629238852295": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "same creator variant"
+ },
+ "943666261866207": {
+  "format": "Day In The Life",
+  "confidence": "high",
+  "notes": "'What I eat in a day' with doodle annotations, cereal as pre-workout snack"
+ },
+ "1301812562059233": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "'POV: you discover Magic Spoon for the first time' - creator skit: obsessively brings it everywhere, office pitch deck 'why Magic Spoon should be in every break room', gym, friends' reactions",
+  "new_name": "POV Comedy Montage Skit",
+  "new_def": "see 964544019878903",
+  "closest": "Scenarios / Day In The Life",
+  "stage": "TOF"
+ },
+ "1021452763761614": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "16s scrolling grid of packshot/food photo tiles with 'Protein Oats' headline band",
+  "new_name": "Motion-Graphic Packshot",
+  "new_def": "see 1743890883417583",
+  "closest": "Product Demo Ads",
+  "stage": "BOF"
+ },
+ "1675933347010573": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "man at table shows protein oats hot/overnight, site screenshot"
+ },
+ "28564968709758500": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "hands-only quick prep in microwave, spec band, packshot end"
+ },
+ "1027103906438598": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "meme skit: 'when late night cravings start talking' / 'me: just one small bowl' -> eats from giant mixing bowl; text-only meme captions",
+  "new_name": "POV Comedy Montage Skit",
+  "new_def": "see 964544019878903 (single-gag meme variant)",
+  "closest": "Scenarios",
+  "stage": "TOF"
+ },
+ "817326771367396": {
+  "format": "Product Demo Ads",
+  "confidence": "high",
+  "notes": "polished product demo with feature callout stickers"
+ },
+ "2254602305356467": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'why do all guys have the same basic trimmer? check under his sink' creator switch review"
+ },
+ "2490300138150390": {
+  "format": "Product Demo Ads",
+  "confidence": "high",
+  "notes": "guy shaves on camera live first try 'let's see how it does'"
+ },
+ "1386719283347662": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "dup of 2254602305356467"
+ },
+ "1595090912207045": {
+  "format": "Product Demo Ads",
+  "confidence": "high",
+  "notes": "dup of 817326771367396"
+ },
+ "952623547867857": {
+  "format": "Product Demo Ads",
+  "confidence": "high",
+  "notes": "'POV: your nose, ears and brows have been running wild' creator demos trimmer with feature captions"
+ },
+ "2160711031160995": {
+  "format": "UGC Reviews",
+  "confidence": "high",
+  "notes": "'your girl keeps accusing you of cheating cuz your neck looks like this' shaver review"
+ },
+ "1763901121464129": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'If your grooming routine is hoping for the best, THIS IS THE INTERVENTION' walk-through of each kit item + 'two free gifts included'",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "see 1305425777677804",
+  "closest": "Unboxing / Product Demo",
+  "stage": "BOF"
+ },
+ "1439727921337848": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "'pov: when you want everything with pique matcha' - styled creator bakes a matcha crepe cake",
+  "new_name": "Recipe Reel (Product as Ingredient)",
+  "new_def": "see 1547023083544260",
+  "closest": "UGC How-To",
+  "stage": "TOF"
+ },
+ "26735836406028727": {
+  "format": "5 Reasons Why",
+  "confidence": "medium",
+  "notes": "faceless '5 signs your liver may be damaged' numbered stock-footage listicle, then product + guarantee page"
+ },
+ "970213325451319": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "confidence": "medium",
+  "notes": "cinematic CGI mushroom mascot wanders through Target to the RYZE display (retail launch); mascot non-speaking"
+ },
+ "4017916891838765": {
+  "format": "Problem-Agitate-Solve",
+  "confidence": "high",
+  "notes": "'If your pee...' symptom hook, multiple older men, liver CGI, product as fix"
+ },
+ "4315098055485351": {
+  "format": "Talking Objects / Characters / Body Parts",
+  "confidence": "medium",
+  "notes": "cinematic CGI mushroom mascot accompanies a teacher's story, 'inspired by a real story', Now at Target"
+ },
+ "1943449436337897": {
+  "format": "Product Demo Ads",
+  "confidence": "medium",
+  "notes": "Spanish creator demonstrates with glasses of powder/water (gut 'stuck poop' visual), testimonial clips, bundle"
+ },
+ "1621504509367043": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "Spanish Pixar-style 3D animated sitcom: wife and kid peek at dad, construction coworkers ask about his mushroom coffee, gut CGI, objections (taste, price) handled in dialogue",
+  "new_name": "Animated Character Story",
+  "new_def": "A scripted mini-story acted by animated human characters (Pixar-style 3D or hand-drawn 2D): relatable protagonist, other characters voice doubts/objections, product shown in their world, resolution. Pure animation instead of actors makes it a cartoon episode.",
+  "closest": "Claymation / Crochet Story / Talking Objects - those use clay, craft or talking products; here it's animated people acting a dialogue story",
+  "stage": "TOF"
+ },
+ "1772207307124456": {
+  "format": "NEW",
+  "confidence": "high",
+  "notes": "3D plush mascot in an office: 'We f***ed up at 30% off... support team... so to make up: 50% off + all these free gifts' walks each gift",
+  "new_name": "Offer Stack Breakdown",
+  "new_def": "see 1305425777677804 (here voiced by a 3D brand mascot with an apology hook)",
+  "closest": "Unboxing / Talking Objects",
+  "stage": "BOF"
+ },
+ "1612072547172608": {
+  "format": "NEW",
+  "confidence": "medium",
+  "notes": "9s motion-graphic 'Real ingredients. Real results. 200x' + Shop Now at CVS",
+  "new_name": "Motion-Graphic Packshot",
+  "new_def": "see 1743890883417583",
+  "closest": "Product Demo Ads",
+  "stage": "BOF"
+ },
+ "28068575816116813": {
+  "format": "Breakdown / Explainer",
+  "confidence": "medium",
+  "notes": "green-screen woman over photos breaks down 'the cool guy's routine that has girls chasing him'"
+ },
+ "3174846452707322": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "confidence": "high",
+  "notes": "stitch of viral 'woman reacts to being approached' clip, then creator advice, product box"
+ },
+ "1016674074607941": {
+  "format": "UGC Listicle",
+  "confidence": "medium",
+  "notes": "mock 'TODAY'S TED TALK: 5 things men should spend money on' with slides on living-room TV + pointer"
+ },
+ "1020521794130437": {
+  "format": "Street Interviews",
+  "confidence": "medium",
+  "notes": "podcast-guest clips + street interviews asking women what they notice first (skin), CVS end card"
+ },
+ "1775440833816325": {
+  "format": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "confidence": "high",
+  "notes": "dup of 3174846452707322"
+ },
+ "1620268766469546": {
+  "format": "UGC Testimonial Ads",
+  "confidence": "high",
+  "notes": "guy's honest skincare story, girlfriend cameo"
+ },
+ "1328634205741263": {
+  "format": "UGC Listicle",
+  "confidence": "medium",
+  "notes": "mock-TED 'The 4 things men can control' with slides on TV + pointer"
+ },
+ "1812563606408239": {
+  "format": "UGC Listicle",
+  "confidence": "medium",
+  "notes": "dup of 1328634205741263"
+ }
+}
