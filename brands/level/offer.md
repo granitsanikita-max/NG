@@ -1,3 +1,8 @@
+> ⚠️ ASPIRATIONAL / NOT BUILT. This v6 three-tier plan (90-Day hero, Tin-for-Mum bump,
+> post-purchase upsells) was designed but NEVER shipped. The LIVE offer is a simpler
+> two-option setup — see `current-live-offer.md`, which is the source of truth. Keep this
+> doc only as the future/scale-up plan; do not reference it as what's live.
+
 # IRYN — The Offer (FINAL, v6) — fully architected
 
 > Model: Cavaé (proven, same Supliful strip), aimed at the **mum of a 12–18 girl.** Digital gifts only. Upsells = real Supliful strips. **Per-tin + per-day pricing** — architected so the 90-Day wins on EVERY per-unit metric, the 30-Day is a strong low-commitment entry, and the one-time is a pure decoy.

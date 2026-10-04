@@ -32,9 +32,11 @@ Everyone sells iron a size up (women's, "not for under 18") or a size down (kids
 - **Test:** Supliful Iron Strips — 19 mg iron (ferric saccharate) + 400 mcg folate, dissolves on tongue, raspberry, no sugar. Dropship, no MOQ.
 - **Upgrade after a win:** 25 mg bisglycinate capsule/gummy.
 
-## Offer
-- $69 60-Day Start (⭐ default) · $119 100-Day Reset (anchor) · $39 single (decoy) · +$29 Bottle for Mum.
-- 100-day no-questions refund (no lab). Buy once or subscribe; one-click cancel.
+## Offer — SEE `current-live-offer.md` (source of truth)
+> The numbers below were an early draft and are NOT what's live. Live offer = 2 options:
+- **Subscribe & Save** (30-Day Start, monthly): 1 tin/mo, $29 first → ~$36/mo, free shipping, + 3 free digital guides.
+- **One-time:** 1 tin, $39.95 + ~$6 shipping, no gifts.
+- 70-day money-back (no lab). One-click cancel. (No 90-Day plan, no Bottle/Tin for Mum live.)
 
 ## Hard rules for any IRYN copy/creative
 - **Master filter:** if it doesn't serve "her years, her number", the $69 default, or one of the 3 objection answers — cut it.

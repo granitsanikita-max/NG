@@ -26,15 +26,15 @@ The one standing line (business-survival, not morality, state briefly only if di
 
 - **IRYN** — `brands/level/` — teen-girl iron supplement ("iron for her years"). Name locked IRYN (2026-09-30); research written under working name "LEVEL" — read LEVEL as IRYN. Domain `tryiryn.com`. Pre-launch; $1,500 US test, Oct 2026.
 
-## IRYN offer — LOCKED (full detail in `brands/level/offer.md` v6)
-- **90-Day Challenge** (hero, pre-ticked): shown **$33/tin · $1.10/day**; today **$89** first box (3 tins) → **$99/90 days**.
-- **30-Day Start**: shown $36/tin · $1.20/day; today **$29** first month → **$36/mo**.
-- **One-time** (tiny decoy): **$39 + shipping** ($1.30/day).
-- **Display rule:** per-tin/per-day shown ONLY on the steady sub rate (90-day cheapest on every line); first-order prices show as flat "today $X", NO per-day (never let the 30-day out-value the hero).
-- Free gifts = **digital only** (Her Page + retest tracker · Know Her Number guide + Doctor-Visit Script). No physical gifts for the test.
-- Bump: Tin for Mum (+$24). Post-purchase: 30→90 upgrade; Bone Support strip (teen); Sleep strip (mum). Upsells = Supliful strips — NEVER Appetite/Weight (teen ED risk), Libido, Hangover.
-- Always-on: HSA/FSA (Truemed) · 70-day guarantee · store-credit "$25 toward 2nd box" · one-click cancel (lead with it).
-- Upsell tins designed: `product/assets/iryn-bone-front*`, `iryn-sleep-front*`.
+## IRYN offer — WHAT IS ACTUALLY LIVE (source of truth: `brands/level/current-live-offer.md`)
+> Read `current-live-offer.md` before any offer/ad/copy work. Only reference what is live below.
+> `offer.md` (v6, 3-tier) is an ASPIRATIONAL plan that was NEVER built — do not cite it as live.
+- **Two options only.** No 90-Day plan, no Tin-for-Mum bump, no post-purchase upsells exist yet.
+- **Subscribe & Save** ("30-Day Start", monthly, Recharge plan `11380130113`): 1 tin/month (30 strips, 30-day supply), ships monthly. **$29 first order (26% off) → ~$36/mo** (10% off). Shown $1.20/day. Free shipping. + 3 free digital guides ($67 value: Know Her Number Guide, Doctor-Visit Script, Her Page + 90-Day Retest Tracker).
+- **One-time:** 1 tin (30 strips, 30-day supply), **$39.95 + ~$6 shipping**, no sub, no gifts. Shown $1.33/day.
+- Guarantee: **70-day** money-back. One-click cancel. Free shipping = subs only (one-time is charged shipping).
+- Currency: **AUD only** (base). Buy box is NOT multi-currency yet — open decision before US ads.
+- Product variant `67600551117121` @ AUD $39.95. Gift variants `67617814610241`, `67617814675777`, `67617814774081` ($0).
 
 ## Store / landing-page rules — do NOT violate
 - **MESSAGE MATCH:** every ad must land on a page whose TOP (hero headline + subhead + visual) continues that exact ad's angle/words/tone. Mismatch = the #1 bounce leak (killed Nikita's last store). Build pages as **modular hero (swapped per ad angle) + one universal body (shared mechanism→offer every angle converges into)**. See `brands/level/homepage-architecture.md`.
