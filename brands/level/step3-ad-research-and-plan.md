@@ -206,14 +206,14 @@ Headline: **"New in 2026: doctors now say check her ferritin by 14. Most moms ha
 Body: AAP now recommends screening; ASH now calls 30 or under low (50 with heavy periods or sport). Nearly 40% of teen girls are low and most have no idea. One blood draw tells you her number.
 Why: Stage-1 news claim (research §8); real authority, no fake doctor.
 
-**IMG-5 · Angle A/B · Us-vs-them + honest footnote (steal Needed "not all prenatals are equal*").**
-Headline: **"Not all iron is made for her."**
-3 columns: kids' iron (stops at 12, sugar) · women's iron (65mg, "not for under 18," the pill she gagged on) · **IRYN (a gentle daily dose for her years, a raspberry strip she'll actually take).** Asterisk footnote with the honest detail.
-Why: positions us in the gap ("not a big kid, not a small woman"), Meta-safe.
+**IMG-5 · Educational carousel ("the number nobody checks" / doctor-script) · Angle C.**
+3 to 5 swipe cards: hook -> the ferritin gap (spending vs savings) -> the 2026 guidance -> "ask for ferritin by name" (free doctor-script value) -> soft IRYN intro. No competitor, no price.
+Why: pure top-of-funnel education (creates awareness, gives a free action). This REPLACES the old us-vs-them comparison idea, which is a middle-of-funnel format (it assumes she's already shopping for iron) and does NOT belong in a cold test. The full, corrected 6-format TOF set is in `step3b-test-campaign-formats-and-hooks.md`.
 
-**IMG-6 · Angle B · Before/after NUMBER (steal Cavaé "22 to 58" + seeded real mum).**
-Visual: two lab slips. "14 · March" → "31 · June." Caption: **"15. Cross-country. Her ferritin went 14 to 31 in ten weeks."** One line in the mum's words.
-Why: the number is the proven creative. Only run once we have ONE real seeded result (no invented numbers).
+**NOT for the cold test (middle/bottom of funnel - save for retargeting):**
+- Us-vs-them comparison ("not all iron is made for her", kids vs women vs IRYN) = MOF (solution-aware).
+- Before/after NUMBER (Cavaé "22 to 58") = MOF proof; also needs a real seeded result, never invent.
+- Spec/benefit stacks, discounts, scarcity, guarantee-led, cart reminders = MOF/BOF.
 
 ## 4B. The launch slate - video ads (the scalers)
 
@@ -242,11 +242,14 @@ Why: nobody runs the teen speaking; it kills the compliance objection in her own
 
 Statics first (cheapest to produce and the longest-living in this category), one strong video to anchor each angle.
 
-**Batch 1 (launch day), 3 angles x enough to test:**
-- IMG-1 (C, lab slip), IMG-2 (A, absolution), IMG-4 (C, news), IMG-5 (A/B, us-vs-them) + VID-1 (B, coach VSL) + VID-3 (A, mum advertorial VSL).
+> NOTE: the authoritative, corrected test set is the 6 top-of-funnel formats in
+> `step3b-test-campaign-formats-and-hooks.md`. The batch below predates that cleanup; follow step3b.
+
+**Batch 1 (launch day), page-matching angles (C / B / S; hold periods A):**
+- IMG-1 (C, lab slip), IMG-2 (S, absolution/symptom), IMG-4 (C, news), IMG-5 (C, educational carousel) + VID-1 (B, coach VSL) + VID-3 (S/C, mum story VSL).
 - Plus the **one advertorial** (built from VID-3's script as a long-form page) as the pre-sell between ad and PDP (research §7: never send cold straight to the PDP).
 
-**Batch 2 (day 3-5, after first read):** scale the angle with the best CTR/CPC; add IMG-3 ("Please STOP"), IMG-6 (before/after, if a real number exists), VID-2 (clinician reveal), VID-4 (regret UGC).
+**Batch 2 (day 3-5, after first read):** scale the angle with the best CTR/CPC; add IMG-3 ("Please STOP"), VID-2 (clinician reveal), VID-4 (regret UGC). (Before/after number + us-vs-them are MOF - keep them for retargeting, not the cold test.)
 
 **Day-3 gate (research §9):** education hooks must clear CTR ≥ 1.2% at CPC ≤ $1.50, or the belief gap is too wide for this budget. Win line: CPA ≤ $45 at AOV ≥ $70, 25+ orders by day 14. Kill: day-14 CPA > $70 or AOV < $55.
 
