@@ -6,6 +6,9 @@
 
 # IRYN - Step 6: START SCENES to generate in Higgsfield (+ reference brief each)
 
+## STANDING RULE - avatars are synthetic, refs are look-guides only
+Every reference image Nikita supplies is a **look guide only** (age, build, hair, vibe, wardrobe, setting). We generate our **own original synthetic avatar** in that style, a distinct person, **never the real face from the photo**. No real individual's likeness goes on an AI video. Applies to every persona and the daughter. Bake this into every Higgsfield prompt (prompt for an original person "inspired by" the reference, not a copy).
+
 ## Read this first
 A **start scene** is the first frame we generate in Higgsfield, then animate in Kling. We only make one when the frame has to be controlled: a **face-locked persona**, a **consistent recurring character** (the daughter), or a **staged product** shot. Editor stuff (the bank animation, stat/news/lab/CTA cards) is NOT a start scene. Pure background b-roll could be generated straight in Kling, but we lock a single "daughter" look so she is the same girl across every clip and every ad, which is what makes it read real.
 
