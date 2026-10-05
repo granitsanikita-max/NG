@@ -1,0 +1,76 @@
+[
+ {
+  "key": "TOF",
+  "id": "3458764685036396164",
+  "title": "Top of Funnel",
+  "x": 6000,
+  "y": 380,
+  "h": 26071,
+  "old_h": 12324,
+  "base": 12544,
+  "nk": "n_TOF",
+  "chunks": 11,
+  "cards": 20
+ },
+ {
+  "key": "T2M",
+  "id": "3458764685036783919",
+  "title": "Top to Middle",
+  "x": 6000,
+  "y": 26771,
+  "h": 15766,
+  "old_h": 3306,
+  "base": 3526,
+  "nk": "n_TOF_MOF",
+  "chunks": 10,
+  "cards": 17
+ },
+ {
+  "key": "MOF",
+  "id": "3458764685036864639",
+  "title": "Middle of Funnel",
+  "x": 6000,
+  "y": 42857,
+  "h": 12375,
+  "old_h": 5310,
+  "base": 5530,
+  "nk": "n_MOF",
+  "chunks": 6,
+  "cards": 10
+ },
+ {
+  "key": "M2B",
+  "id": "3458764685037213673",
+  "title": "Middle to Bottom",
+  "x": 6000,
+  "y": 55552,
+  "h": 7765,
+  "old_h": 3306,
+  "base": 3526,
+  "nk": "n_MOF_BOF",
+  "chunks": 4,
+  "cards": 6
+ },
+ {
+  "key": "BOF",
+  "id": "3458764685037400959",
+  "title": "Bottom of Funnel",
+  "x": 6000,
+  "y": 63637,
+  "h": 1302,
+  "old_h": 1302,
+  "base": null,
+  "nk": null
+ },
+ {
+  "key": "ANY",
+  "id": "3458764685036353090",
+  "title": "Any Funnel Stage",
+  "x": 6000,
+  "y": 65259,
+  "h": 1302,
+  "old_h": 1302,
+  "base": null,
+  "nk": null
+ }
+]
