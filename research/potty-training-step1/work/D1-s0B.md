@@ -1,5 +1,7 @@
 # §0B · Demand & Seasonality (real numbers)
 
+*(§20C: added to Doc 1 — this is the wave-1 category read (toddler + whole category); the LOCKED-market addendum right after it tests the 5–9 segment. Both stand.)*
+
 **Verdict:**
 - **Demand is stable and growing.** The problem term is flat-to-up; the product term is rising off a small base.
 - **Peak months:** January and May–July. **Trough:** September–October, which is where we are now (2026-10-06).

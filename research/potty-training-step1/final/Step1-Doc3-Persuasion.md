@@ -1,3 +1,20 @@
+# Potty Training Underwear (Big Kids) — Step 1 · Doc 3 — Persuasion
+
+**Research folder (all 4 docs + §2C data-bank Sheet):** [https://drive.google.com/drive/folders/1j-rhDFMF_bqcKUGOezrgPlJur7h0trOK](https://drive.google.com/drive/folders/1j-rhDFMF_bqcKUGOezrgPlJur7h0trOK)
+
+*Run 2026-10-06 · market: US parents of 5–9-year-olds with daytime accidents · economics PROVISIONAL until OEM quote · ml numbers OPEN until pour test.*
+
+## Top 5 takeaways — Doc 3 · Persuasion
+*(Written after §20 B–C corrections.)*
+
+1. **She is afraid, not guilty: Fear is 24 of 79 locked snippets (30%) and Guilt is 0 — "we're just at our very wits end" [C:N244].** → Write Fear → Courage: one line that names the fear, then the brave next step; never guilt or shame hooks.
+2. **The mechanism math holds: expected bladder capacity is 30 × (age + 1) ml (≈240 ml at age 7) [B4] vs toddler trainers rated "1 pee (60–90 ml)" [P49] — but that comparator is one UK Instagram snippet.** → Before any ad, film our own pour of a bought US toddler trainer and our size-8 pant; the *Big-Kid Hold* claim waits for that footage.
+3. **Her top objections are about trust, not price: "won't hold / leaks" 47 — "It doesn't hold more that 10-20ml" [C:N205] — and "scam / hidden subscription" 16 — "They scam you through hidden subscriptions!" [C:N174].** → Print the number per size and pour it on camera; make the Grow-With-Me subscription unticked, priced on the button, cancel in two clicks.
+4. **The history hook survives, corrected: in 1998–99 Brazelton was the TV spokesman for size-6 Pampers for kids over 35 lb [P1][P9] — and the famous "92% trained by 18 months" stat is a misquote (92% *started*, 1940s data).** → Use the 1998–99 size-6 story (spokesman, not inventor; fair to him), and never repeat the 92% line.
+5. **Borrow medical authority, not influencer authority: "up to 10 percent of 5-year-olds" have wetting accidents (Boston Children's) [B1] and 7–10% of 5–13-year-olds [M64]; the locked parent cites pediatric urologists 3 and creators 0.** → Lead the advertorial's proof with Boston Children's in third person ("Up to 10% of 5-year-olds…"); creators carry the story, not the authority.
+
+---
+
 # §6 · Consciousness level
 
 **Where she sits now:** **Fear + Apathy (resignation), with Guilt underneath.** *(Refresh 601: Fear is now clearly first, not tied with Apathy — segment B Fear 40 vs Apathy 23 of 225; locked school-age cut Fear 24 (30%) vs Apathy 7 of 79. Guilt is 8 of 225 and **0 of 79** in the locked cut, so "Guilt underneath" holds for segment B only.)* The ICP is not angry at the category the way toddler parents are. She is scared for her kid's school life and worn down by years of trying.
@@ -913,3 +930,143 @@ Base: the verified history in research-persuasion.md §3 [P-tags], re-checked fo
 - **§13B spine = C1** (Brazelton × Pampers size 6), with C2 as one supporting sentence. It's the origin of the enemy: big kids were handed a bigger diaper.
 - **Hooks to test first:** C1 ("In 1998 the answer to big kids still learning was a bigger diaper"), C2 ("'I'm a big kid now!' was a diaper slogan"), C5 as pre-sell context, L5 ("before the Pull-Up").
 - **Banned:** the 92% misquote, the 9-month Vietnam misquote, L6, any "diapers caused late training" causal claim.
+
+---
+
+- [C:S227] https://www.mumsnet.com/talk/special_needs/4165535-Starting-school-in-nappies-constant-accidents · Mumsnet Special needs · n/d · SNIPPET
+- [C:N252] https://www.youtube.com/watch?v=LrrpnP_9qAM&lc=UgwmOgMhbsPg8AsLZXR4AaABAg · YouTube (How I Potty Trained My Son with Autism) · ~2023 (approx) · VERBATIM
+- [C:N251] https://www.youtube.com/watch?v=LrrpnP_9qAM&lc=Ugy0zCYnSglaL8DzWPl4AaABAg · YouTube (How I Potty Trained My Son with Autism) · ~2024 (approx) · VERBATIM
+- [C:N244] https://www.youtube.com/watch?v=LrrpnP_9qAM&lc=Ugwz16PpdnyOief0nUx4AaABAg · YouTube (How I Potty Trained My Son with Autism) · ~2024 (approx) · VERBATIM
+- [C:N246] https://www.youtube.com/watch?v=LrrpnP_9qAM&lc=UgzVEuTibjKJdj1QuQV4AaABAg · YouTube (How I Potty Trained My Son with Autism) · ~2023 (approx) · VERBATIM
+- [C:S197] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [C:S217] https://www.mumsnet.com/talk/potty_training/5561246-my-4yr-old-is-still-in-nappies-support-please · Mumsnet · n/d · SNIPPET
+- [C:N226] https://www.walmart.com/reviews/product/209907642 · Walmart (BIG ELEPHANT) · n/d · SNIPPET
+- [C:S199] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [C:S228] https://www.mumsnet.com/talk/special_needs/4165535-Starting-school-in-nappies-constant-accidents · Mumsnet · n/d · SNIPPET
+- [M64] Daytime urinary incontinence ages 5–13, 7–10%: https://pubmed.ncbi.nlm.nih.gov/31060913/ (via D-skeptic / LOCK-decision.md).
+- [W9] Boston Children's Hospital, Daytime Wetting (Enuresis): https://www.childrenshospital.org/conditions-treatments/daytime-wetting-enuresis (SNIPPET via Firecrawl search, 2026-10-06).
+- [C:S077] https://www.reddit.com/r/nottheonion/comments/1ai360b/why_this_utah_lawmaker_wants_kids_to_be_potty/ · Reddit r/nottheonion · ~2024-03 (est. from post ID) · SNIPPET
+- [C:S203] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [C:N091] https://www.mumsnet.com/talk/potty_training/1412338-first-time-at-training-and-I-am-so-confused-pull-ups-or-not · Mumsnet · n/d · SNIPPET
+- [C:N124] https://www.reddit.com/r/pottytraining/comments/1ol01s1/has_anyone_ever_tried_potty_training_underwear/ · Reddit · SNIPPET
+- [P55] Atrium Health Wake Forest Baptist, "How Much Should a Bladder Hold" — https://www.wakehealth.edu/specialty/p/pediatric-urology/how-much-should-a-bladder-hold (SNIPPET)
+- [P49] Instagram, The Nappy Lady / Bambino Mio Elite post — https://www.instagram.com/p/DWVIMVNAaaG/ (SNIPPET)
+- [C:N205] https://www.trustpilot.com/reviews/6a9ec853b2ed2b1904effe3c · Trustpilot (UpAiry) · 2026-09-07 · VERBATIM · 1★
+- [C:N031] https://www.amazon.com/portal/customer-reviews/srp/-/R2UW23ES82VTPD · Amazon (MooMoo Baby) · n/d · SNIPPET
+- [B4] Maternik M et al., J Pediatr Urol 2016;12:214.e1–5 (hosted on ics.org): "The EBC was calculated according to the Koff formula (30 × (age in years + 1) for children between 4 and 12 years…)" — https://www.ics.org/folder/committees/children-public-documents/d/3-evaluation-of-bladder-capacity-in-children-with-lower-urinary-tract-symptoms/download · PDF text 2026-10-06 · VERBATIM
+- [B5] Atrium Health Wake Forest Baptist, "How Much Should a Bladder Hold": https://www.wakehealth.edu/specialty/p/pediatric-urology/how-much-should-a-bladder-hold · WebFetch 2026-10-06 · VERBATIM
+- [B1] Boston Children's Hospital, Daytime Wetting (Enuresis): https://www.childrenshospital.org/conditions-treatments/daytime-wetting-enuresis · WebFetch 2026-10-06 · VERBATIM (key lines)
+- [B28] Walmart BIG ELEPHANT 10-Pack 9-10Y: https://www.walmart.com/ip/17438769713 · Firecrawl 2026-10-06 · VERBATIM
+- [C:S173] https://community.whattoexpect.com/forums/hot-topics-1/topic/4-year-old-wont-potty-train-145341474.html · What to Expect · n/d · VERBATIM
+- [C:S188] https://community.whattoexpect.com/forums/multiples-and-twins/topic/potty-training-35-year-old-boys-no-success-165918513.html · What to Expect · n/d · VERBATIM
+- [C:S018] https://www.reddit.com/r/Autism_Parenting/comments/1h4i2h1/diapers_for_6_year_old/ · Reddit r/Autism_Parenting · ~2024-12 (est. from post ID) · SNIPPET
+- [C:N081] https://community.whattoexpect.com/forums/march-2023-babies/topic/leakproof-training-underwear-172255924.html · What to Expect · n/d · SNIPPET
+- [C:S032] https://www.reddit.com/r/toddlers/comments/1lznwev/she_hates_butt_seams_now/ · Reddit · ~2025-07 · SNIPPET
+- [C:N202] https://www.trustpilot.com/reviews/6aa14236d7468c556926167e · Trustpilot (UpAiry) · 2026-07-26 · VERBATIM · 1★
+- [C:N201] https://www.trustpilot.com/reviews/6aa409e1240a1e10f64e08d3 · Trustpilot · 2026-07-29 · VERBATIM · 1★
+- [C:N174] https://www.trustpilot.com/reviews/6abe3e09e8a5b3cba0cdf620 · Trustpilot (UpAiry) · 2026-10-01 · VERBATIM · 1★
+- [C:N188] https://www.trustpilot.com/reviews/6aae108359de3c8d20666199 · Trustpilot (UpAiry) · 2026-09-19 · VERBATIM · 1★
+- [C:N145] https://www.reddit.com/r/Autism_Parenting/comments/12l7suj/options_for_diapers_beyond_size_7/ · Reddit r/Autism_Parenting · n/d · SNIPPET
+- [C:N195] https://www.trustpilot.com/reviews/6aaa8a10f09a7e7e808c3a8f · Trustpilot (UpAiry) · 2026-08-10 · VERBATIM · 1★
+- [C:N166] https://www.trustpilot.com/reviews/6ac3e951868b837e4b76371f · Trustpilot (UpAiry) · 2026-10-05 · VERBATIM · 1★
+- [C:N207] https://www.trustpilot.com/reviews/6a9b28aa8faf8dd4b7f062ca · Trustpilot (UpAiry) · 2026-09-04 · VERBATIM · 1★
+- [C:N017] https://www.amazon.com/portal/customer-reviews/srp/-/R222357XS66MMI · Amazon (BIG ELEPHANT) · n/d · SNIPPET
+- [C:N198] https://www.trustpilot.com/reviews/6aa7684651d3b10325862189 · Trustpilot (UpAiry) · 2026-09-13 · VERBATIM · 1★
+- [C:N119] https://www.reddit.com/r/moderatelygranolamoms/comments/1ihyyrs/are_training_underwear_worth_it/ · Reddit r/moderatelygranolamoms · n/d · SNIPPET
+- [C:N200] https://www.trustpilot.com/reviews/6aa60fe20d300da93a479fd0 · Trustpilot (UpAiry) · 2026-09-12 · VERBATIM · 1★
+- [C:N233] https://www.walmart.com/reviews/product/209907642 · Walmart (BIG ELEPHANT) · 2026-07-10 · VERBATIM · 1★
+- [C:N014] https://www.amazon.com/portal/customer-reviews/srp/-/R19NZC9FL4PB13 · Amazon (BIG ELEPHANT) · n/d · SNIPPET
+- [C:N041] https://www.amazon.com/portal/customer-reviews/srp/-/R20PRQ4LPITHBQ · Amazon (MooMoo Baby) · n/d · SNIPPET
+- [C:N061] https://www.amazon.com/portal/customer-reviews/srp/-/R1D23VT9PLEOWN · Amazon (Gerber) · n/d · SNIPPET
+- [V1] Winning Hunter `search_facebook_ads` keyword `kids-washable-incontinence-underwear`, landingurl: 27 ads (CARER), "Toilet training pants for Boys looks just like regular boxer briefs—but with hidden 100ml leak protection… dry at school", started 2025-12-03, last seen 2026-10-05, US/NZ/AU/CA/GB; 2026-10-06 (DATA / VERBATIM copy as indexed). PDP: https://carerspk.com/products/kids-washable-incontinence-underwear-for-boys-ages-4-16 ("Absorbs up to 3.4 fl oz (100 ml)", sizes 2XS–4XL, $23.95, "First Pair Guarantee… keep the first pair", 48 reviews / 3.90) — firecrawl_scrape 2026-10-06 (VERBATIM).
+- [V3] Walmart TIICHOO: https://www.walmart.com/ip/18208062804 ("40ml Absorbency", "school-age boys") · https://www.walmart.com/ip/18143001040 ("holds up to 30 ml", "school settings") — firecrawl_scrape 2026-10-06 (VERBATIM).
+- [C:N125] https://www.reddit.com/r/toddlers/comments/1v26rty/do_toddler_training_underwear_actually_help_potty/ · Reddit r/toddlers · n/d · SNIPPET
+- [C:N146] https://www.reddit.com/r/Autism_Parenting/comments/1pzq5d3/has_training_pants_worked_for_potty_training_with/ · Reddit r/Autism_Parenting · n/d · SNIPPET
+- [C:N147] https://www.reddit.com/r/Autism_Parenting/comments/1vd2to8/potty_training_underwear/ · Reddit r/Autism_Parenting · n/d · SNIPPET
+- [C:N159] https://www.reddit.com/r/pottytraining/comments/1jre9lv/upairy_training_pants/ · Reddit r/pottytraining · n/d · SNIPPET
+- [C:N171] https://www.trustpilot.com/reviews/6ac0c9c433a9a185e4fe3899 · Trustpilot (UpAiry) · 2026-10-03 · VERBATIM · 1★
+- [C:N175] https://www.trustpilot.com/reviews/6abce2aa16b56b25ad75a201 · Trustpilot (UpAiry) · 2026-09-30 · VERBATIM · 1★
+- [C:N220] https://www.tiktok.com/@tiktokkiddoc/video/7283992787312282926 · TikTok · 2023-10-11 · SNIPPET
+- [B12] Accessing Autism YouTube channel: https://www.youtube.com/@accessingautism5688; video https://www.youtube.com/watch?v=LrrpnP_9qAM (oEmbed) · 2026-10-06 · VERBATIM (title/channel)
+- [C:N243] https://www.youtube.com/watch?v=LrrpnP_9qAM&lc=UgwsmGNvWbvdw2YOPVh4AaABAg · YouTube (How I Potty Trained My Son with Autism) · ~2023 (approx) · VERBATIM
+- [W8] Firecrawl search `site:reddit.com "year old" still having accidents at school pees pants`, 25 results, 2026-10-06 (SNIPPET). Examples:
+- [B33] Firecrawl `firecrawl_search`: `site:reddit.com "year old" pees pants at school every day` (25); `site:reddit.com 7 OR 8 year old accidents school "spare clothes" OR "extra clothes" teacher called` (20); `site:reddit.com training underwear for older kids size 8 10 accidents recommendations` (20) · 2026-10-06 · SNIPPET. Thread URLs: https://www.reddit.com/r/Parenting/comments/v2q182/ · https://www.reddit.com/r/Preschoolers/comments/1l9vr7a/ · https://www.reddit.com/r/Parenting/comments/1h8hvv0/ · https://www.reddit.com/r/pottytraining/comments/1gansad/ · https://www.reddit.com/r/Parenting/comments/1kd7o1p/ · https://www.reddit.com/r/kindergarten/comments/1mnmryw/ · https://www.reddit.com/r/Parenting/comments/1c7am3v/ · https://www.reddit.com/r/Mommit/comments/1r9ddrw/ · https://www.reddit.com/r/Mommit/comments/16c08u/ · https://www.reddit.com/r/Mommit/comments/1ndsyhy/ · https://www.reddit.com/r/kindergarten/comments/1frt9ze/ · https://www.reddit.com/r/kindergarten/comments/1ade6zl/ · https://www.reddit.com/r/kindergarten/comments/1mmvmyx/ · https://www.reddit.com/r/ECEProfessionals/comments/1m3j9ql/ · https://www.reddit.com/r/Parenting/comments/72fqty/ · https://www.reddit.com/r/kindergarten/comments/1o2oybe/ · https://www.reddit.com/r/Parenting/comments/ww2unx/ · https://www.reddit.com/r/kindergarten/comments/1kac79i/ · https://www.reddit.com/r/Parenting/comments/1d2xq6r/ · https://www.reddit.com/r/pottytraining/comments/1h8ehc6/ · https://www.reddit.com/r/daddit/comments/1jszer7/ · https://www.reddit.com/r/Teachers/comments/636i18/ · https://www.reddit.com/r/Teachers/comments/1stphcu/
+- [C:S037] https://www.reddit.com/r/pottytraining/comments/1g5us47/underwear_suggestions/ · Reddit r/pottytraining · ~2024-10 (est. from post ID) · SNIPPET
+- [P39] HealthyChildren.org (AAP), "Creating a Toilet Training Plan" — https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/Creating-a-Toilet-Training-Plan.aspx (VERBATIM)
+- [C:S176] https://community.whattoexpect.com/forums/hot-topics-1/topic/4-year-old-wont-potty-train-145341474.html · What to Expect · n/d · VERBATIM
+- [C:N281] https://www.reddit.com/r/kindergarten/comments/1kac79i/help_were_at_our_wits_end_kindergartener_has/ · Reddit · SNIPPET
+- [C:N330] https://community.babycenter.com/post/a29790219/7_years_old_and_still_having_accidents · BabyCenter · n/d · SNIPPET
+- [C:N332] https://community.babycenter.com/post/a38915014/7_year_old_peeing_pants_during_the_day · BabyCenter Community · n/d · SNIPPET
+- [C:N336] https://www.mumsnet.com/talk/parenting/3098602-End-of-my-tether-with-7-year-old-wetting-himself · Mumsnet · n/d · SNIPPET
+- [B3] Austin PF et al., ICCS standardization of terminology, 2014 (PMID 24508614) and 2016 update (PMID 25772695) · Europe PMC citation 2026-10-06 · DATA
+- [B7] Goodreads, *It's No Accident* (Hodges): https://www.goodreads.com/book/show/12309474-it-s-no-accident · WebFetch 2026-10-06 · VERBATIM (rating counts + review lines)
+- [B6] Dr. Steve Hodges profile/podcasts: https://www.bedwettingandaccidents.com/blog · https://www.janetlansbury.com/?p=20689 · https://brainymoms.buzzsprout.com/1632949/episodes/15269485 · WebSearch 2026-10-06 · SNIPPET
+- [B11] Dr. Lane Robson YouTube channel: https://www.youtube.com/@LANEROBSON (channel description via Firecrawl); video https://www.youtube.com/watch?v=f1V_VhGKgwE (oEmbed) · 2026-10-06 · VERBATIM (description)
+- [B10] ERIC & Bladder and Bowel UK school guidance: https://eric.org.uk/news/eric-and-bbuk-launch-best-practice-guidance-for-education-settings/ · WebSearch 2026-10-06 · SNIPPET
+- [W10] NIDDK, Symptoms & Causes of Bladder Control Problems & Bedwetting in Children: https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems-bedwetting-children/symptoms-causes (SNIPPET).
+- [C:N313] https://www.reddit.com/r/kindergarten/comments/1gobdc0/son_keeps_having_potty_accidents/ · Reddit r/kindergarten · ~2024-11 · SNIPPET
+- [C:N285] https://www.reddit.com/r/AskTeachers/comments/1va5viw/kindergarten_teachers_what_common_factors_are_you/ · Reddit r/AskTeachers · ~2026-08 · SNIPPET
+- [C:S205] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [C:S204] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [B26] Amazon MooMoo Baby 2T-9Y (B0C36DDD2B): https://www.amazon.com/dp/B0C36DDD2B · Firecrawl 2026-10-06 · VERBATIM
+- [B18] BrightKidCo Autism & Sensory Edition PDP + cart + checkout: https://www.brightkidco.com/products/help-your-child-become-potty-trained-in-4-6-weeks-our-body-signal-learning-layer%E2%84%A2-preserves-the-natural-wetness-signal-so-your-child-can-recognize-when-its-time-to-go · Playwright 2026-10-06 · work/15-captures/B/brightkidco-sensory-* · VERBATIM
+- [B20] Kid Confident Big Kid Sizes: https://kidconfident.co/products/potty-training-underwear-big-kid-sizes · Playwright 2026-10-06 · VERBATIM
+- [B8] Cooper CS et al., "Do public schools teach voiding dysfunction? Results of an elementary school teacher survey", J Urol 2003;170(3):956-8 (PMID 12913750) · Europe PMC abstract · VERBATIM
+- [B32] Winning Hunter `search_facebook_ads` "training underwear ml" and "big kid potty", adtext, US, same window: 0 and 0 · DATA
+- [V4] Amazon search https://www.amazon.com/s?k=kids+absorbent+underwear+ml+school+age — Carer titles "Up to 60ML", "50ml, Age 4-12", "70ML", "80ml"; TIICHOO "30 ml" — firecrawl_scrape 2026-10-06 (DATA).
+- [B31] Winning Hunter `search_facebook_ads` "pour test", adtext, US, last seen 2026-07-01→10-06: 10 ads — Haven (havenbody.co, page "Sarah Wilson", 236 active), Maggie's Underwear ("A pour test is not enough"), Layered blankets; 0 kids' products · DATA / VERBATIM ad copy
+- [P13] Bladt L et al., "Do disposable diapers reduce urination elimination signals in non-toilet-trained children?", Eur J Pediatr 2025 (PMID 41099785) — https://pubmed.ncbi.nlm.nih.gov/41099785/ (abstract VERBATIM via Europe PMC)
+- [P6] Breinbjerg A, Rittig S, Kamperis K, "Does the development and use of modern disposable diapers affect bladder control? A systematic review", J Pediatr Urol 2021 (PMID 34099398) — https://pure.au.dk/ws/files/276702613/1_s2.0_S1477513121002746_main.pdf (VERBATIM, full-text PDF)
+- [B25] Peejamas Overnight Booster Insert: https://www.peejamas.com/products/absorbent-booster-insert · Playwright 2026-10-06 · VERBATIM
+- [B2] Nieuwhof-Leppink AJ et al., "Daytime urinary incontinence in children and adolescents", Lancet Child Adolesc Health 2019, doi 10.1016/s2352-4642(19)30113-0 (PMID 31060913 = [M64]) · Europe PMC abstract · VERBATIM
+- [P65] Kimberly-Clark, "Disposable training pants story" (PDF) — https://www.kimberly-clark.com/-/media/kimberly/pdf/innovation/ProductEvol_DisposableTrainingPants_umbracoFile.pdf (VERBATIM, PDF text)
+- [P71] Wikipedia, Huggies Pull-Ups — https://en.wikipedia.org/wiki/Huggies_Pull-Ups (SNIPPET)
+- [P1] https://www.tampabay.com/archive/1999/01/06/parents-cheer-for-diaper-change/ · [P9] https://time.com/archive/6734449/war-of-the-diapers/ · [P65] https://www.kimberly-clark.com/-/media/kimberly/pdf/innovation/ProductEvol_DisposableTrainingPants_umbracoFile.pdf · [P71] https://en.wikipedia.org/wiki/Huggies_Pull-Ups · [P49] research-persuasion.md
+- [P9] TIME, "War of the Diapers", Michael Lemonick, 1999-01-25 — https://time.com/archive/6734449/war-of-the-diapers/ (VERBATIM)
+- [C:S230] https://www.goodnites.com/en-us/bedwetting-products/nighttime-underwear-for-boys?bvroute=review%252f25577397&bvstate=pg:93/ct:r · Goodnites.com review · ~2013 (page label '13 years ago') · VERBATIM
+- [C:N265] https://www.reddit.com/r/pottytraining/comments/1gansad/my_7_year_old_wets_his_pants_regularly/ · Reddit r/pottytraining · ~2024-11 (est. from post ID) · SNIPPET
+- [C:N322] https://www.reddit.com/r/Parenting/comments/15b1ati/i_am_at_my_wits_end_over_this_my_six_almost_7/ · Reddit r/Parenting · ~2023-07 (est. from post ID) · SNIPPET
+- [C:N268] https://www.reddit.com/r/Parenting/comments/1bf3nj/8_year_old_girl_still_wetting_during_the_day_tips/ · Reddit r/Parenting · before 2015-08 · SNIPPET
+- [C:S235] https://www.goodnites.com/en-us/bedwetting-products/nighttime-underwear-for-boys?bvroute=review%252f25577397&bvstate=pg:93/ct:r · Goodnites.com review · n/d · VERBATIM
+- [P4] Kiddoo DA, "Toilet training children: when to start and how to train", CMAJ 2012;184(5):511 — https://pmc.ncbi.nlm.nih.gov/articles/PMC3307553/ (WebFetch)
+- [C:S174] https://community.whattoexpect.com/forums/hot-topics-1/topic/4-year-old-wont-potty-train-145341474.html · What to Expect · n/d · VERBATIM
+- [C:N216] https://www.tiktok.com/@turtlecoop/video/7691866893644303647 · TikTok · ~2026-10-03 · SNIPPET
+- [C:N347] https://www.youtube.com/watch?v=f1V_VhGKgwE&lc=UgwIE5RvMbRDoKYUFQZ4AaABAg · YouTube (Lane Robson) · ~2025 · VERBATIM
+- [C:S125] https://www.reddit.com/r/kindergarten/comments/1kac79i/help_were_at_our_wits_end_kindergartener_has/ · Reddit r/kindergarten · ~2025-05 (est. from post ID) · SNIPPET
+- [C:N326] https://community.whattoexpect.com/forums/hot-topics-1/topic/5-year-old-still-having-accidents-146705310.html · What to Expect (Hot Topics) · n/d · SNIPPET
+- [C:N333] https://community.babycenter.com/post/a32451381/5_year_old_wets_his_pants_almost_daily?page=3 · BabyCenter · n/d · SNIPPET
+- [C:N314] https://www.reddit.com/r/kindergarten/comments/1mmvmyx/prepping_kiddo_who_struggles_with_potty_accidents/ · Reddit r/kindergarten · ~2025-08 (est. from post ID) · SNIPPET
+- [C:N350] https://www.youtube.com/watch?v=f1V_VhGKgwE&lc=UgzbaR7pcCjXaz_RwM14AaABAg.9pT2GgRUGQz9q972akqLm1 · YouTube (Lane Robson) · ~2023 · VERBATIM
+- [C:N339] https://www.mumsnet.com/talk/primary/1170802-Any-advice-on-wetting-at-school-age-6 · Mumsnet · n/d · SNIPPET
+- [C:N351] https://www.amazon.com/portal/customer-reviews/srp/-/R2C8EJI2LTHABE · Amazon (MooMoo 9T) · n/d · SNIPPET
+- [C:N184] https://www.trustpilot.com/reviews/6ab021669d8ce11c228d5efe · Trustpilot (UpAiry) · 2026-09-20 · VERBATIM · 5★
+- [M50] CPSC, Tracking Label Business Guidance: https://www.cpsc.gov/Business--Manufacturing/Business-Education/tracking-label (VERBATIM).
+- [M5] UpAiry daycare advertorial: https://www.upairy.com/pages/daycare-mandate. Playwright headless, 2026-10-06 (VERBATIM).
+- [C:N294] https://www.reddit.com/r/ParentingADHD/comments/1ectrja/5_year_old_wets_himself_and_doesnt_care/ · Reddit · ~2024-07 · SNIPPET
+- [C:N259] https://www.youtube.com/watch?v=a6Qm6mQgqZk&lc=UgznonU3WMM5LX-Y7jN4AaABAg · YouTube (Mistake That Turns a Regression Into an Ongoing Problem) · ~2025 (approx) · VERBATIM
+- [U10] Amazon MooMoo Baby 9T 10-pack: https://www.amazon.com/dp/B0CZ34MF49 ("Customers say" aspects + star split), firecrawl_scrape `maxAge:0`, 2026-10-06 (DATA / SNIPPET).
+- [P40] Amazon, BIG ELEPHANT Side Button Training Pants 10-pack (B0D6MXSLMY) — https://www.amazon.com/dp/B0D6MXSLMY (VERBATIM, Firecrawl 2026-10-06)
+- [P43] Simply Mom Bailey, Lil Helper Zero-A-Trainers — https://www.simplymombailey.com/lil-helper-zero-a-trainers/ (SNIPPET)
+- [P80] AliExpress "side snap training pants" search (returned adult trousers) — https://www.aliexpress.com/w/wholesale-side-snap-training-pants.html
+- [P42] Kanga Care / Rumparooz, Lil Learnerz 2.0 — https://www.kangacare.com/products/lil-learnerz-2-0-training-pants-swim-diapers-finn and https://www.facebook.com/rumparooz/posts/-potty-training-just-got-an-upgradesay-hello-to-lil-learnerz-20-the-next-generat/1184753267024871/ (SNIPPET)
+- [B34] Super Undies "(5 Pack) 3-in-1 Diapers for Big Kids & 3 Liners": https://superundies.com/products/5-pack-waterproof-undies (+ cart, checkout) and https://superundies.com/products.json · Playwright + curl · `work/15-captures/B/superundies-bigkid5-*`, `superundies.com.products.json` · VERBATIM
+- [M62] California AB 1817 PFAS in textiles: https://www.bluesign.com/pfas-in-clothing and https://sustainabilityservices.eurofins.com/news/california-pfas-regulations-a-compliance-checklist-for-consumer-products/ (SNIPPET: "Use 'no intentionally added PFAS'").
+- [C:S222] https://www.mumsnet.com/talk/education/5485471-school-said-it-might-be-best-if-ds-is-put-back-in-nappies · Mumsnet · n/d · SNIPPET
+- [B9] ERIC, "Desperate to go: young people struggling to access toilets at school": https://eric.org.uk/news/desperate-to-go-young-people-struggling-to-access-toilets-at-school/ · WebSearch summary 2026-10-06 (WebFetch 403) · SNIPPET
+- [P59] deVries MW, deVries MR, "Cultural relativity of toilet training readiness: a perspective from East Africa", Pediatrics 1977;60(2):170 (PMID 887331) — https://doi.org/10.1542/peds.60.2.170 (VERBATIM)
+- [P74] Nilsson T et al., BABITT RCT, Arch Dis Child 2026 (PMID 41249012) (VERBATIM)
+- [P60] Duong TH et al., "Vietnamese mothers' experiences with potty training…", J Pediatr Urol 2013 (PMID 23182948) (VERBATIM)
+- [P61] Duong TH et al., "Urinary bladder control during the first 3 years of life in healthy children in Vietnam — a comparison study with Swedish children", J Pediatr Urol 2013 (PMID 23759503) (VERBATIM)
+- [P5] Bakker E, Wyndaele JJ, BJU Int 2000;86:248-52 — https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1046/j.1464-410x.2000.00737.x (VERBATIM)
+- [P62] Azrin NH, Foxx RM, "A rapid method of toilet training the institutionalized retarded", JABA 1971 (PMID 16795291) — https://doi.org/10.1901/jaba.1971.4-89 (VERBATIM; the title uses the period's terminology)
+- [P64] Wikipedia, Nathan Azrin — https://en.wikipedia.org/wiki/Nathan_Azrin (SNIPPET via WebSearch summary)
+- [P67] FRASER (St. Louis Fed), Children's Bureau *Infant Care* — https://fraser.stlouisfed.org/title/infant-care-8301/fulltext (catalog only; text not read)
+- [P68] Facebook, Nostalgia Machine post — https://www.facebook.com/nostalgiamachine/posts/hahaha1930s-never-too-early-for-potty-traininga-pamphlet-published-by-the-us-gov/2288089041478933/ (SNIPPET, UNVERIFIED)
+- [P70] NYT, "Two Experts Do Battle Over Potty Training", Erica Goode, 1999-01-12 — https://www.nytimes.com/1999/01/12/us/two-experts-do-battle-over-potty-training.html (SNIPPET; blocked for fetch)
+- [P7] Conversable Economist, "History of the disposable diaper", 2026-05-07 (summarizing V. Postrel, *Works in Progress*) — https://conversableeconomist.com/2026/05/07/history-of-the-disposable-diaper/ (WebFetch)
+- [P2] Seim HC, "Toilet Training in First Children", J Fam Pract 1989;29:633-6 (PDF) — https://cdn-uat.mdedge.com/files/s3fs-public/jfp-archived-issues/1989-volume_28-29/JFP_1989-12_v29_i6_toilet-training-in-first-children.pdf (VERBATIM)
+- [P12] Schum TR et al., "Factors associated with toilet training in the 1990s", Ambul Pediatr 2001 (PMID 11888377) — https://doi.org/10.1367/1539-4409(2001)001<0079:fawtti>2.0.co;2 (VERBATIM)
+- [P10] roastmypost.org review export of a 2026 newsletter on diapers and Brazelton — https://www.roastmypost.org/docs/z00xtxVADHE0JdS1qVxxd/export (quotes = SNIPPET of the underlying newsletter; fact-check verdict VERBATIM)
+- [P73] Hindmarsh C et al., "Assisted Infant Toilet Training and Bladder and Bowel Health: A Global Integrative Review", Matern Child Health J 2025 (PMID 40911121) (VERBATIM)
+- [C:N311] https://www.reddit.com/r/Parenting/comments/ty1hms/my_daughter_is_scared_to_ask_to_go_to_the/ · Reddit · ~2022-04 · SNIPPET
+- [P75] Repeaters of the 92% claim: https://godiaperfree.com/potty-training/ · https://www.facebook.com/mycarrypotty/posts/92-of-toddlers-were-potty-trained-by-18-months-in-1957-now-its-nearly-3-the-pott/1503553168477828/ · https://oneproudtoddler.com/blogs/potty-training-explained/why-early-is-better (SNIPPETS)

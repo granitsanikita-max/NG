@@ -69,6 +69,12 @@
 - **Attitude** locked with Courage as the emotional target (§6).
 - **The line** reworded to put "in your kid's size" in the FOR clause.
 
+## So What → do this *(§20C: added — the section had no decision line)*
+- **Use the locked line on every surface** (name, About page, PDP, inserts, order emails): straight-talking, the number on the label per size, against the toddler-ized, overpromising industry.
+- **Never claim "the only brand with a number"** — CARER and TIICHOO print one [V1][V3]. Our claim is the bundle: size-matched + pour-tested + filmed number, a training (not incontinence) identity, a creed, the School-Day Kit.
+- **BE it before you say it:** pour-test data on file per size before any ml claim; OEM sizes 7–12 exist before "to size 12"; subscription is opt-in and unticked.
+- **Re-check CARER monthly**; if our size-8 pour can't clearly beat its flat 100 ml, the Uncopyable Test fails and the position must change.
+
 ## Sources
 - [M1] UpAiry PDP (VERBATIM); [M47-A] A-paid-ads-map.md.
 - D-skeptic §6: /home/user/NG/docs/potty-training-research/D-skeptic.md.

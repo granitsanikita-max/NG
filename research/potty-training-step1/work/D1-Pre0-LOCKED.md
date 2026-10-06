@@ -100,6 +100,8 @@ These match the LOCK-decision figures (10 for $119: CM $59.93 / 50%, break-even 
 > **⏰ COGS REMINDER (Nikita):** send OEM quotes (unit price per size at MOQ), MOQ per design, freight per unit, the duty / broker quote, the lab quote and the 3PL quote. Until then every number here is PROVISIONAL.
 
 ## Sources
+- [V12] (§20C: added as a list line) https://www.makemine.com/blog/china-tariffs — China tariff stack Oct 2026: HTS base + 7.5% Section 301 List 4A + 12.5% Section 301 since 2026-07-24; IEEPA struck down 2026-02-20 · WebFetch 2026-10-06 · VERBATIM
+- [V13] (§20C: added as a list line) https://tariffs.wove.com/us/tariff/6107.11 (boys' cotton knit briefs 7.4%) · https://www.unisco.com/hts/61082100 (girls' 7.6%) · WebSearch 2026-10-06 · SNIPPET
 - [U1] Alibaba listing (search snippet): https://www.alibaba.com/pla/Ananbaby-Good-Price-Toddler-Training-Pants_1601118130714.html ("Washable Absorbent Incontinence Boxer Briefs Leak Proof Maximum Absorbency 200ml … US$6-7. MOQ: 100"), firecrawl_search, 2026-10-06 (SNIPPET).
 - [U2] https://www.alibaba.com/countrysearch/CN/boy-underwear.html ("$1.05-1.20. Min. order: 30 pieces"), 2026-10-06 (SNIPPET).
 - [U3] https://www.alibaba.com/wholesale/washable-adjustable-cloth-diaper.html ("Big Xl Cloth Diapers for Older Children Aged 6-10 Years … $2.30"), 2026-10-06 (SNIPPET).

@@ -1,12 +1,9 @@
 {
  "Doc 1 \u2014 Market & Competition": {
-  "files": 10,
+  "files": 12,
   "missing_files": [],
-  "cited": 99,
-  "unresolved": [
-   "V12",
-   "V13"
-  ]
+  "cited": 118,
+  "unresolved": []
  },
  "Doc 2 \u2014 The Customer": {
   "files": 7,
@@ -21,16 +18,9 @@
   "unresolved": []
  },
  "Doc 4 \u2014 Brand, Offer & Funnel": {
-  "files": 5,
-  "missing_files": [
-   "D4-s20-VERIFY.md"
-  ],
-  "cited": 155,
-  "unresolved": [
-   "V10",
-   "V11",
-   "V12",
-   "V13"
-  ]
+  "files": 6,
+  "missing_files": [],
+  "cited": 180,
+  "unresolved": []
  }
 }

@@ -1,0 +1,8 @@
+## Top 5 takeaways — Doc 3 · Persuasion
+*(Written after §20 B–C corrections.)*
+
+1. **She is afraid, not guilty: Fear is 24 of 79 locked snippets (30%) and Guilt is 0 — "we're just at our very wits end" [C:N244].** → Write Fear → Courage: one line that names the fear, then the brave next step; never guilt or shame hooks.
+2. **The mechanism math holds: expected bladder capacity is 30 × (age + 1) ml (≈240 ml at age 7) [B4] vs toddler trainers rated "1 pee (60–90 ml)" [P49] — but that comparator is one UK Instagram snippet.** → Before any ad, film our own pour of a bought US toddler trainer and our size-8 pant; the *Big-Kid Hold* claim waits for that footage.
+3. **Her top objections are about trust, not price: "won't hold / leaks" 47 — "It doesn't hold more that 10-20ml" [C:N205] — and "scam / hidden subscription" 16 — "They scam you through hidden subscriptions!" [C:N174].** → Print the number per size and pour it on camera; make the Grow-With-Me subscription unticked, priced on the button, cancel in two clicks.
+4. **The history hook survives, corrected: in 1998–99 Brazelton was the TV spokesman for size-6 Pampers for kids over 35 lb [P1][P9] — and the famous "92% trained by 18 months" stat is a misquote (92% *started*, 1940s data).** → Use the 1998–99 size-6 story (spokesman, not inventor; fair to him), and never repeat the 92% line.
+5. **Borrow medical authority, not influencer authority: "up to 10 percent of 5-year-olds" have wetting accidents (Boston Children's) [B1] and 7–10% of 5–13-year-olds [M64]; the locked parent cites pediatric urologists 3 and creators 0.** → Lead the advertorial's proof with Boston Children's in third person ("Up to 10% of 5-year-olds…"); creators carry the story, not the authority.

@@ -1,3 +1,20 @@
+# Potty Training Underwear (Big Kids) — Step 1 · Doc 1 — Market & Competition
+
+**Research folder (all 4 docs + §2C data-bank Sheet):** [https://drive.google.com/drive/folders/1j-rhDFMF_bqcKUGOezrgPlJur7h0trOK](https://drive.google.com/drive/folders/1j-rhDFMF_bqcKUGOezrgPlJur7h0trOK)
+
+*Run 2026-10-06 · market: US parents of 5–9-year-olds with daytime accidents · economics PROVISIONAL until OEM quote · ml numbers OPEN until pour test.*
+
+## Top 5 takeaways — Doc 1 · Market & Competition
+*(Written after §20 B–C corrections.)*
+
+1. **A live contestant already prints a number: CARER runs 27 kids' ads on US Meta — "hidden 100ml leak protection… dry at school" — one flat 100 ml across 10 sizes; TIICHOO prints 30–40 ml, Carer Amazon 50–80 ml [V1][V3][V4].** → Never claim "the only / first brand with a number". Our wedge is a **size-matched, pour-tested** number that visibly beats 100 ml at size 8 — if the pour can't, the wedge is a me-too.
+2. **She doesn't search for this: every school-age term runs at ≈0–7 where "potty training underwear" = 100 [U30][U31], while her posts read "He regularly comes home from school with wet pants" [C:N265].** → Buy attention with creator stories and pre-sell pages, not search; add a back-to-school creative wave late July–September.
+3. **Duty is certain for China-made goods: ≈27.5% (HTS 7.4–7.6% + Section 301 7.5% + 12.5%) → landed ≈$5.70, and 6 for $84 keeps a $15.08 scale CPA vs $13.23 for the $119 kit [V12][V13].** → Test both, but set budgets on the 6-pack's kill/scale lines until a broker rules on the HTS code.
+4. **The daycare / working-parent angle is taken: UpAiry runs it in the US (≈1,684 active Meta ads, a `/pages/daycare-mandate` advertorial) [M5][M23], while "accidents at school" on US Meta returns 9 ads — all supplements, 0 underwear [W5] — and TikTok "training underwear" US = 0 [W6].** → Enter at the school-age, daytime market; lead on TikTok creators, then Meta broad with story pre-sell.
+5. **The market is real but mid-sized: ≈1.4–2.0M US children aged 5–9 with daytime wetting (20.1M × 7–10%, INFERENCE) [V5][M64], and supplement brands already reach this parent on Meta (Saphire: 103 US ads to its domain) [U26] — reach, not proof of wetting spend.** → Plan a focused DTC brand, not a mass play; prove spend with a small creator test before inventory beyond the first OEM run.
+
+---
+
 # Pre-0 · Economics & KPIs — LOCKED-market revision (2026-10-06, after the §11 lock)
 
 **Replaces for decisions:** work/D1-Pre0.md and work/D1-Pre0-rerun.md. Both are kept for the record. They priced an AliExpress *toddler* trainer ($2.27–$2.43/pair) for a toddler / daycare offer. That product and that market are gone.
@@ -1156,3 +1173,124 @@ Typical lines:
 ---
 
 **⏰ Pre-0 reminder — costs are not final (§20C: added, per Pre-0 "No costs yet? … add a reminder just above Doc 1's Sources list"):** every KPI in Doc 1 is **PROVISIONAL**. Landed $4.60/pair is built from Alibaba search snippets (no real OEM quote — Alibaba CAPTCHA, no supplier contact); duty is now ≈27.5% (landed ≈$5.70, [V12][V13]); kit extras $2.50, 3PL and CPC lab cost are estimates. **Before any spend: get 2–3 OEM quotes (sizes 4–12, TPU core), a customs-broker HTS ruling, and a 3PL quote — then re-run the Pre-0 table.**
+
+---
+
+- [U7] Alibaba search https://www.alibaba.com/trade/search?SearchText=kids+reusable+incontinence+underwear+8-12+years → "CAPTCHA Verification", 2026-10-06 (❌ blocked).
+- [U2] https://www.alibaba.com/countrysearch/CN/boy-underwear.html ("$1.05-1.20. Min. order: 30 pieces"), 2026-10-06 (SNIPPET).
+- [U4] https://m.alibaba.com/countrysearch/CN/underwear-aging.html ("Girls 4-10 Ages … $0.41-0.49. Min. order: 36 pieces"), 2026-10-06 (SNIPPET).
+- [U3] https://www.alibaba.com/wholesale/washable-adjustable-cloth-diaper.html ("Big Xl Cloth Diapers for Older Children Aged 6-10 Years … $2.30"), 2026-10-06 (SNIPPET).
+- [U5] https://www.alibaba.com/countrysearch/CN/china-mens-panty.html ("Urinary Incontinence Panties With Liner Pads … $5.60-6.40. Min. order: 10 pieces"), 2026-10-06 (SNIPPET).
+- [U1] Alibaba listing (search snippet): https://www.alibaba.com/pla/Ananbaby-Good-Price-Toddler-Training-Pants_1601118130714.html ("Washable Absorbent Incontinence Boxer Briefs Leak Proof Maximum Absorbency 200ml … US$6-7. MOQ: 100"), firecrawl_search, 2026-10-06 (SNIPPET).
+- [U6] AliExpress search "kids incontinence underwear", US locale: https://www.aliexpress.com/w/wholesale-kids-incontinence-underwear.html, firecrawl_scrape query, 2026-10-06 (DATA).
+- [U8] Amazon search "kids incontinence underwear boys washable": https://www.amazon.com/s?k=kids+incontinence+underwear+boys+washable, firecrawl_scrape query, 2026-10-06 (DATA).
+- [U9] Amazon search "training underwear big kids size 8 10": https://www.amazon.com/s?k=training+underwear+big+kids+size+8+10, firecrawl_scrape query, 2026-10-06 (DATA).
+- [M12] US de minimis ended: https://www.vatcalc.com/global/global-2023-vat-gst-changes/ and https://www.marketresearchfuture.com/reports/dropshipping-market-20308. Search snippets, 2026-10-06 (SNIPPET).
+- [U14] Tobimax Textiles, CPSIA testing costs: https://www.tobimaxtextiles.com/blog/cpsia-testing-costs-sleepwear-brand-lab-bill ("$400 to $900 per fabric and colourway", SNIPPET).
+- [U15] NBVA CPSIA compliance document: https://nbva.org/wp-content/uploads/2024/03/CPSIA-Compliance-Document-2024.pdf ("$400 to $800 in lab testing fees per product", SNIPPET).
+- [U16] Compliance Gate: https://www.compliancegate.com/cpsia-product-lab-testing/ ("between 500 and 1800 USD per product", SNIPPET).
+- [U12] Eurofins, "Mastering US CPSIA Children's Product Certificate": https://www.eurofins.com/en/consumer-product-testing/softlines-hardlines/news-articles/mastering-us-cpsia-children-s-product-certificate-a-compliance-manager-s-guide/ (VERBATIM, directQuote: "Starting 8 July 2026, e-Filing will be required for most CPSC-regulated imported products"; "The CPC itself is free").
+- [U13] CPSC Children's Product Certificate page: https://www.cpsc.gov/Business--Manufacturing/Testing-Certification/Childrens-Product-Certificate and FedEx notice https://www.fedex.com/content/dam/fedex/us-united-states/International/CPSC_to_implement_mandatory_electronic_filing_requirements_in_ACE_on_July_8_2026.pdf (SNIPPET).
+- [U17] ShipBob fulfillment costs: https://www.shipbob.com/ecommerce-fulfillment/fulfillment-costs/ (SNIPPET).
+- [U18] ShipBob pricing analysis: https://checkthat.ai/brands/shipbob/pricing (SNIPPET; third-party summary).
+- [V12] https://www.makemine.com/blog/china-tariffs ("16.5% HTS base rate, plus 7.5% legacy Section 301 (List 4A), plus the 12.5% country-specific Section 301 rate in force since July 24, 2026"; IEEPA "Struck down by the Supreme Court on February 20, 2026") · [V13] https://tariffs.wove.com/us/tariff/6107.11 · https://www.unisco.com/hts/61082100 (SNIPPET).
+- [V13] (§20C: added as a list line) https://tariffs.wove.com/us/tariff/6107.11 (boys' cotton knit briefs 7.4%) · https://www.unisco.com/hts/61082100 (girls' 7.6%) · WebSearch 2026-10-06 · SNIPPET
+- [U22] Winning Hunter `get_store_details` superundies.com, 2026-10-06 (DATA).
+- [U21] Winning Hunter `get_store_details` hellobloomkids.com, 2026-10-06 (DATA).
+- [U20] Winning Hunter `get_store_details` trysaphire.com, 2026-10-06 (DATA).
+- [B18] BrightKidCo Autism & Sensory Edition PDP + cart + checkout: https://www.brightkidco.com/products/help-your-child-become-potty-trained-in-4-6-weeks-our-body-signal-learning-layer%E2%84%A2-preserves-the-natural-wetness-signal-so-your-child-can-recognize-when-its-time-to-go · Playwright 2026-10-06 · work/15-captures/B/brightkidco-sensory-* · VERBATIM
+- [U10] Amazon MooMoo Baby 9T 10-pack: https://www.amazon.com/dp/B0CZ34MF49 ("Customers say" aspects + star split), firecrawl_scrape `maxAge:0`, 2026-10-06 (DATA / SNIPPET).
+- [B28] Walmart BIG ELEPHANT 10-Pack 9-10Y: https://www.walmart.com/ip/17438769713 · Firecrawl 2026-10-06 · VERBATIM
+- [B47] BrightKidCo catalogue: https://www.brightkidco.com/products.json (sensory edition $29.99, sizes S/M/L; cross-sell prices) · `work/15-captures/B/brightkidco.com.products.json` · VERBATIM
+- [B34] Super Undies "(5 Pack) 3-in-1 Diapers for Big Kids & 3 Liners": https://superundies.com/products/5-pack-waterproof-undies (+ cart, checkout) and https://superundies.com/products.json · Playwright + curl · `work/15-captures/B/superundies-bigkid5-*`, `superundies.com.products.json` · VERBATIM
+- [B35] Winning Hunter `get_store_details` superundies.com (theme "Canopy w/navidium", no apps listed, AOV $90.81, 13,098 visits) · DATA
+- [B39] Winning Hunter `get_store_details` hellobloomkids.com (Recharge Subscriptions, Kaching; AOV $58.12) · DATA
+- [B37] Winning Hunter `get_store_details` trysaphire.com (apps: AfterSell, Kaching, UpCart, CartBot, Intelligems, Judge.me, Klaviyo, Triple Whale; Trustpilot 3.0 / 74 and gap counts) · DATA
+- [M24] Winning Hunter `get_store_details` upairy.com, incl. Trustpilot gap analysis, 2026-10-06 (DATA).
+- [M25] Winning Hunter `get_store_details` kidconfident.co, 2026-10-06 (DATA).
+- [M26] Winning Hunter `get_store_details` brightkidco.com, 2026-10-06 (DATA).
+- [M3] UpAiry product JSON: https://www.upairy.com/products/potty-training-underwear.js. 2026-10-06 (DATA).
+- [M4] UpAiry PDP Kaching dealBars config: https://www.upairy.com/products/potty-training-underwear. 2026-10-06 (DATA).
+- [M1] UpAiry PDP: https://www.upairy.com/products/potty-training-underwear. Playwright headless (mobile + desktop), 2026-10-06 (VERBATIM). Screenshots saved locally in the session scratchpad.
+- [M23] Winning Hunter Meta ad corpus (75 result files, 1,316 unique ad IDs, 908 unique copy rows), 2026-10-06 (DATA).
+- [M42] UpAiry XL product JSON: https://www.upairy.com/products/potty-training-underwear-xl.js. 2026-10-06 (DATA).
+- [M18] Amazon search "reusable training pants toddler": https://www.amazon.com/s?k=reusable+training+pants+toddler. Firecrawl query, 2026-10-06 (DATA).
+- [M2] UpAiry advertorial: https://www.upairy.com/pages/training-underwear. Playwright headless, 2026-10-06 (VERBATIM).
+- [M5] UpAiry daycare advertorial: https://www.upairy.com/pages/daycare-mandate. Playwright headless, 2026-10-06 (VERBATIM).
+- [M54] FTC final rule banning fake reviews and testimonials (16 CFR 465): https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials (VERBATIM).
+- [C:N265] https://www.reddit.com/r/pottytraining/comments/1gansad/my_7_year_old_wets_his_pants_regularly/ · Reddit r/pottytraining · ~2024-11 (est. from post ID) · SNIPPET
+- [C:N339] https://www.mumsnet.com/talk/primary/1170802-Any-advice-on-wetting-at-school-age-6 · Mumsnet · n/d · SNIPPET
+- [C:N276] https://www.reddit.com/r/Parenting/comments/1vmmxhw/please_help_my_55_year_old_is_still_wetting/ · Reddit r/Parenting · ~2026-08 (est. from post ID) · SNIPPET
+- [C:N326] https://community.whattoexpect.com/forums/hot-topics-1/topic/5-year-old-still-having-accidents-146705310.html · What to Expect (Hot Topics) · n/d · SNIPPET
+- [W9] Boston Children's Hospital, Daytime Wetting (Enuresis): https://www.childrenshospital.org/conditions-treatments/daytime-wetting-enuresis (SNIPPET via Firecrawl search, 2026-10-06).
+- [C:N322] https://www.reddit.com/r/Parenting/comments/15b1ati/i_am_at_my_wits_end_over_this_my_six_almost_7/ · Reddit r/Parenting · ~2023-07 (est. from post ID) · SNIPPET
+- [C:N274] https://www.reddit.com/r/pottytraining/comments/1vmn4jp/please_help_my_55_year_old_is_still_wetting/ · Reddit r/pottytraining · ~2026-08 (est. from post ID) · SNIPPET
+- [C:N289] https://www.reddit.com/r/kindergarten/comments/1o0ubo9/constant_accidents/ · Reddit r/kindergarten · ~2025-10 (est. from post ID) · SNIPPET
+- [M64] Daytime urinary incontinence ages 5–13, 7–10%: https://pubmed.ncbi.nlm.nih.gov/31060913/ (via D-skeptic / LOCK-decision.md).
+- [M66] CDC NCHS, "U.S. Births Increase by 1% in 2024": https://www.cdc.gov/nchs/pressroom/releases/20250423.html (VERBATIM: "3,622,673 births recorded in 2024").
+- [U30] Google Trends US 5y "daytime wetting, sensory underwear, big kid training underwear, potty training underwear, training pants size 8": https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=daytime%20wetting,sensory%20underwear,big%20kid%20training%20underwear,potty%20training%20underwear,training%20pants%20size%208. Playwright headless, widget JSON, 2026-10-06 (DATA).
+- [U31] Google Trends US 5y "potty training, daytime accidents, kids incontinence underwear, pull ups 5t, wetting pants": https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=potty%20training,daytime%20accidents,kids%20incontinence%20underwear,pull%20ups%205t,wetting%20pants. 2026-10-06 (DATA).
+- [M13] Google Trends US, 5y, "potty training underwear, potty training, training pants": https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=potty%20training%20underwear,potty%20training,training%20pants. Captured via Playwright headless (widget API JSON), 2026-10-06 (DATA).
+- [M14] Google Trends US 5y "potty training pants, toddler training underwear, reusable training pants, pull ups": https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=potty%20training%20pants,toddler%20training%20underwear,reusable%20training%20pants,pull%20ups. 2026-10-06 (DATA).
+- [M16] Google Trends US 5y "bedwetting, goodnites, night training pants, potty training underwear": https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=bedwetting,goodnites,night%20training%20pants,potty%20training%20underwear. 2026-10-06 (DATA).
+- [M20] Winning Hunter `search_tiktok_products` keyword "potty training underwear" and "training pants", country US, 30d, 2026-10-06 (DATA).
+- [M15] Google Trends GB / AU / CA 5y "potty training, toilet training, potty training pants": https://trends.google.com/trends/explore?date=today%205-y&geo=GB&q=potty%20training,toilet%20training,potty%20training%20pants (and geo=AU, geo=CA), 2026-10-06 (DATA).
+- [M17] Amazon search "potty training underwear": https://www.amazon.com/s?k=potty+training+underwear. Firecrawl query, 2026-10-06 (DATA).
+- [M21] Winning Hunter TikTok Shop product 1729569671740888020 (BIG ELEPHANT), metrics + history slices: https://app.winninghunter.com/tiktok-shop/product/1729569671740888020. 2026-10-06 (DATA).
+- [M22] Winning Hunter `get_tiktok_product` 1732439062662713947, slice metrics: https://app.winninghunter.com/tiktok-shop/product/1732439062662713947. 2026-10-06 (DATA).
+- [M35] Facebook Ad Library, US, "potty training underwear", Active: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=potty%20training%20underwear&search_type=keyword_unordered&media_type=all. Playwright headless, 2026-10-06 (DATA).
+- [M37] Facebook Ad Library, GB, "potty training pants", Active: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=GB&q=potty%20training%20pants&search_type=keyword_unordered&media_type=all. 2026-10-06 (DATA).
+- [M36] Facebook Ad Library, US, "daycare potty", Active: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=daycare%20potty&search_type=keyword_unordered&media_type=all. 2026-10-06 (DATA/VERBATIM).
+- [M38] Facebook Ad Library, CA "potty training underwear" and AU "toilet training pants", Active, 2026-10-06. Returned "No ads match" (low confidence).
+- [M31] Winning Hunter `search_google_ads` domain upairy.com, country US: https://adstransparency.google.com/advertiser/AR10820652197935579137?region=anywhere. 2026-10-06 (DATA).
+- [M32] Winning Hunter `search_tiktok_ads` keyword "potty training", countries US, 2026-10-06 (DATA).
+- [U32] Google Trends US 5y solo: https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=daytime%20wetting · …&q=wetting%20pants · …&q=sensory%20underwear, 2026-10-06 (DATA).
+- [U11] Amazon "Potty Training Underwear … Dinosaur 8-10Years": https://www.amazon.com/dp/B0H1HL64KX, 2026-10-06 (DATA / SNIPPET).
+- [U29] Winning Hunter `search_tiktok_products` keywords "training underwear big kids" and "incontinence underwear kids", country US, 30d, 2026-10-06 (DATA).
+- [W6] Winning Hunter `search_tiktok_ads` "training underwear" US = 0, 2026-10-06 (DATA).
+- [W3] Winning Hunter `search_facebook_ads` keyword "big kid training underwear", countries US, last seen 2026-09-06→10-06, sort lastseen (923 total). First page: UpAiry / Emma's Mom Hacks (295 active), Saphire "Tanisha Martinez" page (684 active, trysaphire.com/pages/bed-wetting-5rw), plus unrelated supplements. 2026-10-06 (DATA).
+- [W4] Winning Hunter `search_facebook_ads` keyword "sensory underwear kids", US, same window (908 total). First page: Bloomwise (hellobloomkids.com, page "Amanda Thompson", "Bedwetting ADHD kids… My ADHD son still wets the bed at 8"); Saphire pages "Saphire Saffron" (226 active) and "Dr. James Harper" (149 active, "My 9yr old still wets the bed"); UpAiry. 2026-10-06 (DATA / VERBATIM ad copy as indexed).
+- [U26] Winning Hunter `search_facebook_ads` keyword trysaphire.com, `searchkeyword: landingurl`, countries US, `sort_by: longestrunning`: total 103, 2026-10-06 (DATA; saved to a file and read with `jq`).
+- [W5] Winning Hunter `search_facebook_ads` "accidents at school" adtext US (9 ads, 0 underwear), 2026-10-06 (DATA).
+- [V1] Winning Hunter `search_facebook_ads` keyword `kids-washable-incontinence-underwear`, landingurl: 27 ads (CARER), "Toilet training pants for Boys looks just like regular boxer briefs—but with hidden 100ml leak protection… dry at school", started 2025-12-03, last seen 2026-10-05, US/NZ/AU/CA/GB; 2026-10-06 (DATA / VERBATIM copy as indexed). PDP: https://carerspk.com/products/kids-washable-incontinence-underwear-for-boys-ages-4-16 ("Absorbs up to 3.4 fl oz (100 ml)", sizes 2XS–4XL, $23.95, "First Pair Guarantee… keep the first pair", 48 reviews / 3.90) — firecrawl_scrape 2026-10-06 (VERBATIM).
+- [M27] Winning Hunter `get_store_top_ads` upairy.com (meta; tiktok = empty), 2026-10-06 (DATA).
+- [M28] Winning Hunter `get_store_top_ads` kidconfident.co meta, 2026-10-06 (DATA/VERBATIM copy).
+- [M29] Winning Hunter `get_store_top_ads` brightkidco.com and tinytotsundies.com meta, 2026-10-06 (DATA).
+- [M30] Winning Hunter `search_facebook_ads` `searchkeyword: landingurl`, `sort_by: longestrunning` (± `min_duplicates: 2`) for upairy.com, kidconfident.co, brightkidco.com, tinytotsundies.com, 2026-10-06 (DATA).
+- [M33] Winning Hunter `find_similar_shops` kidconfident.co, 2026-10-06 (DATA; irrelevant matches).
+- [M34] Winning Hunter `brief_competitor` upairy.com, 2026-10-06 (DATA).
+- [M39] SimilarWeb upairy.com: https://www.similarweb.com/website/upairy.com/. Firecrawl query, 2026-10-06 (DATA).
+- [M40] SimilarWeb kidconfident.co: https://www.similarweb.com/website/kidconfident.co/. 2026-10-06 (DATA).
+- [M41] Kid Confident Big Kid Sizes product JSON: https://kidconfident.co/products/potty-training-underwear-big-kid-sizes.js. 2026-10-06 (DATA).
+- [M63] Pull-Ups Amazon PDP https://www.amazon.com/dp/B07XCVWZ51 via B-marketplace-brands-map.md §2.2 (VERBATIM there).
+- [W2] SimilarWeb superundies.com: https://www.similarweb.com/website/superundies.com/ (DATA, 2026-10-06).
+- [U25] Winning Hunter `search_facebook_ads` keyword superundies.com, landingurl, lastseen: 4 ads; latest last-seen 2025-11-25, 2026-10-06 (DATA).
+- [U27] Winning Hunter `search_facebook_ads` keyword "goodnites", `searchkeyword: pagename`, countries US: 2 ads, last seen 2024-02-14, 2026-10-06 (DATA / VERBATIM copy).
+- [U28] Winning Hunter `search_facebook_ads` keyword smartknitkids.com, landingurl: 0 results, 2026-10-06 (DATA).
+- [U33] Lucky & Me sensory-friendly collection: https://luckyandme.com/collections/sensory-friendly-kids-clothing ; WunderUndies: https://wunderundies.com/ ; SmartKnitKIDS: https://www.amazon.com/SmartKnitKIDS-Girls-Seamless-Sensitivity-Undies/dp/B09BN3YPSS (SNIPPET, firecrawl_search 2026-10-06).
+- [U34] Reddit r/Autism_Parenting "Sensory-friendly underwear": https://www.reddit.com/r/Autism_Parenting/comments/1fkc8qk/sensoryfriendly_underwear/ (SNIPPET).
+- [U24] Winning Hunter `search_facebook_ads` keyword brightkidco.com, `searchkeyword: landingurl`, `sort_by: lastseen`: 13 ads; latest last-seen 2026-09-05, 2026-10-06 (DATA / VERBATIM copy as indexed).
+- [V8] Winning Hunter `search_facebook_ads` keyword "brightkidco", pagename, sort lastseen, 2026-10-06: latest last-seen 2026-09-05 (sensory "Still in Pull-Ups?" + Happy Poop); April 2026 GB ad copy "Not fully trained. Not a 3-day miracle." (DATA / VERBATIM as indexed).
+- [U23] Winning Hunter `get_store_details` brightkidco.com, 2026-10-06 (DATA).
+- [V3] Walmart TIICHOO: https://www.walmart.com/ip/18208062804 ("40ml Absorbency", "school-age boys") · https://www.walmart.com/ip/18143001040 ("holds up to 30 ml", "school settings") — firecrawl_scrape 2026-10-06 (VERBATIM).
+- [V4] Amazon search https://www.amazon.com/s?k=kids+absorbent+underwear+ml+school+age — Carer titles "Up to 60ML", "50ml, Age 4-12", "70ML", "80ml"; TIICHOO "30 ml" — firecrawl_scrape 2026-10-06 (DATA).
+- [V6] Winning Hunter `get_store_details` trysaphire.com, re-run 2026-10-06 (bestsellers: ADHD guide, sleepovers e-book created 2026-09-07, mood gummies) (DATA).
+- [V7] Winning Hunter `search_facebook_ads` "accidents at school" adtext US re-run 2026-10-06: 9 ads; Bloomwise copy "He had accidents at school at six years old — not because he wasn't toilet trained, but because when a bowel is that overloaded things leak past" (VERBATIM as indexed).
+- [V9] Super Undies Brain Trainer specifications: https://superundies.com/pages/brain-trainer-specifications ("Absorbs 325 ml… 400 ml… 540 ml… 620 ml without added inserts", S 3-5y → XL 10+), firecrawl_scrape 2026-10-06 (VERBATIM). Night product per https://superundies.com/pages/what-is-the-difference-between-the-nighttime-and-hero-undies.
+- [V2] Winning Hunter `get_store_details` carerspk.com: 65,782 visits (Aug 2026), 30d est. $370K–$740K (whole store, mostly adult), US 91%, AOV $71.59 (DATA).
+- [C:S194] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · WTE Hot Topics · n/d · VERBATIM
+- [W7] Winning Hunter `search_facebook_ads` landing URL "brightkidco.com", last seen ≥2026-09-20.
+- [V5] US Census ACS 2024 5-yr DP05: https://data.census.gov/table/ACSDP5Y2024.DP05 ("5 to 9 years 20,081,975", SNIPPET via firecrawl_search).
+- [W8] Firecrawl search `site:reddit.com "year old" still having accidents at school pees pants`, 25 results, 2026-10-06 (SNIPPET). Examples:
+- [W12] Firecrawl search "training underwear for older kids size 8 10 sensory reddit", 15 results, 2026-10-06 (SNIPPET):
+- [C:S043] https://www.reddit.com/r/ADHDparenting/comments/1r8k9mm/out_of_ideas_almost_6yearold_wont_stop_peeing_his/ · Reddit r/ADHDparenting · ~2026-02 (est. from post ID) · SNIPPET
+- [C:N081] https://community.whattoexpect.com/forums/march-2023-babies/topic/leakproof-training-underwear-172255924.html · What to Expect · n/d · SNIPPET
+- [C:S017] https://www.reddit.com/r/Autism_Parenting/comments/1dxkjr8/effective_potty_training_methods_for_autistic/ · Reddit r/Autism_Parenting · ~2024-07 (est. from post ID) · SNIPPET
+- [W10] NIDDK, Symptoms & Causes of Bladder Control Problems & Bedwetting in Children: https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems-bedwetting-children/symptoms-causes (SNIPPET).
+- [C:S045] https://www.reddit.com/r/pottytraining/comments/pj0y9k/my_7_yo_still_has_accidents_because_he_hates/ · Reddit r/pottytraining · ~2021-08 (est. from post ID) · SNIPPET
+- [C:S222] https://www.mumsnet.com/talk/education/5485471-school-said-it-might-be-best-if-ds-is-put-back-in-nappies · Mumsnet · n/d · SNIPPET
+- [C:S018] https://www.reddit.com/r/Autism_Parenting/comments/1h4i2h1/diapers_for_6_year_old/ · Reddit r/Autism_Parenting · ~2024-12 (est. from post ID) · SNIPPET
+- [C:N175] https://www.trustpilot.com/reviews/6abce2aa16b56b25ad75a201 · Trustpilot (UpAiry) · 2026-09-30 · VERBATIM · 1★
+- [C:N159] https://www.reddit.com/r/pottytraining/comments/1jre9lv/upairy_training_pants/ · Reddit r/pottytraining · n/d · SNIPPET
+- [C:S145] https://www.reddit.com/r/pottytraining/comments/15om9un/3day_potty_training_was_a_total_bust_and_babe/ · Reddit r/pottytraining · ~2023-08 (est. from post ID) · SNIPPET
+- [C:S198] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
