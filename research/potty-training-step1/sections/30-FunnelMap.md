@@ -1,0 +1,5 @@
+**The Funnel Map (do this before building any page)**
+Fill out the exact full funnel structure you're going to build for THIS product. First pick the funnel from the <mention-page url="https://app.notion.com/p/3e0d53123cd681bda4d6fbc54fd7b296"/> — match it to her awareness level (§5) and what the product needs; for a single-hero product the default is the Discovery Stack (Advertorial → Offer Page). Say which funnel and why.
+Each page continues the conversation — it never repeats what the last touchpoint already said.
+Ad (does x) → Pre-sell page (Does X, gives the mechanism + proof) → Product page (sells THIS product + offer) → Cart (raise order value) → After purchase (kill regret, upsell, get repeat buys)
+	- Fill in every stage for THIS product — replace every "x": what the ad does · which mechanism + which proof the pre-sell page uses · the offer inputs the product page will sell (§15 → the full offer is built in Step 2) · how the cart raises order value · what happens after purchase. If the chosen funnel has no pre-sell page, write "none — why".
