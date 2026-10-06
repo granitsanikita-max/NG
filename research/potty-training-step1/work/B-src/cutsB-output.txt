@@ -1,0 +1,672 @@
+ROWS N=601 | segment B=225 | school-age tag=79 | last id=N351
+
+## A authority_trusted: bank | segB | school
+- other parents: 22 | 4 | 2
+- daycare staff: 15 | 1 | 0
+- creator with lived experience: 7 | 7 | 0
+- pediatrician: 6 | 3 | 3
+- occupational therapist: 4 | 3 | 0
+- pediatric urologist: 3 | 3 | 3
+- ABA therapist: 2 | 2 | 0
+- daycare teacher experience: 2 | 0 | 0
+- potty-training creator: 2 | 1 | 0
+- influencer review: 2 | 0 | 0
+- experienced childcare worker: 1 | 0 | 0
+- nursery staff: 1 | 0 | 0
+- experienced childcarer: 1 | 0 | 0
+- Oh Crap method: 1 | 0 | 0
+- autism consultant: 1 | 1 | 0
+- OT creator: 1 | 0 | 0
+- pediatrician (TikTok): 1 | 0 | 0
+- author / performance coach: 1 | 0 | 0
+- pelvic floor PT: 1 | 1 | 1
+- continence charity (ERIC): 1 | 1 | 1
+  rows with any authority tag: 75
+
+## B authority keyword mentions in quotes: bank | segB | school
+- pediatrician/doctor: 7 | 3 | 3
+- urologist: 2 | 2 | 2
+- continence nurse/ERIC/BBUK: 3 | 2 | 2
+- OT: 2 | 1 | 0
+- ABA/BCBA: 2 | 2 | 0
+- teacher: 12 | 6 | 4
+- pelvic floor PT: 1 | 1 | 1
+- Hodges: 0 | 0 | 0
+- Oh Crap/Glowacki: 9 | 1 | 0
+- 3-day/Brucks: 10 | 2 | 0
+
+## C trigger tag: bank | segB | school
+- daycare/preschool deadline: 31 | 10 | 4
+- school start (K/Reception): 20 | 16 | 10
+- daycare pull-up/underwear rules: 11 | 0 | 0
+- relative judgment: 10 | 5 | 1
+- soaked bed: 9 | 2 | 0
+- school/teacher complaint: 6 | 5 | 4
+- outgrew largest size: 4 | 2 | 0
+- new sibling: 4 | 0 | 0
+- 3-day weekend attempt: 4 | 0 | 0
+- sleepover invite: 2 | 0 | 0
+- back to work: 2 | 2 | 0
+- accidents at preschool: 2 | 0 | 0
+- school says back to nappies: 2 | 2 | 2
+- seeing ads: 2 | 0 | 0
+- about to start training: 2 | 0 | 0
+- one painful poop: 1 | 0 | 0
+- holiday break / planned start: 1 | 0 | 0
+- child asks for underwear: 1 | 1 | 0
+- after 3-day method: 1 | 0 | 0
+- weekend training before daycare Monday: 1 | 0 | 0
+- cabin fever during training: 1 | 0 | 0
+- bought from social media ad: 1 | 0 | 0
+- diaper size outgrown: 1 | 1 | 0
+- child takes diaper off: 1 | 0 | 0
+- started kindergarten: 1 | 1 | 0
+- going back to work: 1 | 0 | 0
+- accidents at school: 1 | 1 | 1
+
+## D school-moment keyword cuts in quotes: bank | segB | school-tag
+- came home wet / spare clothes in backpack: 8 | 5 | 5
+- teacher message / call / note / request: 5 | 4 | 3
+- started K / 1st grade / new school / year 1: 9 | 6 | 5
+- accident in front of class / classmates / teasing: 10 | 6 | 2
+- sleepover / camp / trip: 3 | 0 | 0
+- outgrew sizes / nothing fits: 11 | 6 | 0
+- relative / partner judgment: 11 | 3 | 1
+- doctor / urologist referral: 9 | 5 | 5
+- scared to ask / bathroom access at school: 4 | 3 | 2
+
+## E emotional_state: bank | segB | school
+- Neutrality: 223 | 107 | 30
+- Pride: 86 | 13 | 4
+- Anger: 86 | 7 | 4
+- Fear: 66 | 40 | 24
+- Apathy: 44 | 23 | 7
+- Acceptance: 26 | 12 | 5
+- Desire: 18 | 3 | 1
+- Shame: 15 | 3 | 0
+- Guilt: 15 | 8 | 0
+- Grief: 11 | 4 | 2
+- Willingness: 8 | 4 | 1
+- Courage: 3 | 1 | 1
+
+## F awareness school-tag: {'problem': 55, 'solution': 22, 'product': 2}
+
+## G pains school-tag top 15: [('daily accidents at school/daycare', 34), ('constant accidents', 16), ("child doesn't notice wet / body signals", 8), ('late training (3.5y+ still not trained)', 7), ('deadline pressure (daycare/school rule)', 7), ('regression', 7), ('parent burnout', 4), ('withholding / poop refusal', 3), ('judgment / shame from others', 3), ('night wetting', 2), ('child shame / embarrassment', 2), ('fear child will be teased', 2), ('child refuses', 1), ('daily accidents at school age', 1), ('sensory discomfort', 1)]
+
+## H desires school-tag top 10: [('daycare/school-ready', 8), ('child dignity / real underwear', 2), ('independence (pull on/off herself)', 2)]
+
+## I word use in quotes (snippets containing): bank | segB | school
+- accident(s): 91 | 39 | 35
+- pee/peeing/peed: 63 | 28 | 18
+- wet/wets/wetting: 76 | 31 | 25
+- potty: 194 | 71 | 8
+- underwear: 95 | 28 | 7
+- undies: 16 | 4 | 1
+- pull-up(s): 97 | 21 | 10
+- diaper(s)/nappies: 64 | 18 | 4
+- training pants/underwear: 60 | 7 | 1
+- leak/leaks/leaked: 57 | 3 | 0
+- big kid / big boy / big girl: 3 | 0 | 0
+- potty trained: 64 | 29 | 3
+- potty learning: 0 | 0 | 0
+- toilet: 18 | 8 | 1
+- bathroom: 13 | 5 | 2
+- incontinence: 1 | 1 | 1
+- enuresis: 0 | 0 | 0
+- urinate/urination/void: 0 | 0 | 0
+- bladder: 4 | 1 | 0
+- absorb/absorbent: 47 | 2 | 0
+- leakproof/leak proof: 12 | 0 | 0
+- interoception: 4 | 3 | 1
+- sensory: 15 | 15 | 2
+- autism/autistic/ASD: 32 | 31 | 1
+- neurodivergent/ND: 1 | 1 | 0
+- soaked/soaking: 12 | 1 | 0
+- ml/oz/ounce: 1 | 0 | 0
+- scam: 7 | 0 | 0
+- shame/embarrass: 18 | 5 | 3
+- dignity: 1 | 0 | 0
+- regression/regress: 7 | 0 | 0
+- readiness/ready: 9 | 5 | 1
+
+## J great phrases: 271
+  4x | total waste of money
+  2x | not worth the money
+  2x | definitely not leakproof
+  2x | they're just diaper
+  1x | look at layers of absorbency
+  1x | massive amount of washes
+  1x | feel very similar to diapers
+  1x | every small potty accident is a huge mess
+  1x | I am desperate for help
+  1x | keep denying him sleepovers
+  1x | the worst part of parenting
+  1x | full release
+  1x | I want to leave the house
+  1x | She hates butt seams
+  1x | it's lazy parenting
+  1x | be dismissed from care
+  1x | four times as frustrating
+  1x | making me resent my toddler
+  1x | it's honestly embarrassing
+  1x | not wanting to clean the underwear
+  1x | I'm not lazy
+  1x | there's no excuse at 3.5 years old anymore
+  1x | the social stigma of constantly peeing your pants in first grade
+  1x | stay-at-home moms who keep their kids
+  1x | this difficult time of potty training
+  1x | I've done something wrong and broke my child
+  1x | I'm losing my mind
+  1x | all over the couch
+  1x | add a doubler if he's napping
+  1x | nothing runs down your child's legs
+  1x | We had a dry night
+  1x | I'm a crap dad
+  1x | I am exhausted
+  1x | right after Thanksgiving
+  1x | just diapers with more steps
+  1x | The daycare has to be fully on board
+  1x | hypersensitive to the feeling of urine
+  1x | didn't care about feeling wet
+  1x | feel wet without the mess
+  1x | more absorbancy protection in the upper front
+  1x | a leak every single time
+  1x | mop the floor every 5 mins and hose him off
+  1x | I require pull-ups
+  1x | the sensation of being wet
+  1x | feeling defeated as a Parent
+  1x | contain most messes but allows the child to feel wet
+  1x | We just non judgmentally kept at it
+  1x | allowed him to realize he was wet
+  1x | No rewards, no punishments, no shame.
+  1x | easier to clean
+  1x | Upairy scam alert!
+  1x | inside a “wet bag”
+  1x | going on her own in less than 2 weeks
+  1x | regular underwear on top to conceal
+  1x | scared to ask to go to the bathroom at school
+  1x | I am constantly reminding
+  1x | are we screwing up
+  1x | the only kind she can pull up herself
+  1x | send her in underwear on Monday
+  1x | didn't hold really anything
+  1x | he doesn't know they are wet
+  1x | a marketing gimmick
+  1x | Not a silver bullet
+  1x | that's a disaster
+  1x | full accidents that seep through her pants
+  1x | The largest pull-ups are size 5t-6t
+  1x | long past the window
+  1x | I wouldn't bother with training underwear
+  1x | I'm giving up already!
+  1x | taking a break
+  1x | I believed they didnt leak
+  1x | perform under pressure
+  1x | underpants only
+  1x | very close to an underwear
+  1x | keeps outside of undies and clothes dry
+  1x | at our very wits end
+  1x | pee goes straight through
+  1x | time to talk to your pediatrician
+  1x | two weeks accident free
+  1x | gentle on his skin
+  1x | a difficult and low reward journey
+  1x | Potty training is breaking me.
+  1x | a little skeptical to order
+  1x | Makes me feel like a bad mother
+  1x | ready when he was ready to be ready
+  1x | a developmental stage, not a skill
+  1x | two pairs of regular underwear
+  1x | treated training pants and pull ups as nappies
+  1x | He had an accident, no leakage
+  1x | Think twice before buying
+  1x | the couch will still get wet
+  1x | leaked right through on the floor
+  1x | I have tried SO SO many things
+  1x | teaches them that accidents are ok
+  1x | feel when she's wet but won't make a mess
+  1x | After one pee in them they're SOAKED
+  1x | wet through
+  1x | doesn't have any accidents outside of school
+  1x | never tells anyone
+  1x | I f*cking hate potty training.
+  1x | alright if they are actually potty trained
+  1x | it's breaking my spirit
+  1x | so proud to show me she's wearing them
+  1x | return to 40 hour work weeks
+  1x | a whole pee or nothing
+  1x | Exclusively day wetting
+  1x | they will probabbly think I never bothered
+  1x | the most difficult thing I have literally ever done as a parent
+  1x | older boy neurodiverse/autistic potty training
+  1x | It will make the regression worse
+  1x | ND children just have a different timetable
+  1x | buy the vinyl covers
+  1x | there is no effect
+  1x | a great training panty, not diaper
+  1x | come home wet from school
+  1x | peed through them very easily
+  1x | only would absorb a dribble not an accident
+  1x | raving reviews
+  1x | doesn't hold more that 10-20ml
+  1x | I cannot wait again until winter break
+  1x | wrapping your kid in tissue paper
+  1x | I switched to underwear hoping for the best
+  1x | goodbye to stepping in random wet spots
+  1x | a lifesaver during our potty training journey
+  1x | bath every morning to wash off the urine
+  1x | My toddler wore them to school
+  1x | hold at least one pee
+  1x | If you can potty train a child, you can do anything
+  1x | So much poop and soaked carpets
+  1x | isn't $20 a pair
+  1x | your nights sleep
+  1x | He wants to wear underwear
+  1x | cleaning puddles up off the floor
+  1x | so his peers don't tease him
+  1x | Any parent out there like me?
+  1x | he only shames her
+  1x | stayed wet enough to make her uncomforable
+  1x | she is the only one who still isn't trained
+  1x | They hold a lot of urine
+  1x | It's so frustrating
+  1x | enough absorbency to hold one accident
+  1x | marketed towards neurotypical kids
+  1x | targeting tired and busy parents
+  1x | He is embarrassed about his accidents
+  1x | so afraid his classmates will find out
+  1x | a footprint trail of pee
+  1x | accident almost everyday at preschool
+  1x | protect her dignity
+  1x | exhausting with no help
+  1x | we just keep trying
+  1x | Measuring the leg hole IS SUPER IMPORTANT
+  1x | Both the toddler and I got soaked
+  1x | causing my ODS to revert back
+  1x | The only method we haven't tried
+  1x | save our furniture and floors from major pee puddles
+  1x | I've seen a lot of ads for UpAiry
+  1x | retrograde step
+  1x | stays dry when he has underwear on
+  1x | don't hold anything as advertised
+  1x | save your money
+  1x | I love that the sizes go up even more
+  1x | If her brain can't hear her bladder
+  1x | Parents have enough stress during potty training
+  1x | almost accidents
+  1x | Pull ups are too much like a diaper
+  1x | cannot have anything touching her crotch
+  1x | so smart and fun
+  1x | Call it learning and not training.
+  1x | super soft, 100% cotton
+  1x | I already feel like a better mom
+  1x | running our lives
+  1x | running out of trousers
+  1x | really doing all of us a disservice
+  1x | think they are normal pants
+  1x | Half the battle of potty training
+  1x | expensive TEMU training underwear
+  1x | slide on like real underwear
+  1x | Shamed by daycare over potty training
+  1x | dry pull-ups for 2 weeks
+  1x | soaked bed and I am out $100
+  1x | Stop reading the books.
+  1x | Skills take longer to work on.
+  1x | most definitely NOT leakproof
+  1x | put back in pull ups or diapers
+  1x | you weren't paying close enough attention
+  1x | no 8 year old wants to be wetting her pants
+  1x | These methods do not work with a child with SPD.
+  1x | delay the accident from wetting down everything
+  1x | feel the wetness they need to feel to learn
+  1x | if your kid hates being wet
+  1x | it's mentally exhausting
+  1x | JuSt PoTtY tRaIn HiM
+  1x | Potty training is hell.
+  1x | pull ups are a trap
+  1x | I find it daunting when I work a full time job
+  1x | comes home from school with wet pants or underwear
+  1x | A very sneaky scam
+  1x | Poop is ruining my life
+  1x | hold like a tablespoon of liquids
+  1x | because someone might say something
+  1x | saved my son embarrassment
+  1x | eventually figured it out
+  1x | rest easy moms
+  1x | Will the other children laugh at him?
+  1x | destroyed my confidence
+  1x | nonstop ads and scam subscription tactics
+  1x | if your child is having accidents that's ok
+  1x | they can tell when their wet
+  1x | an even bigger failure
+  1x | my lowest point of parenting
+  1x | still quite often has small leaks
+  1x | makes me feel like I'm doing something wrong
+  1x | definitely not "leak-proof"
+  1x | it helps them understand
+  1x | every kid is on their own timeline
+  1x | potty training on the go
+  1x | a full accident will 100% leak
+  1x | punished for accidents
+  1x | the amount of liquid output
+  1x | I'm lost
+  1x | buy pull-ups again just so she's not having accidents at school
+  1x | a sensory nightmare
+  1x | All pee promptly poured out
+  1x | I was bout to give up
+  1x | asking to wear underwear
+  1x | embarrassed that he still wears a pull-up
+  1x | Size up recommended
+  1x | just in case accidents occur
+  1x | Easy for little ones to pull up and down
+  1x | instead of diapers when we are out
+  1x | threw in the towel
+  1x | DO NOT yell or get frustrated
+  1x | good for little dribbles of pee
+  1x | Nothing worked until he decided himself
+  1x | look more like pants than nappies
+  1x | money going down the drain
+  1x | Should I go for a large
+  1x | highly condescending
+  1x | on the wait-list to be on the wait-list
+  1x | they will know immediately
+  1x | They WILL NOT help with potty training
+  1x | remove all the elastic
+  1x | only accept kids that are potty trained
+  1x | I don't realize she's gone in them
+  1x | great next steps from training pants
+  1x | Still doesnt make a lot of sense to use pull ups
+  1x | reached her shoes
+  1x | isn't bothered about the feeling of being wet
+  1x | They leak, but a lot less than others
+  1x | can I please try to sleep in my underwear
+  1x | cutting off circulation
+  1x | I feel like I'm the last !d!ot in the world
+  1x | the only difference between pull ups and pull on diapers is marketing
+  1x | Punishing will not help
+  1x | Potty training makes me hate myself
+  1x | Big waste of money
+  1x | they are just nappies
+  1x | My daycare provider asked where we got them
+  1x | just used them like a nappy
+  1x | the old fashion underwear thick ones
+  1x | excessive, unnecessary amounts of laundry
+  1x | Basically like period underwear
+  1x | i can go to sleepover and no one knows
+  1x | crying like a baby
+  1x | he doesn't care about being wet
+  1x | Elastic sucks?
+  1x | Worst leaks ever
+  1x | Help before we get kicked out of preschool
+  1x | like many, very skeptical
+  1x | quicken the process
+  1x | loves picking out a pair
+
+## K swipe phrase families (snippets containing): bank | segB | school   (★ = 3+ bank)
+- come home wet (from school): 2 | 2 | 2
+- ★ spare / extra clothes (in the backpack): 7 | 4 | 4
+- ★ accidents at school: 4 | 4 | 4
+- ★ pees his/her pants: 8 | 6 | 6
+- ★ wets himself / wets his pants: 10 | 8 | 8
+- ★ just diapers / just nappies: 7 | 0 | 0
+- ★ waste of money: 14 | 0 | 0
+- ★ not leakproof: 8 | 0 | 0
+- ★ soaked / soaking: 12 | 1 | 0
+- ★ every (single) day: 12 | 9 | 8
+- ★ own timeline / own pace: 3 | 2 | 0
+- wait-list: 1 | 1 | 0
+- ★ wits end: 3 | 3 | 1
+- losing my mind: 1 | 0 | 0
+- ★ exhausted / exhausting: 4 | 2 | 0
+- ★ embarrassed / embarrassing: 11 | 3 | 2
+- ★ doesn't notice / doesn't feel / doesn't care (he's wet): 12 | 9 | 4
+- ★ too busy to stop (playing): 4 | 3 | 2
+- ★ hold (at least) one pee: 6 | 0 | 0
+- ★ a dribble: 3 | 0 | 0
+- ★ went (straight) through: 9 | 2 | 2
+- ★ bigger sizes / sizes go up: 11 | 7 | 1
+- ★ too tight / too small / doesn't fit: 7 | 4 | 0
+- ★ (butt) seams: 4 | 3 | 0
+- ★ scam: 7 | 0 | 0
+- ★ constipation: 12 | 7 | 6
+- kicked out (of preschool): 2 | 0 | 0
+- ★ back in pull-ups: 12 | 4 | 3
+- ★ classmates / teased / laugh: 10 | 5 | 2
+- ★ lazy: 4 | 2 | 0
+- ★ failure / bad mother / crap dad: 11 | 5 | 0
+- ★ nothing works / tried everything: 8 | 5 | 3
+- ★ I'm lost / at a loss: 3 | 2 | 1
+- ★ constant accidents: 3 | 3 | 3
+- ★ I hate potty training / breaking me: 11 | 1 | 0
+- ★ real / regular underwear: 7 | 1 | 1
+- ★ big girl / big boy underwear: 3 | 0 | 0
+- ★ ready when he's ready / decided himself: 3 | 3 | 1
+- ★ shame / shamed: 9 | 3 | 1
+- ★ talk to your pediatrician / doctor: 7 | 3 | 3
+- ★ full accident / full release: 5 | 1 | 1
+- ★ puddle(s): 5 | 0 | 0
+- ★ all over the couch / floor: 10 | 0 | 0
+- ★ laundry / running out of pants: 5 | 0 | 0
+- ★ feel(s) wet / feeling wet: 17 | 2 | 1
+- ★ school called / teacher sent a message: 3 | 3 | 3
+- ★ first grade / kindergarten / year 1: 22 | 16 | 15
+- ★ help!: 25 | 11 | 4
+- ★ sensory: 15 | 15 | 2
+- meltdown: 2 | 2 | 0
+- ★ pull-ups are a trap / marketing: 3 | 0 | 0
+- ★ hiding it / never tells anyone: 3 | 3 | 2
+- ★ scared to ask: 5 | 3 | 2
+- desperate: 1 | 1 | 1
+- ★ accident(s) (bare word): 91 | 39 | 35
+
+## L ad-log hook hype words (n= 40 )
+- toddler: 10
+- week(s)/days speed: 17
+- leakproof: 0
+- ™ / technology / layer: 0
+- secret / finally / hack: 4
+- game changer / miracle / magic: 0
+- STILL in diapers (shame): 1
+- potty trained (outcome): 28
+
+## M counts for §9B re-check, §15 offer inputs, §16/§17 (bank | segB | school)
+
+### objection
+- won't hold pee / leaks: 47 | 2 | 0
+- scam / hidden subscription: 16 | 1 | 0
+- waste of money: 15 | 0 | 0
+- holds only one small accident: 14 | 0 | 0
+- sizing / fit uncertain: 13 | 2 | 0
+- price: 10 | 2 | 0
+- feels like a diaper: 5 | 0 | 0
+- skeptical of brand / reviews: 5 | 0 | 0
+- shipped from China: 5 | 1 | 0
+- quality: 3 | 0 | 0
+- no better than regular underwear: 3 | 0 | 0
+- not needed: 2 | 0 | 0
+- guarantee not honoured: 2 | 0 | 0
+- shipping time: 2 | 0 | 0
+- ads overpromise: 2 | 0 | 0
+- returns cost: 1 | 0 | 0
+- not worth it: 1 | 0 | 0
+- big brand let down: 1 | 0 | 0
+- only useful late in training: 1 | 0 | 0
+- may not work for my kid: 1 | 1 | 0
+- may slow training: 1 | 1 | 0
+- category is a scam: 1 | 0 | 0
+- not worth the price: 1 | 0 | 0
+- will leak out the front: 1 | 1 | 0
+- poop cleanup: 1 | 0 | 0
+
+### pain
+- late training (3.5y+ still not trained): 74 | 74 | 7
+- leaks / soaked after one pee: 55 | 3 | 1
+- deadline pressure (daycare/school rule): 41 | 19 | 7
+- daily accidents at school/daycare: 38 | 34 | 34
+- parent burnout: 34 | 12 | 4
+- judgment / shame from others: 30 | 14 | 3
+- withholding / poop refusal: 29 | 12 | 3
+- night wetting: 29 | 4 | 2
+- child doesn't notice wet / body signals: 28 | 20 | 8
+- regression: 24 | 7 | 7
+- parent guilt: 19 | 8 | 0
+- size / big-kid products: 18 | 11 | 0
+- leaks / soaked bed at night: 18 | 2 | 0
+- constant accidents: 18 | 16 | 16
+- child refuses: 17 | 13 | 1
+- sensory discomfort: 17 | 16 | 1
+- sizing / fit problems: 17 | 3 | 0
+- laundry / mess: 15 | 2 | 1
+- cost / money drain: 14 | 4 | 0
+- hidden subscription / billing: 14 | 0 | 0
+- child shame / embarrassment: 13 | 3 | 2
+- child can't communicate need: 12 | 12 | 1
+- daycare pull-up/underwear rules: 10 | 0 | 0
+- fear child will be teased: 6 | 3 | 2
+- poop accidents messy: 6 | 1 | 0
+- limited time (working parent): 5 | 1 | 1
+- daycare vs home inconsistency: 4 | 1 | 0
+- slow shipping: 4 | 1 | 0
+- outings / public accidents: 3 | 0 | 0
+- stress of training: 3 | 0 | 0
+
+### need
+- absorbency that holds a pee: 104 | 11 | 2
+- feel-wet signal: 43 | 10 | 1
+- bigger sizes: 24 | 16 | 1
+- leakproof at night: 23 | 3 | 0
+- daycare-friendly: 19 | 1 | 0
+- sensory-friendly fit: 16 | 16 | 0
+- routine / reminder system: 14 | 11 | 7
+- reliable sizing / fit: 14 | 1 | 0
+- honest checkout: 13 | 1 | 0
+- fun designs: 11 | 1 | 1
+- discreet: 10 | 3 | 2
+- washable / reusable: 9 | 0 | 0
+- resources for older / ND kids: 7 | 7 | 0
+- easy pull up/down: 7 | 0 | 0
+- spare-clothes kit for school: 7 | 4 | 4
+- waterproof cover layer: 6 | 0 | 0
+- durable / washable: 4 | 0 | 0
+- layered protection: 4 | 0 | 0
+- real-underwear look with protection: 3 | 1 | 1
+- real-underwear feel: 3 | 0 | 0
+- wetness indicator: 2 | 0 | 0
+- affordable: 2 | 2 | 0
+- easy poop cleanup: 2 | 1 | 0
+- front absorbency (boys): 1 | 0 | 0
+- soft: 1 | 0 | 0
+- absorbency for dribbles: 1 | 0 | 0
+- nap protection: 1 | 0 | 0
+- protection out in public: 1 | 0 | 0
+- breathable: 1 | 0 | 0
+- returns / guarantee: 1 | 0 | 0
+
+### desire
+- dry nights: 43 | 4 | 0
+- daycare/school-ready: 39 | 19 | 8
+- less mess / cleanup: 29 | 3 | 0
+- no-pressure process: 19 | 7 | 0
+- child learns from feeling wet: 15 | 1 | 0
+- independence (pull on/off herself): 10 | 2 | 2
+- child dignity / real underwear: 9 | 2 | 2
+- protection out in public: 4 | 0 | 0
+- daycare-approved: 3 | 0 | 0
+- out of diapers / independence: 3 | 0 | 0
+- big-kid underwear feeling: 3 | 0 | 0
+- fun designs kid wants to wear: 3 | 0 | 0
+- sleepovers without shame: 2 | 0 | 0
+- dry bed: 2 | 0 | 0
+- backup after training: 2 | 0 | 0
+- off pull-ups: 2 | 0 | 0
+- real-underwear look with protection: 2 | 0 | 0
+- child-led readiness: 2 | 2 | 0
+- faster training: 2 | 0 | 0
+- body awareness (register need to go): 2 | 0 | 0
+- protection for almost-accidents: 1 | 0 | 0
+- fewer outfit changes: 1 | 0 | 0
+- child picks own pair: 1 | 0 | 0
+- child confidence: 1 | 0 | 0
+- child wants to wear them: 1 | 0 | 0
+- comfort on sensitive skin: 1 | 1 | 0
+- buys time to reach potty: 1 | 0 | 0
+- dignity / looks like pants: 1 | 0 | 0
+- daycare on board: 1 | 0 | 0
+- less mess at daycare: 1 | 0 | 0
+
+### belief
+- feeling wet teaches the child: 25 | 1 | 0
+- every kid own timeline: 13 | 8 | 0
+- pull-ups are just diapers: 13 | 1 | 0
+- constipation causes accidents: 12 | 7 | 6
+- readiness matters: 10 | 6 | 1
+- no shame approach: 9 | 3 | 0
+- pull-ups hide the wet: 8 | 1 | 0
+- methods don't work for ND kids: 6 | 6 | 0
+- ads overpromise: 5 | 0 | 0
+- pull-ups cause regression: 3 | 0 | 0
+- consistency / schedule works: 2 | 2 | 0
+- pressure backfires: 2 | 0 | 0
+- fake reviews everywhere: 2 | 0 | 0
+- night dryness is developmental: 1 | 0 | 0
+- learning not training: 1 | 0 | 0
+- commit and it goes fast: 1 | 0 | 0
+- pull-ups help early training: 1 | 0 | 0
+- all training pants are kind of a scam: 1 | 0 | 0
+- reviews from other parents: 1 | 0 | 0
+- cheaper alternatives are the same: 1 | 0 | 0
+- you get what you pay for: 1 | 0 | 0
+- reviews + easy returns lower risk: 1 | 0 | 0
+- cheaper options work just as well: 1 | 0 | 0
+- 3-day method only fits stay-at-home parents: 1 | 0 | 0
+- nothing works: 1 | 1 | 0
+- child can't help it: 1 | 0 | 0
+
+### failed_solution
+- Pull-Ups / disposables: 67 | 12 | 4
+- training underwear (UpAiry): 27 | 1 | 0
+- 3-day / Oh Crap method: 23 | 4 | 0
+- training underwear (generic): 22 | 6 | 1
+- training underwear (MooMoo): 13 | 2 | 0
+- training underwear (BIG ELEPHANT): 11 | 1 | 0
+- rewards / stickers / bribes: 8 | 4 | 0
+- training underwear (other brand): 8 | 0 | 0
+- tried everything: 6 | 3 | 2
+- Miralax / medical: 6 | 4 | 4
+- Goodnites: 5 | 3 | 1
+- gadgets (seats, potties, books): 3 | 1 | 0
+- regular underwear: 2 | 0 | 0
+- training underwear (Gerber): 2 | 0 | 0
+- naked method: 2 | 0 | 0
+- training underwear (Hanes): 2 | 0 | 0
+- potty watch: 1 | 0 | 0
+- regular character underwear: 1 | 0 | 0
+- diapers / nappies: 1 | 1 | 1
+- punishment: 1 | 0 | 0
+- cheap training underwear: 1 | 0 | 0
+- diapers at night: 1 | 0 | 0
+- rewards / games: 1 | 0 | 0
+
+### misconception
+- late training = lazy parenting: 4 | 2 | 0
+- should be trained by 2/3: 4 | 0 | 0
+- 3 days is enough: 4 | 1 | 0
+- untrained at 5 = severe delay: 2 | 0 | 0
+- special underwear speeds training: 2 | 0 | 0
+- missed the window: 1 | 1 | 0
+- pull-ups at 4.5 = neglect: 1 | 1 | 1
+- training underwear should catch everything: 1 | 0 | 0
+- leak proof training underwear exists: 1 | 0 | 0
+- pricier = leakproof: 1 | 0 | 0
+- just potty train him: 1 | 1 | 0
+- it's very easy: 1 | 0 | 0
+- readiness is an excuse: 1 | 0 | 0
+
+### burned_skeptical
+- waste of money: 34 | 0 | 0
+- scam: 19 | 1 | 0
+- nothing works: 15 | 5 | 1
+- tried everything: 8 | 4 | 1
+- skeptical: 4 | 0 | 0
+
+## N awareness: bank {'problem': 250, 'solution': 174, 'product': 176, 'unaware': 1} | segB {'problem': 150, 'solution': 59, 'product': 16}

@@ -1,0 +1,89 @@
+[
+ {
+  "slug": "brightkidco-sensory",
+  "url": "https://www.brightkidco.com/products/help-your-child-become-potty-trained-in-4-6-weeks-our-body-signal-learning-layer%E2%84%A2-preserves-the-natural-wetness-signal-so-your-child-can-recognize-when-its-time-to-go",
+  "steps": [
+   "pdp",
+   "atc-click",
+   "checkout-reached:https://brightkidco.com/checkouts/cn/hWNHeqFw3hNJTelR3HmBdt3q/en-us?_r=AQABqmYQGWr5UH_2-tj"
+  ],
+  "cartEmpty": false
+ },
+ {
+  "slug": "superundies-bigkid5",
+  "url": "https://superundies.com/products/5-pack-waterproof-undies",
+  "steps": [
+   "pdp",
+   "atc-click",
+   "checkout-reached:https://superundies.com/checkouts/cn/hWNHeqJPVPwOzgrHjZESnl2I/en-us?_r=AQABzLVpg7MuJLosgrz"
+  ],
+  "cartEmpty": false
+ },
+ {
+  "slug": "kidconfident-bigkid",
+  "url": "https://kidconfident.co/products/potty-training-underwear-big-kid-sizes",
+  "steps": [
+   "pdp",
+   "atc-click-failed:locator.click: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('",
+   "checkout-reached:https://kidconfident.co/"
+  ],
+  "cartEmpty": true
+ },
+ {
+  "slug": "saphire-adv",
+  "url": "https://trysaphire.com/pages/bed-wetting-5rw",
+  "steps": [
+   "pdp"
+  ]
+ },
+ {
+  "slug": "saphire-pdp",
+  "url": "https://trysaphire.com/products/saphire-saffron-gummies",
+  "steps": [
+   "pdp",
+   "atc-click",
+   "checkout-reached:https://trysaphire.com/checkouts/cn/hWNHeqS6mAtKTHCa0VoFm73y/en-us?_r=AQABqJ2J7if9gDKv4RDq"
+  ],
+  "cartEmpty": false
+ },
+ {
+  "slug": "bloomwise-pdp",
+  "url": "https://hellobloomkids.com/products/give-your-child-the-calm-theyve-been-missing",
+  "steps": [
+   "pdp",
+   "atc-click",
+   "checkout-reached:https://hellobloomkids.com/checkouts/cn/hWNHeqX5G5gwGS0Qn8f6VdVS/en-us?_r=AQAB_AAqY5f6Tvhw"
+  ],
+  "cartEmpty": false
+ },
+ {
+  "slug": "wunderundies",
+  "url": "https://wunderundies.com/products/kids-briefs-flat-seams",
+  "steps": [
+   "pdp",
+   "atc-click",
+   "checkout-reached:https://wunderundies.com/checkouts/cn/hWNHeqb8wANLlwPnWuUcI5n0/en-us?_r=AQAB1rb66z9zF_kp9R"
+  ],
+  "cartEmpty": false
+ },
+ {
+  "slug": "luckyandme",
+  "url": "https://luckyandme.com/products/lucas-boys-organic-cotton-briefs",
+  "steps": [
+   "pdp",
+   "atc-click",
+   "checkout-reached:https://luckyandme.com/checkouts/cn/hWNHeqexYpfSPIpumynCpFa6/en-us?_r=AQABPsh55A-7BKlqMHE-"
+  ],
+  "cartEmpty": false
+ },
+ {
+  "slug": "peejamas-booster",
+  "url": "https://www.peejamas.com/products/absorbent-booster-insert",
+  "steps": [
+   "pdp",
+   "atc-click-failed:locator.click: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('",
+   "checkout-reached:https://www.peejamas.com/"
+  ],
+  "cartEmpty": false
+ }
+]
