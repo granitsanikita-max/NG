@@ -1,12 +1,86 @@
 [
  {
-  "slug": "upairy",
-  "url": "https://upairy.com/products/potty-training-underwear",
+  "slug": "mycarrypotty",
+  "url": "https://mycarrypotty.com/products/reusable-my-little-training-pants-6-pack",
   "steps": [
    "pdp",
    "atc-click",
-   "checkout-reached:https://www.upairy.com/checkouts/cn/hWNHekw3DJkZwE7Xt8GQyFdK/en-us?_r=AQAB9Jg20BKPfj4sahIC"
+   "checkout-reached:https://www.mycarrypotty.com/checkouts/cn/hWNHelQ3OS4rIvWI0OfSrIyw/en-gb?_r=AQAB4lQ1JQ1Tj6"
   ],
   "cartEmpty": false
+ },
+ {
+  "slug": "raisecalm",
+  "url": "https://raisecalm.com/products/potty-training-underwear",
+  "steps": [
+   "pdp",
+   "atc-click",
+   "checkout-reached:https://raisecalm.com/checkouts/cn/hWNHelXfYxI5Sw1bzmk0YJrm/en-us?_r=AQABxJW-WswTwAhWkPbda"
+  ],
+  "cartEmpty": false
+ },
+ {
+  "slug": "smartbottoms",
+  "url": "https://smartbottoms.com/products/daytime-trainer-odette",
+  "steps": [
+   "pdp",
+   "atc-click-failed:locator.click: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('",
+   "checkout-reached:https://smartbottoms.com/"
+  ],
+  "cartEmpty": true
+ },
+ {
+  "slug": "alppi",
+  "url": "https://alppibaby.com/products/alppi-training-pants-bundles",
+  "steps": [
+   "pdp",
+   "atc-click",
+   "checkout-reached:https://alppibaby.com/checkouts/cn/hWNHelmOWJsVHOeUWGBJZ1YA/en-us?_r=AQAB41Z1MdHzWoJFAAdO6"
+  ],
+  "cartEmpty": false
+ },
+ {
+  "slug": "blossomnest",
+  "url": "https://blossom-nest.com/products/easypotty-potty-training-underwear",
+  "steps": [
+   "pdp",
+   "atc-click",
+   "checkout-reached:https://www.blossom-nest.com/checkouts/cn/hWNHelzbNU0iYskELxjaABYA/en-us?_r=AQABLf572u_gxs"
+  ],
+  "cartEmpty": false
+ },
+ {
+  "slug": "jackieskids",
+  "url": "https://jackies-kids.uk/products/pottypants",
+  "steps": [
+   "pdp",
+   "atc-click-failed:locator.click: Timeout 10000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('",
+   "checkout-reached:https://jackies-kids.uk/"
+  ],
+  "cartEmpty": false
+ },
+ {
+  "slug": "kangacare",
+  "url": "https://kangacare.com/products/lil-learnerz-2-0-training-pants-swim-diapers-clover",
+  "steps": [
+   "pdp",
+   "atc-click",
+   "checkout-reached:https://www.kangacare.com/checkouts/cn/hWNHemB8KeMoXF7q6pciGCu2/en-us?_r=AQABFvYCpNShnXzhV"
+  ],
+  "cartEmpty": false
+ },
+ {
+  "slug": "milliemoon",
+  "url": "https://mymilliemoon.com/",
+  "steps": [
+   "pdp"
+  ]
+ },
+ {
+  "slug": "ohcrap",
+  "url": "https://www.jamieglowacki.com/",
+  "steps": [
+   "pdp"
+  ]
  }
 ]
