@@ -9,7 +9,7 @@
 **The enemy is the category's toddler-ized, overpromising way of selling.** It shows up four ways in its own 1★ reviews and repeated complaints:
 
 1. **The "leakproof" lie.**
-   - "won't hold pee / leaks" is the #1 objection (47 of 514) and "holds only one small accident" adds 14 (2C-tally).
+   - "won't hold pee / leaks" is the #1 objection (47 of 601) and "holds only one small accident" adds 14 (2C-tally).
    - "It doesn't hold more that 10-20ml... WASTE OF MONEY." [C:N205] (VERBATIM 1★)
    - Every incumbent sells "leakproof" or "3x more" without a number. **0 of 908 ads state ml** [M23].
 2. **The speed promise.** "Potty trained in WEEKS not MONTHS" [M1]; "Potty Trained in 7 Days" (BrightKidCo, ad log). Meanwhile:
@@ -21,7 +21,7 @@
 4. **The toddler box.**
    - Products "engineered for children aged 18 months to 4 years" [M1].
    - Pull-ups top out at 5T-6T: "The largest pull-ups are size 5t-6t and are starting to be ..." [C:S018] (SNIPPET).
-   - The shame that follows: "late training = lazy parenting" (3), "judgment / shame from others" (26).
+   - The shame that follows: "late training = lazy parenting" (4), "judgment / shame from others" (30).
 
 **Guardrail:** we attack the *pattern* ("the industry"), never a named brand.
 

@@ -41,9 +41,9 @@
 - **Caveat:** B needs MOQ cash, a CPC lab test and US 3PL stock.
 
 ### 4 · Real problem
-- **Segment:** 161 of 514 snippets; problem-aware 67%.
-- **Pains:** late training 70; daily school accidents 18 (segment); judgment 13; sensory 14; size 11.
-- **Honest limit:** 26 of 161 segment snippets describe full-containment needs we won't serve (tally #16).
+- **Segment:** 225 of 601 snippets; problem-aware 67%. Locked school-age cut: 79 of 601; problem-aware 70%.
+- **Pains:** late training 74; daily school accidents 34 (segment; 34 of 79 locked); judgment 14; sensory 16; size 11.
+- **Honest limit:** 30 of 225 segment snippets describe full-containment needs we won't serve (tally #16); 6 of 79 in the locked cut.
 
 ### 5 · Skeptic file, answered point by point
 - **"Size ceiling enemy is false":** accepted. The enemy has been replaced (§4B).
@@ -131,8 +131,8 @@
 - The re-check of the §2 angle stays valid.
 
 **work/D2-2C-summary.md (§2C)**
-- Add the segment cut: 161 rows; awareness 67 / 25 / 8%; 26 full-containment rows.
-- **Collect ~50+ more school-age *daytime* snippets.** Only 19 rows are tagged "school-age accidents parent". Sources: r/kindergarten, r/ADHDparenting, r/Parenting "7 year old wets pants" threads [W8], and MooMoo 9Y / BIG ELEPHANT 10Y reviews.
+- Add the segment cut: 225 rows; awareness 67 / 26 / 7%; 30 full-containment rows (locked cut: 79 rows; 70 / 28 / 3%; 6 full-containment).
+- **Collect ~50+ more school-age *daytime* snippets.** Only 19 rows are tagged "school-age accidents parent". *(Refresh 601: done — 79 rows are now tagged "school-age accidents parent" (+60 in the 87-row upstream wave).)* Sources: r/kindergarten, r/ADHDparenting, r/Parenting "7 year old wets pants" threads [W8], and MooMoo 9Y / BIG ELEPHANT 10Y reviews.
 - Re-tag them, and re-run tally.py so §10 and §11 segment counts strengthen.
 
 **work/D4-s15.md (§15)**

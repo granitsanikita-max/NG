@@ -1,13 +1,13 @@
 # §9B · The Belief Chain (North Star)
 
 **Six beliefs, in persuasion order.** She must hold all six before the offer appears.
-- Counts are §2C snippet counts (bank n = 514; segment B n = 161 where shown).
+- Counts are §2C snippet counts (bank n = 601; segment B n = 225 where shown; locked school-age cut n = 79).
 - Proofs are tagged by where they come from: §11 objection answers, the §13 mechanism, or HAVE NOW / CAN CREATE.
 
 ---
 
 ### 1 · "I believe that my kid is just one of the many big kids still getting there, and I'm not failing."
-- **Now:** judgment / shame from others (26); "should be trained by 2/3" (4); "late training = lazy parenting" (3); parent guilt (19).
+- **Now:** judgment / shame from others (30); "should be trained by 2/3" (4); "late training = lazy parenting" (4); parent guilt (19).
   - "I feel like *** for not having my kid trained." [C:S173] (VERBATIM)
 - **Needed:** it's common and normal, and it isn't her fault.
 - **Proof:**
@@ -17,7 +17,7 @@
   - (§11 "for someone like me"; CAN CREATE.)
 
 ### 2 · "I believe that pull-ups are the wrong tool for a big kid, and that plain underwear just means a soaked outfit at school."
-- **Now:** Pull-Ups are the #1 failed solution (61); "pull-ups are just diapers" (13); daily accidents at school / daycare (21); size / big-kid products (18).
+- **Now:** Pull-Ups are the #1 failed solution (67); "pull-ups are just diapers" (13); daily accidents at school / daycare (38; 34 of 79 in the locked cut); size / big-kid products (18).
   - "If I put pull-ups on them, they will happily go right away!" [C:S188] (VERBATIM)
 - **Needed:** there's a middle option between a diaper and a puddle.
 - **Proof:**
@@ -35,7 +35,7 @@
   - (§13; CAN CREATE.)
 
 ### 4 · "I believe that a pant that shows exactly how much it holds, in my kid's size, will actually hold my kid's accident."
-- **Now:** the need "absorbency that holds a pee" is the bank's #1 need (101); bigger sizes (23); "ads overpromise" (5).
+- **Now:** the need "absorbency that holds a pee" is the bank's #1 need (104); bigger sizes (24); "ads overpromise" (5).
   - "Has anyone found training pants that look and feel like underwear but would hold at least one pee?" [C:N081] (SNIPPET)
 - **Needed:** a number she can see beats a promise.
 - **Proof:**
@@ -43,7 +43,7 @@
   - (§13; **CAN CREATE only after samples. DON'T HAVE today.**)
 
 ### 5 · "I believe that it looks and feels like real underwear, so my kid will actually wear it."
-- **Now:** sensory-friendly fit (15); sensory discomfort (15); feels like a diaper (5); child refuses (17).
+- **Now:** sensory-friendly fit (16); sensory discomfort (17); feels like a diaper (5); child refuses (17).
   - "She hates butt seams now" [C:S032] (SNIPPET)
 - **Needed:** her kid won't fight it, and nobody at school will know.
 - **Proof:**
@@ -77,7 +77,7 @@
 - [M64] https://pubmed.ncbi.nlm.nih.gov/31060913/
 - [P49] Bambino Mio 60–90 ml (research-persuasion.md); [P55] Koff formula (research-persuasion.md).
 - [W9] https://www.childrenshospital.org/conditions-treatments/daytime-wetting-enuresis
-- Counts: work/2C-tally.md, work/tallies-3-11.md.
+- Counts: work/2C-tally.md, work/tallies-3-11.md, work/tallies-3-11-601.md (601-row re-run + locked cut).
 
 ### Data-bank rows cited (§2C)
 - [C:N081] https://community.whattoexpect.com/forums/march-2023-babies/topic/leakproof-training-underwear-172255924.html · What to Expect · n/d · SNIPPET

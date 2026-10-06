@@ -29,7 +29,7 @@
 ## Gate re-run with ALL the evidence
 | Gate test | Result | Evidence |
 |---|---|---|
-| **PAINKILLER** | **PASS** | Segment = 161 of 514 snippets. Late training 70; daily school accidents 18 (segment); judgment 13; size 11. "the most difficult thing I have literally ever done as a parent" [C:S194]. 7–10% of 5–13-year-olds have daytime wetting [M64] |
+| **PAINKILLER** | **PASS** | Segment = 225 of 601 snippets (locked school-age cut 79). Late training 74; daily school accidents 34 (segment; 34 of 79 in the locked cut); judgment 14; size 11. "the most difficult thing I have literally ever done as a parent" [C:S194]. 7–10% of 5–13-year-olds have daytime wetting [M64] |
 | **UNCONTESTED (US)** | **PASS** | BrightKidCo's autism edition was last seen 2026-08-31 and has **0 live** ads, with a toddler-framed handle [W7]. Kid Confident's big-kid ad is paused [M30]. "accidents at school" on Meta US = 9 ads, **all supplements, 0 underwear** [W5]. TikTok "training underwear" US = 0 [W6]. UpAiry's creative stops at 4.5–5 [ad log] |
 | **MARKET, not angle** | **PASS** | ≈1.3–1.85M US children aged 5–9 with daytime wetting (INFERENCE from [M64], D-skeptic §1). Supports 20+ ads: school day, sleepovers, camp, sizes, sensory build, dignity, teachers, siblings, relatives |
 | **Auto-fails** | None | Not a vitamin (painkiller); not the biggest competitor's angle; not a single scenario |

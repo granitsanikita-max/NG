@@ -1,19 +1,20 @@
 # §3A · Sub-avatars (the scale targets)
 
-**The launch ICP (§3):** the mom of a 5–9-year-old "big kid still learning". That's 161 of 514 snippets.
+**The launch ICP (§3):** the mom of a 5–9-year-old "big kid still learning". That's 225 of 601 snippets (segment B); the locked school-age cut is 79 of 601.
 
 **The other real groups the §2C bank shows, ranked by (size × fit with our product × how open they are to us):**
 
 How the counts work:
 - Counts = snippets tagged with that buyer group. One snippet can carry several groups.
-- "Where they gather" = the top platforms in the bank for that group (tally #18, work/tallies-3-11.md).
+- "Where they gather" = the top platforms in the bank for that group (tally #18, work/tallies-3-11.md; 601-row re-run: work/tallies-3-11-601.md).
+- "Locked cut" = how many of the 79 school-age-accidents rows (the locked customer) also carry that group.
 
 ---
 
 ## #1 · Mainstream toddler parent (2–4), burned by leaky trainers
 **Who:** a parent in the middle of standard potty training who bought trainers and got soaked. She's the biggest group and the most product-aware.
 
-**Size:** **199 of 514.**
+**Size:** **199 of 601** (locked cut: 0 of 79).
 - 126 of the 199 are *product-aware* (they review or ask about a brand).
 - 47 are solution-aware; 25 are problem-aware (tally #18).
 
@@ -33,7 +34,7 @@ How the counts work:
 ## #2 · Working parent / daycare-deadline parent
 **Who:** a parent who works full-time, with a child in daycare, preschool or kindergarten, and a rule or deadline.
 
-**Size:** **61 of 514.**
+**Size:** **61 of 601** (locked cut: 7 of 79).
 - Of the 61: 37 are problem-aware, 21 solution-aware and only 3 product-aware.
 - 20 of the 61 overlap with our segment (tally #2).
 
@@ -52,7 +53,7 @@ How the counts work:
 ## #3 · Night / bedwetting parent (kids 4–10)
 **Who:** a parent whose child is dry by day but wets at night.
 
-**Size:** **47 of 514.** 22 are product-aware: they already buy Goodnites, Ninjamas and Pull-Ups (tally #18).
+**Size:** **47 of 601** (locked cut: 0 of 79). 22 are product-aware: they already buy Goodnites, Ninjamas and Pull-Ups (tally #18).
 
 **#1 pain, in her words:** night wetting (26) and soaked beds (18).
 - "6-year-old (almost 7) still in pull-ups at night… looking for advice" [C:S113] (SNIPPET)
@@ -70,9 +71,9 @@ How the counts work:
   - So the night lane is crowded. Hold it.
 
 ## #4 · Withholding / poop-refusal parent
-**Who:** a parent whose child withholds poop or is constipated. These often overlap with ND kids (11 in the segment).
+**Who:** a parent whose child withholds poop or is constipated. These often overlap with ND kids (11 in the segment; 3 in the locked cut).
 
-**Size:** **28 of 514.** 21 problem-aware, 7 solution-aware.
+**Size:** **28 of 601** (locked cut: 3 of 79). 21 problem-aware, 7 solution-aware.
 
 **#1 pain, in her words:**
 - "My daughter cannot stop what she is doing to go pee and pees her pants all day long. She also withholds poop." [C:S040] (SNIPPET)
@@ -89,7 +90,7 @@ How the counts work:
 ## #5 · Grandparent / gift buyer
 **Who:** a grandparent who buys for or helps train a grandchild.
 
-**Size:** **9 of 514.** Small in the bank, but **45+ = 38.88% of UpAiry's traffic** (55+ = 21.72%) [M39]. That points to a bigger real group than the bank shows (INFERENCE).
+**Size:** **9 of 601** (locked cut: 0 of 79). Small in the bank, but **45+ = 38.88% of UpAiry's traffic** (55+ = 21.72%) [M39]. That points to a bigger real group than the bank shows (INFERENCE).
 
 **#1 pain, in her words:** that the product works and doesn't trick her.
 - "my granddaughter was going on her own in less than 2 weeks. ... They sign you up for a subscription for their probiotic gummies at $39.99 a bottle." [C:N189] (VERBATIM, 1★)
@@ -102,11 +103,12 @@ How the counts work:
 - An honest checkout. Grandparents get burned by hidden subscriptions too.
 
 **Also seen, too small to plan around yet:**
-- **Dads (20, 18 of them on r/daddit):** a voice to cast in creator videos.
+- **Dads (21, 19 of them on r/daddit; locked cut 1):** a voice to cast in creator videos.
 - **Childcare workers (12, r/ECEProfessionals):** a channel and validator, not a buyer.
 - **Regression parents (17).**
 - **Twins parents (11).**
 - **Eco / cloth parents (9).**
+- (Locked cut: 0 of 79 for each of these four. New in the 601-row bank: "commentator" 21 and "school teacher" 4, advice-givers, not buyers.)
 
 ---
 

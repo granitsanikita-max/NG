@@ -17,7 +17,7 @@
   - scam / hidden subscription 16; honest-checkout need 13.
   - 7 persona pages at the leader [M47-A].
 - **The toddler box:** sized and shaped for 18 months–4 years [M1], while big kids are left with diapers or nothing.
-  - size / big-kid products pain 18; bigger-sizes need 23.
+  - size / big-kid products pain 18; bigger-sizes need 24.
 
 **Changed from draft:** "speed promise" and "toddler box" were kept and sharpened. "Shame" moved from enemy to **what we stand for** (no-shame). The enemy is the *industry pattern*, never a person or a named brand.
 
