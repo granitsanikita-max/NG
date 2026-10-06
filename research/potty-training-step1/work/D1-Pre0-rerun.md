@@ -1,84 +1,75 @@
-# Pre-0 · Economics & KPIs: re-run at §15's recommended test price
+# Pre-0 · Economics & KPIs — re-run at §15's recommended test price (locked market)
 
-*Doc 1. Re-run 2026-10-06 after §15 (Competitor Offers + Price Ladder). Same formulas as Pre-0. US, USD, processing 3% (default).*
+*Doc 1. Re-run 2026-10-06 by Writer B, after work/D4-s15-FINAL.md. **Overwrites** the earlier re-run, which priced an AliExpress toddler trainer ($2.87 landed) in a $79 "Home + Daycare Kit" — that product, kit and market are dead (work/LOCK-decision.md). Same formulas as work/D1-Pre0-LOCKED.md. US, USD, processing 3%.*
 
-> ⚠️ **PROVISIONAL COSTS.** No supplier has been chosen and no landed cost has been received from Nikita (`work/pre0-inputs.md`). Every cost below is a placeholder built from real listing prices plus labelled assumptions. Re-run this table when the real COGS / landed quote arrives.
+> ⚠️ **PROVISIONAL COSTS.** No supplier, landed cost or 3PL quote has been received from Nikita (work/pre0-inputs.md). OEM quotes could not be pulled (Alibaba CAPTCHA [U7]). Every cost below is the LOCKED placeholder or a labelled INFERENCE. **Re-run when 2–3 real OEM quotes, the duty / broker quote and a 3PL quote arrive.**
+
+## The recommended test price (from §15)
+- **10-pair "School-Day Kit" $119 ($11.90/pair) — pre-selected, target AOV.** Kit = 10 pairs + wet bag + discreet backpack spare pouch + teacher note card.
+- 6 pairs "School Week" $84 ($14.00/pair) — entry tier.
+- 15 pairs "Full Term" $159 ($10.60/pair).
+- 1 pair $19 — anchor only.
+- **Stress column (not recommended):** 10 for $99 ($9.90) — what it would cost us to price-match BrightKidCo Sensory's $10.00/pair 12-pack [B18].
+
+**Why this price** (§15 FINAL): the $10–15/pair zone is already paid by this exact parent (BrightKidCo Sensory $10.00–15.00 [B18]; Carer $10.00–13.75 [U8]); it is ≈4× the marketplace floor (MooMoo 9T $2.97 [U10]; BIG ELEPHANT 9-10Y $2.55 [B28]), so it only holds with a visible ml difference on camera.
 
 ## Cost inputs (PROVISIONAL)
-
-| Input | Value | Basis |
+| Input | Value | Status |
 |---|---|---|
-| Product cost per pair | **$2.27** | AliExpress "3 Pieces/lot Baby Training Pants 6 Layers" at **$6.82 per 3** (900+ sold, no "New shoppers" / welcome-deal tag) [O69]. Welcome-deal teaser prices ($1.09 "New shoppers save $X") were excluded per Pre-0. |
-| Inbound freight + QC per pair | **$0.60** | INFERENCE (placeholder for consolidated sea/air freight to a US 3PL). Not quoted. |
-| **Landed per pair** | **$2.87** | $2.27 + $0.60, PROVISIONAL |
-| Other per order: outbound US shipping + pick/pack + mailer | **$7.00** | INFERENCE (placeholder). Competitors charge $5.99 shipping on small orders (Kid Confident [O6]), so this is in range but not quoted. |
-| Kit extras (wet bag + caregiver card + chart) on the 10- and 15-pair kits | **+$2.50** → other = **$9.50** | INFERENCE (placeholder). Not sourced. |
-| Processing | **3% of price** | Pre-0 default |
+| Landed per pair | **$4.60** = OEM $4.00 FOB + $0.60 freight / QC. **Duty not included** (see sensitivity) | PROVISIONAL (D1-Pre0-LOCKED.md; evidence range $1.05 toddler stock → $6–7 adult 200 ml brief [U1][U2]) |
+| Processing | 3% of price | Pre-0 default |
+| Other per order — 1 and 6 pairs | **$7.00** (outbound postage + pick/pack + mailer) | INFERENCE; ShipBob pick/pack "$2.50-$3.50/order" [U18] leaves ~$3.50–4.50 for postage + mailer |
+| Other per order — 10 and 15 pairs | **$9.50** = $7.00 + **$2.50 kit extras** (wet bag + spare pouch + printed teacher note) | INFERENCE — kit-extras cost not quoted. Retail anchors for the parts: BrightKidCo sells a 3× waterproof-bag set at $39.99 and mesh bags at $34.99 [B47]; Super Undies gives a laundry bag worth $9.95 [B34]. Our cost must stay ≤ $2.50 or this column moves |
+| Fixed launch cash | ≈ **$7.5K–$23.5K** (MOQ goods, freight, duty estimate, CPSIA lab test, CPC eFile, 3PL onboarding, samples) | Unchanged from D1-Pre0-LOCKED.md |
 
-CJ Dropshipping could not be priced: it was blocked by human verification [O70].
+## KPI table (metrics as rows, offer variants as columns; PROVISIONAL, no duty)
+| Metric | 1 pair $19 (anchor) | 6 for $84 | **10 School-Day Kit $119 (TEST)** | 15 for $159 | Stress: 10 for $99 |
+|---|---|---|---|---|---|
+| $ per pair | $19.00 | $14.00 | **$11.90** | $10.60 | $9.90 |
+| Landed (units × $4.60) | $4.60 | $27.60 | $46.00 | $69.00 | $46.00 |
+| Processing (3%) | $0.57 | $2.52 | $3.57 | $4.77 | $2.97 |
+| Other per order | $7.00 | $7.00 | $9.50 | $9.50 | $9.50 |
+| **Contribution margin $** (= break-even CPA) | $6.83 | $46.88 | **$59.93** | $75.73 | $40.53 |
+| **CM %** | 35.9% | 55.8% | **50.4%** | 47.6% | 40.9% |
+| **Break-even ROAS** | 2.78 | 1.79 | **1.99** | 2.10 | 2.44 |
+| **Kill line** — target CPA at ~20% net | $3.03 | $30.08 | **$36.13** | $43.93 | $20.73 |
+| Target ROAS at ~20% net | 6.27 | 2.79 | **3.29** | 3.62 | 4.78 |
+| **Scale line** — target CPA at ~30% net | $1.13 | $21.68 | **$24.23** | $28.03 | $10.83 |
+| Target ROAS at ~30% net | 16.81 | 3.87 | **4.91** | 5.67 | 9.14 |
 
-## Offer variants (from §15 "Price point to test")
+**Formulas** (as on the page / D1-Pre0-LOCKED.md):
+- CM $ = Price − (landed per unit × units) − (3% × Price) − other per-order costs → $119 − $46.00 − $3.57 − $9.50 = **$59.93**.
+- CM % = CM $ ÷ Price → 50.4%. Break-even ROAS = Price ÷ CM $ → 1.99. Break-even CPA = CM $.
+- Target CPA at n% net = CM $ − (n × Price): 20% → $59.93 − $23.80 = $36.13; 30% → $59.93 − $35.70 = $24.23.
+- Target ROAS = Price ÷ Target CPA → 3.29 / 4.91.
+- **Scale line** = the ~30%-net CPA (at or under → scale). **Kill line** = the ~20%-net CPA (consistently above → fix or kill).
+- CM% > 30% in every column, so no target is impossible with no duty. The single pair's scale CPA ($1.13) is unrealistic → anchor only.
 
-- Single pair $19 (anchor)
-- 5 pairs $49
-- **10-pair Home + Daycare Kit $79 = recommended test price / target AOV, pre-selected**
-- 15 pairs $99
+## Duty sensitivity (landed $6.00 = $4.60 + ~$1.40 duty at ~35% of $4.00 FOB; INFERENCE — US de minimis ended 2025-08-29 [M12])
+| Metric | 1 pair $19 | 6 for $84 | **10 Kit $119** | 15 for $159 | Stress 10 for $99 |
+|---|---|---|---|---|---|
+| CM $ / CM % | $5.43 / 28.6% ⚠️ | $38.48 / 45.8% | **$45.93 / 38.6%** | $54.73 / 34.4% | $26.53 / **26.8% ⚠️** |
+| Break-even ROAS | 3.50 | 2.18 | **2.59** | 2.91 | 3.73 |
+| Kill line (20% net CPA / ROAS) | $1.63 / 11.66 | $21.68 / 3.87 | **$22.13 / 5.38** | $22.93 / 6.93 | $6.73 / 14.71 |
+| Scale line (30% net CPA / ROAS) | impossible (−$0.27) | $13.28 / 6.33 | **$10.23 / 11.63** | $7.03 / 22.62 | impossible (−$3.17) |
 
-## KPI table
+⚠️ = CM below 30%: the 30%-net target is impossible there. That's why **the price-match column is ruled out** — with duty it can't reach 30% net at any CPA.
 
-| Metric | Single $19 | 5-pair $49 | **10-pair Kit $79 (test)** | 15-pair $99 |
-|---|---|---|---|---|
-| Units in order | 1 | 5 | 10 | 15 |
-| Landed (units × $2.87) | $2.87 | $14.35 | $28.70 | $43.05 |
-| Processing (3%) | $0.57 | $1.47 | $2.37 | $2.97 |
-| Other per order | $7.00 | $7.00 | $9.50 | $9.50 |
-| **Contribution margin $** | **$8.56** | **$26.18** | **$38.43** | **$43.48** |
-| **Contribution margin %** | 45.1% | 53.4% | 48.6% | 43.9% |
-| **Break-even ROAS** | 2.22 | 1.87 | **2.06** | 2.28 |
-| **Break-even CPA** | $8.56 | $26.18 | **$38.43** | $43.48 |
-| **Kill line: target CPA at ~20% net** | $4.76 | $16.38 | **$22.63** | $23.68 |
-| Target ROAS at ~20% net | 3.99 | 2.99 | **3.49** | 4.18 |
-| **Scale line: target CPA at ~30% net** | $2.86 | $11.48 | **$14.73** | $13.78 |
-| Target ROAS at ~30% net | 6.64 | 4.27 | **5.36** | 7.18 |
+**Read:** duty is the swing variable. Without duty the $119 kit is the right hero (scale CPA $24.23). With ~35% duty its scale CPA drops to $10.23 and **6 for $84 becomes the safer hero** (scale CPA $13.28).
 
-**Formulas** (as in Pre-0):
+## Benchmark check
+- No account data yet. A first-order CPA ≤ $36.13 (kill line, no duty) on cold Meta / TikTok is a **hypothesis**.
+- AOVs this parent already pays: Super Undies **$90.81** [B35], Bloomwise **$58.12** [B39], Saphire **$39.08** [B37] (DATA). Our $84–$119 sits at the top of that range → the PDP and pre-sell must carry the proof (pour test) to earn it.
 
-- **CM $** = Price − (landed per unit × units) − (3% × Price) − other per-order costs
-  - e.g. $79 − $28.70 − $2.37 − $9.50 = **$38.43**
-- **CM %** = CM $ ÷ Price → $38.43 ÷ $79 = 48.6%
-- **Break-even ROAS** = Price ÷ CM $ (= 1 ÷ CM%) → $79 ÷ $38.43 = 2.06
-- **Break-even CPA** = CM $
-- **Target CPA at n% net** = CM $ − (n × Price)
-  - 20%: $38.43 − $15.80 = $22.63
-  - 30%: $38.43 − $23.70 = $14.73
-- **Target ROAS** = Price ÷ Target CPA
-  - $79 ÷ $22.63 = 3.49
-  - $79 ÷ $14.73 = 5.36
-- **Scale line** = the ~30% net CPA: at or under it, scale. **Kill line** = the ~20% net CPA: consistently above it, fix or kill.
-- CM% is above 30% in every variant, so no target is impossible.
+## So What → do this
+1. **Test the $119 School-Day Kit, pre-selected**, with 6 for $84 as the entry tier. Kill ad sets whose CPA holds above **$36.13**; scale at or below **$24.23** (no-duty case).
+2. **Get the customs-broker duty quote before spend.** If duty ≈ 35%, switch the hero to **6 for $84** (kill $21.68 / scale $13.28).
+3. **Don't price-match BrightKidCo's $10/pair.** At $99 the kit falls to 26.8% CM with duty.
+4. **Cap kit extras at $2.50 landed** (wet bag + pouch + note) or re-run this table.
+5. A first-order "$15 off / $15 store credit" pop-up on the kit leaves CM ≈ $45.38 (no duty) — test it against no pop-up, measure 90-day LTV too.
 
-**So what → do this:**
+> **⏰ COGS REMINDER (Nikita):** send OEM unit price per size at MOQ, MOQ per design, freight per unit, duty / broker quote, lab-test quote, 3PL pick/pack + postage quote, and the kit-extras cost. Until then every number here is PROVISIONAL.
 
-1. Test the **$79 10-pair kit** as the pre-selected middle tier. It needs a first-order **CPA ≤ $22.63 (ROAS ≥ 3.49)** to clear 20% net, and ≤ $14.73 (ROAS ≥ 5.36) to scale. Break-even is $38.43 / ROAS 2.06.
-2. The single pair at $19 cannot carry paid traffic (break-even CPA $8.56). Keep it only as the anchor.
-3. **Shipping and pack-out ($7–9.50) is the biggest cost after product.** Getting a real 3PL quote matters more than squeezing the unit price.
-
-**Sanity check against the market (INFERENCE):**
-
-- At UpAiry's own prices with the same provisional costs, the margins are thin:
-  - 5 pairs for $35: CM = $35 − $14.35 − $1.05 − $7.00 = $12.60 (36%), break-even ROAS 2.78.
-  - 10 pairs for $68: CM = $68 − $28.70 − $2.04 − $9.50 = $27.76 (40.8%), break-even ROAS 2.45.
-- Pricing **above** UpAiry is needed for margin, and §15 justifies the premium with the kit, an honest guarantee and absorbency proof.
-
-**📌 Reminder (send COGS):**
-
-- Nikita, please send the real supplier link, unit price at MOQ, inbound freight per unit and the US 3PL pick/pack + postage quote.
-- This table is PROVISIONAL until then.
-- Every value marked INFERENCE above ($0.60 freight, $7.00 per order, $2.50 kit extras) must be replaced.
-
-**Sources:**
-- [O6] https://kidconfident.co/products/potty-training-underwear
-- [O69] https://www.aliexpress.com/w/wholesale-toddler-potty-training-pants.html
-- [O70] https://cjdropshipping.com/search/potty+training+pants.html (blocked)
-
-The full O-list is in `work/D4-s15.md`.
+## Sources
+- [B18] BrightKidCo Sensory PDP / cart (tiers $59.99 / $89.99 / $119.99) · [B28] Walmart BIG ELEPHANT 9-10Y · [B34] Super Undies 5-pack cart (laundry bag $9.95) · [B35] WH superundies.com · [B37] WH trysaphire.com · [B39] WH hellobloomkids.com · [B47] BrightKidCo products.json — full lines in work/D4-s15-FINAL.md.
+- [U1] [U2] [U7] [U8] [U10] [U18] [M12] — full lines in work/D1-Pre0-LOCKED.md.
