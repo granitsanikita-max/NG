@@ -1,0 +1,173 @@
+- [C:N265] https://www.reddit.com/r/pottytraining/comments/1gansad/my_7_year_old_wets_his_pants_regularly/ · Reddit r/pottytraining · ~2024-11 (est. from post ID) · SNIPPET
+- [C:N314] https://www.reddit.com/r/kindergarten/comments/1mmvmyx/prepping_kiddo_who_struggles_with_potty_accidents/ · Reddit r/kindergarten · ~2025-08 (est. from post ID) · SNIPPET
+- [C:N322] https://www.reddit.com/r/Parenting/comments/15b1ati/i_am_at_my_wits_end_over_this_my_six_almost_7/ · Reddit r/Parenting · ~2023-07 (est. from post ID) · SNIPPET
+- [W1] SimilarWeb brightkidco.com: https://www.similarweb.com/website/brightkidco.com/. Firecrawl query, 2026-10-06 (DATA): <20K visits; US 100%; demographics "No Data to Display".
+- [W2] SimilarWeb superundies.com (Health - Other): https://www.similarweb.com/website/superundies.com/ (DATA, via work/D2-s3.md).
+- [M39] SimilarWeb upairy.com: https://www.similarweb.com/website/upairy.com/. Firecrawl query, 2026-10-06 (DATA).
+- [C:S196] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [C:S205] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [C:S190] https://community.whattoexpect.com/forums/multiples-and-twins/topic/potty-training-35-year-old-boys-no-success-165918513.html · What to Expect · n/d · VERBATIM
+- [C:N248] https://www.youtube.com/watch?v=LrrpnP_9qAM&lc=Ugx5-pfMc_WVVDbYfFB4AaABAg · YouTube (How I Potty Trained My Son with Autism) · ~2023 (approx) · VERBATIM
+- [C:S197] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [C:S224] https://www.mumsnet.com/talk/special_educational_needs/5503773-potty-training-sen-3-year-oldhelp · Mumsnet SEN · n/d · SNIPPET
+- [C:N246] https://www.youtube.com/watch?v=LrrpnP_9qAM&lc=UgzVEuTibjKJdj1QuQV4AaABAg · YouTube (How I Potty Trained My Son with Autism) · ~2023 (approx) · VERBATIM
+- [C:S222] https://www.mumsnet.com/talk/education/5485471-school-said-it-might-be-best-if-ds-is-put-back-in-nappies · Mumsnet · n/d · SNIPPET
+- [C:S129] https://www.reddit.com/r/Parenting/comments/v2q182/55_year_old_pees_his_pants_at_school_everyday/ · Reddit · ~2022-06 · SNIPPET
+- [C:S229] https://www.mumsnet.com/talk/special_needs/4165535-Starting-school-in-nappies-constant-accidents · Mumsnet · n/d · SNIPPET
+- [C:S077] https://www.reddit.com/r/nottheonion/comments/1ai360b/why_this_utah_lawmaker_wants_kids_to_be_potty/ · Reddit r/nottheonion · ~2024-03 (est. from post ID) · SNIPPET
+- [C:S202] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [C:N216] https://www.tiktok.com/@turtlecoop/video/7691866893644303647 · TikTok · ~2026-10-03 · SNIPPET
+- [C:S227] https://www.mumsnet.com/talk/special_needs/4165535-Starting-school-in-nappies-constant-accidents · Mumsnet Special needs · n/d · SNIPPET
+- [C:S204] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [C:S199] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [C:S203] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · What to Expect · n/d · VERBATIM
+- [C:S158] https://www.reddit.com/r/toddlers/comments/1qs51ql/pullups_vs_diaper_pants_at_night_whats_the/ · Reddit r/toddlers · ~2026-02 (est. from post ID) · SNIPPET
+- [C:N207] https://www.trustpilot.com/reviews/6a9b28aa8faf8dd4b7f062ca · Trustpilot (UpAiry) · 2026-09-04 · VERBATIM · 1★
+- [C:N243] https://www.youtube.com/watch?v=LrrpnP_9qAM&lc=UgwsmGNvWbvdw2YOPVh4AaABAg · YouTube (How I Potty Trained My Son with Autism) · ~2023 (approx) · VERBATIM
+- [C:S178] https://community.whattoexpect.com/forums/hot-topics-1/topic/4-year-old-wont-potty-train-145341474.html · What to Expect · n/d · VERBATIM
+- [C:S191] https://community.whattoexpect.com/forums/multiples-and-twins/topic/potty-training-35-year-old-boys-no-success-165918513.html · What to Expect · n/d · VERBATIM
+- [C:N205] https://www.trustpilot.com/reviews/6a9ec853b2ed2b1904effe3c · Trustpilot (UpAiry) · 2026-09-07 · VERBATIM · 1★
+- [M27] Winning Hunter `get_store_top_ads` upairy.com (meta; tiktok = empty), 2026-10-06 (DATA).
+- [W6] Winning Hunter `search_tiktok_ads` "training underwear" US = 0, 2026-10-06 (DATA).
+- [C:N100] https://community.babycenter.com/post/a69353852/help-almost-fully-potty-trained-at-home-but-not-in-public-and-daycare · BabyCenter · n/d · SNIPPET
+- [C:S113] https://www.reddit.com/r/Mommit/comments/1qfhjkt/6yearold_almost_7_still_in_pullups_at_night/ · Reddit r/Mommit · ~2026-01 (est. from post ID) · SNIPPET
+- [W3] Winning Hunter `search_facebook_ads` keyword "big kid training underwear", countries US, last seen 2026-09-06→10-06, sort lastseen (923 total). First page: UpAiry / Emma's Mom Hacks (295 active), Saphire "Tanisha Martinez" page (684 active, trysaphire.com/pages/bed-wetting-5rw), plus unrelated supplements. 2026-10-06 (DATA).
+- [W4] Winning Hunter `search_facebook_ads` keyword "sensory underwear kids", US, same window (908 total). First page: Bloomwise (hellobloomkids.com, page "Amanda Thompson", "Bedwetting ADHD kids… My ADHD son still wets the bed at 8"); Saphire pages "Saphire Saffron" (226 active) and "Dr. James Harper" (149 active, "My 9yr old still wets the bed"); UpAiry. 2026-10-06 (DATA / VERBATIM ad copy as indexed).
+- [W5] Winning Hunter `search_facebook_ads` "accidents at school" adtext US (9 ads, 0 underwear), 2026-10-06 (DATA).
+- [M17] Amazon search "potty training underwear": https://www.amazon.com/s?k=potty+training+underwear. Firecrawl query, 2026-10-06 (DATA).
+- [C:S040] https://www.reddit.com/r/ADHDparenting/comments/1egsbet/6_year_old_adhdc_wont_go_to_the_bathroom/ · Reddit r/ADHDparenting · ~2024-07 (est. from post ID) · SNIPPET
+- [C:N189] https://www.trustpilot.com/reviews/6aad47748b007621ed5036be · Trustpilot (UpAiry) · 2026-09-18 · VERBATIM · 1★
+- [C:S228] https://www.mumsnet.com/talk/special_needs/4165535-Starting-school-in-nappies-constant-accidents · Mumsnet · n/d · SNIPPET
+- [C:N179] https://www.trustpilot.com/reviews/6ab92251c21ad5ffef486dcf · Trustpilot (UpAiry) · 2026-09-27 · VERBATIM · 2★
+- [C:S177] https://community.whattoexpect.com/forums/hot-topics-1/topic/4-year-old-wont-potty-train-145341474.html · What to Expect · n/d · VERBATIM
+- [C:S125] https://www.reddit.com/r/kindergarten/comments/1kac79i/help_were_at_our_wits_end_kindergartener_has/ · Reddit r/kindergarten · ~2025-05 (est. from post ID) · SNIPPET
+- [C:S194] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · WTE Hot Topics · n/d · VERBATIM
+- [C:S173] https://community.whattoexpect.com/forums/hot-topics-1/topic/4-year-old-wont-potty-train-145341474.html · What to Expect · n/d · VERBATIM
+- [C:S002] https://www.reddit.com/r/Autism_Parenting/comments/13o565r/5_year_old_not_potty_trained/ · Reddit r/Autism_Parenting · ~2023-05 (est. from post ID) · SNIPPET
+- [C:S118] https://www.reddit.com/r/breakingmom/comments/sa4dwk/my_7year_old_daughter_wont_go_one_night_without/ · Reddit r/breakingmom · ~2022-01 (est. from post ID) · SNIPPET
+- [C:N256] https://www.youtube.com/watch?v=UWYN_MBf-t4&lc=UgwGRJKNlocxsRN4H594AaABAg · YouTube (Potty training issues with daycare and preschool) · ~2025 (approx) · VERBATIM
+- [C:S174] https://community.whattoexpect.com/forums/hot-topics-1/topic/4-year-old-wont-potty-train-145341474.html · What to Expect · n/d · VERBATIM
+- [C:S230] https://www.goodnites.com/en-us/bedwetting-products/nighttime-underwear-for-boys?bvroute=review%252f25577397&bvstate=pg:93/ct:r · Goodnites.com review · ~2013 (page label '13 years ago') · VERBATIM
+- [C:S232] https://www.goodnites.com/en-us/bedwetting-products/nighttime-underwear-for-boys?bvroute=review%252f25577397&bvstate=pg:93/ct:r · Goodnites.com review · n/d · VERBATIM
+- [C:S171] https://community.whattoexpect.com/forums/hot-topics-1/topic/4-year-old-wont-potty-train-145341474.html · What to Expect Hot Topics · n/d · VERBATIM
+- [C:S026] https://www.reddit.com/r/Autism_Parenting/comments/1q2zj6e/sensory_panties/ · Reddit r/Autism_Parenting · ~2026-01 (est. from post ID) · SNIPPET
+- [C:N170] https://www.trustpilot.com/reviews/6ac2dce59c65257897f2c6bf · Trustpilot (UpAiry) · 2026-10-04 · VERBATIM · 5★
+- [C:N259] https://www.youtube.com/watch?v=a6Qm6mQgqZk&lc=UgznonU3WMM5LX-Y7jN4AaABAg · YouTube (Mistake That Turns a Regression Into an Ongoing Problem) · ~2025 (approx) · VERBATIM
+- [C:S233] https://www.goodnites.com/en-us/bedwetting-products/nighttime-underwear-for-boys?bvroute=review%252f25577397&bvstate=pg:93/ct:r · Goodnites.com review · n/d · VERBATIM
+- [C:S185] https://community.whattoexpect.com/forums/stay-at-home-moms/topic/help-potty-training-at-35-years-old-with-speech-delay-son-177104493.html · What to Expect · n/d · VERBATIM
+- [C:N098] https://community.babycenter.com/post/a39257932/daycare_insists_on_pull-ups._advice_needed_please._thank_you · BabyCenter · n/d · SNIPPET
+- [C:N081] https://community.whattoexpect.com/forums/march-2023-babies/topic/leakproof-training-underwear-172255924.html · What to Expect · n/d · SNIPPET
+- [C:N004] https://www.amazon.com/portal/customer-reviews/srp/-/R9DUGKYYDENN6 · Amazon (BIG ELEPHANT) · 2026-05-08 · VERBATIM · 5★
+- [C:S234] https://www.goodnites.com/en-us/bedwetting-products/nighttime-underwear-for-boys?bvroute=review%252f25577397&bvstate=pg:93/ct:r · Goodnites.com review · n/d · VERBATIM
+- [C:S037] https://www.reddit.com/r/pottytraining/comments/1g5us47/underwear_suggestions/ · Reddit r/pottytraining · ~2024-10 (est. from post ID) · SNIPPET
+- [C:N184] https://www.trustpilot.com/reviews/6ab021669d8ce11c228d5efe · Trustpilot (UpAiry) · 2026-09-20 · VERBATIM · 5★
+- [C:S249] https://www.reddit.com/r/kindergarten/comments/1o2oybe/alternative_to_pull_ups/ · Reddit r/kindergarten · ~2025-10 (est. from post ID) · SNIPPET
+- [C:N252] https://www.youtube.com/watch?v=LrrpnP_9qAM&lc=UgwmOgMhbsPg8AsLZXR4AaABAg · YouTube (How I Potty Trained My Son with Autism) · ~2023 (approx) · VERBATIM
+- [C:N068] https://www.amazon.com/portal/customer-reviews/srp/-/R33N2OH5IH5AOQ · Amazon (Hanes) · 2023-10-23 · VERBATIM · 5★
+- [C:S235] https://www.goodnites.com/en-us/bedwetting-products/nighttime-underwear-for-boys?bvroute=review%252f25577397&bvstate=pg:93/ct:r · Goodnites.com review · n/d · VERBATIM
+- [C:N190] https://www.trustpilot.com/reviews/6aad2568c5ed4c0df20c137a · Trustpilot (UpAiry) · 2026-09-12 · VERBATIM · 5★
+- [C:S074] https://www.reddit.com/r/breakingmom/comments/gr190t/having_a_dog_is_not_the_same_as_having_a_kid/ · Reddit r/breakingmom · ~2020-05 (est. from post ID) · SNIPPET
+- [C:N236] https://x.com/classicallyabby/status/2078075450773983342 · X (Twitter) · n/d · SNIPPET
+- [C:N160] https://www.reddit.com/r/Mommit/comments/1m99fjw/potty_training_underwear/ · Reddit r/Mommit · n/d · SNIPPET
+- [C:S179] https://community.whattoexpect.com/forums/hot-topics-1/topic/4-year-old-wont-potty-train-145341474.html · What to Expect · n/d · VERBATIM
+- [C:S252] https://www.reddit.com/r/toddlers/comments/1nprlb0/wife_is_putting_pull_up_diapers_back_on_45_year/ · Reddit r/toddlers · ~2025-10 (est. from post ID) · SNIPPET
+- [C:N050] https://www.amazon.com/portal/customer-reviews/srp/-/R79XN96BX7APH · Amazon (Gerber) · 2013-12-09 · VERBATIM · 5★
+- [C:N176] https://www.trustpilot.com/reviews/6abbf1ed01f23fee56c08851 · Trustpilot (UpAiry) · 2026-09-28 · VERBATIM · 1★
+- [C:N185] https://www.trustpilot.com/reviews/6aaf8be9d753d421fafb247b · Trustpilot (UpAiry) · 2026-09-17 · VERBATIM · 2★
+- [C:N218] https://www.tiktok.com/@soapboxshae/video/7135209486519749934 · TikTok · n/d · SNIPPET
+- [C:N238] https://x.com/maggielove_/status/2091974906447581676 · X (Twitter) · n/d · SNIPPET
+- [C:N107] https://www.reddit.com/r/workingmoms/comments/1rmlsnh/potty_training_underpants/ · Reddit r/workingmoms · n/d · SNIPPET
+- [C:S008] https://www.reddit.com/r/Autism_Parenting/comments/1ievgjy/what_age_did_your_kiddo_learn_potty_training/ · Reddit r/Autism_Parenting · ~2025-02 (est. from post ID) · SNIPPET
+- [C:S021] https://www.reddit.com/r/Autism_Parenting/comments/1u0q3tm/how_the_heck_do_you_pottytrain_a_nonverbal_child/ · Reddit r/Autism_Parenting · ~2026-06 (est. from post ID) · SNIPPET
+- [C:S146] https://www.reddit.com/r/toddlers/comments/1eyn3hq/the_author_of_oh_crap_can_go_burn_in_hell/ · Reddit r/toddlers · ~2024-08 (est. from post ID) · SNIPPET
+- [C:N262] https://www.youtube.com/watch?v=a6Qm6mQgqZk&lc=Ugz9oS9JmKEz9vkhGYd4AaABAg · YouTube (Mistake That Turns a Regression Into an Ongoing Problem) · ~2024 (approx) · VERBATIM
+- [C:N128] https://www.reddit.com/r/daddit/comments/1gp0eer/3_yo_has_daily_underwear_accidents_and_im_at_my/ · Reddit r/daddit · n/d · SNIPPET
+- [C:N263] https://www.youtube.com/watch?v=a6Qm6mQgqZk&lc=UgyWSQx4bpw_-_4drLx4AaABAg · YouTube (Mistake That Turns a Regression Into an Ongoing Problem) · ~2024 (approx) · VERBATIM
+- [C:S251] https://www.reddit.com/r/Parenting/comments/ww2unx/sending_my_child_to_kindergarten_even_though_they/ · Reddit r/Parenting · ~2022-09 (est. from post ID) · SNIPPET
+- [C:N077] https://www.amazon.com/dp/B077VKQY65 · Amazon (Pampers Easy Ups, Canada) · 2020-10-15 · VERBATIM · 5★
+- [C:S159] https://www.reddit.com/r/pottytraining/comments/1tsdlhj/just_a_rant/ · Reddit r/pottytraining · ~2026-06 (est. from post ID) · SNIPPET
+- [C:N154] https://www.reddit.com/r/Parenting/comments/1uqucrb/what_age_did_you_switch_to_pull_up_style_diapers/ · Reddit r/Parenting · n/d · SNIPPET
+- [C:N187] https://www.trustpilot.com/reviews/6aaeab73958133c25d58ca01 · Trustpilot (UpAiry) · 2026-09-19 · VERBATIM · 3★
+- [C:N171] https://www.trustpilot.com/reviews/6ac0c9c433a9a185e4fe3899 · Trustpilot (UpAiry) · 2026-10-03 · VERBATIM · 1★
+- [C:N197] https://www.trustpilot.com/reviews/6aa7f43590d111059cd1b877 · Trustpilot (UpAiry) · 2026-09-13 · VERBATIM · 1★
+- [C:N235] https://x.com/classicallyabby/status/2078075450773983342 · X (Twitter) · n/d · SNIPPET
+- [C:S149] https://www.reddit.com/r/pottytraining/comments/10dpbyw/day_three_of_oh_crap_method_with_22_month_old_its/ · Reddit r/pottytraining · ~2023-01 (est. from post ID) · SNIPPET
+- [C:S143] https://www.reddit.com/r/pottytraining/comments/1tmt9g3/3_day_method_overdidnt_make_it_to_the_toilet_one/ · Reddit r/pottytraining · ~2026-06 (est. from post ID) · SNIPPET
+- [C:N083] https://community.whattoexpect.com/forums/hot-topics-1/topic/nh-training-pants-instead-of-pullups-170231312.html · What to Expect · n/d · SNIPPET
+- [C:N117] https://www.reddit.com/r/toddlers/comments/1n3dwwl/potty_training_underwear_which_one_should_i_choose/ · Reddit r/toddlers · n/d · SNIPPET
+- [C:N151] https://www.reddit.com/r/Autism_Parenting/comments/1lfgn15/5_year_old_wont_wear_training_underwear/ · Reddit r/Autism_Parenting · n/d · SNIPPET
+- [C:S237] https://www.walmart.com/reviews/product/835553748 · Walmart review · n/d · SNIPPET
+- [C:S160] https://www.reddit.com/r/pottytraining/comments/1h8ehc6/affordable_leakfree_training_underwear_thats_not/ · Reddit r/pottytraining · ~2024-12 (est. from post ID) · SNIPPET
+- [C:S017] https://www.reddit.com/r/Autism_Parenting/comments/1dxkjr8/effective_potty_training_methods_for_autistic/ · Reddit r/Autism_Parenting · ~2024-07 (est. from post ID) · SNIPPET
+- [C:N031] https://www.amazon.com/portal/customer-reviews/srp/-/R2UW23ES82VTPD · Amazon (MooMoo Baby) · n/d · SNIPPET
+- [C:N037] https://www.amazon.com/portal/customer-reviews/srp/-/R2HKZIL698550L · Amazon (MooMoo Baby) · n/d · SNIPPET
+- [P40] BIG ELEPHANT side-button listing (research-persuasion.md §13d, VERBATIM there).
+- [C:N007] https://www.amazon.com/dp/B07X1MGZ7W · Amazon (BIG ELEPHANT, Canada) · 2025-01-07 · VERBATIM · 5★
+- [C:N009] https://www.amazon.com/portal/customer-reviews/srp/-/R35NVI6GD5SSKT · Amazon (BIG ELEPHANT) · n/d · SNIPPET
+- [C:S220] https://www.mumsnet.com/talk/potty_training/5520319-no-progress-with-potty-training-at-nearly-four-worried-about-starting-school · Mumsnet · n/d · SNIPPET
+- [C:N052] https://www.amazon.com/portal/customer-reviews/srp/-/RR84VQFLRFW8E · Amazon (Gerber) · 2020-04-15 · VERBATIM · 5★
+- [C:N058] https://www.amazon.com/portal/customer-reviews/srp/-/RJ42W14ODAJES · Amazon (Gerber) · n/d · SNIPPET
+- [C:N073] https://www.amazon.com/dp/B0BHX8S5J3 · Amazon (Hanes, UAE) · 2025-06-27 · VERBATIM · 1★
+- [C:S239] https://www.dollargeneral.com/p/goodnites-boys-nighttime-bedwetting-underwear-size-large-68-95-lbs-11-ct/36000533620?pr_rd_page=4&bvstate=pg:13/ct:r · Dollar General Goodnites review · n/d · SNIPPET
+- [C:N148] https://www.reddit.com/r/Autism_Parenting/comments/1fkc8qk/sensoryfriendly_underwear/ · Reddit r/Autism_Parenting · n/d · SNIPPET
+- [W12] Firecrawl search "training underwear for older kids size 8 10 sensory reddit", 15 results, 2026-10-06 (SNIPPET):
+- [C:S172] https://community.whattoexpect.com/forums/hot-topics-1/topic/4-year-old-wont-potty-train-145341474.html · What to Expect · n/d · VERBATIM
+- [C:N048] https://www.amazon.com/portal/customer-reviews/srp/-/R2UDS950IFXZWM · Amazon (Gerber) · 2018-11-03 · VERBATIM · 5★
+- [C:N275] https://www.reddit.com/r/breakingmom/comments/cad7uz/7_year_wetting_her_pants/ · Reddit · ~2019-06 · SNIPPET
+- [C:N333] https://community.babycenter.com/post/a32451381/5_year_old_wets_his_pants_almost_daily?page=3 · BabyCenter · n/d · SNIPPET
+- [C:N301] https://www.reddit.com/r/Mommit/comments/1ndsyhy/benefits_vs_hazards_of_sending_7yrold_to_school/ · Reddit · ~2025-09 · SNIPPET
+- [C:N326] https://community.whattoexpect.com/forums/hot-topics-1/topic/5-year-old-still-having-accidents-146705310.html · What to Expect (Hot Topics) · n/d · SNIPPET
+- [C:N304] https://www.reddit.com/r/Autism_Parenting/comments/1uk1p91/what_age_was_your_autistic_child_potty_trained/ · Reddit · ~2026-07 · SNIPPET
+- [C:N302] https://www.reddit.com/r/Autism_Parenting/comments/1gbazs7/almost_6_year_old_level_1_having_increased/ · Reddit · ~2024-11 · SNIPPET
+- [C:N276] https://www.reddit.com/r/Parenting/comments/1vmmxhw/please_help_my_55_year_old_is_still_wetting/ · Reddit r/Parenting · ~2026-08 (est. from post ID) · SNIPPET
+- [C:N337] https://www.mumsnet.com/talk/childrens_health/5208363-help-why-has-my-son-started-wetting-himself · Mumsnet · n/d · SNIPPET
+- [C:N286] https://www.reddit.com/r/Mommit/comments/16dpgv6/5_year_old_having_accidents_at_school/ · Reddit · ~2023-09 · SNIPPET
+- [C:N280] https://www.reddit.com/r/kindergarten/comments/1ade6zl/kindergarten_several_accidents_a_day_what_to_do/ · Reddit r/kindergarten · ~2024-03 (est. from post ID) · SNIPPET
+- [C:N279] https://www.reddit.com/r/kindergarten/comments/1ade6zl/kindergarten_several_accidents_a_day_what_to_do/ · Reddit r/kindergarten · ~2024-03 (est. from post ID) · SNIPPET
+- [C:N311] https://www.reddit.com/r/Parenting/comments/ty1hms/my_daughter_is_scared_to_ask_to_go_to_the/ · Reddit · ~2022-04 · SNIPPET
+- [C:N339] https://www.mumsnet.com/talk/primary/1170802-Any-advice-on-wetting-at-school-age-6 · Mumsnet · n/d · SNIPPET
+- [C:N350] https://www.youtube.com/watch?v=f1V_VhGKgwE&lc=UgzbaR7pcCjXaz_RwM14AaABAg.9pT2GgRUGQz9q972akqLm1 · YouTube (Lane Robson) · ~2023 · VERBATIM
+- [C:N289] https://www.reddit.com/r/kindergarten/comments/1o0ubo9/constant_accidents/ · Reddit r/kindergarten · ~2025-10 (est. from post ID) · SNIPPET
+- [C:N294] https://www.reddit.com/r/ParentingADHD/comments/1ectrja/5_year_old_wets_himself_and_doesnt_care/ · Reddit · ~2024-07 · SNIPPET
+- [C:S045] https://www.reddit.com/r/pottytraining/comments/pj0y9k/my_7_yo_still_has_accidents_because_he_hates/ · Reddit r/pottytraining · ~2021-08 (est. from post ID) · SNIPPET
+- [C:N293] https://www.reddit.com/r/ParentingADHD/comments/1l37qjg/6yo_wetting_his_pants/ · Reddit · ~2025-06 · SNIPPET
+- [C:N306] https://www.reddit.com/r/Autism_Parenting/comments/1kum93p/did_it_take_a_long_time_after_potty_training_for/ · Reddit · ~2025-06 · SNIPPET
+- [C:S032] https://www.reddit.com/r/toddlers/comments/1lznwev/she_hates_butt_seams_now/ · Reddit · ~2025-07 · SNIPPET
+- [C:N270] https://www.reddit.com/r/Parenting/comments/162h8ap/anyone_have_a_kid_that_had_accidents_at_6_years/ · Reddit r/Parenting · ~2023-08 (est. from post ID) · SNIPPET
+- [C:N268] https://www.reddit.com/r/Parenting/comments/1bf3nj/8_year_old_girl_still_wetting_during_the_day_tips/ · Reddit r/Parenting · before 2015-08 · SNIPPET
+- [C:S018] https://www.reddit.com/r/Autism_Parenting/comments/1h4i2h1/diapers_for_6_year_old/ · Reddit r/Autism_Parenting · ~2024-12 (est. from post ID) · SNIPPET
+- [C:N351] https://www.amazon.com/portal/customer-reviews/srp/-/R2C8EJI2LTHABE · Amazon (MooMoo 9T) · n/d · SNIPPET
+- [C:N175] https://www.trustpilot.com/reviews/6abce2aa16b56b25ad75a201 · Trustpilot (UpAiry) · 2026-09-30 · VERBATIM · 1★
+- [C:S156] https://www.reddit.com/r/toddlers/comments/m0mmmr/pull_ups_vs_training_underwear/ · Reddit r/toddlers · ~2021-03 (est. from post ID) · SNIPPET
+- [C:S182] https://community.whattoexpect.com/forums/stay-at-home-moms/topic/help-potty-training-at-35-years-old-with-speech-delay-son-177104493.html · What to Expect · n/d · VERBATIM
+- [C:N201] https://www.trustpilot.com/reviews/6aa409e1240a1e10f64e08d3 · Trustpilot · 2026-07-29 · VERBATIM · 1★
+- [C:N124] https://www.reddit.com/r/pottytraining/comments/1ol01s1/has_anyone_ever_tried_potty_training_underwear/ · Reddit · SNIPPET
+- [C:N168] https://www.trustpilot.com/reviews/6ac34d24bff63382399694d8 · Trustpilot (UpAiry) · 2026-10-05 · VERBATIM
+- [C:N177] https://www.trustpilot.com/reviews/6aba3e394047218ada3bb005 · Trustpilot (UpAiry) · 2026-09-28 · VERBATIM
+- [C:N159] https://www.reddit.com/r/pottytraining/comments/1jre9lv/upairy_training_pants/ · Reddit r/pottytraining · n/d · SNIPPET
+- [C:N320] https://www.reddit.com/r/kindergarten/comments/1o2oybe/alternative_to_pull_ups/ · Reddit · ~2025-10 · SNIPPET
+- [C:S082] https://www.reddit.com/r/toddlers/comments/1ia7dji/mom_guilt_and_potty_training_advice/ · Reddit · ~2025-01 · SNIPPET
+- [C:S221] https://www.mumsnet.com/talk/education/5485471-school-said-it-might-be-best-if-ds-is-put-back-in-nappies · Mumsnet · SNIPPET
+- [C:S193] https://community.whattoexpect.com/forums/multiples-and-twins/topic/potty-training-35-year-old-boys-no-success-165918513.html · What to Expect · n/d · VERBATIM
+- [C:N347] https://www.youtube.com/watch?v=f1V_VhGKgwE&lc=UgwIE5RvMbRDoKYUFQZ4AaABAg · YouTube (Lane Robson) · ~2025 · VERBATIM
+- [C:S069] https://www.reddit.com/r/toddlers/comments/1tw91r0/potty_training_my_3_year_old_has_been_a_disaster/ · Reddit r/toddlers · ~2026-06 (est. from post ID) · SNIPPET
+- [C:N297] https://www.reddit.com/r/Parenting/comments/10o765u/kids_will_not_stop_pissing_themselves/ · Reddit · ~2023-01 · SNIPPET
+- [C:N281] https://www.reddit.com/r/kindergarten/comments/1kac79i/help_were_at_our_wits_end_kindergartener_has/ · Reddit · SNIPPET
+- [C:N318] https://www.reddit.com/r/kindergarten/comments/1nifuup/potty_accidents/ · Reddit · ~2025-09 · SNIPPET
+- [C:N342] https://www.mumsnet.com/talk/parenting/4050698-6-year-old-wetting-himself-at-school · Mumsnet · SNIPPET
+- [C:N287] https://www.reddit.com/r/AskParents/comments/w5tzwb/6yo_still_having_accidents_about_to_start_school/ · Reddit · ~2022-08 · SNIPPET
+- [C:N274] https://www.reddit.com/r/pottytraining/comments/1vmn4jp/please_help_my_55_year_old_is_still_wetting/ · Reddit r/pottytraining · ~2026-08 (est. from post ID) · SNIPPET
+- [B18] BrightKidCo Sensory PDP / cart (tiers $59.99 / $89.99 / $119.99) · [B28] Walmart BIG ELEPHANT 9-10Y · [B34] Super Undies 5-pack cart (laundry bag $9.95) · [B35] WH superundies.com · [B37] WH trysaphire.com · [B39] WH hellobloomkids.com · [B47] BrightKidCo products.json — full lines in work/D4-s15-FINAL.md.
+- [B20] Kid Confident Big Kid Sizes: https://kidconfident.co/products/potty-training-underwear-big-kid-sizes · Playwright 2026-10-06 · VERBATIM
+- [B33] Firecrawl `firecrawl_search`: `site:reddit.com "year old" pees pants at school every day` (25); `site:reddit.com 7 OR 8 year old accidents school "spare clothes" OR "extra clothes" teacher called` (20); `site:reddit.com training underwear for older kids size 8 10 accidents recommendations` (20) · 2026-10-06 · SNIPPET. Thread URLs: https://www.reddit.com/r/Parenting/comments/v2q182/ · https://www.reddit.com/r/Preschoolers/comments/1l9vr7a/ · https://www.reddit.com/r/Parenting/comments/1h8hvv0/ · https://www.reddit.com/r/pottytraining/comments/1gansad/ · https://www.reddit.com/r/Parenting/comments/1kd7o1p/ · https://www.reddit.com/r/kindergarten/comments/1mnmryw/ · https://www.reddit.com/r/Parenting/comments/1c7am3v/ · https://www.reddit.com/r/Mommit/comments/1r9ddrw/ · https://www.reddit.com/r/Mommit/comments/16c08u/ · https://www.reddit.com/r/Mommit/comments/1ndsyhy/ · https://www.reddit.com/r/kindergarten/comments/1frt9ze/ · https://www.reddit.com/r/kindergarten/comments/1ade6zl/ · https://www.reddit.com/r/kindergarten/comments/1mmvmyx/ · https://www.reddit.com/r/ECEProfessionals/comments/1m3j9ql/ · https://www.reddit.com/r/Parenting/comments/72fqty/ · https://www.reddit.com/r/kindergarten/comments/1o2oybe/ · https://www.reddit.com/r/Parenting/comments/ww2unx/ · https://www.reddit.com/r/kindergarten/comments/1kac79i/ · https://www.reddit.com/r/Parenting/comments/1d2xq6r/ · https://www.reddit.com/r/pottytraining/comments/1h8ehc6/ · https://www.reddit.com/r/daddit/comments/1jszer7/ · https://www.reddit.com/r/Teachers/comments/636i18/ · https://www.reddit.com/r/Teachers/comments/1stphcu/
+- [W8] Firecrawl search `site:reddit.com "year old" still having accidents at school pees pants`, 25 results, 2026-10-06 (SNIPPET). Examples:
+- [B1] Boston Children's daytime wetting (VERBATIM) · [W8] D1-s5.md · ad log: work/ad-log.csv
+- [B49] Firecrawl `firecrawl_search` `site:reddit.com 6 OR 7 OR 8 year old daytime accidents sleepover OR "field trip" OR camp worried pee pants` · 15 results · 2026-10-06 · SNIPPET. Used: https://www.reddit.com/r/Parenting/comments/162h8ap/anyone_have_a_kid_that_had_accidents_at_6_years/ ; also seen: https://www.reddit.com/r/Incontinence/comments/1b6jqtt/looking_for_advice_about_my_9_yearold_son_who/ · https://www.reddit.com/r/ParentingADHD/comments/1o7necw/9yo_wont_stop_peeing_herself/
+- [B50] Firecrawl `firecrawl_search` `site:reddit.com "first grade" OR "kindergarten" teacher called accident "change of clothes" pee pants embarrassed` · 15 results · 2026-10-06 · SNIPPET. Thread-title hooks seen: "My kid peed herself first day of school" (https://www.reddit.com/r/kindergarten/comments/1mnmryw/my_kid_peed_herself_first_day_of_school/) · "Kid had 2 accidents today, no more change of clothes, teachers and parents shaming her" (https://www.reddit.com/r/ECEProfessionals/comments/1m3j9ql/kid_had_2_accidents_today_no_more_change_of/) · "Accidents at school. Anyone else's kid?" (https://www.reddit.com/r/kindergarten/comments/1q8r4x9/accidents_at_school_anyone_elses_kid/) · "Pee Accidents in Kindergarten" (https://www.reddit.com/r/kindergarten/comments/1w07s0g/pee_accidents_in_kindergarten/).
+- [C:N332] https://community.babycenter.com/post/a38915014/7_year_old_peeing_pants_during_the_day · BabyCenter Community · n/d · SNIPPET
+- [C:N327] https://community.whattoexpect.com/forums/february-2021-babies/topic/5-year-old-still-having-accidents-176058594.html · What to Expect (February 2021 Babies) · n/d · SNIPPET
+- [C:N328] https://community.whattoexpect.com/forums/november-2017-babies/topic/1st-grade-accidents-at-school-teacher-input.html · What to Expect (November 2017 Babies) · n/d · SNIPPET
+- [C:N310] https://www.reddit.com/r/Parenting/comments/1c7am3v/my_5yo_almost_6_keeps_peeing_at_school/ · Reddit r/Parenting · ~2024-05 (est. from post ID) · SNIPPET
+- [B8] Cooper CS et al., J Urol 2003;170(3):956-8, PMID 12913750 (VERBATIM abstract; full line in work/D3-s13.md).
+- [C:S250] https://www.reddit.com/r/Parenting/comments/y8agdp/4yos_teacher_requested_we_put_him_back_in_pull/ · Reddit r/Parenting · ~2022-10 (est. from post ID) · SNIPPET
+- [C:N105] https://www.mumsnet.com/talk/education/5485471-school-said-it-might-be-best-if-ds-is-put-back-in-nappies?flipped=1&page=12 · Mumsnet · n/d · SNIPPET

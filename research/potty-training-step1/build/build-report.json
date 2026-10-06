@@ -1,0 +1,28 @@
+{
+ "Doc 1 \u2014 Market & Competition": {
+  "files": 10,
+  "missing_files": [],
+  "cited": 88,
+  "unresolved": []
+ },
+ "Doc 2 \u2014 The Customer": {
+  "files": 7,
+  "missing_files": [],
+  "cited": 173,
+  "unresolved": []
+ },
+ "Doc 3 \u2014 Persuasion": {
+  "files": 11,
+  "missing_files": [],
+  "cited": 133,
+  "unresolved": []
+ },
+ "Doc 4 \u2014 Brand, Offer & Funnel": {
+  "files": 5,
+  "missing_files": [
+   "D4-s20-VERIFY.md"
+  ],
+  "cited": 147,
+  "unresolved": []
+ }
+}
