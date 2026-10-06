@@ -46,7 +46,23 @@ Payback: a customer bought at a $40 CPA is about $17 down after order one. The f
 | No purchase | AUD $80 spent (2x target) | Kill |
 | CPA | 3+ purchases | Over AUD $55 on a 3-day rolling basis. Kill |
 
-**Diagnosis rule:** good CTR but no add to cart means the page is the problem, not the ad. Check message match and AUD price shock for US buyers before killing the ad.
+## What "kill" means: ad or page?
+
+"Kill" means turn that ad off. Never delete it. Before you turn anything off, ask one question: **is it failing on one ad, or on all of them?**
+
+- **One ad fails while others get add to carts** → the AD is the problem. It brought the wrong people, or it promised something the page doesn't continue. Turn off that ad. Leave the page alone.
+- **Every ad fails at the same stage** → the STORE is the problem. Keep the ads running and fix the stage where people drop off.
+
+Find the stage in Ads Manager: Link clicks → Landing page views → Adds to cart → Checkouts initiated → Purchases.
+
+| Where they drop | What it means | What to fix |
+|---|---|---|
+| Clicks, but landing page views under ~70% of clicks | Page is slow or broken on mobile | Page speed and mobile load. Not the ad |
+| Landing page views, but no add to cart | Page doesn't continue the ad, or price shock | Hero message match, the AUD price, the buy box. If only one ad does this, kill that ad |
+| Add to cart, but no checkout | Something in the cart scares them | Cart page (remove the "You may also like" $0 gift row), shipping surprise, AUD. Never the ad |
+| Checkout started, but no purchase | Checkout friction or a surprise | Shipping cost reveal, AUD, payment options, trust. Do a test purchase yourself. Never the ad |
+
+So the add-to-cart rule ($40 spent, no add to cart) is the one that **kills ads**. Failing the checkout and purchase rules on every ad is a **store problem**: fix the store, don't kill good ads. If only one ad fails those while others convert, kill that ad.
 
 ## Winner and scale rules
 
