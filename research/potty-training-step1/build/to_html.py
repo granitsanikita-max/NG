@@ -6,7 +6,9 @@ for f in sorted(glob.glob('final/*.md')):
     L=t.split('\n'); t='\n'.join(('\n'+l) if l.startswith('|') and i and L[i-1].strip() and not L[i-1].startswith('|') else l for i,l in enumerate(L))
     # make bare URLs clickable (skip ones already inside markdown links / angle brackets)
     t=re.sub(r'(?<![\(<\[="])\b(https?://[^\s\)\]>|`"]+[^\s\)\]>|`".,;:])', r'<\1>', t)
+    L=t.split('\n'); t='\n'.join(l+('\n' if l.startswith('|') and i+1<len(L) and L[i+1].strip() and not L[i+1].startswith('|') else '') for i,l in enumerate(L))
     body=markdown.markdown(t, extensions=['tables','sane_lists','fenced_code'])
+    body=body.replace('$','&#36;')
     title=html.escape(t.splitlines()[0].lstrip('# ').strip())
     css='body{font-family:Arial;font-size:11pt}table{border-collapse:collapse}th,td{border:1px solid #999;padding:4px;vertical-align:top}th{background:#eeeeee}'
     out=f'<!DOCTYPE html><html><head><meta charset="utf-8"><title>{title}</title><style>{css}</style></head><body>{body}</body></html>'
