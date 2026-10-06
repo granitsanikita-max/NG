@@ -1,0 +1,1184 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+              <meta name="csrf-param" content="authenticity_token">
+              <meta name="csrf-token" content="ihLMNCCpI55F6T0prF7Yc7Vna6W6AoM39G8iDxM8_VaFiRuGiiY1QVUkXq9GdUHr7hkHbSR5HITsh_tVbfAWGA">
+            
+    <title>
+      
+        Not Found (404)
+      
+    </title>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <meta property="og:type" content="website">
+<meta property="og:url" content="https://www.jamieglowacki.com/products">
+<meta name="twitter:card" content="summary_large_image">
+
+<meta property="og:title" content="Not Found (404)">
+<meta name="twitter:title" content="Not Found (404)">
+
+
+
+    
+      <link href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2155586720/settings_images/e338845-4264-5b1-2356-7b0fe2e8f5f_Screen_Shot_2024-01-12_at_4.53.00_PM.png?v=2" rel="shortcut icon" />
+    
+    <link rel="canonical" href="https://www.jamieglowacki.com/products" />
+
+    <!-- Google Fonts ====================================================== -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute(&#39;media&#39;);" type="text/css" href="//fonts.googleapis.com/css?family=Montserrat:400,700,400italic,700italic|Libre+Baskerville:400,700,400italic,700italic&amp;display=swap" />
+
+    <!-- Kajabi CSS ======================================================== -->
+    <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute(&#39;media&#39;);" type="text/css" href="https://kajabi-app-assets.kajabi-cdn.com/assets/core-bd7b26fa88233b0deec176501f76275fcd62a9785b79309a9e2b92fe02ba1903.css" />
+
+    
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute(&#39;media&#39;);" type="text/css" crossorigin="anonymous" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" />
+
+    <link rel="stylesheet" media="screen" href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155586720/assets/styles.css?17912332952247732" />
+
+    <!-- Customer CSS ====================================================== -->
+    <!-- If you're using custom css that affects the first render of the page, replace async_style_link below with styesheet_tag -->
+    <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute(&#39;media&#39;);" type="text/css" href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155586720/assets/overrides.css?17912332952247732" />
+    <style>
+  /* Custom CSS Added Via Theme Settings */
+  /* This creates bigger spacing between the main navigation menu items */
+
+.header__content--desktop .link-list__link {
+margin-left: 20px !important;
+margin-right: 20px !important;
+}
+
+
+/* This underlines the main navigation menu items when hovering over them */
+
+.header a.link-list__link:hover {
+text-decoration: underline !important;
+}
+
+
+/* This modifies the form fields to have squared edges and only show the bottom border */
+
+.form-control {
+border-radius: 0px !important;
+border-left-width: 0px !important;
+border-top-width: 0px !important;
+border-right-width: 0px !important;
+background-color: #ffffff00 !important;
+border-color: #ACACAC !important;
+}
+
+
+/* This removes the shadow from the form button */
+
+.form-btn {
+-webkit-box-shadow: 0 0px 0px rgb(0 0 0 / 10%) !important;
+box-shadow: 0 0px 0px rgb(0 0 0 / 10%) !important;
+}
+
+
+/* This removes the rounded corners of the filter field as seen on the Announcements and Blog Search Pages  */
+
+.filter__field {
+border-radius: 0px !important;
+}
+
+
+/* This removes the shadow from buttons throughout the site */
+
+.btn {
+-webkit-box-shadow: 0 0px 0px rgb(0 0 0 / 10%) !important;
+box-shadow: 0 0px 0px rgb(0 0 0 / 10%) !important;
+}
+
+
+/* This modifies the accordions to only show the bottom border */
+
+.block-type--accordion .block {
+border-top: 0px !important;
+border-left: 0px !important;
+border-right: 0px !important;
+}
+
+
+/* This adds more spacing between the login page title and login form fields */
+
+h1.auth__title { 
+margin-bottom: 40px; !important;
+}
+
+
+/* This reduces the h1 font size of the blog post title on the blog feed page on desktop  */
+
+@media (min-width: 768px) {
+h1.blog-post-body__title {
+font-size: 58px !important;
+}
+}
+
+/* This moves the podcast intro section up higher so that it is behind the transparent header. Delete this code if not using a transparent header for the website theme */
+
+.podcast-intro { 
+margin-top: -80px !important;
+padding-top: 80px !important;
+}
+
+
+/* This moves the coaching product hero section up higher so that it is behind the transparent header. Delete this code if not using a transparent header for the website theme */
+
+.coaching-programs__container { 
+margin-top: -94px !important;
+}
+
+.coaching-programs__header  {
+padding-top: 94px !important;
+}
+
+
+/* This removes the rounded corners on the error prompt */
+
+.parsley-errors-list {
+border-radius: 0px !important;
+}
+
+
+/* This removes the rounded corners on alert messages */
+
+.alert {
+border-radius: 0px !important;
+}
+
+
+/* This modifies the colors on the red alert message */
+
+.alert--danger {
+border-color: #7D251C !important;
+color: #7D251C !important;
+background-color: RGBA(125, 37, 28, 0.15) !important;
+}
+
+
+</style>
+
+    <!-- Kajabi Editor Only CSS ============================================ -->
+    
+
+    <!-- Header hook ======================================================= -->
+    <link rel="apple-touch-icon" href="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/sites/2147799737/images/dd562c-f0e-f60f-200-86e10d64445_7508282b-893f-43e5-884d-39cf76ff1b22.png" /><script type="text/javascript">
+  var Kajabi = Kajabi || {};
+</script>
+<script type="text/javascript">
+  Kajabi.currentSiteUser = {
+    "id" : "-1",
+    "type" : "Guest",
+    "contactId" : "",
+  };
+  
+</script>
+<script type="text/javascript">
+  Kajabi.theme = {
+    activeThemeName: "Jamie's Website",
+    previewThemeId: null,
+    editor: false
+  };
+</script>
+<meta name="turbo-prefetch" content="false">
+<meta name="p:domain_verify" content="4ef9f2a3a1f82cf88d79e110211fd7e9"/>
+
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-64N134B62G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-64N134B62G');
+</script><style type="text/css">
+  #editor-overlay {
+    display: none;
+    border-color: #2E91FC;
+    position: absolute;
+    background-color: rgba(46,145,252,0.05);
+    border-style: dashed;
+    border-width: 3px;
+    border-radius: 3px;
+    pointer-events: none;
+    cursor: pointer;
+    z-index: 10000000000;
+  }
+  .editor-overlay-button {
+    color: white;
+    background: #2E91FC;
+    border-radius: 2px;
+    font-size: 13px;
+    margin-inline-start: -24px;
+    margin-block-start: -12px;
+    padding-block: 3px;
+    padding-inline: 10px;
+    text-transform:uppercase;
+    font-weight:bold;
+    letter-spacing:1.5px;
+
+    left: 50%;
+    top: 50%;
+    position: absolute;
+  }
+</style>
+<script src="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/track_analytics-9PIwCo8a.js" crossorigin="anonymous" type="module"></script><link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/stimulus-YxisLvNU.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/stimulus-ne7gBwQ5.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/trackProductAnalytics-DkwkqJGV.js" as="script" crossorigin="anonymous">
+<link rel="modulepreload" href="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/track_product_analytics-BQXqP5X8.js" as="script" crossorigin="anonymous">      <script type="text/javascript">
+        if (typeof (window.rudderanalytics) === "undefined") {
+          !function(){"use strict";window.RudderSnippetVersion="3.0.3";var sdkBaseUrl="https://cdn.rudderlabs.com/v3"
+          ;var sdkName="rsa.min.js";var asyncScript=true;window.rudderAnalyticsBuildType="legacy",window.rudderanalytics=[]
+          ;var e=["setDefaultInstanceKey","load","ready","page","track","identify","alias","group","reset","setAnonymousId","startSession","endSession","consent"]
+          ;for(var n=0;n<e.length;n++){var t=e[n];window.rudderanalytics[t]=function(e){return function(){
+          window.rudderanalytics.push([e].concat(Array.prototype.slice.call(arguments)))}}(t)}try{
+          new Function('return import("")'),window.rudderAnalyticsBuildType="modern"}catch(a){}
+          if(window.rudderAnalyticsMount=function(){
+          "undefined"==typeof globalThis&&(Object.defineProperty(Object.prototype,"__globalThis_magic__",{get:function get(){
+          return this},configurable:true}),__globalThis_magic__.globalThis=__globalThis_magic__,
+          delete Object.prototype.__globalThis_magic__);var e=document.createElement("script")
+          ;e.src="".concat(sdkBaseUrl,"/").concat(window.rudderAnalyticsBuildType,"/").concat(sdkName),e.async=asyncScript,
+          document.head?document.head.appendChild(e):document.body.appendChild(e)
+          },"undefined"==typeof Promise||"undefined"==typeof globalThis){var d=document.createElement("script")
+          ;d.src="https://polyfill-fastly.io/v3/polyfill.min.js?version=3.111.0&features=Symbol%2CPromise&callback=rudderAnalyticsMount",
+          d.async=asyncScript,document.head?document.head.appendChild(d):document.body.appendChild(d)}else{
+          window.rudderAnalyticsMount()}window.rudderanalytics.load("2apYBMHHHWpiGqicceKmzPebApa","https://rs-dp.kajabi.com",{})}();
+        }
+      </script>
+      <script type="text/javascript">
+        if (typeof (window.rudderanalytics) !== "undefined") {
+          rudderanalytics.page({"account_id":"2147786433","site_id":"2147799737"});
+        }
+      </script>
+      <script type="text/javascript">
+        if (typeof (window.rudderanalytics) !== "undefined") {
+          (function () {
+            function AnalyticsClickHandler (event) {
+              const targetEl = event.target.closest('a') || event.target.closest('button');
+              if (targetEl) {
+                rudderanalytics.track('Site Link Clicked', Object.assign(
+                  {"account_id":"2147786433","site_id":"2147799737"},
+                  {
+                    link_text: targetEl.textContent.trim(),
+                    link_href: targetEl.href,
+                    tag_name: targetEl.tagName,
+                  }
+                ));
+              }
+            };
+            document.addEventListener('click', AnalyticsClickHandler);
+          })();
+        }
+      </script>
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.agent='plkajabi';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                                                                      document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+
+fbq('init', '724730254376467', {"ct":"!KJB_CONTACT_ADDRESS_CITY!","country":null,"em":"!KJB_CONTACT_EMAIL!","fn":"!KJB_CONTACT_FIRST_NAME!","ln":"!KJB_CONTACT_LAST_NAME!","pn":"","zp":"!KJB_CONTACT_ADDRESS_ZIP!"});
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=724730254376467&ev=PageView&noscript=1"
+/></noscript>
+<meta name='site_locale' content='en'><style type="text/css">
+  /* Font Awesome 4 */
+  .fa.fa-twitter{
+    font-family:sans-serif;
+  }
+  .fa.fa-twitter::before{
+    content:"𝕏";
+    font-size:1.2em;
+  }
+
+  /* Font Awesome 5 */
+  .fab.fa-twitter{
+    font-family:sans-serif;
+  }
+  .fab.fa-twitter::before{
+    content:"𝕏";
+    font-size:1.2em;
+  }
+</style>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@kajabi-ui/styles@1.4.2/dist/kajabi_products/kajabi_products.css" />
+<script type="module" src="https://cdn.jsdelivr.net/npm/@pine-ds/core@4.1.0/dist/pine-core/pine-core.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/@pine-ds/core@4.1.0/dist/pine-core/index.esm.js"></script>
+<script src="https://kajabi-app-assets.kajabi-cdn.com/vite/assets/submission_error-BPILUKDn.js" crossorigin="anonymous" type="module" defer="defer"></script><script>fetch("https://app.kajabi.com/health_check/ping",{mode:"no-cors"})</script>
+
+  </head>
+  <style>
+  body {
+    
+      
+        background-color: #ffffff;
+      
+    
+  }
+</style>
+  <body class="background-light">
+    <main>
+      
+<div id="section-header" data-section-id="header">
+
+<style>
+  /* Default Header Styles */
+  .header {
+    
+      background-color: #ffffff;
+    
+    font-size: 16px;
+  }
+  .header a,
+  .header a.link-list__link,
+  .header a.link-list__link:hover,
+  .header a.social-icons__icon,
+  .header .user__login a,
+  .header .dropdown__item a,
+  .header .dropdown__trigger:hover {
+    color: #090909;
+  }
+  .header .dropdown__trigger {
+    color: #090909 !important;
+  }
+  /* Mobile Header Styles */
+  @media (max-width: 767px) {
+    .header {
+      
+      font-size: 16px;
+    }
+    
+    .header .hamburger__slices .hamburger__slice {
+      
+        background-color: #5abce0;
+      
+    }
+    
+      .header a.link-list__link, .dropdown__item a, .header__content--mobile {
+        text-align: left;
+      }
+    
+    .header--overlay .header__content--mobile  {
+      padding-bottom: 20px;
+    }
+  }
+  /* Sticky Styles */
+  
+</style>
+
+<div class="hidden">
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      0
+    
+  
+  
+  
+  
+</div>
+
+<header class="header header--overlay    background-light header--close-on-scroll" kjb-settings-id="sections_header_settings_background_color">
+  <div class="hello-bars">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+          <style>
+@media (min-width: 768px) {
+  #block-1777596559280 {
+    text-align: ;
+  }
+} 
+</style>
+
+<div id="block-1777596559280" class="header__block header__block--hello-bar header__block--show " kjb-settings-id="sections_header_blocks_1777596559280_settings_stretch">
+  
+
+<style>
+  #block-1777596559280 .hello-bar {
+    background-color: #c4704d;
+  }
+  #block-1777596559280 .hello-bar__text {
+    color: #fffefe;
+  }
+</style>
+
+<div class="block hello-bar background-light text-center" kjb-settings-id="sections_header_blocks_1777596559280_settings_text">
+  
+    <a href="/resource_redirect/landing_pages/2151984980"  >
+  
+    <div class="container">
+      <p class="hello-bar__text" kjb-settings-id="sections_header_blocks_1777596559280_settings_text_color">Need potty training help right now? Get instant answers from Jamie’s “Oh Crap!” Chat.</p>
+    </div>
+  
+    </a>
+  
+</div>
+</div>
+      
+    
+  </div>
+  
+    <div class="header__wrap">
+      <div class="header__content header__content--desktop background-light">
+        <div class="container header__container media justify-content-center">
+          
+            
+                <style>
+@media (min-width: 768px) {
+  #block-1555988494486 {
+    text-align: center;
+  }
+} 
+</style>
+
+<div id="block-1555988494486" class="header__block header__block--logo header__block--show header__switch-content " kjb-settings-id="sections_header_blocks_1555988494486_settings_stretch">
+  
+
+<style>
+  #block-1555988494486 {
+    line-height: 1;
+  }
+  #block-1555988494486 .logo__image {
+    display: block;
+    width: 100px;
+  }
+  #block-1555988494486 .logo__text {
+    color: #000000;
+  }
+</style>
+
+<a class="logo" href="/">
+  
+    
+      <img loading="auto" class="logo__image" alt="Header Logo" kjb-settings-id="sections_header_blocks_1555988494486_settings_logo" src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2155586720/settings_images/fa2f6e-c2ba-5a40-d6f-e3a60d87d40_ec27f1bb-2cb8-4f9d-bd5c-cd9a7b4c7a0b.png" />
+    
+  
+</a>
+</div>
+              
+          
+            
+                <style>
+@media (min-width: 768px) {
+  #block-1724343475101 {
+    text-align: center;
+  }
+} 
+</style>
+
+<div id="block-1724343475101" class="header__block header__switch-content header__block--menu " kjb-settings-id="sections_header_blocks_1724343475101_settings_stretch">
+  <div class="link-list justify-content-center" kjb-settings-id="sections_header_blocks_1724343475101_settings_menu">
+  
+    <a class="link-list__link" href="https://www.jamieglowacki.com/" >HOME</a>
+  
+    <a class="link-list__link" href="https://www.jamieglowacki.com/courses" >COURSES</a>
+  
+    <a class="link-list__link" href="https://www.jamieglowacki.com/direct-access-to-jamie" >BOOK WITH JAMIE</a>
+  
+    <a class="link-list__link" href="https://www.jamieglowacki.com/books" >BOOKS</a>
+  
+    <a class="link-list__link" href="https://www.jamieglowacki.com/certification-part-2" >BECOME CERTIFIED</a>
+  
+</div>
+</div>
+              
+          
+            
+                <style>
+@media (min-width: 768px) {
+  #block-1727305034381 {
+    text-align: center;
+  }
+} 
+</style>
+
+<div id="block-1727305034381" class="header__block header__switch-content header__block--dropdown " kjb-settings-id="sections_header_blocks_1727305034381_settings_stretch">
+  <style>
+  /* Dropdown menu colors for desktop */
+  @media (min-width: 768px) {
+    #block-1727305034381 .dropdown__menu {
+      background-color: #FFFFFF;
+    }
+    #block-1727305034381 .dropdown__item a {
+      color: #595959;
+    }
+  }
+  /* Mobile menu text alignment */
+  @media (max-width: 767px) {
+    #block-1727305034381 .dropdown__item a {
+      text-align: left;
+    }
+  }
+</style>
+
+<div class="dropdown" kjb-settings-id="sections_header_blocks_1727305034381_settings_trigger">
+  <a class="dropdown__trigger">
+    RESOURCES
+    
+      <i class="dropdown__icon fa fa-chevron-down"></i>
+    
+  </a>
+  <div class="dropdown__menu dropdown__menu--text-center ">
+    
+      <span class="dropdown__item"><a href="https://www.jamieglowacki.com/freepreppingforpotty" >FREE GUIDE: Preparing For Potty Training</a></span>
+    
+      <span class="dropdown__item"><a href="https://www.jamieglowacki.com/podcast" >Podcast</a></span>
+    
+      <span class="dropdown__item"><a href="https://www.jamieglowacki.com/blog" >Blog</a></span>
+    
+      <span class="dropdown__item"><a href="https://www.jamieglowacki.com/product-recommendations" >Product Recommendations</a></span>
+    
+      <span class="dropdown__item"><a href="https://www.jamieglowacki.com/faq" >FAQ</a></span>
+    
+  </div>
+</div>
+</div>
+              
+          
+            
+                <style>
+@media (min-width: 768px) {
+  #block-1724343491382 {
+    text-align: center;
+  }
+} 
+</style>
+
+<div id="block-1724343491382" class="header__block header__switch-content header__block--menu " kjb-settings-id="sections_header_blocks_1724343491382_settings_stretch">
+  <div class="link-list justify-content-center" kjb-settings-id="sections_header_blocks_1724343491382_settings_menu">
+  
+    <a class="link-list__link" href="https://www.jamieglowacki.com/about" >ABOUT</a>
+  
+</div>
+</div>
+              
+          
+            
+                <style>
+@media (min-width: 768px) {
+  #block-1738766153259 {
+    text-align: left;
+  }
+} 
+</style>
+
+<div id="block-1738766153259" class="header__block header__switch-content header__block--user " kjb-settings-id="sections_header_blocks_1738766153259_settings_stretch">
+  <style>
+  /* Dropdown menu colors for desktop */
+  @media (min-width: 768px) {
+    #block-1738766153259 .dropdown__menu {
+      background: #FFFFFF;
+      color: #595959;
+    }
+    #block-1738766153259 .dropdown__item a,
+    #block-1738766153259 {
+      color: #595959;
+    }
+  }
+  /* Mobile menu text alignment */
+  @media (max-width: 767px) {
+    #block-1738766153259 .dropdown__item a,
+    #block-1738766153259 .user__login a {
+      text-align: left;
+    }
+  }
+</style>
+
+<div class="user" kjb-settings-id="sections_header_blocks_1738766153259_settings_language_login">
+  
+    <span class="user__login" kjb-settings-id="language_login"><a href="/login">Log In</a></span>
+  
+</div>
+</div>
+              
+          
+            
+          
+          
+            <div class="hamburger hidden--desktop" kjb-settings-id="sections_header_settings_hamburger_color">
+              <div class="hamburger__slices">
+                <div class="hamburger__slice hamburger--slice-1"></div>
+                <div class="hamburger__slice hamburger--slice-2"></div>
+                <div class="hamburger__slice hamburger--slice-3"></div>
+                <div class="hamburger__slice hamburger--slice-4"></div>
+              </div>
+            </div>
+          
+        </div>
+      </div>
+      <div class="header__content header__content--mobile">
+        <div class="header__switch-content header__spacer"></div>
+      </div>
+    </div>
+  
+</header>
+
+</div>
+<div data-dynamic-sections=404><div id="section-1593045036549" data-section-id="1593045036549"><style>
+  
+  #section-1593045036549 .section__overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-color: #8a7660;
+  }
+  #section-1593045036549 .sizer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  #section-1593045036549 .container {
+    max-width: calc(1260px + 10px + 10px);
+    padding-right: 10px;
+    padding-left: 10px;
+    
+  }
+  #section-1593045036549 .row {
+    
+  }
+  #section-1593045036549 .container--full {
+    width: 100%;
+    max-width: calc(100% + 10px + 10px);
+  }
+  @media (min-width: 768px) {
+    
+    #section-1593045036549 .sizer {
+      padding-top: 100px;
+      padding-bottom: 100px;
+    }
+    #section-1593045036549 .container {
+      max-width: calc(1260px + 40px + 40px);
+      padding-right: 40px;
+      padding-left: 40px;
+    }
+    #section-1593045036549 .container--full {
+      max-width: calc(100% + 40px + 40px);
+    }
+  }
+  
+  
+</style>
+
+<section kjb-settings-id="sections_1593045036549_settings_background_color"
+  class="section
+  
+  
+   background-dark "
+  data-reveal-event=""
+  data-reveal-offset=""
+  data-reveal-units="seconds">
+  <div class="sizer sizer--full">
+    
+    <div class="section__overlay"></div>
+    <div class="container ">
+      <div class="row align-items-center justify-content-center">
+        
+          
+
+
+
+
+<style>
+  /* flush setting */
+  
+  
+  /* margin settings */
+  #block-1593045036549_0, [data-slick-id="1593045036549_0"] {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+  }
+  #block-1593045036549_0 .block, [data-slick-id="1593045036549_0"] .block {
+    /* border settings */
+    border: 0px none black;
+    border-radius: 0px;
+    
+
+    /* background color */
+    
+    /* default padding for mobile */
+    
+    
+    
+    /* mobile padding overrides */
+    
+    
+    
+    
+    
+  }
+
+  @media (min-width: 768px) {
+    /* desktop margin settings */
+    #block-1593045036549_0, [data-slick-id="1593045036549_0"] {
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+    }
+    #block-1593045036549_0 .block, [data-slick-id="1593045036549_0"] .block {
+      /* default padding for desktop  */
+      
+      
+      /* desktop padding overrides */
+      
+      
+      
+      
+      
+    }
+  }
+  /* mobile text align */
+  @media (max-width: 767px) {
+    #block-1593045036549_0, [data-slick-id="1593045036549_0"] {
+      text-align: center;
+    }
+  }
+</style>
+
+
+<div
+  id="block-1593045036549_0"
+  class="
+  block-type--text
+  text-center
+  col-8
+  
+  
+  
+    
+  
+  
+  "
+  
+  data-reveal-event=""
+  data-reveal-offset=""
+  data-reveal-units="seconds"
+  
+    kjb-settings-id="sections_1593045036549_blocks_1593045036549_0_settings_width"
+    >
+  <div class="block
+    box-shadow-none
+    "
+    
+      data-aos="none"
+      data-aos-delay="0"
+      data-aos-duration="0"
+    
+    >
+    
+    <style>
+  
+  #block-1577982541036_0 .btn {
+    margin-top: 1rem;
+  }
+</style>
+
+<h1><span style="color: #ffffff;">PAGE NOT FOUND</span></h1>
+<p><span style="color: #ffffff;">The page you are looking for doesn't exist or has been moved.</span></p>
+<p><span style="color: #090909;"> </span></p>
+
+    
+
+
+
+
+
+
+<style>
+  #block-1593045036549_0 .btn,
+  [data-slick-id="1593045036549_0"] .block .btn {
+    color: #000000;
+    border-color: #e1b94f;
+    border-radius: 0px;
+    background-color: #e1b94f;
+  }
+  #block-1593045036549_0 .btn--outline,
+  [data-slick-id="1593045036549_0"] .block .btn--outline {
+    background: transparent;
+    color: #e1b94f;
+  }
+</style>
+
+<a class="btn btn--solid btn--large btn--auto" href="/"   kjb-settings-id="sections_1593045036549_blocks_1593045036549_0_settings_btn_background_color" role="button">
+  
+    BACK HOME
+  
+</a>
+  
+  </div>
+</div>
+
+        
+      </div>
+    </div>
+  </div>
+</section>
+</div></div>
+<div id="section-footer" data-section-id="footer">
+  <style>
+    #section-footer {
+      -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+      flex-grow: 1;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+    }
+    .footer {
+      -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+      flex-grow: 1;
+    }
+  </style>
+
+<style>
+  .footer {
+    background-color: #fcfcfc;
+  }
+  .footer, .footer__block {
+    font-size: 14px;
+    color: ;
+  }
+  .footer .logo__text {
+    color: ;
+  }
+  .footer .link-list__links {
+    width: 100%;
+  }
+  .footer a.link-list__link {
+    color: ;
+  }
+  .footer .link-list__link:hover {
+    color: ;
+  }
+  .copyright {
+    color: ;
+  }
+  @media (min-width: 768px) {
+    .footer, .footer__block {
+      font-size: 14px;
+    }
+  }
+  .powered-by a {
+    color: #898989 !important;
+  }
+  
+    .powered-by {
+      text-align: center;
+      padding-top: 0;
+    }
+  
+</style>
+
+<footer class="footer footer--stacked  background-light  " kjb-settings-id="sections_footer_settings_background_color">
+  <div class="footer__content">
+    <div class="container footer__container media">
+      
+        
+            <div id="block-1700500160607" class="footer__block ">
+  
+
+<style>
+  #block-1700500160607 {
+    line-height: 1;
+  }
+  #block-1700500160607 .logo__image {
+    display: block;
+    width: 75px;
+  }
+  #block-1700500160607 .logo__text {
+    color: ;
+  }
+</style>
+
+<a class="logo" href="/">
+  
+    
+      <img loading="auto" class="logo__image" alt="Footer Logo" kjb-settings-id="sections_footer_blocks_1700500160607_settings_logo" src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2155586720/settings_images/4fa5-c3f-210d-12cf-7eacfc07bc5c_1a727bb4-173c-477c-9606-63b34de76471.png" />
+    
+  
+</a>
+</div>
+          
+      
+        
+            <div id="block-1704748208794" class="footer__block ">
+  <style>
+  .social-icons--1704748208794 .social-icons__icons {
+    justify-content: 
+  }
+  .social-icons--1704748208794 .social-icons__icon {
+    color: #090909 !important;
+  }
+  .social-icons--1704748208794.social-icons--round .social-icons__icon {
+    background-color: #c4704d;
+  }
+  .social-icons--1704748208794.social-icons--square .social-icons__icon {
+    background-color: #c4704d;
+  }
+  
+  @media (min-width: 768px) {
+    .social-icons--1704748208794 .social-icons__icons {
+      justify-content: 
+    }
+  }
+</style>
+<div class="social-icons social-icons-- social-icons--1704748208794" kjb-settings-id="sections_footer_blocks_1704748208794_settings_social_icons_text_color">
+  <div class="social-icons__icons">
+    
+
+
+  <a class="social-icons__icon social-icons__icon--" href="https://www.instagram.com/jamie.glowacki/"  kjb-settings-id="sections_footer_blocks_1704748208794_settings_social_icon_link_instagram">
+    <i class="fab fa-instagram"></i>
+  </a>
+
+
+  <a class="social-icons__icon social-icons__icon--" href="https://www.youtube.com/@ohcrapwithjamie"  kjb-settings-id="sections_footer_blocks_1704748208794_settings_social_icon_link_youtube">
+    <i class="fab fa-youtube"></i>
+  </a>
+
+
+
+
+
+  <a class="social-icons__icon social-icons__icon--" href="https://podcasts.apple.com/us/podcast/the-oh-crap-potty-training-podcast/id1627503268?ign-itscg=30200&ign-itsct=lt_p"  kjb-settings-id="sections_footer_blocks_1704748208794_settings_social_icon_link_itunes">
+    <i class="fab fa-apple"></i>
+  </a>
+
+
+
+
+
+
+
+
+
+
+
+  <a class="social-icons__icon social-icons__icon--" href="https://open.spotify.com/show/1rqHsRldmsoVDOitTtd7A8?si=Q1dzJVC0QuefS9TVPr-x5w&nd=1&dlsi=a94779c92f3245f2"  kjb-settings-id="sections_footer_blocks_1704748208794_settings_social_icon_link_spotify">
+    <i class="fab fa-spotify"></i>
+  </a>
+
+
+  </div>
+</div>
+</div>
+        
+      
+        
+            <div id="block-1555988525205" class="footer__block ">
+  <span class="copyright" kjb-settings-id="sections_footer_blocks_1555988525205_settings_copyright" role="presentation">
+  &copy; 2026 Jamie Glowacki, All rights reserved 
+</span>
+</div>
+          
+      
+        
+            
+
+
+
+
+<style>
+  /* flush setting */
+  
+  
+  /* margin settings */
+  #block-1708629145744, [data-slick-id="1708629145744"] {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+  }
+  #block-1708629145744 .block, [data-slick-id="1708629145744"] .block {
+    /* border settings */
+    border: 4px  black;
+    border-radius: 4px;
+    
+
+    /* background color */
+    
+      background-color: ;
+    
+    /* default padding for mobile */
+    
+      padding: 20px;
+    
+    
+      padding: 20px;
+    
+    
+      
+        padding: 20px;
+      
+    
+    /* mobile padding overrides */
+    
+    
+      padding-top: 0px;
+    
+    
+      padding-right: 0px;
+    
+    
+      padding-bottom: 0px;
+    
+    
+      padding-left: 0px;
+    
+  }
+
+  @media (min-width: 768px) {
+    /* desktop margin settings */
+    #block-1708629145744, [data-slick-id="1708629145744"] {
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+    }
+    #block-1708629145744 .block, [data-slick-id="1708629145744"] .block {
+      /* default padding for desktop  */
+      
+        padding: 30px;
+      
+      
+        
+          padding: 30px;
+        
+      
+      /* desktop padding overrides */
+      
+      
+        padding-top: 0px;
+      
+      
+        padding-right: 0px;
+      
+      
+        padding-bottom: 0px;
+      
+      
+        padding-left: 0px;
+      
+    }
+  }
+  /* mobile text align */
+  @media (max-width: 767px) {
+    #block-1708629145744, [data-slick-id="1708629145744"] {
+      text-align: center;
+    }
+  }
+</style>
+
+
+<div
+  id="block-1708629145744"
+  class="
+  block-type--link_list
+  text-right
+  col-
+  
+  
+  
+  
+  "
+  
+  data-reveal-event=""
+  data-reveal-offset=""
+  data-reveal-units=""
+  
+    kjb-settings-id="sections_footer_blocks_1708629145744_settings_width"
+    >
+  <div class="block
+    box-shadow-
+    "
+    
+      data-aos="-"
+      data-aos-delay=""
+      data-aos-duration=""
+    
+    >
+    
+    <style>
+  #block-1708629145744 .link-list__title {
+    color: ;
+  }
+  #block-1708629145744 .link-list__link {
+    color: #090909;
+  }
+</style>
+
+
+
+<div class="link-list link-list--row link-list--desktop-right link-list--mobile-center">
+  
+  <div class="link-list__links" kjb-settings-id="sections_footer_blocks_1708629145744_settings_menu">
+    
+      <a class="link-list__link" href="https://www.jamieglowacki.com/TermsandConditions" >Terms & Conditions</a>
+    
+      <a class="link-list__link" href="https://www.jamieglowacki.com/privacypolicy" >Privacy Policy</a>
+    
+      <a class="link-list__link" href="https://www.jamieglowacki.com/certifiedconsultants" >Become Certified</a>
+    
+  </div>
+</div>
+  </div>
+</div>
+
+          
+      
+    </div>
+    
+  </div>
+
+</footer>
+
+</div>
+
+
+
+    </main>
+    <!-- Javascripts ======================================================= -->
+<script src="https://kajabi-app-assets.kajabi-cdn.com/assets/encore_core-9fe29e19cccfbb623a8695d377d198840772a40b51018f5b4729aef94a99f469.js"></script>
+<script src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2155586720/assets/scripts.js?17912332952247732"></script>
+
+
+
+<!-- Customer JS ======================================================= -->
+<script>
+  /* Custom JS Added Via Theme Settings */
+  /* Javascript code goes here */
+</script>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+[
+ {
+  "slug": "upairy",
+  "url": "https://upairy.com/products/potty-training-underwear",
+  "steps": [
+   "pdp",
+   "atc-click",
+   "checkout-reached:https://www.upairy.com/checkouts/cn/hWNHekw3DJkZwE7Xt8GQyFdK/en-us?_r=AQAB9Jg20BKPfj4sahIC"
+  ],
+  "cartEmpty": false
+ }
+]
