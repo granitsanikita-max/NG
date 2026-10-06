@@ -30,7 +30,7 @@
   - "these leaked very easily onto his clothes" (size and output) [C:N226] (SNIPPET)
 - **Needed:** the failure had a *cause*, and it isn't the idea itself.
 - **Proof:**
-  - **UMP:** bladder capacity ≈ (age + 2) × 30 ml [P55], against 60–90 ml stated by honest toddler trainers [P49].
+  - **UMP:** bladder capacity ≈ (age + 2) × 30 ml [P55], against 60–90 ml stated by honest toddler trainers [P49]. (§20B: superseded — use the ICCS/Rittig 2010 formula 30 × (age + 1) ml, as in D3-s9-REWRITE; P49 is one UK brand via SNIPPET.)
   - A pour test of a toddler trainer on camera.
   - (§13; CAN CREATE.)
 

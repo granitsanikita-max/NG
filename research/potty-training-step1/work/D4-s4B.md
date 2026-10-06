@@ -39,6 +39,7 @@
 - **UpAiry:** printing ml exposes "3x more liquid"; "no timelines" contradicts "WEEKS not MONTHS" and "Week 2+ Fully Trained"; "real people only" indicts its 7 persona pages. → **It indicts them.**
 - **BrightKidCo:** contradicts "Potty Trained in 7 Days" and "30 Days Potty Trained Promise". → **It indicts them.**
 - **MooMoo / BIG ELEPHANT:** they could print a number. But a marketplace listing can't hold a creed or a community, and BIG ELEPHANT's honesty already reads as a disclaimer ("Limited Absorbency"). → **The bundle is uncopyable for them; the number alone is not.** So we never rely on the number alone.
+- **CARER / TIICHOO** *(§20B: added — they already print a number)*: CARER's US Meta kids' ads say "hidden 100ml leak protection… at school"; TIICHOO prints 30–40 ml (D1-s2-LOCKED.md [V1][V3]). Printing *a* number is copyable — it's already copied. What indicts them is **size-matched** numbers (their one 100 ml figure across 10 sizes, ages 4–16, is exposed by "how much does a 10-year-old's accident hold?"), a training identity instead of "incontinence", and a creed. → **PASS holds only for the bundle (size-matched number + training identity + creed + School-Day Kit).**
 
 ## Whole-store thread (locked)
 - **Name:** neutral, big-kid-coded, non-medical (no autism / incontinence / potty in the domain or handles).
@@ -46,9 +47,10 @@
 - **PDP:** pour test per size, spec table, size chart to 12, the "won't hold" box, "Talk to your pediatrician too."
 - **Offer:**
   - worn-product guarantee + free size swaps
-  - no subscription, nothing pre-ticked
+  - nothing pre-ticked; *(§20B / owner input: corrected — was "no subscription")* one **transparent opt-in subscription** (Grow-With-Me Plan: unticked by default, cadence + price on the button, reminder before every charge, skip / change size / cancel online in two clicks) — the honest opposite of the hidden subscriptions in the enemy's 1★ reviews
   - per-pair price shown
-- **Reviews:** ages 5+ first; critical reviews shown with our reply.
+- **Reviews:** ages 5+ first; critical reviews shown with our reply. **Real moms on the PDP** (owner input): named, consenting parents on camera, disclosed if paid/gifted — never personas.
+- **No "3-day miracle"** (owner input) — but don't use that exact phrase as a differentiator: BrightKidCo already ran "Not a 3-day miracle" (GB, Apr 2026; D1-s1-LOCKED.md [V8]). Say "No timeline. No miracle." in our own words.
 - **Voice:** the attitude above, on every surface, including order emails.
 
 ## Weakness-as-weapon (locked)

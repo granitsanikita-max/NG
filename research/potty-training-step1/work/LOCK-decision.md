@@ -19,7 +19,7 @@
 ### 1 · Nikita's #1 criterion: is there a gap?
 | Candidate | Gap in US? | Evidence |
 |---|---|---|
-| **B · Big kids 5–9, daytime (draft pick)** | **YES** | 0 underwear ads for "accidents at school" (9 ads, all supplements) [W5]; 0 TikTok "training underwear" ads [W6]; BrightKidCo autism edition last seen 2026-08-31, toddler-framed [W7]; Kid Confident big-kid ad paused [M30] |
+| **B · Big kids 5–9, daytime (draft pick)** | **YES, narrowed (§20B)** — one weak live contestant: CARER kids' 100 ml "at school" boxer on US Meta [D1-s2-LOCKED V1] | 0 underwear ads for "accidents at school" (9 ads, all supplements) [W5]; 0 TikTok "training underwear" ads [W6]; BrightKidCo autism edition last seen 2026-08-31, toddler-framed [W7]; Kid Confident big-kid ad paused [M30] |
 | D · Honest-proof trainer, mainstream 2–4 (runner-up) | **NO as a market** | UpAiry ≈1,684 Meta ads, 26 of 28 Ad Library page-1 results [D1-s1]. Its proof device (ml) is open, but the *market* is red |
 | Working parent / daycare | NO | UpAiry's Tina / Bec / advertorial / daycare-mandate [D1-s2-DRAFT] |
 | Night / bedwetting 5–10 | **NO (new evidence)** | Saphire 684 + 226 + 149 active ads; Bloomwise 420; first-person "My 10yr old still wets the bed" stories [W3][W4][W5]; Goodnites 10K+/mo [M17] |
@@ -49,7 +49,7 @@
 - **"Size ceiling enemy is false":** accepted. The enemy has been replaced (§4B).
 - **"BrightKidCo owns ND sensory":** it's now abandoned (0 live) and toddler-framed [W7].
 - **"ND core is small and untargetable":**
-  - Accepted. The funnel is sized on the 5–9 daytime frame (≈1.3–1.85M kids).
+  - Accepted. The funnel is sized on the 5–9 daytime frame (≈1.4–2.0M kids (§20B: corrected — was 1.3–1.85M; ACS 2024 20,081,975 kids aged 5–9 × 7–10% → ≈1.4–2.0M, INFERENCE; see D1-s2-LOCKED.md [V5])).
   - ND is the proof community, not the ad identity.
   - Reachability is now evidenced by the supplement brands' scale on the same parent [W3–W5].
 - **"Meta health classification":** accepted. Neutral domain and handles; Super Undies already sits in "Health - Other" [W2].
@@ -97,7 +97,7 @@
 - Re-score the mass desire test for 5–9 daytime:
   - Urgency: school-day trigger.
   - Staying power: years (5 / 5).
-  - Scope: ≈1.3–1.85M kids, 7–10% [M64].
+  - Scope: ≈1.4–2.0M kids, 7–10% [M64] (§20B: corrected — was 1.3–1.85M; ACS 2024 20,081,975 kids aged 5–9 × 7–10% → ≈1.4–2.0M, INFERENCE; see D1-s2-LOCKED.md [V5]).
 - Replace the old C-file counts (38/252 etc.) with 2C-databank counts.
 - Restate the "cannot fix" boundary: full voids and night, plus "talk to your pediatrician".
 
@@ -143,7 +143,7 @@
   - Super Undies ($34.99)
   - Goodnites
 - Re-set "Price point to test" to the **$11–14/pair** ladder (see Pre-0 above).
-- Keep: worn-product guarantee, nothing pre-ticked, no subscription. Optional size-up email reminder.
+- Keep: worn-product guarantee, nothing pre-ticked. *(§20B / owner input: corrected — was "no subscription. Optional size-up email reminder".)* Nikita confirmed the brand WILL run a **transparent, opt-in subscription for LTV** (never pre-ticked, skippable, cancel online any time), real moms on the PDP, and no "3-day miracle". Design: work/D4-s15-FINAL.md "Grow-With-Me Plan".
 
 **work/research-persuasion.md (inputs for §12 / §13 / §13B — writer B)**
 - It was collected for the daycare positioning. **Pair 1 "Monday Reset" is no longer on-positioning.**

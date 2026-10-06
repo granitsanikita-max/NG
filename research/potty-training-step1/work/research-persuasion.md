@@ -156,7 +156,7 @@ Caveat: the corpus was collected for an ND / late-trainer brief, so BLF and Dr. 
   - Blum 2004: later training was predicted by "initiation of toilet training at an older age, presence of stool toileting refusal, and presence of frequent constipation" [P11, VERBATIM].
   - Child-oriented advice (Brazelton) shifted the norms (TIME 1999 [P9]).
   - Counter: Largo 1996 found training started later in the recent cohort, "but the age of gaining continence … did not differ" [P6, citing Largo]. Largo & Stutzle 1977: early potty training had "no effect on bladder control by day or at night" [P53, VERBATIM].
-- **Disposable diaper adoption alongside:** about 1% market share in 1957, 42% of the US diaper market in 1973 [P7, Conversable Economist summarizing Postrel, *Works in Progress* 2026, WebFetch]. By the late '90s "Some 95% of parents used them, an increase from 80% in the early '80s and 50% in the early '70s" [P10, newsletter quoted in roastmypost export, SNIPPET; the original article URL was not identified].
+- **Disposable diaper adoption alongside:** about 1% market share in 1957, 42% of the US diaper market in 1973 [P7, Conversable Economist summarizing Postrel, *Works in Progress* 2026, WebFetch]. By the late '90s "Some 95% of parents used them, an increase from 80% in the early '80s and 50% in the early '70s" [P10, newsletter quoted in roastmypost export, SNIPPET; the original article URL was not identified]. **(§20B: unverified — do not use in ads.)** (§20B: the 1% (1957) → 42% (1973) figures and "December 1961 … Peoria … ten cents a diaper" are CONFIRMED at [P7], which cites Postrel, *Works in Progress*, 2026.)
 
 ### 13c. Consistency across caregivers / daycare / regression; the "weekend method, then daycare" problem
 - **US scale:** "In 2019, approximately 59 percent of children age 5 and younger and not enrolled in kindergarten were in at least one weekly nonparental care arrangement". Of these, 62% were in center-based care, **38% in relative care (grandparents etc.)** and 20% in nonrelative home care [P18, NCES Fast Facts, VERBATIM].
@@ -272,7 +272,7 @@ Competitor TAKEN check uses docs/potty-training-research/A-paid-ads-map.md §3 (
 - 1971 JABA: a method for institutionalized adults, with a "median of four days per patient" and "use of new automatic apparatus for signalling elimination"; incontinence "reduced immediately by about 90%" [P62, VERBATIM].
 - 1973 "Dry pants: a rapid method of toilet training children" [P63, citation only].
 - Kiddoo 2012: "increased intake of fluids, scheduled toileting, positive reinforcement" with an average of 4.5 hours for ready children [P4, WebFetch].
-- 1974 book (Simon & Schuster): "sold more than three million copies"; average 3.9 h of "dry-pants training" in one study; "Other tests showed the success rate was closer to 74%" [P64, Wikipedia via WebSearch, SNIPPET].
+- 1974 book (Simon & Schuster): "sold more than three million copies"; average 3.9 h of "dry-pants training" in one study; "Other tests showed the success rate was closer to 74%" [P64, Wikipedia via WebSearch, SNIPPET]. (§20B: "three million" CONFIRMED by the NYT obituary, 2013-04-16, https://www.nytimes.com/2013/04/16/health/nathan-azrin-behavioral-psychologist-dies-at-82.html; the 3.9 h and 74% figures are unverified — do not use in ads.)
 - Status: **CONFIRMED** (book sales SNIPPET).
 
 **L5. Cloth training pants before Pull-Ups**
@@ -300,14 +300,14 @@ Competitor TAKEN check uses docs/potty-training-research/A-paid-ads-map.md §3 (
     - "Brazelton felt so strongly that pressures to train early are resurfacing that **he approached Pampers with the idea of the size 6 diaper**."
     - "(He is closely involved with Procter & Gamble Co. in other arenas as well.)"
     - "Experts cite a number of factors for this shift: the advent of comfy, leakproof disposable diapers that give children no inclination to train; our hectic lives; and the Brazelton-led charge to heed kids more".
-    - "A 1962 Brazelton study … found that about 90 percent of kids were out of diapers by 2[½]. A study published last year in Pediatrics found that only 22 percent are trained by that age now." (The "2½" is garbled in the scrape as "2{"; confirm.)
+    - "A 1962 Brazelton study … found that about 90 percent of kids were out of diapers by 2[½]. A study published last year in Pediatrics found that only 22 percent are trained by that age now." (The "2½" is garbled in the scrape as "2{"; confirm.) **(§20B: REMOVE — unverified, do not use in ads: still garbled in the 2026-10-06 re-scrape; the "22%" study is unnamed; and "90% by 30 months" conflicts with the 1962 paper's reported mean of 28.5 months [P4].)**
   - TIME, 25 Jan 1999 (Michael Lemonick), "War of the Diapers" [P9, VERBATIM]:
     - Brazelton is "professor emeritus at Harvard Medical School and chairman of the Pampers Parenting Institute".
     - "Leach does side with Rosemond on one point: Brazelton's affiliation with Pampers, which is pushing a supersize disposable diaper for children 35 lbs. or larger, stinks."
     - Brazelton: "I agree there's a danger … But I honestly believe in what the company does."
     - Fair-play line: Leach and Rosemond "acknowledge that Brazelton was giving the same advice long before he and Pampers hooked up."
   - NYT, 12 Jan 1999 (Erica Goode), "Two Experts Do Battle Over Potty Training": "Dr. Brazelton advises in a television commercial for Pampers size-6 diapers, suitable for children 35 pounds and over" [P70, SNIPPET; the NYT page is blocked for fetch].
-- Ad line "I'm glad there's finally a bigger diaper for growing toddlers… What a big help and a terrific idea." and "P&G had helped Brazelton fund his own foundation" [P10, from a 2026 newsletter quoted in a roastmypost.org review, SNIPPET; it cites a YouTube ad and newspapers.com clips; confirm before use].
+- Ad line "I'm glad there's finally a bigger diaper for growing toddlers… What a big help and a terrific idea." and "P&G had helped Brazelton fund his own foundation" [P10, from a 2026 newsletter quoted in a roastmypost.org review, SNIPPET; it cites a YouTube ad and newspapers.com clips; confirm before use]. **(§20B: unverified — do not use in ads. No primary source found for either line on 2026-10-06; the foundation-funding line is a defamation-grade claim about a real person.)**
 - **Fairness note (must carry):** Brazelton's 1962 child-oriented work predates Pampers. His stated motive was reducing coercion, constipation and withholding. The 1962 study reported problems falling "from the national average of 8% to about 1%" (TIME quote [P9]). Frame it as *an industry that profited from a good idea stretched*, not a bribed villain.
 - **2B / impersonation note:** naming a real, deceased public figure in a factual, sourced historical story is OK. Don't imply any endorsement of our product, and don't use his image (INFERENCE; check rights).
 
@@ -317,7 +317,7 @@ Competitor TAKEN check uses docs/potty-training-research/A-paid-ads-map.md §3 (
   - "**The market potential wasn't in diapers. Parents didn't want to perpetuate the diapering stage.**"
   - "They didn't want to simply introduce the category, they wanted to be the category. No test marketing … In 1989, a national rollout was launched".
   - K-C also "commissioned a pediatrician specializing in child development and a children's author" to write a potty book.
-- Wikipedia: "first introduced in 1989 and became popular with the slogan 'I'm a big kid now!'" [P71, WebSearch, SNIPPET].
+- Wikipedia: "first introduced in 1989 and became popular with the slogan 'I'm a big kid now!'" [P71, WebSearch, SNIPPET]. (§20B: upgraded — K-C's own PDF [P65]: "I'm a big kid now." … "So we trademarked the whole line"; and the 1989 rollout covered "one-third of the country over a three-year period" → say "began rolling out in 1989".)
 
 **C3. The disposable takeover vs the rising training age (correlation story)**
 - Pampers: "In December 1961, Pampers went on the market in Peoria, Illinois … ten cents a diaper". Disposables went from about 1% (1957) to 42% (1973) of the US market [P7, WebFetch; it cites Postrel, *Works in Progress*, 24 Apr 2026].
@@ -332,7 +332,8 @@ Competitor TAKEN check uses docs/potty-training-research/A-paid-ads-map.md §3 (
 ### The "92% trained by 18 months in 1957" claim: verdict DEBUNKED as worded
 - Used by UpAiry, shopnola (A-map), Go Diaper Free ("In 1957, 92% of all American babies were toilet trained by 18 months old (NY Times, 1999)"), My Carry Potty, One Proud Toddler ("one 1957 study at Stanford University") [P75, SNIPPETS].
 - **Real origin:** Sears, Maccoby & Levin, *Patterns of Child Rearing* (Row, Peterson, 1957). Seim 1989 (J Fam Pract) reads it as: **"before the age of 18 months 92% of children started toilet training and 60% had completed training"** [P2, VERBATIM]. The 1999 NYT and Brody pieces repeated "92 percent of 18-month-olds were toilet trained" [P76, SNIPPET], which is likely how the misquote spread (INFERENCE). "Stanford" is plausibly because Sears later moved to Stanford; the study isn't a Stanford study (INFERENCE, not verified).
-- **Sayable, accurate version:** "In the 1950s, 9 in 10 kids had *started* potty training before 18 months; today half aren't trained until about 3 (35–39 months)" [P2, P12].
+- **Sayable, accurate version:** "In the 1950s, 9 in 10 kids had *started* potty training before 18 months; today half aren't trained until about 3 (35–39 months)" [P2, P12]. **(§20B: corrected wording — Seim's PDF says Sears "reported data from 1947", and the 35–39-month figure is a 1995–96 Milwaukee sample, not "today". Accurate: "In 1940s data, 9 in 10 kids had *started* potty training before 18 months; in a 1990s US study, half weren't trained until 35–39 months." Not our market's story (5–9); keep off ads.)**
+- (§20B note: the 1999 NYT/Brody "92 percent of 18-month-olds were toilet trained" [P76] is itself the misquote — never cite it.)
 - **UK variant:** the NHS GHC guide says "83% of children were out of nappies by 18 months in the 1970s and 1980s" with no citation in the PDF [P19]. **UNVERIFIED**; don't use.
 
 ### Collector's note for §13B (INFERENCE)

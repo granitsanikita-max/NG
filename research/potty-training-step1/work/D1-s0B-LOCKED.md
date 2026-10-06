@@ -77,7 +77,7 @@ Winning Hunter, US, 2026-10-06 (DATA):
 | **Bloomwise / Hello Bloom Kids** (hellobloomkids.com) | Kids' "meltable" supplements | 420 active on page ("He had accidents at school at six years old") [W5] | 139,388 visits (Aug 2026, from 828 in Jan); 30d revenue est. **$748K–$1.35M**; AOV $58.12; US 90.8% [U21] | Fastest-growing advertiser on this parent: ×168 traffic in 7 months |
 | "accidents at school" (adtext, US) | — | 9 ads, **all supplements**, 0 underwear [W5] | — | The school-accident pain is being bought on Meta, by people who don't sell underwear |
 
-**Read:** the parent of a school-age child with accidents is **reachable and buying on Meta right now**, at ~$0.8–1.6M/month per brand (DATA estimates). Nobody sells her underwear there.
+**Read:** the parent of a school-age child with accidents is **reachable and buying on Meta right now**, at ~$0.8–1.6M/month per brand (DATA estimates). *(§20B: corrected — was "Nobody sells her underwear there" and implied the revenue is wetting-driven.)* Two caveats: (1) Saphire's revenue is mainly mood/focus gummies (bedwetting e-book created 2026-09-07) and Bloomwise's school-accident hook is a **constipation/soiling** story, so these prove reach + spend of the school-age (often ND) parent, not spend on daytime-wetting gear; (2) **CARER does sell her underwear on US Meta** — kids' boxers, ages 4–16, "hidden 100ml leak protection… dry at school", 27 ads indexed, live 2026-10-05 (D1-s2-LOCKED.md [V1]).
 
 ## 4 · Verdict (segment)
 | Question | Answer | Evidence |

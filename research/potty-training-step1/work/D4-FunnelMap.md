@@ -30,11 +30,11 @@ the ad shows the **moment** → the pre-sell explains **why** (the cause + the m
 - **Mechanism used:** the ***Big-Kid Hold*** (§13). **UMP:** "the toddler-sized hold" — big-kid training pants are toddler pants in a bigger waistband; the fabric got bigger, the capacity didn't. **UMS:** Size it → Pour it → Print it.
 - **Proof used (in this order):**
   1. **She's not alone:** "Up to 10 percent of 5-year-olds" have wetting accidents (Boston Children's [B1]); 7–10% of 5–13-year-olds [M64].
-  2. **The cause is the gear:** expected bladder capacity 30 × (age + 1) ml for ages 4–12 [B4] (age 7 ≈ 240 ml) vs honest toddler trainers rated "1 pee (60–90 ml)" [P49]; a 9-10Y pack titled "**Toddler** Potty Training Pants" [B28].
+  2. **The cause is the gear:** expected bladder capacity 30 × (age + 1) ml for ages 4–12 [B4] (age 7 ≈ 240 ml) vs honest toddler trainers rated "1 pee (60–90 ml)" [P49] (§20B: P49 = one UK brand via Instagram SNIPPET — in the advertorial show our own pour of a bought toddler trainer instead); a 9-10Y pack titled "**Toddler** Potty Training Pants" [B28].
   3. **Her own words:** "It doesn't hold more that 10-20ml" [C:N205]; "because of his size and the amount of liquid output, these leaked very easily onto his clothes" [C:N226].
-  4. **The history beat (§13B):** 1989 "big kid" = a diaper with an underwear story; 1999 the answer to bigger kids was a **size 6 diaper** [P1][P9]; 2026 the shelf still has no number. *(Fair-to-Brazelton line stays in.)*
+  4. **The history beat (§13B):** 1989 "big kid" = a diaper with an underwear story; 1998–99 the answer to bigger kids was a **size 6 diaper** [P1][P9] (§20B: corrected — was "1999"; the commercial was running by Dec 1998); 2026 the big-kid sizes on the shelf still print no number (§20B: not "no one anywhere" — a few niche brands state ml). *(Fair-to-Brazelton line stays in.)*
   5. **The demo:** the sippy-cup pour, then our size-8 pour with the number on screen — **only after samples are pour-tested** (§2B protocol). Until then: run the toddler-trainer half only.
-  6. **The honest limit (power move, §11):** "These aren't diapers. If your kid needs a full bladder held, or nights, this isn't the product."
+  6. **The honest limit (power move, §11):** "These aren't diapers. If your kid needs a full bladder held, or nights, this isn't the product." (§20B compliance: Meta reviews the landing page — write "If a kid needs a full bladder held…", §2B.)
 - **What it does NOT repeat:** the ad's scene. It starts at "why".
 - **CTA:** "See what each size holds →" (to the PDP, size pre-selected from a 2-question size picker if used).
 
@@ -43,14 +43,15 @@ the ad shows the **moment** → the pre-sell explains **why** (the cause + the m
 - **Offer inputs it sells (§15 FINAL → full offer built in Step 2):**
   - 1 pair $19 (anchor) · 6 "School Week" $84 · **10-pair "School-Day Kit" $119, pre-selected** (10 pairs + wet bag + discreet backpack spare pouch + teacher note card) · 15 "Full Term" $159.
   - **The Number Guarantee:** 100 days; if a pair doesn't hold the number printed for its size, or it doesn't work for your kid — full refund, keep the pants; free size swaps for 100 days. Policy text = headline.
-  - Free shipping from 6 pairs · US stock, 2–5 days · no subscription · nothing pre-ticked · no timer.
+  - Free shipping from 6 pairs · US stock, 2–5 days · nothing pre-ticked · no timer.
+  - **Grow-With-Me Plan (opt-in, unticked)** *(§20B / owner input: corrected — was "no subscription")*: a separate choice under the tiers — "5 pairs every 4 or 6 months, $55, size confirmed before each delivery, skip or cancel online any time." Never the default, never inside a gift. Full design + LTV: work/D4-s15-FINAL.md.
   - First-order pop-up: "$15 off your first kit" vs "$15 store credit" (AOV > $100 rule).
-- **Proof blocks:** spec table by layer (never "100% cotton") · size chart to 12 by weight + waist + thigh · "would you know?" under-trousers photo · "what it won't hold" box · reviews from parents of **5+ first**, critical ones shown with replies · CPSIA / CPC badge · checkout screenshot ("this is everything you'll pay").
+- **Proof blocks:** spec table by layer (never "100% cotton") · size chart to 12 by weight + waist + thigh · "would you know?" under-trousers photo · "what it won't hold" box · reviews from parents of **5+ first**, critical ones shown with replies · **real moms on camera** (owner input: named, consenting, disclosed if gifted/paid — no personas) · "No timeline. No miracle." line (owner input: no "3-day miracle"; don't copy BrightKidCo's own "Not a 3-day miracle" wording) · CPSIA / CPC badge · checkout screenshot ("this is everything you'll pay").
 - **Objection order (§11 ranks):** leaks 47 → scam 16 → waste 15 → one small accident 14 → sizing 13 → price 10 → diaper feel 5.
 - **What it does NOT repeat:** the cause story. One line links back ("Why toddler trainers flood →").
 
 ## Stage 4 · Cart — *does:* raises order value by finishing the school-day plan
-- **Default:** the $119 kit is already in (pre-selected on the PDP); the cart shows **"$11.90 a pair · free shipping · no subscription · nothing pre-ticked."**
+- **Default:** the $119 kit is already in (pre-selected on the PDP); the cart shows **"$11.90 a pair · free shipping · nothing pre-ticked · subscription only if you choose it."** *(§20B / owner input: corrected — was "no subscription")* If she ticked the Grow-With-Me Plan, the cart shows its own line: "Grow-With-Me: $55 every [4/6] months, first delivery [date]. Cancel online any time."
 - **Add-ons (all unticked, one tap each):**
   - **"+3 pairs in the next size up — $33"** (they grow; answers sizing 13 / bigger sizes 24).
   - **"Extra backpack spare pouch + wet bag — $14"** (a second bag for the second backpack / after-school club).
@@ -67,14 +68,15 @@ the ad shows the **moment** → the pre-sell explains **why** (the cause + the m
   3. Day 5: first-week check-in → free size swap link (100 days).
   4. Day 14: review ask (age of kid + school grade; no photos of kids in underwear).
   5. Day 45: "Second backpack? After-school club?" extra pouch / pairs.
-  6. **Size-up reminder (opt-in, no subscription):** at signup she enters size + month; we email when the next size is likely needed (INFERENCE timing ~10–12 months; confirm with returns data).
+  6. **Grow-With-Me Plan offer + size-up** *(§20B / owner input: corrected — was "Size-up reminder (opt-in, no subscription)")*: on the thank-you page and in the Day-5 email, offer the opt-in plan (unticked; $55 / 5 pairs every 4 or 6 months). Subscribers get a pre-ship email 7 days before each charge: "Still size 8? [Yes] [Move to 10] [Skip] [Cancel]" + an annual terms reminder. Non-subscribers keep the free opt-in size-up reminder (size + month at signup; INFERENCE timing ~10–12 months; confirm with returns data).
+  7. **Measure:** plan opt-in rate (target ≥20%), first-renewal retention (≥65%), skip and cancel reasons (INFERENCE targets, §15).
 - **Repeat / referral:** "Another parent in the class asking?" — a give-$15 / get-$15 link, no kid data collected.
 - **Measure (reference rule):** first-order CVR **and** 90-day LTV; post-purchase survey Q1 "How did you feel sending them on day 1?" (Fear → Courage tracking, §16).
 
 ---
 
 ## The map on one line
-**Creator ad (school moment) → creator-story advertorial (*Big-Kid Hold*: toddler-sized hold → size it, pour it, print it; Boston Children's 10%, ICCS formula, 1999 size-6 history, the pour) → proof PDP (number per size + $119 School-Day Kit pre-selected + Number Guarantee) → cart (+next size $33, +spare pouch $14, nothing pre-ticked) → thank-you one-click next-size pack + regret-killing card + size-up reminder.**
+**Creator ad (school moment) → creator-story advertorial (*Big-Kid Hold*: toddler-sized hold → size it, pour it, print it; Boston Children's 10%, ICCS formula, 1998–99 size-6 history, the pour) → proof PDP (number per size + $119 School-Day Kit pre-selected + Number Guarantee) → cart (+next size $33, +spare pouch $14, nothing pre-ticked) → thank-you one-click next-size pack + regret-killing card + opt-in Grow-With-Me Plan (transparent subscription, §20B / owner input) or free size-up reminder.**
 
 ## So What → do this
 1. **Build the advertorial and the PDP first; launch with the toddler-trainer half of the demo** until our own pour numbers exist — then add ours.

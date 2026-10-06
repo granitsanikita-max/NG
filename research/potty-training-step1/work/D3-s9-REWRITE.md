@@ -5,7 +5,7 @@
 ## The One Belief (FINAL)
 > **"This new opportunity — training underwear sized to a big kid's bladder, not a toddler's — is the key to getting through the school day without a soaked outfit or a call home, and it's only attainable through the *Big-Kid Hold*: capacity matched to each size, pour-tested on camera, and printed on the pack."**
 
-**Short form for creative:** "Toddler trainers are a sippy cup. Your big kid needs the *Big-Kid Hold*." (Metaphor from §13.)
+**Short form for creative:** "Toddler trainers are a sippy cup. Your big kid needs the *Big-Kid Hold*." (Metaphor from §13.) (§20B compliance: for Meta use "Big kids need the *Big-Kid Hold*." — "your big kid" + an accident product implies the viewer's child has a condition, §2B.)
 
 **Desire anchor (unchanged, re-counted):** "daycare / school-ready" = **39 of 601** bank, **19 of 225** in segment B, **8 of 79** school-age rows. It's still the segment's #1 desire (cut M). "Dry nights" (43) stays out: it's the night lane we don't serve.
 

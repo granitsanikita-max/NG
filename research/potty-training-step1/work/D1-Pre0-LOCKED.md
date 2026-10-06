@@ -82,6 +82,10 @@ These match the LOCK-decision figures (10 for $119: CM $59.93 / 50%, break-even 
 
 **Read:** with duty at ~35%, the 10-pack's scale line drops from a $24.23 to a $10.23 CPA. **6 for $84 becomes the safer hero** (scale CPA $13.28). The duty quote decides which bundle we push.
 
+> **§20B duty check (2026-10-06):** the ~35% assumption is **CONFIRMED as conservative, not exact.** IEEPA tariffs were struck down (Feb 2026) and the Section 122 10% surcharge expired 2026-07-24; the China stack is now HTS base + 7.5% Section 301 List 4A + 12.5% Section 301 (since 2026-07-24) [V12]. If the pants classify as cotton knit underpants/briefs (HTS 6107.11 boys 7.4% / 6108.21 girls 7.6% [V13]), duty ≈ **27.5% of FOB ≈ $1.10/pair** (landed ≈ $5.70, not $6.00). A TPU-laminated or "incontinence" classification could differ — the broker's ruling still decides. The no-duty table remains unrealistic for China-made goods: plan on the duty table. At $5.70 landed (27.5% duty, INFERENCE): 10 for $119 → CM $48.93 (41.1%), break-even ROAS 2.43, scale CPA $13.23; 6 for $84 → CM $40.28 (48.0%), scale CPA $15.08 — **6 for $84 stays the safer hero under any realistic duty.**
+> [V12] https://www.makemine.com/blog/china-tariffs ("16.5% HTS base rate, plus 7.5% legacy Section 301 (List 4A), plus the 12.5% country-specific Section 301 rate in force since July 24, 2026"; IEEPA "Struck down by the Supreme Court on February 20, 2026") · [V13] https://tariffs.wove.com/us/tariff/6107.11 · https://www.unisco.com/hts/61082100 (SNIPPET).
+
+
 ## Benchmark check (is this CPA realistic?)
 - No live account data exists. A first-order CPA ≤ $36 (kill line, no duty) on cold Meta / TikTok traffic is **unproven**; it is a test hypothesis.
 - Adjacent evidence that this parent buys at higher AOVs: Super Undies' WH AOV **$90.81** [U22]; Bloomwise (kids supplements, same parent) AOV **$58.12** [U21]; Saphire AOV **$39.08** [U20] (DATA). Our $84–$119 sits inside that range.
