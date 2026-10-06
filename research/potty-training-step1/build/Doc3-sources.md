@@ -76,20 +76,24 @@
 - [B20] Kid Confident Big Kid Sizes: https://kidconfident.co/products/potty-training-underwear-big-kid-sizes · Playwright 2026-10-06 · VERBATIM
 - [B8] Cooper CS et al., J Urol 2003;170(3):956-8, PMID 12913750 (VERBATIM abstract; full line in work/D3-s13.md).
 - [B32] Winning Hunter `search_facebook_ads` "training underwear ml" and "big kid potty", adtext, US, same window: 0 and 0 · DATA
+- [V1]–[V7] §20B re-checks, 2026-10-06 — full lines in work/D1-s2-LOCKED.md Sources.
+- [V3] Walmart TIICHOO: https://www.walmart.com/ip/18208062804 ("40ml Absorbency", "school-age boys") · https://www.walmart.com/ip/18143001040 ("holds up to 30 ml", "school settings") — firecrawl_scrape 2026-10-06 (VERBATIM).
+- [V4] Amazon search https://www.amazon.com/s?k=kids+absorbent+underwear+ml+school+age — Carer titles "Up to 60ML", "50ml, Age 4-12", "70ML", "80ml"; TIICHOO "30 ml" — firecrawl_scrape 2026-10-06 (DATA).
 - [B31] Winning Hunter `search_facebook_ads` "pour test", adtext, US, last seen 2026-07-01→10-06: 10 ads — Haven (havenbody.co, page "Sarah Wilson", 236 active), Maggie's Underwear ("A pour test is not enough"), Layered blankets; 0 kids' products · DATA / VERBATIM ad copy
 - [P13] Bladt L et al., "Do disposable diapers reduce urination elimination signals in non-toilet-trained children?", Eur J Pediatr 2025 (PMID 41099785) — https://pubmed.ncbi.nlm.nih.gov/41099785/ (abstract VERBATIM via Europe PMC)
 - [P6] Breinbjerg A, Rittig S, Kamperis K, "Does the development and use of modern disposable diapers affect bladder control? A systematic review", J Pediatr Urol 2021 (PMID 34099398) — https://pure.au.dk/ws/files/276702613/1_s2.0_S1477513121002746_main.pdf (VERBATIM, full-text PDF)
 - [B25] Peejamas Overnight Booster Insert: https://www.peejamas.com/products/absorbent-booster-insert · Playwright 2026-10-06 · VERBATIM
 - [B2] Nieuwhof-Leppink AJ et al., "Daytime urinary incontinence in children and adolescents", Lancet Child Adolesc Health 2019, doi 10.1016/s2352-4642(19)30113-0 (PMID 31060913 = [M64]) · Europe PMC abstract · VERBATIM
 - [P65] Kimberly-Clark, "Disposable training pants story" (PDF) — https://www.kimberly-clark.com/-/media/kimberly/pdf/innovation/ProductEvol_DisposableTrainingPants_umbracoFile.pdf (VERBATIM, PDF text)
-- [P71] slogan is a Wikipedia snippet: confirm against a K-C source or an archived ad.
-- [P1] Tampa Bay text: re-fetch this run returned page chrome only. **Confirm the two quoted lines in a browser** before live use (the "2½" figure in that article is garbled; it's not used here).
+- [P71] slogan: **§20B: RESOLVED — K-C's own PDF [P65] says the line was trademarked.**
+- [P1]: "VERBATIM, collector's scrape" → re-confirmed via Firecrawl, plus the Baltimore Sun 1998 source.
 - [P9] TIME, "War of the Diapers", Michael Lemonick, 1999-01-25 — https://time.com/archive/6734449/war-of-the-diapers/ (VERBATIM)
 - [C:S230] https://www.goodnites.com/en-us/bedwetting-products/nighttime-underwear-for-boys?bvroute=review%252f25577397&bvstate=pg:93/ct:r · Goodnites.com review · ~2013 (page label '13 years ago') · VERBATIM
 - [C:N265] https://www.reddit.com/r/pottytraining/comments/1gansad/my_7_year_old_wets_his_pants_regularly/ · Reddit r/pottytraining · ~2024-11 (est. from post ID) · SNIPPET
 - [C:N322] https://www.reddit.com/r/Parenting/comments/15b1ati/i_am_at_my_wits_end_over_this_my_six_almost_7/ · Reddit r/Parenting · ~2023-07 (est. from post ID) · SNIPPET
 - [C:N268] https://www.reddit.com/r/Parenting/comments/1bf3nj/8_year_old_girl_still_wetting_during_the_day_tips/ · Reddit r/Parenting · before 2015-08 · SNIPPET
 - [C:S235] https://www.goodnites.com/en-us/bedwetting-products/nighttime-underwear-for-boys?bvroute=review%252f25577397&bvstate=pg:93/ct:r · Goodnites.com review · n/d · VERBATIM
+- [P4] Kiddoo DA, "Toilet training children: when to start and how to train", CMAJ 2012;184(5):511 — https://pmc.ncbi.nlm.nih.gov/articles/PMC3307553/ (WebFetch)
 - [C:S174] https://community.whattoexpect.com/forums/hot-topics-1/topic/4-year-old-wont-potty-train-145341474.html · What to Expect · n/d · VERBATIM
 - [C:N216] https://www.tiktok.com/@turtlecoop/video/7691866893644303647 · TikTok · ~2026-10-03 · SNIPPET
 - [C:N347] https://www.youtube.com/watch?v=f1V_VhGKgwE&lc=UgwIE5RvMbRDoKYUFQZ4AaABAg · YouTube (Lane Robson) · ~2025 · VERBATIM

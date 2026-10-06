@@ -59,6 +59,7 @@
 - [W4] Winning Hunter `search_facebook_ads` keyword "sensory underwear kids", US, same window (908 total). First page: Bloomwise (hellobloomkids.com, page "Amanda Thompson", "Bedwetting ADHD kids… My ADHD son still wets the bed at 8"); Saphire pages "Saphire Saffron" (226 active) and "Dr. James Harper" (149 active, "My 9yr old still wets the bed"); UpAiry. 2026-10-06 (DATA / VERBATIM ad copy as indexed).
 - [U26] Winning Hunter `search_facebook_ads` keyword trysaphire.com, `searchkeyword: landingurl`, countries US, `sort_by: longestrunning`: total 103, 2026-10-06 (DATA; saved to a file and read with `jq`).
 - [W5] Winning Hunter `search_facebook_ads` "accidents at school" adtext US (9 ads, 0 underwear), 2026-10-06 (DATA).
+- [V1]–[V7] §20B re-checks, 2026-10-06 — full lines in work/D1-s2-LOCKED.md Sources.
 - [W2] SimilarWeb superundies.com (Health - Other): https://www.similarweb.com/website/superundies.com/ (DATA, via work/D2-s3.md).
 - [U25] Winning Hunter `search_facebook_ads` keyword superundies.com, landingurl, lastseen: 4 ads; latest last-seen 2025-11-25, 2026-10-06 (DATA).
 - [U27] Winning Hunter `search_facebook_ads` keyword "goodnites", `searchkeyword: pagename`, countries US: 2 ads, last seen 2024-02-14, 2026-10-06 (DATA / VERBATIM copy).
@@ -66,11 +67,19 @@
 - [U33] Lucky & Me sensory-friendly collection: https://luckyandme.com/collections/sensory-friendly-kids-clothing ; WunderUndies: https://wunderundies.com/ ; SmartKnitKIDS: https://www.amazon.com/SmartKnitKIDS-Girls-Seamless-Sensitivity-Undies/dp/B09BN3YPSS (SNIPPET, firecrawl_search 2026-10-06).
 - [U34] Reddit r/Autism_Parenting "Sensory-friendly underwear": https://www.reddit.com/r/Autism_Parenting/comments/1fkc8qk/sensoryfriendly_underwear/ (SNIPPET).
 - [U24] Winning Hunter `search_facebook_ads` keyword brightkidco.com, `searchkeyword: landingurl`, `sort_by: lastseen`: 13 ads; latest last-seen 2026-09-05, 2026-10-06 (DATA / VERBATIM copy as indexed).
+- [V8] Winning Hunter `search_facebook_ads` keyword "brightkidco", pagename, sort lastseen, 2026-10-06: latest last-seen 2026-09-05 (sensory "Still in Pull-Ups?" + Happy Poop); April 2026 GB ad copy "Not fully trained. Not a 3-day miracle." (DATA / VERBATIM as indexed).
 - [U23] Winning Hunter `get_store_details` brightkidco.com, 2026-10-06 (DATA).
 - [M41] Kid Confident Big Kid Sizes product JSON: https://kidconfident.co/products/potty-training-underwear-big-kid-sizes.js. 2026-10-06 (DATA).
 - [M30] Winning Hunter `search_facebook_ads` `searchkeyword: landingurl`, `sort_by: longestrunning` (± `min_duplicates: 2`) for upairy.com, kidconfident.co, brightkidco.com, tinytotsundies.com, 2026-10-06 (DATA).
+- [V3] Walmart TIICHOO: https://www.walmart.com/ip/18208062804 ("40ml Absorbency", "school-age boys") · https://www.walmart.com/ip/18143001040 ("holds up to 30 ml", "school settings") — firecrawl_scrape 2026-10-06 (VERBATIM).
+- [V4] Amazon search https://www.amazon.com/s?k=kids+absorbent+underwear+ml+school+age — Carer titles "Up to 60ML", "50ml, Age 4-12", "70ML", "80ml"; TIICHOO "30 ml" — firecrawl_scrape 2026-10-06 (DATA).
+- [V6] Winning Hunter `get_store_details` trysaphire.com, re-run 2026-10-06 (bestsellers: ADHD guide, sleepovers e-book created 2026-09-07, mood gummies) (DATA).
+- [V7] Winning Hunter `search_facebook_ads` "accidents at school" adtext US re-run 2026-10-06: 9 ads; Bloomwise copy "He had accidents at school at six years old — not because he wasn't toilet trained, but because when a bowel is that overloaded things leak past" (VERBATIM as indexed).
+- [V9] Super Undies Brain Trainer specifications: https://superundies.com/pages/brain-trainer-specifications ("Absorbs 325 ml… 400 ml… 540 ml… 620 ml without added inserts", S 3-5y → XL 10+), firecrawl_scrape 2026-10-06 (VERBATIM). Night product per https://superundies.com/pages/what-is-the-difference-between-the-nighttime-and-hero-undies.
+- [V2] Winning Hunter `get_store_details` carerspk.com: 65,782 visits (Aug 2026), 30d est. $370K–$740K (whole store, mostly adult), US 91%, AOV $71.59 (DATA).
 - [C:S194] https://community.whattoexpect.com/forums/hot-topics-1/topic/potty-training-help-for-child-with-sensory-processing-disorder-137628071.html · WTE Hot Topics · n/d · VERBATIM
 - [W7] Winning Hunter `search_facebook_ads` landing URL "brightkidco.com", last seen ≥2026-09-20.
+- [V5] US Census ACS 2024 5-yr DP05: https://data.census.gov/table/ACSDP5Y2024.DP05 ("5 to 9 years 20,081,975", SNIPPET via firecrawl_search).
 - [W8] Firecrawl search `site:reddit.com "year old" still having accidents at school pees pants`, 25 results, 2026-10-06 (SNIPPET). Examples:
 - [W12] Firecrawl search "training underwear for older kids size 8 10 sensory reddit", 15 results, 2026-10-06 (SNIPPET):
 - [C:S043] https://www.reddit.com/r/ADHDparenting/comments/1r8k9mm/out_of_ideas_almost_6yearold_wont_stop_peeing_his/ · Reddit r/ADHDparenting · ~2026-02 (est. from post ID) · SNIPPET

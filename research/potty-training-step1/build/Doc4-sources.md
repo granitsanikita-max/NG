@@ -32,9 +32,13 @@
 - [O1] https://www.upairy.com/products/potty-training-underwear (+ `.js` via Firecrawl, `/products.json`, cart & checkout capture) · DTC/Shopify — VERBATIM
 - [O6] https://kidconfident.co/products/potty-training-underwear (+ cart & checkout; `/policies/refund-policy` → 404) · VERBATIM
 - [O9] https://www.brightkidco.com/products/potty-training-underwear (+ products.json, cart, checkout) · VERBATIM
+- [V1]–[V7] §20B re-checks, 2026-10-06 — full lines in work/D1-s2-LOCKED.md Sources.
+- [V3] Walmart TIICHOO: https://www.walmart.com/ip/18208062804 ("40ml Absorbency", "school-age boys") · https://www.walmart.com/ip/18143001040 ("holds up to 30 ml", "school settings") — firecrawl_scrape 2026-10-06 (VERBATIM).
+- [V4] Amazon search https://www.amazon.com/s?k=kids+absorbent+underwear+ml+school+age — Carer titles "Up to 60ML", "50ml, Age 4-12", "70ML", "80ml"; TIICHOO "30 ml" — firecrawl_scrape 2026-10-06 (DATA).
 - [C:N226] https://www.walmart.com/reviews/product/209907642 · Walmart (BIG ELEPHANT) · n/d · SNIPPET
 - [C:N205] https://www.trustpilot.com/reviews/6a9ec853b2ed2b1904effe3c · Trustpilot (UpAiry) · 2026-09-07 · VERBATIM · 1★
 - [C:S149] https://www.reddit.com/r/pottytraining/comments/10dpbyw/day_three_of_oh_crap_method_with_22_month_old_its/ · Reddit r/pottytraining · ~2023-01 (est. from post ID) · SNIPPET
+- [V8] Winning Hunter `search_facebook_ads` keyword "brightkidco", pagename, sort lastseen, 2026-10-06: latest last-seen 2026-09-05 (sensory "Still in Pull-Ups?" + Happy Poop); April 2026 GB ad copy "Not fully trained. Not a 3-day miracle." (DATA / VERBATIM as indexed).
 - [B44] Amazon SmartKnitKIDS Seamless Sensitivity Undies: https://www.amazon.com/dp/B09BN3YPSS (resolved to /dp/B01MUXPA54) · Firecrawl `query` · VERBATIM ($18.50; S 4-5 / M 6-8 / L 10-12; 3.3★ 96)
 - [B26] Amazon MooMoo Baby 2T-9Y (B0C36DDD2B): https://www.amazon.com/dp/B0C36DDD2B · Firecrawl 2026-10-06 · VERBATIM
 - [B45] Goodnites retail prices: https://www.walmart.com/ip/Goodnites-Bedwetting-Underwear-for-Boys-S-M-43-68-lbs-44-Ct-Select-for-More/35511656 · https://www.target.com/p/goodnites-boys-39-nighttime-bedwetting-underwear-l-xl-34ct/-/A-15417310 · https://www.samsclub.com/ip/Goodnites-Nighttime-Bedwetting-Underwear-for-Boys-Sizes-Extra-Small-Extra-Extra-Large/3600045083 · `firecrawl_search` · SNIPPET. Plus goodnites.com PDP → 403 to Playwright (`work/15-captures/B/goodnites-1-pdp.txt`)
@@ -143,5 +147,5 @@
 - [M64] Daytime urinary incontinence ages 5–13, 7–10%: https://pubmed.ncbi.nlm.nih.gov/31060913/ (via D-skeptic / LOCK-decision.md).
 - [B4] Maternik M et al., J Pediatr Urol 2016;12:214.e1–5 (hosted on ics.org): "The EBC was calculated according to the Koff formula (30 × (age in years + 1) for children between 4 and 12 years…)" — https://www.ics.org/folder/committees/children-public-documents/d/3-evaluation-of-bladder-capacity-in-children-with-lower-urinary-tract-symptoms/download · PDF text 2026-10-06 · VERBATIM
 - [P49] Bambino Mio "Absorbs 1 Pee (60-90 ml)" (research-persuasion.md §13d; SNIPPET).
-- [P1] Tampa Bay text: re-fetch this run returned page chrome only. **Confirm the two quoted lines in a browser** before live use (the "2½" figure in that article is garbled; it's not used here).
+- [P1]: "VERBATIM, collector's scrape" → re-confirmed via Firecrawl, plus the Baltimore Sun 1998 source.
 - [P9] TIME, "War of the Diapers", Michael Lemonick, 1999-01-25 — https://time.com/archive/6734449/war-of-the-diapers/ (VERBATIM)

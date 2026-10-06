@@ -34,7 +34,7 @@ The supplement and cosmetic rules **do not** apply. Health-claim *substantiation
 | "Reusable — about [N] pairs replace about [M] disposables (our math: $0.30–$0.35 per disposable pant [M47-B] × [n]/day)." (show the calculation) | "Save $100+ every month on disposables." Unsubstantiated: at $0.30–$0.35/pant × 4–6/day, disposables cost ≈$36–$63/month [M47-B]. UpAiry's claim [M1] overstates this |
 | Real customer reviews and real creator videos, **with a disclosure** when paid or gifted. Typical results disclosed when a testimonial shows unusual speed | Fake mom personas, AI-invented parents, "Daily Parent"-style fake news advertorials, invented experts ("Allen Jahiger, Parenting Researcher"), insider or bought reviews. Banned by 16 CFR 465 [M54] |
 | One consistent, true customer / review count | Several conflicting counts ("30,000+", "350,000+", "4,326 reviews"…) [M1][M2]. Misrepresents the reviews [M54] |
-| "No intentionally added PFAS" (with a supplier declaration / test) | "PFAS-free", "No PFAS or Chemicals", "toxin-free" without multi-method test data. California AB 1817 bans intentionally added PFAS in textiles from Jan 2025; "no chemicals" is false on its face [M62] |
+| "No intentionally added PFAS" (with a supplier declaration / test) | "PFAS-free", "No PFAS or Chemicals", "toxin-free" without multi-method test data. California AB 1817 bans intentionally added PFAS in textiles from Jan 2025; "no chemicals" is false on its face [M62]. *(§20B: added — AB 1817's "regulated PFAS" also covers total organic fluorine ≥100 ppm from 1 Jan 2025, falling to 50 ppm from 1 Jan 2027, so a declaration alone isn't enough: get a TOF test (https://www.morganlewis.com/pubs/2024/11/new-york-and-california-bans-on-pfas-in-textiles-and-apparel-begin-january-1-2025 ; https://www.buchalter.com/blogs/navigating-new-pfas-regulations-in-california-and-new-york-critical-updates-for-the-textile-and-apparel-industries/). New York also bans intentionally added PFAS in apparel from 1 Jan 2025. A "PFAS-free" claim is judged under FTC Green Guides 16 CFR 260.9 (free-of = trace/background level only).)* |
 | "Optional refill pack every [N] months — shown at checkout, cancel anytime online." (clear, opt-in) | Pre-ticked / hidden subscriptions on a "free gift". ROSCA requires clear disclosure of material terms before billing, express informed consent, and a simple mechanism to stop [M67]. UpAiry has 19 complaints for exactly this [M24] |
 | "Designed in [country], made in China" (true origin) | "Made in USA" or "USA quality" unless it's true |
 | Flat-lay, mannequin, folded-in-hand, pour-test, and clothed-child shots (pants over the underwear) | Close-up or full-body photos and videos of children wearing *only* underwear in ads. High risk under Meta's adult-nudity / child-safety review, and it can't be targeted (INFERENCE; Meta allows undergarments only "as long as they do not violate the Adult Nudity and Sexual Activity policy" [M59]) |
@@ -42,7 +42,7 @@ The supplement and cosmetic rules **do not** apply. Health-claim *substantiation
 ## Category rules that apply to THIS product (US)
 | Rule | What it requires | Source |
 |---|---|---|
-| **Children's Product Certificate (CPC)** | Domestic manufacturers and **importers** must certify in writing, in English, based on tests by a **CPSC-accepted third-party lab**, that the product meets every applicable children's product safety rule. 7 required elements. **New: from July 8, 2026 importers must electronically file (eFile) certificates with U.S. CBP.** | VERBATIM [M48] |
+| **Children's Product Certificate (CPC)** | Domestic manufacturers and **importers** must certify in writing, in English, based on tests by a **CPSC-accepted third-party lab**, that the product meets every applicable children's product safety rule. 7 required elements. **New: from July 8, 2026 importers must electronically file (eFile) certificates with U.S. CBP.** | VERBATIM [M48] (§20B: CONFIRMED — "Beginning July 8, 2026, importers of most regulated consumer products will be required to electronically file (eFile) certificates…") |
 | Rules a training pant must be tested / certified to | **Wearing-apparel flammability (16 CFR 1610)** and **total lead content (15 U.S.C. §1278a)**: ≤100 ppm across the whole garment *including screen-printed inks*. Lead in surface coatings applies to painted / coated snaps. The CPSC textile deck: "Children's Apparel – Summary: 16 CFR part 1610… CPC required… Lead Content, Lead Surface Coating, Tracking Labels" | VERBATIM [M49][M51][M52] |
 | Phthalates | Apply to "child care articles" (sleep / feeding, age ≤3). Training underwear is likely **not** in scope, but the TPU layer should be screened anyway (INFERENCE; confirm with the lab) | [M51] |
 | **Tracking label** | Permanent, visible, legible marks on the **product and its packaging**: manufacturer, location and date of production, batch / cohort. A "tagless" garment still needs a **printed** tracking label | VERBATIM [M50] |
@@ -52,7 +52,7 @@ The supplement and cosmetic rules **do not** apply. Health-claim *substantiation
 | De minimis | Since 2025-08-29 every parcel is a formal or informal import paying duty. The importer of record issues and eFiles the CPC (see Pre-0) | SNIPPET [M12] |
 
 ## Ad-platform policy (Meta first)
-- **Personal attributes (the #1 silent killer)** [M57][M58]. Meta prohibits ads that "assert or imply" a viewer's "medical or genetic condition", "disability", "physical or mental health", "age" and "family status" (VERBATIM [M58]). Its own examples:
+- **Personal attributes (the #1 silent killer)** [M57][M58]. Meta prohibits ads that "assert or imply" a viewer's "medical or genetic condition", "disability", "physical or mental health", "age" and "family status" (VERBATIM [M58]). *(§20B: corrected — the current Personal Attributes page lists "race, ethnicity, religion, beliefs, age, sexual orientation or practices, gender identity, disability, physical or mental health (including medical conditions), vulnerable financial status, voting status, membership in a trade union, criminal record, or name"; "family status" is not on it (https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/, Firecrawl 2026-10-06). Age, disability and health — the ones that matter here — are confirmed. The three examples below were not re-found on the current page; its current health example is ❌ "Depression getting you down? Get help now." vs ✅ "Depression counseling".)* Its own examples:
   - ❌ "Are you disabled? We can help!"
   - ❌ "Have you been diagnosed with cancer?"
   - ❌ "people like you who just turned 62" (age implication) [M57]
@@ -156,8 +156,8 @@ The FTC requires a reasonable basis for objective claims *before* they run [M55]
 |---|---|---|
 | 1 · **Visual style** | Toddlers, often in underwear only (BrightKidCo hero); cartoon prints; green sale palettes; "Week 1→3" graphics. "toddler" in 10 of 40 hooks [O1][O6][O9]; tally #19 | No child in underwear-only shots, ever. Flat-lays, a measuring jug, a size ladder 4→12, backpack / school context. Ink, off-white and one signal colour. Big-kid designs only |
 | 2 · **Tone** | Fake-mom confessions (UpAiry's 7 persona pages); fear and deadline; 18 of 40 hooks open "I / my" | Real named people with a disclosure. Calm, dry, kid-on-your-side. **Courage, not fear** (§6) |
-| 3 · **Claim type** | ™ feel-wet mechanisms + speed ("WEEKS not MONTHS", "7 Days"); 0 of 908 ads state ml | **A number per size, poured on camera** (the *Big-Kid Hold*). No timeline. Feel-wet = one line of construction fact |
-| 4 · **Offer shape** | B2G3 / free-pairs stacks, countdowns, pre-ticked protection, gift-with-hidden-subscription, guarantees that contradict policy | A plain per-pair ladder; nothing pre-ticked; no timer; no subscription. Worn-product guarantee + free size swaps, with policy = headline |
+| 3 · **Claim type** | ™ feel-wet mechanisms + speed ("WEEKS not MONTHS", "7 Days"); 0 of 908 ads in our toddler-category corpus state ml *(§20B: scope corrected — CARER's kids' Meta ads say "100ml", and TIICHOO / Carer print 30–80 ml on Amazon/Walmart; numbers exist, but flat and small — D1-s2-LOCKED.md [V1][V3][V4])* | **A number per size, poured on camera** (the *Big-Kid Hold*). No timeline. Feel-wet = one line of construction fact |
+| 4 · **Offer shape** | B2G3 / free-pairs stacks, countdowns, pre-ticked protection, gift-with-hidden-subscription, guarantees that contradict policy | A plain per-pair ladder; nothing pre-ticked; no timer; *(§20B / owner input: corrected — was "no subscription")* **one transparent opt-in subscription (the Grow-With-Me Plan: unticked by default, price + cadence stated, skip / size-change / cancel online any time, reminder before every charge)**. Worn-product guarantee + free size swaps, with policy = headline |
 | 5 · **Page format** | Persona / "Daily Parent" fake-news advertorials; Us-vs-Pull-Ups check tables; 5 conflicting review counts | Creator-video or founder-letter pre-sell → proof PDP: pour test above the fold, spec table, size chart by weight + waist + thigh to 12, a "won't hold" box, one real review count |
 
 **What changed from the draft:**
@@ -217,6 +217,7 @@ The FTC requires a reasonable basis for objective claims *before* they run [M55]
 - **UpAiry:** printing ml exposes "3x more liquid"; "no timelines" contradicts "WEEKS not MONTHS" and "Week 2+ Fully Trained"; "real people only" indicts its 7 persona pages. → **It indicts them.**
 - **BrightKidCo:** contradicts "Potty Trained in 7 Days" and "30 Days Potty Trained Promise". → **It indicts them.**
 - **MooMoo / BIG ELEPHANT:** they could print a number. But a marketplace listing can't hold a creed or a community, and BIG ELEPHANT's honesty already reads as a disclaimer ("Limited Absorbency"). → **The bundle is uncopyable for them; the number alone is not.** So we never rely on the number alone.
+- **CARER / TIICHOO** *(§20B: added — they already print a number)*: CARER's US Meta kids' ads say "hidden 100ml leak protection… at school"; TIICHOO prints 30–40 ml (D1-s2-LOCKED.md [V1][V3]). Printing *a* number is copyable — it's already copied. What indicts them is **size-matched** numbers (their one 100 ml figure across 10 sizes, ages 4–16, is exposed by "how much does a 10-year-old's accident hold?"), a training identity instead of "incontinence", and a creed. → **PASS holds only for the bundle (size-matched number + training identity + creed + School-Day Kit).**
 
 ## Whole-store thread (locked)
 - **Name:** neutral, big-kid-coded, non-medical (no autism / incontinence / potty in the domain or handles).
@@ -224,9 +225,10 @@ The FTC requires a reasonable basis for objective claims *before* they run [M55]
 - **PDP:** pour test per size, spec table, size chart to 12, the "won't hold" box, "Talk to your pediatrician too."
 - **Offer:**
   - worn-product guarantee + free size swaps
-  - no subscription, nothing pre-ticked
+  - nothing pre-ticked; *(§20B / owner input: corrected — was "no subscription")* one **transparent opt-in subscription** (Grow-With-Me Plan: unticked by default, cadence + price on the button, reminder before every charge, skip / change size / cancel online in two clicks) — the honest opposite of the hidden subscriptions in the enemy's 1★ reviews
   - per-pair price shown
-- **Reviews:** ages 5+ first; critical reviews shown with our reply.
+- **Reviews:** ages 5+ first; critical reviews shown with our reply. **Real moms on the PDP** (owner input): named, consenting parents on camera, disclosed if paid/gifted — never personas.
+- **No "3-day miracle"** (owner input) — but don't use that exact phrase as a differentiator: BrightKidCo already ran "Not a 3-day miracle" (GB, Apr 2026; D1-s1-LOCKED.md [V8]). Say "No timeline. No miracle." in our own words.
 - **Voice:** the attitude above, on every surface, including order emails.
 
 ## Weakness-as-weapon (locked)
@@ -705,7 +707,8 @@ The prices below are search-result or /dp/ prices on 2026-10-06.
 | Peejamas [B25] | $19.99 boosters / $29.99 day 6-pack | Oz stated (4 oz booster, ~10 oz jammies) | Numbers on night products only; daytime toddler-size, out of stock |
 | MooMoo 2T-9Y / 9T [B26][U10] | $2.97–3.60/pr (10-pack) | Price + Prime + 30-day returns | "small accidents", no ml; leakage 116/180 negative |
 | BIG ELEPHANT 9-10Y [B28] | $2.55/pr (10 for $25.49, was $33.99) | Low price, 7–8 and 9–10 sizes | "Toddler" on a 9–10Y pack; "Limited Absorbency" |
-| Carer / TIICHOO / FUVVRVAL [U8] | $6.40–13.75/pr | Big sizes to 18, absorbent | "Incontinence" naming, no brand, no number |
+| Carer / TIICHOO / FUVVRVAL [U8] | $6.40–13.75/pr | Big sizes to 18, absorbent | "Incontinence" naming, no brand *(§20B: corrected — was "no number": Carer titles print 50–80 ml, TIICHOO 30–40 ml)* |
+| **CARER DTC (carerspk.com)** *(§20B: added)* [V1] | $23.95 single (3- and 6-packs) | **US Meta ads live: "hidden 100ml leak protection… dry at school"; First Pair Guarantee (refund or replace, keep the first pair); $11 off for subscribers (email)** | One flat 100 ml for 10 sizes (2XS–4XL, ages 4–16); incontinence store (adult-first, product codes "B01"); 3.9★ / 48; unopened-only returns after the first pair |
 | Goodnites [B45] | $1.14/pant (disposable) | Retail ubiquity; "16 oz" (2023 ad) | Night only; recurring cost; not school-day |
 | Lucky & Me [B40] | $38 per 6 ($6.33/pr) | 30-day guarantee incl. opened pairs + free US return shipping | No absorbency |
 | WunderUndies / SmartKnitKIDS [B42][B44] | $8–13 / $18.50 per pair | Size trial pack $25 / sizes to 10-12 | No absorbency; final sale once opened / 3.3★ |
@@ -727,11 +730,11 @@ The prices below are search-result or /dp/ prices on 2026-10-06.
 - **AOV machinery:** Saphire — Kaching tiers + CartBot free gift + UpCart + AfterSell post-purchase + Intelligems price tests [B37].
 
 **Nobody offers** (open slots → Offer inputs):
-1. **A printed, per-size capacity (ml) on daytime big-kid underwear that looks like underwear.** Super Undies states ml but sells a "diaper"; Peejamas / Goodnites state oz on *night* products; every big-kid daytime pant (BKC, KC, MooMoo, BIG ELEPHANT, Carer) states none.
-2. **A school-day kit**: pairs + wet bag + discreet backpack spare pouch + teacher note. BKC sells wet bags as $39.99 add-ons; Super Undies gives a laundry bag at $99; nobody frames school.
-3. **A guarantee tied to the number and usable after wearing**: "holds what the label says, or your money back — keep the pants." Every absorbent seller refuses worn returns (BKC, Super Undies, Peejamas) or 404s its policy (KC); only Lucky & Me (non-absorbent) accepts opened pairs.
+1. **A printed, *per-size*, pour-tested capacity on daytime big-kid underwear that looks like underwear.** Super Undies states ml per size but on *night* Brain Trainers (325–620 ml) and sells a "diaper"; Peejamas / Goodnites state oz on *night* products. *(§20B: corrected — was "every big-kid daytime pant (… Carer) states none". CARER states one flat **100 ml** for all sizes in live US Meta ads and on its PDP; Carer Amazon titles 50–80 ml; TIICHOO 30–40 ml [V1][V3][V4]. So the open slot is **size-matched + pour-tested + filmed**, not "a number".)*
+2. **A school-day kit**: pairs + wet bag + discreet backpack spare pouch + teacher note. BKC sells wet bags as $39.99 add-ons; Super Undies gives a laundry bag at $99. *(§20B: corrected — was "nobody frames school". CARER's ads say "dry at school" and TIICHOO's listings say "school-age" / "school settings" [V1][V3]. School **framing** is taken in copy; a school-day **kit** (pouch + wet bag + teacher note) is still offered by nobody found — CONFIRMED by Amazon search [V4] and web search for school accident kits [V10].)*
+3. **A guarantee tied to the number and usable after wearing**: "holds what the label says, or your money back — keep the pants." BKC, Super Undies, Peejamas refuse worn returns; KC 404s its policy; Lucky & Me (non-absorbent) accepts opened pairs. *(§20B: corrected — was "Every absorbent seller refuses worn returns". CARER (absorbent) offers a "First Pair Guarantee… full refund or replacement, and keep the first pair" — but only the first pair, the rest unopened [V1]. Still open: a guarantee **tied to the printed number** and covering every pair for 100 days.)*
 4. **Daytime sizes 4 → 12 in one line with a size chart by weight + waist + thigh.** BKC stops at L, KC states no ages, MooMoo / BIG ELEPHANT are marketplace toddler pants scaled up, Lucky & Me goes to 14 but holds nothing.
-5. **Free size swaps for a growing kid + an opt-in size-up reminder, with no subscription.** Subscriptions here are a complaint source (Saphire 7 + 5 + 2 [B37]; Bloomwise defaults to one [B38]).
+5. **Free size swaps for a growing kid + a *transparent* opt-in subscription that grows with the kid.** *(§20B / owner input: corrected — was "an opt-in size-up reminder, with no subscription".)* Subscriptions here are a complaint source *because they are hidden* (Saphire 7 + 5 + 2 [B37]; Bloomwise defaults to one [B38]). Nobody offers one that is unticked, size-aware and cancel-in-two-clicks — that's the slot (see Grow-With-Me Plan below).
 6. **Nothing pre-ticked, no timer, per-pair price shown.** 4 of 8 run urgency; Bloomwise pre-selects a subscription; UpAiry / Fvaulity / Kanga pre-add protection (section A).
 
 **So What → do this:** match the four table stakes we can honestly match (multi-pair tiers, free shipping at the kit tier, a long guarantee, "free" framing on real items), refuse the fifth (fake urgency) out loud, and build the offer on Nobody-offers #1–#3. The guarantee is the weapon: the absorbent sellers all refuse worn pants.
@@ -768,7 +771,7 @@ The prices below are search-result or /dp/ prices on 2026-10-06.
 |---|---|---|
 | "It won't hold the pee / it leaks" (objection) | **47** (+ "holds only one small accident" **14**; need "absorbency that holds a pee" **104**) | Per-size ml printed on the pack + pour video on the PDP + the Number Guarantee (below) |
 | Daily accidents at school (pain) | **38** bank · **34 of 79** school-age (#1) | The **School-Day Kit**: enough pairs for a week + backpack spare pouch + wet bag + teacher note |
-| Scam / hidden subscription (objection) | **16** (+ honest-checkout need **13**) | No subscription, nothing pre-ticked, one price per tier, checkout screenshot on the PDP |
+| Scam / hidden subscription (objection) | **16** (+ honest-checkout need **13**) | Nothing pre-ticked, one price per tier, checkout screenshot on the PDP; *(§20B / owner input: corrected — was "No subscription")* the only subscription is the **opt-in Grow-With-Me Plan**, shown as its own unticked choice with price, cadence and "cancel online any time" on the button |
 | Waste of money (objection) | **15** (+ "waste of money" burned **34**) | Worn-product guarantee + sourced cost math vs disposables ($0.30–0.35/pant [M47-B]; Goodnites $1.14 [B45]) |
 | Sizing / fit uncertain (objection) | **13** (+ bigger sizes need **24**; sizing / fit pain **17**; size / big-kid products pain **18**) | Sizes 4–12, chart by weight + waist + thigh, **free size swaps for 100 days** |
 | Price (objection) | **10** | Per-pair price shown; honest head-to-head vs MooMoo 9T ("more per pair; here's the ml difference") |
@@ -778,7 +781,17 @@ The prices below are search-result or /dp/ prices on 2026-10-06.
 | Routine / reminder (need) | **14** bank · **7** school-age | Teacher note card with a bathroom-reminder line; printable school-day checklist (inside the kit, not a "free ebook" anchor) |
 
 **2 · Offer TYPE** (reference Step 1): **Type 2 — Bundle** (same product, different designs / sizes) **+ Type 3 — First-Order pop-up**.
-- **Type 1 (front-loaded subscription) is rejected** — not a consumable; the market's subscriptions are a complaint source (Saphire, Bloomwise, UpAiry). The repeat lever is an **opt-in size-up reminder email** + free size swaps, not a subscription.
+- **Type 1 (front-loaded subscription): used as an opt-in back-end, never the default.** *(§20B / owner input: corrected — was "rejected… The repeat lever is an opt-in size-up reminder email + free size swaps, not a subscription". Nikita: the brand WILL have subscriptions for LTV, transparent, not hidden.)* The first order is always one-time by default; the subscription is the **Grow-With-Me Plan** below. Reusable pants wear out and kids size up roughly yearly (INFERENCE — wash life and size-up timing to be measured), so a slow refresh cadence fits; a monthly consumable cadence does not.
+
+**Grow-With-Me Plan (the transparent subscription — design for Step 2)**
+- **What:** 5 fresh pairs every **4 or 6 months** (she picks), in the size she confirms each time. **$55 per delivery ($11.00/pair), free shipping.** No sign-up fee, no minimum number of deliveries.
+- **How she joins:** a separate, **unticked** option on the PDP and in the thank-you page — "Add the Grow-With-Me Plan: 5 pairs every 4 or 6 months, $55, skip or cancel online any time." Price, cadence and first charge date are stated on the button and again in the checkout summary (ROSCA: clear disclosure + express informed consent + simple cancellation [V11]). Never pre-ticked, never bundled into a "free gift", never the default tier.
+- **Size-up built in:** 7 days before every delivery an email/SMS: "Next pack ships [date], $55. Still size 8? [Yes] [Move to size 10] [Skip this one] [Cancel]". That replaces the separate size-up reminder for subscribers (non-subscribers still get the opt-in reminder).
+- **Cancel / skip:** two clicks in the account page, no call, no chat gate; confirmation email; annual reminder of the plan terms (California ARL [V11]). Cancel at least as easy as join.
+- **What it is for (honest reason on the page):** "Big kids outgrow sizes and pants wear out. This keeps the drawer right without you thinking about it." Pair-wear claims only after wash-life testing.
+- **Unit economics per delivery (PROVISIONAL, same formulas as Pre-0):** CM = $55 − 5 × $4.60 − 3% × $55 − $7.00 = **$23.35 (42.5%)** no duty · **$16.35 (29.7%)** with ~35% duty (landed $6.00).
+- **LTV logic (INFERENCE until measured):** if 20% of kit buyers opt in and 80% of them take the first delivery, then 65% stay per cycle, a 4-month plan delivers 0.80 + 0.52 + 0.34 = **1.66 packs in 12 months** → +$38.71 CM per subscriber (no duty) → **+$7.74 per average kit buyer**, lifting 12-month CM from $59.93 to **≈$67.67** (+13%). A 6-month cadence gives 1.32 packs → +$6.16 per kit buyer. With duty: +$5.42 per kit buyer (CM $45.93 → ≈$51.35).
+- **Rule:** keep the kill / scale CPA lines on **first-order CM** until 90-day opt-in rate and first-renewal retention are measured; only then raise the allowable CPA by the measured LTV.
 
 **3 · Bundle build (reference Type 2 rules, applied)**
 | Tier (named by result) | Contents | Price | $/pair | Role |
@@ -804,7 +817,7 @@ The prices below are search-result or /dp/ prices on 2026-10-06.
 
 **6 · Price point to test:** **10-pair School-Day Kit at $119 ($11.90/pair), pre-selected**, with 6 for $84 as the entry tier.
 - Pre-0 re-run at this price (work/D1-Pre0-rerun.md, PROVISIONAL costs): **CM $59.93 (50.4%) · break-even ROAS 1.99 · kill line CPA $36.13 · scale line CPA $24.23.**
-- **Duty switch:** with ~35% duty (landed $6.00), the kit's scale CPA falls to $10.23 → push **6 for $84** as hero instead (scale CPA $13.28). The broker's duty quote decides.
+- **Duty switch:** with ~35% duty (landed $6.00), the kit's scale CPA falls to $10.23 → push **6 for $84** as hero instead (scale CPA $13.28). The broker's duty quote decides. *(§20B: duty is not "if" for China-made goods — IEEPA is gone but Section 301 7.5% + 12.5% + HTS ~7.5% ≈ 27.5% applies (work/D1-Pre0-LOCKED.md [V12][V13]). At $5.70 landed the kit's scale CPA is $13.23 vs $15.08 for 6 for $84. Default plan: **test both, budget on the 6-pack's lines**, unless OEM origin is outside China.)*
 - **Price-match stress test:** cutting the kit to $99 to sit under BrightKidCo's $10/pr drops CM to $40.53 (no duty) and to **26.8% CM with duty — below 30%**. **Don't price-match; win on the number.**
 
 **7 · First-order pop-up (reference Type 3)**
@@ -819,9 +832,9 @@ The prices below are search-result or /dp/ prices on 2026-10-06.
 - **Guarantee:** The Number Guarantee (5).
 - **Protect margin:** list price $19/pair is the honest single price; tiers discount down from it.
 - **Target AOV:** **$119** — the whole PDP (pre-selected tier, free-shipping bar at 6 pairs, cart add-ons) is built to hit it.
-- **No pre-ticked fees, no shipping protection pre-added, no subscription, no timer** — stated in the cart (Nobody-offers #6).
+- **No pre-ticked fees, no shipping protection pre-added, no subscription unless she ticks it, no timer** — stated in the cart (Nobody-offers #6). *(§20B / owner input: corrected — was "no subscription".)*
 
-**9 · Measure both (reference rule):** first-order CVR **and** 90-day LTV. Repeat levers to watch: size-up reorders (kids grow out in ~12 months — INFERENCE), second-child orders, extra spare-pouch packs.
+**9 · Measure both (reference rule):** first-order CVR **and** 90-day LTV. Repeat levers to watch: **Grow-With-Me opt-in rate (target ≥20%, INFERENCE) and first-renewal retention (target ≥65%)**, size-up reorders (kids grow out in ~12 months — INFERENCE), second-child orders, extra spare-pouch packs. Track cancel reasons and skip rate; a cancel rate spike = we're shipping too often or the pants outlast the cadence → move the default to 6 months. *(§20B / owner input: subscription metrics added.)*
 
 **10 · Post-purchase upsell candidates** (leaders use AfterSell / ReConvert / Zipify OCU [B37][O8]): one click "**+3 pairs in the next size up, $33**" (sized for growth); "extra backpack spare pouch + wet bag, $14". Nothing for night.
 
@@ -862,11 +875,11 @@ the ad shows the **moment** → the pre-sell explains **why** (the cause + the m
 - **Mechanism used:** the ***Big-Kid Hold*** (§13). **UMP:** "the toddler-sized hold" — big-kid training pants are toddler pants in a bigger waistband; the fabric got bigger, the capacity didn't. **UMS:** Size it → Pour it → Print it.
 - **Proof used (in this order):**
   1. **She's not alone:** "Up to 10 percent of 5-year-olds" have wetting accidents (Boston Children's [B1]); 7–10% of 5–13-year-olds [M64].
-  2. **The cause is the gear:** expected bladder capacity 30 × (age + 1) ml for ages 4–12 [B4] (age 7 ≈ 240 ml) vs honest toddler trainers rated "1 pee (60–90 ml)" [P49]; a 9-10Y pack titled "**Toddler** Potty Training Pants" [B28].
+  2. **The cause is the gear:** expected bladder capacity 30 × (age + 1) ml for ages 4–12 [B4] (age 7 ≈ 240 ml) vs honest toddler trainers rated "1 pee (60–90 ml)" [P49] (§20B: P49 = one UK brand via Instagram SNIPPET — in the advertorial show our own pour of a bought toddler trainer instead); a 9-10Y pack titled "**Toddler** Potty Training Pants" [B28].
   3. **Her own words:** "It doesn't hold more that 10-20ml" [C:N205]; "because of his size and the amount of liquid output, these leaked very easily onto his clothes" [C:N226].
-  4. **The history beat (§13B):** 1989 "big kid" = a diaper with an underwear story; 1999 the answer to bigger kids was a **size 6 diaper** [P1][P9]; 2026 the shelf still has no number. *(Fair-to-Brazelton line stays in.)*
+  4. **The history beat (§13B):** 1989 "big kid" = a diaper with an underwear story; 1998–99 the answer to bigger kids was a **size 6 diaper** [P1][P9] (§20B: corrected — was "1999"; the commercial was running by Dec 1998); 2026 the big-kid sizes on the shelf still print no number (§20B: not "no one anywhere" — a few niche brands state ml). *(Fair-to-Brazelton line stays in.)*
   5. **The demo:** the sippy-cup pour, then our size-8 pour with the number on screen — **only after samples are pour-tested** (§2B protocol). Until then: run the toddler-trainer half only.
-  6. **The honest limit (power move, §11):** "These aren't diapers. If your kid needs a full bladder held, or nights, this isn't the product."
+  6. **The honest limit (power move, §11):** "These aren't diapers. If your kid needs a full bladder held, or nights, this isn't the product." (§20B compliance: Meta reviews the landing page — write "If a kid needs a full bladder held…", §2B.)
 - **What it does NOT repeat:** the ad's scene. It starts at "why".
 - **CTA:** "See what each size holds →" (to the PDP, size pre-selected from a 2-question size picker if used).
 
@@ -875,14 +888,15 @@ the ad shows the **moment** → the pre-sell explains **why** (the cause + the m
 - **Offer inputs it sells (§15 FINAL → full offer built in Step 2):**
   - 1 pair $19 (anchor) · 6 "School Week" $84 · **10-pair "School-Day Kit" $119, pre-selected** (10 pairs + wet bag + discreet backpack spare pouch + teacher note card) · 15 "Full Term" $159.
   - **The Number Guarantee:** 100 days; if a pair doesn't hold the number printed for its size, or it doesn't work for your kid — full refund, keep the pants; free size swaps for 100 days. Policy text = headline.
-  - Free shipping from 6 pairs · US stock, 2–5 days · no subscription · nothing pre-ticked · no timer.
+  - Free shipping from 6 pairs · US stock, 2–5 days · nothing pre-ticked · no timer.
+  - **Grow-With-Me Plan (opt-in, unticked)** *(§20B / owner input: corrected — was "no subscription")*: a separate choice under the tiers — "5 pairs every 4 or 6 months, $55, size confirmed before each delivery, skip or cancel online any time." Never the default, never inside a gift. Full design + LTV: work/D4-s15-FINAL.md.
   - First-order pop-up: "$15 off your first kit" vs "$15 store credit" (AOV > $100 rule).
-- **Proof blocks:** spec table by layer (never "100% cotton") · size chart to 12 by weight + waist + thigh · "would you know?" under-trousers photo · "what it won't hold" box · reviews from parents of **5+ first**, critical ones shown with replies · CPSIA / CPC badge · checkout screenshot ("this is everything you'll pay").
+- **Proof blocks:** spec table by layer (never "100% cotton") · size chart to 12 by weight + waist + thigh · "would you know?" under-trousers photo · "what it won't hold" box · reviews from parents of **5+ first**, critical ones shown with replies · **real moms on camera** (owner input: named, consenting, disclosed if gifted/paid — no personas) · "No timeline. No miracle." line (owner input: no "3-day miracle"; don't copy BrightKidCo's own "Not a 3-day miracle" wording) · CPSIA / CPC badge · checkout screenshot ("this is everything you'll pay").
 - **Objection order (§11 ranks):** leaks 47 → scam 16 → waste 15 → one small accident 14 → sizing 13 → price 10 → diaper feel 5.
 - **What it does NOT repeat:** the cause story. One line links back ("Why toddler trainers flood →").
 
 ## Stage 4 · Cart — *does:* raises order value by finishing the school-day plan
-- **Default:** the $119 kit is already in (pre-selected on the PDP); the cart shows **"$11.90 a pair · free shipping · no subscription · nothing pre-ticked."**
+- **Default:** the $119 kit is already in (pre-selected on the PDP); the cart shows **"$11.90 a pair · free shipping · nothing pre-ticked · subscription only if you choose it."** *(§20B / owner input: corrected — was "no subscription")* If she ticked the Grow-With-Me Plan, the cart shows its own line: "Grow-With-Me: $55 every [4/6] months, first delivery [date]. Cancel online any time."
 - **Add-ons (all unticked, one tap each):**
   - **"+3 pairs in the next size up — $33"** (they grow; answers sizing 13 / bigger sizes 24).
   - **"Extra backpack spare pouch + wet bag — $14"** (a second bag for the second backpack / after-school club).
@@ -899,14 +913,15 @@ the ad shows the **moment** → the pre-sell explains **why** (the cause + the m
   3. Day 5: first-week check-in → free size swap link (100 days).
   4. Day 14: review ask (age of kid + school grade; no photos of kids in underwear).
   5. Day 45: "Second backpack? After-school club?" extra pouch / pairs.
-  6. **Size-up reminder (opt-in, no subscription):** at signup she enters size + month; we email when the next size is likely needed (INFERENCE timing ~10–12 months; confirm with returns data).
+  6. **Grow-With-Me Plan offer + size-up** *(§20B / owner input: corrected — was "Size-up reminder (opt-in, no subscription)")*: on the thank-you page and in the Day-5 email, offer the opt-in plan (unticked; $55 / 5 pairs every 4 or 6 months). Subscribers get a pre-ship email 7 days before each charge: "Still size 8? [Yes] [Move to 10] [Skip] [Cancel]" + an annual terms reminder. Non-subscribers keep the free opt-in size-up reminder (size + month at signup; INFERENCE timing ~10–12 months; confirm with returns data).
+  7. **Measure:** plan opt-in rate (target ≥20%), first-renewal retention (≥65%), skip and cancel reasons (INFERENCE targets, §15).
 - **Repeat / referral:** "Another parent in the class asking?" — a give-$15 / get-$15 link, no kid data collected.
 - **Measure (reference rule):** first-order CVR **and** 90-day LTV; post-purchase survey Q1 "How did you feel sending them on day 1?" (Fear → Courage tracking, §16).
 
 ---
 
 ## The map on one line
-**Creator ad (school moment) → creator-story advertorial (*Big-Kid Hold*: toddler-sized hold → size it, pour it, print it; Boston Children's 10%, ICCS formula, 1999 size-6 history, the pour) → proof PDP (number per size + $119 School-Day Kit pre-selected + Number Guarantee) → cart (+next size $33, +spare pouch $14, nothing pre-ticked) → thank-you one-click next-size pack + regret-killing card + size-up reminder.**
+**Creator ad (school moment) → creator-story advertorial (*Big-Kid Hold*: toddler-sized hold → size it, pour it, print it; Boston Children's 10%, ICCS formula, 1998–99 size-6 history, the pour) → proof PDP (number per size + $119 School-Day Kit pre-selected + Number Guarantee) → cart (+next size $33, +spare pouch $14, nothing pre-ticked) → thank-you one-click next-size pack + regret-killing card + opt-in Grow-With-Me Plan (transparent subscription, §20B / owner input) or free size-up reminder.**
 
 ## So What → do this
 1. **Build the advertorial and the PDP first; launch with the toddler-trainer half of the demo** until our own pour numbers exist — then add ours.

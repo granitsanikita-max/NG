@@ -82,6 +82,10 @@ These match the LOCK-decision figures (10 for $119: CM $59.93 / 50%, break-even 
 
 **Read:** with duty at ~35%, the 10-pack's scale line drops from a $24.23 to a $10.23 CPA. **6 for $84 becomes the safer hero** (scale CPA $13.28). The duty quote decides which bundle we push.
 
+> **§20B duty check (2026-10-06):** the ~35% assumption is **CONFIRMED as conservative, not exact.** IEEPA tariffs were struck down (Feb 2026) and the Section 122 10% surcharge expired 2026-07-24; the China stack is now HTS base + 7.5% Section 301 List 4A + 12.5% Section 301 (since 2026-07-24) [V12]. If the pants classify as cotton knit underpants/briefs (HTS 6107.11 boys 7.4% / 6108.21 girls 7.6% [V13]), duty ≈ **27.5% of FOB ≈ $1.10/pair** (landed ≈ $5.70, not $6.00). A TPU-laminated or "incontinence" classification could differ — the broker's ruling still decides. The no-duty table remains unrealistic for China-made goods: plan on the duty table. At $5.70 landed (27.5% duty, INFERENCE): 10 for $119 → CM $48.93 (41.1%), break-even ROAS 2.43, scale CPA $13.23; 6 for $84 → CM $40.28 (48.0%), scale CPA $15.08 — **6 for $84 stays the safer hero under any realistic duty.**
+> [V12] https://www.makemine.com/blog/china-tariffs ("16.5% HTS base rate, plus 7.5% legacy Section 301 (List 4A), plus the 12.5% country-specific Section 301 rate in force since July 24, 2026"; IEEPA "Struck down by the Supreme Court on February 20, 2026") · [V13] https://tariffs.wove.com/us/tariff/6107.11 · https://www.unisco.com/hts/61082100 (SNIPPET).
+
+
 ## Benchmark check (is this CPA realistic?)
 - No live account data exists. A first-order CPA ≤ $36 (kill line, no duty) on cold Meta / TikTok traffic is **unproven**; it is a test hypothesis.
 - Adjacent evidence that this parent buys at higher AOVs: Super Undies' WH AOV **$90.81** [U22]; Bloomwise (kids supplements, same parent) AOV **$58.12** [U21]; Saphire AOV **$39.08** [U20] (DATA). Our $84–$119 sits inside that range.
@@ -154,6 +158,9 @@ These match the LOCK-decision figures (10 for $119: CM $59.93 / 50%, break-even 
 | Scale line (30% net CPA / ROAS) | impossible (−$0.27) | $13.28 / 6.33 | **$10.23 / 11.63** | $7.03 / 22.62 | impossible (−$3.17) |
 
 ⚠️ = CM below 30%: the 30%-net target is impossible there. That's why **the price-match column is ruled out** — with duty it can't reach 30% net at any CPA.
+
+> **§20B duty check (2026-10-06):** the ~35% assumption is **CONFIRMED as conservative, not exact.** IEEPA tariffs were struck down (Feb 2026) and the Section 122 10% surcharge expired 2026-07-24; the China stack is now HTS base + 7.5% Section 301 List 4A + 12.5% Section 301 (since 2026-07-24) [V12]. If the pants classify as cotton knit underpants/briefs (HTS 6107.11 boys 7.4% / 6108.21 girls 7.6% [V13]), duty ≈ **27.5% of FOB ≈ $1.10/pair** (landed ≈ $5.70, not $6.00). A TPU-laminated or "incontinence" classification could differ — the broker's ruling still decides. The no-duty table remains unrealistic for China-made goods: plan on the duty table. At $5.70 landed (27.5% duty, INFERENCE): 10 for $119 → CM $48.93 (41.1%), break-even ROAS 2.43, scale CPA $13.23; 6 for $84 → CM $40.28 (48.0%), scale CPA $15.08 — **6 for $84 stays the safer hero under any realistic duty.**
+> [V12] https://www.makemine.com/blog/china-tariffs ("16.5% HTS base rate, plus 7.5% legacy Section 301 (List 4A), plus the 12.5% country-specific Section 301 rate in force since July 24, 2026"; IEEPA "Struck down by the Supreme Court on February 20, 2026") · [V13] https://tariffs.wove.com/us/tariff/6107.11 · https://www.unisco.com/hts/61082100 (SNIPPET).
 
 **Read:** duty is the swing variable. Without duty the $119 kit is the right hero (scale CPA $24.23). With ~35% duty its scale CPA drops to $10.23 and **6 for $84 becomes the safer hero** (scale CPA $13.28).
 
@@ -295,7 +302,7 @@ Never copy its persona or "Daily Parent" formats: they carry FTC fake-testimonia
 |---|---|---|
 | **Urgency** (wants it fixed now) | **4 / 5** | **School-day trigger, every day:** "daily accidents at school" 34 of 79 segment snippets; "school start" trigger 10; Fear 24 of 79 (30% vs 11% bank-wide) (DATA, tally). The teacher, the classmates and the spare clothes make it a now-problem: "so afraid his classmates will find out" [C:N322]. **Why not 5:** 70% of the segment is problem-aware and many are still in the "see the doctor, try a schedule" phase (routine / reminder system = top need, 7). The product is the stop-gap, not the first thing she reaches for. |
 | **Staying power** (keeps nagging?) | **5 / 5** | **It lasts years, not weeks.** "Since 3 years old, she's only gone approximately one week without having any accidents" (at 5.5) [C:N274]; "My kindergartner (5.5) has had constant accidents since we started potty training at age 2.5" [C:N289] (SNIPPET). Daytime wetting is reported in 7–10% of 5–13-year-olds [M64], an eight-year age band. The child also outgrows sizes each year, so the need repeats (INFERENCE). |
-| **Scope** (how many feel it) | **3 / 5** | **≈1.3–1.85M US children aged 5–9** with daytime wetting (7–10% [M64] applied to the 5–9 cohort; INFERENCE, from the lock). Smaller than the toddler market (~3.6M births a year [M66]), but millions of households. **Search is tiny:** "daytime wetting", "big kid training underwear", "training pants size 8" and "kids incontinence underwear" each run at ≈0–7 on a scale where "potty training underwear" = 100 (Google Trends US 5y [U30][U31]). She asks parents in forums (r/kindergarten, r/Parenting, Mumsnet), not Google. |
+| **Scope** (how many feel it) | **3 / 5** | **≈1.4–2.0M US children aged 5–9** with daytime wetting (7–10% [M64] applied to the 5–9 cohort; INFERENCE) (§20B: corrected — was ≈1.3–1.85M; the 5–9 cohort is ≈20.1M = 28,156,369 children aged 5–11 in 2024 × 5/7, Annie E. Casey KIDS COUNT / Census https://datacenter.aecf.org/data/tables/101-child-population-by-age-group. Internal sizing only — never "X million kids wet" in an ad). Smaller than the toddler market (~3.6M births a year [M66]), but millions of households. **Search is tiny:** "daytime wetting", "big kid training underwear", "training pants size 8" and "kids incontinence underwear" each run at ≈0–7 on a scale where "potty training underwear" = 100 (Google Trends US 5y [U30][U31]). She asks parents in forums (r/kindergarten, r/Parenting, Mumsnet), not Google. |
 | **Total** | **12 / 15 — strong, narrower mass desire** | Was 13/15 for the whole toddler category. The locked market trades scope (−2) for staying power (+1) and a sharper, daily, school-shaped pain. Still a painkiller market, not a want. |
 
 **Caveat (honest):**
@@ -391,7 +398,7 @@ Winning Hunter, US, 2026-10-06 (DATA):
 | **Bloomwise / Hello Bloom Kids** (hellobloomkids.com) | Kids' "meltable" supplements | 420 active on page ("He had accidents at school at six years old") [W5] | 139,388 visits (Aug 2026, from 828 in Jan); 30d revenue est. **$748K–$1.35M**; AOV $58.12; US 90.8% [U21] | Fastest-growing advertiser on this parent: ×168 traffic in 7 months |
 | "accidents at school" (adtext, US) | — | 9 ads, **all supplements**, 0 underwear [W5] | — | The school-accident pain is being bought on Meta, by people who don't sell underwear |
 
-**Read:** the parent of a school-age child with accidents is **reachable and buying on Meta right now**, at ~$0.8–1.6M/month per brand (DATA estimates). Nobody sells her underwear there.
+**Read:** the parent of a school-age child with accidents is **reachable and buying on Meta right now**, at ~$0.8–1.6M/month per brand (DATA estimates). *(§20B: corrected — was "Nobody sells her underwear there" and implied the revenue is wetting-driven.)* Two caveats: (1) Saphire's revenue is mainly mood/focus gummies (bedwetting e-book created 2026-09-07) and Bloomwise's school-accident hook is a **constipation/soiling** story, so these prove reach + spend of the school-age (often ND) parent, not spend on daytime-wetting gear; (2) **CARER does sell her underwear on US Meta** — kids' boxers, ages 4–16, "hidden 100ml leak protection… dry at school", 27 ads indexed, live 2026-10-05 (D1-s2-LOCKED.md [V1]).
 
 ## 4 · Verdict (segment)
 | Question | Answer | Evidence |
@@ -417,7 +424,7 @@ Winning Hunter, US, 2026-10-06 (DATA):
 **Adds to, does not replace:** work/D1-s1.md. Its long-list, the 3 direct-competitor profiles (UpAiry, Kid Confident, BrightKidCo) and the 40-row ad log still stand for the toddler category. This revision re-scans for the **locked market** ("Big kids still learning", 5–9, daytime) and updates the long-list, BrightKidCo's status, the indirect competitors and the TAKEN map.
 
 **Answer up front:**
-- **Nobody sells big-kid daytime training underwear with a brand voice in US paid social right now.** BrightKidCo, the only one that tried an autism / sensory version, has 0 live ads (underwear last seen 2026-08-31; last ad of any kind 2026-09-05). Super Undies, the big-kid specialist, has run no ads since 2025 and is a night / special-needs catalogue.
+- **Nobody sells big-kid daytime training underwear with a brand voice in US paid social right now** — *(§20B: corrected — add)* but **CARER (carerspk.com) runs a no-brand-voice kids' version on US Meta**: "hidden 100ml leak protection… dry at school", ages 4–16, 27 ads indexed since Nov 2025, still seen 2026-10-05 [V1]. BrightKidCo, the only one that tried an autism / sensory version, has 0 live ads (underwear last seen 2026-08-31; last ad of any kind 2026-09-05). Super Undies, the big-kid specialist, has run no ads since 2025 and is a night / special-needs catalogue.
 - **The same parent IS being sold to at scale, by supplement brands:** Saphire (≈$0.9–1.6M/30d est.) and Bloomwise (≈$0.75–1.35M/30d est.) run first-person "my 7-year-old…" stories on Meta. They are this market's **indirect competitors** and its proof of reach.
 - Big sizes on marketplaces (MooMoo 9T, "8-10Years" trainers, Carer, TIICHOO) have no brand, no stated capacity and visible leakage complaints.
 
@@ -432,13 +439,13 @@ Method (all 2026-10-06): Winning Hunter `get_store_details` (trysaphire.com, hel
 | 26 | **MooMoo Baby 2T-9Y / 9T** (direct, marketplace) | amazon.com/dp/B0CZ34MF49 · /dp/B0C36FXQRL | 0 Meta | — | US (Amazon) | **Live**: 10-pack 9T $29.74 (**$2.97/pair**), 3,290 ratings, 9% 1★; leakage 116 of 180 mentions negative [U10]; 2T-9Y 900+ bought/mo in wave 1 [M17] |
 | 27 | **BIG ELEPHANT** (big sizes to 9–10Y on Amazon; TikTok Shop listings are toddler) | amazon.com · TikTok Shop | 0 Meta | — | US | **Live**: TikTok Shop 10-pack 722 units / $24.1K (30d), "NOT Diapers… Limited Absorbency… Daytime Use Only" [U29] |
 | 28 | **"Dinosaur 8-10Years" trainer** (no-name marketplace) | amazon.com/dp/B0H1HL64KX | 0 | — | US | Live: $18.99, 330 ratings, **16% 1★**; leakage 30 of 43 mentions negative [U11] |
-| 29 | **Carer / TIICHOO / FUVVRVAL / EZ Moms** (big-kid absorbent "incontinence" boxers and trainers, ages 4–18) | amazon.com | 0 | — | US | Live: Carer size 10 4-pack $39.99; TIICHOO 5-pack $31.99 (100+/mo); FUVVRVAL $29.99 (100+/mo); EZ Moms 5T-6T 100+/mo [U8][U9] |
+| 29 | **Carer / TIICHOO / FUVVRVAL / EZ Moms** (big-kid absorbent "incontinence" boxers and trainers, ages 4–18) | amazon.com · carerspk.com | 0 *(§20B: corrected — CARER runs **27 kids' ads on US Meta** ("hidden 100ml leak protection… at school", live 2026-10-05) [V1]; TIICHOO / FUVVRVAL / EZ Moms 0)* | — | US | Live: Carer size 10 4-pack $39.99; TIICHOO 5-pack $31.99 (100+/mo); FUVVRVAL $29.99 (100+/mo); EZ Moms 5T-6T 100+/mo [U8][U9] |
 | 30 | **Goodnites** (Kimberly-Clark; night, disposable; Autism Society partner per the lock) | goodnites.com | **0 indexed in the last 2 years.** 2 US ads indexed, last seen **2024-02-14**; one says it "holds the equivalent of 2 water bottles… 16 oz. in total" [U27] | 2023-06-30 → 2024-02-14 | US | Live on shelf (10K+/mo on Amazon [M17]); **WH coverage of big CPG brands is weak, so "0 ads" is low confidence** |
 | 31 | **Sensory non-absorbent underwear:** Lucky & Me, SmartKnitKIDS, WunderUndies | luckyandme.com · amazon.com/dp/B09BN3YPSS · wunderundies.com | SmartKnitKIDS: **0** ads to its domain [U28]; others not indexed by name | — | US | Live, organic / SEO. Seamless, tagless, organic cotton; Lucky & Me packs $32–$40 [U33]. **No absorbency** (INFERENCE from listings). Recommended by ND parents: "We ended up getting Lucky & Me brand underwear and we haven't had any problems since!" [U34] (SNIPPET) |
 
 **BrightKidCo status — updated** (replaces row 3 of work/D1-s1.md):
 - **0 live.** 13 ads ever indexed to brightkidco.com [U24].
-- The **autism / sensory underwear** ad ("Autistic kid still in Pull-Ups?… Over 10,000 autism families made the switch to big kid underwear") ran **2026-07-20 → last seen 2026-08-31** (US / GB) [U24].
+- The **autism / sensory underwear** ad ("Autistic kid still in Pull-Ups?… Over 10,000 autism families made the switch to big kid underwear") ran **2026-07-20 → last seen 2026-08-31** (US / GB) [U24]. *(§20B: corrected — a later sensory ad "Still in Pull-Ups?… 100 days risk-free" ran 2026-08-28 → **last seen 2026-09-05** (US/GB), so the sensory line's last sighting is 09-05, not 08-31. Note: WH indexes only 13 ads to the domain though the page showed up to 107 active, so "0 live" is moderate-confidence. BrightKidCo also already used "Not a 3-day miracle" in an April 2026 GB ad, so that phrase is not ownable [V8].)*
 - The last ad of any kind was the **"Autism Constipation SOLVED!"** gummy (Happy Poop™), 2026-09-02 → **last seen 2026-09-05** [U24].
 - The sensory PDP is still framed for toddlers: "Potty Training Underwear for Sensory-Sensitive Toddlers… Help Your Child Become Potty Trained in 4–6 Weeks" [U23].
 - Store: 19,689 visits (Aug 2026), 30d est. $115K–$230K, 100% US; Trustpilot 3.0 from 2 reviews ("No exchange for wrong size") [U23].
@@ -453,7 +460,8 @@ The 3 with the most proven spend in the **category** are unchanged (UpAiry, Kid 
 | Kid Confident | "Big Kid Sizes" SM/MD/LG $19.99 [M41] | Big-kid ad paused 2026-09-12 [M30] | No | Tested, stopped |
 | BrightKidCo | Max L 4–6+ (lock) | **0 live** [U24] | No | Abandoned |
 | Super Undies | To 12 years | **0 since 2025** [U25] | No (stuffable "Floods" liners) | Night / special-needs, clinical tone |
-| MooMoo / BIG ELEPHANT / Carer / TIICHOO | To 9–10 or 18 | Marketplace only | No ("Limited Absorbency") | No brand, leakage complaints |
+| MooMoo / BIG ELEPHANT | To 9–10 | Marketplace only | No ("Limited Absorbency") | No brand, leakage complaints |
+| **CARER (carerspk.com) / TIICHOO** *(§20B: split out — was grouped above as "Marketplace only · No stated capacity")* | 4–16 / 4–18 | **CARER: yes, US Meta (27 kids ads, 100 ml "at school" copy, live 2026-10-05) [V1]**; TIICHOO: marketplace only | **Yes, small and flat:** CARER 100 ml all sizes (PDP) / 50–80 ml (Amazon titles); TIICHOO 30–40 ml [V1][V3][V4] | **The closest real competitor.** Incontinence-coded, adult-store brand, product codes, no creed, not size-matched, 3.9★ (48) |
 
 ## 3 · Indirect competitors for THIS market (same parent, same pain, different product)
 | Indirect competitor | What they sell | Proof of scale | What's working (steal the principle) |
@@ -461,6 +469,8 @@ The 3 with the most proven spend in the **category** are unchanged (UpAiry, Kid 
 | **Saphire** | Kids' mood / focus gummies; bedwetting page; dry-nights e-book | 103 ads in the US index; persona pages up to 419 active; ~$0.9–1.6M/30d est. [U20][U26] | **First-person parent story about a named-age child** ("My 7-year-old wakes up happy…"), persona doctor page, advertorial landers (`/pages/mom-burnout-adv`, `/pages/gentle-parenting`). **Steal:** first-person, specific age, real outcome — with **real** creators only (§2B bans their personas) |
 | **Bloomwise** | Kids' "meltable" supplements | 420 active on page; traffic ×168 in 7 months; ~$0.75–1.35M/30d est. [U21][W5] | **School-accident story** as the hook ("accidents at school at six years old"). **Steal:** the school-day scene as the opening frame |
 | **UpAiry Tummy Gummies** (via "Kereisa Collens") | Constipation gummies | 77 active; "accidents at school, which led to him being teased" [W5] | Links accidents to constipation and teasing. **Our version:** we don't treat the cause; we handle the accident with dignity and say "talk to your pediatrician" |
+
+**§20B caveat on reach proof:** Saphire's revenue is mainly mood / focus gummies + ADHD guides (bedwetting e-book created 2026-09-07) and Bloomwise's school-accident hook is a **constipation / soiling** story in UK English ("A&E", "£200", "health visitor") [V6][V7]. They prove this parent (school-age, often ND) is reachable on US Meta at $39–58 AOV; they do **not** prove she spends on daytime-wetting gear.
 
 **Their weak spots (our opening):** health claims and fake personas (Saphire Trustpilot 3.0 from 74 reviews; complaints: "Difficult subscription cancellation process" 7, "Unauthorized or unexpected subscription charges" 5, "Use of fake profiles and AI-generated content in marketing" 1 [U20]); a gummy can't stop today's wet trousers at school.
 
@@ -479,9 +489,9 @@ The 3 with the most proven spend in the **category** are unchanged (UpAiry, Kid 
 | Tiny Tots, Rudie Baby, My Carry Potty, Sculptara, Drynimo… | Toddler category angles (see work/D1-s1.md §5) | CA / AU / UK / US | Unchanged |
 
 **White space (locked market), confirmed:**
-- **Daytime + big-kid sizes + real-underwear look + a stated number per size + a brand voice** is owned by nobody active.
+- **Daytime + big-kid sizes + real-underwear look + a stated number per size + a brand voice** is owned by nobody active. *(§20B: still true as a bundle, but its parts are not: a flat 100 ml number + "at school" + real-underwear look + ages 4–16 is live on US Meta from CARER [V1]. What nobody has: a size-matched pour-tested number, a training (not incontinence) identity, a creed, and the School-Day Kit.)*
 - Night is TAKEN (Saphire, Goodnites, Super Undies). The ND sensory *comfort* claim is held organically by Lucky & Me / SmartKnit, but **without absorbency**. The ND *training* claim was BrightKidCo's, now abandoned.
-- **Caveat:** Goodnites published a capacity figure ("16 oz") in 2023 for night pants. Our "first to state a number" claim must be scoped to **daytime training underwear in US paid social now** (0 of 908 ads, §2) and never stated as "the only brand ever".
+- **Caveat:** Goodnites published a capacity figure ("16 oz") in 2023 for night pants; Super Undies prints 325–620 ml per size on its night Brain Trainers [V9]. *(§20B: corrected — was "Our 'first to state a number' claim must be scoped to daytime training underwear in US paid social now (0 of 908 ads)".)* **Drop the "first to state a number" claim entirely:** CARER (100 ml, US Meta), TIICHOO (30–40 ml) and Carer Amazon (50–80 ml) already print numbers on big-kid daytime-capable underwear [V1][V3][V4]. Claim only what is ours: "tested per size, printed per size".
 
 ## So What → do this
 1. **Attack the daytime big-kid gap** that nobody runs in paid: sizes to 12, real-underwear look, pour-tested ml per size.
@@ -508,7 +518,7 @@ The 3 with the most proven spend in the **category** are unchanged (UpAiry, Kid 
 - **Scope:** daytime, nearly-there kids. Full-incontinence and night needs are out of scope at launch (they are disposables territory). We say so openly.
 
 **Wedge (how we attack):**
-- **Mechanism gap:** the ***Big-Kid Hold*** (working name). Capacity is matched to each size, pour-tested on camera, and printed on the pack. Nobody in US paid social states a ml figure (0 of 908 ads).
+- **Mechanism gap:** the ***Big-Kid Hold*** (working name). Capacity is matched to each size, pour-tested on camera, and printed on the pack. *(§20B: corrected — was "Nobody in US paid social states a ml figure (0 of 908 ads)".)* **Numbers already exist, but small and flat:** CARER (carerspk.com) runs US Meta ads for kids' washable underwear, ages 4–16, "hidden 100ml leak protection… dry at school" (27 ads indexed since Nov 2025; one seen 2026-10-05) — the SAME 100 ml for all 10 sizes [V1][V2]; on Amazon / Walmart TIICHOO prints 30–40 ml and Carer 50–80 ml in titles [V3][V4]. **The open gap is a size-matched, pour-tested number big enough to matter** (Koff expected bladder capacity at age 7 ≈ 240 ml), not "the only number".
 - **Format gap:** real-creator first-person video and a pour-test demo. Lead on TikTok and TikTok Shop (0 US TikTok ads for "training underwear"), plus Meta broad with story pre-sell.
 - **Avatar gap:** school-age dignity. Sizes 4–12, big-kid designs, sensory-gentle build stated as construction facts only.
 
@@ -524,10 +534,10 @@ The 3 with the most proven spend in the **category** are unchanged (UpAiry, Kid 
 | Gate test | Result | Evidence |
 |---|---|---|
 | **PAINKILLER** | **PASS** | Segment = 225 of 601 snippets (locked school-age cut 79). Late training 74; daily school accidents 34 (segment; 34 of 79 in the locked cut); judgment 14; size 11. "the most difficult thing I have literally ever done as a parent" [C:S194]. 7–10% of 5–13-year-olds have daytime wetting [M64] |
-| **UNCONTESTED (US)** | **PASS** | BrightKidCo's autism edition was last seen 2026-08-31 and has **0 live** ads, with a toddler-framed handle [W7]. Kid Confident's big-kid ad is paused [M30]. "accidents at school" on Meta US = 9 ads, **all supplements, 0 underwear** [W5]. TikTok "training underwear" US = 0 [W6]. UpAiry's creative stops at 4.5–5 [ad log] |
-| **MARKET, not angle** | **PASS** | ≈1.3–1.85M US children aged 5–9 with daytime wetting (INFERENCE from [M64], D-skeptic §1). Supports 20+ ads: school day, sleepovers, camp, sizes, sensory build, dignity, teachers, siblings, relatives |
+| **UNCONTESTED (US)** | **PASS, narrowed** *(§20B: was an unqualified PASS)* | BrightKidCo's autism edition was last seen 2026-08-31 and has **0 live** ads, with a toddler-framed handle [W7]. Kid Confident's big-kid ad is paused [M30]. "accidents at school" on Meta US = 9 ads, **all supplements, 0 underwear** [W5]. TikTok "training underwear" US = 0 [W6]. UpAiry's creative stops at 4.5–5 [ad log]. **§20B add:** one live, weak-brand contestant — CARER kids' incontinence boxers, US Meta, 100 ml flat, "at school" + bedwetting copy, 3.9★/48 PDP reviews, product-code naming ("B01"), adult-incontinence store [V1][V2]. Contested on *number + school*, open on *brand, creed, size-matched number, real-underwear daytime trainer for 5–9* |
+| **MARKET, not angle** | **PASS** | ≈1.4–2.0M US children aged 5–9 with daytime wetting *(§20B: corrected — was 1.3–1.85M; ACS 2024 5-yr: 20,081,975 children aged 5–9 [V5] × 7–10% [M64]; INFERENCE — the 7–10% is for ages 5–13 and includes infrequent wetting)*. Supports 20+ ads: school day, sleepovers, camp, sizes, sensory build, dignity, teachers, siblings, relatives |
 | **Auto-fails** | None | Not a vitamin (painkiller); not the biggest competitor's angle; not a single scenario |
-| **Written answer: who runs this exact angle, and where?** | — | **Nobody active in US paid social.** BrightKidCo tried an *autism + toddler* version (US / GB, Jul–Aug 2026) and abandoned it. MooMoo / BIG ELEPHANT sell big sizes on marketplaces with no brand voice and no stated capacity. Super Undies (special-needs, $34.99, "Health - Other" on SimilarWeb [W2]) is clinical and <20K visits. **The gap they miss:** a stated, size-matched capacity + a real-underwear look + school-age identity + no speed claims |
+| **Written answer: who runs this exact angle, and where?** | — | **Nobody with a brand voice; one weak contestant.** *(§20B: corrected — was "Nobody active in US paid social".)* CARER runs a kids' 100 ml "at school" boxer on US Meta [V1]. BrightKidCo tried an *autism + toddler* version (US / GB, Jul–Aug 2026) and abandoned it. MooMoo / BIG ELEPHANT sell big sizes on marketplaces with no brand voice and no stated capacity. Super Undies (special-needs, $34.99, "Health - Other" on SimilarWeb [W2]) is clinical and <20K visits. **The gap they miss:** a stated, size-matched capacity + a real-underwear look + school-age identity + no speed claims |
 
 ## Nikita's criteria, checked
 1. **Gap in the market (#1): YES.** See the gate row above. It's the only candidate that passes.
@@ -548,6 +558,7 @@ The 3 with the most proven spend in the **category** are unchanged (UpAiry, Kid 
 3. **Meta health classification:** keep the domain and handles neutral; check Events Manager on day 1. Super Undies is already categorised "Health - Other" [W2].
 4. **Price anchor:** MooMoo 9Y at ~$3–4/pair. We win only with a visible ml difference.
 5. **Re-entry:** BrightKidCo could return with bigger sizes. Re-check the Ad Library monthly.
+6. **(§20B, new) A live number-printer already exists:** CARER's 100 ml kids' boxer on US Meta [V1]. Our number must be visibly bigger *per size* (or we lose the head-to-head), and we never claim "the only brand that tells you how much it holds". Re-check CARER monthly.
 
 ## So What → do this
 1. Get 2–3 OEM quotes (sizes 4–12, flat seams, printed labels, TPU + cotton core) and order samples.
@@ -561,7 +572,7 @@ The 3 with the most proven spend in the **category** are unchanged (UpAiry, Kid 
 - **Mechanism:** generic "measured capacity" became the size-matched *Big-Kid Hold*.
 - **Enemy:** the "size ceiling" became the toddler-ized, overpromising industry.
 - **Night:** further TAKEN by supplements.
-- **Channel:** confirmed reachable via story pre-sell (supplement evidence).
+- **Channel:** confirmed reachable via story pre-sell (supplement evidence). *(§20B caveat: Saphire's revenue is mainly mood/focus gummies — its bedwetting e-book only launched 2026-09-07 — and Bloomwise's "accidents at school" story is a constipation/soiling story with UK wording. They prove the school-age ND parent is reachable and spends ~$40–58 AOV on Meta; they do NOT prove spend on daytime-wetting products [V6][V7].)*
 - **Margin:** quantified on OEM costs.
 
 

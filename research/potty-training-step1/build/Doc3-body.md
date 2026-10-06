@@ -135,7 +135,7 @@
 **Mechanism status:**
 - The *Big-Kid Hold* is a **working name** for §13.
 - **UMP (draft):** pants are built for a toddler bladder.
-  - Expected bladder capacity ≈ (age + 2) × 30 ml (Koff), so ~120 ml at 2 and ~270 ml at 7 [P55].
+  - Expected bladder capacity ≈ (age + 2) × 30 ml (Koff), so ~120 ml at 2 and ~270 ml at 7 [P55]. (§20B: corrected attribution — the Wake Forest page [P55] gives (age + 2) × 30 with no attribution; the formula the literature calls "Koff's" and ICCS uses is **30 × (age + 1)** (Rittig, J Urol 2010) → 240 ml at 7. Use 30 × (age + 1) in copy, per D3-s9-REWRITE.)
   - Honest brands state 60–90 ml [P49].
   - Reviews: "doesn't hold more that 10-20ml" [C:N205] (VERBATIM 1★); "It might hold like a tablespoon of liquids" [C:N031] (SNIPPET).
   - "because of his size and the amount of liquid output, these leaked very easily" [C:N226] (SNIPPET).
@@ -156,7 +156,7 @@
 ## The One Belief (FINAL)
 > **"This new opportunity — training underwear sized to a big kid's bladder, not a toddler's — is the key to getting through the school day without a soaked outfit or a call home, and it's only attainable through the *Big-Kid Hold*: capacity matched to each size, pour-tested on camera, and printed on the pack."**
 
-**Short form for creative:** "Toddler trainers are a sippy cup. Your big kid needs the *Big-Kid Hold*." (Metaphor from §13.)
+**Short form for creative:** "Toddler trainers are a sippy cup. Your big kid needs the *Big-Kid Hold*." (Metaphor from §13.) (§20B compliance: for Meta use "Big kids need the *Big-Kid Hold*." — "your big kid" + an accident product implies the viewer's child has a condition, §2B.)
 
 **Desire anchor (unchanged, re-counted):** "daycare / school-ready" = **39 of 601** bank, **19 of 225** in segment B, **8 of 79** school-age rows. It's still the segment's #1 desire (cut M). "Dry nights" (43) stays out: it's the night lane we don't serve.
 
@@ -223,7 +223,7 @@ Order unchanged. All six beliefs still hold. Counts updated to the 601-row bank 
   - "these leaked very easily onto his clothes" (size and output) [C:N226] (SNIPPET)
 - **Needed:** the failure had a *cause*, and it isn't the idea itself.
 - **Proof:**
-  - **UMP:** bladder capacity ≈ (age + 2) × 30 ml [P55], against 60–90 ml stated by honest toddler trainers [P49].
+  - **UMP:** bladder capacity ≈ (age + 2) × 30 ml [P55], against 60–90 ml stated by honest toddler trainers [P49]. (§20B: superseded — use the ICCS/Rittig 2010 formula 30 × (age + 1) ml, as in D3-s9-REWRITE; P49 is one UK brand via SNIPPET.)
   - A pour test of a toddler trainer on camera.
   - (§13; CAN CREATE.)
 
@@ -282,7 +282,7 @@ Order unchanged. All six beliefs still hold. Counts updated to the 601-row bank 
 **Quote rule:** quotes are new or referenced by §10 item name.
 
 **Power move — the flaw first, on the PDP and in the first pre-sell:**
-> "These are not diapers. A size 10 holds about **X ml** (we poured it on camera). That's a big-kid accident's worth of time to get to the bathroom, not a flood. If your kid needs a full bladder held, this isn't the product. Here's what is."
+> "These are not diapers. A size 10 holds about **X ml** (we poured it on camera). That's a big-kid accident's worth of time to get to the bathroom, not a flood. If your kid needs a full bladder held, this isn't the product. Here's what is." (§20B compliance: in ads / landing page write "If a kid needs…" — "your kid" + a condition = Meta personal-attributes risk, §2B.)
 
 The honest limit becomes the trust signal (§4B).
 
@@ -445,7 +445,7 @@ This is the authority the **school-age** parent is referred to. It's new in the 
 ## Core Metaphor (for the winning pair)
 > **"A sippy cup under a water bottle."**
 
-Toddler trainers are a sippy cup. A 7-year-old's accident is a water bottle. Pour one into the other and it spills, every time. That isn't your kid failing. It's the cup.
+Toddler trainers are a sippy cup. A 7-year-old's accident is a water bottle. Pour one into the other and it spills, every time. That isn't your kid failing. It's the cup. (§20B compliance: in ads and on the landing page write "That isn't the kid failing" — "your kid failing" implies the viewer's child has accidents = Meta personal-attributes risk, §2B.)
 - Filmable in 10 seconds: pour a kid's water bottle into a toddler trainer, then into ours.
 - Kid-friendly, no body talk, no diagnosis (§2B-safe).
 - It moves blame from the child and parent to the gear (Belief 1 + 3, §9B).
@@ -456,7 +456,7 @@ Toddler trainers are a sippy cup. A 7-year-old's accident is a water bottle. Pou
 **"The toddler-sized hold."** Big-kid training underwear is toddler training underwear in a bigger waistband. The fabric got bigger. The **capacity didn't**.
 
 **Evidence chain:**
-1. **A big kid's bladder holds 2–4× what a toddler trainer is rated for.**
+1. **A big kid's bladder holds 2–4× what a toddler trainer is rated for.** (§20B: CONFIRMED with caveats — formula re-confirmed by Rittig et al., J Urol 2010 (ICCS reappraisal, ics.org PDF): "the universally used formula 30 × (age + 1) ml is indeed valid for a population of healthy Danish children but only if the first morning void is disregarded". It is a 50th-percentile *maximum* voided volume, not an average void. "2–4×" is exact for ages 5–7 and conservative for 8–9 (up to 5×). The toddler side (60–90 ml) is one UK brand via SNIPPET → in ads show our own pour of a bought toddler trainer, don't quote a third-party rating.)
    - Expected bladder capacity, as used in ICCS definitions: **30 × (age + 1) ml** for ages 4–12 [B4][B3]. → age 5 ≈ 180 ml · age 7 ≈ 240 ml · age 9 ≈ 300 ml (DATA, arithmetic).
    - Wake Forest's pediatric urology page uses **(age + 2) × 30 ml**: "For a 5-year-old: (5+2) 30 = 210 ml" [B5] (VERBATIM; upgrades P55).
    - The honest toddler trainers state **"Absorbs 1 Pee (60-90 ml)"** (Bambino Mio) [P49] (SNIPPET).
@@ -483,7 +483,7 @@ Toddler trainers are a sippy cup. A 7-year-old's accident is a water bottle. Pou
 3. **Print it (the number on the pack).** "Size 8 holds __ ml. Not a drop more. We checked." Plus a "**what it won't hold**" box (full bladder, nights) and a pointer to what will.
 
 **Why this separates us:**
-- From the category: nobody in US kids' paid social prints a number (0 of 908 ads [D1-s1]; WH adtext "training underwear ml" = 0, "big kid potty" = 0 [B32]).
+- From the category: nobody in US kids' paid social prints a number (0 of 908 ads [D1-s1]; WH adtext "training underwear ml" = 0, "big kid potty" = 0 [B32]). *(§20B market skeptic: corrected — CARER's US Meta kids' ads state "hidden 100ml leak protection… at school" (live 2026-10-05), and TIICHOO / Carer print 30–80 ml on Amazon/Walmart (work/D1-s2-LOCKED.md [V1][V3][V4]). The mechanism survives in a sharper form: existing numbers are flat across sizes and far below a big kid's expected capacity.)*
 - From cheap lookalikes: MooMoo / BIG ELEPHANT *could* print a number, but a size-9 that holds a tablespoon would indict itself. And they have no creed, kit or guarantee (§4B).
 - From adult leakproof brands: they already prove the pour test sells (Haven "The pour test. Ten tablespoons of water straight in" — 236 active ads on the page [B31]). Nobody has brought it to kids.
 
@@ -518,8 +518,8 @@ Toddler trainers are a sippy cup. A 7-year-old's accident is a water bottle. Pou
 ## Proof list (every mechanism claim → its proof)
 | Claim | Proof type | Status |
 |---|---|---|
-| "A big kid's bladder holds about 2–4× what toddler trainers are rated for" | Study / standard: ICCS formula 30×(age+1) [B4][B3]; Wake Forest (age+2)×30 [B5]; Bambino Mio 60–90 ml [P49] | **HAVE NOW** (cite; SNIPPET on P49 → confirm before live) |
-| "Up to 10% of 5-year-olds have wetting accidents" / "7–10% of 5–13-year-olds" | Study / hospital page [B1][M64][B2] | **HAVE NOW** |
+| "A big kid's bladder holds about 2–4× what toddler trainers are rated for" | Study / standard: ICCS formula 30×(age+1) [B4][B3] + Rittig 2010 J Urol (§20B); Wake Forest (age+2)×30 [B5]; Bambino Mio 60–90 ml [P49] | **HAVE NOW for the formula** (§20B: CONFIRMED). P49 stays SNIPPET (Instagram, unscrapable) → replace the comparator with our own filmed pour before live use |
+| "Up to 10% of 5-year-olds have wetting accidents" / "7–10% of 5–13-year-olds" | Study / hospital page [B1][M64][B2] | **HAVE NOW** (§20B: CONFIRMED — Boston Children's "Up to 10 percent of 5-year-olds are estimated to have problems with wetting accidents"; Lancet Child Adolesc Health 2019 abstract "affects approximately 7-10% of children (aged 5-13 years)"). Third person only in ads (Meta) |
 | "Big-kid sizes on the shelf are toddler pants made bigger" | Spec / listing fact: BIG ELEPHANT 9-10Y "Toddler Potty Training Pants" [B28]; MooMoo "small accidents", no ml [B26] | **HAVE NOW** (show listing screenshots; attack the pattern, don't name brands in ads, §4B) |
 | "Size 8 holds __ ml" (per size) | Demo you can film + lab/QA sheet | **DON'T HAVE → CAN CREATE** after OEM samples. **Gap #1.** |
 | "Re-tested every batch" | Process fact (QA log) | **CAN CREATE** (needs OEM agreement) |
@@ -559,21 +559,21 @@ Done in **work/D3-s9-REWRITE.md** (Writer A's §9 / §9B files are left untouche
 ## The spine (real, verifiable history)
 
 **1 · The struggle before (what big kids were offered)**
-- In 1989 Kimberly-Clark launched Pull-Ups nationally. Parents "wanted a product that a child entering this life stage would associate with 'big kid' underwear", but with "the convenience, practicality and performance of a diaper." K-C's own line: "**The market potential wasn't in diapers.**" [P65] (VERBATIM). The slogan: "I'm a big kid now!" [P71] (SNIPPET).
-- So the first "big-kid" product was a diaper with an underwear story.
+- In 1989 Kimberly-Clark began a national rollout of Pull-Ups, "blanketing one-third of the country over a three-year period" [P65] (§20B: corrected — was "launched Pull-Ups nationally"; K-C PDF re-read 2026-10-06). Parents "wanted a product that a child entering this life stage would associate with 'big kid' underwear", but with "the convenience, practicality and performance of a diaper." K-C's own line: "**The market potential wasn't in diapers.**" [P65] (VERBATIM). The slogan: "I'm a big kid now!" [P71] (§20B: upgraded to VERBATIM — K-C's own PDF [P65]: kids "define their experience as 'I'm a big kid now.' So we trademarked the whole line").
+- So the first "big-kid" product was a diaper with an underwear story. (INFERENCE — our reading of K-C's own words; fine as opinion, not as a quoted fact.)
 
 **2 · The turning point (1998–99): a bigger diaper for bigger kids**
-- In January 1999, America's best-known child-led pediatrician, T. Berry Brazelton, was "the spokesman for the new size 6 Pampers disposable diaper, which stretches the frontiers of diaperdom to kids over 35 pounds." [P1] (VERBATIM, collector's scrape)
+- By late 1998 / January 1999, T. Berry Brazelton, one of America's best-known pediatricians (§20B: corrected — was "In January 1999, America's best-known child-led pediatrician"; the TV commercial was already running in Dec 1998 per the Baltimore Sun; "best-known" superlative is unprovable), was "the spokesman for the new size 6 Pampers disposable diaper, which stretches the frontiers of diaperdom to kids over 35 pounds." [P1] (VERBATIM (§20B: re-confirmed VERBATIM via Firecrawl scrape 2026-10-06; the Baltimore Sun of 1998-12-13 already reports the Pampers size-6 commercial — https://www.baltimoresun.com/1998/12/13/training-issues-are-looming-large-diapers-manufacturers-are-producing-bigger-disposables-for-children-who-have-outgrown-conventional-sizes-but-are-not-yet-using-the-potty/))
 - He'd "approached Pampers with the idea of the size 6 diaper", because he felt "pressures to train early are resurfacing". [P1]
 - TIME called him "chairman of the Pampers Parenting Institute". His critics said the tie to "a supersize disposable diaper for children 35 lbs. or larger, stinks." [P9] (VERBATIM)
 - **Fair to him (must stay in):** his advice was the same long before Pampers [P9]. He wanted less pressure on kids ("it's the child's deal" [P1]). He was right about the pressure. The *answer* the industry built was the problem: **when kids took longer, they got a bigger diaper, not real underwear that could hold a big kid's accident.**
 
 **3 · What happened next (the gap that stayed open)**
-- 27 years later, the big sizes on the shelf are still labelled for toddlers. A 9-10Y pack sells as "Toddler Potty Training Pants" [B28]; a 2T-9Y line promises only "small accidents", with no number [B26].
-- A big kid's bladder holds 2–4× what toddler trainers are rated for: expected capacity 30 × (age + 1) ml [B4] vs "Absorbs 1 Pee (60-90 ml)" [P49]. The pants got bigger. The hold didn't (§13 UMP).
+- Nearly 30 years later (1998 → 2026) (§20B: corrected — was "27 years later"), the big sizes on the shelf are still labelled for toddlers. A 9-10Y pack sells as "Toddler Potty Training Pants" [B28]; a 2T-9Y line promises only "small accidents", with no number [B26].
+- A big kid's bladder holds 2–4× what toddler trainers are rated for: expected capacity 30 × (age + 1) ml [B4] vs "Absorbs 1 Pee (60-90 ml)" [P49]. (§20B: formula CONFIRMED — Rittig et al., J Urol 2010, "the universally used formula 30 × (age + 1) ml is indeed valid" for healthy children's daytime max voided volume; "2–4×" holds for ages 5–7 and is conservative at 8–9 (up to 5×). The 60–90 ml comparator is ONE UK brand via an Instagram SNIPPET — in ads, use our own filmed pour of a bought toddler trainer instead of a named rating.) The pants got bigger. The hold didn't (§13 UMP).
 
 **4 · The "discovery" (our part, told honestly)**
-- The idea is not new science. It's **the obvious question nobody printed an answer to: how much does it hold, in *this* size?**
+- The idea is not new science. It's **the obvious question the mainstream big-kid trainers don't print an answer to: how much does it hold, in *this* size?** (§20B: corrected — was "nobody printed"; Super Undies (150–300 ml), Peejamas ("up to 4 ounces") and Snazzipants do state capacity, so "nobody" is false.)
 - **[FOUNDER: fill with the real story** — e.g. the first time you poured a kid's water bottle into a toddler trainer and filmed it. Use only what actually happened, with dates.]
 - Then: the *Big-Kid Hold* — size it, pour it, print it (§13).
 
@@ -586,11 +586,12 @@ Done in **work/D3-s9-REWRITE.md** (Writer A's §9 / §9B files are left untouche
 - **The relief she wants:** "i can go to sleepover and no one knows" [C:S235] (VERBATIM)
 
 ## Story in one paragraph (draft for the advertorial; facts only)
-> In 1989, the first "big kid" pants were diapers with an underwear story. In 1999, when kids were taking longer, the fix was a **size 6 diaper for kids over 35 pounds**, launched by the most famous child-led pediatrician in America. He meant well. He wanted less pressure on kids. But for the next 27 years, big kids still getting there got one of two things: a bigger diaper, or toddler pants in a bigger size that hold a toddler's pee. Nobody printed the one number a parent needs: how much it holds, in her kid's size. So we did. **[FOUNDER beat.]** That's the *Big-Kid Hold*.
+> In 1989, the first "big kid" pants were diapers with an underwear story. In 1998, when kids were taking longer, the fix was a **size 6 diaper for kids over 35 pounds**, promoted on TV by one of America's best-known pediatricians. He meant well. He wanted less pressure on kids. But for nearly 30 years since, big kids still getting there have mostly been offered one of two things: a bigger diaper, or toddler pants in a bigger size that hold a toddler's pee. The big-kid sizes on the shelf still don't print the one number a parent needs: how much it holds, in her kid's size. So we did.
+> *(§20B: corrected — was "In 1999 … launched by the most famous child-led pediatrician in America … for the next 27 years … Nobody printed the one number". He was the spokesman, not the launcher; the ad ran from 1998; "nobody" is false — a few niche brands state ml.)* **[FOUNDER beat.]** That's the *Big-Kid Hold*.
 
 ## Fact-check flags for §20 B
-- [P1] Tampa Bay text: re-fetch this run returned page chrome only. **Confirm the two quoted lines in a browser** before live use (the "2½" figure in that article is garbled; it's not used here).
-- [P71] slogan is a Wikipedia snippet: confirm against a K-C source or an archived ad.
+- [P1] Tampa Bay text: **§20B: RESOLVED — both quoted lines re-confirmed VERBATIM via Firecrawl scrape 2026-10-06.** (The "90 percent … by 2½ / 22 percent now" line in that article stays out: garbled, and inconsistent with Brazelton 1962's reported mean of 28.5 months [P4].)
+- [P71] slogan: **§20B: RESOLVED — K-C's own PDF [P65] says the line was trademarked.**
 - Don't use Brazelton's photo or imply he'd endorse us (§2B; INFERENCE on rights).
 
 ## So What → do this
@@ -787,7 +788,7 @@ Done in **work/D3-s9-REWRITE.md** (Writer A's §9 / §9B files are left untouche
 
 **16 · OEKO-TEX / "no intentionally added PFAS"** ⚠️ WEAK without certificates
 - **Seen in:** MooMoo "OEKO-TEX" in title [B26]; BrightKidCo "Free from PFAS and harsh chemicals" [B18].
-- **Flag:** OEKO-TEX needs the certificate number; "PFAS-free / no chemicals" is a forbidden phrasing — only "no intentionally added PFAS" with a declaration (§2B [M62]). Don't print until held.
+- **Flag:** OEKO-TEX needs the certificate number **and** the testing institute on the label (§20B: CONFIRMED — OEKO-TEX FAQ: "A STANDARD 100 label is only valid if an actually issued test number and responsible testing institute are shown on it", https://www.oeko-tex.com/fileadmin/user_upload/Marketing_Materialien/STANDARD_100/FAQs/FAQ_STANDARD_100_EN_ES_01.2019.pdf). "No chemicals" is false on its face. "PFAS-free" is **not legally banned** (§20B: corrected — was "a forbidden phrasing"): FTC Green Guides 16 CFR 260.9 allow a free-of claim only at trace/background level, substantiated (https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-260/section-260.9), so it is high-risk without test data. Preferred: "no intentionally added PFAS" with a supplier declaration **plus** a total-organic-fluorine test under California's limit (100 ppm now, 50 ppm from 1 Jan 2027) (§2B [M62]). Don't print until held.
 
 **17 · Tracking label + batch code printed on the pair** ✅ (legal requirement, §2B [M50])
 - **Benefit:** links each pair to its pour-test batch — the number is traceable. Turns a legal chore into proof.
@@ -845,16 +846,16 @@ Base: the verified history in research-persuasion.md §3 [P-tags], re-checked fo
 - Hook use: "A tribe that had kids dry at 6 months. What did they know?" **Caution:** don't imply early training is better for *our* kid or claim health benefits [P74].
 
 **L2 · Vietnam's whistle (correctly stated)** — CONFIRMED
-- Duong et al. 2013: "The mothers used a whistling sound at certain times to remind their children to eliminate… all children used the potty by the age of 9 months. At the age of 24 months the potty training was completed" [P60] (VERBATIM). 98% complete at 24 months vs 5% of Swedish children who had even *started* daily training by 24 months [P61] (VERBATIM).
+- Duong et al. 2013: "The mothers used a whistling sound at certain times to remind their children to eliminate… all children used the potty by the age of 9 months. At the age of 24 months the potty training was completed" [P60] (VERBATIM). 98% complete at 24 months vs 5% of Swedish children who had even *started* daily training by 24 months [P61] (VERBATIM). (§20B: CONFIRMED — two different papers: whistle + "by 9 months" = PMID 23182948; 98% vs 5% = PMID 23759503, n = 47 Vietnamese vs 57 Swedish children. Cite them separately.)
 - **Never** say "the average Vietnamese child is trained at 9 months" (UpAiry's misleading wording, research-persuasion §0.3).
 - Hook use: "A whistle, not a product." (A cue, i.e. routine; it supports "reminders", not a gadget claim.)
 
 **L3 · Grandma's "bladder drill" and the nap-dry cue (Belgium, ~1940–2000)** — CONFIRMED
 - Bakker & Wyndaele 2000, *BJU Int* (3 generations, 812 children): "Training by bladder drill, formerly widely used, was progressively abandoned"; "good concordance between the programmes currently proposed for treating bladder dysfunction in children and the traditional bladder-training methods used by parents 60 years ago" [P5] (VERBATIM) — https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1046/j.1464-410x.2000.00737.x
-- Hook use: "What your grandmother did that pediatric urologists now prescribe." (Timed toilet trips. No "prevents dysfunction" claim.)
+- Hook use: "What grandma did that bladder programmes use again today." (Timed toilet trips. No "prevents dysfunction" claim.) (§20B: corrected — was "What your grandmother did that pediatric urologists now prescribe"; the paper says only "good concordance" with programmes "currently proposed for treating bladder dysfunction" — "prescribe" overstates it, and tying a treatment to our product is a §2B health claim. Abstract re-confirmed, Europe PMC PMID 10930924.)
 
 **L4 · Azrin & Foxx, "Toilet Training in Less Than a Day" (1971 → 1974)** — CONFIRMED (book sales SNIPPET)
-- 1971 *JABA*: incontinence "reduced immediately by about 90%" in institutionalized adults, using "automatic apparatus for signalling elimination" [P62] (VERBATIM) — https://doi.org/10.1901/jaba.1971.4-89. The 1974 book "sold more than three million copies" [P64] (SNIPPET).
+- 1971 *JABA*: incontinence "reduced immediately by about 90%" in institutionalized adults, using "automatic apparatus for signalling elimination" [P62] (VERBATIM) — https://doi.org/10.1901/jaba.1971.4-89. The 1974 book "sold more than three million copies" [P64] (§20B: upgraded — NYT obituary of Nathan Azrin, 2013-04-16: "That book, 'Toilet Training in Less Than a Day,' sold more than three million copies" https://www.nytimes.com/2013/04/16/health/nathan-azrin-behavioral-psychologist-dies-at-82.html, SNIPPET).
 - **Fit:** weak for us. It's the grandfather of the speed promise (the enemy). Use only as "the 1-day idea started in 1971 with adults in an institution".
 
 **L5 · Cloth training pants were the norm before 1989** — CONFIRMED
@@ -870,14 +871,14 @@ Base: the verified history in research-persuasion.md §3 [P-tags], re-checked fo
 ## Type 2 · Corruption / "Fall from Eden" (6 candidates)
 
 **C1 · Brazelton × Pampers size 6 (1998–99): the industry's answer to bigger kids was a bigger diaper** — CONFIRMED (3 independent 1999 sources)
-- Tampa Bay Times, 6 Jan 1999: "Brazelton is the spokesman for the new size 6 Pampers disposable diaper, which stretches the frontiers of diaperdom to kids over 35 pounds."; "Brazelton felt so strongly that pressures to train early are resurfacing that he approached Pampers with the idea of the size 6 diaper." [P1] (VERBATIM in collector's scrape; a re-fetch this run returned only page chrome, so the text was not re-confirmed) — https://www.tampabay.com/archive/1999/01/06/parents-cheer-for-diaper-change/
+- Tampa Bay Times, 6 Jan 1999: "Brazelton is the spokesman for the new size 6 Pampers disposable diaper, which stretches the frontiers of diaperdom to kids over 35 pounds."; "Brazelton felt so strongly that pressures to train early are resurfacing that he approached Pampers with the idea of the size 6 diaper." [P1] (VERBATIM (§20B: re-confirmed VERBATIM via Firecrawl scrape 2026-10-06; the Baltimore Sun of 1998-12-13 already reports the Pampers size-6 commercial — https://www.baltimoresun.com/1998/12/13/training-issues-are-looming-large-diapers-manufacturers-are-producing-bigger-disposables-for-children-who-have-outgrown-conventional-sizes-but-are-not-yet-using-the-potty/)) — https://www.tampabay.com/archive/1999/01/06/parents-cheer-for-diaper-change/
 - TIME, 25 Jan 1999: Brazelton is "chairman of the Pampers Parenting Institute"; critics said his affiliation with Pampers, "which is pushing a supersize disposable diaper for children 35 lbs. or larger, stinks." [P9] (VERBATIM) — https://time.com/archive/6734449/war-of-the-diapers/
 - NYT, 12 Jan 1999: "Dr. Brazelton advises in a television commercial for Pampers size-6 diapers, suitable for children 35 pounds and over" [P70] (SNIPPET; blocked) — https://www.nytimes.com/1999/01/12/us/two-experts-do-battle-over-potty-training.html
 - **Fairness note (must carry):** Brazelton's child-led work (1962) predates Pampers. His stated motive was to reduce pressure ("it's the child's deal"). TIME: critics "acknowledge that Brazelton was giving the same advice long before he and Pampers hooked up" [P9]. Frame it as **an industry that profited from a good idea stretched**, not a bribed villain.
 - **Fit:** the strongest for the locked market. A big kid still learning got a bigger *diaper*, not big-kid underwear. That's the "toddler-ized industry" enemy at its origin.
 
 **C2 · Kimberly-Clark's Pull-Ups (1989): a diaper sold as "big kid" underwear** — CONFIRMED
-- "Parents wanted a product that a child entering this life stage would associate with 'big kid' underwear, and that parents would also embrace as having the convenience, practicality and performance of a diaper."; "The market potential wasn't in diapers. Parents didn't want to perpetuate the diapering stage." [P65] (VERBATIM) — K-C PDF above. Slogan "I'm a big kid now!" [P71] (SNIPPET) — https://en.wikipedia.org/wiki/Huggies_Pull-Ups
+- "Parents wanted a product that a child entering this life stage would associate with 'big kid' underwear, and that parents would also embrace as having the convenience, practicality and performance of a diaper."; "The market potential wasn't in diapers. Parents didn't want to perpetuate the diapering stage." [P65] (VERBATIM) — K-C PDF above. Slogan "I'm a big kid now!" [P71] (§20B: upgraded to VERBATIM — K-C's own PDF says it "trademarked the whole line") — https://en.wikipedia.org/wiki/Huggies_Pull-Ups. (§20B note: the 1989 "national rollout" covered "one-third of the country over a three-year period" [P65] — say "began rolling out in 1989", not "launched nationwide in 1989".)
 - Fit: strong. "Big kid" was a diaper's marketing line.
 
 **C3 · Two curves that moved together: disposables up, training age up** — CONFIRMED as correlation only
@@ -889,12 +890,12 @@ Base: the verified history in research-persuasion.md §3 [P-tags], re-checked fo
 
 **C5 · NEW · The school bathroom squeeze: kids are taught to hold it** — CONFIRMED (US study)
 - Cooper et al., *J Urol* 2003 (467 Iowa elementary teachers): "Eighty percent of respondents reported set times for student bathroom breaks… One-third asked a child requesting a break in the middle of class to wait."; "Only 18% of respondents reported receiving information about abnormal voiding or stooling."; conditions "appear to become significantly worse following kindergarten." [B8] (VERBATIM abstract) — https://pubmed.ncbi.nlm.nih.gov/12913750/
-- UK echo: ERIC's "Right to Go" survey of 1,132 young people: nearly half "were not allowed to use the toilet during lessons", a quarter "scared to use the toilets at school", 36.65% avoid drinking water [B9] (SNIPPET; page 403'd) — https://eric.org.uk/news/desperate-to-go-young-people-struggling-to-access-toilets-at-school/
+- UK echo: ERIC's "Voices for change" survey (§20B: corrected — was "Right to Go" survey; run Nov 2023–Jan 2024 by ERIC's Young Champions, aged 12–19) of 1,132 young people: 47.73% "not allowed to go to the toilet during lessons", 24.18% "felt scared to use the toilets", 36.65% "avoid drinking water so they don't need the toilet" [B9] (§20B: VERBATIM via Firecrawl 2026-10-06). **UK, mostly secondary-age, not 5–9: context only, never in US ad copy.** — https://eric.org.uk/news/desperate-to-go-young-people-struggling-to-access-toilets-at-school/
 - Parent voice: "My daughter is scared to ask to go to the bathroom at school (6yrs" [C:N311] (SNIPPET).
 - **Fit:** strong and school-specific, but the outside force is the *school*, and we sell to parents who need teachers on side. Use as **context** ("big kids are told to hold it — no wonder accidents are bigger"), never as an attack on teachers. No claim that our product fixes it.
 
 **C6 · The misquoted 1957 stat (corrupting the record to sell speed)** — CONFIRMED
-- Sears, Maccoby & Levin, *Patterns of Child Rearing* (1957), as read by Seim 1989: **"92% of children STARTED toilet training [before 18 months] and 60% had completed training"** [P2] (VERBATIM) — https://cdn-uat.mdedge.com/files/s3fs-public/jfp-archived-issues/1989-volume_28-29/JFP_1989-12_v29_i6_toilet-training-in-first-children.pdf
+- Sears, Maccoby & Levin, *Patterns of Child Rearing* (1957), as read by Seim 1989 (§20B: CONFIRMED in the Seim PDF, which says "Sears et al reported data from **1947**" — so date it "a 1957 book" or "1940s data", never "in 1957, 92%…"; it's a secondary reading of the book, so keep it off the ad and on the page with the citation): **"92% of children STARTED toilet training [before 18 months] and 60% had completed training"** [P2] (VERBATIM) — https://cdn-uat.mdedge.com/files/s3fs-public/jfp-archived-issues/1989-volume_28-29/JFP_1989-12_v29_i6_toilet-training-in-first-children.pdf
 - The misquote "92% … were potty trained by 18 months" runs in UpAiry's 283-day ad and copycats [P75][§8].
 - Fit: a "they lied to you" angle that proves our honesty creed. **Never** repeat the misquote, even to debunk it in a hook (people remember the number). Say the accurate version.
 
