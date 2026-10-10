@@ -1,4 +1,4 @@
-# IRYN · Kling 3.0 Talking Prompts · Format 2 + Format 3 (all 6 ads)
+# IRYN · Kling 3.0 Talking Prompts · Format 2 + Format 3 (remaining 46 clips)
 
 **Every clip:** Kling 3.0 · Image to Video · 9:16 · 720p (std) · Sound ON · start image = the file named on the clip.
 
@@ -12,42 +12,9 @@
 
 > phone in frame, text, captions, subtitles, watermark, logo, morphing face, face changing, extra fingers, warped hands, plastic skin, silent pauses
 
-**Total:** 56 clips · 293s · about 590 credits.
-
-## Format 2 · Ad 1 · Normal Bloodwork (kitchen mum)
-
-**F2-1-01** · 02_SF-V22-A.png · **3s**
-> Arm's-length selfie video, eye level, slight natural handheld movement, morning kitchen light. 0 to 0.2s: she looks into the lens. 0.2 to 2.0s: she says, frustrated but steady, normal talking pace: "Her bloodwork said normal." 2.0 to 3s: her mouth closes. She talks the whole clip. Natural American mum voice, mid-40s, same woman and room as the start image.
-
-**F2-1-02** · 11_SF-V22-B.png · **5s**
-> Static phone propped low on the counter, off to her side; she leans on the island; the camera does not move. 0 to 0.2s: she looks into the lens. 0.2 to 4.0s: she says, frustrated but steady, normal talking pace: "But the daily problem at home was still there." 4.0 to 5s: her mouth closes. She talks the whole clip. Natural American mum voice, mid-40s, same woman and room as the start image.
-
-**F2-1-03** · 12_SF-V22-C.png · **8s**
-> Close-up selfie video, very slow push-in, soft window light. 0 to 0.2s: she looks into the lens. 0.2 to 7.2s: she says, frustrated but steady, normal talking pace: "I still could not get her to take an iron tablet without it turning into a fight." 7.2 to 8s: her mouth closes. She talks the whole clip. Natural American mum voice, mid-40s, same woman and room as the start image.
-
-**F2-1-04** · 02_SF-V22-A.png · **6s**
-> Arm's-length selfie video, eye level, slight natural handheld movement, morning kitchen light. 0 to 0.2s: she looks into the lens. 0.2 to 5.2s: she says, frustrated but steady, normal talking pace: "We spoke with her healthcare professional about the questions we still had," 5.2 to 6s: her mouth closes. She talks the whole clip. Natural American mum voice, mid-40s, same woman and room as the start image.
-
-**F2-1-05** · 11_SF-V22-B.png · **4s**
-> Static phone propped low on the counter, off to her side; she leans on the island; the camera does not move. 0 to 0.2s: she looks into the lens. 0.2 to 3.2s: she says, frustrated but steady, normal talking pace: "including ferritin, which is an iron-storage marker." 3.2 to 4s: her mouth closes. She talks the whole clip. Natural American mum voice, mid-40s, same woman and room as the start image.
-
-**F2-1-06** · 12_SF-V22-C.png · **5s**
-> Close-up selfie video, very slow push-in, soft window light. 0 to 0.2s: she looks into the lens. 0.2 to 4.0s: she says, frustrated but steady, normal talking pace: "Then we found the part we could make easy:" 4.0 to 5s: her mouth closes. She talks the whole clip. Natural American mum voice, mid-40s, same woman and room as the start image.
-
-**F2-1-07** · 02_SF-V22-A.png · **5s**
-> Arm's-length selfie video, eye level, slight natural handheld movement, morning kitchen light. 0 to 0.2s: she looks into the lens. 0.2 to 4.0s: she says, frustrated but steady, normal talking pace: "a raspberry iron strip that melts on her tongue." 4.0 to 5s: her mouth closes. She talks the whole clip. Natural American mum voice, mid-40s, same woman and room as the start image.
-
-**F2-1-08** · 11_SF-V22-B.png · **4s**
-> Static phone propped low on the counter, off to her side; she leans on the island; the camera does not move. 0 to 0.2s: she looks into the lens. 0.2 to 3.6s: she says, frustrated but steady, normal talking pace: "IRYN is nineteen milligrams, one strip a day." 3.6 to 4s: her mouth closes. She talks the whole clip. Natural American mum voice, mid-40s, same woman and room as the start image.
-
-**F2-1-09** · 12_SF-V22-C.png · **5s**
-> Close-up selfie video, very slow push-in, soft window light. 0 to 0.2s: she looks into the lens. 0.2 to 4.0s: she says, frustrated but steady, normal talking pace: "See the ingredients and the $20 USD first-order offer." 4.0 to 5s: her mouth closes. She talks the whole clip. Natural American mum voice, mid-40s, same woman and room as the start image.
-
+**Total:** 46 clips · 243s · about 490 credits. (The 10 already-made clips, F2-1-01 to F2-1-09 and F2-2-01, are removed.)
 
 ## Format 2 · Ad 2 · Not Herself (blue mum)
-
-**F2-2-01** · 01_SF-V21-A.png · **5s**
-> Arm's-length selfie video, eye level, slight natural handheld movement, warm living-room light. 0 to 0.2s: she looks into the lens. 0.2 to 4.4s: she says, quiet and honest, normal talking pace: "I thought I was losing her to her teenage years." 4.4 to 5s: her mouth closes. She talks the whole clip. Natural American mum voice, mid-40s, same woman and room as the start image.
 
 **F2-2-02** · 05_SF-V21-B.png · **5s**
 > Static phone propped low on the coffee table, off to her side; the camera does not move. 0 to 0.2s: she looks into the lens. 0.2 to 4.4s: she says, quiet and honest, normal talking pace: "She came home, went quiet, and fell asleep before dinner." 4.4 to 5s: her mouth closes. She talks the whole clip. Natural American mum voice, mid-40s, same woman and room as the start image.
