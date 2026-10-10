@@ -1,5 +1,7 @@
 # IRYN — Start Frames + Kling 3.0 Prompts (Video 2 · all 3 variants, Video 3·1 beat)
 
+> SUPERSEDED: use `kling-i2v-prompts-FINAL.md` (tied to the 22 approved start images). Kept for history only.
+
 Only the AI shots are here: the mum talking heads. Every b-roll scene is real footage, so it gets no prompt.
 Spoken lines are your script, word for word. Nothing in the copy changed.
 
