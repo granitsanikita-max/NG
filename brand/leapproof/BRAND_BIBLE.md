@@ -197,3 +197,20 @@ Meta ad ("own the moment") → Quiz LP → **"The 60-Second Leak-Test"** (15 que
 6. **Subscription cadence.** "Replace every ~6 months" vs a 3-pack every 90 days = 12 pairs a year. Expect churn and chargebacks. Consider a 120–180-day default.
 7. **Doc 9 updates pending.** Doc 4's Funnel Map and Doc 1 §5/§7 still describe the advertorial funnel instead of the quiz.
 8. COGS are still modeled. Re-run Pre-0 when a real landed quote arrives.
+
+## 17. Visual identity (locked 2026-10-10)
+
+**Logo:** wordmark `leapproof` (lowercase, Archivo 800, "leap" solid / "proof" lighter) + a leap mark = an upward arc launching off a takeoff dot, inside a rounded ink tile. Mark alone = app icon / favicon. Preview artifact: https://claude.ai/artifact/R4aFgepYnM8ie91x79e32g
+
+**Palette:**
+| Token | Hex | Use |
+|---|---|---|
+| Court Ink | `#0E141A` | primary — text, headers, mark tile |
+| Leap Green | `#10DC7D` | hero accent — buttons, mark, highlights (ONE pop per screen) |
+| Chalk | `#F7F5EF` | warm off-white background |
+| Steel | `#5A6B73` | secondary text, captions, borders |
+| Deep Green | `#0BA862` | green TEXT on light (bright green fails contrast as type) |
+
+**Type:** Display = Archivo (700/800). Body = Hanken Grotesk. Both Google Fonts.
+
+**Rules:** green is a pop not a wall (one thing per screen); never beige/nude/lavender (the category look we attack); photography is motion (mid-jump/run/start-line, shot like athletic wear, never seated/hidden); wordmark stays lowercase.
