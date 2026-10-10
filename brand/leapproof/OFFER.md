@@ -7,36 +7,34 @@ Why no single: one pair carries the worst COGS/shipping ratio (CJ $6.40/pair vs 
 
 | Tier | Name | Price | /pair | Saving vs Starter rate | Includes |
 |---|---|---|---|---|---|
-| 3 | **The Starter Set** | $69 | $23.00 | — (the per-pair anchor) | Free shipping · Wash Bag · 60-Night Leak-Test |
-| **5** | **The Everyday Rotation** ⭐ MOST POPULAR | **$89** | **$17.80** | Save $26 (23%) | Free shipping · Wash Bag · Comeback Band · **The Comeback Plan** |
-| 10 | **The Two-Week Rotation** 💎 BEST VALUE | $159 | $15.90 | Save $71 (31%) | Everything in the Everyday Rotation + free Express shipping + **$20 Refresh Credit** |
+| 3 | **The Starter Set** | $69 | $23.00 | — (the per-pair anchor) | Free shipping · Seal-Saver Wash Bag · Prove-It Pour Test · 60-Night Leak-Test |
+| **5** | **The Everyday Rotation** ⭐ MOST POPULAR | **$89** | **$17.80** | Save $26 (23%) | Everything in Starter + **The Comeback Plan** |
+| 10 | **The Two-Week Rotation** 💎 BEST VALUE | $159 | $15.90 | Save $71 (31%) | Everything in Everyday + a free **Big-Day pair** (heavy/overnight tier, 11 pairs total) |
 
 - **Honest anchors:** every saving is maths off the $23/pair Starter rate we actually charge. No fake compare-at prices.
 - **Mix your rotation:** mix absorbency tiers and cuts inside any bundle. The quiz pre-fills it.
-- **Quiz routing:** light / "just testing" → 3 · moderate / every day → 5 · heavy, daily workouts, "barely think about laundry" → 10. The reveal pre-selects ONE.
-- **10-pack logic:** "a fresh pair every day for two weeks, one laundry run."
-- **Positioning:** hero $17.80/pair = above the clones/Everdries ($8–13, zero trust) and well below Knix/Thinx/Saalt ($20–47). Ads lead with "5 pairs for $89", never the per-pair Starter rate.
-- **vs pads:** a year of pads ≈ $146. The Everyday Rotation is $89, once.
+- **Quiz routing:** light / "just testing" → 3 · moderate / every day → 5 · heavy, daily workouts, "barely think about laundry" → 10.
+- **Positioning:** hero $17.80/pair = above the clones/Everdries ($8–13) and below Knix/Thinx/Saalt ($20–47). Ads lead with "5 pairs for $89".
 
-## 2. Gifts
+## 2. Gifts — RULE: every gift must kill a specific objection
 
-| Gift | Landed | Stated value* | Tier |
-|---|---|---|---|
-| Leak-Lock Wash Bag: zip mesh laundry bag, ~30×40 to 40×50cm, fine mesh, covered zip, Leapproof logo (no generic icon), brand color | ~$1.00 | $12 | 3+ |
-| **Comeback Band**: fabric mini resistance loop band, Leapproof logo. The band the Comeback Plan's exercises use (bridges, clamshells, squats) | ~$1–2 (latex 3-set ~$0.50) | $15 | 5+ |
-| **The Comeback Plan**: 28-day return-to-sport pelvic-floor program, co-created with a real named pelvic-floor PT | $0/unit (one-time PT fee ~$500–1.5k) | $49 | 5+ |
-| Express shipping | ~$2–3 | $9 | 10 |
-| $20 Refresh Credit (next order, valid 6 months) | $0 now; only costs money when she buys again | $20 | 10 |
+No gift ships unless it answers an objection from the data bank and moves her closer to buying.
 
-\*Only state a value if the item is genuinely sold standalone at that price (FTC). The Comeback Plan is an exercise guide, not a treatment: no cure claims, PT disclosed.
+| Gift | Tier | Objection it kills (data-bank count) | How it's framed | Landed |
+|---|---|---|---|---|
+| **Prove-It Pour Test**: graduated measuring cup (~50ml), test instructions on the cup/email | 3+ | **#1 "It'll leak through like the others" (20) + "it's a scam / I fell for the marketing" (46 burned)** | "Don't trust us. Test us. Pour it in, shake it, check the sides — before you ever wear them out." Proof she runs herself; the physical twin of the published lab test + 60-Night Leak-Test | ~$0.10–0.30 |
+| **Seal-Saver Wash Bag**: zip mesh bag, Leapproof logo, brand colour, covered zip, care label | 3+ | **"They stop working after a few washes / quality declines" (6 + "basically became regular underwear")** | "Keeps the Leak-Lock seal and core intact wash after wash" | ~$1.00 |
+| **The Comeback Plan**: 28-day return-to-sport pelvic-floor program, co-created with a real named pelvic-floor PT | 5+ | **Habit/identity: "It's normal, I'll just live with it" + "leak underwear = admitting I'm old/broken" + "I should fix it, not hide it"** (belief chain #1 and #4; PT = #1 authority) | "Common, not normal. Wear these while you rebuild. They're your comeback gear, not a life sentence." | $0/unit (one-time PT fee) |
+| **Big-Day pair**: one extra pair in the heaviest tier | 10 | **"Still need a pad" (6) + "doesn't absorb enough / leaks at night" (8)** | "For the big days, the long runs and the nights. No backup pad, ever." | CJ ~$2.60 / Lynmiss ~$9–12 |
 
-**Value stacks shown on the reveal/PDP:**
-- Starter: 3 pairs + Wash Bag + shipping = $87 value → **$69**
-- Everyday Rotation: 5 pairs ($115) + Bag + Band + Plan + shipping = **$197 value → $89**
-- Two-Week Rotation: 10 pairs ($230) + Bag + Band + Plan + Express + $20 credit = **$335 value → $159**
+Cut (no objection solved): Gym-Bag Spare Pouch, Comeback Band, Express shipping. The $20 Refresh Credit moves to the post-purchase retention flow (it's a retention tool, not a purchase gift).
+Printed insert card: deferred until sales start; Prove-It test instructions + Comeback Plan + care info go by email (plus printed on the cup/bag label).
+⚠️ Prove-It Pour Test only ships once we're on the product that actually passes it (Lynmiss, with our own ml test). On the CJ period panty it would expose the product: don't include it in Phase 1.
+FTC: only state a $ value for an item sold standalone at that price (Wash Bag $12, Comeback Plan $49, Big-Day pair $23). Present the Pour Test as "included", with no $ value.
 
-Printed insert card: deferred until sales start. Deliver the Comeback Plan + care info by email instead.
-Sourcing: source the bag + band through CJ (private inventory) so they ship in the same parcel as CJ orders.
+**Value stacks:** Starter: 3 pairs ($69) + Wash Bag ($12) + Pour Test + shipping = $87+ value → $69 · Everyday: 5 pairs ($115) + Bag + Plan ($49) + Pour Test + shipping = $182 value → $89 · Two-Week: 11 pairs ($253) + Bag + Plan + Pour Test + shipping = $320 value → $159
+
+Sourcing: source the bag + cup through CJ private inventory so they ship in the same parcel.
 
 ## 3. Risk reversal
 
@@ -45,7 +43,7 @@ Sourcing: source the bag + band through CJ (private inventory) so they ship in t
 
 ## 4. Upsells
 
-- **Cart progress meter:** on a 3-pack: "Add 2 more pairs for $20 → unlock the Comeback Band + Plan". Pushes 3 → 5.
+- **Cart progress meter:** on a 3-pack: "Add 2 more pairs for $20 → unlock the Comeback Plan". Pushes 3 → 5.
 - **Order bump:** Overnight / Heavy-Day pair, $19, same box.
 - **Shipping protection:** $2.95 opt-in, never pre-ticked.
 - **Post-purchase 1-click:** "+3 pairs to the same box — $49 ($16.33/pair)", routed by quiz answer (Heavy tier for nights/heavy, Training cut for workouts). Downsell: the Overnight pair for $17.
@@ -54,7 +52,7 @@ Sourcing: source the bag + band through CJ (private inventory) so they ship in t
 
 ## 5. First-order pop-up
 
-Question first ("What do you want to stop thinking about?") → **$10 off the Everyday or Two-Week Rotation**. Ad number: **"5 pairs + the Comeback Band + Plan + Wash Bag for $79."**
+Question first ("What do you want to stop thinking about?") → **$10 off the Everyday or Two-Week Rotation**. Ad number: **"5 pairs + the Comeback Plan + Wash Bag for $79 — and we send you the test."**
 
 ## 6. Unit economics
 
