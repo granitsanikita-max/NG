@@ -162,28 +162,28 @@ Attach to all: **face** = brunette "MAMA" tank selfie · **room** = white kitche
 
 # VIDEO 2 · VARIANT 3 — SPORT (`@MUM_SPORT`, parked car at the track)
 
-**Setting:** all V2·3 talking happens in the driver's seat of her parked car at the school track. The track and bleachers are visible through the side window, so both of your refs go into one consistent location.
+**Setting:** all V2·3 talking happens in the driver's seat of her car, parked in the school parking lot beside the track. Across the lot, behind a chain-link fence, the track and bleachers are visible through the side window, so both of your refs go into one consistent location.
 
 ## Start frames (Higgsfield · Nano Banana Pro · 9:16 · 2K)
 Attach to all: **face** = new gym mum selfie · **car** = beige car interior photo · **outside** = track and bleachers photo.
 
 **SF-V23-HOOK** · + curly-blonde selfie (framing)
-> Vertical smartphone front-camera frame, tilted about 10 degrees and low, as if the phone is being clipped onto the dashboard. The woman from the face reference, about 40, fit and athletic, auburn-brown hair in a low ponytail, bright friendly face with natural skin and fine lines, wearing a plain dark-navy zip-up team hoodie with no logo over a grey tank, sits in the driver's seat of a car with a beige leather interior, leaning toward the lens, one hand blurred at the frame edge still positioning the phone. Through the side window behind her: a red school running track and metal bleachers, overcast daylight. Candid real phone photo. No text, no logos, no watermark.
+> Vertical smartphone front-camera frame, tilted about 10 degrees and low, as if the phone is being clipped onto the dashboard. The woman from the face reference, about 40, fit and athletic, curly blonde-brown hair in a low ponytail, bright friendly face with natural skin and fine lines, wearing a plain dark-navy zip-up team hoodie with no logo over a grey tank, sits in the driver's seat of a car with a beige leather interior, leaning toward the lens, one hand blurred at the frame edge still positioning the phone. Through the side window behind her: the school parking lot with a few parked cars, then a chain-link fence and, 30 to 50 meters away, a red running track and metal bleachers (the car is in the lot, never on the track), overcast daylight. Candid real phone photo. No text, no logos, no watermark.
 
 **SF-V23-A** · + curly-blonde selfie (framing)
-> Vertical selfie at arm's length, eye level, head and shoulders centered. The same woman (about 40, athletic, auburn-brown low ponytail, plain navy zip hoodie) in the driver's seat, looking straight into the lens, mouth closed, honest and a little guilty. Beige car interior, red track and bleachers soft through the side window, soft daylight. Real skin texture. No text, no logos, no watermark.
+> Vertical selfie at arm's length, eye level, head and shoulders centered. The same woman (about 40, athletic, shoulder-length curly blonde hair worn loose, plain navy zip hoodie) in the driver's seat, looking straight into the lens, mouth closed, honest and a little guilty. Beige car interior, parking lot and, far behind a fence, the red track and bleachers, soft through the side window, soft daylight. Real skin texture. No text, no logos, no watermark.
 
 **SF-V23-B**
-> Vertical phone frame mounted low on the dashboard, lens below her eye line and about 30 degrees to her right. The same woman (about 40, auburn-brown ponytail, plain navy hoodie) sits angled toward the side window, gazing out at the track, mouth closed, thinking. Beige interior, daylight from the window. Candid. No text, no logos, no watermark.
+> Vertical phone frame mounted low on the dashboard, lens below her eye line and about 30 degrees to her right. The same woman (about 40, shoulder-length curly blonde hair worn loose, plain navy hoodie) sits angled toward the side window, gazing out at the track, mouth closed, thinking. Beige interior, daylight from the window. Candid. No text, no logos, no watermark.
 
 **SF-V23-C**
-> Vertical close-up, face fills the frame chin to forehead, eye level. The same woman (about 40, auburn-brown hair pulled back, natural skin with fine lines and light freckles), mouth closed, earnest and reflective, looking into the lens. Soft daylight from the car window on one side, blurred beige interior. No text, no watermark.
+> Vertical close-up, face fills the frame chin to forehead, eye level. The same woman (about 40, shoulder-length curly blonde hair worn loose, natural skin with fine lines and light freckles), mouth closed, earnest and reflective, looking into the lens. Soft daylight from the car window on one side, blurred beige interior. No text, no watermark.
 
 **SF-V23-OTS**
-> Vertical selfie, medium framing. The same woman (about 40, auburn-brown ponytail, plain navy hoodie) in the driver's seat holds a small handwritten note up toward the lens. The note is out of focus with nothing readable, her face sharp behind it, mouth closed. Car interior daylight. No readable text, no logos, no watermark.
+> Vertical selfie, medium framing. The same woman (about 40, shoulder-length curly blonde hair worn loose, plain navy hoodie) in the driver's seat holds a small handwritten note up toward the lens. The note is out of focus with nothing readable, her face sharp behind it, mouth closed. Car interior daylight. No readable text, no logos, no watermark.
 
 **SF-V23-PROD-A** · + product photos
-> Vertical arm's-length selfie, eye level. The same woman (about 40, auburn-brown ponytail, plain navy hoodie) in the driver's seat holds the IRYN tin from the product reference beside her face, label facing the lens, held still: a matte black rounded square about 7.5 cm across, garnet-and-cream label, gold "Fe" tile, exactly as in the reference. Upbeat, confident smile, mouth closed. Car daylight, track soft through the window. True-to-size, label matching the reference. No other text, no watermark.
+> Vertical arm's-length selfie, eye level. The same woman (about 40, shoulder-length curly blonde hair worn loose, plain navy hoodie) in the driver's seat holds the IRYN tin from the product reference beside her face, label facing the lens, held still: a matte black rounded square about 7.5 cm across, garnet-and-cream label, gold "Fe" tile, exactly as in the reference. Upbeat, confident smile, mouth closed. Car daylight, parking lot and distant track soft through the window. True-to-size, label matching the reference. No other text, no watermark.
 
 **SF-V23-PROD-C** · + product photos
 > Vertical close-up of the same woman's hands (short natural nails, lightly tanned skin) resting on her lap in the driver's seat, holding the open IRYN tin (matte black, rounded square, about 7.5 cm, lid open, brushed-silver inside). Black foil "ORAL STRIP · RASPBERRY FLAVOR" sachets inside, and her fingers are lifting one out. Navy hoodie soft at the top of frame, car window daylight. True-to-size, product exactly as in the reference. No other text, no watermark.
@@ -191,7 +191,7 @@ Attach to all: **face** = new gym mum selfie · **car** = beige car interior pho
 ## Kling 3.0 clips
 
 **V23-01 · HOOK** (shot 1) · start: SF-V23-HOOK · **set 5s** · Editor: use the best 1.3s
-> Vertical 9:16 front-camera phone video, authentic UGC, parked car, beige interior, overcast daylight, track through the side window, real skin texture. @MUM_SPORT clips her phone onto the dashboard. 0–1.5s: the frame is tilted and shaky as her hand pushes the phone into the mount and lets go; the image snaps steady. 1.5–3s: she settles back into the seat and lets out a breath, glancing out at the track. 3–5s: she turns to the lens and holds a steady look, mouth closed, ready to talk. No dialogue. Camera fixed after 1.5s. No text, no watermark, no plastic skin.
+> Vertical 9:16 front-camera phone video, authentic UGC, parked car, beige interior, overcast daylight, parking lot and distant fenced track through the side window, real skin texture. @MUM_SPORT clips her phone onto the dashboard. 0–1.5s: the frame is tilted and shaky as her hand pushes the phone into the mount and lets go; the image snaps steady. 1.5–3s: she settles back into the seat and lets out a breath, glancing out at the track. 3–5s: she turns to the lens and holds a steady look, mouth closed, ready to talk. No dialogue. Camera fixed after 1.5s. No text, no watermark, no plastic skin.
 
 **V23-02 · A** (shot 4) · start: SF-V23-A · **set 5s** · Editor: use 3.0–4.0
 > Vertical 9:16 front-camera selfie video, arm's length, eye level, car daylight, slight handheld micro-movement, real skin texture. @MUM_SPORT. 0–0.4s: a small guilty wince. 0.4–2.6s: she says, honest: "I honestly thought she had stopped trying." 2.6–5s: she bites her lip lightly and looks down. No text, no watermark, no plastic skin.
@@ -221,7 +221,7 @@ Attach to all: **face** = new gym mum selfie · **car** = beige car interior pho
 > Vertical 9:16 close-up of her hands on her lap in the driver's seat, car window daylight, product exactly as in @IRYN_TIN: a matte black rounded-square tin about 7.5 cm across, black foil sachets marked "ORAL STRIP · RASPBERRY FLAVOR," each holding a thin square brown strip. @MUM_SPORT's hands. 0–1.5s: she lifts one black sachet out of the open tin. 1.5–3s: she says off-camera: "IRYN is a raspberry strip" while holding the sachet flat to the lens. 3–4.5s: she tears the sachet open across the top. 4.5–6s: she slides out the thin square brown strip between two fingers. Slow, careful motion; labels stay facing the lens. No other text, no watermark.
 
 **V23-11 · PROD-A** (shot 21) · start: SF-V23-PROD-A · **set 5s** · Editor: use 38.0–39.5
-> Vertical 9:16 front-camera selfie video, arm's length, eye level, car daylight, track soft through the window, slight handheld micro-movement. @MUM_SPORT holds the IRYN tin from @IRYN_TIN beside her face, label to the lens, held still. 0–1s: a confident smile, mouth closed. 1–2.5s: she says, upbeat: "See the ingredients" 2.5–5s: she gives a small nod and keeps the tin steady by her face. Keep the tin still so the label stays clean. No other text, no watermark, no plastic skin.
+> Vertical 9:16 front-camera selfie video, arm's length, eye level, car daylight, parking lot and distant track soft through the window, slight handheld micro-movement. @MUM_SPORT holds the IRYN tin from @IRYN_TIN beside her face, label to the lens, held still. 0–1s: a confident smile, mouth closed. 1–2.5s: she says, upbeat: "See the ingredients" 2.5–5s: she gives a small nod and keeps the tin steady by her face. Keep the tin still so the label stays clean. No other text, no watermark, no plastic skin.
 
 ---
 
