@@ -149,3 +149,11 @@ Attach: 1 REF-MUM-BLUE · 2 REF-SELFIE-FRAMING · 3 REF-LAMP-ROOM · (+ approved
 - The tin reads the same size in every shot (palm-sized, smaller than her face), and the label matches your photo exactly. If a label comes out warped, re-roll; don't fix it in Kling.
 - No logos on clothing, no car badge, nothing readable on the phone screen or the note.
 - Mouths are closed in every frame.
+
+## Revisions (2026-10-10, after review)
+- **04 SF-V21-HOOK / 10 SF-V22-HOOK:** re-made with NO phone in frame (the phone is the camera). Her arm reaches toward the lens and exits the bottom edge.
+- **06 SF-V21-C:** zoomed out. Full head to collarbones, not an extreme close-up.
+- **07 SF-V21-OTS:** she no longer shows a phone screen. She sits looking down toward her lap, as if reading her phone, with no device visible. Kling V21-07 is updated to match.
+- **08 SF-V21-PROD-A:** tin shrunk to about a third of her face width, smaller than her hand. The "gentle daily iron for teen girls" line and "26" were patched in from the real product photo, because the model garbled them.
+- **13 SF-V22-OTS:** a real, legible handwritten note: "Questions for her appointment / - ferritin? / - iron levels / - always tired". Kling V22-07 is updated to match.
+- Rejected takes are kept in `start-frames/rejected/`.
