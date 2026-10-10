@@ -62,7 +62,7 @@ Assumptions: processing 3% + $0.30 · CJ prices include shipping (3pc ~$3.50/u, 
 |---|---|---|---|---|
 | Starter 3 | $69 | ~$55 (80%) | ~$33 | ~$24 |
 | Everyday 5 | $89 | ~$69 (77%) | ~$32 | ~$17 |
-| Two-Week 10 | $159 | ~$122 (77%) | ~$50 | ~$20 |
+| Two-Week 10 (+1 Big-Day pair) | $159 | ~$122 (77%) | ~$43 | ~$10 |
 | Bump pair | $19 | ~$15.50 | ~$9 | ~$6 |
 | Post-purchase +3 | $49 | ~$39 | ~$20 | ~$11 |
 
