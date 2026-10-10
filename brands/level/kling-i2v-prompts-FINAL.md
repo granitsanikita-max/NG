@@ -9,14 +9,15 @@ Video 2 (all 3 ads, 33 clips) is DONE. Those prompts were removed from here so n
 
 ## Settings (same as before)
 - Kling 3.0 · Image to Video · 9:16 · Standard 720p (std mode) · Sound ON.
+- **TIGHT TIMING RULE (Nikita, 2026-10-10):** no dead air. She starts talking within the first 0.3s and the clip ends about 0.5s after her last word. Clip length = her line at ~2.5 words per second + about 0.5s total, rounded up to the next whole second (Kling minimum is 3s). No long holds, nods or silent reactions padding the clip. Product-hand clips: the action happens while she talks, not after.
 - Write numbers and brand names inside the quotes the way they're said. Never add a separate pronunciation note (Kling reads it aloud).
 
 ---
 
 # PART 3 · VIDEO 3 · V1 · the one to-camera beat
 
-**V31-01 · Angle A** · Start image: **22_SF-V31-A.png** · Duration: **5s** · Use in edit: 7.0 to 9.0 · Shot 7
-> Arm's-length selfie video, eye level, slight natural handheld movement. Warm evening lamp light. 0 to 0.4s: a small knowing smile. 0.4 to 3.9s: she says, warm and sure: "My own experience made me pay attention sooner," with a light touch of her hand to her chest on "my own." 3.9 to 5s: she holds the lens with a soft nod, mouth closed.
+**V31-01 · Angle A** · Start image: **22_SF-V31-A.png** · Duration: **4s** · Use in edit: 7.0 to 9.0 · Shot 7
+> Arm's-length selfie video, eye level, slight natural handheld movement. Warm evening lamp light. 0 to 0.2s: a small knowing smile. 0.2 to 3.6s: she says, warm and sure, at a normal relaxed pace: "My own experience made me pay attention sooner," with a light touch of her hand to her chest on "my own." 3.6 to 4s: a soft nod, mouth closed.
 
 ---
 
