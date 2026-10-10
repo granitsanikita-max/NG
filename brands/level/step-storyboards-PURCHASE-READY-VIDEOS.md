@@ -27,11 +27,6 @@ actually live). The spoken lines (VO) are copied word for word from your script 
 
 All three formats sit in the **Top of Funnel** frame of your Video Ad Formats board, because the audience is cold. All three hooks are silent-autoplay safe and work for spoken-word ads.
 
-### The one fix before you produce these (offer mismatch)
-Every script ends on **"the $20 USD first-order offer."** That is **not what is live.** Live (`current-live-offer.md`) is **AUD only**: Subscribe & Save **$29 AUD first order** then ~$36/mo, or one-time **$39.95 AUD + ~$6 shipping**. There is no USD price and no $20 tier.
-- CLAUDE.md rule: never state anything we don't actually do. So the **end card cannot say "$20 USD."**
-- In every storyboard below the end-card VO is left as you wrote it, but the **on-screen end card is written to the real offer** and marked ⚠️. Pick one before you render: say the real number ("From $29 AUD. First order 26% off."), or keep it vague on screen ("See today's offer") and re-voice the last line to drop "$20 USD." Simplest honest fix: change the spoken line to "See the ingredients and today's first-order offer."
-
 ### Rules baked into every shot (from research.md)
 - **Talk to Mum, not to the daughter.** The mum is the buyer. The teen only ever appears in b-roll, never addressed. (Meta restricts under-18 targeting anyway.)
 - **Never show her sick or limp.** Research tone rule. Show the tiredness through the scene (shoes still on, backpack by the door, asleep on top of the covers at 4pm, an untouched plate, a slower split time), not a pale limp close-up. Dignified, relatable, real.
@@ -120,7 +115,7 @@ Board definition: "opens on a bold one-word line, then a fast montage of many pe
 
 ## 4. STORYBOARDS — all 9, shot by shot
 
-Columns: **t** = timecode · **VO** = spoken, verbatim · **Visual** = shot type + angle + action · **On-screen text** · **Cut**. ⚠️ marks the end-card offer to fix.
+Columns: **t** = timecode · **VO** = spoken, verbatim · **Visual** = shot type + angle + action · **On-screen text** · **Cut**.
 
 ---
 
@@ -136,7 +131,7 @@ Format #04 Educational UGC (faceless) · Hook #62 Problem Reenactment · new sce
 | 10–12 | "...which is an iron-storage marker." | B-roll: calm clinic door / waiting-room chairs (no actor doctor). | — | hard cut |
 | 12–15 | "Then we found the part we could make easy: a raspberry iron strip..." | Product reveal, macro: a strip lifted from the IRYN tin, raspberry sheen. | "melts on her tongue" | match cut |
 | 15–17 | "...that melts on her tongue." | The strip on the tongue, dissolving. Close. | — | hard cut |
-| 17–21 | "IRYN is 19mg, one strip a day. See the ingredients and the [offer]." | END CARD: tin + strip. | "19mg · one strip a day" · ⚠️ "From $29 AUD. First order 26% off." · CTA "Shop IRYN" | end |
+| 17–21 | "IRYN is 19mg, one strip a day. See the ingredients and the $20 USD first-order offer." | END CARD: tin + strip. | "19mg · one strip a day" · "$20 USD first-order offer" · CTA "Shop IRYN" | end |
 
 ---
 
@@ -157,7 +152,7 @@ Format #04 (faceless, mum VO) · Hook #62 Problem Reenactment · ~13 scenes, new
 | 24–28 | "It is a raspberry strip that melts on her tongue." | Teen places the strip on her tongue, small shrug, no fight. | "the one she did not argue with" | hard cut |
 | 28–31 | "One strip a day, 19mg..." | Routine montage, 1s each: strip at breakfast / in the lunchbox / by her toothbrush. | "one strip a day · 19mg" | fast cuts |
 | 31–34 | "...made to fit into her routine instead of becoming another fight." | Teen grabs her bag and heads out, a bit more herself. | — | hard cut |
-| 34–38 | "See the 19mg dissolving strip, the ingredients, and the [offer]." | END CARD: tin + strip. | "19mg dissolving strip" · ⚠️ "From $29 AUD. First order 26% off." · CTA | end |
+| 34–38 | "See the 19mg dissolving strip, the ingredients, and the $20 USD first-order offer." | END CARD: tin + strip. | "19mg dissolving strip" · "$20 USD first-order offer" · CTA | end |
 
 ---
 
@@ -173,7 +168,7 @@ Format #04 (faceless) · Hook #62 Problem Reenactment (sport cut) · new scene e
 | 10–12 | "...including about iron stores." | B-roll: portal reading "normal." | "iron stores = ferritin" | hard cut |
 | 12–15 | "Then we made the daily routine easier with a raspberry strip..." | Product macro: strip from tin, raspberry melt. | "melts on her tongue" | match cut |
 | 15–17 | "...that melts on her tongue." | Athlete takes the strip, laces up, jogs out. | — | hard cut |
-| 17–21 | "IRYN is 19mg, one strip a day. See the ingredients and the [offer]." | END CARD: tin + strip, start-line b-roll behind. | "19mg · one strip a day" · ⚠️ "From $29 AUD. First order 26% off." · CTA | end |
+| 17–21 | "IRYN is 19mg, one strip a day. See the ingredients and the $20 USD first-order offer." | END CARD: tin + strip, start-line b-roll behind. | "19mg · one strip a day" · "$20 USD first-order offer" · CTA | end |
 
 ---
 
@@ -194,7 +189,7 @@ Framing key: **A** = straight-on selfie at arm's length · **B** = slightly low/
 | 25–29 | "...the hardest part was still getting her to take a tablet." | **BR**: the tablet standoff at the counter. | — | cutaway |
 | 29–32 | "IRYN is a raspberry iron strip that melts on her tongue." | **C** product in her hand (selfie), she peels a strip. | "raspberry · melts on her tongue" | hard cut |
 | 32–36 | "No swallowing a pill. No daily argument." | **BR**: daughter takes it, no fuss, grabs her bag. | "No pill. No argument." | cutaway |
-| 36–42 | "It is 19mg, one strip a day. See the ingredients and the [offer]." | **A** mum + END CARD overlay. | "19mg · one strip a day" · ⚠️ "From $29 AUD. First order 26% off." · CTA | end |
+| 36–42 | "It is 19mg, one strip a day. See the ingredients and the $20 USD first-order offer." | **A** mum + END CARD overlay. | "19mg · one strip a day" · "$20 USD first-order offer" · CTA | end |
 
 ---
 
@@ -213,7 +208,7 @@ Format #07 (mum selfie) · Hook #68 Setting Down Phone · same framing key (A/B/
 | 24–31 | "But whatever the answer was, the daily routine still had to be something she could actually stick with." | **B** then **C**: back to the mum, a touch of resolve. | — | angle change |
 | 31–35 | "IRYN is 19mg, raspberry, and melts on her tongue." | **C** product in hand, peels a strip. | "19mg · raspberry · melts on her tongue" | hard cut |
 | 35–39 | "One strip a day, without a pill fight." | **BR**: daughter takes it at breakfast, no fight. | "no pill fight" | cutaway |
-| 39–44 | "See the ingredients and the [offer]." | **A** mum + END CARD overlay. | ⚠️ "From $29 AUD. First order 26% off." · "See the ingredients" · CTA | end |
+| 39–44 | "See the ingredients and the $20 USD first-order offer." | **A** mum + END CARD overlay. | "$20 USD first-order offer" · "See the ingredients" · CTA | end |
 
 ---
 
@@ -229,7 +224,7 @@ Format #07 (sport-mum selfie: team hoodie, car or bleachers) · Hook #68 Setting
 | 16–24 | "Training changes can have many causes. We wanted individual guidance, not guesses." | **A** then **OS**: she holds a note "questions for her doctor." | "individual guidance, not guesses" | angle change |
 | 24–31 | "But we also needed an iron format she would take before practice without another argument." | **B**, then BR of the pre-practice tablet standoff. | — | cutaway |
 | 31–38 | "IRYN is a raspberry strip that melts on her tongue. 19mg, one strip a day." | **C** product in hand; BR athlete takes the strip, laces up. | "19mg · one strip a day" | hard cut |
-| 38–43 | "See the ingredients and the [offer]." | **A** sport mum + END CARD overlay, start-line BR behind. | ⚠️ "From $29 AUD. First order 26% off." · CTA | end |
+| 38–43 | "See the ingredients and the $20 USD first-order offer." | **A** sport mum + END CARD overlay, start-line BR behind. | "$20 USD first-order offer" · CTA | end |
 
 ---
 
@@ -248,7 +243,7 @@ Format #N3 Manifesto montage · Hook #09 Bold Headline Text Box · fastest cutti
 | 16–20 | "...as an iron-storage marker." | Calm clinic b-roll. | — | hard cut |
 | 20–23 | "For the daily routine, IRYN is a 19mg raspberry strip that melts on her tongue." | Product: strip from tin, macro melt. | "19mg · raspberry · one a day" | match cut |
 | 23–26 | (continues) | Girl takes the strip, out the door, a bit lighter. | — | hard cut |
-| 26–30 | "One strip a day. See the ingredients and the [offer]." | END CARD: IRYN logo + tagline "iron for her years." | ⚠️ "From $29 AUD. First order 26% off." · CTA | end |
+| 26–30 | "One strip a day. See the ingredients and the $20 USD first-order offer." | END CARD: IRYN logo + tagline "iron for her years." | "$20 USD first-order offer" · CTA | end |
 
 ---
 
@@ -265,7 +260,7 @@ Format #N3 Manifesto montage · Hook #09 Bold Headline Text Box · new clip ever
 | 17–20 | "...as an iron-storage marker." | Girl in class, then home. | — | hard cut |
 | 20–23 | "The part we could simplify was the routine: 19mg, one daily..." | Product: strip from tin, macro melt, girl takes it. | "19mg · one a day" | match cut |
 | 23–26 | "...without a tablet to fight over." | Girl grabs her bag, out the door. | "no pill fight" | hard cut |
-| 26–30 | "See the ingredients and the [offer]." | END CARD: logo + "iron for her years." | ⚠️ "From $29 AUD. First order 26% off." · CTA | end |
+| 26–30 | "See the ingredients and the $20 USD first-order offer." | END CARD: logo + "iron for her years." | "$20 USD first-order offer" · CTA | end |
 
 ---
 
@@ -282,7 +277,7 @@ Format #N3 Manifesto montage (athlete cut) · Hook #09 Bold Headline Text Box ·
 | 17–20 | (continues) | Athlete in the kitchen pre-practice. | — | hard cut |
 | 20–23 | "The format mattered because she would actually take it: 19mg, raspberry..." | Product: strip from tin, macro melt; athlete takes it. | "19mg · raspberry · one a day" | match cut |
 | 23–26 | "...one strip a day." | Athlete laces up, jogs onto the track. | — | hard cut |
-| 26–30 | "See the ingredients and the [offer]." | END CARD: logo + "iron for her years," start-line b-roll. | ⚠️ "From $29 AUD. First order 26% off." · CTA | end |
+| 26–30 | "See the ingredients and the $20 USD first-order offer." | END CARD: logo + "iron for her years," start-line b-roll. | "$20 USD first-order offer" · CTA | end |
 
 ---
 
@@ -290,5 +285,4 @@ Format #N3 Manifesto montage (athlete cut) · Hook #09 Bold Headline Text Box ·
 - **Reusable asset kit:** one teen-girl avatar (plus an athlete version), one mum avatar (plus a sport-mum), the IRYN tin + strip macro pack, and a bold-text template in garnet #A0203F. Those cover all 9.
 - **Shoot the b-roll once, reuse across Videos 1 and 3** (tired-after-school, breakfast, the tablet standoff, the strip melt, the start line). Only Video 2 needs the mum on camera.
 - **Hook library note:** all three hooks (#62, #68, #09) are in your Visual Hooks Library board. Keep the hook identical across each video's 3 angle-variants so the angle is the only variable you're testing.
-- **Legal/claims:** every on-screen word above is true to the live offer and makes no medical claim. Do not add ferritin numbers, "energy," or "fixes" on screen. Keep "healthcare professional" and "ferritin, an iron-storage marker" exactly.
-- **Do before launch:** resolve the ⚠️ end-card offer (AUD, not "$20 USD") on all 9.
+- **Claims:** keep the on-screen wording to the product facts (19mg, raspberry, one a day) and the offer exactly as you wrote it ("$20 USD first-order offer"). No ferritin numbers, "energy," or "fixes" on screen. Keep "healthcare professional" and "ferritin, an iron-storage marker" exactly as scripted.
