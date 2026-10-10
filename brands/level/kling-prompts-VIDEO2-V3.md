@@ -7,7 +7,7 @@ Spoken lines are your script, word for word. Nothing in the copy changed.
 
 ## HOW TO RUN THIS (read once)
 
-**Order:** 1) Make the 22 start frames (Higgsfield, Nano Banana Pro, 9:16, 2K). 2) Register each mum as a Kling element. 3) Run the 34 Kling clips (each one: its start frame + its element + its prompt). 4) Cut in the editor using the "Editor: use" times.
+**Order:** 1) Make the 22 start frames (Part 1, Nano Banana Pro 2, 9:16, 2K). 2) Register each mum as a Kling element. 3) Run the 34 Kling clips (each one: its start frame + its element + its prompt). 4) Cut in the editor using the "Editor: use" times.
 
 **Elements to register in Kling 3.0** (attach the ref photo(s) + that mum's approved Angle-A start frame):
 - `@MUM_BLUE` → V2·1 + V3·1 mum (blonde, blue-shirt selfie)
@@ -19,7 +19,7 @@ Spoken lines are your script, word for word. Nothing in the copy changed.
 
 **Durations:** set each clip to the seconds listed. Lines are 1 to 7 seconds long. I never set a clip below 5s, so the motion has room; the extra time is natural reaction you trim off.
 
-**Product truth (locked from your photos):** a matte black square tin with rounded corners and a hinged lid, about 7.5 cm square and 2 cm deep (palm-sized; tell me if your real tin is different). It has the garnet-and-cream label with the gold "Fe 26" tile and "iryn". Inside are individual black foil sachets marked "ORAL STRIP · RASPBERRY FLAVOR", each holding one thin square **brown** film strip, about 2.5 cm. The strip is not red.
+**Product truth (locked from your photos):** a matte black square tin with rounded corners and a hinged lid, 7.5 cm × 7.5 cm, 2 cm deep (confirmed), palm-sized. It has the garnet-and-cream label with the gold "Fe 26" tile and "iryn". Inside are individual black foil sachets marked "ORAL STRIP · RASPBERRY FLAVOR", each holding one thin square **brown** film strip, about 2.5 cm. The strip is not red.
 
 **Wardrobe fixes (visual only):**
 - V2·1: the blue-shirt mum's ref has a company logo and a cross necklace. I swapped them for a plain tee and a plain pendant (no third-party logo; research says no faith cues).
