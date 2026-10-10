@@ -21,14 +21,14 @@ Supersedes all earlier versions. No single pairs. No Big-Day pair. Comeback Plan
 | Gift | Tier | Objection it kills (data-bank count) | How it's framed | Cost to us |
 |---|---|---|---|---|
 | **Seal-Saver Wash Bag**: zip mesh bag, Leapproof logo, brand colour, covered zip, care label | 3+ | "They stop working after washes / quality declines" (6 + "basically became regular underwear") | "Keeps the Leak-Lock seal and core intact wash after wash" | ~$1.50 landed |
-| **Core-Care Wash Sheets**: ~30 unscented, softener-free detergent sheets, Leapproof sleeve (≈2–3 months of washes) | 5+ | "Stops absorbing after washes" + the unspoken odor fear | "Regular detergent + softener coat the core and kill absorbency. These don't." Used every wash | **~$2.30 bulk-stocked** (NOT $16 per-order dropship) |
+| **Core-Care Wash Sheets**: ~30 unscented, softener-free detergent sheets (CJ dropship, LALKERS unscented) | 5+ | "Stops absorbing after washes" + the unspoken odor fear | "Regular detergent + softener coat the core and kill absorbency. These don't." Used every wash | **~$16/order (CJ dropship, already in catalog)** |
 | **The Comeback Plan**: DIGITAL 28-day return-to-sport pelvic-floor program (video + PDF), made with a real named pelvic-floor PT, emailed after purchase | 5+ | Habit/identity: "it's normal, I'll live with it" + "leak underwear = I'm old/broken" (belief chain #1 & #4; PT = #1 authority) | "Common, not normal. Wear these while you rebuild. Comeback gear, not a life sentence." | $0/order (one-time PT fee ~$800–2,300) |
 
 Gift rules: (1) must kill an objection; (2) physical gifts must be used repeatedly (not one-off).
 Cut: Big-Day pair, Gym-Bag Spare Pouch, Comeback Band, Prove-It Pour Test, Express shipping, $20 Refresh Credit (moved to retention flow).
 Printed insert card: deferred until sales start; Comeback Plan + care info go by email.
 ⚠️ Wash Sheets: no "antibacterial / antimicrobial / kills 99.9%" claims (EPA). Clean, softener-free, fragrance-free only.
-⚠️ Wash Sheets must be BULK-stocked in a warehouse that ships with the order, not dropshipped per-order from China ($16/order kills the margin + adds a second parcel + customs risk).
+⚠️ Wash Sheets dropship from CJ as their own parcel (~$16/order) — accepted. Note it ships separately from the underwear, so the customer gets two parcels.
 FTC: only state a $ value for an item sold standalone at that price (Wash Bag $18, Wash Sheets $20, Comeback Plan $69).
 
 **Value stacks shown on the reveal/PDP:**
@@ -56,23 +56,23 @@ Question first ("What do you want to stop thinking about?") → **$15 off the Ev
 
 ## 6. Profit per tier (AUD)
 
-**Costs:** CJ test product from live screenshots (product ~$2.03/pair; shipping one flat fee per order). Payment fees ~3% + $0.45. Wash Sheets bulk-stocked (~$2.30). Shipping to customer is inside the CJ landed cost.
+**Costs:** CJ test product from live screenshots (product ~$2.03/pair; shipping one flat fee per order). Payment fees ~3% + $0.45. Wash Sheets = CJ dropship (~$16/order, ships separately). Shipping to customer is inside the CJ landed cost.
 
 ### Phase 1 — CJ test product
 
 | Tier | Price | Product + ship | Gifts | Fees | **Gross profit** |
 |---|---|---|---|---|---|
 | 3-pack | $69 | $16.06 | $1.50 | $2.52 | **~$49 (71%)** |
-| 5-pack | $89 | $22.33 | $3.80 | $3.12 | **~$60 (67%)** |
-| 10-pack | $159 | ~$38.00 | $3.80 | $5.22 | **~$112 (70%)** |
+| 5-pack | $89 | $22.33 | Bag $1.50 + Sheets $16.06 | $3.12 | **~$46 (52%)** |
+| 10-pack | $159 | ~$38.00 | Bag $1.50 + Sheets $16.06 | $5.22 | **~$98 (62%)** |
 
 **After ad spend (CAC):**
 
 | Tier | Gross | − $20 CAC | − $40 CAC |
 |---|---|---|---|
 | 3-pack | 49 | +29 | +9 |
-| 5-pack | 60 | +40 | +20 |
-| 10-pack | 112 | +92 | +72 |
+| 5-pack | 46 | +26 | +6 |
+| 10-pack | 98 | +78 | +58 |
 
 Every tier profitable on the first order. Upsells, subscription and referral add more on top.
 
