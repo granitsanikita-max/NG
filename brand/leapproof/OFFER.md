@@ -1,95 +1,80 @@
-# LEAPPROOF — Final Offer Structure (v2)
+# LEAPPROOF — Final Offer Structure (v3)
 
-Supersedes the Step 2 ladder ($29/$69/$95/$119). Why: at $69 and real COGS the hero netted about +$2.50 at a $35 CAC, before shipping, gifts and processing. This version fixes the margin and raises perceived value.
+v3 (2026-10-10): **no single pairs**. Ladder is 3 / 5 / 10. Supersedes v2 ($35 single ladder) and the Step 2 ladder.
+Why no single: one pair carries the worst COGS/shipping ratio (CJ $6.40/pair vs ~$2.95 at 5) and loses money on first-order CAC. A 3-pack minimum makes every order profitable.
 
-## 1. Core ladder
+## 1. The ladder
 
-Every "free" is honest arithmetic off the $35 single we actually charge. No fake compare-at prices.
-
-| Tier | Name | Price | /pair | Framing | Includes |
+| Tier | Name | Price | /pair | Saving vs Starter rate | Includes |
 |---|---|---|---|---|---|
-| 1 | The Tryout | $35 + $5.95 ship | $35 | anchor / retargeting down-sell | Pairs only, 60-Night Leak-Test |
-| 3 | The Starter Set | $79 | $26.33 | Save $26 | Free shipping, Wash Bag |
-| **5** | **The Everyday Rotation** ⭐ HERO | **$105** | **$21** | **Buy 3, Get 2 Free** (3 × $35) | Free shipping, Wash Bag, Gym-Bag Spare Pouch, **The Comeback Plan** |
-| 7 | The Full Week | $140 | $20 | Buy 4, Get 3 Free (4 × $35) | Everything in the Rotation + free Express shipping |
+| 3 | **The Starter Set** | $69 | $23.00 | — (the per-pair anchor) | Free shipping · Wash Bag · 60-Night Leak-Test |
+| **5** | **The Everyday Rotation** ⭐ MOST POPULAR | **$89** | **$17.80** | Save $26 (23%) | Free shipping · Wash Bag · Gym-Bag Spare Pouch · **The Comeback Plan** |
+| 10 | **The Two-Week Rotation** 💎 BEST VALUE | $159 | $15.90 | Save $71 (31%) | Everything in the Everyday Rotation + free Express shipping + **$20 Refresh Credit** |
 
-- **Mix your rotation:** customers mix cuts and absorbency tiers inside any bundle (e.g. 3 Everyday + 2 Heavy). The quiz pre-fills the mix.
-- **Positioning:** $20–21/pair = below Knix/Saalt ($23–47), clearly above the Everdries/clone dropship floor ($8–13). "Knix-level quality, below Knix price, built for urine."
-- **Cost-per-year line (PDP):** pads ≈ $0.40/day ≈ $146/yr. The Rotation costs less than a year of pads and you stop throwing money in the bin.
+- **Honest anchors:** every saving is maths off the $23/pair Starter rate we actually charge. No fake compare-at prices.
+- **Mix your rotation:** mix absorbency tiers and cuts inside any bundle. The quiz pre-fills it.
+- **Quiz routing:** light / "just testing" → 3 · moderate / every day → 5 · heavy, daily workouts, "barely think about laundry" → 10. The reveal pre-selects ONE.
+- **10-pack logic:** "a fresh pair every day for two weeks, one laundry run."
+- **Positioning:** hero $17.80/pair = above the clones/Everdries ($8–13, zero trust) and well below Knix/Thinx/Saalt ($20–47). Ads lead with "5 pairs for $89", never the per-pair Starter rate.
+- **vs pads:** a year of pads ≈ $146. The Everyday Rotation is $89, once.
 
-## 2. Gifts — high value, low cost, on-brand
+## 2. Gifts
 
-| Gift | What | Landed | Stated value* | Why it's here |
-|---|---|---|---|---|
-| Leak-Lock Wash Bag | Branded mesh laundry bag + printed care tag ("protects the seal") | ~$1.00 | $12 | Makes them last, so fewer "died after washes" complaints |
-| Gym-Bag Spare Pouch | Waterproof wet/dry zip pouch, bold sport colors | ~$1.50 | $16 | Her real behavior ("just bring spare panties"). Lives in her gym bag = free brand impressions + UGC |
-| **The Comeback Plan** | 28-day return-to-sport pelvic-floor guide (video + PDF), co-created with a **real, named, licensed pelvic-floor PT** | $0/unit (one-time PT fee ~$500–1,500) | $49 | The killer gift. Her #1 authority is the PT. Makes "common but NOT normal — and fixable" real. The France story in product form: "French women get taught to rebuild. We ship you the plan." Nobody in the category has this |
-| Express shipping (7-pack) | Upgrade | ~$2 | $9 | Gives the top tier a reason beyond per-pair price |
-
-\*FTC: only state a "value" if the item is genuinely sold standalone at that price. List the bag, pouch and Plan as real products in the store.
-**Compliance:** the Plan is an exercise guide, NOT a treatment. No "cures/stops leaks" claims. The PT is consenting and disclosed, plus a "consult your provider" line.
-
-**Perceived-value stack on the hero (reveal + PDP):**
-5 pairs ($175) + Wash Bag ($12) + Spare Pouch ($16) + Comeback Plan ($49) + shipping ($6) = **$258 value → $105**, and it's backed by the 60-Night Leak-Test.
-
-## 3. Risk reversal (the hero of the whole offer)
-
-1. **60-Night Leak-Test:** wear them, wash them, put them through real leaks for 60 nights. If they don't hold: full refund, keep the pairs, nothing to ship back.
-2. **Fit Promise:** wrong size? One free exchange per order, and we ship the new size first. This kills objection #3 (sizing). Cost ≈ $6–8 per exchange, and the quiz keeps exchanges rare.
-
-## 4. Cart + checkout
-
-- **Progress meter:** "$X from free shipping + Wash Bag" (unlocks at the 3-pack) → "Add 2 more pairs and get them free + unlock the Comeback Plan" (shown on 3-pack carts). Pushes 3 → 5.
-- **Order bump (slide cart):** "Add an Overnight / Heavy-Day pair — $19 (normally $35)". Same box, so no extra shipping.
-- **Shipping protection:** $2.95 opt-in, NOT pre-ticked (pre-ticking breaks the honesty brand).
-- **Checkout recap:** what she's getting, the gifts, guarantee, and Fit Promise next to Pay.
-
-## 5. Post-purchase one-click (no card re-entry)
-
-- **Upsell 1:** "Add 3 more pairs to the same box — $49 ($16.33/pair). One tap." Route the offer by quiz answer: workouts → Training cut, nights/heavy → Heavy tier.
-- **Downsell if declined:** "Just the Overnight pair — $17."
-- No incontinence DR competitor runs a post-purchase upsell. Pure margin, zero CAC.
-
-## 6. Retention / LTV
-
-- **Refresh Rotation (subscription):** 3 pairs every **6 months** at 20% off ($67), free shipping, early access to new colors, skip/cancel anytime. A 6-month cadence matches real wear-out, so less churn and fewer chargebacks than quarterly. Offered on the thank-you page and in the Day 45 email, NOT forced at first checkout (test the sub-forward default as variant C).
-- **Referral at Day 21** (after she's tested them): give $15, get $15. Word of mouth is strong in this category ("now my sister buys them").
-- **Flows:** Day 0 Comeback Plan delivery → Day 7 fit check (catch exchanges before refunds) → Day 21 review/UGC + referral ask → Day 45 guarantee check-in + Refresh offer → Day 150 refresh/new colors.
-
-## 7. First-order pop-up
-
-Ask a question first ("What do you want to stop thinking about?"), then: **"$10 off The Everyday Rotation or The Full Week"**.
-- A fixed $10 that only works on 5+ pairs pushes the hero and caps margin exposure. A flat 15% on everything would eat ~$16 per hero order.
-- One advertised number: "5 pairs + 3 gifts for $95."
-
-## 8. Unit economics
-
-Assumptions: processing 3% + $0.30 · 3PL ship 1–3 pairs $5.50 / 5 pairs $6.50 / 7 pairs $7.50 (+$2 express) · gifts as above.
-**COGS scenarios: $12 landed (Lynmiss early) vs $9 landed (at 500–1,000 unit volume, which must be negotiated).**
-
-| Order | Revenue | GM @ $12/pair | GM @ $9/pair |
+| Gift | Landed | Stated value* | Tier |
 |---|---|---|---|
-| Tryout (incl. $5.95 ship) | $40.95 | $21.90 | $24.90 |
-| Starter 3 | $79 | $33.50 | $42.50 |
-| Rotation 5 | $105 | $32.30 | $47.30 |
-| Full Week 7 | $140 | $37.80 | $58.80 |
-| Bump overnight pair | $19 | $6.10 | $9.10 |
-| Post-purchase +3 | $49 | $11.20 | $20.20 |
+| Leak-Lock Wash Bag (mesh, care tag "protects the seal") | ~$1.00 | $12 | 3+ |
+| Gym-Bag Spare Pouch (waterproof wet/dry, sport colors) | ~$1.50 | $16 | 5+ |
+| **The Comeback Plan**: 28-day return-to-sport pelvic-floor program, co-created with a real named pelvic-floor PT | $0/unit (one-time PT fee ~$500–1.5k) | $49 | 5+ |
+| Express shipping | ~$2–3 | $9 | 10 |
+| $20 Refresh Credit (next order, valid 6 months) | $0 now; only costs money when she buys again | $20 | 10 |
 
-**Blended first order** (mix 15/30/45/10, 25% bump take, 12% upsell take, popup used on ~40% of 5/7 orders):
+\*Only state a value if the item is genuinely sold standalone at that price (FTC). The Comeback Plan is an exercise guide, not a treatment: no cure claims, PT disclosed.
+
+**Value stacks shown on the reveal/PDP:**
+- Starter: 3 pairs + Wash Bag + shipping = $87 value → **$69**
+- Everyday Rotation: 5 pairs ($115) + Bag + Pouch + Plan + shipping = **$198 value → $89**
+- Two-Week Rotation: 10 pairs ($230) + Bag + Pouch + Plan + Express + $20 credit = **$336 value → $159**
+
+## 3. Risk reversal
+
+- **60-Night Leak-Test:** wear, wash, real leaks for 60 nights. If they don't hold: full refund, keep the pairs, nothing to ship back.
+- **Fit Promise:** one free size exchange per order; we ship the new size first.
+
+## 4. Upsells
+
+- **Cart progress meter:** on a 3-pack: "Add 2 more pairs for $20 → unlock the Spare Pouch + Comeback Plan". Pushes 3 → 5.
+- **Order bump:** Overnight / Heavy-Day pair, $19, same box.
+- **Shipping protection:** $2.95 opt-in, never pre-ticked.
+- **Post-purchase 1-click:** "+3 pairs to the same box — $49 ($16.33/pair)", routed by quiz answer (Heavy tier for nights/heavy, Training cut for workouts). Downsell: the Overnight pair for $17.
+- **Refresh Rotation subscription:** 3 pairs every 6 months, 20% off ($55), free shipping, early access to new colors. Offered on the thank-you page + Day 45 email.
+- **Referral at Day 21:** give $15, get $15.
+
+## 5. First-order pop-up
+
+Question first ("What do you want to stop thinking about?") → **$10 off the Everyday or Two-Week Rotation**. Ad number: **"5 pairs + 2 gifts + the Comeback Plan for $79."**
+
+## 6. Unit economics
+
+Assumptions: processing 3% + $0.30 · CJ prices include shipping (3pc ~$3.50/u, 5pc ~$2.95/u, 10pc est. ~$2.60/u) · Lynmiss needs a 3PL (~$5.50 / $6.50 / $9 + $2 express).
+
+| Order | Revenue | GM on CJ | GM on Lynmiss @ $9 | GM on Lynmiss @ $12 |
+|---|---|---|---|---|
+| Starter 3 | $69 | ~$55 (80%) | ~$33 | ~$24 |
+| Everyday 5 | $89 | ~$69 (77%) | ~$32 | ~$17 |
+| Two-Week 10 | $159 | ~$122 (77%) | ~$50 | ~$20 |
+| Bump pair | $19 | ~$15.50 | ~$9 | ~$6 |
+| Post-purchase +3 | $49 | ~$39 | ~$20 | ~$11 |
+
+**Blended first order** (mix 30/55/15, 25% bump, 12% upsell, popup on ~40% of 5/10 orders):
 - **AOV ≈ $100**
-- GM/order ≈ **$32 @ $12 COGS** (≈ break-even at a $35 CAC) · **≈ $46 @ $9 COGS** (+$11 at a $35 CAC)
-- Break-even ROAS ≈ 2.2 at scale COGS
+- **CJ:** GM ≈ $78/order → break-even ROAS ≈ 1.3; huge room on CAC
+- **Lynmiss @ $9:** GM ≈ $37/order → ≈ break-even at a $35 CAC; profit comes from upsell, refresh and referral
+- **Lynmiss @ $12:** loses on the first order. Do not swap until landed cost is ≤ $9, or raise the ladder ~$10/tier at swap time
 
-**Reality:** first order ≈ break-even early on and profitable at scale COGS. The money is made in bump + upsell + refresh + referral. The two levers that matter most: **get landed COGS to ≤ $9** and **keep the bump and upsell live from day one**.
+## 7. Test variants
 
-## 9. Test plan (offers, not discount depths)
+A (control) this ladder · B hero framed "$17.80/pair" vs "Save $26" · C Refresh Rotation pre-selected on the reveal. Measure CVR, AOV, refund rate, 90-day LTV (Intelligems).
 
-- A (control): this structure.
-- B: hero framed as "$21/pair" instead of "Buy 3 Get 2 Free".
-- C: Refresh Rotation pre-selected on the reveal.
-- Measure first-order CVR, AOV, refund rate and 90-day LTV (Intelligems).
+## 8. Phase 1 warning
 
-## 10. Phase 1 (CJ test product) warning
-
-The CJ product is a period panty. Do NOT run Leak-Lock / "built for urine" / ml claims, or the 60-night keep-the-pairs guarantee, on it. If you test on CJ: honest absorbency copy only and a standard 30-day guarantee. Better: get Lynmiss samples now and launch on the real product.
+The CJ product is a period panty. On CJ: no "built for urine" / Leak-Lock / ml claims, and use a standard 30-day guarantee instead of 60-night keep-the-pairs. The prices above are fine on CJ. The claims and the guarantee are what wait for Lynmiss.
