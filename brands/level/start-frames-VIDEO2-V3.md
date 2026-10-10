@@ -157,3 +157,4 @@ Attach: 1 REF-MUM-BLUE · 2 REF-SELFIE-FRAMING · 3 REF-LAMP-ROOM · (+ approved
 - **08 SF-V21-PROD-A:** tin shrunk to about a third of her face width, smaller than her hand. The "gentle daily iron for teen girls" line and "26" were patched in from the real product photo, because the model garbled them.
 - **13 SF-V22-OTS:** a real, legible handwritten note: "Questions for her appointment / - ferritin? / - iron levels / - always tired". Kling V22-07 is updated to match.
 - Rejected takes are kept in `start-frames/rejected/`.
+- **14 to 22 (last batch):** product frames use the approved 08 as a size reference (job `db438fc0-7c77-4b69-b424-6dc70885b746`). 20 needed 2 edits to shrink the tin, and its Fe tile was patched in from the product photo. 21's hands were edited to look younger.
