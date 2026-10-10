@@ -1,0 +1,313 @@
+Doc 1 — Market & Competition
+
+Leak-proof underwear brand · Step 1 Research · 2026-10-10
+
+📂 Drive folder: https://drive.google.com/drive/folders/13KnCniJbHPpgPtrZ401107JSlTUW8ayq
+
+Market: US (English) women's leak-proof / stress-incontinence underwear for the active 30s–40s woman (postpartum or early-perimenopause) who leaks on a sneeze / laugh / jump / run and rejects BOTH the diaper/elderly/clinical frame AND the period-underwear frame.
+
+⭐ TOP 5 TAKEAWAYS
+
+1.  Everdries traffic collapsed 1,373k → 240k (−60% in 6 months) while it ramped ads to 2,441 and still sits at Trustpilot 2.5★ with "still need a pad" as its #1 complaint → the DR king is a wounded target; attack its trust vacuum now, don't fear its ad volume.
+
+2.  54+ US advertisers, 5k–16k active creatives per keyword, a 40-month evergreen Everdries ad, and Amazon listings at 200–500+ units/month → demand is proven and durable. This is a brand-build, not a demand test — stop validating, start building.
+
+3.  §2C awareness split = 40% problem-aware / 28% solution-aware / 26% product-aware → enter with a mechanism-led advertorial (pre-sell), never a bare PDP; she knows she leaks, she doesn't know a product is built for her leak.
+
+4.  Of 49 competitor ads, 33% lead with mechanism + 31% with identity, and ~⅓ of buyers are "burned" (46/155 snippets) → you cannot win at plain-claim Stage 2; enter at a provable upgraded mechanism + credible identity.
+
+5.  Single-pair scale-CPA ceiling is $12.44 vs a realistic $30–60 Meta CAC → single pairs lose money on the first order; lead every ad with a 3-pack hero and make the margin back on reorder/subscription.
+
+Pre-0 · Economics & KPIs
+
+Inputs used (region required, NOT guessed — from the brief + prior US-centric research; costs are modeled estimates flagged for a real supplier quote):
+
+-   Target region + language: United States · English. [INFERENCE from brief + research]
+
+-   Current store URL: none (new brand).
+
+-   Supplier link / landed cost: no real quote yet. Modeled landed cost ~$9/pair (ex-works $6–9 at 1,000 units + $1.50–3 freight/duty). [S1][ESTIMATE]
+
+-   Selling price + offer: hero $32 single / $78 3-pack; test a 5-pack. [S1][ESTIMATE]
+
+-   Processing %: 3% (page default).
+
+⚠️ These COGS are estimates, not a real supplier quote — re-run this table the moment real landed cost is in hand.
+
+  ----------------------------------------------------------------------------------------------------------------
+  Metric                             A: Single $32   B: 3-pack $78   C: 5-pack $110   D: 3-pack subscribe $66.30
+  ---------------------------------- --------------- --------------- ---------------- ----------------------------
+  Landed COGS                        $9              $27             $45              $27
+
+  Contribution margin $              $22.04          $48.66          $61.70           $37.31
+
+  Contribution margin %              68.9%           62.4%           56.1%            56.3%
+
+  Break-even ROAS                    1.45            1.60            1.78             1.78
+
+  Break-even CPA                     $22.04          $48.66          $61.70           $37.31
+
+  Target CPA @30% net (scale line)   $12.44          $25.26          $28.70           $17.42
+
+  Target ROAS @30% net               2.57            3.09            3.83             3.81
+
+  Target CPA @20% net (kill line)    $15.64          $33.06          $39.70           $24.05
+
+  Target ROAS @20% net               2.05            2.36            2.77             2.76
+  ----------------------------------------------------------------------------------------------------------------
+
+Formulas: CM$ = Price − landed − (0.03 × Price); CM% = CM$ ÷ Price; Break-even ROAS = 1 ÷ CM%; Break-even CPA = CM$; Target CPA @ n% net = CM$ − (n × Price); Target ROAS = Price ÷ Target CPA.
+
+So What → do this: Realistic new-brand Meta CAC is $30–60 [S2]. The single-pair scale-line CPA ceiling is only $12.44 — so single pairs lose money on the first order and can only be an entry/tripwire. The 3-pack and 5-pack kill-line CPAs ($33–$40) are the only variants that approach first-order break-even. Lead every ad and landing page with a multi-pack (3-pack hero); single pair as the entry tripwire only; make the money back on reorder/subscription.
+
+Audit first
+
+Page audited (the control we model against): Everdries advertorial + offer pages (everdries.com, shop.everdries.com) — the category's highest-spend page and the template to beat. [S3]
+
+What's weak (confirmed by its own reviews, §1/§10B):
+
+-   Core promise fails: Trustpilot 2.5/5 (560–646 reviews), 0% reply to ~196 negatives; #1 complaint is it leaks / under-absorbs and the company reportedly tells buyers to "still wear a pad". [S3][S4]
+
+-   Fake/anonymous testimonials ("Hi, it's Jess, the founder…") with no verifiable person, no real reviews on-page. [S3]
+
+-   No real guarantee / refund friction — "not returnable once washed/used", buyer pays return shipping. [S4]
+
+-   Fake urgency / fake anchor — permanent "50% off", compare-at $124.75 on a $59.95 bundle. [S3]
+
+-   Elderly/"discreet" frame — "made specifically for women 60+", "nobody has any idea I'm wearing leakproof underwear". [S5]
+
+So What → do this: Model the advertorial → offer-page STRUCTURE (proven), but invert every weakness: real named founder, published third-party absorbency test, real reviews (incl. misses), a genuine wear-test money-back guarantee, honest pricing, and an active — not elderly/discreet — frame.
+
+0 · Product & core problem
+
+One line: A washable, PFAS-tested leak-proof underwear that holds a real sneeze/laugh/run leak (not a dribble), for the active 30s–40s woman with stress urinary incontinence (SUI) who refuses to wear a diaper or a period product for a bladder problem.
+
+The ONE problem: she involuntarily leaks urine under physical pressure (sneeze, laugh, cough, jump, run, lift) and has no product that is clearly hers — period underwear isn't built for fast urine volume, incontinence products are coded elderly/medical. [S6][S7]
+
+It's a NEED, not a want:
+
+-   "I have peed in 7 pairs of underwear in the last 3 days and I just did it again." [S8]
+
+-   "I'm sick and tired of peeing myself every time I sneeze." [S9]
+
+-   "I had to quit Orange Theory because I developed a hypertonic pelvic floor." [S10] — giving up exercise she loves.
+
+Mass desire test (Schwartz), 1–5:
+
+-   Urgency = 5. Wants it fixed now; interrupts workouts/work/social life; acute shame in the moment. [S10][S11]
+
+-   Staying power = 5. Tied to permanent biology (childbirth, perimenopause): 73% still symptomatic at 3mo-PP report UI at 6 yrs; ~30% at 5 yrs post-first-delivery. [S12][S13]
+
+-   Scope = 5. SUI is one of the most common UI subtypes (~46% in the 2017–18 NHANES cycle — method-dependent; a competing analysis ranks mixed UI first) [S14]; ~1 in 3 postpartum (stress UI = 54% of postpartum UI) [S12]; ~44.5% of female CrossFit athletes in one review (competing metas 20–26%) [S15]; any UI rises 17% (20s) → 54.5% (50s) [S16]. (§20-verified — scope holds on conservative figures.)
+
+So What → do this: 5/5/5 desire — a true painkiller market. Channel the existing screaming desire; build the brand, don't test demand.
+
+0B · Demand & Seasonality
+
+Search trend (live Google Trends bot-blocked; used WinningHunter Exploding Topics, global/not-country-filtered — logged 🔁 §20): "period underwear" = 201,000 volume, +143% ET index, all-time peak Feb–Mar 2026, secondary Jun–Jul [S17]. "bladder leaks"/"stress incontinence" have no ET topic — incontinence buyers are ad-driven, not search-driven. [S17]
+
+Marketplace demand (Amazon US, real): Everdries 5-pk $59.95 — 3.6★, 789 ratings, 500+ bought/mo; WBEAUTALLOVE 3.9★, 4,400 ratings; Wearever 3.8★, 2,500 ratings; ZJHTK 3.7★, 1,400 ratings, 200+/mo. 4–5 listings at 200–500+ units/mo. [S18]
+
+TikTok Shop (US): WEAK — "leak proof underwear" returns snorkels; "incontinence underwear" returns $10–12 disposable underpads, declining (−37% MoM). Not a launch channel. [S19]
+
+Ad demand (Meta, US): category keywords carry 5,484–15,809 active creatives each; 54+ distinct US advertisers (de-duped via jq — a floor). Longest-running ad: Everdries since 2023-06-12 (~40 months). [S20]
+
+Verdict: GROWING, durable. Peak months Jan–Mar (New-Year), secondary Jun–Jul. So What → do this: build through Q4, go hard Dec–Feb; Meta DR + Amazon are the demand pools, not TikTok Shop.
+
+1 · Competitor scan
+
+Long-list (≥25 genuine underwear advertisers; top names)
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Advertiser                                                                          Domain             Active Meta ads              Longest ad           Status
+  ----------------------------------------------------------------------------------- ------------------ ---------------------------- -------------------- ---------------------------------------
+  Everdries                                                                           everdries.com      2,441                        2023-06-12 (~40mo)   ACTIVE, scaling ads / falling traffic
+
+  Knix                                                                                knix.com           off Meta DR (TV/retention)   —                    ACTIVE, ceded DR
+
+  Thinx/Speax                                                                         thinx.com          ~4 (Tatari TV)               2024-07-16           ACTIVE on TV, abandoned DR
+
+  Modibodi                                                                            modibodi.com       present (AU-led)             —                    ACTIVE, softening
+
+  Saalt                                                                               saalt.com          ~10                          2024-11-28           ACTIVE, lean offer
+
+  attn:grace                                                                          attngrace.com      small                        —                    ACTIVE, small/recovering
+
+  Jude                                                                                wearejude.com      present                      —                    ACTIVE (UK, US nascent)
+
+  Vera / Miriano (clones, share PID 7082150330417)                                    shopvera/miriano   burst                        2025-09-30           ACTIVE, burst-and-die
+
+  NESLEMY / Mindsparkl clones ("Dr. Emberly Reed", "Eleanor 73")                      rotating           +156/mo on one page          2025-12-16           ACTIVE, ephemeral
+
+  Orykas (men's)                                                                      orykas.com         ~3                           2025-08-11           ACTIVE (men only)
+
+  Boody / NEIWAI / The Period Company / Knicked / Reddrop / Carerspk / Parentgiving   various            low–mid                      2023–24              ACTIVE (niche)
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+(Expanded via WinningHunter find_similar_shops + brief_competitor; find_similar_shops on everdries.com was polluted by the "ever/dries" string match and disregarded. [S20])
+
+3 direct competitors (most proven spend)
+
+1) EVERDRIES — the collapsing DR king. [S3][S21] Traffic 239,714/mo (Sep 2026), collapsed from 1,373,485 (Dec 2025, −60% 6-mo), 87.5% US. Rev modeled $1.6–2.8M/30d, AOV $91.11. In business since 2022-05-17. Active ads 2,441 (up from 1,386 in May) — ramping spend while traffic falls. Most-duplicated/winning hook = "redesigned with cotton" + "nighttime leaks" (9 of top 10 creatives). Funnel: ad → advertorial → offer page. Offer: 5-pk $59.95 / compare $124.75 / 15-pk $129.95; no subscription, no real guarantee — the weak spots.
+
+2) SAALT — strongest credible brand on Meta DR. [S22] Traffic 232,250/mo (stable), 64% US, rev $900k–1.6M/30d, AOV $49.28, B-Corp, since 2018. Ads lead with a bigger claim ("Replace your daily panty liners. 9/10 people never go back!"). Offer is lean — no bundle/upsell, no urgency. Period-first, not incontinence.
+
+3) VERA / NESLEMY / MINDSPARKL clone template. [S23] Burst-and-die; NESLEMY personas showed +156 active-ad growth in a month; share PID 7082150330417. Prices $39.99–$64.54 5-pack. Most-duplicated hook: "Real Leak Protection—Not Pads, Not Diapers… holds up to 8oz… 4-Layer Leak-Lock" + "I was a nurse, pads nearly killed me." Offer: Buy-5-get-1 / up to 60% off + gifts. Weak spot = zero trust, fake testimonials, no retention.
+
+Ad log — Everdries top creatives (start · days @2026-10-10 · format · leads-with · hook)
+
+  --------------------------------------------------------------------------------------------------------------------------------
+  Start          Days           Format         Leads with           Hook
+  -------------- -------------- -------------- -------------------- --------------------------------------------------------------
+  2026-09-10     30             video          upgraded mechanism   "Everdries Have Been Redesigned With Cotton!"
+
+  2026-04-18     175            video          upgraded mechanism   "Everdries just released a new design…for nighttime leaks!!"
+
+  2026-05-28     135            image          upgraded mechanism   "NEW RELEASE: Everdries Leakproof Shapewear!!"
+
+  2026-05-27     136            image          identity (founder)   "Hi, it's Jess, the founder of Everdries…"
+  --------------------------------------------------------------------------------------------------------------------------------
+
+Category ad log (one representative longest-running creative per advertiser)
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------
+  Start             Advertiser                   Leads with           Hook
+  ----------------- ---------------------------- -------------------- --------------------------------------------------------------------------------
+  2023-06-01        Respectivelk                 bigger claim         "😫 90% of women suffer from urine leakage…"
+
+  2023-06-12        Everdries OG                 identity/offer       "Black Friday…made specifically for women 60+"
+
+  2024-03-08        The Period Company           identity             "If you flow, you know."
+
+  2024-07-16        Thinx                        plain claim          "Comfortable & Washable Bladder Leak Underwear…"
+
+  2024-11-28        Saalt                        bigger claim         "Replace your daily panty liners. 9/10 people never go back!"
+
+  2025-08-11        Orykas (men)                 mechanism            "All men with bladder leaks make the same mistakes ❌…"
+
+  2025-12-16        Dr. Emberly Reed (NESLEMY)   upgraded mechanism   "Real Leak Protection—Not Pads, Not Diapers…holds up to 8oz…4-Layer Leak-Lock"
+
+  2026-08-04        Mindsparkl                   identity             "I'm Eleanor, a Community Health Worker, 73…"
+  ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+3 indirect competitors (search the PAIN, not the product)
+
+-   Pelvic-floor PT / Kegel programs — the "fix the cause" alternative; authority she trusts (borrow, don't compete). [S24]
+
+-   Uresta / Finess (OTC device + urethral patch) — "stop leaks before they happen". [S25]
+
+-   Disposable incontinence (Poise/Always Discreet/TENA) — the pad/diaper default she's escaping; their spend proves the pain, their frame is the one to reject. [S26]
+
+TAKEN map (owned angle · status)
+
+-   Everdries — "redesigned with cotton / nighttime / 100% leakproof, fake-50%-off bundle" · ACTIVE (scaling ads, falling traffic)
+
+-   Clones (Vera/NESLEMY/Mindsparkl) — "better than pads, 4-layer/8oz, fake nurse/founder, buy-5-get-1" · ACTIVE but burst-and-die
+
+-   Jude — "clinical bladder authority + supplement subscription" · UK · ACTIVE
+
+-   attn:grace — "skin-safe / sustainable / B-Corp, pads+underwear" · US · ACTIVE (small)
+
+-   Knix — "period-proof + everyday intimates, body-positive" · ACTIVE but ceded Meta DR
+
+-   Thinx/Speax — "period pioneer; bladder Essentials; thin/discreet" · ACTIVE on TV, abandoned DR
+
+-   Modibodi — "original period underwear, permanent 50% off" · ACTIVE, softening
+
+-   Saalt — "sustainable period underwear + cups, risk-free" · ACTIVE, lean
+
+-   Orykas — "men's bladder-leak bamboo boxers" · ACTIVE (men only — women's premium flank open)
+
+-   UN-OWNED / abandoned: a trustworthy, real-brand, athletic/active-framed incontinence underwear on Meta DR with retention economics — the exact lane Everdries/clones occupy, minus the 2.5★ liabilities, that period brands vacated. [S20]
+
+So What → do this: Spend is concentrated in a low-trust DR lane period brands abandoned. Attack it with the thing it lacks — verifiable trust + an active frame + retention economics.
+
+2 · Your gap (Purple Ocean) — DRAFT (locks after §11)
+
+1.  Creative-format gap — partly open. Scaled players already run advertorial + founder video (Stage 4–5). A format edge (real-lab-demo UGC, athlete creators) is HOW we attack, not the wedge. [S20]
+
+2.  Mechanism gap — open but must be credible. Clones claim "4-layer/8oz" with fake proof. Open move = the same upgraded-mechanism claim made honestly (published absorbency + ml + PFAS test). [S20][S27]
+
+3.  Avatar gap — WINNER. Wide open. Everybody targets 60+ (Everdries), clinical/menopausal (Jude), or menstruating teens/millennials (period brands). Nobody owns the active 30s–40s woman who leaks on a sneeze/jump/run — she defaults to Knix "just in case". [S28][S29]
+
+Pick: the AVATAR gap, executed via an honest upgraded-mechanism + athletic-demo creative format.
+
+Purple Ocean Gate:
+
+-   PAINKILLER? ✅ 5/5/5 desire.
+
+-   UNCONTESTED? ✅ at scale — honestly "open at scale," not an empty category (§20 correction). No MAJOR brand holds the exact standing position. Edges touched by: Knix LeakStrong (multi-use sub-line), Moxie Fitness Apparel (tiny startup, also period), Prickly Pear (niche), Sweaty Betty/Adidas "Leak Protect" (period-anchored). No major brand owns it as identity in the US. [S20][S30]
+
+-   A MARKET not an angle? ✅ Tens of millions of active US women with SUI — a whole brand + 20 ads.
+
+-   3 fails check: not a vitamin, not red ocean, not angle-as-market.
+
+Commit: Own "the active woman's leak — not a diaper, not a period". Runner-up: the honest-mechanism play (kept as the creative execution layer).
+
+5 · Awareness level
+
+Mostly Problem-aware → Solution-aware, with a real Product-aware slice shopping brands. (1) Discourse-volume: pages of Reddit threads across fitness/running/perimenopause subs — she knows the problem and its name. [S6][S31] (2) §2C stage split (72 tagged): problem-aware 29 (40%) · solution-aware 20 (28%) · product-aware 19 (26%) · most-aware 4 (6%). [S32]
+
+So What → do this: Enter with a mechanism-led pre-sell (advertorial) — "common but NOT normal", introduce the mechanism, then the offer. Funnel = Discovery Stack (Advertorial → Offer page).
+
+7 · Funnel level
+
+Cold traffic = TOP of funnel. The ad's job: stop the scroll on a relatable moment + mechanism tease, NOT close the sale. The first page's job: pre-sell (advertorial w/ mechanism + proof), THEN the product/offer page. Don't run cold traffic to a bare PDP. So What → do this: budget for a 2-step funnel (pre-sell → offer).
+
+8 · Sophistication stage
+
+Stage 4–5, bimodal. All 49 captured competitor ads classified [S20]: upgraded mechanism 11 (22%), identity/experience 15 (31%), plain claim 12 (24%), bigger claim 6 (12%), mechanism 5 (10%). Mechanism-led = 16/49 (33%); identity-led = 15/49 (31%). §2C burned/skeptical = 49/155 (~32%): "I fell for the marketing…", "I'm so tired of false ads". [S33]
+
+So What → do this: Can't win at plain-claim Stage 2. Enter at upgraded-mechanism + credible identity, and weaponize the skepticism — the mechanism must be provable (third-party absorbency + ml + PFAS cert + real reviews) because ~1 in 3 buyers was already lied to. Proof IS the wedge.
+
+Sources (Doc 1)
+
+-   [S1] economics_and_ops.md / product_and_sourcing.md (ljvogues; Triple Whale CAC). [ESTIMATE]
+
+-   [S2] Triple Whale 2025: CPM $14.19, CPA $38.19, apparel CVR 1.46%.
+
+-   [S3] WinningHunter get_store_details + get_store_top_ads, everdries.com, 2026-10-10.
+
+-   [S4] Trustpilot everdries.com — https://www.trustpilot.com/review/everdries.com
+
+-   [S5] Everdries Amazon listing / FB — https://www.amazon.com/clp/B0C715NQYH ; https://www.facebook.com/100082827387929/posts/279996421437935/
+
+-   [S6] r/xxfitness 6haoak — https://www.reddit.com/r/xxfitness/comments/6haoak/
+
+-   [S7] attn:grace "5 reasons period pads don't work" — https://attngrace.com/pages/5-reasons-why-period-pads-don-t-work-for-bladder-leaks
+
+-   [S8] r/Perimenopause 1v3q74k — https://www.reddit.com/r/Perimenopause/comments/1v3q74k/
+
+-   [S9] X/@kristyger. [S10] r/orangetheory 1jts4v8 — https://www.reddit.com/r/orangetheory/comments/1jts4v8/
+
+-   [S11] r/xxfitness 7uzcvz — https://www.reddit.com/r/xxfitness/comments/7uzcvz/
+
+-   [S12] Postpartum UI meta-analysis — https://pmc.ncbi.nlm.nih.gov/articles/PMC8295150/
+
+-   [S13] AJOG Viktrup/Lose — https://www.ajog.org/article/S0002-9378(01)91977-5/abstract
+
+-   [S14] UroToday SUI 45.9% (method-dependent) — https://www.urotoday.com/
+
+-   [S15] CrossFit UI 44.5% — https://pubmed.ncbi.nlm.nih.gov/35635565/
+
+-   [S16] NHANES age curve — https://pmc.ncbi.nlm.nih.gov/articles/PMC3505252/table/T1
+
+-   [S17] WinningHunter Exploding Topics (global). [S18] Amazon US SERP (firecrawl, 2026-10-10).
+
+-   [S19] WinningHunter search_tiktok_products. [S20] WinningHunter search_facebook_ads + find_similar_shops + brief_competitor.
+
+-   [S21] WinningHunter traffic/revenue model, everdries.com. [S22] get_store_details saalt.com.
+
+-   [S23] WinningHunter Meta data, clone template (PID 7082150330417).
+
+-   [S24] r/running 10ryhwy. [S25] Women's Running — https://www.womensrunning.com/health/wellness/bladder-leaks-when-you-run/
+
+-   [S26] r/running 1tgqlzp. [S27] product_and_sourcing.md.
+
+-   [S28] r/running 10ryhwy ("Knix just in case"). [S29] r/XXRunning 1p9s88j.
+
+-   [S30] Knix LeakStrong press — https://www.retaildive.com/press-release/20220815-knix- ⚠️ BRAND-MARKETING stat (80%/70%) — DO NOT cite as fact in copy.
+
+-   [S31] r/AskWomenOver30 1hctxd6. [S32] customer_data_bank.csv awareness tally. [S33] §2C burned tally + Amazon reviews.
+
+⚠️ COGS REMINDER: Pre-0 uses modeled landed costs ($9/pair). Send real supplier landed cost to finalize.

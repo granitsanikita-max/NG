@@ -1,0 +1,259 @@
+Doc 4 — Brand, Offer & Funnel
+
+Leak-proof underwear brand · Step 1 Research · 2026-10-10
+
+📂 Drive folder: https://drive.google.com/drive/folders/13KnCniJbHPpgPtrZ401107JSlTUW8ayq
+
+🟨 §2B · Compliance — SAY / DON'T SAY (read before writing any copy)
+
+Product's ACTUAL category: absorbent apparel; if marketed for incontinence it is an FDA Class I, 510(k)-EXEMPT protective incontinence garment (21 CFR 876.5920, product code EYQ) — freely advertisable; the risk is the COPY language, not the product class. Keep framing as apparel/absorbency/comfort.
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ✅ SAFE TO SAY                                                                                                                                                                                                                        ❌ NEVER SAY
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  "Stay dry and confident" / "worry-free" (outcome framing — passes Meta "you" test)                                                                                                                                                    "Do you suffer from incontinence?" / "Struggling with bladder leaks?" (Meta Personal Attributes auto-reject)
+
+  "Leak-resistant underwear for women who want extra protection" (product + self-selecting group)                                                                                                                                       "100% leak-proof" / "zero leaks" / "never leaks" (absolute — NAD killed "zero leaks" in this category)
+
+  "Absorbs up to X ml (lab-tested, [method])" — ONLY with the test on file                                                                                                                                                              "Medical-grade" / "clinically proven to treat incontinence" (unsubstantiated; may trigger FDA device status)
+
+  "Helps manage light bladder leaks" (symptom-management — generally allowed; verify on Meta's live standard)                                                                                                                           "Prevents UTIs" / "cures/eliminates incontinence" (disease claim — FDA + FTC + Meta cure-ban)
+
+  "PFAS-free, verified by third-party testing" — ONLY with TOF + targeted report on file. (CA AB 1817 + NY, Jan 1 2025: ship with no intentionally-added PFAS, or total organic fluorine BELOW 100 ppm — dropping to 50 ppm in 2027.)   "Non-toxic" / "chemical-free" (bare) — Thinx ~$4–5M settlement exposure
+
+  Real, consenting, disclosed customer/PT testimonials                                                                                                                                                                                  "Recommended by gynecologists" / fake or non-consenting doctor endorsement — the signature scam; avoid entirely (Endorsement Guides + Fake Reviews Rule + §43(a))
+
+  "Common but not normal — and manageable" (cites Mayo/Cleveland)                                                                                                                                                                       Shame/appearance hooks ("embarrassing leaks", "smell") — Meta appearance-inferiority rule
+
+  Move condition/severity qualification to the landing-page quiz (she self-selects)                                                                                                                                                     Fake countdown timers, "only 3 left" that never changes, fake "news article" advertorials — FTC dark-patterns + 2024 Fake Reviews Rule
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Why your last ads probably got rejected: second-person condition language, absolute "100% leakproof", or shame hooks. How to reach her WITHOUT naming the condition: lead with the moment (sneeze/jump/trampoline) + confidence, let her self-identify ("for women who want to jump without thinking about it"); keep condition education on the landing page (Meta reviews LPs too). (UK/EU: ASA/MHRA treat "relieves/treats incontinence" as a medicinal claim needing a licensed device — keep to absorbency/apparel claims.)
+
+⭐ TOP 5 TAKEAWAYS
+
+1.  "Do you suffer from incontinence?" and "100% leak-proof" are instant Meta/NAD rejections → lead ads with the MOMENT + confidence; push condition/severity qualification to the landing-page quiz where she self-selects.
+
+2.  Confirmed white space: NOBODY in the incontinence DR lane pairs real trust (named founder + published absorbency test + real reviews) with a money-back wear-test guarantee + a replenishment subscription → that combination is the offer and the moat.
+
+3.  Everdries/clones run NO subscription and a fake-anchor bundle with no real guarantee; Knix's Rebuy+AIOD upsell drives a $109 AOV → out-economics them with subscribe-&-save + an honest guarantee + a real upsell engine, not a bigger fake discount.
+
+4.  Price ladder: the product costs <$2.60/unit at AliExpress and sells DTC at $8.66–$47/unit → price $12–$18/unit in bundles (above the clone floor, below the period-brand ceiling); re-run Pre-0 at real COGS.
+
+5.  Locked positioning: "the blunt, athlete-to-athlete brand FOR proven, no-shame protection and AGAINST an industry that sells women pads instead of the truth" → passes the Uncopyable Test; every surface executes this one line.
+
+4 · Contrast (execution)
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  What the field does                                                             Our exact opposite
+  ------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------
+  Visual: seated/hidden/bedroom shots, beige/nude or pastel-lavender "discreet"   Motion photography — women mid-jump/run/laugh, on trampolines/start lines; bold sport-tech color; shot like performance apparel
+
+  Tone: hushed "discreet/dignity/protection/accident" (diaper lexicon)            Matter-of-fact, dry-funny, athlete-to-athlete: "sneeze, laugh, run, lift, jump." Never "discreet"
+
+  Claim: unprovable absolutes ("100% leakproof") + FAKE testimonials/doctors      ONE provable claim: "holds up to X ml, third-party lab-tested" + real reviews incl. misses
+
+  Offer: fake-anchor bundles, fake urgency, no guarantee                          Honest pricing + a real wear-test money-back guarantee
+
+  Page format: fear/shame advertorial, elderly frame                              Validation + proof advertorial ("common but not normal", lab demo, France story), active 30s–40s frame
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4B · Brand Positioning System (Liquid Death model) — LOCKED
+
+-   The Enemy: the disposable-industrial complex and the lie it sells — an industry (and medical culture) that tells women leaking is "just normal after kids / at your age" and hands them a pad to buy forever instead of a real fix. Found in the 1★ reviews ("fell for the marketing", 2.5★ Everdries, "still need a pad") and the one VERIFIED on-record line — Fortune: the category's "growth isn't due so much to population aging as it is marketing" (the spicier Bloomberg/K-C-exec quotes were cut in §20 as unverified; the enemy needs no fabricated quote).
+
+-   What we stand FOR: the truth that leaking is common but NOT normal, not shameful, not a life sentence — and that you deserve gear that actually holds, proven, not whispered. We publish the test. We show the 1★ reviews. We'd rather lose a sale than lie.
+
+-   The Attitude: blunt, dry-funny, athlete-to-athlete, matter-of-fact about pee — the opposite of the hushed/clinical/pastel register.
+
+-   The Uncopyable Test: if Everdries/clones adopted "we publish third-party proof and show our bad reviews" tomorrow, it would INDICT them (their 2.5★ + fake testimonials are the whole problem); if Jude/Thinx chased the active-athlete frame they'd CANNIBALIZE their clinical-50+/menstruation equity. ✅ Real moat.
+
+-   Whole-store thread: Name (athletic/engineering, not "-dri/-sure/continence"); About-page manifesto (common-but-not-normal + France story + founder's active origin); product page (published ml test, PFAS cert, real reviews incl. misses); offer/guarantee (wear-test refund); which reviews we show (the misses too); voice.
+
+-   Weakness-as-weapon: small/new/broke = the underdog vs. the Everdries ad-flood + diaper giants. "We can't outspend them — so we out-honest them."
+
+-   Guardrails: (1) we must ACTUALLY be it — real tests, real reviews, real guarantee; (2) attack the category PATTERN, never name-and-shame a specific competitor.
+
+🔒 LOCKED one-liner: "We are the blunt, athlete-to-athlete brand that stands FOR proven, no-shame protection and AGAINST an industry that sells women pads instead of the truth — leak-proof underwear for active women who refuse to pee themselves quietly and refuse to be called old."
+
+15 · Competitor offers + price ladder
+
+Per-competitor offer blocks:
+
+-   Everdries — 5-pk $59.95 / compare $124.75 (−52%, $11.99/unit); 15-pk $129.95 ($8.66/unit). No subscription. Free-gift order bump, Intelligems A/B. Returns restrictive. Weak: no sub, no real guarantee, 2.5★.
+
+-   Vera/Miriano/NESLEMY clones — "Signature 5-Pack" $39.99–$64.54; Buy-5-get-1 / up to 60% off + gifts; "closing 70% off". No subscription. Weak: no trust/retention, fake testimonials.
+
+-   Knix — ~$23–$38/pair; AIOD buy-more-save + Rebuy upsell (AOV $109.50); Trustpilot 4.5. Weak: not incontinence-positioned, premium, off Meta DR.
+
+-   Thinx/Speax — flat $20–$41, no bundle app, SwellRewards, Tatari TV. Weak: no offer/urgency, abandoned DR, PFAS scar.
+
+-   Modibodi — permanent ~50% off (AUD $18.50–$28), no sub. Weak: service decline (3.5★), discounting erodes margin.
+
+-   Jude — underwear £16.60 (attach item); Subscribe-&-save up to 33%; 90-day refund; supplement subscription core. Weak: UK-only scale.
+
+-   attn:grace — pads ~$17, Recharge subscription + bundle builder, B-Corp. Weak: small, underwear de-emphasized vs pads.
+
+-   Saalt — Brief $29 / Comfort $39 / CloudShort $47; no compare-at, no bundle/upsell (lean), B-Corp. Weak: no offer/urgency, period-first.
+
+  -------------------------------------------------------------------------------------------------------------------------------
+  Competitor        Entry price           Best offer                                      Biggest gap
+  ----------------- --------------------- ----------------------------------------------- ---------------------------------------
+  Everdries         5-pk $59.95 ($12/u)   15-pk $129.95 ($8.66/u) fake −52% + free gift   no sub, no real guarantee, 2.5★
+
+  Vera/clones       ~$40–65 5-pk          buy-5-get-1 / up to 60% off                     no trust/retention, fake testimonials
+
+  Knix              $23–38/pair           AIOD + Rebuy upsell ($109 AOV)                  not incontinence-positioned, off DR
+
+  Thinx/Speax       $20–41                (none — flat)                                   no offer; abandoned DR; PFAS scar
+
+  Modibodi          AUD $18.50–28         permanent ~50% off                              service decline; discounting
+
+  Jude              £16.60                subscribe-save 33% + 90-day refund              UK-only; underwear secondary
+
+  attn:grace        pads ~$17             Recharge sub + bundle                           small; underwear de-emphasized
+
+  Saalt             $29–47                (none — lean)                                   no offer; period-first
+  -------------------------------------------------------------------------------------------------------------------------------
+
+Table stakes: multipack bundles (3/5/10), reviews widget, Klaviyo+SMS, free-shipping threshold, the "better than pads" promise. Best-in-class: Knix's Rebuy+AIOD upsell engine ($109 AOV); Jude's subscribe-&-save 33% + 90-day refund. Nobody offers (WHITE SPACE): a credible incontinence brand pairing a genuine money-back wear-test guarantee + a replenishment subscription on washable underwear, sold on Meta DR, for the active woman.
+
+Price ladder: AliExpress ~$0.75–$2.60/unit → Amazon generic $2–$6/unit → Amazon branded / clones / Everdries $8.66–$13/unit → Saalt/Thinx $20–$47/pair → Knix/Jude ceiling. Product costs <$2.60/unit; sells DTC $8.66–$47/unit (3.3×–18× markup). Price $12–$18/unit in bundles (above clone floor, below period-brand ceiling) and hold a high gross margin (internal target ~70–80%; public apparel comps run lower ~50–62%, so treat 70–80% as a model target, not a published claim — §20).
+
+Offer inputs for Step 2: solve "leaks through / out the sides" (guarantee the seal), "still need a pad" (size the core), "sizing runs tiny" (fit quiz + true-US sizing), "scam / fell for marketing" (proof + guarantee). Guarantee gap = NOBODY offers a real wear-test money-back guarantee in the DR lane → our headline offer. Natural bundles: 3-pack hero / 5-pack value / day+overnight / mixed tiers / subscribe-&-replenish every 2–3 months + new-color drops. Price to test: 3-pack ~$78 ($26/unit) or 5-pack ~$110 ($22/unit); re-run Pre-0 at real COGS. (Open Step-2 Offer Build: app.notion.com/p/3d9d53123cd681dabc18f09e90184c44.)
+
+The Funnel Map
+
+Chosen funnel: the Discovery Stack — Advertorial (pre-sell) → Offer Page. Why: she's problem/solution-aware (§5), the market is Stage 4–5 + ~⅓ burned (§8), single-hero defaults to the Discovery Stack. She needs mechanism + proof BEFORE the offer; cold traffic must not hit a bare PDP (§7).
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Stage                               What it does for THIS product
+  ----------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Ad                                  Stops the scroll on a relatable MOMENT (double-under / trampoline / treadmill / sneeze) + a credible mechanism tease ("built for urine, not blood — lab-tested"). Earns the click, NOT the sale. Compliant framing.
+
+  Pre-sell (Advertorial)              Gives the mechanism (UMP→UMS) + proof (published ml test, PFAS cert, pour-demo, real reviews) + the "common but not normal / France" story. Walks the §9B belief chain.
+
+  Product page                        Sells the product + offer: ml-rated tiers, fit quiz (true-US sizing), real reviews incl. misses, the wear-test money-back guarantee as a headline, bundle ladder (3-pack hero). Offer built in Step 2 from §15 inputs.
+
+  Cart                                Raises order value: bundle up-tier (add a pair / add overnight), free-shipping threshold, subscribe-&-save (replenish every 2–3 months).
+
+  After purchase                      Post-purchase fit follow-up (cuts returns, seeds exchanges), replenishment reminder at ~60–90 days, new-color cross-sell, review/UGC request. Where the LTV (and the economics) are made.
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+(No pre-sell page would be a mistake here — she's mid-funnel-awareness and burned; the advertorial is mandatory.)
+
+20 · Verify (report) — verified & self-approved
+
+A) Every skill / tool on the page — did it run?
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Skill / tool                  Status                  Note
+  ----------------------------- ----------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  research-doc                  ✅ ran                  this run executed the Notion page top-to-bottom
+
+  product-pulse                 🔁 substitute           Firecrawl scrapes of Amazon/Walmart "Customers say" + Trustpilot
+
+  agent-reach                   🔁 substitute           Firecrawl MCP throughout (CLI not installed)
+
+  Firecrawl (search + scrape)   ✅ ran                  reviews, SERPs, Shopify .js, history, France
+
+  playwright-skill              🔁 / ❌                 headless cart-walk NOT executed — offers via Shopify .js + get_store_details + ad copy; Google Trends via browser ❌ bot-blocked
+
+  Amazon trick                  ✅ ran                  /dp/ "Customers say" + 1–2★ and 4–5★ reviews
+
+  Forum tactics                 ✅ ran                  Reddit via search snippets (full-thread fetch ❌ login wall)
+
+  SimilarWeb                    🔁 substitute           traffic via WinningHunter; demographics not pulled → some §3 fields INFERENCE
+
+  Winning Hunter                ✅ ran                  search_facebook_ads, get_store_details, get_store_top_ads, find_similar_shops, brief_competitor, search_exploding_topics, search_tiktok_products, check_credits
+
+  Facebook Ad Library           🔁 substitute           region/advertiser proof via WinningHunter countries=US
+
+  TikTok + Google/Amazon/Etsy   ✅ / ➖                 TikTok Shop via WH (weak/pads), Amazon via Firecrawl; Google Ads not deep-pulled ➖; Etsy n/a ➖
+
+  Google Trends                 🔁 substitute           live 5-yr US bot-blocked → Exploding Topics (labelled global/not-country-filtered)
+
+  Notion connector              ✅ / ➖                 fetched the Step-1 page; Funnel board + Offer Build referenced by URL (not deep-opened ➖)
+
+  Google Drive                  ✅                      folder + 4 Docs + §2C Sheet
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+B) Adversarial fact-check (3 skeptics told to REFUTE) — corrections made and reported honestly:
+
+-   ❌→✏️ Kegel "complete relief in over 700 users" — UNVERIFIED → removed from copy; kept 1948 + perineometer (CONFIRMED).
+
+-   ❌→✏️ Bloomberg "not humiliating" + "Jay Gottleib" Kimberly-Clark quotes — UNVERIFIED / no such exec found → removed (defamation risk); enemy now rests on Fortune "growth is marketing" (CONFIRMED) + Attends-1978 + 90–95%-of-AI-pants-disposable (CONFIRMED).
+
+-   ✏️ France "exactly 10 sessions" → "~10 (up to 20), 1985 decree, all mothers, social-security-paid" (substance CONFIRMED; cite ICS survey + UCSF).
+
+-   ✏️ "Uncontested" → "open at scale, not an empty category" (Moxie Fitness Apparel + Prickly Pear = tiny edge players; Knix LeakStrong = multi-use sub-line).
+
+-   ✏️ Knix "80% leak / 70% avoid exercise" → flagged brand-marketing, not a copy fact.
+
+-   ✏️ SUI "most common 45.9%" → method-dependent; CrossFit 44.5% → one review (competing metas 20–26%); mean onset 45.4 → single weak source, directional only.
+
+-   ✏️ CA PFAS threshold → compliance = TOF below 100 ppm (→ 50 ppm in 2027).
+
+-   ✏️ NAD "zero leaks" → real flaw was ignoring body positions/types; takeaway (avoid absolute leak claims) stands.
+
+-   ✏️ TPU micron / ~100-wash numbers → vendor self-test, UNVERIFIED → no micron/wash number in copy until own lab test.
+
+-   ✅ CONFIRMED (hold up): SUI real/large & durable; ~1 in 3 postpartum; urine ≠ menstrual flow mechanism; demand GROWING; FDA EYQ Class I 510(k)-exempt; Thinx ~$4–5M PFAS settlement; CA/NY PFAS bans Jan 1 2025; FTC 2024 Fake Reviews Rule; Meta Personal Attributes reject pattern (verify the cure/symptom split on Meta's live standard before launch); Egyptian 1550 BC inserts (frame "per a published history"); the white space (trust + money-back guarantee + replenishment subscription, unowned in the incontinence DR lane).
+
+C) Completeness check
+
+All 32 page sections (Pre-0 → Funnel Map) present across the 4 docs and checked against the line-by-line ledger — thorough, sourced or flagged. Source types mined: Reddit · Amazon 1–2★ + 4–5★ · Walmart · Trustpilot · PissedConsumer · TikTok/social · X · press/medical (9 platforms, 155 snippets). Gaps named: TikTok/YouTube comment threads (JS-gated), Reddit full bodies (login wall), live Google Trends + headless cart-walk (substituted).
+
+D) Self-approval
+
+-   [x] Every line covered in the 4 docs, thorough, sourced or flagged inference.
+
+-   [x] Every skill/tool run, substituted (named), or marked ➖ (fallbacks only) — all listed in A.
+
+-   [x] §2C data bank has 155 snippets from 9 source types; every customer list ranked by a real jq/python tally.
+
+-   [x] Every historical/medical/stat claim that could enter ad copy is verified with a URL — or removed (Kegel number, Bloomberg/Gottleib quotes) / qualified (SUI %, CrossFit %, onset, Knix stat).
+
+-   [x] Wedge passes the Purple Ocean Gate (painkiller + uncontested-at-scale + a real MARKET).
+
+-   [x] §2B compliance table matches the product's actual category.
+
+-   [x] Economics use the REAL price floor (AliExpress non-teaser) — ⚠️ landed COGS are modeled estimates; re-run Pre-0 when a real supplier quote is in hand (the one genuine open item).
+
+-   [x] Product / mechanism gaps flagged honestly (micron/wash numbers, silver, "all-day", thong-at-heavy mismatch).
+
+-   [x] Funnel Map filled — every stage, for THIS product (Discovery Stack).
+
+-   [x] §2, §4, §4B LOCKED after §11; §9 One Belief rewritten after §13 — what changed is written down.
+
+-   [x] Target region (US) came from Pre-0 (not guessed); Audit first done (Everdries page).
+
+-   [x] Each doc has the folder link + Top 5 takeaways at the top and its own Sources list; §2C CSV final and uploaded as the Sheet.
+
+-   [x] Corrections from verification reported, not hidden (this §20 B).
+
+-   [ ] One honest NOT-yet-true item: real customer reviews for a brand-new store (§11 DON'T HAVE / OPEN) — seed via first cohort + creators before scaling paid.
+
+Verified & self-approved for Step 1. The single thing to finish before launch economics are final = a real supplier landed-cost quote (Pre-0).
+
+Sources (Doc 4)
+
+-   [P-FDA] FDA Class I 510(k)-exempt incontinence garment (21 CFR 876.5920, code EYQ) — accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=EYQ
+
+-   [P-Meta] Meta Personal Attributes + Health & Wellness standards — transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/ ; accelerateddigitalmedia.com/insights/guide-to-social-media-health-ad-restrictions-2026/ ; stackmatix.com/blog/meta-ads-personal-attributes-policy
+
+-   [P-FTC] FTC Health Products Compliance Guidance — ftc.gov/business-guidance/resources/health-products-compliance-guidance
+
+-   [P-NAD] NAD "zero leaks" discontinued (TENA) — bbbprograms.org/media/newsroom/decisions/nad-recommends-sca-personal-care-discontinue-zero-leaks-claims...
+
+-   [P-PFAS] Thinx PFAS settlement + CA/NY PFAS apparel bans (Jan 1 2025, below 100 ppm → 50 ppm 2027) — fox29.com/news/thinx-period-underwear-lawsuit-over-pfas-settles-for-4-million ; morganlewis.com/pubs/2024/11/new-york-and-california-bans-on-pfas-in-textiles-and-apparel-begin-january-1-2025
+
+-   [P-Fake] FTC 2024 Fake Reviews Rule (16 CFR Part 465) + native-advertising/dark-patterns — hunton.com/hunton-retail-law-resource/ftc-issues-final-rule-targeting-fake-consumer-reviews...
+
+-   [P-ASA] ASA/MHRA medicinal-claim ruling (VCARE) — asa.org.uk/rulings/person-s--unknown-a24-1245836-person-s--unknown.html
+
+-   Competitor offers/apps/AOV — WinningHunter get_store_details per brand, 2026-10-10.
+
+-   [H3] Fortune "growth is marketing" — fortune.com/2016/02/11/adult-diaper-growth ; [H3b] P&G Attends 1978 / 90–95% AI pants — pmc.ncbi.nlm.nih.gov/articles/PMC10285159/
+
+-   [Notion] Step-2 Offer Build app.notion.com/p/3d9d53123cd681dabc18f09e90184c44 · Funnel board app.notion.com/p/3e0d53123cd681bda4d6fbc54fd7b296

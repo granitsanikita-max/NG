@@ -1,0 +1,173 @@
+Doc 2 — The Customer
+
+Leak-proof underwear brand · Step 1 Research · 2026-10-10
+
+📂 Drive folder: https://drive.google.com/drive/folders/13KnCniJbHPpgPtrZ401107JSlTUW8ayq
+
+⭐ TOP 5 TAKEAWAYS
+
+1.  20 of 67 objection snippets = "leaks through / out the sides" — the #1 objection, recurring across EVERY brand (Everdries, Thinx, Modibodi) → the seal (flatlock gusset edges, built for urine) + visible proof IS the product promise.
+
+2.  Failed-solutions tally: period underwear 19 + Everdries 20 + pads 15 → she has already spent money and been let down; every ad must open from "I know you've tried X and it still leaked."
+
+3.  Emotional tally: anger 20 > shame 11 — and the anger is at being lied to ("I'm so tired of false ads") → lead with validated anger + relief, NOT shame/fear (which also breaks Meta's appearance-inferiority rule).
+
+4.  She defaults to Knix (a period brand) "just in case" on every run → that improvised behavior is the exact demand to convert; position as "built for the leak Knix was never designed for."
+
+5.  The active 30s–40s ICP barely appears on Amazon/Trustpilot (those skew 60+); her real voice is on Reddit fitness/running/perimenopause subs → build the brand where she actually talks (communities + PT/creator partners), not on marketplace reviews.
+
+§2C · Customer Data Bank — summary
+
+155 snippets (target 100+, aim 150+ — met). Full bank = the Google Sheet in this folder. Solidity: 88 VERBATIM / 67 SNIPPET.
+
+By source type (9 platforms): Reddit 55 · Trustpilot 32 · Amazon 25 (14× 1–2★, 9× 4–5★, 2 "Customers say") · Press/Medical/Blog 18 · Walmart 10 · PissedConsumer 5 · Social (IG/FB/Quora) 4 · X 3 · TikTok/YT 3.
+
+Top per tag (full counts in the Sheet):
+
+-   Triggers (41): sneeze 15 · jump/jumping jacks 11 · run 10 · cough 9 · laugh 7 · deadlift/squat/lift 7 · double unders 6 · trampoline 4.
+
+-   Pains (78): leak on sneeze/laugh/cough 12 · leak jumping/trampoline 11 · leak running 8 · wet feeling 8 · rides up/bunches 5 · pee down legs 4 · avoiding activity 4.
+
+-   Objections (67): leaks through/out the sides 20 · doesn't absorb 8 · sizing runs small 7 · quality decline 6 · still need a pad 6 · expensive 6 · feels like a diaper 6 · false advertising 5 · PFAS/UTI 4.
+
+-   Failed solutions (65): Everdries 20 · period underwear 19 · pads 15 · pelvic-floor PT 3 · pee-before-activity 3 · HRT/surgery 2.
+
+-   Emotional state (65): anger 20 · shame 11 · desire 10 · pride 10 · grief 8 · fear 5 · guilt 1.
+
+-   Awareness (72): problem 29 · solution 20 · product 19 · most 4.
+
+-   Authorities (31): pelvic-floor PT 7 · urogynecologist 2 · Knix 2 · Always 2 · doctor/NP 2.
+
+-   Buyer groups (58): runner 8 · crossfit 5 · postpartum 5 · postpartum runner 4 · perimenopause 3.
+
+-   Burned/skeptical (49).
+
+Key sourcing signal: the active 30s–40s ICP barely appears on retail-review sites (those skew 60+/medical). Her real voice is on Reddit fitness/running/perimenopause subs and social, where she rejects BOTH frames — "Adult diapers or incontinence pads. Uhhh, no thanks." [C52]. The active leaker simply doesn't review elderly-coded incontinence products — that's the whitespace, visible in the data.
+
+3 · Ideal customer (ICP)
+
+One real person: Mara, 36. Two kids (youngest 2), back into lifting + running. CrossFit/Orangetheory 3–4×/week, runs a 10k, jumps on the trampoline with her kids. Leaks on double-unders, the run portion of class, a hard sneeze, the trampoline — a few drops to a visible patch. Tried Knix "just in case" and pads; neither built for urine. NOT old, NOT menopausal yet, recoils at "diaper".
+
+Required fields:
+
+-   Age: 30–45 (SUI skews youngest of UI types; one study puts mean onset ~45.4 but that's a single weak hospital sample — directional, not a copy fact; real signal = postpartum + perimenopause + athletic on-ramps). [M1]
+
+-   Life stage: postpartum (1–8+ yrs) or early perimenopause; active/returning-to-sport. [C14][C123]
+
+-   Household: mother of young/school-age kids (trampoline-with-kids trigger recurs). [C123][C124]
+
+-   Income: middle/upper-middle — buys premium athletic apparel (Knix $109 AOV buyer). [INFERENCE]
+
+-   Job: mixed; fitness-engaged (gym/class regular). [C127][C132]
+
+-   Geo: US, urban/suburban. [INFERENCE]
+
+-   Typical day problem hits: 6am OTF class (treadmill + double-unders), weekend trampoline with kids, a cold with a week of sneezing, mile 3 of a run. [C6][C8][C123]
+
+Worldview (as one of them): "I'm strong and capable; this leak is a plumbing issue, not a verdict on me." Rolls her eyes at anything treating her as old/fragile — "Adult diapers or incontinence pads. Uhhh, no thanks." [C52] Believes leaking is common but refuses "normal" — "just because it's common, it doesn't mean it's normal." [C134] Sustainability-aware (guilt over disposables [C28]). Trusts her pelvic-floor PT and peers over marketers. Life/love/family: a mother who refuses to shrink her life around her kids or her body's quirks; wants to keep lifting/running/jumping with her family and treats "not peeing myself at the trampoline park" as a right, not a luxury.
+
+So What → do this: Speak athlete-to-athlete, matter-of-fact; never "discreet/dignity/protection". Mirror "common but not normal". Show her mid-jump, not seated.
+
+3A · Sub-avatars (ranked by §2C group size)
+
+1.  Postpartum returning-to-fitness mom (biggest). Pain: "8 months PP – still peeing while running." [C10] Gathers: r/fitpregnancy, r/postpartumprogress, r/BabyBumps. Angle: "you got your body back to the gym — your underwear should keep up."
+
+2.  CrossFit / lifting woman. Pain: "How to not absolutely pee myself during double unders?" [C14] Gathers: r/crossfit, r/xxfitness. Angle: "double-unders, box jumps, PRs — hold the leak, keep the lift."
+
+3.  Runner. Pain: "I don't pee when I do anything but run." [C10] Gathers: r/running, r/XXRunning, Runner's World. Angle: "dry and comfy the entire run."
+
+4.  Perimenopause active woman. Pain: "leaking when I jump/cough/sneeze/breathe/whatever." [C9] Gathers: r/Perimenopause, r/AskWomenOver40. Angle: "perimenopause changed your bladder, not your life."
+
+5.  Group-fitness (OTF/trampoline class) woman. Pain: "I peed on the treadmill… I'm perimenopausal… now I feel silly going." [T6] Angle: "the whole class pees — here's the fix nobody sells you."
+
+(All five are real §2C groups — no invented personas. Launch to #1/#2/#3; scale into #4/#5.)
+
+10 · Everything about the ICP (ranked by count)
+
+Pains: (1) leak on sneeze/laugh/cough (12) — "Now I pee when I cough, sneeze, laugh, jump, run, or get startled." [C1] (2) leak jumping/trampoline (11) — "Children destroy women's bladders." [C124] (3) running (8) [C10] (4) wet feeling (8) — "walking around in a wet diaper." [C67] (5) pee down legs (4) [C28] (6) avoiding activity (4) — "You think twice before jumping rope or hitting the trampoline park." [C125]
+
+Core desires / dream: "do all the things without leaking pee" [C13]; "completely worry free" [C27]; "dry and comfy for the entire run" [C71]; "I forget I am wearing special underwear" [C103].
+
+Needs: urine-specific absorbency [C23]; "real absorbency for more than a dribble" [C40]; coverage for gushes / better side coverage [C49][C85]; wicking/dry feel [C114]; absorbent-but-invisible under leggings [C141].
+
+Misconceptions: "period products work for urine" (they don't) [C115]; "leaking is normal with age/motherhood" (medically false) [C89][C91]; "pee just happens" [C121].
+
+Mindset/experiences: shame in the moment ("so, so embarrassed" [C132]), relief when validated ("you just made me feel about a billion times better" [C135]), pride when something works ("a level of confidence that is wonderful" [C80]).
+
+Past victories + failures (non-product): WON briefly with pelvic-floor PT — "spent $$$. It worked as long as I kept going." [C7]; FAILED when told to quit her sport — "My pt told me to quit running. I told her with tears in my eyes." [C128]; "I had to quit Orange Theory." [C127]
+
+Goals: NEAR — get through tomorrow's class/run/trampoline without a visible patch. FAR — keep lifting/running for life; "not peeing your pants for the rest of your life shouldn't be a luxury." [H1]
+
+4 forces (JTBD): PUSH — pads feel like diapers, period underwear leaks through, changing clothes/avoiding class. PULL — underwear built for her leak that lets her move and forget it. ANXIETY — "will it hold or leak through like the others?" (the #1 objection), "is it a scam like Everdries?", "will it fit?", "is it safe (PFAS)?". HABIT — "just wear a pad / pee before class / it's normal after kids". Each anxiety + habit is answered in §11.
+
+10B · Existing Solutions Teardown (ranked by failed-solution count)
+
+1. Everdries (20). Likes: looks like regular underwear, comfy at first. Dislikes: doesn't absorb — "within an hour and a half the WHOLE front of them was soaked right through…USELESS" [C41]; still need a pad [C42]; sizing tiny [C62][C64]. Horror story: "I developed a severe UTI from the product fabric in the gusset. Dr. said DO NOT USE THIS." [C38]; "I peed on my floor - right through the underwear 3 times this morning!" [C95]. Believe it works? Mostly NO — "I fell for the marketing." [C101]
+
+2. Period underwear — Thinx/Knix/Modibodi/Bonds (19). Likes: comfy, works for periods. Dislikes: not built for urine — "it leaked straight through and soaked my pants" [C26]; "I leaked out the sides… through my pants" [C72]; absorbency dies — "they basically became regular underwear" [C54]; PFAS fear [C51][C53]. Horror story: "leaking after 4 hours of fairly light flow… all over white towels." [C75]
+
+3. Pads — period & incontinence / Poise / Always / Tena (15). Likes: cheap, familiar, "worry free" for some [C27]. Dislikes: feel like a diaper, "rolled right off the pad and out the ill fitting leg" [C49]; "Menstrual pads can't absorb thin, fast-flowing urine" [C115]; "chemical burns" [C82]. Horror story: the gala accident — "stuff her underwear in her clutch." [T5]
+
+4. Pelvic-floor PT / kegels (3): believes it works but slow/can't sustain — "struggled… until 2.5 years postpartum, even while seeing a pelvic floor PT regularly." [C33] 5. Pee-before-activity (3) / HRT / surgery (2): coping hacks; surgery "changed my life" for one but drastic [C153].
+
+So What → do this: Keep what they like (looks/feels like normal underwear, comfortable, reusable). Attack what they hate: build for urine, seal the side-seams/gusset edges, hold absorbency through washes, and prove it.
+
+14 · Voice
+
+5th–8th grade. Her words, not clinical terms.
+
+Emotional journey arc: Awareness → Frustration ("tried Knix/pads, still leak") → Desperation ("had to quit Orange Theory", "tears in my eyes") → Relief/commitment ("I forget I'm wearing them", "takes all the anxiety away"). Cold traffic enters at Frustration/Desperation.
+
+Swipe file (★ = recurs in 3+ snippets; 100 phrases in the Sheet):
+
+-   ★ "pee when I cough, sneeze, laugh, jump, run, or get startled"
+
+-   ★ "it goes right through" / "no absorbency at all" / "leaked straight through and soaked my pants"
+
+-   ★ "common but not normal" / "just because it's common, it doesn't mean it's normal"
+
+-   ★ "confidence… when I am out and about" / "worry free"
+
+-   "We. Do. Not. Have. To. Pee. Ourselves." · "absolutely pee myself during double unders" · "I pee myself almost every deadlift" · "Trying for a squat PR, pee your pants"
+
+-   "You think twice before jumping rope or hitting the trampoline park" · "Children destroy women's bladders"
+
+-   "a little leak that might look like a crotch sweat" · "the pee will be running down my legs"
+
+-   "walking around in a wet diaper" / "the feeling of putting on wet underwear" · "I forget I am wearing special underwear"
+
+-   "Adult diapers or incontinence pads. Uhhh, no thanks." · "I fell for the marketing because I really wanted them to work" / "I'm so tired of false ads"
+
+-   "takes all the anxiety away" / "No leaks. No smell. No stress." · "I wish someone had shown me this before my first baby"
+
+Quote buckets: Pain/frustration — "leaked straight through and soaked my pants". Mindset — "common but not normal"; "We do not have to pee ourselves". Deep fears — "scared of what would happen if I couldn't get to the bathroom in time" [C44]; PFAS "what damage I've done to my body" [C53]. Motivation — "do all the things without leaking pee". Emotional response — "so, so embarrassed"; "frustrated, irritated, and embarrassed me for years".
+
+USE: leak, pee, sneeze, laugh, jump, run, lift, double-unders, trampoline, soaked, goes right through, holds, dry, worry-free, "common but not normal". AVOID (and the plain word): "incontinence" → "leaks" (ads); "stress urinary incontinence/SUI" → "leak when you sneeze or jump" (SUI only on the LP education); "protection/dignity/discreet/accident" → "holds/dry/keeps up" (diaper lexicon — banned in ads); "bladder weakness" → "leaks". Clinical terms ONLY on product page/FAQ for accuracy, never ads/hooks/headlines.
+
+18 · Trigger events (≥8, ranked by §2C trigger count)
+
+1.  Sneeze (15) — "This morning I sneezed without warning, casually peed a little, and let out an unfiltered 'awww man'." [T14]
+
+2.  Jump / jumping jacks (11) — "I also pee when I jump on trampolines… 1 in 4 women have it." [C3]
+
+3.  Run (10) — "Did my 5K - and peed my pants? (I've never given birth)." [T9]
+
+4.  Cough / a cold (9) — "I had COVID and bronchitis… leaked EVERY time I sneezed or had a coughing attack." [T10]
+
+5.  Double-unders / jump rope in CrossFit (6) — "anytime I get past 4 or 5 reps pee starts flowing." [T8]
+
+6.  Deadlift / squat / heavy lift (7) — "I pee myself almost every deadlift." [C17]
+
+7.  Trampoline park with the kids (4) — Jenny Mollen, backflip in front of her 4-yo: "I was jumping, jumping, jumping, then I looked at Jason like, 'I think I just peed.'" [T1]
+
+8.  Group-fitness treadmill (OTF) (3) — "I peed on the treadmill yesterday… I'm perimenopausal… now I feel silly going." [T6]
+
+9.  A dressed-up event, postpartum — the gala, 6 months PP, "had to stuff her underwear in her clutch." [T5]
+
+10. Sudden, unprovoked at home, days postpartum — "walked across my living room and fully, completely, without warning, peed my pants." [T3]
+
+So What → do this: These are ready-made ad hooks — each a concrete, filmable "POV" moment. Open ads on the moment, not the condition.
+
+Sources (Doc 2)
+
+Customer quotes [C#] = row # in customer_data_bank.csv (this folder's Google Sheet); trigger [T#] = history_triggers_features.md §18. Key URLs: [C1] reddit.com/r/pregnant/comments/11kzu33 · [C3] r/AskWomenOver30/1hctxd6 · [C7] r/TwoXChromosomes/1efrcnt · [C10] r/fitpregnancy/rv71ik · [C13] r/Perimenopause/1owcylo · [C14] r/crossfit/u74jlp · [C17] r/xxfitness/7uzcvz · [C23] r/XXRunning/1p9s88j · [C26] r/xxfitness/ita17h · [C28] r/XXRunning/1opzlyg · [C33] r/fitpregnancy/1k4e3q4 · [C38][C41][C42] trustpilot.com/review/everdries.com · [C49][C54] trustpilot.com/review/shethinx.com · [C52] facebook.com/100082827387929/videos/269482595783767 · [C67] chatelaine.com/health/pee-proof-underwear · [C71] runnersworld.com/gear/a27077351/knix-dream-short-review · [C72][C75] trustpilot.com/review/modibodi.com · [C80][C82] walmart.com/reviews/product/1659108733 · [C89] ridgeviewmedical.org · [C91] franciscanhealth.org · [C95]–[C101] amazon.com customer reviews (Everdries) · [C115] rosecityurology.com · [C123] r/Mom/1orfgqu · [C124] r/complaints/1kgjp97 · [C125] instagram.com/popular/leakage-pants · [C127] r/orangetheory/1jts4v8 · [C128] r/running/18krarm · [C132] r/orangetheory/usg1rr · [C134] r/xxfitness/6haoak · [C153] theguardian.com/lifeandstyle/2025/dec/30/peeing-after-childbirth-incontinence-sui-solution · [T1] popsugar.com/family/jenny-mollen-funniest-parenting-moments-44787762 · [T3][T5] mother.ly/health-wellness/womens-health/uresta-review · [T6] r/orangetheory/1jts4v8 · [T8] r/crossfit/u74jlp · [T9] r/running/xkh873 · [T10] facebook.com/groups/centralmainestriders · [T14] instagram.com/p/CgRuaNaOzWN · [M1] SUI onset ~45.4 (market_and_person.md, single weak source) · [H1] mypelvictherapy.com/post/postpartum-pelvic-physical-therapy
