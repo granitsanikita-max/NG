@@ -7,8 +7,8 @@ Why no single: one pair carries the worst COGS/shipping ratio (CJ $6.40/pair vs 
 
 | Tier | Name | Price | /pair | Saving vs Starter rate | Includes |
 |---|---|---|---|---|---|
-| 3 | **The Starter Set** | $69 | $23.00 | — (the per-pair anchor) | Free shipping · Seal-Saver Wash Bag · Prove-It Pour Test · 60-Night Leak-Test |
-| **5** | **The Everyday Rotation** ⭐ MOST POPULAR | **$89** | **$17.80** | Save $26 (23%) | Everything in Starter + **The Comeback Plan** |
+| 3 | **The Starter Set** | $69 | $23.00 | — (the per-pair anchor) | Free shipping · Seal-Saver Wash Bag · 60-Night Leak-Test |
+| **5** | **The Everyday Rotation** ⭐ MOST POPULAR | **$89** | **$17.80** | Save $26 (23%) | Everything in Starter + **Core-Care Wash Sheets** + **The Comeback Plan** |
 | 10 | **The Two-Week Rotation** 💎 BEST VALUE | $159 | $15.90 | Save $71 (31%) | Everything in Everyday + a free **Big-Day pair** (heavy/overnight tier, 11 pairs total) |
 
 - **Honest anchors:** every saving is maths off the $23/pair Starter rate we actually charge. No fake compare-at prices.
@@ -22,19 +22,20 @@ No gift ships unless it answers an objection from the data bank and moves her cl
 
 | Gift | Tier | Objection it kills (data-bank count) | How it's framed | Landed |
 |---|---|---|---|---|
-| **Prove-It Pour Test**: graduated measuring cup (~50ml), test instructions on the cup/email | 3+ | **#1 "It'll leak through like the others" (20) + "it's a scam / I fell for the marketing" (46 burned)** | "Don't trust us. Test us. Pour it in, shake it, check the sides — before you ever wear them out." Proof she runs herself; the physical twin of the published lab test + 60-Night Leak-Test | ~$0.10–0.30 |
 | **Seal-Saver Wash Bag**: zip mesh bag, Leapproof logo, brand colour, covered zip, care label | 3+ | **"They stop working after a few washes / quality declines" (6 + "basically became regular underwear")** | "Keeps the Leak-Lock seal and core intact wash after wash" | ~$1.00 |
+| **Core-Care Wash Sheets**: ~30 softener-free laundry detergent sheets (≈2–3 months of washes), Leapproof sleeve | 5+ | **"They stop absorbing after washes" (6 + "basically became regular underwear", "lose their sponge capabilities") + the unspoken "will they hold smell?"** | "Regular detergent and softener coat the core and kill absorbency. These don't. Wash right, and it holds pair after pair." Used every wash, every week; refills later ride the Refresh subscription | ~$1.50–3 |
 | **The Comeback Plan**: 28-day return-to-sport pelvic-floor program, co-created with a real named pelvic-floor PT | 5+ | **Habit/identity: "It's normal, I'll just live with it" + "leak underwear = admitting I'm old/broken" + "I should fix it, not hide it"** (belief chain #1 and #4; PT = #1 authority) | "Common, not normal. Wear these while you rebuild. They're your comeback gear, not a life sentence." | $0/unit (one-time PT fee) |
 | **Big-Day pair**: one extra pair in the heaviest tier | 10 | **"Still need a pad" (6) + "doesn't absorb enough / leaks at night" (8)** | "For the big days, the long runs and the nights. No backup pad, ever." | CJ ~$2.60 / Lynmiss ~$9–12 |
 
-Cut (no objection solved): Gym-Bag Spare Pouch, Comeback Band, Express shipping. The $20 Refresh Credit moves to the post-purchase retention flow (it's a retention tool, not a purchase gift).
-Printed insert card: deferred until sales start; Prove-It test instructions + Comeback Plan + care info go by email (plus printed on the cup/bag label).
-⚠️ Prove-It Pour Test only ships once we're on the product that actually passes it (Lynmiss, with our own ml test). On the CJ period panty it would expose the product: don't include it in Phase 1.
-FTC: only state a $ value for an item sold standalone at that price (Wash Bag $12, Comeback Plan $49, Big-Day pair $23). Present the Pour Test as "included", with no $ value.
+Cut: Gym-Bag Spare Pouch, Comeback Band, Express shipping (no objection solved); Prove-It Pour Test (used once, not a repeat-use gift). The $20 Refresh Credit moves to the post-purchase retention flow (it's a retention tool, not a purchase gift).
+Gift rule #2: physical gifts must be used repeatedly (not one-off).
+Printed insert card: deferred until sales start; Comeback Plan + care info go by email (plus the bag/sheet labels).
+⚠️ Wash Sheets compliance: no "antibacterial / kills 99.9% / antimicrobial" claims (EPA pesticide rules). Clean, softener-free, fragrance-free only.
+FTC: only state a $ value for an item sold standalone at that price (Wash Bag $12, Wash Sheets $14, Comeback Plan $49, Big-Day pair $23).
 
-**Value stacks:** Starter: 3 pairs ($69) + Wash Bag ($12) + Pour Test + shipping = $87+ value → $69 · Everyday: 5 pairs ($115) + Bag + Plan ($49) + Pour Test + shipping = $182 value → $89 · Two-Week: 11 pairs ($253) + Bag + Plan + Pour Test + shipping = $320 value → $159
+**Value stacks:** Starter: 3 pairs ($69) + Wash Bag ($12) + shipping = $87 value → $69 · Everyday: 5 pairs ($115) + Bag + Wash Sheets ($14) + Plan ($49) + shipping = $196 value → $89 · Two-Week: 11 pairs ($253) + Bag + Sheets + Plan + shipping = $334 value → $159
 
-Sourcing: source the bag + cup through CJ private inventory so they ship in the same parcel.
+Sourcing: source the bag + wash sheets through CJ private inventory so they ship in the same parcel.
 
 ## 3. Risk reversal
 
@@ -52,7 +53,7 @@ Sourcing: source the bag + cup through CJ private inventory so they ship in the 
 
 ## 5. First-order pop-up
 
-Question first ("What do you want to stop thinking about?") → **$10 off the Everyday or Two-Week Rotation**. Ad number: **"5 pairs + the Comeback Plan + Wash Bag for $79 — and we send you the test."**
+Question first ("What do you want to stop thinking about?") → **$10 off the Everyday or Two-Week Rotation**. Ad number: **"5 pairs + the Comeback Plan + Wash Bag for $79 "**
 
 ## 6. Unit economics
 
