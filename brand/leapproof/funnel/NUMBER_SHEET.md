@@ -1,76 +1,120 @@
-# LEAPPROOF — Number Sheet (single source of truth)
+# LEAPPROOF — Number Sheet v2 (single source of truth)
 
-Universal F3: every ad, page, quiz screen, cart, checkout and email pulls numbers from THIS sheet. Change it here first, then everywhere.
-Currency: **AUD** (Shopify Markets shows local currency per country). `[ ]` = not decided yet. Nothing in `[ ]` goes live.
+Universal F3: every ad, page, quiz screen, cart, checkout and email pulls its numbers from THIS sheet. Change it here first, then everywhere.
+**Market: Australia first, prices in AUD (recommended, D12).** `[ ]` = not decided. Nothing in `[ ]` goes live.
+Rows marked **PENDING** are recommended changes to the locked offer that need Nikita's OK.
 
-## Offer
-| Item | Value | Notes |
-|---|---|---|
-| Starter Set | 3 pairs · $69 · $23.00/pair | the per-pair anchor for all "save" maths |
-| Everyday Rotation (hero) | 5 pairs · $89 · $17.80/pair · save $26 (23%) | 5 × $23 = $115 |
-| Two-Week Rotation | 10 pairs · $159 · $15.90/pair · save $71 (31%) | 10 × $23 = $230 |
-| Quiz reward | $15 off the 5- or 10-pair set, first order, auto-applied after the quiz | replaces the separate popup (see plan §0) |
-| 5 pairs with quiz reward | $74 · $14.80/pair · save $41 (36%) vs $115 | the ad number "5 pairs + gifts for $74" |
-| 10 pairs with quiz reward | $144 · $14.40/pair · save $86 (37%) vs $230 | |
-| Single pairs | not sold | so no "normally $X" single-pair anchor may appear anywhere |
+## 1. Sets
+| Set | Pairs | Price | Per pair | vs $23/pair Starter rate |
+|---|---|---|---|---|
+| The Starter Set | 3 | $69 | $23.00 | the anchor |
+| The Everyday Rotation | 5 | $89 | $17.80 | save $26 (23%) |
+| The Two-Week Rotation (**PENDING rename → "The Full Rotation"**: 10 pairs isn't two weeks of daily wear) | 10 | $159 | $15.90 | save $71 (31%) |
 
-## Gifts (state a $ value ONLY if the item is sold on its own at that price — FTC)
-| Gift | Tier | Value shown | Status |
+- Tags: 5 = **"Our pick"** (not "Most popular": there are no orders yet). 10 = "Best value".
+- No single-pair *sets* are sold. Single pairs exist only as add-ons (bump/downsell), so no "normally $X" single-pair anchor may appear anywhere.
+
+## 2. Quiz finishing reward (PENDING, D5/D13)
+| Option | What she gets | 5-pair gross profit (CJ) | After $40 CAC |
 |---|---|---|---|
-| Seal-Saver Wash Bag | 3, 5, 10 | $18 | must be listed for sale standalone at $18 |
-| Core-Care Wash Sheets (30, unscented) | 5, 10 | $20 | must be listed standalone at $20 · **ships in a separate parcel** |
-| The Comeback Plan (digital, 28 days) | 5, 10 | $69 | must be listed standalone at $69 · "made with a pelvic-floor physio" ONLY once a real named physio is signed |
+| **A (recommended): gifts unlocked** | "Your free Wash Bag + Wash Sheets are unlocked" on 5 and 10 (they're already in the offer, so no extra cost) | ~$46 at $89 | **+$6** |
+| B: $15 off 5 and 10 | 5 = $74 ($14.80/pair) · 10 = $144 ($14.40/pair) | ~$31.44 at $74 | **−$8.56** |
+Option B loses money on the hero set at a $40 CAC before any refunds. If B is chosen, every "$15 off" line must say "first order, 5 or 10 pairs."
 
-Value stacks: Starter $87 → $69 · Everyday $222 → $89 ($74 with quiz reward) · Two-Week $337 → $159 ($144 with quiz reward).
+## 3. Gifts
+| Gift | Sets | Dollar value shown | Ships |
+|---|---|---|---|
+| Wash Bag (name **"Seal-Saver"** only on Lynmiss, if the garment has sealed edges) | 3, 5, 10 | **None at launch** (PENDING): a "value" must be a price it has genuinely sold at for a reasonable time (ACL s29(1)(i), FTC 233.1). Add a value only after it has really sold at that price. | with the underwear |
+| Core-Care Wash Sheets (30, unscented) | 5, 10 | None at launch (same rule) | **separate parcel** |
+| The Comeback Plan (digital) | **REMOVED until it exists** (PENDING) | — | — |
+Value stacks at launch: no dollar stacks. Show what each gift does, not what it's "worth."
+If the Comeback Plan is later made with a named physio and genuinely sold: Everyday = $115 + gifts; Two-Week = $230 + gifts (recompute then).
 
-## Risk reversal
-| Item | Value |
-|---|---|
-| Guarantee name | **[30-Night / 60-Night] Leak-Test** — DECISION (CJ product = 30, Lynmiss = 60) |
-| Guarantee terms | wear, wash, real leaks for [30/60] nights · don't hold → full refund · keep the pairs · nothing to send back |
-| Fit Promise | one free size swap per order · we ship the new size first |
-
-## Shipping & delivery
-| Item | Value |
-|---|---|
-| Shipping cost | free on every set |
-| Processing | [1–3 business days — confirm with CJ] |
-| Delivery estimate | [~7–13 business days from China — confirm per country before launch] |
-| Parcels | underwear + Wash Bag in one parcel · Wash Sheets in a second parcel, may arrive a few days apart |
-
-## Add-ons
-| Item | Value | Notes |
+## 4. Guarantee (D2 — one row goes live, never both)
+| Product | Name | Terms |
 |---|---|---|
-| Checkout bump | 1 Overnight / Heavy-Day pair · $25 · same box | no "normally $45" — there is no $45 single for sale |
-| Post-purchase 1-click | +3 pairs · $59 (instead of $69) · same box | |
-| Downsell (if 1-click declined) | 1 Overnight pair · $25 — **only if the bump wasn't taken** | otherwise skip straight to thank-you |
-| Shipping protection | $2.95 · opt-in, never pre-ticked | |
-| Refresh Rotation subscription | 3 pairs every 6 months · $55 (save $14) · free shipping · pause/cancel anytime | offered on thank-you page + Day 45 email only |
-| Referral | give $20, get $20 | from Day 21 |
+| **Lynmiss** | 60-Night Leak-Test | Wear and wash them through real leaks for 60 nights **from delivery**. If they don't hold, email us your order number and what happened. Full refund of the set (and bump/upsell pairs); **keep the pairs, nothing to send back.** One claim per customer. |
+| **CJ** (PENDING choice) | 30-Day Leak-Test | Same as above but 30 days from delivery. Keep-the-pairs on CJ carries refund risk (period panty); stop-loss below. Alternative: refund on return of the set within 30 days (weaker, doesn't answer "will it hold"). |
+- **Stop-loss:** if refund claims pass **10% of the first 50 orders**, pause ads and review before spending more.
+- **Fit Promise:** one free size swap per order. We ship the new size first; **no need to send the first pair back**. Cost to us: ~$9.79 per single-pair reship from CJ.
 
-## Proof numbers (fill only with real data)
+## 5. Shipping & delivery
 | Item | Value |
 |---|---|
-| Review count | [0 at launch — seeded count once real, un-rounded] |
-| Star rating | [none until real] |
-| Quizzes taken | [none until real — live counter only] |
-| Refund rate | [none until real] |
-| Lab absorbency | [none — no "ml" claim until a test report exists] |
-| PFAS test | [none — no "PFAS-free" claim until a TOF report exists] |
+| Shipping cost to her | free on every set |
+| Processing | [1–3 business days — confirm with CJ] |
+| Delivery | [about X–Y business days to Australia — confirm before launch] |
+| Parcels | underwear + Wash Bag together · Wash Sheets in a separate parcel, may arrive a few days apart |
+| Shipping protection | **Not offered in Australia** (ACL: the seller carries the risk until delivery). PENDING for other markets. |
 
-## Cited stats (allowed, with footnote)
-| Stat | Source |
+## 6. Add-ons
+| Item | Value | Condition |
+|---|---|---|
+| Checkout bump (PENDING, D11/M18) | **Real overnight/heavier SKU exists:** "1 overnight pair · $25 · same box" (no anchor). **No heavier SKU:** "+2 spare pairs for your gym bag · $29 ($14.50/pair) · same box" | unticked |
+| 1-click upgrade after checkout (PENDING, replaces "+3 for $59") | 5-pair buyer → "+5 pairs for $70 ($14/pair) = 10 pairs for $159 total" · 3-pair buyer → "+2 pairs for $20" (no Wash Sheets: their separate shipping makes it lose money) · 10-pair buyer → skip to downsell | one tap |
+| Downsell | the bump item, **only if the bump wasn't taken** | otherwise go to thank-you |
+| Refresh Rotation subscription | 3 pairs every 6 months · $55 ($18.33/pair, save $14 vs $69) · first charge 6 months after her order · pause/cancel anytime · email reminder 3 days before | Day 45 email only, never the thank-you page |
+| Referral | give $20, get $20 | Day 21 email |
+
+## 7. Cart/checkout rows
+| Row | Value |
 |---|---|
-| About 1 in 3 women leak after having a baby | postpartum UI meta-analysis, PMC8295150 |
-| Leaking rises from about 17% of women in their 20s to about 55% in their 50s | NHANES, PMC3505252 |
-| Studies put leaking in women who do CrossFit at about 1 in 5 up to nearly half | PubMed 35635565 (44.5%) + competing reviews (20–26%) — always state the range |
-| "NEVER considered normal" | Ridgeview Medical Center |
-| "Bladder leaks aren't a normal part of aging" | Franciscan Health |
-| "Menstrual pads can't absorb thin, fast-flowing urine effectively" | Rose City Urology |
-| France: every new mother gets social-security-paid pelvic-floor rehab (~10, up to 20 sessions) since a 1985 decree | ICS survey + UCSF OB/GYN |
+| Savings line | pair savings only (gifts have no dollar value at launch): 5 = "You save $26" · 10 = "You save $71" |
+| Discount code | none needed (Option A). Option B: auto-applied, named "QUIZ15" |
+| Currency | AUD, GST [included / not registered — confirm] |
 
-## Time claims
+## 8. Routing (quiz → pre-selected set) — the only routing table
+Pairs needed = days she wears them between washes + spares.
+| Q9 wear | Q12 wash | Pre-selected set | Playback line |
+|---|---|---|---|
+| Training days | once a week | 5 | "3–4 training days a week, washed weekly → 5 pairs" |
+| Training days | every few days | 5 | "a pair for each session between washes → 5 pairs" |
+| Every day | every few days | 5 | "a pair a day, washed every few days → 5 pairs" |
+| Every day | once a week | 10 | "a pair a day for a week, plus spares → 10 pairs" |
+| At night | once a week | 10 | "every night for a week, plus spares → 10 pairs" |
+| At night | every few days | 5 | |
+| A mix | once a week | 10 | |
+| A mix | every few days | 5 | |
+| any | as rarely as I can | 10 | "fewer washes → 10 pairs" |
+- **5 is the lowest recommendation.** The 3-pair Starter appears only as the down-sell under the recommended set ("Just want to try them? Start with 3.").
+- **Q4 amount never upsizes the set.** "It can be a lot" → honest "may need more than underwear" line, no bigger set.
+
+## 9. Profit check (CJ test product, AUD gross before CAC)
+| Order | Gross | After $20 CAC | After $40 CAC |
+|---|---|---|---|
+| 3 @ $69 | ~$49 | +$29 | +$9 |
+| 5 @ $89 (Option A) | ~$46 | +$26 | +$6 |
+| 5 @ $74 (Option B) | ~$31 | +$11 | −$9 |
+| 10 @ $159 (Option A) | ~$98 | +$78 | +$58 |
+| 10 @ $144 (Option B) | ~$84 | +$64 | +$44 |
+| 1-click 5→10 (+$70) | ~+$52 incremental | — | — |
+Not yet included: Fit Promise reships (~$9.79 each), keep-the-pairs refunds. Recompute after the first 50 orders.
+
+## 10. Proof numbers (real data only)
 | Item | Value |
 |---|---|
-| Quiz length | about 2 minutes (11 questions) — never "60 seconds" |
-| Loader | 5 seconds |
+| Review count / rating | [0 at launch — un-rounded real count once seeded] |
+| Quizzes taken | [live counter only] |
+| Refund rate | [only once real] |
+| Absorbency (ml) | [none until a lab report — Lynmiss only] |
+| PFAS | [none until a total-fluorine report] |
+
+## 11. Cited facts (exact wording only; never paraphrase inside quote marks)
+| Use as | Exact text | Source |
+|---|---|---|
+| Quote | Leaking is "NEVER considered normal." | Ridgeview Medical Center |
+| Quote | "Bladder Leaks Aren't A Normal Part of Aging" | Franciscan Health |
+| Quote (Lynmiss only) | "Menstrual pads can't absorb thin, fast-flowing urine effectively" | Rose City Urology |
+| Stat | About 1 in 3 women leak after having a baby.* | postpartum meta-analysis, PMC8295150 |
+| Stat | Leaking becomes more common with age.* (do not say "half by 50s" to a 40s audience) | NHANES, PMC3505252 |
+| Stat | Studies put it at about 1 in 5 up to nearly half of women who do CrossFit.* (always the range) | PubMed 35635565 + other reviews |
+| Fact | In France, new mothers get pelvic-floor rehab sessions (around 10, up to 20) paid for by the public health system, under a 1985 decree. | ICS survey + UCSF OB/GYN |
+| **Enemy sentence (Lynmiss)** | "Period pads and period underwear are built for a slow flow. A sneeze or a jump sends a fast burst." | category fact, backed by the urology quote |
+| **Enemy sentence (CJ)** | "Pads and liners bunch, feel like a diaper, and go in the bin every day." | customer data (#49, #67, #107, #152) |
+Always "period pads/period underwear," never bare "pads," when talking about the blood-vs-burst difference.
+
+## 12. Time claims
+| Item | Value |
+|---|---|
+| Quiz length | "about 2 minutes" (CJ: 12 questions; Lynmiss: 13; plus cards) |
+| Loader | 7 seconds, 4 lines |
