@@ -12,7 +12,7 @@ actually live). The spoken lines (VO) are copied word for word from your script 
 
 ---
 
-## 0. READ THIS FIRST — 3 decisions + 1 fix
+## 0. READ THIS FIRST — 3 decisions
 
 ### How the 3 formats and 3 hooks map to the 9 (your rule: "3 formats, 3 hooks for the nine")
 - **One format per video**, shared by that video's 3 angle-variants.
