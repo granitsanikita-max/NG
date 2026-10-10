@@ -1,6 +1,6 @@
 # LEAPPROOF — Final Offer Structure (v3)
 
-v3 (2026-10-10): **no single pairs**. Ladder is 3 / 5 / 10. Supersedes v2 ($35 single ladder) and the Step 2 ladder.
+v3 (2026-10-10, **LADDER LOCKED**): no single pairs. 3-pack $69 / 5-pack $89 (hero) / 10-pack $159, USD. Supersedes v2 and the Step 2 ladder.
 Why no single: one pair carries the worst COGS/shipping ratio (CJ $6.40/pair vs ~$2.95 at 5) and loses money on first-order CAC. A 3-pack minimum makes every order profitable.
 
 ## 1. The ladder
@@ -55,23 +55,61 @@ Sourcing: source the bag + wash sheets through CJ private inventory so they ship
 
 Question first ("What do you want to stop thinking about?") → **$10 off the Everyday or Two-Week Rotation**. Ad number: **"5 pairs + the Comeback Plan + Wash Bag for $79 "**
 
-## 6. Unit economics
+## 6. Unit economics & profit per tier
 
-Assumptions: processing 3% + $0.30 · CJ prices include shipping (3pc ~$3.50/u, 5pc ~$2.95/u, 10pc est. ~$2.60/u) · Lynmiss needs a 3PL (~$5.50 / $6.50 / $9 + $2 express).
+**Currency:** store sells in **USD** to the US. All CJ costs are quoted in **AUD** and converted at **AUD 1 = USD 0.65**. (Re-check the FX rate before you commit real spend.)
 
-| Order | Revenue | GM on CJ | GM on Lynmiss @ $9 | GM on Lynmiss @ $12 |
+### Landed cost per ORDER (shipping is one flat fee per order, not per pair)
+
+CJ test SKU — from live CJ screenshots, ships from China (NOT US warehouse yet):
+| Order | Product (AUD) | Ship (AUD) | Total (AUD) | **Landed (USD)** |
 |---|---|---|---|---|
-| Starter 3 | $69 | ~$55 (80%) | ~$33 | ~$24 |
-| Everyday 5 | $89 | ~$69 (77%) | ~$32 | ~$17 |
-| Two-Week 10 (+1 Big-Day pair) | $159 | ~$122 (77%) | ~$43 | ~$10 |
-| Bump pair | $19 | ~$15.50 | ~$9 | ~$6 |
-| Post-purchase +3 | $49 | ~$39 | ~$20 | ~$11 |
+| 3 pairs | 6.10 | 9.96 | 16.06 | **$10.44** |
+| 5 pairs | 10.16 | 12.17 | 22.33 | **$14.51** |
+| 10+1 pairs | ~22.33 | ~20 (est) | ~42 | **~$27** (confirm in CJ) |
 
-**Blended first order** (mix 30/55/15, 25% bump, 12% upsell, popup on ~40% of 5/10 orders):
-- **AOV ≈ $100**
-- **CJ:** GM ≈ $78/order → break-even ROAS ≈ 1.3; huge room on CAC
-- **Lynmiss @ $9:** GM ≈ $37/order → ≈ break-even at a $35 CAC; profit comes from upsell, refresh and referral
-- **Lynmiss @ $12:** loses on the first order. Do not swap until landed cost is ≤ $9, or raise the ladder ~$10/tier at swap time
+### Gift costs (USD)
+| Gift | Tier | China dropship (per order) | Bulk into US warehouse | Note |
+|---|---|---|---|---|
+| Seal-Saver Wash Bag | 3+ | ~$1 (light) | ~$1 | confirm it ships with the order |
+| Core-Care Wash Sheets (LALKERS unscented, AUD 16.06) | 5+ | **$10.44** | **~$1.50** | China per-order is the margin killer — bulk-stock it |
+| The Comeback Plan (digital, PT-made) | 5+ | $0/order | $0/order | one-time PT fee ~$500–1,500 |
+| Big-Day pair (11th pair) | 10 | in underwear cost | in underwear cost | — |
+
+### Profit per tier — PHASE 1 (CJ test product, USD sell)
+Costs: underwear landed (above) + gifts + fees (3% + $0.30). Shipping to customer is already inside the CJ landed cost.
+| Tier | Revenue | Underwear | Gifts | Fees | **Gross profit** | After $35 CAC |
+|---|---|---|---|---|---|---|
+| 3-pack | $69 | $10.44 | $1.00 | $2.37 | **$55.19 (80%)** | +$20 |
+| 5-pack (sheet dropshipped) | $89 | $14.51 | $11.44 | $2.97 | **$60.08 (68%)** | +$25 |
+| 5-pack (sheet bulk-stocked) | $89 | $14.51 | $2.50 | $2.97 | **$69.02 (78%)** | +$34 |
+| 10-pack (sheet dropshipped) | $159 | ~$27 | $11.44 | $5.07 | **~$115 (73%)** | +$80 |
+
+Phase 1 is fat on every tier — the underwear is only ~$2/pair, so even the $10.44 China-dropship sheet leaves healthy margin.
+
+### Profit per tier — PHASE 2 (real Lynmiss product, sheet BULK-stocked $1.50, own 3PL)
+Costs: underwear at Lynmiss/pair + gifts + 3PL ship ($5.50 / $6.50 / $7.50) + fees.
+| Tier | Revenue | **GM @ $9/pair** | after $35 CAC | **GM @ $12/pair** | after $35 CAC |
+|---|---|---|---|---|---|
+| 3-pack | $69 | $33.13 (48%) | −$2 | $24.13 | −$11 |
+| 5-pack | $89 | $32.03 (36%) | −$3 | $17.03 | −$18 |
+| 10-pack (11 pairs) | $159 | $44.93 (28%) | +$10 | $11.93 | −$23 |
+
+### Upsells (incremental, no extra CAC)
+| Add-on | Price | GM on CJ | GM on Lynmiss @ $9 |
+|---|---|---|---|
+| Cart bump — Overnight pair | $19 | ~$15 | ~$9 |
+| Post-purchase +3 pairs | $49 | ~$38 | ~$20 |
+
+### Blended first order
+Mix 30% / 55% / 15% across 3/5/10, 25% take the bump, 12% take the post-purchase upsell, popup on ~40% of 5/10-packs → **AOV ≈ $100**.
+- **Phase 1 (CJ):** GM ≈ $75–80/order → break-even ROAS ≈ 1.3. Huge CAC headroom to test the angle.
+- **Phase 2 (Lynmiss @ $9, sheet bulk):** GM ≈ $37/order → roughly break-even at a $35 CAC on the first order; profit comes from the bump, the post-purchase upsell, the 6-month Refresh sub and referrals.
+- **Phase 2 (Lynmiss @ $12):** loses money after CAC on every tier. **Do not swap to Lynmiss until landed ≤ $9/pair, or raise each tier ~$10.**
+
+### The two levers that decide everything
+1. **Get the real product (and the sheet) into a US warehouse** — the current CJ SKU ships from China (6–10 days + DDU customs fee risk to the customer), which will wreck delivery times and reviews at scale.
+2. **Bulk-stock the Wash Sheets** (~$1.50) instead of per-order China dropship ($10.44). On Lynmiss the dropship sheet turns the 5-pack into a ~$12 loss after CAC; bulk-stocked it stays positive.
 
 ## 7. Test variants
 
