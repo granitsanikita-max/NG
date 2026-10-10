@@ -1,288 +1,308 @@
 <!-- IRYN storyboards for the 9 PURCHASE-READY video scripts
      (Google Doc 1joW1dGHygDNg4ehtZj-YlzwSVrZAG3xxPXtWSu-Q3YA).
-     Built off research.md + current-live-offer.md. Formats picked from the Video Ad Formats
-     Miro board (TOF frame, 43 formats). Hooks picked from the Visual Hooks Library Miro board.
-     VO is VERBATIM from the script doc. No em-dashes in any new on-screen copy. -->
+     VO is VERBATIM from the script doc, sliced across scenes (words never changed).
+     Formats picked from the Video Ad Formats Miro board (TOF). Hooks from the Visual Hooks Library.
+     Dense shot-by-shot: a cut roughly every 1 to 1.5s on b-roll/montage; talking heads switch angle
+     every 4 to 5s with b-roll flashes between. Built off research.md + current-live-offer.md. -->
 
-# IRYN — Video Ad Storyboards (9 purchase-ready videos)
+# IRYN — Video Ad Storyboards (9 videos, dense shot-by-shot)
 
-3 videos, 3 angle-variants each = 9 ads. Everything below is built off `research.md`
-(ICP Jen, the ferritin-gap, the dual audience) and `current-live-offer.md` (what is
-actually live). The spoken lines (VO) are copied word for word from your script doc.
+3 videos, 3 angle-variants each = 9 ads. Every scene below is a real cut. Cadence: b-roll and montage change every ~1 to 1.5s; talking-head videos switch camera angle every ~4 to 5s and cut to b-roll flashes in between, so something changes on screen almost every second. VO is your exact script, sliced across the scenes.
 
----
+## 0. The 3 decisions (one format + one hook per video, shared across its 3 angle-variants)
 
-## 0. READ THIS FIRST — 3 decisions
-
-### How the 3 formats and 3 hooks map to the 9 (your rule: "3 formats, 3 hooks for the nine")
-- **One format per video**, shared by that video's 3 angle-variants.
-- **One visual hook per video**, shared by that video's 3 angle-variants.
-- The **only variable inside each video is the ANGLE** (C = normal bloodwork, S = not herself, B = sport). That is what makes it a clean test: same format, same hook, 3 different angles, so when one wins you know it was the angle, not the production.
-
-| Video | Format (from Miro TOF board) | Visual hook (from Miro Hooks board) | Who is on screen |
-|---|---|---|---|
-| **1 · Ferritin-Gap Reveal** | **#04 Educational UGC** (faceless: VO + text cards over fast b-roll) | **#62 Problem Reenactment** | No presenter. Teen + product b-roll. Mum VOICE only. |
-| **2 · Symptom-Stack Mum UGC** | **#07 Personal Learning / Epiphany** (mum selfie talking head + b-roll) | **#68 Setting Down Phone** | The MUM, on camera, selfie. Teen in b-roll only. |
-| **3 · Direct Callout** | **#N3 Brand Anthem Montage / Manifesto** (direct-address VO over fast montage) | **#09 Bold Headline Text Box** | Mum narrator (VO; optional 1 to-camera beat). Many girls in montage. |
-
-All three formats sit in the **Top of Funnel** frame of your Video Ad Formats board, because the audience is cold. All three hooks are silent-autoplay safe and work for spoken-word ads.
-
-### Rules baked into every shot (from research.md)
-- **Talk to Mum, not to the daughter.** The mum is the buyer. The teen only ever appears in b-roll, never addressed. (Meta restricts under-18 targeting anyway.)
-- **Never show her sick or limp.** Research tone rule. Show the tiredness through the scene (shoes still on, backpack by the door, asleep on top of the covers at 4pm, an untouched plate, a slower split time), not a pale limp close-up. Dignified, relatable, real.
-- **No medical claims.** Keep the scripted compliance language exactly: "healthcare professional," "ferritin, which is an iron-storage marker." No "fixes," "cures," "boosts energy," no ferritin numbers on screen.
-- **No em-dashes, no AI tells** in any on-screen text. Short, plain.
-- **Product truth:** raspberry strip, melts on the tongue, 19mg, one a day. That is all we claim.
-
-### Pacing you asked for (applied throughout)
-- **Talking head (Video 2):** camera framing/angle changes every **4 to 5s**, plus b-roll cutaways. Never one locked shot.
-- **VO over b-roll (Videos 1 & 3):** a new scene every **2 to 3s** (Video 1) and every **1.5 to 2.5s** (Video 3, the montage). Fast.
-
----
-
-## 1. Per-video analysis (what it says · who says it · avatar to source)
-
-Your ask: for each of the 9, what it says, who says it, and what avatar reference to go get. Table first, then the storyboards.
-
-### VIDEO 1 — FERRITIN-GAP REVEAL (faceless, VO + cards over b-roll)
-**What it says (all 3):** her bloodwork read normal but the daily problem stayed, we took the right questions (including ferritin) to her healthcare professional, and the part we could make easy was a raspberry strip she will actually take.
-**Who says it:** a warm US mum voiceover, 40 to 45. No face on camera.
-**Avatars to source:**
-- **Teen girl, 13 to 16**, suburban US, relatable (not a glossy model). Natural hair, school clothes. For V3, an **athlete** version (running or soccer kit).
-- **Mum's hands** (for handing over the strip / sliding the tablet).
-- **Product:** IRYN tin + single raspberry strip (macro).
-- B-roll settings: a normal kitchen, a bedroom, a school doorway, (V3) a track or field.
-
-| Variant | Angle | Length | Core line it lands |
-|---|---|---|---|
-| V1·1 | C — normal bloodwork | ~21s | "Normal on paper, still a fight at home." |
-| V1·2 | S — not herself | ~38s | "I thought I was losing her to her teenage years." |
-| V1·3 | B — sport | ~21s | "Training harder and getting slower." |
-
-### VIDEO 2 — SYMPTOM-STACK MUM UGC (mum selfie talking head)
-**What it says (all 3):** opens with a fast stack of what the mum saw, admits she blamed her daughter then herself, the tests said normal, she went back to the healthcare professional, and the daily win was a strip her daughter would actually take.
-**Who says it:** the **MUM, on camera**, selfie UGC, 40 to 50, US, relatable and a little raw. Not polished. V2·3 is a **sport mum** (team hoodie, bleachers/car).
-**Avatars to source:**
-- **Mum UGC creator / AI avatar, 40 to 50** (and a sportier mum look for V2·3).
-- Selfie setup: kitchen, car, or couch, handheld.
-- **Teen daughter** b-roll (same teen type as Video 1), plus a phone showing photos, a patient-portal screen reading "within normal range."
-- Product in the mum's hand.
-
-| Variant | Angle | Length | Opening symptom stack |
-|---|---|---|---|
-| V2·1 | S — not herself | ~42s | "Asleep by four. Pale in photos. Snapping, then crying." |
-| V2·2 | C — normal bloodwork | ~44s | "Wiped out by lunch. Foggy in class. Every test said fine." |
-| V2·3 | B — sport | ~43s | "Slower every meet. Not herself at practice." |
-
-### VIDEO 3 — DIRECT CALLOUT (manifesto montage, direct-address VO)
-**What it says (all 3):** names the exact mum in the first 3s ("this is for you"), reframes the problem as finding one she'll actually use, points the hard questions to a healthcare professional, and lands the strip as the easy daily routine.
-**Who says it:** a confident mum/older-sister **VO** (direct address). Optional single to-camera beat for the opening callout line. Keep the voice talking to Mum.
-**Avatars to source:**
-- A **set of 4 to 6 short teen-girl lifestyle clips, ages 12 to 18** (breakfast, lacing shoes, in class, mirror, laughing with friends, a start line). Variety of girls, all dignified. V3·3 = athletes.
-- A **narrator mum** (VO, optional on-camera for the first line).
-- Bold on-screen text template (garnet #A0203F on off-white, or white box black text).
-- Product beat.
-
-| Variant | Angle | Length | The callout it opens on |
-|---|---|---|---|
-| V3·1 | S — mum's own history | ~30s | "Quick one for mums who know how hard it is to keep an iron routine going." |
-| V3·2 | C — normal bloodwork | ~30s | "If you left an appointment with a normal result and still felt unsure, this is for you." |
-| V3·3 | B — strong to benched | ~30s | "For the mums whose daughter went from strong to benched." |
-
----
-
-## 2. The 3 formats (what to copy from Miro)
-
-**Format #04 — Educational UGC** → Video 1.
-What it is on the board: "Teaches something useful, product woven in." Reference to copy the look from: **8 Sheep Organics** (women's-health educational UGC, long runner). We run it **faceless**: calm teaching VO + clean text cards over fast b-roll, product woven in at the end. Cheapest to make with AI b-roll, most native education vehicle for a cold mum.
-
-**Format #07 — Personal Learning / Epiphany** → Video 2.
-Board definition: "One core lesson: 'wish I knew this sooner.' Product is the lesson." Reference to copy: **Women's Wellness Report (navea)** (women's-supplement confession, ~238 days live). The scripts are literally this ("I blamed her. Then I blamed myself." / "the thing I wish I understood sooner"). Mum selfie confession, friend-warning-a-friend.
-
-**Format #N3 — Brand Anthem Montage (Manifesto)** → Video 3.
-Board definition: "opens on a bold one-word line, then a fast montage of many people/moments under a single VO or word-by-word super that states what the brand believes, product in 1 to 2 beats, close on logo + tagline." This is the fastest-cutting vehicle (your "scenes must switch fast") and the most distinct from Videos 1 and 2. It carries IRYN's positioning (iron for her years, for the mum who won't let her fall through the gap).
-- **Judgment call to confirm:** your script calls Video 3 "Direct Callout." I'm executing that callout as a manifesto montage (VO + supers over fast clips) because it's the most distinct format and cuts fastest. If you'd rather keep a face, swap to a single mum talking straight to the lens and keep the same hook and lines. Say the word and I'll re-cut it as a talking head.
-
-## 3. The 3 hooks (first 3s, from the Visual Hooks Library)
-
-**Hook #62 — Problem Reenactment** → Video 1. The problem is acted out before a word lands. Here, dignified: teen home from school, shoes still on, backpack dropped, asleep on top of the covers at 4pm (or, for sport, hands on knees at the back of the pack). Instant "that's my kid" recognition with zero claims. Chosen over a stat hook on purpose, the scripts avoid numbers, so a stat card would force a claim we don't make.
-
-**Hook #68 — Setting Down Phone** → Video 2. First frames are shaky as the mum props/sets the phone down and settles in. Reads as a real, unscripted confession, which is exactly what the Epiphany format needs. Beats a polished lean-in for cold UGC trust.
-
-**Hook #09 — Bold Headline Text Box** → Video 3. A large high-contrast text block owns the top third from frame 1, readable on silent autoplay, naming the audience so the right mum self-selects and the wrong scroll passes. Perfect front door for a callout. (Alt for the Angle C / 2026-news feel: #10 Breaking News Lower Third, but it implies a news claim we aren't making, so Bold Headline is safer.)
-
----
-
-## 4. STORYBOARDS — all 9, shot by shot
-
-Columns: **t** = timecode · **VO** = spoken, verbatim · **Visual** = shot type + angle + action · **On-screen text** · **Cut**.
-
----
-
-### VIDEO 1 · VARIANT 1 — NORMAL BLOODWORK | Angle C | ~21s
-Format #04 Educational UGC (faceless) · Hook #62 Problem Reenactment · new scene every ~2 to 2.5s.
-
-| t | VO | Visual | On-screen text | Cut |
+| Video | Format (Miro TOF board) | Visual hook (Miro Hooks board) | On screen | Scene count |
 |---|---|---|---|---|
-| 0–3 | "Her bloodwork said normal. But the daily problem at home was still there." | HOOK. Wide, slow push-in: teen asleep on top of a made bed, 4pm light, backpack on the floor, shoes half off. | "Normal bloodwork." (small, top) | hard cut |
-| 3–5 | "I still could not get her to take an iron tablet..." | Kitchen counter, over-shoulder: mum's hand slides a tablet + water across; teen's hand pushes it back. | — | hard cut |
-| 5–7 | "...without it turning into a fight." | Macro: the untouched tablet beside the full glass. | — | hard cut |
-| 7–10 | "We spoke with her healthcare professional about the questions we still had, including ferritin..." | B-roll: a notepad/notes app, pen writing "Ask about iron stores (ferritin)." | "ferritin = an iron-storage marker" | hard cut |
-| 10–12 | "...which is an iron-storage marker." | B-roll: calm clinic door / waiting-room chairs (no actor doctor). | — | hard cut |
-| 12–15 | "Then we found the part we could make easy: a raspberry iron strip..." | Product reveal, macro: a strip lifted from the IRYN tin, raspberry sheen. | "melts on her tongue" | match cut |
-| 15–17 | "...that melts on her tongue." | The strip on the tongue, dissolving. Close. | — | hard cut |
-| 17–21 | "IRYN is 19mg, one strip a day. See the ingredients and the $20 USD first-order offer." | END CARD: tin + strip. | "19mg · one strip a day" · "$20 USD first-order offer" · CTA "Shop IRYN" | end |
+| **1 · Ferritin-Gap Reveal** | **#04 Educational UGC** (faceless: VO + text cards over fast b-roll) | **#62 Problem Reenactment** | No presenter. Teen + product b-roll. Mum VOICE only. | 14 / 26 / 14 |
+| **2 · Symptom-Stack Mum UGC** | **#07 Personal Learning / Epiphany** (mum selfie talking head + b-roll) | **#68 Setting Down Phone** | The MUM, on camera, selfie. Teen in b-roll. | 27 / 26 / 24 |
+| **3 · Direct Callout** | **#N3 Brand Anthem Montage / Manifesto** (direct-address VO over fast montage) | **#09 Bold Headline Text Box** | Mum narrator VO + many girls in montage. | 20 / 18 / 18 |
+
+Only the ANGLE changes inside each video (C = normal bloodwork, S = not herself, B = sport), so when one wins you know it was the angle, not the production.
+
+**Why these are the right formats (all Top of Funnel, because the audience is cold):**
+- **#04 Educational UGC** ("teaches something useful, product woven in"). Reference to copy: **8 Sheep Organics**. Run faceless so it's fast and cheap with AI b-roll. Fits the "normal bloodwork, still a problem, here's what we did" reveal.
+- **#07 Personal Learning / Epiphany** ("one core lesson, wish I knew this sooner, product is the lesson"). Reference: **Women's Wellness Report (navea)**, ~238 days live. The scripts ARE this ("I blamed her. Then I blamed myself." / "the thing I wish I understood sooner").
+- **#N3 Brand Anthem Montage / Manifesto** ("bold line, fast montage of many moments under one VO, product in 1 to 2 beats, close on logo + tagline"). Fastest-cutting vehicle, most distinct from Videos 1 and 2, carries the callout. If you'd rather a face talking to camera for Video 3, say so and I re-cut as a talking head, same hook and lines.
+
+**Why these hooks (first 3s, from your Visual Hooks Library, chosen to be the strongest scroll-stop per format):**
+- **#62 Problem Reenactment** (Video 1): the problem is acted out before a word, dignified (shoes still on, backpack dropped, asleep on top of the covers at 4pm; for sport, hands on knees at the back of the pack). Instant "that's my kid," zero claims. Picked over a stat hook because your scripts avoid numbers.
+- **#68 Setting Down Phone** (Video 2): shaky first frames as the mum props the phone and settles in. Reads as a real confession, which is what the Epiphany format needs.
+- **#09 Bold Headline Text Box** (Video 3): a high-contrast text block owns the top third from frame 1, silent-readable, names the audience so the right mum self-selects.
+
+## Per-video analysis (what it says · who says it · avatar to source)
+
+- **VIDEO 1 — Ferritin-Gap Reveal.** Says: bloodwork read normal but the daily problem stayed, we took the right questions (incl. ferritin) to her healthcare professional, and we made the daily part easy with a raspberry strip. Who says it: warm US mum VO, 40 to 45, no face. **Avatars to get:** a relatable teen girl 13 to 16 (athlete version for V3), mum's hands, IRYN tin + raspberry strip macro; settings: kitchen, bedroom, school doorway, (V3) track/field.
+- **VIDEO 2 — Symptom-Stack Mum UGC.** Says: fast stack of what she saw, blamed her kid then herself, tests said normal, went back to the HCP, the daily win was a strip she'll take. Who says it: the MUM on camera, selfie, 40 to 50, raw (sport-mum in a team hoodie for V3). **Avatars to get:** a mum UGC creator / AI avatar 40 to 50 (+ a sport-mum look), teen daughter b-roll, a phone with photos, a patient-portal screen.
+- **VIDEO 3 — Direct Callout.** Says: names the exact mum in 3s, reframes the problem as finding one she'll use, points hard questions to a HCP, lands the strip as the easy routine. Who says it: confident mum/older-sister VO (optional 1 to-camera beat). **Avatars to get:** 4 to 6 short teen-girl clips 12 to 18 (breakfast, shoes, class, mirror, start line; athletes for V3), a narrator mum, a bold-text template in garnet #A0203F.
+
+## Shot shorthand (used in every table)
+- **Size:** EWS/WS wide · MS medium · MCU chest · CU face · ECU extreme close · INS insert/macro.
+- **Angle + move:** eye / low / high / top (overhead) / OTS (over shoulder) / POV · push (push-in) · pull · hh (handheld) · whip · snap (snap-zoom) · track · rack (rack-focus).
+- **Video 2 talking-head framings:** A = straight-on selfie · B = off-angle · C = push-in close · OTS = over-shoulder on her phone · BR = b-roll cutaway.
+- **Cut:** cut (hard) · whip · match (match cut) · flash · ramp (speed-ramp).
+- Rules held throughout (from research.md): talk ABOUT the daughter to Mum, never to the teen; never show her sick or limp (imply tiredness through the scene); no medical claims; keep "healthcare professional" and "ferritin, an iron-storage marker" exactly; product truth only (raspberry strip, melts on the tongue, 19mg, one a day). Copy and offer stay exactly as scripted ("$20 USD first-order offer").
 
 ---
 
-### VIDEO 1 · VARIANT 2 — NOT HERSELF | Mum Voiceover | Angle S | ~38s
-Format #04 (faceless, mum VO) · Hook #62 Problem Reenactment · ~13 scenes, new scene every ~2.5 to 3s.
+## VIDEO 1 · VARIANT 1 — NORMAL BLOODWORK | Angle C | ~21s
+Format #04 Educational UGC (faceless) · Hook #62 Problem Reenactment · 14 scenes, cut ~every 1.5s.
 
-| t | VO | Visual | On-screen text | Cut |
-|---|---|---|---|---|
-| 0–2.5 | "I thought I was losing her to her teenage years." | HOOK. Handheld: teen drops her backpack by the door, kicks off shoes, flops on the couch, earbuds in, stares at nothing. | "I thought I was losing her." | hard cut |
-| 2.5–4 | (beat) | Her bedroom door clicking shut. | — | hard cut |
-| 4–6.5 | "She came home, went quiet, and fell asleep before dinner." | Kitchen: dinner plated, her chair empty, mum glances down the hall. | — | hard cut |
-| 6.5–9 | "I kept telling myself it was just her age." | Her asleep on top of the covers, 6pm, an untouched plate on the nightstand. (tired, not sick) | — | hard cut |
-| 9–12 | "Her bloodwork came back normal..." | Night, kitchen table, laptop: a patient portal reading "Results: within normal range." | "within normal range" | hard cut |
-| 12–15 | "...and I remember feeling more confused than relieved." | Mum rubs her forehead, closes the laptop halfway. | — | hard cut |
-| 15–18 | "We spoke with her healthcare professional about the questions we still had." | B-roll: a note "questions for her doctor" / clinic door. | — | hard cut |
-| 18–21 | "But the daily part was simple: she would not take tablets." | Kitchen morning: a tablet on the counter, teen shakes her head, turns away. | "she would not take tablets" | hard cut |
-| 21–24 | "IRYN was the first iron routine she did not argue with." | Product: IRYN tin opens, a raspberry strip lifted out. | — | match cut |
-| 24–28 | "It is a raspberry strip that melts on her tongue." | Teen places the strip on her tongue, small shrug, no fight. | "the one she did not argue with" | hard cut |
-| 28–31 | "One strip a day, 19mg..." | Routine montage, 1s each: strip at breakfast / in the lunchbox / by her toothbrush. | "one strip a day · 19mg" | fast cuts |
-| 31–34 | "...made to fit into her routine instead of becoming another fight." | Teen grabs her bag and heads out, a bit more herself. | — | hard cut |
-| 34–38 | "See the 19mg dissolving strip, the ingredients, and the $20 USD first-order offer." | END CARD: tin + strip. | "19mg dissolving strip" · "$20 USD first-order offer" · CTA | end |
-
----
-
-### VIDEO 1 · VARIANT 3 — SPORT | card-over-b-roll | Angle B | ~21s
-Format #04 (faceless) · Hook #62 Problem Reenactment (sport cut) · new scene every ~2 to 2.5s.
-
-| t | VO | Visual | On-screen text | Cut |
-|---|---|---|---|---|
-| 0–3 | "She was training harder and getting slower." | HOOK. Practice: a runner at the back of the pack, hands on knees; a coach clicks a stopwatch. (effort, dignified) | "Training harder. Getting slower." | hard cut |
-| 3–5 | "Her physical said she was fine..." | Close: a meet sheet / phone splits trending the wrong way. | "physical said fine" | hard cut |
-| 5–7 | "...but the routine at home was still a battle." | Home kitchen pre-practice: a tablet pushed away, gym bag on the chair. | — | hard cut |
-| 7–10 | "We asked her healthcare professional the questions we needed to ask..." | B-roll: note "ask about iron stores"; clinic door. | — | hard cut |
-| 10–12 | "...including about iron stores." | B-roll: portal reading "normal." | "iron stores = ferritin" | hard cut |
-| 12–15 | "Then we made the daily routine easier with a raspberry strip..." | Product macro: strip from tin, raspberry melt. | "melts on her tongue" | match cut |
-| 15–17 | "...that melts on her tongue." | Athlete takes the strip, laces up, jogs out. | — | hard cut |
-| 17–21 | "IRYN is 19mg, one strip a day. See the ingredients and the $20 USD first-order offer." | END CARD: tin + strip, start-line b-roll behind. | "19mg · one strip a day" · "$20 USD first-order offer" · CTA | end |
+| # | t | Shot (size/angle/move) | Visual | Text (overlay + anim) | VO | Cut |
+|---|---|---|---|---|---|---|
+| 1 | 0.0–1.4 | WS, high, slow push | HOOK. Teen face-down asleep on top of a made bed, 4pm amber light, backpack slumped by door, one shoe on | "NORMAL." stamp pops, shrinks to corner | "Her bloodwork said normal." | cut |
+| 2 | 1.4–3.0 | INS, top | Lab printout on the kitchen counter; a finger slides down the column to the word "Normal" | "...still not herself" type-on | "But the daily problem at home was still there." | whip |
+| 3 | 3.0–4.2 | MCU, eye, hh | Morning kitchen: mum's hand slides a tablet + water glass toward the teen | — | "I still could not get her" | cut |
+| 4 | 4.2–5.4 | CU, high | Teen's hand pushes the glass back, she turns her face away | — | "to take an iron tablet" | cut |
+| 5 | 5.4–7.0 | INS, macro | The tablet spins to a stop beside the full, untouched glass | "every. single. morning." (word-by-word) | "without it turning into a fight." | match (tablet to clinic clock) |
+| 6 | 7.0–8.4 | INS, top | Notepad, pen writing "Ask about her iron stores (ferritin)" | type-on with the pen | "We spoke with her healthcare professional" | cut |
+| 7 | 8.4–9.8 | WS, eye | Calm clinic waiting-room chairs, soft focus, no faces | — | "about the questions we still had," | cut |
+| 8 | 9.8–12.0 | CU, push | The word "ferritin" on the note gets a hand-drawn circle | "ferritin = an iron-storage marker" lower third | "including ferritin, which is an iron-storage marker." | flash |
+| 9 | 12.0–13.3 | INS, macro | IRYN tin lid twists off; one raspberry strip peeled from the stack | "the easy part" small | "Then we found the part we could make easy:" | cut |
+| 10 | 13.3–14.6 | ECU | The strip held up to the light, translucent red sheen | — | "a raspberry iron strip" | cut |
+| 11 | 14.6–17.0 | ECU, push | Strip laid on the tongue, dissolving, no water | "melts on her tongue" pop | "that melts on her tongue." | ramp |
+| 12 | 17.0–18.3 | MS, eye | Product beauty: tin standing, strip leaning on it, clean bg | "IRYN" wordmark fades in | "IRYN is 19mg," | cut |
+| 13 | 18.3–19.6 | INS | A hand sets one strip on a calendar square | "19mg · one strip a day" | "one strip a day." | cut |
+| 14 | 19.6–21.0 | END CARD, eye | Tin + strip, CTA button | "$20 USD first-order offer" + CTA "Shop IRYN" | "See the ingredients and the $20 USD first-order offer." | end |
 
 ---
 
-### VIDEO 2 · VARIANT 1 — NOT HERSELF | Mum UGC | Angle S | ~42s
-Format #07 Epiphany (mum selfie) · Hook #68 Setting Down Phone · angle/framing changes every ~4s + b-roll cutaways.
-Framing key: **A** = straight-on selfie at arm's length · **B** = slightly low/off-angle · **C** = push-in close · **BR** = b-roll insert · **OS** = over-shoulder on her phone.
+## VIDEO 1 · VARIANT 2 — NOT HERSELF | Mum Voiceover | Angle S | ~38s
+Format #04 (faceless, mum VO) · Hook #62 Problem Reenactment · 26 scenes, cut ~every 1.4s.
 
-| t | VO | Visual (framing) | On-screen text | Cut |
-|---|---|---|---|---|
-| 0–2 | (settles in) | HOOK #68: shaky, mum props the phone, sits, exhales. | — | handheld |
-| 2–4 | "Asleep by four. Pale in photos. Snapping, then crying. I thought I was watching my daughter become a different person." | **A** she starts talking, intercut with 0.5s BR FLASHES on each symptom: asleep at 4pm / a pale photo / a door slam. | "asleep by four" / "pale" / "snapping" (flash with each) | flash cuts |
-| 4–8 | "The part we could actually control was finding an iron routine she would take every day." | **B** off-angle, calmer. | — | angle change |
-| 8–11 | "I blamed her. Then I blamed myself." | **C** push-in close, most intimate. | — | push-in |
-| 11–15 | "I told myself she was a teenager and she had stopped trying." | **BR**: mum scrolling tired photos of her kid, then back to her face. | — | cutaway |
-| 15–18 | "Her bloodwork came back normal..." | **A** + quick BR of portal "within normal range." | "within normal range" | cutaway |
-| 18–22 | "...so we went back to her healthcare professional with the questions we still had." | **OS** she holds up the phone/portal. | — | angle change |
-| 22–25 | "That conversation mattered. But at home..." | **B** off-angle. | — | angle change |
-| 25–29 | "...the hardest part was still getting her to take a tablet." | **BR**: the tablet standoff at the counter. | — | cutaway |
-| 29–32 | "IRYN is a raspberry iron strip that melts on her tongue." | **C** product in her hand (selfie), she peels a strip. | "raspberry · melts on her tongue" | hard cut |
-| 32–36 | "No swallowing a pill. No daily argument." | **BR**: daughter takes it, no fuss, grabs her bag. | "No pill. No argument." | cutaway |
-| 36–42 | "It is 19mg, one strip a day. See the ingredients and the $20 USD first-order offer." | **A** mum + END CARD overlay. | "19mg · one strip a day" · "$20 USD first-order offer" · CTA | end |
-
----
-
-### VIDEO 2 · VARIANT 2 — NORMAL BLOODWORK | Mum UGC | Angle C | ~44s
-Format #07 (mum selfie) · Hook #68 Setting Down Phone · same framing key (A/B/C/BR/OS), new angle every ~4 to 5s.
-
-| t | VO | Visual (framing) | On-screen text | Cut |
-|---|---|---|---|---|
-| 0–2 | (settles in) | HOOK #68: shaky set-down of the phone, she settles. | — | handheld |
-| 2–4 | "Wiped out by lunch. Foggy in class. And every test kept saying she was fine." | **A** + 0.5s BR flashes: head on a desk / foggy classroom / a "normal" result line. | "wiped out" / "foggy" / "fine?" (flash) | flash cuts |
-| 4–8 | "I knew I needed answers, but I also knew she was not going to take another hard-to-swallow tablet." | **B** off-angle. | — | angle change |
-| 8–12 | "I took her in twice. We heard normal twice." | **C** push-in + BR of the portal "within normal range" stamped twice. | "normal. twice." | cutaway |
-| 12–16 | "I walked out each time still unsure what to do next." | **A**, a little flat, honest. | — | angle change |
-| 16–20 | "We spoke with her healthcare professional about the right questions for her, including ferritin..." | **OS** she shows a note: "ask about ferritin (iron stores)." | "ferritin = an iron-storage marker" | angle change |
-| 20–24 | "...as an iron-storage marker." | **BR**: clinic door / waiting room. | — | cutaway |
-| 24–31 | "But whatever the answer was, the daily routine still had to be something she could actually stick with." | **B** then **C**: back to the mum, a touch of resolve. | — | angle change |
-| 31–35 | "IRYN is 19mg, raspberry, and melts on her tongue." | **C** product in hand, peels a strip. | "19mg · raspberry · melts on her tongue" | hard cut |
-| 35–39 | "One strip a day, without a pill fight." | **BR**: daughter takes it at breakfast, no fight. | "no pill fight" | cutaway |
-| 39–44 | "See the ingredients and the $20 USD first-order offer." | **A** mum + END CARD overlay. | "$20 USD first-order offer" · "See the ingredients" · CTA | end |
+| # | t | Shot | Visual | Text | VO | Cut |
+|---|---|---|---|---|---|---|
+| 1 | 0.0–1.5 | WS, high, push | HOOK. Teen pushes the front door open, drops her backpack, kicks off shoes | "I thought..." type-on | "I thought I was losing her" | cut |
+| 2 | 1.5–2.8 | MS, hh | She flops onto the couch, earbuds in, blank stare at the ceiling | — | "to her teenage years." | whip |
+| 3 | 2.8–4.0 | INS | Her phone slides out of her hand onto the cushion, screen dims | — | (beat) | cut |
+| 4 | 4.0–5.3 | MS, eye | Kitchen: mum calls down the hall, no answer | — | "She came home, went quiet," | cut |
+| 5 | 5.3–6.6 | WS | Dining table set for dinner, her chair empty | — | "and fell asleep" | cut |
+| 6 | 6.6–9.0 | CU, high | Teen asleep on top of the covers, 6pm light, an untouched plate on the nightstand (tired, not sick) | — | "before dinner. I kept telling myself it was just her age." | match (dark room to dark laptop) |
+| 7 | 9.0–10.4 | OTS | Mum at the kitchen table at night, patient portal on the laptop | — | "Her bloodwork came back normal," | cut |
+| 8 | 10.4–11.8 | INS, push | Screen: "Results: within normal range" | "within normal range" box | "and I remember" | cut |
+| 9 | 11.8–13.2 | CU | Mum's face lit by the screen, unsure, rubs her forehead | — | "feeling more confused" | cut |
+| 10 | 13.2–15.0 | MS | She half-closes the laptop and sits back | — | "than relieved." | cut |
+| 11 | 15.0–16.3 | INS | A hand writes "questions for her doctor" on a notepad | type-on | "We spoke with her healthcare professional" | cut |
+| 12 | 16.3–17.6 | WS | Calm clinic door / waiting chairs | — | "about the questions we still had." | whip |
+| 13 | 17.6–19.3 | MCU | Morning kitchen: a tablet + water slid toward the teen | — | "But the daily part was simple:" | cut |
+| 14 | 19.3–21.0 | CU | Teen shakes her head, turns away from the tablet | "she would not take tablets" | "she would not take tablets." | match (tablet to tin) |
+| 15 | 21.0–22.4 | INS, macro | IRYN tin twists open | — | "IRYN was the first iron routine" | cut |
+| 16 | 22.4–23.8 | ECU | A raspberry strip peeled from the stack | — | "she did not argue with." | cut |
+| 17 | 23.8–25.4 | ECU, push | Strip on the tongue, dissolving | "melts on her tongue" pop | "It is a raspberry strip that melts on her tongue." | cut |
+| 18 | 25.4–26.7 | MS | Teen gives a small shrug, almost a smile, no fight | — | (tail) | cut |
+| 19 | 26.7–28.0 | INS | Strip laid beside her toothbrush | — | — | cut |
+| 20 | 28.0–29.3 | INS | Strip tucked into a lunchbox | "one strip a day" | "One strip a day," | cut |
+| 21 | 29.3–30.6 | INS | Strip on a breakfast plate | "19mg" | "19mg," | cut |
+| 22 | 30.6–32.3 | MS | Teen takes it at the counter, grabs her bag | — | "made to fit into her routine" | cut |
+| 23 | 32.3–34.0 | WS | She heads out the door, a bit more herself, morning light | — | "instead of becoming another fight." | ramp |
+| 24 | 34.0–35.3 | MS, product | Tin + strip beauty, wordmark fades in | "19mg dissolving strip" | "See the 19mg dissolving strip," | cut |
+| 25 | 35.3–36.6 | INS | Ingredient panel / label close | "the ingredients" | "the ingredients," | cut |
+| 26 | 36.6–38.0 | END CARD | Tin + CTA | "$20 USD first-order offer" + CTA | "and the $20 USD first-order offer." | end |
 
 ---
 
-### VIDEO 2 · VARIANT 3 — SPORT | Sport-Mum UGC | Angle B | ~43s
-Format #07 (sport-mum selfie: team hoodie, car or bleachers) · Hook #68 Setting Down Phone · new angle every ~4 to 5s · BR = track/sideline.
+## VIDEO 1 · VARIANT 3 — SPORT | card-over-b-roll | Angle B | ~21s
+Format #04 (faceless) · Hook #62 Problem Reenactment (sport cut) · 14 scenes, cut ~every 1.5s.
 
-| t | VO | Visual (framing) | On-screen text | Cut |
-|---|---|---|---|---|
-| 0–2 | (settles in) | HOOK #68: sport mum props the phone in the car / on the bleachers, exhales. | — | handheld |
-| 2–4 | "Slower every meet. Not herself at practice. I honestly thought she had stopped trying." | **A** + 0.5s BR flashes: a slower finish / hands on knees / an empty lane. | "slower every meet" (flash) | flash cuts |
-| 4–8 | "The thing I wish I understood sooner was that the daily routine mattered as much as the questions we were asking." | **B** off-angle. | — | angle change |
-| 8–16 | "Her physical came back fine, so we went back to her healthcare professional and talked through what was going on." | **C** push-in + BR of a "sports physical: cleared" form. | "physical: fine" | cutaway |
-| 16–24 | "Training changes can have many causes. We wanted individual guidance, not guesses." | **A** then **OS**: she holds a note "questions for her doctor." | "individual guidance, not guesses" | angle change |
-| 24–31 | "But we also needed an iron format she would take before practice without another argument." | **B**, then BR of the pre-practice tablet standoff. | — | cutaway |
-| 31–38 | "IRYN is a raspberry strip that melts on her tongue. 19mg, one strip a day." | **C** product in hand; BR athlete takes the strip, laces up. | "19mg · one strip a day" | hard cut |
-| 38–43 | "See the ingredients and the $20 USD first-order offer." | **A** sport mum + END CARD overlay, start-line BR behind. | "$20 USD first-order offer" · CTA | end |
-
----
-
-### VIDEO 3 · VARIANT 1 — MUM'S OWN HISTORY | Direct Callout | Angle S | ~30s
-Format #N3 Manifesto montage · Hook #09 Bold Headline Text Box · fastest cutting, new clip every ~1.5 to 2.5s, one line of copy per clip.
-
-| t | VO | Visual | On-screen text (bold super) | Cut |
-|---|---|---|---|---|
-| 0–2 | "Quick one for mums who know how hard it is to keep an iron routine going." | HOOK #09: bold text block over a quick clip of a girl at breakfast. | "Mums who can't keep an iron routine going:" | hard cut |
-| 2–3 | (continues) | A hand putting a tablet back in a drawer. | — | hard cut |
-| 3–5 | "The teen version of that problem is not always finding another product." | Montage: different girls (class, mirror, kitchen). | "Not another product." | fast cuts |
-| 5–7 | "It is finding one she will actually use." | A girl shrugging away a pill. | "The one she'll actually use." | hard cut |
-| 7–10 | "My own experience made me pay attention sooner..." | Single warm to-camera beat: the narrator mum (optional), or a mum looking at an old photo of herself. | — | hard cut |
-| 10–13 | "...but her needs were always her own." | B-roll: her daughter, present day. | — | hard cut |
-| 13–16 | "We spoke with her healthcare professional about the questions we had, including ferritin..." | Note "ask about ferritin (iron stores)"; clinic door. | "ferritin = an iron-storage marker" | hard cut |
-| 16–20 | "...as an iron-storage marker." | Calm clinic b-roll. | — | hard cut |
-| 20–23 | "For the daily routine, IRYN is a 19mg raspberry strip that melts on her tongue." | Product: strip from tin, macro melt. | "19mg · raspberry · one a day" | match cut |
-| 23–26 | (continues) | Girl takes the strip, out the door, a bit lighter. | — | hard cut |
-| 26–30 | "One strip a day. See the ingredients and the $20 USD first-order offer." | END CARD: IRYN logo + tagline "iron for her years." | "$20 USD first-order offer" · CTA | end |
+| # | t | Shot | Visual | Text | VO | Cut |
+|---|---|---|---|---|---|---|
+| 1 | 0.0–1.4 | WS, low, track | HOOK. A runner at the back of the pack on a track, pushing hard | "training harder" | "She was training harder" | cut |
+| 2 | 1.4–3.0 | INS | A coach's hand clicks a stopwatch | "getting slower" | "and getting slower." | whip |
+| 3 | 3.0–4.4 | INS, top | A meet sheet / phone splits trending slower (times rising) | — | "Her physical said she was fine," | cut |
+| 4 | 4.4–5.7 | MCU | A "Cleared" box ticked on a sports-physical form | "physical: fine" | (tail) | cut |
+| 5 | 5.7–7.0 | MCU, hh | Home kitchen pre-practice: a tablet pushed aside, gym bag on the chair | — | "but the routine at home was still a battle." | match |
+| 6 | 7.0–8.4 | INS | Pen writes "ask about her iron stores" | type-on | "We asked her healthcare professional" | cut |
+| 7 | 8.4–9.8 | WS | Calm clinic waiting area | — | "the questions we needed to ask," | cut |
+| 8 | 9.8–12.0 | CU | "iron stores" on the note gets a hand-drawn circle | "iron stores = ferritin" lower third | "including about iron stores." | flash |
+| 9 | 12.0–13.3 | INS, macro | IRYN tin opens, a strip peeled | "the easy part" | "Then we made the daily routine easier" | cut |
+| 10 | 13.3–15.0 | ECU | Raspberry strip to the light | — | "with a raspberry strip" | cut |
+| 11 | 15.0–17.0 | ECU, push | Strip on the tongue, dissolving | "melts on her tongue" | "that melts on her tongue." | ramp |
+| 12 | 17.0–18.3 | MS, low | Athlete takes the strip, laces up her spikes | — | "IRYN is 19mg," | cut |
+| 13 | 18.3–19.6 | WS | She jogs out onto the track, start-line energy | "19mg · one strip a day" | "one strip a day." | cut |
+| 14 | 19.6–21.0 | END CARD | Tin + strip, start line behind | "$20 USD first-order offer" + CTA | "See the ingredients and the $20 USD first-order offer." | end |
 
 ---
 
-### VIDEO 3 · VARIANT 2 — NORMAL BLOODWORK | Direct Callout | Angle C | ~30s
-Format #N3 Manifesto montage · Hook #09 Bold Headline Text Box · new clip every ~1.5 to 2.5s.
+## VIDEO 2 · VARIANT 1 — NOT HERSELF | Mum UGC | Angle S | ~42s
+Format #07 Epiphany (mum selfie) · Hook #68 Setting Down Phone · 27 scenes. Angle switches every ~4s (A/B/C/OTS) with fast BR flashes between.
 
-| t | VO | Visual | On-screen text (bold super) | Cut |
-|---|---|---|---|---|
-| 0–3 | "If you left an appointment with a normal result and still felt unsure, this is for you." | HOOK #09: bold text block over a clip of a mum leaving a clinic with paperwork. | "Normal result. Still unsure?" | hard cut |
-| 3–7 | "IRYN is not another hard-to-swallow tablet. It is a raspberry strip that melts on her tongue." | Fast cut: a tablet set down, then a raspberry strip on a tongue. | "not another tablet" | match cut |
-| 7–10 | "You were trying to help. You saw she was tired..." | Montage: a mum noticing her kid tired at the table. | "You did the responsible thing." | fast cuts |
-| 10–13 | "...and you did the responsible thing by asking questions." | A note with questions; the portal "within normal range." | "within normal range" | hard cut |
-| 13–17 | "A qualified healthcare professional can help with individual questions about iron, including ferritin..." | Calm clinic door / waiting room. | "ferritin = an iron-storage marker" | hard cut |
-| 17–20 | "...as an iron-storage marker." | Girl in class, then home. | — | hard cut |
-| 20–23 | "The part we could simplify was the routine: 19mg, one daily..." | Product: strip from tin, macro melt, girl takes it. | "19mg · one a day" | match cut |
-| 23–26 | "...without a tablet to fight over." | Girl grabs her bag, out the door. | "no pill fight" | hard cut |
-| 26–30 | "See the ingredients and the $20 USD first-order offer." | END CARD: logo + "iron for her years." | "$20 USD first-order offer" · CTA | end |
+| # | t | Shot | Visual | Text | VO | Cut |
+|---|---|---|---|---|---|---|
+| 1 | 0.0–1.3 | TH-A, hh | HOOK #68: shaky, mum props the phone, sits, exhales, looks into the lens | — | (settle) | cut |
+| 2 | 1.3–2.1 | BR, high | Teen asleep on the couch at 4pm | "asleep by four" pop | "Asleep by four." | flash |
+| 3 | 2.1–2.9 | BR, INS | A phone photo of the pale teen | "pale" pop | "Pale in photos." | flash |
+| 4 | 2.9–3.6 | BR, MS | A bedroom door slams | "snapping" pop | "Snapping, then crying." | flash |
+| 5 | 3.6–5.0 | TH-A | Mum, tight, emotional | — | "I thought I was watching my daughter become a different person." | angle |
+| 6 | 5.0–6.5 | TH-B | Mum, calmer, off-angle | — | "The part we could actually control" | cut |
+| 7 | 6.5–8.0 | BR, INS | A hand resting on the IRYN tin beside a wall calendar | — | "was finding an iron routine she would take every day." | cut |
+| 8 | 8.0–9.5 | TH-C, push | Most intimate, eyes | — | "I blamed her." | hold |
+| 9 | 9.5–11.0 | TH-C | Beat, swallow | — | "Then I blamed myself." | cut |
+| 10 | 11.0–12.5 | BR | Mum scrolling tired photos of her kid | — | "I told myself she was a teenager" | cut |
+| 11 | 12.5–15.0 | TH-A | Back to the lens | — | "and she had stopped trying." | angle |
+| 12 | 15.0–16.3 | TH-B | | — | "Her bloodwork came back normal," | cut |
+| 13 | 16.3–17.8 | BR, INS | Portal "within normal range" | "within normal range" | (tail) | cut |
+| 14 | 17.8–20.0 | TH-OTS | She holds the phone up to the lens showing the portal | — | "so we went back to her healthcare professional" | cut |
+| 15 | 20.0–22.0 | BR, WS | Clinic waiting room | — | "with the questions we still had." | angle |
+| 16 | 22.0–24.0 | TH-A | | — | "That conversation mattered." | cut |
+| 17 | 24.0–25.5 | TH-B | slight shrug | — | "But at home," | cut |
+| 18 | 25.5–27.0 | BR, MCU | Tablet standoff at the counter, teen turns away | — | "the hardest part was still" | cut |
+| 19 | 27.0–29.0 | BR, CU | The tablet left on the counter | — | "getting her to take a tablet." | match (tablet to tin) |
+| 20 | 29.0–30.3 | TH-C, product | Mum holds the IRYN tin to the lens, peels a strip | — | "IRYN is a raspberry iron strip" | cut |
+| 21 | 30.3–31.8 | ECU | Strip on the tongue, dissolving | "melts on her tongue" | "that melts on her tongue." | cut |
+| 22 | 31.8–33.0 | BR | Teen takes it, no fuss | "No pill." | "No swallowing a pill." | cut |
+| 23 | 33.0–34.5 | BR | Teen grabs her bag, out the door | "No argument." | "No daily argument." | cut |
+| 24 | 34.5–36.0 | TH-A | Mum, warm, resolved | — | (tail) | cut |
+| 25 | 36.0–37.5 | TH-A, product | Holds the tin | "19mg · one a day" | "It is 19mg, one strip a day." | cut |
+| 26 | 37.5–39.0 | BR, INS | Label / ingredients | "the ingredients" | "See the ingredients" | cut |
+| 27 | 39.0–42.0 | END CARD | Tin + CTA over the mum | "$20 USD first-order offer" + CTA | "and the $20 USD first-order offer." | end |
 
 ---
 
-### VIDEO 3 · VARIANT 3 — STRONG TO BENCHED | Direct Callout | Angle B | ~30s
-Format #N3 Manifesto montage (athlete cut) · Hook #09 Bold Headline Text Box · new clip every ~1.5 to 2.5s.
+## VIDEO 2 · VARIANT 2 — NORMAL BLOODWORK | Mum UGC | Angle C | ~44s
+Format #07 (mum selfie) · Hook #68 Setting Down Phone · 26 scenes. Angle switches every ~4s, BR flashes between.
 
-| t | VO | Visual | On-screen text (bold super) | Cut |
-|---|---|---|---|---|
-| 0–3 | "For the mums whose daughter went from strong to benched, this is the simple routine we found easier to keep." | HOOK #09: bold text over a clip of a girl on the bench watching her team. | "From strong to benched?" | hard cut |
-| 3–7 | "IRYN is a raspberry iron strip that melts on her tongue. One daily, without another pill fight." | Fast cut: tablet set aside, raspberry strip on a tongue. | "one daily · no pill fight" | match cut |
-| 7–10 | "Before anyone blames her effort..." | Montage: a coach with a stopwatch, a slower finish, hands on knees. | "Before you blame her effort." | fast cuts |
-| 10–13 | "...remember that training changes can have many causes." | Start line, cleats, a race bib. | "many causes" | hard cut |
-| 13–17 | "We spoke with her healthcare professional about her individual needs and the questions that mattered for her." | Note "questions for her doctor"; clinic door. | "individual guidance, not guesses" | hard cut |
-| 17–20 | (continues) | Athlete in the kitchen pre-practice. | — | hard cut |
-| 20–23 | "The format mattered because she would actually take it: 19mg, raspberry..." | Product: strip from tin, macro melt; athlete takes it. | "19mg · raspberry · one a day" | match cut |
-| 23–26 | "...one strip a day." | Athlete laces up, jogs onto the track. | — | hard cut |
-| 26–30 | "See the ingredients and the $20 USD first-order offer." | END CARD: logo + "iron for her years," start-line b-roll. | "$20 USD first-order offer" · CTA | end |
+| # | t | Shot | Visual | Text | VO | Cut |
+|---|---|---|---|---|---|---|
+| 1 | 0.0–1.3 | TH-A, hh | HOOK #68: mum sets the phone down, settles | — | (settle) | cut |
+| 2 | 1.3–2.1 | BR, flash | Teen's head on a school desk | "wiped out" | "Wiped out by lunch." | flash |
+| 3 | 2.1–2.9 | BR, POV | Foggy classroom, whiteboard out of focus | "foggy" | "Foggy in class." | flash |
+| 4 | 2.9–4.0 | BR, INS | "normal" on a result line | "fine?" | "And every test kept saying she was fine." | flash |
+| 5 | 4.0–6.0 | TH-A | Mum to the lens | — | "I knew I needed answers," | angle |
+| 6 | 6.0–8.0 | TH-B | | — | "but I also knew she was not going to take another hard-to-swallow tablet." | cut |
+| 7 | 8.0–9.5 | TH-C, push | | — | "I took her in twice." | cut |
+| 8 | 9.5–11.0 | BR, INS | Portal "within normal range" stamp 1 | "normal" | "We heard normal twice." | cut |
+| 9 | 11.0–12.5 | BR, INS | Portal stamp 2 | "normal x2" | (tail) | cut |
+| 10 | 12.5–14.5 | TH-A | flat, honest | — | "I walked out each time" | cut |
+| 11 | 14.5–16.0 | TH-B | | — | "still unsure what to do next." | angle |
+| 12 | 16.0–18.0 | TH-OTS | She shows a note to the lens | — | "We spoke with her healthcare professional" | cut |
+| 13 | 18.0–20.0 | BR, INS | Note: "ask about ferritin (iron stores)" | type-on | "about the right questions for her," | cut |
+| 14 | 20.0–22.0 | BR, CU | "ferritin" gets a hand-drawn circle | "ferritin = iron-storage marker" | "including ferritin" | cut |
+| 15 | 22.0–24.0 | BR, WS | Clinic waiting room | — | "as an iron-storage marker." | angle |
+| 16 | 24.0–26.0 | TH-A | resolve | — | "But whatever the answer was," | cut |
+| 17 | 26.0–28.0 | TH-B | | — | "the daily routine still had to be" | cut |
+| 18 | 28.0–29.5 | BR, MCU | Tablet standoff | — | "something she could actually" | cut |
+| 19 | 29.5–31.0 | BR, CU | Teen turns away from the tablet | — | "stick with." | match |
+| 20 | 31.0–32.3 | TH-C, product | Holds the tin, peels a strip | "19mg · raspberry" | "IRYN is 19mg, raspberry," | cut |
+| 21 | 32.3–34.0 | ECU | Strip on the tongue, dissolving | "melts on her tongue" | "and melts on her tongue." | cut |
+| 22 | 34.0–35.5 | BR | Teen takes it at breakfast | — | "One strip a day," | cut |
+| 23 | 35.5–37.0 | BR | Grabs her bag, no fight | "no pill fight" | "without a pill fight." | cut |
+| 24 | 37.0–39.0 | TH-A | warm | — | (tail) | cut |
+| 25 | 39.0–40.5 | TH-A, product | Tin to the lens | "the ingredients" | "See the ingredients" | cut |
+| 26 | 40.5–44.0 | END CARD | Tin + CTA | "$20 USD first-order offer" + CTA | "and the $20 USD first-order offer." | end |
 
 ---
 
-## 5. Production notes (so these actually get made fast)
-- **Reusable asset kit:** one teen-girl avatar (plus an athlete version), one mum avatar (plus a sport-mum), the IRYN tin + strip macro pack, and a bold-text template in garnet #A0203F. Those cover all 9.
-- **Shoot the b-roll once, reuse across Videos 1 and 3** (tired-after-school, breakfast, the tablet standoff, the strip melt, the start line). Only Video 2 needs the mum on camera.
-- **Hook library note:** all three hooks (#62, #68, #09) are in your Visual Hooks Library board. Keep the hook identical across each video's 3 angle-variants so the angle is the only variable you're testing.
-- **Claims:** keep the on-screen wording to the product facts (19mg, raspberry, one a day) and the offer exactly as you wrote it ("$20 USD first-order offer"). No ferritin numbers, "energy," or "fixes" on screen. Keep "healthcare professional" and "ferritin, an iron-storage marker" exactly as scripted.
+## VIDEO 2 · VARIANT 3 — SPORT | Sport-Mum UGC | Angle B | ~43s
+Format #07 (sport-mum selfie: team hoodie, car or bleachers) · Hook #68 Setting Down Phone · 24 scenes. Angle switches every ~4s, BR flashes; BR = track/sideline.
+
+| # | t | Shot | Visual | Text | VO | Cut |
+|---|---|---|---|---|---|---|
+| 1 | 0.0–1.3 | TH-A, hh | HOOK #68: sport mum props the phone in the car / on the bleachers, exhales, team hoodie | — | (settle) | cut |
+| 2 | 1.3–2.2 | BR, flash | A slower finish at the line | "slower every meet" | "Slower every meet." | flash |
+| 3 | 2.2–3.0 | BR, flash | Hands on knees at practice | — | "Not herself at practice." | flash |
+| 4 | 3.0–4.0 | TH-A | | — | "I honestly thought she had stopped trying." | angle |
+| 5 | 4.0–6.0 | TH-B | | — | "The thing I wish I understood sooner" | cut |
+| 6 | 6.0–8.0 | TH-C, push | | — | "was that the daily routine mattered as much as the questions we were asking." | cut |
+| 7 | 8.0–10.0 | TH-A | | — | "Her physical came back fine," | angle |
+| 8 | 10.0–11.5 | BR, INS | A "sports physical: cleared" form | "physical: fine" | (tail) | cut |
+| 9 | 11.5–13.5 | TH-OTS | She shows a note to the lens | — | "so we went back to her healthcare professional" | cut |
+| 10 | 13.5–16.0 | BR, WS | Clinic / sideline b-roll | — | "and talked through what was going on." | angle |
+| 11 | 16.0–18.5 | TH-A | | — | "Training changes can have many causes." | cut |
+| 12 | 18.5–21.0 | TH-B | | — | "We wanted individual guidance," | cut |
+| 13 | 21.0–24.0 | BR, INS | Note "questions for her doctor" | "individual guidance, not guesses" | "not guesses." | angle |
+| 14 | 24.0–26.0 | TH-A | | — | "But we also needed an iron format" | cut |
+| 15 | 26.0–28.0 | BR, MCU | Pre-practice tablet standoff | — | "she would take before practice" | cut |
+| 16 | 28.0–31.0 | BR, CU | Teen turns away from the tablet, gym bag on the chair | — | "without another argument." | match |
+| 17 | 31.0–32.5 | TH-C, product | Holds the tin, peels a strip | — | "IRYN is a raspberry strip" | cut |
+| 18 | 32.5–34.0 | ECU | Strip on the tongue, dissolving | "melts on her tongue" | "that melts on her tongue." | cut |
+| 19 | 34.0–35.5 | BR | Athlete takes the strip, laces her spikes | "19mg" | "19mg," | cut |
+| 20 | 35.5–38.0 | BR, WS | Jogs onto the track | "one strip a day" | "one strip a day." | cut |
+| 21 | 38.0–39.5 | TH-A, product | Tin to the lens | "the ingredients" | "See the ingredients" | cut |
+| 22 | 39.5–43.0 | END CARD | Tin + start line + CTA | "$20 USD first-order offer" + CTA | "and the $20 USD first-order offer." | end |
+
+---
+
+## VIDEO 3 · VARIANT 1 — MUM'S OWN HISTORY | Direct Callout | Angle S | ~30s
+Format #N3 Manifesto montage · Hook #09 Bold Headline Text Box · 20 scenes, cut ~every 1.3s.
+
+| # | t | Shot | Visual | Text (bold super) | VO | Cut |
+|---|---|---|---|---|---|---|
+| 1 | 0.0–1.3 | MS | HOOK #09: bold text block over a quick clip of a girl at breakfast | "Mums who can't keep an iron routine going:" (box) | "Quick one for mums who know" | cut |
+| 2 | 1.3–2.2 | INS | A hand puts a tablet back in a drawer | — | "how hard it is to keep an iron routine going." | whip |
+| 3 | 2.2–3.3 | CU | Montage: a girl in class | — | (tail) | cut |
+| 4 | 3.3–4.3 | MS | A girl at the mirror | "Not another product." | "The teen version of that problem is not always finding another product." | cut |
+| 5 | 4.3–5.3 | MS | A girl in the kitchen | — | (tail) | cut |
+| 6 | 5.3–7.0 | MCU | A girl shrugs a pill away | "The one she'll actually use." | "It is finding one she will actually use." | whip |
+| 7 | 7.0–9.0 | TH beat | Narrator mum, warm, to the lens (optional) | — | "My own experience made me pay attention sooner," | cut |
+| 8 | 9.0–11.0 | BR | Mum glances at an old photo of herself | — | (tail) | cut |
+| 9 | 11.0–13.0 | BR | Her daughter present-day, lively | — | "but her needs were always her own." | cut |
+| 10 | 13.0–14.3 | INS | Note "ask about ferritin (iron stores)" | type-on | "We spoke with her healthcare professional" | cut |
+| 11 | 14.3–15.6 | WS | Clinic door | — | "about the questions we had," | cut |
+| 12 | 15.6–17.6 | CU | "ferritin" gets a hand-drawn circle | "ferritin = iron-storage marker" | "including ferritin" | cut |
+| 13 | 17.6–20.0 | BR | Calm clinic | — | "as an iron-storage marker." | flash |
+| 14 | 20.0–21.3 | INS, macro | Tin opens, a strip peeled | — | "For the daily routine," | cut |
+| 15 | 21.3–22.6 | ECU | Raspberry strip to the light | "19mg · raspberry" | "IRYN is a 19mg raspberry strip" | cut |
+| 16 | 22.6–24.0 | ECU, push | Strip on the tongue, dissolving | "melts on her tongue" | "that melts on her tongue." | ramp |
+| 17 | 24.0–25.3 | MS | A girl takes it, out the door, lighter | "one a day" | (tail) | cut |
+| 18 | 25.3–26.6 | Product | Tin beauty, wordmark | "one strip a day" | "One strip a day." | cut |
+| 19 | 26.6–28.3 | END build | Logo + tagline | "iron for her years" | "See the ingredients" | cut |
+| 20 | 28.3–30.0 | END CARD | CTA | "$20 USD first-order offer" + CTA | "and the $20 USD first-order offer." | end |
+
+---
+
+## VIDEO 3 · VARIANT 2 — NORMAL BLOODWORK | Direct Callout | Angle C | ~30s
+Format #N3 Manifesto montage · Hook #09 Bold Headline Text Box · 18 scenes, cut ~every 1.5s.
+
+| # | t | Shot | Visual | Text (bold super) | VO | Cut |
+|---|---|---|---|---|---|---|
+| 1 | 0.0–1.5 | MS | HOOK #09: bold text over a mum leaving a clinic with paperwork | "Normal result. Still unsure?" (box) | "If you left an appointment with a normal result" | cut |
+| 2 | 1.5–3.0 | MCU | Mum looks at the paperwork in a parking lot | — | "and still felt unsure, this is for you." | whip |
+| 3 | 3.0–4.3 | INS | A tablet set down on the counter | "not another tablet" | "IRYN is not another hard-to-swallow tablet." | cut |
+| 4 | 4.3–5.6 | ECU | A raspberry strip on a tongue | — | "It is a raspberry strip" | cut |
+| 5 | 5.6–7.0 | ECU, push | Strip dissolving | "melts on her tongue" | "that melts on her tongue." | whip |
+| 6 | 7.0–9.0 | montage, MS | A mum notices her kid tired at the table | "You did the responsible thing." | "You were trying to help. You saw she was tired," | cut |
+| 7 | 9.0–11.0 | BR | Mum writing questions at night | — | (tail) | cut |
+| 8 | 11.0–13.0 | INS | Portal "within normal range" | "within normal range" | "and you did the responsible thing by asking questions." | cut |
+| 9 | 13.0–15.0 | WS | Calm clinic door / waiting room | — | "A qualified healthcare professional can help" | cut |
+| 10 | 15.0–17.0 | MS | | — | "with individual questions about iron," | cut |
+| 11 | 17.0–19.0 | CU | "ferritin" gets a hand-drawn circle on the note | "ferritin = iron-storage marker" | "including ferritin" | cut |
+| 12 | 19.0–20.0 | BR | Girl in class, then home | — | "as an iron-storage marker." | flash |
+| 13 | 20.0–21.3 | INS, macro | Tin opens, a strip peeled | — | "The part we could simplify was the routine:" | cut |
+| 14 | 21.3–22.6 | ECU | Strip to the light | "19mg · one a day" | "19mg, one daily," | cut |
+| 15 | 22.6–24.0 | MS | A girl takes it, out the door | — | (tail) | cut |
+| 16 | 24.0–26.0 | BR | Grabs her bag, no fuss | "no pill fight" | "without a tablet to fight over." | cut |
+| 17 | 26.0–27.6 | END build | Logo + tagline | "iron for her years" | "See the ingredients" | cut |
+| 18 | 27.6–30.0 | END CARD | CTA | "$20 USD first-order offer" + CTA | "and the $20 USD first-order offer." | end |
+
+---
+
+## VIDEO 3 · VARIANT 3 — STRONG TO BENCHED | Direct Callout | Angle B | ~30s
+Format #N3 Manifesto montage (athlete cut) · Hook #09 Bold Headline Text Box · 18 scenes, cut ~every 1.5s.
+
+| # | t | Shot | Visual | Text (bold super) | VO | Cut |
+|---|---|---|---|---|---|---|
+| 1 | 0.0–1.5 | MS | HOOK #09: bold text over a girl on the bench watching her team | "From strong to benched?" (box) | "For the mums whose daughter went from strong to benched," | cut |
+| 2 | 1.5–3.0 | WS | The team plays on without her | — | "this is the simple routine we found easier to keep." | whip |
+| 3 | 3.0–4.3 | INS | A tablet set aside on the counter | "one daily · no pill fight" | "IRYN is a raspberry iron strip" | cut |
+| 4 | 4.3–5.6 | ECU | A strip on a tongue | — | "that melts on her tongue." | cut |
+| 5 | 5.6–7.0 | MS | A girl shrugs, easy, no fight | — | "One daily, without another pill fight." | whip |
+| 6 | 7.0–9.0 | montage, MCU | A coach clicks a stopwatch | "Before you blame her effort." | "Before anyone blames her effort," | cut |
+| 7 | 9.0–10.5 | BR | A slower finish at the line | — | (tail) | cut |
+| 8 | 10.5–13.0 | BR | Hands on knees, then start line / cleats / race bib | "many causes" | "remember that training changes can have many causes." | cut |
+| 9 | 13.0–14.3 | INS | Note "questions for her doctor" | type-on | "We spoke with her healthcare professional" | cut |
+| 10 | 14.3–16.0 | WS | Clinic door | — | "about her individual needs" | cut |
+| 11 | 16.0–18.0 | CU | "the questions that mattered" underlined on the note | "individual guidance, not guesses" | "and the questions that mattered for her." | cut |
+| 12 | 18.0–20.0 | BR | Athlete in the kitchen pre-practice | — | (tail) | flash |
+| 13 | 20.0–21.3 | INS, macro | Tin opens, a strip peeled | — | "The format mattered because she would actually take it:" | cut |
+| 14 | 21.3–22.6 | ECU | Strip to the light | "19mg · raspberry" | "19mg, raspberry," | cut |
+| 15 | 22.6–24.0 | ECU, push | Strip on the tongue, dissolving | "one a day" | "one strip a day." | cut |
+| 16 | 24.0–26.0 | WS, low | Athlete laces up, jogs onto the track | — | (tail) | ramp |
+| 17 | 26.0–27.6 | END build | Logo + tagline, start line | "iron for her years" | "See the ingredients" | cut |
+| 18 | 27.6–30.0 | END CARD | CTA | "$20 USD first-order offer" + CTA | "and the $20 USD first-order offer." | end |
+
+---
+
+## Production notes
+- **Reusable asset kit covers all 9:** one teen-girl avatar (+ an athlete version), one mum avatar (+ a sport-mum), the IRYN tin + strip macro pack, and a bold-text template in garnet #A0203F.
+- **Shoot b-roll once, reuse across Videos 1 and 3** (tired-after-school, breakfast, the tablet standoff, the strip melt, the start line). Only Video 2 needs the mum on camera.
+- **Keep the hook identical across each video's 3 angle-variants** so the angle is the only variable you test.
+- **Copy and offer stay exactly as scripted** ("$20 USD first-order offer"). No ferritin numbers, "energy," or "fixes" on screen. Keep "healthcare professional" and "ferritin, an iron-storage marker" word for word.
