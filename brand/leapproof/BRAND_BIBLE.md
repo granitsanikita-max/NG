@@ -156,7 +156,7 @@ Product = absorbent apparel; if marketed for incontinence it's an FDA Class I 51
 
 Condition and severity qualification happen in the **landing-page quiz**, where she self-selects.
 
-## 14. Offer (Step 2 — current)
+## 14. Offer (Step 2 — SUPERSEDED by `OFFER.md` v2: $35 / $79 / $105 hero / $140)
 
 **Products:** Phase 1 test = CJ "Low-Waist 3-Layer" period panty, US warehouse (1pc $6.40, 3pc ~$3.50/u, 5pc ~$2.95/u). Phase 2 = Lynmiss LY1769-1 urine-rated bamboo brief, 100–150 ml, MOQ 10, ~$10.50/u + freight.
 
