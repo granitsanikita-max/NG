@@ -8,4 +8,4 @@ It has positioning, ICP, objections, mechanism (Leak-Lock), voice + banned words
 
 Non-negotiables for any copy: no "incontinence/discreet/dignity/protection" in ads, no absolute leak claims, no fake doctors/reviews/urgency, open on the moment (sneeze/jump/run), never shame.
 
-**Offer (locked v3): read `brand/leapproof/OFFER.md`.** No singles. 3 for $69 / 5 for $89 (hero) / 10 for $159. Gifts: Wash Bag, Gym-Bag Spare Pouch, The Comeback Plan (PT-made), Express shipping + $20 Refresh Credit on 10. 60-Night Leak-Test + Fit Promise. $19 overnight bump, +3 for $49 post-purchase, 6-month Refresh Rotation sub, $15/$15 referral.
+**Offer (locked v3): read `brand/leapproof/OFFER.md`.** No singles. 3 for $69 / 5 for $89 (hero) / 10 for $159. Gifts: Wash Bag (3+), Comeback Band resistance loop + The Comeback Plan (PT-made) (5+), Express shipping + $20 Refresh Credit on 10. 60-Night Leak-Test + Fit Promise. $19 overnight bump, +3 for $49 post-purchase, 6-month Refresh Rotation sub, $15/$15 referral.

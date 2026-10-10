@@ -8,7 +8,7 @@ Why no single: one pair carries the worst COGS/shipping ratio (CJ $6.40/pair vs 
 | Tier | Name | Price | /pair | Saving vs Starter rate | Includes |
 |---|---|---|---|---|---|
 | 3 | **The Starter Set** | $69 | $23.00 | — (the per-pair anchor) | Free shipping · Wash Bag · 60-Night Leak-Test |
-| **5** | **The Everyday Rotation** ⭐ MOST POPULAR | **$89** | **$17.80** | Save $26 (23%) | Free shipping · Wash Bag · Gym-Bag Spare Pouch · **The Comeback Plan** |
+| **5** | **The Everyday Rotation** ⭐ MOST POPULAR | **$89** | **$17.80** | Save $26 (23%) | Free shipping · Wash Bag · Comeback Band · **The Comeback Plan** |
 | 10 | **The Two-Week Rotation** 💎 BEST VALUE | $159 | $15.90 | Save $71 (31%) | Everything in the Everyday Rotation + free Express shipping + **$20 Refresh Credit** |
 
 - **Honest anchors:** every saving is maths off the $23/pair Starter rate we actually charge. No fake compare-at prices.
@@ -22,8 +22,8 @@ Why no single: one pair carries the worst COGS/shipping ratio (CJ $6.40/pair vs 
 
 | Gift | Landed | Stated value* | Tier |
 |---|---|---|---|
-| Leak-Lock Wash Bag (mesh, care tag "protects the seal") | ~$1.00 | $12 | 3+ |
-| Gym-Bag Spare Pouch (waterproof wet/dry, sport colors) | ~$1.50 | $16 | 5+ |
+| Leak-Lock Wash Bag: zip mesh laundry bag, ~30×40 to 40×50cm, fine mesh, covered zip, Leapproof logo (no generic icon), brand color | ~$1.00 | $12 | 3+ |
+| **Comeback Band**: fabric mini resistance loop band, Leapproof logo. The band the Comeback Plan's exercises use (bridges, clamshells, squats) | ~$1–2 (latex 3-set ~$0.50) | $15 | 5+ |
 | **The Comeback Plan**: 28-day return-to-sport pelvic-floor program, co-created with a real named pelvic-floor PT | $0/unit (one-time PT fee ~$500–1.5k) | $49 | 5+ |
 | Express shipping | ~$2–3 | $9 | 10 |
 | $20 Refresh Credit (next order, valid 6 months) | $0 now; only costs money when she buys again | $20 | 10 |
@@ -32,8 +32,11 @@ Why no single: one pair carries the worst COGS/shipping ratio (CJ $6.40/pair vs 
 
 **Value stacks shown on the reveal/PDP:**
 - Starter: 3 pairs + Wash Bag + shipping = $87 value → **$69**
-- Everyday Rotation: 5 pairs ($115) + Bag + Pouch + Plan + shipping = **$198 value → $89**
-- Two-Week Rotation: 10 pairs ($230) + Bag + Pouch + Plan + Express + $20 credit = **$336 value → $159**
+- Everyday Rotation: 5 pairs ($115) + Bag + Band + Plan + shipping = **$197 value → $89**
+- Two-Week Rotation: 10 pairs ($230) + Bag + Band + Plan + Express + $20 credit = **$335 value → $159**
+
+Printed insert card: deferred until sales start. Deliver the Comeback Plan + care info by email instead.
+Sourcing: source the bag + band through CJ (private inventory) so they ship in the same parcel as CJ orders.
 
 ## 3. Risk reversal
 
@@ -42,7 +45,7 @@ Why no single: one pair carries the worst COGS/shipping ratio (CJ $6.40/pair vs 
 
 ## 4. Upsells
 
-- **Cart progress meter:** on a 3-pack: "Add 2 more pairs for $20 → unlock the Spare Pouch + Comeback Plan". Pushes 3 → 5.
+- **Cart progress meter:** on a 3-pack: "Add 2 more pairs for $20 → unlock the Comeback Band + Plan". Pushes 3 → 5.
 - **Order bump:** Overnight / Heavy-Day pair, $19, same box.
 - **Shipping protection:** $2.95 opt-in, never pre-ticked.
 - **Post-purchase 1-click:** "+3 pairs to the same box — $49 ($16.33/pair)", routed by quiz answer (Heavy tier for nights/heavy, Training cut for workouts). Downsell: the Overnight pair for $17.
@@ -51,7 +54,7 @@ Why no single: one pair carries the worst COGS/shipping ratio (CJ $6.40/pair vs 
 
 ## 5. First-order pop-up
 
-Question first ("What do you want to stop thinking about?") → **$10 off the Everyday or Two-Week Rotation**. Ad number: **"5 pairs + 2 gifts + the Comeback Plan for $79."**
+Question first ("What do you want to stop thinking about?") → **$10 off the Everyday or Two-Week Rotation**. Ad number: **"5 pairs + the Comeback Band + Plan + Wash Bag for $79."**
 
 ## 6. Unit economics
 
