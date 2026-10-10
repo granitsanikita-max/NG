@@ -2,15 +2,15 @@
 
 One block per video. Paste **Primary text** into the main text box, **Headline** into the headline field, **Description** into the description field, set **CTA = Learn More**, point the destination at the **angle-matched hero**.
 
-Rules this copy follows (from research.md + brand.md + current-live-offer.md): cold/TOF education, mum voice, lead with the reason (periods/sport/"normal" bloods), tiredness as support not lead. The ad does belief-chain links 1, 3, 5 only (name the pattern -> a normal test misses it -> ferritin is the number). No price, no hard offer, no guarantee push in the body (that's the page's job). No "ask for ferritin by name" as the lead. No energy/boost claims, no fabricated reviews/doctors/numbers, no em-dashes. First line is built to hook before Facebook's ~125-char "See more" cut.
+Rules this copy follows (from research.md + brand.md + current-live-offer.md): cold/TOF education, mom voice, lead with the reason (periods/sport/"normal" bloods), tiredness as support not lead. The ad does belief-chain links 1, 3, 5 only (name the pattern -> a normal test misses it -> ferritin is the number). No price, no hard offer, no guarantee push in the body (that's the page's job). No "ask for ferritin by name" as the lead. No energy/boost claims, no fabricated reviews/doctors/numbers, no em-dashes. First line is built to hook before Facebook's ~125-char "See more" cut.
 
 Stat sources (for the page/claims file; the hard ones are tagged lightly in-caption): 38.6% deficient, 83.6% not anemic = PMID 37367984 (JAMA 2023). Heavy-period teens, Hb caught 41.4% = PMID 27262832. Girl vs boy athletes 37.4% vs 18.5% = PMID 37795704. Athletes aim ferritin ~50, "normal" floor as low as 8 = Cleveland Clinic / PMID 38937026. 2026 guidance (check ferritin earlier) = AAP/ASH 2026.
 
-Word note: written as "mums" to match your videos. If you point these at a US audience, find-and-replace "mum/mums" -> "mom/moms".
+Word note: written as "moms" for a US audience (the research buyer is a US mom). Your videos say "mums"; that mismatch is invisible to a viewer and not worth re-rolling 89 clips over.
 
 ---
 
-# ANGLE: NORMAL BLOODWORK (kitchen mum) — ads 2, 4, 8
+# ANGLE: NORMAL BLOODWORK (kitchen mom) — ads 2, 4, 8
 
 ## Ad 2 — V22 (Format 1) — lands on normal-bloodwork hero
 **Primary text:**
@@ -56,7 +56,7 @@ You saw it before the test did. Trust that.
 
 ---
 
-# ANGLE: NOT HERSELF / MUM'S HISTORY (blue mum) — ads 1, 5, 7
+# ANGLE: NOT HERSELF / MOM'S HISTORY (blue mom) — ads 1, 5, 7
 
 ## Ad 1 — V21 (Format 1) — lands on not-herself hero
 **Primary text:**
@@ -86,9 +86,9 @@ She wasn't slipping away from me. Her iron stores were running low, and nobody h
 **Description:** IRYN. The iron routine she'll actually keep. 70-day money-back.
 **CTA:** Learn More
 
-## Ad 7 — F3-1 (Format 3, mum's own history) — lands on not-herself hero
+## Ad 7 — F3-1 (Format 3, mom's own history) — lands on not-herself hero
 **Primary text:**
-Quick one for the mums who already know how hard it is to keep a girl on iron.
+Quick one for the moms who already know how hard it is to keep a girl on iron.
 
 I found out my own ferritin was low a couple of years ago, so I paid attention sooner with my daughter. But knowing she needed iron was never the hard part. Getting her to actually take it was.
 
@@ -102,7 +102,7 @@ So I stopped fighting about pills and found the one she'll actually finish. That
 
 ---
 
-# ANGLE: SPORT (sport/coach mum, car) — ads 3, 6, 9
+# ANGLE: SPORT (sport/coach mom, car) — ads 3, 6, 9
 
 ## Ad 3 — V23 (Format 1) — lands on sport hero
 **Primary text:**
@@ -134,7 +134,7 @@ Fine on the blood count. Empty in the tank. Two different numbers.
 
 ## Ad 9 — F3-3 (Format 3, strong to benched) — lands on sport hero
 **Primary text:**
-For the mums whose daughter went from a starter to the bench in a single season.
+For the moms whose daughter went from a starter to the bench in a single season.
 
 Before anyone blames her effort, know that a drop like that can have a lot of causes, and one of the quietest is iron. A standard physical checks the iron in her blood today, not ferritin, the iron she keeps in storage.
 
