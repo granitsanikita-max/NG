@@ -33,9 +33,9 @@
 
 ## LOCKED ANCHORS (approved 2026-10-10)
 These 3 are the locked faces. Attach the matching one as **Image 1** (face + wardrobe lock) on every other frame of that mum. Files in `brands/level/start-frames/`. Higgsfield job IDs can be passed directly as references.
-- **SF-V21-A** · blue-shirt mum, living room · `SF-V21-A.png` · job `f2363da7-aaa5-426e-8161-b407256863b1`
-- **SF-V22-A** · kitchen mum · `SF-V22-A.png` · job `d495515a-78c3-4ca8-8027-8ed4456c4805`
-- **SF-V23-A** · sport mum, car parked in the school lot (curly blonde, navy hoodie) · `SF-V23-A.png` · job `ce732084-68a8-4e9f-8e19-3f12df8f4a8b` (replaces the first take, which had the car on the track)
+- **SF-V21-A** · blue-shirt mum, living room · `01_SF-V21-A.png` · job `f2363da7-aaa5-426e-8161-b407256863b1`
+- **SF-V22-A** · kitchen mum · `02_SF-V22-A.png` · job `d495515a-78c3-4ca8-8027-8ed4456c4805`
+- **SF-V23-A** · sport mum, car parked in the school lot (curly blonde, navy hoodie) · `03_SF-V23-A.png` · job `ce732084-68a8-4e9f-8e19-3f12df8f4a8b` (replaces the first take, which had the car on the track)
 
 ---
 
