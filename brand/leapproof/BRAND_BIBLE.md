@@ -198,19 +198,21 @@ Meta ad ("own the moment") → Quiz LP → **"The 60-Second Leak-Test"** (15 que
 7. **Doc 9 updates pending.** Doc 4's Funnel Map and Doc 1 §5/§7 still describe the advertorial funnel instead of the quiz.
 8. COGS are still modeled. Re-run Pre-0 when a real landed quote arrives.
 
-## 17. Visual identity (locked 2026-10-10)
+## 17. Visual identity (LOCKED 2026-10-10)
 
-**Logo:** wordmark `leapproof` (lowercase, Archivo 800, "leap" solid / "proof" lighter) + a leap mark = an upward arc launching off a takeoff dot, inside a rounded ink tile. Mark alone = app icon / favicon. Preview artifact: https://claude.ai/artifact/R4aFgepYnM8ie91x79e32g
+**Logo (Direction A, two-tone):** wordmark `leapproof`, one word, set in **Fraunces** — "leap" upright in the primary colour, **"proof" italic in Claret**. On dark backgrounds: "leap" in Cream, "proof" in a lighter rose `#E7879F`. Favicon / app icon / care-label stamp = **"lp" monogram** in Fraunces (no illustrated icon). Preview: https://claude.ai/artifact/R4aFgepYnM8ie91x79e32g
 
 **Palette:**
 | Token | Hex | Use |
 |---|---|---|
-| Court Ink | `#0E141A` | primary — text, headers, mark tile |
-| Leap Green | `#10DC7D` | hero accent — buttons, mark, highlights (ONE pop per screen) |
-| Chalk | `#F7F5EF` | warm off-white background |
-| Steel | `#5A6B73` | secondary text, captions, borders |
-| Deep Green | `#0BA862` | green TEXT on light (bright green fails contrast as type) |
+| Plum Ink | `#231017` | primary — text, headers, dark lockup |
+| Claret | `#A33154` | signature accent — buttons, "proof", highlights (one strong moment per screen) |
+| Warm Cream | `#F5EDE6` | background — premium, warm, never clinical |
+| Blush | `#E7CFC9` | soft tint — section backgrounds, cards, quiz steps |
+| Rose Taupe | `#8C6A6C` | secondary text, captions, borders |
+| Deep Claret | `#872845` | claret as small text on cream (contrast) |
+| Rose (dark bg) | `#E7879F` | "proof" + accents on Plum Ink backgrounds |
 
-**Type:** Display = Archivo (700/800). Body = Hanken Grotesk. Both Google Fonts.
+**Type:** Display = **Fraunces** (soft serif, 500/600, italic for "proof"). Body = **Hanken Grotesk** (400/600/700). Both Google Fonts.
 
-**Rules:** green is a pop not a wall (one thing per screen); never beige/nude/lavender (the category look we attack); photography is motion (mid-jump/run/start-line, shot like athletic wear, never seated/hidden); wordmark stays lowercase.
+**Rules:** claret is the signature, used with restraint (one moment per screen); cream always pairs with bold claret + strong type so it never reads "discreet"; no illustrated icon — the wordmark IS the identity, monogram covers the favicon; photography is motion + warmth (real women mid-jump/laughing/start-line, premium apparel style, never seated or hidden); wordmark stays lowercase, one word.
