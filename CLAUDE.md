@@ -8,4 +8,4 @@ It has positioning, ICP, objections, mechanism (Leak-Lock), voice + banned words
 
 Non-negotiables for any copy: no "incontinence/discreet/dignity/protection" in ads, no absolute leak claims, no fake doctors/reviews/urgency, open on the moment (sneeze/jump/run), never shame.
 
-**Offer (locked v3): read `brand/leapproof/OFFER.md`.** No singles. 3 for $69 / 5 for $89 (hero) / 10 for $159. Gifts (each must kill an objection): Seal-Saver Wash Bag (3+), Core-Care Wash Sheets + The Comeback Plan (PT-made) (5+), Big-Day heavy pair (10). 60-Night Leak-Test + Fit Promise. $19 overnight bump, +3 for $49 post-purchase, 6-month Refresh Rotation sub, $15/$15 referral.
+**Offer (locked v4, AUD): read `brand/leapproof/OFFER.md`.** No singles, no Big-Day pair. 3 for $69 / 5 for $89 (hero) / 10 for $159 AUD. Gifts (each kills an objection): Seal-Saver Wash Bag (3+), Core-Care Wash Sheets + digital Comeback Plan (PT-made) (5+). 60-Night Leak-Test + Fit Promise. $25 overnight bump, +3 for $59 post-purchase, 6-month Refresh sub, $20/$20 referral. Wash Sheets must be bulk-stocked, never per-order dropship.
