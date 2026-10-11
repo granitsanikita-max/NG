@@ -74,3 +74,32 @@ No gallery, no lifestyle here. Done once, move on.
 - Your call on models: AI-generated models for lifestyle (fast, free, consistent) vs real UGC later from the Founding 30. Recommend **AI for launch, swap in real Founding-30 photos as they arrive.**
 
 Once I have the CJ photos I can generate the REAL-based and AI shots here and push them to Shopify + hand you the funnel set.
+
+---
+
+## 5. The real brief — what it looks like (bake this into EVERY prompt so images stay truthful)
+Black bikini/hipster-cut brief · tonal **black floral lace panels on both hip sides** · wide soft black waistband · matte cotton body (95% cotton/5% spandex) · mid-rise at front, rising higher at the back · layered leak-resistant gusset (black mesh moisture-wicking inner, extended front-to-back with a widened rear panel) · soft elastic leg openings. Colour sold: **Black only.** Never add a layer count. Backgrounds: Warm Cream #F5EDE6, claret #A33154 accents.
+
+## 6. The extra product images we need + ChatGPT prompts (paste-ready)
+Feed ChatGPT the real CJ photo as a reference with each prompt and tell it "match this exact garment — same cut, same black lace side panels, same waistband."
+
+**6.1 Clean hero flat (Shopify + PDP P-flat)**
+> Studio product photo of a black women's leak-proof brief laid flat, slightly angled, on a warm cream (#F5EDE6) seamless background, soft natural shadow. The brief has black tonal floral lace panels on both hip sides, a wide soft black waistband, matte cotton body. Premium, minimal, editorial e-commerce lighting. No text, no logo, no model. Square 2048×2048.
+
+**6.2 On-body, active, tasteful (PDP P-onbody — Meta-safe)**
+> Lifestyle photo of a confident woman in her late 30s wearing the black brief with a cropped activewear top, mid-movement in a bright minimal room — caught mid-laugh or stepping. Natural window light, warm tones, waist-to-mid-thigh crop, modest and tasteful (fitness-catalogue style, not lingerie). Same black brief with lace side panels. Portrait 1200×1500.
+
+**6.3 Under-leggings no-show (PDP P-noshow)**
+> Close lifestyle photo from behind/side of a woman in light grey seamless leggings, showing a smooth no-visible-line waistline, hands on hips, bright room. Implies the brief underneath is invisible under leggings. Tasteful, activewear-catalogue style. Portrait 1200×1500.
+
+**6.4 Layers cutaway (PDP P-cutaway — description only)**
+> Clean infographic-style close-up of the brief's gusset cut away to show its construction: a soft top layer, an absorbent middle, and a leak-resistant outer, with thin minimalist callout lines (no numbers, no claims text). Warm cream background, claret accent lines. Square.
+
+**6.5 Set stacks (PDP P-set3/5/10)**
+> Three neatly folded black briefs stacked on a warm cream background, soft shadow, premium minimal styling. [Repeat for 5 and 10 folded briefs.] No text. Square.
+
+**6.6 Lifestyle hero / the moment (Landing L-hero — AI, no product needed)**
+> Bright, joyful photo of an active woman in her late 30s–40s laughing hard or mid-jump on a trampoline with kids / finishing a run, fully dressed in everyday activewear, warm natural light, candid and real (not stock-posed). Confident, not clinical. Portrait 1200×1500 + a 1:1 crop.
+
+## 7. Size-chart graphic (design, build after a pair is measured)
+Not a photo — a clean branded table (Canva or ChatGPT render). Columns: **Leapproof size · US size · Your hip (in / cm) · Your waist (in / cm).** Row highlight on the hero sizes. Footer line: *"Runs a little snug — between sizes? Size up."* **Use the measured-pair numbers, not the provisional ones.** Fraunces headings, Hanken Grotesk body, claret header bar on warm cream.
