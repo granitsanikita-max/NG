@@ -43,8 +43,8 @@ If the Comeback Plan is later made with a named physio and genuinely sold: Every
 | Item | Value |
 |---|---|
 | Shipping cost to her | free on every set |
-| Processing | [1–3 business days — confirm with CJ] |
-| Delivery | [about X–Y business days to Australia — confirm before launch] |
+| Processing | 1–2 business days (Nikita, 2026-10-11) |
+| Delivery | 6–10 business days in transit → **"about 7–12 business days" total** (Nikita, 2026-10-11) |
 | Parcels | underwear + Wash Bag together · Wash Sheets in a separate parcel, may arrive a few days apart |
 | Shipping protection | **Not offered in Australia** (ACL: the seller carries the risk until delivery). PENDING for other markets. |
 
@@ -124,6 +124,7 @@ Always "period pads/period underwear," never bare "pads," when talking about the
 | Item | Value |
 |---|---|
 | Quiz page (every landing-page CTA points here) | Path `/quiz-2891028289-1791612140998314` on the funnel's domain. Custom HTML blocks link to the path only, so they follow the domain. Native buttons use Funnelish's step link. |
+| Support email | hello@leapproof.com (set up as a Zoho alias like hello@lucenwell.com — not live until leapproof.com is added in Zoho + MX records at GoDaddy) |
 | Funnel domain | NOW: leepproof.myfunnelish.com (Funnelish account subdomain, misspelt; never put it in ads). TARGET: **try.leapproof.com** (CNAME `try` → `domains.funnelish.com` in **GoDaddy** DNS — leapproof.com is managed by GoDaddy, not Shopify — then Funnel Settings → Connect a new domain). |
 | Landing page path | TARGET `/match` (rename the Landing Page step path) → ad URL `https://try.leapproof.com/match` |
 

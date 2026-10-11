@@ -161,7 +161,7 @@
   <a class="cta lpo-buy" id="lpo-cta" href="#">Get my 5 pairs — $89</a>
   <ul class="under">
    <li>Wear them for 30 nights. If they don’t hold, you get your money back. You keep the pairs.</li>
-   <li id="lpo-ship">Free shipping. Arrives in about [X–Y] business days.</li>
+   <li id="lpo-ship">Free shipping. Arrives in about 7–12 business days.</li>
    <li>Wrong size? We’ll send your new size free. Nothing to send back.</li>
   </ul>
 
@@ -221,7 +221,7 @@
    <h2 id="lpo-final">30 nights from now, you could be laughing as hard as you want.</h2>
    <p class="wait">Every week you wait is another week of crossing your legs.</p>
    <a class="cta lpo-buy" id="lpo-cta2" href="#">Get my 5 pairs — $89</a>
-   <p class="human" id="lpo-human">Still not sure? Email <a href="mailto:[support email]">[support email]</a>. A real person answers.</p>
+   <p class="human" id="lpo-human">Still not sure? Email <a href="mailto:hello@leapproof.com">hello@leapproof.com</a>. A real person answers.</p>
   </div>
 
   <div class="foot">
@@ -241,9 +241,9 @@
 /* 1. Paste the URL of each checkout page (one per set). */
 var CHECKOUT = { 3:'', 5:'', 10:'' };
 /* 2. Real delivery window from CJ, e.g. 'about 7–12 business days' */
-var DELIVERY = 'about [X–Y] business days';
+var DELIVERY = 'about 7–12 business days';
 /* 3. Your support email */
-var SUPPORT = '[support email]';
+var SUPPORT = 'hello@leapproof.com';
 /* 4. REAL tester reviews only. Leave empty and the reviews section stays hidden.
    Example format (delete the // to use):
    { name:'Jess M.', age:34, size:'L', stars:5, text:'Her own words here.' }, */
@@ -363,7 +363,7 @@ function faq(){
    ['What if they don’t work for me?','<p>Wear them through your real moments for 30 nights, starting the day they arrive. If they don’t hold, email us your order number and what happened. We refund your whole set, and you keep the pairs. One claim per customer.</p>'],
    ['Why 5 or 10 pairs instead of 3?','<p>Because you wear a pair while the others are in the wash. With 3, you run out fast. 5 covers most women between washes, and 10 covers a full week.</p><p>The more pairs, the less each one costs: $23 a pair with 3, $17.80 with 5, $15.90 with 10. And the 30-Night Leak-Test covers the whole set.</p>'],
    ['Is this a subscription?','<p>No. You pay once for the set you pick. Nothing renews and you won’t be charged again.</p>'],
-   ['When will they arrive?','<p>Shipping is free. We ship from overseas, so it takes '+esc(DELIVERY)+'. We’d rather tell you now.</p><p>If your set includes Wash Sheets, they come in a separate parcel and may arrive a few days apart.</p>'],
+   ['When will they arrive?','<p>Shipping is free. We pack your order in 1–2 business days, then it takes 6–10 business days to reach you. So about 7–12 business days in total. We ship from overseas, and we’d rather tell you now.</p><p>If your set includes Wash Sheets, they come in a separate parcel and may arrive a few days apart.</p>'],
    ['Who is Leapproof?','<p>A small Australian brand that got tired of women being told leaking is just part of life. Every email is answered by a real person: <a href="mailto:'+esc(SUPPORT)+'">'+esc(SUPPORT)+'</a>.</p>']
   ];
   $('lpo-faq').innerHTML = F.map(function(f){
