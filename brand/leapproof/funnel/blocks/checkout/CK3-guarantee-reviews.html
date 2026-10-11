@@ -1,0 +1,60 @@
+<!-- Leapproof checkout · CK3 guarantee + tester reviews · Custom HTML in the RIGHT column, directly UNDER the button (delete the "30-Day Money Back" badge, "Loved by 1.2k" and the testimonial slider). Same block on all 3 checkouts. -->
+<style>
+#ck3{font-family:'Hanken Grotesk',Arial,sans-serif;color:#231017;margin-top:14px}
+#ck3 *{box-sizing:border-box;margin:0;padding:0}
+#ck3 .g{background:#231017;color:#F5EDE6;padding:20px 18px}
+#ck3 .g .lab{font-size:11.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#E7879F;margin-bottom:6px}
+#ck3 .g h3{font-family:'Fraunces',Georgia,serif;font-size:21px;font-weight:600;line-height:1.2;color:#fff;margin-bottom:8px}
+#ck3 .g p{font-size:14.5px;line-height:1.55}
+#ck3 .g ul{list-style:none;margin-top:12px;border-top:1px solid rgba(231,207,201,.25);padding-top:10px}
+#ck3 .g li{position:relative;padding:5px 0 5px 26px;font-size:14px;line-height:1.45;color:#E7CFC9}
+#ck3 .g li::before{content:'';position:absolute;left:0;top:7px;width:17px;height:17px;border-radius:50%;background:#A33154 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23fff' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 12.5 4 4 8-8.5'/%3E%3C/svg%3E") center/10px no-repeat}
+#ck3 .rv{display:none;margin-top:18px}
+#ck3 .rv.on{display:block}
+#ck3 .rv .hd{font-size:11.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#872845;margin-bottom:10px}
+#ck3 .rc{background:#fff;border:1px solid #E4D6D0;padding:16px;margin-top:-1px}
+#ck3 .rc .st{color:#A33154;letter-spacing:2px;font-size:14px}
+#ck3 .rc .t{font-family:'Fraunces',Georgia,serif;font-size:16.5px;font-weight:600;line-height:1.3;margin:6px 0 4px}
+#ck3 .rc p{font-size:14.5px;line-height:1.55}
+#ck3 .rc .who{font-size:13.5px;font-weight:700;margin-top:10px}
+#ck3 .rc .meta{font-size:12.5px;color:#8C6A6C;margin-top:1px}
+#ck3 .help{font-size:13.5px;color:#8C6A6C;text-align:center;margin-top:16px;line-height:1.5}
+#ck3 .help a{color:#A33154}
+</style>
+<div id="ck3">
+ <div class="g">
+  <div class="lab">The 30-Night Leak-Test</div>
+  <h3>Sneeze in them. Laugh in them. Then decide.</h3>
+  <p>Wear them through your real moments for 30 nights from the day they arrive. If they don’t hold, email us and we refund your whole order. You keep the pairs. Nothing to send back.</p>
+  <ul>
+   <li>Wrong size? We send your new size free.</li>
+   <li>One-off payment. No subscription, nothing renews.</li>
+   <li>On top of your rights under Australian Consumer Law.</li>
+  </ul>
+ </div>
+ <div class="rv" id="ck3-rv"><div class="hd">From our testers</div><div id="ck3-list"></div></div>
+ <p class="help">Questions before you pay? Email <a href="mailto:hello@leapproof.com">hello@leapproof.com</a>. A real person answers.</p>
+</div>
+<script>
+(function(){
+/* REAL tester reviews go here (their own words). Empty = section hidden.
+   Format: { title:'…', text:'…', name:'Jess M.', age:34, size:'L', stars:5 }, */
+var REVIEWS = [
+];
+/* SAMPLE reviews: layout preview ONLY. They show only when the page URL has ?preview=1, never to real visitors. Delete once real reviews are in. */
+var SAMPLES = [
+ { title:'Sneezed at the shops. Didn’t cross my legs.', text:'First time since my second baby I didn’t do the cross-legs-and-pray thing in the cereal aisle. They just feel like normal undies. I honestly forgot I had them on until I got home.', name:'Sarah K.', age:34, size:'L', stars:5 },
+ { title:'I was sure the size would be wrong.', text:'I’m a 12 and figured nothing from overseas would fit me. Measured my hips like the quiz said, got the 2XL, and they fit properly. No digging in, and nothing shows under my gym leggings.', name:'Mel T.', age:39, size:'2XL', stars:5 },
+ { title:'Cheaper than the liners I was binning.', text:'I was going through a pack of liners every couple of weeks and they bunched up on every run. These turned up in 9 days and wash fine. Knowing I had 30 nights to get my money back made it an easy yes.', name:'Jo R.', age:42, size:'M', stars:5 }
+];
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+var list = REVIEWS.length ? REVIEWS : (/[?&]preview=1/.test(location.search) ? SAMPLES : []);
+if(!list.length) return;
+document.getElementById('ck3-list').innerHTML = list.map(function(r){
+  var n=Math.max(1,Math.min(5,r.stars||5));
+  return '<div class="rc"><div class="st">'+'★★★★★'.slice(0,n)+'</div>'+(r.title?'<div class="t">'+esc(r.title)+'</div>':'')+'<p>“'+esc(r.text)+'”</p>'+
+    '<div class="who">'+esc(r.name)+(r.age?', '+r.age:'')+'</div><div class="meta">Wearing size '+esc(r.size||'')+' · Received a free set to test</div></div>';
+}).join('');
+document.getElementById('ck3-rv').className='rv on';
+})();
+</script>

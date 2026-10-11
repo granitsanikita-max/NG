@@ -1,0 +1,18 @@
+<!-- Leapproof checkout · CK1 header + trust bar · Custom HTML at the very TOP of every checkout page (delete the Limura logo) -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;600;700&display=swap');
+#ck1{font-family:'Hanken Grotesk',Arial,sans-serif;background:#fff;border-bottom:1px solid #E4D6D0}
+#ck1 *{box-sizing:border-box;margin:0;padding:0}
+#ck1 .w{max-width:1160px;margin:0 auto;padding:0 16px;height:64px;display:flex;align-items:center;justify-content:space-between}
+#ck1 .logo{font-family:'Fraunces',Georgia,serif;font-size:28px;letter-spacing:-.02em;color:#231017;line-height:1}
+#ck1 .logo i{color:#A33154;font-weight:500;margin-left:.06em}
+#ck1 .sec{display:flex;align-items:center;gap:7px;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#231017}
+#ck1 .sec svg{width:15px;height:15px}
+#ck1 .bar{background:#231017;color:#F5EDE6;font-size:13.5px;font-weight:600;text-align:center;padding:9px 12px;letter-spacing:.02em}
+#ck1 .bar b{color:#E7879F;font-weight:700}
+@media(max-width:520px){#ck1 .sec span{display:none}#ck1 .bar{font-size:12.5px}}
+</style>
+<div id="ck1">
+ <div class="w"><span class="logo">leap<i>proof</i></span><span class="sec"><svg viewBox="0 0 24 24" fill="none" stroke="#231017" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="11" width="14" height="10"/><path d="M8 11V7.5a4 4 0 0 1 8 0V11"/></svg><span>Secure checkout</span></span></div>
+ <div class="bar">Free shipping <b>·</b> 30-Night Leak-Test <b>·</b> Free size swap</div>
+</div>

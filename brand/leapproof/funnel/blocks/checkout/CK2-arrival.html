@@ -1,0 +1,59 @@
+<!-- Leapproof checkout · CK2 arrival date + your size · Custom HTML at the TOP of the RIGHT column (delete the "Congrats" banner and the 1-2-3 item meter). Same block on all 3 checkouts. -->
+<style>
+#ck2{font-family:'Hanken Grotesk',Arial,sans-serif;color:#231017;background:#fff;border:1px solid #E4D6D0;margin:0 0 14px}
+#ck2 *{box-sizing:border-box;margin:0;padding:0}
+#ck2 .top{display:flex;gap:14px;align-items:center;padding:16px 18px;border-bottom:1px solid #E4D6D0}
+#ck2 .cal{flex:0 0 46px;height:50px;border:1px solid #231017;text-align:center;background:#fff}
+#ck2 .cal b{display:block;background:#A33154;color:#fff;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;padding:3px 0}
+#ck2 .cal span{display:block;font-family:'Fraunces',Georgia,serif;font-size:21px;font-weight:600;line-height:28px}
+#ck2 .lab{font-size:11.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#872845;margin-bottom:3px}
+#ck2 .when{font-size:16.5px;font-weight:700;line-height:1.3}
+#ck2 .small{font-size:13.5px;color:#8C6A6C;margin-top:2px;line-height:1.4}
+#ck2 .pic{padding:14px 18px;background:#F5EDE6;font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:17px;line-height:1.4;color:#A33154}
+#ck2 .size{display:none;padding:12px 18px;border-top:1px solid #E4D6D0;font-size:14.5px;line-height:1.45}
+#ck2 .size b{font-weight:700}
+#ck2 .size.on{display:block}
+</style>
+<div id="ck2">
+ <div class="top">
+  <div class="cal"><b id="ck2-m">Oct</b><span id="ck2-d">27</span></div>
+  <div><div class="lab">Order today</div><div class="when" id="ck2-when">Arrives in about 7–12 business days</div><div class="small">Packed within 1–2 business days. Free shipping.</div></div>
+ </div>
+ <div class="pic" id="ck2-pic">Your 30 nights start the day they arrive.</div>
+ <div class="size" id="ck2-size"></div>
+</div>
+<script>
+(function(){
+  /* Live arrival window: 7 to 12 business days from today (1–2 to pack + 6–10 in transit). */
+  function addBiz(d,n){ d=new Date(d); while(n>0){ d.setDate(d.getDate()+1); var w=d.getDay(); if(w!==0&&w!==6) n--; } return d; }
+  var now=new Date(), a=addBiz(now,7), b=addBiz(now,12);
+  var D=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'], M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  function f(d){ return D[d.getDay()]+' '+d.getDate()+' '+M[d.getMonth()]; }
+  document.getElementById('ck2-m').textContent=M[b.getMonth()];
+  document.getElementById('ck2-d').textContent=b.getDate();
+  document.getElementById('ck2-when').textContent='Arrives '+f(a)+' – '+f(b);
+  document.getElementById('ck2-pic').textContent='By '+f(b)+', you could be sneezing without crossing your legs. Your 30 nights start the day they arrive.';
+  /* Her size from the quiz / offer page */
+  var q=new URLSearchParams(location.search), sz=(q.get('size')||'').toUpperCase();
+  if(['S','M','L','XL','2XL'].indexOf(sz)<0) return;
+  var el=document.getElementById('ck2-size');
+  el.innerHTML='<b>Your size: '+sz+'</b>, from your quiz. Wrong size? We’ll send your new size free. Nothing to send back.';
+  el.className='size on';
+  /* Pre-select her size in the product's size dropdown (retries while the checkout loads). */
+  var tries=0;
+  function pick(){
+    var hit=false;
+    [].forEach.call(document.querySelectorAll('select'),function(s){
+      for(var i=0;i<s.options.length;i++){
+        var t=(s.options[i].text||'').toUpperCase().replace(/\s+/g,'');
+        if(t===sz || t.split(/[\/|,\-]/).indexOf(sz)>-1){
+          if(s.selectedIndex!==i){ s.selectedIndex=i; s.dispatchEvent(new Event('change',{bubbles:true})); s.dispatchEvent(new Event('input',{bubbles:true})); }
+          hit=true; break;
+        }
+      }
+    });
+    if(!hit && ++tries<20) setTimeout(pick,500);
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',pick); else pick();
+})();
+</script>

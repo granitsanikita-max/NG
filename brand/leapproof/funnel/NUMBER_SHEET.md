@@ -51,7 +51,7 @@ If the Comeback Plan is later made with a named physio and genuinely sold: Every
 ## 6. Add-ons
 | Item | Value | Condition |
 |---|---|---|
-| Checkout bump (PENDING, D11/M18) | **Real overnight/heavier SKU exists:** "1 overnight pair · $25 · same box" (no anchor). **No heavier SKU:** "+2 spare pairs for your gym bag · $29 ($14.50/pair) · same box" | unticked |
+| Checkout bump (LOCKED 2026-10-11: 5 + 10 checkouts only, none on 3) — "Add 2 spare pairs for your bag" $29 ($14.50/pair), same box, unticked. Superseded options kept for reference → | **Real overnight/heavier SKU exists:** "1 overnight pair · $25 · same box" (no anchor). **No heavier SKU:** "+2 spare pairs for your gym bag · $29 ($14.50/pair) · same box" | unticked |
 | 1-click upgrade after checkout (PENDING, replaces "+3 for $59") | 5-pair buyer → "+5 pairs for $70 ($14/pair) = 10 pairs for $159 total" · 3-pair buyer → "+2 pairs for $20" (no Wash Sheets: their separate shipping makes it lose money) · 10-pair buyer → skip to downsell | one tap |
 | Downsell | the bump item, **only if the bump wasn't taken** | otherwise go to thank-you |
 | Refresh Rotation subscription | 3 pairs every 6 months · $55 ($18.33/pair, save $14 vs $69) · first charge 6 months after her order · pause/cancel anytime · email reminder 3 days before | Day 45 email only, never the thank-you page |
