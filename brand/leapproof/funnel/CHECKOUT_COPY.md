@@ -1,4 +1,6 @@
-# Leapproof — Checkout copy v1 (Funnelish checkout template, 3 pages: 3 / 5 / 10)
+# Leapproof — Checkout copy v2 (ONE Funnelish checkout for all sets)
+
+One checkout: the offer page sends `?set=3|5|10&size=X`; CK2 ticks that set, unticks the others, adds/locks the gifts the set unlocks, hides the add-on on 3. Products are matched by name: keep "3/5/10 Leapproof Briefs", "Wash Bag", "Wash Sheets", "spare pairs" in the product names. Tested on the live Funnelish DOM 2026-10-11 (set 3/5/10, switching, re-tick on untick).
 
 Blocks to paste (blocks/checkout/): CK1 header (top) · CK2 arrival + size (top of right column) · CK3 guarantee + reviews (under the button) · CK4 footer (bottom). Same 4 blocks on all 3 checkouts.
 Reviews in CK3 show only with `?lpdemo=1` (Funnelish 404s on `?preview`) until REVIEWS has real ones. Never launch samples.

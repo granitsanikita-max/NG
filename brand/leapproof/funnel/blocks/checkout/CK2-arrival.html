@@ -1,4 +1,4 @@
-<!-- Leapproof checkout · CK2 arrival date + your size · Custom HTML at the TOP of the RIGHT column (delete the "Congrats" banner and the 1-2-3 item meter). Same block on all 3 checkouts. -->
+<!-- Leapproof checkout · CK2 arrival date + your size + set picker logic · Custom HTML at the TOP of the RIGHT column (delete the "Congrats" banner and the 1-2-3 item meter). ONE checkout for all sets. -->
 <style>
 #ck2{font-family:'Hanken Grotesk',Arial,sans-serif;color:#231017;background:#fff;border:1px solid #E4D6D0;margin:0 0 14px}
 #ck2 *{box-sizing:border-box;margin:0;padding:0}
@@ -33,8 +33,43 @@
   document.getElementById('ck2-d').textContent=b.getDate();
   document.getElementById('ck2-when').textContent='Arrives '+f(a)+' – '+f(b);
   document.getElementById('ck2-pic').textContent='By '+f(b)+', you could be sneezing without crossing your legs. Your 30 nights start the day they arrive.';
+  var q=new URLSearchParams(location.search);
+
+  /* ===== ONE CHECKOUT, 3 SETS =====
+     Ticks the set she chose on the offer page (?set=3|5|10, default 5), unticks the other sets,
+     adds the free gifts that set unlocks, locks the gift rows, and hides the add-on on the 3-pair set.
+     Products are found by NAME, so keep these words in the Funnelish product names:
+     "3 Leapproof Briefs" / "5 Leapproof Briefs" / "10 Leapproof Briefs" / "Wash Bag" / "Wash Sheets" / "spare pairs" */
+  var SET = ({'3':3,'5':5,'10':10})[q.get('set')] || 5, busy=false;
+  function prods(){ return (window.PRODUCTS||[]).map(function(p){
+    var n=p.name||'', m=n.match(/\b(3|5|10)\s+Leapproof\s+Briefs/i);
+    return {id:String(p.id), set:m?+m[1]:0, bag:/wash\s*bag/i.test(n), sheets:/wash\s*sheets/i.test(n), bump:/spare\s*pairs/i.test(n)};
+  }); }
+  function box(id){ return document.querySelector('input[name="product-id"][value="'+id+'"]'); }
+  function row(i){ return i && (i.closest('.product-list') || i.closest('label')); }
+  function setTo(id,want){ var i=box(id); if(i && i.checked!==want) i.click(); }
+  function show(id,on){ var r=row(box(id)); if(r){ var w=r.closest('.container-wrapper')||r; w.style.display=on?'':'none'; } }
+  function lock(id){ var r=row(box(id)); if(r){ var w=r.closest('.container-wrapper')||r; w.style.pointerEvents='none'; } }
+  function sync(){
+    var P=prods(); if(!P.length) return false; busy=true;
+    P.forEach(function(p){
+      if(p.set){ setTo(p.id, p.set===SET); }
+      if(p.bag){ setTo(p.id, SET>=5); show(p.id, SET>=5); lock(p.id); }
+      if(p.sheets){ setTo(p.id, SET>=10); show(p.id, SET>=10); lock(p.id); }
+      if(p.bump){ if(SET===3) setTo(p.id,false); show(p.id, SET!==3); }
+    });
+    busy=false; return true;
+  }
+  document.addEventListener('change',function(e){
+    var i=e.target; if(busy || !i || i.name!=='product-id') return;
+    var p=prods().filter(function(x){return x.id===i.value})[0]; if(!p || !p.set) return;
+    if(i.checked) SET=p.set;          /* she switched set */
+    setTimeout(sync,0);               /* unticking the current set just re-ticks it */
+  },true);
+  var st=0; (function boot(){ if(!sync() && ++st<20) setTimeout(boot,300); })();
+
   /* Her size from the quiz / offer page */
-  var q=new URLSearchParams(location.search), sz=(q.get('size')||'').toUpperCase();
+  var sz=(q.get('size')||'').toUpperCase();
   if(['S','M','L','XL','2XL'].indexOf(sz)<0) return;
   var el=document.getElementById('ck2-size');
   el.innerHTML='<b>Your size: '+sz+'</b>, from your quiz. Wrong size? We’ll send your new size free. Nothing to send back.';

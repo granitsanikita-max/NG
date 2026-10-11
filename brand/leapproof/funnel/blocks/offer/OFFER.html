@@ -265,8 +265,8 @@
 <script>
 (function(){
 /* ================= SETTINGS ================= */
-/* Checkout page for each set. Paste the 3 Funnelish checkout step paths here. */
-var CHECKOUT = { 3:'', 5:'', 10:'' };
+/* The ONE checkout page (it reads ?set= to tick the right set). */
+var CHECKOUT_URL = '/checkout-page-189927362748349459546632494-1791612140332612';
 /* REAL tester reviews only. Empty = the reviews section stays hidden.
    Format: { name:'Jess M.', age:34, size:'L', stars:5, text:'Her own words.' }, */
 var REVIEWS = [
@@ -369,8 +369,8 @@ function chips(){
 window.lpoChart=function(){ $('lpo-chart').classList.toggle('open'); };
 
 function url(){
-  var base = CHECKOUT[sel]; if(!base) return '#';
-  try{ var u=new URL(base, location.href); if(size) u.searchParams.set('size',size);
+  var base = CHECKOUT_URL; if(!base) return '#';
+  try{ var u=new URL(base, location.href); u.searchParams.set('set',String(sel)); if(size) u.searchParams.set('size',size);
     ['a','mk'].forEach(function(k){ if(q.get(k)) u.searchParams.set(k,q.get(k)); }); return u.toString(); }catch(e){ return base; }
 }
 function update(){
@@ -385,7 +385,7 @@ function update(){
 document.addEventListener('click',function(e){
   var a=e.target.closest && e.target.closest('#lpo .lpo-buy'); if(!a) return;
   if(!size){ e.preventDefault(); $('lpo-size').scrollIntoView({behavior:'smooth',block:'center'}); return; }
-  if(!CHECKOUT[sel]){ e.preventDefault(); alert('Checkout link not set yet (SETTINGS → CHECKOUT).'); return; }
+  if(!CHECKOUT_URL){ e.preventDefault(); alert('Checkout link not set yet (SETTINGS → CHECKOUT_URL).'); return; }
   try{ if(window.fbq) fbq('track','InitiateCheckout',{value:SETS[sel].price,currency:'AUD',num_items:SETS[sel].n}); }catch(err){}
 });
 
