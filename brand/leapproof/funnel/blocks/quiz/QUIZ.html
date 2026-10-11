@@ -80,7 +80,7 @@ var Q = [
    ['p','Pads or liners'],['d','Period undies'],['k','Leak-proof undies'],['f','Pelvic floor exercises'],['g','Going to the toilet “just in case”'],['x','Crossing my legs'],['o','Something else'],['n','Nothing yet',1]]},
  {card:'react'},
  {id:'q4',ch:1,t:'How much leaks out?',s:'Be honest. It tells us if these will suit you.',o:[
-   ['1','A few drops'],['2','A small splash'],['3','More than a liner can hold'],['4','A lot']]},
+   ['1','A few drops'],['2','A small splash'],['3','More than a pad can hold'],['4','A lot']]},
  {card:'heavy',when:function(A){return A.q4==='4'}},
  {id:'q5',ch:1,multi:1,t:'Where does it happen?',s:'Pick all that apply.',o:[
    ['s','At the shops'],['g','At the gym or on a run'],['k','With the kids'],['f','Out with friends'],['w','At work'],['n','At night'],['o','Somewhere else']]},
@@ -151,7 +151,7 @@ function cardHTML(kind){
   if(kind==='react'){
     var t;
     if(has('q3','p')) t='Pads bunch, feel like a nappy, and go in the bin every day. If they never felt right, that was never on you.';
-    else if(has('q3','g')||has('q3','x')) t='You shouldn’t have to plan your day around a sneeze. Let’s sort the part you can sort today.';
+    else if(has('q3','g')||has('q3','x')) t='You shouldn’t have to plan your day around a sneeze. Let’s find the pair that helps.';
     else if(has('q3','f')) t='Good. Keep going. Physio builds the strength. This is what you wear while you do.';
     else if(has('q3','d')||has('q3','k')) t='Plenty of women try that first. Let’s find what actually suits your moments.';
     else t='Then you’re starting in exactly the right place.';
@@ -169,7 +169,7 @@ function cardHTML(kind){
     return '<div class="card light"><h2>We’d rather tell you now.</h2><p>This pair only goes up to 2XL (hips 105 cm). We won’t send you a pair that doesn’t fit.</p></div><button class="btn ghost" type="button" onclick="lpqBack()">Change my size</button>';
   }
   if(kind==='fit'){
-    return '<div class="card"><h2>And if the size is off?</h2><p class="big">We’ll send the right one first. No need to send the other back.</p></div><button class="btn" type="button" onclick="lpqNext()">Good to know</button>';
+    return '<div class="card"><h2>And if the size is off?</h2><p class="big">Send them back within your 30 nights. We’ll swap the size or refund you.</p></div><button class="btn" type="button" onclick="lpqNext()">Good to know</button>';
   }
   return '';
 }
