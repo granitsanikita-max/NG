@@ -37,7 +37,7 @@ If the Comeback Plan is later made with a named physio and genuinely sold: Every
 | **Lynmiss** | 60-Night Leak-Test | Wear and wash them through real leaks for 60 nights **from delivery**. If they don't hold, email us your order number and what happened. Full refund of the set (and bump/upsell pairs); **keep the pairs, nothing to send back.** One claim per customer. |
 | **CJ** (**LOCKED v5, 2026-10-11 — this row is live**) | **30-Night Leak-Test** | "Wear them through your moment for 30 nights. If they don't hold, you get your money back." Terms: 30 nights **from delivery**; full refund of the set (and bump/upsell pairs); **keep the pairs, nothing to send back**; one claim per customer. Stop-loss below. |
 - **Stop-loss:** if refund claims pass **10% of the first 50 orders**, pause ads and review before spending more.
-- **Fit Promise:** one free size swap per order. We ship the new size first; **no need to send the first pair back**. Cost to us: ~$9.79 per single-pair reship from CJ.
+- **Fit Promise (UPDATED 2026-10-11, Nikita):** "Wrong size? Send them back within your 30 nights for a swap or a refund." No ship-first, no keep-the-wrong-size. Who pays return postage: [PENDING].
 
 ## 5. Shipping & delivery
 | Item | Value |
@@ -108,7 +108,7 @@ Not yet included: Fit Promise reships (~$9.79 each), keep-the-pairs refunds. Rec
 | Quote (Lynmiss only) | "Menstrual pads can't absorb thin, fast-flowing urine effectively" | Rose City Urology |
 | Stat | About 1 in 3 women leak after having a baby.* | postpartum meta-analysis, PMC8295150 |
 | Stat | Leaking becomes more common with age.* (do not say "half by 50s" to a 40s audience) | NHANES, PMC3505252 |
-| Stat | Studies put it at about 1 in 5 up to nearly half of women who do CrossFit.* (always the range) | PubMed 35635565 + other reviews |
+| Stat | Studies put it at about 1 in 3 up to nearly half of women who do CrossFit.* (always the range; "1 in 5" is NOT supported — reviews found 32.1% and 44.5%) | PubMed 35173077 + 35635565 |
 | Fact | In France, new mothers get pelvic-floor rehab sessions (around 10, up to 20) paid for by the public health system, under a 1985 decree. | ICS survey + UCSF OB/GYN |
 | **Enemy sentence (Lynmiss)** | "Period pads and period underwear are built for a slow flow. A sneeze or a jump sends a fast burst." | category fact, backed by the urology quote |
 | **Enemy sentence (CJ)** | "Pads and liners bunch, feel like a diaper, and go in the bin every day." | customer data (#49, #67, #107, #152) |
