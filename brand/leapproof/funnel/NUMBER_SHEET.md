@@ -123,7 +123,9 @@ Always "period pads/period underwear," never bare "pads," when talking about the
 ## 12b. Links
 | Item | Value |
 |---|---|
-| Quiz page (every landing-page CTA points here) | https://leepproof.myfunnelish.com/quiz-2891028289-1791612140998314 |
+| Quiz page (every landing-page CTA points here) | Path `/quiz-2891028289-1791612140998314` on the funnel's domain. Custom HTML blocks link to the path only, so they follow the domain. Native buttons use Funnelish's step link. |
+| Funnel domain | NOW: leepproof.myfunnelish.com (Funnelish account subdomain, misspelt; never put it in ads). TARGET: **try.leapproof.com** (CNAME `try` → `domains.funnelish.com` in Shopify DNS, then Funnel Settings → Connect a new domain). |
+| Landing page path | TARGET `/match` (rename the Landing Page step path) → ad URL `https://try.leapproof.com/match` |
 
 ## 13. Product facts — CJ brief (REAL, from the CJ listing; single source for all product copy)
 | Fact | Value | Notes / claim rule |

@@ -2,7 +2,9 @@
 
 Full reasoning, HTML blocks and launch flags: `LANDING_PAGE_COPY_SHORT.md`. This file is just the words.
 
-Every button and link → https://leepproof.myfunnelish.com/quiz-2891028289-1791612140998314
+Native buttons (hero, mobile hero): set the action to go to the **Quiz** step, not a typed URL.
+The 4 Custom HTML blocks in `blocks/landing/` already link to the quiz by path, so they work on any domain:
+L0 top bar (very top) · L1 strip (under the cards) · L2 footer (bottom) · L3 sticky bar (anywhere).
 
 ---
 

@@ -1,12 +1,13 @@
 """Builds paste-ready Funnelish Custom HTML blocks for the Leapproof landing page.
 
-Copy is verbatim from LANDING_PAGE_COPY.md (v3, chiefed). Run: python3 build_blocks.py
+Landing copy is v4.1 from LANDING_PAGE_COPY_SHORT.md; pdp-later blocks are v3 (LANDING_PAGE_COPY.md). Run: python3 build_blocks.py
 Outputs one .html per section (paste each into its own Funnelish Custom HTML element)
 plus _preview.html (all blocks stacked, for checking only).
 """
 from pathlib import Path
 
-QUIZ = "https://leepproof.myfunnelish.com/quiz-2891028289-1791612140998314"
+# Relative path: works on whatever domain the funnel runs on (leepproof.myfunnelish.com now, try.leapproof.com later).
+QUIZ = "/quiz-2891028289-1791612140998314"
 OUTCOME_IMG = "https://cdn.shopify.com/s/files/1/1026/8593/3939/files/leapproof-outcome-after.jpg?v=1791689217"
 OUT = Path(__file__).parent
 
@@ -257,49 +258,87 @@ window.addEventListener('scroll',u,{{passive:true}});window.addEventListener('re
 """
 
 # ---------------------------------------------------------------------------
-# LANDING PAGE (short): hero (native Funnelish) -> L1 mini strip -> L2 footer.
-# The landing page's one job is the quiz tap. Long sections moved out.
+# LANDING PAGE v4.1 (short): native hero + cards, then 4 Custom HTML blocks.
+# Copy source: ../LANDING_PAGE_COPY_SHORT.md. Blocks A and B are pulled from its
+# ```html fences verbatim; the footer and sticky bar are built here from its §5/§6.
 # ---------------------------------------------------------------------------
+SHORT = (OUT.parent / "LANDING_PAGE_COPY_SHORT.md").read_text(encoding="utf-8")
+FENCES = SHORT.split("```html\n")[1:]
+BLOCK_A = FENCES[0].split("```")[0]
+BLOCK_B = FENCES[1].split("```")[0].replace("https://leepproof.myfunnelish.com", "")
+assert "Block A" in BLOCK_A and "Block B" in BLOCK_B
+
+NEWTAB = 'target="_blank" rel="noopener"'
 LANDING = {}
+LANDING["L0-top-bar"] = BLOCK_A
+LANDING["L1-strip-steps"] = BLOCK_B
 
-LANDING["L1-how-it-works-mini"] = block("How the match works (mini)", f"""
-<section class="lp-sec lp-white" style="padding-top:56px;padding-bottom:56px"><div class="lp-wide">
-  <blockquote style="max-width:620px;margin:0 auto 44px;text-align:left">Leaking is “NEVER considered normal.”<span>· Ridgeview Medical Center¹</span></blockquote>
-  <h2 style="text-align:center">Your match, in about 2 minutes.</h2>
-  <div class="lp-steps" style="margin-top:26px">
-    <div class="lp-step"><div class="lp-num">1</div><h3>Tell us when it happens.</h3><p>Sneezing, laughing, jumping, running, lifting, or a bit of everything.</p></div>
-    <div class="lp-step"><div class="lp-num">2</div><h3>We match your size and your set.</h3><p>Your size, from the chart for this exact pair, and how many pairs you need.</p></div>
-    <div class="lp-step"><div class="lp-num">3</div><h3>See your match.</h3><p>Your size, your set and your price, right there on screen. No email needed.</p></div>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center;text-align:center">
-    <a class="lp-btn" href="{QUIZ}" style="margin-top:4px">Find my match</a>
-    <p class="lp-micro">{MICRO}</p>
-  </div>
-</div></section>""")
-
-LANDING["L2-footer-terms-sources"] = block("Footer + Leak-Test terms + sources", f"""
+LANDING["L2-footer-terms-sources"] = block("Footer + Leak-Test terms + sources (v4.1)", f"""
 <section class="lp-sec lp-plum" style="padding-top:56px;padding-bottom:48px"><div class="lp-wrap lp-foot">
   <div class="lp-wordmark">leap<i>proof</i></div>
   <strong>Not a treatment. It's underwear.</strong>
-  <p>This isn't a medical assessment. It matches you to underwear. If leaking is heavy, new, painful or getting worse, talk to a doctor or a pelvic-floor therapist.</p>
-  <p>The Straight Answer cards near the top of this page are notes from the Leapproof team, not customer reviews. Lifestyle images are illustrations, not customers.</p>
-  <div id="leak-test" style="border:1px solid rgba(231,207,201,.3);border-radius:12px;padding:18px 20px;margin:18px 0 16px">
-    <p style="color:var(--cream);font-weight:700;margin-bottom:6px">The 30-Night Leak-Test</p>
+  <p>For heavier leaks, these aren't enough on their own.</p>
+  <p>The quiz isn't a medical assessment. It matches you to underwear. If leaking is new, painful or getting worse, talk to a doctor or a pelvic-floor therapist.</p>
+  <p>Sizes S to 2XL. They run small, so don't go by the letter on your other underwear. The quiz checks your size against the chart for this exact pair. If we don't carry your size, it tells you before you pay.</p>
+  <!-- EDIT: check this against the sewn-in label on a real pair; add the lining's fibres if the label lists them -->
+  <p>Main fabric: 95% cotton, 5% spandex. Imported.</p>
+  <p>The Straight Answer cards near the top are notes from the Leapproof team, not customer reviews. The image at the top is AI-generated. It doesn't show real customers.</p>
+
+  <div id="leak-test" style="border:1px solid rgba(231,207,201,.3);border-radius:12px;padding:20px 20px 6px;margin:22px 0 18px;scroll-margin-top:16px">
+    <p style="color:var(--cream);font-weight:700;margin-bottom:4px">The 30-Night Leak-Test</p>
     <p>Wear them through your moment for 30 nights. If they don't hold, you get your money back. You keep the pairs. Nothing to send back.</p>
-    <p style="color:var(--cream);font-weight:700;margin-bottom:6px">The Fit Promise</p>
+    <p style="color:var(--cream);font-weight:700;margin-bottom:4px">The Fit Promise</p>
     <p>Wrong size? We'll send the right one first. No need to send the other back.</p>
-    <p style="margin-bottom:0"><span style="color:var(--cream);font-weight:700">How to claim:</span> Your 30 nights start the day your set arrives. Wear them day or night, through your real moments. If they don't hold, email us your order number and what happened. You can claim any time during your 30 nights, or up to 14 days after your 30th night. We refund the full price of the set and any extra pairs you added. One claim per customer. The Fit Promise covers one free size swap per order. This is on top of your rights under consumer law, including the Australian Consumer Law.</p>
+    <p style="color:var(--cream);font-weight:700;margin-bottom:4px">The terms, in plain words</p>
+    <ul style="margin:0 0 14px 18px">
+      <li>Your 30 nights start the day your set arrives (the delivered date on your tracking). Wear them day or night, through your real moments.</li>
+      <li>If they don't hold, email <span style="color:var(--cream)">[support email]</span> with your order number and what happened.</li>
+      <!-- EDIT if Nikita OKs the 14-day buffer, replace the next line with: You can claim any time during your 30 nights, or up to 14 days after your 30th night. -->
+      <li>You can claim any time during your 30 nights.</li>
+      <li>We refund the full amount you paid for your set and any extra pairs you added, to your original payment method. A claim costs you nothing.</li>
+      <li>One claim per customer.</li>
+      <li>The Fit Promise covers one free size swap per order.</li>
+      <!-- EDIT (flag 3): add the swap window and the "no size fits = refund" line once decided -->
+      <li>Shipping: free on every set in Australia. In the US, any shipping cost shows at checkout, before you pay.</li>
+      <li>The 30-Night Leak-Test and the Fit Promise are in addition to your other rights and remedies under the law.</li>
+    </ul>
   </div>
-  <p>Words in quote marks next to a named source are copied exactly from that source. Leapproof isn't connected to, or endorsed by, any source named on this page.</p>
-  <p>Our goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure.</p>
-  <!-- EDIT BEFORE GOING LIVE: add one line here with your registered business name · ABN · business address · support email -->
+
+  <p><span style="color:var(--cream);font-weight:700">Australia:</span> Our goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure.</p>
+  <p><span style="color:var(--cream);font-weight:700">US:</span> The 30-Night Leak-Test is a limited warranty. It gives you specific legal rights, and you may also have other rights which vary from state to state. Nothing on this page limits your rights under federal or state law.</p>
+  <!-- EDIT BEFORE GOING LIVE: replace the bracketed line below with your real details -->
+  <p style="color:var(--cream)">[Registered business name] · ABN [ ] · [business address] · [phone] · [support email]</p>
+
+  <div style="display:flex;flex-direction:column;align-items:center;text-align:center;margin:26px 0 8px">
+    <a class="lp-btn" id="lp-foot-cta" href="{QUIZ}" style="margin-top:0">Find my match</a>
+    <p class="lp-micro">About 2 minutes · No email needed to see your match</p>
+  </div>
+
   <p class="lp-links"><a href="https://leapproof.com/policies/privacy-policy">Privacy</a><a href="https://leapproof.com/policies/terms-of-service">Terms</a><a href="https://leapproof.com/pages/contact">Contact</a></p>
   <p>© 2026 leapproof</p>
   <div class="lp-notes">
-    <p>¹ Ridgeview Medical Center, “Coughing, laughing or sneezing shouldn't cause peeing”, ridgeviewmedical.org (accessed 11 Oct 2026). The words “NEVER considered normal.” are copied from this page.</p>
-    <p>² Study of leaking between 6 weeks and 1 year after giving birth. Moossdorff-Steinhauser et al., International Urogynecology Journal, 2021 (PMC8295150). Study results, not Leapproof customers.</p>
+    <p id="src1">¹ A review of studies of leaking between 6 weeks and 1 year after giving birth. Moossdorff-Steinhauser et al., International Urogynecology Journal, 2021. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295150/" {NEWTAB}>PMC8295150</a> (accessed 11 Oct 2026). Research results, not Leapproof customers.</p>
+    <p id="src2">² Ridgeview Medical Center, “Coughing, laughing or sneezing shouldn't cause peeing”, <a href="https://www.ridgeviewmedical.org/health-eviews/coughing-laughing-or-sneezing-shouldnt-cause-peeing/" {NEWTAB}>ridgeviewmedical.org</a> (accessed 11 Oct 2026). The words “NEVER considered normal.” are copied from this page.</p>
+    <p>Words in quote marks next to a named source are copied exactly from that source. Leapproof isn't connected to, or endorsed by, any source named on this page.</p>
   </div>
 </div></section>""")
+
+LANDING["L3-sticky-mobile-bar"] = f"""<!-- Leapproof landing v4.1 · sticky mobile button · paste into ONE Custom HTML element anywhere on the page -->
+<style>
+#lp-sticky{{position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#F5EDE6;border-top:1px solid #E7CFC9;padding:10px 14px calc(10px + env(safe-area-inset-bottom));display:none;align-items:center;gap:12px;font-family:'Hanken Grotesk',Arial,sans-serif;box-shadow:0 -6px 18px rgba(35,16,23,.08)}}
+#lp-sticky span{{font-size:14px;color:rgba(35,16,23,.75);white-space:nowrap}}
+#lp-sticky a{{flex:1;text-align:center;background:#A33154;color:#fff;text-decoration:none;font-weight:700;font-size:17px;padding:14px 16px;min-height:48px;border-radius:10px}}
+@media (min-width:821px){{#lp-sticky{{display:none!important}}}}
+</style>
+<div id="lp-sticky"><span>About 2 minutes</span><a href="{QUIZ}">Find my match</a></div>
+<script>
+(function(){{var b=document.getElementById('lp-sticky');if(!b)return;
+function onScreen(id){{var e=document.getElementById(id);if(!e)return false;var r=e.getBoundingClientRect();return r.top<window.innerHeight&&r.bottom>0;}}
+function u(){{var show=window.scrollY>650&&!onScreen('lp-strip-cta')&&!onScreen('lp-foot-cta');
+b.style.display=show&&window.innerWidth<=820?'flex':'none';}}
+window.addEventListener('scroll',u,{{passive:true}});window.addEventListener('resize',u);u();}})();
+</script>
+"""
 
 # Sections moved OFF the landing page. Kept for the product page; their CTAs will be
 # rewritten for the PDP (buy box, not the quiz) when the PDP is built.
@@ -308,9 +347,10 @@ CUT = ["1-right-place", "2-common-not-normal", "6-final-cta-footer"]
 
 (OUT / "landing").mkdir(exist_ok=True)
 (OUT / "pdp-later").mkdir(exist_ok=True)
+for old in (OUT / "landing").glob("*.html"):
+    old.unlink()
 for name, html in LANDING.items():
     (OUT / "landing" / f"{name}.html").write_text(html, encoding="utf-8")
-(OUT / "landing" / "L3-sticky-mobile-bar.html").write_text(BLOCKS["7-sticky-mobile-bar"].replace(".lp-card", "#leak-test"), encoding="utf-8")
 for name, html in PDP_LATER.items():
     (OUT / "pdp-later" / f"{name}.html").write_text(html, encoding="utf-8")
 

@@ -1,0 +1,51 @@
+<!-- Leapproof landing v4.1 FINAL · Block B · below-hero strip + quiz-link passthrough · ONE Funnelish Custom HTML element, directly under the cards -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;600;700&display=swap');
+.lps{background:#F5EDE6;color:#231017;font-family:'Hanken Grotesk',Arial,sans-serif;padding:48px 16px;line-height:1.5}
+.lps *{box-sizing:border-box;margin:0;padding:0}
+.lps .w{max-width:560px;margin:0 auto}
+.lps h2{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:26px;line-height:1.2;margin-bottom:18px}
+.lps h2 em{font-weight:500}
+.lps .q{font-family:'Fraunces',Georgia,serif;font-size:24px;line-height:1.3}
+.lps .qq{box-shadow:inset 0 -8px 0 #E7CFC9}
+.lps .src{font-size:13px;color:rgba(35,16,23,.75);margin:8px 0 18px}
+.lps p{font-size:17px;margin-bottom:12px}
+.lps .lab{font-size:12px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:#872845;margin:30px 0 6px}
+.lps h3{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:22px;line-height:1.25;margin-bottom:14px}
+.lps ol{list-style:none;counter-reset:s}
+.lps li{counter-increment:s;position:relative;padding:2px 0 12px 40px;font-size:17px;line-height:1.4}
+.lps li::before{content:counter(s);position:absolute;left:0;top:0;width:28px;height:28px;border-radius:50%;background:#231017;color:#F5EDE6;font-weight:700;font-size:15px;display:flex;align-items:center;justify-content:center}
+.lps .note{font-size:14px;color:rgba(35,16,23,.75);margin:0}
+.lps .btn{display:block;text-align:center;background:#A33154;color:#fff!important;text-decoration:none!important;font-weight:700;font-size:18px;padding:16px;min-height:52px;border-radius:10px;margin-top:20px}
+.lps .micro{font-size:14px;color:rgba(35,16,23,.75);text-align:center;margin-top:10px}
+.lps .micro a{color:inherit;text-decoration:underline}
+.lps sup a{color:inherit;text-decoration:none}
+</style>
+<section class="lps"><div class="w">
+  <h2><em>Leaking is just normal now.</em> Says who?</h2>
+  <p class="q">Leaking is <span class="qq">&ldquo;NEVER considered normal.&rdquo;</span></p>
+  <p class="src">Ridgeview Medical Center<sup><a href="#src2">2</a></sup>, a US hospital &middot; not connected to Leapproof</p>
+  <p>So nobody has to just live with it. A doctor or pelvic-floor therapist can help with the cause. Underwear is for the moment.</p>
+  <p class="lab">Find Your Leak Match</p>
+  <h3>About 2 minutes to find. 30 nights to test.</h3>
+  <ol>
+    <li><strong>Tell us when it happens.</strong></li>
+    <li><strong>See your size and how many pairs.</strong></li>
+    <li><strong>Wear them through your moment for 30 nights. If they don&rsquo;t hold, you get your money back.</strong></li>
+  </ol>
+  <p class="note">If we don&rsquo;t carry your size, or it&rsquo;s more than a little leak, we&rsquo;ll tell you.</p>
+  <a class="btn" id="lp-strip-cta" href="/quiz-2891028289-1791612140998314">Find my match</a>
+  <p class="micro">About 2 minutes &middot; No email needed to see your match &middot; <a href="#leak-test">30-Night Leak-Test</a></p>
+</div></section>
+<script>
+(function(){
+  function run(){
+    var p=new URLSearchParams(location.search);
+    var a=(p.get('a')||'').toLowerCase(), mk=(p.get('mk')||'').toLowerCase();
+    var keep={}; if(/^[a-z]{1,4}$/.test(a))keep.a=a; if(mk==='au')keep.mk='au';
+    document.querySelectorAll('a[href*="/quiz-2891028289"]').forEach(function(l){try{var x=new URL(l.href);for(var k in keep)x.searchParams.set(k,keep[k]);l.href=x.toString();}catch(e){}});
+  }
+  if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',run);}else{run();}
+  window.addEventListener('load',run);
+})();
+</script>
