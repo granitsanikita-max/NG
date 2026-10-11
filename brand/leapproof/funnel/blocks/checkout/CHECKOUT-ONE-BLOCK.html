@@ -120,15 +120,15 @@ function layout(){
   var ft=textEl('Built with Funnelish'), fs=ft && ft.closest('[class*="section_wrapper"]');
   if(fs){ fs.parentNode.insertBefore(take('lpk-4'),fs.nextSibling); hide(fs); } else main.appendChild(take('lpk-4'));
   /* climb from a piece of text to the first container-box that holds all of `need` */
-  function boxFor(t,need,tag){ var el=textEl(t); while(el && el!==document.body){ if(el.classList && el.classList.contains(tag||'container-box')){ var tx=el.innerText||''; if(need.every(function(n){return tx.indexOf(n)>-1})) return el; } el=el.parentElement; } return null; }
+  function boxFor(t,need,tag){ var el=textEl(t); while(el && el!==document.body){ if(el.classList && el.classList.contains(tag||'container-box')){ var tx=el.textContent||''; if(need.every(function(n){return tx.indexOf(n)>-1})) return el; } el=el.parentElement; } return null; }
   /* left header: rename in place, hide "Limura Bundle" + the gift/% image */
   rename('Checkout Product','Your set');                       /* first one on the page = left column */
   var gb=textEl('Get maximum bonus'); if(gb) gb.textContent='Matched to your quiz answers. Switch sets below if you like.';
   var lb=textEl('Limura Bundle'); if(lb) hide(lb.closest('.element-wrapper')||lb);
   [].forEach.call(document.querySelectorAll('img[src*="Coupon"],img[src*="Tag.svg"]'),function(i){ hide(i.closest('.element-wrapper')||i); });
   /* right column: arrival box goes INSIDE the Congrats/meter box (keeps the template's order) */
-  var cb=boxFor('Congrats!',['Congrats!','Free Ship']);
-  if(cb && (cb.innerText||'').indexOf('Total')<0){ [].slice.call(cb.children).forEach(hide); cb.appendChild(take('lpk-2')); }
+  var cb=boxFor('Congrats!',['Free Gift & Free Ship & 18% Off','You just get Free Gift']);   /* the box holding all 3 Congrats/meter versions */
+  if(cb && (cb.textContent||'').indexOf('Total')<0){ [].slice.call(cb.children).forEach(hide); cb.appendChild(take('lpk-2')); }
   /* under the button: guarantee + reviews replace the money-back badge and payment logos */
   var bb=boxFor('Checkout Now',['Checkout Now','30-Day Money Back']);
   if(bb){ [].slice.call(bb.children).forEach(function(c){ if((c.innerText||'').indexOf('Checkout Now')<0) hide(c); }); bb.appendChild(take('lpk-3')); }
