@@ -33,9 +33,10 @@ Black cotton briefs for women who'd rather laugh than cross their legs. The quiz
 ```
 
 **Bullets**
-- (icon-check) `Looks like regular black underwear`
-- (icon-loop) `No pad to bunch. Nothing to throw away.`
-- (icon-swap) `Wrong size? One free size swap.`
+- (icon-check) `Feels like normal underwear. Not a pad, not a diaper.`
+- (icon-heart) `Built for the sneeze, the laugh and the jump`
+- (icon-gift) `30 nights to test. Money back if they don't hold. Keep the pairs.`
+(v4.2: bullets rewritten benefit-first; size swap lives in the footer terms + quiz)
 
 **Button** — `Find my match`
 
@@ -43,8 +44,8 @@ Black cotton briefs for women who'd rather laugh than cross their legs. The quiz
 `About 2 minutes · No email needed to see your match · 30-Night Leak-Test`
 
 **Proof row** (replace "Loved by 1.2k" — no avatars, no stars)
-`New brand, no reviews yet. We won't fake any.`
-(Fallback: `We're new. Straight answers, no fake reviews.`)
+`Wrong size? We'll send the right one first. No need to send the other back.`
+(Nikita cut "no reviews yet". Swap in real tester reviews once collected.)
 
 ---
 
