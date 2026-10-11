@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&display=swap');
+:root{--ink:#231017;--claret:#A33154;--cream:#F5EDE6;--rose:#E7879F}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{background:transparent}
+body{display:flex;flex-direction:column;gap:40px;align-items:flex-start;padding:20px}
+.wm{display:inline-block;padding:28px 48px 44px 40px;font-family:'Fraunces',Georgia,serif;font-size:200px;line-height:1;letter-spacing:-0.01em;font-variation-settings:'opsz' 144}
+.wm .l{font-weight:500}
+.wm .p{font-style:italic;font-weight:500;margin-left:0.07em}
+.light .l{color:var(--ink)} .light .p{color:var(--claret)}
+.dark .l{color:var(--cream)} .dark .p{color:var(--rose)}
+.oncream{background:var(--cream)}
+.onplum{background:var(--ink)}
+.mono{width:512px;height:512px;display:flex;align-items:center;justify-content:center;font-family:'Fraunces',Georgia,serif;font-size:300px;line-height:1;font-variation-settings:'opsz' 144;border-radius:0;padding-bottom:30px}
+.mono .l{font-weight:600} .mono .p{font-style:italic;font-weight:600;margin-left:-6px}
+.mono.c{background:var(--cream)} .mono.c .l{color:var(--ink)} .mono.c .p{color:var(--claret)}
+.mono.d{background:var(--ink)} .mono.d .l{color:var(--cream)} .mono.d .p{color:var(--rose)}
+</style></head><body>
+<div id="primary" class="wm light"><span class="l">leap</span><span class="p">proof</span></div>
+<div id="primaryCream" class="wm light oncream"><span class="l">leap</span><span class="p">proof</span></div>
+<div id="reverse" class="wm dark"><span class="l">leap</span><span class="p">proof</span></div>
+<div id="reversePlum" class="wm dark onplum"><span class="l">leap</span><span class="p">proof</span></div>
+<div id="monoCream" class="mono c"><span class="l">l</span><span class="p">p</span></div>
+<div id="monoPlum" class="mono d"><span class="l">l</span><span class="p">p</span></div>
+</body></html>
