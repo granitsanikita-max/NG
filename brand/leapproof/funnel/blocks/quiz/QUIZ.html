@@ -1,4 +1,4 @@
-<!-- Leapproof quiz v1 · paste this whole block into ONE Funnelish Custom HTML element on the Quiz page.
+<!-- Leapproof quiz v2 · paste this whole block into ONE Funnelish Custom HTML element on the Quiz page.
      EDIT the one line below marked EDIT once the product page exists. -->
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;500;600;700&display=swap');
@@ -39,10 +39,19 @@
 #lpq .card.light h2{color:var(--ink)}
 #lpq .card.light .big{color:var(--claret)}
 #lpq .card.light .src{color:var(--taupe)}
-#lpq .load{text-align:center;padding-top:20px}
-#lpq .load li{list-style:none;font-size:18px;margin:16px 0;color:var(--taupe);opacity:.35;transition:opacity .4s,color .4s}
-#lpq .load li.on{opacity:1;color:var(--ink)}
-#lpq .load li.on::before{content:'✓ ';color:var(--claret);font-weight:700}
+#lpq .load{text-align:center;padding-top:30px}
+#lpq .ring{position:relative;width:170px;height:170px;margin:0 auto 26px}
+#lpq .ring svg{width:100%;height:100%;transform:rotate(-90deg)}
+#lpq .ring .rb{fill:none;stroke:#E7CFC9;stroke-width:8}
+#lpq .ring .rf{fill:none;stroke:#A33154;stroke-width:8;stroke-linecap:round}
+#lpq .ring .rc{position:absolute;inset:22px;border-radius:50%;background:#fff;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 18px rgba(35,16,23,.08)}
+#lpq .ring .mono{font-family:'Fraunces',Georgia,serif;font-size:52px;line-height:1;color:#231017;letter-spacing:-.02em}
+#lpq .ring .mono i{color:#A33154;font-weight:500;margin-left:.04em}
+#lpq .tiles{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+#lpq .tile{padding:0;flex-direction:column;align-items:stretch;overflow:hidden;gap:0}
+#lpq .tile img{width:100%;aspect-ratio:1/1;object-fit:cover;display:block}
+#lpq .tile .tl{display:flex;align-items:center;gap:10px;padding:12px 12px 14px;font-size:15.5px}
+#lpq .tile .ck{flex:0 0 22px;height:22px}
 #lpq .fade{animation:lpqf .3s ease}
 @keyframes lpqf{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 @media(min-width:700px){#lpq{padding-top:40px}#lpq .opts.two{grid-template-columns:1fr 1fr}}
@@ -56,39 +65,44 @@
 var NEXT_URL = '/product';
 
 var CH = ['Your moment','What’s happening','Your fit'];
+/* IMAGES: paste each image link between the quotes. Empty = text tiles. */
+var IMG = {
+ q1:{s:'',l:'',j:'',a:''},
+ q13:{t:'',c:'',l:'',w:'',s:''}
+};
 var Q = [
- {id:'q1',ch:0,t:'What were you doing the last time it caught you out?',s:'Tap the one that feels most familiar.',o:[
-   ['s','Sneezing or coughing'],['l','Laughing with friends'],['j','Jumping, running or the gym'],['a','Honestly? All of the above']]},
- {id:'q2',ch:0,t:'When did it start?',s:'It changes how we explain your match. Not your price.',o:[
-   ['c','After having my baby (or babies)'],['r','In the last few years, out of nowhere'],['t','When I started training harder'],['u','It’s been around as long as I can remember'],['x','I’d rather not say']]},
+ {id:'q1',ch:0,t:'When does it happen most?',s:'Pick one.',o:[
+   ['s','Sneezing or coughing'],['l','Laughing'],['j','Jumping, running or the gym'],['a','All of these'],['o','Something else']]},
+ {id:'q2',ch:0,t:'When did it start?',s:'Pick one.',o:[
+   ['c','After having a baby'],['r','In the last few years'],['t','When I started training more'],['u','As long as I can remember'],['o','Something else'],['x','I’d rather not say']]},
  {card:'normal'},
- {id:'q3',ch:0,multi:1,t:'What have you tried so far?',s:'Pick all that apply. So we don’t suggest something you already hated.',o:[
-   ['p','Pads or liners'],['d','Period underwear'],['k','“Leak-proof” underwear that still leaked'],['f','Pelvic-floor physio or exercises'],['g','Going to the toilet “just in case”'],['x','Crossing my legs and hoping'],['n','Nothing yet',1]]},
+ {id:'q3',ch:0,multi:1,t:'What have you tried?',s:'Pick all that apply.',o:[
+   ['p','Pads or liners'],['d','Period undies'],['k','Leak-proof undies'],['f','Pelvic floor exercises'],['g','Going to the toilet “just in case”'],['x','Crossing my legs'],['o','Something else'],['n','Nothing yet',1]]},
  {card:'react'},
- {id:'q4',ch:1,t:'On a normal day, how much is it?',s:'Be honest. It tells us whether these will suit you.',o:[
-   ['1','A few drops'],['2','A small splash on a big sneeze or jump'],['3','More than a splash. A liner can’t keep up'],['4','It can be a lot, like I can’t stop it']]},
+ {id:'q4',ch:1,t:'How much leaks out?',s:'Be honest. It tells us if these will suit you.',o:[
+   ['1','A few drops'],['2','A small splash'],['3','More than a liner can hold'],['4','A lot']]},
  {card:'heavy',when:function(A){return A.q4==='4'}},
- {id:'q5',ch:1,multi:1,t:'Where does it catch you out?',s:'Pick all that apply.',o:[
-   ['s','At the shops'],['g','At the gym or on a run'],['k','Playing with the kids'],['f','Out with friends'],['w','At work'],['n','At night, or getting up fast']]},
+ {id:'q5',ch:1,multi:1,t:'Where does it happen?',s:'Pick all that apply.',o:[
+   ['s','At the shops'],['g','At the gym or on a run'],['k','With the kids'],['f','Out with friends'],['w','At work'],['n','At night'],['o','Somewhere else']]},
  {card:'play'},
- {id:'q6',ch:1,t:'How many times have you bought something that promised to fix this?',s:'So we show you proof, not promises.',o:[
-   ['0','Never. This is my first try'],['1','Once or twice'],['2','More times than I’d like to admit'],['3','I’ve stopped believing anything works']]},
- {id:'q7',ch:1,t:'What’s stopped you trying something new?',s:'Whatever it is, we’ll answer it straight on your results.',o:[
-   ['n','They’ll feel like a nappy'],['b','They’ll show under leggings'],['l','I’ve bought stuff that leaked anyway'],['f','Things never fit. They ride up or roll down'],['m','I figured it’s just normal now'],['c','It’s a lot of money for underwear']]},
- {id:'q8',ch:1,multi:1,t:'What have you said no to because of it?',s:'Pick all that apply.',o:[
-   ['c','A class, a run or a session'],['t','The trampoline with the kids'],['p','Lighter-coloured pants'],['l','A proper belly laugh'],['d','A long day out with no toilet nearby'],['n','Nothing yet, and I’d like to keep it that way',1]]},
- {id:'q9',ch:2,t:'When would you wear them?',s:'With your washing, this tells us how many pairs keep you covered.',o:[
+ {id:'q6',ch:1,t:'Have you bought things that promised to fix this?',s:'Pick one.',o:[
+   ['0','No, this is my first time'],['1','Once or twice'],['2','Lots of times'],['3','Yes, and I’ve given up']]},
+ {id:'q7',ch:1,t:'What worries you most about leak-proof undies?',s:'We’ll answer it straight on your results.',o:[
+   ['n','They’ll feel like a nappy'],['b','They’ll show under leggings'],['l','They’ll leak anyway'],['f','They won’t fit right'],['m','I thought leaking was just normal'],['c','They cost too much'],['o','Something else']]},
+ {id:'q8',ch:1,multi:1,t:'What have you skipped because of it?',s:'Pick all that apply.',o:[
+   ['c','A class or a run'],['t','The trampoline with the kids'],['p','Light-coloured pants'],['l','A big laugh'],['d','A long day out'],['o','Something else'],['n','Nothing yet',1]]},
+ {id:'q9',ch:2,t:'When would you wear them?',s:'Pick one.',o:[
    ['e','Every day'],['t','On training days'],['n','At night'],['m','A mix']]},
- {id:'q10',ch:2,t:'Which size fits your hips?',s:'Measure around the fullest part of your hips. These run small, so go by the measurement, not the letter on your other undies.',o:[
+ {id:'q10',ch:2,t:'What’s your hip size?',s:'Measure around the widest part of your hips. These run small, so go by the number.',o:[
    ['S','S','Hips up to 85 cm · AU 4–6 · US 0–2'],['M','M','Hips 85–90 cm · AU 8 · US 4'],['L','L','Hips 90–95 cm · AU 10–12 · US 6–8'],['XL','XL','Hips 95–100 cm · AU 14 · US 10'],['2XL','2XL','Hips 100–105 cm · AU 16 · US 12'],['O','Over 105 cm']]},
  {card:'nosize',when:function(A){return A.q10==='O'}},
  {card:'fit'},
- {id:'q11',ch:2,t:'What matters most to you in a pair?',o:[
-   ['h','That they hold'],['n','That they feel like normal underwear'],['s','That they stay put when I move'],['w','That they’re easy to wash and last']]},
- {id:'q12',ch:2,t:'How often do you do a wash?',o:[
-   ['f','Every few days'],['w','Once a week'],['r','As rarely as I can (no judgement)']]},
- {id:'q13',ch:2,t:'What’s the first thing you’ll do when you stop worrying about it?',s:'Last one.',o:[
-   ['t','Get on the trampoline with the kids'],['c','Go all out in my next class or run'],['l','Laugh as hard as I want'],['w','Wear what I want, without planning around it'],['s','Just stop thinking about it']]},
+ {id:'q11',ch:2,t:'What matters most?',s:'Pick one.',o:[
+   ['h','That they hold'],['n','That they feel normal'],['s','That they don’t move'],['w','That they last']]},
+ {id:'q12',ch:2,t:'How often do you do washing?',s:'Pick one.',o:[
+   ['f','Every few days'],['w','Once a week'],['r','Less than that']]},
+ {id:'q13',ch:2,t:'What would you do first if you stopped worrying?',s:'Last one.',o:[
+   ['t','Jump on the trampoline with the kids'],['c','Go all out at the gym'],['l','Laugh as hard as I want'],['w','Wear whatever I want'],['s','Just stop thinking about it']]},
  {card:'load'}
 ];
 var TOTAL = Q.filter(function(x){return x.id}).length;
@@ -161,10 +175,14 @@ function cardHTML(kind){
 }
 
 function loader(){
-  var L=['Matching your moments…','Sizing you to this pair’s chart…','Working out how many pairs fit your week…','Your free gifts are unlocked.'];
-  W.innerHTML='<div class="fade load"><h2>Finding your match</h2><ul>'+L.map(function(x){return '<li>'+x+'</li>'}).join('')+'</ul></div>';
-  var li=W.querySelectorAll('li'), k=0;
-  var tm=setInterval(function(){ if(k<li.length){li[k].className='on';k++;} else {clearInterval(tm); go();} },1300);
+  var L=['Matching your moments…','Sizing you to this pair’s chart…','Working out how many pairs fit your week…','Unlocking your free gifts…'];
+  W.innerHTML='<div class="fade load"><div class="ring"><svg viewBox="0 0 120 120"><circle cx="60" cy="60" r="52" class="rb"/><circle cx="60" cy="60" r="52" class="rf" id="lpq-rf"/></svg>'+
+   '<div class="rc"><span class="mono">l<i>p</i></span></div></div>'+
+   '<h2>Finding your match…</h2><p class="sub" id="lpq-ln">'+L[0]+'</p></div>';
+  var rf=document.getElementById('lpq-rf'), ln=document.getElementById('lpq-ln'), k=0, C=2*Math.PI*52;
+  rf.style.strokeDasharray=C; rf.style.strokeDashoffset=C;
+  setTimeout(function(){ rf.style.transition='stroke-dashoffset 5.6s linear'; rf.style.strokeDashoffset=0; },50);
+  var tm=setInterval(function(){ k++; if(k<L.length){ ln.textContent=L[k]; } else { clearInterval(tm); ln.textContent='Your match is ready.'; setTimeout(go,500); } },1400);
 }
 function go(){
   var r = Q.filter(function(x){return x.id}).map(function(x){var v=A[x.id]; return Array.isArray(v)?v.join(''):(v||'-')}).join('.');
@@ -189,11 +207,14 @@ function render(){
   var num=qnum(i), cur=A[s.id];
   var html='<div class="fade">'+head(s.ch,num)+'<h2>'+s.t+'</h2>'+(s.s?'<p class="sub">'+s.s+'</p>':'<div style="height:16px"></div>')+
     '<div class="opts'+(s.o.length>4&&!s.o[0][2]?' two':'')+'">';
-  s.o.forEach(function(o){
-    var on = s.multi ? (cur||[]).indexOf(o[0])>-1 : cur===o[0];
-    html+='<button type="button" class="opt'+(s.multi?' multi':'')+(on?' on':'')+'" data-c="'+o[0]+'"><span class="ck"></span><span>'+o[1]+(typeof o[2]==='string'?'<small>'+o[2]+'</small>':'')+'</span></button>';
-  });
-  html+='</div>';
+  var im=IMG[s.id], useImg=im&&s.o.filter(function(o){return im[o[0]]}).length>=s.o.filter(function(o){return o[0]!=='o'}).length;
+  var imgOpts=useImg?s.o.filter(function(o){return im[o[0]]}):[], txtOpts=useImg?s.o.filter(function(o){return !im[o[0]]}):s.o;
+  function tile(o){ var on = s.multi ? (cur||[]).indexOf(o[0])>-1 : cur===o[0];
+    return '<button type="button" class="opt tile'+(on?' on':'')+'" data-c="'+o[0]+'"><img src="'+im[o[0]]+'" alt="" loading="eager"><span class="tl"><span class="ck"></span><span>'+o[1]+'</span></span></button>'; }
+  function row(o){ var on = s.multi ? (cur||[]).indexOf(o[0])>-1 : cur===o[0];
+    return '<button type="button" class="opt'+(s.multi?' multi':'')+(on?' on':'')+'" data-c="'+o[0]+'"><span class="ck"></span><span>'+o[1]+(typeof o[2]==='string'?'<small>'+o[2]+'</small>':'')+'</span></button>'; }
+  if(useImg){ html=html.replace(/<div class="opts[^"]*">$/,'<div class="tiles">'); imgOpts.forEach(function(o){html+=tile(o)}); html+='</div>'; if(txtOpts.length){ html+='<div class="opts" style="margin-top:12px">'; txtOpts.forEach(function(o){html+=row(o)}); html+='</div>'; } }
+  else { txtOpts.forEach(function(o){html+=row(o)}); html+='</div>'; }
   if(s.multi) html+='<button class="btn" type="button" id="lpq-go" '+((cur&&cur.length)?'':'disabled')+'>Continue</button>';
   W.innerHTML=html+'</div>';
   W.querySelectorAll('.opt').forEach(function(b){
