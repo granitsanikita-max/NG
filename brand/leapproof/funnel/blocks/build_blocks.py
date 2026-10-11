@@ -279,7 +279,7 @@ LANDING["L2-footer-terms-sources"] = block("Footer + Leak-Test terms + sources (
   <strong>Not a treatment. It's underwear.</strong>
   <p>For heavier leaks, these aren't enough on their own.</p>
   <p>The quiz isn't a medical assessment. It matches you to underwear. If leaking is new, painful or getting worse, talk to a doctor or a pelvic-floor therapist.</p>
-  <p>Sizes S to 2XL (hips up to 107 cm). Go by your hip measurement, not the letter on your other underwear. Between two sizes? Pick the smaller one. The quiz checks your size against the chart for this exact pair. If we don't carry your size, it tells you before you pay.</p>
+  <p>Sizes S to 2XL (hips up to 101 cm). Go by your hip measurement, not the letter on your other underwear. Between two sizes? Pick the smaller one. The quiz checks your size against the chart for this exact pair. If we don't carry your size, it tells you before you pay.</p>
   <!-- EDIT: check this against the sewn-in label on a real pair; add the lining's fibres if the label lists them -->
   <p>Main fabric: 95% cotton, 5% spandex. Imported.</p>
   <p>The Straight Answer cards near the top are notes from the Leapproof team, not customer reviews. The image at the top is AI-generated. It doesn't show real customers.</p>
