@@ -118,3 +118,16 @@ Always "period pads/period underwear," never bare "pads," when talking about the
 |---|---|
 | Quiz length | "about 2 minutes" (CJ: 12 questions; Lynmiss: 13; plus cards) |
 | Loader | 7 seconds, 4 lines |
+
+## 13. Product facts — CJ brief (REAL, from the CJ listing; single source for all product copy)
+| Fact | Value | Notes / claim rule |
+|---|---|---|
+| Name (internal) | "3 layers of menstrual panties" | NEVER shown to customer. Public name: Leapproof Brief. |
+| Fabric | 95% cotton / 5% spandex | state exactly; stretchy, soft |
+| Construction | layered leak-resistant gusset (black mesh/moisture-wicking inner), **extended lining front-to-back with a widened rear crotch** = full rear coverage; high-elastic waistband + elastic leg openings ("not tight, not bound") | describe only; no absorbency ml. **NEVER claim a layer count** — CJ's listing says both "3 layers" and "four layers", so say "layered", not a number. Back coverage is real → nights/O20 can be addressed honestly |
+| Style | mid-rise front, higher back; tonal lace side panels (black lace on black); wide comfy waistband | describe what's visibly true |
+| Colours available | Black / Gray / Apricot | **we list Black only** |
+| Sizes | S / M / L / XL / 2XL | — |
+| **Size chart (body circumference, cm)** | S: waist 64 / hip 68 · M: 68 / 72 · L: 72 / 76 · XL: 76 / 80 · 2XL: 80 / 84 (length S→2XL: 22→26) | the chart lists "×2" (flat ×2 = circumference). ±1–2cm manual-measurement tolerance |
+| **SIZING RISK (decision needed)** | Chart is **Asian sizing — runs small.** 2XL hip 84cm ≈ **AU size ~10–12 only.** | Our ICP (postpartum, perimenopause) skews larger. This garment likely **does not fit a big part of the AU market.** Options: (a) build a Leapproof chart that maps AU 6→14 onto S→2XL honestly and tell her to size up, (b) source a wider-range SKU, (c) cap the audience. **Do not publish a chart that promises a fit we can't deliver.** |
+| Care | [confirm from maker: cold wash, gentle, no softener, air dry — standard for this construction] | teach before first wear |
