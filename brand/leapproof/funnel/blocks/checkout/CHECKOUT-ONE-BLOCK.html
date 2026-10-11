@@ -1,0 +1,255 @@
+<!-- Leapproof checkout · ONE BLOCK for the whole page.
+     Paste into ONE Custom HTML element anywhere on the checkout (bottom is fine). Don't delete anything else.
+     It adds the header, arrival date, guarantee, reviews and footer, hides the template's Limura junk,
+     renames the template text, and ticks the right set + gifts from ?set= (sent by the offer page). -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;500;600;700&display=swap');
+
+0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;600;700&display=swap');
+#ck1{font-family:'Hanken Grotesk',Arial,sans-serif;background:#fff;border-bottom:1px solid #E4D6D0}
+#ck1 *{box-sizing:border-box;margin:0;padding:0}
+#ck1 .w{max-width:1160px;margin:0 auto;padding:0 16px;height:64px;display:flex;align-items:center;justify-content:space-between}
+#ck1 .logo{font-family:'Fraunces',Georgia,serif;font-size:28px;letter-spacing:-.02em;color:#231017;line-height:1}
+#ck1 .logo i{color:#A33154;font-weight:500;margin-left:.06em}
+#ck1 .sec{display:flex;align-items:center;gap:7px;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#231017}
+#ck1 .sec svg{width:15px;height:15px}
+#ck1 .bar{background:#231017;color:#F5EDE6;font-size:13.5px;font-weight:600;text-align:center;padding:9px 12px;letter-spacing:.02em}
+#ck1 .bar b{color:#E7879F;font-weight:700}
+@media(max-width:520px){#ck1 .sec span{display:none}#ck1 .bar{font-size:12.5px}}
+
+
+#ck2{font-family:'Hanken Grotesk',Arial,sans-serif;color:#231017;background:#fff;border:1px solid #E4D6D0;margin:0 0 14px}
+#ck2 *{box-sizing:border-box;margin:0;padding:0}
+#ck2 .top{display:flex;gap:14px;align-items:center;padding:16px 18px;border-bottom:1px solid #E4D6D0}
+#ck2 .cal{flex:0 0 46px;height:50px;border:1px solid #231017;text-align:center;background:#fff}
+#ck2 .cal b{display:block;background:#A33154;color:#fff;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;padding:3px 0}
+#ck2 .cal span{display:block;font-family:'Fraunces',Georgia,serif;font-size:21px;font-weight:600;line-height:28px}
+#ck2 .lab{font-size:11.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#872845;margin-bottom:3px}
+#ck2 .when{font-size:16.5px;font-weight:700;line-height:1.3}
+#ck2 .small{font-size:13.5px;color:#8C6A6C;margin-top:2px;line-height:1.4}
+#ck2 .pic{padding:14px 18px;background:#F5EDE6;font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:17px;line-height:1.4;color:#A33154}
+#ck2 .size{display:none;padding:12px 18px;border-top:1px solid #E4D6D0;font-size:14.5px;line-height:1.45}
+#ck2 .size b{font-weight:700}
+#ck2 .size.on{display:block}
+
+
+#ck3{font-family:'Hanken Grotesk',Arial,sans-serif;color:#231017;margin-top:14px}
+#ck3 *{box-sizing:border-box;margin:0;padding:0}
+#ck3 .g{background:#231017;color:#F5EDE6;padding:20px 18px}
+#ck3 .g .lab{font-size:11.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#E7879F;margin-bottom:6px}
+#ck3 .g h3{font-family:'Fraunces',Georgia,serif;font-size:21px;font-weight:600;line-height:1.2;color:#fff;margin-bottom:8px}
+#ck3 .g p{font-size:14.5px;line-height:1.55}
+#ck3 .g ul{list-style:none;margin-top:12px;border-top:1px solid rgba(231,207,201,.25);padding-top:10px}
+#ck3 .g li{position:relative;padding:5px 0 5px 26px;font-size:14px;line-height:1.45;color:#E7CFC9}
+#ck3 .g li::before{content:'';position:absolute;left:0;top:7px;width:17px;height:17px;border-radius:50%;background:#A33154 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23fff' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 12.5 4 4 8-8.5'/%3E%3C/svg%3E") center/10px no-repeat}
+#ck3 .rv{display:none;margin-top:18px}
+#ck3 .rv.on{display:block}
+#ck3 .rv .hd{font-size:11.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#872845;margin-bottom:10px}
+#ck3 .rc{background:#fff;border:1px solid #E4D6D0;padding:16px;margin-top:-1px}
+#ck3 .rc .st{color:#A33154;letter-spacing:2px;font-size:14px}
+#ck3 .rc .t{font-family:'Fraunces',Georgia,serif;font-size:16.5px;font-weight:600;line-height:1.3;margin:6px 0 4px}
+#ck3 .rc p{font-size:14.5px;line-height:1.55}
+#ck3 .rc .who{font-size:13.5px;font-weight:700;margin-top:10px}
+#ck3 .rc .meta{font-size:12.5px;color:#8C6A6C;margin-top:1px}
+#ck3 .help{font-size:13.5px;color:#8C6A6C;text-align:center;margin-top:16px;line-height:1.5}
+#ck3 .help a{color:#A33154}
+
+
+#ck4{font-family:'Hanken Grotesk',Arial,sans-serif;background:#231017;color:#E7CFC9;text-align:center;padding:30px 16px 26px;margin-top:30px}
+#ck4 *{box-sizing:border-box;margin:0;padding:0}
+#ck4 .logo{font-family:'Fraunces',Georgia,serif;font-size:26px;color:#F5EDE6;letter-spacing:-.02em}
+#ck4 .logo i{color:#E7879F;font-weight:500;margin-left:.06em}
+#ck4 .links{margin:14px 0 8px;font-size:13.5px;font-weight:600}
+#ck4 .links a{color:#F5EDE6;text-decoration:none;border-bottom:1px solid #E7879F;margin:0 9px}
+#ck4 p{font-size:12.5px;opacity:.85;line-height:1.6}
+
+#lpk-sethd{font-family:'Hanken Grotesk',Arial,sans-serif;color:#231017}
+#lpk-sethd h2{font-family:'Fraunces',Georgia,serif;font-size:26px;font-weight:600;margin:0 0 4px}
+#lpk-sethd p{font-size:15px;color:#8C6A6C;margin:0}
+.os-discount-box{display:none!important}
+#lpk-1,#lpk-2,#lpk-3,#lpk-4{display:block!important;width:100%!important;max-width:none;flex:1 1 100%;align-self:stretch;text-align:left;box-sizing:border-box}
+#lpk-1 #ck1,#lpk-4 #ck4{width:100%}
+#lpk-3 #ck3,#lpk-2 #ck2{width:100%}
+#lpk-4 #ck4{text-align:center}
+
+</style>
+<div id="lpk-src" style="display:none">
+<div id="lpk-1"><div id="ck1">
+ <div class="w"><span class="logo">leap<i>proof</i></span><span class="sec"><svg viewBox="0 0 24 24" fill="none" stroke="#231017" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="11" width="14" height="10"/><path d="M8 11V7.5a4 4 0 0 1 8 0V11"/></svg><span>Secure checkout</span></span></div>
+ <div class="bar">Free shipping <b>·</b> 30-Night Leak-Test <b>·</b> Free size swap</div>
+</div></div>
+<div id="lpk-2"><div id="ck2">
+ <div class="top">
+  <div class="cal"><b id="ck2-m">Oct</b><span id="ck2-d">27</span></div>
+  <div><div class="lab">Order today</div><div class="when" id="ck2-when">Arrives in about 7–12 business days</div><div class="small">Packed within 1–2 business days. Free shipping.</div></div>
+ </div>
+ <div class="pic" id="ck2-pic">Your 30 nights start the day they arrive.</div>
+ <div class="size" id="ck2-size"></div>
+</div></div>
+<div id="lpk-3"><div id="ck3">
+ <div class="g">
+  <div class="lab">The 30-Night Leak-Test</div>
+  <h3>Sneeze in them. Laugh in them. Then decide.</h3>
+  <p>Wear them through your real moments for 30 nights from the day they arrive. If they don’t hold, email us and we refund your whole order. You keep the pairs. Nothing to send back.</p>
+  <ul>
+   <li>Wrong size? We send your new size free.</li>
+   <li>One-off payment. No subscription, nothing renews.</li>
+   <li>On top of your rights under Australian Consumer Law.</li>
+  </ul>
+ </div>
+ <div class="rv" id="ck3-rv"><div class="hd">From our testers</div><div id="ck3-list"></div></div>
+ <p class="help">Questions before you pay? Email <a href="mailto:hello@leapproof.com">hello@leapproof.com</a>. A real person answers.</p>
+</div></div>
+<div id="lpk-4"><div id="ck4">
+ <div class="logo">leap<i>proof</i></div>
+ <div class="links"><a href="https://leapproof.com/policies/refund-policy" target="_blank" rel="noopener">Refunds</a><a href="https://leapproof.com/policies/shipping-policy" target="_blank" rel="noopener">Shipping</a><a href="https://leapproof.com/policies/terms-of-service" target="_blank" rel="noopener">Terms</a><a href="https://leapproof.com/policies/privacy-policy" target="_blank" rel="noopener">Privacy</a><a href="mailto:hello@leapproof.com">Contact</a></div>
+ <p>Underwear, not a treatment. Made for lighter leaks.<br>© 2026 leapproof · Melbourne, Australia</p>
+</div></div>
+</div>
+<script>
+(function(){
+/* ---------- 1. Lay out the page: our blocks in, template junk out, template text renamed ---------- */
+function own(n){ return n && n.closest && n.closest('#lpk-src,#lpk-1,#lpk-2,#lpk-3,#lpk-4'); }
+function textEl(t){ var w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null),n; while((n=w.nextNode())){ if(n.textContent.indexOf(t)>-1 && !own(n.parentElement)) return n.parentElement; } return null; }
+function rename(from,to,all){ var w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null),n,hit=0; while((n=w.nextNode())){ if(n.textContent.trim()===from && !own(n.parentElement)){ n.textContent=n.textContent.replace(from,to); hit++; if(!all) break; } } return hit; }
+function hide(el){ if(el) el.style.setProperty('display','none','important'); }
+function take(id){ var el=document.getElementById(id); return el; }
+function ph(name,txt){ var i=document.querySelector('[name="'+name+'"]'); if(i) i.setAttribute('placeholder',txt); }
+var laid=false;
+function layout(){
+  if(laid) return true;
+  var main=document.querySelector('.main-wrapper'); if(!main || !textEl('Shipping Information') && !textEl('Where should we send them?')) return false;
+  /* header: replace the template's top logo section */
+  var top=main.querySelector('[class*="section_wrapper"]');
+  if(top && top.getBoundingClientRect().height<160 && !top.querySelector('input')){ top.parentNode.insertBefore(take('lpk-1'),top); hide(top); }
+  else main.insertBefore(take('lpk-1'),main.firstChild);
+  /* footer */
+  var ft=textEl('Built with Funnelish'), fs=ft && ft.closest('[class*="section_wrapper"]');
+  if(fs){ fs.parentNode.insertBefore(take('lpk-4'),fs.nextSibling); hide(fs); } else main.appendChild(take('lpk-4'));
+  /* climb from a piece of text to the first container-box that holds all of `need` */
+  function boxFor(t,need,tag){ var el=textEl(t); while(el && el!==document.body){ if(el.classList && el.classList.contains(tag||'container-box')){ var tx=el.innerText||''; if(need.every(function(n){return tx.indexOf(n)>-1})) return el; } el=el.parentElement; } return null; }
+  /* left header: rename in place, hide "Limura Bundle" + the gift/% image */
+  rename('Checkout Product','Your set');                       /* first one on the page = left column */
+  var gb=textEl('Get maximum bonus'); if(gb) gb.textContent='Matched to your quiz answers. Switch sets below if you like.';
+  var lb=textEl('Limura Bundle'); if(lb) hide(lb.closest('.element-wrapper')||lb);
+  [].forEach.call(document.querySelectorAll('img[src*="Coupon"],img[src*="Tag.svg"]'),function(i){ hide(i.closest('.element-wrapper')||i); });
+  /* right column: arrival box goes INSIDE the Congrats/meter box (keeps the template's order) */
+  var cb=boxFor('Congrats!',['Congrats!','Free Ship']);
+  if(cb && (cb.innerText||'').indexOf('Total')<0){ [].slice.call(cb.children).forEach(hide); cb.appendChild(take('lpk-2')); }
+  /* under the button: guarantee + reviews replace the money-back badge and payment logos */
+  var bb=boxFor('Checkout Now',['Checkout Now','30-Day Money Back']);
+  if(bb){ [].slice.call(bb.children).forEach(function(c){ if((c.innerText||'').indexOf('Checkout Now')<0) hide(c); }); bb.appendChild(take('lpk-3')); }
+  var lv=textEl('Loved by'), lw=lv && lv.closest('.container-wrapper'); if(lw) hide(lw.closest('.element-wrapper')||lw);
+  var cp=document.querySelector('input[placeholder="Coupon Code"]'); if(cp) hide(cp.closest('.element-wrapper'));
+  /* rename template text */
+  rename('Checkout Product','Your order',true);   /* the one left = right column */
+  rename('Shipping Information','Where should we send them?');
+  rename('Product Return Guarantee','30-Night Leak-Test');
+  rename('Personal / Contact','Your details');
+  rename('Delivery Information','Delivery address');
+  rename('Payment Secure & Encrypted','Secure, encrypted payment');
+  rename('Email me with news and offers','Email me washing tips and the odd Leapproof update. Unsubscribe any time.');
+  rename('Checkout Now','Complete my order');
+  ph('first_name','First name'); ph('last_name','Last name'); ph('email','Email (for order updates)'); ph('phone','Phone (for delivery)');
+  ph('shipping_address','Street address'); ph('shipping_city','Suburb / city'); ph('shipping_state','State'); ph('shipping_zip','Postcode');
+  var c=document.querySelector('select[name="shipping_country"]');
+  if(c){ if(c.options[0] && /sele/i.test(c.options[0].text)) c.options[0].text='Country';
+    if(!c.value){ for(var i=0;i<c.options.length;i++){ if(c.options[i].text==='Australia'){ c.selectedIndex=i; c.dispatchEvent(new Event('change',{bubbles:true})); break; } } } }
+  laid=true; return true;
+}
+var lt=0; (function go(){ if(!layout() && ++lt<30) setTimeout(go,300); })();
+
+(function(){
+  /* Live arrival window: 7 to 12 business days from today (1–2 to pack + 6–10 in transit). */
+  function addBiz(d,n){ d=new Date(d); while(n>0){ d.setDate(d.getDate()+1); var w=d.getDay(); if(w!==0&&w!==6) n--; } return d; }
+  var now=new Date(), a=addBiz(now,7), b=addBiz(now,12);
+  var D=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'], M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  function f(d){ return D[d.getDay()]+' '+d.getDate()+' '+M[d.getMonth()]; }
+  document.getElementById('ck2-m').textContent=M[b.getMonth()];
+  document.getElementById('ck2-d').textContent=b.getDate();
+  document.getElementById('ck2-when').textContent='Arrives '+f(a)+' – '+f(b);
+  document.getElementById('ck2-pic').textContent='By '+f(b)+', you could be sneezing without crossing your legs. Your 30 nights start the day they arrive.';
+  var q=new URLSearchParams(location.search);
+
+  /* ===== ONE CHECKOUT, 3 SETS =====
+     Ticks the set she chose on the offer page (?set=3|5|10, default 5), unticks the other sets,
+     adds the free gifts that set unlocks, locks the gift rows, and hides the add-on on the 3-pair set.
+     Products are found by NAME, so keep these words in the Funnelish product names:
+     "3 Leapproof Briefs" / "5 Leapproof Briefs" / "10 Leapproof Briefs" / "Wash Bag" / "Wash Sheets" / "spare pairs" */
+  var SET = ({'3':3,'5':5,'10':10})[q.get('set')] || 5, busy=false;
+  function prods(){ return (window.PRODUCTS||[]).map(function(p){
+    var n=p.name||'', m=n.match(/\b(3|5|10)\s+Leapproof\s+Briefs/i);
+    return {id:String(p.id), set:m?+m[1]:0, bag:/wash\s*bag/i.test(n), sheets:/wash\s*sheets/i.test(n), bump:/spare\s*pairs/i.test(n)};
+  }); }
+  function box(id){ return document.querySelector('input[name="product-id"][value="'+id+'"]'); }
+  function row(i){ return i && (i.closest('.product-list') || i.closest('label')); }
+  function setTo(id,want){ var i=box(id); if(i && i.checked!==want) i.click(); }
+  function show(id,on){ var r=row(box(id)); if(r){ var w=r.closest('.container-wrapper')||r; w.style.display=on?'':'none'; } }
+  function lock(id){ var r=row(box(id)); if(r){ var w=r.closest('.container-wrapper')||r; w.style.pointerEvents='none'; } }
+  function sync(){
+    var P=prods(); if(!P.length) return false; busy=true;
+    P.forEach(function(p){
+      if(p.set){ setTo(p.id, p.set===SET); }
+      if(p.bag){ setTo(p.id, SET>=5); show(p.id, SET>=5); lock(p.id); }
+      if(p.sheets){ setTo(p.id, SET>=10); show(p.id, SET>=10); lock(p.id); }
+      if(p.bump){ if(SET===3) setTo(p.id,false); show(p.id, SET!==3); }
+    });
+    busy=false; return true;
+  }
+  document.addEventListener('change',function(e){
+    var i=e.target; if(busy || !i || i.name!=='product-id') return;
+    var p=prods().filter(function(x){return x.id===i.value})[0]; if(!p || !p.set) return;
+    if(i.checked) SET=p.set;          /* she switched set */
+    setTimeout(sync,0);               /* unticking the current set just re-ticks it */
+  },true);
+  var st=0; (function boot(){ if(!sync() && ++st<20) setTimeout(boot,300); })();
+
+  /* Her size from the quiz / offer page */
+  var sz=(q.get('size')||'').toUpperCase();
+  if(['S','M','L','XL','2XL'].indexOf(sz)<0) return;
+  var el=document.getElementById('ck2-size');
+  el.innerHTML='<b>Your size: '+sz+'</b>, from your quiz. Wrong size? We’ll send your new size free. Nothing to send back.';
+  el.className='size on';
+  /* Pre-select her size in the product's size dropdown (retries while the checkout loads). */
+  var tries=0;
+  function pick(){
+    var hit=false;
+    [].forEach.call(document.querySelectorAll('select'),function(s){
+      for(var i=0;i<s.options.length;i++){
+        var t=(s.options[i].text||'').toUpperCase().replace(/\s+/g,'');
+        if(t===sz || t.split(/[\/|,\-]/).indexOf(sz)>-1){
+          if(s.selectedIndex!==i){ s.selectedIndex=i; s.dispatchEvent(new Event('change',{bubbles:true})); s.dispatchEvent(new Event('input',{bubbles:true})); }
+          hit=true; break;
+        }
+      }
+    });
+    if(!hit && ++tries<20) setTimeout(pick,500);
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',pick); else pick();
+})();
+
+
+(function(){
+/* REAL tester reviews go here (their own words). Empty = section hidden.
+   Format: { title:'…', text:'…', name:'Jess M.', age:34, size:'L', stars:5 }, */
+var REVIEWS = [
+];
+/* SAMPLE reviews: layout preview ONLY. They show only when the page URL has ?lpdemo=1 (not ?preview — Funnelish 404s on that), never to real visitors. Delete once real reviews are in. */
+var SAMPLES = [
+ { title:'Laughed till I cried at book club.', text:'Wine, a funny story, and normally that’s me legging it to the loo mid-laugh. This time I didn’t even think about it. They look so thin I was sceptical, but they just feel like my normal undies.', name:'Kate B.', age:36, size:'M', stars:5 },
+ { title:'Still the same after weeks of washing.', text:'The last “leak-proof” ones I bought went limp after a few washes. I’ve been washing these every few days for three weeks, cold and hung out on the line, and they’re exactly the same. I wear them to bed after my evening walk too and don’t wake up feeling like I’m in a nappy.', name:'Lisa H.', age:44, size:'L', stars:5 },
+ { title:'I was spending a fortune on pads.', text:'I was buying pads from the chemist every week and feeling guilty about the bin. These turned up in 9 days, a real person replied when I emailed about my size, and the 30 nights meant I wasn’t risking a cent.', name:'Bec D.', age:39, size:'XL', stars:5 }
+];
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+var list = REVIEWS.length ? REVIEWS : (/[?&]lpdemo=1/.test(location.search) ? SAMPLES : []);
+if(!list.length) return;
+document.getElementById('ck3-list').innerHTML = list.map(function(r){
+  var n=Math.max(1,Math.min(5,r.stars||5));
+  return '<div class="rc"><div class="st">'+'★★★★★'.slice(0,n)+'</div>'+(r.title?'<div class="t">'+esc(r.title)+'</div>':'')+'<p>“'+esc(r.text)+'”</p>'+
+    '<div class="who">'+esc(r.name)+(r.age?', '+r.age:'')+'</div><div class="meta">Wearing size '+esc(r.size||'')+' · Received a free set to test</div></div>';
+}).join('');
+document.getElementById('ck3-rv').className='rv on';
+})();
+
+})();
+</script>

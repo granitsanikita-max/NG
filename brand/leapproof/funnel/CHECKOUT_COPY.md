@@ -1,4 +1,7 @@
-# Leapproof — Checkout copy v2 (ONE Funnelish checkout for all sets)
+# Leapproof — Checkout copy v3 (ONE checkout, ONE block)
+
+Paste `blocks/checkout/CHECKOUT-ONE-BLOCK.html` into one Custom HTML element. It builds header/arrival/guarantee/reviews/footer, hides template junk (logo section, Congrats meter, money-back badge, payment logos, "Loved by", coupon, Limura footer), renames template text + placeholders, defaults country to Australia, and runs the set/gift/size logic. Tested injected into the live template 2026-10-11 (desktop + mobile). Template form has NO city field: add "Shipping City" natively.
+
 
 One checkout: the offer page sends `?set=3|5|10&size=X`; CK2 ticks that set, unticks the others, adds/locks the gifts the set unlocks, hides the add-on on 3. Products are matched by name: keep "3/5/10 Leapproof Briefs", "Wash Bag", "Wash Sheets", "spare pairs" in the product names. Tested on the live Funnelish DOM 2026-10-11 (set 3/5/10, switching, re-tick on untick).
 
