@@ -1,0 +1,265 @@
+"""Builds paste-ready Funnelish Custom HTML blocks for the Leapproof landing page.
+
+Copy is verbatim from LANDING_PAGE_COPY.md (v3, chiefed). Run: python3 build_blocks.py
+Outputs one .html per section (paste each into its own Funnelish Custom HTML element)
+plus _preview.html (all blocks stacked, for checking only).
+"""
+from pathlib import Path
+
+QUIZ = "https://leepproof.myfunnelish.com/quiz-2891028289-1791612140998314"
+OUTCOME_IMG = "https://cdn.shopify.com/s/files/1/1026/8593/3939/files/leapproof-outcome-after.jpg?v=1791689217"
+OUT = Path(__file__).parent
+
+CSS = """
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;500;600;700&display=swap');
+.lp{--ink:#231017;--claret:#A33154;--claret-d:#872845;--cream:#F5EDE6;--blush:#E7CFC9;--taupe:#8C6A6C;--rose:#E7879F;
+  font-family:'Hanken Grotesk',Arial,sans-serif;color:var(--ink);font-size:18px;line-height:1.6;-webkit-font-smoothing:antialiased;box-sizing:border-box;width:100%}
+.lp *,.lp *::before,.lp *::after{box-sizing:border-box;margin:0;padding:0}
+.lp-sec{padding:72px 24px}
+.lp-wrap{max-width:760px;margin:0 auto}
+.lp-wide{max-width:1080px;margin:0 auto}
+.lp-cream{background:var(--cream)} .lp-white{background:#fff} .lp-blush{background:#F3E4E0} .lp-plum{background:var(--ink);color:var(--cream)}
+.lp h2{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:clamp(30px,4.4vw,44px);line-height:1.12;letter-spacing:-.01em;color:inherit;margin-bottom:18px}
+.lp h3{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:24px;line-height:1.2;margin-bottom:6px}
+.lp p{margin-bottom:14px}
+.lp em{font-style:italic}
+.lp .lp-sub{font-size:17px;color:var(--taupe);font-style:italic;margin-bottom:26px}
+.lp-plum .lp-sub{color:var(--blush)}
+.lp .lp-eyebrow{display:inline-block;font-size:13px;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:var(--claret);margin-bottom:14px}
+.lp-plum .lp-eyebrow{color:var(--rose)}
+.lp .lp-btn{display:block;width:100%;max-width:440px;text-align:center;background:var(--claret);color:#fff!important;text-decoration:none!important;font-weight:700;font-size:19px;padding:18px 28px;border-radius:12px;margin-top:28px;transition:background .15s}
+.lp .lp-btn:hover{background:var(--claret-d)}
+.lp-plum .lp-btn{background:var(--cream);color:var(--ink)!important}
+.lp-plum .lp-btn:hover{background:#fff}
+.lp .lp-micro{font-size:14px;color:var(--taupe);margin-top:12px;line-height:1.5}
+.lp-plum .lp-micro{color:var(--blush)}
+.lp .lp-micro a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+.lp .lp-small{font-size:14px;color:var(--taupe);line-height:1.55}
+.lp-plum .lp-small{color:var(--blush)}
+.lp .lp-link{color:var(--claret);font-weight:700;text-decoration:none;border-bottom:2px solid var(--claret);padding-bottom:1px}
+/* checklist */
+.lp .lp-checks{list-style:none;margin:6px 0 28px}
+.lp .lp-checks li{position:relative;padding:14px 0 14px 40px;border-bottom:1px solid var(--blush);font-size:19px}
+.lp .lp-checks li:last-child{border-bottom:none}
+.lp .lp-checks li::before{content:'';position:absolute;left:0;top:16px;width:24px;height:24px;border-radius:50%;background:var(--claret) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23fff' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 12.5 4 4 8-8.5'/%3E%3C/svg%3E") center/14px no-repeat}
+.lp .lp-big{font-family:'Fraunces',Georgia,serif;font-size:26px;font-weight:600;line-height:1.25;margin:4px 0 12px}
+/* myths */
+.lp .lp-myths{margin:8px 0 26px}
+.lp .lp-myths p{font-style:italic;color:var(--taupe);text-decoration:line-through;text-decoration-color:var(--claret);text-decoration-thickness:2px;font-size:19px;margin-bottom:6px}
+.lp blockquote{border-left:4px solid var(--claret);background:#fff;padding:22px 26px;margin:10px 0 26px;border-radius:0 12px 12px 0;font-family:'Fraunces',Georgia,serif;font-size:24px;line-height:1.3}
+.lp blockquote span{display:block;font-family:'Hanken Grotesk',Arial,sans-serif;font-size:14px;color:var(--taupe);margin-top:10px;font-style:normal}
+.lp .lp-honest{background:#fff;border:1px solid var(--blush);border-radius:12px;padding:20px 22px;margin:22px 0;font-size:17px}
+/* steps */
+.lp .lp-steps{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin:30px 0 34px}
+.lp .lp-step{background:var(--cream);border-radius:14px;padding:26px 22px}
+.lp .lp-num{width:40px;height:40px;border-radius:50%;background:var(--claret);color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center;margin-bottom:14px;font-size:18px}
+.lp .lp-step p{font-size:16.5px;margin:0}
+.lp .lp-product{border-top:1px solid var(--blush);padding-top:30px}
+.lp .lp-facts{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:10px 28px;margin:18px 0 6px}
+.lp .lp-facts li{position:relative;padding-left:22px;font-size:16.5px}
+.lp .lp-facts li::before{content:'';position:absolute;left:0;top:10px;width:9px;height:9px;border-radius:50%;background:var(--claret)}
+/* outcome split */
+.lp .lp-split{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center}
+.lp .lp-split img{width:100%;height:auto;display:block;border-radius:6px;aspect-ratio:4/5;object-fit:cover}
+.lp .lp-scene{font-size:19px;margin-bottom:14px}
+/* risk */
+.lp .lp-tag{display:inline-block;border:1px solid var(--rose);color:var(--rose);font-size:12.5px;font-weight:700;letter-spacing:.22em;padding:7px 12px;border-radius:6px;margin-bottom:18px}
+.lp .lp-terms{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:26px 0}
+.lp .lp-term{border:1px solid rgba(231,207,201,.35);border-radius:14px;padding:24px}
+.lp .lp-term p{color:var(--cream);margin-bottom:6px}
+.lp .lp-claim{border-top:1px solid rgba(231,207,201,.3);padding-top:18px;margin-top:6px}
+/* final card */
+.lp .lp-card{background:var(--cream);border:1px solid var(--ink);border-radius:16px;padding:36px 32px;max-width:560px;margin:30px auto 0}
+.lp .lp-card .lp-checks li{font-size:17.5px;padding:10px 0 10px 38px}
+.lp .lp-card .lp-checks li::before{top:11px}
+.lp .lp-card .lp-btn{max-width:none}
+/* footer */
+.lp .lp-foot{font-size:14px;line-height:1.6;color:var(--blush)}
+.lp .lp-foot p{margin-bottom:12px}
+.lp .lp-foot strong{color:var(--cream);font-family:'Fraunces',Georgia,serif;font-size:22px;font-weight:600;display:block;margin-bottom:14px}
+.lp .lp-foot a{color:var(--cream)}
+.lp .lp-foot .lp-links{margin:20px 0 10px;font-weight:600}
+.lp .lp-foot .lp-links a{margin-right:18px;text-decoration:none;border-bottom:1px solid var(--rose)}
+.lp .lp-notes{border-top:1px solid rgba(231,207,201,.25);margin-top:20px;padding-top:16px;font-size:12.5px;opacity:.85;word-break:break-word}
+.lp .lp-wordmark{font-family:'Fraunces',Georgia,serif;font-size:30px;margin-bottom:18px;color:var(--cream)}
+.lp .lp-wordmark i{color:var(--rose)}
+@media (max-width:820px){
+  .lp-sec{padding:52px 20px}
+  .lp .lp-steps{grid-template-columns:1fr;gap:14px}
+  .lp .lp-split{grid-template-columns:1fr;gap:28px}
+  .lp .lp-facts{grid-template-columns:1fr}
+  .lp .lp-terms{grid-template-columns:1fr}
+  .lp .lp-btn{max-width:none}
+  .lp .lp-checks li{font-size:18px}
+  .lp blockquote{font-size:21px}
+  .lp .lp-card{padding:28px 22px}
+}
+"""
+
+MICRO = (f'About 2 minutes · No email needed to see your match · '
+         f'<a href="#leak-test">30-Night Leak-Test</a>')
+
+
+def btn(label="Find my match"):
+    return f'<a class="lp-btn" href="{QUIZ}">{label}</a><p class="lp-micro">{MICRO}</p>'
+
+
+def block(name, body):
+    return f"""<!-- Leapproof landing · {name} · paste this whole block into ONE Funnelish Custom HTML element -->
+<style>{CSS}</style>
+<div class="lp">
+{body}
+</div>
+"""
+
+
+BLOCKS = {}
+
+BLOCKS["1-right-place"] = block("This is for you if", f"""
+<section class="lp-sec lp-white"><div class="lp-wrap">
+  <h2>This is for you if you've ever…</h2>
+  <p class="lp-sub">For women after a baby, women in their 40s, and women who lift, run and jump.</p>
+  <ul class="lp-checks">
+    <li>crossed your legs before a sneeze in the cereal aisle.</li>
+    <li>said <em>you go, I'll watch</em> at the trampoline park.</li>
+    <li>sat out the jumps in class.</li>
+    <li>peed right before a run, even when you didn't need to.</li>
+    <li>tried not to laugh too hard at dinner.</li>
+    <li>packed spare underwear in your gym bag. Just in case.</li>
+  </ul>
+  <p class="lp-big">And you're done planning your day around a sneeze.</p>
+  <p>Chances are, someone's told you that's just normal now.</p>
+</div></section>""")
+
+BLOCKS["2-common-not-normal"] = block("Common, not normal", f"""
+<section class="lp-sec lp-cream"><div class="lp-wrap">
+  <h2>Common? Yes. Normal? No.</h2>
+  <p>The leak is small. A few drops on a big sneeze.<br>The hard part is what it seems to say: <em>getting old, falling apart, time to sit this one out.</em></p>
+  <p>Then everyone chimes in.</p>
+  <div class="lp-myths">
+    <p>That's just what happens after kids.</p>
+    <p>That's just getting older.</p>
+    <p>Just live with it.</p>
+  </div>
+  <p>Ridgeview Medical Center puts it in writing:</p>
+  <blockquote>Leaking is “NEVER considered normal.”<span>· Ridgeview Medical Center¹</span></blockquote>
+  <p><strong>Common</strong> means plenty of strong women deal with it. (See the first card up top.²)<br><strong>Not normal</strong> means <em>just live with it</em> was never the only answer.</p>
+  <div class="lp-honest">Underwear can't treat the cause. A doctor or pelvic-floor therapist can help with that, and it takes time. Underwear is for the moment itself: the sneeze, the laugh, the jump. If leaking is heavy, new, painful or getting worse, see them first.</div>
+  <p>And the usual answer for the moment? A liner. Pads and liners bunch, feel like a diaper, and go in the bin every day.<br>If they never felt right, that was never on you. So let's find the ones that do.</p>
+  <p style="margin-top:22px"><a class="lp-link" href="{QUIZ}">Find my match →</a></p>
+  <p class="lp-small" style="margin-top:26px">Words in quote marks next to a named source are copied exactly from that source. No source on this page is connected to Leapproof.</p>
+</div></section>""")
+
+BLOCKS["3-how-it-works"] = block("How the match works", f"""
+<section class="lp-sec lp-white"><div class="lp-wide">
+  <div class="lp-wrap" style="margin:0">
+    <h2>Your match, in about 2 minutes.</h2>
+    <p class="lp-sub" style="font-style:normal">No guessing your size or how many you need.</p>
+  </div>
+  <div class="lp-steps">
+    <div class="lp-step"><div class="lp-num">1</div><h3>Tell us when it happens.</h3><p>Sneezing, laughing, jumping, running, lifting, or a bit of everything.</p></div>
+    <div class="lp-step"><div class="lp-num">2</div><h3>We match your size and your set.</h3><p>Your size, from the chart for this exact pair. How many pairs you need, based on how often you wear and wash them. And a straight answer if this pair doesn't come in your size, or if your answers suggest underwear alone may not be enough.</p></div>
+    <div class="lp-step"><div class="lp-num">3</div><h3>See your match.</h3><p>Your size, your set and your price, right there on screen. No email needed.</p></div>
+  </div>
+  <div class="lp-product">
+    <p class="lp-big">One brief, matched to your size and your week: the Leapproof Brief.</p>
+    <p>Black cotton underwear with a leak-resistant lining, to wear through the sneeze, the laugh and the jump.</p>
+    <ul class="lp-facts">
+      <li>Black brief, tonal black lace on the hips</li>
+      <li>Wide, soft waistband</li>
+      <li>Elastic leg openings, not tight</li>
+      <li>Main fabric: 95% cotton, 5% spandex (elastane)</li>
+      <li>Layered, leak-resistant lining that runs front to back</li>
+      <li>Full back coverage</li>
+    </ul>
+    {btn()}
+    <p class="lp-small" style="margin-top:6px"><em>This isn't a medical assessment. It matches you to underwear.</em></p>
+  </div>
+</div></section>""")
+
+BLOCKS["4-outcome"] = block("Outcome", f"""
+<section class="lp-sec lp-blush"><div class="lp-wide lp-split">
+  <img src="{OUTCOME_IMG}" alt="Two friends laughing on a sunny footpath, walking freely" loading="lazy" width="1080" height="1350">
+  <div>
+    <h2>From <em>you go, I'll watch</em> to first on the trampoline.</h2>
+    <p class="lp-scene">Picture the next birthday party. The kids grab your hands and pull you toward the trampoline. Shoes off. You climb in and count the bounces out loud.</p>
+    <p class="lp-scene">Picture class. Coach calls burpees, and you go all out, eyes on the clock.</p>
+    <p class="lp-scene">Picture a run that feels so good you take the long way home.</p>
+    <p class="lp-big">You're still you: the one who jumps first. Your underwear should keep up.</p>
+    <p class="lp-small"><em>If leaking is heavy, these aren't enough on their own.</em></p>
+    {btn()}
+  </div>
+</div></section>""")
+
+BLOCKS["5-leak-test"] = block("30-Night Leak-Test + Fit Promise", f"""
+<section class="lp-sec lp-plum" id="leak-test"><div class="lp-wrap">
+  <span class="lp-tag">YOUR 30-NIGHT LEAK-TEST</span>
+  <h2>Sneeze in them. Jump in them. Then decide.</h2>
+  <div class="lp-terms">
+    <div class="lp-term"><h3>The 30-Night Leak-Test</h3><p>Wear them through your moment for 30 nights. If they don't hold, you get your money back.</p><p>You keep the pairs. Nothing to send back.</p></div>
+    <div class="lp-term"><h3>The Fit Promise</h3><p>Wrong size? We'll send the right one first. No need to send the other back.</p></div>
+  </div>
+  <p><strong>Free shipping on every set.</strong></p>
+  <div class="lp-claim">
+    <p class="lp-small"><strong style="color:var(--cream)">How to claim:</strong> Your 30 nights start the day your set arrives. Wear them day or night, through your real moments. If they don't hold, email us your order number and what happened. You can claim any time during your 30 nights, or up to 14 days after your 30th night. We refund the full price of the set and any extra pairs you added. One claim per customer. The Fit Promise covers one free size swap per order. This is on top of your rights under consumer law, including the Australian Consumer Law.</p>
+  </div>
+  <a class="lp-btn" href="{QUIZ}">Find my match</a>
+  <p class="lp-micro">About 2 minutes · No email needed to see your match · 30-Night Leak-Test</p>
+</div></section>""")
+
+BLOCKS["6-final-cta-footer"] = block("Final CTA + footer + sources", f"""
+<section class="lp-sec lp-cream"><div class="lp-wrap" style="text-align:center">
+  <h2>You're not done jumping. Let's find the ones that keep up.</h2>
+  <div class="lp-card" style="text-align:left">
+    <h3 style="font-size:28px">Find Your Leak Match</h3>
+    <p style="margin-top:6px">In about 2 minutes you'll see:</p>
+    <ul class="lp-checks" style="margin-bottom:6px">
+      <li>your size, from the chart for this exact pair</li>
+      <li>how many pairs you need</li>
+      <li>your set and your price</li>
+    </ul>
+    {btn()}
+    <p class="lp-micro">Free shipping on every set · Wrong size? We'll send the right one first. No need to send the other back.</p>
+    <p class="lp-small" style="margin-top:10px"><em>This isn't a medical assessment. It matches you to underwear.</em></p>
+  </div>
+</div></section>
+<section class="lp-sec lp-plum" style="padding-top:56px;padding-bottom:48px"><div class="lp-wrap lp-foot">
+  <div class="lp-wordmark">leap<i>proof</i></div>
+  <strong>Not a treatment. It's underwear.</strong>
+  <p>This isn't a medical assessment. It matches you to underwear. If leaking is heavy, new, painful or getting worse, talk to a doctor or a pelvic-floor therapist.</p>
+  <p>The Straight Answer cards near the top of this page are notes from the Leapproof team, not customer reviews. Lifestyle images are illustrations, not customers.</p>
+  <p>Words in quote marks next to a named source are copied exactly from that source. Leapproof isn't connected to, or endorsed by, any source named on this page.</p>
+  <p>Our goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure. Leak-Test terms: <a href="#leak-test">see above</a>.</p>
+  <!-- EDIT BEFORE GOING LIVE: add one line here with your registered business name · ABN · business address · support email -->
+  <p class="lp-links"><a href="https://leapproof.com/policies/privacy-policy">Privacy</a><a href="https://leapproof.com/policies/terms-of-service">Terms</a><a href="https://leapproof.com/pages/contact">Contact</a></p>
+  <p>© 2026 leapproof</p>
+  <div class="lp-notes">
+    <p>¹ Ridgeview Medical Center, “Coughing, laughing or sneezing shouldn't cause peeing”, ridgeviewmedical.org (accessed 11 Oct 2026). The words “NEVER considered normal.” are copied from this page.</p>
+    <p>² Study of leaking between 6 weeks and 1 year after giving birth. Moossdorff-Steinhauser et al., International Urogynecology Journal, 2021 (PMC8295150). Study results, not Leapproof customers.</p>
+  </div>
+</div></section>""")
+
+BLOCKS["7-sticky-mobile-bar"] = f"""<!-- Leapproof landing · OPTIONAL sticky mobile button · paste into ONE Custom HTML element anywhere on the page -->
+<style>
+#lp-sticky{{position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#F5EDE6;border-top:1px solid #E7CFC9;padding:10px 14px calc(10px + env(safe-area-inset-bottom));display:none;align-items:center;gap:12px;font-family:'Hanken Grotesk',Arial,sans-serif;box-shadow:0 -6px 18px rgba(35,16,23,.08)}}
+#lp-sticky span{{font-size:14px;color:#8C6A6C;white-space:nowrap}}
+#lp-sticky a{{flex:1;text-align:center;background:#A33154;color:#fff;text-decoration:none;font-weight:700;font-size:17px;padding:14px 16px;border-radius:10px}}
+@media (min-width:821px){{#lp-sticky{{display:none!important}}}}
+</style>
+<div id="lp-sticky"><span>About 2 minutes</span><a href="{QUIZ}">Find my match</a></div>
+<script>
+(function(){{var b=document.getElementById('lp-sticky');if(!b)return;
+function u(){{var show=window.scrollY>650;var c=document.querySelector('.lp-card');
+if(c){{var r=c.getBoundingClientRect();if(r.top<window.innerHeight&&r.bottom>0)show=false;}}
+b.style.display=show&&window.innerWidth<=820?'flex':'none';}}
+window.addEventListener('scroll',u,{{passive:true}});window.addEventListener('resize',u);u();}})();
+</script>
+"""
+
+for name, html in BLOCKS.items():
+    (OUT / f"{name}.html").write_text(html, encoding="utf-8")
+
+preview = "<!doctype html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><style>body{margin:0}</style></head><body>" + \
+    "".join(BLOCKS[k] for k in BLOCKS if not k.startswith("7")) + "</body></html>"
+(OUT / "_preview.html").write_text(preview, encoding="utf-8")
+print("built", len(BLOCKS), "blocks")
