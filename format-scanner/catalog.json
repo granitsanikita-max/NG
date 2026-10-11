@@ -1,0 +1,1346 @@
+[
+ {
+  "id": "V001",
+  "medium": "video",
+  "name": "UGC Testimonial Ads",
+  "stage": "BOF",
+  "definition": "Direct testimonial delivery, high trust."
+ },
+ {
+  "id": "V002",
+  "medium": "video",
+  "name": "UGC Science Backed",
+  "stage": "MOF",
+  "definition": "Creator cites research/studies to back claims."
+ },
+ {
+  "id": "V003",
+  "medium": "video",
+  "name": "Podcast",
+  "stage": "MOF",
+  "definition": "Mimics a podcast clip/conversation format."
+ },
+ {
+  "id": "V004",
+  "medium": "video",
+  "name": "Product Comparison Video",
+  "stage": "MOF",
+  "definition": "Side-by-side comparison against a competitor or old method."
+ },
+ {
+  "id": "V005",
+  "medium": "video",
+  "name": "UGC Listicle",
+  "stage": "MOF",
+  "definition": "Creator runs through a numbered list on camera."
+ },
+ {
+  "id": "V006",
+  "medium": "video",
+  "name": "Street Interviews",
+  "stage": "TOF",
+  "definition": "Good for cold audiences."
+ },
+ {
+  "id": "V007",
+  "medium": "video",
+  "name": "UGC Reviews",
+  "stage": "MOF",
+  "definition": "UGC showing the product's benefits. Good for middle of funnel."
+ },
+ {
+  "id": "V008",
+  "medium": "video",
+  "name": "5 Reasons Why",
+  "stage": "MOF",
+  "definition": "Good for middle of funnel."
+ },
+ {
+  "id": "V009",
+  "medium": "video",
+  "name": "Fake Doctor",
+  "stage": "MOF",
+  "definition": "Actor in doctor styling gives a medical endorsement."
+ },
+ {
+  "id": "V010",
+  "medium": "video",
+  "name": "Talking Objects / Characters / Body Parts",
+  "stage": "TOF",
+  "definition": "Anthropomorphized object or body part narrates the ad."
+ },
+ {
+  "id": "V011",
+  "medium": "video",
+  "name": "Claymation",
+  "stage": "TOF",
+  "definition": "Stop-motion clay animation, high scroll-stop novelty."
+ },
+ {
+  "id": "V012",
+  "medium": "video",
+  "name": "Reply To Question",
+  "stage": "MOF,BOF",
+  "definition": "Video replying to a real or planted comment/question."
+ },
+ {
+  "id": "V013",
+  "medium": "video",
+  "name": "Myth Buster",
+  "stage": "TOF,MOF",
+  "definition": "Debunks a common misconception in the niche."
+ },
+ {
+  "id": "V014",
+  "medium": "video",
+  "name": "Crochet Story",
+  "stage": "ANY",
+  "definition": "Story told through a crochet/craft visual metaphor. Pure style, copy-dependent."
+ },
+ {
+  "id": "V015",
+  "medium": "video",
+  "name": "UGC Testimonial Mashup",
+  "stage": "BOF",
+  "definition": "Multiple short testimonial clips cut together."
+ },
+ {
+  "id": "V016",
+  "medium": "video",
+  "name": "Personal Story",
+  "stage": "TOF,MOF",
+  "definition": "Creator's own story/journey with the problem."
+ },
+ {
+  "id": "V017",
+  "medium": "video",
+  "name": "Educational UGC",
+  "stage": "TOF",
+  "definition": "Teaches something useful, product woven in."
+ },
+ {
+  "id": "V018",
+  "medium": "video",
+  "name": "Founder Story Ads",
+  "stage": "TOF,MOF",
+  "definition": "Personal origin story builds trust and relatability."
+ },
+ {
+  "id": "V019",
+  "medium": "video",
+  "name": "UGC How-To",
+  "stage": "MOF,BOF",
+  "definition": "Creator walks through how to use the product."
+ },
+ {
+  "id": "V020",
+  "medium": "video",
+  "name": "Product Demo Ads",
+  "stage": "MOF,BOF",
+  "definition": "Shows the product in actual use."
+ },
+ {
+  "id": "V021",
+  "medium": "video",
+  "name": "Reaction / Trend-Hijack (Borrowed Fame)",
+  "stage": "TOF",
+  "definition": "Borrows attention that already exists, disguised as native reaction content."
+ },
+ {
+  "id": "V022",
+  "medium": "video",
+  "name": "Scenarios",
+  "stage": "TOF",
+  "definition": "Opens on a hypothetical ('imagine if...') to pull cold viewers in."
+ },
+ {
+  "id": "V023",
+  "medium": "video",
+  "name": "Personal Learning / Epiphany",
+  "stage": "TOF",
+  "definition": "One core lesson: 'wish I knew this sooner.' Product is the lesson."
+ },
+ {
+  "id": "V024",
+  "medium": "video",
+  "name": "Q&A",
+  "stage": "TOF,MOF",
+  "definition": "The question IS the hook. Answer what the buyer is Googling."
+ },
+ {
+  "id": "V025",
+  "medium": "video",
+  "name": "Day In The Life",
+  "stage": "TOF",
+  "definition": "Native lifestyle content, product appears naturally in-frame."
+ },
+ {
+  "id": "V026",
+  "medium": "video",
+  "name": "Case Studies",
+  "stage": "MOF,BOF",
+  "definition": "Break down one real result with the product as the cause."
+ },
+ {
+  "id": "V027",
+  "medium": "video",
+  "name": "Levels",
+  "stage": "TOF,MOF",
+  "definition": "Level 1, 2, 3 escalation. Product is the top tier."
+ },
+ {
+  "id": "V028",
+  "medium": "video",
+  "name": "Ranking / Tier List",
+  "stage": "MOF,BOF",
+  "definition": "Options ranked against each other; your product lands S-tier."
+ },
+ {
+  "id": "V029",
+  "medium": "video",
+  "name": "Challenge",
+  "stage": "TOF",
+  "definition": "'I tried X for 7 days.' Demo-friendly, pairs with before/after."
+ },
+ {
+  "id": "V030",
+  "medium": "video",
+  "name": "Animated Mechanism Explainer (Clinical VSL)",
+  "stage": "TOF",
+  "definition": "Looks like a med-school explainer, so the claim inherits textbook credibility."
+ },
+ {
+  "id": "V031",
+  "medium": "video",
+  "name": "AI UGC Avatar",
+  "stage": "TOF",
+  "definition": "10 hooks cost what 1 used to. Test the script, not the casting."
+ },
+ {
+  "id": "V032",
+  "medium": "video",
+  "name": "Satisfying B-roll (Front-Splice)",
+  "stage": "TOF",
+  "definition": "Cheapest scroll-stopper test. Buys attention before the ad starts."
+ },
+ {
+  "id": "V033",
+  "medium": "video",
+  "name": "Breakdown / Explainer",
+  "stage": "TOF",
+  "definition": "Mechanism authority: dissects what happened and why it matters."
+ },
+ {
+  "id": "V034",
+  "medium": "video",
+  "name": "Personal Update",
+  "stage": "TOF",
+  "definition": "Community/retention for warm audiences who already know you."
+ },
+ {
+  "id": "V035",
+  "medium": "video",
+  "name": "Goal / Dream Journey",
+  "stage": "TOF",
+  "definition": "Long-arc founder build that keeps people coming back."
+ },
+ {
+  "id": "V036",
+  "medium": "video",
+  "name": "Lesson From Others (Mentor Story)",
+  "stage": "TOF",
+  "definition": "Borrowed-authority testimonial told in the third person."
+ },
+ {
+  "id": "V037",
+  "medium": "video",
+  "name": "Episodic Series / Social Show",
+  "stage": "TOF",
+  "definition": "Repeatable content engine. Episodes compound an audience."
+ },
+ {
+  "id": "V038",
+  "medium": "video",
+  "name": "Win (Victory Announcement)",
+  "stage": "TOF",
+  "definition": "Raw social proof: a milestone the viewer can see is real."
+ },
+ {
+  "id": "V039",
+  "medium": "video",
+  "name": "Problem-Agitate-Solve",
+  "stage": "TOF,MOF",
+  "definition": "Name the problem, twist the knife, resolve with the product."
+ },
+ {
+  "id": "V040",
+  "medium": "video",
+  "name": "Pack An Order With Me (Fulfilment POV)",
+  "stage": "MOF",
+  "definition": "Owner/POV hands pack a real customer order. Looks like a real small business with orders pouring in, and every product gets a close-up."
+ },
+ {
+  "id": "V041",
+  "medium": "video",
+  "name": "Stage Talk / Keynote Authority",
+  "stage": "TOF",
+  "definition": "Speaker with a mic on a stage or in a lecture hall. Borrows the stage's authority so the pitch feels like expert teaching, not an ad."
+ },
+ {
+  "id": "V042",
+  "medium": "video",
+  "name": "Text-Wall Story (Read-Along Still)",
+  "stage": "TOF",
+  "definition": "One still image with a long first-person story on screen. Reads like an organic post; the first line hooks and forces long dwell time."
+ },
+ {
+  "id": "V043",
+  "medium": "video",
+  "name": "Unboxing (First-Open Reveal)",
+  "stage": "MOF",
+  "definition": "Someone opens the box/packaging and reveals the product for the first time. Anticipation + premium first impression."
+ },
+ {
+  "id": "V044",
+  "medium": "video",
+  "name": "Try-On Haul",
+  "stage": "MOF",
+  "definition": "One creator tries on several pieces back to back, full-body. Shows fit, range and value in one ad."
+ },
+ {
+  "id": "V045",
+  "medium": "video",
+  "name": "Celebrity Podcast Clip (Borrowed Authority)",
+  "stage": "TOF",
+  "definition": "Opens on a real clip from a famous podcast (Rogan etc.), then pivots to the product. Borrowed authority stops the scroll."
+ },
+ {
+  "id": "V046",
+  "medium": "video",
+  "name": "TV Segment Clip (As Seen On TV)",
+  "stage": "TOF",
+  "definition": "Built on a real TV/news segment (anchors, network set, captions). Instant credibility: 'as seen on TV'."
+ },
+ {
+  "id": "V047",
+  "medium": "video",
+  "name": "Gift Reaction Reveal",
+  "stage": "TOF",
+  "definition": "Camera stays on a real person's face as they open or hear a gift. Emotion sells the gift angle."
+ },
+ {
+  "id": "V048",
+  "medium": "video",
+  "name": "Cinematic Brand Film (TV-Style Spot)",
+  "stage": "TOF\u2192MOF",
+  "definition": "A polished, agency-grade commercial with no one talking to camera: it opens on a striking cinematic shot (location, model or CGI product), cuts through a music-led montage of styled lifestyle, macro texture or CGI product shots (often one short feature super per shot), and closes on a logo/wordmark or offer end card."
+ },
+ {
+  "id": "V049",
+  "medium": "video",
+  "name": "Brand Anthem Montage (Manifesto)",
+  "stage": "TOF",
+  "definition": "A cinematic manifesto: opens on a bold logo or one-word line, then a fast montage of many aspirational people/moments (or one protagonist in vignettes) runs under a single VO or word-by-word super that states what the brand believes, and closes on logo + tagline."
+ },
+ {
+  "id": "V050",
+  "medium": "video",
+  "name": "Cinematic Mini-Film (Brand Short Story)",
+  "stage": "TOF",
+  "definition": "A 10-40s film-style micro story with a character, a setting and a small plot (a bellhop loads the bag, a man hunts the sea for his underwear, a kid's fingerprint becomes mom's necklace): the product is a prop inside the scene, there is no pitch or VO, and it ends on a title-card style logo."
+ },
+ {
+  "id": "V051",
+  "medium": "video",
+  "name": "Celebrity Spokesperson Spot",
+  "stage": "TOF\u2192MOF",
+  "definition": "A real famous person fronts the ad as the brand's spokesperson: opens on the celebrity's face/name delivering the hook to camera (selfie-style or studio), intercuts product close-ups and demo b-roll with kinetic claim supers while they keep talking, and closes back on them with a sign-off + logo/shop card."
+ },
+ {
+  "id": "V052",
+  "medium": "video",
+  "name": "Mini-Doc Portrait",
+  "stage": "TOF\u2192MOF",
+  "definition": "A cinematic 30s documentary vignette of one real, named person (athlete, mom, founder) with a name/title lower-third: they narrate their own life and routine in VO over observational footage, the product appears as part of that routine, and it closes on logo + tagline."
+ },
+ {
+  "id": "V053",
+  "medium": "video",
+  "name": "Limited Collab Drop (IP Trailer)",
+  "stage": "TOF\u2192MOF",
+  "definition": "A hype launch for a limited-edition product co-branded with a franchise or another brand: opens on the two logos locked up ('X x Y', 'Limited Edition'), shows the co-branded pack in the franchise's world with VFX/action beats and a quick product-in-use moment, and closes on a 'limited time only / before it's gone' scarcity card."
+ },
+ {
+  "id": "V054",
+  "medium": "video",
+  "name": "Micro Bumper (2-6s)",
+  "stage": "MOF\u2192BOF",
+  "definition": "An ultra-short 2-6s looping spot: one fixed headline or offer line sits on screen the whole time ('An icon of play. Rarely in stock.', 'the dreamiest sleepsuits for just \u00a320') over 1-4 rapid product-in-use shots, then a logo flash; no VO, no story."
+ },
+ {
+  "id": "V055",
+  "medium": "video",
+  "name": "Editorial Lookbook (Model Shoot Reel)",
+  "stage": "TOF\u2192MOF",
+  "definition": "A music-only, campaign-quality model shoot of the product: opens on a wide hero shot of the model in a styled location or studio, cuts between turns, back views and macro fabric/detail close-ups (often several looks or colourways), and closes on a logo or offer end card. No talking, no story, no claims."
+ },
+ {
+  "id": "V056",
+  "medium": "video",
+  "name": "Fit Check (Single Outfit)",
+  "stage": "TOF\u2192MOF",
+  "definition": "Native phone-shot clip of one person in ONE complete outfit: opens mid-pose (mirror selfie, bedroom, doorway, street), then she turns, walks, twirls and shows front/back/detail to music, with a single relatable one-line caption ('dinner and drinks fit', 'never taking these off', 'what I'm wearing as a size 12'). No talking, no demo, no multiple outfits."
+ },
+ {
+  "id": "V057",
+  "medium": "video",
+  "name": "Styling Remix (One Piece, Many Looks)",
+  "stage": "MOF",
+  "definition": "One hero item styled into several different outfits: opens with the item and a hook ('One skirt. Three lives', 'How I style my favourite boots'), cuts outfit by outfit with an occasion label each (school drop-off, lunch date, night out), and ends on 'which is your favourite?' or the product end card."
+ },
+ {
+  "id": "V058",
+  "medium": "video",
+  "name": "GRWM (Get Ready With Me)",
+  "stage": "TOF\u2192MOF",
+  "definition": "Creator opens undone (robe, casual clothes, bare face) with a 'get ready / get dressed with me' hook, chats or captions through each step as she applies or puts on the product (makeup, skincare, outfit), and ends on the finished look reveal, often with a walk-out or twirl."
+ },
+ {
+  "id": "V059",
+  "medium": "video",
+  "name": "Pack My Bag (What's In My Bag)",
+  "stage": "MOF",
+  "definition": "Hands (or a faceless torso) pack everyday essentials (phone, wallet, laptop, keys, lipstick, AirPods) into the bag one by one on a table or cafe bench, showing it swallows everything, then lift it onto the shoulder and close on the logo."
+ },
+ {
+  "id": "V060",
+  "medium": "video",
+  "name": "This or That (Pick Your Vibe)",
+  "stage": "TOF\u2192MOF",
+  "definition": "Two product variants shown side by side under a fixed header ('Choose your spooky season vibe', 'Same but different'), each labelled by name, swapping to a new pair every 1-2s for 6-8 rounds so the viewer silently picks, then ending on a full collection grid + shop CTA."
+ },
+ {
+  "id": "V061",
+  "medium": "video",
+  "name": "Animated Static (Motion-Graphic Packshot)",
+  "stage": "MOF\u2192BOF",
+  "definition": "A 5-15s ad that is basically a static image ad brought to life: one product packshot (or offer card) on a designed background, a bold headline, then benefit callouts, a stat, a price/offer badge or a countdown animate in one by one, ending on the packshot + CTA. No people talking, no footage story."
+ },
+ {
+  "id": "V062",
+  "medium": "video",
+  "name": "Flipbook Slideshow (Fixed Frame, Cards Flip)",
+  "stage": "MOF\u2192BOF",
+  "definition": "A 6-15s motion graphic where the frame stays locked (brand header, sale line or 'live now' label) while the image in the middle flips every ~0.5-1.5s through many cards: each product/SKU/colourway as a cutout or model+flat-lay card, or the brand's own past sale creatives. It ends on the last card or a shop-now card."
+ },
+ {
+  "id": "V063",
+  "medium": "video",
+  "name": "Offer Stack Breakdown (Here's Everything You Get)",
+  "stage": "MOF\u2192BOF",
+  "definition": "The whole ad is the deal itself: a hook that teases an unbelievable offer ('someone's getting fired', 'we need to apologize to anyone who paid full price'), then the presenter or hands pull out each item one at a time and name it ('you get X... plus Y for FREE... plus Z'), stacking value until a price/discount reveal, guarantee and 'before it's gone' close."
+ },
+ {
+  "id": "V064",
+  "medium": "video",
+  "name": "Video Static (Caption Over Looping B-roll)",
+  "stage": "TOF",
+  "definition": "A 5-20s ad that is basically a static ad that moves: one silent, lo-fi b-roll loop of the product (pour, stir, fizz, held bottle) with a single headline or meme caption burned on top (sometimes a few benefit tags or a short rolling caption list), no voiceover or presenter, ending on the same shot or a quick product/offer card."
+ },
+ {
+  "id": "V065",
+  "medium": "video",
+  "name": "AI Story VSL (Cinematic Caption Story)",
+  "stage": "TOF\u2192MOF",
+  "definition": "A 45-120s story-VSL told entirely through AI-generated, film-look scenes with burned-in captions (often with VO): it opens on a humiliating or emotional moment from the buyer's or spouse's point of view ('At 43 I had to ask for an XXL', 'My wife came home and froze'), shows the struggle and failed fixes, reveals the hidden cause with a 3D mechanism shot, then the product, the transformation scenes and a guarantee/offer close. No real presenter carries the ad."
+ },
+ {
+  "id": "V066",
+  "medium": "video",
+  "name": "Meme Caption Loop (Relatable Joke Clip)",
+  "stage": "TOF",
+  "definition": "A 4-10s single-shot (or quick-montage) clip with one relatable meme-format caption ('Me cancelling my $900 dental surgery after...', 'When you know who the killer is but can't prove it yet', 'Forever girl who needs something in her arms to fall asleep'), no voiceover, product visible in frame; it ends when the loop ends."
+ },
+ {
+  "id": "V067",
+  "medium": "video",
+  "name": "Meme Montage (Chaos Edit)",
+  "stage": "TOF",
+  "definition": "A voiceover (or punchy one-word captions) carries the pitch while the picture cuts every 1-2s to a different borrowed or absurd clip - archival B&W film, movie/anime moments, stunts, stock disasters, glitch zooms, cut-out meme stickers - with big word-by-word captions; the product only appears in a beat or two near the end, then a logo/CTA."
+ },
+ {
+  "id": "V068",
+  "medium": "video",
+  "name": "Multi-Panel Split Screen",
+  "stage": "MOF",
+  "definition": "The vertical frame is cut into 2-9 panels that all play at the same time for the whole ad: e.g. on-model 360 spin, macro fabric/detail loop, back view, several body types or several outfits, with a small brand/product label or one title tile ('Fall '26 is here', 'Stretchy jeans will change your life'); no VO or presenter, 6-15s."
+ },
+ {
+  "id": "V069",
+  "medium": "video",
+  "name": "Not For Everyone (Reverse Qualifier)",
+  "stage": "MOF",
+  "definition": "Opens with reverse psychology - 'Don't buy X', '3 reasons you SHOULDN'T buy X', 'Honestly, this isn't for everyone' - then runs a list of sarcastic or tongue-in-cheek disqualifiers ('if you're okay with blades that dull in months', 'if the pharmacy creams are working', 'you're just not that into glowing skin (said no one ever)'), each one secretly a benefit, before flipping to 'but if you want...' and closing on proof plus a guarantee/CTA."
+ },
+ {
+  "id": "V070",
+  "medium": "video",
+  "name": "Review Read-Aloud (Owner Reads Real Reviews)",
+  "stage": "MOF\u2192BOF",
+  "definition": "The owner, founder or an expert host sits with a tablet/laptop (selfie or podcast set) and goes through real customer reviews or customer-submitted before/after photos one at a time, each shown on screen as a screenshot/photo card, reading them aloud and reacting/explaining; often opens by addressing a skeptic ('these positive reviews are all bought!') and closes with the guarantee and link. Usually long (1-5 min)."
+ },
+ {
+  "id": "V071",
+  "medium": "video",
+  "name": "Recipe Reel (Product as Ingredient)",
+  "stage": "TOF",
+  "definition": "A food-creator style recipe video: opens on the finished, craveable dish/drink (or a 'best drink I ever made' hook), then shows the recipe built step by step with the product added as one ingredient (pack shot mid-way), and closes on the money shot / first bite."
+ },
+ {
+  "id": "V072",
+  "medium": "video",
+  "name": "Animated Character Story (Pixar / Cartoon)",
+  "stage": "TOF",
+  "definition": "The whole ad is a short animated story (Pixar-style 3D or hand-drawn 2D picture book) with a human or pet protagonist: opens on the character living the problem, middle shows failed fixes then discovering the product, close shows the happy 'after' and a product end card."
+ },
+ {
+  "id": "V073",
+  "medium": "video",
+  "name": "Set Up With Me (Space Makeover)",
+  "stage": "TOF",
+  "definition": "A 'come set up / reset with me' video: opens on a bare, messy or outdated space (stripped bed, empty wall, cluttered counter), the creator unpacks and installs or styles the product in quick satisfying steps, and it closes on a slow pan of the finished 'dream' space."
+ },
+ {
+  "id": "V074",
+  "medium": "video",
+  "name": "Aesthetic Room Tour (Styled Space Walkthrough)",
+  "stage": "TOF",
+  "definition": "A silent, music-led handheld/gimbal walkthrough of one beautifully styled room or home: opens on a 'pov: the life I want' / 'small bedrooms can still be beautiful' caption over a wide shot, glides past details (bed, lamp, shelves, textures), and closes on the full room with a 'shop the look' line."
+ },
+ {
+  "id": "V075",
+  "medium": "video",
+  "name": "Before/After Transformation Reveal (Glow-Up)",
+  "stage": "TOF\u2192MOF",
+  "definition": "The whole ad is one transformation: opens on the 'before' (shaggy hair in the barber chair, frizzy curls, a 'Day 0' body/face), the middle shows the product doing the work (a pro cutting and styling with it, or an AI morph sliding from Day 0 to Day 90), and it closes on the big 'after' reveal plus product card/offer."
+ },
+ {
+  "id": "V076",
+  "medium": "video",
+  "name": "Input vs Result (Custom-Made Reveal)",
+  "stage": "TOF\u2192MOF",
+  "definition": "Rapid paired montage for a custom/made-to-order product: opens on a caption like 'the stones our clients chose vs the rings we made', then alternates 'the stone' / 'the inspiration' shots with the finished piece made from it, and closes on 'design yours' with the brand logo."
+ },
+ {
+  "id": "V077",
+  "medium": "video",
+  "name": "Stop-Motion Product Showcase",
+  "stage": "TOF",
+  "definition": "A 6-10s frame-by-frame stop-motion of the real product and props (no clay, no people): opens on the product alone or a closed case, items pop in, stack, pack or swap frame by frame to build a flat lay or scene, and it closes on the finished arrangement with one line of copy."
+ },
+ {
+  "id": "V078",
+  "medium": "video",
+  "name": "Prop Analogy Explainer (Physical Mechanism Demo)",
+  "stage": "MOF",
+  "definition": "An expert in a white coat (or just hands) explains how the problem works using an everyday object as a stand-in for the body: opens on the prop and a hook ('nobody wants to be the short kid', 'double cleansing: scam?'), the middle acts the mechanism out on the prop (orange peel = pores, tube = urethra, pool noodle = growth plate, straw = blood vessel), and it closes with the product as the fix plus offer."
+ },
+ {
+  "id": "V079",
+  "medium": "video",
+  "name": "POV Comedy Skit (Creator Plays the Roles)",
+  "stage": "TOF",
+  "definition": "One creator acts out a relatable 'POV:' situation as characters (often playing both sides with outfit swaps): open on the POV caption, middle is quick comic scenes or back-and-forth dialogue where the problem plays out, close with the product as the in-story fix or punchline."
+ },
+ {
+  "id": "V080",
+  "medium": "video",
+  "name": "Partner POV (She Buys It For Him)",
+  "stage": "MOF",
+  "definition": "A wife/girlfriend talks to camera (or narrates) about a men's product from her side: open on a line to other women ('ladies...', 'my husband used to...'), middle shows him using/wearing it as silent proof while she explains why she made him switch, close on the couple and a 'get it for him' CTA."
+ },
+ {
+  "id": "V081",
+  "medium": "video",
+  "name": "Scripted Comedy Sketch (Produced Skit)",
+  "stage": "TOF",
+  "definition": "A produced, multi-actor comedy scene with a script: open on a relatable or absurd setup (genre parody, office/home chaos, staff skit), middle escalates the gag with the product woven into the plot, close on the product as the punchline plus a benefit/offer card."
+ },
+ {
+  "id": "V082",
+  "medium": "video",
+  "name": "Absurdist Visual Gag (One Surreal Shot)",
+  "stage": "TOF",
+  "definition": "A single surreal, impossible staged image held for 6-10s: open mid-scene on the weird visual, a small pull-back or twist reveals the full gag, close with at most one caption and the product as the prop."
+ },
+ {
+  "id": "V083",
+  "medium": "video",
+  "name": "Prank Skit (Product Used On A Friend)",
+  "stage": "TOF",
+  "definition": "Lo-fi handheld prank: open on a caption like 'lasering my roommate's stuff' or sneaking up on a sleeping friend, middle is the product used on the unaware victim (often a quick montage), close on the victim's reaction or 'what should I do next?'."
+ },
+ {
+  "id": "V084",
+  "medium": "video",
+  "name": "IRL Brand Stunt (Street Activation Recap)",
+  "stage": "TOF",
+  "definition": "Documentary-style recap of a real-world stunt the brand staged: open on the strange public moment (posters with tear-off samples, costumed bellhops, a medieval troupe), middle shows passers-by reacting and engaging, close on the product reveal and brand card."
+ },
+ {
+  "id": "V085",
+  "medium": "video",
+  "name": "Party Game Play-Along",
+  "stage": "TOF",
+  "definition": "Friends at a table play a real party game (Wavelength dial, red flag/green flag) re-skinned with prompts about the product category: open on the game title, middle is 1-2 min of banter and laughs as they debate prompts, close with the product as the answer/punchline."
+ },
+ {
+  "id": "V086",
+  "medium": "video",
+  "name": "Product Jingle (Original Song)",
+  "stage": "TOF",
+  "definition": "The whole ad is an original catchy song about the product: open on 'Have you heard this song?', middle is karaoke-captioned lyrics carrying every benefit over a montage of people using it, close on a lyric that is the CTA."
+ },
+ {
+  "id": "V087",
+  "medium": "video",
+  "name": "Photoshop Fix ('Fixed It For You')",
+  "stage": "TOF\u2192MOF",
+  "definition": "Open on a real-looking 'problem' photo (plain room, old item), cut to a Photoshop screen recording where the item is erased and the product dropped in, then the edit comes alive as real footage of the product in that spot under 'Fixed it for you'."
+ },
+ {
+  "id": "V088",
+  "medium": "video",
+  "name": "Usage Timeline (Timestamp Countdown)",
+  "stage": "TOF\u2192MOF",
+  "definition": "The whole ad is paced by an on-screen clock or progress bar: it opens on the promise/first use, then each beat jumps forward in time (8:03pm > 8:14pm, or 5 sec > 15 min > 5 days > 2 weeks) with one caption saying what the product is doing at that moment, and closes on the end-state result + offer."
+ },
+ {
+  "id": "V089",
+  "medium": "video",
+  "name": "In-Store Find (Retail Aisle)",
+  "stage": "MOF",
+  "definition": "Shopper-POV video filmed inside a real, recognisable retailer: opens outside/at the shelf, the creator finds the product (or asks staff, who recommend it), shows the shelf, price tag and cart, then cuts home for close-ups and a 'grab it next time you're there / or online' close."
+ },
+ {
+  "id": "V090",
+  "medium": "video",
+  "name": "Behind the Build (Factory / Process Tour)",
+  "stage": "MOF",
+  "definition": "A brand insider or a step-by-step sequence takes the viewer through where/how the product is made: opens on the finished product or the person on the factory/workshop floor, walks through materials, build and quality checks (often as numbered steps), and closes on the finished product in use or the reveal + brand card."
+ },
+ {
+  "id": "V091",
+  "medium": "video",
+  "name": "Product ASMR",
+  "stage": "TOF",
+  "definition": "An 'ASMR' labelled ad with little or no voiceover: opens on the title + close-mic packaging sound, then a run of tactile sound moments (crinkle, pump, pour, lather, spray, crunch) using the product, closing on a calm end shot with the product."
+ },
+ {
+  "id": "V092",
+  "medium": "video",
+  "name": "Phone-Screen Investigation",
+  "stage": "TOF\u2192MOF",
+  "definition": "A first-person 'I looked into it' story told almost entirely through phone screens: opens on a call screen or Google search ('I called my water company' / 'does legal water mean safe'), moves through real-looking web pages, databases, stats and a review card as evidence, then reveals the product as the fix with a before/after number and closes on the offer."
+ },
+ {
+  "id": "V093",
+  "medium": "video",
+  "name": "Brand Blunder Confession",
+  "stage": "MOF\u2192BOF",
+  "definition": "The brand opens by admitting a public mistake ('We f*cked up our spring sale'), proves it with a screen recording of the error and screenshots of angry/mocking customer comments, then 'makes it right' with an even bigger discount + free gifts and closes on urgency ('before we sell out')."
+ },
+ {
+  "id": "V094",
+  "medium": "video",
+  "name": "Quiz Walkthrough",
+  "stage": "TOF\u2192MOF",
+  "definition": "A relatable person states a problem and the confusion ('hundreds of products... which one do I even need?'), says an expert built a short quiz, then a screen recording walks through the quiz questions and the 'calculating your results' screen, closing on 'take the free 2-minute quiz, link below'."
+ },
+ {
+  "id": "V095",
+  "medium": "video",
+  "name": "BTS vs Final Shot Reveal",
+  "stage": "TOF\u2192MOF",
+  "definition": "Opens on the raw behind-the-scenes setup (rig, tripod, suction mount, studio) capturing a shot, then cuts to the polished final footage it produced, alternating setup vs result a few times and ending on the brand card."
+ },
+ {
+  "id": "V096",
+  "medium": "video",
+  "name": "Campaign Shoot Vlog (On Set BTS)",
+  "stage": "TOF",
+  "definition": "Lo-fi phone vlog from the brand's own campaign/photo shoot: opens 'we're on set for our ... shoot', then handheld clips of models/founder changing, crew, lights, mood boards and between-take moments showing the new collection, closing on a final look or group shot."
+ },
+ {
+  "id": "V097",
+  "medium": "video",
+  "name": "Torture Test (Try To Break It)",
+  "stage": "TOF\u2192MOF",
+  "definition": "The whole ad is a sequence of escalating abuse or stress attempts on the product (flips, jumps, drops, water, weight) with it surviving each one, ending on the verdict shot ('still in / still works') and brand."
+ },
+ {
+  "id": "V098",
+  "medium": "video",
+  "name": "YouTube Reviewer Clip (Borrowed Expert)",
+  "stage": "MOF",
+  "definition": "A horizontal, letterboxed excerpt from an independent long-form YouTube reviewer: often opens on a YouTube-style thumbnail hook, then the reviewer talks through and handles the product with screen recordings/specs, with a branded header bar, closing on 'see full review on YouTube' or a shop end card."
+ },
+ {
+  "id": "V099",
+  "medium": "video",
+  "name": "Trade-Show Booth Demo",
+  "stage": "MOF",
+  "definition": "Founder/rep with a lanyard filmed at an expo booth (banners, crowd) pitching and demoing the product live to camera, intercut with bold spec cards and a 'NEW' badge, closing on the rep summing up and the brand card."
+ },
+ {
+  "id": "V100",
+  "medium": "video",
+  "name": "Good-Deed Vlog (Giving It Away)",
+  "stage": "TOF",
+  "definition": "The brand owner vlogs explaining the product in the shop, then delivers/donates it to a community hero group (e.g. a police K9 unit), filming the handover, the recipients' thank-yous and why it matters, ending on the brand card."
+ },
+ {
+  "id": "I001",
+  "medium": "image",
+  "name": "Where Looking For X (The Person)",
+  "stage": "TOF",
+  "definition": "'We're looking for [type of person]' callout directly addresses the avatar."
+ },
+ {
+  "id": "I002",
+  "medium": "image",
+  "name": "5 Reasons Why / Listicle",
+  "stage": "TOF,MOF",
+  "definition": "Cheapest CPMs of the format list."
+ },
+ {
+  "id": "I003",
+  "medium": "image",
+  "name": "Text on Skin",
+  "stage": "",
+  "definition": "Text rendered directly onto skin/body in the shot. Pure visual style."
+ },
+ {
+  "id": "I004",
+  "medium": "image",
+  "name": "Reddit Post",
+  "stage": "",
+  "definition": "Mimics a Reddit thread screenshot. Native, high trust."
+ },
+ {
+  "id": "I005",
+  "medium": "image",
+  "name": "Benefit Callout",
+  "stage": "MOF",
+  "definition": "Static graphic calling out a specific product benefit directly."
+ },
+ {
+  "id": "I006",
+  "medium": "image",
+  "name": "News Headline",
+  "stage": "TOF",
+  "definition": "Very native. Mimics editorial/news content."
+ },
+ {
+  "id": "I007",
+  "medium": "image",
+  "name": "Influencer Whitelisting Ads",
+  "stage": "",
+  "definition": "Running ads through an influencer's handle. A distribution method, not a stage."
+ },
+ {
+  "id": "I008",
+  "medium": "image",
+  "name": "Quiz",
+  "stage": "TOF,MOF",
+  "definition": "Interactive framing: 'which one are you' style."
+ },
+ {
+  "id": "I009",
+  "medium": "image",
+  "name": "Before and After",
+  "stage": "MOF",
+  "definition": "Classic transformation proof."
+ },
+ {
+  "id": "I010",
+  "medium": "image",
+  "name": "Sticky Note",
+  "stage": "",
+  "definition": "Handwritten sticky-note style. Feels personal and native."
+ },
+ {
+  "id": "I011",
+  "medium": "image",
+  "name": "Bold Headline",
+  "stage": "BOF",
+  "definition": "Large, bold, text-led claim that overcomes final hesitation."
+ },
+ {
+  "id": "I012",
+  "medium": "image",
+  "name": "Fact Vs Myth",
+  "stage": "TOF,MOF",
+  "definition": "Debunking framing builds authority."
+ },
+ {
+  "id": "I013",
+  "medium": "image",
+  "name": "Zero Star Reviews",
+  "stage": "TOF",
+  "definition": "Negativity-bias hack: expect a bad review, find a positive one."
+ },
+ {
+  "id": "I014",
+  "medium": "image",
+  "name": "The Censored Ad",
+  "stage": "TOF",
+  "definition": "Blur + warning label pulls curiosity. The blur itself is the CTA."
+ },
+ {
+  "id": "I015",
+  "medium": "image",
+  "name": "Us Vs Them",
+  "stage": "MOF",
+  "definition": "Direct comparison against the old way or a competitor."
+ },
+ {
+  "id": "I016",
+  "medium": "image",
+  "name": "Low Stock Alerts",
+  "stage": "BOF",
+  "definition": "Creates scarcity and urgency."
+ },
+ {
+  "id": "I017",
+  "medium": "image",
+  "name": "Warning Alert",
+  "stage": "TOF",
+  "definition": "Mimics a system or health warning notification."
+ },
+ {
+  "id": "I018",
+  "medium": "image",
+  "name": "Text Heavy Static",
+  "stage": "",
+  "definition": "Copy-dense static, minimal visual. Stage depends on the copy."
+ },
+ {
+  "id": "I019",
+  "medium": "image",
+  "name": "Instagram Story Response",
+  "stage": "",
+  "definition": "Feels very native to the platform."
+ },
+ {
+  "id": "I020",
+  "medium": "image",
+  "name": "Comment Section",
+  "stage": "MOF,BOF",
+  "definition": "Mimics a comments thread. Social proof via replies."
+ },
+ {
+  "id": "I021",
+  "medium": "image",
+  "name": "The Receipt",
+  "stage": "MOF,BOF",
+  "definition": "Mimics a purchase receipt or confirmation. Very native."
+ },
+ {
+  "id": "I022",
+  "medium": "image",
+  "name": "Meme Ads",
+  "stage": "TOF",
+  "definition": "Only works in niches with inside jokes / community references."
+ },
+ {
+  "id": "I023",
+  "medium": "image",
+  "name": "Statistics",
+  "stage": "TOF",
+  "definition": "Leads with a striking stat to stop the scroll."
+ },
+ {
+  "id": "I024",
+  "medium": "image",
+  "name": "Ugly Ads",
+  "stage": "TOF",
+  "definition": "Deliberately low-production look to dodge ad blindness."
+ },
+ {
+  "id": "I025",
+  "medium": "image",
+  "name": "Problem Solution",
+  "stage": "TOF,MOF",
+  "definition": "Names the exact pain point up front, then shows the fix."
+ },
+ {
+  "id": "I026",
+  "medium": "image",
+  "name": "WhatsApp Text",
+  "stage": "",
+  "definition": "Mimics a WhatsApp conversation screenshot. Native feel."
+ },
+ {
+  "id": "I027",
+  "medium": "image",
+  "name": "Native Advertorial",
+  "stage": "TOF",
+  "definition": "Candid un-branded photo + long first-person confession disguises the ad as organic."
+ },
+ {
+  "id": "I028",
+  "medium": "image",
+  "name": "Listicle / Curiosity Advertorial Static",
+  "stage": "TOF",
+  "definition": "Editorial headline card opens a curiosity gap only a click closes."
+ },
+ {
+  "id": "I029",
+  "medium": "image",
+  "name": "Testimonial / Review-Quote-Led Static",
+  "stage": "TOF",
+  "definition": "Real customer words with the objection AND the turnaround inside the quote."
+ },
+ {
+  "id": "I030",
+  "medium": "image",
+  "name": "Email Screenshot",
+  "stage": "TOF",
+  "definition": "A forwarded email reads as insider info shared between real people."
+ },
+ {
+  "id": "I031",
+  "medium": "image",
+  "name": "The Paint Ad",
+  "stage": "TOF",
+  "definition": "Deliberate low effort makes it feel like it isn't selling."
+ },
+ {
+  "id": "I032",
+  "medium": "image",
+  "name": "Emergency",
+  "stage": "TOF",
+  "definition": "Alert aesthetic hijacks attention like a real notification."
+ },
+ {
+  "id": "I033",
+  "medium": "image",
+  "name": "The Spec Sheet",
+  "stage": "TOF,MOF",
+  "definition": "Four facts, zero adjectives. The restraint is the persuasion."
+ },
+ {
+  "id": "I034",
+  "medium": "image",
+  "name": "Problems (List Of)",
+  "stage": "TOF",
+  "definition": "Stacking daily frictions makes the pain feel bigger."
+ },
+ {
+  "id": "I035",
+  "medium": "image",
+  "name": "Tier List (Static)",
+  "stage": "TOF",
+  "definition": "S/A/B ranking is scannable and begs the viewer to agree or argue."
+ },
+ {
+  "id": "I036",
+  "medium": "image",
+  "name": "Venn Diagram",
+  "stage": "TOF,MOF",
+  "definition": "The product is the only thing at the intersection."
+ },
+ {
+  "id": "I037",
+  "medium": "image",
+  "name": "Claymation Still",
+  "stage": "TOF",
+  "definition": "Visibly hand-made craft reads as art, not an ad."
+ },
+ {
+  "id": "I038",
+  "medium": "image",
+  "name": "Google Search Result",
+  "stage": "TOF",
+  "definition": "Borrows Google's authority. The answer looks found, not sold."
+ },
+ {
+  "id": "I039",
+  "medium": "image",
+  "name": "Trustpilot / Review-Site Screenshot",
+  "stage": "TOF,MOF",
+  "definition": "A third-party review platform carries trust the brand can't claim."
+ },
+ {
+  "id": "I040",
+  "medium": "image",
+  "name": "You Can Avoid",
+  "stage": "MOF",
+  "definition": "Loss aversion: what to dodge hits harder than a promised gain."
+ },
+ {
+  "id": "I041",
+  "medium": "image",
+  "name": "Don't Buy This",
+  "stage": "MOF",
+  "definition": "Arguing against the sale disarms the skeptic."
+ },
+ {
+  "id": "I042",
+  "medium": "image",
+  "name": "X Signs",
+  "stage": "TOF",
+  "definition": "A symptom checklist makes the viewer self-diagnose into the problem."
+ },
+ {
+  "id": "I043",
+  "medium": "image",
+  "name": "Us vs Us",
+  "stage": "MOF",
+  "definition": "Old version vs new version. Progress without attacking a competitor."
+ },
+ {
+  "id": "I044",
+  "medium": "image",
+  "name": "Hack 101",
+  "stage": "TOF,MOF",
+  "definition": "'Hack' framing reads as a tip, not a pitch."
+ },
+ {
+  "id": "I045",
+  "medium": "image",
+  "name": "Greenscreen Static",
+  "stage": "TOF",
+  "definition": "Creator-reacting-to-a-screen look signals native UGC."
+ },
+ {
+  "id": "I046",
+  "medium": "image",
+  "name": "New vs Old",
+  "stage": "MOF",
+  "definition": "Old way vs new way split makes the viewer do the math."
+ },
+ {
+  "id": "I047",
+  "medium": "image",
+  "name": "Whiteboard Explainer",
+  "stage": "TOF,MOF",
+  "definition": "Hand-drawn whiteboard signals a teacher explaining, not a brand selling."
+ },
+ {
+  "id": "I048",
+  "medium": "image",
+  "name": "Don't Be An Idiot",
+  "stage": "MOF",
+  "definition": "A blunt challenge: prove you're not the idiot by reading on."
+ },
+ {
+  "id": "I049",
+  "medium": "image",
+  "name": "iPhone Notes Screenshot",
+  "stage": "TOF",
+  "definition": "Reads as a private note, so the guard drops before the pitch."
+ },
+ {
+  "id": "I050",
+  "medium": "image",
+  "name": "Side Effect",
+  "stage": "MOF",
+  "definition": "Pharma 'side effect' framing reframes benefits as consequences."
+ },
+ {
+  "id": "I051",
+  "medium": "image",
+  "name": "Doodle",
+  "stage": "TOF",
+  "definition": "A rough doodle feels like a person's note, not a designed asset."
+ },
+ {
+  "id": "I052",
+  "medium": "image",
+  "name": "We're Sorry",
+  "stage": "MOF,BOF",
+  "definition": "An apology reads as honesty and lowers the guard."
+ },
+ {
+  "id": "I053",
+  "medium": "image",
+  "name": "Borrowed Interface (Screenshot Mimicry)",
+  "stage": "TOF",
+  "definition": "Mimics a third-party app UI to borrow its credibility."
+ },
+ {
+  "id": "I054",
+  "medium": "image",
+  "name": "Comparison (Static)",
+  "stage": "MOF",
+  "definition": "Generic head-to-head 'this vs that' comparison."
+ },
+ {
+  "id": "I055",
+  "medium": "image",
+  "name": "Social-Proof / Review-Count",
+  "stage": "MOF,BOF",
+  "definition": "Leads with a huge review/customer count, not one quote."
+ },
+ {
+  "id": "I056",
+  "medium": "image",
+  "name": "Native Ads",
+  "stage": "TOF",
+  "definition": "Image must NOT look like an ad. The long-form copy sells."
+ },
+ {
+  "id": "I057",
+  "medium": "image",
+  "name": "The Truth",
+  "stage": "TOF",
+  "definition": "Surprising truth / myth-flip hook reframes the product."
+ },
+ {
+  "id": "I058",
+  "medium": "image",
+  "name": "Free Ticket",
+  "stage": "BOF",
+  "definition": "Torn-ticket coupon with code + urgency reads as a deal."
+ },
+ {
+  "id": "I059",
+  "medium": "image",
+  "name": "Let's Talk Numbers",
+  "stage": "MOF",
+  "definition": "Stacks hard percentages around the product to beat skepticism."
+ },
+ {
+  "id": "I060",
+  "medium": "image",
+  "name": "X for X",
+  "stage": "TOF",
+  "definition": "'Like [famous brand], but for [category].' Instant positioning."
+ },
+ {
+  "id": "I061",
+  "medium": "image",
+  "name": "Song Playlist",
+  "stage": "TOF",
+  "definition": "Spotify-playlist mockup. Pattern interrupt that feels organic."
+ },
+ {
+  "id": "I062",
+  "medium": "image",
+  "name": "Tap Your Goals",
+  "stage": "TOF,MOF",
+  "definition": "Gamified self-selection grid pulls viewers in via interaction."
+ },
+ {
+  "id": "I063",
+  "medium": "image",
+  "name": "Daily Use Does X",
+  "stage": "MOF",
+  "definition": "The daily-use benefit stack across a routine."
+ },
+ {
+  "id": "I064",
+  "medium": "image",
+  "name": "Notification Offer",
+  "stage": "BOF",
+  "definition": "Lock-screen notification mockup delivers the offer."
+ },
+ {
+  "id": "I065",
+  "medium": "image",
+  "name": "Stat Headline",
+  "stage": "MOF",
+  "definition": "One big cost/stat headline reframes value."
+ },
+ {
+  "id": "I066",
+  "medium": "image",
+  "name": "Sourcing",
+  "stage": "MOF",
+  "definition": "'Inside our factory' builds trust and justifies price."
+ },
+ {
+  "id": "I067",
+  "medium": "image",
+  "name": "Demographic Callout",
+  "stage": "TOF",
+  "definition": "Calls out an age/life stage so the right viewer self-identifies."
+ },
+ {
+  "id": "I068",
+  "medium": "image",
+  "name": "Recipes",
+  "stage": "TOF,MOF",
+  "definition": "'How to make X' saveable content, product as an ingredient."
+ },
+ {
+  "id": "I069",
+  "medium": "image",
+  "name": "Partnership Carousels",
+  "stage": "MOF",
+  "definition": "Creator/brand collab as an IG profile. Borrows credibility."
+ },
+ {
+  "id": "I070",
+  "medium": "image",
+  "name": "Cartoon",
+  "stage": "TOF",
+  "definition": "Hand-illustrated cartoon over the product. Playful pattern interrupt."
+ },
+ {
+  "id": "I071",
+  "medium": "image",
+  "name": "Crossed-Out Problems",
+  "stage": "MOF",
+  "definition": "Red X's reject the old solutions before showing the product."
+ },
+ {
+  "id": "I072",
+  "medium": "image",
+  "name": "Text Message (iMessage Mockup)",
+  "stage": "TOF",
+  "definition": "A friend recommending it in iMessage reads as trusted."
+ },
+ {
+  "id": "I073",
+  "medium": "image",
+  "name": "IG Story (Native Callout)",
+  "stage": "TOF",
+  "definition": "'WANTED'-style native story recruits a specific segment."
+ },
+ {
+  "id": "I074",
+  "medium": "image",
+  "name": "Bundle Offer (Static)",
+  "stage": "BOF",
+  "definition": "Flat-lay of the range with one bundle price. Pushes AOV."
+ },
+ {
+  "id": "I075",
+  "medium": "image",
+  "name": "IG Question Sticker",
+  "stage": "TOF",
+  "definition": "Question-sticker UI pulls in self-identifying viewers."
+ },
+ {
+  "id": "I076",
+  "medium": "image",
+  "name": "Diagram / Flowchart",
+  "stage": "MOF",
+  "definition": "Icons connected into one hub. Shows how the pieces fit."
+ },
+ {
+  "id": "I077",
+  "medium": "image",
+  "name": "Objection Handler (Quote-Led)",
+  "stage": "MOF",
+  "definition": "Objection-and-answer bubbles pre-empt hesitation."
+ },
+ {
+  "id": "I078",
+  "medium": "image",
+  "name": "X Post (Tweet Screenshot)",
+  "stage": "TOF",
+  "definition": "Borrows the unfiltered-opinion credibility of X/Twitter."
+ },
+ {
+  "id": "I079",
+  "medium": "image",
+  "name": "Stop Doing This",
+  "stage": "MOF",
+  "definition": "Reframes the current habit as the problem."
+ },
+ {
+  "id": "I080",
+  "medium": "image",
+  "name": "Unboxing (Static)",
+  "stage": "TOF",
+  "definition": "Candid box-opening photo reads as organic social proof."
+ },
+ {
+  "id": "I081",
+  "medium": "image",
+  "name": "Demo (App/Product Screen)",
+  "stage": "MOF",
+  "definition": "Screenshot of the product's own interface in use."
+ },
+ {
+  "id": "I082",
+  "medium": "image",
+  "name": "Transformation (Progress Timeline)",
+  "stage": "MOF",
+  "definition": "Day 7 / 14 / 30 progression sells the journey."
+ },
+ {
+  "id": "I083",
+  "medium": "image",
+  "name": "Offer / Discount Announcement",
+  "stage": "BOF",
+  "definition": "Flat X% off graphic. Just the deal, stated loudly."
+ },
+ {
+  "id": "I084",
+  "medium": "image",
+  "name": "AI Podcast / Interview Clip (Thumbnail)",
+  "stage": "TOF",
+  "definition": "Podcast-style two-person thumbnail borrows interview credibility."
+ },
+ {
+  "id": "I085",
+  "medium": "image",
+  "name": "Script (Curiosity Teaser Copy)",
+  "stage": "TOF",
+  "definition": "One scripted line on a plain card. Pure curiosity gap."
+ },
+ {
+  "id": "I086",
+  "medium": "image",
+  "name": "Personalized Product Preview (Your Name/Photo On It)",
+  "stage": "TOF,MOF",
+  "definition": "Product shown already customized with a name or the buyer's photo. The viewer instantly pictures their own version, so it's a gift they can see before buying."
+ },
+ {
+  "id": "I087",
+  "medium": "image",
+  "name": "Press Mentions (As Seen In / Media Quote)",
+  "stage": "MOF,BOF",
+  "definition": "'As seen in' logo bar, magazine quote or award seal as the hero. Borrowed editorial credibility does the persuading."
+ },
+ {
+  "id": "I088",
+  "medium": "image",
+  "name": "HSA/FSA Eligible Callout",
+  "stage": "MOF,BOF",
+  "definition": "Headline or stamp says it's HSA/FSA eligible. Reframes the price as pre-tax money the buyer would lose anyway."
+ },
+ {
+  "id": "I089",
+  "medium": "image",
+  "name": "Now At [Retailer] (Retail Availability)",
+  "stage": "MOF,BOF",
+  "definition": "Retailer logo, 'now at' line or shelf photo. A big retailer stocking it is instant proof the brand is legit."
+ },
+ {
+  "id": "I090",
+  "medium": "image",
+  "name": "Ingredient Spotlight",
+  "stage": "TOF,MOF",
+  "definition": "Product surrounded by its raw hero ingredients, each labelled with its benefit. Seeing the real inputs makes the formula feel honest."
+ },
+ {
+  "id": "I091",
+  "medium": "image",
+  "name": "Clean Product Hero Shot (No Headline)",
+  "stage": "TOF,MOF",
+  "definition": "Polished studio shot of the product alone, logo only. Pure desire: premium look, no selling. (A style more than an angle.)"
+ },
+ {
+  "id": "I092",
+  "medium": "image",
+  "name": "Lifestyle Model Shot (No Headline)",
+  "stage": "TOF",
+  "definition": "Editorial photo of a model using the product, logo or short tagline only. Sells the identity and feeling. (A style more than an angle.)"
+ }
+]
