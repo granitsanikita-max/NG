@@ -28,7 +28,7 @@ CSS = """
 .lp-plum .lp-sub{color:var(--blush)}
 .lp .lp-eyebrow{display:inline-block;font-size:13px;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:var(--claret);margin-bottom:14px}
 .lp-plum .lp-eyebrow{color:var(--rose)}
-.lp .lp-btn{display:block;width:100%;max-width:440px;text-align:center;background:var(--claret);color:#fff!important;text-decoration:none!important;font-weight:700;font-size:19px;padding:18px 28px;border-radius:12px;margin-top:28px;transition:background .15s}
+.lp .lp-btn{display:block;width:100%;max-width:440px;text-align:center;background:var(--claret);color:#fff!important;text-decoration:none!important;font-weight:700;font-size:19px;padding:18px 28px;border-radius:0;margin-top:28px;transition:background .15s}
 .lp .lp-btn:hover{background:var(--claret-d)}
 .lp-plum .lp-btn{background:var(--cream);color:var(--ink)!important}
 .lp-plum .lp-btn:hover{background:#fff}
@@ -47,12 +47,12 @@ CSS = """
 /* myths */
 .lp .lp-myths{margin:8px 0 26px}
 .lp .lp-myths p{font-style:italic;color:var(--taupe);text-decoration:line-through;text-decoration-color:var(--claret);text-decoration-thickness:2px;font-size:19px;margin-bottom:6px}
-.lp blockquote{border-left:4px solid var(--claret);background:#fff;padding:22px 26px;margin:10px 0 26px;border-radius:0 12px 12px 0;font-family:'Fraunces',Georgia,serif;font-size:24px;line-height:1.3}
+.lp blockquote{border-left:4px solid var(--claret);background:#fff;padding:22px 26px;margin:10px 0 26px;border-radius:0;font-family:'Fraunces',Georgia,serif;font-size:24px;line-height:1.3}
 .lp blockquote span{display:block;font-family:'Hanken Grotesk',Arial,sans-serif;font-size:14px;color:var(--taupe);margin-top:10px;font-style:normal}
-.lp .lp-honest{background:#fff;border:1px solid var(--blush);border-radius:12px;padding:20px 22px;margin:22px 0;font-size:17px}
+.lp .lp-honest{background:#fff;border:1px solid var(--blush);border-radius:0;padding:20px 22px;margin:22px 0;font-size:17px}
 /* steps */
 .lp .lp-steps{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin:30px 0 34px}
-.lp .lp-step{background:var(--cream);border-radius:14px;padding:26px 22px}
+.lp .lp-step{background:var(--cream);border-radius:0;padding:26px 22px}
 .lp .lp-num{width:40px;height:40px;border-radius:50%;background:var(--claret);color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center;margin-bottom:14px;font-size:18px}
 .lp .lp-step p{font-size:16.5px;margin:0}
 .lp .lp-product{border-top:1px solid var(--blush);padding-top:30px}
@@ -61,16 +61,16 @@ CSS = """
 .lp .lp-facts li::before{content:'';position:absolute;left:0;top:10px;width:9px;height:9px;border-radius:50%;background:var(--claret)}
 /* outcome split */
 .lp .lp-split{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center}
-.lp .lp-split img{width:100%;height:auto;display:block;border-radius:6px;aspect-ratio:4/5;object-fit:cover}
+.lp .lp-split img{width:100%;height:auto;display:block;border-radius:0;aspect-ratio:4/5;object-fit:cover}
 .lp .lp-scene{font-size:19px;margin-bottom:14px}
 /* risk */
-.lp .lp-tag{display:inline-block;border:1px solid var(--rose);color:var(--rose);font-size:12.5px;font-weight:700;letter-spacing:.22em;padding:7px 12px;border-radius:6px;margin-bottom:18px}
+.lp .lp-tag{display:inline-block;border:1px solid var(--rose);color:var(--rose);font-size:12.5px;font-weight:700;letter-spacing:.22em;padding:7px 12px;border-radius:0;margin-bottom:18px}
 .lp .lp-terms{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:26px 0}
-.lp .lp-term{border:1px solid rgba(231,207,201,.35);border-radius:14px;padding:24px}
+.lp .lp-term{border:1px solid rgba(231,207,201,.35);border-radius:0;padding:24px}
 .lp .lp-term p{color:var(--cream);margin-bottom:6px}
 .lp .lp-claim{border-top:1px solid rgba(231,207,201,.3);padding-top:18px;margin-top:6px}
 /* final card */
-.lp .lp-card{background:var(--cream);border:1px solid var(--ink);border-radius:16px;padding:36px 32px;max-width:560px;margin:30px auto 0}
+.lp .lp-card{background:var(--cream);border:1px solid var(--ink);border-radius:0;padding:36px 32px;max-width:560px;margin:30px auto 0}
 .lp .lp-card .lp-checks li{font-size:17.5px;padding:10px 0 10px 38px}
 .lp .lp-card .lp-checks li::before{top:11px}
 .lp .lp-card .lp-btn{max-width:none}
@@ -198,7 +198,7 @@ BLOCKS["5-leak-test"] = block("30-Night Leak-Test + Fit Promise", f"""
   <h2>Sneeze in them. Jump in them. Then decide.</h2>
   <div class="lp-terms">
     <div class="lp-term"><h3>The 30-Night Leak-Test</h3><p>Wear them through your moment for 30 nights. If they don't hold, you get your money back.</p><p>You keep the pairs. Nothing to send back.</p></div>
-    <div class="lp-term"><h3>The Fit Promise</h3><p>Wrong size? We'll send the right one first. No need to send the other back.</p></div>
+    <div class="lp-term"><h3>The Fit Promise</h3><p>Wrong size? We'll send your new size free. Nothing to send back.</p></div>
   </div>
   <p><strong>Free shipping on every set.</strong></p>
   <div class="lp-claim">
@@ -220,7 +220,7 @@ BLOCKS["6-final-cta-footer"] = block("Final CTA + footer + sources", f"""
       <li>your set and your price</li>
     </ul>
     {btn()}
-    <p class="lp-micro">Free shipping on every set · Wrong size? We'll send the right one first. No need to send the other back.</p>
+    <p class="lp-micro">Free shipping on every set · Wrong size? We'll send your new size free. Nothing to send back.</p>
     <p class="lp-small" style="margin-top:10px"><em>This isn't a medical assessment. It matches you to underwear.</em></p>
   </div>
 </div></section>
@@ -232,7 +232,7 @@ BLOCKS["6-final-cta-footer"] = block("Final CTA + footer + sources", f"""
   <p>Words in quote marks next to a named source are copied exactly from that source. Leapproof isn't connected to, or endorsed by, any source named on this page.</p>
   <p>Our goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure. Leak-Test terms: <a href="#leak-test">see above</a>.</p>
   <!-- EDIT BEFORE GOING LIVE: add one line here with your registered business name · ABN · business address · support email -->
-  <p class="lp-links"><a href="https://leapproof.com/policies/privacy-policy">Privacy</a><a href="https://leapproof.com/policies/terms-of-service">Terms</a><a href="https://leapproof.com/pages/contact">Contact</a></p>
+  <p class="lp-links"><a href="https://leapproof.com/policies/privacy-policy">Privacy</a><a href="https://leapproof.com/policies/terms-of-service">Terms</a><a href="https://leapproof.com/policies/refund-policy">Refunds</a><a href="https://leapproof.com/policies/shipping-policy">Shipping</a><a href="mailto:hello@leapproof.com">Contact</a></p>
   <p>© 2026 leapproof</p>
   <div class="lp-notes">
     <p>¹ Ridgeview Medical Center, “Coughing, laughing or sneezing shouldn't cause peeing”, ridgeviewmedical.org (accessed 11 Oct 2026). The words “NEVER considered normal.” are copied from this page.</p>
@@ -244,7 +244,7 @@ BLOCKS["7-sticky-mobile-bar"] = f"""<!-- Leapproof landing · OPTIONAL sticky mo
 <style>
 #lp-sticky{{position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#F5EDE6;border-top:1px solid #E7CFC9;padding:10px 14px calc(10px + env(safe-area-inset-bottom));display:none;align-items:center;gap:12px;font-family:'Hanken Grotesk',Arial,sans-serif;box-shadow:0 -6px 18px rgba(35,16,23,.08)}}
 #lp-sticky span{{font-size:14px;color:#8C6A6C;white-space:nowrap}}
-#lp-sticky a{{flex:1;text-align:center;background:#A33154;color:#fff;text-decoration:none;font-weight:700;font-size:17px;padding:14px 16px;border-radius:10px}}
+#lp-sticky a{{flex:1;text-align:center;background:#A33154;color:#fff;text-decoration:none;font-weight:700;font-size:17px;padding:14px 16px;border-radius:0}}
 @media (min-width:821px){{#lp-sticky{{display:none!important}}}}
 </style>
 <div id="lp-sticky"><span>About 2 minutes</span><a href="{QUIZ}">Find my match</a></div>
@@ -279,42 +279,40 @@ LANDING["L2-footer-terms-sources"] = block("Footer + Leak-Test terms + sources (
   <strong>Not a treatment. It's underwear.</strong>
   <p>For heavier leaks, these aren't enough on their own.</p>
   <p>The quiz isn't a medical assessment. It matches you to underwear. If leaking is new, painful or getting worse, talk to a doctor or a pelvic-floor therapist.</p>
-  <p>Sizes S to 2XL. They run small, so don't go by the letter on your other underwear. The quiz checks your size against the chart for this exact pair. If we don't carry your size, it tells you before you pay.</p>
+  <p>Sizes S to 2XL (hips up to 107 cm). Go by your hip measurement, not the letter on your other underwear. Between two sizes? Pick the smaller one. The quiz checks your size against the chart for this exact pair. If we don't carry your size, it tells you before you pay.</p>
   <!-- EDIT: check this against the sewn-in label on a real pair; add the lining's fibres if the label lists them -->
   <p>Main fabric: 95% cotton, 5% spandex. Imported.</p>
   <p>The Straight Answer cards near the top are notes from the Leapproof team, not customer reviews. The image at the top is AI-generated. It doesn't show real customers.</p>
 
-  <div id="leak-test" style="border:1px solid rgba(231,207,201,.3);border-radius:12px;padding:20px 20px 6px;margin:22px 0 18px;scroll-margin-top:16px">
+  <div id="leak-test" style="border:1px solid rgba(231,207,201,.3);border-radius:0;padding:20px 20px 6px;margin:22px 0 18px;scroll-margin-top:16px">
     <p style="color:var(--cream);font-weight:700;margin-bottom:4px">The 30-Night Leak-Test</p>
     <p>Wear them through your moment for 30 nights. If they don't hold, you get your money back. You keep the pairs. Nothing to send back.</p>
     <p style="color:var(--cream);font-weight:700;margin-bottom:4px">The Fit Promise</p>
-    <p>Wrong size? We'll send the right one first. No need to send the other back.</p>
+    <p>Wrong size? We'll send your new size free. Nothing to send back.</p>
     <p style="color:var(--cream);font-weight:700;margin-bottom:4px">The terms, in plain words</p>
     <ul style="margin:0 0 14px 18px">
       <li>Your 30 nights start the day your set arrives (the delivered date on your tracking). Wear them day or night, through your real moments.</li>
-      <li>If they don't hold, email <span style="color:var(--cream)">[support email]</span> with your order number and what happened.</li>
+      <li>If they don't hold, email <span style="color:var(--cream)">hello@leapproof.com</span> with your order number and what happened.</li>
       <!-- EDIT if Nikita OKs the 14-day buffer, replace the next line with: You can claim any time during your 30 nights, or up to 14 days after your 30th night. -->
       <li>You can claim any time during your 30 nights.</li>
       <li>We refund the full amount you paid for your set and any extra pairs you added, to your original payment method. A claim costs you nothing.</li>
       <li>One claim per customer.</li>
-      <li>The Fit Promise covers one free size swap per order.</li>
-      <!-- EDIT (flag 3): add the swap window and the "no size fits = refund" line once decided -->
-      <li>Shipping: free on every set in Australia. In the US, any shipping cost shows at checkout, before you pay.</li>
+      <li>Size swaps: email hello@leapproof.com within your 30 nights with your order number and the size you need. We send the new size free and you keep the first pairs. One free size swap per order.</li>
+      <li>Shipping: free on every set. We pack your order in 1–2 business days, then it takes 6–10 business days to reach you.</li>
       <li>The 30-Night Leak-Test and the Fit Promise are in addition to your other rights and remedies under the law.</li>
     </ul>
   </div>
 
   <p><span style="color:var(--cream);font-weight:700">Australia:</span> Our goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure.</p>
   <p><span style="color:var(--cream);font-weight:700">US:</span> The 30-Night Leak-Test is a limited warranty. It gives you specific legal rights, and you may also have other rights which vary from state to state. Nothing on this page limits your rights under federal or state law.</p>
-  <!-- EDIT BEFORE GOING LIVE: replace the bracketed line below with your real details -->
-  <p style="color:var(--cream)">[Registered business name] · ABN [ ] · [business address] · [phone] · [support email]</p>
+  <p style="color:var(--cream)">leapproof · Melbourne, Australia · hello@leapproof.com</p>
 
   <div style="display:flex;flex-direction:column;align-items:center;text-align:center;margin:26px 0 8px">
     <a class="lp-btn" id="lp-foot-cta" href="{QUIZ}" style="margin-top:0">Find my match</a>
     <p class="lp-micro">About 2 minutes · No email needed to see your match</p>
   </div>
 
-  <p class="lp-links"><a href="https://leapproof.com/policies/privacy-policy">Privacy</a><a href="https://leapproof.com/policies/terms-of-service">Terms</a><a href="https://leapproof.com/pages/contact">Contact</a></p>
+  <p class="lp-links"><a href="https://leapproof.com/policies/privacy-policy">Privacy</a><a href="https://leapproof.com/policies/terms-of-service">Terms</a><a href="https://leapproof.com/policies/refund-policy">Refunds</a><a href="https://leapproof.com/policies/shipping-policy">Shipping</a><a href="mailto:hello@leapproof.com">Contact</a></p>
   <p>© 2026 leapproof</p>
   <div class="lp-notes">
     <p id="src1">¹ A review of studies of leaking between 6 weeks and 1 year after giving birth. Moossdorff-Steinhauser et al., International Urogynecology Journal, 2021. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295150/" {NEWTAB}>PMC8295150</a> (accessed 11 Oct 2026). Research results, not Leapproof customers.</p>
@@ -327,7 +325,7 @@ LANDING["L3-sticky-mobile-bar"] = f"""<!-- Leapproof landing v4.1 · sticky mobi
 <style>
 #lp-sticky{{position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#F5EDE6;border-top:1px solid #E7CFC9;padding:10px 14px calc(10px + env(safe-area-inset-bottom));display:none;align-items:center;gap:12px;font-family:'Hanken Grotesk',Arial,sans-serif;box-shadow:0 -6px 18px rgba(35,16,23,.08)}}
 #lp-sticky span{{font-size:14px;color:rgba(35,16,23,.75);white-space:nowrap}}
-#lp-sticky a{{flex:1;text-align:center;background:#A33154;color:#fff;text-decoration:none;font-weight:700;font-size:17px;padding:14px 16px;min-height:48px;border-radius:10px}}
+#lp-sticky a{{flex:1;text-align:center;background:#A33154;color:#fff;text-decoration:none;font-weight:700;font-size:17px;padding:14px 16px;min-height:48px;border-radius:0}}
 @media (min-width:821px){{#lp-sticky{{display:none!important}}}}
 </style>
 <div id="lp-sticky"><span>About 2 minutes</span><a href="{QUIZ}">Find my match</a></div>

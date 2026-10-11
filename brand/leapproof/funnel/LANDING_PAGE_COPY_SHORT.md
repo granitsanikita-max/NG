@@ -179,7 +179,7 @@ Measured at 17px bold on a 375px phone, with 303px free beside the number: step 
 .lps li{counter-increment:s;position:relative;padding:2px 0 12px 40px;font-size:17px;line-height:1.4}
 .lps li::before{content:counter(s);position:absolute;left:0;top:0;width:28px;height:28px;border-radius:50%;background:#231017;color:#F5EDE6;font-weight:700;font-size:15px;display:flex;align-items:center;justify-content:center}
 .lps .note{font-size:14px;color:rgba(35,16,23,.75);margin:0}
-.lps .btn{display:block;text-align:center;background:#A33154;color:#fff!important;text-decoration:none!important;font-weight:700;font-size:18px;padding:16px;min-height:52px;border-radius:10px;margin-top:20px}
+.lps .btn{display:block;text-align:center;background:#A33154;color:#fff!important;text-decoration:none!important;font-weight:700;font-size:18px;padding:16px;min-height:52px;border-radius:0;margin-top:20px}
 .lps .micro{font-size:14px;color:rgba(35,16,23,.75);text-align:center;margin-top:10px}
 .lps .micro a{color:inherit;text-decoration:underline}
 .lps sup a{color:inherit;text-decoration:none}
