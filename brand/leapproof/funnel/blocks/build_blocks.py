@@ -256,10 +256,64 @@ window.addEventListener('scroll',u,{{passive:true}});window.addEventListener('re
 </script>
 """
 
-for name, html in BLOCKS.items():
-    (OUT / f"{name}.html").write_text(html, encoding="utf-8")
+# ---------------------------------------------------------------------------
+# LANDING PAGE (short): hero (native Funnelish) -> L1 mini strip -> L2 footer.
+# The landing page's one job is the quiz tap. Long sections moved out.
+# ---------------------------------------------------------------------------
+LANDING = {}
 
-preview = "<!doctype html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><style>body{margin:0}</style></head><body>" + \
-    "".join(BLOCKS[k] for k in BLOCKS if not k.startswith("7")) + "</body></html>"
-(OUT / "_preview.html").write_text(preview, encoding="utf-8")
-print("built", len(BLOCKS), "blocks")
+LANDING["L1-how-it-works-mini"] = block("How the match works (mini)", f"""
+<section class="lp-sec lp-white" style="padding-top:56px;padding-bottom:56px"><div class="lp-wide">
+  <blockquote style="max-width:620px;margin:0 auto 44px;text-align:left">Leaking is “NEVER considered normal.”<span>· Ridgeview Medical Center¹</span></blockquote>
+  <h2 style="text-align:center">Your match, in about 2 minutes.</h2>
+  <div class="lp-steps" style="margin-top:26px">
+    <div class="lp-step"><div class="lp-num">1</div><h3>Tell us when it happens.</h3><p>Sneezing, laughing, jumping, running, lifting, or a bit of everything.</p></div>
+    <div class="lp-step"><div class="lp-num">2</div><h3>We match your size and your set.</h3><p>Your size, from the chart for this exact pair, and how many pairs you need.</p></div>
+    <div class="lp-step"><div class="lp-num">3</div><h3>See your match.</h3><p>Your size, your set and your price, right there on screen. No email needed.</p></div>
+  </div>
+  <div style="display:flex;flex-direction:column;align-items:center;text-align:center">
+    <a class="lp-btn" href="{QUIZ}" style="margin-top:4px">Find my match</a>
+    <p class="lp-micro">{MICRO}</p>
+  </div>
+</div></section>""")
+
+LANDING["L2-footer-terms-sources"] = block("Footer + Leak-Test terms + sources", f"""
+<section class="lp-sec lp-plum" style="padding-top:56px;padding-bottom:48px"><div class="lp-wrap lp-foot">
+  <div class="lp-wordmark">leap<i>proof</i></div>
+  <strong>Not a treatment. It's underwear.</strong>
+  <p>This isn't a medical assessment. It matches you to underwear. If leaking is heavy, new, painful or getting worse, talk to a doctor or a pelvic-floor therapist.</p>
+  <p>The Straight Answer cards near the top of this page are notes from the Leapproof team, not customer reviews. Lifestyle images are illustrations, not customers.</p>
+  <div id="leak-test" style="border:1px solid rgba(231,207,201,.3);border-radius:12px;padding:18px 20px;margin:18px 0 16px">
+    <p style="color:var(--cream);font-weight:700;margin-bottom:6px">The 30-Night Leak-Test</p>
+    <p>Wear them through your moment for 30 nights. If they don't hold, you get your money back. You keep the pairs. Nothing to send back.</p>
+    <p style="color:var(--cream);font-weight:700;margin-bottom:6px">The Fit Promise</p>
+    <p>Wrong size? We'll send the right one first. No need to send the other back.</p>
+    <p style="margin-bottom:0"><span style="color:var(--cream);font-weight:700">How to claim:</span> Your 30 nights start the day your set arrives. Wear them day or night, through your real moments. If they don't hold, email us your order number and what happened. You can claim any time during your 30 nights, or up to 14 days after your 30th night. We refund the full price of the set and any extra pairs you added. One claim per customer. The Fit Promise covers one free size swap per order. This is on top of your rights under consumer law, including the Australian Consumer Law.</p>
+  </div>
+  <p>Words in quote marks next to a named source are copied exactly from that source. Leapproof isn't connected to, or endorsed by, any source named on this page.</p>
+  <p>Our goods come with guarantees that cannot be excluded under the Australian Consumer Law. You are entitled to a replacement or refund for a major failure and compensation for any other reasonably foreseeable loss or damage. You are also entitled to have the goods repaired or replaced if the goods fail to be of acceptable quality and the failure does not amount to a major failure.</p>
+  <!-- EDIT BEFORE GOING LIVE: add one line here with your registered business name · ABN · business address · support email -->
+  <p class="lp-links"><a href="https://leapproof.com/policies/privacy-policy">Privacy</a><a href="https://leapproof.com/policies/terms-of-service">Terms</a><a href="https://leapproof.com/pages/contact">Contact</a></p>
+  <p>© 2026 leapproof</p>
+  <div class="lp-notes">
+    <p>¹ Ridgeview Medical Center, “Coughing, laughing or sneezing shouldn't cause peeing”, ridgeviewmedical.org (accessed 11 Oct 2026). The words “NEVER considered normal.” are copied from this page.</p>
+    <p>² Study of leaking between 6 weeks and 1 year after giving birth. Moossdorff-Steinhauser et al., International Urogynecology Journal, 2021 (PMC8295150). Study results, not Leapproof customers.</p>
+  </div>
+</div></section>""")
+
+# Sections moved OFF the landing page. Kept for the product page; their CTAs will be
+# rewritten for the PDP (buy box, not the quiz) when the PDP is built.
+PDP_LATER = {k: BLOCKS[k] for k in ["3-how-it-works", "4-outcome", "5-leak-test"]}
+CUT = ["1-right-place", "2-common-not-normal", "6-final-cta-footer"]
+
+(OUT / "landing").mkdir(exist_ok=True)
+(OUT / "pdp-later").mkdir(exist_ok=True)
+for name, html in LANDING.items():
+    (OUT / "landing" / f"{name}.html").write_text(html, encoding="utf-8")
+(OUT / "landing" / "L3-sticky-mobile-bar.html").write_text(BLOCKS["7-sticky-mobile-bar"].replace(".lp-card", "#leak-test"), encoding="utf-8")
+for name, html in PDP_LATER.items():
+    (OUT / "pdp-later" / f"{name}.html").write_text(html, encoding="utf-8")
+
+head = "<!doctype html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><style>body{margin:0}</style></head><body>"
+(OUT / "_preview.html").write_text(head + "".join(LANDING.values()) + "</body></html>", encoding="utf-8")
+print("landing:", list(LANDING), "| pdp-later:", list(PDP_LATER), "| cut:", CUT)
