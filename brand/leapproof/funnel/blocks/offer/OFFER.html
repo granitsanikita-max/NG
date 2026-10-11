@@ -143,16 +143,16 @@
   <div class="sizebox" id="lpo-size">
    <div class="lab" id="lpo-sizelab">Your size</div>
    <div class="chips" id="lpo-chips"></div>
-   <p class="sizenote">They run small. Go by your hip measurement, not the letter on your other undies.</p>
+   <p class="sizenote">Go by your hip measurement, not the letter on your other undies. <b>Between two sizes? Pick the smaller one.</b> A snug pair sits closer to you than a loose one.</p>
    <button class="linkbtn" type="button" onclick="lpoChart()">See the size chart</button>
    <table class="chart" id="lpo-chart">
     <thead><tr><th>Size</th><th>Hips</th><th>AU</th><th>US</th></tr></thead>
     <tbody>
-     <tr><td><b>S</b></td><td>up to 85 cm</td><td>4–6</td><td>0–2</td></tr>
-     <tr><td><b>M</b></td><td>85–90 cm</td><td>8</td><td>4</td></tr>
-     <tr><td><b>L</b></td><td>90–95 cm</td><td>10–12</td><td>6–8</td></tr>
-     <tr><td><b>XL</b></td><td>95–100 cm</td><td>14</td><td>10</td></tr>
-     <tr><td><b>2XL</b></td><td>100–105 cm</td><td>16</td><td>12</td></tr>
+     <tr><td><b>S</b></td><td>up to 87 cm</td><td>6</td><td>2</td></tr>
+     <tr><td><b>M</b></td><td>87–92 cm</td><td>8</td><td>4</td></tr>
+     <tr><td><b>L</b></td><td>92–97 cm</td><td>10</td><td>6</td></tr>
+     <tr><td><b>XL</b></td><td>97–102 cm</td><td>12</td><td>8</td></tr>
+     <tr><td><b>2XL</b></td><td>102–107 cm</td><td>14</td><td>10</td></tr>
     </tbody>
    </table>
   </div>
@@ -162,7 +162,7 @@
   <ul class="under">
    <li>Wear them for 30 nights. If they don’t hold, you get your money back. You keep the pairs.</li>
    <li id="lpo-ship">Free shipping. Arrives in about [X–Y] business days.</li>
-   <li>Wrong size? Send them back within your 30 nights for a swap or a refund.</li>
+   <li>Wrong size? We’ll send your new size free. Nothing to send back.</li>
   </ul>
 
   <!-- 5. LEAK-TEST -->
@@ -318,7 +318,7 @@ function box(){
   var s=SETS[sel], h='';
   h+='<div class="bi"><div class="im" style="background-image:url(\''+IMG.brief+'\')"></div><div><b>'+s.n+' Leapproof Briefs'+(size?', size '+size:'')+'</b><span>Black cotton briefs with lace on the hips and a leak-resistant lining that runs front to back. Wear them like your normal undies.</span></div></div>';
   if(sel>=5) h+='<div class="bi"><div class="im" style="background-image:url(\''+IMG.bag+'\')"></div><div><b>Wash Bag<span class="free">FREE</span></b><span>Zip them in and wash. Keeps them in shape in the machine, so they last.</span></div></div>';
-  if(sel>=10) h+='<div class="bi"><div class="im" style="background-image:url(\''+IMG.sheets+'\')"></div><div><b>Wash Sheets<span class="free">FREE</span></b><span>Unscented and softener-free. Fabric softener coats the lining and stops it working. These don’t. Arrives in a separate parcel.</span></div></div>';
+  if(sel>=10) h+='<div class="bi"><div class="im" style="background-image:url(\''+IMG.sheets+'\')"></div><div><b>Wash Sheets<span class="free">FREE</span></b><span>Lots of everyday detergents have softener mixed in, and softener coats the lining so it can’t soak up. These are unscented with no softener. Arrives in a separate parcel.</span></div></div>';
   if(sel===3) h+='<p class="sizenote" style="text-align:center">Free gifts start at 5 pairs. Switch to the Everyday Rotation for a free Wash Bag.</p>';
   $('lpo-box').innerHTML=h;
 }
@@ -353,10 +353,11 @@ function faq(){
    ['Will they feel bulky or show under my clothes?','<p>No pad, so nothing bulky. They’re cut like regular briefs with a wide, soft waistband and lace on the hips. Wear them under leggings, jeans or work pants.</p>'],
    ['Can I wear them to the gym or at night?','<p>Yes. Wear them for training, a run, a big day out or overnight. The lining runs from front to back with fuller coverage at the back.</p>'],
    ['Sizing',''],
-   ['How do I pick my size?','<p>Measure around the widest part of your hips and use the chart above. They run small, so go by the number, not the letter on your other undies.</p>'],
-   ['What if the size is wrong?','<p>Send them back within your 30 nights and we’ll swap the size or refund you.</p>'],
+   ['How do I pick my size?','<p>Measure around the widest part of your hips and use the chart above. Go by the number, not the letter on your other undies.</p><p>Between two sizes? Pick the smaller one. A snug pair sits close to you. A loose one can gap at the legs.</p>'],
+   ['What if the size is wrong?','<p>Email us within your 30 nights with your order number and the size you need. We’ll send your new size free. You don’t need to send the others back.</p><p>One free size swap per order.</p>'],
    ['Washing',''],
-   ['How do I wash them?','<p>Cold wash, in the Wash Bag if you have it. Skip the fabric softener: it coats the lining and stops it working. Hang them to dry. Don’t tumble dry.</p><p>Looked after like this, they’re made to be worn and washed again and again.</p>'],
+   ['How do I wash them?','<p>1. Rinse them in cold water after you take them off.<br>2. Zip them into the Wash Bag and machine wash cold (30°C max) on a gentle cycle.<br>3. Use a mild detergent with no softener, or the Wash Sheets.<br>4. Hang them to dry. No dryer, no bleach, no ironing.</p><p>Heat and softener are what wear the lining out. Skip both and they’re made to be worn and washed again and again.</p>'],
+   ['What are the Wash Sheets for?','<p>Lots of everyday detergents (especially 2-in-1s) have softener mixed in. Softener leaves a coating on the lining so it can’t soak up properly. The Wash Sheets are unscented with no softener, so you don’t have to check the label. They come free with 10 pairs.</p>'],
    ['What are they made of?','<p>95% cotton and 5% spandex, with a layered leak-resistant lining.</p>'],
    ['Money & delivery',''],
    ['What if they don’t work for me?','<p>Wear them through your real moments for 30 nights, starting the day they arrive. If they don’t hold, email us your order number and what happened. We refund your whole set, and you keep the pairs. One claim per customer.</p>'],
