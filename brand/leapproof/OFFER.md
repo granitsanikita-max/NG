@@ -3,13 +3,15 @@
 Locked 2026-10-10. **All figures in AUD.** Selling to top-5 markets (Shopify Markets shows each country its local price, settles in AUD).
 Supersedes all earlier versions. No single pairs. No Big-Day pair. Comeback Plan is digital.
 
+**v5 changes (Nikita, 2026-10-11):** gift ladder is now **3 = no gifts · 5 = Wash Bag · 10 = Wash Bag + Wash Sheets** (the 5-pack saves ~$16 of CJ sheet cost per order). CJ guarantee locked as the **30-Night Leak-Test** (full refund, keep the pairs, one claim per customer, starts on delivery). Comeback Plan stays out until a named PT makes it. Where this file and NUMBER_SHEET.md disagree, NUMBER_SHEET.md wins.
+
 ## 1. The ladder (LOCKED)
 
 | Tier | Name | Price | Per pair | You save | Gifts |
 |---|---|---|---|---|---|
-| 3 | **The Starter Set** | **$69** | $23.00 | the anchor | Wash Bag |
-| **5** | **The Everyday Rotation** ⭐ MOST POPULAR | **$89** | $17.80 | save $26 (23%) | Wash Bag + Wash Sheets + Comeback Plan |
-| 10 | **The Two-Week Rotation** 💎 BEST VALUE | **$159** | $15.90 | save $71 (31%) | Wash Bag + Wash Sheets + Comeback Plan |
+| 3 | **The Starter Set** | **$69** | $23.00 | the anchor | — |
+| **5** | **The Everyday Rotation** ⭐ OUR PICK | **$89** | $17.80 | save $26 (23%) | Wash Bag |
+| 10 | **The Full Rotation** 💎 BEST VALUE | **$159** | $15.90 | save $71 (31%) | Wash Bag + Wash Sheets |
 
 - Savings are honest maths off the $23/pair Starter rate. No fake compare-at prices.
 - Mix absorbency tiers and cuts inside any bundle; the quiz pre-fills it.
@@ -38,12 +40,12 @@ FTC: only state a $ value for an item sold standalone at that price (Wash Bag $1
 
 ## 3. Risk reversal (the hero of the offer)
 
-- **60-Night Leak-Test:** wear, wash, real leaks for 60 nights. Don't hold? Full refund, keep the pairs, nothing to ship back. (Lynmiss only; use a 30-day guarantee on the CJ test product.)
+- **30-Night Leak-Test (CJ launch, LOCKED v5):** wear them through your moment for 30 nights from delivery. If they don't hold, full refund, keep the pairs, nothing to send back. One claim per customer. Stop-loss: if claims pass 10% of the first 50 orders, pause ads and review. (60 nights only if/when the Lynmiss urine-rated brief launches.)
 - **Fit Promise:** one free size swap per order, new size shipped first. Kills the #3 sizing objection.
 
 ## 4. Upsells & retention
 
-- **Cart progress meter:** on a 3-pack → "Add 2 more pairs for $20 to unlock the Wash Sheets + Comeback Plan." Pushes 3 → 5.
+- **Cart progress meter:** on a 3-pack → "Add 2 more pairs for $20 and get the free Wash Bag." Pushes 3 → 5.
 - **Cart bump:** Overnight / Heavy-Day pair — **$25** (normally $45), same box.
 - **Shipping protection:** $2.95 opt-in, never pre-ticked.
 - **Post-purchase 1-click:** +3 pairs to the same box — **$59**. Downsell: Overnight pair $25.

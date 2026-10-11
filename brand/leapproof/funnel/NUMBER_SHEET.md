@@ -24,8 +24,9 @@ Option B loses money on the hero set at a $40 CAC before any refunds. If B is ch
 ## 3. Gifts
 | Gift | Sets | Dollar value shown | Ships |
 |---|---|---|---|
-| Wash Bag (name **"Seal-Saver"** only on Lynmiss, if the garment has sealed edges) | 3, 5, 10 | **None at launch** (PENDING): a "value" must be a price it has genuinely sold at for a reasonable time (ACL s29(1)(i), FTC 233.1). Add a value only after it has really sold at that price. | with the underwear |
-| Core-Care Wash Sheets (30, unscented) | 5, 10 | None at launch (same rule) | **separate parcel** |
+| Wash Bag (name **"Seal-Saver"** only on Lynmiss, if the garment has sealed edges) | **5, 10** (LOCKED v5, 2026-10-11) | **None at launch**: a "value" must be a price it has genuinely sold at for a reasonable time (ACL s29(1)(i), FTC 233.1). Add a value only after it has really sold at that price. | with the underwear |
+| Core-Care Wash Sheets (64, unscented) | **10 only** (LOCKED v5) | None at launch (same rule) | **separate parcel** |
+| The 3-pair Starter Set | **no gifts** | — | — |
 | The Comeback Plan (digital) | **REMOVED until it exists** (PENDING) | — | — |
 Value stacks at launch: no dollar stacks. Show what each gift does, not what it's "worth."
 If the Comeback Plan is later made with a named physio and genuinely sold: Everyday = $115 + gifts; Two-Week = $230 + gifts (recompute then).
@@ -34,7 +35,7 @@ If the Comeback Plan is later made with a named physio and genuinely sold: Every
 | Product | Name | Terms |
 |---|---|---|
 | **Lynmiss** | 60-Night Leak-Test | Wear and wash them through real leaks for 60 nights **from delivery**. If they don't hold, email us your order number and what happened. Full refund of the set (and bump/upsell pairs); **keep the pairs, nothing to send back.** One claim per customer. |
-| **CJ** (PENDING choice) | 30-Day Leak-Test | Same as above but 30 days from delivery. Keep-the-pairs on CJ carries refund risk (period panty); stop-loss below. Alternative: refund on return of the set within 30 days (weaker, doesn't answer "will it hold"). |
+| **CJ** (**LOCKED v5, 2026-10-11 — this row is live**) | **30-Night Leak-Test** | "Wear them through your moment for 30 nights. If they don't hold, you get your money back." Terms: 30 nights **from delivery**; full refund of the set (and bump/upsell pairs); **keep the pairs, nothing to send back**; one claim per customer. Stop-loss below. |
 - **Stop-loss:** if refund claims pass **10% of the first 50 orders**, pause ads and review before spending more.
 - **Fit Promise:** one free size swap per order. We ship the new size first; **no need to send the first pair back**. Cost to us: ~$9.79 per single-pair reship from CJ.
 
@@ -118,6 +119,11 @@ Always "period pads/period underwear," never bare "pads," when talking about the
 |---|---|
 | Quiz length | "about 2 minutes" (CJ: 12 questions; Lynmiss: 13; plus cards) |
 | Loader | 7 seconds, 4 lines |
+
+## 12b. Links
+| Item | Value |
+|---|---|
+| Quiz page (every landing-page CTA points here) | https://leepproof.myfunnelish.com/quiz-2891028289-1791612140998314 |
 
 ## 13. Product facts — CJ brief (REAL, from the CJ listing; single source for all product copy)
 | Fact | Value | Notes / claim rule |
