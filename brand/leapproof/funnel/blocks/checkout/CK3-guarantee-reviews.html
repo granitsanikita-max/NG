@@ -41,14 +41,14 @@
    Format: { title:'…', text:'…', name:'Jess M.', age:34, size:'L', stars:5 }, */
 var REVIEWS = [
 ];
-/* SAMPLE reviews: layout preview ONLY. They show only when the page URL has ?preview=1, never to real visitors. Delete once real reviews are in. */
+/* SAMPLE reviews: layout preview ONLY. They show only when the page URL has ?lpdemo=1 (not ?preview — Funnelish 404s on that), never to real visitors. Delete once real reviews are in. */
 var SAMPLES = [
  { title:'Laughed till I cried at book club.', text:'Wine, a funny story, and normally that’s me legging it to the loo mid-laugh. This time I didn’t even think about it. They look so thin I was sceptical, but they just feel like my normal undies.', name:'Kate B.', age:36, size:'M', stars:5 },
  { title:'Still the same after weeks of washing.', text:'The last “leak-proof” ones I bought went limp after a few washes. I’ve been washing these every few days for three weeks, cold and hung out on the line, and they’re exactly the same. I wear them to bed after my evening walk too and don’t wake up feeling like I’m in a nappy.', name:'Lisa H.', age:44, size:'L', stars:5 },
  { title:'I was spending a fortune on pads.', text:'I was buying pads from the chemist every week and feeling guilty about the bin. These turned up in 9 days, a real person replied when I emailed about my size, and the 30 nights meant I wasn’t risking a cent.', name:'Bec D.', age:39, size:'XL', stars:5 }
 ];
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
-var list = REVIEWS.length ? REVIEWS : (/[?&]preview=1/.test(location.search) ? SAMPLES : []);
+var list = REVIEWS.length ? REVIEWS : (/[?&]lpdemo=1/.test(location.search) ? SAMPLES : []);
 if(!list.length) return;
 document.getElementById('ck3-list').innerHTML = list.map(function(r){
   var n=Math.max(1,Math.min(5,r.stars||5));

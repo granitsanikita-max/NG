@@ -1,7 +1,7 @@
 # Leapproof — Checkout copy v1 (Funnelish checkout template, 3 pages: 3 / 5 / 10)
 
 Blocks to paste (blocks/checkout/): CK1 header (top) · CK2 arrival + size (top of right column) · CK3 guarantee + reviews (under the button) · CK4 footer (bottom). Same 4 blocks on all 3 checkouts.
-Reviews in CK3 show only with `?preview=1` until REVIEWS has real ones. Never launch samples.
+Reviews in CK3 show only with `?lpdemo=1` (Funnelish 404s on `?preview`) until REVIEWS has real ones. Never launch samples.
 
 ## Native text edits (all 3 checkouts)
 | Template text | Change to |
