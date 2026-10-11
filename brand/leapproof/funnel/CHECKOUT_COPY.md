@@ -46,3 +46,4 @@ No bump (the 1-click upgrade after payment offers +2 for $20 = 5 pairs for $89; 
 ## Urgency (true only)
 - CK2: live arrival window, today + 7 to 12 business days ("Arrives Tue 20 Oct – Tue 27 Oct"), plus the dated picture "By [date], you could be sneezing without crossing your legs."
 - No timers, no stock counts, no "reserved for 10:00" (kill check #4, ACL).
+- Checkout sample reviews (preview only) cover laugh/feel, washing/night, price/trust. Landing mockups already used: trampoline/'for my nan', burned-before/gym bag, supermarket sneeze/XL fit. Never repeat a moment across pages.
