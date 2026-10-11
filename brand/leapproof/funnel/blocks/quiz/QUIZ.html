@@ -1,0 +1,221 @@
+<!-- Leapproof quiz v1 · paste this whole block into ONE Funnelish Custom HTML element on the Quiz page.
+     EDIT the one line below marked EDIT once the product page exists. -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;500;600;700&display=swap');
+#lpq{--ink:#231017;--claret:#A33154;--claret-d:#872845;--cream:#F5EDE6;--blush:#E7CFC9;--taupe:#8C6A6C;
+  font-family:'Hanken Grotesk',Arial,sans-serif;color:var(--ink);background:var(--cream);padding:28px 16px 48px;min-height:80vh;box-sizing:border-box;-webkit-font-smoothing:antialiased}
+#lpq *{box-sizing:border-box;margin:0;padding:0}
+#lpq .w{max-width:620px;margin:0 auto}
+#lpq .top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:10px;min-height:22px}
+#lpq .back{flex:0 0 56px;text-align:left;white-space:nowrap;background:none;border:0;color:var(--taupe);font:600 14px 'Hanken Grotesk',Arial,sans-serif;cursor:pointer;padding:4px 0}
+#lpq .chap{white-space:nowrap;font-size:11.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--claret-d)}
+#lpq .bar{height:6px;background:var(--blush);border-radius:6px;overflow:hidden;margin-bottom:30px}
+#lpq .bar i{display:block;height:100%;width:0;background:var(--claret);border-radius:6px;transition:width .35s}
+#lpq h1,#lpq h2{font-family:'Fraunces',Georgia,serif;font-weight:600;line-height:1.15;letter-spacing:-.01em;text-align:center}
+#lpq h1{font-size:clamp(30px,6.5vw,42px);margin-bottom:14px}
+#lpq h2{font-size:clamp(25px,5.6vw,34px);margin-bottom:10px}
+#lpq h1 em,#lpq h2 em{font-weight:500;font-style:italic;color:var(--claret)}
+#lpq .sub{text-align:center;color:var(--taupe);font-size:17px;line-height:1.5;margin-bottom:26px}
+#lpq .opts{display:grid;gap:12px}
+#lpq .opt{display:flex;align-items:center;gap:14px;width:100%;text-align:left;background:#fff;border:2px solid #fff;border-radius:14px;padding:17px 18px;font:600 17px/1.35 'Hanken Grotesk',Arial,sans-serif;color:var(--ink);cursor:pointer;box-shadow:0 2px 10px rgba(35,16,23,.06);transition:border-color .15s,background .15s}
+#lpq .opt:hover{border-color:var(--blush)}
+#lpq .opt .ck{flex:0 0 24px;height:24px;border-radius:50%;border:2px solid var(--blush);display:flex;align-items:center;justify-content:center}
+#lpq .opt.multi .ck{border-radius:7px}
+#lpq .opt small{display:block;font-weight:400;font-size:14px;color:var(--taupe);margin-top:2px}
+#lpq .opt.on{border-color:var(--claret);background:#FBF5F2}
+#lpq .opt.on .ck{background:var(--claret);border-color:var(--claret)}
+#lpq .opt.on .ck::after{content:'';width:10px;height:6px;border:solid #fff;border-width:0 0 2.5px 2.5px;transform:rotate(-45deg) translate(1px,-1px)}
+#lpq .btn{display:block;width:100%;max-width:420px;margin:26px auto 0;background:var(--claret);color:#fff;border:0;border-radius:12px;padding:17px 20px;min-height:54px;font:700 18px 'Hanken Grotesk',Arial,sans-serif;cursor:pointer;text-align:center;text-decoration:none}
+#lpq .btn:hover{background:var(--claret-d)}
+#lpq .btn[disabled]{opacity:.35;cursor:default}
+#lpq .btn.ghost{background:none;color:var(--claret);border:2px solid var(--claret);margin-top:12px}
+#lpq .micro{text-align:center;font-size:14px;color:rgba(35,16,23,.7);margin-top:12px;line-height:1.5}
+#lpq .card{background:var(--ink);color:var(--cream);border-radius:18px;padding:34px 26px;text-align:center}
+#lpq .card h2{color:var(--cream)}
+#lpq .card p{font-size:18px;line-height:1.55;margin-top:12px}
+#lpq .card .big{font-family:'Fraunces',Georgia,serif;font-size:24px;line-height:1.3;color:#fff;margin-top:18px}
+#lpq .card .src{font-size:12.5px;color:var(--blush);margin-top:20px;line-height:1.5}
+#lpq .card.light{background:#fff;color:var(--ink)}
+#lpq .card.light h2{color:var(--ink)}
+#lpq .card.light .big{color:var(--claret)}
+#lpq .card.light .src{color:var(--taupe)}
+#lpq .load{text-align:center;padding-top:20px}
+#lpq .load li{list-style:none;font-size:18px;margin:16px 0;color:var(--taupe);opacity:.35;transition:opacity .4s,color .4s}
+#lpq .load li.on{opacity:1;color:var(--ink)}
+#lpq .load li.on::before{content:'✓ ';color:var(--claret);font-weight:700}
+#lpq .fade{animation:lpqf .3s ease}
+@keyframes lpqf{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media(min-width:700px){#lpq{padding-top:40px}#lpq .opts.two{grid-template-columns:1fr 1fr}}
+</style>
+
+<div id="lpq"><div class="w" id="lpq-w"></div></div>
+
+<script>
+(function(){
+/* EDIT: the product page path once it exists (keep the leading slash). */
+var NEXT_URL = '/product';
+
+var CH = ['Your moment','What’s really happening','Your fit and your week'];
+var Q = [
+ {id:'q1',ch:0,t:'What were you doing the last time it caught you out?',s:'Tap the one that feels most familiar.',o:[
+   ['s','Sneezing or coughing'],['l','Laughing with friends'],['j','Jumping, running or the gym'],['a','Honestly? All of the above']]},
+ {id:'q2',ch:0,t:'When did it start?',s:'It changes how we explain your match. Not your price.',o:[
+   ['c','After having my baby (or babies)'],['r','In the last few years, out of nowhere'],['t','When I started training harder'],['u','It’s been around as long as I can remember'],['x','I’d rather not say']]},
+ {card:'normal'},
+ {id:'q3',ch:0,multi:1,t:'What have you tried so far?',s:'Pick all that apply. So we don’t suggest something you already hated.',o:[
+   ['p','Pads or liners'],['d','Period underwear'],['k','“Leak-proof” underwear that still leaked'],['f','Pelvic-floor physio or exercises'],['g','Going to the toilet “just in case”'],['x','Crossing my legs and hoping'],['n','Nothing yet',1]]},
+ {card:'react'},
+ {id:'q4',ch:1,t:'On a normal day, how much is it?',s:'Be honest. It tells us whether these will suit you.',o:[
+   ['1','A few drops'],['2','A small splash on a big sneeze or jump'],['3','More than a splash. A liner can’t keep up'],['4','It can be a lot, like I can’t stop it']]},
+ {card:'heavy',when:function(A){return A.q4==='4'}},
+ {id:'q5',ch:1,multi:1,t:'Where does it catch you out?',s:'Pick all that apply.',o:[
+   ['s','At the shops'],['g','At the gym or on a run'],['k','Playing with the kids'],['f','Out with friends'],['w','At work'],['n','At night, or getting up fast']]},
+ {card:'play'},
+ {id:'q6',ch:1,t:'How many times have you bought something that promised to fix this?',s:'So we show you proof, not promises.',o:[
+   ['0','Never. This is my first try'],['1','Once or twice'],['2','More times than I’d like to admit'],['3','I’ve stopped believing anything works']]},
+ {id:'q7',ch:1,t:'What’s stopped you trying something new?',s:'Whatever it is, we’ll answer it straight on your results.',o:[
+   ['n','They’ll feel like a nappy'],['b','They’ll show under leggings'],['l','I’ve bought stuff that leaked anyway'],['f','Things never fit. They ride up or roll down'],['m','I figured it’s just normal now'],['c','It’s a lot of money for underwear']]},
+ {id:'q8',ch:1,multi:1,t:'What have you said no to because of it?',s:'Pick all that apply.',o:[
+   ['c','A class, a run or a session'],['t','The trampoline with the kids'],['p','Lighter-coloured pants'],['l','A proper belly laugh'],['d','A long day out with no toilet nearby'],['n','Nothing yet, and I’d like to keep it that way',1]]},
+ {id:'q9',ch:2,t:'When would you wear them?',s:'With your washing, this tells us how many pairs keep you covered.',o:[
+   ['e','Every day'],['t','On training days'],['n','At night'],['m','A mix']]},
+ {id:'q10',ch:2,t:'Which size fits your hips?',s:'Measure around the fullest part of your hips. These run small, so go by the measurement, not the letter on your other undies.',o:[
+   ['S','S','Hips up to 85 cm · AU 4–6 · US 0–2'],['M','M','Hips 85–90 cm · AU 8 · US 4'],['L','L','Hips 90–95 cm · AU 10–12 · US 6–8'],['XL','XL','Hips 95–100 cm · AU 14 · US 10'],['2XL','2XL','Hips 100–105 cm · AU 16 · US 12'],['O','Over 105 cm']]},
+ {card:'nosize',when:function(A){return A.q10==='O'}},
+ {card:'fit'},
+ {id:'q11',ch:2,t:'What matters most to you in a pair?',o:[
+   ['h','That they hold'],['n','That they feel like normal underwear'],['s','That they stay put when I move'],['w','That they’re easy to wash and last']]},
+ {id:'q12',ch:2,t:'How often do you do a wash?',o:[
+   ['f','Every few days'],['w','Once a week'],['r','As rarely as I can (no judgement)']]},
+ {id:'q13',ch:2,t:'What’s the first thing you’ll do when you stop worrying about it?',s:'Last one.',o:[
+   ['t','Get on the trampoline with the kids'],['c','Go all out in my next class or run'],['l','Laugh as hard as I want'],['w','Wear what I want, without planning around it'],['s','Just stop thinking about it']]},
+ {card:'load'}
+];
+var TOTAL = Q.filter(function(x){return x.id}).length;
+var A = {}, hist = [], i = -1;
+var W = document.getElementById('lpq-w');
+try{ var saved = JSON.parse(sessionStorage.getItem('lpq')||'null'); if(saved){A=saved.A||{};} }catch(e){}
+function save(){ try{sessionStorage.setItem('lpq',JSON.stringify({A:A}))}catch(e){} }
+function has(id,code){ var v=A[id]; return Array.isArray(v)?v.indexOf(code)>-1:v===code }
+function setsize(){
+  var wear=A.q9, wash=A.q12;
+  if(wash==='r') return 10;
+  if(wash==='w' && (wear==='e'||wear==='n'||wear==='m')) return 10;
+  return 5;
+}
+function persona(){ return {c:'c',r:'r',t:'t'}[A.q2]||'u' }
+
+function head(ch,num){
+  var pct = num ? Math.round(num/TOTAL*100) : 100;
+  return '<div class="top"><button class="back" type="button" onclick="lpqBack()">'+(hist.length?'‹ Back':'')+'</button>'+
+    '<span class="chap">'+(ch!=null?CH[ch]+' · '+num+' of '+TOTAL:'')+'</span><span style="flex:0 0 56px"></span></div>'+
+    '<div class="bar"><i style="width:'+pct+'%"></i></div>';
+}
+function qnum(idx){ var n=0; for(var k=0;k<=idx;k++) if(Q[k].id) n++; return n }
+
+function intro(){
+  W.innerHTML='<div class="fade" style="padding-top:20px">'+
+   '<h1>Let’s find the pair you <em>forget</em> you’re wearing.</h1>'+
+   '<p class="sub">A few quick questions about your moments. Then you’ll see your size, how many pairs you need, and your free gifts.</p>'+
+   '<button class="btn" type="button" onclick="lpqNext()">Start my match</button>'+
+   '<p class="micro">About 2 minutes · No email needed to see your match</p>'+
+   '<p class="micro" style="font-size:12.5px">This isn’t a medical assessment. It matches you to underwear.</p></div>';
+}
+
+function cardHTML(kind){
+  var p = persona();
+  if(kind==='normal'){
+    var c = {
+      c:['You’re not the only one.','About 1 in 3 women leak after having a baby.¹ Plumbing, not a verdict.','¹ A review of studies of leaking 6 weeks to 1 year after birth. Moossdorff-Steinhauser et al., Int Urogynecol J, 2021 (PMC8295150).'],
+      r:['It’s not just you.','Leaking gets more common as hormones change.¹ It still isn’t something you just have to put up with.','¹ US national survey data, NHANES (PMC3505252).'],
+      t:['Strong women leak too.','Studies put it at about 1 in 3 up to nearly half of women who do CrossFit.¹ It’s pressure, not weakness.','¹ Two reviews of studies: Archivos Españoles de Urología 2022 (PubMed 35173077); Int Urogynecol J 2023 (PubMed 35635565).'],
+      u:['Here’s what nobody tells you.','Leaking is “NEVER considered normal.” — Ridgeview Medical Center¹','¹ Ridgeview Medical Center, “Coughing, laughing or sneezing shouldn’t cause peeing”. Not connected to Leapproof.']
+    }[p];
+    return '<div class="card"><h2>'+c[0]+'</h2><p>'+c[1]+'</p><p class="big">Common. Not normal. And you don’t have to just live with it.</p><p class="src">'+c[2]+'</p></div>'+
+      '<button class="btn" type="button" onclick="lpqNext()">Keep going</button>';
+  }
+  if(kind==='react'){
+    var t;
+    if(has('q3','p')) t='Pads bunch, feel like a nappy, and go in the bin every day. If they never felt right, that was never on you.';
+    else if(has('q3','g')||has('q3','x')) t='You shouldn’t have to plan your day around a sneeze. Let’s sort the part you can sort today.';
+    else if(has('q3','f')) t='Good. Keep going. Physio builds the strength. This is what you wear while you do.';
+    else if(has('q3','d')||has('q3','k')) t='Plenty of women try that first. Let’s find what actually suits your moments.';
+    else t='Then you’re starting in exactly the right place.';
+    return '<div class="card light"><h2>Got it.</h2><p class="big">'+t+'</p></div><button class="btn" type="button" onclick="lpqNext()">Next</button>';
+  }
+  if(kind==='heavy'){
+    return '<div class="card light"><h2>Thanks for being straight with us.</h2><p>These are made for lighter leaks. For what you’ve described, they may not be enough on their own, and a GP or pelvic-floor physio is worth a chat.</p><p>You can still see your match.</p></div><button class="btn" type="button" onclick="lpqNext()">See my match anyway</button>';
+  }
+  if(kind==='play'){
+    var n = (A.q5||[]).length;
+    var lead = n>1 ? 'That’s '+n+' places you’ve been bracing for it.' : 'That’s a place you’ve been bracing for it.';
+    return '<div class="card"><h2>'+lead+'</h2><p>These moments come with no warning. Whatever you wear has to already be on when they hit.</p><p class="big">So let’s make sure it’s the right pair.</p></div><button class="btn" type="button" onclick="lpqNext()">That’s me</button>';
+  }
+  if(kind==='nosize'){
+    return '<div class="card light"><h2>We’d rather tell you now.</h2><p>This pair only goes up to 2XL (hips 105 cm). We won’t send you a pair that doesn’t fit.</p></div><button class="btn ghost" type="button" onclick="lpqBack()">Change my size</button>';
+  }
+  if(kind==='fit'){
+    return '<div class="card"><h2>And if the size is off?</h2><p class="big">We’ll send the right one first. No need to send the other back.</p></div><button class="btn" type="button" onclick="lpqNext()">Good to know</button>';
+  }
+  return '';
+}
+
+function loader(){
+  var L=['Matching your moments…','Sizing you to this pair’s chart…','Working out how many pairs fit your week…','Your free gifts are unlocked.'];
+  W.innerHTML='<div class="fade load"><h2>Finding your match</h2><ul>'+L.map(function(x){return '<li>'+x+'</li>'}).join('')+'</ul></div>';
+  var li=W.querySelectorAll('li'), k=0;
+  var tm=setInterval(function(){ if(k<li.length){li[k].className='on';k++;} else {clearInterval(tm); go();} },1300);
+}
+function go(){
+  var r = Q.filter(function(x){return x.id}).map(function(x){var v=A[x.id]; return Array.isArray(v)?v.join(''):(v||'-')}).join('.');
+  var u; try{ u = new URL(NEXT_URL, location.href); }catch(e){ location.href=NEXT_URL; return; }
+  u.searchParams.set('size', A.q10||'');
+  u.searchParams.set('set', String(setsize()));
+  u.searchParams.set('p', persona());
+  u.searchParams.set('o', A.q7||'');
+  u.searchParams.set('k', A.q11||'');
+  u.searchParams.set('w', A.q13||'');
+  u.searchParams.set('r', r);
+  var src = new URLSearchParams(location.search);
+  ['a','mk'].forEach(function(k){ if(src.get(k)) u.searchParams.set(k, src.get(k)); });
+  location.href = u.toString();
+}
+
+function render(){
+  if(i<0){ intro(); return; }
+  var s = Q[i];
+  if(s.card==='load'){ W.innerHTML=head(null,0); loader(); return; }
+  if(s.card){ W.innerHTML='<div class="fade">'+head(null,qnum(i))+cardHTML(s.card)+'</div>'; return; }
+  var num=qnum(i), cur=A[s.id];
+  var html='<div class="fade">'+head(s.ch,num)+'<h2>'+s.t+'</h2>'+(s.s?'<p class="sub">'+s.s+'</p>':'<div style="height:16px"></div>')+
+    '<div class="opts'+(s.o.length>4&&!s.o[0][2]?' two':'')+'">';
+  s.o.forEach(function(o){
+    var on = s.multi ? (cur||[]).indexOf(o[0])>-1 : cur===o[0];
+    html+='<button type="button" class="opt'+(s.multi?' multi':'')+(on?' on':'')+'" data-c="'+o[0]+'"><span class="ck"></span><span>'+o[1]+(typeof o[2]==='string'?'<small>'+o[2]+'</small>':'')+'</span></button>';
+  });
+  html+='</div>';
+  if(s.multi) html+='<button class="btn" type="button" id="lpq-go" '+((cur&&cur.length)?'':'disabled')+'>Continue</button>';
+  W.innerHTML=html+'</div>';
+  W.querySelectorAll('.opt').forEach(function(b){
+    b.addEventListener('click',function(){
+      var c=b.getAttribute('data-c');
+      if(s.multi){
+        var v=(A[s.id]||[]).slice(), excl=s.o.filter(function(o){return o[2]===1}).map(function(o){return o[0]});
+        if(excl.indexOf(c)>-1){ v = v.indexOf(c)>-1?[]:[c]; }
+        else { v=v.filter(function(x){return excl.indexOf(x)<0}); var at=v.indexOf(c); if(at>-1)v.splice(at,1); else v.push(c); }
+        A[s.id]=v; save(); render();
+      } else {
+        A[s.id]=c; save();
+        W.querySelectorAll('.opt').forEach(function(x){x.classList.remove('on')}); b.classList.add('on');
+        setTimeout(lpqNext,260);
+      }
+    });
+  });
+  var g=document.getElementById('lpq-go'); if(g) g.addEventListener('click',lpqNext);
+}
+function skipTo(n){ while(n<Q.length && Q[n].when && !Q[n].when(A)) n++; return n }
+window.lpqNext=function(){ hist.push(i); i=skipTo(i+1); render(); try{document.getElementById('lpq').scrollIntoView({behavior:'smooth'})}catch(e){} };
+window.lpqBack=function(){ if(!hist.length) return; i=hist.pop(); render(); };
+render();
+})();
+</script>
