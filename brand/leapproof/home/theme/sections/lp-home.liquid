@@ -1,5 +1,5 @@
 {%- comment -%}
-  Leapproof home page v2 (one section, all copy). Source of truth for the words: brand/leapproof/home/HOMEPAGE_COPY.md
+  Leapproof home page v3 (one section, all copy). Source of truth for the words: brand/leapproof/home/HOMEPAGE_COPY.md
   Every number comes from brand/leapproof/funnel/NUMBER_SHEET.md. Edit both together.
   Sample tester cards render only when the "Show SAMPLE tester cards" setting is on AND the URL has ?lpdemo=1.
   Before this theme goes live: swap them for real tester reviews (or switch the setting off).
@@ -17,17 +17,19 @@
            srcset="{{ cdn }}lp-home-hero-laugh.jpg?v=1791804639&width=600 600w, {{ cdn }}lp-home-hero-laugh.jpg?v=1791804639&width=1100 1100w"
            sizes="(min-width: 900px) 46vw, 100vw" width="1080" height="1350"
            alt="Two women laughing on a sunny sidewalk, holding to-go coffees" fetchpriority="high">
-      <p class="lph-cap--on">Mid-laugh. Not mid-clench.</p>
+      <figure class="lph-inset">
+        <img src="{{ cdn }}leapproof-brief.png?v=1791795349&width=300" width="1000" height="1000" alt="The Leapproof Brief, a plain black brief">
+        <figcaption>The Leapproof Brief: plain black, lining built in.</figcaption>
+      </figure>
     </div>
     <div class="lph-hero__copy">
       <p class="lph-eyebrow">Leak-resistant underwear for lighter leaks · US sizes 0–20</p>
       <h1 id="lph-h1" class="lph-h1">Go ahead and sneeze.<span>No crossing your legs first.</span></h1>
-      <p class="lph-sub lph-sub--long">Soft black briefs with a leak-resistant lining built in. No pad, nothing to change. Made for the few drops a sneeze, a laugh or a jump can bring. Wear them for 30 nights. If they don’t hold, you get your money back and keep the pairs.</p>
-      <p class="lph-sub lph-sub--short">Soft black briefs with a leak-resistant lining built in. No pad. Wear them for 30 nights. If they don’t hold, you get your money back and keep the pairs.</p>
+      <p class="lph-sub">Soft black briefs with a leak-resistant lining built in, so there’s no pad. Test them on your own sneeze for 30 nights. If they don’t hold, get your money back and keep the pairs.</p>
       <a class="lph-btn" href="{{ quiz }}">Find my size + set</a>
-      <p class="lph-micro">2-minute quiz · No email needed · Sets from $45</p>
+      <p class="lph-micro">About 2 minutes · No email needed to see your match · Sets from $45</p>
       <ul class="lph-risk">
-        <li>30-Night Leak-Test</li><li>Free US shipping</li><li>Pay once, no subscription</li>
+        <li>Free size swap</li><li>Free US shipping</li><li>Pay once, no subscription</li>
       </ul>
     </div>
   </section>
@@ -36,13 +38,13 @@
   <section class="lph-sec lph-white" id="moments">
     <div class="lph-w">
       <p class="lph-eyebrow">Sound familiar?</p>
-      <h2 class="lph-h2">Made for the moments you’ve been bracing for.</h2>
-      <p class="lph-lead">Usually it’s not a puddle. It’s a few drops at the worst possible time, and a little wet patch you hope looks like sweat. That’s what these are made for.</p>
+      <h2 class="lph-h2">The moments you can stop bracing for.</h2>
+      <p class="lph-lead">Usually it’s not a puddle. It’s a few drops at the worst possible time, and a little wet patch you hope looks like sweat. These are made for exactly that: a few drops to a small splash.</p>
       <div class="lph-moments">
         <article class="lph-mo">
           <h3>The sneeze in the cereal aisle.</h3>
           <p class="lph-before"><b>Before:</b> you freeze, squeeze, and hope your shirt is long enough.</p>
-          <p class="lph-after"><b>In Leapproof:</b> you sneeze, say “bless me,” and keep shopping.</p>
+          <p class="lph-after"><b>In Leapproof:</b> you sneeze and keep shopping.</p>
         </article>
         <article class="lph-mo">
           <h3>The trampoline at the birthday party.</h3>
@@ -55,9 +57,14 @@
           <p class="lph-after"><b>In Leapproof:</b> you pick up the rope with everyone else.</p>
         </article>
         <article class="lph-mo">
+          <h3>The coughing fit at 2 a.m.</h3>
+          <p class="lph-before"><b>Before:</b> baby in one arm, you cough into the other and squeeze.</p>
+          <p class="lph-after"><b>In Leapproof:</b> you just cough.</p>
+        </article>
+        <article class="lph-mo">
           <h3>The last mile of your Saturday run.</h3>
           <p class="lph-before"><b>Before:</b> you plan the route around bathrooms and run the last mile clenched.</p>
-          <p class="lph-after"><b>In Leapproof:</b> you just finish the run.</p>
+          <p class="lph-after"><b>In Leapproof:</b> you run it like the first mile.</p>
         </article>
         <article class="lph-mo">
           <h3>The belly laugh at dinner.</h3>
@@ -65,7 +72,6 @@
           <p class="lph-after"><b>In Leapproof:</b> you laugh at the whole joke.</p>
         </article>
       </div>
-      <p class="lph-qual">Made for lighter leaks: a few drops to a small splash. The quiz asks about yours.</p>
     </div>
   </section>
 
@@ -73,11 +79,11 @@
   <section class="lph-sec lph-blush lph-tight" id="normal">
     <div class="lph-w lph-narrow">
       <h2 class="lph-h2">Common? Yes. Normal? No.</h2>
-      <p>About 1 in 3 women leak after having a baby.<sup><a href="#lph-src">1</a></sup> It gets more common with age.<sup><a href="#lph-src">2</a></sup> And it gets brushed off as “just part of it.”</p>
-      <blockquote class="lph-quote">Leaking is “NEVER considered normal.”<sup><a href="#lph-src">3</a></sup><cite>Ridgeview Medical Center</cite></blockquote>
-      <p>You’re not broken. You had a baby, or you lift heavy, or your hormones moved the goalposts. That’s plumbing, not a verdict on you.</p>
+      <p>About 1 in 3 women leak after having a baby.<sup><a href="#lph-src">1</a></sup> It gets brushed off as “just part of it.”</p>
+      <blockquote class="lph-quote">Leaking is “NEVER considered normal.”<sup><a href="#lph-src">2</a></sup><cite>Ridgeview Medical Center</cite></blockquote>
+      <p>You’re not broken. You had a baby, you lift heavy, or perimenopause moved the goalposts. It’s plumbing, not a verdict on you.</p>
       <div class="lph-box">
-        <p>If you can, see a pelvic floor physical therapist. Until then, you shouldn’t have to sit out your own life. That’s what these are for.</p>
+        <p>If you can, see a pelvic floor physical therapist. Until then, you shouldn’t have to sit out your own life.</p>
       </div>
     </div>
   </section>
@@ -91,14 +97,38 @@
       <ol class="lph-truths">
         <li><h3>They’re made for lighter leaks.</h3><p>A few drops to a small splash. If yours is more than that, these may not be enough on their own.</p></li>
         <li><h3>We ship from overseas.</h3><p>Shipping is free, and most orders arrive in about 6–10 days. Not next-day.</p></li>
-        <li><h3>We’re new.</h3><p>There are no customer reviews yet. Our first testers got a free set, and when their reviews go up, every one will say so.</p></li>
-        <li><h3>Our letters run small.</h3><p>An XL here fits about a US 12–14. So we size by your hips, and if the size is wrong, we’ll send your new size free.</p></li>
+        <li><h3>We’re new.</h3><p>No reviews from paying customers yet. Our first reviews come from testers who got a free set, and each one says so.</p></li>
+        <li><h3>Our letter sizes run small, so skip them.</h3><p>A US 12–14 is our XL, a US 16 is our XXL, a US 18 is our 3XL, a US 20 is our 4XL. We size by your hips, and if it’s wrong, we’ll send your new size free.</p></li>
       </ol>
-      <p class="lph-lead lph-mb0">We’d rather lose a sale than sell you the wrong thing. That’s why the 30-Night Leak-Test exists.</p>
+      <div class="lph-box lph-box--ink">
+        <p class="lph-boxq">Will these go right through like the last ones?</p>
+        <p>We can’t show you a lab number yet, and we won’t fake one. So test them on your own sneeze, your own double-unders. If they go right through, email us. You get your money back and keep the pairs.</p>
+      </div>
     </div>
   </section>
 
-  <!-- 5. WHAT THEY ARE (+ vs pads) -->
+  {%- if section.settings.show_sample_reviews -%}
+  <!-- 5. TESTERS: SAMPLE cards for the mockup only (shown with ?lpdemo=1). Replace with real Founding 30 reviews, word for word, before launch. -->
+  <section class="lph-sec lph-white" id="lph-testers" hidden>
+    <div class="lph-w">
+      <h2 class="lph-h2 lph-c">What our first testers said. Each got a free set.</h2>
+      <p class="lph-c lph-small">Every tester was asked for an honest review at any star rating. We don’t hide reviews for being negative.</p>
+      <div class="lph-revs">
+        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-1.jpg?v=1791804638&width=500" width="672" height="900" loading="lazy" alt="Three black briefs on a bed next to an open mailer">
+          <blockquote>“Skeptical, because the last ‘leak-proof’ pair I bought went straight through. These look like my normal black undies. Did a full class of double-unders on Tuesday and didn’t think about it once.”</blockquote>
+          <figcaption>Jess M. · Size M · Received a free set to test</figcaption></figure>
+        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-2.jpg?v=1791804638&width=500" width="672" height="900" loading="lazy" alt="A black brief and the Wash Bag on a kitchen counter">
+          <blockquote>“Got the 5. The waistband is soft and they don’t look like anything special, which is exactly what I wanted. I’m usually a US 8 and the L fits.”</blockquote>
+          <figcaption>Sarah W. · Size L · Received a free set to test</figcaption></figure>
+        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-3.jpg?v=1791804639&width=500" width="672" height="900" loading="lazy" alt="Mirror photo showing the black waistband">
+          <blockquote>“I’m a US 18 and expected nothing to fit. The 3XL fits like my normal briefs. Still testing them on my runs, will update.”</blockquote>
+          <figcaption>Renee T. · Size 3XL · Received a free set to test</figcaption></figure>
+      </div>
+    </div>
+  </section>
+  {%- endif -%}
+
+  <!-- 6. WHAT THEY ARE (+ vs pads) -->
   <section class="lph-sec lph-white" id="what">
     <div class="lph-w lph-split">
       <div class="lph-prod">
@@ -109,14 +139,12 @@
         <h2 class="lph-h2">They look like plain black briefs. On purpose.</h2>
         <p class="lph-lead">No pad to stick in, nothing to swap out. The lining is part of the underwear.</p>
         <ul class="lph-ticks">
-          <li><b>Soft and stretchy.</b> 95% regenerated fiber (a soft viscose-type fiber), 5% spandex.</li>
-          <li><b>The lining is built in.</b> A leak-resistant lining, so there’s nothing to stick in or throw away.</li>
+          <li><b>Soft and stretchy.</b> 95% regenerated fiber (viscose-type), 5% spandex.</li>
           <li><b>A soft, smooth waistband.</b> No lace, no trim.</li>
           <li><b>Cut like regular briefs.</b> Wear them under leggings, jeans or work pants.</li>
           <li><b>Wash, wear, repeat.</b> Machine wash cold in a mesh bag and wear them again.</li>
           <li><b>US sizes 0–20.</b> Sized by your hip measurement (S to 4XL).</li>
         </ul>
-        <p class="lph-honest">Made for lighter leaks: a few drops to a small splash on a sneeze, laugh or jump. If it’s more than that, these may not be enough on their own, and we’d rather tell you now.</p>
       </div>
     </div>
     <div class="lph-w lph-narrow lph-vs">
@@ -125,7 +153,7 @@
       <table class="lph-table">
         <thead><tr><th scope="col"><span class="lph-sr">What matters</span></th><th scope="col">Pads &amp; liners</th><th scope="col" class="lph-us">Leapproof</th></tr></thead>
         <tbody>
-          <tr><th scope="row">How they feel</th><td>Bunch, shift and rustle</td><td class="lph-us">Like your regular undies</td></tr>
+          <tr><th scope="row">How they’re made</th><td>Bunch, shift and rustle</td><td class="lph-us">Cut like regular briefs</td></tr>
           <tr><th scope="row">Every day</th><td>Another one in the trash</td><td class="lph-us">Wash them and wear them again</td></tr>
           <tr><th scope="row">Under leggings</th><td>Can show</td><td class="lph-us">No pad to show</td></tr>
           <tr><th scope="row">If they don’t hold</th><td>Money gone</td><td class="lph-us">30 nights, money back</td></tr>
@@ -134,51 +162,50 @@
     </div>
   </section>
 
-  <!-- 6. GUARANTEE -->
+  <!-- 7. GUARANTEE -->
   <section class="lph-sec lph-dark" id="leak-test">
     <div class="lph-w lph-narrow lph-c">
       <p class="lph-eyebrow lph-eyebrow--rose">The 30-Night Leak-Test</p>
       <h2 class="lph-h2">Sneeze in them. Laugh in them. Then decide.</h2>
-      <p>Wear them through your real moments for 30 nights, starting the day they arrive. If they don’t hold, email us your order number and what happened. We refund your whole set. You keep the pairs. Nothing to send back.</p>
-      <p>We’re a new brand. So instead of asking you to trust us, we let you test them on your own sneeze.</p>
-      <p class="lph-fit"><b>The Fit Promise:</b> Wrong size? We’ll send your new size free. Nothing to send back.</p>
+      <p>Wear them through your real moments for 30 nights, starting the day they arrive. If they don’t hold, email us your order number and what happened within your 30 nights. We refund your whole set, processed within 3 business days. You keep the pairs. Nothing to send back.</p>
+      <p>Don’t take our word for it. Test them on your own sneeze.</p>
       <a class="lph-btn lph-btn--light" href="{{ quiz }}">Find my size + set</a>
-      <p class="lph-small">One claim per customer. Covers your set and any extra pairs you add. This is on top of your legal rights. US: the 30-Night Leak-Test is a limited warranty. It gives you specific legal rights, and you may also have other rights which vary from state to state. <a href="/policies/refund-policy">Full terms</a></p>
+      <p class="lph-small">One claim per customer. This is on top of your legal rights. US: the 30-Night Leak-Test is a limited warranty. It gives you specific legal rights, and you may also have other rights which vary from state to state. <a href="/policies/refund-policy">Full terms</a></p>
     </div>
   </section>
 
-  <!-- 7. SIZES -->
+  <!-- 8. SIZES -->
   <section class="lph-sec lph-white" id="sizes">
     <div class="lph-w lph-narrow">
       <h2 class="lph-h2">Sized by your hips, not a guess.</h2>
-      <p class="lph-lead">Our letters don’t match the one on your other underwear, so we go by one number: around the widest part of your hips. Your usual US size is next to each one.</p>
+      <p class="lph-lead">Our letter sizes won’t match your other underwear. So go by one number: your hips at the widest part. Your usual US size is listed first.</p>
       <table class="lph-table lph-size">
-        <thead><tr><th scope="col">Size</th><th scope="col">Hips</th><th scope="col">US</th></tr></thead>
+        <thead><tr><th scope="col">US</th><th scope="col">Our size</th><th scope="col">Hips</th></tr></thead>
         <tbody>
-          <tr><th scope="row">S</th><td>up to 36″ (91 cm)</td><td>0–2</td></tr>
-          <tr><th scope="row">M</th><td>36–38″ (91–96 cm)</td><td>4–6</td></tr>
-          <tr><th scope="row">L</th><td>38–40″ (96–101 cm)</td><td>8–10</td></tr>
-          <tr><th scope="row">XL</th><td>40–44″ (101–111 cm)</td><td>12–14</td></tr>
-          <tr><th scope="row">XXL</th><td>44–47″ (111–120 cm)</td><td>16</td></tr>
-          <tr><th scope="row">3XL</th><td>47–51″ (120–129 cm)</td><td>18</td></tr>
-          <tr><th scope="row">4XL</th><td>51–54″ (129–138 cm)</td><td>20</td></tr>
+          <tr><th scope="row">0–2</th><td>S</td><td>up to 36″ (91 cm)</td></tr>
+          <tr><th scope="row">4–6</th><td>M</td><td>36–38″ (91–96 cm)</td></tr>
+          <tr><th scope="row">8–10</th><td>L</td><td>38–40″ (96–101 cm)</td></tr>
+          <tr><th scope="row">12–14</th><td>XL</td><td>40–44″ (101–111 cm)</td></tr>
+          <tr><th scope="row">16</th><td>XXL</td><td>44–47″ (111–120 cm)</td></tr>
+          <tr><th scope="row">18</th><td>3XL</td><td>47–51″ (120–129 cm)</td></tr>
+          <tr><th scope="row">20</th><td>4XL</td><td>51–54″ (129–138 cm)</td></tr>
         </tbody>
       </table>
-      <p class="lph-note">Between two sizes? Pick the smaller one. Sounds wrong, we know. A loose pair can gap at the legs, and a snug one sits close to you.</p>
+      <p class="lph-note">Between two sizes? Pick the smaller one. A loose pair can gap at the legs. Too snug? Email us and we’ll send the bigger size free.</p>
       <div class="lph-box lph-box--claret">
         <p class="lph-boxh">The Fit Promise</p>
         <p>Wrong size? We’ll send your new size free. Nothing to send back.</p>
         <p class="lph-small">Email us within your 30 nights. One free size swap per order.</p>
       </div>
-      <p class="lph-small">Over 54″ (138 cm)? We don’t make your size yet. We’d rather tell you now than sell you a pair that won’t fit.</p>
+      <p class="lph-small">Over 54″ (138 cm)? We don’t make your size yet.</p>
     </div>
   </section>
 
-  <!-- 8. THE SETS -->
+  <!-- 9. THE SETS -->
   <section class="lph-sec lph-blush" id="sets">
     <div class="lph-w">
       <h2 class="lph-h2 lph-c">One pair on, the rest in the wash.</h2>
-      <p class="lph-lead lph-c">That’s why 5 is our pick. The more pairs, the less each one costs: from $9.90 a pair.</p>
+      <p class="lph-lead lph-c">So 5 is our pick. The more pairs, the less each costs, down to $9.90 a pair.</p>
       <div class="lph-sets">
         <article class="lph-set">
           <img src="{{ cdn }}leapproof-3-pairs.png?v=1791795349&width=500" width="1000" height="1000" loading="lazy" alt="3 Leapproof Briefs">
@@ -186,7 +213,7 @@
           <p class="lph-pairs">3 pairs</p>
           <p class="lph-price">$45</p>
           <p class="lph-pp">$15.00 a pair</p>
-          <ul><li>3 Leapproof Briefs</li><li>30 nights to test them</li><li class="lph-lack">No free gifts</li></ul>
+          <ul><li>3 Leapproof Briefs</li><li>30 nights to test them</li><li class="lph-lack">Free gifts start at 5 pairs</li></ul>
           <p class="lph-setnote">Just want to try them?</p>
           <a class="lph-btn lph-btn--ghost" href="{{ ck }}?set=3">Start with 3 pairs</a>
         </article>
@@ -198,7 +225,7 @@
           <p class="lph-price">$59</p>
           <p class="lph-pp">$11.80 a pair · Save $16 (21%) vs. the 3-pair price</p>
           <ul><li>5 Leapproof Briefs</li><li>Free Wash Bag ($12.95 value): a mesh bag that keeps them together in the machine</li><li>30 nights to test them</li></ul>
-          <p class="lph-setnote">Wear a pair while the rest are in the wash.</p>
+          <p class="lph-setnote">A pair a day if you wash every few days.</p>
           <a class="lph-btn" href="{{ ck }}?set=5">Get 5 pairs</a>
         </article>
         <article class="lph-set">
@@ -218,100 +245,61 @@
         <li>Free US shipping</li><li>Pay once, no subscription</li><li>30-Night Leak-Test on every set</li>
       </ul>
       <div class="lph-quizcta">
-        <p><b>Not sure how many, or which size?</b> The 2-minute quiz works it out from your week and your hips. No email needed.</p>
-        <a class="lph-btn" href="{{ quiz }}">Find my size + set</a>
+        <p><b>Not sure how many, or which size?</b> The quiz works it out from your week and your hips in about 2 minutes. No email needed to see your match.</p>
+        <a class="lph-btn lph-btn--ghost" href="{{ quiz }}">Find my size + set</a>
       </div>
     </div>
   </section>
 
-  <!-- 9. HOW IT WORKS -->
-  <section class="lph-sec" id="how">
-    <div class="lph-w">
-      <h2 class="lph-h2 lph-c">Three steps. About 2 minutes of work.</h2>
-      <ol class="lph-steps">
-        <li><span>1</span><h3>Take the quiz.</h3><p>Tell us your moments, your size and how often you do laundry. No tape measure handy? Your usual US size is listed next to each option.</p></li>
-        <li><span>2</span><h3>Get your match.</h3><p>Your size, and how many pairs fit your week: 5 or 10, or start with 3.</p></li>
-        <li><span>3</span><h3>Wear them for 30 nights.</h3><p>Wash them once first, then sneeze, laugh, jump. If they don’t hold, email us. Full refund, keep the pairs.</p></li>
-      </ol>
-      <p class="lph-c lph-note">Most orders arrive in about 6–10 days. Your 30 nights start the day they arrive.</p>
-      <div class="lph-c">
-        <a class="lph-btn" href="{{ quiz }}">Find my size + set</a>
-        <p class="lph-micro">30-Night Leak-Test · Free US shipping · Pay once, no subscription</p>
-      </div>
-    </div>
-  </section>
-
-  {%- if section.settings.show_sample_reviews -%}
-  <!-- 10. TESTERS: SAMPLE cards for the mockup only (shown with ?lpdemo=1). Replace with real Founding 30 reviews before launch. -->
-  <section class="lph-sec lph-white" id="lph-testers" hidden>
-    <div class="lph-w">
-      <h2 class="lph-h2 lph-c">Our first testers wore them through their own moments.</h2>
-      <p class="lph-c lph-small">Every tester got a free set and was asked for an honest review at any star rating. We don’t hide reviews for being negative.</p>
-      <div class="lph-revs">
-        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-1.jpg?v=1791804638&width=500" width="672" height="900" loading="lazy" alt="Three black briefs on a bed next to an open mailer">
-          <blockquote>“I’m 34 and thought this stuff was for my grandma. Turns out they’re just like normal black undies. Wore them to my son’s trampoline party and actually got on for once, instead of holding everyone’s shoes.”</blockquote>
-          <figcaption>Jess M. · Received a free set to test</figcaption></figure>
-        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-2.jpg?v=1791804638&width=500" width="672" height="900" loading="lazy" alt="A black brief and the Wash Bag on a kitchen counter">
-          <blockquote>“I’ve bought ‘leak-proof’ stuff off ads before and it was junk, so I went in expecting the same. Did the quiz, it gave me my size, and the 30-night test meant I wasn’t risking anything. Two weeks in, I’ve stopped packing spare undies in my gym bag.”</blockquote>
-          <figcaption>Sarah W. · Received a free set to test</figcaption></figure>
-        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-3.jpg?v=1791804639&width=500" width="672" height="900" loading="lazy" alt="Mirror photo showing the black waistband sitting flat">
-          <blockquote>“Big sneeze in the grocery store and I did my usual freeze. Nobody knew a thing. The XL fits like my normal undies. No bunching, nothing rolling down.”</blockquote>
-          <figcaption>Jessica M. · XL · Received a free set to test</figcaption></figure>
-      </div>
-    </div>
-  </section>
-  {%- endif -%}
-
-  <!-- 11. FAQ -->
+  <!-- 10. FAQ -->
   <section class="lph-sec lph-white" id="faq">
     <div class="lph-w lph-narrow">
       <h2 class="lph-h2">Straight answers.</h2>
       <p class="lph-lead">If your question isn’t here, email <a class="lph-link" href="mailto:hello@leapproof.com">hello@leapproof.com</a>. A real person answers.</p>
       <div class="lph-faq">
         <details open><summary>Is Leapproof legit?</summary><div><p>Fair question. If you’ve bought “leak-proof” underwear off an ad before, you’ve probably been burned. Here’s what we put in writing: you get 30 nights to test them, and if they don’t hold, we refund your whole set and you keep the pairs. You pay once, with no subscription. Shipping is free. A real person answers every email at <a href="mailto:hello@leapproof.com">hello@leapproof.com</a>. Our <a href="/policies/refund-policy">refund</a> and <a href="/policies/shipping-policy">shipping</a> policies are linked at the bottom of every page.</p></div></details>
-        <details><summary>How much can they hold?</summary><div><p>They’re made for lighter leaks: a few drops to a small splash on a sneeze, laugh or jump. If it’s more than that, these may not be enough on their own, and a doctor or pelvic floor physical therapist is worth a chat.</p></div></details>
-        <details><summary>I already own period underwear. Why these?</summary><div><p>If what you have already works for your leaks, keep it. These are made for the sneeze, laugh and jump moments, they’re sized by your hips (US 0–20), and you get 30 nights to test them on your own sneeze. If they don’t hold, you get your money back and keep the pairs.</p></div></details>
-        <details><summary>Will they feel like a diaper or show under leggings?</summary><div><p>No pad, so nothing bulky. They’re cut like regular briefs with a soft, smooth waistband. Wear them under leggings, jeans or work pants.</p></div></details>
-        <details><summary>How do I pick my size?</summary><div><p>Measure around the widest part of your hips and use the <a href="#sizes">size chart</a>. Go by the number, not the letter on your other undies. Between two sizes? Pick the smaller one. Wrong size? We’ll send your new size free. Nothing to send back.</p></div></details>
-        <details><summary>Can I wear them to train, run or sleep?</summary><div><p>Yes, you can wear them for training, a run, a big day out or overnight. They’re made for lighter leaks, so if your nights are heavier, they may not be enough on their own.</p></div></details>
+        <details><summary>How much can they hold?</summary><div><p>They’re made for lighter leaks: a few drops to a small splash on a sneeze, laugh or jump. If it’s more than that, these may not be enough on their own, and a pelvic floor physical therapist is worth a chat.</p></div></details>
+        <details><summary>I already own period underwear. Why these?</summary><div><p>Keep them for your period. These are for the sneeze, the laugh and the jump the rest of the month: plain black briefs from $9.90 a pair, so you can own a full week’s worth instead of one “just in case” pair. Sized by your hips (US 0–20), with 30 nights to test them.</p></div></details>
+        <details><summary>Will they feel bulky or show under leggings?</summary><div><p>No pad, so nothing bulky. They’re cut like regular briefs with a soft, smooth waistband. Wear them under leggings, jeans or work pants.</p></div></details>
+        <details><summary>How do I pick my size?</summary><div><p>Measure around the widest part of your hips and use the <a href="#sizes">size chart</a>. Your usual US size is listed next to each one. Between two sizes? Pick the smaller one.</p></div></details>
+        <details><summary>Can I wear them to train or run?</summary><div><p>Yes, for training, a run or a big day out. They’re made for lighter leaks, so if you leak more at night, they may not be enough on their own.</p></div></details>
         <details><summary>Can I wear them on my period?</summary><div><p>They’re made for lighter leaks, not as period underwear. On your period, use what you normally use.</p></div></details>
         <details><summary>How do I wash them?</summary><div><p>1. Rinse them in cold water after you take them off.<br>2. Zip them into a mesh wash bag (the Wash Bag comes free with 5 or 10 pairs) and machine wash cold (86°F / 30°C max) on a gentle cycle.<br>3. Use a mild detergent with no fabric softener, or the Wash Sheets.<br>4. Hang them to dry. No dryer, no bleach, no ironing.</p><p>Heat and softener are hard on the lining. Skip both and your pairs are made to be worn and washed again and again.</p></div></details>
         <details><summary>Will they smell?</summary><div><p>Wash them after every wear, like any underwear, and follow the steps above. Skipping softener keeps the lining soaking up properly. We don’t claim they’re “antibacterial,” because we haven’t tested that.</p></div></details>
         <details><summary>Have they been lab tested?</summary><div><p>Not by a third-party lab yet. So we don’t claim things like “PFAS-free” or a number of milliliters. When we have lab results, we’ll post them here. What we can tell you: 95% regenerated fiber, 5% spandex.</p></div></details>
         <details><summary>Is this a subscription?</summary><div><p>No. You pay once for the set you pick. Nothing renews, and we never charge you again unless you say yes.</p></div></details>
         <details><summary>When will they arrive?</summary><div><p>We pack your order in 1–3 business days, and most orders arrive about 6–10 days after you order. Shipping is free. With 10 pairs, the Wash Sheets come in a separate parcel and may arrive a few days apart.</p></div></details>
-        <details><summary>What if they don’t work or don’t fit?</summary><div><p>Doesn’t hold: email us within your 30 nights and we refund your whole set. You keep the pairs. Wrong size? We’ll send your new size free. Nothing to send back. One Leak-Test claim per customer, one free size swap per order.</p></div></details>
-        <details><summary>Do I have to take the quiz?</summary><div><p>No. If you know your size, <a href="#sets">pick a set</a> and choose your size at checkout. The quiz is the quickest way to get your size and the right number of pairs: about 2 minutes, no email needed.</p></div></details>
+        <details><summary>What if they don’t work or don’t fit?</summary><div><p>Doesn’t hold: email us within your 30 nights and we refund your whole set, processed within 3 business days. You keep the pairs. Wrong size? We’ll send your new size free. Nothing to send back. One Leak-Test claim per customer, one free size swap per order.</p></div></details>
+        <details><summary>Do I have to take the quiz?</summary><div><p>No. If you know your size, <a href="#sets">pick a set</a> and choose your size at checkout. The quiz is the quickest way to get your size and the right number of pairs: about 2 minutes, and no email needed to see your match.</p></div></details>
         <details><summary>Who’s behind Leapproof?</summary><div><p>A small brand from Melbourne, Australia, started because women keep being told leaking is just part of life. Every email is answered by a real person: <a href="mailto:hello@leapproof.com">hello@leapproof.com</a>.</p></div></details>
       </div>
     </div>
   </section>
 
-  <!-- 12. FINAL CTA -->
+  <!-- 11. FINAL CTA -->
   <section class="lph-sec lph-blush lph-final">
     <div class="lph-w lph-narrow lph-c">
       <h2 class="lph-h2">Laugh at the whole joke.</h2>
-      <p class="lph-lead">Take the 2-minute quiz. Wear them through your real moments for 30 nights. If they don’t hold, you get your money back and keep the pairs.</p>
+      <p class="lph-lead">Take the quiz (about 2 minutes). Test them on your own sneeze for 30 nights. If they don’t hold, you get your money back and keep the pairs.</p>
       <a class="lph-btn" href="{{ quiz }}">Find my size + set</a>
-      <p class="lph-micro">No email needed · Free US shipping · Pay once, no subscription</p>
+      <p class="lph-micro">No email needed to see your match · Free US shipping · Pay once, no subscription</p>
     </div>
   </section>
 
-  <!-- 13. SOURCES + DISCLOSURES -->
+  <!-- 12. SOURCES + DISCLOSURES -->
   <section class="lph-src" id="lph-src">
     <div class="lph-w lph-narrow">
-      <p><strong>Not a treatment. It’s underwear.</strong> For heavier leaks, these aren’t enough on their own. If leaking is new, painful or getting worse, talk to a doctor or a pelvic floor physical therapist.</p>
+      <p><strong>Not a treatment. It’s underwear.</strong> For heavier leaks, these may not be enough on their own. If leaking is new, painful or getting worse, talk to a doctor or a pelvic floor physical therapist.</p>
       <p>¹ A review of studies of leaking between 6 weeks and 1 year after giving birth. Moossdorff-Steinhauser et al., International Urogynecology Journal, 2021. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295150/" target="_blank" rel="noopener">PMC8295150</a>. Research results, not Leapproof customers.</p>
-      <p>² US national survey data, NHANES (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505252/" target="_blank" rel="noopener">PMC3505252</a>).</p>
-      <p>³ Ridgeview Medical Center, “Coughing, laughing or sneezing shouldn’t cause peeing,” <a href="https://www.ridgeviewmedical.org/health-eviews/coughing-laughing-or-sneezing-shouldnt-cause-peeing/" target="_blank" rel="noopener">ridgeviewmedical.org</a>. The words “NEVER considered normal.” are copied from this page.</p>
-      <p>Words in quote marks next to a named source are copied exactly from that source. Leapproof isn’t connected to, or endorsed by, any source named on this page. The photos of people on this page are AI-generated. They don’t show real customers.</p>
+      <p>² Ridgeview Medical Center, “Coughing, laughing or sneezing shouldn’t cause peeing,” <a href="https://www.ridgeviewmedical.org/health-eviews/coughing-laughing-or-sneezing-shouldnt-cause-peeing/" target="_blank" rel="noopener">ridgeviewmedical.org</a>. The words “NEVER considered normal.” are copied from this page.</p>
+      <p>Words in quote marks next to a named source are copied exactly from that source. Leapproof isn’t connected to, or endorsed by, any source named on this page. The photo of two women at the top is AI-generated. It doesn’t show real customers.</p>
     </div>
   </section>
 
   <!-- Sticky mobile CTA -->
   <div class="lph-sticky" id="lph-sticky" aria-hidden="true">
     <span>30 nights to test them. Keep the pairs.</span>
-    <a class="lph-btn" href="{{ quiz }}" tabindex="-1">Find my size</a>
+    <a class="lph-btn" href="{{ quiz }}" tabindex="-1">Find my size + set</a>
   </div>
 </div>
 
@@ -474,6 +462,19 @@
 #lph .lph-sticky span{font-size:13.5px;font-weight:600;line-height:1.3;max-width:52%}
 #lph .lph-sticky .lph-btn{min-height:48px;padding:0 22px;font-size:16px;box-shadow:none}
 @media (min-width:900px){#lph .lph-sticky{display:none}}
+
+/* v3 */
+#lph .lph-inset{position:absolute;right:12px;bottom:12px;width:116px;background:#FFFCFA;border-radius:12px;padding:6px 6px 7px;box-shadow:0 6px 18px rgba(35,16,23,.25)}
+#lph .lph-inset img{border-radius:8px;width:100%}
+#lph .lph-inset figcaption{font-size:10.5px;line-height:1.25;color:#231017;margin-top:4px;text-align:center;font-weight:600}
+@media (min-width:900px){#lph .lph-inset{width:170px;right:20px;bottom:20px}#lph .lph-inset figcaption{font-size:12.5px}}
+#lph .lph-box--ink{background:var(--ink);color:var(--cream);margin-top:26px}
+#lph .lph-box--ink p{color:var(--cream)}
+#lph .lph-boxq{font-family:'Fraunces',Georgia,serif;font-size:21px;line-height:1.25;margin-bottom:8px}
+#lph .lph-size thead th:first-child,#lph .lph-size tbody th{color:var(--claret-d)}
+@media (min-width:700px){#lph .lph-mo:nth-child(n){grid-column:span 2}}
+#lph .lph-sticky .lph-btn{padding:0 18px;font-size:15px}
+#lph .lph-sticky span{max-width:46%}
 </style>
 
 <script>
