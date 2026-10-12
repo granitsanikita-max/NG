@@ -1,0 +1,11 @@
+{
+  "sections": {
+    "main": {
+      "type": "lp-404",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

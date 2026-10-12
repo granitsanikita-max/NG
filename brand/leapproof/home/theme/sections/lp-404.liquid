@@ -1,0 +1,21 @@
+{%- comment -%} Leapproof 404 (brand voice, F19). {%- endcomment -%}
+<div class="lp404">
+  <p class="lp404-e">Page not found</p>
+  <h1>This page sneezed and disappeared.</h1>
+  <p>The link you followed doesn’t go anywhere. Everything you need is one tap away.</p>
+  <p class="lp404-b"><a class="lp404-btn" href="{{ section.settings.quiz_url | default: 'https://leapproof.myfunnelish.com/quiz-2891028289-1791612140998314' }}">Find my size + set</a></p>
+  <p class="lp404-l"><a href="/">Home</a> · <a href="/#sets">Prices</a> · <a href="/#faq">FAQ</a> · <a href="mailto:hello@leapproof.com">hello@leapproof.com</a></p>
+</div>
+<style>
+.lp404{max-width:640px;margin:0 auto;padding:88px 20px 104px;text-align:center;font-family:'Hanken Grotesk',Arial,sans-serif;color:#231017}
+.lp404-e{font-size:12.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#872845;margin:0 0 12px}
+.lp404 h1{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:clamp(32px,7vw,48px);line-height:1.1;margin:0 0 14px}
+.lp404 p{font-size:17px;margin:0}
+.lp404-b{margin-top:26px !important}
+.lp404-btn{display:inline-flex;align-items:center;min-height:54px;padding:0 32px;background:#A33154;color:#fff;font-weight:700;border-radius:999px;text-decoration:none}
+.lp404-l{margin-top:22px !important;font-size:15px !important}
+.lp404-l a{color:#872845;font-weight:600}
+</style>
+{% schema %}
+{ "name": "Leapproof 404", "settings": [ { "type": "text", "id": "quiz_url", "label": "Quiz link" } ], "presets": [ { "name": "Leapproof 404" } ] }
+{% endschema %}
