@@ -43,6 +43,8 @@ Legend: **N** = Nikita does it · **C** = Claude does it (paste-ready code/copy 
 
 ## 5. Chief every page before launch (C runs it, N fixes in Funnelish)
 - [ ] Kill check (fundamentals/08): ad ↔ first screen match, every number matches NUMBER_SHEET, no timers/fake scarcity, no fake reviews live (samples only show with `?lpdemo=1`), no nav/exits, mobile first screen.
+- [ ] **BLOCKER: swap the 3 SAMPLE review cards on the landing page** (Jess M. / Sarah Williams / Jessica Miller, photos in `assets/landing/reviews-SAMPLE/`, ratings 4.6/4.8/4.9) for real tester reviews + photos that handle the same objections. Mockup only — never live with ads.
+- [ ] Landing page **mobile** hero: Limura logo + "Quick Quiz" replaced (separate mobile-only container).
 - [ ] Compliance: no "incontinence / discreet / dignity / protection", no absolute leak claims, no fake ratings ("1.2k", "4.9" gone everywhere).
 - [ ] Every button and link: landing → quiz → offer → checkout → upgrade → thank-you; footer policy links load.
 - [ ] Page titles on every step (no "Landing Page" / "Checkout Page").
