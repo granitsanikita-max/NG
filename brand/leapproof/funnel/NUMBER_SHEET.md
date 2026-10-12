@@ -1,18 +1,29 @@
 # LEAPPROOF — Number Sheet v2 (single source of truth)
 
 Universal F3: every ad, page, quiz screen, cart, checkout and email pulls its numbers from THIS sheet. Change it here first, then everywhere.
-**Market: Australia first, prices in AUD (recommended, D12).** `[ ]` = not decided. Nothing in `[ ]` goes live.
+**Market: USD-only product test (US-first), prices in USD (CHANGED 2026-10-12, Nikita). AUD kept below for reference.** `[ ]` = not decided. Nothing in `[ ]` goes live.
 Rows marked **PENDING** are recommended changes to the locked offer that need Nikita's OK.
 
-## 1. Sets
-| Set | Pairs | Price | Per pair | vs $23/pair Starter rate |
+## 1. Sets — USD (LOCKED 2026-10-12)
+| Set | Pairs | Price (USD) | Per pair | vs $15/pair Starter rate |
 |---|---|---|---|---|
-| The Starter Set | 3 | $69 | $23.00 | the anchor |
-| The Everyday Rotation | 5 | $89 | $17.80 | save $26 (23%) |
-| The Two-Week Rotation (**PENDING rename → "The Full Rotation"**: 10 pairs isn't two weeks of daily wear) | 10 | $159 | $15.90 | save $71 (31%) |
+| The Starter Set | 3 | **$45** | $15.00 | the anchor |
+| The Everyday Rotation | 5 | **$59** | $11.80 | save $16 (21%) |
+| The Full Rotation | 10 | **$99** | $9.90 | save $51 (34%) |
+| Add-on: 2 spare pairs (bump) | 2 | **$19** | $9.50 | — |
+
+AUD reference (old AU plan, not live): 3=$69 · 5=$89 · 10=$159 · add-on $29.
 
 - Tags: 5 = **"Our pick"** (not "Most popular": there are no orders yet). 10 = "Best value".
 - No single-pair *sets* are sold. Single pairs exist only as add-ons (bump/downsell), so no "normally $X" single-pair anchor may appear anywhere.
+
+## 1b. Supplier cost & fulfilment (CJ, SKU CJNSNYNK00343, 2026-10-12)
+Cost per pair ≈ **US$1.60** (AUD 12.17 / 5pcs ≈ US$8). Weight ~85g/pair. US ship = CJPacket Ordinary, **4–9 day delivery**, 1–3 day processing.
+**Mapping (Funnelish set → CJ pack × qty):** 3 pairs → 3PCS ×1 · 5 pairs → 5PCS ×1 · 10 pairs → 5PCS ×2 · add-on 2 → 2PCS ×1. Sizes listed: S, M, L, XL, XXL, 3XL, 4XL (5XL–7XL out of stock).
+US shipping per pack: **[PENDING — read exact CJPacket US cost for 3PCS and 5PCS]**. 1pc US ship = AUD 8.60.
+Est. landed cost (item + US ship, USD): 3pc ~$12 · 5pc ~$18 · 10 (2×5pc) ~$34 · 2pc ~$9.
+Est. gross profit (retail − landed, before CAC): 3 ~$33 · 5 ~$41 · 10 ~$65 · add-on ~$10. Stripe ≈ 2.9%+$0.30.
+Fabric: **95% regenerated fibre (viscose-type) + 5% spandex** — NOT cotton. Plain black brief, **no lace**. Update all "black cotton / lace on the hips" copy.
 
 ## 2. Quiz finishing reward (PENDING, D5/D13)
 | Option | What she gets | 5-pair gross profit (CJ) | After $40 CAC |
