@@ -196,6 +196,17 @@ var ftn=0; (function footers(){
   [].forEach.call(document.querySelectorAll('.pl-item .top-tag'),function(t){ var v=(t.textContent||'').trim().toUpperCase(); if(v==='OUR PICK') t.classList.add('lpk-tag-pick'); else if(v==='JUST TRYING') t.classList.add('lpk-tag-try'); });
   if(++ftn<30) setTimeout(footers,500);
 })();
+/* order summary: Funnelish prints "Free Shipping" twice; show each line once (re-checked because the summary redraws on every set change) */
+setInterval(function(){
+  [].forEach.call(document.querySelectorAll('.os-items'),function(list){   /* desktop + mobile summaries: dedupe each on its own */
+    var seen=false;
+    [].forEach.call(list.querySelectorAll('.os-row'),function(r){
+      var n=((r.querySelector('.os-name')||r).textContent||'').replace(/\s+/g,' ').trim();
+      if(!/^Free Shipping/i.test(n)) return;
+      if(seen) r.style.setProperty('display','none','important'); else { seen=true; r.style.removeProperty('display'); }
+    });
+  });
+},600);
 /* default the country to United States (retries until Funnelish has filled the list; never overrides her choice) */
 var ctry=0; (function us(){
   var c=document.querySelector('select[name="shipping_country"]'), done=false;
