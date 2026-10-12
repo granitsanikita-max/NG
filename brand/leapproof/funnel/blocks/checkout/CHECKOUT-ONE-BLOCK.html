@@ -27,8 +27,19 @@
 #ck2 .small{font-size:13.5px;color:#8C6A6C;margin-top:2px;line-height:1.4}
 #ck2 .pic{padding:14px 18px;background:#F5EDE6;font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:17px;line-height:1.4;color:#A33154}
 #ck2 .size{display:none;padding:12px 18px;border-top:1px solid #E4D6D0;font-size:14.5px;line-height:1.45}
-#ck2 .size b{font-weight:700}
 #ck2 .size.on{display:block}
+#ck2 .szl{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+#ck2 .szl b{font-size:15.5px;font-weight:700}
+#ck2 .szl span{font-size:13.5px;color:#8C6A6C}
+#ck2 details{margin-top:8px}
+#ck2 summary{cursor:pointer;list-style:none;font-size:13.5px;font-weight:700;color:#A33154;display:inline-flex;align-items:center;gap:6px}
+#ck2 summary::-webkit-details-marker{display:none}
+#ck2 summary::after{content:'';width:7px;height:7px;border:solid #A33154;border-width:0 2px 2px 0;transform:rotate(45deg);margin-top:-3px;transition:transform .2s}
+#ck2 details[open] summary::after{transform:rotate(-135deg);margin-top:3px}
+#ck2 table{width:100%;border-collapse:collapse;margin-top:8px;font-size:13.5px}
+#ck2 th,#ck2 td{text-align:left;padding:6px 4px;border-bottom:1px solid #F0E6E2}
+#ck2 th{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#8C6A6C;font-weight:700}
+#ck2 .szn{font-size:13px;color:#8C6A6C;margin-top:8px}
 
 #ck3{font-family:'Hanken Grotesk',Arial,sans-serif;color:#231017;margin-top:14px}
 #ck3 *{box-sizing:border-box;margin:0;padding:0}
@@ -61,8 +72,17 @@
 
 .os-discount-box{display:none!important}
 /* template green -> Leapproof claret, rounded -> square */
-.product-list{border-color:#E4D6D0!important;border-radius:0!important}
-.product-list:has(input[name="product-id"]:checked){border-color:#A33154!important;background:#FBF5F2!important}
+.pl-item{background:#fff!important;border:1px solid #E4D6D0!important;border-radius:0!important;box-shadow:none!important}
+.pl-item.highlight{background:#fff!important;transform:none!important}
+.pl-item.selected{border-color:#A33154!important;background:#FBF5F2!important}
+.pl-item .pl-image img,.pl-item img{border-radius:0!important}
+.pl-item .name{font-weight:600!important;color:#231017!important}
+.pl-item .top-tag{background:#231017!important;color:#fff!important;border-radius:0!important;letter-spacing:.1em}
+.pl-item .top-tag.lpk-tag-pick{background:#A33154!important}
+.pl-item .top-tag.lpk-tag-try{background:#E7CFC9!important;color:#231017!important}
+.pl-variant-name .select-a{display:none!important}
+.pl-variant-option{border-radius:0!important;border:1px solid #E7CFC9!important;background:#fff!important;color:#231017!important;font-weight:600}
+.pl-variant-option.selected{background:#A33154!important;border-color:#A33154!important;color:#fff!important}
 input[name="product-id"]{accent-color:#A33154;border-radius:0!important}
 input[name="product-id"]:checked{background-color:#A33154!important;border-color:#A33154!important}
 a.btn.btn-v2{background:#A33154!important;border-color:#872845!important;border-radius:0!important;box-shadow:none!important}
@@ -165,6 +185,7 @@ var ftn=0; (function footers(){
     hide(x); if(f4 && laid && x.parentNode && x.nextSibling!==f4) x.parentNode.insertBefore(f4,x.nextSibling);
   });
   [].forEach.call(document.querySelectorAll('span'),function(x){ if(!own(x) && !x.children.length && (x.textContent||'').trim()==='Free') x.classList.add('lpk-free'); });   /* green "Free" in the summary */
+  [].forEach.call(document.querySelectorAll('.pl-item .top-tag'),function(t){ var v=(t.textContent||'').trim().toUpperCase(); if(v==='OUR PICK') t.classList.add('lpk-tag-pick'); else if(v==='JUST TRYING') t.classList.add('lpk-tag-try'); });
   if(++ftn<30) setTimeout(footers,500);
 })();
 /* default the country to United States (retries until Funnelish has filled the list; never overrides her choice) */
@@ -201,10 +222,11 @@ var ctry=0; (function us(){
     return {id:String(p.id), set:m?+m[1]:0, bag:/wash\s*bag/i.test(n), sheets:/wash\s*sheets/i.test(n)};
   }); }
   function box(id){ return document.querySelector('input[name="product-id"][value="'+id+'"]'); }
-  function row(i){ return i && (i.closest('.product-list') || i.closest('label')); }
+  /* one product = one .pl-item row (Funnelish product list). Never touch the list's wrapper: it holds every set. */
+  function row(i){ return i && i.closest('.pl-item'); }
   function setTo(id,want){ var i=box(id); if(i && i.checked!==want) i.click(); }
-  function show(id,on){ var r=row(box(id)); if(r){ var w=r.closest('.container-wrapper')||r; w.style.display=on?'':'none'; } }
-  function lock(id){ var r=row(box(id)); if(r){ var w=r.closest('.container-wrapper')||r; w.style.pointerEvents='none'; } }
+  function show(id,on){ var r=row(box(id)); if(r) r.style.display=on?'':'none'; }
+  function lock(id){ var r=row(box(id)); if(r) r.style.pointerEvents='none'; }
   function sync(){
     var P=prods(); if(!P.length) return false; busy=true;
     P.forEach(function(p){
@@ -229,12 +251,15 @@ var ctry=0; (function us(){
   /* Her size from the quiz / offer page */
   var sz=(q.get('size')||'').toUpperCase(); if(sz==='2XL') sz='XXL';
   var el=document.getElementById('ck2-size');
-  if(['S','M','L','XL','XXL','3XL','4XL'].indexOf(sz)<0){
-    el.innerHTML='<b>Pick your size</b> in the size box before you pay. Go by your hips: S up to 36″ · M 36–38″ · L 38–40″ · XL 40–44″ · XXL 44–47″ · 3XL 47–51″ · 4XL 51–54″. Between two sizes? Pick the smaller one.';
-    el.className='size on'; return;
-  }
-  el.innerHTML='<b>Your size: '+sz+'</b>, from your quiz. Wrong size? We’ll send your new size free. Nothing to send back.';
+  var CHART='<details><summary>Size chart</summary><table><tr><th>Size</th><th>Hips</th><th>US</th></tr>'+
+    [['S','up to 36″ (91 cm)','0–2'],['M','36–38″ (91–96 cm)','4–6'],['L','38–40″ (96–101 cm)','8–10'],['XL','40–44″ (101–111 cm)','12–14'],['XXL','44–47″ (111–120 cm)','16'],['3XL','47–51″ (120–129 cm)','18'],['4XL','51–54″ (129–138 cm)','20']]
+    .map(function(r){return '<tr><td><b>'+r[0]+'</b></td><td>'+r[1]+'</td><td>'+r[2]+'</td></tr>'}).join('')+
+    '</table><p class="szn">Between two sizes? Pick the smaller one. Wrong size? We send your new size free.</p></details>';
+  var ok=['S','M','L','XL','XXL','3XL','4XL'].indexOf(sz)>-1;
+  el.innerHTML=(ok ? '<div class="szl"><b>Your size: '+sz+'</b><span>from your quiz · free swap if it’s off</span></div>'
+                   : '<div class="szl"><b>Choose your size</b><span>on your set, before you pay</span></div>')+CHART;
   el.className='size on';
+  if(!ok) return;
   /* Pre-select her size on each brief's size buttons (.pl-variant-option). Funnelish shows the
      buttons only on the ticked set and defaults to S, so re-apply on load and whenever she switches set. */
   window.lpkPickSize=function(){
@@ -258,9 +283,9 @@ var REVIEWS = [
 ];
 /* SAMPLE reviews: layout preview ONLY. They show only when the page URL has ?lpdemo=1 (not ?preview — Funnelish 404s on that), never to real visitors. Delete once real reviews are in. */
 var SAMPLES = [
- { title:'Laughed till I cried at book club.', text:'Wine, a funny story, and normally that’s me running for the bathroom mid-laugh. This time I didn’t even think about it. They look so thin I was skeptical, but they just feel like my normal underwear.', name:'Kate B.', age:36, size:'M', stars:5 },
- { title:'Still the same after weeks of washing.', text:'The last “leak-proof” ones I bought went limp after a few washes. I’ve been washing these every few days for three weeks, cold and hung to dry, and they’re exactly the same. I wear them to bed after my evening walk too and don’t wake up feeling like I’m in a diaper.', name:'Lisa H.', age:44, size:'L', stars:5 },
- { title:'I was spending a fortune on pads.', text:'I was buying pads at the drugstore every week and feeling guilty about all the trash. These showed up in 9 days, a real person replied when I emailed about my size, and the 30 nights meant I wasn’t risking a cent.', name:'Becca D.', age:39, size:'3XL', stars:5 }
+ { title:'Ran my first 5K since baby #2. In gray leggings.', text:'I used to run with a jacket tied around my waist, just in case. Saturday I did a 5K in light gray leggings, sneezed at the start line, and couldn’t see a thing when I checked the mirror after. No pad shifting by mile two either. They just feel like regular underwear under my tights.', name:'Danielle R.', age:34, size:'M', stars:5 },
+ { title:'The waistband actually stays up on my mom tummy.', text:'Every leak-proof brief I’ve tried rolled down the second I sat down. I measured my hips like the chart said, went 3XL, and the waistband sits flat under my work pants all day. Had a cold last week, coughing at my desk, and didn’t once sneak off to the bathroom to check.', name:'Tanya W.', age:42, size:'3XL', stars:5 },
+ { title:'Almost only got 3. So glad I got 5.', text:'I nearly closed this page twice. What got me was the 30 nights: if they didn’t work on my real sneezes, I’d get my money back and keep them anyway. Went with 5 and I’m glad. With 3 I’d be doing laundry every other day.', name:'Melissa K.', age:38, size:'L', stars:5 }
 ];
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 var list = REVIEWS.length ? REVIEWS : (/[?&]lpdemo=1/.test(location.search) ? SAMPLES : []);
