@@ -60,6 +60,15 @@
 #ck4 p{font-size:12.5px;opacity:.85;line-height:1.6}
 
 .os-discount-box{display:none!important}
+/* template green -> Leapproof claret, rounded -> square */
+.product-list{border-color:#E4D6D0!important;border-radius:0!important}
+.product-list:has(input[name="product-id"]:checked){border-color:#A33154!important;background:#FBF5F2!important}
+input[name="product-id"]{accent-color:#A33154;border-radius:0!important}
+input[name="product-id"]:checked{background-color:#A33154!important;border-color:#A33154!important}
+a.btn.btn-v2{background:#A33154!important;border-color:#872845!important;border-radius:0!important;box-shadow:none!important}
+a.btn.btn-v2:hover{background:#872845!important}
+.container-box,.product-list img,.main-wrapper input:not([type=checkbox]):not([type=radio]),.main-wrapper select{border-radius:0!important}
+.lpk-free{color:#A33154!important}
 #lpk-1,#lpk-2,#lpk-3,#lpk-4{display:block!important;width:100%!important;max-width:none;flex:1 1 100%;align-self:stretch;text-align:left;box-sizing:border-box}
 #lpk-1 #ck1,#lpk-4 #ck4{width:100%}
 #lpk-3 #ck3,#lpk-2 #ck2{width:100%}
@@ -155,6 +164,7 @@ var ftn=0; (function footers(){
     if(own(x) || x.parentElement.closest('[class*="section_wrapper"]') || !/Built with\s*Funnelish/.test(x.textContent||'')) return;
     hide(x); if(f4 && laid && x.parentNode && x.nextSibling!==f4) x.parentNode.insertBefore(f4,x.nextSibling);
   });
+  [].forEach.call(document.querySelectorAll('span'),function(x){ if(!own(x) && !x.children.length && (x.textContent||'').trim()==='Free') x.classList.add('lpk-free'); });   /* green "Free" in the summary */
   if(++ftn<30) setTimeout(footers,500);
 })();
 /* default the country to United States (retries until Funnelish has filled the list; never overrides her choice) */
