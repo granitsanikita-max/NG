@@ -8,14 +8,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Not ready to try them yet?",
+            "heading": "Not ready yet? See the reviews first.",
             "heading_size": "h2"
           }
         },
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Get one email when our testers’ reviews go live, plus our washing tips. No spam. Unsubscribe anytime.</p>"
+            "text": "<p>We’ll email you when our first testers’ reviews go live, plus our washing tips. Unsubscribe anytime.</p>"
           }
         },
         "email-form": {
@@ -49,7 +49,7 @@
           "type": "text",
           "settings": {
             "heading": "Straight talk",
-            "subtext": "<p>Underwear, not a treatment. Made for lighter leaks. Questions? <a href=\"mailto:hello@leapproof.com\">hello@leapproof.com</a> · a real person answers.</p><p>© 2026 leapproof · Melbourne, Australia</p>"
+            "subtext": "<p>Not a treatment. It’s underwear. Made for lighter leaks.</p><p>Questions? <a href=\"mailto:hello@leapproof.com\">hello@leapproof.com</a>. A real person answers.</p><p>leapproof · Melbourne, Australia</p>"
           }
         }
       },
