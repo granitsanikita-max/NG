@@ -1,4 +1,4 @@
-<!-- Leapproof checkout · ONE BLOCK for the whole page.
+<!-- Leapproof checkout v2 (USD, US, S–4XL) · ONE BLOCK for the whole page.
      Paste into ONE Custom HTML element anywhere on the checkout (bottom is fine). Don't delete anything else.
      It adds the header, arrival date, guarantee, reviews and footer, hides the template's Limura junk,
      renames the template text, and ticks the right set + gifts from ?set= (sent by the offer page). -->
@@ -74,7 +74,7 @@
 <div id="lpk-2"><div id="ck2">
  <div class="top">
   <div class="cal"><b id="ck2-m">Oct</b><span id="ck2-d">27</span></div>
-  <div><div class="lab">Order today</div><div class="when" id="ck2-when">Arrives in about 7–12 business days</div><div class="small">Packed within 1–2 business days. Free shipping.</div></div>
+  <div><div class="lab">Order today</div><div class="when" id="ck2-when">Most orders arrive in about 6–10 days</div><div class="small">Packed within 1–3 business days. Free shipping.</div></div>
  </div>
  <div class="pic" id="ck2-pic">Your 30 nights start the day they arrive.</div>
  <div class="size" id="ck2-size"></div>
@@ -87,7 +87,7 @@
   <ul>
    <li>Wrong size? We send your new size free.</li>
    <li>One-off payment. No subscription, nothing renews.</li>
-   <li>On top of your rights under Australian Consumer Law.</li>
+   <li>On top of your legal rights.</li>
   </ul>
  </div>
  <div class="rv" id="ck3-rv"><div class="hd">From our testers</div><div id="ck3-list"></div></div>
@@ -144,35 +144,35 @@ function layout(){
   rename('Email me with news and offers','Email me washing tips and the odd Leapproof update. Unsubscribe any time.');
   rename('Checkout Now','Complete my order');
   ph('first_name','First name'); ph('last_name','Last name'); ph('email','Email (for order updates)'); ph('phone','Phone (for delivery)');
-  ph('shipping_address','Street address'); ph('shipping_city','Suburb / city'); ph('shipping_state','State'); ph('shipping_zip','Postcode');
+  ph('shipping_address','Street address'); ph('shipping_city','City'); ph('shipping_state','State'); ph('shipping_zip','ZIP code');
   var c=document.querySelector('select[name="shipping_country"]');
   if(c){ if(c.options[0] && /sele/i.test(c.options[0].text)) c.options[0].text='Country';
-    if(!c.value){ for(var i=0;i<c.options.length;i++){ if(c.options[i].text==='Australia'){ c.selectedIndex=i; c.dispatchEvent(new Event('change',{bubbles:true})); break; } } } }
+    if(!c.value){ for(var i=0;i<c.options.length;i++){ if(/^United States/.test(c.options[i].text)){ c.selectedIndex=i; c.dispatchEvent(new Event('change',{bubbles:true})); break; } } } }
   laid=true; return true;
 }
 var lt=0; (function go(){ if(!layout() && ++lt<30) setTimeout(go,300); })();
 
 (function(){
-  /* Live arrival window: 7 to 12 business days from today (1–2 to pack + 6–10 in transit). */
-  function addBiz(d,n){ d=new Date(d); while(n>0){ d.setDate(d.getDate()+1); var w=d.getDay(); if(w!==0&&w!==6) n--; } return d; }
-  var now=new Date(), a=addBiz(now,7), b=addBiz(now,12);
+  /* Live arrival window: most orders arrive about 6–10 days after ordering (NUMBER_SHEET: 1–3 to pack + 4–9 in transit). */
+  function addDays(d,n){ d=new Date(d); d.setDate(d.getDate()+n); return d; }
+  var now=new Date(), a=addDays(now,6), b=addDays(now,10);
   var D=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'], M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-  function f(d){ return D[d.getDay()]+' '+d.getDate()+' '+M[d.getMonth()]; }
+  function f(d){ return D[d.getDay()]+', '+M[d.getMonth()]+' '+d.getDate(); }
   document.getElementById('ck2-m').textContent=M[b.getMonth()];
   document.getElementById('ck2-d').textContent=b.getDate();
-  document.getElementById('ck2-when').textContent='Arrives '+f(a)+' – '+f(b);
+  document.getElementById('ck2-when').textContent='Most orders arrive '+f(a)+' – '+f(b);
   document.getElementById('ck2-pic').textContent='By '+f(b)+', you could be sneezing without crossing your legs. Your 30 nights start the day they arrive.';
   var q=new URLSearchParams(location.search);
 
   /* ===== ONE CHECKOUT, 3 SETS =====
      Ticks the set she chose on the offer page (?set=3|5|10, default 5), unticks the other sets,
-     adds the free gifts that set unlocks, locks the gift rows, and hides the add-on on the 3-pair set.
+     adds the free gifts that set unlocks and locks the gift rows.
      Products are found by NAME, so keep these words in the Funnelish product names:
-     "3 Leapproof Briefs" / "5 Leapproof Briefs" / "10 Leapproof Briefs" / "Wash Bag" / "Wash Sheets" / "spare pairs" */
+     "3 Leapproof Briefs" / "5 Leapproof Briefs" / "10 Leapproof Briefs" / "Wash Bag" / "Wash Sheets" */
   var SET = ({'3':3,'5':5,'10':10})[q.get('set')] || 5, busy=false;
   function prods(){ return (window.PRODUCTS||[]).map(function(p){
     var n=p.name||'', m=n.match(/\b(3|5|10)\s+Leapproof\s+Briefs/i);
-    return {id:String(p.id), set:m?+m[1]:0, bag:/wash\s*bag/i.test(n), sheets:/wash\s*sheets/i.test(n), bump:/spare\s*pairs/i.test(n)};
+    return {id:String(p.id), set:m?+m[1]:0, bag:/wash\s*bag/i.test(n), sheets:/wash\s*sheets/i.test(n)};
   }); }
   function box(id){ return document.querySelector('input[name="product-id"][value="'+id+'"]'); }
   function row(i){ return i && (i.closest('.product-list') || i.closest('label')); }
@@ -185,7 +185,6 @@ var lt=0; (function go(){ if(!layout() && ++lt<30) setTimeout(go,300); })();
       if(p.set){ setTo(p.id, p.set===SET); }
       if(p.bag){ setTo(p.id, SET>=5); show(p.id, SET>=5); lock(p.id); }
       if(p.sheets){ setTo(p.id, SET>=10); show(p.id, SET>=10); lock(p.id); }
-      if(p.bump){ if(SET===3) setTo(p.id,false); show(p.id, SET!==3); }
     });
     busy=false; return true;
   }
@@ -198,9 +197,12 @@ var lt=0; (function go(){ if(!layout() && ++lt<30) setTimeout(go,300); })();
   var st=0; (function boot(){ if(!sync() && ++st<20) setTimeout(boot,300); })();
 
   /* Her size from the quiz / offer page */
-  var sz=(q.get('size')||'').toUpperCase();
-  if(['S','M','L','XL','2XL'].indexOf(sz)<0) return;
+  var sz=(q.get('size')||'').toUpperCase(); if(sz==='2XL') sz='XXL';
   var el=document.getElementById('ck2-size');
+  if(['S','M','L','XL','XXL','3XL','4XL'].indexOf(sz)<0){
+    el.innerHTML='<b>Pick your size</b> in the size box before you pay. Go by your hips: S up to 36″ · M 36–38″ · L 38–40″ · XL 40–44″ · XXL 44–47″ · 3XL 47–51″ · 4XL 51–54″. Between two sizes? Pick the smaller one.';
+    el.className='size on'; return;
+  }
   el.innerHTML='<b>Your size: '+sz+'</b>, from your quiz. Wrong size? We’ll send your new size free. Nothing to send back.';
   el.className='size on';
   /* Pre-select her size in the product's size dropdown (retries while the checkout loads). */
@@ -228,9 +230,9 @@ var REVIEWS = [
 ];
 /* SAMPLE reviews: layout preview ONLY. They show only when the page URL has ?lpdemo=1 (not ?preview — Funnelish 404s on that), never to real visitors. Delete once real reviews are in. */
 var SAMPLES = [
- { title:'Laughed till I cried at book club.', text:'Wine, a funny story, and normally that’s me legging it to the loo mid-laugh. This time I didn’t even think about it. They look so thin I was sceptical, but they just feel like my normal undies.', name:'Kate B.', age:36, size:'M', stars:5 },
- { title:'Still the same after weeks of washing.', text:'The last “leak-proof” ones I bought went limp after a few washes. I’ve been washing these every few days for three weeks, cold and hung out on the line, and they’re exactly the same. I wear them to bed after my evening walk too and don’t wake up feeling like I’m in a nappy.', name:'Lisa H.', age:44, size:'L', stars:5 },
- { title:'I was spending a fortune on pads.', text:'I was buying pads from the chemist every week and feeling guilty about the bin. These turned up in 9 days, a real person replied when I emailed about my size, and the 30 nights meant I wasn’t risking a cent.', name:'Bec D.', age:39, size:'XL', stars:5 }
+ { title:'Laughed till I cried at book club.', text:'Wine, a funny story, and normally that’s me running for the bathroom mid-laugh. This time I didn’t even think about it. They look so thin I was skeptical, but they just feel like my normal underwear.', name:'Kate B.', age:36, size:'M', stars:5 },
+ { title:'Still the same after weeks of washing.', text:'The last “leak-proof” ones I bought went limp after a few washes. I’ve been washing these every few days for three weeks, cold and hung to dry, and they’re exactly the same. I wear them to bed after my evening walk too and don’t wake up feeling like I’m in a diaper.', name:'Lisa H.', age:44, size:'L', stars:5 },
+ { title:'I was spending a fortune on pads.', text:'I was buying pads at the drugstore every week and feeling guilty about all the trash. These showed up in 9 days, a real person replied when I emailed about my size, and the 30 nights meant I wasn’t risking a cent.', name:'Becca D.', age:39, size:'3XL', stars:5 }
 ];
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 var list = REVIEWS.length ? REVIEWS : (/[?&]lpdemo=1/.test(location.search) ? SAMPLES : []);

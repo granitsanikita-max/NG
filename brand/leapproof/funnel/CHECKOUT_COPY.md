@@ -1,3 +1,5 @@
+> ⚠️ Pre-USD (AUD v1) notes. The live block is `blocks/checkout/CHECKOUT-ONE-BLOCK.html` (v2: USD, US, S–4XL). Prices/names here are out of date; NUMBER_SHEET wins.
+
 # Leapproof — Checkout copy v3 (ONE checkout, ONE block)
 
 Paste `blocks/checkout/CHECKOUT-ONE-BLOCK.html` into one Custom HTML element. It builds header/arrival/guarantee/reviews/footer, hides template junk (logo section, Congrats meter, money-back badge, payment logos, "Loved by", coupon, Limura footer), renames template text + placeholders, defaults country to Australia, and runs the set/gift/size logic. Tested injected into the live template 2026-10-11 (desktop + mobile). Template form has NO city field: add "Shipping City" natively.
