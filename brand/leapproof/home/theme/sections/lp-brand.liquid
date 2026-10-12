@@ -1,0 +1,41 @@
+{%- comment -%}
+  Leapproof sitewide brand layer (sits in the header group, so it loads on every page).
+  Fonts: Fraunces (display) + Hanken Grotesk (body). Colours: BRAND_BIBLE §17.
+  Also hides the template junk: cart/account/search icons (orders go through the funnel checkout),
+  country/language pickers, "Powered by Shopify", Follow on Shop.
+{%- endcomment -%}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --font-heading-family:'Fraunces',Georgia,serif !important;
+  --font-heading-style:normal !important;
+  --font-heading-weight:600 !important;
+  --font-body-family:'Hanken Grotesk',Arial,sans-serif !important;
+  --font-body-style:normal !important;
+  --font-body-weight:400 !important;
+  --font-body-weight-bold:700 !important;
+}
+body{background:#F5EDE6;color:#231017;letter-spacing:0}
+h1,h2,h3,h4,.h0,.h1,.h2,.h3,.h4{font-family:'Fraunces',Georgia,serif;letter-spacing:-.015em}
+/* announcement bar */
+.announcement-bar__message{font-family:'Hanken Grotesk',Arial,sans-serif;font-size:13.5px;letter-spacing:.02em;font-weight:600}
+/* header: logo + menu only */
+.header__icons .header__icon--cart,.header__icons .header__icon--account,.header__icons .header__search,
+.header__icons details-modal,.header__icon--search,.header-localization,.header__localization,localization-form{display:none !important}
+.header__heading-logo{max-width:150px}
+.header__menu-item{font-weight:600;font-size:15px}
+.header__inline-menu .list-menu li:first-child .header__menu-item{color:#fff;background:#A33154;border-radius:999px;padding:9px 18px;margin-right:8px;text-decoration:none}
+.header__inline-menu .list-menu li:first-child .header__menu-item span{text-decoration:none}
+.header__inline-menu .list-menu li:first-child .header__menu-item:hover{background:#872845}
+/* footer */
+.footer__localization,.footer .localization-wrapper,.footer__follow-on-shop,.footer__list-social,shop-follow-button,.copyright__content a[href*="shopify.com"]{display:none !important}
+.footer .copyright__content{font-size:13px}
+.newsletter__wrapper .h1,.newsletter__wrapper h2{font-size:clamp(28px,5vw,40px)}
+.button,.shopify-challenge__button,.customer button{border-radius:999px}
+</style>
+
+{% schema %}
+{ "name": "Leapproof brand layer", "settings": [], "presets": [ { "name": "Leapproof brand layer" } ], "enabled_on": { "groups": ["header"] } }
+{% endschema %}

@@ -1,0 +1,15 @@
+{
+  "sections": {
+    "lp-home": {
+      "type": "lp-home",
+      "settings": {
+        "quiz_url": "https://leapproof.myfunnelish.com/quiz-2891028289-1791612140998314",
+        "checkout_url": "https://leapproof.myfunnelish.com/checkout-page-189927362748349459546632494-1791612140332612",
+        "show_sample_reviews": true
+      }
+    }
+  },
+  "order": [
+    "lp-home"
+  ]
+}

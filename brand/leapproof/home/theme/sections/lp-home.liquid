@@ -1,0 +1,498 @@
+{%- comment -%}
+  Leapproof home page v2 (one section, all copy). Source of truth for the words: brand/leapproof/home/HOMEPAGE_COPY.md
+  Every number comes from brand/leapproof/funnel/NUMBER_SHEET.md. Edit both together.
+  Sample tester cards render only when the "Show SAMPLE tester cards" setting is on AND the URL has ?lpdemo=1.
+  Before this theme goes live: swap them for real tester reviews (or switch the setting off).
+{%- endcomment -%}
+{%- assign quiz = section.settings.quiz_url | default: 'https://leapproof.myfunnelish.com/quiz-2891028289-1791612140998314' -%}
+{%- assign ck = section.settings.checkout_url | default: 'https://leapproof.myfunnelish.com/checkout-page-189927362748349459546632494-1791612140332612' -%}
+{%- assign cdn = 'https://cdn.shopify.com/s/files/1/1026/8593/3939/files/' -%}
+
+<div id="lph" class="lph">
+
+  <!-- 1. HERO -->
+  <section class="lph-hero" aria-labelledby="lph-h1">
+    <div class="lph-hero__media">
+      <img src="{{ cdn }}lp-home-hero-laugh.jpg?v=1791804639&width=1100"
+           srcset="{{ cdn }}lp-home-hero-laugh.jpg?v=1791804639&width=600 600w, {{ cdn }}lp-home-hero-laugh.jpg?v=1791804639&width=1100 1100w"
+           sizes="(min-width: 900px) 46vw, 100vw" width="1080" height="1350"
+           alt="Two women laughing on a sunny sidewalk, holding to-go coffees" fetchpriority="high">
+      <p class="lph-cap--on">Mid-laugh. Not mid-clench.</p>
+    </div>
+    <div class="lph-hero__copy">
+      <p class="lph-eyebrow">Leak-resistant underwear for lighter leaks · US sizes 0–20</p>
+      <h1 id="lph-h1" class="lph-h1">Go ahead and sneeze.<span>No crossing your legs first.</span></h1>
+      <p class="lph-sub">Soft black briefs with a leak-resistant lining built in. No pad, nothing to change. Made for the few drops a sneeze, a laugh or a jump can bring. Wear them for 30 nights. If they don’t hold, you get your money back and keep the pairs.</p>
+      <a class="lph-btn" href="{{ quiz }}">Find my size + set</a>
+      <p class="lph-micro">2-minute quiz · No email needed · Sets from $45</p>
+      <ul class="lph-risk">
+        <li>30-Night Leak-Test</li><li>Free US shipping</li><li>Pay once, no subscription</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- 2. THE MOMENTS -->
+  <section class="lph-sec lph-white" id="moments">
+    <div class="lph-w">
+      <p class="lph-eyebrow">Sound familiar?</p>
+      <h2 class="lph-h2">Made for the moments you’ve been bracing for.</h2>
+      <p class="lph-lead">Usually it’s not a puddle. It’s a few drops at the worst possible time, and a little wet patch you hope looks like sweat. That’s what these are made for.</p>
+      <div class="lph-moments">
+        <article class="lph-mo">
+          <h3>The sneeze in the cereal aisle.</h3>
+          <p class="lph-before"><b>Before:</b> you freeze, squeeze, and hope your shirt is long enough.</p>
+          <p class="lph-after"><b>In Leapproof:</b> you sneeze, say “bless me,” and keep shopping.</p>
+        </article>
+        <article class="lph-mo">
+          <h3>The trampoline at the birthday party.</h3>
+          <p class="lph-before"><b>Before:</b> you hold everyone’s shoes and wave from the side.</p>
+          <p class="lph-after"><b>In Leapproof:</b> you’re the mom doing seat drops.</p>
+        </article>
+        <article class="lph-mo">
+          <h3>Double-unders at 6 a.m.</h3>
+          <p class="lph-before"><b>Before:</b> you pee before class, then again, then skip the jump rope anyway.</p>
+          <p class="lph-after"><b>In Leapproof:</b> you pick up the rope with everyone else.</p>
+        </article>
+        <article class="lph-mo">
+          <h3>The last mile of your Saturday run.</h3>
+          <p class="lph-before"><b>Before:</b> you plan the route around bathrooms and run the last mile clenched.</p>
+          <p class="lph-after"><b>In Leapproof:</b> you just finish the run.</p>
+        </article>
+        <article class="lph-mo">
+          <h3>The belly laugh at dinner.</h3>
+          <p class="lph-before"><b>Before:</b> you laugh with your legs crossed and stop halfway.</p>
+          <p class="lph-after"><b>In Leapproof:</b> you laugh at the whole joke.</p>
+        </article>
+      </div>
+      <p class="lph-qual">Made for lighter leaks: a few drops to a small splash. The quiz asks about yours.</p>
+    </div>
+  </section>
+
+  <!-- 3. COMMON ISN'T NORMAL (compact) -->
+  <section class="lph-sec lph-blush lph-tight" id="normal">
+    <div class="lph-w lph-narrow">
+      <h2 class="lph-h2">Common? Yes. Normal? No.</h2>
+      <p>About 1 in 3 women leak after having a baby.<sup><a href="#lph-src">1</a></sup> It gets more common with age.<sup><a href="#lph-src">2</a></sup> And it gets brushed off as “just part of it.”</p>
+      <blockquote class="lph-quote">Leaking is “NEVER considered normal.”<sup><a href="#lph-src">3</a></sup><cite>Ridgeview Medical Center</cite></blockquote>
+      <p>You’re not broken. You had a baby, or you lift heavy, or your hormones moved the goalposts. That’s plumbing, not a verdict on you.</p>
+      <div class="lph-box">
+        <p>If you can, see a pelvic floor physical therapist. Until then, you shouldn’t have to sit out your own life. That’s what these are for.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. STRAIGHT TALK -->
+  <section class="lph-sec" id="straight">
+    <div class="lph-w lph-narrow">
+      <p class="lph-eyebrow">Been burned before?</p>
+      <h2 class="lph-h2">Things most brands wouldn’t tell you.</h2>
+      <p class="lph-lead">If you’ve bought “leak-proof” underwear off an ad and it went right through, read this first.</p>
+      <ol class="lph-truths">
+        <li><h3>They’re made for lighter leaks.</h3><p>A few drops to a small splash. If yours is more than that, these may not be enough on their own.</p></li>
+        <li><h3>We ship from overseas.</h3><p>Shipping is free, and most orders arrive in about 6–10 days. Not next-day.</p></li>
+        <li><h3>We’re new.</h3><p>There are no customer reviews yet. Our first testers got a free set, and when their reviews go up, every one will say so.</p></li>
+        <li><h3>Our letters run small.</h3><p>An XL here fits about a US 12–14. So we size by your hips, and if the size is wrong, we’ll send your new size free.</p></li>
+      </ol>
+      <p class="lph-lead lph-mb0">We’d rather lose a sale than sell you the wrong thing. That’s why the 30-Night Leak-Test exists.</p>
+    </div>
+  </section>
+
+  <!-- 5. WHAT THEY ARE (+ vs pads) -->
+  <section class="lph-sec lph-white" id="what">
+    <div class="lph-w lph-split">
+      <div class="lph-prod">
+        <figure><img src="{{ cdn }}leapproof-brief.png?v=1791795349&width=700" width="1000" height="1000" loading="lazy" alt="The Leapproof Brief, a plain black brief"><figcaption>The Leapproof Brief. Black, plain, no lace.</figcaption></figure>
+        <figure><img src="{{ cdn }}leapproof-inside-lining.png?v=1791795349&width=700" width="1000" height="1000" loading="lazy" alt="Inside of the Leapproof Brief, showing the leak-resistant lining"><figcaption>The inside: the leak-resistant lining.</figcaption></figure>
+      </div>
+      <div>
+        <h2 class="lph-h2">They look like plain black briefs. On purpose.</h2>
+        <p class="lph-lead">No pad to stick in, nothing to swap out. The lining is part of the underwear.</p>
+        <ul class="lph-ticks">
+          <li><b>Soft and stretchy.</b> 95% regenerated fiber (a soft viscose-type fiber), 5% spandex.</li>
+          <li><b>The lining is built in.</b> A leak-resistant lining, so there’s nothing to stick in or throw away.</li>
+          <li><b>A soft, smooth waistband.</b> No lace, no trim.</li>
+          <li><b>Cut like regular briefs.</b> Wear them under leggings, jeans or work pants.</li>
+          <li><b>Wash, wear, repeat.</b> Machine wash cold in a mesh bag and wear them again.</li>
+          <li><b>US sizes 0–20.</b> Sized by your hip measurement (S to 4XL).</li>
+        </ul>
+        <p class="lph-honest">Made for lighter leaks: a few drops to a small splash on a sneeze, laugh or jump. If it’s more than that, these may not be enough on their own, and we’d rather tell you now.</p>
+      </div>
+    </div>
+    <div class="lph-w lph-narrow lph-vs">
+      <h3 class="lph-h3c">Why women stop buying pads</h3>
+      <p class="lph-c lph-note">Pads and liners bunch, feel like a diaper, and go in the trash every day.</p>
+      <table class="lph-table">
+        <thead><tr><th scope="col"><span class="lph-sr">What matters</span></th><th scope="col">Pads &amp; liners</th><th scope="col" class="lph-us">Leapproof</th></tr></thead>
+        <tbody>
+          <tr><th scope="row">How they feel</th><td>Bunch, shift and rustle</td><td class="lph-us">Like your regular undies</td></tr>
+          <tr><th scope="row">Every day</th><td>Another one in the trash</td><td class="lph-us">Wash them and wear them again</td></tr>
+          <tr><th scope="row">Under leggings</th><td>Can show</td><td class="lph-us">No pad to show</td></tr>
+          <tr><th scope="row">If they don’t hold</th><td>Money gone</td><td class="lph-us">30 nights, money back</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- 6. GUARANTEE -->
+  <section class="lph-sec lph-dark" id="leak-test">
+    <div class="lph-w lph-narrow lph-c">
+      <p class="lph-eyebrow lph-eyebrow--rose">The 30-Night Leak-Test</p>
+      <h2 class="lph-h2">Sneeze in them. Laugh in them. Then decide.</h2>
+      <p>Wear them through your real moments for 30 nights, starting the day they arrive. If they don’t hold, email us your order number and what happened. We refund your whole set. You keep the pairs. Nothing to send back.</p>
+      <p>We’re a new brand. So instead of asking you to trust us, we let you test them on your own sneeze.</p>
+      <p class="lph-fit"><b>The Fit Promise:</b> Wrong size? We’ll send your new size free. Nothing to send back.</p>
+      <a class="lph-btn lph-btn--light" href="{{ quiz }}">Find my size + set</a>
+      <p class="lph-small">One claim per customer. Covers your set and any extra pairs you add. This is on top of your legal rights. US: the 30-Night Leak-Test is a limited warranty. It gives you specific legal rights, and you may also have other rights which vary from state to state. <a href="/policies/refund-policy">Full terms</a></p>
+    </div>
+  </section>
+
+  <!-- 7. SIZES -->
+  <section class="lph-sec lph-white" id="sizes">
+    <div class="lph-w lph-narrow">
+      <h2 class="lph-h2">Sized by your hips, not a guess.</h2>
+      <p class="lph-lead">Our letters don’t match the one on your other underwear, so we go by one number: around the widest part of your hips. Your usual US size is next to each one.</p>
+      <table class="lph-table lph-size">
+        <thead><tr><th scope="col">Size</th><th scope="col">Hips</th><th scope="col">US</th></tr></thead>
+        <tbody>
+          <tr><th scope="row">S</th><td>up to 36″ (91 cm)</td><td>0–2</td></tr>
+          <tr><th scope="row">M</th><td>36–38″ (91–96 cm)</td><td>4–6</td></tr>
+          <tr><th scope="row">L</th><td>38–40″ (96–101 cm)</td><td>8–10</td></tr>
+          <tr><th scope="row">XL</th><td>40–44″ (101–111 cm)</td><td>12–14</td></tr>
+          <tr><th scope="row">XXL</th><td>44–47″ (111–120 cm)</td><td>16</td></tr>
+          <tr><th scope="row">3XL</th><td>47–51″ (120–129 cm)</td><td>18</td></tr>
+          <tr><th scope="row">4XL</th><td>51–54″ (129–138 cm)</td><td>20</td></tr>
+        </tbody>
+      </table>
+      <p class="lph-note">Between two sizes? Pick the smaller one. Sounds wrong, we know. A loose pair can gap at the legs, and a snug one sits close to you.</p>
+      <div class="lph-box lph-box--claret">
+        <p class="lph-boxh">The Fit Promise</p>
+        <p>Wrong size? We’ll send your new size free. Nothing to send back.</p>
+        <p class="lph-small">Email us within your 30 nights. One free size swap per order.</p>
+      </div>
+      <p class="lph-small">Over 54″ (138 cm)? We don’t make your size yet. We’d rather tell you now than sell you a pair that won’t fit.</p>
+    </div>
+  </section>
+
+  <!-- 8. THE SETS -->
+  <section class="lph-sec lph-blush" id="sets">
+    <div class="lph-w">
+      <h2 class="lph-h2 lph-c">One pair on, the rest in the wash.</h2>
+      <p class="lph-lead lph-c">That’s why 5 is our pick. The more pairs, the less each one costs: from $9.90 a pair.</p>
+      <div class="lph-sets">
+        <article class="lph-set">
+          <img src="{{ cdn }}leapproof-3-pairs.png?v=1791795349&width=500" width="1000" height="1000" loading="lazy" alt="3 Leapproof Briefs">
+          <h3>The Starter Set</h3>
+          <p class="lph-pairs">3 pairs</p>
+          <p class="lph-price">$45</p>
+          <p class="lph-pp">$15.00 a pair</p>
+          <ul><li>3 Leapproof Briefs</li><li>30 nights to test them</li><li class="lph-lack">No free gifts</li></ul>
+          <p class="lph-setnote">Just want to try them?</p>
+          <a class="lph-btn lph-btn--ghost" href="{{ ck }}?set=3">Start with 3 pairs</a>
+        </article>
+        <article class="lph-set lph-set--pick">
+          <p class="lph-tag">Our pick</p>
+          <img src="{{ cdn }}leapproof-5-pairs.png?v=1791795349&width=500" width="1000" height="1000" loading="lazy" alt="5 Leapproof Briefs">
+          <h3>The Everyday Rotation</h3>
+          <p class="lph-pairs">5 pairs</p>
+          <p class="lph-price">$59</p>
+          <p class="lph-pp">$11.80 a pair · Save $16 (21%) vs. the 3-pair price</p>
+          <ul><li>5 Leapproof Briefs</li><li>Free Wash Bag ($12.95 value): a mesh bag that keeps them together in the machine</li><li>30 nights to test them</li></ul>
+          <p class="lph-setnote">Wear a pair while the rest are in the wash.</p>
+          <a class="lph-btn" href="{{ ck }}?set=5">Get 5 pairs</a>
+        </article>
+        <article class="lph-set">
+          <p class="lph-tag lph-tag--soft">Best value</p>
+          <img src="{{ cdn }}leapproof-10-pairs.png?v=1791795349&width=500" width="1000" height="1000" loading="lazy" alt="10 Leapproof Briefs">
+          <h3>The Full Rotation</h3>
+          <p class="lph-pairs">10 pairs</p>
+          <p class="lph-price">$99</p>
+          <p class="lph-pp">$9.90 a pair · Save $51 (34%) vs. the 3-pair price</p>
+          <ul><li>10 Leapproof Briefs</li><li>Free Wash Bag + 64 unscented Wash Sheets to use instead of detergent ($32.90 in free gifts)</li><li>30 nights to test them</li></ul>
+          <p class="lph-setnote">A pair a day for a week, plus spares.</p>
+          <a class="lph-btn lph-btn--ghost" href="{{ ck }}?set=10">Get 10 pairs</a>
+        </article>
+      </div>
+      <p class="lph-c lph-small">You pick your size at checkout. Prices in US dollars.</p>
+      <ul class="lph-risk lph-c">
+        <li>Free US shipping</li><li>Pay once, no subscription</li><li>30-Night Leak-Test on every set</li>
+      </ul>
+      <div class="lph-quizcta">
+        <p><b>Not sure how many, or which size?</b> The 2-minute quiz works it out from your week and your hips. No email needed.</p>
+        <a class="lph-btn" href="{{ quiz }}">Find my size + set</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 9. HOW IT WORKS -->
+  <section class="lph-sec" id="how">
+    <div class="lph-w">
+      <h2 class="lph-h2 lph-c">Three steps. About 2 minutes of work.</h2>
+      <ol class="lph-steps">
+        <li><span>1</span><h3>Take the quiz.</h3><p>Tell us your moments, your size and how often you do laundry. No tape measure handy? Your usual US size is listed next to each option.</p></li>
+        <li><span>2</span><h3>Get your match.</h3><p>Your size, and how many pairs fit your week: 5 or 10, or start with 3.</p></li>
+        <li><span>3</span><h3>Wear them for 30 nights.</h3><p>Wash them once first, then sneeze, laugh, jump. If they don’t hold, email us. Full refund, keep the pairs.</p></li>
+      </ol>
+      <p class="lph-c lph-note">Most orders arrive in about 6–10 days. Your 30 nights start the day they arrive.</p>
+      <div class="lph-c">
+        <a class="lph-btn" href="{{ quiz }}">Find my size + set</a>
+        <p class="lph-micro">30-Night Leak-Test · Free US shipping · Pay once, no subscription</p>
+      </div>
+    </div>
+  </section>
+
+  {%- if section.settings.show_sample_reviews -%}
+  <!-- 10. TESTERS: SAMPLE cards for the mockup only (shown with ?lpdemo=1). Replace with real Founding 30 reviews before launch. -->
+  <section class="lph-sec lph-white" id="lph-testers" hidden>
+    <div class="lph-w">
+      <h2 class="lph-h2 lph-c">Our first testers wore them through their own moments.</h2>
+      <p class="lph-c lph-small">Every tester got a free set and was asked for an honest review at any star rating. We don’t hide reviews for being negative.</p>
+      <div class="lph-revs">
+        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-1.jpg?v=1791804638&width=500" width="672" height="900" loading="lazy" alt="Three black briefs on a bed next to an open mailer">
+          <blockquote>“I’m 34 and thought this stuff was for my grandma. Turns out they’re just like normal black undies. Wore them to my son’s trampoline party and actually got on for once, instead of holding everyone’s shoes.”</blockquote>
+          <figcaption>Jess M. · Received a free set to test</figcaption></figure>
+        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-2.jpg?v=1791804638&width=500" width="672" height="900" loading="lazy" alt="A black brief and the Wash Bag on a kitchen counter">
+          <blockquote>“I’ve bought ‘leak-proof’ stuff off ads before and it was junk, so I went in expecting the same. Did the quiz, it gave me my size, and the 30-night test meant I wasn’t risking anything. Two weeks in, I’ve stopped packing spare undies in my gym bag.”</blockquote>
+          <figcaption>Sarah W. · Received a free set to test</figcaption></figure>
+        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-3.jpg?v=1791804639&width=500" width="672" height="900" loading="lazy" alt="Mirror photo showing the black waistband sitting flat">
+          <blockquote>“Big sneeze in the grocery store and I did my usual freeze. Nobody knew a thing. The XL fits like my normal undies. No bunching, nothing rolling down.”</blockquote>
+          <figcaption>Jessica M. · XL · Received a free set to test</figcaption></figure>
+      </div>
+    </div>
+  </section>
+  {%- endif -%}
+
+  <!-- 11. FAQ -->
+  <section class="lph-sec lph-white" id="faq">
+    <div class="lph-w lph-narrow">
+      <h2 class="lph-h2">Straight answers.</h2>
+      <p class="lph-lead">If your question isn’t here, email <a class="lph-link" href="mailto:hello@leapproof.com">hello@leapproof.com</a>. A real person answers.</p>
+      <div class="lph-faq">
+        <details open><summary>Is Leapproof legit?</summary><div><p>Fair question. If you’ve bought “leak-proof” underwear off an ad before, you’ve probably been burned. Here’s what we put in writing: you get 30 nights to test them, and if they don’t hold, we refund your whole set and you keep the pairs. You pay once, with no subscription. Shipping is free. A real person answers every email at <a href="mailto:hello@leapproof.com">hello@leapproof.com</a>. Our <a href="/policies/refund-policy">refund</a> and <a href="/policies/shipping-policy">shipping</a> policies are linked at the bottom of every page.</p></div></details>
+        <details><summary>How much can they hold?</summary><div><p>They’re made for lighter leaks: a few drops to a small splash on a sneeze, laugh or jump. If it’s more than that, these may not be enough on their own, and a doctor or pelvic floor physical therapist is worth a chat.</p></div></details>
+        <details><summary>I already own period underwear. Why these?</summary><div><p>If what you have already works for your leaks, keep it. These are made for the sneeze, laugh and jump moments, they’re sized by your hips (US 0–20), and you get 30 nights to test them on your own sneeze. If they don’t hold, you get your money back and keep the pairs.</p></div></details>
+        <details><summary>Will they feel like a diaper or show under leggings?</summary><div><p>No pad, so nothing bulky. They’re cut like regular briefs with a soft, smooth waistband. Wear them under leggings, jeans or work pants.</p></div></details>
+        <details><summary>How do I pick my size?</summary><div><p>Measure around the widest part of your hips and use the <a href="#sizes">size chart</a>. Go by the number, not the letter on your other undies. Between two sizes? Pick the smaller one. Wrong size? We’ll send your new size free. Nothing to send back.</p></div></details>
+        <details><summary>Can I wear them to train, run or sleep?</summary><div><p>Yes, you can wear them for training, a run, a big day out or overnight. They’re made for lighter leaks, so if your nights are heavier, they may not be enough on their own.</p></div></details>
+        <details><summary>Can I wear them on my period?</summary><div><p>They’re made for lighter leaks, not as period underwear. On your period, use what you normally use.</p></div></details>
+        <details><summary>How do I wash them?</summary><div><p>1. Rinse them in cold water after you take them off.<br>2. Zip them into a mesh wash bag (the Wash Bag comes free with 5 or 10 pairs) and machine wash cold (86°F / 30°C max) on a gentle cycle.<br>3. Use a mild detergent with no fabric softener, or the Wash Sheets.<br>4. Hang them to dry. No dryer, no bleach, no ironing.</p><p>Heat and softener are hard on the lining. Skip both and your pairs are made to be worn and washed again and again.</p></div></details>
+        <details><summary>Will they smell?</summary><div><p>Wash them after every wear, like any underwear, and follow the steps above. Skipping softener keeps the lining soaking up properly. We don’t claim they’re “antibacterial,” because we haven’t tested that.</p></div></details>
+        <details><summary>Have they been lab tested?</summary><div><p>Not by a third-party lab yet. So we don’t claim things like “PFAS-free” or a number of milliliters. When we have lab results, we’ll post them here. What we can tell you: 95% regenerated fiber, 5% spandex.</p></div></details>
+        <details><summary>Is this a subscription?</summary><div><p>No. You pay once for the set you pick. Nothing renews, and we never charge you again unless you say yes.</p></div></details>
+        <details><summary>When will they arrive?</summary><div><p>We pack your order in 1–3 business days, and most orders arrive about 6–10 days after you order. Shipping is free. With 10 pairs, the Wash Sheets come in a separate parcel and may arrive a few days apart.</p></div></details>
+        <details><summary>What if they don’t work or don’t fit?</summary><div><p>Doesn’t hold: email us within your 30 nights and we refund your whole set. You keep the pairs. Wrong size? We’ll send your new size free. Nothing to send back. One Leak-Test claim per customer, one free size swap per order.</p></div></details>
+        <details><summary>Do I have to take the quiz?</summary><div><p>No. If you know your size, <a href="#sets">pick a set</a> and choose your size at checkout. The quiz is the quickest way to get your size and the right number of pairs: about 2 minutes, no email needed.</p></div></details>
+        <details><summary>Who’s behind Leapproof?</summary><div><p>A small brand from Melbourne, Australia, started because women keep being told leaking is just part of life. Every email is answered by a real person: <a href="mailto:hello@leapproof.com">hello@leapproof.com</a>.</p></div></details>
+      </div>
+    </div>
+  </section>
+
+  <!-- 12. FINAL CTA -->
+  <section class="lph-sec lph-blush lph-final">
+    <div class="lph-w lph-narrow lph-c">
+      <h2 class="lph-h2">Laugh at the whole joke.</h2>
+      <p class="lph-lead">Take the 2-minute quiz. Wear them through your real moments for 30 nights. If they don’t hold, you get your money back and keep the pairs.</p>
+      <a class="lph-btn" href="{{ quiz }}">Find my size + set</a>
+      <p class="lph-micro">No email needed · Free US shipping · Pay once, no subscription</p>
+    </div>
+  </section>
+
+  <!-- 13. SOURCES + DISCLOSURES -->
+  <section class="lph-src" id="lph-src">
+    <div class="lph-w lph-narrow">
+      <p><strong>Not a treatment. It’s underwear.</strong> For heavier leaks, these aren’t enough on their own. If leaking is new, painful or getting worse, talk to a doctor or a pelvic floor physical therapist.</p>
+      <p>¹ A review of studies of leaking between 6 weeks and 1 year after giving birth. Moossdorff-Steinhauser et al., International Urogynecology Journal, 2021. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295150/" target="_blank" rel="noopener">PMC8295150</a>. Research results, not Leapproof customers.</p>
+      <p>² US national survey data, NHANES (<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505252/" target="_blank" rel="noopener">PMC3505252</a>).</p>
+      <p>³ Ridgeview Medical Center, “Coughing, laughing or sneezing shouldn’t cause peeing,” <a href="https://www.ridgeviewmedical.org/health-eviews/coughing-laughing-or-sneezing-shouldnt-cause-peeing/" target="_blank" rel="noopener">ridgeviewmedical.org</a>. The words “NEVER considered normal.” are copied from this page.</p>
+      <p>Words in quote marks next to a named source are copied exactly from that source. Leapproof isn’t connected to, or endorsed by, any source named on this page. The photos of people on this page are AI-generated. They don’t show real customers.</p>
+    </div>
+  </section>
+
+  <!-- Sticky mobile CTA -->
+  <div class="lph-sticky" id="lph-sticky" aria-hidden="true">
+    <span>30 nights to test them. Keep the pairs.</span>
+    <a class="lph-btn" href="{{ quiz }}" tabindex="-1">Find my size</a>
+  </div>
+</div>
+
+<style>
+#lph{--ink:#231017;--claret:#A33154;--claret-d:#872845;--cream:#F5EDE6;--blush:#E7CFC9;--taupe:#8C6A6C;--taupe-d:#6E5153;--rose:#E7879F;--line:#E4D6D0;--white:#FFFCFA;
+  font-family:'Hanken Grotesk',Arial,sans-serif;color:var(--ink);background:var(--cream);-webkit-font-smoothing:antialiased;font-size:17px;line-height:1.6;letter-spacing:0}
+#lph *{box-sizing:border-box}
+#lph p,#lph h1,#lph h2,#lph h3,#lph ul,#lph ol,#lph figure,#lph blockquote{margin:0;padding:0}
+#lph img{display:block;max-width:100%;height:auto}
+#lph a{color:inherit}
+#lph sup a{text-decoration:none;color:var(--claret-d);font-weight:700}
+#lph .lph-w{max-width:1120px;margin:0 auto;padding:0 20px}
+#lph .lph-narrow{max-width:760px}
+#lph .lph-c{text-align:center}
+#lph .lph-sec{padding:64px 0;scroll-margin-top:70px}
+#lph .lph-tight{padding:52px 0}
+#lph .lph-white{background:var(--white)}
+#lph .lph-blush{background:var(--blush)}
+#lph .lph-dark{background:var(--ink);color:var(--cream)}
+#lph .lph-eyebrow{font-size:12.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--claret-d);margin-bottom:12px}
+#lph .lph-eyebrow--rose{color:var(--rose)}
+#lph .lph-h1,#lph .lph-h2,#lph h3{font-family:'Fraunces',Georgia,serif;font-weight:600;letter-spacing:-.015em;color:inherit}
+#lph .lph-h1{font-size:clamp(40px,10vw,70px);line-height:1.02;margin-bottom:16px}
+#lph .lph-h1 span{display:block;font-style:italic;font-weight:500;color:var(--ink);font-size:.56em;line-height:1.15;margin-top:10px;letter-spacing:-.01em}
+#lph .lph-h2{font-size:clamp(30px,6.4vw,44px);line-height:1.1;margin-bottom:16px}
+#lph h3{font-size:21px;line-height:1.25;margin-bottom:8px}
+#lph .lph-h3c{text-align:center;font-size:clamp(24px,5vw,30px);margin-bottom:6px}
+#lph .lph-lead{font-size:18.5px;line-height:1.55;color:var(--taupe-d);margin-bottom:28px}
+#lph .lph-mb0{margin-bottom:0}
+#lph .lph-dark p{color:var(--cream)}
+#lph p+p{margin-top:14px}
+#lph .lph-small{font-size:14px;color:var(--taupe-d);margin-top:12px}
+#lph .lph-dark .lph-small{color:#D9C6C8}
+#lph .lph-dark .lph-small a{color:var(--cream)}
+#lph .lph-note{font-size:15.5px;color:var(--taupe-d);margin:18px 0}
+#lph .lph-qual{font-size:15px;color:var(--taupe-d);margin-top:18px;text-align:center;font-style:italic}
+#lph .lph-link{color:var(--claret-d);font-weight:700;text-underline-offset:3px}
+#lph .lph-btn{display:inline-flex;align-items:center;justify-content:center;min-height:56px;padding:0 34px;background:var(--claret);color:#fff;font-weight:700;font-size:17.5px;text-decoration:none;border-radius:999px;box-shadow:0 6px 18px rgba(163,49,84,.28);transition:background .15s,transform .15s}
+#lph .lph-btn:hover{background:var(--claret-d);transform:translateY(-1px)}
+#lph .lph-btn--ghost{background:transparent;color:var(--claret-d);border:2px solid var(--claret);box-shadow:none}
+#lph .lph-btn--ghost:hover{background:var(--claret);color:#fff}
+#lph .lph-btn--light{background:var(--cream);color:var(--ink);box-shadow:none;margin-top:24px}
+#lph .lph-btn--light:hover{background:#fff}
+#lph .lph-micro{font-size:14px;color:var(--taupe-d);margin-top:10px}
+#lph .lph-risk{list-style:none;display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:18px;font-size:14px;font-weight:600}
+#lph .lph-risk li{position:relative;padding-left:22px}
+#lph .lph-risk li::before{content:'';position:absolute;left:0;top:4px;width:15px;height:15px;border-radius:50%;background:var(--claret) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4 8.3l2.4 2.4L12 5.2' fill='none' stroke='%23fff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/11px no-repeat}
+#lph .lph-risk.lph-c{justify-content:center}
+#lph figcaption{font-size:14px;color:var(--taupe-d);margin-top:8px}
+/* hero */
+#lph .lph-hero{display:grid;grid-template-columns:1fr}
+#lph .lph-hero__media{position:relative;height:34vh;min-height:230px;max-height:420px;overflow:hidden}
+#lph .lph-hero__media img{width:100%;height:100%;object-fit:cover;object-position:50% 30%}
+#lph .lph-cap--on{position:absolute;left:16px;bottom:12px;margin:0;color:#fff;font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:17px;text-shadow:0 1px 10px rgba(35,16,23,.65)}
+#lph .lph-hero__copy{padding:24px 20px 40px}
+#lph .lph-sub{font-size:17px;line-height:1.55;margin-bottom:22px;max-width:560px}
+#lph .lph-hero .lph-btn{width:100%}
+@media (min-width:900px){
+  #lph .lph-hero{grid-template-columns:1.05fr .95fr;min-height:640px}
+  #lph .lph-hero__media{order:2;height:auto;max-height:none}
+  #lph .lph-hero__copy{order:1;display:flex;flex-direction:column;justify-content:center;padding:56px 56px 56px max(20px,calc((100vw - 1120px)/2 + 20px))}
+  #lph .lph-hero .lph-btn{width:auto;align-self:flex-start}
+  #lph .lph-sec{padding:96px 0}
+  #lph .lph-tight{padding:72px 0}
+  #lph .lph-split{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center}
+}
+/* moments */
+#lph .lph-moments{display:grid;gap:14px}
+#lph .lph-mo{background:var(--cream);border:1px solid var(--line);border-radius:18px;padding:22px 20px}
+#lph .lph-before{color:var(--taupe-d);font-size:16px}
+#lph .lph-after{margin-top:10px;font-size:16.5px}
+#lph .lph-after b{color:var(--claret-d)}
+@media (min-width:700px){#lph .lph-moments{grid-template-columns:repeat(6,1fr)}#lph .lph-mo{grid-column:span 3}#lph .lph-mo:nth-child(n+3){grid-column:span 2}}
+/* normal */
+#lph .lph-quote{font-family:'Fraunces',Georgia,serif;font-size:24px;line-height:1.3;border-left:3px solid var(--claret);padding-left:16px;margin:20px 0}
+#lph .lph-quote cite{display:block;font-family:'Hanken Grotesk',Arial,sans-serif;font-style:normal;font-size:13.5px;color:var(--taupe-d);margin-top:6px;letter-spacing:.04em}
+#lph .lph-box{background:var(--white);border-radius:16px;padding:18px 20px;margin-top:20px}
+#lph .lph-box--claret{border:2px solid var(--claret)}
+#lph .lph-boxh{font-weight:700;color:var(--claret-d);text-transform:uppercase;letter-spacing:.1em;font-size:13px}
+/* tables */
+#lph .lph-table{width:100%;border-collapse:separate;border-spacing:0;background:var(--white);border:1px solid var(--line);border-radius:16px;overflow:hidden;font-size:15.5px}
+#lph .lph-table th,#lph .lph-table td{padding:13px 12px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+#lph .lph-table tr:last-child th,#lph .lph-table tr:last-child td{border-bottom:0}
+#lph .lph-table thead th{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--taupe-d);background:var(--cream)}
+#lph .lph-table tbody th{font-weight:700}
+#lph .lph-table .lph-us{background:#FBF1F3;color:var(--ink);font-weight:600}
+#lph .lph-table thead .lph-us{color:var(--claret-d);background:#F6E3E8}
+#lph .lph-size td,#lph .lph-size th{text-align:center}
+#lph .lph-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+/* what */
+#lph .lph-prod{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:28px}
+#lph .lph-prod img{border-radius:14px}
+#lph .lph-ticks{list-style:none;display:grid;gap:12px;margin-bottom:22px}
+#lph .lph-ticks li{position:relative;padding-left:30px}
+#lph .lph-ticks li::before{content:'';position:absolute;left:0;top:5px;width:19px;height:19px;border-radius:50%;background:var(--claret) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4 8.3l2.4 2.4L12 5.2' fill='none' stroke='%23fff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/13px no-repeat}
+#lph .lph-honest{background:var(--cream);border-left:3px solid var(--taupe);padding:14px 16px;border-radius:0 12px 12px 0;font-size:15.5px}
+#lph .lph-vs{margin-top:56px}
+@media (min-width:900px){#lph .lph-prod{margin-bottom:0}#lph .lph-vs{margin-top:80px}}
+/* truths */
+#lph .lph-truths{list-style:none;counter-reset:t;display:grid;gap:14px;margin:8px 0 26px}
+#lph .lph-truths li{counter-increment:t;background:var(--white);border:1px solid var(--line);border-radius:16px;padding:18px 20px 18px 62px;position:relative}
+#lph .lph-truths li::before{content:counter(t);position:absolute;left:20px;top:16px;font-family:'Fraunces',Georgia,serif;font-size:28px;line-height:1;color:var(--claret)}
+#lph .lph-truths p{color:var(--taupe-d);font-size:16px}
+/* guarantee */
+#lph #leak-test .lph-h2{color:var(--cream)}
+#lph .lph-fit{margin-top:20px;padding:14px 16px;border:1px solid rgba(231,135,159,.5);border-radius:14px}
+#lph .lph-fit b{color:var(--rose)}
+/* steps */
+#lph .lph-steps{list-style:none;display:grid;gap:14px;margin:8px 0 6px}
+#lph .lph-steps li{background:var(--white);border:1px solid var(--line);border-radius:18px;padding:22px 20px 20px}
+#lph .lph-steps span{display:inline-flex;width:36px;height:36px;border-radius:50%;background:var(--claret);color:#fff;font-weight:700;align-items:center;justify-content:center;margin-bottom:12px}
+@media (min-width:800px){#lph .lph-steps{grid-template-columns:repeat(3,1fr)}}
+/* sets */
+#lph .lph-sets{display:grid;gap:22px;margin:10px 0 18px}
+#lph .lph-set{position:relative;background:var(--white);border:1px solid var(--line);border-radius:20px;padding:24px 20px;text-align:center;display:flex;flex-direction:column;align-items:center}
+#lph .lph-set img{width:62%;max-width:220px;border-radius:12px;margin-bottom:12px}
+#lph .lph-set--pick{border:2px solid var(--claret);box-shadow:0 14px 34px rgba(163,49,84,.16)}
+#lph .lph-tag{position:absolute;top:-13px;left:50%;transform:translateX(-50%);background:var(--claret);color:#fff;font-size:12.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:5px 14px;border-radius:999px;white-space:nowrap}
+#lph .lph-tag--soft{background:var(--ink)}
+#lph .lph-pairs{font-weight:700;color:var(--taupe-d);font-size:14px;letter-spacing:.06em;text-transform:uppercase}
+#lph .lph-price{font-family:'Fraunces',Georgia,serif;font-size:44px;font-weight:600;line-height:1.1;margin-top:4px}
+#lph .lph-pp{font-size:15px;color:var(--claret-d);font-weight:700;margin-top:4px}
+#lph .lph-set ul{list-style:none;margin:16px 0 12px;font-size:15.5px;display:grid;gap:6px}
+#lph .lph-set .lph-lack{color:var(--taupe-d)}
+#lph .lph-setnote{font-size:14.5px;color:var(--taupe-d);margin:0 0 16px;font-style:italic}
+#lph .lph-set .lph-btn{margin-top:auto;width:100%}
+#lph .lph-quizcta{background:var(--white);border-radius:20px;padding:22px 20px;margin-top:26px;text-align:center}
+#lph .lph-quizcta p{margin-bottom:16px}
+@media (min-width:900px){#lph .lph-sets{grid-template-columns:repeat(3,1fr);align-items:stretch}#lph .lph-set--pick{transform:translateY(-8px)}#lph .lph-quizcta{display:flex;align-items:center;justify-content:space-between;gap:24px;text-align:left}#lph .lph-quizcta p{margin:0}}
+/* reviews */
+#lph .lph-revs{display:grid;gap:16px;margin-top:26px}
+#lph .lph-rev{background:var(--cream);border-radius:18px;overflow:hidden}
+#lph .lph-rev img{aspect-ratio:4/3;object-fit:cover;width:100%}
+#lph .lph-rev blockquote{padding:16px 18px 6px;font-size:16px}
+#lph .lph-rev figcaption{padding:0 18px 18px;font-weight:700;color:var(--ink)}
+@media (min-width:800px){#lph .lph-revs{grid-template-columns:repeat(3,1fr)}}
+/* faq */
+#lph .lph-faq details{border-bottom:1px solid var(--line)}
+#lph .lph-faq summary{list-style:none;cursor:pointer;padding:18px 40px 18px 0;font-weight:700;font-size:17.5px;position:relative}
+#lph .lph-faq summary::-webkit-details-marker{display:none}
+#lph .lph-faq summary::after{content:'+';position:absolute;right:4px;top:12px;font-size:28px;font-weight:400;color:var(--claret)}
+#lph .lph-faq details[open] summary::after{content:'–'}
+#lph .lph-faq details>div{padding:0 0 20px;color:#4A3A3F}
+#lph .lph-faq a{color:var(--claret-d);font-weight:600}
+/* final */
+#lph .lph-final .lph-lead{max-width:600px;margin-left:auto;margin-right:auto}
+/* sources */
+#lph .lph-src{background:var(--cream);padding:40px 0 48px;font-size:13px;line-height:1.55;color:var(--taupe-d);border-top:1px solid var(--line)}
+#lph .lph-src p+p{margin-top:8px}
+#lph .lph-src strong{color:var(--ink)}
+/* sticky */
+#lph .lph-sticky{position:fixed;left:0;right:0;bottom:0;z-index:60;display:flex;align-items:center;gap:12px;justify-content:space-between;padding:10px 14px calc(10px + env(safe-area-inset-bottom));background:rgba(255,252,250,.97);border-top:1px solid var(--line);box-shadow:0 -6px 18px rgba(35,16,23,.08);transform:translateY(110%);transition:transform .25s}
+#lph .lph-sticky.on{transform:none}
+#lph .lph-sticky span{font-size:13.5px;font-weight:600;line-height:1.3;max-width:52%}
+#lph .lph-sticky .lph-btn{min-height:48px;padding:0 22px;font-size:16px;box-shadow:none}
+@media (min-width:900px){#lph .lph-sticky{display:none}}
+</style>
+
+<script>
+(function(){
+  /* SAMPLE tester cards only with ?lpdemo=1 (mockup; FTC: no invented reviews live) */
+  try{ if(new URLSearchParams(location.search).get('lpdemo')==='1'){ var t=document.getElementById('lph-testers'); if(t) t.hidden=false; } }catch(e){}
+  /* sticky CTA: on after the hero button scrolls away, off at the final CTA */
+  var s=document.getElementById('lph-sticky'), heroBtn=document.querySelector('#lph .lph-hero .lph-btn'), fin=document.querySelector('#lph .lph-final');
+  if(!s||!heroBtn||!('IntersectionObserver' in window)) return;
+  var pastHero=false, atEnd=false;
+  function upd(){ var on=pastHero&&!atEnd; s.classList.toggle('on',on); s.setAttribute('aria-hidden',on?'false':'true'); s.querySelector('a').tabIndex=on?0:-1; }
+  new IntersectionObserver(function(e){ pastHero=!e[0].isIntersecting && e[0].boundingClientRect.top<0; upd(); }).observe(heroBtn);
+  if(fin) new IntersectionObserver(function(e){ atEnd=e[0].isIntersecting; upd(); }).observe(fin);
+})();
+</script>
+
+{% schema %}
+{
+  "name": "Leapproof home",
+  "tag": "div",
+  "class": "lph-section",
+  "settings": [
+    { "type": "text", "id": "quiz_url", "label": "Quiz link (every Find my size + set button)", "default": "https://leapproof.myfunnelish.com/quiz-2891028289-1791612140998314" },
+    { "type": "text", "id": "checkout_url", "label": "Checkout link (no query string)", "default": "https://leapproof.myfunnelish.com/checkout-page-189927362748349459546632494-1791612140332612" },
+    { "type": "checkbox", "id": "show_sample_reviews", "label": "Show SAMPLE tester cards (only with ?lpdemo=1). Turn OFF or replace with real reviews before launch.", "default": false }
+  ],
+  "presets": [ { "name": "Leapproof home" } ]
+}
+{% endschema %}

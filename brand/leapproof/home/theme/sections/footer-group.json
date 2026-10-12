@@ -1,0 +1,80 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Not ready to try them yet?",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Get one email when our testers’ reviews go live, plus our washing tips. No spam. Unsubscribe anytime.</p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 40
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "links": {
+          "type": "link_list",
+          "settings": {
+            "heading": "leapproof",
+            "menu": "leapproof-footer"
+          }
+        },
+        "about": {
+          "type": "text",
+          "settings": {
+            "heading": "Straight talk",
+            "subtext": "<p>Underwear, not a treatment. Made for lighter leaks. Questions? <a href=\"mailto:hello@leapproof.com\">hello@leapproof.com</a> · a real person answers.</p><p>© 2026 leapproof · Melbourne, Australia</p>"
+          }
+        }
+      },
+      "block_order": [
+        "links",
+        "about"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "newsletter_enable": false,
+        "newsletter_heading": "",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 44,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "newsletter",
+    "footer"
+  ]
+}
