@@ -1,0 +1,181 @@
+<!-- Leapproof thank-you page v1 (USD, US) · paste this whole block into ONE Custom HTML element on the thank-you page.
+     It hides the whole Limura template (logo, "Personalized Routine", Back to Home, Retake Quiz, 25% code)
+     and shows the Leapproof page instead. Calm only: no offers, no codes, no timers. -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;500;600;700&display=swap');
+#lpt{--ink:#231017;--claret:#A33154;--claret-d:#872845;--cream:#F5EDE6;--blush:#E7CFC9;--taupe:#8C6A6C;--rose:#E7879F;--line:#E4D6D0;
+ font-family:'Hanken Grotesk',Arial,sans-serif;color:var(--ink);background:var(--cream);-webkit-font-smoothing:antialiased;width:100%;min-height:100vh}
+#lpt *{box-sizing:border-box;margin:0;padding:0;border-radius:0}
+#lpt .hdr{background:#fff;border-bottom:1px solid var(--line)}
+#lpt .hdr .w{max-width:1040px;margin:0 auto;padding:0 16px;height:64px;display:flex;align-items:center;justify-content:space-between}
+#lpt .logo{font-family:'Fraunces',Georgia,serif;font-size:28px;letter-spacing:-.02em;line-height:1;color:var(--ink)}
+#lpt .logo i{color:var(--claret);font-weight:500;margin-left:.06em}
+#lpt .hdr .r{font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--claret-d)}
+#lpt .nw{max-width:640px;margin:0 auto;padding:0 16px}
+#lpt h1,#lpt h2,#lpt h3{font-family:'Fraunces',Georgia,serif;font-weight:600;letter-spacing:-.01em;line-height:1.15}
+#lpt .hero{text-align:center;padding:38px 0 6px}
+#lpt .tick{width:64px;height:64px;border-radius:50%!important;background:var(--claret);display:flex;align-items:center;justify-content:center;margin:0 auto 18px}
+#lpt .tick svg{width:30px;height:30px}
+#lpt .hero h1{font-size:clamp(30px,7vw,44px);margin-bottom:10px}
+#lpt .hero p{font-size:17px;line-height:1.55;color:var(--taupe)}
+#lpt .hero .sub{font-family:'Fraunces',Georgia,serif;font-style:italic;color:var(--claret);font-size:clamp(18px,4.2vw,22px);margin-top:12px}
+#lpt .card{background:#fff;border:1px solid var(--line);padding:22px 20px;margin-top:18px}
+#lpt .lab{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--claret-d);margin-bottom:12px}
+#lpt .card h2{font-size:23px;margin-bottom:12px}
+/* timeline */
+#lpt .tl{list-style:none;position:relative}
+#lpt .tl li{position:relative;padding:0 0 18px 40px}
+#lpt .tl li:last-child{padding-bottom:0}
+#lpt .tl li::before{content:'';position:absolute;left:11px;top:24px;bottom:-2px;width:2px;background:var(--blush)}
+#lpt .tl li:last-child::before{display:none}
+#lpt .tl .dot{position:absolute;left:0;top:0;width:24px;height:24px;border-radius:50%!important;border:2px solid var(--claret);background:#fff;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:700;color:var(--claret)}
+#lpt .tl li.done .dot{background:var(--claret);color:#fff}
+#lpt .tl b{display:block;font-size:16px;line-height:1.35}
+#lpt .tl span{display:block;font-size:14.5px;color:var(--taupe);line-height:1.5;margin-top:2px}
+#lpt .note{background:var(--cream);border-left:3px solid var(--claret);padding:10px 12px;font-size:14.5px;line-height:1.5;margin-top:16px}
+/* steps */
+#lpt .steps{list-style:none;counter-reset:s}
+#lpt .steps li{counter-increment:s;position:relative;padding:8px 0 8px 40px;font-size:16px;line-height:1.45;border-bottom:1px solid #F3EAE6}
+#lpt .steps li:last-child{border-bottom:0}
+#lpt .steps li::before{content:counter(s);position:absolute;left:0;top:8px;width:26px;height:26px;background:var(--ink);color:#fff;font-weight:700;font-size:13px;display:flex;align-items:center;justify-content:center}
+#lpt .steps small{display:block;color:var(--taupe);font-size:13.5px;margin-top:2px}
+#lpt .why{font-size:14px;color:var(--taupe);margin-top:12px;line-height:1.5}
+/* help */
+#lpt .help{display:grid;gap:12px}
+#lpt .hl{border:1px solid var(--line);padding:14px 16px;background:#fff}
+#lpt .hl b{display:block;font-size:16px;margin-bottom:3px}
+#lpt .hl p{font-size:14.5px;line-height:1.5;color:#4a3a3f}
+#lpt a{color:var(--claret);font-weight:600}
+#lpt .mail{display:block;text-align:center;background:var(--claret);color:#fff!important;text-decoration:none;font-weight:700;font-size:17px;padding:16px;margin-top:14px}
+/* survey */
+#lpt .sv{background:var(--ink);color:var(--cream);padding:22px 20px;margin-top:18px}
+#lpt .sv h3{font-size:21px;color:#fff;margin-bottom:6px}
+#lpt .sv p{font-size:14.5px;color:var(--blush);margin-bottom:14px}
+#lpt .opts{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+#lpt .opts button{background:transparent;border:1px solid rgba(231,207,201,.45);color:#fff;font:600 15px 'Hanken Grotesk',Arial,sans-serif;padding:13px 10px;cursor:pointer;text-align:center}
+#lpt .opts button:hover{border-color:#fff}
+#lpt .opts button.on{background:var(--claret);border-color:var(--claret)}
+#lpt .thx{display:none;font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:18px;color:#fff;margin-top:14px}
+#lpt .thx.on{display:block}
+#lpt .foot{background:var(--ink);color:var(--blush);text-align:center;padding:30px 16px 26px;margin-top:34px;font-size:12.5px;line-height:1.6}
+#lpt .foot .logo{color:var(--cream);font-size:26px}
+#lpt .foot .logo i{color:var(--rose)}
+#lpt .foot .links{margin:14px 0 8px;font-size:13.5px;font-weight:600}
+#lpt .foot .links a{color:var(--cream);text-decoration:none;border-bottom:1px solid var(--rose);margin:0 9px;font-weight:600}
+@media(max-width:340px){#lpt .opts{grid-template-columns:1fr}}
+</style>
+
+<div id="lpt">
+ <div class="hdr"><div class="w"><span class="logo">leap<i>proof</i></span><span class="r">Order confirmed</span></div></div>
+
+ <div class="nw">
+  <!-- 1. CONFIRMATION -->
+  <div class="hero">
+   <div class="tick"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg></div>
+   <h1 id="lpt-h1">You’re all set.</h1>
+   <p>Your order is confirmed. Your receipt is on its way to your inbox.</p>
+   <p class="sub" id="lpt-sub">By Thu, Oct 22, you could be sneezing without crossing your legs.</p>
+  </div>
+
+  <!-- 2. WHAT HAPPENS NEXT -->
+  <div class="card">
+   <div class="lab">What happens next</div>
+   <ul class="tl">
+    <li class="done"><span class="dot">✓</span><b>Today: order confirmed</b><span>Your receipt is in your inbox. Can’t see it? Check your spam or promotions folder.</span></li>
+    <li><span class="dot">2</span><b id="lpt-pack">Packed within 1–3 business days</b><span>You’ll get a tracking link by email as soon as it ships.</span></li>
+    <li><span class="dot">3</span><b id="lpt-arrive">Most orders arrive in about 6–10 days</b><span>Your 30 nights start the day your pairs arrive.</span></li>
+   </ul>
+   <p class="note"><b>Got the 10-pair set?</b> Your Wash Sheets come in a separate parcel and may arrive a few days apart.</p>
+  </div>
+
+  <!-- 3. BEFORE YOUR FIRST WEAR -->
+  <div class="card">
+   <div class="lab">Before your first wear</div>
+   <h2>Wash them once first.</h2>
+   <ol class="steps">
+    <li>Machine wash cold, gentle cycle<small>86°F / 30°C max. Zip them into the Wash Bag if you have one.</small></li>
+    <li>Mild detergent, no fabric softener<small>Or the Wash Sheets. Many 2-in-1 detergents have softener mixed in, so check the label.</small></li>
+    <li>Hang them to dry<small>No dryer, no bleach, no ironing.</small></li>
+   </ol>
+   <p class="why">After that: rinse in cold water after wearing, then wash the same way. Softener and heat are what wear down the lining, so skipping both keeps your pairs working.</p>
+  </div>
+
+  <!-- 4. IF YOU NEED US -->
+  <div class="card">
+   <div class="lab">If you need us</div>
+   <div class="help">
+    <div class="hl"><b>Wrong size?</b><p>Email us within your 30 nights with your order number and the size you need. We send your new size free. Keep the first pairs.</p></div>
+    <div class="hl"><b>They don’t hold?</b><p>Email us your order number and what happened, any time in your 30 nights. One email, full refund, and you keep the pairs.</p></div>
+    <div class="hl"><b>Need to change your address?</b><p>Email us as soon as you can, before your order ships.</p></div>
+   </div>
+   <a class="mail" href="mailto:hello@leapproof.com">Email hello@leapproof.com</a>
+   <p class="why" style="text-align:center">A real person answers every email.</p>
+  </div>
+
+  <!-- 5. ONE QUESTION -->
+  <div class="sv" id="lpt-sv">
+   <h3>One quick question</h3>
+   <p>How did you first hear about Leapproof?</p>
+   <div class="opts" id="lpt-opts">
+    <button type="button" data-v="facebook">Facebook</button>
+    <button type="button" data-v="instagram">Instagram</button>
+    <button type="button" data-v="tiktok">TikTok</button>
+    <button type="button" data-v="google">Google</button>
+    <button type="button" data-v="friend">A friend</button>
+    <button type="button" data-v="other">Somewhere else</button>
+   </div>
+   <p class="thx" id="lpt-thx">Thank you. That really helps a small brand like us.</p>
+  </div>
+ </div>
+
+ <div class="foot">
+  <div class="logo">leap<i>proof</i></div>
+  <div class="links"><a href="https://leapproof.com/policies/refund-policy" target="_blank" rel="noopener">Refunds</a><a href="https://leapproof.com/policies/shipping-policy" target="_blank" rel="noopener">Shipping</a><a href="https://leapproof.com/policies/terms-of-service" target="_blank" rel="noopener">Terms</a><a href="https://leapproof.com/policies/privacy-policy" target="_blank" rel="noopener">Privacy</a><a href="mailto:hello@leapproof.com">Contact</a></div>
+  <p>Underwear, not a treatment. Made for lighter leaks.<br>© 2026 leapproof · Melbourne, Australia</p>
+ </div>
+</div>
+
+<script>
+(function(){
+var root=document.getElementById('lpt');
+
+/* 1. Take over the page: put our block straight into the page wrapper and hide every template section
+      (Limura logo, "Personalized Routine", Back to Home, Retake Quiz, 25% code, Limura footer).
+      Re-checks for ~15s because Funnelish renders some sections late. */
+function hideTemplate(){
+  var main=document.querySelector('.main-wrapper')||document.body;
+  if(root.parentNode!==main){ main.insertBefore(root,main.firstChild); }
+  [].forEach.call(main.children,function(c){ if(c!==root && c.tagName!=='SCRIPT' && c.tagName!=='STYLE') c.style.setProperty('display','none','important'); });
+  [].forEach.call(document.querySelectorAll('[class*="section_wrapper"]'),function(s){ if(!s.contains(root)) s.style.setProperty('display','none','important'); });
+}
+var ht=0; (function loop(){ hideTemplate(); if(++ht<30) setTimeout(loop,500); })();
+
+/* 2. Real dates from today (same window as the checkout: packed 1–3 business days, most arrive 6–10 days) */
+function addDays(d,n){ d=new Date(d); d.setDate(d.getDate()+n); return d; }
+var D=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'], M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+function f(d){ return D[d.getDay()]+', '+M[d.getMonth()]+' '+d.getDate(); }
+var now=new Date(), a=addDays(now,6), b=addDays(now,10);
+document.getElementById('lpt-arrive').textContent='Most orders arrive '+f(a)+' – '+f(b);
+document.getElementById('lpt-sub').textContent='By '+f(b)+', you could be sneezing without crossing your legs.';
+
+/* 3. First name if Funnelish passes it (?first_name= / ?name=) or remembers it; otherwise stays "You’re all set." */
+var q=new URLSearchParams(location.search), nm=(q.get('first_name')||q.get('fname')||q.get('name')||'').trim();
+try{ if(!nm){ var s=JSON.parse(localStorage.getItem('fe_customer')||'null'); if(s && s.first_name) nm=s.first_name; } }catch(e){}
+nm=nm.split(' ')[0];
+if(nm && /^[A-Za-zÀ-ÿ' -]{1,30}$/.test(nm)) document.getElementById('lpt-h1').textContent='You’re all set, '+nm.charAt(0).toUpperCase()+nm.slice(1)+'.';
+
+/* 4. "How did you hear about us?" -> Meta pixel custom event "HowHeard" (Events Manager) + remembered so it's asked once */
+var asked=false; try{ asked=!!localStorage.getItem('lpt_heard'); }catch(e){}
+if(asked){ document.getElementById('lpt-sv').style.display='none'; }
+[].forEach.call(document.querySelectorAll('#lpt-opts button'),function(btn){
+  btn.addEventListener('click',function(){
+    var v=btn.getAttribute('data-v');
+    [].forEach.call(document.querySelectorAll('#lpt-opts button'),function(x){ x.classList.toggle('on',x===btn); x.disabled=true; });
+    try{ if(window.fbq) fbq('trackCustom','HowHeard',{source:v}); }catch(e){}
+    try{ if(window.gtag) gtag('event','how_heard',{source:v}); }catch(e){}
+    try{ localStorage.setItem('lpt_heard',v); }catch(e){}
+    document.getElementById('lpt-thx').className='thx on';
+  });
+});
+})();
+</script>
