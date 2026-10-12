@@ -89,6 +89,14 @@ a.btn.btn-v2{background:#A33154!important;border-color:#872845!important;border-
 a.btn.btn-v2:hover{background:#872845!important}
 .container-box,.product-list img,.main-wrapper input:not([type=checkbox]):not([type=radio]),.main-wrapper select{border-radius:0!important}
 .lpk-free{color:#A33154!important}
+/* free gifts: always visible, tagged, greyed + "Unlocks with N pairs" until the set unlocks them */
+.lpk-gtag{display:inline-block;background:#A33154;color:#fff;font:700 10.5px 'Hanken Grotesk',Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase;padding:3px 7px;margin:0 0 4px}
+.lpk-unl{display:block;font:600 12.5px 'Hanken Grotesk',Arial,sans-serif;color:#A33154;margin-top:3px}
+.pl-item.lpk-locked{background:#FAF7F5!important;border-style:dashed!important;cursor:pointer}
+.pl-item.lpk-locked .pl-image,.pl-item.lpk-locked .name,.pl-item.lpk-locked .pl-price{opacity:.5;filter:grayscale(1)}
+.pl-item.lpk-locked .lpk-gtag{background:#8C6A6C}
+.pl-item.lpk-locked .lpk-unl{text-decoration:underline;text-underline-offset:3px}
+.pl-item.lpk-gift:not(.lpk-locked){pointer-events:none}
 #lpk-1,#lpk-2,#lpk-3,#lpk-4{display:block!important;width:100%!important;max-width:none;flex:1 1 100%;align-self:stretch;text-align:left;box-sizing:border-box}
 #lpk-1 #ck1,#lpk-4 #ck4{width:100%}
 #lpk-3 #ck3,#lpk-2 #ck2{width:100%}
@@ -225,18 +233,34 @@ var ctry=0; (function us(){
   /* one product = one .pl-item row (Funnelish product list). Never touch the list's wrapper: it holds every set. */
   function row(i){ return i && i.closest('.pl-item'); }
   function setTo(id,want){ var i=box(id); if(i && i.checked!==want) i.click(); }
-  function show(id,on){ var r=row(box(id)); if(r) r.style.display=on?'':'none'; }
-  function lock(id){ var r=row(box(id)); if(r) r.style.pointerEvents='none'; }
+  /* gift row: tag it, and either unlocked (ticked, can't untick) or locked (greyed, tap = upgrade to `need` pairs) */
+  function gift(id,need){
+    var r=row(box(id)); if(!r) return;
+    var nv=r.querySelector('.pl-nvalue')||r.querySelector('.name'); r.classList.add('lpk-gift'); r.setAttribute('data-need',need);
+    if(nv && !nv.querySelector('.lpk-gtag')) nv.insertAdjacentHTML('afterbegin','<span class="lpk-gtag">Free gift</span>');
+    var u=nv && nv.querySelector('.lpk-unl'); if(nv && !u){ nv.insertAdjacentHTML('beforeend','<span class="lpk-unl"></span>'); u=nv.querySelector('.lpk-unl'); }
+    var locked=SET<need; r.classList.toggle('lpk-locked',locked);
+    if(u) u.textContent = locked ? 'Unlocks with '+need+' pairs · tap to add' : 'Unlocked with your '+SET+' pairs';
+  }
   function sync(){
     var P=prods(); if(!P.length) return false; busy=true;
     P.forEach(function(p){
       if(p.set){ setTo(p.id, p.set===SET); }
-      if(p.bag){ setTo(p.id, SET>=5); show(p.id, SET>=5); lock(p.id); }
-      if(p.sheets){ setTo(p.id, SET>=10); show(p.id, SET>=10); lock(p.id); }
+      if(p.bag){ gift(p.id,5); setTo(p.id, SET>=5); }
+      if(p.sheets){ gift(p.id,10); setTo(p.id, SET>=10); }
     });
-    busy=false; return true;
+    busy=false;
+    if(window.lpkPickSize) setTimeout(window.lpkPickSize,250);   /* keep her size on whichever set is ticked */
+    return true;
   }
   var userPicked=false;
+  /* tap a locked gift = switch to the set that unlocks it (same as the offer page) */
+  document.addEventListener('click',function(e){
+    if(busy) return;                 /* our own programmatic ticks */
+    var r=e.target.closest && e.target.closest('.pl-item.lpk-locked'); if(!r) return;
+    e.preventDefault(); e.stopPropagation();
+    userPicked=true; SET=+r.getAttribute('data-need')||SET; sync();
+  },true);
   document.addEventListener('change',function(e){
     var i=e.target; if(busy || !i || i.name!=='product-id') return;   /* programmatic ticks run with busy=true, so this only fires on real clicks */
     var p=prods().filter(function(x){return x.id===i.value})[0]; if(!p || !p.set) return;
