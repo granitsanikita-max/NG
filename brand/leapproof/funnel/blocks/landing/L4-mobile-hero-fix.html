@@ -1,0 +1,33 @@
+<!-- Leapproof landing · Block L4 · mobile hero fix (phones only, ≤600px). Paste into ONE Custom HTML element anywhere on the landing page.
+     Hides the template "Quick Quiz" text + chat icon, clears the dark box (a 375px spacer someone recoloured),
+     and puts the leapproof wordmark (cream "leap" + rose italic "proof") top-centre on the photo. Desktop is untouched. -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;1,9..144,500&display=swap');
+@media only screen and (max-width:600px){
+  .el-755524 .el-976573{display:none!important}                                   /* "Quick Quiz" text */
+  .el-250994 .el-54452{display:none!important}                                    /* chat icon row */
+  .el-250994 .el-303012.spacer .inner-spacer{border-top-color:transparent!important} /* dark box -> clear (keeps the hero height) */
+  .el-755524{position:relative!important}
+  #lp-mlogo{position:absolute;top:18px;left:0;right:0;text-align:center;z-index:5;pointer-events:none;
+    font-family:'Fraunces',Georgia,serif;font-size:34px;line-height:1;letter-spacing:-.01em;font-weight:500;
+    text-shadow:0 1px 10px rgba(35,16,23,.45)}
+  #lp-mlogo .l{color:#F5EDE6}
+  #lp-mlogo .p{color:#E7879F;font-style:italic;margin-left:.06em}
+}
+@media only screen and (min-width:601px){ #lp-mlogo{display:none} }
+</style>
+<script>
+(function(){
+  function put(){
+    var hero=document.querySelector('.el-755524');
+    if(!hero) return false;
+    if(!document.getElementById('lp-mlogo')){
+      var d=document.createElement('div'); d.id='lp-mlogo'; d.setAttribute('aria-label','leapproof');
+      d.innerHTML='<span class="l">leap</span><span class="p">proof</span>';
+      hero.appendChild(d);
+    }
+    return true;
+  }
+  var n=0; (function loop(){ put(); if(++n<20) setTimeout(loop,500); })();
+})();
+</script>
