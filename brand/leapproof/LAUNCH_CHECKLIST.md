@@ -36,7 +36,8 @@ Legend: **N** = Nikita does it · **C** = Claude does it (paste-ready code/copy 
 - [ ] Order confirmation email: same washing steps + Fit Promise how-to.
 
 ## 4. Shopify storefront (after the funnel)
-- [ ] Homepage.
+- [x] Homepage built in draft theme "Leapproof Home v1 (draft)" (copy v3, chiefed twice). Preview: https://leapproof.com/?preview_theme_id=196151771507&lpdemo=1 — N publishes after review (Online Store → Themes → Publish).
+- [ ] Home page blockers before publishing: real person/company named · real tester reviews or sample section off · US policies published (drafts in policies/*-US.txt) · gift listings live at $12.95/$19.95 · hello@ working (see home/HOMEPAGE_COPY.md §9).
 - [ ] Product pages: replace CJ description ("menstrual underwear", kg sizes), delete CJ images with banned text.
 - [ ] Publish the 4 policies (Settings → Policies); privacy policy contact = hello@leapproof.com (not personal Gmail/phone/home address).
 - [ ] Connect **try.leapproof.com** in Funnelish so ads never show the myfunnelish address.

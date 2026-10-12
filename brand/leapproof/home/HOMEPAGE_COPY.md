@@ -1,4 +1,4 @@
-# Leapproof — Home page copy (leapproof.com) · v1
+# Leapproof — Home page copy (leapproof.com) · v3 (chiefed twice)
 
 Built 2026-10-12 into the draft theme **"Leapproof Home v1 (draft)"** (Shopify, unpublished duplicate of Sense).
 Sources: BRAND_BIBLE, NUMBER_SHEET (every number on this page comes from it), FUNNEL_PLAN §2 claims matrix (**CJ column**), §4 beliefs, §5 objection map, the 155-snippet data bank, fundamentals 00 / 01 / 02 / 08.
@@ -66,174 +66,67 @@ Ranked by how likely it is to stop the visit. "Killed in" = where on the page (F
 
 ---
 
-## 5. Hero headline — Nikita's 7 ingredients audit
+## 5. Hero headline — Nikita's 7 ingredients (final, honest score)
 
-**Eyebrow (above H1):** Leakproof underwear for lighter leaks · Sizes S–4XL
+**Eyebrow:** Leak-resistant underwear for lighter leaks · US sizes 0–20
 **H1:** Go ahead and sneeze.
-**H1 kicker (same lockup, italic claret):** No crossing your legs first.
-**Subhead:** Soft black briefs with a leak-resistant lining sewn in, made for the drops that slip out when you sneeze, laugh or jump. Wear them through 30 nights of real life. If they don't hold, you get your money back and keep the pairs.
+**Kicker:** No crossing your legs first.
+**Sub:** Soft black briefs with a leak-resistant lining built in, so there's no pad. Test them on your own sneeze for 30 nights. If they don't hold, get your money back and keep the pairs.
+**Button:** Find my size + set · **micro:** About 2 minutes · No email needed to see your match · Sets from $45
+**Chips:** Free size swap · Free US shipping · Pay once, no subscription
+**Image:** the laughing-women photo with a product inset ("The Leapproof Brief: plain black, lining built in.") so the product is on the first screen (F4).
 
-| Ingredient | Present? | The exact words |
+| Ingredient | Score | Words |
 |---|---|---|
-| Curiosity | YES | "Go ahead and sneeze." A brand daring her to do the thing she braces against. Why would it say that? She reads on to find out. |
-| Call out the pain | YES | "No crossing your legs first." Her exact ritual (#90 "crossing their legs every time they cough or laugh"); she recognises herself in five words without us naming a condition |
-| Promise the solution | YES | "made for the drops that slip out when you sneeze, laugh or jump" + "you get your money back" |
-| Specificity | YES | sneeze / laugh / jump, "lining sewn in", "30 nights", "keep the pairs", "S–4XL" |
-| Simplicity | YES | H1 = 4 words, kicker = 5, all 1–2 syllables (grade ~2) |
-| Credibility | YES (honest caveat) | The risk reversal is the credibility: a brand that lets her **keep the pairs** and still refunds is betting its own money. No third-party proof exists yet, so we don't fake one. Upgrade when real: "Rated X by our first N testers" as the eyebrow (F5). |
-| Timeframe | YES | "30 nights" |
+| Curiosity | YES (light) | "Go ahead and sneeze." — a brand daring her to do the thing she braces against |
+| Call out the pain | YES | "No crossing your legs first." — her exact ritual (data bank #90) |
+| Promise | YES | "lining built in, so there's no pad" + "get your money back and keep the pairs" |
+| Specificity | YES | sneeze, crossed legs, US 0–20, 30 nights, keep the pairs |
+| Simplicity | YES | 4 + 5 words, grade ~4 |
+| Credibility | PARTIAL | "Test them on your own sneeze" — honest test-don't-trust credibility. There is no third-party proof yet and we don't fake one. Becomes a full YES the day real tester reviews exist: put "Rated X by our first N testers" in the eyebrow (F5). |
+| Timeframe | YES | "30 nights" (it's a test window, not a results promise — on purpose) |
 
-**Score: 7/7** (credibility is the weakest — flagged, with the upgrade path).
+**Honest score: 6.5/7.** Both chiefs scored it 4–6 strict; it clears Nikita's 4–5 bar. The only missing piece is real proof, which can't be written, only earned.
 
-Why this beats the alternatives we tested:
-- "Stop crossing your legs every time you sneeze." → strong pain, but a command about her body; weaker curiosity.
-- "Laugh at the whole joke." → beautiful, but a Googler can't tell what we sell from it. Kept for the final CTA, where it pays off.
-- "Sneeze. Laugh. Jump. No bracing required." → the landing direction; good, but less surprising. The hero above keeps "sneeze" as the relay word from the ads (F2).
+## 6. The page, top to bottom (v3)
 
-Hero image: the two women laughing freely on the street (outcome shot). Caption on image (F12): *Mid-laugh. Not mid-panic.*
-Hero button: **Find my match** · micro under the button: *2-minute quiz · No email needed to see your match*
-Risk line under the button (F8): *30-Night Leak-Test · Free US shipping · One-off payment, no subscription*
+The exact words live in `home/theme/sections/lp-home.liquid` (source of truth) and are mirrored, rendered, in `home/RENDERED_v3_mobile.txt`.
 
----
+| # | Section | Job | Key lines |
+|---|---|---|---|
+| 0 | Announcement bar | Risk reversal sitewide | "30-Night Leak-Test · Money back · Keep the pairs" |
+| 1 | Hero | What / different / safe on screen 1 | see §5 |
+| 2 | Moments (6 cards) | "This is me" + visualization (Before / In Leapproof) | sneeze in the cereal aisle · trampoline seat drops · double-unders at 6 a.m. · coughing fit at 2 a.m. (postpartum) · last mile of the Saturday run · belly laugh at dinner. Lead carries the honest amount: "a few drops to a small splash" |
+| 3 | Common? Yes. Normal? No. | Belief B2 + identity, no shame | 1 in 3 after a baby¹ · Ridgeview "NEVER considered normal."² · "You're not broken… perimenopause moved the goalposts. It's plumbing, not a verdict on you." · PT nod |
+| 4 | Things most brands wouldn't tell you | Kill "is this another scam" for the burned third (moved up, before price) | lighter leaks · ships from overseas, 6–10 days · we're new, testers got a free set · letter sizes run small (US 12–14 = XL … US 20 = 4XL) · "Will these go right through like the last ones? We can't show you a lab number yet, and we won't fake one. So test them on your own sneeze…" |
+| 5 | Testers (hidden; mockup with ?lpdemo=1) | Proof before price | "What our first testers said. Each got a free set." Swap for real Founding 30 reviews, word for word |
+| 6 | They look like plain black briefs. On purpose. | Kill "diaper / bulky / shows" | fabric, waistband, cut, wash, US 0–20 + "Why women stop buying pads" table (CJ enemy sentence) |
+| 7 | The 30-Night Leak-Test | Named guarantee + button | "Sneeze in them. Laugh in them. Then decide." · refund processed within 3 business days · keep the pairs · limited-warranty line + Full terms |
+| 8 | Sized by your hips, not a guess | Kill sizing fear (plus-size first) | US-first chart · "Too snug? Email us and we'll send the bigger size free." · Fit Promise box |
+| 9 | Sets | Offer: 5 is our pick (shown first on phones) | $45 / $59 / $99 · per pair · savings vs. the 3-pair price · gifts with value + what they do · "Get 5 pairs" → checkout ?set=5 · quiz for the unsure |
+| 10 | FAQ (15, first open) | Remaining questions | legit? · how much · **"I already own period underwear. Why these?"** (Knix owners) · bulky? · size · train/run · period · wash · smell · lab tested (honest: not yet) · subscription · arrival · don't work/fit · quiz needed? · who's behind |
+| 11 | Final CTA | Future pace + close | "Laugh at the whole joke." |
+| 12 | Sources + disclosures | Truth layer | Not a treatment · footnotes · not-connected line · hero photo is AI-generated |
 
-## 6. Full page copy (top to bottom)
+Cut after chiefing: "Picture a Tuesday" (implied all-day wear in one pair), "How it works" (repeated everything; framed the quiz as work), "most women start with 5" (no orders yet), "Leakproof" in the eyebrow (absolute claim, and the word burned buyers hate), the before/after photo pair (implied result with AI people), "wider at the back", "stays put", "overnight" (unverified on the new SKU).
 
-### 6.0 Announcement bar (sitewide)
-30-Night Leak-Test: if they don't hold, you get your money back. Keep the pairs.
+## 7. Compliance + number check (verified by the compliance chief)
+- Prices, per-pair, savings, gift values, chart v4, 30 nights from delivery, 1–3 + about 6–10 days, 86°F/30°C, 95% regenerated fiber / 5% spandex: all match NUMBER_SHEET.
+- No banned words. No absolute leak claims. CJ column respected (no Leak-Lock, no ml, no layer count, no attack on period underwear).
+- Reviews: none live. Sample cards render only with the section setting on AND `?lpdemo=1`.
+- No timers, no fake scarcity, no invented social proof.
 
-### 6.1 Header
-Wordmark `leapproof`. Menu: Find my match · How it works · Sizes · FAQ · Contact. (No cart, no search, no account: purchases happen in the funnel checkout.)
+## 8. Chief log
+- **Round 1 (copy doc v1):** 3 independent chiefs — fundamentals/techniques (F1–F19, ④⑤⑥, 7 ingredients), ICP lens (Mara, Dana, postpartum mom), compliance/numbers. ~60 findings → v2.
+- **Round 2 (rendered v2 page):** fresh fundamentals chief + 5-persona panel (Mara, Dana, Priya 2 a.m., Kim the skeptic, Jen with Knix). ~35 findings → v3.
+- **Verified live:** draft theme renders on iPhone 13 / SE / desktop, no horizontal scroll, no broken images, all links resolve, checkout `?set=3/5/10` pre-selects the set and gifts, 404 page in brand voice.
 
-### 6.2 Hero — see §5.
-
-### 6.3 The moments
-**Eyebrow:** Sound familiar?
-**H2:** Made for the moments you've been bracing for.
-**Lead:** It's never a puddle. It's a few drops at the worst possible time, and a little wet patch that you hope looks like sweat.
-
-Four cards (scene → with them):
-1. **The sneeze in the cereal aisle.** Before: you freeze, squeeze, and hope your shirt is long enough. *In Leapproof: you sneeze, say "bless me," and keep shopping.*
-2. **The trampoline at the birthday party.** Before: you hold everyone's shoes and wave from the side. *In Leapproof: you're the mom doing seat drops.*
-3. **Double-unders at 6 a.m.** Before: you pee before class, then again, then skip the jump rope anyway. *In Leapproof: you go for the full set.*
-4. **The belly laugh at dinner.** Before: you laugh with your legs crossed and stop halfway. *In Leapproof: you laugh at the whole joke.*
-
-### 6.4 Common isn't normal
-**H2:** Common? Yes. Normal? No.
-**Body:**
-About 1 in 3 women leak after having a baby.* It happens after kids, in your 40s, and to women who train hard. And it gets brushed off as "just part of it."
-It isn't. Leaking is "NEVER considered normal." — Ridgeview Medical Center
-You're not old. You're not broken. You had a baby, or you lift heavy, or your hormones moved the goalposts. That's plumbing, not a verdict on you.
-**Box (the honest ally):** If you can, see a pelvic floor physical therapist. They help a lot of women leak less. In the meantime, you shouldn't have to sit out your own life. That's what these are for.
-*Footnote:* *About 1 in 3 women leak after having a baby (postpartum meta-analysis, PMC8295150).
-
-### 6.5 The switch (enemy, F13 — CJ sentence, word for word)
-**H2:** No pad. No diaper. Just underwear.
-**Lead:** Pads and liners bunch, feel like a diaper, and go in the trash every day.
-Table (Pads & liners vs Leapproof): How they feel — Bunch, shift and rustle / Like your regular undies · Every day — Another one in the trash / Wash them and wear them again · Under leggings — Can show / No pad to show · If they don't suit you — Money gone / 30 nights, money back
-
-### 6.6 What they are (CJ factual block — mechanism OFF)
-**H2:** They look like plain black briefs. That's the point.
-**Lead:** No pad to stick in, nothing to change. The lining is part of the underwear.
-- **Soft and stretchy.** 95% regenerated fiber (a soft viscose-type fiber), 5% spandex.
-- **The lining is sewn in.** A leak-resistant lining runs from front to back, and it's wider at the back.
-- **A waistband that stays put.** Wide, soft and flat, so it doesn't dig in when you bend or lift.
-- **Cut like regular briefs.** Wear them under leggings, jeans or work pants.
-- **Wash, wear, repeat.** Machine wash cold in the Wash Bag and wear them again.
-- **Sizes S to 4XL.** Sized by your hip measurement.
-**Honest line (F15):** Made for lighter leaks: a few drops to a small splash on a sneeze, laugh or jump. If it's more than that, these may not be enough on their own, and we'd rather tell you now.
-Image captions: *The Leapproof Brief. Black, plain, no lace.* · *The inside: the lining runs front to back.*
-
-### 6.7 A day in them (involvement / ownership, sensory, F14 timeline)
-**H2:** Picture a Tuesday.
-- **6:40 a.m.** Coffee, lunch boxes, a sneeze in the hallway. You don't even stop walking.
-- **9:15 a.m.** Box jumps and double-unders. You do the whole set, no bathroom detour first.
-- **12:30 p.m.** Lunch with the friend who's actually funny. You laugh at the whole joke.
-- **3:30 p.m.** Pickup, then the trampoline. This time you jump.
-- **9:30 p.m.** Rinse them, zip them in the Wash Bag, done. Tomorrow's pair is already in the drawer.
-**Close:** No pad to swap. No spare pair stuffed in your gym bag. Just underwear doing its job while you get on with yours.
-
-### 6.8 How it works
-**H2:** Three steps. About 2 minutes of work.
-1. **Take the quiz.** Tell us your moments, your hip measurement and how often you do laundry. About 2 minutes. No email needed to see your match.
-2. **Get your match.** Your size, and the set that fits your week: 3, 5 or 10 pairs.
-3. **Wear them for 30 nights.** Sneeze, laugh, jump. If they don't hold, email us. Full refund, keep the pairs.
-**Timeline line:** Most orders arrive in about 6–10 days. Your 30 nights start the day they arrive.
-Button: Find my match
-
-### 6.9 Sizes
-**H2:** Sized by your hips, not a guess.
-**Lead:** Our sizes don't match the letter on your other underwear, so we go by one number: around the widest part of your hips.
-Chart (NUMBER_SHEET §13 v4): S up to 36″ (91 cm) US 0–2 · M 36–38″ (91–96) US 4–6 · L 38–40″ (96–101) US 8–10 · XL 40–44″ (101–111) US 12–14 · XXL 44–47″ (111–120) US 16 · 3XL 47–51″ (120–129) US 18 · 4XL 51–54″ (129–138) US 20
-**Rule line:** Between two sizes? Pick the smaller one. A snug pair sits close to you. A loose one can gap at the legs.
-**Fit Promise box:** Wrong size? We'll send your new size free. Nothing to send back. *(Email within your 30 nights. One free size swap per order.)*
-**Honest line:** Over 54″ (138 cm)? We don't make your size yet, and we won't sell you a pair that won't fit.
-
-### 6.10 The sets (offer, F6/F7)
-**H2:** Pick how many pairs. The quiz tells you which.
-**Lead:** You wear a pair while the others are in the wash. That's why most women start with 5.
-- **The Starter Set — 3 pairs — $45** · $15.00 a pair · *Just want to try them?*
-- **The Everyday Rotation — 5 pairs — $59** · tag **Our pick** · $11.80 a pair · Save $16 (21%) · + free Wash Bag ($12.95 value) · *Wear a pair while the rest are in the wash.*
-- **The Full Rotation — 10 pairs — $99** · tag **Best value** · $9.90 a pair · Save $51 (34%) · + free Wash Bag and 64 Wash Sheets ($32.90 in free gifts) · *A pair a day for a week, plus spares.*
-Every card: button **Find my match** (quiz pre-selects the set).
-**Under the cards:** Free US shipping · One-off payment, no subscription · 30-Night Leak-Test on every set
-**Returning buyers:** Know your size already? Go straight to checkout →
-
-### 6.11 From our testers (real reviews only — sample cards show only with `?lpdemo=1` until real ones arrive)
-**H2:** What our first testers said
-**Disclosure:** Every tester got a free set to try. We publish every review, good or bad.
-*(Swap the three sample cards for the real Founding 30 reviews, cast to: burned skeptic → held · felt like normal underwear / stayed put · a segment mirror.)*
-
-### 6.12 Straight talk (volunteered negatives, F15 — the brand wedge)
-**H2:** Things most brands wouldn't tell you.
-1. **They're made for lighter leaks.** A few drops to a small splash. If yours is more than that, these may not be enough on their own.
-2. **We ship from overseas.** Shipping is free, and most orders arrive in about 6–10 days. Not next-day.
-3. **We're new.** Our reviews come from our first testers, who got a free set. We say so on every one.
-4. **Our sizes run differently.** That's why we size by your hips and swap the size free if we get it wrong.
-**Close:** We'd rather lose a sale than sell you the wrong thing. That's why the next part exists.
-
-### 6.13 The guarantee (named, own section)
-**Eyebrow:** The 30-Night Leak-Test
-**H2:** Sneeze in them. Laugh in them. Then decide.
-**Body:** Wear them through your real moments for 30 nights, starting the day they arrive. If they don't hold, email us your order number and what happened. We refund your whole set. You keep the pairs. Nothing to send back.
-We're a new brand. So instead of asking you to trust us, we let you test them on your own sneeze.
-**Fit Promise:** Wrong size? We'll send your new size free. Nothing to send back.
-*Small print:* One claim per customer. Covers your set and any extra pairs you add. This is on top of your legal rights.
-
-### 6.14 FAQ (first one open, F10 / Zone 3.7)
-1. **Is Leapproof legit?** *(open)* Fair question. If you've bought "leak-proof" underwear off an ad before, you've probably been burned. Here's what we put in writing: you get 30 nights to test them, and if they don't hold, we refund your whole set and you keep the pairs. You pay once, with no subscription. Shipping is free. A real person answers every email at hello@leapproof.com. Our refund and shipping policies are linked at the bottom of every page.
-2. **How much can they hold?** They're made for lighter leaks: a few drops to a small splash on a sneeze, laugh or jump. If it's more than that, these may not be enough on their own, and a doctor or pelvic floor physical therapist is worth a chat.
-3. **Will they feel like a diaper or show under leggings?** No pad, so nothing bulky. They're cut like regular briefs with a wide, soft waistband. Wear them under leggings, jeans or work pants.
-4. **How do I pick my size?** Measure around the widest part of your hips and use the size chart. Go by the number, not the letter on your other undies. Between two sizes? Pick the smaller one. Wrong size? We'll send your new size free.
-5. **Can I wear them to train, run or sleep?** Yes. The lining runs from front to back and is wider at the back, so they work for training, a run, a big day out or overnight.
-6. **Can I wear them on my period?** Yes, on lighter days. They're made for lighter leaks.
-7. **How do I wash them?** 1. Rinse them in cold water after you take them off. 2. Zip them into the Wash Bag and machine wash cold (86°F / 30°C max) on a gentle cycle. 3. Use a mild detergent with no fabric softener, or the Wash Sheets. 4. Hang them to dry. No dryer, no bleach, no ironing. Heat and softener are hard on the lining.
-8. **Will they smell?** Wash them after every wear, like any underwear, and follow the steps above. Skipping softener keeps the lining soaking up properly. We don't claim they're "antibacterial," because we haven't tested that.
-9. **Have they been lab tested?** Not by a third-party lab yet. So we don't claim things like "PFAS-free" or a number of milliliters. When we have lab results, we'll post them here. What we can tell you: 95% regenerated fiber, 5% spandex.
-10. **Is this a subscription?** No. You pay once for the set you pick. Nothing renews and you won't be charged again.
-11. **When will they arrive?** We pack your order in 1–3 business days, and most orders arrive about 6–10 days after you order. Shipping is free. With 10 pairs, the Wash Sheets come in a separate parcel and may arrive a few days apart.
-12. **What if they don't work or don't fit?** Doesn't hold: email us within your 30 nights and we refund your whole set; you keep the pairs. Wrong size: we send your new size free; nothing to send back. One claim per customer.
-13. **Do I have to take the quiz?** No, but it's the quickest way to get your size and the right number of pairs. About 2 minutes, no email needed to see your match. Know your size already? Go straight to checkout.
-14. **Who's behind Leapproof?** A small brand from Melbourne, Australia, started because women keep being told leaking is just part of life. Every email is answered by a real person: hello@leapproof.com.
-
-### 6.15 Final CTA (future pacing + true cost of waiting)
-**H2:** 30 nights from now, you could be laughing at the whole joke.
-**Body:** Every week you wait is another week of crossing your legs.
-Button: Find my match · under: 30-Night Leak-Test · keep the pairs either way
-
-### 6.16 Email capture (footer, F17 — deliverable we will actually send)
-**Heading:** Not ready to try them yet?
-**Text:** Get one email when our testers' reviews go live, plus our washing tips. No spam. Unsubscribe anytime.
-
-### 6.17 Footer
-Wordmark · links (Find my match · How it works · Sizes · FAQ · Contact) · policies · "Underwear, not a treatment. Made for lighter leaks." · © 2026 leapproof · Melbourne, Australia
-(Off: country/language selector, Follow on Shop, social icons, "Powered by Shopify".)
-
----
-
-## 7. Compliance + number check (pre-chief)
-- Banned words: none of incontinence / discreet / dignity / protection / accident / SUI / bladder weakness on the page.
-- No absolute leak claims ("100%," "never leaks," "zero leaks," "all-day"). Every "hold" claim sits next to "made for lighter leaks" or the guarantee.
-- CJ column: no Leak-Lock, no "built for pee not blood," no attacking period underwear, no pour demo, no ml, no layer count ("layered" not used either; "leak-resistant lining").
-- Numbers = NUMBER_SHEET: $45/$59/$99 · $15.00/$11.80/$9.90 · save $16 (21%) / $51 (34%) · $12.95 / $32.90 gift values · 30 nights from delivery · keep the pairs · one claim per customer · 1–3 business days + about 6–10 days · S–4XL chart v4 · 86°F/30°C · 95% regenerated fiber 5% spandex.
-- Proof: no reviews live without `?lpdemo=1`; cited facts word for word (Ridgeview, PMC8295150).
-- No timers, no fake scarcity; the only urgency is the true cost of waiting.
+## 9. Before this goes live (owner: Nikita)
+1. **Name a real person or company** on the page (Kim and Mara's #1). Suggested FAQ/footer line, fill with real details only: "I'm [first name], and I run Leapproof from Melbourne, Australia… [registered business name], ABN [number]."
+2. **Real tester reviews** replace the 3 SAMPLE cards (or switch the section setting off).
+3. **hello@leapproof.com must receive mail** — the page promises a real person answers.
+4. **Publish the US policies** (`policies/shipping-policy-US.txt`, `refund-policy-US.txt`): the live shipping policy still says Australian timing (7–12 business days), which contradicts the page.
+5. **Gift listings:** keep Wash Bag $12.95 and Wash Sheets $19.95 genuinely for sale in Shopify, or remove the dollar values.
+6. **Fix the product page** ("Leak-proof menstrual underwear", CJ copy) — anyone browsing the store lands there.
+7. **Swap the quiz/checkout links** to try.leapproof.com once the subdomain is connected (Theme editor → Leapproof home section settings).
+8. **SEO:** Online Store → Preferences → title "leapproof | Underwear for the sneeze, the laugh and the jump"; meta "Soft black briefs for the sneeze, the laugh and the jump. A 2-minute quiz finds your size and how many pairs you need. 30 nights to see if they hold."
