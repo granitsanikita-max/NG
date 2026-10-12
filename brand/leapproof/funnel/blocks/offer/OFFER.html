@@ -136,6 +136,8 @@
 #lpo .fq.open .a{display:block}
 #lpo .fq .a p+p{margin-top:8px}
 #lpo .fq .a a{color:var(--claret)}
+#lpo .fq .a img{display:block;width:100%;max-width:380px;margin-top:12px}
+#lpo .fq .a .cap{font-size:13.5px;color:var(--taupe);margin-top:6px}
 #lpo .grp{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--taupe);padding:22px 2px 9px}
 #lpo .faq .grp:first-child{padding-top:0}
 #lpo .final{text-align:center}
@@ -279,7 +281,11 @@ var TALLY = '';
 /* ============================================ */
 
 var IMG = {
- brief:'https://cdn.shopify.com/s/files/1/1026/8593/3939/files/3d51cb11-dd4e-4597-8a0d-a06ad09fb28d.jpg?v=1791616412&width=400',
+ brief:'https://cdn.shopify.com/s/files/1/1026/8593/3939/files/leapproof-brief.png?v=1791795349&width=600',
+ p3:'https://cdn.shopify.com/s/files/1/1026/8593/3939/files/leapproof-3-pairs.png?v=1791795349&width=400',
+ p5:'https://cdn.shopify.com/s/files/1/1026/8593/3939/files/leapproof-5-pairs.png?v=1791795349&width=400',
+ p10:'https://cdn.shopify.com/s/files/1/1026/8593/3939/files/leapproof-10-pairs.png?v=1791795349&width=400',
+ inside:'https://cdn.shopify.com/s/files/1/1026/8593/3939/files/leapproof-inside-lining.png?v=1791795349&width=700',
  bag:'https://cdn.shopify.com/s/files/1/1026/8593/3939/files/a0af6f00-e728-418e-b893-767578aec329.jpg?v=1791616824&width=300',
  sheets:'https://cdn.shopify.com/s/files/1/1026/8593/3939/files/55180757-d3ec-416f-8eaa-3b46e63fc658.jpg?v=1791617290&width=300'
 };
@@ -324,7 +330,7 @@ function tiers(){
       '<div class="top"><span class="rad"></span><div class="tinfo">'+
         '<span class="tag '+s.tag[0]+'">'+s.tag[1]+'</span>'+
         '<div class="tname">'+s.name+'</div><div class="tpairs">'+s.n+' pairs</div></div>'+
-        '<div class="thumb" style="background-image:url(\''+IMG.brief+'\')"><b>×'+s.n+'</b></div></div>'+
+        '<div class="thumb" style="background-image:url(\''+IMG['p'+k]+'\')"><b>×'+s.n+'</b></div></div>'+
       '<div class="price"><span class="big">$'+s.price+'</span><span class="pp">$'+s.pp+' a pair</span></div>'+
       (s.save?'<span class="save">'+s.save+'</span>':'')+
       '<div class="match"><b>Matched to your answers:</b> '+s.match+'</div>'+
@@ -343,7 +349,7 @@ function pick(k){
 }
 function items(){
   var s=SETS[sel], h='';
-  h+='<div class="it"><div class="im" style="background-image:url(\''+IMG.brief+'\')"><span class="qty">×'+s.n+'</span></div><div class="tx">'+
+  h+='<div class="it"><div class="im" style="background-image:url(\''+IMG['p'+s.n]+'\')"><span class="qty">×'+s.n+'</span></div><div class="tx">'+
      '<b>'+s.n+' Leapproof Briefs'+(size?', size '+size:'')+'</b><span class="d">Soft, stretchy black briefs with a leak-resistant lining from front to back.</span></div></div>';
   GIFTS.forEach(function(g){
     var on = sel>=g.at, pop = popKey.indexOf(g.k)>-1;
@@ -407,7 +413,7 @@ function faq(){
    ['Washing',''],
    ['How do I wash them?','<p>1. Rinse them in cold water after you take them off.<br>2. Zip them into the Wash Bag and machine wash cold (86°F / 30°C max) on a gentle cycle.<br>3. Use a mild detergent with no fabric softener, or the Wash Sheets.<br>4. Hang them to dry. No dryer, no bleach, no ironing.</p><p>Heat and softener are hard on the lining. Skip both and your pairs are made to be worn and washed again and again.</p>'],
    ['Why no fabric softener?','<p>Softener leaves a coating on fabric. On the lining, that coating gets in the way of it soaking up. Lots of everyday detergents (especially 2-in-1s) have softener mixed in, so check the label.</p><p>The Wash Sheets that come with 10 pairs are unscented detergent sheets, made to clean, not soften.</p>'],
-   ['What are they made of?','<p>95% regenerated fiber (a soft, breathable viscose-type fiber) and 5% spandex, with a layered leak-resistant lining.</p>'],
+   ['What are they made of?','<p>95% regenerated fiber (a soft, breathable viscose-type fiber) and 5% spandex, with a layered leak-resistant lining.</p><img src="'+IMG.inside+'" alt="Inside of the Leapproof Brief, showing the leak-resistant lining" loading="lazy"><p class="cap">The inside: the lining runs from front to back.</p>'],
    ['Money & delivery',''],
    ['What if they don’t work for me?','<p>Wear them through your real moments for 30 nights, starting the day they arrive. If they don’t hold, email '+M+' with your order number and what happened. We refund your whole set, and you keep the pairs. One claim per customer.</p>'],
    ['Why 5 or 10 pairs instead of 3?','<p>Because you wear a pair while the others are in the wash. With 3, you run out fast. 5 covers you if you wash every few days. 10 covers a full week.</p><p>The more pairs, the less each one costs: $15 a pair with 3, $11.80 with 5, $9.90 with 10. And the 30-Night Leak-Test covers the whole set.</p>'],
