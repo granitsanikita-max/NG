@@ -194,6 +194,10 @@ var ftn=0; (function footers(){
   });
   [].forEach.call(document.querySelectorAll('span'),function(x){ if(!own(x) && !x.children.length && (x.textContent||'').trim()==='Free') x.classList.add('lpk-free'); });   /* green "Free" in the summary */
   [].forEach.call(document.querySelectorAll('.pl-item .top-tag'),function(t){ var v=(t.textContent||'').trim().toUpperCase(); if(v==='OUR PICK') t.classList.add('lpk-tag-pick'); else if(v==='JUST TRYING') t.classList.add('lpk-tag-try'); });
+  /* US address order: Street → City → State → ZIP (Funnelish puts City under State) */
+  var ci=document.querySelector('[name="shipping_city"]'), si=document.querySelector('[name="shipping_state"]');
+  var cw=ci&&ci.closest('.element-wrapper'), sw=si&&si.closest('.element-wrapper');
+  if(cw && sw && cw!==sw && cw.parentNode===sw.parentNode && sw.nextElementSibling===cw) sw.parentNode.insertBefore(cw,sw);
   if(++ftn<30) setTimeout(footers,500);
 })();
 /* order summary: Funnelish prints "Free Shipping" twice; show each line once (re-checked because the summary redraws on every set change) */
@@ -210,6 +214,8 @@ setInterval(function(){
 /* default the country to United States (retries until Funnelish has filled the list; never overrides her choice) */
 var ctry=0; (function us(){
   var c=document.querySelector('select[name="shipping_country"]'), done=false;
+  var ct=document.querySelector('input[name="shipping_country"]');   /* fallback if the country field is a plain text box */
+  if(!c && ct){ if(!ct.value){ ct.value='United States'; ct.dispatchEvent(new Event('input',{bubbles:true})); ct.dispatchEvent(new Event('change',{bubbles:true})); } done=!!ct.value; }
   if(c && c.options.length>2){
     if(c.options[0] && /sel/i.test(c.options[0].text)) c.options[0].text='Country';
     if(c.selectedIndex<=0 && !c.value){ for(var i=0;i<c.options.length;i++){ if(/^United States/.test(c.options[i].text)){ c.selectedIndex=i; c.dispatchEvent(new Event('input',{bubbles:true})); c.dispatchEvent(new Event('change',{bubbles:true})); break; } } }
