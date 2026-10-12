@@ -20,9 +20,8 @@ AUD reference (old AU plan, not live): 3=$69 · 5=$89 · 10=$159 · add-on $29.
 ## 1b. Supplier cost & fulfilment (CJ, SKU CJNSNYNK00343, 2026-10-12)
 Cost per pair ≈ **US$1.60** (AUD 12.17 / 5pcs ≈ US$8). Weight ~85g/pair. US ship = CJPacket Ordinary, **4–9 day delivery**, 1–3 day processing.
 **Mapping (Funnelish set → CJ pack × qty):** 3 pairs → 3PCS ×1 · 5 pairs → 5PCS ×1 · 10 pairs → 5PCS ×2 · add-on 2 → 2PCS ×1. Sizes listed: S, M, L, XL, XXL, 3XL, 4XL (5XL–7XL out of stock).
-US shipping per pack: **[PENDING — read exact CJPacket US cost for 3PCS and 5PCS]**. 1pc US ship = AUD 8.60.
-Est. landed cost (item + US ship, USD): 3pc ~$12 · 5pc ~$18 · 10 (2×5pc) ~$34 · 2pc ~$9.
-Est. gross profit (retail − landed, before CAC): 3 ~$33 · 5 ~$41 · 10 ~$65 · add-on ~$10. Stripe ≈ 2.9%+$0.30.
+US-landed cost CONFIRMED from CJ variant table (3rd col = total to US, AUD): 3PCS AUD 16.6–20.5 · 5PCS AUD 22.7–30.4 · 2PCS ~AUD 16.7 · 1pc ~AUD 11 (XL/XXL run highest). USD (×~0.66): 3pc ~$12 · 5pc ~$18 · 10 (2×5pc) ~$36 · 2pc ~$11.
+Gross profit (retail − landed, before CAC): 3 ~$33 · 5 ~$41 · 10 ~$63 · add-on ~$8. Stripe ≈ 2.9%+$0.30.
 Fabric: **95% regenerated fibre (viscose-type) + 5% spandex** — NOT cotton. Plain black brief, **no lace**. Update all "black cotton / lace on the hips" copy.
 
 ## 2. Quiz finishing reward (PENDING, D5/D13)
@@ -55,7 +54,7 @@ If the Comeback Plan is later made with a named physio and genuinely sold: Every
 |---|---|
 | Shipping cost to her | free on every set |
 | Processing | 1–2 business days (Nikita, 2026-10-11) |
-| Delivery | 6–10 business days in transit → **"about 7–12 business days" total** (Nikita, 2026-10-11) |
+| Delivery | US CJPacket Ordinary: **4–9 day transit** (CJ, 2026-10-12) + 1–3 day processing → say **"about 6–10 days"**. (AU plan was 7–12.) |
 | Parcels | underwear + Wash Bag together · Wash Sheets in a separate parcel, may arrive a few days apart |
 | Shipping protection | **Not offered in Australia** (ACL: the seller carries the risk until delivery). PENDING for other markets. |
 
