@@ -1,8 +1,8 @@
 {%- comment -%}
-  Leapproof home page v3 (one section, all copy). Source of truth for the words: brand/leapproof/home/HOMEPAGE_COPY.md
+  Leapproof home page v4 (one section, all copy). Source of truth for the words: brand/leapproof/home/HOMEPAGE_COPY.md
   Every number comes from brand/leapproof/funnel/NUMBER_SHEET.md. Edit both together.
-  Sample tester cards render only when the "Show SAMPLE tester cards" setting is on AND the URL has ?lpdemo=1.
-  Before this theme goes live: swap them for real tester reviews (or switch the setting off).
+  Reviews block: built from window.LPH_REVIEWS. SAMPLE data loads only when the "Show SAMPLE tester cards" setting is on,
+  and only renders with ?lpdemo=1. For launch: replace the SAMPLE array with real reviews and set window.LPH_REVIEWS_LIVE = true.
 {%- endcomment -%}
 {%- assign quiz = section.settings.quiz_url | default: 'https://leapproof.myfunnelish.com/quiz-2891028289-1791612140998314' -%}
 {%- assign ck = section.settings.checkout_url | default: 'https://leapproof.myfunnelish.com/checkout-page-189927362748349459546632494-1791612140332612' -%}
@@ -23,6 +23,7 @@
       </figure>
     </div>
     <div class="lph-hero__copy">
+      <div class="lph-proof" id="lph-proof" hidden></div>
       <p class="lph-eyebrow">Leak-resistant underwear for lighter leaks · US sizes 0–20</p>
       <h1 id="lph-h1" class="lph-h1">Go ahead and sneeze.<span>No crossing your legs first.</span></h1>
       <p class="lph-sub">Soft black briefs with a leak-resistant lining built in, so there’s no pad. Test them on your own sneeze for 30 nights. If they don’t hold, get your money back and keep the pairs.</p>
@@ -34,180 +35,221 @@
     </div>
   </section>
 
-  <!-- 2. THE MOMENTS -->
+  <!-- 2. TICKER -->
+  <div class="lph-ticker" aria-label="No pad · Machine washable · US sizes 0–20 · Free US shipping · 30-Night Leak-Test · Pay once, no subscription">
+    <div class="lph-ticker__track" aria-hidden="true">
+      {%- for i in (1..2) -%}
+      <span>No pad</span><i></i><span>Machine washable</span><i></i><span>US sizes 0–20</span><i></i><span>Free US shipping</span><i></i><span>30-Night Leak-Test</span><i></i><span>Pay once, no subscription</span><i></i>
+      {%- endfor -%}
+    </div>
+  </div>
+
+  <!-- 3. THE MOMENTS -->
   <section class="lph-sec lph-white" id="moments">
     <div class="lph-w">
-      <p class="lph-eyebrow">Sound familiar?</p>
-      <h2 class="lph-h2">The moments you can stop bracing for.</h2>
-      <p class="lph-lead">Usually it’s not a puddle. It’s a few drops at the worst possible time, and a little wet patch you hope looks like sweat. These are made for exactly that: a few drops to a small splash.</p>
-      <div class="lph-moments">
-        <article class="lph-mo">
-          <h3>The sneeze in the cereal aisle.</h3>
-          <p class="lph-before"><b>Before:</b> you freeze, squeeze, and hope your shirt is long enough.</p>
-          <p class="lph-after"><b>In Leapproof:</b> you sneeze and keep shopping.</p>
-        </article>
-        <article class="lph-mo">
-          <h3>The trampoline at the birthday party.</h3>
-          <p class="lph-before"><b>Before:</b> you hold everyone’s shoes and wave from the side.</p>
-          <p class="lph-after"><b>In Leapproof:</b> you’re the mom doing seat drops.</p>
-        </article>
-        <article class="lph-mo">
-          <h3>Double-unders at 6 a.m.</h3>
-          <p class="lph-before"><b>Before:</b> you pee before class, then again, then skip the jump rope anyway.</p>
-          <p class="lph-after"><b>In Leapproof:</b> you pick up the rope with everyone else.</p>
-        </article>
-        <article class="lph-mo">
-          <h3>The coughing fit at 2 a.m.</h3>
-          <p class="lph-before"><b>Before:</b> baby in one arm, you cough into the other and squeeze.</p>
-          <p class="lph-after"><b>In Leapproof:</b> you just cough.</p>
-        </article>
-        <article class="lph-mo">
-          <h3>The last mile of your Saturday run.</h3>
-          <p class="lph-before"><b>Before:</b> you plan the route around bathrooms and run the last mile clenched.</p>
-          <p class="lph-after"><b>In Leapproof:</b> you run it like the first mile.</p>
-        </article>
-        <article class="lph-mo">
-          <h3>The belly laugh at dinner.</h3>
-          <p class="lph-before"><b>Before:</b> you laugh with your legs crossed and stop halfway.</p>
-          <p class="lph-after"><b>In Leapproof:</b> you laugh at the whole joke.</p>
-        </article>
+      <div class="lph-head" data-rv>
+        <p class="lph-eyebrow">Sound familiar?</p>
+        <h2 class="lph-h2">The moments you can stop bracing for.</h2>
+        <p class="lph-lead">Usually it’s not a puddle. It’s a few drops at the worst possible time, and a little wet patch you hope looks like sweat. These are made for exactly that: a few drops to a small splash.</p>
       </div>
-    </div>
-  </section>
-
-  <!-- 3. COMMON ISN'T NORMAL (compact) -->
-  <section class="lph-sec lph-blush lph-tight" id="normal">
-    <div class="lph-w lph-narrow">
-      <h2 class="lph-h2">Common? Yes. Normal? No.</h2>
-      <p>About 1 in 3 women leak after having a baby.<sup><a href="#lph-src">1</a></sup> It gets brushed off as “just part of it.”</p>
-      <blockquote class="lph-quote">Leaking is “NEVER considered normal.”<sup><a href="#lph-src">2</a></sup><cite>Ridgeview Medical Center</cite></blockquote>
-      <p>You’re not broken. You had a baby, you lift heavy, or perimenopause moved the goalposts. It’s plumbing, not a verdict on you.</p>
-      <div class="lph-box">
-        <p>If you can, see a pelvic floor physical therapist. Until then, you shouldn’t have to sit out your own life.</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- 4. STRAIGHT TALK -->
-  <section class="lph-sec" id="straight">
-    <div class="lph-w lph-narrow">
-      <p class="lph-eyebrow">Been burned before?</p>
-      <h2 class="lph-h2">Things most brands wouldn’t tell you.</h2>
-      <p class="lph-lead">If you’ve bought “leak-proof” underwear off an ad and it went right through, read this first.</p>
-      <ol class="lph-truths">
-        <li><h3>They’re made for lighter leaks.</h3><p>A few drops to a small splash. If yours is more than that, these may not be enough on their own.</p></li>
-        <li><h3>We ship from overseas.</h3><p>Shipping is free, and most orders arrive in about 6–10 days. Not next-day.</p></li>
-        <li><h3>We’re new.</h3><p>No reviews from paying customers yet. Our first reviews come from testers who got a free set, and each one says so.</p></li>
-        <li><h3>Our letter sizes run small, so skip them.</h3><p>A US 12–14 is our XL, a US 16 is our XXL, a US 18 is our 3XL, a US 20 is our 4XL. We size by your hips, and if it’s wrong, we’ll send your new size free.</p></li>
+      <ol class="lph-moments">
+        <li data-rv><span class="lph-n">01</span><div><h3>The sneeze in the cereal aisle.</h3><p class="lph-before">You freeze, squeeze, and hope your shirt is long enough.</p><p class="lph-after">In Leapproof, you sneeze and keep shopping.</p></div></li>
+        <li data-rv><span class="lph-n">02</span><div><h3>The trampoline at the birthday party.</h3><p class="lph-before">You hold everyone’s shoes and wave from the side.</p><p class="lph-after">In Leapproof, you’re the mom doing seat drops.</p></div></li>
+        <li data-rv><span class="lph-n">03</span><div><h3>Double-unders at 6 a.m.</h3><p class="lph-before">You pee before class, then again, then skip the jump rope anyway.</p><p class="lph-after">In Leapproof, you pick up the rope with everyone else.</p></div></li>
+        <li data-rv><span class="lph-n">04</span><div><h3>The coughing fit at 2 a.m.</h3><p class="lph-before">Baby in one arm, you cough into the other and squeeze.</p><p class="lph-after">In Leapproof, you just cough.</p></div></li>
+        <li data-rv><span class="lph-n">05</span><div><h3>The last mile of your Saturday run.</h3><p class="lph-before">You plan the route around bathrooms and run the last mile clenched.</p><p class="lph-after">In Leapproof, you run it like the first mile.</p></div></li>
+        <li data-rv><span class="lph-n">06</span><div><h3>The belly laugh at dinner.</h3><p class="lph-before">You laugh with your legs crossed and stop halfway.</p><p class="lph-after">In Leapproof, you laugh at the whole joke.</p></div></li>
       </ol>
-      <div class="lph-box lph-box--ink">
-        <p class="lph-boxq">Will these go right through like the last ones?</p>
-        <p>We can’t show you a lab number yet, and we won’t fake one. So test them on your own sneeze, your own double-unders. If they go right through, email us. You get your money back and keep the pairs.</p>
+    </div>
+  </section>
+
+  <!-- 4. COMMON ISN'T NORMAL (stat ring) -->
+  <section class="lph-sec lph-blush" id="normal">
+    <div class="lph-w lph-stat">
+      <div class="lph-ring" data-rv aria-hidden="true">
+        <svg viewBox="0 0 120 120"><circle cx="60" cy="60" r="52" class="lph-ring__bg"/><circle cx="60" cy="60" r="52" class="lph-ring__fg"/></svg>
+        <p><b>1 in 3</b><span>women leak after having a baby<sup>1</sup></span></p>
+      </div>
+      <div data-rv>
+        <h2 class="lph-h2">Common? Yes. Normal? No.</h2>
+        <p>It gets brushed off as “just part of it.” It isn’t.</p>
+        <blockquote class="lph-quote">Leaking is “NEVER considered normal.”<sup><a href="#lph-src">2</a></sup><cite>Ridgeview Medical Center</cite></blockquote>
+        <p>You’re not broken. You had a baby, you lift heavy, or perimenopause moved the goalposts. It’s plumbing, not a verdict on you.</p>
+        <p class="lph-aside">If you can, see a pelvic floor physical therapist. Until then, you shouldn’t have to sit out your own life.</p>
       </div>
     </div>
   </section>
 
-  {%- if section.settings.show_sample_reviews -%}
-  <!-- 5. TESTERS: SAMPLE cards for the mockup only (shown with ?lpdemo=1). Replace with real Founding 30 reviews, word for word, before launch. -->
-  <section class="lph-sec lph-white" id="lph-testers" hidden>
-    <div class="lph-w">
-      <h2 class="lph-h2 lph-c">What our first testers said. Each got a free set.</h2>
-      <p class="lph-c lph-small">Every tester was asked for an honest review at any star rating. We don’t hide reviews for being negative.</p>
-      <div class="lph-revs">
-        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-1.jpg?v=1791804638&width=500" width="672" height="900" loading="lazy" alt="Three black briefs on a bed next to an open mailer">
-          <blockquote>“Skeptical, because the last ‘leak-proof’ pair I bought went straight through. These look like my normal black undies. Did a full class of double-unders on Tuesday and didn’t think about it once.”</blockquote>
-          <figcaption>Jess M. · Size M · Received a free set to test</figcaption></figure>
-        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-2.jpg?v=1791804638&width=500" width="672" height="900" loading="lazy" alt="A black brief and the Wash Bag on a kitchen counter">
-          <blockquote>“Got the 5. The waistband is soft and they don’t look like anything special, which is exactly what I wanted. I’m usually a US 8 and the L fits.”</blockquote>
-          <figcaption>Sarah W. · Size L · Received a free set to test</figcaption></figure>
-        <figure class="lph-rev"><img src="{{ cdn }}SAMPLE-review-3.jpg?v=1791804639&width=500" width="672" height="900" loading="lazy" alt="Mirror photo showing the black waistband">
-          <blockquote>“I’m a US 18 and expected nothing to fit. The 3XL fits like my normal briefs. Still testing them on my runs, will update.”</blockquote>
-          <figcaption>Renee T. · Size 3XL · Received a free set to test</figcaption></figure>
-      </div>
-    </div>
-  </section>
-  {%- endif -%}
-
-  <!-- 6. WHAT THEY ARE (+ vs pads) -->
-  <section class="lph-sec lph-white" id="what">
-    <div class="lph-w lph-split">
-      <div class="lph-prod">
-        <figure><img src="{{ cdn }}leapproof-brief.png?v=1791795349&width=700" width="1000" height="1000" loading="lazy" alt="The Leapproof Brief, a plain black brief"><figcaption>The Leapproof Brief. Black, plain, no lace.</figcaption></figure>
-        <figure><img src="{{ cdn }}leapproof-inside-lining.png?v=1791795349&width=700" width="1000" height="1000" loading="lazy" alt="Inside of the Leapproof Brief, showing the leak-resistant lining"><figcaption>The inside: the leak-resistant lining.</figcaption></figure>
+  <!-- 5. STRAIGHT TALK -->
+  <section class="lph-sec" id="straight">
+    <div class="lph-w lph-two">
+      <div class="lph-head lph-sticky-head" data-rv>
+        <p class="lph-eyebrow">Been burned before?</p>
+        <h2 class="lph-h2">Things most brands wouldn’t tell you.</h2>
+        <p class="lph-lead">If you’ve bought “leak-proof” underwear off an ad and it went right through, read this first.</p>
       </div>
       <div>
+        <ol class="lph-truths">
+          <li data-rv><h3>They’re made for lighter leaks.</h3><p>A few drops to a small splash. If yours is more than that, these may not be enough on their own.</p></li>
+          <li data-rv><h3>We ship from overseas.</h3><p>Shipping is free, and most orders arrive in about 6–10 days. Not next-day.</p></li>
+          <li data-rv><h3>We’re new.</h3><p>No reviews from paying customers yet. Our first reviews come from testers who got a free set, and each one says so.</p></li>
+          <li data-rv><h3>Our letter sizes run small, so skip them.</h3><p>A US 12–14 is our XL, a US 16 is our XXL, a US 18 is our 3XL, a US 20 is our 4XL. We size by your hips, and if it’s wrong, we’ll send your new size free.</p></li>
+        </ol>
+        <div class="lph-callout" data-rv>
+          <p class="lph-callout__q">Will these go right through like the last ones?</p>
+          <p>We can’t show you a lab number yet, and we won’t fake one. So test them on your own sneeze, your own double-unders. If they go right through, email us. You get your money back and keep the pairs.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6. REVIEWS (built from real reviews; SAMPLE data only with the setting on + ?lpdemo=1) -->
+  <section class="lph-sec lph-white" id="lph-reviews" hidden>
+    <div class="lph-w">
+      <div class="lph-rvsum" data-rv>
+        <div>
+          <p class="lph-eyebrow">From our first testers</p>
+          <p class="lph-rvsum__score"><b id="lph-avg">0</b>/5</p>
+          <p class="lph-stars" id="lph-avgstars" aria-hidden="true"></p>
+          <p class="lph-rvsum__count" id="lph-count"></p>
+          <p class="lph-rvsum__rec" id="lph-rec"></p>
+        </div>
+        <div class="lph-rvphotos" id="lph-rvphotos"></div>
+      </div>
+      <p class="lph-small lph-rvnote">Every tester got a free set and was asked for an honest review at any star rating. We don’t hide reviews for being negative.</p>
+      <div class="lph-rvlist" id="lph-rvlist"></div>
+    </div>
+  </section>
+
+  <!-- 7. WHAT THEY ARE (anatomy) -->
+  <section class="lph-sec lph-white" id="what">
+    <div class="lph-w lph-split">
+      <div class="lph-anat" data-rv>
+        <img src="{{ cdn }}leapproof-brief.png?v=1791795349&width=900" width="1000" height="1000" loading="lazy" alt="The Leapproof Brief, a plain black brief">
+        <span class="lph-pin" style="--x:50%;--y:24%"><b>1</b><em>Soft, smooth waistband. No lace, no trim.</em></span>
+        <span class="lph-pin" style="--x:22%;--y:58%"><b>2</b><em>Cut like regular briefs.</em></span>
+        <figure class="lph-anat__in"><img src="{{ cdn }}leapproof-inside-lining.png?v=1791795349&width=400" width="1000" height="1000" loading="lazy" alt="Inside of the Leapproof Brief, showing the leak-resistant lining"><figcaption><b>3</b> The leak-resistant lining, built in.</figcaption></figure>
+      </div>
+      <div data-rv>
+        <p class="lph-eyebrow">What they are</p>
         <h2 class="lph-h2">They look like plain black briefs. On purpose.</h2>
         <p class="lph-lead">No pad to stick in, nothing to swap out. The lining is part of the underwear.</p>
-        <ul class="lph-ticks">
-          <li><b>Soft and stretchy.</b> 95% regenerated fiber (viscose-type), 5% spandex.</li>
-          <li><b>A soft, smooth waistband.</b> No lace, no trim.</li>
-          <li><b>Cut like regular briefs.</b> Wear them under leggings, jeans or work pants.</li>
-          <li><b>Wash, wear, repeat.</b> Machine wash cold in a mesh bag and wear them again.</li>
-          <li><b>US sizes 0–20.</b> Sized by your hip measurement (S to 4XL).</li>
+        <ul class="lph-feat">
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-4.4-9.3-9A5.2 5.2 0 0 1 12 6.3 5.2 5.2 0 0 1 21.3 12C19 16.6 12 21 12 21z"/></svg><div><b>Soft and stretchy</b><span>95% regenerated fiber (viscose-type), 5% spandex.</span></div></li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 12a8 8 0 0 1-13.7 5.6M4 12a8 8 0 0 1 13.7-5.6M18 3v4h-4M6 21v-4h4"/></svg><div><b>Wash, wear, repeat</b><span>Machine wash cold in a mesh bag and wear them again.</span></div></li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 16 16 4l4 4L8 20zM8 12l2 2M11 9l2 2M14 6l2 2"/></svg><div><b>US sizes 0–20</b><span>Sized by your hip measurement (S to 4XL).</span></div></li>
+          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h13l-3-3M20 17H7l3 3"/></svg><div><b>Free size swap</b><span>Wrong size? We’ll send your new size free.</span></div></li>
         </ul>
       </div>
     </div>
-    <div class="lph-w lph-narrow lph-vs">
-      <h3 class="lph-h3c">Why women stop buying pads</h3>
-      <p class="lph-c lph-note">Pads and liners bunch, feel like a diaper, and go in the trash every day.</p>
-      <table class="lph-table">
-        <thead><tr><th scope="col"><span class="lph-sr">What matters</span></th><th scope="col">Pads &amp; liners</th><th scope="col" class="lph-us">Leapproof</th></tr></thead>
-        <tbody>
-          <tr><th scope="row">How they wear</th><td>Bunch, shift and rustle</td><td class="lph-us">Cut like regular briefs</td></tr>
-          <tr><th scope="row">Every day</th><td>Another one in the trash</td><td class="lph-us">Wash them and wear them again</td></tr>
-          <tr><th scope="row">Under leggings</th><td>Can show</td><td class="lph-us">No pad to show</td></tr>
-          <tr><th scope="row">If they don’t hold</th><td>Money gone</td><td class="lph-us">30 nights, money back</td></tr>
-        </tbody>
-      </table>
-    </div>
   </section>
 
-  <!-- 7. GUARANTEE -->
-  <section class="lph-sec lph-dark" id="leak-test">
-    <div class="lph-w lph-narrow lph-c">
-      <p class="lph-eyebrow lph-eyebrow--rose">The 30-Night Leak-Test</p>
-      <h2 class="lph-h2">Sneeze in them. Laugh in them. Then decide.</h2>
-      <p>Wear them through your real moments for 30 nights, starting the day they arrive. If they don’t hold, email us your order number and what happened within your 30 nights. We refund your whole set, processed within 3 business days. You keep the pairs. Nothing to send back.</p>
-      <p>Don’t take our word for it. Test them on your own sneeze.</p>
-      <a class="lph-btn lph-btn--light" href="{{ quiz }}">Find my size + set</a>
-      <p class="lph-small">One claim per customer. This is on top of your legal rights. US: the 30-Night Leak-Test is a limited warranty. It gives you specific legal rights, and you may also have other rights which vary from state to state. <a href="/policies/refund-policy">Full terms</a></p>
-    </div>
-  </section>
-
-  <!-- 8. SIZES -->
-  <section class="lph-sec lph-white" id="sizes">
+  <!-- 8. COMPARISON TABLE -->
+  <section class="lph-sec" id="compare">
     <div class="lph-w lph-narrow">
-      <h2 class="lph-h2">Sized by your hips, not a guess.</h2>
-      <p class="lph-lead">Our letter sizes won’t match your other underwear. So go by one number: your hips at the widest part. Your usual US size is listed first.</p>
-      <table class="lph-table lph-size">
-        <thead><tr><th scope="col">US</th><th scope="col">Our size</th><th scope="col">Hips</th></tr></thead>
-        <tbody>
-          <tr><th scope="row">0–2</th><td>S</td><td>up to 36″ (91 cm)</td></tr>
-          <tr><th scope="row">4–6</th><td>M</td><td>36–38″ (91–96 cm)</td></tr>
-          <tr><th scope="row">8–10</th><td>L</td><td>38–40″ (96–101 cm)</td></tr>
-          <tr><th scope="row">12–14</th><td>XL</td><td>40–44″ (101–111 cm)</td></tr>
-          <tr><th scope="row">16</th><td>XXL</td><td>44–47″ (111–120 cm)</td></tr>
-          <tr><th scope="row">18</th><td>3XL</td><td>47–51″ (120–129 cm)</td></tr>
-          <tr><th scope="row">20</th><td>4XL</td><td>51–54″ (129–138 cm)</td></tr>
-        </tbody>
-      </table>
-      <p class="lph-note">Between two sizes? Pick the smaller one. A loose pair can gap at the legs. Too snug? Email us and we’ll send the bigger size free.</p>
-      <div class="lph-box lph-box--claret">
-        <p class="lph-boxh">The Fit Promise</p>
-        <p>Wrong size? We’ll send your new size free. Nothing to send back.</p>
-        <p class="lph-small">Email us within your 30 nights. One free size swap per order.</p>
+      <div class="lph-head lph-c" data-rv>
+        <p class="lph-eyebrow">The switch</p>
+        <h2 class="lph-h2">Why women stop buying pads</h2>
+        <p class="lph-lead">Pads and liners bunch, feel like a diaper, and go in the trash every day.</p>
       </div>
-      <p class="lph-small">Over 54″ (138 cm)? We don’t make your size yet.</p>
+      <div class="lph-cmp" id="lph-cmp">
+        <div class="lph-cmp__head">
+          <span></span>
+          <figure class="lph-cmp__us"><img src="{{ cdn }}leapproof-brief.png?v=1791795349&width=300" width="1000" height="1000" loading="lazy" alt="Leapproof Brief"><figcaption>Leapproof</figcaption></figure>
+          <figure><img src="{{ cdn }}lp-pads-liners.jpg?width=300" width="1000" height="1000" loading="lazy" alt="Disposable pads and liners"><figcaption>Pads &amp; liners</figcaption></figure>
+        </div>
+        {%- assign rows = 'Looks and feels like regular underwear|Nothing to stick in, bunch or shift|Nothing to show under leggings|Wash them and wear them again|Nothing in the trash every day|30 nights to test them, money back' | split: '|' -%}
+        {%- for r in rows -%}
+        <div class="lph-cmp__row" style="--i:{{ forloop.index }}"><span>{{ r }}</span><i class="yes" aria-label="Yes"></i><i class="no" aria-label="No"></i></div>
+        {%- endfor -%}
+      </div>
+      <div class="lph-pads" data-rv>
+        <p class="lph-pads__q">How many pads or liners do you go through a day?</p>
+        <div class="lph-chips" role="group" aria-label="Pads per day">
+          <button type="button" data-n="1">1</button><button type="button" data-n="2" class="on">2</button><button type="button" data-n="3">3</button>
+        </div>
+        <p class="lph-pads__a">That’s <b id="lph-padyear">730</b> in the trash every year. Or 5 pairs you wash and wear again.</p>
+      </div>
     </div>
   </section>
 
-  <!-- 9. THE SETS -->
+  <!-- 9. GUARANTEE -->
+  <section class="lph-sec lph-dark" id="leak-test">
+    <div class="lph-w lph-gwrap">
+      <div class="lph-seal" data-rv aria-hidden="true">
+        <svg viewBox="0 0 200 200"><defs><path id="lphc" d="M100,100 m-78,0 a78,78 0 1,1 156,0 a78,78 0 1,1 -156,0"/></defs><text><textPath href="#lphc">30-NIGHT LEAK-TEST · MONEY BACK · KEEP THE PAIRS · </textPath></text></svg>
+        <b>30</b><span>nights</span>
+      </div>
+      <div data-rv>
+        <p class="lph-eyebrow lph-eyebrow--rose">The 30-Night Leak-Test</p>
+        <h2 class="lph-h2">Sneeze in them. Laugh in them. Then decide.</h2>
+        <p>Wear them through your real moments for 30 nights, starting the day they arrive. If they don’t hold, email us your order number and what happened within your 30 nights. We refund your whole set, processed within 3 business days. You keep the pairs. Nothing to send back.</p>
+        <p>Don’t take our word for it. Test them on your own sneeze.</p>
+        <a class="lph-btn lph-btn--light" href="{{ quiz }}">Find my size + set</a>
+        <p class="lph-small">One claim per customer. This is on top of your legal rights. US: the 30-Night Leak-Test is a limited warranty. It gives you specific legal rights, and you may also have other rights which vary from state to state. <a href="/policies/refund-policy">Full terms</a></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 10. FIRST 30 NIGHTS TIMELINE -->
+  <section class="lph-sec lph-white" id="timeline">
+    <div class="lph-w lph-narrow">
+      <div class="lph-head" data-rv>
+        <p class="lph-eyebrow">What happens next</p>
+        <h2 class="lph-h2">Your first 30 nights.</h2>
+      </div>
+      <ol class="lph-tl" id="lph-tl">
+        <li data-rv><b>Today</b><p>Take the quiz, about 2 minutes. Get your size and set.</p></li>
+        <li data-rv><b>1–3 business days</b><p>We pack your order and email you a tracking link.</p></li>
+        <li data-rv><b>About 6–10 days after you order</b><p>Your pairs arrive. Your 30 nights start that day.</p></li>
+        <li data-rv><b>Night 1</b><p>Wash them once, then wear them through your real moments.</p></li>
+        <li data-rv><b>Night 30</b><p>Keep them. Or, if they didn’t hold, email us for your money back and keep the pairs.</p></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- 11. SIZES -->
+  <section class="lph-sec" id="sizes">
+    <div class="lph-w lph-two">
+      <div class="lph-head" data-rv>
+        <p class="lph-eyebrow">Fit</p>
+        <h2 class="lph-h2">Sized by your hips, not a guess.</h2>
+        <p class="lph-lead">Our letter sizes won’t match your other underwear. So go by one number: your hips at the widest part. Your usual US size is listed first.</p>
+        <div class="lph-fit" >
+          <p class="lph-fit__h">The Fit Promise</p>
+          <p>Wrong size? We’ll send your new size free. Nothing to send back.</p>
+          <p class="lph-small">Email us within your 30 nights. One free size swap per order.</p>
+        </div>
+      </div>
+      <div data-rv>
+        <table class="lph-table lph-size">
+          <thead><tr><th scope="col">US</th><th scope="col">Our size</th><th scope="col">Hips</th></tr></thead>
+          <tbody>
+            <tr><th scope="row">0–2</th><td>S</td><td>up to 36″ (91 cm)</td></tr>
+            <tr><th scope="row">4–6</th><td>M</td><td>36–38″ (91–96 cm)</td></tr>
+            <tr><th scope="row">8–10</th><td>L</td><td>38–40″ (96–101 cm)</td></tr>
+            <tr><th scope="row">12–14</th><td>XL</td><td>40–44″ (101–111 cm)</td></tr>
+            <tr><th scope="row">16</th><td>XXL</td><td>44–47″ (111–120 cm)</td></tr>
+            <tr><th scope="row">18</th><td>3XL</td><td>47–51″ (120–129 cm)</td></tr>
+            <tr><th scope="row">20</th><td>4XL</td><td>51–54″ (129–138 cm)</td></tr>
+          </tbody>
+        </table>
+        <p class="lph-note">Between two sizes? Pick the smaller one. A loose pair can gap at the legs. Too snug? Email us and we’ll send the bigger size free.</p>
+        <p class="lph-small">Over 54″ (138 cm)? We don’t make your size yet.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 12. THE SETS -->
   <section class="lph-sec lph-blush" id="sets">
     <div class="lph-w">
-      <h2 class="lph-h2 lph-c">One pair on, the rest in the wash.</h2>
-      <p class="lph-lead lph-c">So 5 is our pick. The more pairs, the less each costs, down to $9.90 a pair.</p>
+      <div class="lph-head lph-c" data-rv>
+        <p class="lph-eyebrow">Pick your set</p>
+        <h2 class="lph-h2">One pair on, the rest in the wash.</h2>
+        <p class="lph-lead">So 5 is our pick. The more pairs, the less each costs, down to $9.90 a pair.</p>
+      </div>
       <div class="lph-sets">
-        <article class="lph-set">
+        <article class="lph-set" data-rv>
           <img src="{{ cdn }}leapproof-3-pairs.png?v=1791795349&width=500" width="1000" height="1000" loading="lazy" alt="3 Leapproof Briefs">
           <h3>The Starter Set</h3>
           <p class="lph-pairs">3 pairs</p>
@@ -217,7 +259,7 @@
           <p class="lph-setnote">Just want to try them?</p>
           <a class="lph-btn lph-btn--ghost" href="{{ ck }}?set=3">Start with 3 pairs</a>
         </article>
-        <article class="lph-set lph-set--pick">
+        <article class="lph-set lph-set--pick" data-rv>
           <p class="lph-tag">Our pick</p>
           <img src="{{ cdn }}leapproof-5-pairs.png?v=1791795349&width=500" width="1000" height="1000" loading="lazy" alt="5 Leapproof Briefs">
           <h3>The Everyday Rotation</h3>
@@ -228,7 +270,7 @@
           <p class="lph-setnote">A pair a day if you wash every few days.</p>
           <a class="lph-btn" href="{{ ck }}?set=5">Get 5 pairs</a>
         </article>
-        <article class="lph-set">
+        <article class="lph-set" data-rv>
           <p class="lph-tag lph-tag--soft">Best value</p>
           <img src="{{ cdn }}leapproof-10-pairs.png?v=1791795349&width=500" width="1000" height="1000" loading="lazy" alt="10 Leapproof Briefs">
           <h3>The Full Rotation</h3>
@@ -244,18 +286,21 @@
       <ul class="lph-risk lph-c">
         <li>Free US shipping</li><li>Pay once, no subscription</li><li>30-Night Leak-Test on every set</li>
       </ul>
-      <div class="lph-quizcta">
+      <div class="lph-quizcta" data-rv>
         <p><b>Not sure how many, or which size?</b> The quiz works it out from your week and your hips in about 2 minutes. No email needed to see your match.</p>
         <a class="lph-btn lph-btn--ghost" href="{{ quiz }}">Find my size + set</a>
       </div>
     </div>
   </section>
 
-  <!-- 10. FAQ -->
+  <!-- 13. FAQ -->
   <section class="lph-sec lph-white" id="faq">
-    <div class="lph-w lph-narrow">
-      <h2 class="lph-h2">Straight answers.</h2>
-      <p class="lph-lead">If your question isn’t here, email <a class="lph-link" href="mailto:hello@leapproof.com">hello@leapproof.com</a>. A real person answers.</p>
+    <div class="lph-w lph-two">
+      <div class="lph-head lph-sticky-head" data-rv>
+        <p class="lph-eyebrow">FAQ</p>
+        <h2 class="lph-h2">Straight answers.</h2>
+        <p class="lph-lead">If your question isn’t here, email <a class="lph-link" href="mailto:hello@leapproof.com">hello@leapproof.com</a>. A real person answers.</p>
+      </div>
       <div class="lph-faq">
         <details open><summary>Is Leapproof legit?</summary><div><p>Fair question. If you’ve bought “leak-proof” underwear off an ad before, you’ve probably been burned. Here’s what we put in writing: you get 30 nights to test them, and if they don’t hold, we refund your whole set and you keep the pairs. You pay once, with no subscription. Shipping is free. A real person answers every email at <a href="mailto:hello@leapproof.com">hello@leapproof.com</a>. Our <a href="/policies/refund-policy">refund</a> and <a href="/policies/shipping-policy">shipping</a> policies are linked at the bottom of every page.</p></div></details>
         <details><summary>How much can they hold?</summary><div><p>They’re made for lighter leaks: a few drops to a small splash on a sneeze, laugh or jump. If it’s more than that, these may not be enough on their own, and a pelvic floor physical therapist is worth a chat.</p></div></details>
@@ -276,9 +321,9 @@
     </div>
   </section>
 
-  <!-- 11. FINAL CTA -->
-  <section class="lph-sec lph-blush lph-final">
-    <div class="lph-w lph-narrow lph-c">
+  <!-- 14. FINAL CTA (full-bleed photo) -->
+  <section class="lph-final" style="--bg:url('{{ cdn }}lp-home-free.jpg?v=1791804639&width=1600')">
+    <div class="lph-w lph-narrow lph-c" data-rv>
       <h2 class="lph-h2">Laugh at the whole joke.</h2>
       <p class="lph-lead">Take the quiz (about 2 minutes). Test them on your own sneeze for 30 nights. If they don’t hold, you get your money back and keep the pairs.</p>
       <a class="lph-btn" href="{{ quiz }}">Find my size + set</a>
@@ -286,13 +331,13 @@
     </div>
   </section>
 
-  <!-- 12. SOURCES + DISCLOSURES -->
+  <!-- 15. SOURCES + DISCLOSURES -->
   <section class="lph-src" id="lph-src">
     <div class="lph-w lph-narrow">
       <p><strong>Not a treatment. It’s underwear.</strong> For heavier leaks, these may not be enough on their own. If leaking is new, painful or getting worse, talk to a doctor or a pelvic floor physical therapist.</p>
       <p>¹ A review of studies of leaking between 6 weeks and 1 year after giving birth. Moossdorff-Steinhauser et al., International Urogynecology Journal, 2021. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295150/" target="_blank" rel="noopener">PMC8295150</a>. Research results, not Leapproof customers.</p>
       <p>² Ridgeview Medical Center, “Coughing, laughing or sneezing shouldn’t cause peeing,” <a href="https://www.ridgeviewmedical.org/health-eviews/coughing-laughing-or-sneezing-shouldnt-cause-peeing/" target="_blank" rel="noopener">ridgeviewmedical.org</a>. The words “NEVER considered normal.” are copied from this page.</p>
-      <p>Words in quote marks next to a named source are copied exactly from that source. Leapproof isn’t connected to, or endorsed by, any source named on this page. The photo of two women at the top is AI-generated. It doesn’t show real customers.</p>
+      <p>Words in quote marks next to a named source are copied exactly from that source. Leapproof isn’t connected to, or endorsed by, any source named on this page. The photos of the two women on this page are AI-generated. They don’t show real customers.</p>
     </div>
   </section>
 
@@ -304,187 +349,331 @@
 </div>
 
 <style>
-#lph{--ink:#231017;--claret:#A33154;--claret-d:#872845;--cream:#F5EDE6;--blush:#E7CFC9;--taupe:#8C6A6C;--taupe-d:#6E5153;--rose:#E7879F;--line:#E4D6D0;--white:#FFFCFA;
-  font-family:'Hanken Grotesk',Arial,sans-serif;color:var(--ink);background:var(--cream);-webkit-font-smoothing:antialiased;font-size:17px;line-height:1.6;letter-spacing:0}
+#lph{--ink:#231017;--claret:#A33154;--claret-d:#872845;--cream:#F5EDE6;--blush:#EFDCD7;--blush-2:#E7CFC9;--taupe:#8C6A6C;--taupe-d:#6E5153;--rose:#E7879F;--line:#E6D8D2;--white:#FFFCFA;--r:10px;
+  font-family:'Hanken Grotesk',Arial,sans-serif;color:var(--ink);background:var(--cream);-webkit-font-smoothing:antialiased;font-size:17px;line-height:1.6;letter-spacing:0;overflow-x:clip}
 #lph *{box-sizing:border-box}
 #lph p,#lph h1,#lph h2,#lph h3,#lph ul,#lph ol,#lph figure,#lph blockquote{margin:0;padding:0}
 #lph img{display:block;max-width:100%;height:auto}
 #lph a{color:inherit}
 #lph sup a{text-decoration:none;color:var(--claret-d);font-weight:700}
-#lph .lph-w{max-width:1120px;margin:0 auto;padding:0 20px}
-#lph .lph-narrow{max-width:760px}
+#lph .lph-w{max-width:1160px;margin:0 auto;padding:0 20px}
+#lph .lph-narrow{max-width:800px}
 #lph .lph-c{text-align:center}
-#lph .lph-sec{padding:64px 0;scroll-margin-top:70px}
-#lph .lph-tight{padding:52px 0}
+#lph .lph-sec{padding:72px 0;scroll-margin-top:64px}
 #lph .lph-white{background:var(--white)}
 #lph .lph-blush{background:var(--blush)}
 #lph .lph-dark{background:var(--ink);color:var(--cream)}
-#lph .lph-eyebrow{font-size:12.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--claret-d);margin-bottom:12px}
+#lph .lph-eyebrow{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--claret-d);margin-bottom:14px}
 #lph .lph-eyebrow--rose{color:var(--rose)}
-#lph .lph-h1,#lph .lph-h2,#lph h3{font-family:'Fraunces',Georgia,serif;font-weight:600;letter-spacing:-.015em;color:inherit}
-#lph .lph-h1{font-size:clamp(36px,9.6vw,70px);line-height:1.02;margin-bottom:12px}
-#lph .lph-h1 span{display:block;font-style:italic;font-weight:500;color:var(--ink);font-size:.6em;line-height:1.15;margin-top:8px;letter-spacing:-.01em}
-#lph .lph-h2{font-size:clamp(30px,6.4vw,44px);line-height:1.1;margin-bottom:16px}
-#lph h3{font-size:21px;line-height:1.25;margin-bottom:8px}
-#lph .lph-h3c{text-align:center;font-size:clamp(24px,5vw,30px);margin-bottom:6px}
-#lph .lph-lead{font-size:18.5px;line-height:1.55;color:var(--taupe-d);margin-bottom:28px}
-#lph .lph-mb0{margin-bottom:0}
+#lph .lph-h1,#lph .lph-h2,#lph h3{font-family:'Fraunces',Georgia,serif;font-weight:600;letter-spacing:-.02em;color:inherit}
+#lph .lph-h1{font-size:clamp(36px,9.6vw,72px);line-height:1;margin-bottom:12px}
+#lph .lph-h1 span{display:block;font-style:italic;font-weight:500;font-size:.58em;line-height:1.15;margin-top:8px;letter-spacing:-.01em}
+#lph .lph-h2{font-size:clamp(30px,6.2vw,48px);line-height:1.06;margin-bottom:16px}
+#lph h3{font-size:20px;line-height:1.25;margin-bottom:6px}
+#lph .lph-head{margin-bottom:36px;max-width:640px}
+#lph .lph-head.lph-c{margin-left:auto;margin-right:auto}
+#lph .lph-lead{font-size:18px;line-height:1.55;color:var(--taupe-d)}
 #lph .lph-dark p{color:var(--cream)}
 #lph p+p{margin-top:14px}
-#lph .lph-small{font-size:14px;color:var(--taupe-d);margin-top:12px}
-#lph .lph-dark .lph-small{color:#D9C6C8}
-#lph .lph-dark .lph-small a{color:var(--cream)}
-#lph .lph-note{font-size:15.5px;color:var(--taupe-d);margin:18px 0}
-#lph .lph-qual{font-size:15px;color:var(--taupe-d);margin-top:18px;text-align:center;font-style:italic}
+#lph .lph-small{font-size:13.5px;color:var(--taupe-d);margin-top:14px}
+#lph .lph-dark .lph-small{color:#CBB6B8}#lph .lph-dark .lph-small a{color:var(--cream)}
+#lph .lph-note{font-size:15px;color:var(--taupe-d);margin:16px 0 0}
 #lph .lph-link{color:var(--claret-d);font-weight:700;text-underline-offset:3px}
-#lph .lph-btn{display:inline-flex;align-items:center;justify-content:center;min-height:56px;padding:0 34px;background:var(--claret);color:#fff;font-weight:700;font-size:17.5px;text-decoration:none;border-radius:999px;box-shadow:0 6px 18px rgba(163,49,84,.28);transition:background .15s,transform .15s}
-#lph .lph-btn:hover{background:var(--claret-d);transform:translateY(-1px)}
-#lph .lph-btn--ghost{background:transparent;color:var(--claret-d);border:2px solid var(--claret);box-shadow:none}
+#lph .lph-btn{display:inline-flex;align-items:center;justify-content:center;min-height:56px;padding:0 34px;background:var(--claret);color:#fff;font-weight:700;font-size:17px;letter-spacing:.01em;text-decoration:none;border-radius:999px;transition:background .2s,transform .2s,box-shadow .2s;box-shadow:0 8px 22px rgba(163,49,84,.22)}
+#lph .lph-btn:hover{background:var(--claret-d);transform:translateY(-2px);box-shadow:0 12px 26px rgba(163,49,84,.28)}
+#lph .lph-btn--ghost{background:transparent;color:var(--claret-d);border:1.5px solid var(--claret);box-shadow:none}
 #lph .lph-btn--ghost:hover{background:var(--claret);color:#fff}
-#lph .lph-btn--light{background:var(--cream);color:var(--ink);box-shadow:none;margin-top:24px}
+#lph .lph-btn--light{background:var(--cream);color:var(--ink);box-shadow:none;margin-top:26px}
 #lph .lph-btn--light:hover{background:#fff}
-#lph .lph-micro{font-size:14px;color:var(--taupe-d);margin-top:10px}
-#lph .lph-risk{list-style:none;display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:18px;font-size:14px;font-weight:600}
-#lph .lph-risk li{position:relative;padding-left:22px}
-#lph .lph-risk li::before{content:'';position:absolute;left:0;top:4px;width:15px;height:15px;border-radius:50%;background:var(--claret) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4 8.3l2.4 2.4L12 5.2' fill='none' stroke='%23fff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/11px no-repeat}
+#lph .lph-micro{font-size:13.5px;color:var(--taupe-d);margin-top:10px}
+#lph .lph-risk{list-style:none;display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:18px;font-size:13.5px;font-weight:600}
+#lph .lph-risk li{position:relative;padding-left:21px}
+#lph .lph-risk li::before{content:'';position:absolute;left:0;top:3px;width:15px;height:15px;border-radius:50%;background:var(--claret) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4 8.3l2.4 2.4L12 5.2' fill='none' stroke='%23fff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/11px no-repeat}
 #lph .lph-risk.lph-c{justify-content:center}
-#lph figcaption{font-size:14px;color:var(--taupe-d);margin-top:8px}
+#lph figcaption{font-size:13.5px;color:var(--taupe-d);margin-top:8px}
+/* reveal on scroll */
+#lph.js [data-rv]{opacity:0;transform:translateY(26px);transition:opacity .8s cubic-bezier(.2,.7,.2,1),transform .8s cubic-bezier(.2,.7,.2,1);transition-delay:var(--d,0s)}
+#lph.js [data-rv].in{opacity:1;transform:none}
 /* hero */
 #lph .lph-hero{display:grid;grid-template-columns:1fr}
 #lph .lph-hero__media{position:relative;height:26vh;min-height:150px;max-height:300px;overflow:hidden}
-#lph .lph-sub--long{display:none}
-@media (max-height:620px) and (max-width:899px){#lph .lph-hero__media{height:118px;min-height:0}#lph .lph-h1{font-size:34px}}
-#lph .lph-hero__media img{width:100%;height:100%;object-fit:cover;object-position:50% 30%}
-#lph .lph-cap--on{position:absolute;left:16px;bottom:12px;margin:0;color:#fff;font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:17px;text-shadow:0 1px 10px rgba(35,16,23,.65)}
-#lph .lph-hero__copy{padding:18px 20px 34px}
+#lph .lph-hero__media>img{width:100%;height:100%;object-fit:cover;object-position:50% 30%;animation:lphzoom 14s ease-out both}
+@keyframes lphzoom{from{transform:scale(1.08)}to{transform:scale(1)}}
+#lph .lph-inset{position:absolute;right:10px;bottom:10px;width:98px;background:#FFFCFA;border-radius:8px;padding:6px 6px 7px;box-shadow:0 10px 24px rgba(35,16,23,.25);animation:lphup .9s .5s both}
+@keyframes lphup{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+#lph .lph-inset img{border-radius:5px;width:100%}
+#lph .lph-inset figcaption{font-size:10.5px;line-height:1.25;color:var(--ink);margin-top:4px;text-align:center;font-weight:600}
+#lph .lph-hero__copy{padding:18px 20px 32px}
 #lph .lph-hero .lph-eyebrow{font-size:11.5px;margin-bottom:8px;letter-spacing:.12em}
-#lph .lph-sub{font-size:16px;line-height:1.5;margin-bottom:18px;max-width:560px}
-@media (min-width:900px){#lph .lph-sub{font-size:18px;margin-bottom:24px}#lph .lph-hero .lph-eyebrow{font-size:12.5px;margin-bottom:12px}}
+#lph .lph-sub{font-size:16px;line-height:1.5;margin-bottom:18px;max-width:540px}
 #lph .lph-hero .lph-btn{width:100%}
-@media (min-width:900px){#lph .lph-sub--long{display:block}#lph .lph-sub--short{display:none}}
+#lph .lph-proof{display:flex;align-items:center;gap:8px;font-size:13.5px;font-weight:600;margin-bottom:8px}
+#lph .lph-proof .lph-stars{font-size:15px}
+@media (max-height:620px) and (max-width:899px){#lph .lph-hero__media{height:118px;min-height:0}#lph .lph-h1{font-size:34px}}
 @media (min-width:900px){
-  #lph .lph-hero{grid-template-columns:1.05fr .95fr;min-height:640px}
+  #lph .lph-hero{grid-template-columns:1.05fr .95fr;min-height:660px}
   #lph .lph-hero__media{order:2;height:auto;max-height:none}
-  #lph .lph-hero__copy{order:1;display:flex;flex-direction:column;justify-content:center;padding:56px 56px 56px max(20px,calc((100vw - 1120px)/2 + 20px))}
+  #lph .lph-hero__copy{order:1;display:flex;flex-direction:column;justify-content:center;padding:56px 64px 56px max(20px,calc((100vw - 1160px)/2 + 20px))}
   #lph .lph-hero .lph-btn{width:auto;align-self:flex-start}
-  #lph .lph-sec{padding:96px 0}
-  #lph .lph-tight{padding:72px 0}
-  #lph .lph-split{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center}
+  #lph .lph-sub{font-size:18px;margin-bottom:26px}
+  #lph .lph-hero .lph-eyebrow{font-size:12px;margin-bottom:14px}
+  #lph .lph-inset{width:170px;right:24px;bottom:24px}#lph .lph-inset figcaption{font-size:12.5px}
+  #lph .lph-sec{padding:112px 0}
+  #lph .lph-split{display:grid;grid-template-columns:1fr 1fr;gap:72px;align-items:center}
+  #lph .lph-two{display:grid;grid-template-columns:.9fr 1.1fr;gap:72px;align-items:start}
+  #lph .lph-sticky-head{position:sticky;top:110px}
 }
+/* ticker */
+#lph .lph-ticker{background:var(--ink);color:var(--cream);overflow:hidden;white-space:nowrap;padding:13px 0;border-top:1px solid rgba(255,255,255,.06)}
+#lph .lph-ticker__track{display:inline-flex;align-items:center;gap:22px;animation:lphmarq 32s linear infinite;padding-left:22px}
+#lph .lph-ticker span{font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase}
+#lph .lph-ticker i{width:6px;height:6px;border-radius:50%;background:var(--rose);display:inline-block}
+@keyframes lphmarq{to{transform:translateX(-50%)}}
 /* moments */
-#lph .lph-moments{display:grid;gap:14px}
-#lph .lph-mo{background:var(--cream);border:1px solid var(--line);border-radius:18px;padding:22px 20px}
+#lph .lph-moments{list-style:none;display:grid;border-top:1px solid var(--line)}
+#lph .lph-moments li{display:grid;grid-template-columns:52px 1fr;gap:4px;padding:24px 0;border-bottom:1px solid var(--line)}
+#lph .lph-n{font-family:'Fraunces',Georgia,serif;font-size:20px;color:var(--claret);line-height:1.3}
 #lph .lph-before{color:var(--taupe-d);font-size:16px}
-#lph .lph-after{margin-top:10px;font-size:16.5px}
-#lph .lph-after b{color:var(--claret-d)}
-@media (min-width:700px){#lph .lph-moments{grid-template-columns:repeat(6,1fr)}#lph .lph-mo{grid-column:span 3}#lph .lph-mo:nth-child(n+3){grid-column:span 2}}
-/* normal */
-#lph blockquote.lph-quote{font-style:normal;color:var(--ink)}
-#lph .lph-quote{font-family:'Fraunces',Georgia,serif;font-size:24px;line-height:1.3;border-left:3px solid var(--claret);padding-left:16px;margin:20px 0}
-#lph .lph-quote cite{display:block;font-family:'Hanken Grotesk',Arial,sans-serif;font-style:normal;font-size:13.5px;color:var(--taupe-d);margin-top:6px;letter-spacing:.04em}
-#lph .lph-box{background:var(--white);border-radius:16px;padding:18px 20px;margin-top:20px}
-#lph .lph-box--claret{border:2px solid var(--claret)}
-#lph .lph-boxh{font-weight:700;color:var(--claret-d);text-transform:uppercase;letter-spacing:.1em;font-size:13px}
-/* tables */
-#lph .lph-table{width:100%;border-collapse:separate;border-spacing:0;background:var(--white);border:1px solid var(--line);border-radius:16px;overflow:hidden;font-size:15.5px}
-#lph .lph-table th,#lph .lph-table td{padding:13px 12px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
-#lph .lph-table tr:last-child th,#lph .lph-table tr:last-child td{border-bottom:0}
-#lph .lph-table thead th{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--taupe-d);background:var(--cream)}
-#lph .lph-table tbody th{font-weight:700}
-#lph .lph-table .lph-us{background:#FBF1F3;color:var(--ink);font-weight:600}
-#lph .lph-table thead .lph-us{color:var(--claret-d);background:#F6E3E8}
-#lph .lph-size td,#lph .lph-size th{text-align:center}
-#lph .lph-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
-/* what */
-#lph .lph-prod{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:28px}
-#lph .lph-prod img{border-radius:14px}
-#lph .lph-ticks{list-style:none;display:grid;gap:12px;margin-bottom:22px}
-#lph .lph-ticks li{position:relative;padding-left:30px}
-#lph .lph-ticks li::before{content:'';position:absolute;left:0;top:5px;width:19px;height:19px;border-radius:50%;background:var(--claret) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4 8.3l2.4 2.4L12 5.2' fill='none' stroke='%23fff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/13px no-repeat}
-#lph .lph-honest{background:var(--cream);border-left:3px solid var(--taupe);padding:14px 16px;border-radius:0 12px 12px 0;font-size:15.5px}
-#lph .lph-vs{margin-top:56px}
-@media (min-width:900px){#lph .lph-prod{margin-bottom:0}#lph .lph-vs{margin-top:80px}}
+#lph .lph-after{margin-top:6px;font-size:16.5px;font-weight:700;color:var(--claret-d)}
+@media (min-width:800px){#lph .lph-moments{grid-template-columns:1fr 1fr;column-gap:56px}#lph .lph-moments li{padding:30px 0}}
+/* stat ring */
+#lph .lph-stat{display:grid;gap:36px;align-items:center}
+#lph .lph-ring{position:relative;width:min(280px,72vw);aspect-ratio:1;margin:0 auto}
+#lph .lph-ring svg{width:100%;height:100%;transform:rotate(-90deg)}
+#lph .lph-ring circle{fill:none;stroke-width:9}
+#lph .lph-ring__bg{stroke:rgba(163,49,84,.14)}
+#lph .lph-ring__fg{stroke:var(--claret);stroke-linecap:round;stroke-dasharray:326.7;stroke-dashoffset:326.7;transition:stroke-dashoffset 1.8s cubic-bezier(.2,.7,.2,1) .2s}
+#lph .lph-ring.in .lph-ring__fg{stroke-dashoffset:217.8}
+#lph .lph-ring p{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 18%}
+#lph .lph-ring b{font-family:'Fraunces',Georgia,serif;font-size:clamp(44px,12vw,60px);line-height:1;font-weight:600}
+#lph .lph-ring span{font-size:14px;color:var(--taupe-d);margin-top:6px;line-height:1.35}
+#lph .lph-quote{font-family:'Fraunces',Georgia,serif;font-size:24px;line-height:1.3;border-left:2px solid var(--claret);padding-left:18px;margin:22px 0;font-style:normal;color:var(--ink)}
+#lph .lph-quote cite{display:block;font-family:'Hanken Grotesk',Arial,sans-serif;font-style:normal;font-size:13px;color:var(--taupe-d);margin-top:6px;letter-spacing:.04em}
+#lph .lph-aside{margin-top:20px;padding-top:18px;border-top:1px solid rgba(35,16,23,.12);color:var(--taupe-d);font-size:16px}
+@media (min-width:900px){#lph .lph-stat{grid-template-columns:.8fr 1.2fr;gap:80px}}
 /* truths */
-#lph .lph-truths{list-style:none;counter-reset:t;display:grid;gap:14px;margin:8px 0 26px}
-#lph .lph-truths li{counter-increment:t;background:var(--white);border:1px solid var(--line);border-radius:16px;padding:18px 20px 18px 62px;position:relative}
-#lph .lph-truths li::before{content:counter(t);position:absolute;left:20px;top:16px;font-family:'Fraunces',Georgia,serif;font-size:28px;line-height:1;color:var(--claret)}
+#lph .lph-truths{list-style:none;counter-reset:t;border-top:1px solid var(--line)}
+#lph .lph-truths li{counter-increment:t;padding:22px 0 22px 52px;position:relative;border-bottom:1px solid var(--line)}
+#lph .lph-truths li::before{content:counter(t,decimal-leading-zero);position:absolute;left:0;top:22px;font-family:'Fraunces',Georgia,serif;font-size:20px;color:var(--claret)}
 #lph .lph-truths p{color:var(--taupe-d);font-size:16px}
-/* guarantee */
+#lph .lph-callout{background:var(--ink);color:var(--cream);border-radius:var(--r);padding:26px 24px;margin-top:28px}
+#lph .lph-callout p{color:var(--cream)}
+#lph .lph-callout__q{font-family:'Fraunces',Georgia,serif;font-size:22px;line-height:1.25;margin-bottom:10px}
+/* reviews */
+#lph .lph-rvsum{display:grid;gap:24px;align-items:end;padding-bottom:28px;border-bottom:1px solid var(--line)}
+#lph .lph-rvsum__score{font-family:'Fraunces',Georgia,serif;font-size:56px;line-height:1;font-weight:600}
+#lph .lph-rvsum__score b{font-weight:600}
+#lph .lph-stars{color:#E0703A;letter-spacing:2px;font-size:22px;line-height:1.2;margin-top:8px}
+#lph .lph-rvsum__count{font-weight:700;margin-top:8px;font-size:15px}
+#lph .lph-rvsum__rec{color:var(--taupe-d);font-size:15px;margin-top:4px}
+#lph .lph-rvphotos{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+#lph .lph-rvphotos img{aspect-ratio:3/4;object-fit:cover;border-radius:6px;width:100%}
+#lph .lph-rvnote{margin:16px 0 8px}
+#lph .lph-rv{padding:28px 0;border-bottom:1px solid var(--line)}
+#lph .lph-rv__who{display:flex;align-items:center;gap:14px}
+#lph .lph-av{width:52px;height:52px;border-radius:50%;background:var(--blush-2);color:var(--claret-d);display:flex;align-items:center;justify-content:center;font-family:'Fraunces',Georgia,serif;font-size:20px;font-weight:600;flex:none}
+#lph .lph-rv__name{font-weight:700;font-size:17px}
+#lph .lph-rv__badge{font-size:13px;color:var(--taupe-d);display:flex;align-items:center;gap:5px}
+#lph .lph-rv__badge svg{width:15px;height:15px;fill:#6B8F5E}
+#lph .lph-rv .lph-stars{font-size:19px;margin-top:14px}
+#lph .lph-rv h3{font-family:'Hanken Grotesk',Arial,sans-serif;font-weight:700;font-size:19px;letter-spacing:0;margin:6px 0 2px}
+#lph .lph-rv__date{font-size:13.5px;color:var(--taupe-d);margin-bottom:8px}
+#lph .lph-rv__text{font-size:16px;color:#3B2C31}
+#lph .lph-rv__for{font-size:14px;color:var(--taupe-d);margin-top:10px}
+#lph .lph-rv__for b{color:var(--ink)}
+#lph .lph-rv__rec{display:flex;align-items:center;gap:6px;font-size:14.5px;margin-top:8px}
+#lph .lph-rv__rec svg{width:17px;height:17px;fill:var(--claret)}
+#lph .lph-sl{margin-top:16px}
+#lph .lph-sl p{font-weight:700;font-size:14.5px;margin-bottom:8px}
+#lph .lph-sl__bar{position:relative;display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
+#lph .lph-sl__bar span{height:6px;background:var(--line);border-radius:3px}
+#lph .lph-sl__bar i{position:absolute;top:-6px;width:8px;height:18px;border-radius:3px;background:var(--claret);left:calc(var(--v) * 1% - 4px)}
+#lph .lph-sl__lbl{display:flex;justify-content:space-between;font-size:13px;color:var(--taupe-d);margin-top:8px}
+@media (min-width:800px){#lph .lph-rvsum{grid-template-columns:.8fr 1.2fr}#lph .lph-rvlist{display:grid;grid-template-columns:1fr 1fr;column-gap:56px}#lph .lph-rv__sls{display:grid;grid-template-columns:1fr 1fr;gap:24px}}
+/* anatomy + features */
+#lph .lph-anat{position:relative;margin-bottom:32px}
+#lph .lph-anat>img{border-radius:var(--r);width:100%}
+#lph .lph-pin{position:absolute;left:var(--x);top:var(--y);transform:translate(-50%,-50%);display:flex;align-items:center;gap:8px}
+#lph .lph-pin b,#lph .lph-anat__in figcaption b{width:26px;height:26px;border-radius:50%;background:var(--claret);color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:13px;box-shadow:0 0 0 6px rgba(163,49,84,.18);flex:none}
+#lph .lph-pin b{animation:lphpulse 2.4s ease-in-out infinite}
+@keyframes lphpulse{50%{box-shadow:0 0 0 11px rgba(163,49,84,.06)}}
+#lph .lph-pin em{font-style:normal;font-size:12.5px;font-weight:600;background:rgba(255,252,250,.94);padding:5px 9px;border-radius:6px;white-space:nowrap;box-shadow:0 4px 14px rgba(35,16,23,.12)}
+#lph .lph-anat__in{position:absolute;right:-6px;bottom:-22px;width:42%;background:var(--white);padding:7px;border-radius:var(--r);box-shadow:0 14px 30px rgba(35,16,23,.18)}
+#lph .lph-anat__in img{border-radius:6px}
+#lph .lph-anat__in figcaption{display:flex;gap:6px;align-items:flex-start;font-size:12px;font-weight:600;color:var(--ink);line-height:1.3;margin-top:7px}
+#lph .lph-anat__in figcaption b{width:20px;height:20px;font-size:11px;box-shadow:none}
+#lph .lph-feat{list-style:none;display:grid;gap:18px;margin-top:26px}
+#lph .lph-feat li{display:grid;grid-template-columns:42px 1fr;gap:14px;align-items:start}
+#lph .lph-feat svg{width:42px;height:42px;padding:9px;border-radius:50%;background:var(--blush);fill:none;stroke:var(--claret);stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+#lph .lph-feat b{display:block;font-size:16.5px}
+#lph .lph-feat span{color:var(--taupe-d);font-size:15.5px}
+@media (min-width:900px){#lph .lph-anat{margin-bottom:0}}
+/* comparison */
+#lph .lph-cmp{background:var(--white);border-radius:var(--r);padding:8px 18px 4px;box-shadow:0 1px 0 var(--line)}
+#lph .lph-cmp__head,#lph .lph-cmp__row{display:grid;grid-template-columns:1fr 92px 92px;align-items:center;gap:6px}
+#lph .lph-cmp__head figure{text-align:center;padding:14px 4px 12px}
+#lph .lph-cmp__head img{width:76px;height:76px;object-fit:cover;border-radius:8px;margin:0 auto}
+#lph .lph-cmp__head figcaption{font-weight:700;font-size:13px;color:var(--ink);margin-top:8px;line-height:1.2}
+#lph .lph-cmp__us{background:#F8EDF0;border-radius:var(--r) var(--r) 0 0}
+#lph .lph-cmp__row{border-top:1px solid var(--line);min-height:68px}
+#lph .lph-cmp__row span{font-family:'Fraunces',Georgia,serif;font-size:16.5px;line-height:1.3;padding:14px 0}
+#lph .lph-cmp__row i{justify-self:center;width:34px;height:34px;border-radius:50%;display:block;background-position:center;background-repeat:no-repeat;background-size:18px;transform:scale(.4);opacity:0;transition:transform .5s cubic-bezier(.3,1.6,.5,1),opacity .4s;transition-delay:calc(var(--i) * .12s + .1s)}
+#lph .lph-cmp__row i.yes{background-color:var(--claret);background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 8.4l2.8 2.8L12.5 5' fill='none' stroke='%23fff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")}
+#lph .lph-cmp__row i.no{border:1.5px solid #C9B9B6;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M5 5l6 6M11 5l-6 6' fill='none' stroke='%23A7928F' stroke-width='1.8' stroke-linecap='round'/%3E%3C/svg%3E")}
+#lph .lph-cmp__row{position:relative}
+#lph .lph-cmp__row::before{content:'';position:absolute;top:0;bottom:0;right:98px;width:92px;background:#F8EDF0;z-index:0}
+#lph .lph-cmp__row>*{position:relative;z-index:1}
+#lph .lph-cmp.in .lph-cmp__row i{transform:none;opacity:1}
+#lph:not(.js) .lph-cmp__row i{transform:none;opacity:1}
+#lph .lph-pads{margin-top:28px;text-align:center}
+#lph .lph-pads__q{font-weight:700}
+#lph .lph-chips{display:inline-flex;gap:8px;margin:12px 0}
+#lph .lph-chips button{width:48px;height:44px;border-radius:999px;border:1.5px solid var(--claret);background:transparent;color:var(--claret-d);font:700 16px 'Hanken Grotesk',Arial,sans-serif;cursor:pointer}
+#lph .lph-chips button.on{background:var(--claret);color:#fff}
+#lph .lph-pads__a{font-size:16.5px;color:var(--taupe-d)}
+#lph .lph-pads__a b{font-family:'Fraunces',Georgia,serif;font-size:26px;color:var(--ink)}
+@media (min-width:700px){#lph .lph-cmp{padding:8px 28px 4px}#lph .lph-cmp__head,#lph .lph-cmp__row{grid-template-columns:1fr 150px 150px}#lph .lph-cmp__head img{width:110px;height:110px}#lph .lph-cmp__row::before{right:156px;width:150px}#lph .lph-cmp__row span{font-size:19px}}
+/* guarantee seal */
+#lph .lph-gwrap{display:grid;gap:40px;align-items:center}
+#lph .lph-seal{position:relative;width:190px;height:190px;margin:0 auto;display:flex;flex-direction:column;align-items:center;justify-content:center}
+#lph .lph-seal svg{position:absolute;inset:0;width:100%;height:100%;animation:lphspin 26s linear infinite}
+#lph .lph-seal text{fill:var(--rose);font:700 12.4px 'Hanken Grotesk',Arial,sans-serif;letter-spacing:2.6px}
+#lph .lph-seal b{font-family:'Fraunces',Georgia,serif;font-size:64px;line-height:.9;color:var(--cream)}
+#lph .lph-seal span{font-size:13px;letter-spacing:.2em;text-transform:uppercase;color:var(--cream)}
+#lph .lph-seal::before{content:'';position:absolute;inset:30px;border-radius:50%;border:1px solid rgba(231,135,159,.45)}
+@keyframes lphspin{to{transform:rotate(360deg)}}
 #lph #leak-test .lph-h2{color:var(--cream)}
-#lph .lph-fit{margin-top:20px;padding:14px 16px;border:1px solid rgba(231,135,159,.5);border-radius:14px}
-#lph .lph-fit b{color:var(--rose)}
-/* steps */
-#lph .lph-steps{list-style:none;display:grid;gap:14px;margin:8px 0 6px}
-#lph .lph-steps li{background:var(--white);border:1px solid var(--line);border-radius:18px;padding:22px 20px 20px}
-#lph .lph-steps span{display:inline-flex;width:36px;height:36px;border-radius:50%;background:var(--claret);color:#fff;font-weight:700;align-items:center;justify-content:center;margin-bottom:12px}
-@media (min-width:800px){#lph .lph-steps{grid-template-columns:repeat(3,1fr)}}
+@media (min-width:900px){#lph .lph-gwrap{grid-template-columns:260px 1fr;gap:80px}#lph .lph-seal{width:240px;height:240px}}
+/* timeline */
+#lph .lph-tl{list-style:none;position:relative;padding-left:34px}
+#lph .lph-tl::before{content:'';position:absolute;left:8px;top:8px;bottom:8px;width:2px;background:var(--line)}
+#lph .lph-tl::after{content:'';position:absolute;left:8px;top:8px;width:2px;height:calc((100% - 16px) * var(--p,0));background:var(--claret);transition:height .2s linear}
+#lph .lph-tl li{position:relative;padding:0 0 28px}
+#lph .lph-tl li:last-child{padding-bottom:0}
+#lph .lph-tl li::before{content:'';position:absolute;left:-31px;top:6px;width:14px;height:14px;border-radius:50%;background:var(--white);border:2px solid var(--claret)}
+#lph .lph-tl b{display:block;font-family:'Fraunces',Georgia,serif;font-size:19px;font-weight:600}
+#lph .lph-tl p{color:var(--taupe-d);font-size:16px;margin-top:2px}
+/* tables */
+#lph .lph-table{width:100%;border-collapse:collapse;background:var(--white);border-radius:var(--r);overflow:hidden;font-size:15.5px}
+#lph .lph-table th,#lph .lph-table td{padding:13px 14px;text-align:center;border-bottom:1px solid var(--line)}
+#lph .lph-table tr:last-child th,#lph .lph-table tr:last-child td{border-bottom:0}
+#lph .lph-table thead th{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--taupe-d);background:#F8F1EC}
+#lph .lph-table tbody th{font-weight:700;color:var(--claret-d)}
+#lph .lph-fit{margin-top:24px;border-left:2px solid var(--claret);padding:4px 0 4px 18px}
+#lph .lph-fit__h{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--claret-d)}
+#lph .lph-fit p+p{margin-top:6px}
 /* sets */
 #lph .lph-sets{display:grid;gap:22px;margin:10px 0 18px}
-#lph .lph-set{position:relative;background:var(--white);border:1px solid var(--line);border-radius:20px;padding:24px 20px;text-align:center;display:flex;flex-direction:column;align-items:center}
-#lph .lph-set img{width:62%;max-width:220px;border-radius:12px;margin-bottom:12px}
-#lph .lph-set--pick{border:2px solid var(--claret);box-shadow:0 14px 34px rgba(163,49,84,.16)}
-#lph .lph-tag{position:absolute;top:-13px;left:50%;transform:translateX(-50%);background:var(--claret);color:#fff;font-size:12.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:5px 14px;border-radius:999px;white-space:nowrap}
+#lph .lph-set{position:relative;background:var(--white);border-radius:var(--r);padding:26px 22px;text-align:center;display:flex;flex-direction:column;align-items:center;transition:transform .3s,box-shadow .3s}
+#lph .lph-set:hover{transform:translateY(-4px);box-shadow:0 18px 40px rgba(35,16,23,.1)}
+#lph .lph-set img{width:62%;max-width:220px;border-radius:8px;margin-bottom:14px}
+#lph .lph-set--pick{outline:2px solid var(--claret);box-shadow:0 18px 40px rgba(163,49,84,.14)}
+#lph .lph-tag{position:absolute;top:-13px;left:50%;transform:translateX(-50%);background:var(--claret);color:#fff;font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:5px 14px;border-radius:999px;white-space:nowrap}
 #lph .lph-tag--soft{background:var(--ink)}
-#lph .lph-pairs{font-weight:700;color:var(--taupe-d);font-size:14px;letter-spacing:.06em;text-transform:uppercase}
-#lph .lph-price{font-family:'Fraunces',Georgia,serif;font-size:44px;font-weight:600;line-height:1.1;margin-top:4px}
-#lph .lph-pp{font-size:15px;color:var(--claret-d);font-weight:700;margin-top:4px}
-#lph .lph-set ul{list-style:none;margin:16px 0 12px;font-size:15.5px;display:grid;gap:6px}
+#lph .lph-pairs{font-weight:700;color:var(--taupe-d);font-size:13px;letter-spacing:.1em;text-transform:uppercase}
+#lph .lph-price{font-family:'Fraunces',Georgia,serif;font-size:46px;font-weight:600;line-height:1.1;margin-top:2px}
+#lph .lph-pp{font-size:14.5px;color:var(--claret-d);font-weight:700;margin-top:4px}
+#lph .lph-set ul{list-style:none;margin:16px 0 12px;font-size:15px;display:grid;gap:6px}
 #lph .lph-set .lph-lack{color:var(--taupe-d)}
-#lph .lph-setnote{font-size:14.5px;color:var(--taupe-d);margin:0 0 16px;font-style:italic}
+#lph .lph-setnote{font-size:14px;color:var(--taupe-d);margin:0 0 16px;font-style:italic}
 #lph .lph-set .lph-btn{margin-top:auto;width:100%}
-#lph .lph-quizcta{background:var(--white);border-radius:20px;padding:22px 20px;margin-top:26px;text-align:center}
+#lph .lph-quizcta{background:var(--white);border-radius:var(--r);padding:24px 22px;margin-top:28px;text-align:center}
 #lph .lph-quizcta p{margin-bottom:16px}
-@media (min-width:900px){#lph .lph-sets{grid-template-columns:repeat(3,1fr);align-items:stretch}#lph .lph-set--pick{transform:translateY(-8px)}#lph .lph-quizcta{display:flex;align-items:center;justify-content:space-between;gap:24px;text-align:left}#lph .lph-quizcta p{margin:0}}
-/* reviews */
-#lph .lph-revs{display:grid;gap:16px;margin-top:26px}
-#lph .lph-rev{background:var(--cream);border-radius:18px;overflow:hidden}
-#lph .lph-rev img{aspect-ratio:4/3;object-fit:cover;width:100%}
-#lph .lph-rev blockquote{padding:16px 18px 6px;font-size:16px;border:0;font-style:normal;margin:0;color:var(--ink)}
-#lph .lph-rev figcaption{padding:0 18px 18px;font-weight:700;color:var(--ink)}
-@media (min-width:800px){#lph .lph-revs{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:899px){#lph .lph-set--pick{order:-1;margin-top:10px}}
+@media (min-width:900px){#lph .lph-sets{grid-template-columns:repeat(3,1fr);align-items:stretch}#lph .lph-set--pick{transform:translateY(-10px)}#lph .lph-set--pick:hover{transform:translateY(-14px)}#lph .lph-quizcta{display:flex;align-items:center;justify-content:space-between;gap:24px;text-align:left}#lph .lph-quizcta p{margin:0}}
 /* faq */
 #lph .lph-faq details{border-bottom:1px solid var(--line)}
-#lph .lph-faq summary{list-style:none;cursor:pointer;padding:18px 40px 18px 0;font-weight:700;font-size:17.5px;position:relative}
+#lph .lph-faq details:first-child{border-top:1px solid var(--line)}
+#lph .lph-faq summary{list-style:none;cursor:pointer;padding:20px 44px 20px 0;font-weight:700;font-size:17px;position:relative}
 #lph .lph-faq summary::-webkit-details-marker{display:none}
-#lph .lph-faq summary::after{content:'+';position:absolute;right:4px;top:12px;font-size:28px;font-weight:400;color:var(--claret)}
-#lph .lph-faq details[open] summary::after{content:'–'}
-#lph .lph-faq details>div{padding:0 0 20px;color:#4A3A3F}
+#lph .lph-faq summary::after{content:'';position:absolute;right:6px;top:50%;width:12px;height:12px;border-right:2px solid var(--claret);border-bottom:2px solid var(--claret);transform:translateY(-70%) rotate(45deg);transition:transform .25s}
+#lph .lph-faq details[open] summary::after{transform:translateY(-30%) rotate(-135deg)}
+#lph .lph-faq details>div{padding:0 0 22px;color:#4A3A3F}
 #lph .lph-faq a{color:var(--claret-d);font-weight:600}
 /* final */
-#lph .lph-final .lph-lead{max-width:600px;margin-left:auto;margin-right:auto}
+#lph .lph-final{position:relative;padding:120px 0;background:linear-gradient(rgba(35,16,23,.62),rgba(35,16,23,.72)),var(--bg) center 30%/cover no-repeat;color:#fff}
+#lph .lph-final .lph-h2{color:#fff;font-size:clamp(36px,8vw,64px)}
+#lph .lph-final .lph-lead{color:#F3E6E8;max-width:600px;margin:0 auto 28px}
+#lph .lph-final .lph-micro{color:#E9D9DC}
 /* sources */
-#lph .lph-src{background:var(--cream);padding:40px 0 48px;font-size:13px;line-height:1.55;color:var(--taupe-d);border-top:1px solid var(--line)}
+#lph .lph-src{background:var(--cream);padding:40px 0 48px;font-size:12.5px;line-height:1.55;color:var(--taupe-d)}
 #lph .lph-src p+p{margin-top:8px}
 #lph .lph-src strong{color:var(--ink)}
 /* sticky */
-#lph .lph-sticky{position:fixed;left:0;right:0;bottom:0;z-index:60;display:flex;align-items:center;gap:12px;justify-content:space-between;padding:10px 14px calc(10px + env(safe-area-inset-bottom));background:rgba(255,252,250,.97);border-top:1px solid var(--line);box-shadow:0 -6px 18px rgba(35,16,23,.08);transform:translateY(110%);transition:transform .25s}
+#lph .lph-sticky{position:fixed;left:0;right:0;bottom:0;z-index:60;display:flex;align-items:center;gap:12px;justify-content:space-between;padding:10px 14px calc(10px + env(safe-area-inset-bottom));background:rgba(255,252,250,.97);border-top:1px solid var(--line);box-shadow:0 -6px 18px rgba(35,16,23,.08);transform:translateY(110%);transition:transform .3s}
 #lph .lph-sticky.on{transform:none}
-#lph .lph-sticky span{font-size:13.5px;font-weight:600;line-height:1.3;max-width:52%}
-#lph .lph-sticky .lph-btn{min-height:48px;padding:0 22px;font-size:16px;box-shadow:none}
+#lph .lph-sticky span{font-size:13px;font-weight:600;line-height:1.3;max-width:46%}
+#lph .lph-sticky .lph-btn{min-height:46px;padding:0 18px;font-size:15px;box-shadow:none}
 @media (min-width:900px){#lph .lph-sticky{display:none}}
-
-/* v3 */
-@media (max-width:899px){#lph .lph-set--pick{order:-1;margin-top:10px}}
-#lph .lph-inset{position:absolute;right:10px;bottom:10px;width:98px;background:#FFFCFA;border-radius:12px;padding:6px 6px 7px;box-shadow:0 6px 18px rgba(35,16,23,.25)}
-#lph .lph-inset img{border-radius:8px;width:100%}
-#lph .lph-inset figcaption{font-size:10.5px;line-height:1.25;color:#231017;margin-top:4px;text-align:center;font-weight:600}
-@media (min-width:900px){#lph .lph-inset{width:170px;right:20px;bottom:20px}#lph .lph-inset figcaption{font-size:12.5px}}
-#lph .lph-box--ink{background:var(--ink);color:var(--cream);margin-top:26px}
-#lph .lph-box--ink p{color:var(--cream)}
-#lph .lph-boxq{font-family:'Fraunces',Georgia,serif;font-size:21px;line-height:1.25;margin-bottom:8px}
-#lph .lph-size thead th:first-child,#lph .lph-size tbody th{color:var(--claret-d)}
-@media (min-width:700px){#lph .lph-mo:nth-child(n){grid-column:span 2}}
-#lph .lph-sticky .lph-btn{padding:0 18px;font-size:15px}
-#lph .lph-sticky span{max-width:46%}
+@media (prefers-reduced-motion:reduce){#lph *{animation:none !important;transition:none !important}#lph.js [data-rv]{opacity:1;transform:none}#lph .lph-cmp__row i{opacity:1;transform:none}#lph .lph-ring__fg{stroke-dashoffset:217.8}}
 </style>
 
+{%- if section.settings.show_sample_reviews -%}
+<script>
+/* SAMPLE tester reviews for the mockup only. Replace with real Founding 30 reviews, word for word (same fields).
+   fit: 0 = runs small, 50 = true to size, 100 = runs big · comfort: 0 = not comfy, 100 = like my normal undies */
+window.LPH_REVIEWS = [
+  {name:'Jess M.', stars:5, title:'Forgot I had them on', when:'Tester review', text:'Skeptical, because the last “leak-proof” pair I bought went straight through. These look like my normal black undies. Did a full class of double-unders on Tuesday and didn’t think about it once.', set:'The Everyday Rotation', size:'M', rec:true, fit:50, comfort:92, photo:'{{ cdn }}SAMPLE-review-1.jpg?v=1791804638&width=400'},
+  {name:'Sarah W.', stars:5, title:'Exactly what I wanted', when:'Tester review', text:'Got the 5. The waistband is soft and they don’t look like anything special, which is exactly what I wanted. I’m usually a US 8 and the L fits.', set:'The Everyday Rotation', size:'L', rec:true, fit:50, comfort:85, photo:'{{ cdn }}SAMPLE-review-2.jpg?v=1791804638&width=400'},
+  {name:'Renee T.', stars:4, title:'Finally something in my size', when:'Tester review', text:'I’m a US 18 and expected nothing to fit. The 3XL fits like my normal briefs. Still testing them on my runs, will update.', set:'The Full Rotation', size:'3XL', rec:true, fit:42, comfort:80, photo:'{{ cdn }}SAMPLE-review-3.jpg?v=1791804639&width=400'}
+];
+</script>
+{%- endif -%}
 <script>
 (function(){
-  /* SAMPLE tester cards only with ?lpdemo=1 (mockup; FTC: no invented reviews live) */
-  try{ if(new URLSearchParams(location.search).get('lpdemo')==='1'){ var t=document.getElementById('lph-testers'); if(t) t.hidden=false; } }catch(e){}
-  /* sticky CTA: on whenever the hero button is off screen (small phones too), off at the final CTA */
-  var s=document.getElementById('lph-sticky'), heroBtn=document.querySelector('#lph .lph-hero .lph-btn'), fin=document.querySelector('#lph .lph-final');
-  if(!s||!heroBtn||!('IntersectionObserver' in window)) return;
+  var root=document.getElementById('lph'); if(!root) return;
+  var q=new URLSearchParams(location.search);
+  root.classList.add('js');
+  var io=('IntersectionObserver' in window);
+
+  /* reviews: only real data, or SAMPLE data with ?lpdemo=1 */
+  var R=(window.LPH_REVIEWS||[]);
+  if(R.length && (q.get('lpdemo')==='1' || window.LPH_REVIEWS_LIVE===true)){
+    var sec=document.getElementById('lph-reviews'); sec.hidden=false;
+    var avg=R.reduce(function(a,r){return a+r.stars},0)/R.length, rec=R.filter(function(r){return r.rec}).length;
+    var st=function(n){var s='';for(var i=1;i<=5;i++)s+=(i<=Math.round(n)?'★':'☆');return s};
+    document.getElementById('lph-avg').textContent=avg.toFixed(1);
+    document.getElementById('lph-avgstars').textContent=st(avg);
+    document.getElementById('lph-count').textContent='Based on '+R.length+' tester review'+(R.length>1?'s':'');
+    document.getElementById('lph-rec').textContent=Math.round(rec/R.length*100)+'% would recommend';
+    var ph=document.getElementById('lph-rvphotos');
+    R.filter(function(r){return r.photo}).slice(0,3).forEach(function(r){var i=new Image();i.src=r.photo;i.alt='Photo from '+r.name+'’s review';i.loading='lazy';ph.appendChild(i)});
+    var tick='<svg viewBox="0 0 20 20"><path d="M10 1l2.4 1.8 3-.2.9 2.9 2.5 1.7-1 2.8 1 2.8-2.5 1.7-.9 2.9-3-.2L10 19l-2.4-1.8-3 .2-.9-2.9L1.2 12.8l1-2.8-1-2.8 2.5-1.7.9-2.9 3 .2z"/><path d="M6.5 10.2l2.3 2.3 4.7-4.8" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    var heart='<svg viewBox="0 0 24 24"><path d="M12 21s-7-4.4-9.3-9A5.2 5.2 0 0 1 12 6.3 5.2 5.2 0 0 1 21.3 12C19 16.6 12 21 12 21z"/></svg>';
+    var sl=function(t,v,a,b){return '<div class="lph-sl"><p>'+t+'</p><div class="lph-sl__bar" style="--v:'+v+'"><span></span><span></span><span></span><span></span><i></i></div><div class="lph-sl__lbl"><span>'+a+'</span><span>'+b+'</span></div></div>'};
+    document.getElementById('lph-rvlist').innerHTML=R.map(function(r){
+      var ini=r.name.split(/\s+/).map(function(w){return w[0]}).join('').slice(0,2);
+      return '<article class="lph-rv" data-rv><div class="lph-rv__who"><span class="lph-av">'+ini+'</span><div><p class="lph-rv__name">'+r.name+'</p><p class="lph-rv__badge">'+tick+'Tester · got a free set</p></div></div>'+
+        '<p class="lph-stars" aria-label="'+r.stars+' out of 5 stars">'+st(r.stars)+'</p><h3>'+r.title+'</h3><p class="lph-rv__date">'+r.when+'</p><p class="lph-rv__text">“'+r.text.replace(/^“|”$/g,'')+'”</p>'+
+        '<p class="lph-rv__for">Review for <b>'+r.set+'</b> · Size '+r.size+'</p>'+(r.rec?'<p class="lph-rv__rec">'+heart+'Would recommend</p>':'')+
+        '<div class="lph-rv__sls">'+sl('Fit',r.fit,'Runs small','Runs big')+sl('Comfort',r.comfort,'Not comfy','Like my normal undies')+'</div></article>';
+    }).join('');
+    var pf=document.getElementById('lph-proof'); if(pf){pf.hidden=false;pf.innerHTML='<span class="lph-stars">'+st(avg)+'</span>'+avg.toFixed(1)+' from '+R.length+' tester reviews';}
+  }
+
+  /* reveal on scroll */
+  var els=[].slice.call(root.querySelectorAll('[data-rv]'));
+  els.forEach(function(el){ var p=el.parentElement, sib=[].slice.call(p.children).filter(function(c){return c.hasAttribute('data-rv')}); var i=sib.indexOf(el); if(i>0) el.style.setProperty('--d',(Math.min(i,6)*0.08)+'s'); });
+  if(io){
+    var ob=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');ob.unobserve(e.target);}})},{rootMargin:'0px 0px -8% 0px',threshold:.12});
+    els.forEach(function(el){ob.observe(el)});
+    var cmp=document.getElementById('lph-cmp'); if(cmp) new IntersectionObserver(function(es,o){if(es[0].isIntersecting){cmp.classList.add('in');o.disconnect();}},{threshold:.25}).observe(cmp);
+  } else { els.forEach(function(el){el.classList.add('in')}); var c2=document.getElementById('lph-cmp'); if(c2) c2.classList.add('in'); }
+
+  /* pads-per-day counter */
+  [].forEach.call(root.querySelectorAll('.lph-chips button'),function(b){b.addEventListener('click',function(){
+    [].forEach.call(root.querySelectorAll('.lph-chips button'),function(x){x.classList.toggle('on',x===b)});
+    document.getElementById('lph-padyear').textContent=(parseInt(b.getAttribute('data-n'),10)*365).toLocaleString('en-US');
+  })});
+
+  /* timeline line fills as you scroll */
+  var tl=document.getElementById('lph-tl');
+  function tlp(){ if(!tl) return; var r=tl.getBoundingClientRect(), vh=innerHeight; var p=Math.min(1,Math.max(0,(vh*0.75-r.top)/r.height)); tl.style.setProperty('--p',p.toFixed(3)); }
+  addEventListener('scroll',tlp,{passive:true}); tlp();
+
+  /* sticky CTA: on whenever the hero button is off screen, off at the final CTA */
+  var s=document.getElementById('lph-sticky'), heroBtn=root.querySelector('.lph-hero .lph-btn'), fin=root.querySelector('.lph-final');
+  if(!s||!heroBtn||!io) return;
   var pastHero=false, atEnd=false;
   function upd(){ var on=pastHero&&!atEnd; s.classList.toggle('on',on); s.setAttribute('aria-hidden',on?'false':'true'); s.querySelector('a').tabIndex=on?0:-1; }
   new IntersectionObserver(function(e){ pastHero=!e[0].isIntersecting; upd(); }).observe(heroBtn);
