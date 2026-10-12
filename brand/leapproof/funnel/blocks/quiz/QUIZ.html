@@ -124,13 +124,13 @@ var Q = [
  {id:'q6',ch:1,t:'Have you bought things that promised to fix this?',s:'Pick one.',o:[
    ['0','No, this is my first time'],['1','Once or twice'],['2','Lots of times'],['3','Yes, and I’ve given up']]},
  {id:'q7',ch:1,t:'What worries you most about leak-proof undies?',s:'We’ll answer it straight on your results.',o:[
-   ['n','They’ll feel like a nappy'],['b','They’ll show under leggings'],['l','They’ll leak anyway'],['f','They won’t fit right'],['m','I thought leaking was just normal'],['c','They cost too much'],['o','Something else']]},
+   ['n','They’ll feel like a diaper'],['b','They’ll show under leggings'],['l','They’ll leak anyway'],['f','They won’t fit right'],['m','I thought leaking was just normal'],['c','They cost too much'],['o','Something else']]},
  {id:'q8',ch:1,multi:1,t:'What have you skipped because of it?',s:'Pick all that apply.',o:[
-   ['c','A class or a run'],['t','The trampoline with the kids'],['p','Light-coloured pants'],['l','A big laugh'],['d','A long day out'],['o','Something else'],['n','Nothing yet',1]]},
+   ['c','A class or a run'],['t','The trampoline with the kids'],['p','Light-colored pants'],['l','A big laugh'],['d','A long day out'],['o','Something else'],['n','Nothing yet',1]]},
  {id:'q9',ch:2,t:'When would you wear them?',s:'Pick one.',o:[
    ['e','Every day'],['t','On training days'],['n','At night'],['m','A mix']]},
  {id:'q10',ch:2,t:'What’s your hip size?',s:'Measure around the widest part of your hips. Between two sizes? Pick the smaller one.',o:[
-   ['S','S','Hips up to 82 cm · AU 4 · US 0'],['M','M','Hips 82–86 cm · AU 6 · US 2'],['L','L','Hips 86–91 cm · AU 8 · US 4'],['XL','XL','Hips 91–96 cm · AU 10 · US 6'],['2XL','2XL','Hips 96–101 cm · AU 12 · US 8'],['O','Over 101 cm']]},
+   ['S','S','Hips up to 36″ (91 cm) · US 0–2'],['M','M','Hips 36–38″ (91–96 cm) · US 4–6'],['L','L','Hips 38–40″ (96–101 cm) · US 8–10'],['XL','XL','Hips 40–44″ (101–111 cm) · US 12–14'],['XXL','XXL','Hips 44–47″ (111–120 cm) · US 16'],['3XL','3XL','Hips 47–51″ (120–129 cm) · US 18'],['4XL','4XL','Hips 51–54″ (129–138 cm) · US 20'],['O','Over 54″ (138 cm)']]},
  {card:'nosize',when:function(A){return A.q10==='O'}},
  {card:'fit'},
  {id:'q11',ch:2,t:'What matters most?',s:'Pick one.',o:[
@@ -205,7 +205,7 @@ function cardHTML(kind){
       '<button class="btn" type="button" onclick="lpqNext()">Next</button>';
   }
   if(kind==='heavy'){
-    return '<div class="card light"><h2>Thanks for being straight with us.</h2><p>These are made for lighter leaks. For what you’ve described, they may not be enough on their own, and a GP or pelvic-floor physio is worth a chat.</p><p>You can still see your match.</p></div><button class="btn" type="button" onclick="lpqNext()">See my match anyway</button>';
+    return '<div class="card light"><h2>Thanks for being straight with us.</h2><p>These are made for lighter leaks. For what you’ve described, they may not be enough on their own, and a doctor or pelvic floor physical therapist is worth a chat.</p><p>You can still see your match.</p></div><button class="btn" type="button" onclick="lpqNext()">See my match anyway</button>';
   }
   if(kind==='play'){
     var n = (A.q5||[]).length;
@@ -213,7 +213,7 @@ function cardHTML(kind){
     return '<div class="card"><h2>'+lead+'</h2><p>These moments come with no warning. Whatever you wear has to already be on when they hit.</p><p class="big">So let’s make sure it’s the right pair.</p></div><button class="btn" type="button" onclick="lpqNext()">That’s me</button>';
   }
   if(kind==='nosize'){
-    return '<div class="card light"><h2>We’d rather tell you now.</h2><p>This pair only goes up to 2XL (hips 101 cm, about an AU 12). We won’t send you a pair that doesn’t fit.</p></div><button class="btn ghost" type="button" onclick="lpqBack()">Change my size</button>';
+    return '<div class="card light"><h2>We’d rather tell you now.</h2><p>This pair only goes up to 4XL (hips 54″ / 138 cm, about a US 20). We won’t send you a pair that doesn’t fit.</p></div><button class="btn ghost" type="button" onclick="lpqBack()">Change my size</button>';
   }
   if(kind==='fit'){
     return '<div class="card"><h2>And if the size is off?</h2><p class="big">Email us within your 30 nights. We’ll send your new size free. Nothing to send back.</p></div><button class="btn" type="button" onclick="lpqNext()">Good to know</button>';
@@ -236,11 +236,11 @@ var LBL={
  q4:{'1':'A few drops','2':'A small splash','3':'More than a pad holds','4':'A lot'},
  q9:{e:'Every day',t:'Training days',n:'At night',m:'A mix'},
  q12:{f:'every few days',w:'weekly',r:'less than weekly'},
- q8:{c:'Skipping a class or a run',t:'Watching from the side of the trampoline',p:'Avoiding light-coloured pants',l:'Holding back a big laugh',d:'Cutting the day out short',o:'Planning your day around it',n:'Planning ahead, just in case'},
+ q8:{c:'Skipping a class or a run',t:'Watching from the side of the trampoline',p:'Avoiding light-colored pants',l:'Holding back a big laugh',d:'Cutting the day out short',o:'Planning your day around it',n:'Planning ahead, just in case'},
  q13:{t:'First on the trampoline with the kids',c:'All out at the gym',l:'Laughing as hard as you want',w:'Wearing whatever you want',s:'Not thinking about it at all'}
 };
 var ANS={
- n:['They’ll feel like a nappy','They’re cotton briefs with a leak-resistant lining built in. No pad to bunch, nothing to rustle, nothing to throw away.'],
+ n:['They’ll feel like a diaper','They’re soft, stretchy briefs with a leak-resistant lining built in. No pad to bunch, nothing to rustle, nothing to throw away.'],
  b:['They’ll show under leggings','Same cut as regular black briefs, with a wide, smooth waistband. No bulky pad to show through.'],
  l:['They’ll leak anyway','You don’t have to take our word for it. Wear them through your real moments for 30 nights. If they don’t hold, you get your money back and keep the pairs.'],
  f:['They won’t fit right','Your size is matched to this pair’s own chart, not a generic one. Wrong size? We’ll send your new size free. Nothing to send back.'],
@@ -255,8 +255,8 @@ function profile(){
   var after = LBL.q13[A.q13]||LBL.q13.s;
   var bImg = (IMG.q1[A.q1]||IMG.q1.a), aImg=(IMG.q13[A.q13]||IMG.q13.t);
   var w = ANS[A.q7]||ANS.o;
-  var gifts = n>=10 ? 'a free Wash Bag and free Wash Sheets' : 'a free Wash Bag';
-  var heavy = A.q4==='4' ? '<p class="note">You told us it can be a lot. These are made for lighter leaks, so they may not be enough on their own. A GP or pelvic-floor physio is worth a chat.</p>' : '';
+  var gifts = n>=10 ? 'a free Wash Bag and free Wash Sheets ($32.90 in free gifts)' : 'a free Wash Bag ($12.95 value)';
+  var heavy = A.q4==='4' ? '<p class="note">You told us it can be a lot. These are made for lighter leaks, so they may not be enough on their own. A doctor or pelvic floor physical therapist is worth a chat.</p>' : '';
   W.innerHTML='<div class="fade pf">'+head(null,TOTAL)+
    '<div class="hd"><span class="tag">Your Leak Profile</span><h2>Here’s your match.</h2><p class="sub" style="margin-bottom:6px">Built from your answers.</p></div>'+
    '<div class="sec"><div class="tgrid">'+

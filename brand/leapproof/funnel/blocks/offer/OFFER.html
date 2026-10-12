@@ -1,4 +1,4 @@
-<!-- Leapproof offer page v2 · paste this whole block into ONE Funnelish Custom HTML element on the offer page (delete the template blocks). -->
+<!-- Leapproof offer page v3 (USD, S–4XL) · paste this whole block into ONE Funnelish Custom HTML element on the offer page (delete the template blocks). -->
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;500;600;700&display=swap');
 #lpo{--ink:#231017;--claret:#A33154;--claret-d:#872845;--cream:#F5EDE6;--blush:#E7CFC9;--taupe:#8C6A6C;--rose:#E7879F;--line:#E4D6D0;
@@ -83,7 +83,8 @@
 /* size */
 #lpo .sizebox{background:#fff;border:1px solid var(--line);padding:18px;margin-top:12px}
 #lpo .sizebox .lab{margin-bottom:10px}
-#lpo .chips{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}
+#lpo .chips{display:grid;grid-template-columns:repeat(7,1fr);gap:5px}
+@media(max-width:480px){#lpo .chips{grid-template-columns:repeat(4,1fr)}}
 #lpo .chip{border:1px solid var(--blush);background:#fff;padding:13px 0;font:700 17px 'Hanken Grotesk',Arial,sans-serif;color:var(--ink);cursor:pointer;text-align:center}
 #lpo .chip.on{border-color:var(--claret);background:var(--claret);color:#fff}
 #lpo .sizenote{font-size:14.5px;color:var(--taupe);margin-top:10px;line-height:1.5}
@@ -179,22 +180,24 @@
    <p class="sizenote">Go by your hip measurement, not the letter on your other undies. <b>Between two sizes? Pick the smaller one.</b> A snug pair sits close to you. A loose one can gap at the legs.</p>
    <button class="linkbtn" type="button" onclick="lpoChart()">See the size chart</button>
    <table class="chart" id="lpo-chart">
-    <thead><tr><th>Size</th><th>Hips</th><th>AU</th><th>US</th></tr></thead>
+    <thead><tr><th>Size</th><th>Hips</th><th>US</th><th>UK</th></tr></thead>
     <tbody>
-     <tr><td><b>S</b></td><td>up to 82 cm</td><td>4</td><td>0</td></tr>
-     <tr><td><b>M</b></td><td>82–86 cm</td><td>6</td><td>2</td></tr>
-     <tr><td><b>L</b></td><td>86–91 cm</td><td>8</td><td>4</td></tr>
-     <tr><td><b>XL</b></td><td>91–96 cm</td><td>10</td><td>6</td></tr>
-     <tr><td><b>2XL</b></td><td>96–101 cm</td><td>12</td><td>8</td></tr>
+     <tr><td><b>S</b></td><td>up to 36″ (91 cm)</td><td>0–2</td><td>4–8</td></tr>
+     <tr><td><b>M</b></td><td>36–38″ (91–96 cm)</td><td>4–6</td><td>8–10</td></tr>
+     <tr><td><b>L</b></td><td>38–40″ (96–101 cm)</td><td>8–10</td><td>12–14</td></tr>
+     <tr><td><b>XL</b></td><td>40–44″ (101–111 cm)</td><td>12–14</td><td>16</td></tr>
+     <tr><td><b>XXL</b></td><td>44–47″ (111–120 cm)</td><td>16</td><td>18</td></tr>
+     <tr><td><b>3XL</b></td><td>47–51″ (120–129 cm)</td><td>18</td><td>20</td></tr>
+     <tr><td><b>4XL</b></td><td>51–54″ (129–138 cm)</td><td>20</td><td>24</td></tr>
     </tbody>
    </table>
   </div>
 
   <!-- 5. BUTTON -->
-  <a class="cta lpo-buy" id="lpo-cta" href="#">Get my 5 pairs — $89</a>
+  <a class="cta lpo-buy" id="lpo-cta" href="#">Get my 5 pairs — $59</a>
   <ul class="under">
    <li>Wear them for 30 nights. If they don’t hold, you get your money back. You keep the pairs.</li>
-   <li>Free shipping. Arrives in about 7–12 business days.</li>
+   <li>Free shipping. Most orders arrive in about 6–10 days.</li>
    <li>Wrong size? We’ll send your new size free. Nothing to send back.</li>
   </ul>
 
@@ -205,7 +208,7 @@
     <h2>Sneeze in them. Laugh in them. Then decide.</h2>
     <p>Wear them through your real moments for 30 nights, starting the day they arrive. If they don’t hold, email us your order number and what happened. We refund your whole set. You keep the pairs. Nothing to send back.</p>
     <p class="honest">We’re a new brand. So instead of asking you to trust us, we let you test them on your own sneeze.</p>
-    <p class="fine">One claim per customer. Covers your set and any extra pairs you add. This is on top of your rights under Australian Consumer Law.</p>
+    <p class="fine">One claim per customer. Covers your set and any extra pairs you add. This is on top of your legal rights.</p>
    </div>
   </div>
 
@@ -213,12 +216,12 @@
   <div class="sec">
    <span class="eb">The switch</span>
    <h2>Why women stop buying pads</h2>
-   <p class="lead">Pads and liners bunch, feel like a nappy, and go in the bin every day.</p>
+   <p class="lead">Pads and liners bunch, feel like a diaper, and go in the trash every day.</p>
    <table class="vs">
     <thead><tr><th></th><th>Pads &amp; liners</th><th class="us">Leapproof</th></tr></thead>
     <tbody>
      <tr><th>How they feel</th><td>Bunch, shift and rustle</td><td class="us">Like your regular undies</td></tr>
-     <tr><th>Every day</th><td>Another one in the bin</td><td class="us">Wash them and wear them again</td></tr>
+     <tr><th>Every day</th><td>Another one in the trash</td><td class="us">Wash them and wear them again</td></tr>
      <tr><th>Under leggings</th><td>Can show</td><td class="us">No pad to show</td></tr>
      <tr><th>If they don’t suit you</th><td>Money gone</td><td class="us">30 nights, money back</td></tr>
     </tbody>
@@ -245,7 +248,7 @@
   <div class="sec final">
    <h2 id="lpo-final">30 nights from now, you could be laughing as hard as you want.</h2>
    <p class="wait">Every week you wait is another week of crossing your legs.</p>
-   <a class="cta lpo-buy" id="lpo-cta2" href="#">Get my 5 pairs — $89</a>
+   <a class="cta lpo-buy" id="lpo-cta2" href="#">Get my 5 pairs — $59</a>
    <p class="human">Still not sure? Email <a href="mailto:hello@leapproof.com">hello@leapproof.com</a>. A real person answers.</p>
   </div>
 
@@ -259,7 +262,7 @@
   </div>
  </div>
 
- <div class="sticky" id="lpo-sticky"><a class="cta lpo-buy" id="lpo-cta3" href="#">Get my 5 pairs — $89</a></div>
+ <div class="sticky" id="lpo-sticky"><a class="cta lpo-buy" id="lpo-cta3" href="#">Get my 5 pairs — $59</a></div>
 </div>
 
 <script>
@@ -281,25 +284,25 @@ var IMG = {
  sheets:'https://cdn.shopify.com/s/files/1/1026/8593/3939/files/55180757-d3ec-416f-8eaa-3b46e63fc658.jpg?v=1791617290&width=300'
 };
 var SETS = {
- 5:{n:5,name:'The Everyday Rotation',tag:['pick','Our pick'],price:89,pp:'17.80',save:'You save $26 (23%)',
+ 5:{n:5,name:'The Everyday Rotation',tag:['pick','Our pick'],price:59,pp:'11.80',save:'You save $16 (21%)',
     desc:'Wear a pair while the rest are in the wash.',
-    ticks:[['5 Leapproof Briefs'],['Free Wash Bag'],['30 nights to test them']],
+    ticks:[['5 Leapproof Briefs'],['Free Wash Bag ($12.95 value)'],['30 nights to test them']],
     match:'enough pairs to cover you between washes.'},
- 10:{n:10,name:'The Full Rotation',tag:['best','Best value'],price:159,pp:'15.90',save:'You save $71 (31%)',
+ 10:{n:10,name:'The Full Rotation',tag:['best','Best value'],price:99,pp:'9.90',save:'You save $51 (34%)',
     desc:'A pair a day for a full week, with spares. Wash once a week and still have a clean pair.',
-    ticks:[['10 Leapproof Briefs'],['Free Wash Bag + Wash Sheets'],['30 nights to test them']],
+    ticks:[['10 Leapproof Briefs'],['Free Wash Bag + Wash Sheets ($32.90 value)'],['30 nights to test them']],
     match:'a pair a day for a full week between washes, plus spares.'},
- 3:{n:3,name:'The Starter Set',tag:['try','Just trying'],price:69,pp:'23.00',save:'',
+ 3:{n:3,name:'The Starter Set',tag:['try','Just trying'],price:45,pp:'15.00',save:'',
     desc:'Enough to test them on your moment before you switch over.',
     ticks:[['3 Leapproof Briefs'],['No free gifts','x'],['30 nights to test them']],
     match:'enough to test them on your moment.'}
 };
 var GIFTS = [
- {k:'bag',at:5,name:'Wash Bag',d:'Zip your pairs in before they go in the machine, so the lace doesn’t snag.'},
- {k:'sheets',at:10,name:'Wash Sheets',d:'64 unscented detergent sheets. Made to clean, not soften. Arrives in a separate parcel.'}
+ {k:'bag',at:5,name:'Wash Bag',val:'12.95',d:'Zip your pairs in before they go in the machine, so they keep their shape.'},
+ {k:'sheets',at:10,name:'Wash Sheets',val:'19.95',d:'64 unscented detergent sheets. Made to clean, not soften. Arrives in a separate parcel.'}
 ];
 var DREAM = {t:'first on the trampoline with the kids',c:'going all out at the gym',l:'laughing as hard as you want',w:'wearing whatever you want',s:'not thinking about it at all'};
-var SIZES = ['S','M','L','XL','2XL'];
+var SIZES = ['S','M','L','XL','XXL','3XL','4XL'];
 var LOCK = '<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="11" width="14" height="10"/><path d="M8 11V7.5a4 4 0 0 1 8 0V11"/></svg>';
 var OPEN = '<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="11" width="14" height="10"/><path d="M8 11V7.5a4 4 0 0 1 7.6-1.7"/></svg>';
 
@@ -341,18 +344,18 @@ function pick(k){
 function items(){
   var s=SETS[sel], h='';
   h+='<div class="it"><div class="im" style="background-image:url(\''+IMG.brief+'\')"><span class="qty">×'+s.n+'</span></div><div class="tx">'+
-     '<b>'+s.n+' Leapproof Briefs'+(size?', size '+size:'')+'</b><span class="d">Black cotton, lace on the hips, leak-resistant lining from front to back.</span></div></div>';
+     '<b>'+s.n+' Leapproof Briefs'+(size?', size '+size:'')+'</b><span class="d">Soft, stretchy black briefs with a leak-resistant lining from front to back.</span></div></div>';
   GIFTS.forEach(function(g){
     var on = sel>=g.at, pop = popKey.indexOf(g.k)>-1;
     var st = on ? 'Unlocked · Free with your set' : 'Unlocks with '+g.at+' pairs · Tap to add';
     h+='<'+(on?'div':'button type="button"')+' class="it'+(on?'':' locked')+(pop?' pop':'')+'" data-at="'+g.at+'">'+
        '<div class="im" style="background-image:url(\''+IMG[g.k]+'\')"><span class="lock">'+(on?OPEN:LOCK)+'</span></div><div class="tx">'+
-       '<span class="gt">Free gift</span><b>'+g.name+'</b><span class="d">'+g.d+'</span><span class="st">'+st+'</span></div></'+(on?'div':'button')+'>';
+       '<span class="gt">Free gift</span><b>'+g.name+' <s style="color:#8C6A6C;font-weight:500">$'+g.val+'</s> <span style="color:#A33154">FREE</span></b><span class="d">'+g.d+'</span><span class="st">'+st+'</span></div></'+(on?'div':'button')+'>';
   });
   $('lpo-items').innerHTML=h;
   var n = GIFTS.filter(function(g){return sel>=g.at}).length;
   var gn=$('lpo-gnote');
-  gn.textContent = n===GIFTS.length ? 'Both free gifts unlocked' : (n ? n+' of '+GIFTS.length+' free gifts unlocked' : 'Free gifts locked · Tap one to unlock');
+  gn.textContent = n===GIFTS.length ? 'Both free gifts unlocked · $32.90 value' : (n ? 'Free Wash Bag unlocked · $12.95 value' : 'Free gifts locked · Tap one to unlock');
   gn.className = 'gnote'+(n?'':' lk');
   [].forEach.call(document.querySelectorAll('#lpo .it.locked'),function(b){
     b.addEventListener('click',function(){ pick(+b.getAttribute('data-at')); });
@@ -386,17 +389,17 @@ document.addEventListener('click',function(e){
   var a=e.target.closest && e.target.closest('#lpo .lpo-buy'); if(!a) return;
   if(!size){ e.preventDefault(); $('lpo-size').scrollIntoView({behavior:'smooth',block:'center'}); return; }
   if(!CHECKOUT_URL){ e.preventDefault(); alert('Checkout link not set yet (SETTINGS → CHECKOUT_URL).'); return; }
-  try{ if(window.fbq) fbq('track','InitiateCheckout',{value:SETS[sel].price,currency:'AUD',num_items:SETS[sel].n}); }catch(err){}
+  try{ if(window.fbq) fbq('track','InitiateCheckout',{value:SETS[sel].price,currency:'USD',num_items:SETS[sel].n}); }catch(err){}
 });
 
 function faq(){
   var M='<a href="mailto:hello@leapproof.com">hello@leapproof.com</a>';
   var F=[
    ['Before you buy',''],
-   ['Why do women switch to these?','<p>No pad to bunch, shift or throw away. They look and feel like black cotton briefs, and you wear them the same way. And you get 30 nights to see if they hold on your own moments.</p>',1],
-   ['What exactly do I get?','<p>The set you pick above: 3, 5 or 10 Leapproof Briefs in your size. 5 pairs come with a free Wash Bag. 10 pairs come with a free Wash Bag and 64 free Wash Sheets.</p><p>It’s a one-off payment. No subscription, nothing hidden.</p>'],
-   ['How much can they handle?','<p>They’re made for lighter leaks: a few drops to a small splash on a sneeze, laugh or jump.</p><p>If it’s more than that, these may not be enough on their own, and a GP or pelvic-floor physio is worth a chat. We’d rather tell you now than sell you the wrong thing.</p>'],
-   ['Will they feel bulky or show under my clothes?','<p>No pad, so nothing bulky. They’re cut like regular briefs, with a soft, stretchy waistband and lace on the hips. Wear them under leggings, jeans or work pants.</p>'],
+   ['Why do women switch to these?','<p>No pad to bunch, shift or throw away. They look and feel like regular black briefs, and you wear them the same way. And you get 30 nights to see if they hold on your own moments.</p>',1],
+   ['What exactly do I get?','<p>The set you pick above: 3, 5 or 10 Leapproof Briefs in your size. 5 pairs come with a free Wash Bag ($12.95 value). 10 pairs come with a free Wash Bag and 64 free Wash Sheets ($32.90 in free gifts).</p><p>It’s a one-off payment. No subscription, nothing hidden.</p>'],
+   ['How much can they handle?','<p>They’re made for lighter leaks: a few drops to a small splash on a sneeze, laugh or jump.</p><p>If it’s more than that, these may not be enough on their own, and a doctor or pelvic floor physical therapist is worth a chat. We’d rather tell you now than sell you the wrong thing.</p>'],
+   ['Will they feel bulky or show under my clothes?','<p>No pad, so nothing bulky. They’re cut like regular briefs, with a wide, soft, stretchy waistband. Wear them under leggings, jeans or work pants.</p>'],
    ['Can I wear them to the gym or at night?','<p>Yes. Wear them for training, a run, a big day out or overnight. The lining runs from front to back and is wider at the back.</p>'],
    ['Sizing',''],
    ['How do I pick my size?','<p>Measure around the widest part of your hips and use the size chart above. Go by the number, not the letter on your other undies.</p><p>Between two sizes? Pick the smaller one. A snug pair sits close to you. A loose one can gap at the legs.</p>'],
@@ -404,12 +407,12 @@ function faq(){
    ['Washing',''],
    ['How do I wash them?','<p>1. Rinse them in cold water after you take them off.<br>2. Zip them into the Wash Bag and machine wash cold (30°C max) on a gentle cycle.<br>3. Use a mild detergent with no fabric softener, or the Wash Sheets.<br>4. Hang them to dry. No dryer, no bleach, no ironing.</p><p>Heat and softener are hard on the lining. Skip both and your pairs are made to be worn and washed again and again.</p>'],
    ['Why no fabric softener?','<p>Softener leaves a coating on fabric. On the lining, that coating gets in the way of it soaking up. Lots of everyday detergents (especially 2-in-1s) have softener mixed in, so check the label.</p><p>The Wash Sheets that come with 10 pairs are unscented detergent sheets, made to clean, not soften.</p>'],
-   ['What are they made of?','<p>95% cotton and 5% spandex, with a layered leak-resistant lining.</p>'],
+   ['What are they made of?','<p>95% regenerated fiber (a soft, breathable viscose-type fiber) and 5% spandex, with a layered leak-resistant lining.</p>'],
    ['Money & delivery',''],
    ['What if they don’t work for me?','<p>Wear them through your real moments for 30 nights, starting the day they arrive. If they don’t hold, email '+M+' with your order number and what happened. We refund your whole set, and you keep the pairs. One claim per customer.</p>'],
-   ['Why 5 or 10 pairs instead of 3?','<p>Because you wear a pair while the others are in the wash. With 3, you run out fast. 5 covers you if you wash every few days. 10 covers a full week.</p><p>The more pairs, the less each one costs: $23 a pair with 3, $17.80 with 5, $15.90 with 10. And the 30-Night Leak-Test covers the whole set.</p>'],
+   ['Why 5 or 10 pairs instead of 3?','<p>Because you wear a pair while the others are in the wash. With 3, you run out fast. 5 covers you if you wash every few days. 10 covers a full week.</p><p>The more pairs, the less each one costs: $15 a pair with 3, $11.80 with 5, $9.90 with 10. And the 30-Night Leak-Test covers the whole set.</p>'],
    ['Is this a subscription?','<p>No. You pay once for the set you pick. Nothing renews and you won’t be charged again.</p>'],
-   ['When will they arrive?','<p>Shipping is free. We pack your order in 1–2 business days, then it takes 6–10 business days to reach you. So about 7–12 business days in total. We ship from overseas, and we’d rather tell you now.</p><p>If your set includes Wash Sheets, they come in a separate parcel and may arrive a few days apart.</p>'],
+   ['When will they arrive?','<p>Shipping is free. We pack your order in 1–3 business days, and most orders arrive about 6–10 days after you order. We ship from overseas, and we’d rather tell you now.</p><p>If your set includes Wash Sheets, they come in a separate parcel and may arrive a few days apart.</p>'],
    ['Who is Leapproof?','<p>A small brand from Melbourne, Australia, started because women keep being told leaking is just part of life. Every email is answered by a real person: '+M+'.</p>']
   ];
   $('lpo-faq').innerHTML = F.map(function(f){

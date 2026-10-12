@@ -164,12 +164,11 @@ BLOCKS["3-how-it-works"] = block("How the match works", f"""
   </div>
   <div class="lp-product">
     <p class="lp-big">One brief, matched to your size and your week: the Leapproof Brief.</p>
-    <p>Black cotton underwear with a leak-resistant lining, to wear through the sneeze, the laugh and the jump.</p>
+    <p>Soft, stretchy black briefs with a leak-resistant lining, to wear through the sneeze, the laugh and the jump.</p>
     <ul class="lp-facts">
-      <li>Black brief, tonal black lace on the hips</li>
-      <li>Wide, soft waistband</li>
-      <li>Elastic leg openings, not tight</li>
-      <li>Main fabric: 95% cotton, 5% spandex (elastane)</li>
+      <li>Black brief, cut like your regular underwear</li>
+      <li>Wide, soft, stretchy waistband</li>
+      <li>Main fabric: 95% regenerated fiber, 5% spandex</li>
       <li>Layered, leak-resistant lining that runs front to back</li>
       <li>Full back coverage</li>
     </ul>
@@ -279,9 +278,9 @@ LANDING["L2-footer-terms-sources"] = block("Footer + Leak-Test terms + sources (
   <strong>Not a treatment. It's underwear.</strong>
   <p>For heavier leaks, these aren't enough on their own.</p>
   <p>The quiz isn't a medical assessment. It matches you to underwear. If leaking is new, painful or getting worse, talk to a doctor or a pelvic-floor therapist.</p>
-  <p>Sizes S to 2XL (hips up to 101 cm). Go by your hip measurement, not the letter on your other underwear. Between two sizes? Pick the smaller one. The quiz checks your size against the chart for this exact pair. If we don't carry your size, it tells you before you pay.</p>
+  <p>Sizes S to 4XL (hips up to 54″ / 138 cm, about a US 20). Go by your hip measurement, not the letter on your other underwear. Between two sizes? Pick the smaller one. The quiz checks your size against the chart for this exact pair. If we don't carry your size, it tells you before you pay.</p>
   <!-- EDIT: check this against the sewn-in label on a real pair; add the lining's fibres if the label lists them -->
-  <p>Main fabric: 95% cotton, 5% spandex. Imported.</p>
+  <p>Main fabric: 95% regenerated fiber, 5% spandex. Imported.</p>
   <p>The Straight Answer cards near the top are notes from the Leapproof team, not customer reviews. The image at the top is AI-generated. It doesn't show real customers.</p>
 
   <div id="leak-test" style="border:1px solid rgba(231,207,201,.3);border-radius:0;padding:20px 20px 6px;margin:22px 0 18px;scroll-margin-top:16px">
@@ -298,7 +297,7 @@ LANDING["L2-footer-terms-sources"] = block("Footer + Leak-Test terms + sources (
       <li>We refund the full amount you paid for your set and any extra pairs you added, to your original payment method. A claim costs you nothing.</li>
       <li>One claim per customer.</li>
       <li>Size swaps: email hello@leapproof.com within your 30 nights with your order number and the size you need. We send the new size free and you keep the first pairs. One free size swap per order.</li>
-      <li>Shipping: free on every set. We pack your order in 1–2 business days, then it takes 6–10 business days to reach you.</li>
+      <li>Shipping: free on every set. We pack your order in 1–3 business days, and most orders arrive about 6–10 days after you order.</li>
       <li>The 30-Night Leak-Test and the Fit Promise are in addition to your other rights and remedies under the law.</li>
     </ul>
   </div>

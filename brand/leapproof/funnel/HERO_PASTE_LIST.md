@@ -29,7 +29,7 @@ Find your match.
 
 **Subhead**
 ```
-Black cotton briefs for women who'd rather laugh than cross their legs. The quiz works out your size and how many pairs you need. Then 30 nights to see if they hold.
+Soft black briefs for women who'd rather laugh than cross their legs. The quiz works out your size and how many pairs you need. Then 30 nights to see if they hold.
 ```
 
 **Bullets**
@@ -123,9 +123,9 @@ Card colours: Card 1 plum bg / cream text / label Rose #E7879F / small line Blus
 
 `The quiz isn't a medical assessment. It matches you to underwear. If leaking is new, painful or getting worse, talk to a doctor or a pelvic-floor therapist.`
 
-`Sizes S to 2XL. They run small, so don't go by the letter on your other underwear. The quiz checks your size against the chart for this exact pair. If we don't carry your size, it tells you before you pay.`
+`Sizes S to 4XL (hips up to 54″ / 138 cm, about a US 20). Go by your hip measurement, not the letter on your other underwear. Between two sizes? Pick the smaller one. The quiz checks your size against the chart for this exact pair. If we don't carry your size, it tells you before you pay.`
 
-`Fabric: [copy from the sewn-in label]. Imported.`
+`Main fabric: 95% regenerated fiber, 5% spandex. Imported.`
 
 `The Straight Answer cards near the top are notes from the Leapproof team, not customer reviews.`
 `The image at the top is AI-generated. It doesn't show real customers.`
@@ -143,7 +143,7 @@ Card colours: Card 1 plum bg / cream text / label Rose #E7879F / small line Blus
 - `We refund the full amount you paid for your set and any extra pairs you added, to your original payment method. A claim costs you nothing.`
 - `One claim per customer.`
 - `The Fit Promise covers one free size swap per order.`
-- `Shipping: AU — free shipping on every set. US — any shipping cost shows at checkout, before you pay.`
+- `Shipping: free on every set. We pack your order in 1–3 business days, and most orders arrive about 6–10 days after you order.`
 - `The 30-Night Leak-Test and the Fit Promise are in addition to your other rights and remedies under the law.`
 
 **Your rights**
@@ -167,6 +167,6 @@ Card colours: Card 1 plum bg / cream text / label Rose #E7879F / small line Blus
 ## PAGE SETTINGS
 
 - Title: `Find Your Match | leapproof`
-- Meta / share description: `Black cotton briefs for the sneeze, the laugh and the jump. A 2-minute quiz finds your size and how many pairs you need. 30 nights to see if they hold.`
-- Hero image alt text: `Two women laughing on a sunny footpath, holding takeaway coffees`
+- Meta / share description: `Soft black briefs for the sneeze, the laugh and the jump. A 2-minute quiz finds your size and how many pairs you need. 30 nights to see if they hold.`
+- Hero image alt text: `Two women laughing on a sunny sidewalk, holding to-go coffees`
 - Slug: `/match` · no popup, no exit-intent, no countdown
