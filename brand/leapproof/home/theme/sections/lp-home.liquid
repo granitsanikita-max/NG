@@ -22,7 +22,8 @@
     <div class="lph-hero__copy">
       <p class="lph-eyebrow">Leak-resistant underwear for lighter leaks · US sizes 0–20</p>
       <h1 id="lph-h1" class="lph-h1">Go ahead and sneeze.<span>No crossing your legs first.</span></h1>
-      <p class="lph-sub">Soft black briefs with a leak-resistant lining built in. No pad, nothing to change. Made for the few drops a sneeze, a laugh or a jump can bring. Wear them for 30 nights. If they don’t hold, you get your money back and keep the pairs.</p>
+      <p class="lph-sub lph-sub--long">Soft black briefs with a leak-resistant lining built in. No pad, nothing to change. Made for the few drops a sneeze, a laugh or a jump can bring. Wear them for 30 nights. If they don’t hold, you get your money back and keep the pairs.</p>
+      <p class="lph-sub lph-sub--short">Soft black briefs with a leak-resistant lining built in. No pad. Wear them for 30 nights. If they don’t hold, you get your money back and keep the pairs.</p>
       <a class="lph-btn" href="{{ quiz }}">Find my size + set</a>
       <p class="lph-micro">2-minute quiz · No email needed · Sets from $45</p>
       <ul class="lph-risk">
@@ -362,7 +363,9 @@
 #lph figcaption{font-size:14px;color:var(--taupe-d);margin-top:8px}
 /* hero */
 #lph .lph-hero{display:grid;grid-template-columns:1fr}
-#lph .lph-hero__media{position:relative;height:26vh;min-height:190px;max-height:300px;overflow:hidden}
+#lph .lph-hero__media{position:relative;height:22vh;min-height:130px;max-height:300px;overflow:hidden}
+#lph .lph-sub--long{display:none}
+@media (max-height:620px) and (max-width:899px){#lph .lph-hero__media{height:118px;min-height:0}#lph .lph-h1{font-size:34px}}
 #lph .lph-hero__media img{width:100%;height:100%;object-fit:cover;object-position:50% 30%}
 #lph .lph-cap--on{position:absolute;left:16px;bottom:12px;margin:0;color:#fff;font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:17px;text-shadow:0 1px 10px rgba(35,16,23,.65)}
 #lph .lph-hero__copy{padding:18px 20px 34px}
@@ -370,6 +373,7 @@
 #lph .lph-sub{font-size:16px;line-height:1.5;margin-bottom:18px;max-width:560px}
 @media (min-width:900px){#lph .lph-sub{font-size:18px;margin-bottom:24px}#lph .lph-hero .lph-eyebrow{font-size:12.5px;margin-bottom:12px}}
 #lph .lph-hero .lph-btn{width:100%}
+@media (min-width:900px){#lph .lph-sub--long{display:block}#lph .lph-sub--short{display:none}}
 @media (min-width:900px){
   #lph .lph-hero{grid-template-columns:1.05fr .95fr;min-height:640px}
   #lph .lph-hero__media{order:2;height:auto;max-height:none}
@@ -476,12 +480,12 @@
 (function(){
   /* SAMPLE tester cards only with ?lpdemo=1 (mockup; FTC: no invented reviews live) */
   try{ if(new URLSearchParams(location.search).get('lpdemo')==='1'){ var t=document.getElementById('lph-testers'); if(t) t.hidden=false; } }catch(e){}
-  /* sticky CTA: on after the hero button scrolls away, off at the final CTA */
+  /* sticky CTA: on whenever the hero button is off screen (small phones too), off at the final CTA */
   var s=document.getElementById('lph-sticky'), heroBtn=document.querySelector('#lph .lph-hero .lph-btn'), fin=document.querySelector('#lph .lph-final');
   if(!s||!heroBtn||!('IntersectionObserver' in window)) return;
   var pastHero=false, atEnd=false;
   function upd(){ var on=pastHero&&!atEnd; s.classList.toggle('on',on); s.setAttribute('aria-hidden',on?'false':'true'); s.querySelector('a').tabIndex=on?0:-1; }
-  new IntersectionObserver(function(e){ pastHero=!e[0].isIntersecting && e[0].boundingClientRect.top<0; upd(); }).observe(heroBtn);
+  new IntersectionObserver(function(e){ pastHero=!e[0].isIntersecting; upd(); }).observe(heroBtn);
   if(fin) new IntersectionObserver(function(e){ atEnd=e[0].isIntersecting; upd(); }).observe(fin);
 })();
 </script>
