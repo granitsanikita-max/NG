@@ -194,10 +194,19 @@ var ftn=0; (function footers(){
   });
   [].forEach.call(document.querySelectorAll('span'),function(x){ if(!own(x) && !x.children.length && (x.textContent||'').trim()==='Free') x.classList.add('lpk-free'); });   /* green "Free" in the summary */
   [].forEach.call(document.querySelectorAll('.pl-item .top-tag'),function(t){ var v=(t.textContent||'').trim().toUpperCase(); if(v==='OUR PICK') t.classList.add('lpk-tag-pick'); else if(v==='JUST TRYING') t.classList.add('lpk-tag-try'); });
+  /* template's light-blue badges ("30-Night Leak-Test", "Secure, encrypted payment") -> brand blush + claret */
+  ['30-Night Leak-Test','Secure, encrypted payment'].forEach(function(t){
+    var el=textEl(t); if(!el || el.getAttribute('data-lpk')) return; el.setAttribute('data-lpk','1');
+    var x=el; for(var k=0;k<7&&x;k++){ x.style.setProperty('color','#A33154','important'); var bg=getComputedStyle(x).backgroundColor; if(bg && bg!=='rgba(0, 0, 0, 0)' && bg!=='transparent'){ x.style.setProperty('background-color','#FBEFF2','important'); x.style.setProperty('border-radius','0','important'); break; } x=x.parentElement; }
+    var box=x||el; [].forEach.call(box.querySelectorAll('img,svg'),function(i){ i.style.setProperty('filter','grayscale(1) sepia(1) hue-rotate(290deg) saturate(3) brightness(.75)'); });
+  });
+  /* "Select Method" label above the card box: not needed with one payment method */
+  [].forEach.call(document.querySelectorAll('.main-wrapper *'),function(x){ if(!own(x) && x.children.length<3 && /^Select\s*Method$/i.test((x.innerText||'').trim()) && x.getBoundingClientRect().height>0) hide(x.closest('.element-wrapper')||x); });
   /* US address order: Street → City → State → ZIP (Funnelish puts City under State) */
   var ci=document.querySelector('[name="shipping_city"]'), si=document.querySelector('[name="shipping_state"]');
   var cw=ci&&ci.closest('.element-wrapper'), sw=si&&si.closest('.element-wrapper');
   if(cw && sw && cw!==sw && cw.parentNode===sw.parentNode && sw.nextElementSibling===cw) sw.parentNode.insertBefore(cw,sw);
+  if(cw && sw && cw.parentNode===sw.parentNode) cw.style.setProperty('margin-bottom','12px','important');
   if(++ftn<30) setTimeout(footers,500);
 })();
 /* order summary: Funnelish prints "Free Shipping" twice; show each line once (re-checked because the summary redraws on every set change) */
@@ -211,17 +220,20 @@ setInterval(function(){
     });
   });
 },600);
-/* default the country to United States (retries until Funnelish has filled the list; never overrides her choice) */
+/* default the country to United States. Funnelish redraws the country box after load (wiping it),
+   so keep re-applying for ~15s, and stop the moment she picks a country herself. */
+var ctryUser=false;
+document.addEventListener('change',function(e){ if(e.isTrusted && e.target && e.target.name==='shipping_country') ctryUser=true; },true);
 var ctry=0; (function us(){
-  var c=document.querySelector('select[name="shipping_country"]'), done=false;
+  if(ctryUser) return;
+  var c=document.querySelector('select[name="shipping_country"]');
   var ct=document.querySelector('input[name="shipping_country"]');   /* fallback if the country field is a plain text box */
-  if(!c && ct){ if(!ct.value){ ct.value='United States'; ct.dispatchEvent(new Event('input',{bubbles:true})); ct.dispatchEvent(new Event('change',{bubbles:true})); } done=!!ct.value; }
-  if(c && c.options.length>2){
+  if(!c && ct && !ct.value){ ct.value='United States'; ct.dispatchEvent(new Event('input',{bubbles:true})); ct.dispatchEvent(new Event('change',{bubbles:true})); }
+  if(c && c.options.length>1){
     if(c.options[0] && /sel/i.test(c.options[0].text)) c.options[0].text='Country';
-    if(c.selectedIndex<=0 && !c.value){ for(var i=0;i<c.options.length;i++){ if(/^United States/.test(c.options[i].text)){ c.selectedIndex=i; c.dispatchEvent(new Event('input',{bubbles:true})); c.dispatchEvent(new Event('change',{bubbles:true})); break; } } }
-    done = c.selectedIndex>0;
+    if(c.selectedIndex<=0 && !c.value){ for(var i=0;i<c.options.length;i++){ if(/^United States$/.test((c.options[i].text||'').trim())){ c.selectedIndex=i; c.dispatchEvent(new Event('input',{bubbles:true})); c.dispatchEvent(new Event('change',{bubbles:true})); break; } } }
   }
-  if(!done && ++ctry<30) setTimeout(us,400);
+  if(++ctry<38) setTimeout(us,400);
 })();
 
 (function(){
