@@ -214,13 +214,17 @@ var ctry=0; (function us(){
     });
     busy=false; return true;
   }
+  var userPicked=false;
   document.addEventListener('change',function(e){
-    var i=e.target; if(busy || !i || i.name!=='product-id') return;
+    var i=e.target; if(busy || !i || i.name!=='product-id') return;   /* programmatic ticks run with busy=true, so this only fires on real clicks */
     var p=prods().filter(function(x){return x.id===i.value})[0]; if(!p || !p.set) return;
-    if(i.checked) SET=p.set;          /* she switched set */
+    userPicked=true;                  /* she chose a set herself; stop auto-enforcing */
+    if(i.checked) SET=p.set;
     setTimeout(sync,0);               /* unticking the current set just re-ticks it */
   },true);
-  var st=0; (function boot(){ if(!sync() && ++st<20) setTimeout(boot,300); })();
+  /* Funnelish re-renders the list ~1-2s after load (restoring its default set), so keep
+     re-asserting the URL set for ~14s or until she picks one herself. */
+  var st=0; (function boot(){ if(!userPicked) sync(); if(++st<28) setTimeout(boot,500); })();
 
   /* Her size from the quiz / offer page */
   var sz=(q.get('size')||'').toUpperCase(); if(sz==='2XL') sz='XXL';
@@ -231,22 +235,20 @@ var ctry=0; (function us(){
   }
   el.innerHTML='<b>Your size: '+sz+'</b>, from your quiz. Wrong size? We’ll send your new size free. Nothing to send back.';
   el.className='size on';
-  /* Pre-select her size in the product's size dropdown (retries while the checkout loads). */
-  var tries=0;
-  function pick(){
-    var hit=false;
-    [].forEach.call(document.querySelectorAll('select'),function(s){
-      for(var i=0;i<s.options.length;i++){
-        var t=(s.options[i].text||'').toUpperCase().replace(/\s+/g,'');
-        if(t===sz || t.split(/[\/|,\-]/).indexOf(sz)>-1){
-          if(s.selectedIndex!==i){ s.selectedIndex=i; s.dispatchEvent(new Event('change',{bubbles:true})); s.dispatchEvent(new Event('input',{bubbles:true})); }
-          hit=true; break;
-        }
-      }
+  /* Pre-select her size on each brief's size buttons (.pl-variant-option). Funnelish shows the
+     buttons only on the ticked set and defaults to S, so re-apply on load and whenever she switches set. */
+  window.lpkPickSize=function(){
+    [].forEach.call(document.querySelectorAll('.pl-item'),function(it){
+      var opts=it.querySelectorAll('.pl-variant-option'); if(!opts.length) return;
+      var want=null, already=false;
+      [].forEach.call(opts,function(o){
+        var t=(o.textContent||'').trim().toUpperCase().replace(/\s+/g,'');
+        if(t===sz){ want=o; if(o.className.indexOf('selected')>-1) already=true; }
+      });
+      if(want && !already) want.click();
     });
-    if(!hit && ++tries<20) setTimeout(pick,500);
-  }
-  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',pick); else pick();
+  };
+  var sp=0; (function pickLoop(){ if(sz) lpkPickSize(); if(++sp<24) setTimeout(pickLoop,500); })();
 })();
 
 (function(){
