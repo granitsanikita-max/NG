@@ -34,11 +34,11 @@ Option B loses money on the hero set at a $40 CAC before any refunds. If B is ch
 ## 3. Gifts
 | Gift | Sets | Dollar value shown | Ships |
 |---|---|---|---|
-| Wash Bag (name **"Seal-Saver"** only on Lynmiss, if the garment has sealed edges) | **5, 10** (LOCKED v5, 2026-10-11) | **None at launch**: a "value" must be a price it has genuinely sold at for a reasonable time (ACL s29(1)(i), FTC 233.1). Add a value only after it has really sold at that price. | with the underwear |
-| Core-Care Wash Sheets (64, unscented) | **10 only** (LOCKED v5) | None at launch (same rule) | **separate parcel** |
+| Wash Bag | **5, 10** (LOCKED v5) | **$12.95 value** (USD, Nikita 2026-10-12). LEGAL CONDITION: gift must stay listed/sellable at $12.95 in Shopify so the value is genuine (ACL s29(1)(i), FTC 233.1 / Free-claim guide). | with the underwear |
+| Core-Care Wash Sheets (64, unscented) | **10 only** (LOCKED v5) | **$19.95 value** (USD). Same legal condition: listed/sellable at $19.95. | **separate parcel** |
 | The 3-pair Starter Set | **no gifts** | — | — |
 | The Comeback Plan (digital) | **REMOVED until it exists** (PENDING) | — | — |
-Value stacks at launch: no dollar stacks. Show what each gift does, not what it's "worth."
+Gift value stack (USD, LOCKED 2026-10-12): 5 pairs = **$12.95 in free gifts** · 10 pairs = **$32.90 in free gifts** (Wash Bag $12.95 + Wash Sheets $19.95). Both gifts must stay genuinely listed at those prices in Shopify or the value can't be shown. Show the value AND what each gift does.
 If the Comeback Plan is later made with a named physio and genuinely sold: Everyday = $115 + gifts; Two-Week = $230 + gifts (recompute then).
 
 ## 4. Guarantee (D2 — one row goes live, never both)
