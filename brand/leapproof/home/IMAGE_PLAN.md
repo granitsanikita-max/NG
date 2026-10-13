@@ -3,6 +3,17 @@
 Every image slot on the home page (draft theme 196151771507), what goes in it, where it comes from, and the prompt to make it.
 The slots are the striped "IMAGE" boxes on the preview: https://leapproof.com/?preview_theme_id=196151771507&lpdemo=1
 
+## Status (2026-10-13)
+
+Live on draft theme **"Leapproof Home v2 (images)"** (196194337139). Not published.
+- **Hero:** group of four women of different sizes in the black brief, 5:4 (`assets/home/lp-hero-group-v2.jpg`). This replaced the trampoline idea at Nikita's request. The product card is hidden on phones so it doesn't cover the group.
+- **Product flat lay:** `lp-brief-flatlay.jpg`, used in the hero card, the pinned "plain black briefs" section and the comparison table.
+- **Lining close-up:** `lp-brief-lining.jpg`. ⚠️ It shows picot trim on the leg edges, copied from the CJ lining photo. Check against a real sample before launch.
+- **"Usual brand" comparison:** `lp-compare-usual.jpg`.
+- **Sets:** existing CDN `leapproof-3/5/10-pairs.png`.
+- **Final banner:** existing laugh-walk photo `lp-home-free.jpg`.
+- **Reviews:** SAMPLE photos, shown only with `?lpdemo=1`. Real tester photos are still needed before launch.
+
 ## Rules for every image
 
 - **Product must be the real product.** The brief, lining and packs must match what CJ ships. Best source: order 1 CJ sample and shoot it on a phone. Second best: clean up the CJ listing photos with Nano Banana using the product references (front `243ed102`, back `73032c50`, lining `6ef39cab`). Never invent features (no lace, no extra layers, no "4-layer" cutaways). Showing a product that isn't what ships is an FTC problem.
