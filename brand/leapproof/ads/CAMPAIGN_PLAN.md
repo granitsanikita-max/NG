@@ -1,5 +1,14 @@
 # Leapproof: first campaign plan (Step 3 output → brief for Step 4)
 
+> **Creative superseded 2026-10-13.** §1 (the 15-ad batch) is replaced by `first-campaign/FIRST_CAMPAIGN_CREATIVE_PLAN.md` (Google Doc: "Leapproof · First Campaign: Formats, Angles & Hooks"). The new plan is all top of funnel. It covers:
+> - Avatar: the Pad-and-Liner Mom, problem-aware.
+> - Angles A1/A2/A3, all landing on the live hero.
+> - Video: V1 liner + VO, V2 AI 3D talking duet, V3 silent on-body.
+> - Statics: S1 long-form liner photo, S4 text cards.
+> - Per ad: a Miro visual hook, hooks, and 3 proven references per format.
+>
+> §0 (tracking blockers), §2–3 (ATC warm-up → purchase ABO, budgets, break-even) and §4 still apply.
+
 Built only from what's proven in `AD_RESEARCH.md`, with no 70/20/10 swings. Every concept below names the live winner it copies.
 Numbers come from `funnel/NUMBER_SHEET.md` (USD sets $45 / $59 / $99) and your Step 5 benchmarks:
 - CPM ~$28–30
