@@ -460,7 +460,6 @@
 #lph .lph-rvsum__h em{font-style:italic;font-weight:500;color:var(--claret)}
 #lph .lph-rvsum__sub{color:var(--taupe-d);font-size:16.5px;max-width:420px}
 #lph .lph-proof a{color:inherit;text-decoration:underline;text-decoration-color:var(--claret);text-underline-offset:3px}
-#lph .lph-rvlist{max-width:780px}
 #lph .lph-stars{color:#E0703A;letter-spacing:2px;font-size:22px;line-height:1.2;margin-top:8px}
 #lph .lph-rvphotos{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
 #lph .lph-rvphotos img{aspect-ratio:3/4;object-fit:cover;border-radius:6px;width:100%}
@@ -472,6 +471,8 @@
 #lph .lph-rv__badge{font-size:13px;color:var(--taupe-d);display:flex;align-items:center;gap:5px}
 #lph .lph-rv__badge svg{width:15px;height:15px;fill:#6B8F5E}
 #lph .lph-rv .lph-stars{font-size:19px;margin-top:14px}
+#lph .lph-rv__text{max-width:640px}
+#lph .lph-rv__sls{max-width:560px}
 #lph .lph-rv h3{font-family:'Hanken Grotesk',Arial,sans-serif;font-weight:700;font-size:19px;letter-spacing:0;margin:6px 0 2px}
 #lph .lph-rv__date{font-size:13.5px;color:var(--taupe-d);margin-bottom:8px}
 #lph .lph-rv__text{font-size:16px;color:#3B2C31}
@@ -485,7 +486,7 @@
 #lph .lph-sl__bar span{height:6px;background:var(--line);border-radius:3px}
 #lph .lph-sl__bar i{position:absolute;top:-6px;width:8px;height:18px;border-radius:3px;background:var(--claret);left:calc(var(--v) * 1% - 4px)}
 #lph .lph-sl__lbl{display:flex;justify-content:space-between;font-size:13px;color:var(--taupe-d);margin-top:8px}
-@media (min-width:800px){#lph .lph-rvsum{grid-template-columns:.8fr 1.2fr}#lph .lph-rv__sls{display:grid;grid-template-columns:1fr 1fr;gap:24px}}
+@media (min-width:800px){#lph .lph-rvsum{grid-template-columns:.8fr 1.2fr}#lph .lph-rv{display:grid;grid-template-columns:260px 1fr;column-gap:56px;padding:36px 0}#lph .lph-rv .lph-rv__main .lph-stars{margin-top:0}#lph .lph-rv__sls{display:grid;grid-template-columns:1fr 1fr;gap:24px}}
 /* anatomy + features */
 #lph .lph-anat{position:relative;margin-bottom:32px}
 #lph .lph-anat>img{border-radius:var(--r);width:100%}
@@ -650,10 +651,10 @@ window.LPH_REVIEWS = [
     var sl=function(t,v,a,b){return '<div class="lph-sl"><p>'+t+'</p><div class="lph-sl__bar" style="--v:'+v+'"><span></span><span></span><span></span><span></span><i></i></div><div class="lph-sl__lbl"><span>'+a+'</span><span>'+b+'</span></div></div>'};
     document.getElementById('lph-rvlist').innerHTML=R.map(function(r){
       var ini=r.name.split(/\s+/).map(function(w){return w[0]}).join('').slice(0,2);
-      return '<article class="lph-rv" data-rv><div class="lph-rv__who"><span class="lph-av">'+ini+'</span><div><p class="lph-rv__name">'+r.name+'</p><p class="lph-rv__badge">'+tick+'Tester · got a free set</p></div></div>'+
-        '<p class="lph-stars" aria-label="'+r.stars+' out of 5 stars">'+st(r.stars)+'</p><h3>'+r.title+'</h3><p class="lph-rv__date">'+r.when+'</p><p class="lph-rv__text">“'+r.text.replace(/^“|”$/g,'')+'”</p>'+
-        '<p class="lph-rv__for">Review for <b>'+r.set+'</b> · Size '+r.size+'</p>'+(r.rec?'<p class="lph-rv__rec">'+heart+'Would recommend</p>':'')+
-        '<div class="lph-rv__sls">'+sl('Fit',r.fit,'Runs small','Runs big')+sl('Comfort',r.comfort,'Not comfy','Like my normal undies')+'</div></article>';
+      return '<article class="lph-rv" data-rv><div class="lph-rv__side"><div class="lph-rv__who"><span class="lph-av">'+ini+'</span><div><p class="lph-rv__name">'+r.name+'</p><p class="lph-rv__badge">'+tick+'Tester · got a free set</p></div></div>'+
+        '<p class="lph-rv__for">Size <b>'+r.size+'</b> · '+r.set+'</p>'+(r.rec?'<p class="lph-rv__rec">'+heart+'Would recommend</p>':'')+'</div>'+
+        '<div class="lph-rv__main"><p class="lph-stars" aria-label="'+r.stars+' out of 5 stars">'+st(r.stars)+'</p><h3>'+r.title+'</h3><p class="lph-rv__date">'+r.when+'</p><p class="lph-rv__text">“'+r.text.replace(/^“|”$/g,'')+'”</p>'+
+        '<div class="lph-rv__sls">'+sl('Fit',r.fit,'Runs small','Runs big')+sl('Comfort',r.comfort,'Not comfy','Like my normal undies')+'</div></div></article>';
     }).join('');
     var pf=document.getElementById('lph-proof'); if(pf){pf.hidden=false;pf.innerHTML='<span class="lph-stars">'+st(avg)+'</span><a href="#lph-reviews">Hear it from the women wearing them</a>';}
   }
