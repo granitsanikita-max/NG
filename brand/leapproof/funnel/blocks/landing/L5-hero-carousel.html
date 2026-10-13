@@ -1,0 +1,72 @@
+<!-- Leapproof landing · Block L5 · hero photo carousel (desktop + phone).
+     Paste into ONE Custom HTML element anywhere on the landing page (next to L4 is fine). Keep L4: it still adds the phone logo.
+     Turns the hero photo (the two laughing women) into 3 swipeable slides:
+       1. the group of four (every size)  2. back view  3. under leggings
+     Desktop: replaces the big photo on the left (keeps its 4:5 shape).  Phone (≤600px): replaces the photo behind the logo.
+     Swipe, arrows and dots work; it auto-advances every 5s until she touches it. Nothing else on the page changes. -->
+<style>
+.lpc{position:relative;width:100%;overflow:hidden;background:#F1E6DA}
+.lpc--d{aspect-ratio:4/5}
+.lpc--m{position:absolute!important;inset:0;z-index:0}
+.lpc__track{display:flex;height:100%;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none;outline:none}
+.lpc__track::-webkit-scrollbar{display:none}
+.lpc__s{flex:0 0 100%;width:100%;height:100%;object-fit:cover;scroll-snap-align:center;scroll-snap-stop:always;display:block;margin:0;max-width:none}
+.lpc__btn{position:absolute;top:50%;transform:translateY(-50%);width:38px;height:38px;border-radius:50%;border:0;background:rgba(255,252,250,.9);color:#231017;font:400 26px/1 Georgia,serif;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 14px rgba(35,16,23,.15);padding:0 0 3px;z-index:3}
+.lpc__btn--p{left:12px}.lpc__btn--n{right:12px}
+.lpc__dots{position:absolute;left:0;right:0;bottom:12px;display:flex;justify-content:center;gap:7px;z-index:3}
+.lpc__dots button{width:8px;height:8px;border-radius:999px;border:0;padding:0;background:rgba(255,252,250,.75);box-shadow:0 0 0 1px rgba(35,16,23,.18);cursor:pointer;transition:width .25s,background .25s}
+.lpc__dots button[aria-selected="true"]{width:22px;background:#A33154}
+@media only screen and (max-width:600px){
+  .lpc__btn{width:30px;height:30px;font-size:21px}.lpc__btn--p{left:8px}.lpc__btn--n{right:8px}.lpc__dots{bottom:8px}
+  .lp-has-car{background-image:none!important}
+  /* light photos now, so the phone logo (block L4) switches to plum + claret */
+  #lp-mlogo{text-shadow:0 1px 8px rgba(255,252,250,.7)!important;top:12px!important}
+  #lp-mlogo .l{color:#231017!important}
+  #lp-mlogo .p{color:#A33154!important}
+}
+</style>
+<script>
+(function(){
+  var CDN='https://cdn.shopify.com/s/files/1/1026/8593/3939/files/';
+  var DESK=[['lp-group-4x5.jpg','50% 40%','Four women of different sizes laughing together in black Leapproof briefs'],
+            ['lp-back-B.jpg','50% 50%','Back view of the black Leapproof Brief'],
+            ['lp-leggings-A.jpg','50% 50%','The brief under black leggings, back view, smooth with no lines']];
+  var MOB =[['lp-hero-group-v2.jpg','50% 30%',DESK[0][2]],
+            ['lp-back-B.jpg','50% 70%',DESK[1][2]],
+            ['lp-leggings-A.jpg','50% 64%',DESK[2][2]]];
+  function build(cls,slides,w){
+    var c=document.createElement('div'); c.className='lpc '+cls; c.setAttribute('role','region');
+    c.setAttribute('aria-roledescription','carousel'); c.setAttribute('aria-label','The Leapproof Brief on different bodies');
+    var t=document.createElement('div'); t.className='lpc__track'; t.tabIndex=0; c.appendChild(t);
+    slides.forEach(function(s,k){var i=new Image(); i.className='lpc__s'; i.src=CDN+s[0]+'?width='+w; i.alt=s[2]; i.style.objectPosition=s[1]; if(k) i.loading='lazy'; t.appendChild(i)});
+    c.insertAdjacentHTML('beforeend','<button type="button" class="lpc__btn lpc__btn--p" aria-label="Previous photo">&#8249;</button><button type="button" class="lpc__btn lpc__btn--n" aria-label="Next photo">&#8250;</button><div class="lpc__dots" role="tablist" aria-label="Choose photo"></div>');
+    var dw=c.querySelector('.lpc__dots'), sl=t.children, n=sl.length, cur=0, timer=null;
+    var dots=[].map.call(sl,function(_,k){var b=document.createElement('button');b.type='button';b.setAttribute('role','tab');b.setAttribute('aria-label','Photo '+(k+1)+' of '+n);b.onclick=function(){stop();go(k)};dw.appendChild(b);return b});
+    function go(k){cur=(k+n)%n;t.scrollTo({left:cur*t.clientWidth,behavior:'smooth'});mark()}
+    function mark(){dots.forEach(function(d,k){d.setAttribute('aria-selected',k===cur?'true':'false')})}
+    function stop(){if(timer){clearInterval(timer);timer=null}}
+    t.addEventListener('scroll',function(){var k=Math.round(t.scrollLeft/Math.max(1,t.clientWidth));if(k!==cur){cur=k;mark()}},{passive:true});
+    ['pointerdown','touchstart','wheel','keydown'].forEach(function(e){t.addEventListener(e,stop,{passive:true})});
+    c.querySelector('.lpc__btn--p').onclick=function(){stop();go(cur-1)};
+    c.querySelector('.lpc__btn--n').onclick=function(){stop();go(cur+1)};
+    mark();
+    if(!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches)) timer=setInterval(function(){if(c.offsetParent!==null) go(cur+1)},5000);
+    return c;
+  }
+  function put(){
+    var done=0;
+    /* desktop: the big hero <img> (outcome-after photo) */
+    if(!document.querySelector('.lpc--d')){
+      var img=[].filter.call(document.querySelectorAll('img'),function(i){return /outcome-after|hero-desktop/.test(i.src)})[0];
+      if(img){ var d=build('lpc--d',DESK,1200); img.parentNode.insertBefore(d,img); img.style.display='none'; done++; }
+    } else done++;
+    /* phone: the hero block that has the two-women photo as its background */
+    if(!document.querySelector('.lpc--m')){
+      var bg=document.querySelector('.el-755524')||[].filter.call(document.querySelectorAll('[class*="el-"]'),function(e){return /hero-mobile/.test(getComputedStyle(e).backgroundImage)})[0];
+      if(bg){ bg.classList.add('lp-has-car'); if(getComputedStyle(bg).position==='static') bg.style.position='relative'; var m=build('lpc--m',MOB,900); bg.insertBefore(m,bg.firstChild); done++; }
+    } else done++;
+    return done===2;
+  }
+  var n=0; (function loop(){ if(put()||++n>20) return; setTimeout(loop,400); })();
+})();
+</script>
