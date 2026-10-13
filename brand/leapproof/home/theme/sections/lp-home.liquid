@@ -13,7 +13,16 @@
   <!-- 1. HERO -->
   <section class="lph-hero" aria-labelledby="lph-h1">
     <div class="lph-hero__media">
-      <img src="{{ cdn }}lp-hero-group-v2.jpg?width=1800" srcset="{{ cdn }}lp-hero-group-v2.jpg?width=800 800w, {{ cdn }}lp-hero-group-v2.jpg?width=1200 1200w, {{ cdn }}lp-hero-group-v2.jpg?width=1800 1800w" sizes="(min-width:900px) 48vw, 100vw" alt="Four women of different sizes laughing together in black Leapproof briefs" width="1800" height="1450" fetchpriority="high">
+      <div class="lpc" id="lph-car" role="region" aria-roledescription="carousel" aria-label="The Leapproof Brief on different bodies">
+        <div class="lpc__track" tabindex="0">
+          <img class="lpc__s" src="{{ cdn }}lp-hero-group-v2.jpg?width=1800" srcset="{{ cdn }}lp-hero-group-v2.jpg?width=800 800w, {{ cdn }}lp-hero-group-v2.jpg?width=1200 1200w, {{ cdn }}lp-hero-group-v2.jpg?width=1800 1800w" sizes="(min-width:900px) 48vw, 100vw" alt="Four women of different sizes laughing together in black Leapproof briefs" width="1800" height="1450" fetchpriority="high" style="object-position:50% 30%">
+          <img class="lpc__s" src="{{ cdn }}lp-back-B.jpg?width=1200" srcset="{{ cdn }}lp-back-B.jpg?width=600 600w, {{ cdn }}lp-back-B.jpg?width=928 928w" sizes="(min-width:900px) 48vw, 100vw" alt="Back view of the black Leapproof Brief on a mid-size woman" width="928" height="1152" loading="lazy" style="object-position:50% 68%">
+          <img class="lpc__s" src="{{ cdn }}lp-leggings-A.jpg?width=1200" srcset="{{ cdn }}lp-leggings-A.jpg?width=600 600w, {{ cdn }}lp-leggings-A.jpg?width=928 928w" sizes="(min-width:900px) 48vw, 100vw" alt="The brief under black leggings, back view, smooth with no lines" width="928" height="1152" loading="lazy" style="object-position:50% 62%">
+        </div>
+        <button type="button" class="lpc__btn lpc__btn--p" aria-label="Previous photo">&#8249;</button>
+        <button type="button" class="lpc__btn lpc__btn--n" aria-label="Next photo">&#8250;</button>
+        <div class="lpc__dots" role="tablist" aria-label="Choose photo"></div>
+      </div>
       <figure class="lph-inset">
         <img src="{{ cdn }}lp-brief-flatlay.jpg?width=400" srcset="{{ cdn }}lp-brief-flatlay.jpg?width=200 200w, {{ cdn }}lp-brief-flatlay.jpg?width=400 400w" alt="The Leapproof Brief in black, laid flat" width="400" height="400" loading="lazy">
         <figcaption>The Leapproof Brief: plain black, lining built in.</figcaption>
@@ -384,6 +393,17 @@
 #lph .lph-hero__media{position:relative;height:26vh;min-height:150px;max-height:300px;overflow:hidden}
 #lph .lph-hero__media>img{width:100%;height:100%;object-fit:cover;object-position:50% 30%;animation:lphzoom 14s ease-out both}
 @keyframes lphzoom{from{transform:scale(1.08)}to{transform:scale(1)}}
+#lph .lpc{position:absolute;inset:0}
+#lph .lpc__track{display:flex;height:100%;overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none;outline:none}
+#lph .lpc__track::-webkit-scrollbar{display:none}
+#lph .lpc__s{flex:0 0 100%;width:100%;height:100%;object-fit:cover;scroll-snap-align:center;scroll-snap-stop:always}
+#lph .lpc__btn{position:absolute;top:50%;transform:translateY(-50%);width:38px;height:38px;border-radius:50%;border:0;background:rgba(255,252,250,.88);color:var(--ink);font-size:26px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 14px rgba(35,16,23,.15);padding:0 0 3px}
+#lph .lpc__btn--p{left:12px}#lph .lpc__btn--n{right:12px}
+#lph .lpc__dots{position:absolute;left:0;right:0;bottom:12px;display:flex;justify-content:center;gap:7px}
+#lph .lpc__dots button{width:8px;height:8px;border-radius:999px;border:0;padding:0;background:rgba(255,252,250,.7);box-shadow:0 0 0 1px rgba(35,16,23,.15);cursor:pointer;transition:width .25s,background .25s}
+#lph .lpc__dots button[aria-selected="true"]{width:22px;background:var(--claret)}
+@media (max-width:899px){#lph .lpc__btn{width:30px;height:30px;font-size:21px}#lph .lpc__btn--p{left:8px}#lph .lpc__btn--n{right:8px}#lph .lpc__dots{bottom:8px}}
+@media (min-width:900px){#lph .lpc__dots{left:0;right:auto;width:calc(100% - 200px)}}
 #lph .lph-inset{position:absolute;right:10px;bottom:10px;width:98px;background:#FFFCFA;border-radius:8px;padding:6px 6px 7px;box-shadow:0 10px 24px rgba(35,16,23,.25);animation:lphup .9s .5s both}
 @keyframes lphup{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
 #lph .lph-inset img{border-radius:5px;width:100%}
@@ -632,6 +652,22 @@ window.LPH_REVIEWS = [
   var q=new URLSearchParams(location.search);
   root.classList.add('js');
   var io=('IntersectionObserver' in window);
+
+  /* hero carousel: swipe / arrows / dots, slow autoplay until she touches it */
+  (function(){
+    var c=document.getElementById('lph-car'); if(!c) return;
+    var t=c.querySelector('.lpc__track'), sl=t.querySelectorAll('.lpc__s'), dw=c.querySelector('.lpc__dots'), n=sl.length, cur=0, timer=null;
+    var dots=[].map.call(sl,function(_,k){var b=document.createElement('button');b.type='button';b.setAttribute('role','tab');b.setAttribute('aria-label','Photo '+(k+1)+' of '+n);b.onclick=function(){stop();go(k)};dw.appendChild(b);return b});
+    function go(k){cur=(k+n)%n;t.scrollTo({left:cur*t.clientWidth,behavior:'smooth'});mark()}
+    function mark(){dots.forEach(function(d,k){d.setAttribute('aria-selected',k===cur?'true':'false')})}
+    function stop(){if(timer){clearInterval(timer);timer=null}}
+    t.addEventListener('scroll',function(){var k=Math.round(t.scrollLeft/Math.max(1,t.clientWidth));if(k!==cur){cur=k;mark()}},{passive:true});
+    ['pointerdown','touchstart','wheel','keydown'].forEach(function(e){t.addEventListener(e,stop,{passive:true})});
+    c.querySelector('.lpc__btn--p').onclick=function(){stop();go(cur-1)};
+    c.querySelector('.lpc__btn--n').onclick=function(){stop();go(cur+1)};
+    mark();
+    if(!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches)) timer=setInterval(function(){go(cur+1)},5000);
+  })();
 
   /* reviews: only real data, or SAMPLE data with ?lpdemo=1 */
   var R=(window.LPH_REVIEWS||[]);
