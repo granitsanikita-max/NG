@@ -1,0 +1,537 @@
+{
+ "summary": "Who: the Pad-and-Liner Mom. She is 30-45 (core mid-30s), months to years past her last baby, and back to moving. She pees a little on the sneeze, the big laugh or the jump. She gets by with liners 'just in case', peeing before she leaves and crossing her legs. Period-underwear wearers are not a target, because the CJ product is that category.\nAwareness: problem-aware. She knows she leaks, but she doesn't know there is underwear made for that moment. Every ad names the moment and the word pee, leak or sneeze in its first line. The ads speak in brand voice or third person, never 'you leak', and use 'I/we' only from a real, disclosed tester.\nVideos (9, all cold, no price): V1, a pad-in-hand voiceover, carries A2 'Not a pad, not a diaper' (Everdries video#14 at 275d, UltraDries video#6 at 193d). V2, a side-by-side, carries A3 'It's just underwear': the A-vs-B mechanic is Tier A, and the pad-foil version rests on one unranked ad at 180d. V3, a silent on-body clip with one moment line, carries A1 'The moment'. It joins two proven parts (Everdries video#9 at 275d, Revival at 139d), but the combination is untested.\nStatics (2 formats, 6 ads): S1, a plain pad photo with a long story caption, carries A2 (UltraDries image #1-#3 at 202-209d). S4, a text card, carries A1. Its listicle version has Tier A proof (Carol image#1, 249d); the one-line cards have Tier B proof only. The on-body photo (S2) was dropped because a plain underwear photo with no overlay isn't top of funnel. It moves to retargeting.\nRound 1 uses only the moments the live hero continues: the laugh, the sneeze, and jumping jacks at home. Trampoline, kids, gym and run hooks wait for round 2, after hero Card 1 is live and the wear test covers repeated jumps and a run.\nBefore any spend: take the fake reviews off the page, add the pixel (with health data stripped from the URLs), publish the guarantee terms and the L1 source, log the wear test, measure the sample's sizes, and freeze the hero copy.",
+ "avatar": {
+  "name": "The Pad-and-Liner Mom (quiz persona 'The Comeback')",
+  "one_liner": "A mom in her 30s, back to moving, who pees a little on the sneeze, the big laugh or the jump. She gets by with liners 'just in case', peeing before she leaves and crossing her legs, because everyone says it's just part of life after kids.",
+  "profile": "Age 30-45, core mid-30s (ICP 'Mara, 36'; #14 'I'm 37 and have two kids'). Years out, she doesn't call herself 'postpartum', so ads never say 'postpartum' or 'after your baby'. She talks on Reddit (r/beyondthebump, r/Mom, r/xxfitness, r/running) and scrolls FB/IG feed and Reels. She uses disposables and workarounds, NOT period underwear: a period-underwear wearer already owns the category the CJ SKU is, and no CJ-legal TOF angle can move her (no attacking period underwear, no 'upgrade'). Her leak is small in her own words: 'pee a tiny bit' (#19), 'a little leak that might look like a crotch sweat' (#20). That a light-leak CJ panty can serve her is a HYPOTHESIS until the logged wear test covers a sneeze, a laugh and a jumping-jack set. Quiz Q4 ('It can be a lot' gets the redirect line) screens heavier leakers out. Mood: wry resignation. She keeps it private (#4 'except my husband and mom'). She isn't burned yet because she hasn't bought yet, not because she's less skeptical, so every ad keeps the guarantee line. Identity: strong, capable, not old. 'Diaper' and 'old' repel her. Size risk: this segment skews larger; see flags (measure the sample first). Base: about 16 core rows in the bank, the largest sub-avatar per Doc 2.",
+  "trigger_moments": [
+   "ROUND 1: the sneeze: 'peeing a little every time i sneeze after giving birth' (#34), 'I'm sick and tired of peeing myself every time I sneeze' (#119). 'With a cold', 'toddler on the hip' and 'shopping bags' are our inference, not her words.",
+   "ROUND 1: laughing too hard (#19). Matches the landing H1 'Stop! I'll pee myself!' and H2 'not crossing your legs'.",
+   "ROUND 1: jumping, shown as jumping jacks at home: 'or jumped up and down' (#19), double-unders (#14). Matches the 'the jump' bullet. Gated on the wear test covering a jumping-jack set.",
+   "ROUND 2 (held): the trampoline with her kids (#123, #124). The landing's first screen doesn't continue it until hero Card 1 is live.",
+   "ROUND 2 (held): the run: 'I don't pee when I do anything but run' (#10), 'I always go pee right before I leave' (#30). No run line on the landing, and runs mean repeated leaks the wear test hasn't covered.",
+   "HELD: heavy lifting (#154, mom of 3). Can be more than a light panty holds."
+  ],
+  "failed_solutions": [
+   "Pads or liners for runs and everyday, plus peeing right before she leaves (#30)",
+   "Pelvic-floor PT: slow and costly, and sometimes told to stop running (#33, #128)",
+   "Skipping the jump or leaving mid-play for the bathroom (#123). Skipping jump rope / the trampoline park (#125, not mom-tagged, reads like a testimonial)",
+   "Crossing her legs before a cough or laugh (inference; the wording comes from Ridgeview clinic copy #90, not her voice)",
+   "Spare undies in the bag (inference; the only bank row, #6, is a pregnant woman, a held-back segment)"
+  ],
+  "objections": [
+   "'It's just normal after kids, I'll live with it.' The belief is widespread (#16 'We have all done it'; #31 'pretty common... especially post childbirth'; #122 argues against it, which shows how common it is). Answered by 'Common? Yes. Normal? No.' once the L1 source is live.",
+   "'Will it actually hold or leak through?' (#1 objection bank-wide). Answered only by the 30-Night Leak-Test, never by a claim.",
+   "'I'm not wearing a diaper / it'll feel like a wet diaper' (#152, #67). Answered by 'Not a pad, not a diaper', shown as plain black briefs.",
+   "'Will it ride up or show under leggings?' (#109 'ride up in the back'). Answered only by real, unedited footage of the actual sample under leggings, mid-movement.",
+   "'Will it fit my body / will the waistband roll?' (inference; #117 is a Knix 'if you have a tummy' review, not post-baby). Answered by quiz sizing + Fit Promise, and only with true facts about the cut once the sample is measured.",
+   "'It costs more than a pack of pads' (6 mentions). Answered after the quiz by per-pair pricing; never in TOF ads."
+  ],
+  "her_words": [
+   "\"After having a kid, I honestly used to pee a tiny bit pretty much every time I coughed (or sneezed or laughed too hard or jumped up and down).\" #19",
+   "\"It's not like we pee a puddle around us, it's just a little leak that might look like a crotch sweat.\" #20",
+   "\"peeing a little every time i sneeze after giving birth\" #34",
+   "\"I'm sick and tired of peeing myself every time I sneeze.\" #119",
+   "\"It's been 8 years since my last baby, why do I pee a little when jumping?\" #123",
+   "\"I was jumping on my kid's small trampoline... and a little pee leaked out as if I sneezed.\" #124",
+   "\"I always go pee right before I leave, and wear an absorbent period pad when I run.\" #30",
+   "\"Trying for a squat PR, pee your pants. Double unders? Pee your pants. We have all done it.\" #16 (CrossFit, not mom-tagged; shows how normalised it is)",
+   "\"I'm not out here telling everyone about it except my husband and mom.\" #4",
+   "\"How to not absolutely pee myself during double unders? I'm 37 and have two kids.\" #14"
+  ],
+  "why_first": "1) The largest sub-avatar in Doc 2 (about 16 core rows) and the ICP. Athlete-tagged rows (31) outnumber mom-tagged rows (20), but 8 of the mom rows are training moms, and an athlete-only lead has no landing line yet. 2) She's the best funnel match: the hero's laugh/sneeze/jump, then Q2 'After having a baby' and the NORMAL card, then Q3 'Pads or liners' and the REACT card. 3) Her own words describe small leaks (#19, #20). That fits a light-leak panty, but it stays a hypothesis until the wear test. 4) Not yet burned (she hasn't bought), so the guarantee line in every ad does the trust work. 5) Mostly problem-aware: only 2 core rows are solution-aware (#33, #122). 6) She needs none of the CJ-banned angles (period undies failed, burned skeptic, mechanism). 7) Live mom/moment hooks exist to model, though only at Tier B (Origin postpartum 316d, Mireva 321d, Revival 139d).",
+  "hold_back": [
+   "Period-underwear wearers (Knix/Thinx 'just in case', #25, #29): they already own the CJ category, and the angles that move them are Lynmiss-only. Not a CJ TOF target.",
+   "Trampoline-with-kids and run hooks inside the mom segment: round 2, after hero Card 1 is live and the wear test covers repeated jumps and a run.",
+   "Perimenopause 40s: 4 rows, no proven 30-45 lead ad, no landing line, highest Meta 'you'-rule risk. Later, on a /match-r page.",
+   "Standalone runner, CrossFit or lifter campaigns: no landing line, and repeated or heavier leaks may exceed a light panty. NUMBER_SHEET §13 names the smaller/athlete segment as the fallback if the size run is small.",
+   "Burned skeptics: Lynmiss only.",
+   "Pregnant or immediate postpartum (#6, #113, #151): temporary, sensitive, and pulls toward diapers.",
+   "60+ and heavy leakers: Everdries' turf, and the CJ panty is too light for them.",
+   "Night-time leaks: skip until the CJ back coverage is confirmed (O20)."
+  ]
+ },
+ "awareness": {
+  "level": "Problem-aware, led moment-first: the first line shows or names the sneeze, laugh or jump with the word pee, leak or sneeze. It is never a 'do you leak?' question.",
+  "why": "She knows she leaks and can name the moment. She doesn't know there is underwear made for it, so she improvises with liners, peeing first and crossing her legs. Many have normalised it (#16 'We have all done it'), and Meta rejects second-person condition lines. So the ad names the moment in brand voice or third person, she recognises herself, and the quiz asks the condition questions. The moment line must still say pee, leak or sneeze, or a stranger reads a liner or black-briefs ad as period or panty-line content. Solution-aware angles (period undies failed, burned skeptic) are Lynmiss-only. Product-aware and offer ads skip the quiz and belong in retargeting.",
+  "split": "Bank-wide, 71-72 tagged rows (sources differ by one): about 40% problem-aware, 27-28% solution-aware, 26-27% product-aware, 6% most-aware. Reddit, where the 30-45 ICP talks: 52 tagged, 46/29/25%. Core mom pool (about 16 rows): mostly problem-aware, with only 2 solution-aware (#33, #122). Of the 46 burned rows, 40 are on retail review sites (Trustpilot 22, Amazon 12, PissedConsumer 3, Walmart 3), and 42 are non-Reddit. Only 4 of 52 Reddit rows are burned.",
+  "sophistication": "Stage 4-5. The loud players sell age identity (Everdries 'over 60') and bigger mechanism claims. On CJ we can't run a mechanism or out-claim anyone. So we enter on experience: the moment she knows, plain black briefs she recognises as underwear, and the CJ enemy line limited to comfort and waste. Proof comes from the 30-Night Leak-Test and the Fit Promise, not from claims.",
+  "beliefs_to_shift": [
+   "B2 (CJ wording): 'My options are liners and pads' becomes 'Liners bunch, feel like a diaper and go in the trash every day, and there are plain black briefs for the sneeze, the laugh and the jump.' No holding or performance comparison.",
+   "B5: 'It'll feel like a diaper or show under leggings' becomes 'It looks like plain black briefs.' Claim only what real footage of the sample shows.",
+   "B4: 'That stuff is for old women' becomes 'This is for women who laugh and move.' Show her standing or moving, never hidden.",
+   "B1 (beat only, once the L1 source is live): 'It's just normal' becomes 'Common? Yes. Normal? No.'",
+   "B3 (closing line only): 'It probably won't hold' becomes '30 nights to see if they hold, money back if they don't.'"
+  ],
+  "tof_job": "Earn the click, not the sale. In the first line or first 3 seconds, name the moment with the word pee, leak or sneeze (the sneeze, the big laugh, jumping jacks), in brand voice or third person. Name the workaround she'll recognise (liner 'just in case', crossing her legs). Reveal the category, not a mechanism: plain black briefs, on a real body, under leggings, moving. De-risk in one line (30 nights to see if they hold). Hand off to 'Find my match' (the quiz). No price, gifts, 'new', reviews, stats or mechanism."
+ },
+ "funnel": {
+  "what_she_lands_on": "One hero for everyone today (leapproof.myfunnelish.com/LP). H1: 'Stop! I'll pee myself! / Common? Yes. Normal? No. / Find your match.' Subhead: 'Black briefs for women who'd rather laugh than cross their legs. The quiz works out your size and how many pairs you need. Then 30 nights to see if they hold.' Bullets: 'Feels like underwear. Not a pad, not a diaper.' / 'Built for the sneeze, the laugh and the jump' / '30 nights to test. Money back if they don't hold.' Carousel: group of women in black briefs, back view, the brief under leggings (slide 3; AI-generated). Button 'Find my match' (below the fold on mobile). H2: 'Picture the next big laugh, and not crossing your legs for it.' Then 3 FAKE named reviews, which must be removed; they hold the only trampoline, kid and gym-bag lines on the page. The first screen has no mom, kid, trampoline, gym, run, leggings or 'no line' text.",
+  "promise_chain": "Ad: the moment (laugh, sneeze, jump) + 'not a pad, not a diaper'. Landing: the same words in the H1, H2 and bullets, then 'Find my match'. Quiz: Q1 replays her moment, then the WHY card. Q2 'After having a baby' gives the NORMAL card. Q3 'Pads or liners' gives the REACT card ('Pads bunch and shift the second you move'). Result: 'free gifts unlocked', '30 nights to see if they hold'. Offer: 'Your N pairs are ready, size X', then the pads vs Leapproof table ('go in the trash every day'). Checkout. Words carried end to end: MOMENT, NOT A PAD, MATCH, 30 NIGHTS. Price, sets and gifts appear only after the quiz. Trampoline and kids show up only at Q8/Q13 and on the offer page, which is why they're held out of round 1.",
+  "angle_code_reality": "?a= changes nothing on the page today. /LP, /LP?a=p and /LP?a=m render the same hero, and no /match-[code] clones exist. 'a' only passes through quiz, offer and checkout as an attribution tag. So every round-1 angle was picked to match the one live hero: A1 matches H1 + H2, A2 and A3 match the 'Not a pad, not a diaper' bullet. Use a=m on all ads (the only launch code in LANDING §7) and split angles with utm_content=moment / pads / underwear. Don't invent new a= codes until they're in the FUNNEL_PLAN §6 table.",
+  "rule_for_every_ad": "1) The first line or first 3s names the moment AND the word pee, leak or sneeze (sneeze, big laugh, jumping jacks), in brand voice, third person or a bare moment line. Never 'you leak / your bladder / after your baby'. 'I / we / us' only from a real, disclosed tester it's true for. An actor re-enacting a moment gets 'Dramatization' on screen. On statics, the first ~125 caption characters do this. 2) The ad ends on a line the FROZEN hero repeats: 'Stop! I'll pee myself!', 'Common? Yes. Normal? No.' (only once the L1 source is live), 'Not a pad, not a diaper', or 'For the sneeze, the laugh and the jump' (never 'built / designed / made for', and only after the logged wear test). 3) CTA = the quiz ('Find my match'), never price, gifts or sale. 4) Show only the real CJ plain black brief, on a real woman 30-45: full figure, mid-movement, under leggings where possible, no butt- or crotch-centred crops, no children in any round-1 ad. 5) The only enemy line is the CJ one, in US wording: 'Pads and liners bunch, feel like a diaper, and go in the trash every day.' Contrasts use only those attributes (bunch, shift, diaper feel, shows, trash), never 'fails / doesn't hold / wrong tool'. 6) 'Hold' only inside the guarantee. No absolute or comparative leak claims, mechanism, reviews, doctors, stats, eco claims or urgency."
+ },
+ "angles": [
+  {
+   "id": "A1",
+   "name": "The moment: 'Stop! I'll pee myself!' (the sneeze, the big laugh, the jump)",
+   "core_message": "The big laugh, the sneeze, the jump: the moment women cross their legs and hope. There are plain black briefs for that moment, so she can laugh instead.",
+   "awareness": "Problem-aware, moment-first (the moment named with the word pee, leak or sneeze, never as 'you leak').",
+   "proof": "Tier B only, on 30-45 women. Real moment overlays on creative: Revival 1688978975632845 (139d, gym meme), Your Postpartum PT 1530319598830519 (113d, sneeze re-enactment), Pine Peak 869271709162736 text card (97d, 'Hoping nobody tells a really funny joke?'). Also Advanced Health 1015538471405847 'Sneezing Shouldn't Require Crossing Your Legs' (112d) and FPW 2181639299326800 laugh/sneeze/trampoline (103d). Origin's 'Leak when you sneeze?' runs on 8 ads at 126-372d, but as caption copy inside a 3-symptom checklist, not as a creative hook (the 24707440378884436 overlay is 'Symptoms Your Pelvic Floor PT Can Treat'). Origin card 870082525676896 (312d) sits in a DCO with a video, so its run time can't be credited to the card alone. Tier A carries 'sneeze' (~100) and 'laugh' (~110) in live Everdries body copy only. Honest gap: no Tier A ad leads with the moment.",
+   "landing_handoff": "H1 line 1 'Stop! I'll pee myself!' + H2 'Picture the next big laugh, and not crossing your legs for it.' + bullet '...the sneeze, the laugh and the jump'. Then quiz Q1 'When does it happen most?' and the WHY card.",
+   "a_code": "m (attribution only; same hero for every code); utm_content=moment",
+   "why_it_suits_brand_and_funnel": "It's the brand's own hero line and first non-negotiable ('open on the moment'), and the strongest word-for-word scent match. Laugh is the best match (the H1 is a laugh), then sneeze, then jump through the bullet. Every moment used here is on the landing's first screen. Trampoline, run and gym moments are not, so they wait."
+  },
+  {
+   "id": "A2",
+   "name": "Not a pad, not a diaper (CJ enemy line: liners bunch, feel like a diaper, go in the trash)",
+   "core_message": "Liners and pads bunch, shift, feel like a diaper and go in the trash every day. There are plain black briefs for the sneeze, the laugh and the jump. Comfort and routine only, never 'pads fail'.",
+   "awareness": "Problem-aware (she uses liners or pads 'just in case' for the moment).",
+   "proof": "The most proven problem/solution angle in the set: 'Pads are wrong' + 'Replace pads' = 44 Tier A ads, 15 in a page top-10 (of 137 classified Tier A ads, so lower bounds). That top-10 strength sits mostly in statics: 8 of the 15 are long-form story statics (Life Beyond Leaks image #1, #2, #3, #6, #9, #10; Carol #5, #6). Five are fake-expert videos, one is a skit, and one is a voiceover (Life Beyond Leaks video#6). Videos: Everdries 1206351388295667 (275d, video#14, 2-6 Meta duplicates) and UltraDries 896552676720439 (193d, video#6). Live counts: Everdries 'pads' ~190 videos; UltraDries 'pads' on ~100/100 Life Beyond Leaks ads.",
+   "landing_handoff": "Bullet 'Feels like underwear. Not a pad, not a diaper.' Then quiz Q3 'Pads or liners' gives the REACT card 'Pads bunch and shift the second you move', and the offer's pads vs Leapproof table ('go in the trash every day').",
+   "a_code": "m (attribution only); utm_content=pads",
+   "why_it_suits_brand_and_funnel": "It's the CJ-legal enemy line (FUNNEL_PLAN §2). It needs no mechanism and doesn't attack period underwear. The funnel repeats it three times: landing bullet, quiz REACT card, offer table. It names her real workaround (#30), so she recognises herself without being told 'you leak'. Runs on V1 (video) and S1 (the static where this angle's proof is strongest)."
+  },
+  {
+   "id": "A3",
+   "name": "It's just underwear (plain black briefs, not a kit of liners and spares)",
+   "core_message": "The just-in-case kit (liners, spare undies, the plan) vs one pair of plain black briefs that look and feel like underwear. Shown side by side, not claimed.",
+   "awareness": "Problem-aware to solution-aware. Works cold only with the moment and 'pee/leak/sneeze' in the first frame.",
+   "proof": "The A-vs-B mechanic is Tier A: 21 ads, 5 in a page top-10, but all 5 are old-vs-new (Carol video #1, #2, #4, #5, #10), which we can't run. The runnable 'old solution vs us' version: 7 Tier A ads, best ranks #18 (1920176635259424, 250d), #21 (811197242009709, 230d) and #27 (945622924750214, 169d), 0 in a top-10, all with a diaper foil. The pad-foil version rests on one unranked ad: Everdries 710413878795607 (180d, 'my mom's pads vs what I use', point by point). Live: 'thin' ~270, 'comfortable' ~230, 'invisible' ~110 Everdries videos. On-body silent pull-up: 2028897597834338 (133d, 3 duplicates).",
+   "landing_handoff": "Bullet 'Feels like underwear. Not a pad, not a diaper.' + subhead 'Black briefs...' (+ carousel slide 3 under leggings, only if it's moved to slide 1 for this traffic; see flags). Then quiz Q7 worries 'feel like a diaper' / 'show under leggings' are answered on the result.",
+   "a_code": "m (attribution only); utm_content=underwear",
+   "why_it_suits_brand_and_funnel": "It answers the two objections that stop her ('feels like a diaper', 'shows under leggings') with visuals, not claims, which is the CJ-safe way. It shares A2's bullet but lands on the other half ('Feels like underwear'). To keep it apart from A2, its A side is her whole workaround kit, not a pad rant. Honest overlap: V1 and V2 both use disposables as the foil, so read them partly as a format test on the same enemy."
+  }
+ ],
+ "angles_rejected": [
+  {
+   "angle": "Common, not normal as a LEAD angle (round 1)",
+   "why": "Tier B-proven only: Revival 1688978975632845 (139d), MamasandMisses 830409790111485 (163d), Pine Peak 869271709162736 caption (97d), Origin 1311055671051182 (316d, 'Pelvic floor issues don't have to be your new normal'). In the Tier A statics (UltraDries image#1), 'normal' is one line inside a 60+ UTI story. The landing's 'Common? Yes. Normal? No.' has no visible source until the L1 Ridgeview strip is live, and the 1-in-3 stat covers only 6 weeks to 1 year after birth. Used only as an end-card or caption beat once L1 is live. Promote to a lead in round 2."
+  },
+  {
+   "angle": "Trampoline / kids moments (round 1)",
+   "why": "The live landing never says trampoline, kids, mom or baby outside the fake reviews, which must go. Trampoline comes back only at quiz Q8 of 13, Q13 and the offer page. It's also a repeated-jump moment the wear test hasn't covered. Round 2, after HERO_PASTE_LIST Card 1 ('Ever watched from the side at the trampoline park?...') is live under the hero. Never echo the fake 'trampoline party' review."
+  },
+  {
+   "angle": "Postpartum identity told to her ('After your baby...', 'Still waiting to bounce back?')",
+   "why": "Fails the Meta 'you' rule, and the live hero never says baby or kids (scent break). Upgrade once a /match-p page with Card 1 is live."
+  },
+  {
+   "angle": "Athlete / CrossFit / runner / gym class (box jumps, double-unders, runs, lifting)",
+   "why": "The hero is a laugh line, not training: no gym, class or run language on the landing. The offer FAQ says the product is for 'a few drops to a small splash'. Repeated or heavy leaks raise 'didn't hold' claims under a keep-the-pairs guarantee. Only plain jumping jacks at home (the 'jump' bullet) stay in round 1. Hold the rest for /match-t or /match-run and a wear test that covers them."
+  },
+  {
+   "angle": "Perimenopause / 40s ('Run. Lift. Laugh.')",
+   "why": "No proven 30-45 lead ad, only 4 research rows, no landing line, highest Meta personal-attribute risk. Hold for /match-r."
+  },
+  {
+   "angle": "Period underwear failed / 'built for pee, not blood' / 'upgrade from period undies'",
+   "why": "Banned on CJ (FUNNEL_PLAN §2, Lynmiss only). Our product is a period panty, so 'upgrade' is also an implied superiority claim."
+  },
+  {
+   "angle": "Pads fail / hold more than pads ('wrong tool for jumping')",
+   "why": "An implied comparative efficacy claim with no support. The bank says pads, especially incontinence pads, absorb urine better than period underwear (#22, #23). The CJ enemy line is limited to comfort and waste."
+  },
+  {
+   "angle": "Mechanism / pour demo / layers / ml",
+   "why": "The mechanism block is OFF on CJ, there is no lab data, and nothing on the landing continues it."
+  },
+  {
+   "angle": "Burned skeptic ('other leak-proof undies failed, ours hold')",
+   "why": "Lynmiss only, no mechanism to back it, and the only 'burned' line on the landing is a fake review."
+  },
+  {
+   "angle": "Offer / bundle / free gifts led",
+   "why": "Most-aware, not TOF. There's no price on the landing; price comes after a 13-question quiz. Retargeting only."
+  },
+  {
+   "angle": "Just launched / honest new brand",
+   "why": "Product-aware ('NEW RELEASE' / 'redesigned' posts). 'New' means nothing to a stranger, and we have no old design."
+  },
+  {
+   "angle": "Skeptic to believer ('looked too thin to work')",
+   "why": "Needs real tester or customer voices; we have none yet."
+  },
+  {
+   "angle": "Waste / eco / sustainability",
+   "why": "'Eco / sustainable / zero-waste' need substantiation (FTC Green Guides). Only the facts 'wash and wear again' and 'nothing in the trash' are allowed, as a middle beat, never the promise."
+  },
+  {
+   "angle": "Night-time / heavy leaks / 'stay dry all day'",
+   "why": "A light-leak product with unconfirmed back coverage. Quiz Q4 screens heavy leakers out."
+  },
+  {
+   "angle": "Age identity 60+ / 'what my mom uses'",
+   "why": "Everdries' customer, not ours, and it conflicts with the brand ('not old')."
+  },
+  {
+   "angle": "Smell / embarrassment / 'nobody will know'",
+   "why": "Never-shame rule plus the banned 'discreet' frame. The landing's joke is laughing, not hiding."
+  }
+ ],
+ "video_formats": [
+  {
+   "id": "V1",
+   "format": "Problem-object open + brand voiceover over b-roll (clean liner in hand, then the briefs on a body)",
+   "angle_id": "A2",
+   "why_this_format": "About 8 Tier A voiceover ads open on a pad or diaper (of 137 classified Tier A ads). Two are ranked women's ads: Everdries 1206351388295667 (275d, video#14, 2-6 Meta duplicates, sources disagree; same creative 2156436115112904, 180d) and UltraDries 896552676720439 (193d, video#6, a woman ~40s). Plus the hands-only flat-lay 1730018818434803 (124d). Everdries 1887889898483490 (275d) has the cleanest pad-in-hand hook visual, but it's a founder-story format and unranked. Live: 'pads' on ~190 Everdries videos and ~100/100 Life Beyond Leaks ads. Honest: voiceover has the weakest rank record of the main formats (2 of 29 in a top-10), and the pads angle's top-10 strength sits mostly in statics (hence S1). It works cold because the liner does the hooking and the brand appears late.",
+   "structure": "40-60s. 0-3s: the moment + the old solution. A clean liner in hand, with one line naming the moment and the leak (brand voice, e.g. 'Keys. Phone. A liner, in case of a sneeze.'). 3-20s: brand VO over liner b-roll, using CJ attributes only: bunches, shifts, feels like a diaper, goes in the trash every day. 20-40s: reveal the plain black brief, hands-only (stretch, fold) and/or on a real woman under leggings, full figure, moving. 40-50s: 'Not a pad, not a diaper. For the sneeze, the laugh and the jump.' 50-55s: '30 nights to see if they hold.' CTA: 'Find my match.'",
+   "tof_awareness": "Problem-aware liner/pad users. Opens on the moment and the object, never on her condition.",
+   "funnel_handoff": "Bullet 'Feels like underwear. Not a pad, not a diaper.' Then quiz Q3 'Pads or liners' gives the REACT card 'Pads bunch and shift the second you move.'",
+   "production_needs": "Props: clean liners and pads (never stained), a handbag, a bathroom trash can, the CJ samples, black leggings. Hands-only talent for the hook. One real woman 30-45 (disclosed) for 10-15s of on-body b-roll, full figure under leggings. Impersonal brand VO (no 'I/we' unless she's a real disclosed tester it's true for). Burned-in captions in brand fonts. The hook can be shot before samples arrive; the payoff can't.",
+   "compliance_swaps": "The only contrast is 'Pads and liners bunch, feel like a diaper, and go in the trash every day.' Never 'wrong tool', 'fails', 'leaks through', 'holds better', 'pads were made for periods' or 'built for pee, not blood'. 'Why are you still...' becomes a third-person or impersonal line, never 'we' from a narrator. No UTI/rash/chemicals/odour, no $ or volume waste figures, no eco words, no '100%' or absorbency, no pour/mug demo. No stained pads, no 🤢. No 'original vs redesigned'. No sale.",
+   "variations": [
+    {
+     "v": "V1-a The handbag liner",
+     "hook_direction": "Text over a hand pulling a clean liner out of a handbag: 'Keys. Phone. A liner, in case of a sneeze.' (impersonal list, the sneeze named in line 1).",
+     "scenario": "An everyday errand day (checkout line, car park). VO: what liners do all day (bunch, shift, feel like a diaper, go in the trash). Payoff: the plain black brief stretched in hand, then on a real woman pulling leggings over it.",
+     "why_different": "The everyday sneeze moment (#34, #119): non-exercise, the widest 'just in case' habit.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. Must show a clean liner in hand in frame 1 and the word 'sneeze' on screen by 2s. Real CJ brief on screen by 25s."
+    },
+    {
+     "v": "V1-b The funny-friend dinner",
+     "hook_direction": "Text over a liner going into an evening clutch: 'Dinner with the funniest friend: lipstick, keys, and a liner for the laugh-pee.'",
+     "scenario": "Getting ready for a night out. The liner goes in last. VO on the liner routine (CJ attributes only). Payoff: plain black briefs under a dress or jeans, then laughing at the table (adults only). End line echoes the H1 laugh.",
+     "why_different": "The laugh moment, the landing's own H1 (#19), and a non-gym, non-kid setting the hero continues word for word.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. The word 'pee' or 'laugh-pee' must be in the first line. Adults only; any laughing woman shown as herself is a disclosed tester, or labelled 'Dramatization'."
+    },
+    {
+     "v": "V1-c Sneeze, liner, trash, repeat",
+     "hook_direction": "Text over a clean liner wrapper dropped in a bathroom trash can: 'Sneeze. New liner. Trash. Repeat.'",
+     "scenario": "A small pile of clean wrappers in a bathroom trash can, or a cabinet of half-used liner boxes. VO on the daily routine. Middle beat (fact only): 'wash, dry, wear again'. Payoff: plain black briefs on a body under leggings.",
+     "why_different": "The routine/waste lens of the same angle, kept on the sneeze. The waste is the middle beat, not the promise.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. Clean wrappers only. No eco claims, no $ or volume figures."
+    }
+   ],
+   "references": [
+    {
+     "ad_id": "1206351388295667",
+     "brand_page": "Everdries / Everdries",
+     "days_live": 275,
+     "impression_rank": "video#14 (2-6 Meta duplicates, sources disagree; same creative 2156436115112904, 180d)",
+     "what_it_shows": "POV from a toilet looking down at underwear with a pad and white text 'it's 2025! Why are you still using pads?'. At 3.5s it cuts to a hand holding a pad pack on a bed, then on-body b-roll of women ~20s-30s, faces cropped, under a long VO. Copy the cut from problem object to on-body b-roll. Library: https://www.facebook.com/ads/library/?id=1206351388295667",
+     "caution": "Don't copy the stained pad or the 🤢 emoji (shame/gross-out), the dated 'It's 2025', 'Why are YOU still' (fails the you-rule), 'pads weren't designed to be an incontinence solution', '100% leak proof', '20% more absorbent', the mug pour demo at ~69s, the fake 50%-off sale or the 'original vs redesigned' second half."
+    },
+    {
+     "ad_id": "896552676720439",
+     "brand_page": "UltraDries / Life Beyond Leaks",
+     "days_live": 193,
+     "impression_rank": "video#6",
+     "what_it_shows": "A UGC talking-head hook: a fit woman ~40s in a bright kitchen holds up a crumpled pad and waves it away, with a caption box at chest height ('three months ago I ditched incontinence pads...'). At 3s it cuts to factory b-roll under a brand voiceover. Use it for the pad-wave gesture and the closest ICP age. Library: https://www.facebook.com/ads/library/?id=896552676720439",
+     "caution": "A persona page. Don't copy 'incontinence', 'organic', the UTI/rash/chemicals and '$12,000+' claims, the doctor-blame or the factory b-roll. A first-person 'I ditched pads' only from a real, disclosed tester."
+    },
+    {
+     "ad_id": "1730018818434803",
+     "brand_page": "Everdries / Everdries",
+     "days_live": 124,
+     "impression_rank": "not in top 30/40 (still live 124d)",
+     "what_it_shows": "The hands-only version: an overhead flat-lay of a disposable pad next to an adult diaper on a cream surface, a hand tapping and pointing at each while a VO talks over it. The no-talent way to shoot our V1 hook and middle. Library: https://www.facebook.com/ads/library/?id=1730018818434803",
+     "caution": "Swap the diaper for a liner (no diaper as what she wears). Its VO is all banned: 'incontinence', synthetic-material skin irritation, 'prone to infections', '100% leak proof', 'women 60 and over', 'five star from me'. Copy only the hands and pointing."
+    }
+   ]
+  },
+  {
+   "id": "V2",
+   "format": "A-vs-B side-by-side: the just-in-case kit or a liner vs plain black briefs (hands-only flat-lay or on-body under the same leggings)",
+   "angle_id": "A3",
+   "why_this_format": "The A-vs-B mechanic is Tier A: 21 ads, 5 in a page top-10, including Carol Henderson video#1 1629603918494594 (275d, 2-6 duplicates) and Everdries 1577194033627020 (275d, video#11; identical creative is Carol #4). All 5 top-10 ads are old-vs-new, which we can't run. The runnable foil version is weaker: 7 Tier A ads, best ranks #18 (1920176635259424, 250d), #21 and #27, 0 in a top-10, all with a diaper foil. The pad-foil version rests on one unranked ad, Everdries 710413878795607 (180d), with exactly our foil and a point-by-point structure. For a stranger the left side is the thing she already uses, so the comparison explains itself.",
+   "structure": "25-45s. 0-3s: two items side by side, with a top line naming the moment and the leak (e.g. 'The sneeze-pee kit vs one pair of briefs'). 3-25s: point by point, using CJ attributes only: sticky strip vs a soft waistband, bunches vs plain brief, kit in the bag vs one pair, trash vs wash. A finger or red arrow points. 25-35s: the brief on a real body, full figure, under leggings, moving. 35-45s: 'Not a pad, not a diaper. 30 nights to see if they hold.' Once the wear test is logged, name the category once ('leak-resistant black briefs'). CTA: 'Find my match.'",
+   "tof_awareness": "Problem-aware liner users. The moment and 'pee/leak/sneeze' are in the first frame.",
+   "funnel_handoff": "Bullet 'Feels like underwear. Not a pad, not a diaper.' Then quiz Q7 worries 'feel like a diaper' / 'show under leggings' are answered on the result. If V2-b runs, make the under-leggings slide the first carousel slide for utm_content=underwear (or keep autoplay on).",
+   "production_needs": "CJ samples, a typical thin liner, spare undies, a white bed or neutral surface, a phone, a split-screen edit. On-body version: one real woman 30-45 (disclosed), the same leggings in both halves, the same pose and light, unedited takes. The hands-only version needs no talent and ships first.",
+   "compliance_swaps": "The A side is ONLY disposables or her workaround kit (never period underwear, never a diaper as what she wears, never a bulky incontinence pad used to fake a line). No 'stays put' or 'no line' unless the real, unedited footage of the actual sample shows it. No holding or performance comparison. No '27x', 'three-layer', absorbency %, '100%' or pour demo. No 'original vs new'. Captions in brand voice. 'Here's what I look like in...' only from a real disclosed woman; otherwise 'Dramatization'. No AI people. No children. No butt-centred crops: shoot full figure or side-on.",
+   "variations": [
+    {
+     "v": "V2-a The kit vs one pair (hands-only)",
+     "hook_direction": "Top line over a flat-lay: 'The sneeze-pee kit: liners, spare undies, a backup plan. Or... just underwear?'",
+     "scenario": "Overhead POV on a bed. Left: liners, a spare pair of undies, a little pouch. Finger on each (sticky, bulky, more to carry). Slide right to one pair of plain black briefs: stretch, turn, fold. Ends with the brief going into a drawer and the liner wrappers into the trash.",
+     "why_different": "No talent and no on-body shoot, so it ships first. The A side is her whole workaround kit, which keeps it apart from V1's liner rant.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. Must show the real CJ brief (plain black, no lace) next to clean liners and spares, and 'pee' or 'leak' in the first line."
+    },
+    {
+     "v": "V2-b Jumping jacks, same leggings",
+     "hook_direction": "Top line: 'Jumping jacks: the pee-a-little moment.' Split labels: 'In a liner' / 'In plain black briefs'.",
+     "scenario": "The same real woman 30-45, same black leggings, same living room, full figure from the side. Left: she stops to tug at the waistband and adjust (show a liner line only if the real liner shows one). Right: she keeps going. Then a waistband snap close-up of the brief.",
+     "why_different": "Movement proof under leggings, on the 'jump' the landing bullet repeats. The only exercise-flavoured video variation, and it's at home, not a gym or class.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. Real disclosed woman, same leggings both sides, unedited takes. Gated on a wear test that covers a jumping-jack set."
+    },
+    {
+     "v": "V2-c Getting dressed, two ways",
+     "hook_direction": "Top line: 'Getting dressed on a sneeze-pee day, two ways.'",
+     "scenario": "Split screen, hands and torso only, on a real woman in a bedroom. Left: stick a liner in, put two spares in the bag, toss the old wrapper in the trash. Right: pull on plain black briefs, pull leggings over them, done. No 'after' claim on either side.",
+     "why_different": "A routine comparison on the sneeze rather than an outfit or movement check. It shows 'just underwear' without claiming performance.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. The right side must not imply she never changes or that it holds more. The liner side stays clean."
+    }
+   ],
+   "references": [
+    {
+     "ad_id": "1629603918494594",
+     "brand_page": "Everdries / Carol Henderson",
+     "days_live": 275,
+     "impression_rank": "video#1 (2-6 Meta duplicates, sources disagree)",
+     "what_it_shows": "A woman on a grey sofa, face out of frame, snaps the waistband of one brief, then cuts to her pulling up a second brief on her body. Real-home light. The on-body A/B look to copy for V2-b/c. Library: https://www.facebook.com/ads/library/?id=1629603918494594",
+     "caution": "The script is old-vs-new (needs an existing product), so swap the left side for liners/kit. Don't copy the persona page, the headline 'Incontinence is a thing of the past' (cure claim and banned word), the 'I only bought one pair... Big mistake' review hook, the 'In stock and on sale' overlay, the 'usually $24.95 each' anchor or the mug pour."
+    },
+    {
+     "ad_id": "1577194033627020",
+     "brand_page": "Everdries / Everdries",
+     "days_live": 275,
+     "impression_rank": "video#11 (identical creative 4204895749654600 is Carol video#4)",
+     "what_it_shows": "Hands-only POV over a white bed: a finger points along one brief, then slides to a second brief. The finger-pointing mechanic from a ranked ad; put the liner kit on the left. Library: https://www.facebook.com/ads/library/?id=1577194033627020",
+     "caution": "Drop the 'original vs new design 10x better' line and any absorbency %. 'I loved my...' first person only from a real tester."
+    },
+    {
+     "ad_id": "710413878795607",
+     "brand_page": "Everdries / Everdries",
+     "days_live": 180,
+     "impression_rank": "not in top 30/40 (still live 180d)",
+     "what_it_shows": "Our exact foil: on a white bed, hands alternate a wrapped pad and a purple brief, with a point-by-point caption on each cut ('my mom uses these' / 'this is what I use': bulky, sticks to underwear, outline under clothes vs regular panties). It ends on on-body clips. Library: https://www.facebook.com/ads/library/?id=710413878795607",
+     "caution": "Don't copy the hook (POV stained pad + 🤢 + 'WHAT WOMEN OVER 60 USE FOR INCONTINENCE'), 'my mom' 60+ framing, rash/'traps moisture' claims, 'three layer system', '5x faster', '27 times their weight', '12 hours', '100%', '$300 yearly' or the 50%-off sale."
+    }
+   ]
+  },
+  {
+   "id": "V3",
+   "format": "Silent on-body clip, caption-led, with one moment line on screen",
+   "angle_id": "A1",
+   "why_this_format": "Built from two proven parts; the combination is untested. Part 1, the silent on-body clip (Tier A): Everdries 4033313263646750 (275d, video#9), the only top-10 ad on Everdries' main page not tagged sale, upgrade or launch. Also 861980366864284 (203d, #12), Carol 1753945612644056 (246d, #15) and 2012952326325019 (230d, #16), plus the silent pull-leggings-over-it clip 2028897597834338 (133d, 3 duplicates). These ran with no overlay and product-aware captions. Part 2, the one-line moment overlay (Tier B, no product shown): Revival 1688978975632845 (139d) and Your Postpartum PT 1530319598830519 (113d, sneeze re-enactment, has a VO). It's the cheapest format to make.",
+   "structure": "8-20s loop, no VO (silent or trending audio). 0-2s: one moment line with the leak named, in brand type. For V3-a it sits on a plain brand-colour frame, so it isn't attributed to the woman. 2-12s: the brief on a real woman, full figure or side-on: waistband stretch, leggings pulled up over it, then one movement in leggings. End card 2-3s: 'Not a pad, not a diaper.' or 'Common? Yes. Normal? No.' (only once the L1 source is live). Caption line 1 repeats the moment; the body says not a pad, plain black briefs, 30 nights to see if they hold, 'Find my match'.",
+   "tof_awareness": "Problem-aware, moment-first: the line alone lets her recognise herself.",
+   "funnel_handoff": "H1 'Stop! I'll pee myself!' (word for word, once the hero copy is frozen) + H2 'Picture the next big laugh, and not crossing your legs for it.' + bullet '...the sneeze, the laugh and the jump'. Then quiz Q1 + the WHY card.",
+   "production_needs": "CJ samples, one real woman 30-45 (face optional, disclosed), black leggings, natural light at home, a phone on a tripod, one text overlay in brand fonts. About an hour for all 3. 'Dramatization' on any re-enacted moment unless she's a disclosed tester it's true for.",
+   "compliance_swaps": "Overlay and caption in brand voice, third person or a bare moment line, never 'you leak / still leaking when you sneeze?' and no 'us' unless she's a real tester. No first-person review captions. No '#1 for women 60+', 'incontinence', 'dry' or compression/shapewear look. Real CJ garment only. No children. No butt-centred crops: full figure or side-on, leggings on for any movement.",
+   "variations": [
+    {
+     "v": "V3-a The laugh",
+     "hook_direction": "First frame: the exact landing H1 'Stop! I'll pee myself!' in cream Fraunces on Claret, shown as a line everyone has said, not as her confession.",
+     "scenario": "Cut to a real woman laughing on the sofa (face optional), then a waistband stretch and leggings pulled up, then her laughing again, legs uncrossed. End card 'Not a pad, not a diaper.'",
+     "why_different": "The strongest scent match: the ad's first line IS the landing's first line.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. The text must match the frozen H1 exactly. 'Dramatization' if the laugh is acted."
+    },
+    {
+     "v": "V3-b The sneeze",
+     "hook_direction": "On-screen line: 'Achoo. Legs crossed.' (bare moment, no 'you').",
+     "scenario": "She mimes a big sneeze in a kitchen holding shopping bags (no child), crosses her legs, then cut to the brief: stretch, turn, leggings on. End card 'For the sneeze, the laugh and the jump.' (after the logged wear test).",
+     "why_different": "The everyday non-exercise moment (#34, #119). Staging after Your Postpartum PT 1530319598830519 (113d), minus its second-person overlay.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. Never 'Still leaking when you sneeze?'. 'Dramatization' on the sneeze."
+    },
+    {
+     "v": "V3-c The jump",
+     "hook_direction": "On-screen line: 'Jumping jacks? Legs crossed.' (bare moment).",
+     "scenario": "Phone propped on the living-room floor. She looks at the camera when the home-workout video says 'jumping jacks', then cut to the brief with leggings pulled over it, then she does the jumps in leggings. End card 'Not a pad, not a diaper.'",
+     "why_different": "The jump the landing repeats, at home rather than in a gym or class. The meme mechanic is from Revival (139d).",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. No 'us' unless a real tester. Gated on the wear test covering a jumping-jack set."
+    }
+   ],
+   "references": [
+    {
+     "ad_id": "4033313263646750",
+     "brand_page": "Everdries / Everdries",
+     "days_live": 275,
+     "impression_rank": "video#9",
+     "what_it_shows": "A silent torso crop, face out of frame: a woman stretches and snaps the high waistband of a pale-blue brief against a plain bedroom wall. No audio, no text. Copy the silent on-body motion. Library: https://www.facebook.com/ads/library/?id=4033313263646750",
+     "caution": "Copy the motion only, not the garment or the pinch-and-smooth shapewear look. Don't copy the headline '#1 Leakproof Underwear For Women 60+' or the first-person customer caption (fake-review risk). Add our moment line; theirs has none."
+    },
+    {
+     "ad_id": "1688978975632845",
+     "brand_page": "Revival Physical Therapy & Wellness (Tier B clinic)",
+     "days_live": 139,
+     "impression_rank": "not ranked (Tier B)",
+     "what_it_shows": "Phone on the floor of a CrossFit-style gym: women 20s-30s walk past, then two lean in and stare at the camera under the overlay 'us looking when someone says \"leaking after pregnancy is normal\"'. About 10s, meme style, no VO. The one-line overlay mechanic, with the leak named. Library: https://www.facebook.com/ads/library/?id=1688978975632845",
+     "caution": "A clinic selling treatment: we say 'manage', never 'fix'. Their 'us' is real staff; ours is a bare moment line unless a real tester says it. Home setting, not a gym. Real people only with consent."
+    },
+    {
+     "ad_id": "2028897597834338",
+     "brand_page": "Everdries / Everdries",
+     "days_live": 133,
+     "impression_rank": "not in top 30/40 (3 Meta duplicates)",
+     "what_it_shows": "Silent, ~4s: a woman in a white crop top and a nude super-high-waist brief pulls black bike shorts up over it in a living room. The exact 'leggings pulled up over it' beat. Library: https://www.facebook.com/ads/library/?id=2028897597834338",
+     "caution": "It's a close rear crop centred on the butt, a Meta adult-content risk: shoot ours side-on or full figure. Not our cut or colour (show our plain black brief). Its caption is the fake 'almost threw them away... not a single leak' review: copy none of it."
+    }
+   ]
+  }
+ ],
+ "static_decision": "Two static formats, not three. S1, the plain pad photo with a long brand-voice story caption, is the strongest cold static in the set: 25 Tier A, 13 in a page top-10, and 8 of the pads angle's 15 top-10 slots. It carries A2, where that proof actually sits. S4, the text card, carries A1. Its listicle version is Tier A (Carol image#1, 249d). Its one-line cards are a labelled Tier B-only test (Pine Peak 97d; Origin 312d, but inside a DCO, so the card can't be credited alone). Both formats name the moment before any product, so they need zero brand trust, and both can be made today without samples or talent. S2, the plain on-body photo, was dropped for round 1. With no overlay it reads as a generic underwear ad to a stranger, and all 14 proven versions ran product-aware captions ('redesigned', 'NEW RELEASE'): 6 top-10 slots from only 4 unique photos. Hip and butt crops risk Meta's adult-content rule, and we have no real-woman photo yet (the landing carousel is AI). Plain on-body photos go to retargeting. Six strong statics beat nine with three weak ones.",
+ "static_formats": [
+  {
+   "id": "S1",
+   "format": "Long-form native story: un-styled phone photo of clean liners/pads + long brand-voice caption",
+   "angle_id": "A2",
+   "why_this_format": "25 Tier A proven (of 137 classified), 13 in a page top-10. 14 of its 17 problem/solution-aware ads are pads angles (11 'Pads are wrong', 3 'Replace pads'). UltraDries Life Beyond Leaks: image#1 1271768424869385 (209d), image#2 3241631309352492 (209d), image#3 1242067338128771 (202d), plus #6, #9 and #10. Carol image#5 2037615280433020 (180d) and image#6 2041064119783101 (152d). Mom-avatar version: Everdries 883503151225665 (245d, image#38, 'Postpartum / moms'), story structure only. Built for cold traffic: the image is a liner, not a brand.",
+   "structure": "Image: an ugly, un-styled phone photo of clean liners or pads (handbag, bathroom tiles, cabinet). No person, no overlay, or only hand-drawn red circles. Caption 200-350 words in brand voice or third person. The first ~125 characters name the moment AND the leak (shown before 'See more'). Then the liner routine (CJ enemy line), then 'Not a pad, not a diaper': plain black briefs for the sneeze, the laugh and the jump. Optional beat 'Common? Yes. Normal? No.' only once the L1 source is live. Then 30 nights to see if they hold, then 'Find my match'. Headline: a curiosity line. No stats in round 1.",
+   "tof_awareness": "Problem-aware liner users who have normalised it.",
+   "funnel_handoff": "Bullet 'Feels like underwear. Not a pad, not a diaper.' Then quiz Q3 'Pads or liners' gives the REACT card 'Pads bunch and shift the second you move.'",
+   "production_needs": "One phone photo per variation (can be shot today, no samples or talent), plus long copy written in Step 4.",
+   "compliance_swaps": "Never a persona page, invented age or name, or 'I' voice unless a real disclosed tester. No UTI/rash/chemicals/'what's in your pad', no doctor-blame, no 'incontinence'. No second-person condition lines; no quiz-card lines like 'you don't have to just live with it' or 'It was never you' (use 'nobody has to just live with it'). No stats in round 1. If one is ever used, only NUMBER_SHEET §11 wording with its source, 'after having a baby' framing only, never 'years after kids'. No eco claims. No stained or used pads. 'Trash', not 'bin'.",
+   "variations": [
+    {
+     "v": "S1-a The handbag",
+     "hook_direction": "Caption opens: 'The sneeze in the checkout line. The liner in the handbag \"just in case\". A lot of women pee a little on a sneeze and just carry on.'",
+     "scenario": "Clean liners spilling out of an open handbag on a kitchen counter. The story of the everyday liner routine (bunches, shifts, feels like a diaper, in the trash every day), then plain black briefs for the sneeze, then the quiz.",
+     "why_different": "The everyday sneeze routine, closest to UltraDries image#1's plain pad photo.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. Phone-quality, un-styled, no person."
+    },
+    {
+     "v": "S1-b The bathroom floor",
+     "hook_direction": "Caption opens: 'The big laugh. Legs crossed. Then the dash to swap the liner.'",
+     "scenario": "Two clean liners on bathroom tiles. The laugh moment, then the swap routine, then 'everyone says it's just part of life' (with 'Common? Yes. Normal? No.' only once L1 is live), then plain black briefs.",
+     "why_different": "The laugh moment (the hero H1) and the H2's 'crossing your legs', told as a story.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. Optional red hand-drawn circle on the liners (UltraDries image#3 look)."
+    },
+    {
+     "v": "S1-c The cabinet",
+     "hook_direction": "Caption opens: 'Sneeze, new liner, repeat: three half-used boxes under the sink.'",
+     "scenario": "An open bathroom cabinet with several opened liner boxes. The 'cabinet full of pads' beat in brand voice, then the daily trash routine (wash-and-wear-again as a fact, no eco), then plain black briefs.",
+     "why_different": "The clutter/routine lens (Carol image#6 cabinet beat), opened on the sneeze.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. Clean, unopened-looking boxes only."
+    }
+   ],
+   "references": [
+    {
+     "ad_id": "1271768424869385",
+     "brand_page": "UltraDries / Life Beyond Leaks",
+     "days_live": 209,
+     "impression_rank": "image#1",
+     "what_it_shows": "An un-styled top-down phone photo of two unused pads on brown bathroom tiles with a sneaker toe in the corner. No text. A long caption under it. The look to copy. Library: https://www.facebook.com/ads/library/?id=1271768424869385",
+     "caution": "A 61-year-old persona voice built on UTI and skin-damage claims, doctor-blame and 'incontinence': copy none of it. Copy the photo look and the long-caption length only."
+    },
+    {
+     "ad_id": "1242067338128771",
+     "brand_page": "UltraDries / Life Beyond Leaks",
+     "days_live": 202,
+     "impression_rank": "image#3",
+     "what_it_shows": "Two pads side by side on stained tile with hand-drawn red circles and arrows. No other text. Library: https://www.facebook.com/ads/library/?id=1242067338128771",
+     "caution": "Persona voice plus a 'what's in your pad' health insinuation. Copy only the red-circle phone-photo look, on clean tiles."
+    },
+    {
+     "ad_id": "2041064119783101",
+     "brand_page": "Everdries / Carol Henderson",
+     "days_live": 152,
+     "impression_rank": "image#6",
+     "what_it_shows": "Hands hold a pad up against a bright lamp so the core shows through. The caption tells the 'cabinet full of half-empty pad boxes' story (shifts, bulk, shows through jeans), which is the A2 story in a top-10 static. Library: https://www.facebook.com/ads/library/?id=2041064119783101",
+     "caution": "A 63-year-old persona page. Don't copy the rash/adhesive skin claims, the persona 'I' voice or 'incontinence'. The cabinet beat and the comfort points are reusable in brand voice."
+    }
+   ]
+  },
+  {
+   "id": "S4",
+   "format": "Text-led graphic in brand colours: a moment-titled listicle (Tier A mechanic) or one bold moment line (Tier B test)",
+   "angle_id": "A1",
+   "why_this_format": "Tier A: Carol Henderson 887125520881386 is image#1 on its page at 249d, a 5-item listicle whose title names the condition, which is why it works cold. The one-line card is Tier B only: Pine Peak 869271709162736 (97d, 'Hoping nobody tells a really funny joke?') and Origin 870082525676896 (312d). The Origin ad is a DCO: one line, 'Dry undies, even after you sneeze', in 4 crops of the same card, running alongside a testimonial video, so its 312d can't be credited to the card. It names the moment before any product, so it needs zero brand trust.",
+   "structure": "1:1 and 4:5 cards in brand colours (Plum Ink / Claret / Warm Cream, Fraunces + Hanken Grotesk), small 'leapproof' wordmark. Listicle: a title naming the moment and the leak + 5 numbered items, with the product as item 5. One-liner: a big moment line + a small second line. Short caption: the moment, not a pad, plain black briefs, 30 nights to see if they hold, 'Find my match'. Optional 6-8s text-fade video version.",
+   "tof_awareness": "Problem-aware, moment-first.",
+   "funnel_handoff": "H1 'Stop! I'll pee myself! / Common? Yes. Normal? No.' (S4-a replicates it once the hero copy is frozen) + H2 '...not crossing your legs for it' + bullet '...the sneeze, the laugh and the jump'.",
+   "production_needs": "Canva or Figma in brand colours and fonts. No product photo or talent needed.",
+   "compliance_swaps": "No 'incontinence/protection/discreet'. No 'Dry undies' (absolute claim). No '...after you sneeze' second person; use 'after the sneeze'. Listicle items are things women do, not health or pelvic-floor advice (Carol's tip 2 says to avoid jumping jacks and running, the opposite of our positioning). No crotch-hands stock photo. 'For the sneeze...' only after the logged wear test.",
+   "variations": [
+    {
+     "v": "S4-a The H1 card (Tier B test)",
+     "hook_direction": "Card text: 'Stop! I'll pee myself!' large, then 'Common? Yes. Normal? No.' smaller.",
+     "scenario": "Claret card, cream Fraunces type, the exact frozen landing H1. Caption: the big-laugh moment, then plain black briefs for it, then the quiz.",
+     "why_different": "A pixel-level scent match: the ad and the landing hero read the same.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. Text must match the frozen H1 exactly. Run it only once the L1 source for line 2 is live."
+    },
+    {
+     "v": "S4-b The sneeze card (Tier B test)",
+     "hook_direction": "Card text: 'Achoo. Legs crossed.' with a second line 'For the sneeze, the laugh and the jump.'",
+     "scenario": "Warm Cream card, Plum Ink type. Caption: the sneeze moment, then not a pad, not a diaper, then the quiz.",
+     "why_different": "The sneeze with dry humour (Pine Peak joke-card energy), rather than the laugh.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board."
+    },
+    {
+     "v": "S4-c The workaround list (Tier A mechanic)",
+     "hook_direction": "Card title: '5 things women do so a sneeze doesn't end in a little pee'. Items: 1 Cross the legs. 2 Pee before leaving. 3 A liner 'just in case'. 4 Spare undies in the bag. 5 Plain black briefs for the sneeze, the laugh and the jump.",
+     "scenario": "The Carol listicle mechanic, but the list is her real workarounds, so she recognises herself item by item. The product is item 5, with no health tips. Caption hands off to the quiz.",
+     "why_different": "The only Tier A-backed static mechanic in S4. A list she nods along to, not a single line.",
+     "visual_hook": "TBD - pick from the Miro visual-hook board. Title must name the leak. No medical or pelvic-floor tips."
+    }
+   ],
+   "references": [
+    {
+     "ad_id": "887125520881386",
+     "brand_page": "Everdries / Carol Henderson",
+     "days_live": 249,
+     "impression_rank": "image#1",
+     "what_it_shows": "A text-only graphic on a light-blue gradient: a yellow-highlighted title and 5 numbered tips with bold leads, one of which is the product. The listicle look to copy. Library: https://www.facebook.com/ads/library/?id=887125520881386",
+     "caution": "Its title 'Incontinence Tips Exercise Edition' and the 'protection' and 'discreet' inside are banned. Its tips are health advice (empty your bladder first; tip 2 says to avoid jumping jacks and running, against our positioning). The caption is the fake 'almost threw them away' review."
+    },
+    {
+     "ad_id": "870082525676896",
+     "brand_page": "Origin (Tier B pelvic PT)",
+     "days_live": 312,
+     "impression_rank": "not ranked (Tier B; DCO with a video, card not isolable)",
+     "what_it_shows": "A coral card with big cream type 'Dry undies, even after you sneeze', a wordmark, a sunburst and soft waves. The same line runs in 4 crops inside a dynamic ad that also serves a testimonial video. The bold one-line brand-colour card to copy. Library: https://www.facebook.com/ads/library/?id=870082525676896",
+     "caution": "'...after you sneeze' is second person, and 'Dry undies' is an absolute leak promise. It's a treatment brand ('Covered by insurance', 'in two months I was healed'). Copy the layout only."
+    },
+    {
+     "ad_id": "869271709162736",
+     "brand_page": "Pine Peak Therapy (Tier B clinic)",
+     "days_live": 97,
+     "impression_rank": "not ranked (Tier B)",
+     "what_it_shows": "An 8s card: olive text fades in on white, 'Hoping nobody tells a really funny joke?'. The humour line on the laugh moment. Library: https://www.facebook.com/ads/library/?id=869271709162736",
+     "caution": "Skip the crotch-hands stock photo that follows at ~2s (shame cue) and the call-to-schedule. Its copy opens 'Bladder leaks when you laugh...': don't lift 'bladder leaks' wording. Keep it text only."
+    }
+   ]
+  }
+ ],
+ "formats_rejected": [
+  {
+   "format": "S2 native on-body photo, no overlay (moved to retargeting)",
+   "why": "Not TOF for a brand nobody knows: with no overlay it reads as a generic underwear ad, and the problem lives only in a caption cut off on mobile. All 14 proven versions ran product-aware captions; 6 top-10 slots came from only 4 unique photos. Hip and butt crops risk Meta's adult-content rule. We have no real-woman photo yet (the carousel is AI). Use it in retargeting once real tester photos exist."
+  },
+  {
+   "format": "V4 AI talking-object skit ('I'm a bulky pad...')",
+   "why": "7 Tier A skits at 112-208d, but only 1 talking-pad creative (1700150534480418 = 1486008069932397); the rest are AI older women or a Pixar droplet. Only 1 in a page top-30, and it duplicates V1's angle. AI characters read as fake for a restrained brand. Second-round pads test at most."
+  },
+  {
+   "format": "V5 'Just launched' news VO",
+   "why": "22 launch-tagged rows, mostly 'NEW RELEASE' or founder 'Jess' posts aimed at existing customers. 'New' means nothing to a stranger, and we have no old design."
+  },
+  {
+   "format": "UGC talking-head testimonial",
+   "why": "12 Tier A, 11 of them product-aware (8 'Upgraded' + 3 launch). It needs real customers, and we have 0. Faking it breaks FTC 16 CFR 465/255."
+  },
+  {
+   "format": "Expert / clinician explainer",
+   "why": "Every Tier A example is a persona or actor. Fake doctors and nurses are banned."
+  },
+  {
+   "format": "Old-vs-new A-vs-B",
+   "why": "Needs an original product we don't have. V2 uses only the kit/liner-vs-briefs version."
+  },
+  {
+   "format": "Sale / promo / 'Do NOT buy X' videos and statics",
+   "why": "Most-aware, Everdries' top spend type, but bottom-of-funnel for us. Retargeting to the offer page only."
+  },
+  {
+   "format": "S3 side-by-side comparison photo (static)",
+   "why": "Only 3 Tier A proven, and the best rests on a customer before/after. V2 covers the mechanic."
+  },
+  {
+   "format": "S5 founder letter + macro photo",
+   "why": "Product-aware as proven (line extensions to existing customers). Only usable if Nikita signs a real origin story; untested cold."
+  }
+ ],
+ "flags": [
+  "BLOCKER: take the 3 fabricated named, rated reviews (Jess M. 4.6, Sarah Williams 4.8, Jessica Miller 4.9) off the landing before any ad runs (FTC 16 CFR 465 + Meta deceptive practices). Replace them with the Straight Answer cards.",
+  "BLOCKER: no Meta pixel on any funnel page. Before adding it, strip the health answers from the quiz-to-offer URLs (p, o, k, r params), or the PageView sends health data to Meta.",
+  "BLOCKER: the guarantee has no terms (from delivery, one claim, #leak-test block), and there are no Privacy/Terms/Refunds/Shipping/Contact links, no 'Not a treatment' line and no AI-image disclosure. Build L0-L3 before traffic, including the L1 Ridgeview strip; without it, no ad uses 'Common? Yes. Normal? No.'",
+  "BLOCKER: log the founder wear test of the actual CJ sample, covering a sneeze, a laugh and a jumping-jack set, before any ad says 'for the sneeze, the laugh and the jump', 'leak-resistant' or 'light leaks', or runs V2-b/V3-c. Until then, 'serves light leaks' is a hypothesis. Trampoline and run hooks need the test to cover repeated jumps and a run.",
+  "BLOCKER (sizing): measure a real pair, relaxed and at comfortable stretch, and lock one size range across NUMBER_SHEET, quiz and PDP. The v4 chart says S-4XL to US 20, but it's provisional, and the §13 risk note puts the ceiling near US 12. If it tops out around US 12, follow NUMBER_SHEET §13's fallback (smaller/athlete segment) or source a size-inclusive SKU before spending on moms.",
+  "Freeze the hero copy (after L0-L3 and the HERO_PASTE_LIST update), then lock every overlay, end card and S4 card to it word for word. Change the landing bullet from 'Built for the sneeze...' to 'For the sneeze, the laugh and the jump' so ads and page match without 'built/designed/made for' (the SKU is a menstrual panty).",
+  "Market wording: the live US offer page says 'go in the trash every day'; NUMBER_SHEET §11's enemy sentence says 'bin'. Ads use 'trash'. Update the sheet to the US wording.",
+  "Confirm the real garment before shooting. NUMBER_SHEET v4 says regular black brief, no lace, 95% regenerated fiber / 5% spandex. Every ad must show and describe that sample. No 'no line' or 'stays put' unless real, unedited footage shows it.",
+  "Round-1 scope is laugh, sneeze, and jumping jacks at home only, because the landing's first screen continues nothing else. Trampoline/kids wait for HERO_PASTE_LIST Card 1. The run is left out on purpose: no run line on the landing, and runs mean repeated leaks the wear test hasn't covered. Gym/class/box jumps wait for /match-t.",
+  "Talent and voice: any woman shown having the moment is either a disclosed Founding 30 tester who really leaks and has worn the pair through that moment ('Received a free set to test'), or the clip is labelled 'Dramatization' and the copy stays third person or brand voice. No 'I/we/us' lines from narrators or actors. No AI people. No children in any round-1 creative. On-body shots full figure, side-on or under leggings, with no butt- or crotch-centred crops.",
+  "Landing carry-through for A3: the under-leggings image is carousel slide 3 and AI-generated. For utm_content=underwear, make it slide 1 (or keep autoplay on), add one short under-leggings line near the hero, and replace it with a real photo of the sample once one exists.",
+  "?a= does nothing: one hero for every ad. Track angles with utm_content (moment / pads / underwear). Don't build or advertise postpartum, athlete or perimenopause heroes until /match-[code] pages exist.",
+  "Funnel runs on leapproof.myfunnelish.com; try.leapproof.com 404s. Connect the branded domain (NUMBER_SHEET §12b), fix the 'Landing Page' tab title, add OG tags. Move the mobile 'Find my match' up and add the sticky bar.",
+  "Proof honesty: all counts are 'of 137 classified Tier A ads' (56 Tier A rows are untagged), so they're lower bounds. The formats are Tier A-proven. The moment lead (A1), the one-line S4 cards and the V3 overlay+clip combination are Tier B or untested. The pad-foil V2 rests on one unranked ad. Best evidence available, not revenue proof.",
+  "Overlap: V1 (A2) and V2 (A3) both use disposables as the foil and share one landing bullet. V2's A side is the workaround kit to keep them apart. Read V1 vs V2 partly as a format test on the same enemy.",
+  "Disagreement with a critic: kept 2041064119783101 as the third S1 reference instead of 883503151225665. S1 now carries the pads angle, and 2041064119783101 is a pad photo with the cabinet-of-pads story. 883503151225665's image is a woman crying in a toilet stall (a shame cue) that would show Nikita the wrong look. It's cited in why_this_format for story structure.",
+  "Market and currency conflict: CLAUDE.md and OFFER.md say AUD 3/$69, 5/$89, 10/$159; NUMBER_SHEET says USD US-first 3/$45, 5/$59, 10/$99. NUMBER_SHEET wins. TOF ads carry no price either way.",
+  "Quiz length: 13 questions live vs 12 in NUMBER_SHEET §12. Ads say 'Find my match', not '2-minute quiz', until it's timed.",
+  "No stats in round-1 ads. The 1-in-3 figure covers 6 weeks to 1 year after birth, and the quiz NORMAL card already carries it with its source."
+ ],
+ "next_step": "Nikita reviews the avatar, the 3 angles and the 5 formats (3 video x 3 = 9 videos, 2 static x 3 = 6 statics) and okays or swaps them. Then, for each of the 15 variations, he picks the visual hook from his Miro visual-hook board, keeping each must-show constraint. Step 4 then writes the hook lines, VO scripts, overlays and captions against the you-rule, the CJ claims column and the frozen hero copy. In parallel: clear the 5 BLOCKER flags (fake reviews off, pixel + URL health data, guarantee terms + L1 source + footer, logged wear test, measured size range), freeze the hero copy, and cast a disclosed Founding 30 tester for the on-body shots. Hands-only V2-a and the S1/S4 statics can be made first, since they need no samples or talent for the hook."
+}

@@ -1,0 +1,801 @@
+{
+ "summary": "FINAL CREATIVE PLAN, round 1, finalized after the second critic pass (media buyer, compliance, scent/evidence). The campaign is cold, top of funnel, for a brand nobody knows. Avatar, awareness, angles and funnel are unchanged: the Pad-and-Liner Mom, problem-aware, moment-first. Angles are A1 the moment / A2 not a pad, not a diaper / A3 it's just underwear. Every ad hands off to the one live hero ('Stop! I'll pee myself! / Common? Yes. Normal? No. / Find your match.') with a=m and utm_content=moment/pads/underwear.\n\nVIDEOS (9, all made with AI):\n- V1 (A2), liner in hand plus brand VO over b-roll. Ranked proof: Everdries 1206351388295667 at 275d (video#14). That is the only proof for the impersonal-narrator opener; UltraDries 896552676720439 and 1730018818434803 prove the visuals only.\n- V2 (A3), AI 3D talking duet: a Pixar-style panty liner and a plain black brief. The best-proven AI format in the category: 6 talking-object creatives live 104-208d, ranked #4/#11/#11. One of them (1691171645641479, 180d) is our exact cast.\n- V3 (A1), silent on-body clip with one moment line. It's the only format whose first frame is the landing H1, word for word.\n\nSTATICS (6):\n- S1 (A2), native liner phone photo with a long story caption (UltraDries image#1/#3 at 202-209d, Carol image#6 at 152d).\n- S4 (A1), text-led cards (Carol image#1 listicle at 249d; the one-line cards are a Tier B test).\n\nVISUAL HOOKS (Miro board, all re-verified against the export). Each format tests 3 different hooks:\n- V1: 75 handbag POV / 42 freeze-frame / 33 camera wipe (NEW, replaces the 34 trash match cut)\n- V2: 117 opened three ways: +70 lean-in / +38 in media res / +04 A vs B\n- V3: 72+33 stop-hand wipe / 62 reenactment / 52+70 move-in-frame stare (NEW, staged like the Revival twin; 12 is the backup)\n- S1: 135 / 06 / 55 holding prop (NEW, replaces 51)\n- S4: 09 / 12 / 22\n\nTOP HOOKS (score 9):\n- V3-a: a palm thrown at the lens wipes into 'Stop! I'll pee myself!' at 0.3s.\n- V2-a: the liner's confession, now naming the leak in its first words: 'I'm the liner she wears for the sneeze-pee. And I need to be honest.'\n\nScore 8-8.5: V1-b (wide dinner two-shot with the H1 burned in at 0.1s, then a freeze), V2-b (now laugh-led: off-screen 'Stop! I'll pee myself!' and the liner leaps out of the clutch), V1-a (post-sneeze grab with the proven contrarian line on screen from 0.5s), V1-c (liner wiped across the lens into the brief), V2-c, V3-b, V3-c, S1-b, S4-a, S4-b.\n\nLowest: S1-a, S1-c and S4-c at 7.5. There's nothing under 7.5 now.\n\nThis round's hard fixes:\n- No AI woman repeats the trigger after the brief appears, so there's no acted performance demo.\n- 'Dramatization' moves to the upper-left safe zone.\n- Licensed audio only.\n- A buildable voice pipeline for the talking characters.\n- Product frames come from the sample photos only (NUMBER_SHEET §13 still lists the old lace product).\n- The Advanced Health line is re-cited honestly as a Tier B caption line.\n\nGates before ANY spend:\n1. Fake reviews off the landing.\n2. Pixel with health params stripped.\n3. Guarantee terms, L0-L3 and the AI line live.\n4. Founder wear test logged for a sneeze AND a big laugh. This gates every ad; the jump gates V3-c only.\n5. Size range measured.\n6. Hero copy frozen.\n7. 5 reference photos of the real sample taken.",
+ "format_change_log": "ROUND 1 (carried from the previous finalize): V2 was swapped from the A-vs-B split to the AI 3D talking duet. The confession went into V2-a and the villain tone became a hook alternate. V1 and V3 were rebuilt for AI production. Every 'TBD visual hook' got a Miro pick.\n\nTHIS ROUND (critic pass 2). Every blocker and major issue is applied, and the minors are applied unless a flag says otherwise.\n\n1) Hook swaps, all re-verified in miro_hooks_compact.json:\n- V1-c: #34 Match Cut becomes #33 Camera Wipe (Mireva 301d, Hoooyi 174d). Frame 1 is now the clean liner held at the lens with 'The sneeze-pee plan: / a sticker.', wiped into the plain black brief. The trash-can match cut drops to the 3-12s middle beat, built as one locked plate plus composited pastel wrappers. Backup: #61 Object Into Lens (Paw Guardian 172d).\n- S1-c: #51 Many of Same becomes #55 Holding Prop (Bak'd 112d). It now copies the actual image mechanic of Carol image#6 2041064119783101 (a hand holding the pad up) at a dinner table tied to the H1 laugh.\n- V3-c: #12 Meme Caption Frame becomes #52 Move In Frame + #70 (Jazzupco 319d), staged like its real twin Revival 1688978975632845: phone low, plain on-video caption, she leans in from the frame edge and stares. #12 is now the backup.\n- V3-a: credited as #72 + #33 (the palm wipe is a camera wipe).\n\n2) First-3s rewrites (media buyer):\n- V1-a: the bag is already open and lit at frame 0. A muffled ACHOO comes first, so it's the post-sneeze spare-liner grab (fixes the 'grab a liner before a sneeze' logic both critics flagged). 'It's 2026. / Why is a liner still the plan for sneeze-pee?' is burned in from 0.5s, and the VO says it from 0.2s.\n- V1-b: opens wide on a dinner two-shot with the knees in frame. No 3-cut insert. 'Stop! I'll pee myself!' is burned in at 0.1s, so it's no longer framed like V3-a.\n- V2-a: first caption chunk is 'I'm the liner / she wears / for the sneeze-pee.' Her soft-focus mirror reflection gives 'her' a referent.\n- V2-b: now leads with the LAUGH (the exact H1 as an off-screen voice plus a pill). The sneeze café version moves to the 60s cut and a hook alternate, so V2 covers laugh / sneeze / face-off and no longer copies V1-a.\n- V2-c: frame 1 is only the title plus the two characters. The retort is 'I'm not replacing you. She is.' The challenge backstory and neutral label pills move to 3-6s.\n- V3-a: text at 0.3s.\n- V3-b: line shown with the freeze at 0.8s.\n- S1-a: decluttered; the liner is about 20% of the frame; reveal after 'See more'.\n- S1-b: the 'normal' turn now sits inside the first 125 characters.\n- S4-b: 3/4 side-on with the knees centred.\n\n3) Compliance:\n- New rule: after the brief appears, the AI woman never repeats the trigger. V1-b, V3-a, V3-b and V3-c payoffs are rewritten; there are no on-screen jumps, and V1 movement is 'walk, bend, reach'.\n- 'Dramatization' moves to the upper-left, about 16% down, inside the 4:5 centre crop and above the bottom 35%.\n- Licensed audio only (Meta Sound Collection or Epidemic/Artlist). The V3-c trainer line is made in ElevenLabs, with no real program on screen.\n- V2 voice pipeline: Path A is Veo 3 lines plus ElevenLabs Voice Changer. Path B is ElevenLabs first plus a cartoon lip-sync model. Test one 8s line both ways.\n- Product line: copy rise, waistband, leg line and sheen from the photos, not from text. Generation is held until the 5 reference photos exist. Trademark lookalikes are rejected.\n- Performance edges cut:\n  - V2-b 60s: 'Relax. She's wearing underwear.'\n  - V2-c: form-only contrasts, no checks.\n  - 'Wash. Hang. Wear again.' replaces 'wash, dry'.\n- Shame lines fixed: the villain alternate and the S1-b alternate.\n- S1-b liners are now wrapped or half-peeled on the vanity, not lying on the floor.\n- S4-c says 'HACKS', not 'tips'.\n- On-body prompt plus fallback crop. The crossed-knee pose is changed to one that renders reliably.\n- AI disclosure is a check plus C2PA metadata plus a caption line.\n- Ad names are codes only.\n\n4) Evidence and scent:\n- Advanced Health 1015538471405847 is re-cited everywhere as 'Tier B clinic, 112d, caption opener only, untested on screen'.\n- 'pixel for pixel' is removed. S4-a and V3 moment lines now use the hero's bold upright sans, with the Claret block kept as the colour stop.\n- V1 refs 896552676720439 and 1730018818434803 are corrected (first-person UGC VO; they prove visuals only).\n- The V2-a proof wording is narrowed ('I need to be honest' is BFS only).\n- The S1-c 'sick and tired' structure is re-cited to Everdries 1414498667185183.\n- 4033313263646750 gets a crotch-crop warning.\n- Facebook Ad Library links are removed from miro_example_links, so those arrays hold board links only. In-category twins are named inside why_for_this_ad.\n- The #117 Drive link is added in V2-c. The #22 and #13 proof wording is fixed.\n\n5) Funnel and flags:\n- The wear test is a campaign-wide gate (sneeze + laugh), with a hold-and-re-plan rule if it fails. Copy that said 'until the wear test' now reads 'if the test logs sneeze and laugh but not the jump'.\n- The under-leggings slide becomes slide 1 for ALL traffic.\n- New landing blocker: eyebrow, bullet, quiz-result line, and carousel slide 2 (rear crop).",
+ "video_formats": [
+  {
+   "id": "V1",
+   "format": "Problem object + brand voiceover over b-roll. A clean liner is the hook, the plain black brief is the payoff, and an impersonal brand narrator carries the VO.",
+   "angle_id": "A2",
+   "why_this_format": "About 8 Tier A voiceover ads open on a pad or diaper (of 137 classified Tier A ads). It carries the most-proven problem/solution angle in the set: pads-wrong/replace-pads = 44 Tier A ads.\n\nWhat each reference proves:\n- The impersonal brand-narrator opener, plus the contrarian on-screen question over the problem object: Everdries 1206351388295667 ONLY (275d, video#14, 'It's 2025! Why are you still using pads?').\n- The pad-in-hand wave: UltraDries 896552676720439 (193d, video#6). Its VO is first-person UGC until 13.9s.\n- Hands-only flat-lay b-roll: Everdries 1730018818434803 (124d). Its VO is also first person.\nThose two prove the visuals, not the voice.\n\nHonest caveat: VO places only 2 of 29 in a top-10. So every V1 hook now opens on a pattern interrupt with the hook line burned in on screen:\n- V1-a: handbag-cam POV\n- V1-b: freeze-frame\n- V1-c: camera wipe\nThe brand appears late, which suits cold traffic.",
+   "structure": "Two cuts: about 35s and about 55s.\n- 0-3s, hook: the Miro visual hook. The moment or the liner is in frame 1, and the word sneeze/pee/laugh is ON SCREEN by 1s. The hook line is burned in, never VO-only.\n- 3-18s: brand VO over liner b-roll, CJ attributes only. 'It bunches. It shifts. It feels like a diaper. And by tonight it's in the trash.'\n- 18-32s: reveal the plain black brief.\n  - Real-sample-based shot stretched in hand.\n  - Then an AI woman, side-on, waist-to-knee or full figure, pulling black leggings up over it.\n  - Then ONE everyday movement in leggings: walk, bend or reach. Never a laugh, sneeze or jump.\n- 32-40s: 'Not a pad, not a diaper.' Add 'For the sneeze, the laugh and the jump' only if the logged wear test covers the jump. If it logs the sneeze and laugh but not the jump, the line stays 'Not a pad, not a diaper.'\n- 40-45s, end card: '30 nights to see if they hold.' / 'Find my match'.\n\nNo price, gifts, 'new', stats, mechanism or reviews.",
+   "tof_awareness": "Problem-aware liner users who keep one 'just in case'. It opens on the object or the moment, never on her condition.",
+   "funnel_handoff": "Landing bullet 1, 'Feels like underwear. Not a pad, not a diaper.' Then quiz Q3 'Pads or liners' leads to the REACT card 'Pads bunch and shift the second you move.' Then the offer's pads vs Leapproof table ('go in the trash every day'). V1-b also lands on H1 line 1 'Stop! I'll pee myself!' and the subhead '...rather laugh than cross their legs'. Tags: a=m, utm_content=pads. Ad names are codes only (e.g. V1-a_75_handbag).",
+   "ai_production": "VO first:\n- One impersonal ElevenLabs narrator: a warm, wry woman in her 30s, accent matched to the launch market (NUMBER_SHEET says US-first).\n- Record the VO first and cut the pictures to it.\n- Never 'I/we' from the narrator, never 'you leak'.\n\nHooks (Nano Banana start frames, animated 3-4s in Kling 2.x or Veo 3):\n- V1-a: handbag-cam interior, already unzipped and lit at frame 0.\n- V1-b: one wide restaurant two-shot, then the freeze. No insert cuts in the first 1.2s, which protects face and wardrobe continuity.\n- V1-c: one locked hand-held shot at a bathroom vanity. The hand swipes the liner across the lens; on the same framing the hand holds the brief.\n\nV1-c middle beat (trash can): ONE locked AI plate of a white pedal can on cream tiles. Composite cut-out PNGs of crinkled pastel liner WRAPPERS in the edit, adding layers per 'day'. Vary the light with a grade, never a re-generation, so the match cut is pixel-perfect.\n\nLiners: always clean, white and unbranded, or in pastel unbranded wrappers. No stains, no yellow, no real or lookalike brand marks (Always, Carefree, Poise). No car badges.\n\nPayoff:\n- Hold every product frame until the 5 reference photos of the real CJ sample (SKU CJNSNYNK00343) exist: flat front, flat back, side, stretched, under leggings.\n- Product prompt: 'plain black brief exactly as in the reference photos'. Rise, waistband width, leg line and sheen are copied from the photos, not from text. No lace, no logos, no gusset or seams that aren't on the sample.\n- The AI woman is one consistent character (Higgsfield Soul ID / Kling element), 30-45, everyday body.\n- Leggings pull-up prompt: 'getting dressed, sports top on, side view, waist-to-knee crop, pulling black leggings up over black briefs'. Generate start and end frames and interpolate 3s.\n- Fallback if the models refuse or drift: hands stretching the brief on a bed, then the pull-up framed from the knee to the waistband with the top covering the hip.\n- Reject any colour, rise or texture drift.\n\nText and audio:\n- All text added in CapCut/Premiere in the upper safe zone (about 16-60% of frame height, inside the 4:5 centre crop).\n- Hanken Grotesk for hook and caption lines; Fraunces for the end-card brand line; brand colours.\n- Music only from Meta Sound Collection or a licensed royalty-free library.\n\nLabels:\n- 'Dramatization' upper-left (about 16% down) whenever an AI woman is shown in the moment (V1-b only).\n- AI disclosure per ai_production_rules.",
+   "compliance_swaps": "- The only contrast allowed: 'bunches, shifts, feels like a diaper, goes in the trash every day.' Never 'fails', 'leaks through', 'can't hold', 'wrong tool', 'made for periods' or 'built for pee, not blood'.\n- 'Why are YOU still using pads?' becomes 'Why is a (panty) liner still the plan for sneeze-pee / a sneeze?' (impersonal).\n- No nauseated emoji, no stained pad, no pour/mug demo, no '100%', no absorbency, no layers, no ml.\n- No eco words and no $ or volume figures on the trash beat.\n- 'Wash. Hang. Wear again.' is the care fact (never 'wash, dry'), as a middle beat only.\n- No UTI/rash/chemicals/odour.\n- No 'incontinence/discreet/protection/accident/bladder'.\n- No sale, no 'original vs new'.\n- The AI woman never says anything about the product. Her only line is the dramatized moment (V1-b, labelled).\n- After the brief appears she never laughs hard, sneezes or jumps (no acted performance demo).\n- No children.",
+   "variations": [
+    {
+     "v": "V1-a The spare liner in the handbag (handbag-cam, post-sneeze)",
+     "scenario": "An everyday errand in a supermarket car park. A muffled sneeze outside the bag, and the camera inside her handbag watches her hand grab the spare liner for the post-sneeze swap.\n- VO: the liner's day: it bunches, it shifts, it feels like a diaper, it's in the trash by tonight.\n- Payoff: the plain black brief stretched in hand. Then the AI woman (side-on) pulling leggings over it, then lifting a grocery bag into the boot (walk/reach only).\n- End: 'Not a pad, not a diaper.' / '30 nights to see if they hold.' / 'Find my match'.",
+     "visual_hook": {
+      "miro_no": "75",
+      "miro_name": "Fridge POV (shot as a handbag-cam)",
+      "category": "Subject Motion",
+      "why_for_this_ad": "The camera sits where the product lives (inside the handbag) and the hand comes in to grab it. The viewer sees the ritual from the liner's side: a new point of view in a feed of faces, with the liner (the A2 enemy) dominating frame 1.\n\nThe sneeze happens BEFORE the grab, so it's the real post-sneeze spare-liner swap that liner users know, not an impossible pre-sneeze fix.\n\nIn-category twin: Everdries 1206351388295667 (275d, video#14), a POV down at the pad with the contrarian question ON SCREEN from frame 1. We copy that by burning the line in at 0.5s.\n\nMiro examples: Dukes Health 165d, KoalaCloth 163d.",
+      "first_3s_shot": "9:16, phone-grain look. The camera is INSIDE a tan leather handbag that is ALREADY unzipped; overcast car-park daylight floods in at frame 0 (no dark static frame).\n- 0.0s: a muffled off-screen woman's 'ACHOO!' and the whole bag jolts. Small Warm Cream pill, upper-centre: 'ACHOO!'. Foreground right: one clean, unbranded white liner in a pastel wrapper, resting on keys.\n- 0.2s: brand VO begins.\n- 0.4s: text in the upper zone (about 18% down; Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box) replaces the pill: 'It's 2026.'\n- 0.6-1.4s: her right hand (30s, short natural nails, thin gold band) dives in past a phone and keys, straight at the lens, and closes on the liner.\n- 0.9s: text line 2 adds 'Why is a liner still the plan for sneeze-pee?'\n- 1.4-2.2s: the liner is yanked up and out toward the light. Her face above is out of focus.\n- 2.2-3.0s: hard cut outside. Her hand holds the wrapped liner about 20cm from the lens, centred, in front of a car dash with no badge.\n\nNo stains, no brand marks, her face never in focus.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/2347000186152175?platform=meta",
+       "https://drive.google.com/file/d/1pLrQmF-6EcFcskYQPoH8fOXR4tLEg-nv/view",
+       "https://app.winninghunter.com/ad/2178182952953233?platform=meta",
+       "https://drive.google.com/file/d/1JgUvErqHwfY9UA9vH0d-ZI8zJgY27OKU/view"
+      ]
+     },
+     "visual_hook_alternate": "131 First-Person POV Hands: an eye-level POV of her own hand pulling the spare liner out of the bag on her lap right after a sneeze, held 20cm from the lens. Same text and VO. Examples: PresentSpark 132d https://app.winninghunter.com/ad/1966833947595249?platform=meta / https://drive.google.com/file/d/1V27jjAwLFz7Llj5y6S4oYQnsQ5iRCItK/view",
+     "onscreen_text_hook": "ACHOO! / It's 2026. / Why is a liner still the plan for sneeze-pee?",
+     "spoken_or_vo_hook": "Off-screen muffled 'ACHOO!'. Brand VO from 0.2s: \"It's 2026. Why is a panty liner still the plan for a sneeze?\"",
+     "caption_first_line": "Keys, phone, and a spare liner, because a big sneeze can mean a little pee. There's a less sticky plan:",
+     "headline": "Not a pad. Not a diaper. Just underwear.",
+     "hook_alternates": [
+      "Sneeze. Little pee. Out comes the spare liner.",
+      "POV: the spare liner in her handbag. / She just sneezed.",
+      "Keys. Phone. A spare liner for the sneeze-pee. Every handbag has one."
+     ],
+     "proven_pattern": "Everdries 1206351388295667 (275d, video#14): 'It's 2025! Why are you still using pads?' A contrarian question ON SCREEN over the problem object, then b-roll under an impersonal VO. 'You' is removed, the year updated, and 'sneeze-pee' added so it can't read as period care. Visual: Miro #75 (Dukes Health 165d).",
+     "her_words": "#34 'peeing a little every time i sneeze'; #119 'I'm sick and tired of peeing myself every time I sneeze'; #30 the pre-planned habit ('I always go pee right before I leave')",
+     "label_needed": "None. Hands only, no leak acted. AI disclosure per the rules.",
+     "scroll_stop_score": 8,
+     "why_it_stops_the_scroll": "A sneeze jolts the frame at 0.0s, and a hand lunges at the lens from a viewpoint nobody has seen in a feed, already lit and moving. Muted viewers get 'ACHOO!' and then the niche's most-proven contrarian line, with 'sneeze-pee' on screen by 0.9s. Liner users instantly recognise the post-sneeze spare-liner grab as their own. The VO says the same line, so sound-on and sound-off get the same hook."
+    },
+    {
+     "v": "V1-b The funny-friend dinner (freeze on the laugh, rewind to the clutch)",
+     "scenario": "A dinner with the funniest friend.\n- The AI woman laughs so hard she says the landing H1 (burned in). Freeze. Rewind '3 hours earlier' to her packing lipstick, keys and a liner.\n- VO on the liner routine, CJ attributes only.\n- Payoff: the plain black brief, stretched in hand, then pulled up under jeans (AI woman, side-on, waist-to-knee). Then back at the table she sits down smiling, mid-chat, and sets the clutch down. No hard laugh after the reveal.\n- End card: 'Stop! I'll pee myself!' / 'Not a pad, not a diaper.' / 'Find my match'. Adults only.",
+     "visual_hook": {
+      "miro_no": "42",
+      "miro_name": "Freeze Frame Record Scratch",
+      "category": "Pattern Interrupts",
+      "why_for_this_ad": "It opens in the middle of the moment (the H1 laugh), then freezes with a record scratch, a sitcom trope that stops the thumb dead. Miro's own recipe ('freeze mid-spill, yep that's me, here's how I got here') IS this ad's rewind to the liner.\n\nThe wide two-shot with a friend in the foreground makes it a social scene, framed differently from V3-a's single close-up, so the two formats read cleanly. The laugh is the best word-match to the hero (H1 and subhead). Fussy ran it 140d and 129d.",
+      "first_3s_shot": "9:16, warm candle-lit restaurant, adults only. 'Dramatization' upper-left (about 16% down, cream Hanken Grotesk, 80% opacity) from 0.0s.\n- 0.0-1.2s: ONE wide side-angle two-shot, no cuts. In the soft foreground: a friend's shoulder and her wine glass. Mid-frame: an AI woman, 35-40 (real-looking, not model-glam, messy bun, knit top), mid belly-laugh, head back, palm slapping the table. Her knees are visibly pressed together under the table edge in the same frame (side-on, no crotch framing).\n- 0.1s: text burned in mid-frame, above the Reels UI zone (cream Hanken Grotesk ExtraBold on a Claret pill): 'Stop! I'll pee myself!' Diegetic: she says it.\n- 1.2s: FREEZE plus a record-scratch SFX. The image desaturates 30%. Text swaps: 'Yep. The laugh that comes with a little pee.'\n- 2.2s: text swaps to '3 hours earlier...' with a rewind smear.\n- 2.4-3.0s: top-down at a vanity. Hands drop lipstick, keys and one clean wrapped liner into a small black clutch. The brand VO starts on the clutch click.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/2353026065193110?platform=meta",
+       "https://drive.google.com/file/d/14BEMge874KSjA8v5xNcV7lzU_RYsSz2r/view",
+       "https://app.winninghunter.com/ad/1504251771367873?platform=meta",
+       "https://drive.google.com/file/d/1H9DQbGXCn8w72I2uuOsOgo96mQa843ei/view"
+      ]
+     },
+     "visual_hook_alternate": "38 In Media Res Start: no freeze. Open mid-laugh with the same burned-in line, then a hard cut to '3 hours earlier'. Korean Beauty Insider 218d https://app.winninghunter.com/ad/1183090503998405?platform=meta / https://drive.google.com/file/d/1xzbwCN5XnvjPSaXr9xaIkr9iouUs6Crt/view",
+     "onscreen_text_hook": "Stop! I'll pee myself! / (1.2s) Yep. The laugh that comes with a little pee. / (2.2s) 3 hours earlier...",
+     "spoken_or_vo_hook": "Diegetic (AI woman, dramatized): \"Stop! I'll pee myself!\". Record scratch. Brand VO: \"Three hours earlier: lipstick, keys... and a liner. Because the funny friend is coming.\"",
+     "caption_first_line": "Dinner with the funniest friend: lipstick, keys, and a liner, because laughing too hard can mean a little pee.",
+     "headline": "For women who'd rather laugh than cross their legs",
+     "hook_alternates": [
+      "Record scratch. Yep, that's her: laughing so hard she's about to pee.",
+      "Hoping nobody at dinner tells a really funny joke.",
+      "The funniest friend is coming to dinner. Packing: lipstick, keys... liner."
+     ],
+     "proven_pattern": "The spoken and burned-in line is the live landing H1, word for word. Pine Peak 869271709162736 (97d, Tier B): 'Hoping nobody tells a really funny joke?' (the laugh moment). Visual: Miro #42 (Fussy 140d / 129d).",
+     "her_words": "#19 'laughed too hard'; #1 'pee when I cough, sneeze, laugh'; #126 'If you wee yourself, you just rock on' (the attitude)",
+     "label_needed": "'Dramatization' upper-left (about 16% down, inside the 4:5 crop) from 0.0s until the cut to the vanity. AI disclosure per the rules.",
+     "scroll_stop_score": 8.5,
+     "why_it_stops_the_scroll": "A real-looking woman crying with laughter at a dinner table is the most human thing in a feed. With sound off, the landing's first line is on screen at 0.1s, so muted viewers get the hook and the scent. The freeze and record scratch are a known 'wait, what?' beat that names the pee as a joke, not a shame. '3 hours earlier' then opens a loop that pulls her into the liner routine."
+    },
+    {
+     "v": "V1-c The sneeze-pee plan: a sticker (camera wipe from liner to brief)",
+     "scenario": "Bathroom vanity, morning light, hand-held.\n- Her hand holds one clean wrapped liner at the lens under 'The sneeze-pee plan: / a sticker.' It swipes the liner across the lens, and in the same framing the hand holds the plain black brief: 'Or... underwear. Not a pad, not a diaper.'\n- 3-12s middle beat: the locked trash-can match cut (MON to SUN, pastel wrappers piling up) under the VO 'This is what happens to a panty liner every single day.' Fact beat: 'Wash. Hang. Wear again.'\n- Payoff: the AI woman (side-on, waist-to-knee) pulling leggings over the brief, then walking out the door.\n- End: 'Not a pad, not a diaper.' / '30 nights to see if they hold.' / 'Find my match'.",
+     "visual_hook": {
+      "miro_no": "33",
+      "miro_name": "Camera Wipe",
+      "category": "Pattern Interrupts",
+      "why_for_this_ad": "Miro's own recipe is 'swipe product across lens, reveal after-state', and that's this ad's whole argument in 1.4 seconds: the liner (enemy) is wiped away and the brief appears in the same hand and framing. Frame 1 is the enemy plus the word 'sneeze-pee', so it can't read as period care.\n\nIt replaces the old trash-can opener (scored 6: no pee named, faintly gross). The match cut survives as the middle beat.\n\nWith V1-a (POV) and V1-b (freeze), V1 now tests three hook mechanics on one shared enemy. Miro examples: Mireva 301d, Hoooyi 174d.",
+      "first_3s_shot": "9:16, hand-held, a bright bathroom vanity in morning light (white basin, toothbrush cup, Warm Cream wall).\n- 0.0s: a soft off-screen 'achoo' SFX. Her hand holds ONE clean, unbranded liner in a pastel wrapper 20cm from the lens, centred and sharp.\n- 0.0s, text in the upper zone (about 18% down; Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box): 'The sneeze-pee plan:'\n- 0.6s, text adds: 'a sticker.'\n- 1.0-1.4s: the hand swipes the liner fast across the lens (white motion-blur wipe).\n- 1.4s: same hand, same framing, now holding the plain black brief stretched by its waistband (generated from the real-sample photos: no lace, no logo). Text swaps: 'Or... underwear. Not a pad, not a diaper.'\n- 2.2-3.0s: the brand VO starts: 'This is what happens to a panty liner every single day.' Cut to the locked trash-can plate (the middle beat).",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/25242369045401076?platform=meta",
+       "https://drive.google.com/file/d/1k7Iw7ytA9uvdg-ZeRRpRjvC_l8qcpALO/view",
+       "https://app.winninghunter.com/ad/1648680299903591?platform=meta",
+       "https://drive.google.com/file/d/1xETh_LNbGJ328Bc6y3m_NwTlhKSKijJC/view"
+      ]
+     },
+     "visual_hook_alternate": "61 Object Into Lens: her hand thrusts the wrapped liner at the lens until it blacks out the frame, then cut to the brief held in the same spot. Same text. Paw Guardian 172d https://app.winninghunter.com/ad/1221129746758639?platform=meta / https://drive.google.com/file/d/1sv-mIzKH7wdwV5QwD08nxxD9DIZ73aqY/view",
+     "onscreen_text_hook": "The sneeze-pee plan: / a sticker. / (1.4s) Or... underwear. Not a pad, not a diaper.",
+     "spoken_or_vo_hook": "Soft off-screen 'achoo' SFX. Brand VO from 2.2s: \"This is what happens to a panty liner every single day.\"",
+     "caption_first_line": "Sneeze, a little pee, new liner, trash. Then again tomorrow. There's a plan that isn't a sticker:",
+     "headline": "Not a pad. Not a diaper. Find your match.",
+     "hook_alternates": [
+      "Sneeze. Liner. Trash. Every. Single. Day. (the old match cut, as a text-only alternate)",
+      "The life of a panty liner: one sneeze, a day of bunching, then the trash.",
+      "A liner is a sticker. This is underwear. (over the same wipe)"
+     ],
+     "proven_pattern": "VO sentence frame from Everdries 897763213317264 (169d), 'This is what happens to your pad every single night': 'your' is removed and night changed to day. Only the sentence is borrowed; that ad's x-ray/night content is banned. Problem-object-to-product reveal under an impersonal VO: Everdries 1206351388295667 (275d). Visual: Miro #33 (Mireva 301d, Hoooyi 174d).",
+     "her_words": "#119 'sick and tired of peeing myself every time I sneeze'; #34 'every time i sneeze'; #30 the just-in-case habit",
+     "label_needed": "None. Hands only, no person in the moment. AI disclosure per the rules.",
+     "scroll_stop_score": 8,
+     "why_it_stops_the_scroll": "A hand-held object at the lens with a two-beat joke ('The sneeze-pee plan: a sticker.') reads in under a second, and the wipe pays it off before the 1.5s swipe-away point: the liner literally disappears and underwear takes its place. It names pee at 0.0s, shows the product by 1.4s, and the routine (the trash pile) becomes the middle proof beat instead of the cold opener."
+    }
+   ],
+   "references": [
+    {
+     "ad_id": "1206351388295667",
+     "brand_page": "Everdries / Everdries",
+     "days_live": 275,
+     "impression_rank": "video#14 (2-6 Meta duplicates, sources disagree; same creative 2156436115112904, 180d)",
+     "what_it_shows": "The opening shot is a POV from a toilet looking down at underwear with a pad, with 'it's 2025! Why are you still using pads?' ON SCREEN from frame 1. At 3.5s it cuts to a hand holding a pad pack on a bed, then on-body b-roll of women 20s-30s with faces cropped, under a long impersonal brand VO. It's the ONLY reference that proves V1's brand-narrator opener. Copy: the POV-at-the-object opener (our handbag-cam), the contrarian question burned in on screen, and the cut from problem object to on-body b-roll. Library: https://www.facebook.com/ads/library/?id=1206351388295667",
+     "caution": "Don't copy:\n- the stained pad or nauseated emoji (shame/gross-out)\n- 'Why are YOU still' (fails the you-rule)\n- 'pads weren't designed to be an incontinence solution'\n- '100% leak proof', '20% more absorbent'\n- the mug pour demo at ~69s\n- the fake 50%-off sale\n- the 'original vs redesigned' second half"
+    },
+    {
+     "ad_id": "896552676720439",
+     "brand_page": "UltraDries / Life Beyond Leaks",
+     "days_live": 193,
+     "impression_rank": "video#6",
+     "what_it_shows": "A UGC hook: a fit woman in her 40s in a bright kitchen holds up a crumpled pad and waves it away ('three months ago I ditched incontinence pads'). Her first-person VO continues over factory b-roll to about 14s; the brand VO only starts at 13.9s ('We hear this all the time'). Use it for the pad-in-hand wave (our V1-c liner at the lens and the wipe) and for the closest ICP age. It proves the visual, NOT the narrator voice. Library: https://www.facebook.com/ads/library/?id=896552676720439",
+     "caution": "A persona page with first-person UGC voice. Don't copy:\n- 'incontinence', 'organic'\n- the UTI/rash/chemicals and '$12,000+' claims\n- the doctor-blame, the factory b-roll\n- the first-person 'I ditched pads' line (an AI woman may never say it)"
+    },
+    {
+     "ad_id": "1730018818434803",
+     "brand_page": "Everdries / Everdries",
+     "days_live": 124,
+     "impression_rank": "not in top 30/40 (still live 124d)",
+     "what_it_shows": "Hands-only: an overhead flat-lay of a disposable pad next to an adult diaper on a cream surface, a hand tapping and pointing at each. The VO is first-person UGC ('So I just wanna show you why I refuse...'). The no-talent way to build our V1 middle (liner b-roll) with AI hands. It proves the visual only, not the voice. Library: https://www.facebook.com/ads/library/?id=1730018818434803",
+     "caution": "Swap the diaper for a liner (never a diaper as what she wears). Its VO is all banned: first-person, 'incontinence', synthetic-material skin irritation, 'prone to infections', '100% leak proof', 'women 60 and over', 'five star from me'. Copy only the hands and the pointing."
+    }
+   ]
+  },
+  {
+   "id": "V2",
+   "format": "AI 3D talking-character duet. A Pixar-style clean white panty liner and a plain black Leapproof brief talk about HER moment (the big laugh, the sneeze) in a real-looking set. It's cut with 2-4s real-look inserts of the actual brief.",
+   "angle_id": "A3",
+   "why_this_format": "The AI-animation format with the broadest proof in the category, and the swap for the weakest slot.\n\nThe proof:\n- 6 talking-object creatives on both Tier A brands, live 104-208d, every one still active.\n- Ranked: Bladder Freedom Stories video#4 (104d), Life Beyond Leaks video#11 (143d), Susan's Bladder Tips video#11 (151d).\n- Unranked: Everdries 1700150534480418 (208d, 2 duplicates) and UltraDries Living Leak-Free 1691171645641479 (180d).\n- They sit inside a 15-creative animated family, 10 of them in a page top-30.\n- Two of the 6 make the BRIEF the speaking hero. One (1691171645641479) is literally a pad vs a black brief on a bed, which is our cast.\n\nWhy it beats the old V2: the runnable A-vs-B had 0 top-10 ads and 1 unranked pad-foil reference.\n\nWhy AI makes it better than UGC:\n- None of these ads could be shot with UGC.\n- No talent, no fake-customer risk, unlimited hook variants.\n- A cartoon can say 'pee' and 'sneeze' with humour and zero shame.\n\nWhat's new about our version: every hook opens on the moment, which no competitor version does:\n- V2-a: the liner names the sneeze-pee in its first words.\n- V2-b: an off-screen 'Stop! I'll pee myself!' (the exact H1).\n- V2-c: 'sneeze-pee' in the title.\n\nHonest caveats:\n- No talking-object ad sits in a page top-3.\n- All 6 run 113-237s with villain or health-scare copy aimed at 60+.\n- Our wry, brand-palette, CJ-safe 35s cut is the untested part.",
+   "structure": "Two cuts: about 35s (main) and about 60s (long test). Let delivery pick.\n- 0-3s, hook: frame 1 is the moment, or a character reacting to it. One character speaks by 0.5s. Burned-in kinetic captions (1-4 words, Hanken Grotesk ExtraBold, cream with a Plum Ink outline, upper-middle safe zone) carry 'pee' or 'sneeze-pee' by 1.2s.\n- 3-12s, foil: the liner roasts itself, CJ attributes only. 'I bunch. I shift. I feel like a diaper. And every day, I go in the trash.'\n- 12-22s, reveal: the brief answers in brand voice. 'She could just wear underwear. Plain black briefs. Not a pad. Not a diaper.' Cut to a 2-4s real-look insert generated from the CJ sample photos: hands stretching the waistband, then an AI woman, side-on and waist-to-knee, pulling black leggings up over it (getting dressed only). No face on the brief in the inserts.\n- 22-30s, beat. Liner, deflating: 'So... I go in the trash. And you?' Brief: 'Wash. Hang. Wear again.' (fact only, no eco, never 'dry').\n- 30-35s, end card in brand type: 'Not a pad, not a diaper.' / '30 nights to see if they hold.' / 'Find my match'. Both characters on screen, the liner sulking.\n\nThe 60s cut adds a second moment beat (the off-screen sneeze; see V2-b) and a 'plain black briefs under leggings' insert. No price, gifts, 'new', stats, mechanism or reviews.",
+   "tof_awareness": "Problem-aware liner users. The moment opens every hook, the characters talk about 'her' (never 'you'), the brand appears late and the CTA is the quiz.",
+   "funnel_handoff": "Word for word to landing bullet 1, 'Feels like underwear. Not a pad, not a diaper.' Plus the subhead 'Black briefs...'. V2-b also matches H1 line 1 word for word. Then quiz Q3 'Pads or liners' leads to the REACT card 'Pads bunch and shift the second you move.' Then quiz Q7 worries 'feel like a diaper / show under leggings' answered on the result. Tags: a=m, utm_content=underwear.\n\nCarry-through: the page can't reorder slides per utm (no swap script; Funnelish slots can't read ?a= or utm). Make the under-leggings image slide 1 for ALL traffic, or keep autoplay on, until a /match-u clone exists. Swap in a real photo of the sample when one exists.",
+   "ai_production": "Characters:\n- Design both in Nano Banana or Midjourney as Pixar-style model sheets: front, 3/4 and 6 expressions.\n- The BRIEF is built from the 5 real-sample reference photos: rise, waistband width, leg line and sheen copied from the photos, not from text. No lace (unlike UltraDries' lace-panel brief), no logos. Large friendly eyes and mouth on the upper front panel near the waistband, never at the crotch. Small cream cartoon hands only if needed. Calm, dry, kind.\n- The LINER is small, clean, white and unbranded. Expressive, fussy, sheepish (the BFS #4 tone, not Everdries' villain). No stains, no yellowing, no gross-out.\n- Don't build the brief model sheet until the reference photos exist.\n\nSets: real-looking, in brand palette, adult only, no medical props, no real trademarks.\n- a cream bathroom shelf with a mirror (V2-a)\n- a candle-lit restaurant table with an open black clutch and a wine glass (V2-b)\n- a white duvet with a Claret throw and lamp light (V2-c)\n\nVoice pipeline (pick one; test one 8s line both ways before building the 35s):\n- Path A (default): generate each line image-to-video in Veo 3 from the locked model-sheet frame, with the dialogue in the prompt (native lip-sync). Then run every line through ElevenLabs Voice Changer (speech-to-speech) into the two saved character voices: Brief = warm, dry, mid-30s; Liner = higher, fussy, fast. Timing and mouth movement are kept, and the voices match across shots.\n- Path B: record the ElevenLabs lines first, then animate with a lip-sync model built for cartoon faces (e.g. Hedra Character-3). Use Veo/Kling only for non-speaking reaction shots.\n- Generate in 4-8s shots and cut on reactions. Higgsfield is the hub for character consistency.\n\nHumans: off-screen SFX and voices (laughter, 'Stop! I'll pee myself!', the sneeze) are audio only. The only human on screen in a duet is V2-a's out-of-focus mirror reflection (her back, brushing her hair, not in the moment).\n\nInserts (2-4s): the brief alone (stretch, fold) from the reference photos, and an AI woman getting dressed, side-on, waist-to-knee, pulling leggings over it. Fallback crop if the models refuse or drift: knee to waistband with the top covering the hip. No face on the garment in the inserts, so the viewer sees exactly what ships.\n\nScript guardrails:\n- The liner may say only: bunch, shift, feel like a diaper, go in the trash every day, 'I'm a sticker'.\n- The brief never says 'leak-proof', 'I hold', 'dry', '100%' or 'built/designed/made for pee', and never claims the opposite of the liner's flaws ('I don't bunch').\n- The guarantee lives only on the end card.\n\nWatch:\n- Lip-sync drift on non-human mouths: regenerate rather than fix in edit.\n- The brief morphing into a boyshort or thong between shots: lock the reference every generation.\n- Delivery: 9:16, no watermarks (paid tiers; the Everdries ad carries a Veo mark). Keep the C2PA metadata on export.",
+   "compliance_swaps": "- The characters talk to each other and about 'her', never stating the viewer's condition. A character addressing the other character ('So you think you can replace me?') is fiction between objects, not a viewer line.\n- No 'bladder leaks', 'incontinence' or 'protecting women' (UltraDries' pad line).\n- No 'fully leak proof', '100 mLs', snap-in booster, organic/PFAS/bleach/chemicals, plastic backing, smell, UTI or rash (all in the references).\n- No 'pads fail / can't hold / leak through / made for periods'. No period-underwear jab.\n- No villain gross-out face, no stained pad. Nothing mocks HER: the jokes land on the liner.\n- Comparisons are form only (sticks on vs pulls on, sticker vs underwear, trash vs wash). No check marks or X marks, no scoreboard verdict. Label pills are neutral ('sticks on' | 'pulls on').\n- The brief never implies it handles the moment ('She's wearing me tonight' is cut). It only states what it is ('She's wearing underwear').\n- The brief's face sits on the upper front/waistband, never near the crotch.\n- No grandma, 60+ or doctor cues. No children.\n- No human is shown leaking, so no 'Dramatization' label is needed. AI disclosure per the rules.",
+   "variations": [
+    {
+     "v": "V2-a The confession (mirrors the BFS #4 opener)",
+     "scenario": "The liner, sheepish on a cream bathroom shelf, confesses to the lens. Her soft-focus reflection is in the mirror behind it.\n- 'I'm the liner she wears for the sneeze-pee. And I need to be honest... I'm not underwear. I'm a sticker. I bunch. I shift. I feel like a diaper. And every night I end up in the trash.'\n- The plain black brief slides into frame: 'Hi. I'm underwear. Plain black briefs. Not a pad, not a diaper.' Liner: 'Show-off.'\n- Real-look insert (stretch, then leggings pulled over it on an AI woman getting dressed, side-on).\n- End card: 'Not a pad, not a diaper.' / '30 nights to see if they hold.' / 'Find my match'.",
+     "visual_hook": {
+      "miro_no": "117 + 70",
+      "miro_name": "3D Talking Character, opened as a Face Lean-In to Lens",
+      "category": "Unique Visual Selection (+ Subject Motion)",
+      "why_for_this_ad": "A cartoon liner in a feed of real people is the biggest pattern break in the library. Leaning into the lens to 'confess' adds Miro #70's 'lean in to whisper the secret' cue.\n\nIn-category twins: the 'I'm your disposable pad' confession opener repeats on 3 UltraDries pages (BFS 1400650075258672 #4 104d, LBL #11 143d, Susan #11 151d). The exact 'I need to be honest' line is BFS only.\n\nOur first chunk names the leak ('for the sneeze-pee'), so a stranger can't read it as a period ad. The mirror reflection gives 'her' a referent, as the grandma does in BFS. The secret is a dry joke ('I'm not underwear. I'm a sticker.') that sets up the landing's 'Feels like underwear'. No health claims.",
+      "first_3s_shot": "9:16, Pixar-quality 3D in a photoreal set: a Warm Cream bathroom shelf at golden hour, a Claret hand towel, a toothbrush cup, her earrings and hair tie. Behind the shelf, a mirror shows her soft-focus reflection (back turned, brushing her hair; no face detail).\n- 0.0s: a small, clean, unbranded white panty-liner character (big soft guilty eyes, little wing-hands clasped) stands on the shelf edge, eyes down. Beside it, in soft focus, a folded plain black brief character (built from the real-sample photos: no lace, face on the upper front near the waistband, eyes closed).\n- 0.2s: the liner lifts its eyes and leans toward the lens into a close-up (lens push 20%). Kinetic captions in the upper-middle safe zone (Hanken Grotesk ExtraBold, Warm Cream with a Plum Ink outline) sync to a soft, earnest, slightly fast voice.\n- 0.2-1.2s: 'I'm the liner / she wears / for the sneeze-pee.'\n- 1.2-2.2s: 'And I need / to be honest.'\n- 2.2-3.0s: it glances back at the brief, swallows, and turns back to the lens: 'I'm not underwear.'\n\nNo stains, no 'you'.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/1617619072626213?platform=meta",
+       "https://drive.google.com/file/d/1fF4-Kpy3SIHofCjCR2goOj1wBbwA1i-Q/view",
+       "https://app.winninghunter.com/ad/1463868478618244?platform=meta",
+       "https://drive.google.com/file/d/1otmVv-Qg7Ac6TUKkgAeb4TRrq7BPd9vQ/view",
+       "https://app.winninghunter.com/ad/1500620454793754?platform=meta",
+       "https://drive.google.com/file/d/1XCYdk-Xnx7o964G0lrwr41Q1HFO0udmP/view"
+      ]
+     },
+     "visual_hook_alternate": "50 Fly on Wall: the 3D liner on a velvet therapy couch at 45 degrees, mid-session, already saying '...and every time she sneeze-pees, I just... bunch.' Off-screen therapist: 'And how does that make you feel?' Liner: 'Like trash. Literally.' Power Plate UK 178d https://app.winninghunter.com/ad/1484059306650748?platform=meta / https://drive.google.com/file/d/1LdfC35bM8ZgaRWpDnukGgjYI0QCMvz6q/view",
+     "onscreen_text_hook": "I'm the liner she wears for the sneeze-pee. / And I need to be honest. / I'm not underwear.",
+     "spoken_or_vo_hook": "Liner (character voice): \"I'm the liner she wears for the sneeze-pee. And I need to be honest... I'm not underwear. I'm a sticker.\"",
+     "caption_first_line": "A panty liner's confession: every sneeze-pee, it's there. And it's not underwear. It's a sticker.",
+     "headline": "Not a pad. Not a diaper. Just underwear.",
+     "hook_alternates": [
+      "I'm her panty liner. She thinks I'm the plan for the sneeze-pee.",
+      "I'm her panty liner. Every sneeze-pee, I'm there. Every night, I'm in the trash.",
+      "Villain-tone test: I'm a panty liner. I bunch up. I shift. And every sneeze, I'm STILL the plan. Ha! (Everdries 1700150534480418 tone, marble counter; the joke is on the liner, never on her)"
+     ],
+     "proven_pattern": "UltraDries 1400650075258672 (Bladder Freedom Stories video#4, 104d): 'I'm your disposable pad, I've been with you through everything, and I need to be honest with you.' The confession beat and 1-word kinetic captions are kept. 'Your/you' becomes 'she/her', and the who-plus-leak lands in the first chunk. The plastic/UTI/smell body becomes the CJ-safe sticker joke. The 'I'm your disposable pad' opener also runs on LBL 1603359687813597 (video#11, 143d, 'a few things I need to get off my chest') and Susan 1657042158953725 (video#11, 151d).",
+     "her_words": "#34 'every time i sneeze'; #119 'peeing myself every time I sneeze'; #152 'Adult diapers or incontinence pads. Uhhh, no thanks.' (the not-a-pad, not-a-diaper turn; reference only, its words are not used)",
+     "label_needed": "None (no human in the moment; the mirror reflection is not in the moment). AI disclosure per the rules.",
+     "scroll_stop_score": 9,
+     "why_it_stops_the_scroll": "Two stops stack in frame 1: a cartoon in a feed of real people, and a face lunging at the lens. The first words name the sneeze-pee, so she knows in 1 second it's about her moment, not her period. Then an open loop ('I need to be honest') she has to hear closed. The secret is a joke she gets instantly ('I'm a sticker'), so the pay-off feels like entertainment, not a pitch. It turns straight into the landing's 'Feels like underwear. Not a pad, not a diaper.' Best AI hook in the set."
+    },
+    {
+     "v": "V2-b The big laugh (in media res; the H1, off-screen)",
+     "scenario": "A candle-lit restaurant table, no person in frame. Off-screen friends roar with laughter and a woman's voice cries 'Stop! I'll pee myself!'. The liner bursts out of the open clutch like a firefighter.\n- Liner: 'That's a big laugh. I'm going in.' The plain black brief, folded beside it, deadpans: 'Or... she could just wear underwear.'\n- Liner: 'Underwear? For the laugh?' Brief: 'Plain black briefs. Not a pad. Not a diaper.'\n- The liner's self-roast: 'I do bunch. And shift. And feel like a diaper. And go in the trash every day.'\n- Real-look insert of the brief under leggings. End card: 'Not a pad, not a diaper.' / '30 nights to see if they hold.' / 'Find my match'.\n- 60s cut, second beat: an off-screen 'ACHOO!' Liner: 'Sneeze-pee? That's my cue!' Brief: 'Relax. She's wearing underwear.' Liner: '...Just underwear?' Brief: 'Plain black briefs.'",
+     "visual_hook": {
+      "miro_no": "117 + 38",
+      "miro_name": "3D Talking Character, opened In Media Res",
+      "category": "Unique Visual Selection (+ Pattern Interrupts)",
+      "why_for_this_ad": "The ad starts mid-action with no setup: a table of off-screen laughter and the landing's exact first line, then a liner leaping into frame. Miro #38's power is dropping the viewer into chaos. Here the chaos IS the moment, heard but not shown, so no human leaks on screen. The 3D character turns it into a gag by 0.5s.\n\nLeading with the laugh (not the sneeze) makes it the H1 in its purest form and keeps V2 off V1-a's sneeze-plus-handbag scenario. V2 now covers laugh / sneeze-pee confession / face-off.\n\nIn-category twin: Everdries 1700150534480418 (208d), product characters reacting to her leaks. Miro examples: Korean Beauty Insider 218d, Kannik 118d.",
+      "first_3s_shot": "9:16, a photoreal candle-lit restaurant table: an open black clutch, a wine glass, bread, a phone. No person in frame.\n- 0.0s: audio only: a burst of off-screen friends' laughter and a woman's voice, 'Stop! I'll pee myself!' The table jolts slightly and the wine ripples. A large Claret pill with cream Hanken Grotesk ExtraBold pops centred in the upper-middle safe zone at 0.0s: 'Stop! I'll pee myself!'\n- 0.4s: a small, clean, white Pixar-style panty-liner character bursts up out of the clutch like a firefighter down a pole, wing-hands out, eyes wide.\n- 0.5-1.6s, caption: 'That's a big laugh. / I'm going in.'\n- 1.6-2.2s: it braces to leap.\n- 2.2-3.0s: rack focus to a folded plain black brief character in the clutch beside it (built from the sample photos, face on the upper front near the waistband), one eyebrow up, deadpan. Caption: 'Or... she could just wear underwear.'",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/1617619072626213?platform=meta",
+       "https://drive.google.com/file/d/1fF4-Kpy3SIHofCjCR2goOj1wBbwA1i-Q/view",
+       "https://app.winninghunter.com/ad/1183090503998405?platform=meta",
+       "https://drive.google.com/file/d/1xzbwCN5XnvjPSaXr9xaIkr9iouUs6Crt/view",
+       "https://app.winninghunter.com/ad/1003435055464395?platform=meta",
+       "https://drive.google.com/file/d/1A_cGa_8xY8TWTVyvNUz4q222pcICN8E6/view"
+      ]
+     },
+     "visual_hook_alternate": "42 Freeze Frame Record Scratch: freeze on the liner mid-leap out of the clutch, record scratch, label 'Every. Single. Big laugh.' Fussy 140d https://app.winninghunter.com/ad/2353026065193110?platform=meta / https://drive.google.com/file/d/14BEMge874KSjA8v5xNcV7lzU_RYsSz2r/view",
+     "onscreen_text_hook": "Stop! I'll pee myself! / That's a big laugh. I'm going in. / Or... she could just wear underwear.",
+     "spoken_or_vo_hook": "Off-screen laughter, then a woman's voice: \"Stop! I'll pee myself!\" Liner: \"That's a big laugh. I'm going in.\" Brief (deadpan): \"Or... she could just wear underwear.\"",
+     "caption_first_line": "'Stop! I'll pee myself!' And the liner in the clutch clocks on. Or there's this: plain black briefs, not a pad, not a diaper.",
+     "headline": "Feels like underwear. Not a pad, not a diaper.",
+     "hook_alternates": [
+      "Sneeze version (café): a large centred 'ACHOO!' pill at 0.0s, the liner leaps out of a tan handbag: 'Sneeze-pee? That's my cue!' / 'Every. Single. Sneeze.' Brief: 'Or... she could just wear underwear.'",
+      "Stop! I'll pee myself! / The liner in her clutch: 'I'm up.'",
+      "Every big laugh, one tiny liner clocks on. (caption over the leap)"
+     ],
+     "proven_pattern": "The talking-object family (Everdries 1700150534480418, 208d: product characters react to her leaks; UltraDries 1691171645641479, 180d: pad and brief bicker). Our twist, which none of theirs has: the moment, heard off-screen in the landing's exact words, triggers the characters. Visual: Miro #117 + #38 (Korean Beauty Insider 218d).",
+     "her_words": "#19 'laughed too hard'; #1 'pee when I cough, sneeze, laugh'; #20 'just a little leak' (the scale: a liner-sized moment)",
+     "label_needed": "None (the laugh is audio only, no human on screen). AI disclosure per the rules.",
+     "scroll_stop_score": 8.5,
+     "why_it_stops_the_scroll": "A burst of laughter and the funniest line in the category land at 0.0s, and muted viewers read it in the big centred pill. A cartoon liner leaping out of a clutch in response is a surprise plus a joke inside one second. Every liner user recognises the dynamic (big laugh = liner duty) without anyone telling her she leaks. The deadpan brief lands the A3 idea ('she could just wear underwear') by 3s, and the click lands on the same words in the H1."
+    },
+    {
+     "v": "V2-c The sneeze-pee face-off (mirrors 1691171645641479)",
+     "scenario": "Both characters on a white duvet under one title, 'The sneeze-pee face-off'.\n- The liner challenges: 'So you think you can replace me?' Brief: 'I'm not replacing you. She is.'\n- 3-6s: Liner: 'I've been in her bag since the first sneeze!' Neutral label pills appear ('sticks on' | 'pulls on').\n- The brief answers with form only:\n  - 'You stick on. I pull on.'\n  - 'You're a sticker. I'm underwear.'\n  - 'You go in the trash. I go in the wash.'\n- The liner self-roasts ('I bunch. I shift.'). The brief never claims the opposite. No holding or absorbency comparison.\n- Real-look insert under leggings. End card: 'Not a pad, not a diaper.' / '30 nights to see if they hold.' / 'Find my match'.",
+     "visual_hook": {
+      "miro_no": "04 + 117",
+      "miro_name": "A vs B Comparison Graphics, cast as 3D Talking Characters",
+      "category": "Graphic & Text Overlays (+ Unique Visual Selection)",
+      "why_for_this_ad": "Two everyday objects squaring off under a 'face-off' title trigger instant judgement, and a challenge line opens a fight the viewer wants to see settled. It keeps the old V2 comparison mechanic alive in its better-proven form.\n\nIn-category twin: UltraDries 1691171645641479 (180d), a pad vs a black brief on a bed under ONE title, 'So you really think you can replace me...?'. Like it, frame 1 now carries one title and one short line, not stacked labels.\n\nThe retort 'I'm not replacing you. She is.' puts her in charge and gives a laugh before the swipe point. Miro examples: Bynorah 114d, Carpe 101d.",
+      "first_3s_shot": "9:16, a photoreal bedroom: white duvet, a Claret throw, warm lamp light.\n- 0.0s: ONE title in the upper safe zone (about 18% down; Fraunces, Plum Ink on a Warm Cream band): 'THE SNEEZE-PEE FACE-OFF'. Below it, the clean white liner character (left) and the plain black brief character (right; built from the sample photos, no lace, face on the upper front near the waistband) stand side by side, turned to each other. No label pills yet.\n- 0.3-1.8s: the liner, arms crossed, sizes up the brief. Kinetic caption: 'So you think you can replace me?'\n- 1.8-3.0s: the brief, calm, glances at the lens, then back: 'I'm not replacing you. She is.'\n\nNo check marks or X marks, no performance words.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/1516389016946968?platform=meta",
+       "https://drive.google.com/file/d/1bkW6EJs1kt3voCPJCPIQSMJLJBDpXYow/view",
+       "https://app.winninghunter.com/ad/2773476013013159?platform=meta",
+       "https://drive.google.com/file/d/1fLpAyf6hcl3zyPDc1hJXnlTSB_W0X87o/view",
+       "https://app.winninghunter.com/ad/1617619072626213?platform=meta",
+       "https://drive.google.com/file/d/1fF4-Kpy3SIHofCjCR2goOj1wBbwA1i-Q/view"
+      ]
+     },
+     "visual_hook_alternate": "03 Split Screen / Duet: each character in its own half, talking across the split line, title on top. Frasé Skin 222d https://app.winninghunter.com/ad/851756551224948?platform=meta / https://drive.google.com/file/d/1oHd4ieSYkQnOKQmeVRsyM9F-sCW7CE__/view",
+     "onscreen_text_hook": "THE SNEEZE-PEE FACE-OFF / So you think you can replace me? / I'm not replacing you. She is.",
+     "spoken_or_vo_hook": "Liner: \"So you think you can replace me?\" Brief (calm): \"I'm not replacing you. She is.\"",
+     "caption_first_line": "The sneeze-pee face-off: the liner vs plain black briefs. One sticks on. One pulls on.",
+     "headline": "Feels like underwear. Because it is.",
+     "hook_alternates": [
+      "The liner vs plain black briefs: who's going in her drawer?",
+      "The liner vs the briefs. Round 1: the sneeze-pee.",
+      "So you think you can replace me? (liner, alone in frame, before the brief steps in, Miro #52 Move In Frame)"
+     ],
+     "proven_pattern": "UltraDries 1691171645641479 (Living Leak-Free, 180d): a Pixar pad and a talking black brief on a bed under 'Disposable Pad Vs ULTRADRIES Underwear'. The pad opens 'So you really think you can replace me for bladder leaks?' The challenge line is kept; 'for bladder leaks' is dropped, and the leak moves into our title ('sneeze-pee'). Visual: Miro #04 (Bynorah 114d) + #117.",
+     "her_words": "#152 (not a pad, not a diaper); #67 'walking around in a wet diaper' (the diaper-feel beat); #30 the just-in-case habit",
+     "label_needed": "None (no human). AI disclosure per the rules.",
+     "scroll_stop_score": 8,
+     "why_it_stops_the_scroll": "A fight between two everyday objects reads in half a second with one title and one line. The challenge creates a 'well, CAN it?' tension. The brief's twist answer ('She is.') is a laugh that hands the decision to her before the swipe point. 'Sneeze-pee' in the title puts the leak in the first frame, so it can't be misread as period content."
+    }
+   ],
+   "references": [
+    {
+     "ad_id": "1691171645641479",
+     "brand_page": "UltraDries / Living Leak-Free",
+     "days_live": 180,
+     "impression_rank": "not ranked (page not in the rank pull); still active",
+     "what_it_shows": "Our exact cast. A Pixar disposable pad and a talking black high-waist brief sit side by side on a bed in warm lamp light, under ONE title, 'Disposable Pad Vs ULTRADRIES Underwear'. The pad opens with a challenge, 'So you really think you can replace me for bladder leaks? I've been protecting women for decades!', and the brief answers with personality. The 174s body cuts between the duet and real b-roll of women with the brief. Copy: the duet staging, the one-title-one-line opener, the reaction faces and the duet/insert rhythm. Library: https://www.facebook.com/ads/library/?id=1691171645641479",
+     "caution": "Their brief has lace/texture panels; ours is plain black with no lace, copied from the sample photos. Their pad looks yellowed; ours is clean white. Don't copy:\n- 'bladder leaks', 'fully leak proof', '100 mLs'\n- the snap-in booster, 'organic/PFAS/bleach/chemicals'\n- the 'unlike some people in this room' dig\n- the pour demo, 'protecting women', 'Every doctor recommends me'\n- the persona page or the 60+ framing\nOur liner never claims or concedes how much it holds, and our brief never claims the opposite of the liner's flaws."
+    },
+    {
+     "ad_id": "1700150534480418",
+     "brand_page": "Everdries / Everdries",
+     "days_live": 208,
+     "impression_rank": "not in top 30/40 (2 Meta duplicates; same creative 1486008069932397 at 180d)",
+     "what_it_shows": "An AI-made (Veo watermark) bulky pad with a villain face and gloved hands talks on a marble bathroom counter with pink pill captions: 'I'm a bulky pad... but I bunch up, shift out of place'. A talking liner and a talking diaper follow. At 34s a TALKING BRIEF says 'Hi, I'm Everdries' over real hand and on-body inserts. The longest-running animated ad in the set, and proof that a brand can make its own product the speaking hero. Library: https://www.facebook.com/ads/library/?id=1700150534480418",
+     "caution": "Copy only the bunch/shift self-roast (CJ-safe wording), the pill captions and the brief-introduces-itself beat. Don't copy:\n- the villain gross-out face\n- 'irritate the heck out of your skin', 'bladder leaks/incontinence'\n- 'are you seriously still wearing me' (fails the you-rule)\n- 'If you have tiny dribbles, I work just fine. But don't count on me...' (a pad-holds-less claim)\n- '100% leak proof', '27X', 'not a single drop'\n- the '$59.95' price, the fake 'almost threw them away' review caption, the Veo watermark\nTheir brief's face sits on the front panel; ours stays on the upper front/waistband."
+    },
+    {
+     "ad_id": "1400650075258672",
+     "brand_page": "UltraDries / Bladder Freedom Stories",
+     "days_live": 104,
+     "impression_rank": "video#4 (thin page: 6 ranked videos, the other 5 are 47 days old or less). The 'I'm your disposable pad' opener also runs on LBL 1603359687813597 (143d, video#11) and Susan 1657042158953725 (151d, video#11), with different second lines",
+     "what_it_shows": "The confession hook. A sad Pixar pad with crossed arms stands in a cosy living room, with a Pixar grandma in frame behind it (the 'you' it speaks to). It says, word by word in yellow kinetic captions: 'I'm your disposable pad, I've been with you through everything, and I need to be honest with you.' The exact 'need to be honest' line is on this page only. Copy: the pad's sheepish, honest tone (not villain), the owner-in-frame cue (our mirror reflection) and the one-word kinetic captions. Library: https://www.facebook.com/ads/library/?id=1400650075258672",
+     "caution": "Its body is all banned:\n- plastic backing, irritation, smell, 'what I'm made of'\n- UTIs, 'built for incontinence, not periods' (attacks period underwear)\n- 200ml, 'nobody would ever know'\n- the doctor-blame, $12,000, a 'Pauline, 69' testimonial\n'I'm YOUR pad' is second person: use 'I'm the liner she wears'. No grandma or 60+ cues."
+    }
+   ]
+  },
+  {
+   "id": "V3",
+   "format": "Silent on-body clip with one moment line on screen. An AI woman acts the moment (labelled 'Dramatization'), then the plain black brief on a body, getting dressed. The moment is never repeated after the brief appears.",
+   "angle_id": "A1",
+   "why_this_format": "Built from two proven parts; the combination is untested.\n\nPart 1, the silent on-body clip (Tier A):\n- Everdries 4033313263646750 (275d, video#9), the only top-10 ad on Everdries' main page not tagged sale, upgrade or launch.\n- Also 861980366864284 (203d, #12), Carol 1753945612644056 (246d, #15) and 2012952326325019 (230d, #16).\n- Plus the leggings pull-up beat, 2028897597834338 (133d, 3 duplicates).\n\nPart 2, the one-line moment overlay (Tier B, 30-45 women):\n- Revival 1688978975632845 (139d): a plain on-video caption plus women leaning in from the frame edge to stare.\n- Your Postpartum PT 1530319598830519 (113d): a hallway sneeze plus a leg-cross re-enactment.\n- The line 'Sneezing shouldn't require crossing your legs' comes from Advanced Health 1015538471405847 (112d, a Tier B Emsella clinic). It's that ad's CAPTION opener only. Its video is a clinician with a second-person hook we can't run, so the line is untested on screen.\n\nIt's the only format whose first frame IS the landing H1, word for word. It carries A1, the brand's first non-negotiable ('open on the moment'). It's also the cheapest to make with AI.\n\nWhy not swap it for Pixar humans: their ranks are stronger (Susan #3), but their proof rests on fake first-person testimonials and health scares, and never on a moment hook.",
+   "structure": "An 8-20s loop. No VO: a licensed track (Meta Sound Collection, or Epidemic/Artlist in the current trending style), plus at most one diegetic moment sound or line.\n- 0-3s: the Miro visual hook. The AI woman in the moment (laugh, sneeze, the jumping-jacks cue), with one moment line on screen in the hero's bold upright sans. 'Dramatization' upper-left while the moment plays.\n- 3-12s: the plain black brief on the same AI woman, getting dressed (side-on, waist-to-knee or full figure): waistband stretch, black leggings pulled up over it, then ONE calm everyday action (sit back on the sofa and pick up her phone, step onto a mat and press play, walk to the door). She never repeats the laugh, sneeze or jump after the brief appears.\n- Last 2-3s, end card: 'Not a pad, not a diaper.' Or, only once the L1 source is live, 'Common? Yes. Normal? No.'\n\nCaption line 1 repeats the moment. Body: not a pad, plain black briefs, 30 nights to see if they hold, 'Find my match'.",
+   "tof_awareness": "Problem-aware, moment-first. The line alone lets her recognise herself, with no 'you' and no product claim.",
+   "funnel_handoff": "H1 'Stop! I'll pee myself!' (V3-a word for word in the same bold upright sans, once the hero copy is frozen; if the hero is restyled to Fraunces at the freeze, re-match). Then H2 'Picture the next big laugh, and not crossing your legs for it.' Then the bullet '...the sneeze, the laugh and the jump'. Then quiz Q1 'When does it happen most?' and the WHY card. Tags: a=m, utm_content=moment.",
+   "ai_production": "Character:\n- One AI woman per variation, 35-40, everyday body (include larger sizes across the set, cast to the measured size run), athletic-casual, warm home light.\n- Locked with one character reference (Higgsfield Soul ID / Kling element), so the moment woman and the on-body woman match.\n\nMoment shots (Nano Banana start frame, then Kling 2.x / Veo 3, 3-4s):\n- V3-a: palm-to-lens with motion blur, wiping to the card.\n- V3-b: a pre-sneeze freeze. Pose: 'knees press together, one foot tucked behind the other ankle, slight dip' (crossed knees while standing render as fused legs).\n- V3-c: phone low on the floor, she leans in from the frame edge and stares.\n\nOn-body:\n- Hold until the 5 reference photos of the real sample exist.\n- Prompt: 'getting dressed, sports top on, side view, waist-to-knee crop, pulling black leggings up over black briefs'. Start and end frames, 3s interpolation.\n- Fallback: hands stretching the brief on a bed, then the pull-up framed knee-to-waistband with the top covering the hip.\n- Reject any frame where the brief changes rise, colour, sheen or texture, shows lace or logos, or the crop becomes butt- or crotch-centred.\n\nText and audio:\n- All text in the edit, in the upper safe zone (about 16-60% of frame height, inside the 4:5 centre crop).\n- Moment lines in the hero's bold upright sans (Hanken Grotesk ExtraBold); Fraunces only for the end-card brand line.\n- Exact frozen hero wording only.\n- Music licensed only. The V3-c trainer line is generated in ElevenLabs; the TV stays off-frame or shows a blank generic screen (no real program, logo or person).\n\nLabels:\n- 'Dramatization' upper-left (about 16% down) whenever she's in the moment.\n- AI disclosure per the rules.\n- She never speaks about the product.\n\nNo children.",
+   "compliance_swaps": "- The moment line is a bare moment, third person or meme grammar. Never 'Still leaking when you sneeze?', 'you leak' or 'after your baby'.\n- 'Sneezing shouldn't require crossing your legs' passes the you-rule (no statement about her condition). It's cited as a Tier B caption line, not a proven on-screen hook.\n- 'Us/we' meme wording (Revival) only if Nikita okays a dramatized 'us'. Default is 'Anyone who's ever...'.\n- No first-person review caption (the Everdries refs use the fake 'almost threw them away' review).\n- No '#1 for women 60+', 'incontinence', 'dry', compression or shapewear look.\n- No 'no line' or 'stays put' claim from an AI render. On-body shots show the garment; they never demonstrate performance.\n- After the brief appears, no laugh, sneeze or jump on screen: no acted before/after.\n- Gym or class language stays out (home only).\n- 'For the sneeze, the laugh and the jump' only if the logged wear test covers the jump.",
+   "variations": [
+    {
+     "v": "V3-a The laugh (exact H1)",
+     "scenario": "Sofa, afternoon light.\n- The AI woman, crying with laughter, throws her palm at the lens. It wipes into a Claret card with 'Stop! I'll pee myself!'.\n- Cut to side-on hands stretching the plain black brief waistband, then leggings pulled up over it.\n- Then she drops back onto the sofa and picks up her phone, calm. No second laugh.\n- End card: 'Not a pad, not a diaper.'",
+     "visual_hook": {
+      "miro_no": "72 + 33",
+      "miro_name": "Stop-Hand To Lens, finished as a Camera Wipe",
+      "category": "Subject Motion (+ Pattern Interrupts)",
+      "why_for_this_ad": "The landing H1 starts with 'Stop!', and the gesture people make when a friend is too funny is a palm thrown out. Thrown at the lens, the looming hand is an instant startle stop (#72). The palm then wipes the frame into the hero line (#33), so gesture, wipe and words land as one beat.\n\nMiro examples: Flow Perfumes 156d, Feel 127d (#72); Hoooyi 174d (#33). It's a dramatized moment, not a testimonial, so it's labelled.",
+      "first_3s_shot": "9:16, living room, afternoon window light, licensed upbeat track. 'Dramatization' upper-left (about 16% down) from 0.0s.\n- 0.0-0.3s: medium close-up of an AI woman, 35-40, on a sofa, already laughing hard, eyes watering. She lunges and throws an open palm at the lens; it fills 60% of the frame with motion blur.\n- 0.3s: the palm wipes the frame into solid Claret (#A33154). 'Stop! I'll pee myself!' in cream bold upright sans (Hanken Grotesk ExtraBold, matching the live hero), about 3 lines, centred in the upper-middle safe zone, scaling from 95% to 100%. Optional diegetic gasp-laugh.\n- 1.6s: the Claret card wipes back to her, pulled back to full figure, doubled over, knees pressed together, hand still up.\n- 2.3-3.0s: hard cut to a side-on hip-height shot of her hands stretching the waistband of the plain black brief (from the real-sample photos) before black leggings come up over it. The label drops here.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/1427740342464727?platform=meta",
+       "https://drive.google.com/file/d/1pe09vts5d7AyJSEqfIHOdRVddi0WhoU9/view",
+       "https://app.winninghunter.com/ad/3443123245844682?platform=meta",
+       "https://drive.google.com/file/d/1d7hmT4lNvYiabJQpIK2QjI0HB6AuBhta/view",
+       "https://app.winninghunter.com/ad/1648680299903591?platform=meta",
+       "https://drive.google.com/file/d/1xETh_LNbGJ328Bc6y3m_NwTlhKSKijJC/view"
+      ]
+     },
+     "visual_hook_alternate": "09 Bold Headline Text Box: a zero-AI-person open. Full-frame Claret with 'Stop! I'll pee myself!' in huge cream bold sans for 1.2s, then the cut to her laughing. Stringys 165d https://app.winninghunter.com/ad/1930087600921834?platform=meta / https://drive.google.com/file/d/1tvozWHSs5bctaldvknNyi593Pl5fOnD-/view",
+     "onscreen_text_hook": "Stop! I'll pee myself!",
+     "spoken_or_vo_hook": "Optional diegetic (dramatized, mouthed over the licensed track): \"Stop! I'll pee myself!\". No VO.",
+     "caption_first_line": "'Stop! I'll pee myself!' Said at every good dinner by women who laugh too hard. Not a pad, not a diaper:",
+     "headline": "For women who'd rather laugh than cross their legs",
+     "hook_alternates": [
+      "Hoping nobody tells a really funny joke.",
+      "Her funniest friend just started a story. Legs: crossed.",
+      "Stop! I'll pee myself! (bare Claret card, no person, for a zero-AI-person version)"
+     ],
+     "proven_pattern": "The live landing H1 used as a one-line moment overlay, the Revival 1688978975632845 mechanic (139d, Tier B). Visual: Miro #72 (Flow Perfumes 156d, Feel 127d) + #33 (Hoooyi 174d).",
+     "her_words": "#19 'laughed too hard'; #1 'pee when I cough, sneeze, laugh'",
+     "label_needed": "'Dramatization' upper-left (about 16% down, inside the 4:5 crop, above the bottom 35%) from 0.0s until the cut to the brief. AI disclosure per the rules.",
+     "scroll_stop_score": 9,
+     "why_it_stops_the_scroll": "A hand lunging at the lens triggers a reflex flinch, the strongest physical stop in the library, and the wipe lands the line at 0.3s. The line is the funniest, most-said version of the moment, and it uses the word pee. It's the best scent match in the set: the ad's first words are the landing's first words, in the same bold upright type, so the click lands where it was promised."
+    },
+    {
+     "v": "V3-b The sneeze (freeze before it lands)",
+     "scenario": "Kitchen doorway, groceries in both hands.\n- The AI woman's face scrunches into a pre-sneeze, and her knees press together with one foot tucked behind the other ankle. Freeze before the sneeze lands, and both lines appear at once.\n- Unfreeze into the sneeze (still labelled).\n- Then cut to side-on hands stretching the brief, leggings up, and straight to the end card. No grocery-unpacking 'after' beat.\n- End card: 'Not a pad, not a diaper.'",
+     "visual_hook": {
+      "miro_no": "62",
+      "miro_name": "Problem Reenactment (frozen on the pre-sneeze)",
+      "category": "Subject Motion",
+      "why_for_this_ad": "An exaggerated sneeze plus the instant leg-press is the in-category hook already staged by Your Postpartum PT 1530319598830519 (113d, Tier B: a woman sneezes in a hallway and crosses her legs). Freezing BEFORE the sneeze lands adds an unresolved loop the eye can't leave. The pressed knees tell every woman who's done it what this is about, with no 'you leak'.\n\nMiro examples: The Beauty Insider 128d, Sarah Mitchell 126d. Still the best sneeze pick on the board.",
+      "first_3s_shot": "9:16, kitchen doorway, daylight, full figure. 'Dramatization' upper-left (about 16% down) from 0.0s.\n- 0.0-0.7s: an AI woman, 35-40, in jeans and a knit top, a full grocery bag in each hand. Her face scrunches into a pre-sneeze, eyes half shut, nostrils flaring. Diegetic 'aaah... aaah...'.\n- 0.6s: her knees press together, one foot tucked behind the other ankle, a slight dip.\n- 0.8s: FREEZE before the sneeze lands (no 'choo'), slow 5% push-in. Both lines appear at once in the upper safe zone (Plum Ink bold upright sans on a Warm Cream box): 'Aaah...' on top, 'Sneezing shouldn't require crossing your legs.' under it.\n- 2.4s: unfreeze into the sneeze, the bags swinging.\n- 2.7-3.0s: hard cut to side-on hands stretching the plain black brief waistband (from the real-sample photos). The label drops here.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/1642753536950933?platform=meta",
+       "https://drive.google.com/file/d/1PfW7xjUCQJENrEoy3wAD3OyWJBRA18Fs/view",
+       "https://app.winninghunter.com/ad/798387866405040?platform=meta",
+       "https://drive.google.com/file/d/1FgKPODbkdj7rq3lDnsOOKmGuGq4s7j-z/view"
+      ]
+     },
+     "visual_hook_alternate": "127 CCTV / Security Cam Look: a grainy high-angle 'KITCHEN CAM 07:42:13' catching the sneeze and the leg-press. Ziella 165d https://app.winninghunter.com/ad/1468216794655704?platform=meta / https://drive.google.com/file/d/1NZq4K7QF3pP5cbwzCut-X9B-BmYAIDng/view",
+     "onscreen_text_hook": "Aaah... / Sneezing shouldn't require crossing your legs.",
+     "spoken_or_vo_hook": "None. Diegetic 'aaah... aaah...', then silence on the freeze.",
+     "caption_first_line": "Sneezing shouldn't require crossing your legs. Plain black briefs: not a pad, not a diaper.",
+     "headline": "Not a pad. Not a diaper. Find your match.",
+     "hook_alternates": [
+      "Achoo. Legs crossed. Little pee anyway.",
+      "The half-second before a sneeze: legs crossed, hoping.",
+      "Aaah... (and the legs are already crossed)"
+     ],
+     "proven_pattern": "Line: the caption opener of Advanced Health and Wellness 1015538471405847 (112d, Tier B Emsella clinic, caption only, untested on screen; it passes the Meta you-rule). Staging after Your Postpartum PT 1530319598830519 (113d, Tier B, hallway sneeze plus leg-cross). Visual: Miro #62 (The Beauty Insider 128d).",
+     "her_words": "#34 'peeing a little every time i sneeze'; #119; #18 'I pee when I sneeze, cough, laugh, do jumping jacks...'",
+     "label_needed": "'Dramatization' upper-left from 0.0s until the cut to the brief. AI disclosure per the rules.",
+     "scroll_stop_score": 8,
+     "why_it_stops_the_scroll": "A pending sneeze is a tension everyone feels in their own nose, and the freeze holds it. Showing both lines with the freeze means the line is read by about 2.2s, not 2.9s. The leg-press is a private habit almost nobody sees shown, so recognition is instant and slightly funny. The line says what she's never said out loud, without diagnosing her."
+    },
+    {
+     "v": "V3-c The jump (lean-in stare) - GATED on the logged wear test covering a jumping-jack set",
+     "scenario": "Phone propped low on a living-room floor.\n- An off-frame TV (a generated trainer voice, no real program) says 'Okay! 30 jumping jacks!'. The AI woman in black leggings leans into frame from the right edge, close to the lens, and stares dead into it under a plain on-video caption.\n- Cut to side-on hands pulling leggings up over the plain black brief. Then she steps onto the mat and presses play on the remote. On the trainer's 'Let's go!', hard cut to the end card. No jumps on screen.\n- End card: '30 nights to see if they hold.' / 'Find my match'.\n- Fallback if the jump isn't in the logged wear test by launch: run V3-c-alt, the same lean-in stare at a dinner table with 'Hoping nobody tells a really funny joke.'",
+     "visual_hook": {
+      "miro_no": "52 + 70",
+      "miro_name": "Move In Frame, ending in a Face Lean-In to Lens",
+      "category": "Subject Motion",
+      "why_for_this_ad": "It now copies its real in-category twin, Revival 1688978975632845 (139d, Tier B): a phone on the floor, plain caption text over the footage, and women leaning INTO frame from the edge to stare at the lens. That staging is #52 Move In Frame + #70 Lean-In, not a letterbox meme bar.\n\nThe empty frame plus a trainer's voice sets up 'uh-oh' in 0.5s, her face arriving at the lens is the punchline, and the caption names pee. Miro examples: Jazzupco 319d, Turbojet Oz 196d (#52); Sun Powder 154d (#70).",
+      "first_3s_shot": "9:16, living room, phone propped low on the floor, a yoga mat in frame, the TV off-frame. 'Dramatization' upper-left (about 16% down).\n- 0.0s: the frame is empty (mat, sofa edge). Audio: a perky generated trainer voice from the off-frame TV: 'Okay! Thirty jumping jacks!' Caption line 1 in plain white bold sans with a soft black outline, centred at about 22% of frame height (inside the 4:5 crop): 'Workout video: \"Okay! 30 jumping jacks!\"'\n- 0.5-1.4s: an AI woman, 35-40, in black full-length leggings and a sports top, leans into frame from the right edge and comes close to the lens.\n- 1.0s: caption line 2 adds 'Anyone who's ever peed a little on a jump:'\n- 1.4-2.4s: she holds a deadpan stare dead into the lens, one eyebrow slowly rising.\n- 2.4-3.0s: cut to side-on hands pulling black leggings up over the plain black brief (from the real-sample photos). The label drops here.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/1463056664780642?platform=meta",
+       "https://drive.google.com/file/d/1zVM-U78yK8YcuLJSKL8k93BjDxeqrTfu/view",
+       "https://app.winninghunter.com/ad/4243514499236707?platform=meta",
+       "https://drive.google.com/file/d/11bLCfXqnuOUlOf3d6AZPzwji9V1ZKErq/view",
+       "https://app.winninghunter.com/ad/1500620454793754?platform=meta",
+       "https://drive.google.com/file/d/1XCYdk-Xnx7o964G0lrwr41Q1HFO0udmP/view"
+      ]
+     },
+     "visual_hook_alternate": "12 Meme Caption Frame: the same scene letterboxed under a white bar from 12% to 34% of frame height (text centred at about 22%), black Hanken Grotesk Bold. Successful Men Habits 199d https://app.winninghunter.com/ad/1929208381318205?platform=meta / https://drive.google.com/file/d/1Cial9J6LwYoQnQIzMd0dvbaXVcakgcHv/view",
+     "onscreen_text_hook": "Workout video: \"Okay! 30 jumping jacks!\" / Anyone who's ever peed a little on a jump:",
+     "spoken_or_vo_hook": "Diegetic, a generated (ElevenLabs) trainer voice from the off-frame TV: \"Okay! Thirty jumping jacks!\" (and later \"Let's go!\", cut on).",
+     "caption_first_line": "When the workout video says 'jumping jacks' and a little pee is part of the deal. Plain black briefs, not a pad, not a diaper:",
+     "headline": "Not a pad. Not a diaper. Find your match.",
+     "hook_alternates": [
+      "Jumping jacks? Legs crossed.",
+      "'30 jumping jacks!' / Her: (dead stare)",
+      "Us when the workout video says 'jumping jacks'. (Revival wording; only if Nikita okays a dramatized 'us')"
+     ],
+     "proven_pattern": "Revival 1688978975632845 (139d, Tier B): phone on the gym floor, women lean in from the frame edge and stare, under a plain caption 'us looking when someone says \"leaking after pregnancy is normal\"'. Home instead of gym, and 'Anyone who's ever...' instead of 'us'. Visual: Miro #52 (Jazzupco 319d) + #70 (Sun Powder 154d).",
+     "her_words": "#19 'or jumped up and down'; #18 'I pee when I... do jumping jacks'; #16 'We have all done it'",
+     "label_needed": "'Dramatization' upper-left from 0.0s until the cut to the brief. AI disclosure per the rules.",
+     "scroll_stop_score": 8,
+     "why_it_stops_the_scroll": "An empty frame with a trainer calling 'jumping jacks' is a setup every mom recognises. A face sliding into the lens and staring is the payoff, a meme everyone has shared. The 'Anyone who's ever...' caption invites her into the joke instead of diagnosing her. It names pee in 7 words and matches the landing's 'the jump'. It's gated because the jump is a repeated-leak moment: no logged jump, no jump ad."
+    }
+   ],
+   "references": [
+    {
+     "ad_id": "4033313263646750",
+     "brand_page": "Everdries / Everdries",
+     "days_live": 275,
+     "impression_rank": "video#9",
+     "what_it_shows": "A silent torso crop with the face out of frame: a woman stretches and snaps the high waistband of a pale-blue brief against a plain bedroom wall. No audio, no text. Copy the silent on-body motion (our 3-12s). Library: https://www.facebook.com/ads/library/?id=4033313263646750",
+     "caution": "Its framing is a front crop, waist to upper thigh, centred on the crotch. Copy only the waistband stretch-and-snap, re-staged side-on or full figure. Also don't copy:\n- the garment, or the pinch-and-smooth shapewear look\n- the headline '#1 Leakproof Underwear For Women 60+'\n- the first-person customer caption (fake-review risk)\nAdd our moment line; theirs has none."
+    },
+    {
+     "ad_id": "1688978975632845",
+     "brand_page": "Revival Physical Therapy & Wellness (Tier B clinic)",
+     "days_live": 139,
+     "impression_rank": "not ranked (Tier B)",
+     "what_it_shows": "A phone on the floor of a gym. Women 20s-30s walk past, then two lean into frame from the edge and stare at the camera under a plain on-video caption, 'us looking when someone says \"leaking after pregnancy is normal\"'. About 10s, meme style, no VO. The one-line caption plus move-in-frame stare, with the leak named: the exact V3-c staging. Library: https://www.facebook.com/ads/library/?id=1688978975632845",
+     "caution": "A clinic selling treatment; we never say 'fix'. Their 'us' is real staff; ours is 'Anyone who's ever...' unless Nikita okays a dramatized 'us'. Home setting, not a gym."
+    },
+    {
+     "ad_id": "2028897597834338",
+     "brand_page": "Everdries / Everdries",
+     "days_live": 133,
+     "impression_rank": "not in top 30/40 (3 Meta duplicates)",
+     "what_it_shows": "Silent, about 4s: a woman in a white crop top and a nude super-high-waist brief pulls black bike shorts up over it in a living room. The exact 'leggings pulled up over it' getting-dressed beat. Library: https://www.facebook.com/ads/library/?id=2028897597834338",
+     "caution": "It's a close rear crop centred on the butt, a Meta adult-content risk: ours is side-on, waist-to-knee or full figure. Not our cut or colour (ours copies the sample photos). Its caption is the fake 'almost threw them away... not a single leak' review: copy none of it."
+    }
+   ]
+  }
+ ],
+ "static_formats": [
+  {
+   "id": "S1",
+   "format": "Long-form native story: an un-styled phone photo of clean liners in her real-life spot, with a long brand-voice caption",
+   "angle_id": "A2",
+   "why_this_format": "The strongest cold static in the set: 25 Tier A, 13 in a page top-10 (of 137 classified). 8 of the pads angle's 15 top-10 slots are this format.\n- UltraDries Life Beyond Leaks image#1 1271768424869385 (209d), image#2 3241631309352492 (209d), image#3 1242067338128771 (202d, red circles), plus #6, #9 and #10.\n- Carol image#5 2037615280433020 (180d) and image#6 2041064119783101 (152d: a hand holding a pad up, with the cabinet story in the caption).\n\nThe image is a liner, not a brand, so it needs zero trust. AI-generated phone-photo looks (flash, crumbs, odd angle) cost nothing.",
+   "structure": "Image: a 4:5 un-styled phone photo of clean, wrapped (or half-peeled) liners in her real-life spot (handbag dump, vanity counter, dinner table). No headline. Only the picked Miro mark: an out-of-place element, a red circle, or a hand holding it up with a red arrow.\n\nCaption, 200-350 words in brand voice or third person:\n- The first ~125 characters name the moment AND the pee, and hold back the reveal so she taps 'See more'.\n- Then the liner routine (CJ enemy line).\n- Then 'Not a pad, not a diaper': plain black briefs.\n- Optional beat, only once the L1 source is live: 'Common? Yes. Normal? No.'\n- Then '30 nights to see if they hold.' and 'Find my match'.\n- Last line: 'Made with AI. Product images based on the real brief.' (only if a product image is used).\n\nNo stats in round 1.",
+   "tof_awareness": "Problem-aware liner users who have normalised it.",
+   "funnel_handoff": "Bullet 'Feels like underwear. Not a pad, not a diaper.' Then quiz Q3 'Pads or liners' leads to the REACT card 'Pads bunch and shift the second you move.' Then the offer table ('go in the trash every day'). S1-b also lands on the H2 '...not crossing your legs for it'; S1-c on the H1 laugh and the subhead. Tags: a=m, utm_content=pads.",
+   "ai_production": "- Nano Banana / Higgsfield image, prompted as a phone photo: 'iPhone flash photo, slightly high angle, un-styled, real clutter, no retouching'.\n- Liners: clean, white, unbranded, in pastel unbranded wrappers or with the backing half-peeled. Never lying loose and unwrapped on a floor (reads as used).\n- No real or lookalike brand marks (Always, Carefree, Poise), no car badges.\n- Red circles, arrows and handwriting are added in the edit (Procreate or Canva brush), not generated.\n- S1-c: the background friend is soft-focus and laughing; the hand holding the liner is the subject. No backlight (no core show-through).\n- Make 2-3 versions per variation and pick the ugliest believable one. Polished kills this format.\n- Keep C2PA/IPTC metadata on export.",
+   "compliance_swaps": "- Never a persona page, invented age or name, or 'I' voice. Copy the photo look and the long-caption length only.\n- No UTI/rash/chemicals/'what's in your pad', no doctor-blame, no 'incontinence'.\n- No second-person condition lines. Use 'nobody has to just live with it', not 'you don't have to'.\n- No kids/postpartum framing in round 1 (the landing never says kids).\n- No stats in round 1. No eco words, no $ or volume figures. 'Trash', not 'bin'.\n- No stained, used or floor-lying unwrapped liners. No backlit pad (no absorbency read).\n- 'For the sneeze, the laugh and the jump' only if the logged wear test covers the jump.",
+   "variations": [
+    {
+     "v": "S1-a The handbag",
+     "scenario": "Five handbag items tipped onto a car passenger seat, with one clean wrapped liner dead centre.\n- Story: the sneeze in the checkout line, the spare liner 'just in case'. After 'See more': 'it was never underwear'. It bunches, shifts, feels like a diaper and is in the trash by night.\n- Then plain black briefs, 30 nights to see if they hold, and the quiz.",
+     "visual_hook": {
+      "miro_no": "135",
+      "miro_name": "Out-of-Place Element",
+      "category": "Unique Visual Selection",
+      "why_for_this_ad": "An orderly everyday scene with one element that doesn't belong makes the eye snag on the anomaly. Cutting the clutter to 5 items and making the liner about 20% of the frame, flash-lit and dead centre, makes the anomaly unmistakable at feed size.\n\nIn-category twin: the UltraDries image#1 phone-photo ugliness (1271768424869385, 209d). Miro examples: Poava 202d, Carpe 105d.",
+      "first_3s_shot": "STILL 4:5. A flash-lit phone photo, slightly high angle, of handbag contents tipped onto a grey car passenger seat: exactly five items around the edges (keys, phone screen-down, lip balm, sunglasses, a crumpled receipt). Dead centre, slightly apart and angled, filling about 20% of the frame: ONE clean white panty liner in a pale-pink unbranded wrapper, catching the flash. Crumbs in the seat seam. No person, no text on the image, no car badge.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/1716130172687962?platform=meta",
+       "https://drive.google.com/file/d/1ffayihLxR0TGKXjoeZKOUjt8OyOjWCOZ/view",
+       "https://app.winninghunter.com/ad/1483297966400912?platform=meta",
+       "https://drive.google.com/file/d/1g4td9osviUityhFoen-9SnHlYuc6oFXJ/view"
+      ]
+     },
+     "visual_hook_alternate": "06 Circle / Highlight Annotation: the same 5-item dump with a rough red hand-drawn circle around the liner (the UltraDries image#3 look); run as the A/B. HiZoo 184d https://app.winninghunter.com/ad/946212441224736?platform=meta / https://drive.google.com/file/d/1dYdzwh_A0P09ZW-Bb8ENTVZ34D0XF9l9/view",
+     "onscreen_text_hook": "(no text on the image) The liner sits alone, dead centre, among five handbag items.",
+     "spoken_or_vo_hook": "none (static)",
+     "caption_first_line": "To every woman who keeps a liner in her handbag because a big sneeze can mean a little pee: there's something nobody says about that liner.",
+     "headline": "Not a pad. Not a diaper. Just underwear.",
+     "hook_alternates": [
+      "The sneeze in the checkout line. The spare liner in the handbag 'just in case'. A lot of women pee a little on a sneeze and carry on.",
+      "Every handbag has one: the liner that's there in case of a sneeze-pee.",
+      "Keys. Phone. Lip balm. And the liner, because a sneeze can mean a little pee."
+     ],
+     "proven_pattern": "UltraDries image#1 1271768424869385 and #2 3241631309352492 (209d): 'I need to warn every woman who uses disposable pads...', an open letter to a group that holds the reveal back past 'See more'. The scare is removed; the open loop ('something nobody says about that liner') is kept. Visual: Miro #135 (Poava 202d).",
+     "her_words": "#34 'every time i sneeze'; #119; #30 'just in case' planning ('I always go pee right before I leave')",
+     "label_needed": "None. AI image of objects only.",
+     "scroll_stop_score": 7.5,
+     "why_it_stops_the_scroll": "It looks like a friend's photo, not an ad, and the one flash-lit object that doesn't belong pulls the eye straight to the centre. The open-letter opener is the top static opener in the niche. It names the sneeze and the pee in line 1, so it can't be read as period care, then holds the turn back to earn the tap."
+    },
+    {
+     "v": "S1-b The vanity, again",
+     "scenario": "Two wrapped liners and one with its backing half-peeled, on the edge of a bathroom vanity beside a toothbrush cup. The half-peeled one is ringed in red with a scrawled 'again.'.\n- Story: the big laugh, legs crossed, a little pee anyway, the trip to swap the liner, 'everyone says it's just part of life'.\n- Then plain black briefs, 30 nights to see if they hold, and the quiz.",
+     "visual_hook": {
+      "miro_no": "06",
+      "miro_name": "Circle / Highlight Annotation",
+      "category": "Graphic & Text Overlays",
+      "why_for_this_ad": "The proven look of UltraDries image#3 1242067338128771 (202d): a low-fi phone photo of pads with a hand-drawn red circle. The circle says 'something is here' and makes her look closer at an object she knows too well.\n\nMoved from the floor to the vanity edge, with the liners wrapped or half-peeled, so nothing reads as used. One scrawled word ('again.') adds the dry joke without turning the native photo into an ad. Miro examples: HiZoo 184d.",
+      "first_3s_shot": "STILL 4:5. A slightly high-angle flash phone photo of the edge of a white bathroom vanity: a toothbrush cup, a hair tie, a tube of hand cream. Two clean liners still in pastel unbranded wrappers, and one clean white liner with its backing paper half-peeled, lie slightly crooked near the edge. The half-peeled one is ringed with a rough hand-drawn red circle. Next to it, scrawled in the same red marker, small: 'again.' No other text.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/946212441224736?platform=meta",
+       "https://drive.google.com/file/d/1dYdzwh_A0P09ZW-Bb8ENTVZ34D0XF9l9/view",
+       "https://app.winninghunter.com/ad/7242635897233276929?platform=tiktok",
+       "https://drive.google.com/file/d/1nJWvq70bNBwQveOcQXvSQcrsava_uBG8/view"
+      ]
+     },
+     "visual_hook_alternate": "131 First-Person POV Hands: a POV phone shot looking down at her own hands peeling the backing off a clean liner over a bathroom sink. PresentSpark 132d https://app.winninghunter.com/ad/1966833947595249?platform=meta / https://drive.google.com/file/d/1V27jjAwLFz7Llj5y6S4oYQnsQ5iRCItK/view",
+     "onscreen_text_hook": "(no headline) A red hand-drawn circle around the half-peeled liner, plus a scrawled red 'again.'",
+     "spoken_or_vo_hook": "none (static)",
+     "caption_first_line": "A big laugh. Legs crossed. A little pee anyway. Funny how swapping a liner became a normal part of the day.",
+     "headline": "For women who'd rather laugh than cross their legs (switch to 'Common? Yes. Normal? No.' once the L1 source is live)",
+     "hook_alternates": [
+      "Somewhere along the way, 'laugh, cross legs, swap liner' became a normal Tuesday.",
+      "The big laugh, the leg-cross, the liner swap. Every dinner.",
+      "Everyone says a little pee on a big laugh is just part of life. Funny how nobody says it out loud."
+     ],
+     "proven_pattern": "Photo look: UltraDries image#3 1242067338128771 (202d, red circles on a low-fi photo). The 'normal' turn: Revival 1688978975632845 (139d, Tier B, 'saying \"leaking after pregnancy is normal\" should make us all a little nervous'). Visual: Miro #06 (HiZoo 184d).",
+     "her_words": "#19 'laughed too hard'; #122 'just accept that you'll be peeing every time you sneeze' (shows the belief is common); #134 'just because it's common, it doesn't mean it's normal'",
+     "label_needed": "None.",
+     "scroll_stop_score": 8,
+     "why_it_stops_the_scroll": "A red circle is a command to look, and 'again.' is the joke she makes in her own head. The caption delivers the laugh, the leg-cross and the 'normal' turn inside the visible 125 characters, a belief she half-holds and has never heard questioned. Then she taps for the rest."
+    },
+    {
+     "v": "S1-c The laugh plan (liner held up at dinner)",
+     "scenario": "A flash phone photo at a restaurant table. Her hand holds one clean wrapped liner up toward the lens just under the table edge. Behind it: a wine glass and a friend's blurred, laughing face. A rough red arrow points to the liner with a scrawled 'the laugh plan.'\n- Story: dinner with the funny friend, a liner in the bag 'just in case' because laughing too hard can mean a little pee. It bunches, shifts, feels like a diaper, and goes in the trash. 'Wash. Hang. Wear again.' as a fact.\n- Then plain black briefs, 30 nights to see if they hold, and the quiz.",
+     "visual_hook": {
+      "miro_no": "55",
+      "miro_name": "Holding Prop",
+      "category": "Subject Motion",
+      "why_for_this_ad": "'The object dominates the frame': a liner held up at the lens is impossible to miss at feed size. It copies the actual IMAGE mechanic of Carol image#6 2041064119783101 (152d, a page top-10), which is hands holding a pad up, not a cabinet.\n\nThe friend laughing behind it ties the photo to the H1 laugh and subhead, and the red arrow is the native-photo mark. Not backlit, so no core show-through and no absorbency read. Miro examples: Bak'd 112d, Fisherman Kyle 91d.",
+      "first_3s_shot": "STILL 4:5. A slightly tilted flash phone photo at a busy restaurant table at night. Foreground, sharp: her hand (short natural nails, thin gold band) holds ONE clean liner in a pale-pink unbranded wrapper up toward the lens, just under the table edge, filling about 25% of the frame. Midground: a half-full wine glass and a bread basket. Background, soft focus: a friend across the table mid-laugh, head back. A rough red hand-drawn arrow points at the liner with a scrawled red 'the laugh plan.' No other text, no brand marks.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/1321846375999371?platform=meta",
+       "https://drive.google.com/file/d/1MOwOWG-aG_YF03iGE0ESctYkSiIErQ0x/view",
+       "https://app.winninghunter.com/ad/1309666984446374?platform=meta",
+       "https://drive.google.com/file/d/1UZMxS7FAEBML1xOD-eKdfuurF-LZrUlu/view"
+      ]
+     },
+     "visual_hook_alternate": "135 Out-of-Place Element: the same dinner table shot wide (plates, glasses, phones) with the wrapped liner sitting next to the bread plate as the one thing that doesn't belong. Poava 202d https://app.winninghunter.com/ad/1716130172687962?platform=meta / https://drive.google.com/file/d/1ffayihLxR0TGKXjoeZKOUjt8OyOjWCOZ/view",
+     "onscreen_text_hook": "(no headline) A red hand-drawn arrow to the liner, plus a scrawled red 'the laugh plan.'",
+     "spoken_or_vo_hook": "none (static)",
+     "caption_first_line": "Dinner with the funny friend. A liner in the bag, because laughing too hard can mean a little pee.",
+     "headline": "Plain black briefs. Not a pad, not a diaper.",
+     "hook_alternates": [
+      "Sick and tired of peeing a little every time she laughs, and of the liner that comes to every dinner.",
+      "The funny friend is coming. So is the liner.",
+      "Lipstick, keys, and the laugh plan."
+     ],
+     "proven_pattern": "Image: Carol 2041064119783101 (152d, image#6), hands holding a pad up to the camera (we drop the backlight). Caption: the same ad's comfort story (shifts, bulk), in brand voice. The alternate opener uses #119's own words in third person; the 'I'm sick and tired of...' structure also appears on Everdries 1414498667185183 (124d, product-aware, structure only). Visual: Miro #55 (Bak'd 112d).",
+     "her_words": "#19 'laughed too hard'; #1 'pee when I cough, sneeze, laugh'; #119 'I'm sick and tired of peeing myself every time I sneeze'",
+     "label_needed": "None (the friend laughing is not shown leaking; objects and a hand only).",
+     "scroll_stop_score": 7.5,
+     "why_it_stops_the_scroll": "A hand thrusting a liner at the camera at a dinner table is a jolt: something private held up in a public place. The laughing friend behind it tells the whole story in one glance. The caption names the laugh and the pee before the cut, and lands straight on the hero's H1 and 'rather laugh than cross their legs' subhead."
+    }
+   ],
+   "references": [
+    {
+     "ad_id": "1271768424869385",
+     "brand_page": "UltraDries / Life Beyond Leaks",
+     "days_live": 209,
+     "impression_rank": "image#1",
+     "what_it_shows": "An un-styled top-down phone photo of two unused pads on brown bathroom tiles with a sneaker toe in the corner. No text. A long caption under it opens 'I need to warn every woman who uses disposable pads...'. The look and the open-letter opener to copy (S1-a). Library: https://www.facebook.com/ads/library/?id=1271768424869385",
+     "caution": "A 61-year-old persona voice built on UTI and skin-damage claims, doctor-blame and 'incontinence': copy none of it. Copy the photo look, the open-letter shape and the long-caption length only. Our liners are wrapped and off the floor."
+    },
+    {
+     "ad_id": "1242067338128771",
+     "brand_page": "UltraDries / Life Beyond Leaks",
+     "days_live": 202,
+     "impression_rank": "image#3",
+     "what_it_shows": "A low-fi phone photo of two pads on a tile floor, marked up with red hand-drawn circles and arrows. No other text. The S1-b mark (red circle) and the S1-c mark (red arrow). Library: https://www.facebook.com/ads/library/?id=1242067338128771",
+     "caution": "Persona voice plus a 'what's in your pad' health insinuation and 'incontinence pads'. Copy only the red-mark phone-photo look; our liners are clean and wrapped or half-peeled, on a vanity, not the floor."
+    },
+    {
+     "ad_id": "2041064119783101",
+     "brand_page": "Everdries / Carol Henderson",
+     "days_live": 152,
+     "impression_rank": "image#6",
+     "what_it_shows": "Hands hold a pad up toward the camera against a bright lamp so the core shows through. The caption tells the 'bathroom cabinets full of pads' story (shifts, bulk, shows through jeans). It's the S1-c image mechanic (a hand holding the product up) in a top-10 static, plus the A2 story. Library: https://www.facebook.com/ads/library/?id=2041064119783101",
+     "caution": "A 63-year-old persona page. No backlight (the core show-through reads as an absorbency demo). Don't copy:\n- the rash/adhesive skin claims\n- the persona 'I' voice\n- 'incontinence/bladder leaks'\n- the '50% off / $59.95' sale\n- 'I threw out all my pads'\nOnly the hand-held pose, the cabinet beat and the comfort points, in brand voice."
+    }
+   ]
+  },
+  {
+   "id": "S4",
+   "format": "Text-led graphic in brand colours: one bold moment line (Tier B test), a meme-caption moment card, or a moment-titled listicle (Tier A mechanic)",
+   "angle_id": "A1",
+   "why_this_format": "Tier A: Carol Henderson 887125520881386 is image#1 on its page at 249d, a 5-item listicle whose title names the condition, which is why it works cold.\n\nTier B only:\n- The one-line card: Pine Peak 869271709162736 (97d, 'Hoping nobody tells a really funny joke?').\n- Origin 870082525676896 (312d), one line in 4 crops inside a DCO with a video, so its run time can't be credited to the card alone.\n- The sneeze line: Advanced Health 1015538471405847 (112d, caption opener only).\n\nIt names the moment before any product, so it needs zero brand trust. The H1 card uses the hero's exact words and bold upright type, so it becomes the visual signature retargeting can reuse later.",
+   "structure": "1:1 and 4:5 for feed; a separate 9:16 export for Stories with every label moved above the bottom 35%. Brand colours (Claret / Warm Cream / Plum Ink / Blush), a small lowercase 'leapproof' wordmark.\n- S4-a: the H1 line huge, in the hero's bold upright sans, plus a small second line.\n- S4-b: a white meme bar over one dramatized moment photo.\n- S4-c: a moment-titled list of 5 workarounds ('hacks'), with the product as item 5.\n\nShort caption: the moment, not a pad, plain black briefs, '30 nights to see if they hold', 'Find my match'. Optional 6-8s text-fade video cut of each (licensed audio only).",
+   "tof_awareness": "Problem-aware, moment-first.",
+   "funnel_handoff": "H1 'Stop! I'll pee myself! / Common? Yes. Normal? No.' (S4-a carries the words and type style once the hero copy is frozen). Then H2 '...not crossing your legs for it'. Then the bullet '...the sneeze, the laugh and the jump'. Then quiz Q1 and the WHY card. Tags: a=m, utm_content=moment.",
+   "ai_production": "- S4-a and S4-c: pure typography in Canva or Figma, no AI needed. Brand hex values; Hanken Grotesk ExtraBold for the S4-a line (matching the live hero's bold upright sans); Fraunces for the S4-c title; wordmark from the brand kit.\n- S4-b: one Nano Banana photo of the AI woman mid-sneeze (the same character as V3-b, so the line can be re-cut). 3/4 body, side-on. Pose: knees pressed together, one foot tucked behind the other ankle, a slight dip, grocery bags mid-swing. The meme bar, text and 'Dramatization' tag are added in the edit.\n- Export at 1080x1350 and 1080x1080, plus 1080x1920 for Stories with labels moved up.\n- Text-fade video versions: CapCut, 6-8s, line by line, licensed audio only.",
+   "compliance_swaps": "- No 'incontinence/protection/discreet/bladder'.\n- No 'Dry undies' (absolute claim), no '...after you sneeze' second person.\n- Listicle items are things women do, never health or pelvic-floor advice. They're called 'hacks', not 'tips', so they don't read as advice. Carol's tip 2 says to avoid jumping jacks, the opposite of our positioning.\n- No crotch-hands stock photo (Pine Peak's shame cue).\n- 'Common? Yes. Normal? No.' only once the L1 source is live.\n- 'For the sneeze, the laugh and the jump' only if the logged wear test covers the jump.\n- No customer, Reddit or review screenshots (fake-testimonial risk).",
+   "variations": [
+    {
+     "v": "S4-a The H1 card (Tier B test)",
+     "scenario": "Claret card with the exact frozen landing H1 in cream bold upright sans (the hero's type style).\n- Caption: the big-laugh moment, then plain black briefs for it, then the quiz.\n- Line 2: 'Common? Yes. Normal? No.' only once the L1 source is live; until then, 'Not a pad, not a diaper.'",
+     "visual_hook": {
+      "miro_no": "09",
+      "miro_name": "Bold Headline Text Box",
+      "category": "Graphic & Text Overlays",
+      "why_for_this_ad": "A large, high-contrast line that owns the frame reads in a 0.3s glance. The card carries the landing's first line word for word, in the same bold upright sans and line breaks, so the click lands on the same words in the same type.\n\nThe Claret background is deliberately a stronger colour stop than the cream page. The cream hero-replica is the A/B alternate, so the test also tells us whether colour stop or full visual match wins. Miro examples: Stringys 165d, Howdysnax 134d.",
+      "first_3s_shot": "STILL 4:5 and 1:1. Claret (#A33154) background. 'Stop! I'll pee myself!' in cream Hanken Grotesk ExtraBold (upright, matching the live hero), about 120pt, filling the top 55% in 2-3 lines with the hero's line breaks. Below, smaller, in Blush Hanken Grotesk: 'Not a pad, not a diaper.' (becomes 'Common? Yes. Normal? No.' once L1 is live). A small lowercase 'leapproof' wordmark bottom-centre ('leap' cream, 'proof' italic blush). No product, no person.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/1930087600921834?platform=meta",
+       "https://drive.google.com/file/d/1tvozWHSs5bctaldvknNyi593Pl5fOnD-/view",
+       "https://app.winninghunter.com/ad/1258656005599647?platform=meta",
+       "https://drive.google.com/file/d/1ufPfQcb4i7f7ChShgJuHzfH5_J12PpP8/view"
+      ]
+     },
+     "visual_hook_alternate": "09, hero-replica version (the scent A/B): Warm Cream background, Plum Ink bold upright sans, the hero's three-line layout, small wordmark. Same examples. The second alternate is #20 Fake Text / iMessage Thread: a brand-coloured chat with a grey bubble 'ok I need to tell you what happened at the work party' and a Claret bubble 'Stop! I'll pee myself!'. A dramatized chat about a laugh, never about the product. Weaker proof: Miro's examples are organic. https://www.tiktok.com/@aethryn/video/7412790177485081899 / https://drive.google.com/file/d/1wcbzY7Xi4dVEy-F_OgF7DaHgAHP9pBiC/view",
+     "onscreen_text_hook": "Stop! I'll pee myself! / (small) Not a pad, not a diaper.  [after L1: Common? Yes. Normal? No.]",
+     "spoken_or_vo_hook": "none (static)",
+     "caption_first_line": "The big laugh, the funny friend, the 'Stop! I'll pee myself!' moment. There are plain black briefs for that laugh.",
+     "headline": "For women who'd rather laugh than cross their legs",
+     "hook_alternates": [
+      "Hoping nobody tells a really funny joke.",
+      "Stop! I'll pee myself! (said by every woman with a funny friend)",
+      "Stop! I'll pee myself! as a chat bubble (Miro #20 version)"
+     ],
+     "proven_pattern": "The landing H1 word for word, on a Tier B one-line card (Pine Peak 869271709162736, 97d; Origin 870082525676896 card layout, 312d inside a DCO). Visual: Miro #09 (Stringys 165d).",
+     "her_words": "#19 'laughed too hard'; #134 common vs normal",
+     "label_needed": "None.",
+     "scroll_stop_score": 8,
+     "why_it_stops_the_scroll": "A saturated Claret block in a feed of photos is a colour stop, and the line is a laugh-out-loud phrase almost every woman has said. It names pee in 4 words. When she clicks, the first thing she sees is the same line in the same bold upright type, so trust carries over (a word-for-word match; the background colour is the one deliberate difference, tested against the cream replica)."
+    },
+    {
+     "v": "S4-b The sneeze card (meme frame, Tier B test)",
+     "scenario": "A white meme bar over a frozen mid-sneeze photo: the AI woman in a kitchen with grocery bags, 3/4 body, side-on, knees pressed together and clearly centred.\n- Caption: the sneeze moment, not a pad, not a diaper, the quiz.\n- It pairs with V3-b so a winning line can be re-cut.",
+     "visual_hook": {
+      "miro_no": "12",
+      "miro_name": "Meme Caption Frame",
+      "category": "Graphic & Text Overlays",
+      "why_for_this_ad": "Dry humour lands best in meme grammar. A white caption bar over a frozen mid-sneeze reads as a relatable post, not an ad. The picture is framed so the pressed knees and swinging bags (not a grimacing face) carry the moment at thumbnail size. It's Pine Peak's joke-card energy (97d). Miro examples: Successful Men Habits 199d, Forma 115d.",
+      "first_3s_shot": "STILL 4:5.\n- White top bar (top 28%) with black Hanken Grotesk Bold: 'Achoo. Legs crossed. Little pee anyway.'\n- Below: an AI photo, 3/4 body, side-on, of a woman, 35-40, mid-sneeze in a kitchen doorway. Eyes squeezed shut, face scrunched. Two grocery bags mid-swing. At the centre of the image: knees pressed together, one foot tucked behind the other ankle, a slight dip.\n- Small 'Dramatization' tag inside the image, upper-left, just under the bar.\n- A thin Warm Cream footer strip with the small 'leapproof' wordmark.\n- The 9:16 Stories export keeps the tag and bar above the bottom 35%.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/1929208381318205?platform=meta",
+       "https://drive.google.com/file/d/1Cial9J6LwYoQnQIzMd0dvbaXVcakgcHv/view",
+       "https://app.winninghunter.com/ad/2016221466446105?platform=meta",
+       "https://drive.google.com/file/d/1e-P9gPVAPluW0b5XcgRNuR7oraL9Di3y/view"
+      ]
+     },
+     "visual_hook_alternate": "13 Social Post Screenshot (the brand's OWN account only): a post card from @leapproof's real handle reading 'Achoo. Legs crossed. Little pee anyway.' No likes or counts. Never a customer or Reddit quote. Miro proof: 1 Meta ad at 94d (Rachel Morrison) plus organic. https://app.winninghunter.com/ad/1302768615402347?platform=meta / https://drive.google.com/file/d/1Sb1os7-D8wIECJrkgijviPD4jtZsx2ZI/view",
+     "onscreen_text_hook": "Achoo. Legs crossed. Little pee anyway.",
+     "spoken_or_vo_hook": "none (static)",
+     "caption_first_line": "Achoo. Legs crossed. A little pee anyway. Plain black briefs: not a pad, not a diaper.",
+     "headline": "Not a pad. Not a diaper. Find your match.",
+     "hook_alternates": [
+      "Sneezing shouldn't require crossing your legs. (the Tier B 112d caption line on a plain Warm Cream card; run as the A/B partner)",
+      "Achoo. (legs crossed)",
+      "The sneeze: half a second. The leg-cross: every single time."
+     ],
+     "proven_pattern": "Advanced Health 1015538471405847 (112d, Tier B, caption opener only): 'Sneezing shouldn't require crossing your legs', compressed into a three-beat joke. Card energy from Pine Peak 869271709162736 (97d, Tier B). Visual: Miro #12 (Successful Men Habits 199d).",
+     "her_words": "#34 'peeing a little every time i sneeze'; #119; #18 'I pee when I sneeze, cough, laugh...'",
+     "label_needed": "'Dramatization' tag on the photo, upper-left under the bar (an AI woman shown in the moment). AI disclosure per the rules.",
+     "scroll_stop_score": 8,
+     "why_it_stops_the_scroll": "Three beats in a rhythm read in under a second, and the punchline ('Little pee anyway') is blunt and matter-of-fact about pee, in brand voice. 'Anyway' pokes fun at her workaround, not at pads, so it's CJ-safe. The centred knees and mid-swing bags make it readable for anyone who doesn't read the bar."
+    },
+    {
+     "v": "S4-c The workaround listicle (Tier A mechanic)",
+     "scenario": "Carol's text-only listicle look in brand colours. The list is her real workarounds, so she nods along item by item, and #5 is the product, with zero health or pelvic-floor advice.\n- Item 5 if the wear test logs the sneeze and laugh but not the jump: 'Or: plain black briefs. Not a pad, not a diaper.'\n- If the test also logs the jump: '...for the sneeze, the laugh and the jump.'",
+     "visual_hook": {
+      "miro_no": "22",
+      "miro_name": "Numbered Listicle Title",
+      "category": "Graphic & Text Overlays",
+      "why_for_this_ad": "A title plus numbered items promises a skimmable payoff, and a title that names the leak makes it work cold. The proof is the Carol Henderson 887125520881386 mechanic (image#1, 249d), the only Tier A-backed S4 mechanic; Miro's own examples ran 94-99d.\n\nThe title copies Carol's '[X] [Y]: [Z] Edition' structure with the banned word swapped. 'Hacks', not 'tips', so the list reads as a wry nod to makeshift fixes, not advice. Miro examples: Michael Todd Beauty 99d.",
+      "first_3s_shot": "STILL 4:5. A Warm Cream card.\n- Title in Plum Ink Fraunces with a Blush highlighter swipe behind it: 'SNEEZE-PEE HACKS: REAL-LIFE EDITION'.\n- A numbered list in Hanken Grotesk, bold leads: '1. The leg-cross.' '2. Pee before leaving the house.' '3. A liner \"just in case\".' '4. Spare undies in the bag.'\n- '5.' in Claret bold: 'Or: plain black briefs. Not a pad, not a diaper.'\n- Small wordmark bottom-right.",
+      "miro_example_links": [
+       "https://app.winninghunter.com/ad/1275189594565147?platform=meta",
+       "https://drive.google.com/file/d/1RsFnR3KliKTZtAwcJ4KAoQNVSQysMpEz/view",
+       "https://app.winninghunter.com/ad/1550596629788896?platform=meta",
+       "https://drive.google.com/file/d/1nFl11iZM6vHxtNbdbvaQ6kmImLK10SMB/view"
+      ]
+     },
+     "visual_hook_alternate": "11 Handwritten Sign / Paper Note: the same list handwritten on a yellow sticky note on a bathroom mirror, with item 5 circled in red pen. Avimee.Hair 142d https://app.winninghunter.com/ad/1532333041894960?platform=meta / https://drive.google.com/file/d/1H5VJUQY4ZTYta6jdkanAb_qQVg5rySlf/view",
+     "onscreen_text_hook": "SNEEZE-PEE HACKS: REAL-LIFE EDITION / 1. The leg-cross. 2. Pee before leaving the house. 3. A liner 'just in case'. 4. Spare undies in the bag. 5. Or: plain black briefs. Not a pad, not a diaper.",
+     "spoken_or_vo_hook": "none (static)",
+     "caption_first_line": "Sneeze-pee hacks, real-life edition: cross the legs, pee before leaving, a liner 'just in case', spares in the bag... or #5.",
+     "headline": "Hack #5: plain black briefs",
+     "hook_alternates": [
+      "5 things women do so a sneeze doesn't end in a little pee",
+      "The sneeze-pee survival guide (#5 is the only one that's underwear)",
+      "Things women do before a sneeze: a list"
+     ],
+     "proven_pattern": "Carol Henderson 887125520881386 (249d, image#1): 'Incontinence Tips: Exercise Edition', 5 numbered items with the product as one. Same '[X] [Y]: [Z] Edition' structure, with 'Incontinence Tips' swapped for 'Sneeze-Pee Hacks'. Visual: Miro #22 (Michael Todd Beauty 99d).",
+     "her_words": "#30 'I always go pee right before I leave'; #6 'just bring spare panties' (the habit; pregnant row, used as inference only); #19",
+     "label_needed": "None.",
+     "scroll_stop_score": 7.5,
+     "why_it_stops_the_scroll": "'Sneeze-pee' in a title is blunt enough to stop her, and a list of her own secret workarounds makes her feel seen item by item. Recognition builds 1 to 4, then #5 turns it. The only S4 version with Tier A proof behind the mechanic."
+    }
+   ],
+   "references": [
+    {
+     "ad_id": "887125520881386",
+     "brand_page": "Everdries / Carol Henderson",
+     "days_live": 249,
+     "impression_rank": "image#1",
+     "what_it_shows": "A text-only graphic on a light-blue gradient: a yellow-highlighted title and 5 numbered tips with bold leads, one of which is the product. The listicle look and title structure to copy (S4-c). Library: https://www.facebook.com/ads/library/?id=887125520881386",
+     "caution": "Its title 'Incontinence Tips Exercise Edition' and the 'protection' and 'discreet' inside are banned. Its tips are health advice: empty your bladder first, and tip 2 says to avoid jumping jacks and running, against our positioning. The caption is the fake 'almost threw them away' review."
+    },
+    {
+     "ad_id": "870082525676896",
+     "brand_page": "Origin (Tier B pelvic PT)",
+     "days_live": 312,
+     "impression_rank": "not ranked (Tier B; DCO with a video, card not isolable)",
+     "what_it_shows": "A coral card with big cream type, 'Dry undies, even after you sneeze', a wordmark, a sunburst and soft waves. The same line runs in 4 crops inside a dynamic ad that also serves a video. The bold one-line brand-colour card to copy (S4-a). Library: https://www.facebook.com/ads/library/?id=870082525676896",
+     "caution": "'...after you sneeze' is second person, and 'Dry undies' is an absolute leak promise. It's a treatment brand ('Covered by insurance'). Copy the layout only."
+    },
+    {
+     "ad_id": "869271709162736",
+     "brand_page": "Pine Peak Therapy (Tier B clinic)",
+     "days_live": 97,
+     "impression_rank": "not ranked (Tier B)",
+     "what_it_shows": "An 8s card: olive text fades in on white, 'Hoping nobody tells a really funny joke?'. The humour line on the laugh moment, the tone for S4-a/b. Library: https://www.facebook.com/ads/library/?id=869271709162736",
+     "caution": "Skip the crotch-hands stock photo at about 2s (shame cue) and the call-to-schedule. Its copy opens 'Bladder leaks when you laugh...': don't lift 'bladder leaks' wording. Keep it text only."
+    }
+   ]
+  }
+ ],
+ "formats_rejected": [
+  {
+   "format": "Old V2: A-vs-B side-by-side, liner/kit vs briefs (hands-only flat-lay, jumping-jack split screen, getting-dressed split). Replaced by the AI talking duet.",
+   "why": "The weakest slot by evidence. The A-vs-B mechanic is Tier A only in its old-vs-new form, which we can't run. The runnable version is 7 Tier A ads, best ranks #18/#21/#27, 0 in a top-10, all with a diaper foil. The pad-foil version rests on 1 unranked ad (710413878795607, 180d). The duet keeps the comparison (V2-c is the 1691171645641479 pad-vs-black-brief face-off) in a form with 6 creatives and ranks #4/#11/#11. The hands-only 'kit vs one pair' (Miro #04 / #51) is saved for round 2."
+  },
+  {
+   "format": "V1-c's old opener: a locked top-down trash-can match cut (Miro #34) as the first 3s",
+   "why": "Scored 6 by the media buyer: no pee named, a faintly gross first frame no mom stops for, and the waste lens isn't continued on the landing's first screen. Replaced by #33 Camera Wipe (liner wiped into the brief). The match cut stays as the 3-12s middle beat, rebuilt as one locked plate plus composited pastel wrappers."
+  },
+  {
+   "format": "A 4th video format: a standalone AI talking-liner VILLAIN ('I'm a panty liner. I bunch up...', the Everdries 1700150534480418 tone)",
+   "why": "Not rejected on evidence; it's folded in. Nikita asked for 3 video formats, and a second AI-animation slot would make two of three videos the same production style and confound the format test. The villain line lives on as a V2-a hook alternate (tone test), rewritten so the joke lands on the liner, not on her. The confession tone leads because its opener repeats across 3 UltraDries pages (BFS #4, LBL #11, Susan #11), and a sheepish liner fits 'never shame / wry' better than a sneering one."
+  },
+  {
+   "format": "Pixar-style HUMAN narrative skits (UltraDries 'My mother wore disposable pads for 22 years', Susan 1047546990938022 video#3, LBL 1022480500513019 #12)",
+   "why": "These hold the strongest animated ranks (#3, #12), so this was weighed seriously. Every one is a first-person 'my mother / I was 48' testimonial or a health-scare (UTI/rash/chemicals) narrative aimed at 60+. A fake customer voice is banned even as a cartoon, and none leads with a moment (sneeze/laugh/jump). Swapping V3 for it would trade an untested combination for an equally untested one with worse compliance. Kept as a round-2 option for a third-person, moment-led Pixar laugh skit (Miro #42 freeze-frame), never a persona."
+  },
+  {
+   "format": "AI photoreal 'If you switched from diapers to X' whip-cut (Everdries 944665548485057, 175d; 4150463435264052, 179d)",
+   "why": "Unranked, and built on a diaper-to-brief result transformation for a 60+ woman. A result claim from an AI person is a fake demonstration, and diapers-as-what-she-wears repels our 30-45 'not old' avatar."
+  },
+  {
+   "format": "CGI product renders (3D exploded liner layers 25884925827867276; x-ray skeleton with a pad overnight 897763213317264; matchstick cartoon + pour 1968744327090523; CGI diaper vs boyshort 'VS' spin 945622924750214)",
+   "why": "All banned on CJ: a layer/mechanism claim, a night/pad-failure claim, a pour demo, a diaper foil. The only usable part (a rotating CGI brief) is product-aware, not TOF."
+  },
+  {
+   "format": "S2 native on-body photo with no overlay (moved to retargeting)",
+   "why": "Not TOF for a brand nobody knows: with no overlay it reads as a generic underwear ad, and the problem lives only in a caption cut off on mobile. All 14 proven versions ran product-aware captions; 6 top-10 slots came from only 4 unique photos. Hip and butt crops risk Meta's adult-content rule. An AI on-body photo with no moment is also the weakest use of AI. Retargeting only."
+  },
+  {
+   "format": "V5 'Just launched' news VO",
+   "why": "22 launch-tagged rows, mostly 'NEW RELEASE' or founder posts aimed at existing customers. 'New' means nothing to a stranger, and we have no old design."
+  },
+  {
+   "format": "UGC talking-head testimonial (real or AI)",
+   "why": "12 Tier A, 11 of them product-aware. It needs real customers and we have 0. An AI person saying it is a fabricated testimonial (FTC 16 CFR 465/255, Meta deceptive practices). The same applies to an AI woman ACTING the result after the brief appears (laughing/sneezing/jumping through it), which is why every payoff now shows getting dressed only."
+  },
+  {
+   "format": "Expert / clinician explainer",
+   "why": "Every Tier A example is a persona or actor. Fake doctors and nurses are banned, AI or not. (Advanced Health 1015538471405847 is a clinician video; we borrow only its caption line.)"
+  },
+  {
+   "format": "Old-vs-new A-vs-B",
+   "why": "Needs an original product we don't have."
+  },
+  {
+   "format": "Sale / promo / 'Do NOT buy X' videos and statics",
+   "why": "Most-aware and Everdries' top spend type, but bottom-of-funnel for us. There's no price on the landing; retargeting to the offer page only."
+  },
+  {
+   "format": "S3 side-by-side comparison photo (static)",
+   "why": "Only 3 Tier A proven, and the best rests on a customer before/after. V2-c covers the comparison mechanic."
+  },
+  {
+   "format": "S5 founder letter + macro photo",
+   "why": "Product-aware as proven (line extensions to existing customers). Only usable if Nikita signs a real origin story; untested cold."
+  }
+ ],
+ "visual_hook_principles": "Board: Nikita's Miro 'Visual Hooks Library', https://miro.com/app/board/uXjVHhmCPn0=/ (131 hooks, 5 categories). Every pick and every miro_example_links URL was re-checked against the board export. Those arrays hold board links only; in-category twins (Ad Library ads) are named in why_for_this_ad and the references.\n\n1) A hook earns its place only if its stopping mechanism IS the moment or the enemy. In frame 1 it must do three things:\n- (a) show the moment (laugh, sneeze, the jumping-jacks cue) or the enemy (a clean liner);\n- (b) name it ON SCREEN with sneeze/pee/laugh by about 1s, burned in and never VO-only, because most viewers are muted and a stranger mustn't read it as period care;\n- (c) set up a line the live hero repeats ('Stop! I'll pee myself!', 'Not a pad, not a diaper', 'Feels like underwear').\nHooks that stop the scroll with something unrelated were dropped. A bait stop sends the wrong click into a 13-question quiz.\n\n2) Hook type follows the angle:\n- A1 (the moment) gets body-first hooks: 72+33 Stop-Hand wipe, 62 Problem Reenactment, 52+70 Move In Frame stare, 42 Freeze Frame, 09 Bold Headline, 12 Meme Caption.\n- A2 (the enemy) gets object-first hooks: 75 handbag-cam POV, 33 Camera Wipe, 135 Out-of-Place, 06 Red Circle, 55 Holding Prop.\n- A3 (just underwear) gets character and comparison hooks: 117 3D Talking Character, opened with 70 Lean-In, 38 In Media Res or 04 A vs B.\n\n3) Diversity inside a format: the 3 variations use 3 different Miro hooks, so the test also tells us which visual hook works.\n- V1 = 75 / 42 / 33\n- V2 = 117+70 / 117+38 / 04+117\n- V3 = 72+33 / 62 / 52+70\n- S1 = 135 / 06 / 55\n- S4 = 09 / 12 / 22\nMoments are spread so no format is one-note: V2 = sneeze-pee / laugh / face-off; S1 = sneeze / laugh-normal / dinner laugh. Lines repeat across formats on purpose so a winner can be re-cut: 'Stop! I'll pee myself!' in V1-b / V2-b / V3-a / S4-a; the sneeze leg-press in V3-b / S4-b. V1-b (wide two-shot, freeze) and V3-a (close-up, palm wipe) are framed differently so Meta doesn't treat them as near-duplicates.\n\n4) The Meta 'you' rule is solved visually, never with weaker words:\n- The camera takes her point of view (handbag-cam, a hand at the lens).\n- Characters talk about 'her'.\n- Captions use 'Anyone who's ever...'.\n- Freeze labels describe the moment.\nShe recognises herself, and nobody tells her she leaks.\n\n5) Proof weighting: preferred hooks whose Miro examples ran 100+ days on Meta AND have an in-category twin in our evidence:\n- 117: board 161-178d; twins Everdries 208d, BFS #4, 1691171645641479 at 180d\n- 75: board 163-165d; twin Everdries 1206351388295667 POV at 275d\n- 33: board Mireva 301d, Hoooyi 174d; twin the UltraDries 896552676720439 pad-in-hand wave\n- 62: board 126-128d; twin Your Postpartum PT 113d\n- 52: board Jazzupco 319d; twin Revival 139d\n- 06: board HiZoo 184d; twin UltraDries image#3 202d\n- 135: board Poava 202d; twin UltraDries image#1 209d look\n- 55: board Bak'd 112d; twin Carol image#6 152d\n- 22: board examples 94-99d only; the proof comes from Carol 887125520881386 at 249d\n- 13 (alternate only): 1 Meta ad at 94d plus organic\n\n6) Every hook is designed for AI generation: one subject, a locked frame or a single camera move, no more than 1 cut in the first 1.2s, and a hard cut by 3s. All text and labels are added in the edit, inside the 4:5 centre crop and above the bottom 35% of a 9:16 frame. 'Dramatization' sits upper-left, about 16% down.\n\n7) The hook may dramatize the moment. The payoff never re-stages it: once the brief appears, nobody laughs hard, sneezes or jumps on screen.\n\nRejected across the board:\n- 122 Gross close-up (stained = banned and shaming)\n- 91 X-Ray/Cutaway (mechanism)\n- 54 Pour/Splash (banned demo)\n- 119 Baby/Kid (no children in round 1)\n- 120 Before/After (result claim)\n- 31 / 39 / 129 / 60 / 124 talking-head and review formats (need a real speaker; AI = fake testimonial)\n- 19 Big stat (no stats in round 1)\n- 05 / 10 / 140 / 24 (price/urgency)\n- 116 Unusual First Image (stops, but carries no moment)\n- 34 Match Cut as an opener (no pee named; kept as the V1-c middle beat)\n- 51 Many of Same (clutter, no focal point; replaced by 55)\n- 02 Kinetic Typography (used as the caption layer under every VO and character line, not as a hook)",
+ "ai_production_rules": [
+  "Lock the product first. Photograph the real CJ sample (SKU CJNSNYNK00343) flat front, flat back, side, stretched, and under black leggings. HOLD all product-frame generation and the brief character model sheet until these 5 photos exist. They're the reference for EVERY AI tool (Nano Banana, Higgsfield reference elements, Kling elements). Product prompt: 'plain black brief exactly as in the reference photos'. Rise, waistband width, leg line and sheen are copied from the photos, not from text. No lace, no logos, no gusset or seams that aren't on the sample. Never prompt from NUMBER_SHEET §13 (it still lists the old lace product).",
+  "The only fabric fact is 95% regenerated fibre / 5% spandex (NUMBER_SHEET §1b). Never render the gusset, layers, a cross-section, absorption, liquid or a pour. No backlit liners (no core show-through).",
+  "AI renders never demonstrate performance. No 'no line', 'stays put', dry-result or under-leggings-proof claim from a generated frame. After the brief appears, the AI woman never repeats the trigger: no hard laugh, sneeze or jump, and no frame that 'settles' the moment. On-body shots are getting dressed plus one calm everyday action (sit, walk, reach, press play). The only promise is the end-card text.",
+  "Crops: side-on, waist-to-knee, or full figure only. No butt- or crotch-centred framing (Meta adult-content risk). On-body prompt: 'getting dressed, sports top on, side view, waist-to-knee crop, pulling black leggings up over black briefs'. Use start and end frames with a 3s interpolation. Fallback when a model refuses or drifts: hands stretching the brief on a bed, then the pull-up framed knee-to-waistband with the top covering the hip.",
+  "AI women: 30-45, varied everyday bodies cast to the measured size run (include larger sizes across the set), warm home light, adults only. Never a doctor, nurse, founder or 'customer'. Never a first-person product line ('these held when I sneezed'). The only lines an AI woman may speak are dramatized moment lines ('Stop! I'll pee myself!'). Standing leg-cross pose: 'knees press together, one foot tucked behind the other ankle, slight dip' (crossed knees while standing render as fused legs).",
+  "'Dramatization' goes UPPER-LEFT, about 16% down the frame, inside the 4:5 centre crop: cream Hanken Grotesk at least 4% of frame height, 80% opacity. It stays on screen the whole time an AI woman is shown in the moment (laughing hard, sneezing, pressing her knees together, the jumping-jacks cue): V1-b, V3-a/b/c, S4-b. A woman only wearing or handling the product needs no label, but captions never imply she's a real tester. On statics the tag sits inside the image above any footer, and the 9:16 Stories export keeps it above the bottom 35%.",
+  "Safe zones: every text block and label sits inside the 4:5 centre crop and above the bottom 35% of a 9:16 frame (roughly 15-60% of frame height). Reels UI covers the bottom 35%, and feed shows 9:16 cropped to 4:5.",
+  "AI disclosure: check in Ads Manager whether an AI-disclosure option exists for this ad type and use it if it does. Either way, keep the C2PA/IPTC metadata from Veo, Nano Banana or Higgsfield (don't strip it on export or re-encode) so Meta can apply 'AI info'. Add one caption line under the body copy: 'Made with AI. Product images based on the real brief.' Keep the AI-image line in the landing footer (part of L0-L3).",
+  "Talking characters (V2): Pixar-style, built from model sheets. The brief character is built from the sample photos, with its face on the upper front near the waistband, never the crotch. The liner is clean, white and unbranded, sheepish not villainous. Liners and pads anywhere in the set are never stained, yellowed or branded.",
+  "V2 voice pipeline. Path A (default): Veo 3 image-to-video per line from the locked model-sheet frame, with the dialogue in the prompt. Then ElevenLabs Voice Changer (speech-to-speech) into the two saved character voices (Brief = warm, dry, mid-30s; Liner = higher, fussy, fast), so voices match across shots and lip timing is kept. Path B: ElevenLabs lines first, then a lip-sync model built for cartoon faces (e.g. Hedra Character-3), with Veo/Kling for non-speaking reactions. Test one 8s line both ways before building the 35s.",
+  "Character consistency: one character reference per woman and per object (Higgsfield Soul ID / Kling elements), reused across every shot. Generate in 3-8s shots and cut on reactions. No more than 1 cut in the first 1.2s of any hook. Regenerate any shot with lip-sync drift, extra or fused fingers or legs, garment morphing (into a boyshort or thong) or colour/sheen drift. Don't fix them in the edit.",
+  "Props and sets: no real or lookalike trademarks (Always, Carefree, Poise, car badges, real workout programs or TV logos). Liners are shown in pastel unbranded wrappers or clean and half-peeled, never loose and unwrapped on a floor or in a bin (reads as used). For match cuts, generate ONE locked plate and composite the changing props in the edit; vary the light with a grade, never a re-generation.",
+  "Audio: no commercial or 'trending' music and no real program audio in any ad. Use Meta Sound Collection or a licensed royalty-free library (Epidemic/Artlist), picked in the current trending style. Any TV or trainer voice is generated in ElevenLabs. One impersonal ElevenLabs brand narrator (a warm, wry woman in her 30s, accent matched to the launch market). Record VO first and cut to it.",
+  "Tools: Nano Banana for start frames and statics. Veo 3 for talking characters (native lip-sync, then Voice Changer). Kling 2.x for body motion and start/end-frame interpolation (the leggings pull-up). Higgsfield as the hub for references. ElevenLabs for the narrator, character voices and Voice Changer.",
+  "All on-screen text is added in the edit (CapCut/Premiere/Canva), never generated. Hook and moment lines use Hanken Grotesk ExtraBold, upright (matching the live hero's bold sans). Fraunces is for end-card brand lines and the S4-c title. Colours: Plum Ink #231017 / Claret #A33154 / Warm Cream #F5EDE6 / Blush #E7CFC9. Every hero line is copied character for character from the frozen landing. If the hero is restyled at the freeze, re-match the type.",
+  "Delivery: 9:16 for video (with 4:5 safe zones), 4:5 + 1:1 for statics plus a 9:16 Stories export. Burned-in captions (most viewers watch muted). Paid tiers only, no watermarks. V1 at about 35s and about 55s; V2 at about 35s and about 60s; V3 at 8-20s.",
+  "Naming: ad, ad-set and campaign names are codes only, because utm_content={{ad.name}} flows into the landing URL the pixel sees. Format: format-variation_hook_word (e.g. V2-a_117-70_confession, V1-c_33_wipe, S4-b_12_card). Never sneeze, pee, leak, bladder, pad or liner in any name."
+ ],
+ "flags": [
+  "BLOCKER: take the 3 fabricated named, rated reviews (Jess M. 4.6, Sarah Williams 4.8, Jessica Miller 4.9) off the landing before any ad runs (FTC 16 CFR 465, Meta deceptive practices). Replace them with the Straight Answer cards.",
+  "BLOCKER: there is no Meta pixel on any funnel page. Before adding it, strip the health answers from the quiz-to-offer URLs (p, o, k, r params), or PageView sends health data to Meta. Ad names are codes only for the same reason. Review the utm_content value 'pads' (a product word, not a condition word) with the pixel cleanup.",
+  "BLOCKER: the guarantee has no terms (from delivery, one claim, #leak-test block), and there are no Privacy/Terms/Refunds/Shipping/Contact links, no 'Not a treatment' line and no AI-image disclosure. Build L0-L3 before traffic, including the L1 Ridgeview strip. Until L1 is live, no ad uses 'Common? Yes. Normal? No.' (S4-a line 2, the S1-b headline and the V3 end card fall back as written).",
+  "BLOCKER, campaign-wide wear-test gate: no round-1 ad runs until the founder wear test of the actual CJ sample logs a sneeze AND a big laugh. Every V1/V2/S1/S4 ad implies the brief replaces a liner on those moments. The jump gates only V3-c and the word 'jump': if it isn't logged by launch, run V3-c-alt ('Hoping nobody tells a really funny joke.'). If the sneeze or laugh test fails, hold ALL ads and re-plan. Copy marked 'if the test logs sneeze and laugh but not the jump' is the default; 'for the sneeze, the laugh and the jump' needs the jump logged.",
+  "BLOCKER, landing consistency (Meta reviews the landing too): the wear-test gate also covers the live funnel's claims. The desktop eyebrow 'LEAK-RESISTANT UNDERWEAR · 2-MIN QUIZ' becomes 'BLACK BRIEFS · FIND YOUR MATCH' until the test is logged and the quiz is timed. Gate the bullet 'Built for the sneeze, the laugh and the jump' and the quiz-result line 'Made for the sneeze, the laugh and the jump' the same way, and change both to 'For the sneeze, the laugh and the jump' (no built/made for: the SKU is a menstrual panty). Replace carousel slide 2 (the rear crop centred on the butt, banned in ads) with a side-on or under-leggings shot.",
+  "BLOCKER (sizing): measure a real pair and lock one size range across NUMBER_SHEET, quiz and PDP. If it tops out near US 12, follow NUMBER_SHEET §13's fallback before spending on moms, and cast the AI women to the real size run.",
+  "BLOCKER (product reference): NUMBER_SHEET contradicts itself. §1b and the v4 size-chart row say plain black, 95% regenerated fibre, no lace, S-4XL. §13 rows 146-152 still say '95% cotton', 'tonal lace side panels', 'S/M/L/XL/2XL', '3 layers of menstrual panties'. Relabel those rows 'v3 OLD PRODUCT, superseded by v4 / §1b' before anyone writes an image prompt. Rise, waistband width and sheen are unverified: confirm them from the 5 reference photos, which gate every product frame and the brief model sheet.",
+  "V2 swap caveats: the talking-object format's proof is 60+, villain or health-scare copy running 113-237s. Our wry, brand-palette, CJ-safe 35s cut is the untested part. No talking-object ad sits in a page top-3; the best is BFS #4 on a thin page. Run the 35s and 60s cuts and let delivery pick. Test the voice pipeline on one 8s line both ways before building the full 35s.",
+  "AI disclosure: every round-1 creative is AI-made. Ads Manager's 'digitally created or altered' toggle may only exist for special-category ads, so the plan doesn't rely on it: use it if offered, keep C2PA/IPTC metadata on every export, add the caption line, and keep the landing-footer AI line. Rejected from the critic's wording: 'Product shown is the real brief'. The product frames are AI renders FROM sample photos, so the line reads 'Made with AI. Product images based on the real brief.'",
+  "Product fidelity: if any AI output drifts (lace, sheen, higher rise, boyshort shape), the ad misrepresents what ships, and the CJ product must look like the CJ product. Nikita should eyeball every product frame against the sample before export.",
+  "The V1-a hook says 'It's 2026' (on screen and VO). Change it to 2027 in January, or swap to the undated alternate 'Sneeze. Little pee. Out comes the spare liner.'",
+  "V2 characters address each other ('So you think you can replace me?', 'You stick on. I pull on.'). That's fiction between objects, not a viewer condition line, and no character line is ever spoken to camera about the viewer's body. If Meta review pushes back, fall back to the 'her' lines in hook_alternates.",
+  "Alternates with weaker proof: the S4-a alternate #20 (chat thread) has organic-only proof. The S4-b alternate #13 (post card) has 1 Meta ad at 94d plus organic, and is allowed only as @leapproof's real handle. Never a customer, Reddit or review screenshot.",
+  "Scent decision on S4-a, adapted from the critic: the live hero is bold upright sans (Plum Ink on cream), not Fraunces. We keep the Claret card as the lead (a stronger colour stop) but set the line in the hero's bold upright sans and line breaks, and run the exact cream hero-replica as its A/B. 'Pixel for pixel' claims are removed; it's a word-for-word match. If Nikita restyles the hero H1 to Fraunces at the freeze, re-match S4-a and the V3 moment lines.",
+  "Freeze the hero copy (after L0-L3 and the HERO_PASTE_LIST update), then lock every overlay, end card and S4 card to it word for word.",
+  "Market wording: ads say 'trash' (the live US offer page). NUMBER_SHEET §11's enemy sentence says 'bin'. Update the sheet to the US wording. The care line is 'Wash. Hang. Wear again.' (hang dry per the care rule; never 'wash, dry').",
+  "Round-1 scope is laugh, sneeze, and jumping jacks at home only, because the landing's first screen continues nothing else. Trampoline/kids wait for HERO_PASTE_LIST Card 1. The run is left out on purpose (no landing line, and repeated leaks aren't wear-tested). Gym/class waits for /match-t. No children and no 'after kids' wording in any round-1 creative.",
+  "Landing carry-through for A3 (V2): the page can't reorder slides per utm (no swap script; Funnelish native slots can't read ?a= or utm). Make the under-leggings image slide 1 for ALL traffic, or keep autoplay on, until a /match-u clone exists. Swap in a real photo of the sample when one exists.",
+  "?a= does nothing: one hero for every ad. Use a=m and track angles with utm_content (moment / pads / underwear) plus the code-only ad-name convention.",
+  "The funnel runs on leapproof.myfunnelish.com; try.leapproof.com 404s. Connect the branded domain (NUMBER_SHEET §12b), fix the 'Landing Page' tab title, add OG tags. Move the mobile 'Find my match' up and add the sticky bar.",
+  "Proof honesty: counts are 'of 137 classified Tier A ads' plus the recounted untagged rows for the animated family, so they're lower bounds. Same-copy cluster sizes are shared captions, not proof of scale. The moment lead (A1), the one-line S4 cards and the V3 overlay-plus-clip combination are Tier B or untested. 'Sneezing shouldn't require crossing your legs' is a Tier B clinic CAPTION line (Advanced Health 1015538471405847, 112d), untested on screen; that ad's video is a clinician with a second-person hook. V1's narrator opener is proven by 1206351388295667 only. This is the best evidence available, not revenue proof.",
+  "Overlap: V1 (A2) and V2 (A3) both use the liner as the foil, and V1-c's 'a sticker' echoes V2-a's joke. V2's hero is the brief speaking ('Just underwear'), while V1's is the liner routine. Read V1 vs V2 partly as a format test on the same enemy. The CJ enemy line is the only one we're allowed. V1-a (sneeze, handbag) and V2-b (laugh, clutch) no longer share a scenario.",
+  "Critic suggestions adapted rather than taken verbatim:\n- V1-c is staged at a bathroom vanity, not the suggested parked car, so it doesn't repeat V1-a's car park.\n- V1-a keeps 'ACHOO!' plus the contrarian line on screen and moves 'POV: the spare liner... She just sneezed.' to a hook alternate. That satisfies the media buyer (the proven line burned in from frame 0) and the logic fix (the post-sneeze grab) together.\n- The Ad Library twin links moved out of miro_example_links into the why_for_this_ad text instead of a new 'in_category_twin' field, to keep the schema unchanged.",
+  "Disagreement with a critic, kept from w1: 2041064119783101 stays the third S1 reference instead of 883503151225665. That ad's image (a woman crying in a toilet stall) is a shame cue that would show the wrong look. It's now also the direct twin for S1-c's hand-held liner.",
+  "Market and currency conflict: CLAUDE.md and OFFER.md say AUD 3/$69, 5/$89, 10/$159; NUMBER_SHEET says USD US-first 3/$45, 5/$59, 10/$99. NUMBER_SHEET wins. TOF ads carry no price either way. Match the narrator's accent to the launch market.",
+  "Quiz length: 13 questions live vs 12 in NUMBER_SHEET §12. Ads say 'Find my match', never '2-minute quiz', until it's timed.",
+  "No stats in round-1 ads. The 1-in-3 figure covers 6 weeks to 1 year after birth, and the quiz NORMAL card already carries it with its source."
+ ],
+ "next_step": "Tomorrow, Nikita:\n1) OKs or swaps the 3 video formats. The big decision is V2 → the AI talking duet.\n2) Reviews the 15 visual-hook picks (each with a backup), especially the 4 new ones: V1-c #33 Camera Wipe, V3-c #52+70 Move In Frame, S1-c #55 Holding Prop, and the V3-a #72+33 credit. Then the on-screen hook lines.\n3) Picks the offered tone and scent tests:\n- V2-a confession vs the villain alternate\n- V2-b laugh lead vs the sneeze café alternate\n- S4-a Claret card vs the cream hero-replica\n- S4-b meme card vs the 'Sneezing shouldn't require crossing your legs' card\n4) Decides whether the hero H1 stays bold sans or moves to Fraunces at the freeze, and whether a dramatized 'us' is OK for V3-c.\n\nThen Step 4 writes the full scripts against this plan, the you-rule, the CJ claims column, the no-repeat-trigger rule and the frozen hero copy:\n- 9 videos: VO and character dialogue, shot lists 3s+, end cards, 35s/60s cuts.\n- 6 statics: long S1 captions and S4 card copy.\n\nIn parallel, before any spend:\n- Clear the 7 BLOCKERs:\n  1. Fake reviews off.\n  2. Pixel and URL health data stripped.\n  3. Guarantee terms, L0-L3 and the AI line.\n  4. Founder wear test logged for a sneeze AND a big laugh (plus the jump for V3-c).\n  5. Landing eyebrow, bullet, quiz-result line and carousel slide 2 fixed.\n  6. Size range measured.\n  7. NUMBER_SHEET §13 relabelled as the old product.\n- Freeze the hero copy.\n- Take the 5 reference photos of the real sample.\n- Test the V2 voice pipeline on one 8s line both ways, then build the two character model sheets.\n\nThe statics with no product frame (S1-a/b/c, S4-a, S4-c) can be produced first. V1-c's locked trash-can plate and the V2 liner model sheet can also start before the photos arrive."
+}
