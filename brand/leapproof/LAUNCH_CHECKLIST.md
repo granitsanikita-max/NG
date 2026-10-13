@@ -37,6 +37,8 @@ Legend: **N** = Nikita does it · **C** = Claude does it (paste-ready code/copy 
 
 ## 4. Shopify storefront (after the funnel)
 - [x] Homepage built in draft theme "Leapproof Home v1 (draft)" (copy v3, chiefed twice). Preview: https://leapproof.com/?preview_theme_id=196151771507&lpdemo=1 — N publishes after review (Online Store → Themes → Publish).
+- [x] Home images in draft theme "Leapproof Home v2 (images)" (196194337139). Preview: https://leapproof.com/?preview_theme_id=196194337139&lpdemo=1. Nikita publishes it.
+- [ ] **BLOCKER (FTC 16 CFR 255.5): when the real tester reviews go live on the home page, each one must say the tester got a free set** (e.g. the small grey line under the title: "Tester · got a free set"). The section-level line and the per-card badge were removed from the mockup at Nikita's request. Put one of them back before `LPH_REVIEWS_LIVE` is turned on.
 - [ ] Home page blockers before publishing: real person/company named · real tester reviews or sample section off · US policies published (drafts in policies/*-US.txt) · gift listings live at $12.95/$19.95 · hello@ working (see home/HOMEPAGE_COPY.md §9).
 - [ ] Product pages: replace CJ description ("menstrual underwear", kg sizes), delete CJ images with banned text.
 - [ ] Publish the 4 policies (Settings → Policies); privacy policy contact = hello@leapproof.com (not personal Gmail/phone/home address).

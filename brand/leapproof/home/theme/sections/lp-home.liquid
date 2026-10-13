@@ -86,9 +86,7 @@
           <h2 class="lph-rvsum__h">Don’t take our word for&nbsp;it.<br><em>Take theirs.</em></h2>
           <p class="lph-rvsum__sub">Women who were tired of crossing their legs before every sneeze, on what changed.</p>
         </div>
-        <div class="lph-rvphotos" id="lph-rvphotos"></div>
       </div>
-      <p class="lph-small lph-rvnote">Every tester got a free set and was asked for an honest review at any star rating. We don’t hide reviews for being negative.</p>
       <div class="lph-rvlist" id="lph-rvlist"></div>
     </div>
   </section>
@@ -449,9 +447,6 @@
 #lph .lph-rvsum__sub{color:var(--taupe-d);font-size:16.5px;max-width:420px}
 #lph .lph-proof a{color:inherit;text-decoration:underline;text-decoration-color:var(--claret);text-underline-offset:3px}
 #lph .lph-stars{color:#E0703A;letter-spacing:2px;font-size:22px;line-height:1.2;margin-top:8px}
-#lph .lph-rvphotos{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
-#lph .lph-rvphotos img{aspect-ratio:3/4;object-fit:cover;border-radius:6px;width:100%}
-#lph .lph-rvnote{margin:16px 0 8px}
 #lph .lph-rv{padding:28px 0;border-bottom:1px solid var(--line)}
 #lph .lph-rv__who{display:flex;align-items:center;gap:14px}
 #lph .lph-av{width:52px;height:52px;border-radius:50%;background:var(--blush-2);color:var(--claret-d);display:flex;align-items:center;justify-content:center;font-family:'Fraunces',Georgia,serif;font-size:20px;font-weight:600;flex:none}
@@ -474,7 +469,7 @@
 #lph .lph-sl__bar span{height:6px;background:var(--line);border-radius:3px}
 #lph .lph-sl__bar i{position:absolute;top:-6px;width:8px;height:18px;border-radius:3px;background:var(--claret);left:calc(var(--v) * 1% - 4px)}
 #lph .lph-sl__lbl{display:flex;justify-content:space-between;font-size:13px;color:var(--taupe-d);margin-top:8px}
-@media (min-width:800px){#lph .lph-rvsum{grid-template-columns:.8fr 1.2fr}#lph .lph-rv{display:grid;grid-template-columns:260px 1fr;column-gap:56px;padding:36px 0}#lph .lph-rv .lph-rv__main .lph-stars{margin-top:0}#lph .lph-rv__sls{display:grid;grid-template-columns:1fr 1fr;gap:24px}}
+@media (min-width:800px){#lph .lph-rv{display:grid;grid-template-columns:260px 1fr;column-gap:56px;padding:36px 0}#lph .lph-rv .lph-rv__main .lph-stars{margin-top:0}#lph .lph-rv__sls{display:grid;grid-template-columns:1fr 1fr;gap:24px}}
 /* anatomy + features */
 #lph .lph-anat{position:relative;margin-bottom:32px}
 #lph .lph-anat>img{border-radius:var(--r);width:100%}
@@ -625,9 +620,9 @@
 /* SAMPLE tester reviews for the mockup only. Replace with real Founding 30 reviews, word for word (same fields).
    fit: 0 = runs small, 50 = true to size, 100 = runs big · comfort: 0 = not comfy, 100 = like my normal undies */
 window.LPH_REVIEWS = [
-  {name:'Jess M.', stars:5, title:'Forgot I had them on', when:'Tester review', text:'Skeptical, because the last “leak-proof” pair I bought went straight through. These look like my normal black undies. Did a full class of double-unders on Tuesday and didn’t think about it once.', set:'The Everyday Rotation', size:'M', rec:true, fit:50, comfort:92, photo:'{{ cdn }}SAMPLE-review-1.jpg?v=1791804638&width=400'},
-  {name:'Sarah W.', stars:5, title:'Exactly what I wanted', when:'Tester review', text:'Got the 5. The waistband is soft and they don’t look like anything special, which is exactly what I wanted. I’m usually a US 8 and the L fits.', set:'The Everyday Rotation', size:'L', rec:true, fit:50, comfort:85, photo:'{{ cdn }}SAMPLE-review-2.jpg?v=1791804638&width=400'},
-  {name:'Renee T.', stars:4, title:'Finally something in my size', when:'Tester review', text:'I’m a US 18 and expected nothing to fit. The 3XL fits like my normal briefs. Still testing them on my runs, will update.', set:'The Full Rotation', size:'3XL', rec:true, fit:42, comfort:80, photo:'{{ cdn }}SAMPLE-review-3.jpg?v=1791804639&width=400'}
+  {name:'Jess M.', stars:5, title:'Forgot I had them on', when:'Tester review', text:'Skeptical, because the last “leak-proof” pair I bought went straight through. These look like my normal black undies. Did a full class of double-unders on Tuesday and didn’t think about it once.', set:'The Everyday Rotation', size:'M', rec:true, fit:50, comfort:92},
+  {name:'Sarah W.', stars:5, title:'Exactly what I wanted', when:'Tester review', text:'Got the 5. The waistband is soft and they don’t look like anything special, which is exactly what I wanted. I’m usually a US 8 and the L fits.', set:'The Everyday Rotation', size:'L', rec:true, fit:50, comfort:85},
+  {name:'Renee T.', stars:4, title:'Finally something in my size', when:'Tester review', text:'I’m a US 18 and expected nothing to fit. The 3XL fits like my normal briefs. Still testing them on my runs, will update.', set:'The Full Rotation', size:'3XL', rec:true, fit:42, comfort:80}
 ];
 </script>
 {%- endif -%}
@@ -644,8 +639,6 @@ window.LPH_REVIEWS = [
     var sec=document.getElementById('lph-reviews'); sec.hidden=false;
     var avg=R.reduce(function(a,r){return a+r.stars},0)/R.length, rec=R.filter(function(r){return r.rec}).length;
     var st=function(n){var s='';for(var i=1;i<=5;i++)s+=(i<=Math.round(n)?'★':'☆');return s};
-    var ph=document.getElementById('lph-rvphotos');
-    R.filter(function(r){return r.photo}).slice(0,3).forEach(function(r){var i=new Image();i.src=r.photo;i.alt='Photo from '+r.name+'’s review';i.loading='lazy';ph.appendChild(i)});
     var heart='<svg viewBox="0 0 24 24"><path d="M12 21s-7-4.4-9.3-9A5.2 5.2 0 0 1 12 6.3 5.2 5.2 0 0 1 21.3 12C19 16.6 12 21 12 21z"/></svg>';
     var sl=function(t,v,a,b){return '<div class="lph-sl"><p>'+t+'</p><div class="lph-sl__bar" style="--v:'+v+'"><span></span><span></span><span></span><span></span><i></i></div><div class="lph-sl__lbl"><span>'+a+'</span><span>'+b+'</span></div></div>'};
     document.getElementById('lph-rvlist').innerHTML=R.map(function(r){
