@@ -73,6 +73,8 @@
 #lpq .lvl{position:relative;height:12px;border-radius:0;background:linear-gradient(90deg,#E7CFC9,#C98A9B,#A33154,#5c1b31);margin:30px 4px 8px}
 #lpq .lvl .pin{position:absolute;top:50%;width:24px;height:24px;margin:-12px 0 0 -12px;border-radius:50%;background:#fff;border:4px solid var(--ink);box-shadow:0 2px 8px rgba(0,0,0,.2)}
 #lpq .lvl .you{position:absolute;bottom:22px;transform:translateX(-50%);background:var(--ink);color:#fff;font-size:12px;font-weight:700;padding:4px 9px;border-radius:0;white-space:nowrap}
+#lpq .lvlh{margin:24px 4px 0}
+#lpq .lvlh+.lvl{margin-top:40px}
 #lpq .lvls{display:flex;justify-content:space-between;font-size:13px;color:var(--taupe)}
 #lpq .ba{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 #lpq .ba figure{margin:0;border-radius:0;overflow:hidden;background:var(--cream)}
@@ -265,6 +267,7 @@ function profile(){
      '<div class="tl2"><small>Your week</small><b>'+(LBL.q9[A.q9]||'A mix')+', washed '+(LBL.q12[A.q12]||'weekly')+'</b></div>'+
      '<div class="tl2"><small>Your match</small><b>Size '+size+' · '+n+' pairs</b></div>'+
    '</div>'+
+   '<div class="lab lvlh">How much you leak</div>'+
    '<div class="lvl"><span class="you" style="left:'+lv+'%">You</span><span class="pin" style="left:'+lv+'%"></span></div>'+
    '<div class="lvls"><span>Light</span><span>Medium</span><span>Heavy</span></div>'+heavy+'</div>'+
    '<div class="sec"><div class="lab">Why this pair matches you</div><ul class="ticks" style="margin-top:4px;max-width:none">'+
