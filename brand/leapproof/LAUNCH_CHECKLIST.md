@@ -52,6 +52,8 @@ Legend: **N** = Nikita does it · **C** = Claude does it (paste-ready code/copy 
 - [ ] Every button and link: landing → quiz → offer → checkout → upgrade → thank-you; footer policy links load.
 - [ ] Page titles on every step (no "Landing Page" / "Checkout Page").
 - [ ] Tracking: Meta pixel on all steps + PageView, Lead/QuizComplete, InitiateCheckout, Purchase (USD). Optional: Microsoft Clarity.
+- [ ] Tracking (ads/CAMPAIGN_PLAN.md §0): Funnelish Meta Pixel app + **CAPI token**. **Remap AddToCart** to the product page's set button (by default Funnelish fires AddToCart on opt-in). Lead stays on the quiz opt-in.
+- [ ] Events Manager: no **health & wellness restriction** notice on the domain (a mid-level restriction blocks ATC/Purchase optimisation). No medical words in Funnelish product names, URLs or event data.
 
 ## 6. Test purchase (N does it, C checks the data)
 - [ ] Real order through the live funnel with a real card, one per set (3 / 5 / 10), one with the add-on, one taking the upgrade.
