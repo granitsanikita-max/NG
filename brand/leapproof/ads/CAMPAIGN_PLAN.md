@@ -3,7 +3,7 @@
 > **Creative superseded 2026-10-13.** §1 (the 15-ad batch) is replaced by `first-campaign/FIRST_CAMPAIGN_CREATIVE_PLAN.md` (Google Doc: "Leapproof · First Campaign: Formats, Angles & Hooks"). The new plan is all top of funnel. It covers:
 > - Avatar: the Pad-and-Liner Mom, problem-aware.
 > - Angles A1/A2/A3, all landing on the live hero.
-> - Video: V1 liner + VO, V2 AI 3D talking duet, V3 silent on-body.
+> - Video: V1 liner + VO, V2 A-vs-B comparison (liner vs brief), V3 silent on-body. These are the top 3 runnable formats by normalised impression rank (`research/format_scoreboard.json`). The AI talking duet is out: no ad of its type sits in any page's top 25%.
 > - Statics: S1 long-form liner photo, S4 text cards.
 > - Per ad: a Miro visual hook, hooks, and 3 proven references per format.
 >
