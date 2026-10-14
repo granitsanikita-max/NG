@@ -3,7 +3,7 @@
 > **Creative superseded 2026-10-13.** §1 (the 15-ad batch) is replaced by `first-campaign/FIRST_CAMPAIGN_CREATIVE_PLAN.md` (Google Doc: "Leapproof · First Campaign: Formats, Angles & Hooks"). The new plan is all top of funnel. It covers:
 > - Avatar: the Pad-and-Liner Mom, problem-aware.
 > - Angles A1/A2/A3, all landing on the live hero.
-> - Video: V1 liner + VO, V2 A-vs-B comparison (liner vs brief), V3 silent on-body. These are the top 3 runnable formats by normalised impression rank (`research/format_scoreboard.json`). The AI talking duet is out: no ad of its type sits in any page's top 25%.
+> - Video (top of funnel): V1 liner + VO, V2 AI talking liner (3D animation), V3 Pixar-style AI story of the moment. Chosen as the top COLD formats, modelled on UltraDries (the brand still acquiring customers), not Everdries' spend (mostly warm). A-vs-B comparison and silent on-body are proven but warm → moved to retargeting; see `first-campaign/FIRST_CAMPAIGN_SUMMARY.html` §6 for their reference ads. `research/format_scoreboard.json` holds the normalised ranks.
 > - Statics: S1 long-form liner photo, S4 text cards.
 > - Per ad: a Miro visual hook, hooks, and 3 proven references per format.
 >
