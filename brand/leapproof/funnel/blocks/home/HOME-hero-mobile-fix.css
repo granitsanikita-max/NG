@@ -1,0 +1,13 @@
+/* Leapproof Shopify homepage ("Leapproof Home v2 (images)" theme) · section sections/lp-home.liquid
+   PHONE HERO FIX. Paste inside the section's <style>, on a new line right after:
+     @media (max-height:620px) and (max-width:899px){#lph .lph-hero__media{height:118px;min-height:0}#lph .lph-h1{font-size:34px}}
+   Then Save. Desktop (>=900px) is untouched.
+   Problem it fixes: on phones the hero media box was height:26vh/max-height:300px (a short landscape strip),
+   so the portrait back-view and under-leggings slides were cropped to a zoomed butt shot. This makes the
+   phone hero a 4:5 portrait so all three slides show in full. Verified at 390x844 against the live page. */
+@media (max-width:899px){
+  #lph .lph-hero__media{height:auto!important;min-height:0!important;max-height:none!important;aspect-ratio:4/5}
+  #lph .lph-hero__media .lpc__s:nth-child(1){object-position:50% 22%!important}
+  #lph .lph-hero__media .lpc__s:nth-child(2){object-position:50% 42%!important}
+  #lph .lph-hero__media .lpc__s:nth-child(3){object-position:50% 40%!important}
+}
