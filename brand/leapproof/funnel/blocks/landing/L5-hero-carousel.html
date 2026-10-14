@@ -2,7 +2,7 @@
      Paste into ONE Custom HTML element anywhere on the landing page (next to L4 is fine). Keep L4: it still adds the phone logo.
      Turns the hero photo (the two laughing women) into 3 swipeable slides:
        1. the group of four (every size)  2. back view  3. under leggings
-     Desktop: replaces the big photo on the left (keeps its 4:5 shape).  Phone (≤600px): replaces the photo behind the logo.
+     Desktop: replaces the big photo on the left (keeps its 4:5 shape).  Phone (≤600px): overlays the hero photo box, which is raised to a 4:5 portrait (so the portrait product shots show in full, not a zoomed landscape strip).
      Swipe, arrows and dots work; it auto-advances every 5s until she touches it. Nothing else on the page changes. -->
 <style>
 .lpc{position:relative;width:100%;overflow:hidden;background:#F1E6DA}
@@ -18,7 +18,8 @@
 .lpc__dots button[aria-selected="true"]{width:22px;background:#A33154}
 @media only screen and (max-width:600px){
   .lpc__btn{width:30px;height:30px;font-size:21px}.lpc__btn--p{left:8px}.lpc__btn--n{right:8px}.lpc__dots{bottom:8px}
-  .lp-has-car{background-image:none!important}
+  /* make the hero photo box a 4:5 portrait (125vw) so the portrait product shots show in full, not a zoomed landscape strip */
+  .lp-has-car{background-image:none!important;min-height:125vw!important}
   /* light photos now, so the phone logo (block L4) switches to plum + claret */
   #lp-mlogo{text-shadow:0 1px 8px rgba(255,252,250,.7)!important;top:12px!important}
   #lp-mlogo .l{color:#231017!important}
@@ -31,9 +32,9 @@
   var DESK=[['lp-group-4x5.jpg','50% 40%','Four women of different sizes laughing together in black Leapproof briefs'],
             ['lp-back-B.jpg','50% 50%','Back view of the black Leapproof Brief'],
             ['lp-leggings-A.jpg','50% 50%','The brief under black leggings, back view, smooth with no lines']];
-  var MOB =[['lp-hero-group-v2.jpg','50% 30%',DESK[0][2]],
-            ['lp-back-B.jpg','50% 70%',DESK[1][2]],
-            ['lp-leggings-A.jpg','50% 64%',DESK[2][2]]];
+  var MOB =[['lp-hero-group-v2.jpg','50% 22%',DESK[0][2]],
+            ['lp-back-B.jpg','50% 42%',DESK[1][2]],
+            ['lp-leggings-A.jpg','50% 40%',DESK[2][2]]];
   function build(cls,slides,w){
     var c=document.createElement('div'); c.className='lpc '+cls; c.setAttribute('role','region');
     c.setAttribute('aria-roledescription','carousel'); c.setAttribute('aria-label','The Leapproof Brief on different bodies');
