@@ -1,0 +1,145 @@
+{
+ "ad_id": "V1-c",
+ "shots": [
+  {
+   "shot_id": "S1-PROD-liner-at-lens",
+   "lane": "broll",
+   "pexels_search": "woman hand holding white panty liner close up bathroom vanity morning window light vertical"
+  },
+  {
+   "shot_id": "S2-PROD-underwear-wipe-reveal",
+   "lane": "broll",
+   "pexels_search": "hands holding plain black underwear stretched by waistband close up bright bathroom vertical"
+  },
+  {
+   "shot_id": "S3-BR-peel-sticker",
+   "lane": "broll",
+   "pexels_search": "hands peeling adhesive release strip off sticker top down bathroom counter sunlight vertical"
+  },
+  {
+   "shot_id": "S4-BR-bin-3q-lid-open",
+   "lane": "editor",
+   "editor_note": "Composite from Nano Banana Pro bin plate A (3/4 high angle, white pedal bin on Warm Cream tiles, empty bag, morning light) plus a lid-shut edit; in CapCut flip the lid open at 3.8 with a 2-frame blur and push 100 to 106 percent across the shot. VO 'lasts a day' is cut in the editor, not generated."
+  },
+  {
+   "shot_id": "S5-BR-bin-topdown-MON",
+   "lane": "editor",
+   "editor_note": "Nano Banana Pro bin plate B (straight-down into the empty bin) plus a real-wrapper cut-out PNG; keyframe the pastel wrapper + strip falling from top of frame, landing with a small bounce, soft shadow and motion blur at 5.2; 'MON' Plum Ink tag ticks on at 5.2, ~56 percent down. No AI video."
+  },
+  {
+   "shot_id": "S6-BR-bin-3q-115-TUE",
+   "lane": "editor",
+   "editor_note": "Bin plate A scaled to 115 percent in CapCut plus wrapper PNG #2 drop + crumple bounce at 6.4; tag flips MON to TUE; 'Bunches.' kinetic word (Plum Ink on Warm Cream box, ~40 percent down) pops at 6.4."
+  },
+  {
+   "shot_id": "S7-BR-bin-topdown-WED",
+   "lane": "editor",
+   "editor_note": "Bin plate B at 100 percent plus wrapper PNG #3; keyframe the drop then a 3cm sideways slide across the pile at 7.5 so 'shifts' happens in frame; tag flips to WED; 'Shifts.' kinetic word."
+  },
+  {
+   "shot_id": "S8-BR-bin-3q-130-THU",
+   "lane": "editor",
+   "editor_note": "Bin plate A scaled to 130 percent (generate plate A at 2K+ so the punch-in stays sharp) plus wrapper PNG #4 drop + bounce at 8.4; tag flips to THU; 'Feels like a diaper.' kinetic phrase pops at 8.5."
+  },
+  {
+   "shot_id": "S9-BR-bin-topdown-130-pile",
+   "lane": "editor",
+   "editor_note": "Bin plate B scaled to 130 percent with all four wrapper PNGs (MON-THU) heaped in the bottom; CapCut keyframes do a slow 2-degree rotate + push 130 to 136 percent so the pile 'breathes'; 'Feels like a diaper.' holds, tag THU."
+  },
+  {
+   "shot_id": "S10-BR-bin-3q-dusk-lid-slam",
+   "lane": "editor",
+   "editor_note": "Bin plate A at 100 percent with a CapCut grade keyframe sliding from cool morning daylight to warm tungsten (light-switch click at 10.4); lid slams shut (plate swap open to shut, 2-frame blur) at 11.6; music ducks 0.3s after the clack; 'In the bin.' pops at 11.2. Grade only, never a re-generation."
+  },
+  {
+   "shot_id": "S11-PROD-liner-at-lens-FRI",
+   "lane": "broll",
+   "pexels_search": "woman hand holding fresh panty liner at bathroom vanity morning light close up vertical"
+  },
+  {
+   "shot_id": "S12-PROD-underwear-rewipe-turn",
+   "lane": "broll",
+   "pexels_search": "hands holding plain black underwear waistband slow turn front to back close up vertical"
+  },
+  {
+   "shot_id": "S13-BR-wash-drum",
+   "lane": "broll",
+   "pexels_search": "hand tossing dark laundry into open front load washing machine drum door closing vertical"
+  },
+  {
+   "shot_id": "S14-BR-hang-airer",
+   "lane": "broll",
+   "pexels_search": "hands clipping underwear onto white indoor clothes airer wooden peg sunny backlit window vertical"
+  },
+  {
+   "shot_id": "S15-BR-drawer-wear-again",
+   "lane": "broll",
+   "pexels_search": "top down open drawer folded black underwear hand lifting one pair bedroom vertical"
+  },
+  {
+   "shot_id": "S16-PROD-flatlay-front",
+   "lane": "broll",
+   "pexels_search": "top down flat lay plain black underwear on cream linen hand smoothing waistband vertical"
+  },
+  {
+   "shot_id": "S17-PROD-flatlay-flip-back",
+   "lane": "broll",
+   "pexels_search": "top down flat lay black underwear hand flips garment over cream linen vertical"
+  },
+  {
+   "shot_id": "F1-WOMAN-side-waist-pullup",
+   "lane": "ai",
+   "references": ["AVATAR", "PRODUCT-STORE", "PRODUCT-REAL"],
+   "image_prompt": "9:16 vertical, 2K. Photoreal START FRAME (frame ONE of the motion: the leggings are only just beginning to rise from the knee). Bedroom in soft morning window light, STRICTLY side-on profile view, camera at hip height. One real woman, 35-40 - Reference AVATAR is the exact woman: copy her face, hair, skin and age precisely (mid-30s, long wavy dark-blonde hair with lighter ends past the shoulders, blue eyes, fair skin with light freckles across nose and cheeks, soft natural makeup, slim-average everyday athletic build, warm everyday face, not a glossy model). She wears a long, oversized Blush #E7CFC9 sports top that fully covers her hip, and is part-way through pulling black leggings up from the knee toward the waist, both hands at knee level just starting the upward move. The plain black underwear is visible ONLY on the side of her thigh where the leggings have not yet risen - copy the garment exactly: plain black seamless matte-satin microfibre, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise (references PRODUCT-STORE and PRODUCT-REAL are the exact garment). Waist-to-knee framing only, top and hip covered, NO crotch or buttock framing, no leak shown, no children. Light film grain, no beauty glow, graded to match phone footage. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark.",
+   "video_prompt": "Start from the provided frame. One continuous motion: the woman smoothly pulls the black leggings up from the knee to the waist in a single move, and the oversized Blush top's hem settles back down over the hip. Camera holds a locked side-on profile at hip height with a very slight handheld drift. Keep her face, hair and body identical to the start frame; strictly side-on, waist-to-knee, never crotch or buttock. Audio: voiceover only, no one speaks on camera, no lip-sync. Spoken aloud as a voiceover, warm, wry, natural 30s American woman: \"Not a pad. Not a…\" Ambient: quiet bedroom room tone with a soft fabric slide; a dry-wry light music bed continues underneath. Duration about 1.8s of usable action within a 5s Kling clip.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F2-WOMAN-ecu-waistband-snap",
+   "lane": "ai",
+   "references": ["AVATAR"],
+   "image_prompt": "9:16 vertical, 2K. Photoreal START FRAME (frame ONE of the motion: thumbs just hooking the waistband, about to snap). Same bedroom, same soft morning window light. ECU insert on the SIDE of the woman's waist. Reference AVATAR is the exact woman: copy her skin and hands precisely (fair skin with light freckles, slim-average, soft natural look, not a glossy model). Her thumbs are hooked just under the side of her black leggings waistband, ready to give it a small snap; the oversized Blush #E7CFC9 sports top hem rests just above, about to drop back down. Side-of-waist framing only, NO crotch or buttock, no Leapproof garment or label visible here (the leggings are already on). Light film grain, no beauty glow, graded to match phone footage. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark.",
+   "video_prompt": "Start from the provided frame. One clear motion: her thumbs snap the leggings waistband at the side of the waist, then the Blush top's hem falls back down over it. Tight ECU, camera locked with a faint handheld micro-drift. Audio: voiceover only, no one speaks on camera, no lip-sync. Spoken aloud as a voiceover, warm, wry, natural 30s American woman: \"…diaper.\" Ambient: a soft elastic snap and quiet room tone; dry-wry music bed under. Usable action about 1.0s within a 5s Kling clip.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F3-WOMAN-hall-wide-tote",
+   "lane": "ai",
+   "references": ["AVATAR"],
+   "image_prompt": "9:16 vertical, 2K. Photoreal START FRAME (frame ONE of the motion: mid-stride, hand reaching up toward the tote). Low-angle wide from the far end of a bright home hallway. Reference AVATAR is the exact woman: copy her face, hair, skin and age precisely (mid-30s, long wavy dark-blonde hair with lighter ends past the shoulders, blue eyes, fair skin with light freckles across nose and cheeks, soft natural makeup, warm everyday face, not a glossy model). She is mid-stride walking toward the camera in black leggings, the oversized Blush #E7CFC9 sports top and clean white sneakers, relaxed easy expression, one hand reaching up toward a plain canvas tote bag hanging on a wall hook near the frame edge. Natural morning light down the hallway. No children, no brand logos. Light film grain, no beauty glow, graded to match phone footage. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark.",
+   "video_prompt": "Start from the provided frame. One continuous motion: she strides toward the camera, lifts the canvas tote off the wall hook and swings it onto her shoulder in one smooth move, relaxed face. Low-angle wide, slight handheld follow. Keep her identical to the start frame. Audio: no dialogue; ambient + music only (a 1-second music breath here, voiceover is silent). Ambient: footsteps and a soft tote swish; the dry-wry music bed lifts. Usable action about 1.0s within a 5s Kling clip.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F4-WOMAN-ots-door-sun",
+   "lane": "ai",
+   "references": ["AVATAR"],
+   "image_prompt": "9:16 vertical, 2K. Photoreal START FRAME (frame ONE of the motion: hand on the handle, door just cracking open, first sliver of sun). Medium shot, over-the-shoulder from BEHIND the woman at her front door. Reference AVATAR is the exact woman: copy her hair, skin and build precisely (long wavy dark-blonde hair with lighter ends past the shoulders, fair freckled skin, slim-average). She wears the oversized Blush #E7CFC9 sports top and black leggings, one hand on the door handle beginning to pull the front door open; a thin sliver of bright morning sun is just starting to spill through the gap. Warm home interior behind her. No children, no brand logos. Light film grain, no beauty glow, graded to match phone footage. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark.",
+   "video_prompt": "Start from the provided frame. One clear motion: she pulls the front door open, morning sun floods in with a soft bloom and gentle lens flare, and she steps forward toward the light. Over-the-shoulder from behind, slight handheld push-in. Keep her identical to the start frame. Audio: voiceover only, no one speaks on camera, no lip-sync. Spoken aloud as a voiceover, warm, wry, natural 30s American woman: \"Just get dressed and go.\" Ambient: a latch click, the door swing, birds and distant street rising; the dry-wry music bed lifts. Usable action about 1.3s within a 5s Kling clip.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F5-WOMAN-ext-friend-coffee",
+   "lane": "ai",
+   "references": ["AVATAR"],
+   "image_prompt": "9:16 vertical, 2K. Photoreal START FRAME (frame ONE of the motion: the friend stepping in from frame-left, beginning to hand over a coffee). Low-angle 3/4 front, on a sunny footpath outside a cafe. Reference AVATAR is the exact woman on the RIGHT: copy her face, hair, skin and age precisely (mid-30s, long wavy dark-blonde hair with lighter ends past the shoulders, blue eyes, fair skin with light freckles, warm everyday face, not a glossy model), in the oversized Blush #E7CFC9 sports top, black leggings and white sneakers. A SECOND woman, a friend about 40, is a clearly DIFFERENT everyday face (warm and natural, mid-length brown hair, no resemblance to AVATAR or to a model), stepping in from frame-left holding two plain takeaway coffee cups and just starting to hand one over. Both relaxed and happy, a warm look, NO laugh. Bright natural daylight, cafe window and soft greenery behind. No children, no alcohol, no brand logos on the cups. Light film grain, no beauty glow, graded to match phone footage. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark.",
+   "video_prompt": "Start from the provided frame. One continuous motion: the friend hands her a takeaway coffee, she breaks into a warm open smile (no laugh), they lightly tap cups and fall into step, walking together out of frame-right. Low-angle 3/4 tracking, gentle handheld. Keep both women's faces identical to the start frame; the friend stays clearly distinct from the main woman. Audio: voiceover only, no one speaks on camera, no lip-sync. Spoken aloud as a voiceover, warm, wry, natural 30s American woman: \"…and go.\" then a J-cut of the next line begins over the tail of the shot: \"The 30-Night…\" Ambient: street ambience and a soft cup tap; the dry-wry music bed. Usable action about 1.7s within a 5s Kling clip.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "S18-PROD-bookend-at-lens",
+   "lane": "broll",
+   "pexels_search": "hand holding plain black underwear at lens close up bathroom vanity morning light small stretch vertical"
+  },
+  {
+   "shot_id": "S19-CARD-endcard",
+   "lane": "editor",
+   "editor_note": "Warm Cream end card built in CapCut (or Canva then CapCut) with brand fonts: lowercase 'leapproof' wordmark ('leap' Plum Ink + italic Claret 'proof') ~16 percent down, Fraunces 'Not a pad, not a diaper.' ~24 percent, product cut-out from reference photo #1 slides in from the right with a 3 percent settle bounce (29.0-29.4), Hanken Grotesk guarantee line 'The 30-Night Leak-Test - 30 nights to see if they hold.' types on (29.4-30.2), Claret 'Find my match ' button ~57 percent pulses 100-106-100 at 32.4 and 33.4; everything inside the 4:5 crop and 14-62 percent safe zone; no price, no gifts. Music buttons out at 33.8."
+  }
+ ],
+ "anchors_first": [
+  "F1-WOMAN-side-waist-pullup: it establishes the one consistent AI woman's face/body look AND is the only product-on-body frame, so it defines the human + garment look of all five F-shots; approve it (and the AI-woman character anchor) before any Kling video gen. Blocked on the 5 CJ reference photos.",
+  "F5-WOMAN-ext-friend-coffee: it introduces the second consistent AI character (the friend) and the exterior grade; lock the friend's distinct face here so she stays consistent and clearly not a twin of the main woman."
+ ],
+ "generation_count": {"ai_images": 5, "broll_clips": 11}
+}

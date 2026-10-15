@@ -1,0 +1,149 @@
+{
+ "ad_id": "V1-a",
+ "shots": [
+  {
+   "shot_id": "S1-BR-handbag-pov",
+   "lane": "broll",
+   "pexels_search": "hand reaching into open leather handbag purse interior pov"
+  },
+  {
+   "shot_id": "S2-BR-car-liner-holdup",
+   "lane": "broll",
+   "pexels_search": "woman hand holding small white wrapper close up in car"
+  },
+  {
+   "shot_id": "S3-BR-bed-stick-topdown",
+   "lane": "broll",
+   "pexels_search": "sanitary panty liner on folded cotton underwear flat lay top down"
+  },
+  {
+   "shot_id": "S4-BR-bed-bunch-ecu",
+   "lane": "broll",
+   "pexels_search": "panty liner on underwear macro close up fabric"
+  },
+  {
+   "shot_id": "S5-BR-vanity-shift",
+   "lane": "broll",
+   "pexels_search": "folded underwear on white folded towel bathroom vanity"
+  },
+  {
+   "shot_id": "S6-BR-gymbag-crinkle",
+   "lane": "broll",
+   "pexels_search": "hand holding panty liner over open gym bag close up"
+  },
+  {
+   "shot_id": "S7-BR-bin-night",
+   "lane": "broll",
+   "pexels_search": "hand dropping item into white pedal bin bathroom lid"
+  },
+  {
+   "shot_id": "S8-PROD-flash-stretch",
+   "lane": "broll",
+   "pexels_search": "two hands stretching black underwear waistband taut front on"
+  },
+  {
+   "shot_id": "S9-BR-hallway-drop",
+   "lane": "broll",
+   "pexels_search": "hand dropping item into open tote handbag on table top down"
+  },
+  {
+   "shot_id": "S10-BR-handbag-pov-zip",
+   "lane": "broll",
+   "pexels_search": "zipping closed a handbag tote pov close up"
+  },
+  {
+   "shot_id": "S11-PROD-stretch-hands",
+   "lane": "broll",
+   "pexels_search": "hands holding plain black seamless underwear close up"
+  },
+  {
+   "shot_id": "S12-PROD-flatlay-smooth",
+   "lane": "broll",
+   "pexels_search": "black underwear flat lay smoothing on bed top down"
+  },
+  {
+   "shot_id": "F13-WOMAN-side-waist",
+   "lane": "ai",
+   "references": [
+    "AVATAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Documentary UGC-style photograph in a bright bedroom by a wardrobe (plain wall, NO mirror). Side-on, waist-to-knee crop of one woman getting dressed; her face and chest are OUT of frame (crop at the waist, nothing above). Reference AVATAR is the exact woman - copy her skin tone, light freckles and slim-average build precisely; mid-30s, fair skin with real visible texture. She wears a fitted sports crop top that covers the hip line. She has the plain black Leapproof underwear on at the hip - copy the garment exactly from the product references: plain black seamless matte-satin microfibre underwear, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise. START FRAME (frame one of the motion): black leggings bunched down at her knees, both hands gripping the leggings waistband at knee level, about to pull up; the black underwear visible side-on at the hip, top covering the hip, no crotch or buttock framing. Soft natural window light from frame-left, warm grade, lifted interior. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark. No face, no leak, no stain, no medical props, no children. END FRAME (for Kling start/end interpolation): same woman, same side-on waist-to-knee crop and same garment, black leggings now pulled all the way up and the waistband settled at the waist, the sports top dropped over the hip so the underwear is now covered, hands just leaving the waistband. Same light, same grade, photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark.",
+   "video_prompt": "Kling 3.0, 9:16, start/end-frame interpolation from the two frames above. Locked side-on camera, waist-to-knee, no reframe. Motion: in ONE smooth continuous move she pulls the black leggings up from the knees, over the thighs, to the waist; the waistband lands at the waist and the sports top drops over the hip - getting dressed only, no crotch/buttock framing, no leak. AUDIO (Kling native sound): Spoken aloud as a brand voiceover, no one speaks on camera, no lip-sync - a warm, wry, natural American woman in her 30s, brisk and staccato: \"Pull them on,\". Ambient: quiet bedroom room tone. SFX: a soft fabric swish as the leggings slide up, then a soft waistband 'thwap' as it settles at the waist. Music: a wry, light, plucked bed, just lifted into a fuller warmer arrangement, ducked low under the voiceover. No other voices, no mouth movement on camera.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F14-WOMAN-side-waist-punchin",
+   "lane": "editor",
+   "editor_note": "125% CapCut punch-in on the tail of F13's rendered Kling clip (waistband at the waist, side-on); she tugs the top down over the hip and drops her hands. No generation - generate F13 at 2K+ so the punch stays sharp. Brand VO is silent here (comma beat); music bed carries."
+  },
+  {
+   "shot_id": "F15-WOMAN-carboot-wide",
+   "lane": "ai",
+   "references": [
+    "AVATAR",
+    "POSE-CARBOOT"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Documentary UGC-style photograph, overcast daylight, in a plain supermarket car park - NO signage, NO store names, NO car-brand badges anywhere. Use POSE-CARBOOT only for the pose/composition/setting (a woman loading groceries into the open boot of a white hatchback); the face and identity come from AVATAR - Reference AVATAR is the exact woman, copy her face, hair (long wavy dark-blonde with lighter ends past the shoulders), fair freckled skin and mid-30s age precisely, but keep her face a soft 3/4 profile, never featured sharp. 3/4 side, full figure. She wears a fitted sports top (covering the hip line), black leggings and plain sneakers. START FRAME (frame one of the motion): she stands at the open boot of a plain unbadged hatchback, one hand just closing on the handle of a light cloth grocery bag in a shopping trolley beside her, about to lift it; the trolley holds two LIGHT unbranded cloth bags with a loaf of bread and leafy greens poking out. Overcast soft light, warm grade, lifted. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark. No brand logos, no signage, no car badges, no children, no alcohol, no medical props, no leak.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Slight handheld 3/4 side full-figure framing, barely-there drift. Motion: she lifts one light cloth grocery bag from the trolley and sets it into the open boot - an easy everyday reach and place, no strain, no leak-test or strength demo. AUDIO (Kling native sound): Spoken aloud as a brand voiceover, no one speaks on camera, no lip-sync - a warm, wry, natural American woman in her 30s, brisk: \"and go about the day.\". Ambient: overcast supermarket car-park air with a faint distant trolley rattle. SFX: a soft cloth-bag set-down as the bag lands in the boot. Music: the wry, light, plucked bed continuing and beginning to resolve, ducked under the voiceover. No on-camera speech, no mouth movement.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F16-WOMAN-boot-pov-low",
+   "lane": "ai",
+   "references": [
+    "AVATAR",
+    "POSE-CARBOOT"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Documentary UGC-style photograph, object-cam POV: the camera sits on the boot floor of a plain unbadged hatchback tilted UP about 40 degrees, so the frame runs from her chest up to the overcast sky above the open boot lid - her waist is NEVER in frame. Reference AVATAR is the exact woman - copy her soft 3/4 profile, hair and freckled fair skin; face kept soft, never sharp. She wears the fitted sports top; her top and shoulders are soft and out of focus behind. Use POSE-CARBOOT for the car-boot setting only. START FRAME (frame one of the motion): both her hands bring a second LIGHT unbranded cloth grocery bag (bread and leafy greens inside) down toward the lens, just about to land on the boot floor; overcast sky and the raised boot lid visible above. Warm grade, lifted, soft natural daylight. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark. No waist or hip framing, no brand logos, no signage, no car badges, no children, no leak.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Fixed low object-cam on the boot floor, tilted up ~40 degrees, no reframe (her waist never enters frame). Motion: the second light cloth grocery bag comes down toward the lens and lands (bread and greens jiggle), then her hands slide it aside and she straightens up out of frame. AUDIO (Kling native sound): no dialogue - nobody speaks and there is no voiceover on this beat. Ambient: soft overcast car-park air. SFX: the grocery bag lands with a soft cloth 'thump'. Music: the wry, light, plucked bed carrying steadily underneath. No voices, no mouth movement.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F17-WOMAN-boot-close-mcu",
+   "lane": "ai",
+   "references": [
+    "AVATAR",
+    "POSE-CARBOOT"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Documentary UGC-style photograph, side-on medium shot at the open boot of a plain unbadged hatchback in an overcast car park (NO signage, NO badges). Reference AVATAR is the exact woman - copy her hair, fair freckled skin and mid-30s look; keep her face a soft side profile, never featured sharp. She wears the fitted sports top, black leggings and sneakers. START FRAME (frame one of the motion): she reaches one hand up toward the raised boot lid to close it, her phone held in the other hand down by her side (plain phone, screen off, no visible logo); groceries already stowed in the boot behind her. Warm grade, lifted, soft overcast daylight. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark. No brand logos, no signage, no car badges, no children, no leak.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Locked side-on medium shot. Motion: she pulls the boot lid down and it shuts, then she turns away from the car, relaxed and unhurried. AUDIO (Kling native sound): no dialogue - nobody speaks and there is no voiceover on this beat. Ambient: soft overcast car-park air. SFX: a solid car-boot 'thunk' as the lid shuts. Music: the wry, light, plucked bed hits a small, satisfied button on the thunk. No voices, no mouth movement.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F18-WOMAN-walkoff-wide",
+   "lane": "ai",
+   "references": [
+    "AVATAR",
+    "POSE-CARBOOT"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Documentary UGC-style photograph, wide side-on in a plain overcast supermarket car park (NO signage, NO car badges). Reference AVATAR is the exact woman - copy her hair, build and fair freckled skin; her face is only a soft profile, never featured sharp. Full figure; she wears the fitted sports top (covering the hip), black leggings and sneakers. START FRAME (frame one of the motion): she is on the left of the frame, just starting to walk across the car park, body turned slightly away, glancing down at the plain phone in her hand (screen off, no logo). Plain cars and open tarmac soft in the background. Warm grade, lifted, soft overcast daylight. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark. No brand logos, no signage, no car badges, no children, no alcohol, no leak.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Wide side-on with a slow lateral camera track following her. Motion: she walks unhurried from left to right through the frame and gives a small glance down at the phone in her hand; her top stays over the hip, face only a soft profile. AUDIO (Kling native sound): Spoken aloud as a brand voiceover, no one speaks on camera, no lip-sync - a warm, wry, natural American woman in her 30s, landing the two beats cleanly: \"Not a pad. Not a diaper.\". Ambient: unhurried footsteps on tarmac and light open car-park air. SFX: soft footfalls in time with her steps. Music: the wry, light, plucked bed starting to resolve to its final chord under the voiceover. No on-camera speech, no mouth movement.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "S19-PROD-fold-cream",
+   "lane": "broll",
+   "pexels_search": "folded black underwear on cream beige surface product shot top light"
+  },
+  {
+   "shot_id": "S20-GFX-quiz-chips",
+   "lane": "editor",
+   "editor_note": "115% CapCut punch-in on the S19 product plate; pop in two Blush #E7CFC9 chips in Hanken Grotesk SemiBold under the 'leapproof' wordmark - 'Your size' at 27.45, 'How many pairs' at 28.10; continue the slow push; at 29.60 start sliding the folded pair right to hand off to the end card. No generation, no numbers, no prices. Brand VO + music play over."
+  },
+  {
+   "shot_id": "S21-CARD-end",
+   "lane": "editor",
+   "editor_note": "CapCut/Canva end card on Warm Cream #F5EDE6: 'leapproof' wordmark top (leap Plum Ink + proof italic Claret, Fraunces); stacked 'Not a pad, not a diaper.' (Fraunces) / '30 nights to see if they hold - money back if they don't.' (Hanken Grotesk, Plum Ink) / a Claret 'Find my match >' button with cream text pulsing 100-104%; folded black underwear cut-out from S19 small to the right. Lines stagger in 30.10/30.50/30.90; button press micro-bounce 34.60. No price, gifts, stars or urgency. Locked guarantee VO + music button-out play over; no generation."
+  }
+ ],
+ "anchors_first": [
+  "F15-WOMAN-carboot-wide",
+  "F13-WOMAN-side-waist"
+ ],
+ "generation_count": {
+  "ai_images": 6,
+  "broll_clips": 13
+ }
+}

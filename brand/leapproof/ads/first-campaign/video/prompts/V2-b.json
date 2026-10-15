@@ -1,0 +1,198 @@
+{
+ "ad_id": "V2-b",
+ "shots": [
+  {
+   "shot_id": "F1-DUO-clutch-burst",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR",
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = frame one of the burst, everything already mid-motion. A tight 3/4 tabletop two-shot on a golden-hour bistro window table, camera ~30 degrees above the table, 50mm look, f/2 bokeh. SET: Warm Cream linen tablecloth; a blush/tan leather clutch with a gold clasp lying open, its flap flung back and mid-swing (edge blur); a tall sparkling water with lemon and a Claret napkin frame-right; one small lit tealight (the 'evening' nod, NOT the key light); a window frame-left with low warm sun; warm pendant-bulb bokeh behind. Bright mid-high exposure, nothing dark. CHARACTER 1 - match the approved LINER character sheet: a clean pure-white wingless panty liner, ~2-3mm thin, quilted micro-dimple top sheet, big glossy round eyes in its top third, small expressive brows, a mouth at mid-body and two small soft tab-hands from the sides (cartoon arms, not pad wings); no stains, no yellowing, no backlit core show-through, no brand marks, lovable not grotesque; it is ALREADY 60% out of the clutch, arched back mid-burst, tab-hands flung up with a subtle motion smear, eyes huge, mouth an 'O'. CHARACTER 2 - match the approved UNDIES character sheet; face on the UPPER FRONT PANEL only - two calm oval eyes with soft white sclera and a Rose Taupe lid line one finger-width below the waistband seam, subtle fabric-crease brows (the one-brow lift is its signature) and a small dry mouth that ends ABOVE the leg-opening curve; the gusset/leg-opening zone stays blank and low in frame, never a face; it stands upright on its leg openings, wider at the back, the black fabric rim-lit with visible texture and never crushed and copy the garment exactly: plain black seamless matte-satin microfibre, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise; it stands upright right beside the clutch with its waistband at clutch-top height so the full underwear silhouette reads, deadpan, eyes half-lidded, mouth closed. A folded tissue and an unbranded gold lipstick hang in the air 3-5cm above the bag; the water tilts with a ripple ring; a fork bounces on a side plate. Low sun from frame-left rims the underwear's waistband and backlights the liner's edges. No person, no hands, no human face, no wine or alcohol, no real logos, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference LINER-CHAR and UNDIES-CHAR are the exact characters; PRODUCT-STORE and PRODUCT-REAL are the exact garment - copy sheen, waistband width and leg line precisely.",
+   "video_prompt": "Kling 3.0, 9:16, animate from mid-motion (the published clip starts a few frames in, already moving). ONE continuous move: a slow 4% push-in on the tabletop two-shot. The white panty-liner character springs fully up out of the clutch, flips once and lands upright on the clutch rim with a wobble; the airborne tissue and gold lipstick drop back into the bag; the water ripple decays and the fork settles. The black underwear stays perfectly still - only its eyes slide toward the liner and one brow lifts. At the end the liner turns to the lens and begins to speak. AUDIO (Kling native sound): TWO voices. FIRST an off-screen friend as a voiceover (no one speaks on camera, no lip-sync), a warm Australian woman in her 30s, breathless and mid-laugh, panned slightly off-centre: \"Stop — stop! I'll pee myself!\". THEN the panty liner, lip-synced on camera, mouth clearly moving as it turns to the lens, a higher, fussy, fast, slightly anxious Australian woman's voice with a comedic squeak on stressed words, fast and eager: \"That's a big laugh —\". Ambient: busy restaurant room tone with a 3-4-woman group laugh already peaking at frame 0, glass shimmer, fork rattle. SFX: a palm-on-table thump at the very start, a cartoon spring 'boing' on the liner's flip. Music: a light pizzicato/ukulele comedic underscore entering softly and ducked low under the voices. The black underwear does NOT speak; its mouth stays closed the whole clip. No other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F2-LINER-lowangle-brace",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = frame one of a brace-squat. Low angle from tablecloth level looking UP at the white panty-liner character crouched on the gold clutch rim like a firefighter at the pole, a warm golden window flare behind it, warm pendant-bulb bokeh above, bright golden-hour exposure. match the approved LINER character sheet: a clean pure-white wingless panty liner, ~2-3mm thin, quilted micro-dimple top sheet, big glossy round eyes in its top third, small expressive brows, a mouth at mid-body and two small soft tab-hands from the sides (cartoon arms, not pad wings); no stains, no yellowing, no backlit core show-through, no brand marks, lovable not grotesque; its two soft tab-hands grip the gold clasp, eyes locked down on the off-frame 'job' below, body coiled mid-crouch. No person, no hands, no human face, no wine, no logos, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference LINER-CHAR is the exact character.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. ONE move: a locked low-angle hold as the liner brace-squats then springs straight up and out of the top of frame with a motion blur, leaving the empty clutch rim wobbling for ~0.3s. AUDIO (Kling native sound): the panty liner lip-synced on camera, mouth moving, shouting eagerly, a higher, fussy, fast, slightly anxious Australian woman's voice with a comedic squeak on stressed words with the squeak on the stressed word: \"I'm going IN!\". Ambient: restaurant room tone. SFX: a cartoon spring-load 'boing' on the brace and a whoosh-up on the leap. Music: the pizzicato/ukulele underscore carrying, ducked under the voice. Only the liner speaks; no other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F3-UNDIES-mcu-deadpan",
+   "lane": "ai",
+   "references": [
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = eye-level MCU on the black underwear character beside the gold clutch, camera at waistband height, low golden window light rimming the waistband, warm bokeh behind, bright exposure, the black fabric always rim-lit with visible texture and never crushed to a blob. match the approved UNDIES character sheet; face on the UPPER FRONT PANEL only - two calm oval eyes with soft white sclera and a Rose Taupe lid line one finger-width below the waistband seam, subtle fabric-crease brows (the one-brow lift is its signature) and a small dry mouth that ends ABOVE the leg-opening curve; the gusset/leg-opening zone stays blank and low in frame, never a face; it stands upright on its leg openings, wider at the back, the black fabric rim-lit with visible texture and never crushed and copy the garment exactly: plain black seamless matte-satin microfibre, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise; the full garment shape reads, eyes currently glancing UP after the liner's exit, mouth closed. No person, no hands, no human face, no wine, no logos, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference UNDIES-CHAR is the exact character; PRODUCT-STORE and PRODUCT-REAL are the exact garment - copy sheen, waistband width and leg line precisely.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. ONE move: a slow in-camera settle; the underwear's eyes travel up after the liner then come back to the lens during a 0.4s deadpan beat, ending on a dry half-smile. The garment stays upright and still; only eyes, brow and mouth move. AUDIO (Kling native sound): the black underwear lip-synced on camera, mouth moving just under the waistband, a warm, dry, calm, unhurried mid-30s Australian woman's deadpan: \"Or… she could just wear underwear.\". Ambient: restaurant room tone. SFX: a soft record-tick / rimshot on the deadpan 'Or'. Music: the pizzicato/ukulele underscore lifting a touch, ducked under the voice. Only the underwear speaks; no other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F4-LINER-ots-hover",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR",
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = frame one of a drop-in. Over-the-shoulder from behind the black underwear's waistband (a soft, out-of-focus black fabric edge in the foreground-left), the white panty-liner character hovering in sharp focus at the underwear's eye-line, golden bistro bokeh behind, bright exposure. match the approved LINER character sheet: a clean pure-white wingless panty liner, ~2-3mm thin, quilted micro-dimple top sheet, big glossy round eyes in its top third, small expressive brows, a mouth at mid-body and two small soft tab-hands from the sides (cartoon arms, not pad wings); no stains, no yellowing, no backlit core show-through, no brand marks, lovable not grotesque; it is flustered, both tab-hands pointing at the underwear, eyes popping, body tilted mid-hover. The foreground underwear edge - match the approved UNDIES character sheet; face on the UPPER FRONT PANEL only - two calm oval eyes with soft white sclera and a Rose Taupe lid line one finger-width below the waistband seam, subtle fabric-crease brows (the one-brow lift is its signature) and a small dry mouth that ends ABOVE the leg-opening curve; the gusset/leg-opening zone stays blank and low in frame, never a face; it stands upright on its leg openings, wider at the back, the black fabric rim-lit with visible texture and never crushed and copy the garment exactly: plain black seamless matte-satin microfibre, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise (soft-focus, no face needed in the foreground edge). No person, no hands, no human face, no wine, no logos, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference LINER-CHAR is the exact liner; UNDIES-CHAR, PRODUCT-STORE and PRODUCT-REAL set the exact garment for the foreground edge.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. ONE move: the liner drops into frame from above with a small bounce and hovers, flapping its tab-hands at the underwear, incredulous; the soft black underwear edge stays still in the foreground. AUDIO (Kling native sound): the panty liner lip-synced on camera, mouth moving fast and incredulous, a higher, fussy, fast, slightly anxious Australian woman's voice with a comedic squeak on stressed words: \"Underwear? For the laugh?!\". Ambient: restaurant room tone. SFX: a 'huh?!' slide-whistle-up sting on the drop-in. Music: the pizzicato/ukulele underscore under the voice. Only the liner speaks; the underwear is silent, mouth closed. No other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F5-UNDIES-lowangle-hero",
+   "lane": "ai",
+   "references": [
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = a calm hero hold. Low angle, camera on the tablecloth looking UP at the black underwear character standing tall and statue-still, a golden window flare behind the waistband and bulb bokeh above, bright exposure, the black fabric rim-lit with visible texture, never crushed. match the approved UNDIES character sheet; face on the UPPER FRONT PANEL only - two calm oval eyes with soft white sclera and a Rose Taupe lid line one finger-width below the waistband seam, subtle fabric-crease brows (the one-brow lift is its signature) and a small dry mouth that ends ABOVE the leg-opening curve; the gusset/leg-opening zone stays blank and low in frame, never a face; it stands upright on its leg openings, wider at the back, the black fabric rim-lit with visible texture and never crushed and copy the garment exactly: plain black seamless matte-satin microfibre, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise; a wide smooth waistband catching a gold rim light, a clean leg line, the full garment shape reading, mid-blink. No person, no hands, no human face, no wine, no logos, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference UNDIES-CHAR is the exact character; PRODUCT-STORE and PRODUCT-REAL are the exact garment - copy sheen, waistband width and leg line precisely.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. ONE move: a slow in-camera push-in 100 to ~108%, a soft lens flare drifting across the waistband, and a tiny calm nod; the garment stays upright and still otherwise. AUDIO (Kling native sound): the black underwear lip-synced on camera, mouth moving just under the waistband, a warm, dry, calm, unhurried mid-30s Australian woman's deadpan, calm: \"Plain black underwear.\". Ambient: restaurant room tone. SFX: an understated warm 'ta-da' swell (muted horn). Music: the pizzicato/ukulele underscore holding soft under the voice. Only the underwear speaks; no other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "S6-PROD-flatlay-table",
+   "lane": "broll",
+   "pexels_search": "hand smoothing plain black underwear flat lay on cream linen table top down natural light"
+  },
+  {
+   "shot_id": "S7-PROD-waistband-lift",
+   "lane": "broll",
+   "pexels_search": "two hands lifting and stretching black underwear by the waistband side on window light"
+  },
+  {
+   "shot_id": "F8-LINER-highangle-flop",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = the liner flopped on its back, deflating. High angle straight down onto a Claret napkin on the Warm Cream linen, warm golden light, bright exposure. match the approved LINER character sheet: a clean pure-white wingless panty liner, ~2-3mm thin, quilted micro-dimple top sheet, big glossy round eyes in its top third, small expressive brows, a mouth at mid-body and two small soft tab-hands from the sides (cartoon arms, not pad wings); no stains, no yellowing, no backlit core show-through, no brand marks, lovable not grotesque; it lies on its back, tab-hands gone limp at its sides, big glossy eyes looking up at the lens, a sheepish 'okay' mouth. No person, no hands, no human face, no wine, no logos, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference LINER-CHAR is the exact character.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. ONE move: a top-down hold with a slow 5% pull-out as the liner sags and deflates into the napkin and rolls its eyes. AUDIO (Kling native sound): the panty liner lip-synced on camera, mouth moving, deflated and sheepish, a higher, fussy, fast, slightly anxious Australian woman's voice with a comedic squeak on stressed words gone small and resigned: \"Okay, fine.\". Ambient: restaurant room tone. SFX: a deflating downward slide-whistle. Music: the pizzicato/ukulele underscore under the voice. Only the liner speaks; no other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F9-LINER-cu-bunch-shift",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = a 3/4 eye-level CU on the white panty-liner character standing on the Warm Cream linen, bright golden-hour light, warm bokeh. match the approved LINER character sheet: a clean pure-white wingless panty liner, ~2-3mm thin, quilted micro-dimple top sheet, big glossy round eyes in its top third, small expressive brows, a mouth at mid-body and two small soft tab-hands from the sides (cartoon arms, not pad wings); no stains, no yellowing, no backlit core show-through, no brand marks, lovable not grotesque; its top corner is just beginning to curl and crinkle upward (clean white, no stains, no villain face). No person, no hands, no human face, no wine, no logos, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference LINER-CHAR is the exact character.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. ONE move: the liner's top corner bunches and crinkles up, then it slides sideways across the linen and exits frame-left as a whip-pan follows the slide. AUDIO (Kling native sound): the panty liner lip-synced on camera, mouth moving in two quick beats, a higher, fussy, fast, slightly anxious Australian woman's voice with a comedic squeak on stressed words: \"I bunch. I shift.\". Ambient: restaurant room tone. SFX: a crinkle on 'bunch' and a scrape-whoosh on the whip. Music: the pizzicato/ukulele underscore under the voice. Only the liner speaks; no other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F10-LINER-clutch-pov",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = inside-the-clutch POV looking UP from the bottom of the open blush clutch. The white panty-liner character slumps against the Blush satin lining between an unbranded gold lipstick and a set of keys, chin on its tab-hands, sulking up at us. Through the open flap above: warm golden pendant-bulb bokeh from the restaurant ceiling pours in, keeping the interior BRIGHT - never a dark frame. match the approved LINER character sheet: a clean pure-white wingless panty liner, ~2-3mm thin, quilted micro-dimple top sheet, big glossy round eyes in its top third, small expressive brows, a mouth at mid-body and two small soft tab-hands from the sides (cartoon arms, not pad wings); no stains, no yellowing, no backlit core show-through, no brand marks, lovable not grotesque. No person, no hands, no human face, no wine, no logos or brand text on the lipstick, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference LINER-CHAR is the exact character.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. ONE move: the liner slides a few centimetres down the satin lining into a deeper slump; the flap above sways and narrows the incoming light slightly but never closes. AUDIO (Kling native sound): the panty liner lip-synced on camera, mouth moving, small and sulky, a higher, fussy, fast, slightly anxious Australian woman's voice with a comedic squeak on stressed words gone sulky and quiet: \"I sulk in your clutch.\". Ambient: restaurant room tone gone muffled / low-pass as if inside the bag, with a soft satin rustle. Music: the pizzicato/ukulele underscore low under the voice. Only the liner speaks; no other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F11-LINER-restroom-bin",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = the liner beside a small bin, about to tap the pedal. A bright restaurant restroom vanity: cream marble countertop, brass sconces, a eucalyptus sprig in a small vase, a small unbranded brushed-steel countertop pedal bin, bright clean daylight. match the approved LINER character sheet: a clean pure-white wingless panty liner, ~2-3mm thin, quilted micro-dimple top sheet, big glossy round eyes in its top third, small expressive brows, a mouth at mid-body and two small soft tab-hands from the sides (cartoon arms, not pad wings); no stains, no yellowing, no backlit core show-through, no brand marks, lovable not grotesque; it stands ON the marble beside the bin (NEVER inside it), one tab-hand reaching for the pedal. No toilet in frame, no person, no hands, no human face, no wine, no logos or brand text on the bin, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference LINER-CHAR is the exact character.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. ONE move: the liner taps the bin pedal with a tab-hand, the lid flips up, it peers over the rim, then sighs and lets the lid clink shut - it NEVER climbs into the bin. AUDIO (Kling native sound): the panty liner lip-synced on camera, mouth moving, resigned, a higher, fussy, fast, slightly anxious Australian woman's voice with a comedic squeak on stressed words gone flat: \"And every day… I go in the trash.\". Ambient: restroom room-tone with a slight reverb on the voice. SFX: a pedal 'clunk', a lid 'clink' on 'trash', a soft comedic 'aww'. Music: the pizzicato/ukulele underscore low under the voice. Only the liner speaks; no other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F12-DUO-reverse",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR",
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = a reverse two-shot from the window side (180 degrees from the hook), both characters backlit by the low golden sun with a gold rim light, warm bokeh, bright exposure. Back on the bistro table. match the approved LINER character sheet: a clean pure-white wingless panty liner, ~2-3mm thin, quilted micro-dimple top sheet, big glossy round eyes in its top third, small expressive brows, a mouth at mid-body and two small soft tab-hands from the sides (cartoon arms, not pad wings); no stains, no yellowing, no backlit core show-through, no brand marks, lovable not grotesque; it has clambered onto the gold clutch rim and is turning toward the black underwear (screen-right), tab-hands coming out. The black underwear - match the approved UNDIES character sheet; face on the UPPER FRONT PANEL only - two calm oval eyes with soft white sclera and a Rose Taupe lid line one finger-width below the waistband seam, subtle fabric-crease brows (the one-brow lift is its signature) and a small dry mouth that ends ABOVE the leg-opening curve; the gusset/leg-opening zone stays blank and low in frame, never a face; it stands upright on its leg openings, wider at the back, the black fabric rim-lit with visible texture and never crushed and copy the garment exactly: plain black seamless matte-satin microfibre, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise; it stands upright and still, waiting, mouth closed. No person, no hands, no human face, no wine, no logos, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference LINER-CHAR and UNDIES-CHAR are the exact characters; PRODUCT-STORE and PRODUCT-REAL are the exact garment.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. ONE move: the liner swivels toward the underwear and gestures with its tab-hands; the underwear's fabric-crease brows lift but it stays silent, mouth closed. AUDIO (Kling native sound): only the panty liner speaks, lip-synced on camera, mouth moving as it turns to the underwear, a higher, fussy, fast, slightly anxious Australian woman's voice with a comedic squeak on stressed words: \"And you?\". Ambient: restaurant room tone back up. SFX: a tiny 'boop' on the turn. Music: the pizzicato/ukulele underscore soft under the voice. The black underwear does NOT speak; its mouth stays closed, reacting silently with a brow-lift. No other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "S13-PROD-wash-drum",
+   "lane": "broll",
+   "pexels_search": "hand placing black clothing into front load washing machine drum daylight"
+  },
+  {
+   "shot_id": "S14-PROD-hang-rack",
+   "lane": "broll",
+   "pexels_search": "black underwear hanging pegged on white drying rack by sunny window hand unpegging"
+  },
+  {
+   "shot_id": "S15-PROD-hands-stretch",
+   "lane": "broll",
+   "pexels_search": "woman hands stretching black underwear waistband at bedroom dresser warm lamp light getting ready"
+  },
+  {
+   "shot_id": "F16-WOMAN-side-waist",
+   "lane": "ai",
+   "references": [
+    "AVATAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Documentary UGC-style photograph, getting ready at a bedroom dresser by a warm-lit mirror area (plain, NO brand text). Side-on, waist-to-knee crop of one woman getting dressed; her face and chest are OUT of frame (crop at the waist, nothing above). Reference AVATAR is the exact woman - copy her skin tone, light freckles and slim-average build precisely; mid-30s, fair skin with real visible texture. She wears a loose top already draped over her hip (covering the hip line) and has the plain black Leapproof underwear on at the hip - copy the garment exactly: plain black seamless matte-satin microfibre, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise - worn on the body as the real garment, NO face on it. Softly out of focus behind: a blush going-out clutch, an earrings dish and an unbranded perfume bottle, warm lamp plus window light; it reads 'getting ready to go out', not a clinical demo. START FRAME (frame one of the motion): black leggings bunched at her knees, both hands gripping the leggings waistband at knee level about to pull up; the black underwear visible side-on at the hip, top covering the hip, no crotch or buttock framing, no leak. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark. No face, no leak, no stain, no medical props, no children, no alcohol. END FRAME (for Kling start/end interpolation): same woman, same side-on waist-to-knee crop and same garment, black leggings now pulled all the way up and the waistband settled at the waist, the loose top dropped over the hip so the underwear is now covered, hands just leaving the waistband; same light, same warm grade. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark.",
+   "video_prompt": "Kling 3.0, 9:16, start/end-frame interpolation from the two frames above. Locked side-on camera, waist-to-knee, no reframe. Motion: in ONE smooth continuous move she pulls the black leggings up from the knees over the plain black underwear to the waist; the waistband lands at the waist and the loose top drops over the hip - getting dressed only, no laugh / sneeze / jump, no crotch or buttock framing, no leak, no face on the garment. AUDIO (Kling native sound): the line is the black underwear character as an OFF-SCREEN VOICEOVER - no one on camera speaks, no lip-sync, the woman is silent - a warm, dry, calm, unhurried mid-30s Australian woman's deadpan: \"Pull them on.\". Ambient: a quiet bedroom room tone. SFX: a soft leggings whoosh as they slide up, then a soft waistband snap as it settles. Music: the pizzicato/ukulele underscore low under the voiceover. No on-camera speech, no mouth movement, no other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F17-UNDIES-ecu-done",
+   "lane": "ai",
+   "references": [
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = an extreme close-up on the black underwear character's face, back on the bistro table, tight on the eyes and mouth just under the waistband, golden rim light, warm bokeh, bright exposure, black fabric with visible texture and never crushed. match the approved UNDIES character sheet; face on the UPPER FRONT PANEL only - two calm oval eyes with soft white sclera and a Rose Taupe lid line one finger-width below the waistband seam, subtle fabric-crease brows (the one-brow lift is its signature) and a small dry mouth that ends ABOVE the leg-opening curve; the gusset/leg-opening zone stays blank and low in frame, never a face; it stands upright on its leg openings, wider at the back, the black fabric rim-lit with visible texture and never crushed and copy the garment exactly: plain black seamless matte-satin microfibre, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise; one brow starting to lift (its signature) and a smug little set to the small dry mouth. No person, no hands, no human face, no wine, no logos, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference UNDIES-CHAR is the exact character; PRODUCT-STORE and PRODUCT-REAL are the exact garment.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. ONE move: a tight ECU with a small smug nod and a one-brow lift. AUDIO (Kling native sound): the black underwear lip-synced on camera, mouth moving just under the waistband, a warm, dry, calm, unhurried mid-30s Australian woman's deadpan, satisfied: \"Done.\". Ambient: restaurant room tone. SFX: a tiny 'ding'. Music: the pizzicato/ukulele underscore resolving under the voice. Only the underwear speaks; no other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F18-LINER-clutch-sulk",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = high angle looking DOWN into the open blush clutch on the Warm Cream table, warm golden light, bright exposure. match the approved LINER character sheet: a clean pure-white wingless panty liner, ~2-3mm thin, quilted micro-dimple top sheet, big glossy round eyes in its top third, small expressive brows, a mouth at mid-body and two small soft tab-hands from the sides (cartoon arms, not pad wings); no stains, no yellowing, no backlit core show-through, no brand marks, lovable not grotesque; it sinks into the Blush satin lining with its tab-hands folded, sulking up at us; the gold-clasp flap is just starting to lower over it. No person, no hands, no human face, no wine, no logos, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference LINER-CHAR is the exact character.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. ONE move: the liner sinks and sulks lower into the lining as the flap lowers toward the lens and closes over it (a natural wipe). AUDIO (Kling native sound): the panty liner lip-synced on camera, mouth moving, small and sulking, a higher, fussy, fast, slightly anxious Australian woman's voice with a comedic squeak on stressed words gone small and defeated: \"…I'll just wait in the clutch.\". Ambient: restaurant room tone. SFX: a small 'hmph' and a clasp 'click' on the close. Music: the pizzicato/ukulele underscore soft under the voice. Only the liner speaks; no other voices, no music vocals.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "S19-CARD-end",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR",
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. START FRAME = the end-card plate, NO text anywhere (the wordmark, all lines and the button are added later in CapCut). A clean Warm Cream (#F5EDE6) seamless background with a soft floor shadow, bright and even. The black underwear character stands upright centre, small (~15% of frame height), on its leg openings. A blush/tan clutch with a gold clasp sits to its left, half-open, with the white panty-liner character peeking over the rim, sulking. Keep both characters inside a ~20-34% height band so the upper and lower thirds stay clear for captions. match the approved UNDIES character sheet; face on the UPPER FRONT PANEL only - two calm oval eyes with soft white sclera and a Rose Taupe lid line one finger-width below the waistband seam, subtle fabric-crease brows (the one-brow lift is its signature) and a small dry mouth that ends ABOVE the leg-opening curve; the gusset/leg-opening zone stays blank and low in frame, never a face; it stands upright on its leg openings, wider at the back, the black fabric rim-lit with visible texture and never crushed and copy the garment exactly: plain black seamless matte-satin microfibre, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise. match the approved LINER character sheet: a clean pure-white wingless panty liner, ~2-3mm thin, quilted micro-dimple top sheet, big glossy round eyes in its top third, small expressive brows, a mouth at mid-body and two small soft tab-hands from the sides (cartoon arms, not pad wings); no stains, no yellowing, no backlit core show-through, no brand marks, lovable not grotesque. No person, no hands, no human face, no wine, no logos, no on-screen text. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Reference LINER-CHAR and UNDIES-CHAR are the exact characters; PRODUCT-STORE and PRODUCT-REAL are the exact garment.",
+   "video_prompt": "Kling 3.0, 9:16, a 5s micro-action loop on the end-card plate. ONE gentle move: the black underwear gives a small warm nod as it delivers the CTA, lip-synced; the panty liner sinks a touch on a 'hmph' then peeks back over the clutch rim near the end. Keep the characters small and centred, only a tiny breathing push, and leave the upper and lower thirds clear (text is added in CapCut). AUDIO (Kling native sound): the black underwear lip-synced on camera, mouth moving just under the waistband, warm and inviting, the LAST line, a warm, dry, calm, unhurried mid-30s Australian woman's deadpan turned inviting: \"Plain black underwear for the laugh. Take the quiz, find your match.\". Ambient: light restaurant-warm room tone. SFX: a warm resolve chord and a soft button 'tap' on 'match'. Music: the pizzicato/ukulele underscore ending on a button under the voice. Only the underwear speaks; the liner is silent (just a 'hmph'). No other voices, no music vocals.",
+   "kling_seconds": 5
+  }
+ ],
+ "anchors_first": [
+  "F1-DUO-clutch-burst",
+  "F3-UNDIES-mcu-deadpan"
+ ],
+ "generation_count": {
+  "ai_images": 15,
+  "broll_clips": 5
+ }
+}

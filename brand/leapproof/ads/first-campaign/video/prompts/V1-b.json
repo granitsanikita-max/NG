@@ -1,0 +1,137 @@
+{
+ "ad_id": "V1-b",
+ "shots": [
+  {
+   "shot_id": "F1-WOMAN-wide-side-twoshot",
+   "lane": "ai",
+   "references": [
+    "AVATAR",
+    "POSE-RESTAURANT"
+   ],
+   "image_prompt": "9:16 vertical, 2K. A bright, high-key wide side two-shot of a sunlit restaurant table in warm golden early-evening window light - this is frame ONE of the motion: the woman is ALREADY mid belly-laugh (never neutral or closed-mouth). Reference AVATAR is the exact woman - copy her face, hair, skin and age precisely: real, natural, mid-to-late 30s, fair skin with light freckles across the nose and cheeks, blue eyes, soft natural makeup, an everyday warm face (NOT a glossy model), slim-average build. Her long wavy dark-blonde hair is up in a messy bun with loose strands. Wardrobe: a dusty-rose ribbed-knit top, black leggings, small gold hoop earrings. She sits centre / centre-left at the side of the table, head tipped back, eyes crinkled shut, mouth wide open laughing, her left palm raised about to slap the table. In the soft out-of-focus left foreground: her friend's shoulder and a tall glass of sparkling water with a lemon slice (NO wine, no alcohol, no bottles). Use POSE-RESTAURANT for pose, composition and setting ONLY - its face does NOT apply, the face comes from AVATAR - and make the light BRIGHT golden early-evening window light, NOT dim candlelight: cream walls, warm wood table, a leafy green plant, a big window blooming with soft golden light behind her but not clipped or blown out. No menus with logos, no brand marks anywhere, no children. Leave a clean, bright, uncluttered window band across the upper third (14-30% of frame height) with nothing in it; her face sits ~30-40% down, the table edge ~52%, her lap ~54-62%, her pressed knees in black leggings ~62-68%; keep her body clear of the right-edge vertical UI column. [REALISM] photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark",
+   "video_prompt": "Animate from the start frame. One continuous ~1.2s beat, locked wide side two-shot with a very slight handheld drift and a slow push-in (100->104%). Motion: she is already belly-laughing; on the first beat she lurches forward and slaps the table with her left palm (the cutlery jumps), then her camera-side right hand drops fast flat onto her upper thigh at the table edge and her knees press together - the hand lands on the thigh, side-on, NOT on or near the crotch and never crotch-centred. Her friend's out-of-focus shoulder shakes with the laugh; the friend never faces camera and never speaks. Keep her face, hair, skin and the dusty-rose knit identical to the start frame - no face morphing, no extra or fused fingers, no fused knees, no melting cutlery. Audio - Spoken aloud, by the woman on camera, lip-synced, her one diegetic line shouted through a head-back belly-laugh, a real everyday woman in her late 30s, breathless and amused (not a glamour voice): \"Stop — I'll pee myself!\". Ambient: bright restaurant room tone and the friend's warm laugh from the first frame, a palm-slap thump and cutlery rattle on the slap, and under it a light bouncy upbeat music bed starting low. No other dialogue; mouth movement only on her line. No on-screen text.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "S2-GFX-freeze-scratch",
+   "lane": "editor",
+   "editor_note": "CapCut: freeze F1's hand-to-thigh CONTACT frame (~1.17s, palm flat on upper thigh, knees pressed, head back, no motion blur) and hold 1.5s (1.2-2.7). Saturation -30; thin white freeze border/vignette snap 110->100% over 2 frames; scale punch 103% then slow push 103->106%; record-scratch SFX peaking on the freeze; music duck -18 dB to near-silence; room tone cut; light film grain. 3-pop freeze line at 1.25/1.45/1.8; keep the 'Dramatization' label. All text in CapCut, none in any prompt. No generation."
+  },
+  {
+   "shot_id": "S3-GFX-rewind-smear",
+   "lane": "editor",
+   "editor_note": "CapCut transition (2.7-3.1, <0.5s): duplicate F1, Reverse at ~6x (horizontal directional blur 40-60px + 2-frame RGB split, saturation snapping 70->100%) so the hand whips up off the lap and the head snaps forward, then a 0.2s whip-smear into S4 (S4's first 5 frames speed-ramped 300->100%). Tape-rewind chirp + whoosh; music lifts back to full. '(arrow) 3 hours earlier.' slams in at 2.7; 'Dramatization' drops on the first reversed frame. Brand narrator line 'Three hours...' laid in from 2.75 over the smear (recorded VO, not generated here). No generation."
+  },
+  {
+   "shot_id": "S4-BR-liner-at-lens",
+   "lane": "broll",
+   "pexels_search": "woman's hand holding wrapped panty liner close to camera, bright bathroom vanity"
+  },
+  {
+   "shot_id": "S5-BR-liner-peel-ecu",
+   "lane": "broll",
+   "pexels_search": "peeling open panty liner wrapper, top-down macro, clean white liner sliding out"
+  },
+  {
+   "shot_id": "S6-BR-liner-press-in-topdown",
+   "lane": "broll",
+   "pexels_search": "hands placing panty liner into underwear, top-down flat lay on cream bedding"
+  },
+  {
+   "shot_id": "S7-BR-liner-bunch-ecu",
+   "lane": "broll",
+   "pexels_search": "hands bunching underwear fabric, macro close up, panty liner buckling"
+  },
+  {
+   "shot_id": "S8-BR-liner-shift-side",
+   "lane": "broll",
+   "pexels_search": "panty liner slipping sideways off-centre in underwear, low side angle macro"
+  },
+  {
+   "shot_id": "S9-BR-liner-pinch-side",
+   "lane": "broll",
+   "pexels_search": "fingers pinching thick panty liner padding in underwear, side macro"
+  },
+  {
+   "shot_id": "S9-BR-liner-pinch-punch",
+   "lane": "editor",
+   "editor_note": "CapCut: scale keyframe 100->120% over 2 frames on the S9 4K take as the fingers squeeze a second time; layer an exaggerated plastic crinkle on 'diaper'. No generation."
+  },
+  {
+   "shot_id": "S10-BR-liner-fold-night",
+   "lane": "broll",
+   "pexels_search": "hands folding panty liner back into wrapper, bathroom vanity at night, warm lamp"
+  },
+  {
+   "shot_id": "S11-BR-bin-drop",
+   "lane": "broll",
+   "pexels_search": "dropping wrapped bundle into white bathroom pedal bin, low angle, lid taps shut"
+  },
+  {
+   "shot_id": "S12-PROD-reveal-match",
+   "lane": "broll",
+   "pexels_search": "hands stretching black seamless underwear waistband wide, close up at camera, bright vanity"
+  },
+  {
+   "shot_id": "S13-PROD-turn-mcu",
+   "lane": "broll",
+   "pexels_search": "hands turning black seamless underwear front to back, light shake, close up"
+  },
+  {
+   "shot_id": "F9-WOMAN-side-waist-pullup",
+   "lane": "ai",
+   "references": [
+    "AVATAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Frame ONE of a getting-dressed motion in a calm bedroom: soft daylight window light, cream walls, a warm cream-and-blush grade. A woman shown STRICTLY side-on, cropped waist-to-knee - NO face, no head in frame, no crotch or buttock framing, nothing explicit, no leak shown. She wears the same dusty-rose ribbed-knit top with its hem covering her hip, and she is just starting to pull a pair of black leggings up her leg: the leggings are gathered at the knee, about to rise. Briefly visible at the waistline above the leggings is the real product - copy the garment exactly: plain black seamless matte-satin microfibre, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise. Use reference AVATAR for her skin tone and the dusty-rose knit only (no face is in frame). Use PRODUCT-STORE and PRODUCT-REAL to copy the black garment exactly. Skin: real, fair, light natural texture. [REALISM] photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark",
+   "video_prompt": "Animate from the start frame. One smooth continuous getting-dressed move, locked side-on medium shot (waist-to-knee, no face, slight handheld): she pulls the black leggings up in one motion from knee to waist over the plain black underwear, then one hand smooths the leggings flat at the thigh. Calm and easy - no laugh, no sneeze, no jump, never crotch- or butt-centred, no leak. The garment stays exactly as in the start frame (plain black, laser-cut raw edges, no lace, no logo, no band). Audio - voiceover, no one speaks on camera (the VO is a disembodied brand narrator laid over b-roll; no face, no mouth, no lip-sync). Spoken aloud, warm, wry, natural woman in her 30s, light and reassuring: \"Just underwear. Wash, hang, wear…\". Ambient: soft fabric swish and a light waistband snap, with a gentle up-tempo lift in the bouncy music bed. No on-screen text.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "S14-BR-hall-clutch-grab",
+   "lane": "broll",
+   "pexels_search": "hand scooping small black clutch and keys off a hallway console table, heading out"
+  },
+  {
+   "shot_id": "S15-BR-table-clutch-set",
+   "lane": "ai",
+   "references": [
+    "AVATAR",
+    "POSE-RESTAURANT"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Frame ONE of a table-top insert, back in the same bright golden restaurant as the hook. A tight table-top close-up on a sunlit warm-wood table: a small black clutch is just entering from the top of frame, about to be set down next to a tall glass of sparkling water with a lemon slice (NO wine, no alcohol). A dusty-rose ribbed-knit sleeve is sliding into frame from the woman's arm. Golden early-evening window light pools on the wood; the cream-and-warm-wood restaurant sits softly out of focus behind. Use reference AVATAR for the skin tone and the dusty-rose knit sleeve only (no face in frame). Use POSE-RESTAURANT for the warm restaurant setting and golden-light mood only (bright, not dim candlelight). No logos, no brand marks, no children. [REALISM] photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark",
+   "video_prompt": "Animate from the start frame. One simple action, static table-top close-up with only a tiny settle: the black clutch drops the last few centimetres from the top of frame and lands on the sunlit wood table beside the sparkling-water glass, and the dusty-rose knit sleeve slides into frame as her hand releases. No face, no other movement. Audio - voiceover, no one speaks on camera (disembodied brand narrator over b-roll, no lip-sync). Spoken aloud, warm, wry, natural woman in her 30s, easing into the close: \"For the woman who'd rather…\". Ambient: a soft clutch thunk on the wood as it lands, warm restaurant room tone returning, and the bouncy music settling warm. No on-screen text.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F12-WOMAN-34-single",
+   "lane": "ai",
+   "references": [
+    "AVATAR",
+    "POSE-RESTAURANT"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Frame ONE of a quiet listening beat, in the same bright golden restaurant as the hook but a NEW angle: camera ACROSS the table at her 3/4 front, waist-up, so it reads as a new moment. Reference AVATAR is the exact woman - copy her face, hair, skin and age precisely: real, natural, mid-to-late 30s, fair skin with light freckles, blue eyes, soft natural makeup, everyday warm face (NOT a glossy model). Long wavy dark-blonde hair in the same messy bun; same dusty-rose ribbed-knit top; small gold hoops; same warm golden window light. She is settling into her chair with an easy, CLOSED-MOUTH smile, one hand just lifting to tuck a strand of hair behind her ear, shoulders relaxed, listening to a friend - calm and present. Her mouth is closed and smiling: she is NOT laughing, NOT speaking, NOT glancing down at her lap. In the soft out-of-focus left foreground: her friend's shoulder edge (the friend never faces camera). Use POSE-RESTAURANT for the warm restaurant setting and golden-light mood only; the face comes from AVATAR. No wine, no logos, no children. [REALISM] photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark",
+   "video_prompt": "Animate from the start frame. One calm continuous beat, MCU 3/4 single with a slight handheld drift: she settles into her chair, finishes tucking the strand of hair behind her ear, gives a small warm nod and holds an easy CLOSED-MOUTH smile as she listens. She does NOT laugh, does NOT speak, does NOT exhale with relief and never glances down - her mouth stays closed and smiling throughout, with no lip movement and no implied speech. Keep her face, hair and knit identical to the start frame (no morphing). Audio - voiceover, no one speaks on camera (disembodied brand narrator over b-roll; she is listening, not speaking, so there is NO lip-sync and her mouth never appears to voice the line). Spoken aloud, warm, wry, natural woman in her 30s, landing the line softly: \"…laugh than cross her legs.\". Ambient: warm restaurant room tone and the soft murmur of the restaurant, with the music breathing toward the resolve. No on-screen text.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F12-WOMAN-34-single-punch",
+   "lane": "editor",
+   "editor_note": "CapCut: scale 100->118% over 2 frames on the F12 take (generate F12 at 2K+ so the punch stays sharp); she nods, smiles and reaches for her water glass (calm, present, no laugh/relief/lap-glance); no VO in 20.9-22.75 - room tone and music breathe - then a claret wipe to the end card on the music beat at 22.6. No generation."
+  },
+  {
+   "shot_id": "S16-CARD-end",
+   "lane": "editor",
+   "editor_note": "CapCut/Canva end card on Warm Cream #F5EDE6 in brand fonts/colours: 'leapproof' wordmark ('leap' Plum Ink + 'proof' italic Claret), 'Stop! I'll pee myself!' (Fraunces, Plum Ink), 'Not a pad, not a diaper.' and '30 nights to see if they hold.' (Hanken Grotesk), a REAL sample photo of the plain black underwear (flat front) centre-right, a Claret 'Find my match >' button on screen throughout (pulses 24.55 and 26.35), and a tiny Rose Taupe 'Made with AI.' line. All inside the 4:5 crop / 14-62% band. Narrator VO laid in (recorded, not generated here). Product image is a real sample photo, never an AI render. No generation."
+  }
+ ],
+ "anchors_first": [
+  "F1-WOMAN-wide-side-twoshot: the frame-0 hook still is THE anchor - it locks her face, the dusty-rose knit + black leggings, the bright golden restaurant grade and the text-map layout, and it IS the thumbnail. S15 and F12 (and F9's wardrobe/skin) are generated FROM it, so generate and approve F1 first."
+ ],
+ "generation_count": {
+  "ai_images": 4,
+  "broll_clips": 11
+ }
+}

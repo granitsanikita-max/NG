@@ -1,0 +1,255 @@
+{
+ "ad_id": "V2-a",
+ "shots": [
+  {
+   "shot_id": "F1-LINER-mcu-to-ecu-lunge",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR",
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: a Warm Cream (#F5EDE6) bathroom shelf and wall in low golden-hour window light raking from frame-left; a folded Claret (#A33154) hand towel at the left edge, a frosted toothbrush cup, a hair tie, and a mini white pedal bin soft at the far-right end. Centre-left on the shelf edge at ~45% height is the LINER character - a clean, pure-white, unbranded, wingless oval panty liner with soft matte quilting, no print, no channels, no colour, no stain, no wet look; a backing-paper strip worn on its back like a little cape; big soft brown Pixar eyes with expressive brows in its top third, a small mouth, two short stubby white arms and tiny white feet; appealing and sheepish, never grotesque; match the approved LINER character sheet exactly. START FRAME (frame one of the motion): the liner is caught 2-3 frames into a startled jolt - both feet off the shelf, stubby arms flung up, eyes wide, with motion blur on the arms. Behind it at frame-right, in deep soft focus, is the UNDERWEAR character, folded upright with its eyes closed, dozing - a pair of plain black seamless matte-satin microfibre underwear, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise, copied exactly from the product references, with one soft Pixar face on the UPPER FRONT panel just under the waistband and nothing on the lower front or gusset; match the approved UNDIES character sheet (if the sample is not yet built, leave the far-right dozing slot empty to composite later). premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Bright frame, no mirror, no reflection, no human, no children, no medical props. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Base camera is a locked 35mm eye-level at shelf height, then a fast wide-lens lunge straight in until the liner's eyes fill the frame (the wide lens bulges its face and the dozing underwear blurs fully out). Motion (one continuous move): the liner lands from its jolt, whips its head to camera, and rushes the lens nose-to-lens with a tiny wobble as it speaks; the underwear stays asleep, eyes closed, mouth closed, silent. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the liner character's mouth - a higher, fussy, fast, slightly anxious young-adult woman's voice, about 4 words per second: \"That's my cue.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut, do NOT let Kling generate them): the off-screen library 'ACHOO!' sneeze sting on frame 0, a tiny startled squeak, the lunge whoosh, and the warm acoustic music bed. Generate the voice line and quiet ambient only - NO sneeze, NO music, NO laughter, NO extra foley inside the clip. No second voice, no mouth movement on the underwear.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F2-LINER-handbag-lowangle",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: inside an open, unbranded handbag with a plum lining (NO logo, NO branded hardware) - keys, a lip balm, a phone edge and a folded tissue; warm golden-hour window light spills in through the opening above. Camera is LOW inside the bag, looking up at the opening. The LINER character perches on the bunch of keys like a little stage - a clean, pure-white, unbranded, wingless oval panty liner with soft matte quilting, no print, no channels, no colour, no stain; a backing-paper strip worn on its back like a little cape; big soft brown Pixar eyes with expressive brows, a small mouth, two short stubby white arms and tiny white feet; appealing and sheepish; match the approved LINER character sheet exactly. START FRAME (frame one of the motion): the liner stands on the keys, one stubby arm just beginning to sweep around the inside of the bag as if patting home. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. No human, no children, no brand logos. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Low angle from inside the bag looking up, with a slow 5% push-in throughout and a small 108% bump on the word 'bag'. Motion: the liner sweeps one stubby arm around the bag interior as if showing off home, and the keys shift and jingle under its feet. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the liner character's mouth - a higher, fussy, fast, slightly anxious young-adult woman's voice, about 4 words per second: \"I'm the panty liner she keeps in her bag.\". Ambient: muffled bag-interior room tone only. Keep OUT of the generation (added in CapCut): the whoosh on the cut-in and a key jingle accent on 'bag', plus the warm music bed. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley. One speaker only.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F3-LINER-shelf-mcu-34",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR",
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: the Warm Cream (#F5EDE6) home-base bathroom shelf in low golden-hour window light from frame-left, Claret (#A33154) hand towel at the left, frosted toothbrush cup, hair tie. Eye-level, slightly 3/4 from frame-right, MCU on the LINER character - a clean, pure-white, unbranded, wingless oval panty liner with soft matte quilting, no print, no channels, no colour, no stain; a backing-paper strip worn on its back like a little cape; big soft brown Pixar eyes with expressive brows, a small mouth, two short stubby white arms; appealing and sheepish; match the approved LINER character sheet exactly. START FRAME (frame one of the motion): the liner gives a small sheepish shrug, stubby arms starting to turn out, eyes beginning to slide sideways. Behind it at frame-right, in soft focus, the UNDERWEAR character still dozes upright, eyes closed - a pair of plain black seamless matte-satin microfibre underwear, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise, copied exactly from the product references, with its soft Pixar face on the upper front just under the waistband; match the approved UNDIES character sheet. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. No human, no mirror, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. This is ONE continuous clip that covers the whole confession line (the F4 cutaway and the F5 punch-in reuse this clip's audio/footage in edit). Eye-level 3/4 MCU, settling 3% like a held breath, then the liner reaches back and peels a corner of its backing-paper 'cape' off its back and lets it flap - it is literally a sticker. The dozing underwear stays soft, eyes closed, mouth closed, silent. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the liner character's mouth - a higher, fussy, fast, slightly anxious young-adult woman's voice, about 4 words per second, a beat after 'Thing is...' then quicker: \"Thing is... I'm not even underwear. I'm a sticker.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a single soft piano note, the soft paper peel/tape-pull on 'sticker' (no crinkle), and the music lift. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley, NO crinkle. One speaker only; the underwear does not speak or move its mouth.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F4-UNDIES-cu-reaction",
+   "lane": "ai",
+   "references": [
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: the home-base shelf reverse angle - the Warm Cream shelf and a warm window bokeh behind, golden-hour light from frame-left. CU on the UNDERWEAR character in sharp focus, lower-middle of frame - a pair of plain black seamless matte-satin microfibre underwear, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise, copied exactly from the product references; one soft Pixar face (two soft eyes, a small mouth) on the UPPER FRONT panel just under the waistband, with nothing on the lower front or gusset; no arms; match the approved UNDIES character sheet exactly. START FRAME (frame one of the motion): both eyes still closed, just beginning to open one eye, a dry reaction building. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. The face sits under the waistband, never on the crotch or gusset. No human, no mirror, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Locked eye-level CU, a tiny lean toward the off-frame liner. Motion: the underwear opens one eye, then slowly raises one eyebrow at what it just heard, and leans a touch toward the liner - a silent dry reaction, mouth stays closed the whole time. AUDIO (Kling 3.0 native sound): no dialogue - this character does not speak and there is no voiceover generated on this clip (the liner's line 'I'm not even underwear.' is carried over from the F3 clip in CapCut, not generated here). Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a soft 'blink' tick and the continuing music bed. Generate quiet ambient only - NO voice, NO music, NO laughter, NO foley. No mouth movement.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F5-LINER-cu-sticker-punch",
+   "lane": "editor",
+   "editor_note": "Editor-only: 115% CapCut punch-in on the F3 Kling clip (same axis, tighter), landing on 'I'm a sticker.' as the backing-paper cape peels and flaps - no new generation (render F3 at 2K+ so the punch stays sharp). Caption 'I'm a sticker.' and the soft paper-peel SFX (no crinkle) + music lift are added in CapCut."
+  },
+  {
+   "shot_id": "F6-LINER-shelf-mcu-front-bunch",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: the Warm Cream (#F5EDE6) home-base bathroom shelf, front-on, golden-hour window light from frame-left, Claret (#A33154) hand towel soft at the left. The LINER character faces camera dead-front - a clean, pure-white, unbranded, wingless oval panty liner with soft matte quilting, no print, no channels, no colour, no stain; backing-paper strip on its back like a cape; big soft brown Pixar eyes with expressive brows, a small mouth, two short stubby white arms; appealing and fussing, never grotesque; match the approved LINER character sheet exactly. START FRAME (frame one of the motion): the liner is just beginning to scrunch itself into a little concertina fold, its face starting to squish in the middle. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. No human, no mirror, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Locked front-on MCU. Motion: the liner scrunches down into a concertina fold, face squished in the middle, then pops halfway back out - fussy and quick. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the liner character's mouth - a higher, fussy, fast, slightly anxious young-adult woman's voice, quicker and fussing, about 4 words per second: \"I bunch.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a soft paper rustle (no crinkle), a comedic squeeze squeak, and the fussy woodblock rhythm starting. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley, NO crinkle. One speaker only.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F7-LINER-tabletop-lowangle-shift",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: the Warm Cream (#F5EDE6) home-base shelf seen from a LOW tabletop angle - the camera sits on the shelf surface and looks along it; the folded Claret (#A33154) hand towel is soft in the foreground, the frosted toothbrush cup stands mid-shelf, golden-hour light from frame-left. The LINER character is a clean, pure-white, unbranded, wingless oval panty liner with soft matte quilting, no print, no channels, no colour, no stain; backing-paper cape on its back; big soft brown Pixar eyes, a small mouth, two stubby white arms and tiny feet; match the approved LINER character sheet exactly. START FRAME (frame one of the motion): the liner is mid-stumble, just losing its footing and starting to skid sideways across the shelf toward the toothbrush cup, arms beginning to flail. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. No human, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Low tabletop angle looking along the shelf, with the camera whip-following the skid about 10%. Motion: the liner skids sideways across the shelf as if it lost its footing and lands askew against the toothbrush cup. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the liner character's mouth - a higher, fussy, fast, slightly anxious young-adult woman's voice, about 4 words per second: \"I shift.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): the scoot/skid foley and a tiny bump on the cup, plus the woodblock rhythm. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley. One speaker only.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F8-LINER-binrim-side-mcu",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: the mini white pedal bin at the end of the Warm Cream (#F5EDE6) home-base shelf, clean and empty with a fresh white bin bag, the lid raised up behind; golden-hour window light from frame-left. Side angle, MCU. The LINER character teeters on the bin rim - a clean, pure-white, unbranded, wingless oval panty liner with soft matte quilting, no print, no channels, no colour, no stain; backing-paper cape on its back; big soft brown Pixar eyes with expressive brows, a small mouth, two short stubby white arms windmilling for balance; appealing, not grotesque; match the approved LINER character sheet exactly. The raised lid frames it like a backdrop. START FRAME (frame one of the motion): the liner is perched on the rim, arms starting to windmill, just beginning to lose balance. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Clean white bin, no stains, no rubbish, no human, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Locked side MCU on the bin rim, lid up behind. Motion: the liner teeters and windmills its stubby arms for balance, then starts to tip backward over the rim. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the liner character's mouth - a higher, fussy, fast, slightly anxious young-adult woman's voice, about 4 words per second: \"And every day,\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a pedal-bin lid creak and the woodblock rhythm. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley. One speaker only.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F9-LINER-bin-topdown-highangle",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: straight down into the mini white pedal bin - clean and empty with a fresh white bin bag, no stains and no other rubbish; warm golden-hour light spilling in from frame-left, the lid's soft shadow across the rim. High angle, top-down. The LINER character lies on its back on the fresh white bin bag, small in frame, looking up at the lens, deflated - a clean, pure-white, unbranded, wingless oval panty liner with soft matte quilting, no print, no channels, no colour, no stain; backing-paper cape under it; big soft brown Pixar eyes and expressive brows, a small mouth, two short stubby white arms at its sides; sheepish and deflated, not grotesque; match the approved LINER character sheet exactly. START FRAME (frame one of the motion): the liner has just flopped onto its back, settling, eyes turning up to the lens. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. Clean white bin, no stains, no human, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. High-angle top-down looking straight into the bin, with a small 110% bump on the word 'trash' and the lid's shadow sweeping across at the end. Motion: the liner flops flat on its back with a small sigh and lies there deflated, looking up at the lens. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the liner character's mouth - a higher, fussy young-adult woman's voice, deflating a little, about 4 words per second: \"I'm in the trash.\". Ambient: quiet bathroom room tone only, slightly boxed-in inside the bin. Keep OUT of the generation (added in CapCut): a soft lid tap 'thunk' and the end of the woodblock rhythm. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley. One speaker only.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F10-DUO-wide-reveal",
+   "lane": "ai",
+   "references": [
+    "UNDIES-CHAR",
+    "LINER-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: a WIDE two-shot of the Warm Cream (#F5EDE6) home-base shelf with the mini white pedal bin, golden-hour window light from frame-left, Claret (#A33154) towel at the left. At frame-left, the LINER character peeks over the bin rim (only its eyes and top showing) - clean pure-white, unbranded, wingless oval with soft matte quilting, big soft brown Pixar eyes; match the approved LINER character sheet. Centre-right, the UNDERWEAR character springs forward out of the soft background into the liner's plane and snaps into sharp focus - a pair of plain black seamless matte-satin microfibre underwear, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise, copied exactly from the product references, upright with the waistband up and its soft Pixar face on the upper front just under the waistband; match the approved UNDIES character sheet exactly. START FRAME (frame one of the motion): the underwear is mid-hop, just arriving into the foreground plane, focus racking onto it; the liner's eyes beginning to follow. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. The face sits under the waistband, never on the crotch or gusset. No human, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Wide two-shot with a rack focus from the soft background onto the underwear as it lands. Motion: the underwear springs in with a small bounce and snaps into sharp focus upright at centre-right; the liner's eyes follow it from the bin rim at frame-left. The underwear is the only speaker; the liner reacts in silence, mouth closed. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the underwear character's mouth (its face just under the waistband) - a warm, dry, calm, unhurried mid-30s woman's voice, about 3 words per second: \"Hi.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a warm 'boing' spring and a positive chord lift as the music opens up. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley. One speaker only; the liner does not move its mouth.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F11-UNDIES-lowangle-hero",
+   "lane": "ai",
+   "references": [
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: the Warm Cream (#F5EDE6) home-base shelf, camera at shelf level and slightly below, looking UP at a low-angle hero MCU; golden-hour window rim light from frame-left catching the top edge. The UNDERWEAR character stands upright and centred - a pair of plain black seamless matte-satin microfibre underwear, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise, copied exactly from the product references; its soft Pixar face (two soft eyes, a small mouth) on the UPPER FRONT panel just under the waistband, wearing a calm half-smile; no arms; match the approved UNDIES character sheet exactly. The liner is out of frame. START FRAME (frame one of the motion): the underwear stands upright, just beginning a small confident puff-up, rim light on the plain waistband. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. The face sits under the waistband, never on the crotch or gusset. No human, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Low-angle hero MCU with a 3% push-in. Motion: the underwear puffs up slightly and settles, calm and dry, holding its half-smile. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the underwear character's mouth (its face just under the waistband) - a warm, dry, calm, unhurried mid-30s woman's voice, about 3 words per second: \"I'm underwear.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a soft low-end 'whoomp' and the continuing music bed. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley. One speaker only.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "S12-PROD-flatlay-smooth-real",
+   "lane": "broll",
+   "pexels_search": "plain black underwear flat lay on cream beige linen hand smoothing fabric top down window light"
+  },
+  {
+   "shot_id": "F13-UNDIES-cu-eyelevel",
+   "lane": "ai",
+   "references": [
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: the Warm Cream (#F5EDE6) home-base shelf, eye-level CU, golden-hour window light from frame-left, soft warm bokeh behind. The UNDERWEAR character fills the lower-middle of frame - a pair of plain black seamless matte-satin microfibre underwear, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise, copied exactly from the product references; its soft Pixar face (two soft eyes, a small mouth) on the UPPER FRONT panel just under the waistband, with nothing on the lower front or gusset; no arms; match the approved UNDIES character sheet exactly. START FRAME (frame one of the motion): a dry eyebrow just beginning to raise toward the off-frame-left liner, a slight tilt building. This is ONE continuous clip that also covers the F14 punch-in. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. The face sits under the waistband, never on the crotch or gusset. No human, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Locked eye-level CU; one continuous clip that covers both 'Not a pad.' and 'Not a diaper.' (the F14 punch-in reuses this clip in edit). Motion: the underwear gives a dry eyebrow raise and a slight tilt toward the liner off frame-left on the first beat, then one slow, unimpressed blink on the second beat. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the underwear character's mouth (its face just under the waistband) - a warm, dry, calm, unhurried mid-30s woman's voice, about 3 words per second, flat and even across the two beats: \"Not a pad. Not a diaper.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a light tick on the first beat and a low 'thud' hit on 'diaper', plus the music bed. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley. One speaker only.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F14-UNDIES-ecu-punch-diaper",
+   "lane": "editor",
+   "editor_note": "Editor-only: 120% CapCut punch-in on the F13 Kling clip (same axis, tighter on the eyes and waistband), landing on 'Not a diaper.' with the slow unimpressed blink - no new generation. Caption 'Not a diaper.' and the low 'thud' hit are added in CapCut."
+  },
+  {
+   "shot_id": "F15-LINER-ots-sideeye",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR",
+    "UNDIES-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: the Warm Cream (#F5EDE6) home-base shelf, a reverse over-the-shoulder - the soft black edge of the UNDERWEAR character's waistband sits in the right foreground (a soft black shape, plain matte-satin microfibre, laser-cut raw edge, no lace, no logo, copied from the product references; match the approved UNDIES character sheet), with the shot focused past it onto the LINER character. Golden-hour window light from frame-left. The LINER character sits back on the bin rim - clean pure-white, unbranded, wingless oval with soft matte quilting, no print, no colour, no stain; backing-paper cape; big soft brown Pixar eyes with expressive brows, a small mouth, two short stubby white arms; match the approved LINER character sheet exactly. START FRAME (frame one of the motion): the liner is just cutting a flat side-eye toward the underwear, arms starting to fold. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. No human, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Over-the-shoulder CU past the underwear's soft waistband edge onto the liner, locked. Motion: the liner gives the underwear a flat, deadpan side-eye, then folds its two stubby arms. The underwear in the foreground is silent, no mouth movement. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the liner character's mouth - a higher, fussy young-adult woman's voice, flat and dry here, about 4 words per second: \"Show-off.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a single dry woodblock 'tok' and the music bed. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley. One speaker only; the underwear does not move its mouth.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "S16-PROD-waistband-stretch-real",
+   "lane": "broll",
+   "pexels_search": "two hands stretching plain black underwear waistband wide then snap back close up window light"
+  },
+  {
+   "shot_id": "F17-LINER-left-behind-wide",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR",
+    "AVATAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render with a photoreal hand. Setting: a WIDE on the Warm Cream (#F5EDE6) home-base shelf with the unbranded plum-lined handbag sitting on it, golden-hour window light from frame-left. A woman's photorealistic right hand enters from the top of the frame - Reference AVATAR is the exact woman, copy her fair skin with light freckles precisely; short natural nails, a thin plain gold band, no face, no arm beyond the wrist, five correct fingers (no extra or fused fingers). The LINER character stands alone on the shelf - clean pure-white, unbranded, wingless oval with soft matte quilting, no print, no colour, no stain; backing-paper cape; big soft brown Pixar eyes, a small mouth, two short stubby white arms; match the approved LINER character sheet exactly. START FRAME (frame one of the motion): the hand's fingers are just closing on the zip pull of the plum-lined handbag (NO logo, NO branded hardware), the liner standing beside it beginning to half-raise one stubby arm. The liner is a premium 3D Pixar-style render; the hand, the handbag and the set are photorealistic with real skin texture; cinematic golden-hour light, shallow depth of field, no text, no logo, no watermark. No face, no children, no brand logos. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Wide, locked. Motion: the hand zips the plum handbag shut and lifts it up and out of the top of the frame; the liner, left standing on the shelf, half-raises one stubby arm as the bag leaves without it, its head following the bag up - the gag lands on the liner. No one speaks on camera. AUDIO (Kling 3.0 native sound): Spoken aloud as the underwear's voiceover, no one speaks on camera, no lip-sync - a warm, dry, calm, unhurried mid-30s woman's voice, about 3 words per second: \"Nothing to pack.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a zip and a bag-swish out of frame, plus the music bed. Generate the voiceover line and quiet ambient only - NO music, NO laughter, NO extra foley, and no mouth movement on the liner.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "S18-PROD-drawer-drop-real",
+   "lane": "broll",
+   "pexels_search": "hand dropping folded black underwear into drawer of neutral cotton underwear top down drawer closing"
+  },
+  {
+   "shot_id": "S19-BR-leggings-pullup-side",
+   "lane": "ai",
+   "references": [
+    "AVATAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Documentary UGC-style photograph in a bright bedroom in the morning (plain wall, NO mirror). Side-on, waist-to-knee crop of one woman getting dressed; her face and chest are OUT of frame (crop at the waist, nothing above). Reference AVATAR is the exact woman - copy her skin tone, light freckles and slim-average everyday build precisely; mid-30s, fair skin with real visible texture. She wears a loose sports top that falls over the hip line. She has the plain black Leapproof underwear on at the hip - copy the garment exactly from the product references: plain black seamless matte-satin microfibre underwear, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise. START FRAME (frame one of the motion): black leggings bunched at knee level, both hands gripping the leggings waistband at the knees, about to pull up in one smooth move; the black underwear visible side-on at the hip, top covering the hip, no crotch or buttock framing, no leak shown, not seated. Soft natural window light from frame-left, warm grade to match the 3D sets. photorealistic, real unretouched skin with visible texture, natural imperfections, documentary/editorial realism, shot on 35mm, soft natural light, shallow depth of field, NOT airbrushed, no plastic skin, no text, no logo, no watermark. No face, no mirror, no leak, no stain, no medical props, no children.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. This clip carries the underwear's full identity line as a voiceover and also covers the S20 punch-in in edit. Locked side-on camera, waist-to-knee, no reframe. Motion: in ONE smooth continuous move she pulls the black leggings up from the knees over the thighs to the waist, and her loose sports top falls over the hip so the underwear is covered - getting dressed only, no crotch/buttock framing, no leak, no sneeze or laugh acted. AUDIO (Kling 3.0 native sound): Spoken aloud as the underwear's voiceover, no one speaks on camera, no lip-sync - a warm, dry, calm, unhurried mid-30s woman's voice, about 3 words per second: \"For women who'd rather laugh than cross their legs.\". Ambient: quiet bedroom room tone only. Keep OUT of the generation (added in CapCut): a legging swish and a soft waistband snap, a keys pick-up jingle and a footstep, plus the music bed. Generate the voiceover line and quiet ambient only - NO music, NO laughter, NO extra foley, no on-camera speech and no mouth movement.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "S20-BR-leggings-punch-keys",
+   "lane": "editor",
+   "editor_note": "Editor-only: 115% CapCut punch-in on the S19 Kling clip (same bedroom, tighter at waist level), covering the second half of the identity line as the top settles over the hip, a hand smooths the leggings, picks keys off the dresser edge and she steps out of frame - no new generation; frame stays waist-to-knee. Caption 'than cross their legs.' and the keys/footstep SFX are added in CapCut."
+  },
+  {
+   "shot_id": "F21-LINER-highangle-deflated-binlid",
+   "lane": "ai",
+   "references": [
+    "LINER-CHAR"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: the CLOSED lid of the mini white pedal bin at the end of the Warm Cream (#F5EDE6) home-base shelf, seen from ABOVE at a high angle; golden-hour window light from frame-left. The LINER character sits slumped on the closed lid, small in frame, chin resting on one stubby arm, deflated - clean pure-white, unbranded, wingless oval with soft matte quilting, no print, no colour, no stain; backing-paper cape; big soft brown Pixar eyes with sad expressive brows, a small mouth, two short stubby white arms; sheepish and deflated, not grotesque; match the approved LINER character sheet exactly. It is NOT looking at the lens - its gaze is low and to the side. START FRAME (frame one of the motion): the liner has just slumped, chin settling onto its arm, beginning a small sigh. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. No human, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. High-angle MCU looking down at the closed bin lid, locked. Motion: the liner slumps with a soft sigh, then turns its head toward the underwear off frame-right - it does NOT look into the lens at any point. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the liner character's mouth - a higher, fussy young-adult woman's voice, deflating and a little sad (not mocking), about 4 words per second, with a beat after 'So...': \"So... I'm in the trash.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a gentle deflating 'pfff' (soft, not mocking) and the music bed. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley. One speaker only.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F22-DUO-ots-liner-back",
+   "lane": "ai",
+   "references": [
+    "UNDIES-CHAR",
+    "LINER-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render. Setting: the Warm Cream (#F5EDE6) home-base shelf, an over-the-shoulder two-shot - over the LINER character's BACK (its backing-paper 'cape' soft in the left foreground, the liner turned away from the lens so its face is hidden) onto the UNDERWEAR character, upright and sharp at centre-right. Golden-hour window light from frame-left. The underwear is a pair of plain black seamless matte-satin microfibre underwear, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise, copied exactly from the product references; its soft Pixar face (two soft eyes, a small mouth) on the UPPER FRONT panel just under the waistband; match the approved UNDIES character sheet exactly. The liner is a clean pure-white, unbranded, wingless oval; match the approved LINER character sheet; its back is to camera and its mouth is NOT visible. START FRAME (frame one of the motion): the liner is leaning in toward the underwear (back still to the lens), and the underwear's eyes are just coming up to meet it. This ONE continuous clip also covers the F23 and F25 punch-ins. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. The face sits under the waistband, never on the crotch or gusset. No human, no children. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Over-the-shoulder two-shot onto the underwear; one continuous clip covering the small exchange and the wink (the F23 and F25 punch-ins reuse this clip in edit, and the S24 real insert cuts over the continuing audio). Motion: the liner (back to camera the whole time, mouth hidden, never turning to the lens) leans in to ask; then the underwear answers calmly, delivering the three words with a small beat between each, and ends on a wink with a tiny bounce. Only the underwear's mouth moves and is lip-synced; the liner is NOT lip-synced because its mouth is hidden. AUDIO (Kling 3.0 native sound): first, Spoken aloud as the liner's off-screen voice, back to camera, mouth hidden, no lip-sync - a higher, fussy, slightly anxious young-adult woman's voice, about 4 words per second: \"And you?\". Then, Spoken aloud and lip-synced to the underwear character's mouth (its face just under the waistband) - a warm, dry, calm, unhurried mid-30s woman's voice, about 3 words per second, a beat between each word: \"Wash. Hang. Wear again.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a tiny turn-swish, a gentle tap trickle as SOUND ONLY under 'Wash' (NO water shown on the product, no pour/water demo), a peg click, a wink 'ting', and the music bed. Generate the two voice lines and quiet ambient only - NO music, NO laughter, NO extra foley, NO water sound inside the gen. The liner's mouth never shows and never moves.",
+   "kling_seconds": 5
+  },
+  {
+   "shot_id": "F23-UNDIES-ots-mcu-wash",
+   "lane": "editor",
+   "editor_note": "Editor-only: 115% CapCut punch-in on the F22 Kling clip (same over-the-shoulder axis, tighter on the underwear), landing on 'Wash.' - no new generation. One-word caption 'Wash.' and a gentle tap-trickle SFX (sound only, no water shown on the product) are added in CapCut."
+  },
+  {
+   "shot_id": "S24-PROD-drying-rack-real",
+   "lane": "broll",
+   "pexels_search": "plain black underwear pegged on white drying rack by sunny window swinging gently"
+  },
+  {
+   "shot_id": "F25-UNDIES-cu-wink",
+   "lane": "editor",
+   "editor_note": "Editor-only: 125% CapCut punch-in on the F22 Kling clip (tight on the underwear's face and waistband), landing on the wink and tiny bounce on 'Wear again.' - no new generation. Caption 'Wear again.' and the wink 'ting' are added in CapCut."
+  },
+  {
+   "shot_id": "S26-CARD-end-duo",
+   "lane": "ai",
+   "references": [
+    "UNDIES-CHAR",
+    "LINER-CHAR",
+    "PRODUCT-STORE",
+    "PRODUCT-REAL"
+   ],
+   "image_prompt": "9:16 vertical, 2K. Premium 3D Pixar-style render - the END-CARD plate; ALL text, the wordmark and the button are added later in CapCut, so leave the frame completely clean of text. Setting: the Warm Cream (#F5EDE6) home-base shelf with the top 40% of the frame left as clean, empty Warm Cream wall (clear space for the headline and wordmark) and the bottom ~38% as plain soft shelf front; golden-hour window light from frame-left. Lower-middle, centred at ~44% height, the UNDERWEAR character stands upright and calm - a pair of plain black seamless matte-satin microfibre underwear, laser-cut raw edges (no elastic band, no lace, no logo), smooth front panel, short ruched gathers on the side seams, mid-rise, copied exactly from the product references; its soft Pixar face (two soft eyes, a small mouth) on the UPPER FRONT panel just under the waistband; match the approved UNDIES character sheet exactly. At frame-left, small on the closed mini white pedal-bin lid, the LINER character sulks - clean pure-white, unbranded, wingless oval with soft matte quilting; match the approved LINER character sheet. START FRAME (frame one of the motion): the underwear stands centred and calm, just beginning a confident settle; the liner slumped small at the left, starting to peek sideways. premium 3D Pixar-style render, cinematic lighting, soft subsurface shading, shallow depth of field, photoreal blurred real-world set behind, no text, no logo, no watermark, no human. The face sits under the waistband, never on the crotch or gusset. No human, no children, and NO text, numbers, price, stars or wordmark baked into the image. No text anywhere in the image.",
+   "video_prompt": "Kling 3.0, 9:16, from the start frame. Locked two-shot on the end plate (top 40% kept clean for CapCut text). Motion: the underwear speaks the CTA calmly and gives one small bounce on 'find your pair'; the liner sighs and peeks sideways toward where the button will be. The underwear is the only speaker; the liner does not move its mouth. AUDIO (Kling 3.0 native sound): Spoken aloud and lip-synced to the underwear character's mouth (its face just under the waistband) - a warm, dry, calm, unhurried mid-30s woman's voice, about 3 words per second, with a light lift on the invitation: \"Not a pad, not a diaper. Take the quiz, find your pair.\". Ambient: quiet bathroom room tone only. Keep OUT of the generation (added in CapCut): a soft button whoosh and a warm resolve chord out, plus all the on-screen text, the 'leapproof' wordmark and the Claret button. Generate the voice line and quiet ambient only - NO music, NO laughter, NO extra foley, and NO text baked into the frame. One speaker only.",
+   "kling_seconds": 5
+  }
+ ],
+ "anchors_first": [
+  "F1-LINER-mcu-to-ecu-lunge",
+  "F4-UNDIES-cu-reaction"
+ ],
+ "generation_count": {
+  "ai_images": 17,
+  "broll_clips": 4
+ }
+}
