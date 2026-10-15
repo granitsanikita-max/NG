@@ -1,0 +1,552 @@
+{
+ "ad_id": "V2-b",
+ "title": "The Big Laugh",
+ "format_analysis": {
+  "format": "An AI 3D talking-character duet: a Pixar-style panty liner vs a talking pair of plain black underwear, staged as an A-vs-B pair from frame 0. It opens in media res on a friend's off-screen laugh. Every line is fast character comedy, cut with real-product inserts and location hops, and it ends on a brand end card with a quiz CTA.",
+  "how_it_should_look": "LOOK: Pixar-quality 3D characters composited into a photoreal set, at the realism level of Everdries 1700150534480418 but lovable instead of grotesque. SET (change from the script, Nikita to OK): a golden-hour bistro instead of candle-lit. A big window frame-left with low sun, warm pendant-bulb bokeh, Warm Cream linen, a blush/tan clutch with a gold clasp, a Claret napkin as the one accent, sparkling water with lemon, and one small lit tealight as the 'evening' nod (not the key light). Frame 0 sits at bright mid-high exposure. The black underwear always gets a rim light and visible fabric texture, never crushed blacks. CAMERA: a smooth tripod/dolly feel with gentle in-camera push-ins plus edit punch-ins (110-125%, generated at the highest resolution so they stay sharp). No handheld on character shots. The real-product inserts are phone-real, naturally lit and graded to the same warmth. ANGLE LIBRARY (never the same angle on two consecutive lines): tabletop two-shot (F1), low-angle brace (F2), MCU underwear (F3), OTS from behind the underwear (F4), low-angle hero underwear (F5), high-angle deflated liner (F8), CU gag (F9), inside-the-clutch POV looking up (F10), reverse two-shot backlit (F12), ECU reaction (F17), high angle into the clutch (F18). LOCATIONS: bistro table -> inside the clutch -> restaurant restroom -> laundry -> drying rack -> bedroom dresser -> back to the table. CAPTIONS: Hanken Grotesk ExtraBold, Plum Ink on Warm Cream boxes mid-frame (~50-55%). The hook is a Claret pill with cream text. Fraunces only on the end-card wordmark and lines. SOUND: restaurant ambience, a licensed pizzicato/ukulele comedic underscore ducked under dialogue, and an SFX on every cut in the first 10s. Two distinct character voices plus one off-screen friend voice.",
+  "runtime_main": "31.2s. Every scripted line is kept. The script's ~25s beat timings can't hold its 82 spoken words; a trim path to ~25s is in pacing_check.vo_fit_issues for Nikita to OK.",
+  "aspect": "9:16 (4:5-safe)",
+  "build_profile": "HOOK 0-2.6s: no human on screen. The off-screen friend's laugh and line come from stock group-laugh SFX plus an ElevenLabs LP_FRIEND voice (a 30s woman, mid-laugh, using v3 [laughing] tags). The liner lip-syncs from 1.4s. SETUP/REVEAL/BODY 2.6-17.9s: on-camera 3D characters, one speaker per clip, with the non-speaker silent and mouth closed. Voices are ElevenLabs Voice Design voices shared across V2-a/b/c. LP_LINER is higher, fussy and fast, with a comedic squeak on stressed words. LP_UNDIES is a warm, dry, unhurried mid-30s deadpan. Accent: Australian, to match the AUD launch market (Nikita to OK). Real-product inserts run 8.5-10.7s and 17.9-21.7s with the underwear voice as off-screen VO, so no lip-sync is needed. The AI woman at 21.7-23.8s is silent and getting dressed only. CTA/END 24.5-31.2s: the liner's sulk line on-face, then the underwear's CTA lip-synced on the end card. Record all VO first (one continuous read per character) and cut the animatic to it before generating video.",
+  "reference_ads": [
+   {
+    "id": "1400650075258672",
+    "url": "https://www.facebook.com/ads/library/?id=1400650075258672",
+    "what_we_take": "UltraDries' Pixar winner (video #4, 104d). The talking pad moves to a NEW room on line changes (living room -> bathroom vanity -> bedroom -> kitchen table -> bedside) and changes size and angle every cut, with bright, warm, lamp-lit interiors. We copy the location hop on 'sulk' (inside-clutch POV) and on 'trash' (restroom bin), plus an angle change on every line. We skip its word-by-word yellow captions and the human reactor."
+   },
+   {
+    "id": "1700150534480418",
+    "url": "https://www.facebook.com/ads/library/?id=1700150534480418",
+    "what_we_take": "Everdries talking objects (208d). Each object lives in its own photoreal, bright set (marble counter, tub edge, washer), with one pill caption per phrase. Its slim white 'flimsy panty liner' is our liner's silhouette reference. We fix its weakness: ~7s single-angle speaker holds (ours are 2.8s max) and the grotesque villain faces (ours stay lovable and stain-free)."
+   },
+   {
+    "id": "1691171645641479",
+    "url": "https://www.facebook.com/ads/library/?id=1691171645641479",
+    "what_we_take": "UltraDries pad-vs-underwear duet. The black underwear stands UPRIGHT with its face on the front panel, both characters are in a two-shot on frame 0, reframes come every ~2-3s, then it cuts to a human/demo insert. We take the upright-underwear staging, the face placement (we move it higher: upper front, just under the waistband) and the insert break. We drop its stained, yellowed pad, its static single bed set, the pour demo and all claims."
+   },
+   {
+    "id": "1206351388295667",
+    "url": "https://www.facebook.com/ads/library/?id=1206351388295667",
+    "what_we_take": "Everdries POV hook (video #14, 275d). An emoji pops in at ~1s as a motion event inside a held hook shot, with the text held ~3s. We copy it as the laughing-emoji pop at 0.7s inside our 2.6s hook."
+   }
+  ]
+ },
+ "text_hook": {
+  "recommended": {
+   "text": "“Stop! I'll pee myself!”",
+   "on_screen_timing": "0.0s-2.6s: fully on at frame 0 with no animate-in, held for the whole hook shot, out on the cut to F2. A laughing-emoji sticker pops beside it at 0.7s. Labels 'panty liner' / 'underwear' pop at 0.2s.",
+   "style": "Claret #A33154 pill, cream #F5EDE6 Hanken Grotesk ExtraBold, 2 lines ('Stop!' / 'I'll pee myself!'). Cap height ~6% of frame, centred at ~22-30% height inside the 4:5 crop. Typographic quote marks so it reads as a HEARD line. One soft scale-breath (100->103%) at the laugh peak (~0.5s).",
+   "why": "It's the best fit for THIS visual hook, so keep the locked line. (1) The text IS the in-media-res moment (Miro #38): it's the line being shouted as the liner bursts out, so text, audio and picture say one thing. (2) It names 'pee' at 0.0s. (3) It's first person, so it passes Meta's personal-attributes rule (no 'you leak'). (4) At 4 words it reads in under 0.5s. (5) It's the live H1, so the landing scent is word for word. Proven base: the trigger-moment angle A7 (Everdries 'laugh' ~110 live) and the 30-45 clinic hook '...the leaking when you laugh, sneeze, lift a box...' (103d). Its one weakness: a muted viewer can read it as the LINER talking. The quote marks, the emoji, the laugh-jolt and the 'panty liner' label fix that."
+  },
+  "alternates": [
+   {
+    "text": "Big laugh. Little pee.",
+    "why": "The shortest, cleanest moment line: 4 words, pee at 0.0s, no speaker ambiguity, bare third-person-neutral moment (Meta-safe). The best hook-isolation test against the locked line, because it changes only the first read and keeps the picture.",
+    "proven_anchor": "Trigger-moment hooks: Everdries 'laugh' wording (~110 live) and the clinic line '…the leaking when you laugh, sneeze, lift a box, or jump on the trampoline with your kids.' (103d)."
+   },
+   {
+    "text": "Big laugh, little pee. / Panty liner or underwear?",
+    "why": "Makes the A-vs-B comparison explicit in the text, re-attaching the unproven talking-object format to the best-proven engine. It opens a loop the ad answers. Two lines; line 1 reads in 0.5s.",
+    "proven_anchor": "'Old versus new Everdries, what's the difference?' (Carol, video #10) on the A-vs-B format F1, which has 8 top-5% hits (Carol 1629603918494594, 275d, #1 on its page)."
+   },
+   {
+    "text": "It's 2026. Still packing a panty liner?",
+    "why": "The contrarian 'still?' frame is the longest-running problem-object hook in the set, and it fits the clutch gag. No 'you' and no condition, so it's Meta-safe, and it's not a pads-fail claim (CJ-safe). Caveat: there's no 'pee' in the text, so on sound-off it breaks the campaign's pee-in-first-3s rule unless F2's caption carries it. Use it only as a third test cell.",
+    "proven_anchor": "'It's 2025! Why are you still using pads?' (Everdries 1206351388295667, 275d, 6 dupes, video #14)."
+   }
+  ],
+  "note": "The recommended text is the locked script line. The only differences are styling: typographic quote marks, the laughing-emoji pop at 0.7s, and the label 'liner' -> 'panty liner' (word rule). Nikita chiefs. If he wants a hook-isolation cell, alternate 1 swaps only the pill text and nothing else."
+ },
+ "visual_hook_build": {
+  "miro": "#38 In Media Res Start + #117 3D Talking Character",
+  "frame_1": "A tight 3/4 tabletop shot on a golden-hour bistro table. An open blush clutch, with the white panty-liner character already 60% out of it mid-burst: arched back, tab-hands up, eyes huge, mouth an 'O'. A tissue and a gold lipstick are airborne above the bag and the flap is mid-swing. The plain black underwear character stands upright right beside the clutch, deadpan, its face on the upper front panel under the waistband and its full silhouette readable. Water ripples in a sparkling-water glass. The frame is mid-jolt (edit shake). The Claret pill “Stop! I'll pee myself!” is already on at ~22-30% height and the AI label at ~60%. Bright and window-lit with warm bokeh; nothing dark.",
+  "build_steps": [
+   "1. SHARED CHARACTER ANCHOR: LINER (LP_LINER, same in V2-a/b/c). A slim, softly rounded, wingless-silhouette panty liner, ~2-3mm thin, with a quilted micro-dimple top sheet. Pure clean white with a pale-mint unbranded peel strip on the back. Big glossy round eyes in the top third, small expressive brows, a mouth at mid-body, and two small soft tab-hands from the sides (cartoon arms, not pad wings, so it never reads as a thick winged pad). It moves by hopping and bending at the middle. It's fussy, eager and lovable. NEVER: stains, yellowing, backlit core show-through, brand marks, or a villain/gross-out face. Nano Banana Pro turnaround sheet (front, 3/4, side, back) plus 6 expressions (eager, panicked 'O', incredulous, deflated, sulky, sheepish), registered as a Higgsfield reference element / Kling element.",
+   "2. SHARED CHARACTER ANCHOR: UNDERWEAR (LP_UNDIES, same in V2-a/b/c). Built ONLY from the 5 CJ sample photos (SKU CJNSNYNK00343: flat front, flat back, side, stretched, under leggings). Rise, waistband width, leg line and sheen are copied from the photos, not from text. Plain black, no lace, no logo, no gusset or seams that aren't on the sample, wider at the back. FACE: two calm oval eyes with soft white sclera and a Rose Taupe lid line (so they read on black), and a small dry mouth. The eyes sit one finger-width below the waistband seam, and the mouth ends ABOVE the line where the leg openings start to curve in. Nothing below that line: the gusset zone stays blank and is never the face. Brows are subtle fabric creases; the one-brow lift is its signature. It stands upright on its leg openings like the 1691171645641479 underwear. It moves by waistband shrugs and folding nods, and has no arms. It's warm, dry, deadpan and unbothered. Turnaround (front, 3/4, back) plus 4 expressions (deadpan, brow-lift, dry half-smile, smug nod), registered as a reference element.",
+   "3. SET PLATE (V2-b anchor): Nano Banana Pro, 9:16, 2k, no characters. Golden-hour bistro window table: Warm Cream linen, blush/tan leather clutch with a gold clasp (NOT black: a black clutch merges with the black underwear's silhouette), Claret napkin, tall sparkling water with lemon, a side plate with a fork, one small lit tealight, window frame-left with low sun, pendant-bulb bokeh behind, no wine anywhere, no people, no logos. Compose the clutch and the underwear's spot at ~35-55% height, so the pill (22-30%) sits above them and the labels (36-42%) sit between.",
+   "4. START FRAME: on the approved plate, generate with both reference elements. The liner is at the burst apex-minus, 60% out of the bag, arched back, tab-hands splayed with a subtle motion smear, mouth 'O'. The tissue and unbranded gold lipstick are airborne 3-5cm above the bag, the flap swinging (edge blur), the water tilted with a ripple ring, the fork mid-bounce. The underwear stands upright beside the clutch, deadpan, eyes half-lidded, mouth closed. Check at phone size with the pill, labels and AI line mocked on top.",
+   "5. ANIMATE FROM MID-MOTION: Veo 3.1 start-frame, 8s, with a prompt that says everything is ALREADY moving. The liner continues up and out of the bag, flips once and lands upright on the clutch rim with a wobble. The lipstick and tissue fall back in, the flap settles and the ripple decays. The underwear stays perfectly still; only its eyes slide toward the liner and one brow lifts. Slow 4% push-in, no new objects, no people, native audio muted. If Veo eases in from rest, use Kling 2.x/3.0 start+end frame (end frame = liner braced on the rim) to force the trajectory.",
+   "6. TRIM FOR A MOVING FRAME 0: start the edit 4-8 frames into the clip, so the published frame 0 is already in motion (the models ease in from the still).",
+   "7. EDIT-SIDE HOOK EVENTS (CapCut, zero gen cost): a 0.00-0.25s table jolt (8px vertical shake, 2 cycles, 1 deg rotate) synced to a palm-thump in the laugh; the pill on at frame 0; labels pop at 0.2s; the laughing-emoji pop at 0.7s; a slight pill scale-breath at 0.5s.",
+   "8. OFF-SCREEN LAUGH AUDIO: a licensed 3-4-woman restaurant laugh (Meta Sound Collection / Epidemic / Artlist), pre-rolled 0.3s so frame 0 lands mid-laugh. On top, the ElevenLabs LP_FRIEND voice: “Stop — stop! I'll pee myself!” with [laughing] tags, at 0.2-1.4s, panned slightly off-centre as if across the table. It's a third voice, distinct from both characters. No human appears on screen.",
+   "9. LINER LIP-SYNC 1.4-2.6s: ElevenLabs LP_LINER 'That's a big laugh —', lip-synced (Path B) onto the liner only. The underwear's mouth stays closed (one speaker per clip).",
+   "10. VOICE PATH, PER CLIP: lock it after the F3 A/B test. Default to Path A (Veo 3.1 native acting + ElevenLabs Voice Changer into the saved voice) for short, physical lines: F2, F4, F8, F9, F11, F12, F17. Use Path B (ElevenLabs first + Hedra Character-3 / Kling lip-sync) where the timing is locked to the cut or the light is tricky: F1, F5, F10, F18, S19. Never single-track lip-sync two faces."
+  ],
+  "lane_and_tool": "AI start frame + motion: Nano Banana Pro on Higgsfield (9:16, 2k, both reference elements) for the start frame, then Veo 3.1 start-frame (or Kling 2.x/3.0 start+end frame for the burst trajectory). Audio from licensed stock laugh SFX + ElevenLabs (LP_FRIEND, LP_LINER). Jolt, pill, labels and emoji in CapCut (editor). All tools are recommendations until Nikita confirms the generator.",
+  "fallback": "If the burst won't animate cleanly in 2 rerolls: use a start frame with the liner already standing on the clutch rim mid-wobble (tab-hands windmilling), a Kling start+end frame for a 0.5s hop, and let the edit carry the in-media-res (pre-rolled laugh, 0.0s table jolt, the airborne lipstick composited from the still). If the underwear can't be built because there are no CJ photos, V2-b doesn't ship. Meanwhile, lock the liner, the set, the VO and a placeholder animatic.",
+  "failure_modes_to_reject": [
+   "Frame 0 static or easing in from rest (the liner sitting still in the bag): the in-media-res is lost.",
+   "A dark or candle-dim frame 0 (average luminance low), or the black underwear crushed to a featureless blob or merging with a dark clutch.",
+   "The underwear's face low on the garment, near or on the gusset/crotch, or features below the leg-opening curve line.",
+   "The underwear morphing into a boyshort, thong or lace, or gaining a logo, label text, visible seams/gusset not on the sample, or the wrong sheen or waistband width vs the photos.",
+   "The liner reading as a thick winged pad, or showing any stain, yellowing, backlit core or brand mark, or a grotesque/villain face.",
+   "Two mouths moving in one clip, or the underwear lip-flapping while the liner talks; lip-sync drift or mushy mouth shapes (regenerate, don't fix in the edit).",
+   "Any human, hand, arm or face entering the hook or any character shot.",
+   "Wine glasses, bottles or any alcohol anywhere in frame, including the bokeh.",
+   "Real or lookalike logos on the clutch hardware, the bin, the washer or the perfume.",
+   "Gibberish text or signage generated in frame (paint it out or reroll; all text is added in CapCut).",
+   "The liner inside the bin, or shown loose/unwrapped on a floor (reads as used).",
+   "Extra limbs or fused tab-hands, or the liner changing size or shape between cuts (reference-element drift).",
+   "Veo native music or extra voices bleeding into the track (mute native audio except Path A dialogue).",
+   "Any water, liquid, pour or 'dry result' visual (CJ column)."
+  ]
+ },
+ "shots": [
+  {
+   "shot_id": "F1-DUO-clutch-burst",
+   "t_in": 0.0,
+   "t_out": 2.6,
+   "section": "HOOK",
+   "shot_type": "MCU two-shot (tabletop)",
+   "angle_or_room": "Tabletop two-shot, 3/4 front, camera ~30 deg above the table, 50mm look, f/2 bokeh. Golden-hour bistro window table (replaces 'candle-lit', Nikita to OK).",
+   "what_we_see": "Frame 0 is mid-chaos. A blush/tan leather clutch with a gold clasp lies open on a Warm Cream linen tablecloth, its flap flung back and still swinging. The clean white panty-liner character is ALREADY 60% out of the bag, arched back mid-burst: tab-hands flung up, eyes huge, mouth an 'O'. A folded tissue and an unbranded gold lipstick hang in the air above the bag. The plain black underwear character stands upright on the table right beside the clutch, with its waistband at clutch-top height so the whole silhouette reads as underwear. It's deadpan, eyes half-lidded, face on the upper front panel just under the waistband. Low sun from frame-left rims the underwear's waistband and backlights the liner's edges. Behind: warm pendant-bulb bokeh and a window. A tall sparkling water with lemon and a Claret napkin (the one accent) sit frame-right. No person, no hands, no wine.",
+   "motion_inside_shot": "Physics is already moving at frame 0 (the edit starts 4-8 frames into the gen). 0.00-0.25s: table micro-jolt (edit shake 8px/1 deg, synced to a palm-on-table thump in the laugh), a ripple ring in the water, a fork bounces on the side plate. 0.2s: labels pop. 0.4-0.9s: the liner springs fully out, flips once and lands upright on the clutch rim with a wobble; tissue and lipstick drop back in. 0.7s: a laughing-emoji sticker pops beside the pill. 1.2s: the underwear's eyes slide to the liner and one brow lifts (signature deadpan). 1.4s: the liner turns to the lens and starts talking. Slow 4% push-in throughout.",
+   "on_screen_text": "HOOK: a Claret pill with cream Hanken Grotesk ExtraBold, 2 lines, centred at ~22-30% height. It is on at frame 0 with no animate-in: “Stop! I'll pee myself!”, with a laughing-emoji pop at 0.7s. Labels at 0.2s (small cream text on Plum Ink 85% pills, ~36-42% height): 'panty liner' above the liner, 'underwear' beside the underwear. Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "OFF-SCREEN FRIEND (audio only, already mid-laugh at frame 0, 0.2-1.4s): “Stop — stop! I'll pee myself!”  LINER (1.4-2.6s, fast, eager): “That's a big laugh —”",
+   "sfx": "Restaurant ambience. A 3-4-woman laugh burst pre-rolled 0.3s so frame 0 is mid-laugh. Table thump at 0.0s, glass shimmer, fork rattle, cartoon spring 'boing' on the liner's flip. A pizzicato/ukulele underscore enters at 1.0s, ducked under dialogue.",
+   "cut_reason": "Cuts on the em-dash ('big laugh —') into the brace, so the line's turn is the action beat. One 2.6s hook shot with 5 motion events inside and no cut before 2.6s (pacing law 1; creative-plan rule: max 1 cut in the first 1.2s).",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame (Higgsfield, 9:16, 2k, both character reference elements on the bistro plate). Animate with Veo 3.1 start-frame, 8s, native audio muted. If Veo eases in from rest, use Kling 2.x/3.0 start+end frame instead (end frame = liner braced on the rim). Use 2.6s. Voice: Path B, ElevenLabs liner line first, then lip-sync the liner only (1.4-2.6s); the underwear's mouth stays closed. Jolt, pill, labels and emoji in CapCut.",
+   "blocked_on": "Underwear half: BLOCKED on the 5 CJ sample photos (underwear character must be built from them). The liner, set and audio can be built now."
+  },
+  {
+   "shot_id": "F2-LINER-lowangle-brace",
+   "t_in": 2.6,
+   "t_out": 3.7,
+   "section": "SETUP",
+   "shot_type": "MCU",
+   "angle_or_room": "Low angle from tablecloth level looking up at the liner on the clutch rim, window flare behind it.",
+   "what_we_see": "The liner crouches on the clutch rim like a firefighter at the pole. Its tab-hands grip the gold clasp and its eyes lock on the 'job' off-frame below. Warm pendant bokeh above.",
+   "motion_inside_shot": "Brace-squat on 'I'm going'. On 'IN!' at 3.4s it springs up and out of the top of frame (motion blur), and the empty rim wobbles for 0.3s.",
+   "on_screen_text": "'I'm going in!' (2.6-3.2s), then 'Every clutch has one.' (3.2-4.3s, carried across the cut into F3 under the 'Or…' pause). Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "LINER: “I'm going IN!”",
+   "sfx": "Cartoon spring-load 'boing' on the brace; whoosh up on the leap.",
+   "cut_reason": "Cuts on the leap out of frame: motion exits and the deadpan answer enters.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Veo 3.1 start frame. Voice Path A: Veo native shout + brace acted in one take, then ElevenLabs Voice Changer into the saved LP_LINER voice.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "F3-UNDIES-mcu-deadpan",
+   "t_in": 3.7,
+   "t_out": 5.9,
+   "section": "SETUP",
+   "shot_type": "MCU",
+   "angle_or_room": "Eye-level MCU on the underwear beside the clutch, camera at waistband height, window light rimming the waistband.",
+   "what_we_see": "The plain black underwear stands upright and deadpan. Its eyes follow the liner's exit up out of frame, then slowly come back to the lens with a tiny brow lift. The face is on the upper front panel only. The leg openings and gusset area stay clean and featureless, low in frame.",
+   "motion_inside_shot": "Eyes go up, then back to the lens during the 0.4s 'Or…' pause. A dry half-smile on 'underwear'. Edit punch-in 100->115% on 'underwear' (5.2s).",
+   "on_screen_text": "'Every clutch has one.' finishes at 4.3s, then 'Or… just wear underwear.' (4.3-5.9s). Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "UNDERWEAR (deadpan, warm, dry): “Or… she could just wear underwear.”",
+   "sfx": "Record-tick / soft rimshot on the deadpan 'Or…'; underscore lifts.",
+   "cut_reason": "Cuts as the line lands. The liner's incredulous reply steps in on a 0.15s J-cut.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Veo 3.1 start frame. This is the VOICE TEST CLIP: make this line both ways and lock the pipeline from the winner. Path A = Veo native + ElevenLabs Voice Changer. Path B = ElevenLabs first + Hedra Character-3 / Kling lip-sync. The 0.4s deadpan pause is the acting test.",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (underwear character must be built from them)."
+  },
+  {
+   "shot_id": "F4-LINER-ots-hover",
+   "t_in": 5.9,
+   "t_out": 7.2,
+   "section": "REVEAL",
+   "shot_type": "MCU with an ECU punch",
+   "angle_or_room": "Over-the-shoulder from behind the underwear's waistband (soft black edge foreground-left), liner hovering in focus.",
+   "what_we_see": "The liner drops back into frame from above and hovers mid-air at the underwear's eye-line. It's flustered, pointing both tab-hands at the underwear, eyes popping. Bistro bokeh behind.",
+   "motion_inside_shot": "Drop-in bounce at 5.9s. Edit ECU punch to 125% on its eyes for 'Underwear?' (5.9-6.5s), then back to 100% for 'For the laugh?!' as it flaps its tab-hands.",
+   "on_screen_text": "'Underwear? For the laugh?' Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "LINER (incredulous, fast): “Underwear? For the laugh?!”",
+   "sfx": "'Huh?!' sting (slide-whistle up) on the drop-in.",
+   "cut_reason": "Cuts on the question mark, so the answer gets a hero angle.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Veo 3.1 start frame, voice Path A. The underwear edge in the foreground is out of focus, so a placeholder edge works for early tests.",
+   "blocked_on": "Foreground underwear edge: BLOCKED on the 5 CJ sample photos (underwear character must be built from them)."
+  },
+  {
+   "shot_id": "F5-UNDIES-lowangle-hero",
+   "t_in": 7.2,
+   "t_out": 8.5,
+   "section": "REVEAL",
+   "shot_type": "MCU low-angle hero",
+   "angle_or_room": "Camera on the tablecloth looking up at the underwear, golden window flare behind the waistband, bulb bokeh above.",
+   "what_we_see": "The underwear stands tall and calm like a statue, its waistband catching a gold rim light. One slow blink. The full garment shape reads: wide smooth waistband, clean leg line, plain black, no lace, no logo, sheen and rise copied from the sample photos.",
+   "motion_inside_shot": "In-camera push-in 100->108%, a soft lens flare drifting across the waistband, and a tiny nod on 'underwear'.",
+   "on_screen_text": "'Plain black underwear.' Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "UNDERWEAR (calm): “Plain black underwear.”",
+   "sfx": "Understated warm 'ta-da' swell (muted horn).",
+   "cut_reason": "Cuts on 'underwear' to the real thing: the cartoon hands off to the product.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Veo 3.1 start frame, voice Path B: ElevenLabs line first, then lip-sync. The hero line's timing is locked to the cut.",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (underwear character must be built from them)."
+  },
+  {
+   "shot_id": "S6-PROD-flatlay-table",
+   "t_in": 8.5,
+   "t_out": 9.6,
+   "section": "REVEAL",
+   "shot_type": "insert (overhead)",
+   "angle_or_room": "Top-down on a home table dressed to match the AI set: cream linen, blush clutch at frame edge, sparkling water with lemon, Claret napkin.",
+   "what_we_see": "The REAL plain black sample lies flat on the cream linen beside the clutch, front view, waistband up. A woman's hand smooths it flat across the front panel. Real fabric texture, true sheen and true waistband width.",
+   "motion_inside_shot": "The hand enters frame-right, smooths left to right and exits, with a slight handheld drift.",
+   "on_screen_text": "CARD 'Just underwear.' in large Plum Ink Hanken Grotesk ExtraBold on a Warm Cream box at ~45% height. It pops at 8.6s and stays up through S7. Per the script, the negation stays out of the text and lives only in the voice.",
+   "vo_or_dialogue": "UNDERWEAR (VO, off-screen, no lip-sync): “Not a pad.”",
+   "sfx": "Soft fabric flick as it lands; card 'pop'.",
+   "cut_reason": "Cuts on 'pad.' so 'Not a diaper.' gets the side-on lift.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Nikita's phone, 4K 30fps, 9:16, golden-hour window light, table dressed to match F1, graded warm to match. A woman's hands (natural nails, no logo rings).",
+   "blocked_on": "BLOCKED on the real CJ sample being in hand. Fallback: animatic/approval only, use the store's current brief render /tmp/claude-0/-home-user-NG/92cd2168-7086-5de0-bc34-0c2243670dd7/scratchpad/pimg/leapproof-brief-single.jpg as a placeholder; never publish it. If the sample isn't here by edit, V2-b doesn't ship: the cartoon must never be the only product image."
+  },
+  {
+   "shot_id": "S7-PROD-waistband-lift",
+   "t_in": 9.6,
+   "t_out": 10.7,
+   "section": "REVEAL",
+   "shot_type": "insert (side-on)",
+   "angle_or_room": "Side-on at table height, window light behind.",
+   "what_we_see": "Two hands lift the real underwear off the cloth by the waistband and give it a gentle stretch, so its real side profile shows: the true rise and leg line from the sample.",
+   "motion_inside_shot": "Lift, then a soft stretch-and-release. Edit punch-in to 110% on 'diaper'.",
+   "on_screen_text": "'Just underwear.' card stays up. Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "UNDERWEAR (VO): “Not a diaper.”",
+   "sfx": "Elastic 'thwip' on the stretch.",
+   "cut_reason": "Cuts on 'diaper.' back to the cartoon world for the liner's confession.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Same phone setup as S6.",
+   "blocked_on": "BLOCKED on the real CJ sample being in hand. Fallback: animatic/approval only, use the store's current brief render /tmp/claude-0/-home-user-NG/92cd2168-7086-5de0-bc34-0c2243670dd7/scratchpad/pimg/leapproof-brief-single.jpg as a placeholder; never publish it. If the sample isn't here by edit, V2-b doesn't ship: the cartoon must never be the only product image."
+  },
+  {
+   "shot_id": "F8-LINER-highangle-flop",
+   "t_in": 10.7,
+   "t_out": 11.5,
+   "section": "BODY",
+   "shot_type": "MCU (top-down)",
+   "angle_or_room": "High angle, straight down: the deflated liner on the Claret napkin.",
+   "what_we_see": "The liner lies flopped on its back on the Claret napkin, tab-hands limp, looking up at the lens, sheepish. Clean white, no stains.",
+   "motion_inside_shot": "A deflating sag and an eye-roll on 'Okay, fine.' Slow 5% pull-out.",
+   "on_screen_text": "'Okay, fine.' Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "LINER (deflating, sheepish): “Okay, fine.”",
+   "sfx": "Deflating slide-whistle (down).",
+   "cut_reason": "Cuts as it sits up into the confession list.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Veo 3.1 start frame, voice Path A.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "F9-LINER-cu-bunch-shift",
+   "t_in": 11.5,
+   "t_out": 12.7,
+   "section": "BODY",
+   "shot_type": "CU",
+   "angle_or_room": "3/4 eye-level CU on the tablecloth.",
+   "what_we_see": "The liner stands on the linen. On 'bunch' its top corner curls and crinkles up (clean white, no stains, no villain face). On 'shift' it slides sideways across the cloth and out of frame-left.",
+   "motion_inside_shot": "Edit punch-in to 120% on 'I bunch.' (11.5-12.1s), then back to 100% with a whip-pan left following the slide on 'I shift.' (12.1-12.7s). Two angles from one gen.",
+   "on_screen_text": "'I bunch.' then 'I shift.' Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "LINER: “I bunch. I shift.”",
+   "sfx": "Crinkle on 'bunch'; scrape-whoosh on 'shift' (whip).",
+   "cut_reason": "The whip-pan carries straight into the clutch POV (match on motion).",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Veo 3.1 start frame, voice Path A (physical gag + line in one take). Fallback: Kling 2.x for the curl/slide physics + Path B lip-sync.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "F10-LINER-clutch-pov",
+   "t_in": 12.7,
+   "t_out": 14.2,
+   "section": "BODY",
+   "shot_type": "POV",
+   "angle_or_room": "LOCATION HOP 1: inside-the-clutch POV looking up.",
+   "what_we_see": "From the bottom of the clutch, looking up. The liner slumps against the Blush satin lining between an unbranded gold lipstick and a set of keys, chin on its tab-hands, sulking up at us. Through the open flap above: golden pendant-bulb bokeh from the restaurant ceiling. The gold light pouring in keeps the interior bright; it's never a dark frame.",
+   "motion_inside_shot": "The liner slides a few cm down the lining into a slump. The flap above sways and narrows the light slightly but doesn't close.",
+   "on_screen_text": "'I sulk in the clutch.' Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "LINER (sulky): “I sulk in your clutch.” [script line kept; proposed fix 'her clutch', see compliance_flags]",
+   "sfx": "Restaurant ambience goes muffled (low-pass) inside the bag; satin rustle.",
+   "cut_reason": "Cuts on 'clutch' to a new room: the trash beat gets its own location.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro POV plate + liner ref element, then Veo 3.1 start frame. Voice Path B (lip-sync). Veo's mouth rendering is shakier in this light, so keep the timing controlled.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "F11-LINER-restroom-bin",
+   "t_in": 14.2,
+   "t_out": 17.0,
+   "section": "BODY",
+   "shot_type": "MCU",
+   "angle_or_room": "LOCATION HOP 2: a bright restaurant restroom vanity.",
+   "what_we_see": "A bright restaurant restroom: cream marble vanity, brass sconces, a eucalyptus sprig, and a small unbranded brushed-steel countertop pedal bin. The liner, clean and white, stands beside the bin on the marble. On 'every day…' it taps the pedal with a tab-hand, the lid flips up and it peers over the rim. On 'trash' it sighs and lets the lid drop. It NEVER goes in the bin: a liner inside a bin reads as used (AI-production rule). No toilet in frame, no person.",
+   "motion_inside_shot": "Pedal tap, lid flips open (~0.8s in), peer over the rim, lid clinks shut on 'trash'. Edit punch-in to 115% on 'trash'.",
+   "on_screen_text": "'Trash. Every day.' Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "LINER (resigned): “And every day… I go in the trash.”",
+   "sfx": "Restroom room-tone with slight reverb on the voice; pedal 'clunk'; lid 'clink' on 'trash'; soft comedic 'aww'.",
+   "cut_reason": "Cuts on the lid clink as the liner turns the question back to the underwear.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro restroom plate + liner ref element, then Veo 3.1 start frame (8s, use 2.8s), voice Path A. If the lid physics fail: Kling 2.x start+end frame (lid shut, then lid open).",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "F12-DUO-reverse",
+   "t_in": 17.0,
+   "t_out": 17.9,
+   "section": "BODY",
+   "shot_type": "two-shot (reverse)",
+   "angle_or_room": "Reverse two-shot from the window side (180 deg from F1), both characters backlit.",
+   "what_we_see": "Back at the table. The liner has clambered onto the clutch rim and turns to the underwear (screen-right), tab-hands out. The underwear waits in silence with a gold rim light.",
+   "motion_inside_shot": "The liner swivels toward the underwear and gestures. The underwear's brows lift; it stays silent, mouth closed.",
+   "on_screen_text": "Two neutral pills (Warm Cream with Plum Ink text, no ticks or crosses) under each character at ~55%: 'sticks on' (liner) | 'pulls on' (underwear).",
+   "vo_or_dialogue": "LINER: “And you?”",
+   "sfx": "Restaurant ambience back; tiny 'boop' on the turn.",
+   "cut_reason": "Cuts on the question. The answer is shown with the real product, not said by the cartoon.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Veo 3.1 start frame, voice Path A. Only the liner speaks; prompt the underwear as 'mouth closed, reacting silently'.",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (underwear character must be built from them)."
+  },
+  {
+   "shot_id": "S13-PROD-wash-drum",
+   "t_in": 17.9,
+   "t_out": 18.6,
+   "section": "BODY",
+   "shot_type": "insert",
+   "angle_or_room": "LOCATION HOP 3: laundry, front-loader door at hand height, bright daylight.",
+   "what_we_see": "A woman's hand drops the real black underwear into a DRY front-loader drum among a few light tees. No water, no detergent pour.",
+   "motion_inside_shot": "Drop-in, then the door swings shut toward the lens (a natural wipe).",
+   "on_screen_text": "'Wash.' (the caption builds: 'Wash.' -> 'Wash. Hang.' -> 'Wash. Hang. Wear again.') Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "UNDERWEAR (VO, off-screen): “Wash.”",
+   "sfx": "Washer door 'thunk'.",
+   "cut_reason": "The door closing toward the lens wipes to the rack.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Phone, 4K, 9:16, daylight; graded warm.",
+   "blocked_on": "BLOCKED on the real CJ sample being in hand. Fallback: animatic/approval only, use the store's current brief render /tmp/claude-0/-home-user-NG/92cd2168-7086-5de0-bc34-0c2243670dd7/scratchpad/pimg/leapproof-brief-single.jpg as a placeholder; never publish it. If the sample isn't here by edit, V2-b doesn't ship: the cartoon must never be the only product image."
+  },
+  {
+   "shot_id": "S14-PROD-hang-rack",
+   "t_in": 18.6,
+   "t_out": 19.8,
+   "section": "BODY",
+   "shot_type": "insert",
+   "angle_or_room": "LOCATION HOP 4: white drying rack by a sunny window.",
+   "what_we_see": "The real underwear hangs pegged on a white drying rack by a sunny window, swaying. On 'Wear again' a hand unpegs it and lifts it out of frame.",
+   "motion_inside_shot": "Sway, unpeg, lift out.",
+   "on_screen_text": "'Wash. Hang. Wear again.' Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "UNDERWEAR (VO): “Hang. Wear again.”",
+   "sfx": "Peg click; soft breeze.",
+   "cut_reason": "The lift out of frame motion-matches into the getting-ready shot.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Phone, 4K, 9:16, window light.",
+   "blocked_on": "BLOCKED on the real CJ sample being in hand. Fallback: animatic/approval only, use the store's current brief render /tmp/claude-0/-home-user-NG/92cd2168-7086-5de0-bc34-0c2243670dd7/scratchpad/pimg/leapproof-brief-single.jpg as a placeholder; never publish it. If the sample isn't here by edit, V2-b doesn't ship: the cartoon must never be the only product image."
+  },
+  {
+   "shot_id": "S15-PROD-hands-stretch",
+   "t_in": 19.8,
+   "t_out": 21.7,
+   "section": "PROOF",
+   "shot_type": "insert (CU hands)",
+   "angle_or_room": "LOCATION HOP 5: getting ready at a bedroom dresser by a warm-lit mirror.",
+   "what_we_see": "Close on a woman's hands stretching the real underwear by the waistband in front of a dresser. Softly behind: a blush going-out clutch, an earrings dish and an unbranded perfume bottle, warm lamp plus window light. It reads 'getting ready to go out', not a clinical demo. Plain black, no lace, no logo, exactly the sample.",
+   "motion_inside_shot": "The waistband stretches and releases, with a slight rack-focus from the hands to the clutch behind and back.",
+   "on_screen_text": "'Just underwear.' Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "UNDERWEAR (VO): “She could just wear underwear.”",
+   "sfx": "Soft fabric stretch.",
+   "cut_reason": "Cuts on 'underwear' to it going on.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Phone, 4K, 9:16, warm practical light. A woman's hands.",
+   "blocked_on": "BLOCKED on the real CJ sample being in hand. Fallback: animatic/approval only, use the store's current brief render /tmp/claude-0/-home-user-NG/92cd2168-7086-5de0-bc34-0c2243670dd7/scratchpad/pimg/leapproof-brief-single.jpg as a placeholder; never publish it. If the sample isn't here by edit, V2-b doesn't ship: the cartoon must never be the only product image."
+  },
+  {
+   "shot_id": "F16-WOMAN-side-waist",
+   "t_in": 21.7,
+   "t_out": 23.8,
+   "section": "PROOF",
+   "shot_type": "MCU (side-on, waist-to-knee)",
+   "angle_or_room": "Side-on, waist-to-knee, bedroom getting ready; the going-out clutch on a chair behind.",
+   "what_we_see": "An AI woman (30-45, everyday body, the campaign's one consistent AI-woman reference) stands side-on, cropped waist-to-knee, with a loose top over her hip. In one smooth move she pulls black leggings up over the plain black underwear, then the top drops over her hip. Getting dressed only: no laugh, sneeze or jump, and no face on the garment. No butt or crotch framing.",
+   "motion_inside_shot": "Start/end-frame interpolation: leggings at the knee to leggings at the waist, then the top drops (use 2.1s of a 3s gen).",
+   "on_screen_text": "Pill 'pulls on' (matches F12). Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "UNDERWEAR (VO): “Pull them on.”",
+   "sfx": "Leggings whoosh + soft waistband snap.",
+   "cut_reason": "Cuts as the top drops. 'Done.' goes back to the character for the button.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start + end frames built from CJ photo #5 (under leggings) + the Higgsfield AI-woman character ref, then Kling 2.x start/end frame. Fallback if the model drifts or refuses: knee-to-waistband crop with the top covering the hip (creative-plan fallback).",
+   "blocked_on": "CJ photo #5 (under leggings) plus photos 1-4 for garment accuracy."
+  },
+  {
+   "shot_id": "F17-UNDIES-ecu-done",
+   "t_in": 23.8,
+   "t_out": 24.5,
+   "section": "PROOF",
+   "shot_type": "ECU reaction",
+   "angle_or_room": "ECU on the underwear's face, back on the bistro table.",
+   "what_we_see": "Tight on the underwear's eyes and mouth just under the waistband: a smug little nod and one brow up.",
+   "motion_inside_shot": "Edit punch 100->125% on 'Done.'; nod.",
+   "on_screen_text": "'Done.' Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "UNDERWEAR: “Done.”",
+   "sfx": "Tiny 'ding'.",
+   "cut_reason": "The button lands; cut to the liner's reaction.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Veo 3.1 start frame, voice Path A. Zero-cost option: reuse the tail of the F3 gen with a 125% punch-in.",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (underwear character must be built from them)."
+  },
+  {
+   "shot_id": "F18-LINER-clutch-sulk",
+   "t_in": 24.5,
+   "t_out": 26.6,
+   "section": "CTA",
+   "shot_type": "MCU (high angle)",
+   "angle_or_room": "High angle looking down into the open clutch on the table.",
+   "what_we_see": "Looking down into the open blush clutch: the liner sinks into the lining with its tab-hands folded, sulking up at us. The flap starts to lower over it.",
+   "motion_inside_shot": "Sink and sulk. The flap closes over the lens at 26.4-26.6s as a natural wipe; the closed clutch match-cuts to the same clutch on the end card.",
+   "on_screen_text": "'…I'll just wait in the clutch.' Body caption: Hanken Grotesk ExtraBold, Plum Ink on a Warm Cream box, ~50-55% height.",
+   "vo_or_dialogue": "LINER (small, sulking): “…I'll just wait in the clutch.”",
+   "sfx": "'Hmph'; clasp click on the close.",
+   "cut_reason": "The flap-close wipes into the end card (match-cut on the clutch). The liner gag lands first and the CTA gets the last word, per the script.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Veo 3.1 start frame, voice Path B.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S19-CARD-end",
+   "t_in": 26.6,
+   "t_out": 31.2,
+   "section": "END",
+   "shot_type": "card",
+   "angle_or_room": "Warm Cream brand card (#F5EDE6) with a soft floor shadow.",
+   "what_we_see": "The underwear stands upright centre (small, ~15% of frame height). The blush clutch sits to its left, half-open, with the liner peeking over the rim, sulking. Layout stays inside the 14-62% band. The wordmark 'leapproof' (Fraunces; 'leap' Plum Ink, 'proof' italic Claret) sits at ~16% and the characters at ~20-34%. The lines are stacked centre in brand type at ~37-50%: 'Feels like normal underwear.' / 'Not a pad, not a diaper.' / '30 nights to see if they hold. Money back if they don't.' A small Rose Taupe line at ~52%: 'For the woman who'd rather laugh than cross her legs.' The Claret button 'Find my match ›' sits at ~55-60%, with a tiny line at ~61%: 'AI-generated characters and model. Not real customers.'",
+   "motion_inside_shot": "Lines fade up staggered by 0.15s. The button is on screen from 26.6s to the end and pulses (scale 100->104%) every 1.2s. The underwear lip-syncs the CTA with a nod on 'match'. The liner sinks lower on a 'hmph' at 26.8s and peeks out again at 30.5s.",
+   "on_screen_text": "leapproof wordmark | Feels like normal underwear. | Not a pad, not a diaper. | 30 nights to see if they hold. Money back if they don't. | For the woman who'd rather laugh than cross her legs. | [Find my match ›] | AI-generated characters and model. Not real customers.",
+   "vo_or_dialogue": "UNDERWEAR (warm, inviting, LAST): “Plain black underwear for the laugh. Take the quiz, find your match.”",
+   "sfx": "Warm resolve chord; soft button 'tap' on 'match'; the underscore ends on a button.",
+   "cut_reason": "Ends on the CTA, which is the final spoken and final held element.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro: both characters on a clean Warm Cream seamless with no text. Then Veo 3.1 for a 4-5s micro-action loop, with Path B lip-sync on the underwear's CTA. All text, the wordmark, the button and its pulse are built in CapCut over the plate (editor).",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (underwear character must be built from them)."
+  }
+ ],
+ "pacing_check": {
+  "total_shots": 19,
+  "avg_shot_len_s": 1.64,
+  "longest_hold_s": 4.6,
+  "cuts_0_3s": 1,
+  "cuts_3_10s": 5,
+  "cuts_10s_end": 12,
+  "broll_or_insert_share": "40% inserts + location hops (12.4s), including 26% real product or product-on-body (8.1s). Two-shots are only 11% (3.5s); the end card is 15%. Single-character + insert coverage (everything that isn't a two-shot or the card) = 74%.",
+  "vo_fit_issues": [
+   "WHOLE SCRIPT: 82 spoken words. At the brief's 2.4 words/s that's ~34s. At a brisk cartoon pace (liner ~3.2 w/s, underwear ~2.6 w/s) plus 0.15s J-cuts it's 31.2s. The script's 25.0s beat timings can't hold the lines, so this board keeps every line and runs 31.2s.",
+   "Script beat 2 (1.4-3.6s, 2.2s) holds 13 spoken words (~4.5s even at a fast pace). On this board it spans 1.4-5.9s.",
+   "Script beat 4 (7.6-13.2s, 5.6s) holds 25 spoken words (~8-9s). On this board it spans 10.7-19.8s.",
+   "Script beat 6 end card (20.2-25.0s, 4.8s) holds 18 words (~6.7s). The board splits it into the liner's sulk shot F18 (2.1s) + the end card S19 (4.6s), so the card stays under 5s.",
+   "Tightest single line: the F1 liner's 'That's a big laugh —' is 4 words in 1.2s (3.3 w/s). That's OK for a fast fussy voice; if the read runs long, apply T5.",
+   "TRIM PATH TO ~25s (Nikita OK needed; no line has been changed without it). T1: drop the repeated 'She could just wear underwear.' so S15 plays under 'Pull them on.' (-0.9s). T2: drop 'Okay, fine.' + 'And you?' by cutting F8 + F12 and moving the pills onto F9 (-1.7s). T3: shorten the end-card CTA to 'Take the quiz, find your match.' and fold the liner's sulk line onto the card (F18+S19 6.7s -> 4.6s, -2.1s). T4: 'Underwear? For the laugh?!' becomes a 0.6s silent 'huh?!' reaction, per the script's own 20s TRIM note (-0.7s). T5: drop 'That's a big laugh —' (-0.4s). Total about -5.8s, landing at ~25.4s."
+  ],
+  "notes": "How this beats the refs: the #4 Pixar winner (1400650075258672) averages 3.6s with 2 cuts in 3-10s. This board averages 1.64s with 5 hard cuts plus 2 punch-ins in 3-10s (7 visual changes, near the 8 of the #6 winner), 5 location hops plus the return to the table, and no angle repeated on consecutive lines. Everdries 1700150534480418's ~7s single-speaker holds become a 2.8s max character hold, and 1691171645641479's static bed two-shot shrinks to 11% of runtime. The hook is one continuous 2.6s shot with 5 motion events (jolt, label pop, emoji pop, liner flip-and-land, underwear brow-lift) and an SFX on every cut in the first 10s. Deliberate exception: 10.7-12.7s runs 0.8s and 1.2s staccato shots locked to the liner's one-word confessions (law 3 asks for 2-3s shots after 10s); from 14.2s the rhythm returns to ~2-3s, except the word-locked 'Wash./Hang.' pair. LONG CUT (~35s retargeting): split the foil and care exchange back out and add a 2nd real-sample insert (a different getting-ready move) before the end card, about +4s on this board."
+ },
+ "broll_map": [
+  "0.0s F1: the hook two-shot; the in-media-res burst on the bistro table (AI)",
+  "8.5s S6: the REAL underwear flat on the dressed table, hand smooths it (owned-phone)",
+  "9.6s S7: hands lift and stretch the real underwear side-on (owned-phone)",
+  "12.7s F10: location hop 1, the inside-the-clutch POV looking up (AI)",
+  "14.2s F11: location hop 2, the restaurant restroom vanity pedal bin (AI)",
+  "17.9s S13: location hop 3, the real underwear into a dry washer drum (owned-phone)",
+  "18.6s S14: location hop 4, the real underwear on a sunny drying rack, unpegged (owned-phone)",
+  "19.8s S15: location hop 5, a getting-ready dresser, hands stretch the real waistband (owned-phone)",
+  "21.7s F16: the AI woman side-on, waist-to-knee, leggings pulled up over the underwear (AI, Kling)",
+  "26.6s S19: the end card, both characters on Warm Cream with the CTA button (AI plate + editor)"
+ ],
+ "anchors_first": [
+  "ANCHOR 1: the shared character model sheet (LP_LINER + LP_UNDIES turnarounds and expressions) on Nano Banana Pro 2k, registered as reference elements. Every shot in V2-a, V2-b and V2-c depends on it, so generate it ONCE (whichever V2 goes first) and approve it before any shot. The liner half can be made now. The underwear half is blocked on the 5 CJ sample photos.",
+  "ANCHOR 2: the F1 hook start frame on the golden-hour bistro plate (blush clutch, liner mid-burst, underwear upright beside it). It defines the set, the light, the scale between the two characters and the frame-0 read. F2-F5, F8, F9, F12, F17 and F18 reuse this plate. Approve it at phone size with the pill and labels mocked on before batching anything."
+ ],
+ "assets_needed": [
+  {
+   "asset": "5 CJ sample photos (flat front, flat back, side, stretched, under black leggings), SKU CJNSNYNK00343",
+   "lane": "owned-phone",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "The real CJ sample in hand, for S6, S7, S13, S14 and S15 (a woman's hands)",
+   "lane": "owned-phone",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "LP_LINER character sheet (shared V2-a/b/c)",
+   "lane": "AI start frame + motion",
+   "status": "ready"
+  },
+  {
+   "asset": "LP_UNDIES character sheet (shared V2-a/b/c), built from the 5 photos",
+   "lane": "AI start frame + motion",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "Golden-hour bistro set plate with a blush/tan clutch (replaces candle-lit + black clutch)",
+   "lane": "AI start frame + motion",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "Inside-the-clutch POV plate (Blush satin lining, gold light from the opening)",
+   "lane": "AI start frame + motion",
+   "status": "ready"
+  },
+  {
+   "asset": "Restaurant restroom vanity plate with an unbranded countertop pedal bin",
+   "lane": "AI start frame + motion",
+   "status": "ready"
+  },
+  {
+   "asset": "Warm Cream end-card plate with both characters (no text)",
+   "lane": "AI start frame + motion",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "AI woman character ref (30-45, everyday body; the campaign's one consistent AI woman) + start/end frames for the leggings pull-up",
+   "lane": "AI start frame + motion",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "ElevenLabs voices: LP_LINER, LP_UNDIES (shared V2-a/b/c), LP_FRIEND (off-screen laugh line); Australian accent",
+   "lane": "editor",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "Licensed SFX: group laugh, table thump, glass shimmer, spring/boing, whoosh, slide-whistles, crinkle, pedal clunk + lid clink, washer door, peg click, elastic thwip, leggings whoosh, ding, 'hmph', clasp click, button tap",
+   "lane": "editor",
+   "status": "ready"
+  },
+  {
+   "asset": "Licensed pizzicato/ukulele comedic underscore (Meta Sound Collection / Epidemic / Artlist)",
+   "lane": "editor",
+   "status": "ready"
+  },
+  {
+   "asset": "Fonts (Hanken Grotesk ExtraBold, Fraunces) + the leapproof wordmark + the laughing-emoji sticker",
+   "lane": "editor",
+   "status": "ready"
+  },
+  {
+   "asset": "A CTA destination that returns 200 on the branded domain (try.leapproof.com/match), with the landing fixed (fake reviews out, guarantee terms, AI disclosure)",
+   "lane": "editor",
+   "status": "needs Nikita"
+  }
+ ],
+ "generation_estimate": "Floor: 17 stills, 14 video gens and 6 lip-sync passes. STILLS: 17 Nano Banana Pro images (2 shared character sheets + 14 start frames: F1, F2, F3, F4, F5, F8, F9, F10, F11, F12, F17, F18, S19, F16 start + 1 F16 end frame); expect ~2.5x picks in practice. VIDEO: 14 gens (13 character clips on Veo 3.1 + 1 Kling pull-up), plus the F3 A/B voice test; expect ~1.7x rerolls. VOICE: 6 lip-sync passes on the Path B clips (F1, F3-test, F5, F10, F18, S19) and 7 ElevenLabs Voice Changer passes on the Path A clips (F2, F4, F8, F9, F11, F12, F17). ElevenLabs: 3 designed voices and ~20 line renders. OWNED-PHONE: 5 setups (S6, S7, S13, S14, S15), zero gen cost. If F17 reuses the F3 tail, subtract 1 still, 1 video gen and 1 voice-changer pass.",
+ "word_swaps_applied": [
+  "\"Plain black briefs. Not a pad. Not a diaper.\" -> \"Plain black underwear.\" (F5 VO + caption) / \"Not a pad.\" (S6 VO) / \"Not a diaper.\" (S7 VO)",
+  "\"Plain black briefs for the laugh. Take the quiz, find your match.\" -> \"Plain black underwear for the laugh. Take the quiz, find your match.\" (S19 end-card VO)",
+  "Label \"liner\" -> \"panty liner\" (F1 hook label, the first on-screen mention)",
+  "Speaker tag \"BRIEF\" -> \"UNDERWEAR\" (every shot); character name \"the brief\" -> \"the underwear\" (all visual descriptions)",
+  "\"plain black brief\" / \"black brief\" in shot descriptions -> \"plain black underwear\" / \"black underwear\" (all shots)",
+  "Hook alternates use \"panty liner\" on the first mention (text_hook.alternates 2 and 3)",
+  "NOT applied (outside the video, flagged for Nikita's copy pass): primary_text says \"plain black briefs\" twice -> should be \"plain black underwear\""
+ ],
+ "compliance_flags": [
+  "SET CHANGE (Nikita to OK): the script says 'candle-lit'. A dark first frame dies in feed and black underwear disappears in low light. The board uses a golden-hour bistro (low window sun, warm bokeh, one small lit tealight as the 'evening' nod) to keep the evening-out feel at a feed-safe exposure.",
+  "PROP CHANGE (Nikita to OK): the script's 'open black clutch' becomes a blush/tan clutch. Black on black merges the underwear's silhouette and kills the A-vs-B read. STAGING CHANGE: the underwear stands upright BESIDE the clutch instead of folded inside it, so its full shape reads as underwear on frame 0 (the 1691171645641479 staging).",
+  "'I sulk in YOUR clutch' (beat 4 VO): the underwear doesn't own the clutch, and to a muted or unsure viewer 'your' points at her. Proposed: 'I sulk in HER clutch' (the caption already says 'the clutch'). The line is kept as scripted until Nikita OKs.",
+  "Word-list clash: the creative plan's V2 'not in V2' list bans 'done', 'spare' and 'plan'. The chiefed script uses 'Pull them on. Done.' (VO) and the primary_text uses 'spare' and 'There's another plan'. The script is chiefed, so this is flagged only. Nikita chiefs.",
+  "AU English: the word-rule logic (swapping brief and liner for AU ears) may also apply to 'trash' (AU: 'bin') and 'diaper' (AU: 'nappy'). Both are script-locked and left as is; Nikita's call.",
+  "Trash beat: the liner never goes inside the bin and is never shown loose on a floor (AI-production rule: reads as used). It taps the pedal, peers in and the lid clinks shut. No toilet in frame.",
+  "Wash/Hang inserts: dry drum only, no water, detergent pour or 'dry result' (CJ column: no pour/water demo).",
+  "No human acts the moment: the laugh and 'I'll pee myself' are audio-only, so no 'Dramatization' label is needed. The AI woman only gets dressed. The AI disclosure runs from 0.0s, and C2PA metadata is kept on export.",
+  "Inherited hard gates (from the script, unchanged): the campaign-wide wear test, the branded destination 404, the live landing's fake reviews and missing guarantee terms, and pixel/CAPI plus health data in URLs. Not this board's copy, but nothing runs until they're cleared.",
+  "Format risk (from the script): AI talking-object has 0 ranked proof on these pages. Run it as a learning cell with a proven A-vs-B / silent on-body control alongside."
+ ],
+ "open_for_nikita": [
+  "RUNTIME: with every scripted line kept the main cut is 31.2s, because the script's 82 spoken words can't fit 25s. Run the 31s as the main cut, or OK trims T1-T5 (listed in pacing_check) to land ~25s?",
+  "SET: OK the golden-hour bistro instead of candle-lit, the blush/tan clutch instead of black, and the underwear standing beside the clutch instead of folded inside?",
+  "HOOK TEXT: keep the locked “Stop! I'll pee myself!” (recommended; adds quote marks, a laughing-emoji pop at 0.7s and the 'panty liner' label), and run alternate 1 'Big laugh. Little pee.' as the hook-isolation cell?",
+  "VOICES + ONE WORD: Australian accents for the liner, underwear and off-screen friend; a Path A vs Path B test on F3 before building; and OK 'I sulk in your clutch' -> 'her clutch'?"
+ ]
+}

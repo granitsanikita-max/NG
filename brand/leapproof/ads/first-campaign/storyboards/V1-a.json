@@ -1,0 +1,586 @@
+{
+ "ad_id": "V1-a",
+ "title": "The spare panty liner in the handbag",
+ "format_analysis": {
+  "format": "V1: problem-object hook + impersonal brand voiceover over fast, faceless b-roll. An object-cam POV (the camera inside her handbag) opens on the spare panty liner the instant after a sneeze. A warm, wry narrator then roasts that liner's day over locked macro hand shots. Plain black underwear is revealed, pulled on under leggings, and she gets on with an errand. The ad hands a qualified click to the quiz.",
+  "how_it_should_look": "Real-UGC phone look, not cinematic: iPhone 4K with natural phone sharpening and light grain, honest and bright, never dark or clinical. The hook and car-park shots feel handheld; the roast is tripod-locked macro (phone macro mode, 10-15cm) with ONE tiny hand action per VO word. Palette: tan leather, cream/blush bedding and tiles, pastel liner wrappers, and one hard black object (the underwear). The black is the only dense dark thing in the ad, so the 8.5s flash and the 11s reveal pop. Grade warm (+5 temp) with lifted interiors; keep the liner pure white (no yellow cast). Captions: Hanken Grotesk ExtraBold, Plum Ink on Warm Cream boxes, one phrase at a time in the 14-62% band inside the 4:5 crop; hook line 1 in a Claret pill with cream text; Fraunces only on the end-card brand line. Sound: a wry, light, plucked music bed (Meta Sound Collection or licensed) ducked under the VO, with a lift at 11.0s, an SFX on every cut in 0-10s and a chime on the button. VO: a warm, wry woman in her 30s, brisk staccato at ~3 words/sec (the refs' measured pace).",
+  "runtime_main": "35s",
+  "aspect": "9:16 (4:5-safe)",
+  "build_profile": "HOOK 0-3s: faceless, hands only (her chin/shoulder at most a blur), an off-screen ACHOO SFX + brand VO. BODY 3-11s: faceless macro hand shots, brand VO. REVEAL 11-17s: product in hands, then a headless side-on body (waist-to-knee, getting dressed). 17-25s: a full-figure woman in leggings in the car park, face never featured, no dialogue. CTA/END: product plate + editor cards. Voice path: ONE ElevenLabs brand narrator, recorded first, with the pictures cut to it. No on-camera speech, so no lip-sync anywhere.",
+  "reference_ads": [
+   {
+    "id": "896552676720439",
+    "url": "https://www.facebook.com/ads/library/?id=896552676720439",
+    "what_we_take": "UltraDries video #6 (193d). Its hook throws the object AT the lens and holds ~3.0s with a boxed caption mid-frame from frame 0; after that, EVERY cut is a new place or subject (8 cuts in 3-10s). We copy that cut density and the 'never the same room twice in a row' rule in the roast (bed > bathroom > gym bag > bin > flash > hallway > in-bag). Its VO also names our exact pain at 39.5s ('Carrying pads in your purse everywhere you go'), which is in-category proof that the spare-in-the-bag moment lands."
+   },
+   {
+    "id": "1206351388295667",
+    "url": "https://www.facebook.com/ads/library/?id=1206351388295667",
+    "what_we_take": "Everdries video #14 (275d, 6 dupes). It opens on a POV down at the problem object, with the contrarian 'still using pads?' text on screen from frame 0, held 3.4s, and an emoji popping in at ~1.5s (our 🙄 on line 2). Then hands-on-bed b-roll where every shot has motion in it (flip, point, unwrap), which becomes our locked macros with a micro-action on each VO word. Its on-body waistband pull at ~21s maps to our leggings pull-up. We do NOT copy its stained pad (no stains) or its 'you'."
+   },
+   {
+    "id": "2347000186152175",
+    "url": "https://www.facebook.com/ads/library/?id=2347000186152175",
+    "what_we_take": "Miro #75 Fridge POV example (Dukes Health, 165d): the camera lives where the product lives, and a hand reaches in and takes it. That is the mechanic of our handbag-cam."
+   },
+   {
+    "id": "1730018818434803",
+    "url": "https://www.facebook.com/ads/library/?id=1730018818434803",
+    "what_we_take": "Anti-pattern only: a hand demo held as one 18-41s take. Our roast never holds a frame longer than 1.35s."
+   }
+  ]
+ },
+ "text_hook": {
+  "recommended": {
+   "text": "Sneeze. Little pee. / Still packing a spare panty liner? 🙄",
+   "on_screen_timing": "Line 1 is on screen from 0.00 to 3.00s (on frame 0, popping in over 4 frames). Line 2 stacks UNDER line 1 at 1.30s (it does not replace it) and holds to 3.00s, carried across the 2.20s hand-wipe. The 🙄 pops onto the end of line 2 at ~1.90s.",
+   "style": "Line 1: Claret #A33154 pill, Warm Cream #F5EDE6 text, Hanken Grotesk ExtraBold, cap height ~5.5% of frame height, centred ~18% from the top. Line 2: Warm Cream box, Plum Ink #231017 text, Hanken Grotesk ExtraBold ~4.2% height, directly below (~25% from the top), max 2 lines. Both sit inside the centre 4:5 crop and ABOVE the liner (never over it), which sits in the 30-62% band.",
+   "why": "Keep the locked words: it is the best stopper for THIS visual. Line 1 is 3 words, so it reads in under 0.5s, names the moment and the word 'pee' sound-off on frame 0, is undated, and has no 'you' (passes Meta's personal-attributes rule). The handbag POV + jolt does the physical stopping. Line 2 imports the proven 'still using [the old workaround]?' contrarian from Everdries' 275d 'It's 2025! Why are you still using pads? 🤢' (6 dupes, video #14), minus the date and minus the 'you'. Its one weakness is that line 1 is a flat statement with no tension, so the fixes are presentation only: STACK the lines (Everdries holds one two-line card for 3.4s; ours shouldn't make her read two separate cards in 3s), put the stopper line in the Claret pill, and add the eye-roll pop that Everdries uses as an in-hook motion event (🙄 = the wry 'same routine' emotion; 🤢 would read as a hygiene cue on a clean liner)."
+  },
+  "alternates": [
+   {
+    "text": "It's 2026! / Still packing a panty liner for a sneeze? 🙄",
+    "why": "The literal copy of the proven contrarian structure (year stamp + 'still' + the old workaround + emoji pop at ~1.5s), with no 'you' and the moment named in line 2. Best A/B challenger. Costs: it's dated (swap to 2027 in January, the landmine Nikita already removed), 'pee' leaves the screen, and line 2 is 8 words (~1.5s to read).",
+    "proven_anchor": "\"It's 2025! Why are you still using pads? 🤢\" - Everdries 1206351388295667, 275 days live, 6 dupes, video #14"
+   },
+   {
+    "text": "Sneezing shouldn't require a spare panty liner.",
+    "why": "Six words. A normative contrarian aimed at the routine, not at her, with no 'you'. It implies the underwear replaces the liner on a sneeze, so it can run only once the founder wear test logs the sneeze (that gate is campaign-wide anyway).",
+    "proven_anchor": "\"Sneezing shouldn't require crossing your legs.\" - clinic caption, Advanced Health 1015538471405847, 112 days live (AD_RESEARCH §3: passes Meta as written; Tier B, caption-only)"
+   },
+   {
+    "text": "For anyone who packs a spare panty liner for sneezes 🙄",
+    "why": "The same moment and object, addressed to the habit in the third person, never to a condition, so it's Meta-safe. 9 words, so it reads slower than the recommended line. Use it if Meta flags the question form.",
+    "proven_anchor": "\"Leak when you sneeze?\" - Origin, 372 days live (the longest-running 30-45 hook), via AD_RESEARCH §3's sanctioned third-person rewrite \"For anyone who's crossed her legs before a sneeze.\""
+   }
+  ],
+  "note": "The recommended hook keeps the locked words plus the word-rule swap ('liner' > 'panty liner'). It differs from the script only in presentation: the lines stack instead of replacing each other, line 1 sits in the Claret hook pill instead of the script's cream box, and a 🙄 pops on line 2. The VO line 2 is also trimmed (see vo_fit_issues). Nikita chiefs it."
+ },
+ "visual_hook_build": {
+  "miro": "#75 Fridge POV (adapted to a handbag-cam)",
+  "frame_1": "Inside an open tan leather zip-top tote on her lap in a parked car. One clean white panty liner in a long, flat, pale-pink, unbranded wrapper (pull-tab visible) fills ~40-45% of the frame, dead-centre in the 30-62% band, tilted ~25 deg and pin-sharp. Behind it, out of focus: a plain key ring and a phone lying screen-down in a plain case, both dark, and nothing else. Above, the bag mouth is a bright oval of overcast daylight from the open driver door; at most a soft blur of her chin/shoulder at the top edge. The Claret pill 'Sneeze. Little pee.' is popping in at ~18% from the top. Bright, sharp, and readable as 'a panty liner in a handbag' in one glance.",
+  "build_steps": [
+   "COMPARE AND PICK: real phone in a real bag (owned-phone) vs AI start frame + motion. RECOMMEND OWNED-PHONE. It gives real relative physics (keys slide, the liner hops, light flares as the hand clears the mouth), a real hand-on-object grab (the hardest thing for video models), the true phone-grain UGC look the UltraDries #6 winner runs on, zero credits and zero AI drift. It is NOT blocked on CJ samples (there's no product in the hook), and the same rig also shoots S10's zip-close callback. Its only requirement is a woman's hand. AI is the fallback (see fallback).",
+   "PROPS: a tan/caramel leather ZIP-TOP tote with a wide mouth, a plain cream/beige lining and no logo plaque. A pack of long flat-pack panty liners in pale pink/lilac wrappers with no print (or the print turned down / covered with matte pastel washi tape). Plain house keys (no car-brand fob). A prop phone in a plain case, screen-down (hide the Apple logo). A rolled hand towel, a cardboard wedge and gaffer tape. Do NOT add tissues, receipts or lip balm: no other white or pastel item may compete with the liner.",
+   "RIG: tape the shooting phone (4K 60fps, 0.5x ultra-wide or macro mode, Action mode OFF, Cinematic OFF) to the cardboard wedge, lens up at ~45 deg, and wedge it in the rolled towel at the bottom of the bag so it can't tip during the jolt. The screen faces the bag wall. Hit record before placing it.",
+   "KEEP THE LINER READING AS A LINER, NOT CLUTTER: use the long flat liner shape (an elongated wrapper with a pull-tab reads 'liner'; a folded square packet reads as a wet wipe, condom or sweet). Lay it on top of everything, 10-12cm from the lens, centred, long axis at ~25 deg, tab toward the mouth, in the sharp plane. Keep exactly two other items, both dark and 25-30cm back, so they go to bokeh. It must be the only light pastel object in frame, with pale pink on tan leather for tone contrast. The text sits ABOVE it, never on it. S2 then confirms it in daylight: her thumb pops the tab and the white liner edge shows, and line 2 names it 'panty liner'. Check playback: the liner must be >=40% of the frame and sharp on frame 0.",
+   "LIGHT: parked car, overcast day, driver door open, bag on her lap tilted toward the door so daylight pours into the mouth. Long-press AE/AF lock on the liner, expose for it and let the sky bloom (that's the 'light floods in' look). If the interior is murky, add a white card on her lap or a small LED cube taped inside below the frame. Frame 0 must never be dark.",
+   "THE SNEEZE JOLT, IN-CAMERA (primary): on her cue she does a sharp sneeze-jerk (shoulders forward, knees pop up ~3-5cm), so the bag on her lap drops and bounces. Because the phone is wedged tight, the frame stays on the liner while the loose keys and liner shift RELATIVE to the camera and the daylight in the mouth jumps; that relative movement is what sells it. She can say 'achoo' for timing, and it gets replaced by the SFX. Keep Action mode OFF or it irons the jolt flat.",
+   "THE SNEEZE JOLT, EDITOR (accent only): CapCut keyframes on the ACHOO transient at 0.10s, 3-5 frames: scale 100>107>100%, position +/-12px, rotation +/-1.5 deg, plus a 2-frame directional blur and the key-jangle SFX. Never use an editor-only shake: a rigid whole-frame wobble with nothing moving inside the bag reads fake.",
+   "ACTION (8-12 takes, ~4s each): jolt, then ~0.5s later her right hand (short natural nails, thin gold band, no other jewellery) dives in from the top of the mouth straight at the lens and pinches the liner by its tab. The liner must stay >=60% visible until ~1.2s. She yanks it up and out toward the light and, on the exit, sweeps the BACK of her hand across the lens (the dark wipe used for the hidden cut).",
+   "S2 IN THE SAME SESSION: she holds the phone at chest height facing the windscreen (steering-wheel badge taped or out of frame), starts with the back of her hand covering the lens, pulls back to reveal the liner 20cm out, and flicks the tab half-open. S10 IN THE SAME RIG on the hallway table: drop in a fresh liner, then zip the mouth shut across the lens.",
+   "EDIT: start the clip 3 frames before the jolt (frame 0 = sharp liner + pill popping). Join S1 to S2 inside the hand-wipe. Grade warm, lift the bag interior, keep the liner pure white. Sound: a muffled ACHOO SFX (or her own, low-passed as if heard from inside the bag), a leather thump + key jangle on the jolt, a rustle, a wrapper crinkle on the grip and a whoosh on the exit."
+  ],
+  "lane_and_tool": "Owned-phone (recommended): a real phone wedged in a real tan tote, 4K 60fps 0.5x/macro, AE/AF lock, Action mode off, a ~1h shoot in a parked car, ~$0-80 in props (a borrowed bag + a pack of liners), 0 credits. It's more real than AI on every axis that matters here: the jolt physics, the hand-object grab, the phone-grain look, and no logo hallucination. AI start frame + motion (fallback): a Nano Banana Pro 9:16 2k start frame matching frame_1, plus an end frame (hand gripping the liner halfway out of the mouth), animated with Kling 2.x/3.0 start+end frame (a 5s gen, keep the best 2.2s) or Veo 3.1 from the start frame. Expect 4-6 gens. Video models can't fake the relative object bounce of a jolt, so the AI clip is generated still and the jolt is added in the editor, which reads weaker. Either way the editor does the text, the accent shake and the hidden wipe.",
+  "fallback": "If no woman's hand is available: the AI path above (generated with NO shake; the jolt is added in the editor with keyframes + directional blur + a key-jangle SFX). Reject any take showing hand morphing or the liner changing shape. If the grab won't render clean, use the owned-phone plate with NO hand (the jolt + the liner hopping, which anyone can shoot), then go through the hidden wipe into an AI S2 where the hand already holds the liner. That loses the grab but keeps the POV, the jolt and the read.",
+  "failure_modes_to_reject": [
+   "The liner reads as something else: a wet wipe, condom, tea bag, sweet, tampon or winged pad. Use the long flat wrapper and reposition.",
+   "The liner is under ~35% of the frame, not in the sharp plane on frame 0, or blurred by the jolt on frame 0.",
+   "Frame 0 is dark or murky (an under-exposed bag interior), or the sky clips into the liner edge.",
+   "Any brand mark: wrapper print, a car-brand key fob, the Apple logo on the prop phone, a tote logo plaque, the steering-wheel badge in S2.",
+   "Clutter: more than two other items, or any white/pastel item (tissue, receipt, lip balm) competing with the liner.",
+   "Her face sharp or visibly sneezing in frame (that would need a 'Dramatization' label). Reject the take.",
+   "An editor-only shake: the whole frame wobbles but nothing moves inside the bag.",
+   "The hand covers the liner before ~1.2s, or long/coloured nails or extra jewellery pull focus.",
+   "Any stain, yellowing or used look on the liner, or backlight showing its core.",
+   "AI path: extra or fused fingers, the liner morphing during the grab, invented wrapper text, a plastic too-clean CGI look, a camera-shake 'jolt' with no object movement."
+  ]
+ },
+ "shots": [
+  {
+   "shot_id": "S1-BR-handbag-pov",
+   "t_in": 0.0,
+   "t_out": 2.2,
+   "section": "HOOK",
+   "shot_type": "POV",
+   "angle_or_room": "Inside her open tan leather zip-top tote, sitting on her lap in the driver's seat of a parked car (supermarket car park, driver door open). The phone lies at the bottom of the bag looking up at ~45 deg out of the open mouth toward the overcast sky / open door.",
+   "what_we_see": "FRAME 0: one clean white panty liner in a long, flat, pale-pink unbranded wrapper fills ~40-45% of the frame, dead-centre in the 30-62% height band, tilted ~25 deg, pin-sharp (10-12cm from the lens). Behind it and out of focus: a plain key ring and a phone lying screen-down in a plain case - the only two other items, both dark. Above: the bag mouth is a bright oval of daylight. At most a soft blur of her chin/shoulder at the top edge; her face is never sharp. No stains, no brand marks.",
+   "motion_inside_shot": "Clip starts 3 frames before the jolt so frame 0 has a sharp liner while the pill pops in. 0.10-0.35 JOLT (in-camera): the bag drops ~4cm and bounces on her lap, the keys slide, the liner hops and resettles in the sharp plane, the daylight in the mouth jumps; editor adds a 3-5 frame accent shake. 0.60-1.30 her right hand (short natural nails, thin gold band) dives in from the top of the mouth, fingers spread, past the blurred keys, straight toward the lens, and pinches the liner by its tab (liner stays >=60% visible until the grip). 1.30-2.05 she yanks it up and out toward the light (motion blur, the mouth flares bright). 2.05-2.20 the back of her hand sweeps across the lens (dark wipe) = hidden cut.",
+   "on_screen_text": "0.00 Claret pill, cream text: 'Sneeze. Little pee.' (pops in over frames 0-4, ~18% from top). 1.30 a Warm Cream box stacks UNDER it (line 1 stays): 'Still packing a spare panty liner?'. 1.90 the 🙄 pops onto the end of line 2.",
+   "vo_or_dialogue": "SFX 0.00-0.20: muffled off-screen 'ACHOO!' (a sound effect; nobody sneezes on camera). Brand VO 0.22-1.20: 'Sneeze. Little pee.' Brand VO 1.30-2.95: 'Still packing a spare panty liner?' [main-cut trim, see vo_fit_issues] (finishes over S2)",
+   "sfx": "0.00 muffled ACHOO (low-passed, as if heard from inside the bag); 0.10 leather thump + key jangle on the jolt; 0.70 lining rustle; 1.25 wrapper crinkle on the grip; 1.80 whoosh up and out. Music bed (wry, light plucked) starts low at 0.00.",
+   "cut_reason": "Hidden cut inside the hand-wipe at 2.20: the back of her hand covers the lens in both clips, so the exit from the bag reads as ONE continuous move. That follows the pacing law (no visible hard cut in 0-3s) and still lands the liner in daylight before the question ends.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Real phone wedged inside a real bag (full build in visual_hook_build): 4K 60fps, 0.5x/macro, AE/AF locked on the liner, Action mode OFF. CapCut keyframed accent shake. Fallback: Nano Banana Pro start frame + Kling 2.x/3.0 start/end frame (or Veo 3.1 from the start frame) with the jolt added in the editor.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S2-BR-car-liner-holdup",
+   "t_in": 2.2,
+   "t_out": 3.0,
+   "section": "HOOK",
+   "shot_type": "CU",
+   "angle_or_room": "Same car, driver's seat. Phone handheld at her chest height facing the windscreen; plain dash, steering-wheel badge taped over or out of frame, overcast car park soft through the glass.",
+   "what_we_see": "Her hand holds the wrapped panty liner ~20cm from the lens, centred, long axis vertical, against a softly blurred dashboard and windscreen. Daylight on the wrapper. No face.",
+   "motion_inside_shot": "2.20-2.40 the hand pulls back from the lens (the reverse of the wipe) to reveal the liner. 2.55-2.85 her thumb flicks the wrapper tab so it pops half-open and the white liner edge shows (half-peeled in hand is allowed), with a tiny 'see?' waggle on 'liner?'.",
+   "on_screen_text": "Both hook lines stay up across the wipe: 'Sneeze. Little pee.' / 'Still packing a spare panty liner? 🙄'",
+   "vo_or_dialogue": "Brand VO: '...spare panty liner?' (ends 2.95)",
+   "sfx": "2.20 soft thunk-whoosh out of the wipe; 2.60 wrapper-tab 'tk' crinkle.",
+   "cut_reason": "Cut on the question mark: the hook is paid off, so hard cut into the liner's day.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Same session, same hand, same car; handheld 4K 60. Fallback: Nano Banana Pro still + Kling 5s, use the best 0.8s.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S3-BR-bed-stick-topdown",
+   "t_in": 3.0,
+   "t_out": 4.4,
+   "section": "BODY",
+   "shot_type": "insert",
+   "angle_or_room": "Bedroom, morning. Top-down, tripod-locked macro over a cream duvet with soft window light from frame-left.",
+   "what_we_see": "A light-grey marl everyday cotton pair laid flat (NOT black, so it can never be confused with the reveal). A fresh panty liner, release strip half-peeled, is held over its gusset.",
+   "motion_inside_shot": "3.10-3.70 her thumb peels the release strip away and it curls off frame-right. 3.85-4.20 on 'day' her palm pats the liner down onto the grey pair.",
+   "on_screen_text": "'That liner's day:' (Warm Cream box, Plum Ink, upper safe zone)",
+   "vo_or_dialogue": "Brand VO 3.15-4.20: 'Here's that liner's day.' [main-cut trim of the locked TEASE bridge 'Here's the day that little liner actually has.']",
+   "sfx": "3.00 sticker-peel 'rrip' on the cut; 4.15 soft pat.",
+   "cut_reason": "Cut on 'day': the bridge has been said, so the roast starts.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Tripod top-down, phone macro, 4K; same woman's hand as the hook. Fallback: Nano Banana Pro still + Kling 5s (use 1.4s).",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S4-BR-bed-bunch-ecu",
+   "t_in": 4.4,
+   "t_out": 5.3,
+   "section": "BODY",
+   "shot_type": "ECU",
+   "angle_or_room": "Same bed, new angle: lens at duvet level, side-on macro, raking light.",
+   "what_we_see": "ECU side-on: the liner stuck on the grey pair fills the lower half; duvet texture soft behind.",
+   "motion_inside_shot": "4.50-5.05 two fingertips push in from both sides; the liner creases and rucks into a ridge that rises toward the lens on 'bunches' (rack focus to the ridge).",
+   "on_screen_text": "'Bunches.'",
+   "vo_or_dialogue": "Brand VO 4.45-5.05: 'It bunches.'",
+   "sfx": "4.40 fabric scrunch 'fff' on the cut.",
+   "cut_reason": "Cut the instant the ridge peaks.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Tripod, phone macro at duvet level, manual focus pull (or tap-focus on the ridge). Fallback: Nano Banana Pro + Kling.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S5-BR-vanity-shift",
+   "t_in": 5.3,
+   "t_out": 6.05,
+   "section": "BODY",
+   "shot_type": "ECU",
+   "angle_or_room": "NEW ROOM: bathroom vanity, midday. White tiles, a folded white towel, raking window light, 3/4 high angle.",
+   "what_we_see": "The grey pair lies on the folded towel with the liner already sitting crooked.",
+   "motion_inside_shot": "5.35-5.85 a fingertip lifts the liner's corner and drags it further sideways, so it skews off-centre on 'shifts'.",
+   "on_screen_text": "'Shifts.'",
+   "vo_or_dialogue": "Brand VO 5.35-5.90: 'It shifts.'",
+   "sfx": "5.30 tacky peel-drag 'tchk'.",
+   "cut_reason": "Cut on the skew. A new room on every roast cut keeps it moving (UltraDries #6 rule: never the same room twice in a row).",
+   "source_lane": "owned-phone",
+   "tool_rec": "Tripod macro. Fallback: Nano Banana Pro + Kling.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S6-BR-gymbag-crinkle",
+   "t_in": 6.05,
+   "t_out": 7.2,
+   "section": "BODY",
+   "shot_type": "ECU",
+   "angle_or_room": "NEW PLACE: inside an open gym bag on a timber bench, afternoon. Mesh pocket, an unbranded water bottle and a sweat towel out of focus.",
+   "what_we_see": "Her hand holds a clean, half-peeled panty liner in its pastel wrapper over the open gym bag.",
+   "motion_inside_shot": "6.15-6.70 her fingers squeeze the liner and it crumples with a plasticky crinkle. 6.80-7.05 on 'diaper' they let go and it springs back puffy.",
+   "on_screen_text": "'Feels like a diaper.'",
+   "vo_or_dialogue": "Brand VO 6.10-7.05: 'It feels like a diaper.'",
+   "sfx": "6.05 loud plastic crinkle on the cut.",
+   "cut_reason": "Cut on the spring-back.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Tripod macro; stage the gym bag at home. Fallback: Nano Banana Pro + Kling.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S7-BR-bin-night",
+   "t_in": 7.2,
+   "t_out": 8.55,
+   "section": "BODY",
+   "shot_type": "insert",
+   "angle_or_room": "NEW LIGHT: bathroom at night under warm lamplight. Low locked angle at bin height; a white pedal bin on cream tiles, lid held open (foot off-screen on the pedal).",
+   "what_we_see": "A hand drops a panty liner rolled up in its pastel wrapper (never loose, never unwrapped) into the bin.",
+   "motion_inside_shot": "7.30-7.80 the rolled wrapper drops in. 8.25-8.40 the foot comes off the pedal and the lid falls shut with a tap on 'trash'.",
+   "on_screen_text": "'Another one in the trash.'",
+   "vo_or_dialogue": "Brand VO 7.25-8.45: 'Another one in the trash.' [main-cut trim: 'And by tonight,' dropped; the night light carries it]",
+   "sfx": "7.20 small drop 'pff'; 8.35 lid 'tok' on 'trash'.",
+   "cut_reason": "Cut on the lid tap, straight into the flash.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Tripod at floor height, warm practical lamp. Fallback: Nano Banana Pro + Kling.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S8-PROD-flash-stretch",
+   "t_in": 8.55,
+   "t_out": 8.95,
+   "section": "BODY",
+   "shot_type": "insert",
+   "angle_or_room": "Hard cut to a bright Warm Cream wall, front-lit (the S11 set).",
+   "what_we_see": "0.4s flash: two hands hold the plain black underwear (CJ SKU CJNSNYNK00343: no lace, no logo) by the waistband, stretched taut, front-on, centred. It is the one dense black object in the whole roast.",
+   "motion_inside_shot": "A tiny waistband snap-taut inside the 12 frames: a 0.4s slice of S11's take.",
+   "on_screen_text": "'...or this.' (Warm Cream box)",
+   "vo_or_dialogue": "No line (VO breath)",
+   "sfx": "8.55 soft tick + short shimmer.",
+   "cut_reason": "Pre-tease: 0.4s plants the cure, then we cut back to the routine before it can be fully read. Paid off at 11.0s.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Slice 0.4s from S11's stretch take (same hands, same pair), so there is no extra shoot. AI alt: Nano Banana Pro from the 5 photos + Kling. Until the CJ sample + 5 photos exist: animatic placeholder only (Warm Cream card with the caption) - do NOT ship with supplier listing photos unless Nikita checks they match the sample exactly.",
+   "blocked_on": "CJ sample + the 5 reference photos (SKU CJNSNYNK00343)"
+  },
+  {
+   "shot_id": "S9-BR-hallway-drop",
+   "t_in": 8.95,
+   "t_out": 10.1,
+   "section": "BODY",
+   "shot_type": "insert",
+   "angle_or_room": "NEW PLACE: hallway table by the front door, next morning in cool fresh daylight. Top-down.",
+   "what_we_see": "The same tan tote from the hook sits open on a light timber hallway table, with plain keys beside it.",
+   "motion_inside_shot": "9.40-9.90 on 'new one' her hand drops a fresh pastel-wrapped panty liner into the bag; the keys are scooped up out of frame.",
+   "on_screen_text": "'Tomorrow, a new one.' (caption mirrors the locked VO)",
+   "vo_or_dialogue": "Brand VO 9.00-10.00: 'Tomorrow, a new one.'",
+   "sfx": "8.95 tiny 'pft' drop + key jingle.",
+   "cut_reason": "Action-match: cut mid-drop to inside the bag.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Tripod top-down. Fallback: Nano Banana Pro + Kling.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S10-BR-handbag-pov-zip",
+   "t_in": 10.1,
+   "t_out": 11.0,
+   "section": "BODY",
+   "shot_type": "POV",
+   "angle_or_room": "Inside the same tote with the same rig as S1 (callback), hallway light.",
+   "what_we_see": "The fresh liner lands in front of the lens and settles, sharp. The bag mouth is a bright rectangle above.",
+   "motion_inside_shot": "10.10-10.35 the liner drops into frame and bounces. 10.45-10.95 the zip runs across the mouth left to right and shuts the light off; the frame is near-black only for the last ~2 frames, a natural wipe into the reveal.",
+   "on_screen_text": "'Tomorrow, a new one.' stays up to 10.60, then clears.",
+   "vo_or_dialogue": "No line. The zip says 'same routine'; the locked 'Same sticker, same routine.' is cut in the main cut (see vo_fit_issues).",
+   "sfx": "10.10 drop thud; 10.45 rising 'zzzip'; the music filter closes to a dull thud at 10.95, then 0.05s of silence.",
+   "cut_reason": "Zip-to-black wipe: the routine literally closes, and the reveal opens bright on 'Or...'.",
+   "source_lane": "owned-phone",
+   "tool_rec": "S1 rig, shot in the same session on the hallway table. Fallback: Nano Banana Pro + Kling.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S11-PROD-stretch-hands",
+   "t_in": 11.0,
+   "t_out": 12.9,
+   "section": "REVEAL",
+   "shot_type": "CU",
+   "angle_or_room": "Bedroom, bright: a Blush/cream wall with soft FRONT window light (no backlight through the fabric).",
+   "what_we_see": "Two hands hold the plain black underwear by the waistband, centred and filling ~50% of the frame. It is the same pair as the 8.5s flash, now held long enough to read: plain black, no lace, no logo.",
+   "motion_inside_shot": "11.05 on 'Or...' the hands snap the waistband taut toward the lens. 11.40-12.90 a slow 105-112% editor push-in while the hands give a gentle second stretch.",
+   "on_screen_text": "'Or... just underwear.'",
+   "vo_or_dialogue": "Brand VO 11.05-11.50: 'Or...' / 11.70-12.90: 'it could just be underwear.'",
+   "sfx": "11.00 the music lifts (filter opens, fuller arrangement); 11.05 elastic snap.",
+   "cut_reason": "Cut on 'underwear': the category has been named, so show it flat.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Phone 4K 60 with the real sample is preferred: zero drift, the most real option. AI alt: Nano Banana Pro from the 5 photos + Kling 5s. Until the CJ sample + 5 photos exist: animatic placeholder only (Warm Cream card with the caption) - do NOT ship with supplier listing photos unless Nikita checks they match the sample exactly.",
+   "blocked_on": "CJ sample + the 5 reference photos (SKU CJNSNYNK00343)"
+  },
+  {
+   "shot_id": "S12-PROD-flatlay-smooth",
+   "t_in": 12.9,
+   "t_out": 14.4,
+   "section": "REVEAL",
+   "shot_type": "insert",
+   "angle_or_room": "Top-down on the S3 bed (cream duvet), late morning. A callback: the same spot where the liner was stuck at 3s.",
+   "what_we_see": "The black underwear laid flat, front up, with nothing stuck to it.",
+   "motion_inside_shot": "13.00-13.30 the pair drops onto the duvet. 13.40-14.20 on 'Plain black underwear' both palms sweep outward from the centre and smooth it flat.",
+   "on_screen_text": "'Plain black underwear.'",
+   "vo_or_dialogue": "Brand VO 13.20-14.25: 'Plain black underwear.'",
+   "sfx": "13.00 soft fabric land; 13.50 linen swish.",
+   "cut_reason": "Cut as the hands clear: next we see it on a body.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Tripod top-down, same framing as S3 so the contrast reads. AI alt: Nano Banana Pro from the flat-front photo + Kling. Until the CJ sample + 5 photos exist: animatic placeholder only (Warm Cream card with the caption) - do NOT ship with supplier listing photos unless Nikita checks they match the sample exactly.",
+   "blocked_on": "CJ sample + the 5 reference photos (SKU CJNSNYNK00343)"
+  },
+  {
+   "shot_id": "F13-WOMAN-side-waist",
+   "t_in": 14.4,
+   "t_out": 15.9,
+   "section": "REVEAL",
+   "shot_type": "MCU",
+   "angle_or_room": "Bedroom, by the wardrobe (a different wall from S11; no mirrors). Side-on, waist-to-knee crop.",
+   "what_we_see": "One consistent woman (30-45, everyday body cast to the measured size run) with a sports top on, covering the hip line. The plain black underwear is seen side-on at the hip; black leggings are bunched at her knees.",
+   "motion_inside_shot": "14.45-15.75 in one smooth move she pulls the leggings up from the knee, over the thigh, to the waist. The waistband lands on 'on' (15.65) and the top drops over the hip. Getting dressed only.",
+   "on_screen_text": "'Pull them on.' (caption mirrors the locked VO) + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+   "vo_or_dialogue": "Brand VO 14.90-15.70: 'Pull them on,'",
+   "sfx": "14.40 leggings swish; 15.65 waistband 'thwap'.",
+   "cut_reason": "Cut on 'on' to the punch-in.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame (leggings at the knee) + end frame (leggings at the waist), built from the 5 sample photos + the character ref; Kling 2.x/3.0 start/end interpolation, 5s, use 1.5s. BETTER if available: owned-phone with a real woman wearing the sample (zero drift, no AI tag). Plan fallback: knee-to-waistband crop, top covering the hip.",
+   "blocked_on": "CJ sample + the 5 reference photos (SKU CJNSNYNK00343); character anchor approved"
+  },
+  {
+   "shot_id": "F14-WOMAN-side-waist-punchin",
+   "t_in": 15.9,
+   "t_out": 16.9,
+   "section": "REVEAL",
+   "shot_type": "CU",
+   "angle_or_room": "Same take as F13 with a 125% editor punch-in on the waistband at the waist, side-on.",
+   "what_we_see": "Tight side-on: the leggings waistband at her waist, the sports top falling over the hip.",
+   "motion_inside_shot": "She gives the top a small tug down over the hip and drops her hands: dressed, done.",
+   "on_screen_text": "'Pull them on.' stays up + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+   "vo_or_dialogue": "No line (the comma beat before '...and go about the day')",
+   "sfx": "16.20 cloth tug.",
+   "cut_reason": "Cut as her hands drop, then jump location to the car park.",
+   "source_lane": "editor",
+   "tool_rec": "125% punch-in on the tail of F13's clip. Generate F13 at 2k+ so the punch stays sharp. No extra generation.",
+   "blocked_on": "Same as F13"
+  },
+  {
+   "shot_id": "F15-WOMAN-carboot-wide",
+   "t_in": 16.9,
+   "t_out": 19.2,
+   "section": "REVEAL",
+   "shot_type": "wide",
+   "angle_or_room": "NEW LOCATION: supermarket car park, overcast (the hook's world, but outside now). 3/4 side, full figure. No signage, no car badge.",
+   "what_we_see": "The same woman in the same sports top + black leggings + sneakers at the open boot of a hatchback with no badge. A trolley holds two LIGHT cloth grocery bags (no logos), with bread and greens poking out.",
+   "motion_inside_shot": "17.00-18.60 on 'go about the day' she lifts one light bag from the trolley and sets it in the boot. Easy, no strain.",
+   "on_screen_text": "'Go about the day.' (caption mirrors the locked VO) + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+   "vo_or_dialogue": "Brand VO 17.00-18.20: 'and go about the day.'",
+   "sfx": "16.90 car-park ambience in (a distant trolley rattle); 18.30 bag set down.",
+   "cut_reason": "Cut as the bag lands, to the reverse angle from inside the boot.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "ANCHOR 1: Nano Banana Pro start frame from the character ref, then Kling 2.x 5s, use 2.3s. No product is visible here, so this is the cheapest shot to film REAL (owned-phone) if a woman is available.",
+   "blocked_on": "Character anchor approved (not blocked on samples)"
+  },
+  {
+   "shot_id": "F16-WOMAN-boot-pov-low",
+   "t_in": 19.2,
+   "t_out": 21.1,
+   "section": "REVEAL",
+   "shot_type": "POV",
+   "angle_or_room": "Object-cam echo of the hook: the camera sits on the boot floor tilted UP ~40 deg, so the frame runs from her chest to the sky. Her waist is never in frame.",
+   "what_we_see": "Her hands set a second light grocery bag down toward the lens. Her top and shoulders are soft behind, with overcast sky above the open boot lid.",
+   "motion_inside_shot": "19.30-20.20 the bag comes down toward the lens and lands (bread and greens jiggle). 20.40-21.00 her hands slide it aside and she straightens out of frame.",
+   "on_screen_text": "None + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+   "vo_or_dialogue": "No line (music)",
+   "sfx": "19.90 bag lands with a 'thump'.",
+   "cut_reason": "Cut as she straightens, into the close.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame + Kling 2.x 5s, use 1.9s. Owned-phone alt: phone on the boot floor. If the up-tilt framing can't be held, swap to a high side angle looking down into the boot (hands + bag only).",
+   "blocked_on": "Character anchor approved"
+  },
+  {
+   "shot_id": "F17-WOMAN-boot-close-mcu",
+   "t_in": 21.1,
+   "t_out": 23.0,
+   "section": "REVEAL",
+   "shot_type": "MCU",
+   "angle_or_room": "Car park, side-on medium at the boot.",
+   "what_we_see": "She reaches up for the boot lid, with her phone in her other hand.",
+   "motion_inside_shot": "21.30-22.00 she pulls the lid down and it shuts with a thunk at 22.00. 22.20-22.90 she turns away, relaxed.",
+   "on_screen_text": "None + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+   "vo_or_dialogue": "No line (music)",
+   "sfx": "22.00 car-boot thunk; the music hits a small button.",
+   "cut_reason": "Cut on the turn: she walks off.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame + Kling 2.x 5s, use 1.9s. Owned-phone alt: film a real woman.",
+   "blocked_on": "Character anchor approved"
+  },
+  {
+   "shot_id": "F18-WOMAN-walkoff-wide",
+   "t_in": 23.0,
+   "t_out": 25.2,
+   "section": "CTA",
+   "shot_type": "wide",
+   "angle_or_room": "Car park, wide side-on with a slow lateral track.",
+   "what_we_see": "Full figure: she walks off across the car park, unhurried, glancing at the phone in her hand. Her top covers the hip and her face is only a soft profile.",
+   "motion_inside_shot": "She walks left to right through frame; the camera trails her slowly; a small glance down at the phone.",
+   "on_screen_text": "'Not a pad. Not a diaper.' + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+   "vo_or_dialogue": "Brand VO 23.10-24.60: 'Not a pad. Not a diaper.'",
+   "sfx": "Footsteps, light car-park air; the music starts to resolve.",
+   "cut_reason": "Cut as she exits frame; the product signs off.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame + Kling 2.x 5s, use 2.2s. Owned-phone alt: film a real woman.",
+   "blocked_on": "Character anchor approved"
+  },
+  {
+   "shot_id": "S19-PROD-fold-cream",
+   "t_in": 25.2,
+   "t_out": 27.4,
+   "section": "CTA",
+   "shot_type": "insert",
+   "angle_or_room": "A Warm Cream seamless surface under soft top light.",
+   "what_we_see": "The plain black underwear, neatly folded, slides in to centre. The lowercase 'leapproof' wordmark ('leap' Plum Ink + 'proof' italic Claret) fades in above it.",
+   "motion_inside_shot": "25.25-25.70 a hand slides the folded pair to centre and withdraws. 26.00-26.60 the wordmark fades in. A slow 100-106% push.",
+   "on_screen_text": "'Find your match.' (Warm Cream box) + wordmark",
+   "vo_or_dialogue": "Brand VO 25.30-27.00: 'Take the quiz - it finds your size'",
+   "sfx": "25.25 soft slide; 25.30 UI tick.",
+   "cut_reason": "Cut on 'size' into the chips, so the frame keeps moving.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Real sample on a cream card, tripod top-light. Until the CJ sample + 5 photos exist: animatic placeholder only (Warm Cream card with the caption) - do NOT ship with supplier listing photos unless Nikita checks they match the sample exactly.",
+   "blocked_on": "CJ sample + the 5 reference photos (SKU CJNSNYNK00343)"
+  },
+  {
+   "shot_id": "S20-GFX-quiz-chips",
+   "t_in": 27.4,
+   "t_out": 30.0,
+   "section": "CTA",
+   "shot_type": "insert",
+   "angle_or_room": "A 115% editor punch-in on the S19 plate, with graphic chips.",
+   "what_we_see": "The folded pair, tighter, with two Blush chips popping in under the wordmark.",
+   "motion_inside_shot": "27.45 the chip 'Your size' pops; 28.10 the chip 'How many pairs' pops on 'pairs'; the slow push continues; at 29.60 the pair starts sliding right as the handoff to the end card.",
+   "on_screen_text": "'Find your match.' + chips 'Your size' · 'How many pairs' (they mirror the VO; no numbers, no prices)",
+   "vo_or_dialogue": "Brand VO 27.10-28.20: 'and how many pairs.' Then the locked guarantee starts at 28.90: 'Wear them through your moment for 30 nights.'",
+   "sfx": "27.45 and 28.10 UI ticks; the music starts its button-out.",
+   "cut_reason": "Slide-out handoff into the end card as the guarantee lands.",
+   "source_lane": "editor",
+   "tool_rec": "CapCut: punch-in + chip pops (Hanken Grotesk SemiBold on Blush #E7CFC9). No generation.",
+   "blocked_on": "CJ sample (the S19 plate)"
+  },
+  {
+   "shot_id": "S21-CARD-end",
+   "t_in": 30.0,
+   "t_out": 35.0,
+   "section": "END",
+   "shot_type": "card",
+   "angle_or_room": "End card on Warm Cream #F5EDE6.",
+   "what_we_see": "The lowercase 'leapproof' wordmark at the top ('leap' Plum Ink + 'proof' italic Claret, Fraunces). Stacked lines: 'Not a pad, not a diaper.' (Fraunces) / '30 nights to see if they hold - money back if they don't.' (Hanken Grotesk, Plum Ink) / a Claret button 'Find my match >' with cream text. The folded black underwear sits small, to the right of the lines. No price, gifts, stars or urgency.",
+   "motion_inside_shot": "30.00-30.40 the folded pair slides in from the right and settles; the lines stagger in at 30.10 / 30.50 / 30.90; the button is on from 30.00 and pulses 100-104% every 1.0s; 34.60 the button gives a press micro-bounce.",
+   "on_screen_text": "'Not a pad, not a diaper.' / '30 nights to see if they hold - money back if they don't.' / [Find my match >]",
+   "vo_or_dialogue": "Brand VO (locked guarantee, verbatim, started at 28.90): '...for 30 nights. If they don't hold, you get your money back.' (ends ~34.50)",
+   "sfx": "Music button-out at 34.40; one soft chime at 34.60 on the button.",
+   "cut_reason": "End.",
+   "source_lane": "editor",
+   "tool_rec": "CapCut/Canva card in brand type; the folded-pair image is cut out from S19. Before samples: a type-only card is fine.",
+   "blocked_on": "CJ sample for the folded-pair image (the card itself is ready)"
+  }
+ ],
+ "pacing_check": {
+  "total_shots": 21,
+  "avg_shot_len_s": 1.67,
+  "longest_hold_s": 5.0,
+  "cuts_0_3s": 1,
+  "cuts_3_10s": 7,
+  "cuts_10s_end": 12,
+  "broll_or_insert_share": "86% (30.0 of 35.0s is b-roll/product/people; the 5s animated end card is the only card)",
+  "vo_fit_issues": [
+   "BEAT 2 (1.30-3.00, 1.7s): the locked 'Still packing a spare liner - for every sneeze?' becomes 9 words with the word-rule 'panty' = 3.75s at 2.4 w/s (3.0s even at the refs' ~3 w/s). PROPOSED TRIM: 'Still packing a spare panty liner?' (6 words). It now mirrors the on-screen line word for word, and 'sneeze' was already spoken at 0.22s. 6 words is still 2.5s at 2.4 w/s, so it needs a brisk ~1.65s read (9 syllables, a normal quick wry question; Everdries #14 reads its 6-word hook question at 3.2 w/s). If ElevenLabs runs long, let it L-cut up to 0.3s into S3 and start the bridge at 3.3s.",
+   "BEAT 3 (3.00-11.00, 8s): the locked roast is 33 words = 13.75s at 2.4 w/s (~11s at 3 w/s) and does NOT fit. PROPOSED MAIN-CUT TRIM (22 words, ~7.3s at 3 w/s, ends 10.0s): 'Here's that liner's day. It bunches. It shifts. It feels like a diaper. Another one in the trash. Tomorrow, a new one.' It drops 'the day that little liner actually has' (> 'that liner's day'), 'And by tonight,' (the night-lit bin shot carries it) and 'Same sticker, same routine.' (the zip-close shot carries it). Every CJ attribute stays. Backup if still long: 'Feels like a diaper.' (21 words).",
+   "BEAT 4 (11-23, 12s): fits easily (17 words = 7.1s at 2.4 w/s). There is no VO from 18.2s to 23.0s (4.8s), so three moving car-park shots + the music lift + the boot thunk carry it. Nothing sits still.",
+   "BEAT 5 (23-30, 7s): 17 words = 7.1s at 2.4 w/s, 5.7s at 3 w/s. It fits at the brisk read, ending 28.2s.",
+   "BEAT 6 (end card 30-35, 5s): the locked guarantee is verbatim and can't be trimmed. 17 words = 7.1s at 2.4 w/s / ~5.6s at 3 w/s, longer than the 5s card. FIX: start it at 28.9s under the S20 product beat so it ends ~34.5s on the card. Alternative: a 6s end card (main = 36s).",
+   "TOTAL with trims: 82 VO words over ~34.3s = 2.39 w/s average. That passes the 2.4 w/s check overall, with staccato phrases read at ~3 w/s locally (the refs' measured pace: Everdries #14 ~3.2 w/s on the hook, UltraDries #6 2.8-3.5 w/s). Without the trims the locked VO is ~96 words = 40s at 2.4 w/s."
+  ],
+  "notes": "How this beats the refs: the hook reads as ONE continuous move for 3.0s like both refs (Everdries 3.4s, UltraDries 3.0s) but packs 3 motion events (jolt 0.1s, dive 0.6s, yank 1.3s) + the emoji pop, with the only cut hidden inside a hand-wipe. 3-10s has 7 cuts (UltraDries #6: 8; Everdries #14: 2), each a locked macro with a micro-action on its VO word and a new place almost every cut (bed > bed ECU > bathroom > gym bag > night bin > FLASH > hallway > in-bag), plus the 0.4s underwear flash at 8.55s. The reveal (11-23s) runs 7 shots across 3 places (bedroom hands > body > car park), none over 2.3s. Avg shot is 1.67s (vs 2.6s / 5.5s for the refs); the longest live-action hold is 2.6s and only the animated end card holds 5s. LONG CUT (55s): the locked VO verbatim (incl. 'Here's the day that little liner actually has', 'And by tonight', 'Same sticker, same routine', '- for every sneeze?'), + one more liner shot (peeled and binned at the end of the day), + the care beat 'Wash. Hang. Wear again.' (hand rinses and hangs the black underwear, owned-phone), + a second everyday movement (she walks out the front door). Same hook and end card."
+ },
+ "broll_map": [
+  "0.00 S1 handbag-cam POV: liner in the bag on her lap, ACHOO jolt, hand grab (car, car park)",
+  "2.20 S2 liner held up in front of the dash, tab flicked open (car)",
+  "3.00 S3 top-down: liner peeled and stuck onto a GREY everyday pair (bedroom, morning)",
+  "4.40 S4 duvet-level ECU: fingers ruck the liner into a ridge (bedroom)",
+  "5.30 S5 crooked liner dragged sideways on the vanity towel (bathroom, midday)",
+  "6.05 S6 liner squeezed, crinkles and springs back puffy over a gym bag (gym bag, afternoon)",
+  "7.20 S7 wrapped liner dropped in the pedal bin, lid taps shut (bathroom, night)",
+  "8.55 S8 0.4s FLASH: black underwear stretched by the waistband, '...or this.' (cream wall)",
+  "8.95 S9 fresh liner dropped into the open tote (hallway table, next morning)",
+  "10.10 S10 inside-bag POV callback: liner lands, zip closes to black (hallway)",
+  "11.00 S11 black underwear snap-stretched toward the lens on 'Or...' (bedroom, blush wall)",
+  "12.90 S12 black underwear smoothed flat on the same duvet where the liner was stuck (bedroom)",
+  "14.40 F13 side-on waist-to-knee leggings pull-up over the black underwear (bedroom, by the wardrobe)",
+  "15.90 F14 punch-in: waistband settles, top tugged over the hip (same take)",
+  "16.90 F15 wide: she lifts a light grocery bag into the boot (car park)",
+  "19.20 F16 in-boot low POV: the bag lands toward the lens (car park)",
+  "21.10 F17 she shuts the boot (thunk) and turns away (car park)",
+  "23.00 F18 wide walk-off, phone in hand (car park)",
+  "25.20 S19 folded black underwear slides onto Warm Cream, wordmark fades in",
+  "27.40 S20 punch-in + 'Your size' / 'How many pairs' chips",
+  "30.00 S21 end card (animated)"
+ ],
+ "anchors_first": [
+  "ANCHOR 1: the F15 car-park character still (the AI woman at the open boot in sports top + black leggings, overcast, no badge or signage). It locks her body, wardrobe, soft-face identity and the car-park grade, which must match the phone-shot hook. Every F-shot reuses it. Not blocked on samples, so it can be approved now.",
+  "ANCHOR 2: the F13 pull-up START frame built from the 5 sample photos (side-on, waist-to-knee, leggings at the knee, black underwear at the hip, top covering the hip). It locks product fidelity on a body (rise, waistband width, leg line, sheen); every on-body frame inherits it. Blocked on the photos. (If Nikita films a real woman instead, there are no AI anchors; approve one S1 test take first.)"
+ ],
+ "assets_needed": [
+  {
+   "asset": "A woman 30-45 who consents to her hands (and ideally her body, side-on with no face) being filmed: short natural nails, thin gold band. Needed for S1-S10 (+ S11/S12/S19 hands; + F13-F18 if filmed real)",
+   "lane": "owned-phone",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "Tan/caramel leather zip-top tote, wide mouth, plain cream lining, no logo plaque",
+   "lane": "owned-phone",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "Long flat-pack panty liners in plain pale pink/lilac wrappers, clean and unbranded (or the print covered with matte pastel tape), ~10",
+   "lane": "owned-phone",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "Rig: shooting phone with 0.5x/macro, rolled towel, cardboard wedge, gaffer tape, white card or small LED cube, small tripod with a top-down arm",
+   "lane": "owned-phone",
+   "status": "ready"
+  },
+  {
+   "asset": "Props: plain house keys (no car-brand fob), prop phone in a plain case, light-grey marl everyday cotton pair (NOT black), unbranded gym bag + water bottle + towel, white pedal bin, light cloth grocery bags with no logos",
+   "lane": "owned-phone",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "Locations: parked car with a plain dash (badges taped), bed with a cream duvet, bathroom vanity with a white towel, bathroom at night with a warm lamp, hallway table, Blush/cream wall",
+   "lane": "owned-phone",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "CJ sample SKU CJNSNYNK00343 + the 5 reference photos (flat front, flat back, side, stretched, under leggings), for S8, S11, S12, F13-F14, S19-S21",
+   "lane": "owned-phone / AI start frame + motion",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "AI woman character ref (Higgsfield Soul ID / Kling element), 30-45, everyday body cast to the measured size run; sports top + black leggings + sneakers",
+   "lane": "AI start frame + motion",
+   "status": "needs Nikita (approve ANCHOR 1)"
+  },
+  {
+   "asset": "ElevenLabs brand narrator: a warm, wry woman in her 30s, accent per the market decision; VO recorded FIRST with the main-cut trims (+ a full locked read for the 55s cut)",
+   "lane": "editor",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "SFX: muffled sneeze, leather thump + keys, rustle, wrapper crinkle, sticker peel, fabric scrunch, bin-lid tap, shimmer tick, zip, elastic snap, leggings swish, bag thump, car-boot thunk, UI ticks, chime",
+   "lane": "editor",
+   "status": "ready"
+  },
+  {
+   "asset": "Music: a wry, light plucked bed with a lift at 11s (Meta Sound Collection or Epidemic/Artlist)",
+   "lane": "editor",
+   "status": "ready"
+  },
+  {
+   "asset": "Fonts (Hanken Grotesk ExtraBold, Fraunces) + the 'leapproof' wordmark + end-card template",
+   "lane": "editor",
+   "status": "ready"
+  }
+ ],
+ "generation_estimate": "Recommended hybrid (phone-shot hook, roast and product; AI only for the woman, F13-F18): stills 7 (character anchor 1, pull-up start + end 2, boot wide 1, in-boot POV 1, boot close 1, walk-off 1), ~10 with rerolls; video gens 5 (F13 Kling start/end, F15, F16, F17, F18; F14 is an editor punch-in), ~11 with rerolls; lip-sync passes 0; 1 ElevenLabs VO pass (+2 retakes). FLOOR: stills 7, video gens 5, lip-sync passes 0. If everything goes AI (no woman to film): stills ~22, video gens ~30, lip-sync passes 0. If a real woman is filmed for F13-F18 too: 0 generations.",
+ "word_swaps_applied": [
+  "liner > panty liner (hook text line 2 on screen at 1.30s: 'Still packing a spare panty liner?')",
+  "liner > panty liner (VO line 2, the first spoken mention, 1.30s)",
+  "liner kept plain on the 2nd+ mention: the fast caption 'That liner's day:' (3.00s) and VO 'Here's that liner's day.' (3.15s). The rule allows this in space-tight fast captions; the VO use is flagged for Nikita",
+  "Plain black briefs. > Plain black underwear. (on-screen, 12.90s; the script had it at 15s)",
+  "Plain black briefs. > Plain black underwear. (VO, 13.20s)",
+  "plain black CJ brief > plain black underwear (shot labels and descriptions: S8, S11, S12, F13, F14, S19, S20, S21)",
+  "folded plain black brief > folded plain black underwear (end card S21 + product beat S19)",
+  "over the black briefs > over the black underwear (the F13 leggings pull-up description)",
+  "Caption (outside the board, for consistency): 'plain black briefs you just pull on' > 'plain black underwear you just pull on'; 'Product images based on the real brief.' > 'Product images based on the real underwear.'",
+  "Kept: 'Pull them on' (it refers to the pairs and matches the locked guarantee's 'Wear them'); 'Not a pad. Not a diaper.' unchanged ('pad' is the umbrella word the ICP knows)"
+ ],
+ "compliance_flags": [
+  "VISUAL CHANGE TO THE SCRIPT: the script puts the roast liner on 'a folded pair of everyday black underwear'. I moved it to a LIGHT-GREY marl cotton pair so nobody reads the liner as going inside the black Leapproof underwear revealed at 8.55s/11s. Grey and black never share a frame. Nikita to OK.",
+  "PLAN CONTRADICTION: FIRST_CAMPAIGN_CREATIVE_PLAN line 688 says 'No AI people', while line 622 and this script use an AI woman (pull-up + car park). This board follows the script, with a small on-screen 'AI-generated' tag on F13-F18 + the caption line + C2PA kept on export. Filming a real woman removes the conflict.",
+  "HOOK LABEL: nobody sneezes on camera (an off-screen SFX + a bag jolt), and her face is never sharp, so no 'Dramatization' label is needed. If a kept take shows her face sneezing, add 'Dramatization' upper-left 0.0-2.2s or reject the take.",
+  "CAR-BOOT LIFT: the script's 'lifts a grocery bag' happens after the product appears. Keep the bag visibly LIGHT and the move easy (an everyday reach/place, not a strength or leak-test demo). No laugh, sneeze or jump after 8.55s; no on-body performance claim from any AI frame.",
+  "LINER HYGIENE: always clean, white and unbranded; wrapped, or half-peeled in hand only. The bin shot drops a liner rolled in its wrapper, never loose. No stains, no yellowing, no backlight through the core.",
+  "NO BRAND MARKS anywhere: liner wrappers, key fob, prop-phone logo, tote plaque, steering-wheel and car badges, supermarket signage, trolley, grocery bags, gym bag, water bottle.",
+  "BODY FRAMING: F13 shows the black underwear side-on at the hip for under 1s before the leggings cover it, with the top covering the hip and no mirrors. F16's in-boot POV must tilt up so the frame runs chest-to-sky; her waist is never in frame.",
+  "GATES: S8, S11, S12, F13-F14 and the S19-S21 product image are BLOCKED until the CJ sample + 5 photos exist. The guarantee line 'see if they hold' and any implied sneeze replacement also wait on the campaign-wide founder wear test (sneeze + big laugh). Landing blockers (fake reviews, terms, pixel) are per the script.",
+  "SIGN-OFF NEEDED ON TEXT: VO trims to locked lines (main cut only), caption mirrors added for sound-off with no new words ('That liner's day:', 'Tomorrow, a new one.', 'Pull them on.', 'Go about the day.', chips 'Your size' / 'How many pairs'), and the hook's 🙄 + stacking + Claret pill.",
+  "MARKET WORD: VO and caption say 'trash' (US, per NUMBER_SHEET). Nikita's word rule describes the ICP as Australian, and this board's 'handbag' and 'car boot' are AU words. If AU: 'bin' + an AU narrator."
+ ],
+ "open_for_nikita": [
+  "VO TRIMS for the 35s main (the locked VO is ~96 words = 40s at 2.4 words/sec, so it can't fit 35s): line 2 > 'Still packing a spare panty liner?'; the roast > 'Here's that liner's day. It bunches. It shifts. It feels like a diaper. Another one in the trash. Tomorrow, a new one.'; the locked guarantee starts at 28.9s under the product beat. The 55s cut keeps every locked line verbatim. OK?",
+  "HANDS/BODY: film a real woman you know (preferred: one 2-3h phone shoot covers the hook, the whole roast and the car park now, then the product hands and pull-up when samples land, with zero AI drift), or keep the AI woman for F13-F18 as the script says (the plan's 'No AI people' line contradicts that)?",
+  "HOOK TEXT: ship the locked words stacked (Claret pill 'Sneeze. Little pee.' + cream 'Still packing a spare panty liner? 🙄') and A/B ALT 1 'It's 2026! / Still packing a panty liner for a sneeze? 🙄' (the proven 275d structure, but needs a January swap) as the challenger?",
+  "MARKET WORDS: AU (your word rule says the ICP is in Australia; 'handbag' and 'car boot' are AU) means 'bin' + an AU narrator. US (NUMBER_SHEET) means keep 'trash' + a US narrator. Which?"
+ ]
+}

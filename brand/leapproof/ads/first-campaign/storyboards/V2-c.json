@@ -1,0 +1,572 @@
+{
+ "ad_id": "V2-c",
+ "title": "The Sneeze-Pee Face-Off",
+ "format_analysis": {
+  "format": "AI 3D talking-character duet, Miro #117: a Pixar-style panty liner and the plain black underwear square up like boxers on a bed under a strap, then trade form-only lines. Every line hops to a new angle or a new place (handbag, drawer, bin, washing line), with real-look product inserts and two boxing-poster freezes. It's the same two characters as V2-a and V2-b. It runs as an off-proof test cell (the script's own flag).",
+  "how_it_should_look": "Pixar-quality 3D characters composited into photoreal sets (the 1691171645641479 / 1700150534480418 look), never a cartoon world. Warm practical light: a 2700K lamp plus soft window fill, bright and readable at thumbnail size, nothing dark. Shallow depth of field (35-50mm look). Smooth dolly pushes and low/high/OTS angles, plus edit punch-ins (115-125%) on emphasis words; gens upscaled to 4K so the punch-ins stay sharp. The palette is built into the sets: Warm Cream duvet, Claret throw, Blush pillows, tan tote, cream tiles. Never pastel-clinical, never a hotel or hospital bed. The liner is clean white with no stains; the underwear is matte black and true to the sample photos. Captions: the hook is a Claret pill with cream Hanken Grotesk ExtraBold; body captions and form labels are Plum Ink on Warm Cream boxes at ~42-58% height. Posters use Hanken ExtraBold caps on Plum Ink bands. Fraunces appears only on the end-card brand line. Sound bed: a dry, upbeat comedy bed (pizzicato + brushed snare) under a boxing-bell motif (ding at 0.3s, ding-ding on both posters), with a foley gag on every cut in the first 10s (achoo, bell, crowd ooh, zip, sticky thwack, drawer thunk, elastic fwip).",
+  "runtime_main": "33.0s with every locked line kept. The script's ~28s doesn't fit its 80 spoken words. The proposed trims T1+T2 bring it to ~30.1s, and T1-T3 to ~29.0s (see pacing_check.vo_fit_issues).",
+  "aspect": "9:16 (4:5-safe); all text between ~14% and ~62% height inside the centre 4:5 crop",
+  "build_profile": "0-11.7s: on-camera characters, one speaker per clip, the non-speaker silent with mouth closed. Bed set (wide, low-angle hero, punch-in), the poster freeze, and two location hops (handbag = liner, drawer = underwear). 11.7-15.6s: faceless real-look inserts (hands stretch the waistband; an AI woman pulls leggings on, side-on), with the underwear's voice off-screen, so no lip-sync. 15.6-24.8s: the liner's confession on 3 bed angles (high, ECU, OTS), then the bin hop. 24.8-27.0s: a real washer flash, then the underwear on the washing line. 27.0-29.1s: the truce two-shot, then the poster reprise. 29.1-33.0s: the brand end card with both characters small in the corners. Voices: two ElevenLabs Voice Design voices shared across V2-a/b/c. LP_LINER is higher, fussy and fast; LP_UNDIES is warm, dry and unhurried. Both are women ~30-35, accent per launch market (Nikita to OK). Record the whole two-voice dialogue first as one timed track, cut the animatic to it, and slice per clip. Per-clip voice path: Veo 3.1 native line, then ElevenLabs Voice Changer, for two-face or action-heavy clips (S1, S5-S6, S11, S12, S14-S15, S17, S18, end-card corners). ElevenLabs line first, then audio-driven lip-sync on a closed-mouth base, for the 3 held single-face close-ups (S3-S4, S7-S8, S13). ElevenLabs only for off-screen lines (S2, S9, S10, S16, S19). Never single-track lip-sync two faces.",
+  "reference_ads": [
+   {
+    "id": "1691171645641479",
+    "url": "https://www.facebook.com/ads/library/?id=1691171645641479",
+    "what_we_take": "The frame-1 grammar exactly: a strap across the top over two characters side by side on a warm-lamp bed, pad left and black underwear right, with the underwear's face on its upper front panel and boxed captions mid-frame. NOT its pacing: it sits on one bed angle for ~14s, averages 4.8s per shot and has 2 cuts in 3-10s. NOT its copy: it uses an absolute leak claim, a 100 ml figure and a pour demo at ~20s, all banned for us. Only its frame-1 layout is borrowed (it's 180 days live but not in its page's top 30/40)."
+   },
+   {
+    "id": "1400650075258672",
+    "url": "https://www.facebook.com/ads/library/?id=1400650075258672",
+    "what_we_take": "Every line moves the talking character to a new room or angle (living room, vanity, bedroom, kitchen, bedside) and changes its size cut to cut. That's our hop on every line (handbag, drawer, bin, washing line), plus the 'honest confession' register for the liner's self-roast. Its word-by-word captions become our 2-4 word boxes."
+   },
+   {
+    "id": "1700150534480418",
+    "url": "https://www.facebook.com/ads/library/?id=1700150534480418",
+    "what_we_take": "Each object lives in its own real place (marble counter, tub edge, washing machine). That gives us the handbag/drawer/bin/washing-line sets, a caption pill per phrase, and the liner owning its own form flaws ('I bunch up, shift out of place'). NOT its ~7s single-speaker holds (ours cap at 3.0s) and NOT its claims."
+   },
+   {
+    "id": "945622924750214",
+    "url": "https://www.facebook.com/ads/library/?id=945622924750214",
+    "what_we_take": "Text-hook anchor (Everdries video #27, 169 days, top 3.6% of ~740): the 'X VS Y / WHAT'S THE DIFFERENCE?' strap. Our VS roundel, our 1.6s 'What's the difference?' bridge and alternate 1 are built on it."
+   }
+  ]
+ },
+ "text_hook": {
+  "recommended": {
+   "text": "Big sneeze. Little pee.  [+ VS roundel at 0.3s]  ->  1.6s: What's the difference?",
+   "on_screen_timing": "0.0s-3.0s pill 'Big sneeze. Little pee.' (on at frame 0). 0.3s-3.0s VS roundel. 1.6s-3.0s box 'What's the difference?' (re-captioned when spoken at 5.0s). 3.0s-3.8s the locked title 'THE SNEEZE-PEE FACE-OFF' on the boxing-poster freeze, reprised at 28.0s as 'HER CALL.'",
+   "style": "Hook pill: Claret #A33154 with cream #F5EDE6 Hanken Grotesk ExtraBold, 2 lines, ~7% of frame height per line, centred at ~20-28% height where the 1691171645641479 strap sits, above both characters' heads. VS roundel: Plum Ink disc with a Claret ring and cream 'VS', ~12% of frame width, between the fighters at ~38-44%. Bridge: Warm Cream box with Plum Ink text at ~52-58%. Poster title: cream Hanken ExtraBold caps on a Plum Ink band at ~16-22%. Everything inside the centre 4:5 crop.",
+   "why": "5 words read in the first 1.5s (cap 7). The text carries the moment and the visual carries the matchup: two fighters, a bell and a VS badge read 'versus' without words, so the text spends its budget on the sneeze + pee. That's the ICP filter for 30-45, and it means a muted stranger can't read a panty liner on frame 1 as period content. It's built on the trigger-moment proof for 30-45 (AD_RESEARCH A7: Origin 'Leak when you sneeze?' 372 days, 'Sneezing shouldn't require crossing your legs' 112 days, Everdries 'sneeze' ~100 live), and the bridge is the proven open loop of Everdries #27 / Carol #10. Why the locked stack doesn't win as written: (1) it reads 8 words in the first 1.5s; (2) the title and the strap are both specced at ~18-19% height, so they collide; (3) the title is in Fraunces, which the brief keeps for the end-card brand line; (4) 'sneeze' and 'pee' get said twice; (5) 'FACE-OFF' has no proven anchor. On the 3.0s poster the title gets read alone and becomes a free re-hook at the first cut."
+  },
+  "alternates": [
+   {
+    "text": "Panty liner vs underwear: what's the difference?",
+    "why": "7 words. The X-VS-Y strap of the duet ref names both fighters and puts the locked open loop in the same read. Risk: it doesn't name the moment, so a liner on frame 1 can read as period content. Better as the B-test or for retargeting, where she already knows the moment.",
+    "proven_anchor": "Everdries #27 'DIAPERS VS EVERDRIES Boyshort / WHAT'S THE DIFFERENCE?' (945622924750214, 169 days, top 3.6% of ~740); Carol Henderson #10 'OLD VS NEW EVERDRIES' + spoken 'Old versus new Everdries, what's the difference?' (895402959657367, 275 days); UltraDries 1691171645641479 strap 'Disposable Pad Vs ULTRADRIES Underwear' (180 days)."
+   },
+   {
+    "text": "Sneeze-pee: panty liner vs underwear  ->  1.5s: What's the difference?",
+    "why": "5 words, then 3. It merges the moment and the matchup into one strap read, labels both cartoons for a muted viewer, and keeps the strap layout of the duet ref. It loses the rhythm of 'Big sneeze. Little pee.' Best single-strap option if Nikita wants the fighters named on frame 1.",
+    "proven_anchor": "1691171645641479 'X Vs Y' strap (180 days) + Everdries #27 'WHAT'S THE DIFFERENCE?' (169 days, top 3.6%) + the sneeze moment (Origin 'Leak when you sneeze?', 372 days)."
+   },
+   {
+    "text": "Sneezing shouldn't require crossing your legs.",
+    "why": "6 words over the same VS stand-off. It's the strongest 30-45 proof in the research and passes Meta's personal-attributes rule as written (AD_RESEARCH §3). Flag: next to the underwear it implies the underwear changes the sneeze outcome (an implied performance promise), so run it only after the founder wear test logs the sneeze.",
+    "proven_anchor": "Pelvic-clinic hook 'Sneezing shouldn't require crossing your legs.' (112 days, AD_RESEARCH §3, proven on 30-45 women)."
+   }
+  ],
+  "note": "DIFFERS FROM THE LOCKED SCRIPT; Nikita chiefs it. (1) 'THE SNEEZE-PEE FACE-OFF' moves off frame 1 to the 3.0s boxing-poster freeze, in Hanken not Fraunces. (2) A VS roundel graphic is added at 0.3s. (3) 'What's the difference?' keeps its 1.6s slot and is re-captioned when spoken at 5.0s. To run the locked stack instead and still hit 7 words: drop 'THE' -> 'SNEEZE-PEE FACE-OFF' (3 words, band at 14-18%) + 'Big sneeze. Little pee.' (4 words, pill at 22-28%), both in Hanken."
+ },
+ "visual_hook_build": {
+  "miro": "#117 3D Talking Character (two-character standoff under a strap, the grammar of UltraDries 1691171645641479)",
+  "frame_1": "9:16, bright and warm. Camera at duvet height on a Warm Cream duvet (Claret throw on the foot edge, Blush pillows, a soft-focus headboard, a lamp glowing top-right). LEFT: the clean white panty-liner character, mid-shove, leaning ~15 deg into the underwear with a motion smear on its edge. RIGHT: the plain black underwear character (from the 5 sample photos), upright on its leg openings, tilted ~8 deg away mid-rock, face on the upper front panel just under the waistband, one brow starting to lift. Both are ~35% of frame height and centred inside the 4:5 safe area. The Claret pill 'Big sneeze. Little pee.' is already on at ~20-28% above their heads, with the tiny AI label at ~60%. No person, no brands, no text inside the generated image.",
+  "build_steps": [
+   "1. UNBLOCK THE PRODUCT: Nikita shoots the 5 CJ sample photos (flat front, flat back, side, stretched, under black leggings; daylight, neutral backdrop) and uploads them to Higgsfield as reference media. Every underwear frame, the character included, copies rise, waistband width, leg line and matte sheen from them. Never prompt the garment from text or from NUMBER_SHEET §13 (that's the old lace product).",
+   "2. SHARED CHARACTER ANCHORS (one set for V2-a/V2-b/V2-c, matching the spec in the V2-b board; generate once, approve once, register as Higgsfield/Kling reference elements LP_LINER and LP_UNDIES). LP_LINER: a slim, softly rounded, wingless-silhouette panty liner (~2-3mm thin) with a quilted micro-dimple top sheet, pure clean white, and a pale-mint unbranded peel strip on the back (V2-c's 'sticks on' gag peels it). Big glossy round eyes in the top third, small brows, a mouth at mid-body, and two small soft tab-hands from the sides (cartoon arms, not pad wings). It hops and bends at the middle. True scale is ~55-60% of the underwear's height. NEVER stains, yellowing, show-through, brand marks or a villain face. LP_UNDIES: the real plain black underwear standing upright on its leg openings. Two calm oval eyes with soft white sclera and a Rose Taupe lid line, sitting one finger-width below the waistband seam. A small dry mouth that ends ABOVE the line where the leg openings curve in. The gusset zone stays blank and is never the face. Brows are fabric creases (the one-brow lift is its signature). No arms: it moves by waistband shrugs, folding nods, leans and hops. Each sheet: turnaround (front, 3/4, side, back) plus expressions (liner: eager, fussy, deflated, sheepish, wry; underwear: deadpan, brow-lift, dry half-smile, contented).",
+   "3. BEDROOM PLATE (scene-lock, V2-c only): Nano Banana Pro, 9:16, 2k, empty set. Camera at duvet height, 35mm look, f/2.8. Warm Cream duvet with soft folds filling the lower half, a folded Claret throw on the foot edge, Blush and cream pillows, a soft-focus wooden headboard, a lamp glowing top-right (2700K), soft window fill from the left. An adult's bedroom: no brands, no titled books, no toys, nothing clinical. Every bed angle (wide, low hero, high, ECU, OTS, truce) is generated from this plate so the set never changes.",
+   "4. HOOK START FRAME (F1-DUO-wide = frame 0 of the motion): on the approved plate with both elements, compose the pose from frame_1 with mouths CLOSED and headroom above for the pill. Check it at phone size with the pill, VS roundel and AI label mocked on top.",
+   "5. ANIMATE FROM MID-MOTION: Veo 3.1 start-frame, 8s gen, keep 0.0-3.0s. Motion beats: the shove lands and the underwear springs back upright (0.0-0.4s); on the bell both bounce into a boxer's stance, the liner on its toes with tab-hands up like gloves and the underwear planted with one brow up (0.3-1.0s); slow dolly push-in 100->112% while the liner leans toward the lens on 'sneeze' (1.0-3.0s); the underwear's eyes slide to the liner at ~2.7s. Only the liner speaks. Start the edit 4-8 frames into the gen so the published frame 0 is already moving. If Veo eases in from rest, use Kling 2.x/3.0 start+end frame (end = both in stance) to force the trajectory.",
+   "6. BELL + SFX (editor): 0.1s muffled off-screen 'achoo' (audio only, no person, and the underwear must NOT react to it). 0.3s single boxing-bell DING locked to the stance bounce. The comedy bed enters on the bell. A whoosh under the push-in. Duck or strip Veo's own ambience.",
+   "7. TITLE STRAP + TEXT (editor only, never inside a prompt): the 0.0s Claret pill 'Big sneeze. Little pee.' sits in the strap slot of 1691171645641479; the VS roundel slams in at 0.3s on the bell; the 1.6s box reads 'What's the difference?'; the AI label is persistent. The locked title 'THE SNEEZE-PEE FACE-OFF' is built as the 3.0s boxing-poster freeze: a Claret | Warm Cream split with a Plum Ink divider, the two poster-pose stills cut out (remove_background), the VS roundel, name plates 'PANTY LINER' | 'UNDERWEAR', and a 4-frame slam with a white flash. It's reprised at 28.0s with the band flipped to 'HER CALL.'",
+   "8. VOICE PATH: design LP_LINER and LP_UNDIES in ElevenLabs (shared V2-a/b/c), then record the whole dialogue as one timed two-voice track before any video gen and cut the animatic to it. For the hook (two faces + heavy body motion): Veo native line on the liner only, then ElevenLabs Voice Changer onto LP_LINER, which keeps Veo's lip timing. Audio-driven lip-sync is risky with two faces because the tool may animate the wrong one. Held single-face close-ups (S3-S4, S7-S8, S13): closed-mouth base clip + audio-driven lip-sync. Off-screen lines: ElevenLabs only. Test the hook clip both ways (script Q2) before batching.",
+   "9. ANGLE LIBRARY + HOPS (change angle or place on every line, like 1400650075258672): F1-DUO-wide (hook + truce), F6-UNDIES-lowangle (hero, lamp halo), F7-LINER-highangle (deflated), F4-LINER-ecu (gags), F8-DUO-ots (across the duvet over the underwear's waistband), plus the boxing-poster split freeze (editor, twice). Location hops land on the words that name a place: 'in her bag' -> inside a tan tote (S5-S6), 'in the drawer' -> an open underwear drawer (S7-S8), 'the trash' -> a bathroom pedal bin (S14-S15), 'the wash' -> a washer flash + the washing line (S16-S17). Edit punch-ins of 115-120% land on 'difference', the 'sticks on' slap and 'drawer'. No angle ever repeats on consecutive lines, and no angle holds longer than 3.0s."
+  ],
+  "lane_and_tool": "AI start frame + motion: Nano Banana Pro on Higgsfield (9:16, 2k, LP_LINER + LP_UNDIES reference elements on the bedroom plate) for the start frame, then Veo 3.1 start-frame (8s, native audio) for the hook, with Kling 2.x/3.0 start+end frame as the motion fallback. ElevenLabs for the two designed voices + Voice Changer. CapCut for the pill, VS roundel, poster freeze, push-in, punch-ins and SFX. Every tool is a recommendation; the generator isn't confirmed by Nikita.",
+  "fallback": "(a) If Veo animates both mouths, breaks the scale between the characters, or won't hold the underwear's face position in the two-shot: generate each character separately on the same bedroom plate (Kling 3.0 + its element, left and right halves), composite them in the editor, and fake the shove with a 6-frame bump + 2-frame shake + whoosh; lip-sync the liner only. (b) If the 5 CJ photos aren't in yet: build and approve LP_LINER, the bedroom plate and the liner-only shots (S5-S6, S11, S12, S14-S15) now. Use the CJ listing images only for a non-publishable pipeline test of the underwear. Nothing showing the underwear ships until it's rebuilt from the real photos. (c) If a face on fabric won't lip-sync (face not detected), switch that clip to Veo native + Voice Changer.",
+  "failure_modes_to_reject": [
+   "Underwear face at or near the gusset/crotch, or below the leg-opening curve line; any anatomy or 'worn by a body' read on the cartoon underwear.",
+   "Garment drift from the sample photos: lace, a logo, extra seams or a gusset line, the wrong rise or waistband width, a shiny/latex sheen, or a grey/brown/navy tint.",
+   "Any stain, yellowing, coloured fluid or 'used' look on the liner; wings that make it read as a thick maxi pad; brand print; the liner oversized (above ~65% of the underwear's height) or toy-tiny.",
+   "Both mouths moving in a one-speaker clip; lip flap on the silent character; Veo inventing a narrator, a third voice or its own music.",
+   "A static or eased-in frame 0 (characters standing still), or a dark/underexposed first frame.",
+   "The shove reading as violent (a punch or hit) rather than a playful shoulder bump; real boxing gloves; a referee, belt, KO, scorecard or raised hand (anything that declares a winner).",
+   "A human, a hand or a child entering any character shot; toddler-toy styling instead of adult Pixar comedy; human teeth or uncanny lips on the underwear; arms on the underwear.",
+   "A bedroom that reads as a hotel/hospital, a pastel-clinical palette, real brand marks (bedding, tote, keys, washer badge, bin), or titled books.",
+   "Character drift between clips: eye size or colour, liner proportions, the underwear's rise or face position.",
+   "Text generated inside any frame (all text is added in the editor)."
+  ]
+ },
+ "shots": [
+  {
+   "shot_id": "F1-DUO-wide",
+   "t_in": 0.0,
+   "t_out": 3.0,
+   "section": "HOOK",
+   "shot_type": "wide two-shot (held hook shot)",
+   "angle_or_room": "Bedroom duvet, camera at duvet height (eye level with the characters), 35mm look, f/2.8. Lamp bokeh top-right. This is the 1691171645641479 frame: two characters side by side on a warm bed, strap above their heads.",
+   "what_we_see": "Frame 0 is MID-SHOVE. LEFT: the clean white panty-liner character (LP_LINER), about 55-60% of the underwear's height, leans ~15 deg into the underwear's side seam with a little motion smear on its edge, tab-hands braced. RIGHT: the plain black underwear character (LP_UNDIES, built from the 5 sample photos: no lace, no logo) stands upright on its leg openings, tilted ~8 deg away mid-rock. Its face sits on the upper front panel just under the waistband (eyes one finger-width below the seam, mouth above the leg-opening curve). Warm Cream duvet with soft folds fills the lower half, a folded Claret throw on the foot edge, Blush and cream pillows, a soft-focus wooden headboard, a lamp glowing top-right (2700K) and soft window fill from the left. Bright and warm, nothing dark, no person, no brands.",
+   "motion_inside_shot": "Three motion events, no cut. (1) 0.0-0.4s: the shove lands; the underwear rocks back and springs upright. (2) 0.3-1.0s: on the bell both bounce into a boxer's stance; the liner hops on its toes with tab-hands up like gloves, the underwear plants and lifts one brow. (3) 1.0-3.0s: slow dolly push-in 100->112% while the liner leans toward the lens on 'sneeze'; at ~2.7s the underwear's eyes slide to the liner. The edit starts 4-8 frames into the gen so the published frame 0 is already moving.",
+   "on_screen_text": "HOOK: Claret pill, cream Hanken Grotesk ExtraBold, centred at ~20-28% height (the strap slot of 1691171645641479), on at frame 0 with no animate-in: 'Big sneeze. Little pee.' 0.3s: a Plum Ink 'VS' roundel with a Claret ring and cream type slams in between the fighters (~38-44%) on the bell. 1.6s: Warm Cream box, Plum Ink text, ~52-58%: 'What's the difference?' Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height, left): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "LINER (higher, fussy, fast) 0.4-2.7s: “I'm what she grabs for the sneeze.” UNDERWEAR silent, mouth closed (reacts only).",
+   "sfx": "0.1s muffled off-screen 'achoo' (audio only, no person). 0.3s single boxing-bell DING synced to the stance bounce. A dry comedy bed (pizzicato + brushed snare) enters on the bell. Soft whoosh under the push-in. Strip Veo's own ambience.",
+   "cut_reason": "One held hook shot (no top reference cuts inside 0-3s) with 3 motion events and 3 text events, so the frame changes roughly every 0.7s. Cut at 3.0s on the speaker change: the underwear answers.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame (Higgsfield, 9:16, 2k) on the approved bedroom plate with both reference elements, mouths closed. Then Veo 3.1 start-frame, 8s gen, keep 0.0-3.0s. Voice: Veo native line for the LINER only (underwear 'silent, mouth closed'), then ElevenLabs Voice Changer onto the saved LP_LINER voice so Veo's lip timing holds. Audio-driven lip-sync is avoided here because two faces are in frame. Fallback: Kling 3.0 with both elements (no speech) plus a lip-sync pass on the liner only.",
+   "blocked_on": "Underwear half: BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them. The liner, bedroom plate and audio can be built now."
+  },
+  {
+   "shot_id": "S2-GFX-poster-faceoff",
+   "t_in": 3.0,
+   "t_out": 3.8,
+   "section": "SETUP",
+   "shot_type": "card (boxing-poster split freeze)",
+   "angle_or_room": "Graphic split: left half Claret, right half Warm Cream, a Plum Ink diagonal divider, light halftone/poster-paper grain.",
+   "what_we_see": "A fight-poster freeze. The liner in a guard pose (white on Claret, left) faces the underwear in its planted stance (black on Warm Cream, right), both cut out from the two poster-pose stills at equal size. A Plum Ink title band runs across the top, a VS roundel sits centre, and name plates sit under each fighter. No belt, no odds, no winner.",
+   "motion_inside_shot": "The halves slam in from left and right over 4 frames, a white flash pops on the VS at 3.1s, a 2-frame camera shake lands on the slam, then a slow 100->105% drift.",
+   "on_screen_text": "Title band (cream Hanken Grotesk ExtraBold caps on Plum Ink, ~16-22%): 'THE SNEEZE-PEE FACE-OFF'. Name plates (Plum Ink on Warm Cream, ~50-56%): 'PANTY LINER' | 'UNDERWEAR'. VS roundel centre. This is the first on-screen mention of the liner, so it reads 'panty liner'.",
+   "vo_or_dialogue": "UNDERWEAR (warm, dry, unhurried) pre-laps over the poster 3.1-3.8s: “Same moment.”",
+   "sfx": "Double bell ding-ding, a small crowd 'ooooh', whoosh on the slam.",
+   "cut_reason": "A re-hook at the 3s decision point and the home of the locked title (moved off frame 1, see text_hook). Cut at 3.8s to the speaker's hero angle as the identity line starts.",
+   "source_lane": "editor",
+   "tool_rec": "CapCut/Premiere brand poster template. The fighters are the two poster-pose stills with the background removed (Higgsfield remove_background). No video gen.",
+   "blocked_on": "Underwear pose still: BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them."
+  },
+  {
+   "shot_id": "F6-UNDIES-lowangle",
+   "t_in": 3.8,
+   "t_out": 5.0,
+   "section": "SETUP",
+   "shot_type": "MCU, low-angle hero",
+   "angle_or_room": "Bedroom duvet, camera low on the duvet looking up at the underwear; the lamp halo rims its waistband.",
+   "what_we_see": "The plain black underwear fills ~60% of the frame from below like a hero shot. Calm half-lidded eyes with Rose Taupe lid lines, a small dry smile, matte fabric texture, and the waistband width and leg line copied from the sample photos. The liner is out of frame.",
+   "motion_inside_shot": "2% creep-in. Brows lift on 'just', a small waistband 'shrug' on 'underwear'.",
+   "on_screen_text": "Body caption, Plum Ink on a Warm Cream box, ~52-58%: 'I'm just underwear.' Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height, left): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "UNDERWEAR 3.85-4.95s: “I'm just underwear.”",
+   "sfx": "Low bass 'dun' hit on the cut.",
+   "cut_reason": "The identity line gets the hero angle. Cut at 5.0s to an edit punch-in for the question.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame (closed mouth) on the bedroom plate. Kling 2.x 5s base clip (breathing, brow, no speech) covering S3+S4, upscaled to 4K. ElevenLabs LP_UNDIES line, then audio-driven lip-sync (Kling Lip Sync / Higgsfield lip-sync). This is a held single-face close-up, so tight sync matters. If the face on fabric isn't detected, switch to Veo 3.1 native + Voice Changer.",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them."
+  },
+  {
+   "shot_id": "F6-UNDIES-lowangle-punch",
+   "t_in": 5.0,
+   "t_out": 6.2,
+   "section": "SETUP",
+   "shot_type": "CU (edit punch-in 120%)",
+   "angle_or_room": "Same low angle, punched in to the eyes and mouth under the waistband.",
+   "what_we_see": "Tight on the underwear's face. Eyes and mouth just under the waistband seam, nothing lower in frame. One eyebrow arches on 'difference'.",
+   "motion_inside_shot": "Editor punch 100->120% on 'What's' (3-frame ease), brow arch, tiny head-tilt lean toward the lens.",
+   "on_screen_text": "Warm Cream box, ~52-58%: 'What's the difference?' (re-captioned now that it's spoken; the hook showed it at 1.6s for muted viewers).",
+   "vo_or_dialogue": "UNDERWEAR 5.05-6.15s: “What's the difference?”",
+   "sfx": "Two-note 'dun-dun' sting.",
+   "cut_reason": "An emphasis punch-in counts as an angle change and costs nothing. Cut at 6.2s on the speaker change to the liner's comeback, which names a place, so we hop there.",
+   "source_lane": "editor",
+   "tool_rec": "Same 4K-upscaled clip as S3, punched in the editor.",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them."
+  },
+  {
+   "shot_id": "S5-BR-handbag-pov",
+   "t_in": 6.2,
+   "t_out": 7.9,
+   "section": "SETUP",
+   "shot_type": "POV insert (location hop)",
+   "angle_or_room": "Inside an open tan leather tote on a cafe chair, POV looking down from shoulder height, warm cafe bokeh around the bag opening. Tan, not black, so nothing merges with the black underwear in later shots.",
+   "what_we_see": "Top-down into the tote: unbranded keys, a plain lip balm, a hair tie, sunglasses, a folded receipt. The liner pops up between the keys and the lip balm like a jack-in-the-box, dusts off its tab-hands and puffs its chest at the lens.",
+   "motion_inside_shot": "Squash-and-stretch pop-up at 6.3s, the bag contents jiggle, the camera starts a slow push down into the bag.",
+   "on_screen_text": "Body caption, ~52-58%: 'In her bag since the first sneeze.' Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height, left): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "LINER 6.3-7.8s: “I've been in her bag…”",
+   "sfx": "Zipper rip and keys jangle on the cut.",
+   "cut_reason": "Nikita's hop: the line names the place, so the shot goes there. A new location at 6.2s keeps 3-10s changing every ~1.5s. Cut at 7.9s on the turn of the line into the 'sticks on' gag.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame (LP_LINER element + tote set). Veo 3.1 8s gen covering S5+S6 (pop-up, then peel-and-stick, with an in-gen push), upscaled to 4K. Voice: Veo native line, then ElevenLabs Voice Changer to LP_LINER (action and speech in one take).",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S6-BR-handbag-stick",
+   "t_in": 7.9,
+   "t_out": 9.2,
+   "section": "SETUP",
+   "shot_type": "CU (later seconds of the S5 gen + edit punch 115%)",
+   "angle_or_room": "Same tote, pushed in to the liner against the bag's inner lining.",
+   "what_we_see": "The liner peels its own pale-mint backing strip off like a cape and slaps itself flat onto the tote's lining, then peeks over its shoulder at the lens, proud. Clean white, no stains.",
+   "motion_inside_shot": "Peel at 8.0s, slap at 8.4s with a 'stuck' wobble. Edit punch 100->115% on the slap.",
+   "on_screen_text": "Label pill (Plum Ink on a Warm Cream box, beside the liner, ~42-48%), on from 7.9s: 'Panty liner: sticks on.'",
+   "vo_or_dialogue": "LINER 7.9-9.1s: “…since the first sneeze.”",
+   "sfx": "Peel 'zzzip', then a sticky THWACK at 8.4s.",
+   "cut_reason": "The FORM label ('sticks on') is acted, not just written. Cut at 9.2s on the speaker change to the underwear's own place.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Later seconds of the S5 Veo gen, with the punch-in done in the editor.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S7-BR-drawer-open",
+   "t_in": 9.2,
+   "t_out": 10.4,
+   "section": "SETUP",
+   "shot_type": "top-down 3/4 (location hop)",
+   "angle_or_room": "Bedroom dresser, top drawer, camera above at 3/4, warm window light.",
+   "what_we_see": "A wooden drawer slides open toward the lens: neat rows of folded plain black underwear (copied from the sample photos). In the front row one folded pair is the underwear character; it unfolds and sits up, deadpan, eyes level with the drawer edge.",
+   "motion_inside_shot": "The drawer slides open 9.2-9.6s, the character unfolds 9.6-10.1s.",
+   "on_screen_text": "Body caption, ~52-58%: 'I just live in the drawer.' Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height, left): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "UNDERWEAR 9.3-10.4s: “I just live…”",
+   "sfx": "Wooden drawer THUNK on the cut.",
+   "cut_reason": "Nikita's hop on 'drawer': the dry 'I just live here' answer to the liner's bluster. Cut at 10.4s to a tighter angle for the 'pulls on' gag.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame (drawer + folded pairs from the photos, character folded, mouth closed). Kling 2.x 5s base (open + unfold + stretch, no speech) covering S7+S8, upscaled to 4K. ElevenLabs LP_UNDIES line, then audio-driven lip-sync.",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them. The folded pairs in the drawer are product too."
+  },
+  {
+   "shot_id": "S8-BR-drawer-stretch",
+   "t_in": 10.4,
+   "t_out": 11.7,
+   "section": "SETUP",
+   "shot_type": "MCU (later seconds of the S7 gen, eye level with the drawer edge, edit punch 120%)",
+   "angle_or_room": "Same drawer, tighter, eye level with the drawer front.",
+   "what_we_see": "The underwear sits up in its drawer and gives a slow waistband stretch like a yawn (the 'pulls on' gag), then settles, unbothered.",
+   "motion_inside_shot": "Waistband stretch 10.6-11.2s, edit punch-in 100->120% on 'drawer'.",
+   "on_screen_text": "Label pill (Plum Ink on Warm Cream, beside the character, ~42-48%): 'Underwear: pulls on.'",
+   "vo_or_dialogue": "UNDERWEAR 10.4-11.3s: “…in the drawer.”",
+   "sfx": "Elastic 'fwip' stretch and a tiny contented yawn.",
+   "cut_reason": "Visual payoff of the second FORM label. Cut at 11.7s to the REAL garment as the next line names it.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Later seconds of the S7 Kling base + lip-sync pass, punch-in done in the editor.",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them."
+  },
+  {
+   "shot_id": "S9-PROD-waistband-stretch",
+   "t_in": 11.7,
+   "t_out": 13.3,
+   "section": "REVEAL",
+   "shot_type": "insert CU (real-look product)",
+   "angle_or_room": "Over the same Warm Cream duvet, window light from the left, handheld.",
+   "what_we_see": "Real-look: a woman's hands (natural nails, no logo jewellery) grip the plain black underwear by the waistband and stretch it toward the lens, then let it relax. No lace, no logo, the sample's true rise, waistband and leg line.",
+   "motion_inside_shot": "Stretch out 11.8-12.5s, release and small bounce 12.5-13.1s, handheld micro-drift.",
+   "on_screen_text": "Body caption, ~52-58%: 'Plain black underwear.'",
+   "vo_or_dialogue": "UNDERWEAR (off-screen) 11.8-13.2s: “Plain black underwear.”",
+   "sfx": "Soft fabric stretch; the music lifts warm and open.",
+   "cut_reason": "Shows exactly what ships the moment the line names it (speed-to-value at 11.7s, the cartoon never stands in for the product alone). Cut at 13.3s on the turn to the category line.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Nikita films the real sample on his phone (4K 60fps, window light, cream duvet, a helper's hands). Fallback: Nano Banana Pro start frame from the 5 photos, then Kling 2.x 5s, use 1.6s.",
+   "blocked_on": "CJ sample in hand (owned-phone) / the 5 CJ sample photos (AI fallback)."
+  },
+  {
+   "shot_id": "F9-WOMAN-side-waist",
+   "t_in": 13.3,
+   "t_out": 15.6,
+   "section": "REVEAL",
+   "shot_type": "MCU side-on, waist-to-knee (product hold with motion)",
+   "angle_or_room": "Same warm bedroom, the bed soft-focus behind (no characters in it). Side-on, waist-to-knee crop.",
+   "what_we_see": "An AI woman, 30-45, everyday body, oversized tee resting at the hip, side-on, pulls black leggings up over the plain black underwear. The underwear's leg line shows at the side of the thigh until the leggings cover it, then the tee hem drops over the hip. Getting dressed only: no face, no jump/sneeze/laugh, never crotch or butt framing.",
+   "motion_inside_shot": "One continuous pull-up 13.4-15.0s, a small waistband tug and settle at 15.1s, handheld micro-drift.",
+   "on_screen_text": "Body caption, ~52-58%: 'Not a pad. Not a diaper.' Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height, left): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "UNDERWEAR (off-screen) 13.35-15.5s: “Not a pad, not a diaper.”",
+   "sfx": "Leggings swish, a soft elastic snap at the top.",
+   "cut_reason": "Product hold with motion (2.3s) carries the category line. Cut at 15.6s back to the bed for the liner's confession.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start + end frames (product from the 5 photos; the body-framing rules written into the frame). Kling 2.x start/end interpolation, 5s gen, use 2.3s. Fallback if Meta flags the body: extend S9 (hands only).",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them."
+  },
+  {
+   "shot_id": "F7-LINER-highangle",
+   "t_in": 15.6,
+   "t_out": 16.7,
+   "section": "BODY",
+   "shot_type": "high angle (deflated)",
+   "angle_or_room": "Bedroom duvet from above, camera ~45 deg down.",
+   "what_we_see": "Looking down at the liner, small and alone in a sea of Warm Cream duvet, slumping with one tab-hand to its 'forehead'.",
+   "motion_inside_shot": "The liner deflates (10% squash) on 'Okay' with an exhale, a slight camera drift down.",
+   "on_screen_text": "Body caption, ~52-58%: 'Okay, fine.' Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height, left): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "LINER (deflating, sheepish) 15.7-16.5s: “Okay, fine.”",
+   "sfx": "Deflating 'whomp'; the music dips.",
+   "cut_reason": "High angle = the liner's status drop. Cut at 16.7s on the first admission to a punchy ECU.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame. Veo 3.1 (use ~1.1s), Veo native line, then Voice Changer to LP_LINER. Option: one Seedance 2.x gen with @LP_LINER for S11-S13 (3 internal cuts, native audio) if Nikita wants multi-shot gens.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "F4-LINER-ecu",
+   "t_in": 16.7,
+   "t_out": 18.3,
+   "section": "BODY",
+   "shot_type": "ECU",
+   "angle_or_room": "Bedroom duvet, ECU on the liner's face, eye level.",
+   "what_we_see": "The liner's face fills the frame. On 'I bunch' its body accordion-crumples into soft folds (comic squash). On 'I shift' it slides sideways out of centre and the camera whip-pans to catch it again, wide-eyed. Clean white throughout, no stains, no gross-out.",
+   "motion_inside_shot": "Crumple 16.8-17.3s, then slide + whip-pan 17.5-18.1s.",
+   "on_screen_text": "Word-locked caption, ~52-58%: 'I bunch.' -> 'I shift.'",
+   "vo_or_dialogue": "LINER (quick) 16.8-18.2s: “I bunch. I shift.”",
+   "sfx": "Paper crinkle-crumple, then a slide-whistle on the whip.",
+   "cut_reason": "Two form-only admissions acted as two physical gags in one shot (a deliberate staccato inside the 10s+ section). Cut at 18.3s to a new angle for the longer confession.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro ECU start frame. Veo 3.1 8s gen (use 1.6s), Veo native line, then Voice Changer to LP_LINER.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "F8-DUO-ots",
+   "t_in": 18.3,
+   "t_out": 21.1,
+   "section": "BODY",
+   "shot_type": "OTS two-shot across the duvet",
+   "angle_or_room": "Over the underwear's waistband (soft-focus black fabric edge, foreground left) onto the liner in MCU mid-ground.",
+   "what_we_see": "The liner sags and confesses; the underwear's eye in the soft foreground blinks slowly, listening and kind, with no gloat and no villain face. On 'And every day…' the liner turns and trudges to the duvet's edge, then hops off frame right.",
+   "motion_inside_shot": "Slow push-in 100->110% through the confession. The liner turns at 20.0s and hops off the bed edge at 20.9s (match-on-action into the bin).",
+   "on_screen_text": "No caption on 'I feel like a diaper' (house rule: 'diaper' on screen only as 'not a diaper'; Nikita can restore it). At 20.0s, ~52-58%: 'And every day…' Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height, left): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "LINER 18.4-21.0s: “I feel like a diaper. And every day…”",
+   "sfx": "A sad-trombone 'whomp' sustain, tiny footsteps on the duvet, a hop 'boing' at the edge.",
+   "cut_reason": "Held confession on a new angle (2.8s, inside the 3s cap), then a match-on-action: the liner hops off the bed and lands in the bin.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame (closed mouth). Kling 2.x 5s base (push + turn + hop, no speech), upscaled. ElevenLabs LP_LINER line, then audio-driven lip-sync (held close face = tight sync). The foreground underwear edge is out of focus, so a placeholder edge works for tests.",
+   "blocked_on": "Foreground underwear edge: BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them."
+  },
+  {
+   "shot_id": "S14-BR-bin",
+   "t_in": 21.1,
+   "t_out": 22.7,
+   "section": "BODY",
+   "shot_type": "insert (location hop), eye level with the bin",
+   "angle_or_room": "Bathroom corner: a small white unbranded pedal bin, warm cream tiles, a Claret hand towel on a rail behind.",
+   "what_we_see": "The bin lid flips up, the clean white liner drops in, then pops its head back over the rim with a sheepish shrug. No stains, no other rubbish visible.",
+   "motion_inside_shot": "Lid flips at 21.1s, drop at 21.2s, head-pop at 21.6s, shrug at 22.2s.",
+   "on_screen_text": "Label pill (Plum Ink on Warm Cream, ~42-48%), on at 21.6s: 'Panty liner: the trash.' Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height, left): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "LINER 21.1-22.6s: “…I go in the trash.”",
+   "sfx": "Pedal-bin lid CLANK and a soft thud.",
+   "cut_reason": "Nikita's hop on 'trash'. Cut at 22.7s as the gen cranes up and the line repeats.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame (LP_LINER + bathroom set). One Veo 3.1 8s gen covers S14+S15: the camera cranes from bin height to top-down while the liner says both lines. Veo native line, then Voice Changer to LP_LINER.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S15-BR-bin-topdown",
+   "t_in": 22.7,
+   "t_out": 24.8,
+   "section": "BODY",
+   "shot_type": "top-down high angle into the bin (later seconds of the S14 gen)",
+   "angle_or_room": "Looking straight down into the same pedal bin.",
+   "what_we_see": "The liner sits small at the bottom of the empty bin, looking up at the lens, resigned but good-natured.",
+   "motion_inside_shot": "End of the crane-up, then a tiny shrug and a slow blink.",
+   "on_screen_text": "Label stays on: 'Panty liner: the trash.'",
+   "vo_or_dialogue": "LINER (small) 22.8-24.7s: “So… I go in the trash.”  TRIM CANDIDATE T1: this repeats the previous line word for word. If Nikita cuts it, this shot goes (-2.1s).",
+   "sfx": "Small echo on the voice inside the bin; the music thins.",
+   "cut_reason": "A new angle carries the repeated line. Cut at 24.8s on the underwear's reply, which names the other place: the wash.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Later seconds of the S14 Veo gen (crane), Voice Changer to LP_LINER.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S16-PROD-washer",
+   "t_in": 24.8,
+   "t_out": 25.4,
+   "section": "BODY",
+   "shot_type": "insert (real-look product flash)",
+   "angle_or_room": "Front-loader door glass, side light, laundry-room wall soft behind.",
+   "what_we_see": "Real-look: the plain black underwear tumbles past the washing-machine window with two neutral towels. The machine badge is out of frame or taped over.",
+   "motion_inside_shot": "The drum turns and the pair tumbles across the frame.",
+   "on_screen_text": "Label pill (~42-48%): 'Underwear: the wash.'",
+   "vo_or_dialogue": "UNDERWEAR (off-screen) 24.85-25.3s: “Wash.”",
+   "sfx": "Washer door click and drum whirr. NOT the script's water trickle: a trickle reads as pee and edges toward a water demo.",
+   "cut_reason": "The trash/wash pair lands as a real product flash. Cut on the next word.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Phone at a home or laundromat front-loader, 60fps, badge taped. Fallback: Nano Banana Pro start frame from the 5 photos, then Kling 5s, use 0.6s.",
+   "blocked_on": "CJ sample in hand (owned-phone) / the 5 CJ sample photos (AI fallback)."
+  },
+  {
+   "shot_id": "S17-BR-washline",
+   "t_in": 25.4,
+   "t_out": 27.0,
+   "section": "BODY",
+   "shot_type": "MCU (location hop)",
+   "angle_or_room": "Sunny backyard washing line, blue sky, soft leafy bokeh.",
+   "what_we_see": "The underwear character hangs pegged by its waistband on a washing line in warm sun, front panel and face to camera (face just under the pegged waistband), swaying with eyes closed in bliss. It opens one eye at the lens, then gives a contented smile.",
+   "motion_inside_shot": "A second peg snaps on at 25.4s, a gentle sway, a breeze flutter.",
+   "on_screen_text": "Word pops, ~52-58%: 'Hang.' -> 'Wear again.' Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height, left): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "UNDERWEAR 25.5-26.9s: “Hang. Wear again.”",
+   "sfx": "Peg CLIP, birdsong, breeze.",
+   "cut_reason": "Nikita's hop: 'the wash' becomes the washing line, so the ease beat happens in a place she knows. Cut at 27.0s back to the opening set for the resolution.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame (LP_UNDIES element on the line set). Veo 3.1 (use 1.6s), Veo native line, then Voice Changer to LP_UNDIES.",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them."
+  },
+  {
+   "shot_id": "F1-DUO-wide-truce",
+   "t_in": 27.0,
+   "t_out": 28.0,
+   "section": "BODY",
+   "shot_type": "wide two-shot (return to the opening set)",
+   "angle_or_room": "Bedroom duvet, the same eye-level wide as the hook, both characters facing the lens.",
+   "what_we_see": "The two stand shoulder to shoulder like boxers after the final bell, facing the lens. The underwear is calm; the liner gives a small sporting nod, not defeated.",
+   "motion_inside_shot": "Both settle from a bounce into breathing stillness, slow pull-back 105->100%.",
+   "on_screen_text": "Body caption, ~52-58%: 'Two options.' Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height, left): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "UNDERWEAR 27.05-27.9s: “Two options.”  LINER silent, mouth closed.",
+   "sfx": "One soft bell ding.",
+   "cut_reason": "Returns to the hook's set to close the loop. Cut at 28.0s on 'Her call.' to the poster reprise.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start frame (same plate, new pose). Veo 3.1 (use 1.0s), native line for the UNDERWEAR only, then Voice Changer to LP_UNDIES.",
+   "blocked_on": "BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them."
+  },
+  {
+   "shot_id": "S19-GFX-poster-hercall",
+   "t_in": 28.0,
+   "t_out": 29.1,
+   "section": "BODY",
+   "shot_type": "card (poster reprise)",
+   "angle_or_room": "The same boxing-poster split as S2.",
+   "what_we_see": "The fight poster returns with both fighters at equal size. No belt, no KO, no scorecard, no raised hand: no winner is declared.",
+   "motion_inside_shot": "The title band flips (3 frames) from 'THE SNEEZE-PEE FACE-OFF' to 'HER CALL.', a 100->104% drift, and a Claret wipe starting at 28.9s into the end card.",
+   "on_screen_text": "Title band (cream on Plum Ink, ~16-22%): 'HER CALL.' Name plates: 'PANTY LINER' | 'UNDERWEAR'.",
+   "vo_or_dialogue": "UNDERWEAR (over the poster) 28.1-28.9s: “Her call.”",
+   "sfx": "Ding-ding, a small crowd 'ooh', then a whoosh into the wipe.",
+   "cut_reason": "The choice resolution as a no-winner decision card bookends the 3.0s poster. Wipe into the end card.",
+   "source_lane": "editor",
+   "tool_rec": "Same poster template and stills as S2.",
+   "blocked_on": "Underwear pose still: BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them."
+  },
+  {
+   "shot_id": "S20-CARD-end",
+   "t_in": 29.1,
+   "t_out": 33.0,
+   "section": "END",
+   "shot_type": "card (brand end card)",
+   "angle_or_room": "Warm Cream end card with a soft Blush gradient.",
+   "what_we_see": "The 'leapproof' wordmark at ~18% ('leap' in Plum Ink, 'proof' italic Claret). Brand line in Fraunces at ~30%. Support line in Hanken at ~40%. Claret button at ~50%. Both characters small (~12% of frame height) flank the button at ~48-60%: the liner waving good-naturedly on the left, the underwear nodding on the right. No price, gifts, stats, stars or 'new'. If the ad ships insert-light, a flat-front still of the real plain black underwear sits above the button.",
+   "motion_inside_shot": "Claret wipe-in at 29.1s. The liner waves 29.2-31.2s while it talks. The button pulses at 31.6s on 'match' and the underwear nods. A 100->103% drift. The button is on screen for the whole 3.9s.",
+   "on_screen_text": "Wordmark 'leapproof'. Brand line (Fraunces): 'Not a pad, not a diaper.' Support (Hanken Grotesk): '30-Night Leak-Test — money back if they don't hold.' Button (Claret, cream text): 'Find my match ›'. Persistent AI label (tiny, cream 80% on a Plum Ink 50% box, ~60% height, left): 'AI-generated. Not real customers.'",
+   "vo_or_dialogue": "LINER (wry, NOT defeated) 29.2-31.2s: “…She knows where to find me.”  UNDERWEAR (warm) 31.4-32.6s: “Find your match.”  The liner's line is moved from script beat 6 onto the start of the card (no words cut) to save ~2s.",
+   "sfx": "A soft chime on the wipe; the music buttons out on the wordmark at 32.7s.",
+   "cut_reason": "End card, 3.9s with motion and the button always on.",
+   "source_lane": "editor",
+   "tool_rec": "CapCut brand end-card template. Two small character clips (Veo 3.1 from the poster-pose stills composited on a plain Warm Cream backdrop for clean keying, one speaker per clip, each with Voice Changer to its saved voice) composited into the corners.",
+   "blocked_on": "Underwear corner clip: BLOCKED on the 5 CJ sample photos (SKU CJNSNYNK00343): the underwear character must be built from them."
+  }
+ ],
+ "pacing_check": {
+  "total_shots": 20,
+  "avg_shot_len_s": 1.65,
+  "longest_hold_s": 3.9,
+  "cuts_0_3s": 0,
+  "cuts_3_10s": 6,
+  "cuts_10s_end": 13,
+  "broll_or_insert_share": "52% location hops + real-look inserts + poster freezes (17.2s), including 14% real-look product (4.5s: waistband stretch, leggings pull-up, washer). Two-shots are only 21% (6.8s); single-character bed angles are 15% (5.1s); the end card is 12% (3.9s). Non-two-shot coverage = 79%, against the brief's 25-35% floor.",
+  "vo_fit_issues": [
+   "WHOLE SCRIPT: 80 spoken words. At the brief's 2.4 words/s that's ~33s; at a brisk cartoon pace (liner ~3.1 w/s, underwear ~2.5 w/s) with tight J-cuts it's 33.0s on this board, end card included. The script's 28s beat timings can't hold the lines. This board keeps every line (none changed) and runs 33.0s.",
+   "Script beat 1 (0-3s) holds 15 spoken words (~6s). On the board, only the liner's 7 words sit inside the hook shot (0.4-2.7s); the underwear's 8 words run 3.1-6.15s over the poster, the low-angle shot and the punch-in. So 'What's the difference?' is spoken at 5.0s, while the hook shows it as text at 1.6s for muted viewers.",
+   "Script beat 2 (3-7s) holds 15 words (~5.5s). On the board it spans 6.2-11.7s across 4 shots (handbag x2, drawer x2).",
+   "Script beat 4 (11-15s) holds 18 words (~6.5s staccato). On the board it spans 15.6-22.7s across 4 shots (high angle, ECU, OTS, bin).",
+   "Script beat 5 repeats beat 4's last line word for word ('…I go in the trash.' / 'So… I go in the trash.'). That's a tightening leftover.",
+   "Script beat 6 + end card hold 13 words (~5.5s). The liner's 'She knows where to find me' is moved onto the start of the end card (no words cut), so the card stays at 3.9s.",
+   "TRIM PATH TO ~29s (Nikita OK needed; no line has been changed without it). T1: cut the duplicate 'So… I go in the trash.' (S15 goes, -2.1s). T2: cut 'Same moment.' (the poster runs on the bell alone and 'I'm just underwear.' pre-laps over it, -0.8s); this also softens the implied 'same job as the liner' substitution read. Result ~30.1s, recommended. T3: cut 'Okay, fine.' (S11 goes and the confession opens on the ECU, -1.1s; total ~29.0s), not recommended because it's the confession's turn."
+  ],
+  "notes": "How this beats the refs: 1691171645641479 parks on one bed angle for ~14s (4.8s average shot, 2 cuts in 3-10s). This board averages 1.65s, with 6 hard cuts + 1 edit punch-in in 3-10s, 5 locations (bed, tote, drawer, bin, washing line), 6 bed angles and 2 poster freezes, and no angle repeated on consecutive lines. It takes the room-per-line rule of the #4 Pixar winner 1400650075258672 (3.6s average) and adds real product at 11.7s, and it caps 1700150534480418's ~7s speaker holds at 3.0s. The hook is one held 3.0s shot with 3 motion events (shove, bell-bounce, push-in) and 3 text events, with an SFX on every cut in the first 10s. Deliberate exception: 16.7-18.3s and 24.8-25.4s are word-locked staccato beats inside the 10s+ section, and the rest of it runs 1.0-2.8s. LONG CUT (~45s, retargeting): restores any trimmed lines, adds the audio-only ACHOO flashback after the hook (ECU underwear deadpan, a new angle), and adds 'Panty liner: needs a bag. / Underwear: needs a drawer.' over a tote|drawer split. It also adds a second real-look under-leggings walk insert (side-on, walk only) and holds the end card +1s."
+ },
+ "broll_map": [
+  "3.0s: S2 boxing-poster freeze 'THE SNEEZE-PEE FACE-OFF' (editor graphic)",
+  "6.2s: S5 hop into the tan tote, liner pops up (AI)",
+  "7.9s: S6 liner peels its strip and sticks itself to the bag lining (AI, same gen)",
+  "9.2s: S7 hop to the open drawer of folded plain black underwear (AI, needs photos)",
+  "10.4s: S8 underwear's waistband stretch-yawn in the drawer (AI, same gen)",
+  "11.7s: S9 REAL-LOOK hands stretch the waistband over the duvet (owned-phone)",
+  "13.3s: S10 REAL-LOOK AI woman side-on pulling leggings over the underwear (AI, needs photos)",
+  "21.1s: S14 hop to the bathroom pedal bin, liner drops in (AI)",
+  "22.7s: S15 top-down into the bin (AI, same gen; goes if T1 is OK'd)",
+  "24.8s: S16 REAL-LOOK underwear tumbling in the washer window (owned-phone)",
+  "25.4s: S17 hop to the sunny washing line, underwear pegged (AI, needs photos)",
+  "28.0s: S19 poster reprise 'HER CALL.' (editor graphic)",
+  "29.1s: S20 brand end card with both characters small in the corners"
+ ],
+ "anchors_first": [
+  "ANCHOR 1: F1-DUO-wide hook start frame on the bedroom plate. Precondition, shared and counted once across V2-a/b/c: the LP_LINER + LP_UNDIES character sheets are approved first (the liner half can be made now; the underwear half waits for the 5 CJ photos). It locks both characters together: relative scale (~55-60%), the underwear's face position under the waistband, the set, and the warm lamp grade that every bed angle (S3, S11-S13, S18) inherits. Approve it at phone size with the pill and VS mocked on. Blocked on the CJ photos.",
+  "ANCHOR 2: S5 tote POV start frame (liner only, can be made now). The riskiest move on this board is a character surviving a hop into a cluttered real set (scale, realism, no brand marks, no black-on-black merge). Approve it before batching the drawer, bin and washing-line hops."
+ ],
+ "assets_needed": [
+  {
+   "asset": "5 CJ sample photos (flat front, flat back, side, stretched, under black leggings), SKU CJNSNYNK00343",
+   "lane": "owned-phone",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "The real CJ sample in hand for S9 (waistband stretch, a helper's hands) and S16 (washer)",
+   "lane": "owned-phone",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "LP_LINER character sheet + reference element (shared V2-a/b/c)",
+   "lane": "AI start frame + motion",
+   "status": "ready"
+  },
+  {
+   "asset": "LP_UNDIES character sheet + reference element (shared V2-a/b/c), built from the 5 photos",
+   "lane": "AI start frame + motion",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "Bedroom plate (Warm Cream duvet, Claret throw, Blush pillows, lamp top-right), empty",
+   "lane": "AI start frame + motion",
+   "status": "ready"
+  },
+  {
+   "asset": "Location plates: tan tote on a cafe chair; bathroom corner with an unbranded pedal bin; sunny washing line",
+   "lane": "AI start frame + motion",
+   "status": "ready"
+  },
+  {
+   "asset": "Drawer plate with rows of folded plain black underwear",
+   "lane": "AI start frame + motion",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "Two poster-pose stills (liner guard pose, underwear stance), background removed",
+   "lane": "AI start frame + motion",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "AI woman (30-45, everyday body; the campaign's one consistent AI woman) start + end frames for the leggings pull-up",
+   "lane": "AI start frame + motion",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "ElevenLabs voices LP_LINER + LP_UNDIES (shared V2-a/b/c) and the full timed dialogue track",
+   "lane": "editor",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "Licensed SFX: off-screen achoo, boxing bell (single + double), crowd 'ooh', whoosh, zipper, keys, peel, sticky thwack, drawer thunk, elastic fwip, yawn, fabric stretch, leggings swish, deflate whomp, crinkle, slide-whistle, sad trombone, bin clank, washer click/whirr, peg clip, birdsong, chime",
+   "lane": "editor",
+   "status": "ready"
+  },
+  {
+   "asset": "Licensed dry comedy bed (pizzicato + brushed snare) from Meta Sound Collection / Epidemic / Artlist",
+   "lane": "editor",
+   "status": "ready"
+  },
+  {
+   "asset": "CapCut templates: hook pill, VS roundel, body caption box, form labels, boxing-poster split + title band, end card (wordmark, Fraunces + Hanken Grotesk), AI label; C2PA kept on export",
+   "lane": "editor",
+   "status": "ready"
+  },
+  {
+   "asset": "Landing fixed before launch (fake reviews out, 30-Night terms published, AI disclosure) + founder wear test logs the sneeze",
+   "lane": "editor",
+   "status": "needs Nikita"
+  }
+ ],
+ "generation_estimate": "Floor: stills 17, video gens 13, lip-sync passes 3. STILLS: 17 Nano Banana Pro 2k images = 2 shared character sheets (count once across V2-a/b/c) + bedroom plate + 14 start frames (S1, S3, S5, S7, S10 start, S10 end, S11, S12, S13, S14, S17, S18, 2 poster poses). The end-card corner clips start from the poster poses on cream, with no new still. VIDEO: 13 gens = S1, S3-S4, S5-S6, S7-S8, S10, S11, S12, S13, S14-S15, S17, S18, plus 2 end-card corner clips. There are 4 shared-gen pairs, and the punch-ins are editor work. VOICE: 3 audio-driven lip-sync passes (S3-S4, S7-S8, S13) + 9 ElevenLabs Voice Changer passes (S1, S5-S6, S11, S12, S14-S15, S17, S18, 2 end-card corners); ElevenLabs: 2 designed voices + 1 timed dialogue track (~10 line re-renders). The S1 A/B voice test adds 1 video gen + 1 lip-sync pass. If S9/S16 go AI instead of owned-phone: +2 stills, +2 video gens. Plan for ~2x picks on stills and ~1.5-1.7x re-rolls on video. If T1 is OK'd, S15 costs nothing (it's inside the S14 gen).",
+ "word_swaps_applied": [
+  "'Liner: sticks on.' -> 'Panty liner: sticks on.' (S6 label)",
+  "'Brief: pulls on.' -> 'Underwear: pulls on.' (S8 label)",
+  "'Liner: the trash.' -> 'Panty liner: the trash.' (S14-S15 label)",
+  "'Brief: the wash.' -> 'Underwear: the wash.' (S16 label)",
+  "VO + caption 'Plain black briefs.' -> 'Plain black underwear.' (S9)",
+  "Speaker tag 'BRIEF' / character 'the brief' -> 'UNDERWEAR' / 'the underwear' (every shot, the voice LP_UNDIES, the element LP_UNDIES, the poster plate 'UNDERWEAR')",
+  "'plain black brief(s)' -> 'plain black underwear' in every visual description and the end card",
+  "First on-screen mention of the liner = 'PANTY LINER' (S2 poster plate); later labels keep 'Panty liner:'",
+  "OUTSIDE the storyboard, same rule (recommended for the ad set): primary text 'plain black briefs' -> 'plain black underwear'; 'Product images based on the real brief.' -> '...based on the real underwear.'; headline 'a liner, or just underwear?' -> 'a panty liner, or just underwear?'"
+ ],
+ "compliance_flags": [
+  "Hook re-staging (text_hook.note): the locked strap stack runs over the 7-word cap, collides at ~18-19% height and uses Fraunces outside the end card. The title moves to the 3.0s poster. Nikita chiefs it.",
+  "'diaper': the brief allows it on screen only as 'not a diaper', but the locked CJ enemy line has the liner say 'I feel like a diaper.' It's kept SPOKEN (locked line) and NOT burned in on screen (S13), pending Nikita.",
+  "'Same moment. I'm just underwear.' leans toward the cut substitution spine (same job as the liner). Trim T2 removes 'Same moment.' and also fixes VO fit.",
+  "The 0.1s off-screen 'achoo' plays while the underwear character is already on screen. It's audio only, with no person and no outcome shown. The underwear must not react to it (no 'I've got this' look), so it can't read as a demo. It can be dropped; the bell alone opens the fight.",
+  "The script's 'water/trickle cue on wash' is replaced with a washer click/whirr: a trickle reads as pee and edges toward a water demo (CJ column).",
+  "The boxing frame must never crown a winner (no belt, KO, scorecard or raised hand). The poster reprise reads 'HER CALL.' with equal-size fighters, which matches the script's 'two options, her call'.",
+  "S10 body shot: side-on, waist-to-knee, tee hem over the hip, getting dressed only, no face. Meta can still flag underwear on a body; the fallback is hands-only S9, extended.",
+  "AI disclosure: the persistent 'AI-generated. Not real customers.' label on every AI frame + C2PA on export + the primary-text AI line. No Dramatization label is needed (no human acts the moment).",
+  "Market wording: the script says 'the trash', but the locked NUMBER_SHEET enemy sentence says 'go in the bin'. The accent (NUMBER_SHEET US-first vs the AUD/Australian ICP note in the word rule) decides which is spoken. Both are kept off any burned-in text until decided, except the 'Panty liner: the trash.' label, which follows the decision.",
+  "Proof honesty: 1691171645641479 isn't in its page's top 30/40 (180 days live), and its copy breaks our claims rules (an absolute leak claim, a 100 ml figure, a pour demo at ~20s); only its frame-1 layout is borrowed. 1400650075258672 is #4 of 6 on a small page. The talking duet stays an off-proof test cell judged on outbound CTR / cost per quiz start, not hook rate.",
+  "Pre-launch gates carried from the script: the founder wear test logs the sneeze before any spend (the ad is sneeze-led, and 'hold' appears only in the guarantee line), and the landing is fixed first (fake reviews, missing 30-Night terms, AI disclosure).",
+  "No real brands anywhere: tote, keys, lip balm, washer badge (tape it), bin, bedding, sunglasses."
+ ],
+ "open_for_nikita": [
+  "HOOK: OK to move 'THE SNEEZE-PEE FACE-OFF' off frame 1 onto the 3.0s boxing poster? Frame 1 would read 'Big sneeze. Little pee.' + a VS badge (5 words). Or run alternate 2, 'Sneeze-pee: panty liner vs underwear', as the B-test?",
+  "LENGTH: the locked lines need ~33s, not 28s. OK to cut the duplicate 'So… I go in the trash.' and 'Same moment.' (-> ~30s main cut)? A hard 28-29s also needs 'Okay, fine.' cut, which I'd keep.",
+  "VOICES + MARKET: ElevenLabs two-voice track recorded first, then Veo-native + Voice Changer for the 2-face/action clips and lip-sync for the 3 held close-ups. Test the hook clip both ways first? Which accent (NUMBER_SHEET US-first vs the Australian ICP), and 'trash' (script) or 'bin' (locked enemy sentence)? Should 'I feel like a diaper' stay spoken-only?",
+  "PHOTOS: the underwear character, drawer, washing line, both posters, the end card and all real-look inserts wait on the 5 CJ sample photos (and the sample itself for the 2 phone clips). OK to build the liner, the sets and the liner-only shots now, and to test the underwear pipeline on CJ listing images that are never published?"
+ ]
+}

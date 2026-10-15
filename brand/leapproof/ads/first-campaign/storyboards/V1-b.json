@@ -1,0 +1,554 @@
+{
+ "ad_id": "V1-b",
+ "title": "The funny-friend dinner: freeze on the clutch, rewind to the panty liner",
+ "format_analysis": {
+  "format": "V1 problem-object, faceless brand VO over b-roll, with ONE dramatized on-camera cold open. An AI woman laughing at a bright dinner table says the diegetic line 'Stop — I'll pee myself!' and the frame freezes on her hand-to-lap clutch with a record scratch. A sub-0.5s rewind lands on a panty liner, and a word-locked hands-macro roast of the panty liner follows (bunches / shifts / feels like a diaper / trash). Then the flip to plain black underwear (match cut), worn under leggings in the bedroom, back to the table smiling, and the end card.",
+  "how_it_should_look": "Phone-native photoreal, not glossy commercial. HOOK: high-key, bright golden early-evening window light in a cream-and-warm-wood restaurant. Frame 0 must read bright on a phone in daylight; no candlelight. Real-looking 36-40 woman (pores, fine lines, everyday body), never model-glam. BODY: owned-phone hands macros at 4K/60fps, natural side window light, shallow depth of field, handheld lunges and snap punch-ins. The panty liner lives in pastel-lilac 'old-way' world (the field's beige/lavender), and the plain black underwear is the high-contrast flip. One warm grade throughout (cream / blush / golden, Plum Ink shadows); the 'by tonight' shot is graded to warm lamp light. CAPTIONS: Claret #A33154 pill with cream Hanken Grotesk ExtraBold for the hook and freeze line; Plum Ink on a Warm Cream box for body captions, with a stacking 4-line roast list in 6-11s; Fraunces only on the end card; everything in the 4:5-safe 14-62% band. SOUND: real restaurant room tone and laughter → hard record scratch with the music ducked to silence → tape-rewind whoosh → a light, bouncy royalty-free bed (Meta Sound Collection) with a foley hit on every cut to 10s (peel, scrunch, swish, crinkle, bin-lid tap) → warm open-up on 'Or…' → room tone at the table → button resolve.",
+  "runtime_main": "27.5s",
+  "aspect": "9:16 (4:5-safe)",
+  "build_profile": "0.0-2.7s ON-CAMERA, dramatized: one AI woman (Nano Banana Pro start frame → Veo 3.1 with native audio). She voices her own 4-word line, TOOL-VOICED (no ElevenLabs, no lip-sync). 'Dramatization' label on. 2.7-22.6s FACELESS: one ElevenLabs brand narrator (warm, wry woman in her 30s; accent per launch market) over owned-phone hands macros (panty liner now, product when the sample lands), an AI on-body waist-to-knee shot (no face), and AI return-to-table shots where she listens and never speaks. 22.6-27.5s END CARD with narrator VO. Record the narrator first and cut the pictures to it; the hook audio is Veo's own.",
+  "reference_ads": [
+   {
+    "id": "896552676720439",
+    "url": "https://www.facebook.com/ads/library/?id=896552676720439",
+    "what_we_take": "UltraDries video #6 (193d). It holds one framing for ~3.0s with motion inside and a mid-frame white-box caption from frame 0 (our laugh plus freeze holds one framing for 2.7s, with the pill on frame 0). Then a NEW subject or location on every cut, with 8 cuts in 3-10s and never the same room twice (we do 9 cuts there: vanity → bed → window → vanity → night → floor). The real-phone look and mid-frame box captions carry it. We don't take the 'incontinence' captions, the doctor's office, or the factory shots."
+   },
+   {
+    "id": "1206351388295667",
+    "url": "https://www.facebook.com/ads/library/?id=1206351388295667",
+    "what_we_take": "Everdries video #14 (275d, 6 dupes). A problem-object hook where the HANDS always do something (flip, point, unwrap the pad on the bed), which becomes our peel / press-in / bunch / shift / pinch macros. A pop inside the held hook at ~1s (their 🤢 emoji; our 'Yep.' pop on the freeze). Then on-body pull-ups, which become our leggings pull-up. We avoid their weaknesses: a 5.5s average shot (ours is ~1.4s), stained pads (ours are always clean and wrapped), and the 'you' hook and 'incontinence' wording."
+   },
+   {
+    "id": "2353026065193110",
+    "url": "https://www.facebook.com/ads/library/?id=2353026065193110",
+    "what_we_take": "Miro #42 example, Fussy (140d): the 'yep, that's me' freeze-frame + record-scratch intro mechanic. Not watched frame by frame (no contact sheet); the mechanic is taken from the Miro card."
+   },
+   {
+    "id": "1504251771367873",
+    "url": "https://www.facebook.com/ads/library/?id=1504251771367873",
+    "what_we_take": "Miro #42 example, Fussy (129d): the same freeze + scratch + label mechanic, proven twice on one page. Not watched frame by frame."
+   }
+  ]
+ },
+ "text_hook": {
+  "recommended": {
+   "text": "I'll pee myself!  →  (freeze, 1.2s) Yep. The laugh that comes with a little pee.",
+   "on_screen_timing": "0.0s–1.2s 'I'll pee myself!' (on frame 0). 1.2s–2.7s the freeze line, revealed in 3 pops at 1.25 / 1.45 / 1.8.",
+   "style": "Claret #A33154 pill, Warm Cream #F5EDE6 Hanken Grotesk ExtraBold at ~5% of frame height, centred at ~22-27% over the bright window above her head. It scale-pops from 90% to full size in 3 frames on frame 0. The freeze line uses the same pill, 2 lines, ~20-32%. 'Dramatization' sits upper-left at ~16% (cream, ≥4% of frame height, 80% opacity) from 0.0-2.7s. All text is added in CapCut.",
+   "why": "KEEP the locked frame-0 pill; it is the best scroll-stopper we have. It's 3 words (reads in under 0.5s) and puts 'pee' in frame 0. It is the line she is visibly saying, so sound-off and sound-on match. It is first person from a labelled dramatization, so it never asserts the viewer's condition (Meta-safe). It also matches the live landing H1 'Stop! I'll pee myself!' word for word. Built on the proven trigger-moment angle (AD_RESEARCH §2 A7: Everdries 'laugh' ~110 live; clinic moment hooks 103-372d) and the Miro #42 'yep, that's me' freeze (Fussy 140d/129d). The freeze line is also kept, because 'Yep.' IS the #42 trope and it names the pee as a shared joke (relief, not shame). Its only problem is time: 9 words can't be read in the script's 1.1s, so the board holds the freeze 1.5s and reveals it in 3 pops."
+  },
+  "alternates": [
+   {
+    "text": "Laughing shouldn't require crossing your legs.",
+    "why": "Use as the FREEZE line in a hook test (frame-0 pill unchanged). It is the most proven 30-45 wording we have, cast to our moment. It is a general statement that passes Meta as written, and it pays off word for word in the VO 'rather laugh than cross her legs' and in the headline. That gives a muted viewer the whole arc in two cards.",
+    "proven_anchor": "\"Sneezing shouldn't require crossing your legs.\" (pelvic clinic, 112 days live; AD_RESEARCH §3 notes it passes the 'you' rule as is)"
+   },
+   {
+    "text": "For anyone who's crossed her legs mid-laugh.",
+    "why": "A third-person call-out freeze line. It qualifies the viewer ('that's me') without saying she leaks, and it is shorter than the locked line, so it reads faster on the freeze.",
+    "proven_anchor": "Origin \"Leak when you sneeze?\" (372 days live), in AD_RESEARCH §3's Meta-safe rewrite \"For anyone who's crossed her legs before a sneeze.\""
+   },
+   {
+    "text": "It's 2026. Why is a panty liner the plan for a laugh?",
+    "why": "A contrarian frame-0 pill, the strongest anchor by run-time. It's ranked last because it loses the diegetic match with her spoken line, runs 11 words (over the ~7-word frame-0 read), and echoes V1-a's VO ('…the plan for a sneeze?'). Only test it if V1-a isn't in the same ad set.",
+    "proven_anchor": "Everdries \"It's 2025! Why are you still using pads? 🤢\" (275 days live, 6 dupes; video #14, one of our two primary refs)"
+   }
+  ],
+  "note": "The recommended text is the LOCKED script wording. One timing change for Nikita to chief: the freeze runs 1.2-2.7s (1.5s) instead of 1.3-2.4s (1.1s) so the 9-word line can be read, with the 'Dramatization' label kept until 2.7s. The alternates are hook-test variants for a shared body, not replacements. 'Big laugh, little pee' was deliberately NOT offered: the creative plan reserves it for V2-a."
+ },
+ "visual_hook_build": {
+  "miro": "#42 Freeze Frame Record Scratch (opened In Media Res)",
+  "frame_1": "A bright, high-key 9:16 wide side two-shot of a sunlit restaurant table in golden early-evening window light. A real-looking woman, 36-40, in a dusty-rose knit top with a messy bun, is ALREADY mid belly-laugh: head tipped back, eyes crinkled shut, mouth wide, left palm up about to slap the table. In the soft left foreground are her friend's out-of-focus shoulder and a sparkling-water glass with lemon. The Claret pill \"I'll pee myself!\" already sits over the bright window above her head (~22-27%), with 'Dramatization' upper-left. Her lap and pressed knees in black leggings are visible side-on at ~54-68% height, centre, so the coming clutch has room to read above the Reels UI.",
+  "build_steps": [
+   "1. LOCK THE WOMAN AND SET (anchor 1). One Nano Banana Pro still (Higgsfield, 9:16, 2k) that IS frame 0: her face, wardrobe (dusty-rose ribbed knit, black leggings, small gold hoops, messy bun), the bright restaurant (golden window light, cream walls, warm wood, a plant, sparkling water with lemon, no wine, no logos), and the text-map layout (clean bright window at 14-30%, face ~30-40%, table edge ~52%, lap ~54-62%, knees ~62-68%, body centre/centre-left). It must already be mid-laugh, because a closed-mouth start frame makes a dead thumbnail. Approve before anything else.",
+   "2. VOICE PATH, PICKED: Veo 3.1, TOOL-VOICED (anchor 2). Image-to-video from the approved still with native audio. Veo speaks 'Stop — I'll pee myself!' through laughter, together with the table slap, the friend's laugh and the room tone. Action order: slap on 'Stop—', the line, then the camera-side hand drops to the upper thigh at the table edge and the knees press together by ~1.1s. Set the shortest length offered and keep ~1.2s. Generate 2-3 takes and pick the clearest clutch.",
+   "3. WHY NOT ElevenLabs + lip-sync: (a) a lip-sync pass needs a near-frontal, closed-mouth start frame, which conflicts with a mid-laugh, open-mouth, side-on frame 0; (b) a line spoken through a head-back laugh is where phoneme lip-sync goes rubbery, while Veo builds the laugh, breath, jaw and words together; (c) her face is only ~15% of frame width in a wide two-shot, so sync precision matters less than a believable laugh; (d) it costs 1 billable step instead of 3 (TTS + base clip + lip-sync pass). ElevenLabs stays as the FALLBACK only, via embed-then-mute with no lip-sync pass.",
+   "4. TRIM: set the in-point so frame 0 is mid-laugh and the hand's CONTACT frame lands at ~1.15-1.2s. Trim the head rather than speed-ramping, so the voice stays natural. Keep Veo's native audio for this shot only.",
+   "5. THE FREEZE FRAME, EXACTLY: the first frame where her palm is flat on her upper thigh at the table edge (fingers spread, wrist straight, zero motion blur), with her knees pressed together, head still back, eyes crinkled shut and mouth open on the end of '…self!' (≈ source frame 28 at 24fps, ~1.17s). WHY: one still carries both 'she's laughing' and 'something happened down there', so muted viewers get the joke. Her face mid-laugh keeps it relief, not shame. The line has just ended, so the scratch cuts clean. Not earlier: the hand is mid-swing and blurred, so it doesn't read. Not later: she starts recovering forward, the energy drops and it looks like she's settling the moment.",
+   "6. FREEZE BUILD (CapCut): Freeze for 1.5s (1.2-2.7), saturation −30, a thin white border/vignette snapping 110→100% over 2 frames, a 103% scale punch and then a slow 103→106% push, record-scratch SFX peaking on the freeze frame, music ducked −18 dB over 2 frames, and the 3-pop freeze line at 1.25 / 1.45 / 1.8. Keep 'Dramatization' on.",
+   "7. REWIND SMEAR (CapCut, 2.7-3.1, 0.4s): duplicate F1, Reverse at ~6x so her hand whips up off her lap and her head snaps forward (0.2s), with horizontal directional blur 40-60px, a 2-frame RGB split and saturation snapping 70→100%. Then a 0.2s whip-smear into S4, whose first 5 frames are speed-ramped 300→100% as the hand lunges in with the panty liner. Layer a tape-rewind chirp and a whoosh. '⏪ 3 hours earlier.' slams in at 2.7. 'Dramatization' drops on the first reversed frame.",
+   "8. QC on a phone at arm's length, muted, in daylight. The pill should read in under 0.5s and the clutch should read with no sound. The frame must not look dark. The hand must not read as touching the crotch."
+  ],
+  "lane_and_tool": "AI start frame + motion for 0.0-1.2s: Nano Banana Pro (Higgsfield, 9:16, 2k) → Veo 3.1 image-to-video, tool-voiced, native audio, 1 shot. Editor (CapCut) for the freeze, desaturate, vignette, record scratch, rewind smear, pill and labels. All tools are recommendations pending Nikita's confirmation.",
+  "fallback": "(a) Veo garbles or refuses the line, or the laugh-voice is off: generate the line in ElevenLabs (with laughter tags) and re-run the Veo take with the line embedded only for mouth shape, then MUTE Veo and lay the ElevenLabs take (embed-then-mute). At a wide two-shot over ~1s no lip-sync pass is needed. (b) The clutch won't render readably in 3 takes: freeze on the knees-pressed and table-slap frame and let the pill plus 'Yep…' carry it. Never add arrows or zooms toward her lap. (c) The AI look fails entirely: film a real, paid, consenting woman at a bright café table on a phone, still labelled 'Dramatization'. This is the most real and cheapest option, and the freeze/rewind build is identical.",
+  "failure_modes_to_reject": [
+   "Dark, candlelit or underexposed frame 0, or a window so blown out it clips behind the pill",
+   "Frame 0 neutral or static (she must already be mid-laugh)",
+   "A hand landing on or near the crotch, or framing centred on the crotch. The hand must sit on the upper thigh at the table edge, side-on",
+   "The hand hidden by the table edge or the friend's shoulder, or still mid-swing and blurred on the freeze frame",
+   "A line delivered without laughter, wrong words ('I'm gonna pee'), 'pee' muffled, or a voice that sounds like a different woman from the face",
+   "Extra or fused fingers, fused knees, the face morphing between frames, melting cutlery",
+   "Alcohol props (wine glasses, cocktails), logos on menus or glasses, children anywhere in the room",
+   "A model-glam look (too young, airbrushed, full glam makeup) instead of a real 36-40",
+   "A grimace of pain, shame or embarrassment, or any wet cue. It must read as a joke she's in on",
+   "The friend's face in focus or mouthing words (one speaker only)",
+   "Any text rendered inside the generation",
+   "A rewind smear longer than ~0.5s, or a VHS template that covers the panty liner landing"
+  ]
+ },
+ "shots": [
+  {
+   "shot_id": "F1-WOMAN-wide-side-twoshot",
+   "t_in": 0.0,
+   "t_out": 1.2,
+   "section": "HOOK",
+   "shot_type": "wide two-shot (side-on)",
+   "angle_or_room": "Bright restaurant table beside a big window, golden early-evening sun. Camera at seated eye height at the side of the table, ~26mm equivalent, slight handheld drift.",
+   "what_we_see": "Frame 0 is already mid-laugh, high-key and bright. A real-looking woman, 36-40, everyday body, messy bun, dusty-rose ribbed knit top, black leggings, small gold hoops, sits centre-frame. Her head is tipped back, eyes crinkled shut, mouth wide. In the soft left foreground: her friend's out-of-focus shoulder and a sparkling-water glass with lemon (no wine). Cream walls, warm wood, a plant. The window blooms behind her but is not clipped. Layout for the text map: bright window at 14-30% height (clean area for the pill), her face at ~30-40%, table edge ~52%, her lap at ~54-62% and her pressed knees in black leggings at ~62-68%. Her body sits centre/centre-left, clear of the Reels icon column on the right edge.",
+   "motion_inside_shot": "0.0: already laughing, and the friend's shoulder shakes with her laugh. ~0.2: she lurches forward and slaps the table with her left palm on 'Stop—'. The cutlery jumps. 0.5-1.1: 'I'll pee myself!' through laughter. ~0.9-1.15: her right (camera-side) hand drops fast onto her upper thigh at the table edge and her knees press together. Editor push-in 100→104% across the shot so even frame 0 moves.",
+   "on_screen_text": "HOOK PILL: Claret #A33154 pill with Warm Cream #F5EDE6 Hanken Grotesk ExtraBold, ~5% of frame height, centred at ~22-27% over the bright window, above her head: \"I'll pee myself!\" It scale-pops from 90% to full size in 3 frames ON frame 0. LABEL: 'Dramatization', upper-left ~16% down, cream Hanken Grotesk, ≥4% of frame height, 80% opacity, from 0.0s.",
+   "vo_or_dialogue": "\"Stop — I'll pee myself!\" (AI woman, dramatized, diegetic, through laughter, ~0.2-1.1s; Veo 3.1 native voice)",
+   "sfx": "Bright restaurant room tone and the friend's laugh burst from 0.0; palm-slap thump and cutlery rattle at ~0.2; light, bouncy royalty-free bed (Meta Sound Collection) starts low.",
+   "cut_reason": "NO cut. The frame holds straight into the freeze. Live action ends on the contact frame of the hand-to-lap clutch (~1.15-1.2s), the most readable 'something just happened down there' moment.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro still (Higgsfield, 9:16, 2k) as the exact frame 0 → Veo 3.1 image-to-video with NATIVE audio, TOOL-VOICED: the line is spoken by Veo, no ElevenLabs, no lip-sync pass. Set the shortest length Veo offers and use ~1.2s. To land the clutch at ~1.15s, trim the head of the clip instead of speed-ramping it, so the laugh-voice stays natural.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S2-GFX-freeze-scratch",
+   "t_in": 1.2,
+   "t_out": 2.7,
+   "section": "HOOK",
+   "shot_type": "freeze-frame (same plate as F1, not a cut)",
+   "angle_or_room": "Identical framing to F1 (restaurant).",
+   "what_we_see": "F1's contact frame, frozen. Her palm is flat on her upper thigh at the table edge, fingers spread, with no motion blur. Her knees are pressed together, her head is still back mid-laugh and her mouth is open on '…self!'. The still is 30% desaturated and a thin white 'freeze' border/vignette snaps in.",
+   "motion_inside_shot": "1.2: hard stop, a 103% scale punch over 2 frames and the vignette snap. A slow 103→106% push runs across the hold so the still never sits dead. Text pops at 1.25, 1.45 and 1.8. A light film grain keeps it alive.",
+   "on_screen_text": "Same Claret pill (~20-32%) swaps to the locked freeze line, revealed in 3 pops: 'Yep.' (1.25) → 'Yep. The laugh that comes' (1.45) → 'Yep. The laugh that comes / with a little pee.' (1.8). 'Dramatization' stays on because she is still in the moment.",
+   "vo_or_dialogue": "(none). Record scratch only.",
+   "sfx": "Hard record-scratch with its peak on the freeze frame at 1.2. Music ducks −18 dB over 2 frames to near-silence. Room tone cuts out.",
+   "cut_reason": "Holds 1.5s instead of the script's 1.1s. The 9-word (44-character) line can't be read in 1.1s. In 3 pops it reads in ~1.5s, still under half the 3s static limit, and the push keeps it moving. It releases into the rewind once '…with a little pee.' has sat for ~0.9s.",
+   "source_lane": "editor",
+   "tool_rec": "CapCut: Freeze at the contact frame (1.5s). Adjust saturation −30. White thin border/vignette overlay keyframed 110→100% over 2 frames. Scale keyframes 103→106%. Record-scratch SFX from the library. All text added in CapCut, never in the AI prompt.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S3-GFX-rewind-smear",
+   "t_in": 2.7,
+   "t_out": 3.1,
+   "section": "HOOK",
+   "shot_type": "transition (reverse speed-ramp + whip-smear)",
+   "angle_or_room": "Restaurant → bathroom vanity (3 hours earlier).",
+   "what_we_see": "The freeze breaks into REVERSE. The laugh plays backwards at ~600%: her hand whips back up off her lap and her head snaps forward, with a horizontal directional blur and a 2-frame RGB split. Colour snaps back from 70% to 100% (the past is full colour). A whip-smear then lands on S4. 'Dramatization' drops off on the first rewind frame.",
+   "motion_inside_shot": "2.70-2.90: F1 reversed (source 1.15→0.0s at ~6x) with a 40-60px directional blur. 2.90-3.10: horizontal whip-smear into S4, whose first 5 frames are speed-ramped 300→100% as the hand lunges in.",
+   "on_screen_text": "Warm Cream box, Plum Ink Hanken Grotesk ExtraBold, ~22-27%: '⏪ 3 hours earlier.' slams in at 2.7 and rides into S4.",
+   "vo_or_dialogue": "\"Three hours…\" (brand narrator, starts 2.75 on the smear)",
+   "sfx": "Tape-rewind chirp (0.2s) layered with a whoosh (0.2s). Music lifts back to full.",
+   "cut_reason": "Under 0.5s, so momentum builds straight into the problem object with no vanity detour, as the script asks. The reverse makes 'rewind' literal, and the colour coming back tells the viewer we're in the past.",
+   "source_lane": "editor",
+   "tool_rec": "CapCut: duplicate F1, Reverse, Speed 6x. Effects: motion/directional blur + RGB split. Whip/smear transition 0.2s. Speed curve on S4's head.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S4-BR-liner-at-lens",
+   "t_in": 3.1,
+   "t_out": 4.4,
+   "section": "SETUP",
+   "shot_type": "CU, hand at lens (locked tripod)",
+   "angle_or_room": "Bathroom vanity, bright afternoon window light. Mirror and cream tiles soft behind.",
+   "what_we_see": "A woman's hand lunges up from bottom-right and stops dead centre at the lens. Continuity details: short natural nails, a thin gold ring and a dusty-rose knit cuff to match her top. She holds a clean, individually wrapped panty liner in a plain pastel-lilac wrapper with no brand marks. Focus racks from the mirror to the wrapper.",
+   "motion_inside_shot": "Lunge-in landing from the smear's speed-ramp, a hard stop, then a small 'ta-da' waggle on 'The plan?'.",
+   "on_screen_text": "'⏪ 3 hours earlier.' (to 3.75) → swaps to a Warm Cream box: 'The plan? A panty liner.' (3.8-5.25), ~22-30%.",
+   "vo_or_dialogue": "\"…earlier. The plan?\" (narrator, to ~4.3)",
+   "sfx": "Landing 'thup' and a light wrapper rustle; music at full.",
+   "cut_reason": "Cuts on 'A panty liner' to the peel, so the object is named with an action.",
+   "source_lane": "owned-phone",
+   "tool_rec": "iPhone 4K/60fps on a tripod with the position and light marked. Shoot it in the SAME set-up as S12: the reveal is a pixel-matched swap of liner → underwear. Fallback: AI start frame (Nano Banana Pro) + Kling 2.x, 5s gen, use 1.3s, from one locked vanity plate.",
+   "blocked_on": "Soft: best shot in one tripod session with S12, which needs the CJ sample. It can be shot now if the tripod spot and window light are marked."
+  },
+  {
+   "shot_id": "S5-BR-liner-peel-ecu",
+   "t_in": 4.4,
+   "t_out": 5.25,
+   "section": "SETUP",
+   "shot_type": "ECU macro (top-down)",
+   "angle_or_room": "Same vanity, top-down macro over the cream counter.",
+   "what_we_see": "A thumb peels back the pastel wrapper tab and the clean white panty liner slides half out. It is clean and white, with no stains, no yellowing and no backlight.",
+   "motion_inside_shot": "One peel-and-slide move, with a 115% editor punch at the half-out point.",
+   "on_screen_text": "'The plan? A panty liner.' holds.",
+   "vo_or_dialogue": "\"A panty liner.\" (narrator, 4.4-5.1)",
+   "sfx": "Close-mic wrapper-tab peel and crinkle.",
+   "cut_reason": "Cuts on 'But', the turn, to the panty liner going in.",
+   "source_lane": "owned-phone",
+   "tool_rec": "iPhone macro / 2x lens, 60fps. Fallback: Nano Banana Pro start frame + Kling 2.x (use 0.85s of a 5s gen).",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S6-BR-liner-press-in-topdown",
+   "t_in": 5.25,
+   "t_out": 6.4,
+   "section": "BODY",
+   "shot_type": "top-down insert",
+   "angle_or_room": "Bedroom: cream duvet by the window (new location).",
+   "what_we_see": "Top-down: a pair of plain nude everyday cotton underwear lies flat on a cream duvet (not black; black is saved for the reveal). The hands press the clean panty liner into place and smooth the wings down.",
+   "motion_inside_shot": "The hands enter from frame-top, press, and smooth outward in one decisive move.",
+   "on_screen_text": "Small strap, Plum Ink on cream, ~16-20%: 'the plan for the big laugh?' (5.25-10.75; locked script caption).",
+   "vo_or_dialogue": "\"But a panty liner…\" (narrator, 5.25-6.3)",
+   "sfx": "Soft press 'pat' and adhesive crinkle.",
+   "cut_reason": "Cuts on the first frame of 'bunches'.",
+   "source_lane": "owned-phone",
+   "tool_rec": "iPhone 4K/60fps overhead rig. Fallback: AI start frame + Kling 2.x.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S7-BR-liner-bunch-ecu",
+   "t_in": 6.4,
+   "t_out": 7.0,
+   "section": "BODY",
+   "shot_type": "ECU (top-down, tighter than S6)",
+   "angle_or_room": "Same duvet, much tighter (size change, not a room repeat).",
+   "what_we_see": "ECU: two hands push the sides of the nude underwear inward. The panty liner buckles into a ridge and one wing curls up. It stays clean and white.",
+   "motion_inside_shot": "Squeeze inward and the ridge pops up; editor 110% snap-zoom on the buckle.",
+   "on_screen_text": "Box caption starts a stacking list (Plum Ink on Warm Cream, ~24-40%, left-aligned): 'it bunches.'",
+   "vo_or_dialogue": "\"bunches.\" (narrator, 6.4-6.85)",
+   "sfx": "Fabric scrunch foley.",
+   "cut_reason": "Cuts on 'It shifts'.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Same overhead set-up as S6, 2x macro. Fallback: AI start frame + Kling 2.x.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S8-BR-liner-shift-side",
+   "t_in": 7.0,
+   "t_out": 7.6,
+   "section": "BODY",
+   "shot_type": "low side-angle macro",
+   "angle_or_room": "Lifted off the bed toward the window. Side-lit, never backlit (no core show-through).",
+   "what_we_see": "Low side angle: the hands lift and twist the nude underwear. The panty liner now sits visibly off-centre, diagonal, with one wing peeling up.",
+   "motion_inside_shot": "One twist, and the panty liner slides diagonal.",
+   "on_screen_text": "The list adds: 'it shifts.'",
+   "vo_or_dialogue": "\"It shifts.\" (narrator, 6.95-7.45)",
+   "sfx": "Fabric swish and a soft slide 'zip'.",
+   "cut_reason": "Cuts on 'It feels…'.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Handheld iPhone 60fps, low angle. Fallback: AI start frame + Kling 2.x.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S9-BR-liner-pinch-side",
+   "t_in": 7.6,
+   "t_out": 8.4,
+   "section": "BODY",
+   "shot_type": "side-on macro",
+   "angle_or_room": "Bathroom vanity, bright side light (room change from the bed).",
+   "what_we_see": "Side-on macro at the vanity: a thumb and finger pinch the panty liner's padded middle, still stuck in the nude underwear. Its thickness squishes, then springs back.",
+   "motion_inside_shot": "A slow press, then release.",
+   "on_screen_text": "The list adds: 'it feels like a diaper.'",
+   "vo_or_dialogue": "\"It feels like a…\" (narrator, 7.6-8.35)",
+   "sfx": "Soft foam squish.",
+   "cut_reason": "Hands off to the punch-in, which lands on 'diaper'.",
+   "source_lane": "owned-phone",
+   "tool_rec": "iPhone 4K so the 120% punch in the next shot stays sharp. Fallback: AI start frame + Kling 2.x.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S9-BR-liner-pinch-punch",
+   "t_in": 8.4,
+   "t_out": 9.1,
+   "section": "BODY",
+   "shot_type": "editor punch-in 120% (ECU)",
+   "angle_or_room": "Same take as S9, punched to 120%.",
+   "what_we_see": "A 120% punch onto the plastic-backed wing as the fingers squeeze a second time.",
+   "motion_inside_shot": "Snap punch over 2 frames plus the second squeeze.",
+   "on_screen_text": "The list holds.",
+   "vo_or_dialogue": "\"diaper.\" (narrator, 8.4-8.9)",
+   "sfx": "Exaggerated plastic crinkle on 'diaper', the sound cue for the diaper feel.",
+   "cut_reason": "Cuts on 'And by tonight'.",
+   "source_lane": "editor",
+   "tool_rec": "CapCut scale keyframe 100→120% over 2 frames on the S9 4K take. No generation.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S10-BR-liner-fold-night",
+   "t_in": 9.1,
+   "t_out": 9.8,
+   "section": "BODY",
+   "shot_type": "CU",
+   "angle_or_room": "Same vanity at night: warm lamp, dark window. Graded, not re-shot, if time is tight.",
+   "what_we_see": "Evening at the vanity. The hands fold the used-up panty liner back into its pastel wrapper and press it shut, so nothing loose or used-looking is ever on screen.",
+   "motion_inside_shot": "Fold and press, with a quick day→night light wipe on the cut.",
+   "on_screen_text": "The list adds: 'by tonight — the trash.'",
+   "vo_or_dialogue": "\"And by tonight,\" (narrator, 9.05-9.75)",
+   "sfx": "Wrapper-fold crinkle and a tiny clock tick.",
+   "cut_reason": "Cuts on 'it's in the trash'.",
+   "source_lane": "owned-phone",
+   "tool_rec": "iPhone with a warm practical lamp, or the daylight take graded cooler/darker. Fallback: AI start frame + Kling 2.x.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S11-BR-bin-drop",
+   "t_in": 9.8,
+   "t_out": 10.75,
+   "section": "BODY",
+   "shot_type": "low-angle floor shot",
+   "angle_or_room": "Bathroom floor, cream tiles.",
+   "what_we_see": "Low angle: a clean white pedal bin. The folded pastel wrapper bundle drops in and the lid taps shut. No pile, no other waste, nothing gross.",
+   "motion_inside_shot": "The bundle drops, the foot comes off the pedal, and the lid taps shut exactly on 'trash'.",
+   "on_screen_text": "The list holds: it bunches. / it shifts. / it feels like a diaper. / by tonight — the trash.",
+   "vo_or_dialogue": "\"it's in the trash.\" (narrator, 9.8-10.6)",
+   "sfx": "Bin-lid tap on 'trash', the full stop of the roast. Music holds.",
+   "cut_reason": "The lid tap is the full stop. Cuts on 'Or…' into the match-cut reveal.",
+   "source_lane": "owned-phone",
+   "tool_rec": "iPhone 60fps, low. AI fallback per ai_production_rules: ONE locked plate of the bin, with the wrapper composited in the edit.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S12-PROD-reveal-match",
+   "t_in": 10.75,
+   "t_out": 13.45,
+   "section": "REVEAL",
+   "shot_type": "CU, hand at lens (match cut to S4)",
+   "angle_or_room": "The bathroom vanity in daylight again: identical tripod framing and light to S4 (the plan, redone).",
+   "what_we_see": "Match cut. The same hand lunges up from bottom-right into the S4 position, now holding the PLAIN BLACK UNDERWEAR (the real CJ sample, SKU CJNSNYNK00343) by the waistband. Both hands stretch the waistband wide and hold it. Plain black, no lace, no logo. Rise, waistband, leg line and sheen are exactly the sample's. Front-on; the gusset is never shown and it is never backlit.",
+   "motion_inside_shot": "Lunge-in and stop, mirroring S4. A slow waistband stretch on 'just underwear'. Editor push 100→108% on 'Plain black underwear'.",
+   "on_screen_text": "Warm Cream box, ~22-30%: 'Or… just underwear.' (10.8-13.45). The underwear sits at ~35-58%, clear of the text.",
+   "vo_or_dialogue": "\"Or… just underwear. Plain black underwear.\" (narrator, 10.8-13.3)",
+   "sfx": "Reverse-cymbal riser into 'Or…', then the music opens up warm on 'just underwear'. A satisfying fabric-stretch.",
+   "cut_reason": "Product hold WITH motion (2.7s, under the 4s cap): the first clear look at what ships. Cuts on 'Not a pad' to a new angle.",
+   "source_lane": "owned-phone",
+   "tool_rec": "iPhone 4K/60fps on S4's tripod marks with the real sample (zero drift). Fallback: Nano Banana Pro still generated STRICTLY from the 5 sample photos (as image references, never from text) + Kling 2.x stretch. Reject any lace, logo, rise or sheen drift.",
+   "blocked_on": "CJ sample + the 5 reference photos (SKU CJNSNYNK00343: flat front, flat back, side, stretched, under leggings)"
+  },
+  {
+   "shot_id": "S13-PROD-turn-mcu",
+   "t_in": 13.45,
+   "t_out": 15.4,
+   "section": "REVEAL",
+   "shot_type": "MCU, 3/4 angle (product)",
+   "angle_or_room": "Same vanity, closer, a 3/4 angle (size and angle change).",
+   "what_we_see": "Closer 3/4: the hands turn the plain black underwear front → side → back with a light shake, so it reads as just a pair of plain black underwear. Then a thumb runs along the smooth waistband.",
+   "motion_inside_shot": "Turn and shake, then the thumb slides along the waistband.",
+   "on_screen_text": "Warm Cream box: 'Not a pad, not a diaper.' (13.45-15.4)",
+   "vo_or_dialogue": "\"Not a pad, not a diaper.\" (narrator, 13.45-15.15)",
+   "sfx": "Soft fabric flick.",
+   "cut_reason": "Room change on 'Just underwear', from the vanity to the bedroom.",
+   "source_lane": "owned-phone",
+   "tool_rec": "iPhone 4K/60fps with the real sample. Fallback: Nano Banana Pro from the 5 photos (front/side/back refs) + Kling 2.x turn.",
+   "blocked_on": "CJ sample + the 5 reference photos (SKU CJNSNYNK00343: flat front, flat back, side, stretched, under leggings)"
+  },
+  {
+   "shot_id": "F9-WOMAN-side-waist-pullup",
+   "t_in": 15.4,
+   "t_out": 17.2,
+   "section": "REVEAL",
+   "shot_type": "MS side-on, waist-to-knee crop",
+   "angle_or_room": "BEDROOM (the room change): soft window light, cream walls, the same warm grade.",
+   "what_we_see": "Side-on, waist to knee, with no face in frame. Same dusty-rose knit top, its hem covering the hip. She pulls black leggings up over the plain black underwear in one smooth getting-dressed move, then smooths the leggings at the thigh. Never crotch- or butt-centred, and no laugh, sneeze or jump.",
+   "motion_inside_shot": "One continuous pull-up from knee to waist, then a smoothing hand.",
+   "on_screen_text": "Warm Cream box pops word by word, ~24-32%: 'Wash.' (16.35) 'Hang.' (16.75) 'Wear again.' (17.15). It holds to 18.3.",
+   "vo_or_dialogue": "\"Just underwear. Wash, hang, wear…\" (narrator, 15.45-17.15)",
+   "sfx": "Soft fabric swish and a waistband snap; a light up-tempo lift in the music.",
+   "cut_reason": "Cuts on 'wear again'. The ease beat walks her out the door.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro start and end frames from the 5 sample photos (especially 'under leggings'), with the knit top and skin tone from the approved F1 still. Then Kling 2.x start/end interpolation (3s gen, use 1.8s). Alternative: owned-phone with a real woman in the same knit; the face is never in frame, so she doesn't need to match the AI face. Script fallback: hands stretching the underwear on the bed, then a knee-to-waistband pull-up with the top covering the hip.",
+   "blocked_on": "CJ sample + the 5 reference photos (SKU CJNSNYNK00343: flat front, flat back, side, stretched, under leggings)"
+  },
+  {
+   "shot_id": "S14-BR-hall-clutch-grab",
+   "t_in": 17.2,
+   "t_out": 18.3,
+   "section": "REVEAL",
+   "shot_type": "insert (hands)",
+   "angle_or_room": "Hallway console table by the front door (new location).",
+   "what_we_see": "Hands with the dusty-rose knit cuff scoop a small black clutch and keys off a hallway console table, heading out.",
+   "motion_inside_shot": "Grab and lift, exiting frame-top to set up the match-on-action.",
+   "on_screen_text": "'Wash. Hang. Wear again.' holds to 18.3.",
+   "vo_or_dialogue": "\"…again.\" (narrator, to 17.75)",
+   "sfx": "Keys jingle and the clutch clasp clicks.",
+   "cut_reason": "Match-on-action: the clutch leaves frame-top here and lands on the restaurant table in the next shot.",
+   "source_lane": "owned-phone",
+   "tool_rec": "Hand double in the same knit cuff, iPhone 60fps. Fallback: AI start frame + Kling 2.x.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S15-BR-table-clutch-set",
+   "t_in": 18.3,
+   "t_out": 19.3,
+   "section": "CTA",
+   "shot_type": "insert, table-top CU",
+   "angle_or_room": "Back at the restaurant: the same golden set as the hook, at a new table-top angle.",
+   "what_we_see": "Her hand sets the black clutch down on the sunlit wood table next to the sparkling-water glass, and her knit sleeve slides into frame.",
+   "motion_inside_shot": "The clutch enters from frame-top and lands, completing S14's action.",
+   "on_screen_text": "(none, per script)",
+   "vo_or_dialogue": "\"For the woman who'd rather…\" (narrator, 18.2-19.2)",
+   "sfx": "Clutch thunk on wood; the warm room tone returns and the music settles.",
+   "cut_reason": "Cuts on 'laugh' to her face: we're back at the table where it started.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro with the approved F1 still as the set and wardrobe reference, then Kling 2.x (5s, use 1.0s). It can't be owned-phone because the restaurant set is AI.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "F12-WOMAN-34-single",
+   "t_in": 19.3,
+   "t_out": 21.0,
+   "section": "CTA",
+   "shot_type": "MCU 3/4 single (new angle vs the hook)",
+   "angle_or_room": "Same restaurant, with the camera ACROSS the table at her 3/4 front, waist-up. The friend's soft shoulder edge sits at frame-left. Closer and from the opposite side to the hook's wide side two-shot, so it reads as a new moment.",
+   "what_we_see": "Same face, bun, knit and golden light as the hook. She settles into her chair, tucks her hair behind her ear and listens to her friend with an easy, closed-mouth smile, shoulders relaxed. No laugh, no relief exhale, no glance down at her lap.",
+   "motion_inside_shot": "She settles, tucks her hair and gives a small nod, with a slight handheld drift.",
+   "on_screen_text": "(none, per script). Optional, for Nikita: put the VO line in a cream box for muted viewers; it is the headline wording and adds no new claim.",
+   "vo_or_dialogue": "\"…laugh than cross her legs.\" (narrator, 19.3-20.9)",
+   "sfx": "Warm room tone and the soft murmur of the restaurant.",
+   "cut_reason": "Hands off to a punch-in after 'legs', giving the line a beat to land before the card.",
+   "source_lane": "AI start frame + motion",
+   "tool_rec": "Nano Banana Pro with the approved F1 still as the face/wardrobe/set reference, from the new camera position. Then Kling 2.x/3.0 (5s, silent, use 1.7s + 1.6s punch). Veo 3.1 also works if its audio is stripped. No lip-sync: she's listening, not speaking, so her mouth never seems to voice the narrator.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "F12-WOMAN-34-single-punch",
+   "t_in": 21.0,
+   "t_out": 22.6,
+   "section": "CTA",
+   "shot_type": "editor punch-in 118% (CU)",
+   "angle_or_room": "Same take as F12, punched to 118%.",
+   "what_we_see": "A 118% punch to a CU: she nods, smiles at her friend and reaches for her water glass. It reads as calm, easy and fully present.",
+   "motion_inside_shot": "Punch-in, then the reach for the glass.",
+   "on_screen_text": "(none)",
+   "vo_or_dialogue": "(no VO, 20.9-22.75: room tone and music breathe)",
+   "sfx": "Glass lifted; the music swells into the resolve.",
+   "cut_reason": "A claret wipe to the end card on the music beat at 22.6.",
+   "source_lane": "editor",
+   "tool_rec": "CapCut scale 100→118% on the F12 take. Generate F12 at 2k+ so the punch stays sharp.",
+   "blocked_on": ""
+  },
+  {
+   "shot_id": "S16-CARD-end",
+   "t_in": 22.6,
+   "t_out": 27.5,
+   "section": "END",
+   "shot_type": "card",
+   "angle_or_room": "Warm Cream #F5EDE6 end card.",
+   "what_we_see": "'leapproof' wordmark at ~16% (Fraunces, 'leap' Plum Ink + 'proof' italic Claret). Line 1 at ~24-30%: 'Stop! I'll pee myself!' (Fraunces, Plum Ink). Line 2 at ~33%: 'Not a pad, not a diaper.' (Hanken Grotesk). Line 3 at ~38%, smaller: '30 nights to see if they hold.' (Hanken Grotesk). A small REAL photo of the plain black underwear (flat front) sits centre-right at ~42-54%, above the Reels icon column. The Claret button 'Find my match ›' is at ~56-62%. A tiny Rose Taupe line reads 'Made with AI.' Everything sits inside the 4:5 crop and the 14-62% band.",
+   "motion_inside_shot": "22.6: claret wipe in (0.25s). 22.9: the underwear photo slides in from the right with a 2° settle. The lines stagger in with the VO. The button is on screen from 22.6 and pulses at 24.55 and on 'Find my match' (26.35).",
+   "on_screen_text": "Stop! I'll pee myself! / Not a pad, not a diaper. / 30 nights to see if they hold. / [Claret button] Find my match › / Made with AI.",
+   "vo_or_dialogue": "\"Not a pad, not a diaper. Thirty nights to see if they hold. Find my match.\" (narrator, 22.75-27.05)",
+   "sfx": "A soft tick as each line lands; the music button/resolve hits at ~27.05.",
+   "cut_reason": "Ends at 27.5. The card holds 4.9s with continuous motion and the button visible throughout.",
+   "source_lane": "editor",
+   "tool_rec": "CapCut/Canva template in the brand fonts and colours. The product image is a real sample photo, never an AI render.",
+   "blocked_on": "The product photo needs the real sample (fallback: run the card without the photo; everything else is ready)."
+  }
+ ],
+ "pacing_check": {
+  "total_shots": 20,
+  "avg_shot_len_s": 1.38,
+  "longest_hold_s": 4.9,
+  "cuts_0_3s": 1,
+  "cuts_3_10s": 9,
+  "cuts_10s_end": 8,
+  "broll_or_insert_share": "71% (19.5s of 27.5s: hands macros, product, on-body, table inserts). The hook plate is 11% (3.1s) and the end card 18% (4.9s).",
+  "vo_fit_issues": [
+   "OVERALL: the locked VO with word swaps is 71 words, spoken 2.75→27.05s (24.3s), which is ~2.9 words/sec. At the brief's 2.4 wps it would need ~29.6s, 5.3s more than a 27.5s cut allows. The board is timed to a brisk ~2.9 wps narrator (≈4.6-5 syllables/sec). That is the MEASURED pace of our refs: UltraDries #6 hook 14 words / 5.0s = 2.8 wps; Everdries #14 'Pads weren't designed to be an incontinence solution' 8 words / 2.8s = 2.9 wps, body lines 3.4-3.5 wps. ElevenLabs speed ~1.05-1.1, staccato.",
+   "BRIDGE 'Three hours earlier. The plan? A panty liner.' (8 words after the word swap). The script gives it 0.9s (2.4-3.3), which can't fit; at 2.4 wps it needs 3.3s. The board lets it run 2.75-5.1s across the smear, the liner-at-lens shot and the peel, with the pictures cut to it.",
+   "'But a panty liner bunches. It shifts.' is 7 words in 2.2s (5.25-7.45) = 3.2 wps. PROPOSED TRIM T1: 'But it bunches. It shifts.' (−2 words, and it stops 'panty liner' being said twice within 1s).",
+   "'It feels like a diaper. And by tonight, it's in the trash.' is 12 words in 3.0s (7.6-10.6) = 4.0 wps by word count (~5 syll/s, all short words). This is the tightest line; the script also gave it 3.0s. PROPOSED TRIM T2: drop 'And' (−1). The reveal then lands on 'Or…' at ~10.5s instead of 10.75s.",
+   "WORD-SWAP ECHO: 'Or… just underwear. Plain black underwear.' plus 'Just underwear.' at 15.45 puts 'underwear' on air 4 times in ~5s. PROPOSED TRIM T3: drop 'Plain black underwear.', since the picture shows it (−3). T4: start the worn beat at 'Wash, hang, wear again.' (−2).",
+   "END CARD VO 'Not a pad, not a diaper. Thirty nights to see if they hold. Find my match.' is 16 words in 4.3s = 3.7 wps. PROPOSED TRIM T5: drop the repeated 'Not a pad, not a diaper.' from the VO only; it stays on screen (−6). With T1-T5 the VO is 57 words ≈ 2.35 wps, the full 2.4 rule, and the reveal lands at ~10.0s as the script intended.",
+   "DIEGETIC LINE 'Stop — I'll pee myself!' is 4 words in ~0.9s. That's natural for a shouted laugh-line, but if Veo's best take runs long, let the freeze land up to 1.5s. Everything after slides +0.3s and the end card shortens from 4.9s to 4.6s (still within 3-5s)."
+  ],
+  "notes": "This beats the refs. There are 9 cuts in 3-10s vs UltraDries #6's 8 and Everdries #14's 2, and the average shot is 1.38s vs their 2.6s/5.5s. Every cut in 3-10s lands on a VO word (bunches / shifts / diaper / tonight / trash) with a foley hit. The hook is ONE continuous framing for 2.7s, like the refs' ~3s held hooks, but carries 6 in-frame events (laugh, slap, line, clutch, freeze plus scratch, 3 text pops) instead of their 1-2. Locations change on every scene (restaurant → vanity → bed → vanity → night → bathroom floor → vanity match cut → BEDROOM → hallway → restaurant 3/4 → card), the woman never holds one angle for more than 1.7s, and no shot runs past 2.7s before the end card. LONG CUT (~40-45s): the same hook and end card, plus the 3-4s clutch pack ritual after the rewind, a second 'shifts' macro, ~1.5s longer reveal and pull-up holds, one extra everyday leggings move, and a 1.5s longer return to the table."
+ },
+ "broll_map": [
+  "3.1s: S4 vanity, hand lunges to the lens holding a pastel-wrapped panty liner (owned-phone)",
+  "4.4s: S5 vanity top-down ECU, thumb peels the wrapper and the clean liner slides half out",
+  "5.25s: S6 bedroom duvet top-down, the panty liner pressed into nude everyday underwear",
+  "6.4s: S7 duvet ECU, the panty liner buckles into a ridge on 'bunches'",
+  "7.0s: S8 low side-angle by the window, the panty liner skews off-centre on 'shifts'",
+  "7.6s: S9 vanity side-on macro, a pinch shows its padded thickness",
+  "8.4s: S9 punch-in 120% plus a plastic crinkle on 'diaper'",
+  "9.1s: S10 vanity at night, the panty liner folded back into its wrapper on 'by tonight'",
+  "9.8s: S11 bathroom floor, the wrapper bundle drops into a white pedal bin; lid taps on 'trash' (~10.3s)",
+  "10.75s: S12 vanity MATCH CUT, the same hand at the lens now holding the plain black underwear, stretched (BLOCKED on sample/photos)",
+  "13.45s: S13 vanity 3/4 MCU, the underwear turned front → side → back (BLOCKED)",
+  "15.4s: F9 BEDROOM, side-on waist-to-knee leggings pull-up over the black underwear (AI, BLOCKED)",
+  "17.2s: S14 hallway console, hand scoops the black clutch and keys (owned-phone)",
+  "18.3s: S15 restaurant table-top, the clutch lands next to the water glass (AI, matches S14's action)",
+  "19.3s: F12 restaurant 3/4 single, she settles in smiling, listening (AI)",
+  "21.0s: F12 punch-in 118%, she nods and reaches for her water (editor)"
+ ],
+ "anchors_first": [
+  "ANCHOR 1: the F1 frame-0 still (Nano Banana Pro, 9:16, 2k). It locks her face, the dusty-rose knit and black leggings, the bright golden restaurant grade and the text-map layout, and it IS the thumbnail. S15 and F12 (and F9's wardrobe) are generated FROM it, so nothing else starts until it's approved.",
+  "ANCHOR 2: the F1 Veo 3.1 take (from the approved still, tool-voiced). This is the riskiest single shot: one take has to deliver a believable laugh-voice on 'Stop — I'll pee myself!' and a readable side-on clutch by ~1.1s. If 2-3 takes can't land it, switch to the fallback before spending on anything else. No b-roll or product generation before both anchors are approved."
+ ],
+ "assets_needed": [
+  {
+   "asset": "The 5 reference photos of the CJ sample (SKU CJNSNYNK00343): flat front, flat back, side, stretched, under black leggings",
+   "lane": "owned-phone",
+   "status": "needs CJ photos (BLOCKS S12, S13, F9 and the end-card photo)"
+  },
+  {
+   "asset": "The physical CJ sample, for the owned-phone reveal/turn shots (S12, S13), shot on S4's tripod marks",
+   "lane": "owned-phone",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "Female hand double with short natural nails, a thin gold ring and a dusty-rose knit cuff matching the AI woman's top (S4-S11, S14)",
+   "lane": "owned-phone",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "Props: individually wrapped clean white panty liners in plain pastel wrappers with no brand marks; plain nude everyday cotton underwear; white pedal bin; small black clutch and keys; cream duvet; bright bathroom vanity",
+   "lane": "owned-phone",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "Tripod plus phone mount (top-down rig for S6/S7) and an iPhone at 4K/60fps",
+   "lane": "owned-phone",
+   "status": "needs Nikita"
+  },
+  {
+   "asset": "F1 hook still (Nano Banana Pro) + Veo 3.1 take with native audio",
+   "lane": "AI start frame + motion",
+   "status": "needs Nikita (generator OK and credits; nothing else blocks it)"
+  },
+  {
+   "asset": "S15 table insert, F12 3/4 single (Nano Banana Pro from F1 + Kling 2.x)",
+   "lane": "AI start frame + motion",
+   "status": "needs Nikita (after anchor approval)"
+  },
+  {
+   "asset": "F9 leggings pull-up start/end frames + Kling interpolation",
+   "lane": "AI start frame + motion",
+   "status": "needs CJ photos"
+  },
+  {
+   "asset": "ElevenLabs brand narrator VO (warm, wry woman, 30s), recorded first, lines as word-swapped (plus T1-T5 if approved)",
+   "lane": "editor",
+   "status": "needs Nikita (US vs AU accent; trims)"
+  },
+  {
+   "asset": "SFX: record scratch, tape-rewind chirp, whoosh, reverse cymbal, wrapper peel/crinkle, fabric scrunch/swish/stretch, foam squish, bin-lid tap, clutch clasp, keys, table slap, restaurant room tone. Music: light bouncy bed from Meta Sound Collection",
+   "lane": "editor",
+   "status": "ready"
+  },
+  {
+   "asset": "Brand kit: Hanken Grotesk ExtraBold, Fraunces, Plum Ink / Claret / Warm Cream / Rose Taupe, 'leapproof' wordmark, Claret pill, cream caption box, 'Dramatization' label, end-card template",
+   "lane": "editor",
+   "status": "ready"
+  }
+ ],
+ "generation_estimate": "Floor: stills 4 (F1 frame 0, S15 table insert, F12 3/4 single, F9 start frame) + 1 F9 end frame = 5 stills. Video gens 4 (F1 Veo 3.1 tool-voiced, S15 Kling, F12 Kling, F9 Kling start/end interpolation). Lip-sync passes 0, because the hook is Veo tool-voiced and nobody else speaks on camera. Plus 1 ElevenLabs narrator render. Realistic with rerolls: ~8-10 stills, ~8-10 video gens (budget 2-3 Veo takes for the clutch). If the hand double or sample fall through, the AI fallback for the liner macros, S14 and the product shots adds up to ~10 stills + ~10 Kling gens. The ElevenLabs hook fallback adds 1 TTS line and 0 lip-sync passes (embed-then-mute).",
+ "word_swaps_applied": [
+  "\"A liner.\" → \"A panty liner.\" (bridge VO 'Three hours earlier. The plan? A panty liner.' and its caption 'The plan? A panty liner.', first mention, S4/S5)",
+  "\"But a liner bunches.\" → \"But a panty liner bunches.\" (VO, S6/S7; trim T1 'But it bunches.' proposed)",
+  "\"Plain black briefs.\" → \"Plain black underwear.\" (reveal VO, S12)",
+  "\"plain black brief\" → \"plain black underwear\" (every shot description and label: S12, S13, F9, end-card product photo)",
+  "\"liner\" → \"panty liner\" (every shot description and label, S4-S11)",
+  "AI caption line \"Product images based on the real brief.\" → \"Product images based on the real underwear.\" (primary-text disclosure line per ai_production_rules)",
+  "Primary text (outside the board, same rule): \"lipstick, keys, and a liner\" → \"lipstick, keys, and a panty liner\"; \"Plain black briefs.\" → \"Plain black underwear.\""
+ ],
+ "compliance_flags": [
+  "ALCOHOL: the creative plan's hook has the friend's WINE glass; the board swaps it for sparkling water with lemon (brief: no alcohol props).",
+  "BIN SHOT: script beat 5 drops 'the liner' into the bin. Per ai_production_rules a liner is never shown loose or unwrapped in a bin (it reads as used), so S10 folds it back into its pastel wrapper and S11 drops the wrapped bundle.",
+  "NO LAUGH AFTER THE PRODUCT: the script's return beat says 'no hard laugh'. The brief's hard rule is stricter (no laugh at all after the product appears), so F12 is smile, listen, nod and sip only. Reject any take with a chuckle, a relief exhale, a glance at her lap or a 'phew' look, because that would settle the moment and become an implied performance claim from an AI render.",
+  "HOOK FRAMING: the clutch is a hand on the upper thigh at the table edge, side-on. Reject any crotch-centred take (Meta adult-content risk). No wet cue; the 'Dramatization' label runs 0.0-2.7s, extended from 2.4s because the freeze now ends at 2.7s.",
+  "AI DISCLOSURE: on-screen 'Dramatization' (hook), 'Made with AI.' on the end card, the word-swapped primary-text line, the Ads Manager AI toggle, and C2PA kept from Veo/Nano Banana. CHECK that the CapCut export doesn't strip C2PA; if it does, export from a tool that keeps it.",
+  "MARKET WORDING (not applied, Nikita's call): the brief says the ICP is in Australia, but the script's VO and caption are US ('trash'). For an AU launch, 'trash' → 'bin' in VO and caption, and use an AU narrator.",
+  "BEFORE ANY SPEND (from the script, still open): '30 nights to see if they hold.' is fine only as the live guarantee, but the guarantee terms aren't live on the landing yet, so the end-card promise would be an undisclosed guarantee until they are."
+ ],
+ "open_for_nikita": [
+  "HOOK VOICE: OK to make the laugh line Veo 3.1 tool-voiced (1 generation, no lip-sync, recommended), with ElevenLabs embed-then-mute only as the fallback? And confirm the generators: Nano Banana Pro for stills, Veo 3.1 for the hook, Kling 2.x for everything else.",
+  "VO PACE: run the locked lines at ~2.9 words/sec (our refs' measured pace, reveal at ~10.75s), or approve trims T1-T5 (≈2.35 wps, reveal at ~10.0s, and no 'underwear ×4' echo from the word swap)?",
+  "FREEZE LINE: keep 'Yep. The laugh that comes with a little pee.' (recommended, held 1.5s in 3 pops), and test 'Laughing shouldn't require crossing your legs.' as the hook-B variant on the same body?",
+  "WHO FILMS + ACCENT: can you get a female hand double in a dusty-rose knit for the panty-liner macros now (shoot S4 with the tripod marked) and the product shots when the sample lands? And is the narrator US ('trash') or AU ('bin')?"
+ ]
+}
