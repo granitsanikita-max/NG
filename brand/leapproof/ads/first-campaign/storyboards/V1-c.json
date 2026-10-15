@@ -49,7 +49,7 @@
     "proven_anchor": "\"Do NOT buy Everdries tomorrow or the day after that.\" (Everdries #1 video, 323d)"
    }
   ],
-  "note": "The recommended line is the locked script line, wording unchanged. I changed two things. (1) The hook style is now the Claret pill instead of the script's Plum-on-Cream box: a cream box disappears against a cream bathroom wall, and the brief sets the Claret pill as the max-contrast hook. (2) 'Not a pad, not a diaper.' now lands at 1.6s and the hook ends at 2.5s, not 2.2s, so the line is readable for ~0.9s. The first alternate is the one I'd test against it first. Nikita chiefs any wording change."
+  "note": "The recommended line is the locked script line, wording unchanged. I changed two things. (1) The hook style is now the Claret pill instead of the script's Plum-on-Cream box: a cream box disappears against a cream bathroom wall, and the build rules set the Claret pill as the max-contrast hook. (2) 'Not a pad, not a diaper.' now lands at 1.6s and the hook ends at 2.5s, not 2.2s, so the line is readable for ~0.9s. The first alternate is the one I'd test against it first. Nikita chiefs any wording change."
  },
  "visual_hook_build": {
   "miro": "#33 Camera Wipe (in-category proof: Mireva 25242369045401076 and Hoooyi 1648680299903591, 174d). Backup: #61 Object Into Lens.",
@@ -501,7 +501,7 @@
   "broll_or_insert_share": "85% (29.0s of 34s is b-roll, product or people; only the 5s end card is a card)",
   "vo_fit_issues": [
    "RUNTIME: the locked VO is 69 spoken words = 28.8s at 2.4 w/s. Starting at 2.5s, with the pile's staccato pauses and a 1s music breath in the getting-dressed beat, the main cut lands at 34.0s, not the script's ~33s. Proposed trim to get back to ~33s: see the next line.",
-   "Beat 5 (13.7–20.8): 17 words = 7.1s in a 7.1s window, zero slack. The word swap makes it worse: 'Plain black briefs' → 'Plain black underwear' adds ~0.3s and creates an underwear/underwear echo ('Or… there's underwear. Plain black underwear.'). PROPOSED TRIM (Nikita OKs): 'Or… plain black underwear.' (−2 words, −0.9s). That brings the main cut to ~33s.",
+   "Beat 5 (13.7–20.8): 17 words = 7.1s in a 7.1s window, zero slack. The word swap makes it worse: 'Plain black underwear' → 'Plain black underwear' adds ~0.3s and creates an underwear/underwear echo ('Or… there's underwear. Plain black underwear.'). PROPOSED TRIM (Nikita OKs): 'Or… plain black underwear.' (−2 words, −0.9s). That brings the main cut to ~33s.",
    "Beat 4 pile (6.3–13.7): 17 words = 7.1s in 7.4s. It fits only at a brisk staccato read (ElevenLabs speed ~1.05). If the read comes in slower, let 'Tomorrow, a new one.' overlap the whip into S12 rather than cut a word.",
    "'Worn again — not binned.' (4 words, 1.7s) runs ~0.2s past S17 into F1. That's fine as an L-cut, because the next VO line starts at 21.0.",
    "Hook: VO-free 0–2.5s by design (the hook lives in SFX + text). Both primary refs talk from frame 0 (UltraDries #6 and Everdries #14), and V1-a talks from 0.1s. I recommend testing a variant where the narrator reads the burned-in hook from 0.3s ('The sneeze-pee plan… a sticker. Or… underwear.', 6 words in 2.2s, which fits). It adds no time and makes sound-on viewers get words, not just music, in the first 2.5s. See open_for_nikita.",
@@ -611,7 +611,7 @@
   "Caption (primary text, for the ad build): 'A liner is a sticker.' → 'A panty liner is a sticker.' · 'plain black briefs' → 'plain black underwear' · 'Product images based on the real brief.' → 'Product images based on the real underwear.'"
  ],
  "compliance_flags": [
-  "ALIVE MOMENT vs HARD RULE: the script's beat 6 offers 'a real, easy laugh with a friend over coffee'. The brief bans any sneeze/jump/laugh performed AFTER the product appears, because a laugh straight after the underwear reads as a performance claim. I boarded the script's other option instead: a warm smile, a coffee handoff with a friend and walking off together (F5). No laugh, no leak acted, no children. Nikita confirms (script Q6).",
+  "ALIVE MOMENT vs HARD RULE: the script's beat 6 offers 'a real, easy laugh with a friend over coffee'. The build rules ban any sneeze/jump/laugh performed AFTER the product appears, because a laugh straight after the underwear reads as a performance claim. I boarded the script's other option instead: a warm smile, a coffee handoff with a friend and walking off together (F5). No laugh, no leak acted, no children. Nikita confirms (script Q6).",
   "AI disclosure: a small 'AI-generated' tag on every AI-woman shot (F1–F5), plus the caption line, C2PA/IPTC kept on export and the Ads Manager AI toggle. The bin plates are AI objects and are covered by the caption line. If the woman is ever filmed for real, drop the tag.",
   "Body framing (F1): strictly side-on, waist-to-knee, the top covering the hip, the underwear visible only on the side of the thigh for ~0.5s. Reject any take framed on the butt or crotch.",
   "Wash shot (S13): a plain drum, NO mesh wash bag. The Wash Bag is a bundle gift, and gifts don't go on screen.",

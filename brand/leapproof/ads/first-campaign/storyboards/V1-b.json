@@ -437,7 +437,7 @@
   "cuts_10s_end": 8,
   "broll_or_insert_share": "71% (19.5s of 27.5s: hands macros, product, on-body, table inserts). The hook plate is 11% (3.1s) and the end card 18% (4.9s).",
   "vo_fit_issues": [
-   "OVERALL: the locked VO with word swaps is 71 words, spoken 2.75→27.05s (24.3s), which is ~2.9 words/sec. At the brief's 2.4 wps it would need ~29.6s, 5.3s more than a 27.5s cut allows. The board is timed to a brisk ~2.9 wps narrator (≈4.6-5 syllables/sec). That is the MEASURED pace of our refs: UltraDries #6 hook 14 words / 5.0s = 2.8 wps; Everdries #14 'Pads weren't designed to be an incontinence solution' 8 words / 2.8s = 2.9 wps, body lines 3.4-3.5 wps. ElevenLabs speed ~1.05-1.1, staccato.",
+   "OVERALL: the locked VO with word swaps is 71 words, spoken 2.75→27.05s (24.3s), which is ~2.9 words/sec. At the build rules' 2.4 wps it would need ~29.6s, 5.3s more than a 27.5s cut allows. The board is timed to a brisk ~2.9 wps narrator (≈4.6-5 syllables/sec). That is the MEASURED pace of our refs: UltraDries #6 hook 14 words / 5.0s = 2.8 wps; Everdries #14 'Pads weren't designed to be an incontinence solution' 8 words / 2.8s = 2.9 wps, body lines 3.4-3.5 wps. ElevenLabs speed ~1.05-1.1, staccato.",
    "BRIDGE 'Three hours earlier. The plan? A panty liner.' (8 words after the word swap). The script gives it 0.9s (2.4-3.3), which can't fit; at 2.4 wps it needs 3.3s. The board lets it run 2.75-5.1s across the smear, the liner-at-lens shot and the peel, with the pictures cut to it.",
    "'But a panty liner bunches. It shifts.' is 7 words in 2.2s (5.25-7.45) = 3.2 wps. PROPOSED TRIM T1: 'But it bunches. It shifts.' (−2 words, and it stops 'panty liner' being said twice within 1s).",
    "'It feels like a diaper. And by tonight, it's in the trash.' is 12 words in 3.0s (7.6-10.6) = 4.0 wps by word count (~5 syll/s, all short words). This is the tightest line; the script also gave it 3.0s. PROPOSED TRIM T2: drop 'And' (−1). The reveal then lands on 'Or…' at ~10.5s instead of 10.75s.",
@@ -537,12 +537,12 @@
   "Primary text (outside the board, same rule): \"lipstick, keys, and a liner\" → \"lipstick, keys, and a panty liner\"; \"Plain black briefs.\" → \"Plain black underwear.\""
  ],
  "compliance_flags": [
-  "ALCOHOL: the creative plan's hook has the friend's WINE glass; the board swaps it for sparkling water with lemon (brief: no alcohol props).",
+  "ALCOHOL: the creative plan's hook has the friend's WINE glass; the board swaps it for sparkling water with lemon (rule: no alcohol props).",
   "BIN SHOT: script beat 5 drops 'the liner' into the bin. Per ai_production_rules a liner is never shown loose or unwrapped in a bin (it reads as used), so S10 folds it back into its pastel wrapper and S11 drops the wrapped bundle.",
-  "NO LAUGH AFTER THE PRODUCT: the script's return beat says 'no hard laugh'. The brief's hard rule is stricter (no laugh at all after the product appears), so F12 is smile, listen, nod and sip only. Reject any take with a chuckle, a relief exhale, a glance at her lap or a 'phew' look, because that would settle the moment and become an implied performance claim from an AI render.",
+  "NO LAUGH AFTER THE PRODUCT: the script's return beat says 'no hard laugh'. The build rules' hard rule is stricter (no laugh at all after the product appears), so F12 is smile, listen, nod and sip only. Reject any take with a chuckle, a relief exhale, a glance at her lap or a 'phew' look, because that would settle the moment and become an implied performance claim from an AI render.",
   "HOOK FRAMING: the clutch is a hand on the upper thigh at the table edge, side-on. Reject any crotch-centred take (Meta adult-content risk). No wet cue; the 'Dramatization' label runs 0.0-2.7s, extended from 2.4s because the freeze now ends at 2.7s.",
   "AI DISCLOSURE: on-screen 'Dramatization' (hook), 'Made with AI.' on the end card, the word-swapped primary-text line, the Ads Manager AI toggle, and C2PA kept from Veo/Nano Banana. CHECK that the CapCut export doesn't strip C2PA; if it does, export from a tool that keeps it.",
-  "MARKET WORDING (not applied, Nikita's call): the brief says the ICP is in Australia, but the script's VO and caption are US ('trash'). For an AU launch, 'trash' → 'bin' in VO and caption, and use an AU narrator.",
+  "MARKET WORDING (not applied, Nikita's call): the build rules say the ICP is in Australia, but the script's VO and caption are US ('trash'). For an AU launch, 'trash' → 'bin' in VO and caption, and use an AU narrator.",
   "BEFORE ANY SPEND (from the script, still open): '30 nights to see if they hold.' is fine only as the live guarantee, but the guarantee terms aren't live on the landing yet, so the end-card promise would be an undisclosed guarantee until they are."
  ],
  "open_for_nikita": [
