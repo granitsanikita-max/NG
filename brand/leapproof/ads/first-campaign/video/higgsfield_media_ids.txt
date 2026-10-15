@@ -1,0 +1,8 @@
+avatar=98bea1e7-0b44-425d-8fe3-79e888d44073
+pose-carboot=85f5b73b-1489-48b6-8c67-52dc02d52b39
+pose-restaurant=4a9a7b43-5b13-4d95-a7e7-132cab3b4dab
+product-store=9c8550ca-f332-4543-aefb-507d8490b0f5
+product-real=44506ee7-fca6-40ec-8514-f8adabd89e86
+liner-char-job=f2b037b8-47db-42c2-9a13-9af087946a6b
+undies-char-job=791ae56d-e134-47c6-bdf6-69af5e0a85c4
+avatar-leggings-job=a1e83422-ec33-4f5c-b327-81932140ea17
