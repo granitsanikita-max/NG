@@ -1,0 +1,1199 @@
+{
+ "V1-a": {
+  "recording": "rec1_111733.mp3 (ElevenLabs 11:17:33)",
+  "vo_len": 29.73,
+  "vo_offset": 0.0,
+  "vo_edit": "None. Use the recording as-is from 0.00. Optional: trim the opening [sigh] (0.12-0.61) for a snappier hook \u2014 every time below then shifts -0.5s.",
+  "total": 30.5,
+  "shots": [
+   {
+    "shot_id": "S1-BR-handbag-pov",
+    "lane": "broll",
+    "t_in": 0.0,
+    "t_out": 2.95,
+    "dur": 2.95,
+    "vo_on_shot": "[ACHOO SFX 0.00-0.30] [sigh] 'Sneeze. Little pee.'",
+    "planned_t": [
+     0.0,
+     2.2
+    ],
+    "what_we_see": "FRAME 0: one clean white panty liner in a long, flat, pale-pink unbranded wrapper fills ~40-45% of the frame, dead-centre in the 30-62% height band, tilted ~25 deg, pin-sharp (10-12cm from the lens). Behind it and out of focus: a plain key ring and a phone lying screen-down in a plain case - the only two other items, both dark. Above: the bag mouth is a bright oval of daylight. At most a soft blur of her chin/shoulder at the top edge; her face is never sharp. No stains, no brand marks.",
+    "angle": "Inside her open tan leather zip-top tote, sitting on her lap in the driver's seat of a parked car (supermarket car park, driver door open). The phone lies at the bottom of the bag looking up at ~45 deg out of the open mouth toward the overcast sky / open door.",
+    "motion": "Clip starts 3 frames before the jolt so frame 0 has a sharp liner while the pill pops in. 0.10-0.35 JOLT (in-camera): the bag drops ~4cm and bounces on her lap, the keys slide, the liner hops and resettles in the sharp plane, the daylight in the mouth jumps; editor adds a 3-5 frame accent shake. 0.60-1.30 her right hand (short natural nails, thin gold band) dives in from the top of the mouth, fingers spread, past the blurred keys, straight toward the lens, and pinches the liner by its tab (liner stays >=60% visible until the grip). 1.30-2.05 she yanks it up and out toward the light (motion blur, the mouth flares bright). 2.05-2.20 the back of her hand sweeps across the lens (dark wipe) = hidden cut.",
+    "on_screen_text": "0.00 Claret pill, cream text: 'Sneeze. Little pee.' (pops in over frames 0-4, ~18% from top). 1.30 a Warm Cream box stacks UNDER it (line 1 stays): 'Still packing a spare panty liner?'. 1.90 the \ud83d\ude44 pops onto the end of line 2.",
+    "sfx": "0.00 muffled ACHOO (low-passed, as if heard from inside the bag); 0.10 leather thump + key jangle on the jolt; 0.70 lining rustle; 1.25 wrapper crinkle on the grip; 1.80 whoosh up and out. Music bed (wry, light plucked) starts low at 0.00.",
+    "cut_reason": "Hidden cut inside the hand-wipe at 2.20: the back of her hand covers the lens in both clips, so the exit from the bag reads as ONE continuous move. That follows the pacing law (no visible hard cut in 0-3s) and still lands the liner in daylight before the question ends."
+   },
+   {
+    "shot_id": "S2-BR-car-liner-holdup",
+    "lane": "broll",
+    "t_in": 2.95,
+    "t_out": 5.15,
+    "dur": 2.2,
+    "vo_on_shot": "'Still packing a spare panty liner?'",
+    "planned_t": [
+     2.2,
+     3.0
+    ],
+    "what_we_see": "Her hand holds the wrapped panty liner ~20cm from the lens, centred, long axis vertical, against a softly blurred dashboard and windscreen. Daylight on the wrapper. No face.",
+    "angle": "Same car, driver's seat. Phone handheld at her chest height facing the windscreen; plain dash, steering-wheel badge taped over or out of frame, overcast car park soft through the glass.",
+    "motion": "2.20-2.40 the hand pulls back from the lens (the reverse of the wipe) to reveal the liner. 2.55-2.85 her thumb flicks the wrapper tab so it pops half-open and the white liner edge shows (half-peeled in hand is allowed), with a tiny 'see?' waggle on 'liner?'.",
+    "on_screen_text": "Both hook lines stay up across the wipe: 'Sneeze. Little pee.' / 'Still packing a spare panty liner? \ud83d\ude44'",
+    "sfx": "2.20 soft thunk-whoosh out of the wipe; 2.60 wrapper-tab 'tk' crinkle.",
+    "cut_reason": "Cut on the question mark: the hook is paid off, so hard cut into the liner's day."
+   },
+   {
+    "shot_id": "S3-BR-bed-stick-topdown",
+    "lane": "broll",
+    "t_in": 5.15,
+    "t_out": 6.85,
+    "dur": 1.7,
+    "vo_on_shot": "'Here's that liner's day.'",
+    "planned_t": [
+     3.0,
+     4.4
+    ],
+    "what_we_see": "A light-grey marl everyday cotton pair laid flat (NOT black, so it can never be confused with the reveal). A fresh panty liner, release strip half-peeled, is held over its gusset.",
+    "angle": "Bedroom, morning. Top-down, tripod-locked macro over a cream duvet with soft window light from frame-left.",
+    "motion": "3.10-3.70 her thumb peels the release strip away and it curls off frame-right. 3.85-4.20 on 'day' her palm pats the liner down onto the grey pair.",
+    "on_screen_text": "'That liner's day:' (Warm Cream box, Plum Ink, upper safe zone)",
+    "sfx": "3.00 sticker-peel 'rrip' on the cut; 4.15 soft pat.",
+    "cut_reason": "Cut on 'day': the bridge has been said, so the roast starts."
+   },
+   {
+    "shot_id": "S4-BR-bed-bunch-ecu",
+    "lane": "broll",
+    "t_in": 6.85,
+    "t_out": 7.95,
+    "dur": 1.1,
+    "vo_on_shot": "'It bunches.'",
+    "planned_t": [
+     4.4,
+     5.3
+    ],
+    "what_we_see": "ECU side-on: the liner stuck on the grey pair fills the lower half; duvet texture soft behind.",
+    "angle": "Same bed, new angle: lens at duvet level, side-on macro, raking light.",
+    "motion": "4.50-5.05 two fingertips push in from both sides; the liner creases and rucks into a ridge that rises toward the lens on 'bunches' (rack focus to the ridge).",
+    "on_screen_text": "'Bunches.'",
+    "sfx": "4.40 fabric scrunch 'fff' on the cut.",
+    "cut_reason": "Cut the instant the ridge peaks."
+   },
+   {
+    "shot_id": "S5-BR-vanity-shift",
+    "lane": "broll",
+    "t_in": 7.95,
+    "t_out": 8.9,
+    "dur": 0.95,
+    "vo_on_shot": "'It shifts.'",
+    "planned_t": [
+     5.3,
+     6.05
+    ],
+    "what_we_see": "The grey pair lies on the folded towel with the liner already sitting crooked.",
+    "angle": "NEW ROOM: bathroom vanity, midday. White tiles, a folded white towel, raking window light, 3/4 high angle.",
+    "motion": "5.35-5.85 a fingertip lifts the liner's corner and drags it further sideways, so it skews off-centre on 'shifts'.",
+    "on_screen_text": "'Shifts.'",
+    "sfx": "5.30 tacky peel-drag 'tchk'.",
+    "cut_reason": "Cut on the skew. A new room on every roast cut keeps it moving (UltraDries #6 rule: never the same room twice in a row)."
+   },
+   {
+    "shot_id": "S6-BR-gymbag-crinkle",
+    "lane": "broll",
+    "t_in": 8.9,
+    "t_out": 10.55,
+    "dur": 1.65,
+    "vo_on_shot": "'It feels like a diaper.'",
+    "planned_t": [
+     6.05,
+     7.2
+    ],
+    "what_we_see": "Her hand holds a clean, half-peeled panty liner in its pastel wrapper over the open gym bag.",
+    "angle": "NEW PLACE: inside an open gym bag on a timber bench, afternoon. Mesh pocket, an unbranded water bottle and a sweat towel out of focus.",
+    "motion": "6.15-6.70 her fingers squeeze the liner and it crumples with a plasticky crinkle. 6.80-7.05 on 'diaper' they let go and it springs back puffy.",
+    "on_screen_text": "'Feels like a diaper.'",
+    "sfx": "6.05 loud plastic crinkle on the cut.",
+    "cut_reason": "Cut on the spring-back."
+   },
+   {
+    "shot_id": "S7-BR-bin-night",
+    "lane": "broll",
+    "t_in": 10.55,
+    "t_out": 12.25,
+    "dur": 1.7,
+    "vo_on_shot": "'Another one in the trash.'",
+    "planned_t": [
+     7.2,
+     8.55
+    ],
+    "what_we_see": "A hand drops a panty liner rolled up in its pastel wrapper (never loose, never unwrapped) into the bin.",
+    "angle": "NEW LIGHT: bathroom at night under warm lamplight. Low locked angle at bin height; a white pedal bin on cream tiles, lid held open (foot off-screen on the pedal).",
+    "motion": "7.30-7.80 the rolled wrapper drops in. 8.25-8.40 the foot comes off the pedal and the lid falls shut with a tap on 'trash'.",
+    "on_screen_text": "'Another one in the trash.'",
+    "sfx": "7.20 small drop 'pff'; 8.35 lid 'tok' on 'trash'.",
+    "cut_reason": "Cut on the lid tap, straight into the flash."
+   },
+   {
+    "shot_id": "S8-PROD-flash-stretch",
+    "lane": "prod",
+    "t_in": 12.25,
+    "t_out": 12.55,
+    "dur": 0.3,
+    "vo_on_shot": "(0.3s flash under 'Tomorrow,')",
+    "planned_t": [
+     8.55,
+     8.95
+    ],
+    "what_we_see": "0.4s flash: two hands hold the plain black underwear (CJ SKU CJNSNYNK00343: no lace, no logo) by the waistband, stretched taut, front-on, centred. It is the one dense black object in the whole roast.",
+    "angle": "Hard cut to a bright Warm Cream wall, front-lit (the S11 set).",
+    "motion": "A tiny waistband snap-taut inside the 12 frames: a 0.4s slice of S11's take.",
+    "on_screen_text": "'...or this.' (Warm Cream box)",
+    "sfx": "8.55 soft tick + short shimmer.",
+    "cut_reason": "Pre-tease: 0.4s plants the cure, then we cut back to the routine before it can be fully read. Paid off at 11.0s."
+   },
+   {
+    "shot_id": "S9-BR-hallway-drop",
+    "lane": "broll",
+    "t_in": 12.55,
+    "t_out": 13.55,
+    "dur": 1.0,
+    "vo_on_shot": "'Tomorrow, a new one.'",
+    "planned_t": [
+     8.95,
+     10.1
+    ],
+    "what_we_see": "The same tan tote from the hook sits open on a light timber hallway table, with plain keys beside it.",
+    "angle": "NEW PLACE: hallway table by the front door, next morning in cool fresh daylight. Top-down.",
+    "motion": "9.40-9.90 on 'new one' her hand drops a fresh pastel-wrapped panty liner into the bag; the keys are scooped up out of frame.",
+    "on_screen_text": "'Tomorrow, a new one.' (caption mirrors the locked VO)",
+    "sfx": "8.95 tiny 'pft' drop + key jingle.",
+    "cut_reason": "Action-match: cut mid-drop to inside the bag."
+   },
+   {
+    "shot_id": "S10-BR-handbag-pov-zip",
+    "lane": "broll",
+    "t_in": 13.55,
+    "t_out": 14.0,
+    "dur": 0.45,
+    "vo_on_shot": "(silent zip beat)",
+    "planned_t": [
+     10.1,
+     11.0
+    ],
+    "what_we_see": "The fresh liner lands in front of the lens and settles, sharp. The bag mouth is a bright rectangle above.",
+    "angle": "Inside the same tote with the same rig as S1 (callback), hallway light.",
+    "motion": "10.10-10.35 the liner drops into frame and bounces. 10.45-10.95 the zip runs across the mouth left to right and shuts the light off; the frame is near-black only for the last ~2 frames, a natural wipe into the reveal.",
+    "on_screen_text": "'Tomorrow, a new one.' stays up to 10.60, then clears.",
+    "sfx": "10.10 drop thud; 10.45 rising 'zzzip'; the music filter closes to a dull thud at 10.95, then 0.05s of silence.",
+    "cut_reason": "Zip-to-black wipe: the routine literally closes, and the reveal opens bright on 'Or...'."
+   },
+   {
+    "shot_id": "S11-PROD-stretch-hands",
+    "lane": "prod",
+    "t_in": 14.0,
+    "t_out": 15.95,
+    "dur": 1.95,
+    "vo_on_shot": "'Or... it could just be underwear.'",
+    "planned_t": [
+     11.0,
+     12.9
+    ],
+    "what_we_see": "Two hands hold the plain black underwear by the waistband, centred and filling ~50% of the frame. It is the same pair as the 8.5s flash, now held long enough to read: plain black, no lace, no logo.",
+    "angle": "Bedroom, bright: a Blush/cream wall with soft FRONT window light (no backlight through the fabric).",
+    "motion": "11.05 on 'Or...' the hands snap the waistband taut toward the lens. 11.40-12.90 a slow 105-112% editor push-in while the hands give a gentle second stretch.",
+    "on_screen_text": "'Or... just underwear.'",
+    "sfx": "11.00 the music lifts (filter opens, fuller arrangement); 11.05 elastic snap.",
+    "cut_reason": "Cut on 'underwear': the category has been named, so show it flat."
+   },
+   {
+    "shot_id": "S12-PROD-flatlay-smooth",
+    "lane": "prod",
+    "t_in": 15.95,
+    "t_out": 17.65,
+    "dur": 1.7,
+    "vo_on_shot": "'Plain black underwear.'",
+    "planned_t": [
+     12.9,
+     14.4
+    ],
+    "what_we_see": "The black underwear laid flat, front up, with nothing stuck to it.",
+    "angle": "Top-down on the S3 bed (cream duvet), late morning. A callback: the same spot where the liner was stuck at 3s.",
+    "motion": "13.00-13.30 the pair drops onto the duvet. 13.40-14.20 on 'Plain black underwear' both palms sweep outward from the centre and smooth it flat.",
+    "on_screen_text": "'Plain black underwear.'",
+    "sfx": "13.00 soft fabric land; 13.50 linen swish.",
+    "cut_reason": "Cut as the hands clear: next we see it on a body."
+   },
+   {
+    "shot_id": "F13-WOMAN-side-waist",
+    "lane": "ai",
+    "t_in": 17.65,
+    "t_out": 18.48,
+    "dur": 0.83,
+    "vo_on_shot": "'Pull them on'",
+    "planned_t": [
+     14.4,
+     15.9
+    ],
+    "what_we_see": "One consistent woman (30-45, everyday body cast to the measured size run) with a sports top on, covering the hip line. The plain black underwear is seen side-on at the hip; black leggings are bunched at her knees.",
+    "angle": "Bedroom, by the wardrobe (a different wall from S11; no mirrors). Side-on, waist-to-knee crop.",
+    "motion": "14.45-15.75 in one smooth move she pulls the leggings up from the knee, over the thigh, to the waist. The waistband lands on 'on' (15.65) and the top drops over the hip. Getting dressed only.",
+    "on_screen_text": "'Pull them on.' (caption mirrors the locked VO) + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+    "sfx": "14.40 leggings swish; 15.65 waistband 'thwap'.",
+    "cut_reason": "Cut on 'on' to the punch-in."
+   },
+   {
+    "shot_id": "F14-WOMAN-side-waist-punchin",
+    "lane": "dropped",
+    "t_in": 18.48,
+    "t_out": 18.48,
+    "dur": 0.0,
+    "vo_on_shot": "DROPPED \u2014 the read has no comma pause after 'on'",
+    "planned_t": [
+     15.9,
+     16.9
+    ],
+    "what_we_see": "Tight side-on: the leggings waistband at her waist, the sports top falling over the hip.",
+    "angle": "Same take as F13 with a 125% editor punch-in on the waistband at the waist, side-on.",
+    "motion": "She gives the top a small tug down over the hip and drops her hands: dressed, done.",
+    "on_screen_text": "'Pull them on.' stays up + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+    "sfx": "16.20 cloth tug.",
+    "cut_reason": "Cut as her hands drop, then jump location to the car park."
+   },
+   {
+    "shot_id": "F15-WOMAN-carboot-wide",
+    "lane": "ai",
+    "t_in": 18.48,
+    "t_out": 19.3,
+    "dur": 0.82,
+    "vo_on_shot": "'and go about'",
+    "planned_t": [
+     16.9,
+     19.2
+    ],
+    "what_we_see": "The same woman in the same sports top + black leggings + sneakers at the open boot of a hatchback with no badge. A trolley holds two LIGHT cloth grocery bags (no logos), with bread and greens poking out.",
+    "angle": "NEW LOCATION: supermarket car park, overcast (the hook's world, but outside now). 3/4 side, full figure. No signage, no car badge.",
+    "motion": "17.00-18.60 on 'go about the day' she lifts one light bag from the trolley and sets it in the boot. Easy, no strain.",
+    "on_screen_text": "'Go about the day.' (caption mirrors the locked VO) + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+    "sfx": "16.90 car-park ambience in (a distant trolley rattle); 18.30 bag set down.",
+    "cut_reason": "Cut as the bag lands, to the reverse angle from inside the boot."
+   },
+   {
+    "shot_id": "F16-WOMAN-boot-pov-low",
+    "lane": "ai",
+    "t_in": 19.3,
+    "t_out": 19.95,
+    "dur": 0.65,
+    "vo_on_shot": "'the day.'",
+    "planned_t": [
+     19.2,
+     21.1
+    ],
+    "what_we_see": "Her hands set a second light grocery bag down toward the lens. Her top and shoulders are soft behind, with overcast sky above the open boot lid.",
+    "angle": "Object-cam echo of the hook: the camera sits on the boot floor tilted UP ~40 deg, so the frame runs from her chest to the sky. Her waist is never in frame.",
+    "motion": "19.30-20.20 the bag comes down toward the lens and lands (bread and greens jiggle). 20.40-21.00 her hands slide it aside and she straightens out of frame.",
+    "on_screen_text": "None + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+    "sfx": "19.90 bag lands with a 'thump'.",
+    "cut_reason": "Cut as she straightens, into the close."
+   },
+   {
+    "shot_id": "F17-WOMAN-boot-close-mcu",
+    "lane": "ai",
+    "t_in": 19.95,
+    "t_out": 20.85,
+    "dur": 0.9,
+    "vo_on_shot": "'Not a pad.'",
+    "planned_t": [
+     21.1,
+     23.0
+    ],
+    "what_we_see": "She reaches up for the boot lid, with her phone in her other hand.",
+    "angle": "Car park, side-on medium at the boot.",
+    "motion": "21.30-22.00 she pulls the lid down and it shuts with a thunk at 22.00. 22.20-22.90 she turns away, relaxed.",
+    "on_screen_text": "None + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+    "sfx": "22.00 car-boot thunk; the music hits a small button.",
+    "cut_reason": "Cut on the turn: she walks off."
+   },
+   {
+    "shot_id": "F18-WOMAN-walkoff-wide",
+    "lane": "ai",
+    "t_in": 20.85,
+    "t_out": 21.95,
+    "dur": 1.1,
+    "vo_on_shot": "'Not a diaper.'",
+    "planned_t": [
+     23.0,
+     25.2
+    ],
+    "what_we_see": "Full figure: she walks off across the car park, unhurried, glancing at the phone in her hand. Her top covers the hip and her face is only a soft profile.",
+    "angle": "Car park, wide side-on with a slow lateral track.",
+    "motion": "She walks left to right through frame; the camera trails her slowly; a small glance down at the phone.",
+    "on_screen_text": "'Not a pad. Not a diaper.' + small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 80% opacity) while the AI woman is on screen (drop it if this shot is filmed real)",
+    "sfx": "Footsteps, light car-park air; the music starts to resolve.",
+    "cut_reason": "Cut as she exits frame; the product signs off."
+   },
+   {
+    "shot_id": "S19-PROD-fold-cream",
+    "lane": "prod",
+    "t_in": 21.95,
+    "t_out": 23.05,
+    "dur": 1.1,
+    "vo_on_shot": "'Take the quiz.'",
+    "planned_t": [
+     25.2,
+     27.4
+    ],
+    "what_we_see": "The plain black underwear, neatly folded, slides in to centre. The lowercase 'leapproof' wordmark ('leap' Plum Ink + 'proof' italic Claret) fades in above it.",
+    "angle": "A Warm Cream seamless surface under soft top light.",
+    "motion": "25.25-25.70 a hand slides the folded pair to centre and withdraws. 26.00-26.60 the wordmark fades in. A slow 100-106% push.",
+    "on_screen_text": "'Find your match.' (Warm Cream box) + wordmark",
+    "sfx": "25.25 soft slide; 25.30 UI tick.",
+    "cut_reason": "Cut on 'size' into the chips, so the frame keeps moving."
+   },
+   {
+    "shot_id": "S20-GFX-quiz-chips",
+    "lane": "editor",
+    "t_in": 23.05,
+    "t_out": 25.2,
+    "dur": 2.15,
+    "vo_on_shot": "'It finds your size and how many pairs.'",
+    "planned_t": [
+     27.4,
+     30.0
+    ],
+    "what_we_see": "The folded pair, tighter, with two Blush chips popping in under the wordmark.",
+    "angle": "A 115% editor punch-in on the S19 plate, with graphic chips.",
+    "motion": "27.45 the chip 'Your size' pops; 28.10 the chip 'How many pairs' pops on 'pairs'; the slow push continues; at 29.60 the pair starts sliding right as the handoff to the end card.",
+    "on_screen_text": "'Find your match.' + chips 'Your size' \u00b7 'How many pairs' (they mirror the VO; no numbers, no prices)",
+    "sfx": "27.45 and 28.10 UI ticks; the music starts its button-out.",
+    "cut_reason": "Slide-out handoff into the end card as the guarantee lands."
+   },
+   {
+    "shot_id": "S21-CARD-end",
+    "lane": "editor",
+    "t_in": 25.2,
+    "t_out": 30.5,
+    "dur": 5.3,
+    "vo_on_shot": "'Wear them through your moment for 30 nights. If they don't hold, you get your money back.' (+0.8s hold)",
+    "planned_t": [
+     30.0,
+     35.0
+    ],
+    "what_we_see": "The lowercase 'leapproof' wordmark at the top ('leap' Plum Ink + 'proof' italic Claret, Fraunces). Stacked lines: 'Not a pad, not a diaper.' (Fraunces) / '30 nights to see if they hold - money back if they don't.' (Hanken Grotesk, Plum Ink) / a Claret button 'Find my match >' with cream text. The folded black underwear sits small, to the right of the lines. No price, gifts, stars or urgency.",
+    "angle": "End card on Warm Cream #F5EDE6.",
+    "motion": "30.00-30.40 the folded pair slides in from the right and settles; the lines stagger in at 30.10 / 30.50 / 30.90; the button is on from 30.00 and pulses 100-104% every 1.0s; 34.60 the button gives a press micro-bounce.",
+    "on_screen_text": "'Not a pad, not a diaper.' / '30 nights to see if they hold - money back if they don't.' / [Find my match >]",
+    "sfx": "Music button-out at 34.40; one soft chime at 34.60 on the button.",
+    "cut_reason": "End."
+   }
+  ]
+ },
+ "V1-b": {
+  "recording": "rec2_111901.mp3 (ElevenLabs 11:19:01)",
+  "vo_len": 32.03,
+  "vo_offset": 0.0,
+  "vo_edit": "ONE EDIT: split the VO at 2.80 (right after 'myself!') and insert 1.00s of silence (record-scratch SFX + freeze frame). Everything after 'myself!' shifts +1.00s. Without it the freeze caption gets only 0.47s and can't be read.",
+  "total": 33.6,
+  "shots": [
+   {
+    "shot_id": "F1-WOMAN-wide-side-twoshot",
+    "lane": "ai",
+    "t_in": 0.0,
+    "t_out": 2.8,
+    "dur": 2.8,
+    "vo_on_shot": "'Stop! I'll pee myself!' (ElevenLabs line plays as her laugh-shout)",
+    "planned_t": [
+     0.0,
+     1.2
+    ],
+    "what_we_see": "Frame 0 is already mid-laugh, high-key and bright. A real-looking woman, 36-40, everyday body, messy bun, dusty-rose ribbed knit top, black leggings, small gold hoops, sits centre-frame. Her head is tipped back, eyes crinkled shut, mouth wide. In the soft left foreground: her friend's out-of-focus shoulder and a sparkling-water glass with lemon (no wine). Cream walls, warm wood, a plant. The window blooms behind her but is not clipped. Layout for the text map: bright window at 14-30% height (clean area for the pill), her face at ~30-40%, table edge ~52%, her lap at ~54-62% and her pressed knees in black leggings at ~62-68%. Her body sits centre/centre-left, clear of the Reels icon column on the right edge.",
+    "angle": "Bright restaurant table beside a big window, golden early-evening sun. Camera at seated eye height at the side of the table, ~26mm equivalent, slight handheld drift.",
+    "motion": "0.0: already laughing, and the friend's shoulder shakes with her laugh. ~0.2: she lurches forward and slaps the table with her left palm on 'Stop\u2014'. The cutlery jumps. 0.5-1.1: 'I'll pee myself!' through laughter. ~0.9-1.15: her right (camera-side) hand drops fast onto her upper thigh at the table edge and her knees press together. Editor push-in 100\u2192104% across the shot so even frame 0 moves.",
+    "on_screen_text": "HOOK PILL: Claret #A33154 pill with Warm Cream #F5EDE6 Hanken Grotesk ExtraBold, ~5% of frame height, centred at ~22-27% over the bright window, above her head: \"I'll pee myself!\" It scale-pops from 90% to full size in 3 frames ON frame 0. LABEL: 'Dramatization', upper-left ~16% down, cream Hanken Grotesk, \u22654% of frame height, 80% opacity, from 0.0s.",
+    "sfx": "Bright restaurant room tone and the friend's laugh burst from 0.0; palm-slap thump and cutlery rattle at ~0.2; light, bouncy royalty-free bed (Meta Sound Collection) starts low.",
+    "cut_reason": "NO cut. The frame holds straight into the freeze. Live action ends on the contact frame of the hand-to-lap clutch (~1.15-1.2s), the most readable 'something just happened down there' moment."
+   },
+   {
+    "shot_id": "S2-GFX-freeze-scratch",
+    "lane": "editor",
+    "t_in": 2.8,
+    "t_out": 3.95,
+    "dur": 1.15,
+    "vo_on_shot": "(inserted 1.0s gap: freeze F1's last frame + record scratch; caption pops)",
+    "planned_t": [
+     1.2,
+     2.7
+    ],
+    "what_we_see": "F1's contact frame, frozen. Her palm is flat on her upper thigh at the table edge, fingers spread, with no motion blur. Her knees are pressed together, her head is still back mid-laugh and her mouth is open on '\u2026self!'. The still is 30% desaturated and a thin white 'freeze' border/vignette snaps in.",
+    "angle": "Identical framing to F1 (restaurant).",
+    "motion": "1.2: hard stop, a 103% scale punch over 2 frames and the vignette snap. A slow 103\u2192106% push runs across the hold so the still never sits dead. Text pops at 1.25, 1.45 and 1.8. A light film grain keeps it alive.",
+    "on_screen_text": "Same Claret pill (~20-32%) swaps to the locked freeze line, revealed in 3 pops: 'Yep.' (1.25) \u2192 'Yep. The laugh that comes' (1.45) \u2192 'Yep. The laugh that comes / with a little pee.' (1.8). 'Dramatization' stays on because she is still in the moment.",
+    "sfx": "Hard record-scratch with its peak on the freeze frame at 1.2. Music ducks \u221218 dB over 2 frames to near-silence. Room tone cuts out.",
+    "cut_reason": "Holds 1.5s instead of the script's 1.1s. The 9-word (44-character) line can't be read in 1.1s. In 3 pops it reads in ~1.5s, still under half the 3s static limit, and the push keeps it moving. It releases into the rewind once '\u2026with a little pee.' has sat for ~0.9s."
+   },
+   {
+    "shot_id": "S3-GFX-rewind-smear",
+    "lane": "editor",
+    "t_in": 3.95,
+    "t_out": 4.6,
+    "dur": 0.65,
+    "vo_on_shot": "'Three hours'",
+    "planned_t": [
+     2.7,
+     3.1
+    ],
+    "what_we_see": "The freeze breaks into REVERSE. The laugh plays backwards at ~600%: her hand whips back up off her lap and her head snaps forward, with a horizontal directional blur and a 2-frame RGB split. Colour snaps back from 70% to 100% (the past is full colour). A whip-smear then lands on S4. 'Dramatization' drops off on the first rewind frame.",
+    "angle": "Restaurant \u2192 bathroom vanity (3 hours earlier).",
+    "motion": "2.70-2.90: F1 reversed (source 1.15\u21920.0s at ~6x) with a 40-60px directional blur. 2.90-3.10: horizontal whip-smear into S4, whose first 5 frames are speed-ramped 300\u2192100% as the hand lunges in.",
+    "on_screen_text": "Warm Cream box, Plum Ink Hanken Grotesk ExtraBold, ~22-27%: '\u23ea 3 hours earlier.' slams in at 2.7 and rides into S4.",
+    "sfx": "Tape-rewind chirp (0.2s) layered with a whoosh (0.2s). Music lifts back to full.",
+    "cut_reason": "Under 0.5s, so momentum builds straight into the problem object with no vanity detour, as the script asks. The reverse makes 'rewind' literal, and the colour coming back tells the viewer we're in the past."
+   },
+   {
+    "shot_id": "S4-BR-liner-at-lens",
+    "lane": "broll",
+    "t_in": 4.6,
+    "t_out": 7.15,
+    "dur": 2.55,
+    "vo_on_shot": "'...earlier. The plan?'",
+    "planned_t": [
+     3.1,
+     4.4
+    ],
+    "what_we_see": "A woman's hand lunges up from bottom-right and stops dead centre at the lens. Continuity details: short natural nails, a thin gold ring and a dusty-rose knit cuff to match her top. She holds a clean, individually wrapped panty liner in a plain pastel-lilac wrapper with no brand marks. Focus racks from the mirror to the wrapper.",
+    "angle": "Bathroom vanity, bright afternoon window light. Mirror and cream tiles soft behind.",
+    "motion": "Lunge-in landing from the smear's speed-ramp, a hard stop, then a small 'ta-da' waggle on 'The plan?'.",
+    "on_screen_text": "'\u23ea 3 hours earlier.' (to 3.75) \u2192 swaps to a Warm Cream box: 'The plan? A panty liner.' (3.8-5.25), ~22-30%.",
+    "sfx": "Landing 'thup' and a light wrapper rustle; music at full.",
+    "cut_reason": "Cuts on 'A panty liner' to the peel, so the object is named with an action."
+   },
+   {
+    "shot_id": "S5-BR-liner-peel-ecu",
+    "lane": "broll",
+    "t_in": 7.15,
+    "t_out": 8.45,
+    "dur": 1.3,
+    "vo_on_shot": "'A panty liner.'",
+    "planned_t": [
+     4.4,
+     5.25
+    ],
+    "what_we_see": "A thumb peels back the pastel wrapper tab and the clean white panty liner slides half out. It is clean and white, with no stains, no yellowing and no backlight.",
+    "angle": "Same vanity, top-down macro over the cream counter.",
+    "motion": "One peel-and-slide move, with a 115% editor punch at the half-out point.",
+    "on_screen_text": "'The plan? A panty liner.' holds.",
+    "sfx": "Close-mic wrapper-tab peel and crinkle.",
+    "cut_reason": "Cuts on 'But', the turn, to the panty liner going in."
+   },
+   {
+    "shot_id": "S6-BR-liner-press-in-topdown",
+    "lane": "broll",
+    "t_in": 8.45,
+    "t_out": 10.05,
+    "dur": 1.6,
+    "vo_on_shot": "'But a panty liner'",
+    "planned_t": [
+     5.25,
+     6.4
+    ],
+    "what_we_see": "Top-down: a pair of plain nude everyday cotton underwear lies flat on a cream duvet (not black; black is saved for the reveal). The hands press the clean panty liner into place and smooth the wings down.",
+    "angle": "Bedroom: cream duvet by the window (new location).",
+    "motion": "The hands enter from frame-top, press, and smooth outward in one decisive move.",
+    "on_screen_text": "Small strap, Plum Ink on cream, ~16-20%: 'the plan for the big laugh?' (5.25-10.75; locked script caption).",
+    "sfx": "Soft press 'pat' and adhesive crinkle.",
+    "cut_reason": "Cuts on the first frame of 'bunches'."
+   },
+   {
+    "shot_id": "S7-BR-liner-bunch-ecu",
+    "lane": "broll",
+    "t_in": 10.05,
+    "t_out": 10.98,
+    "dur": 0.93,
+    "vo_on_shot": "'bunches.'",
+    "planned_t": [
+     6.4,
+     7.0
+    ],
+    "what_we_see": "ECU: two hands push the sides of the nude underwear inward. The panty liner buckles into a ridge and one wing curls up. It stays clean and white.",
+    "angle": "Same duvet, much tighter (size change, not a room repeat).",
+    "motion": "Squeeze inward and the ridge pops up; editor 110% snap-zoom on the buckle.",
+    "on_screen_text": "Box caption starts a stacking list (Plum Ink on Warm Cream, ~24-40%, left-aligned): 'it bunches.'",
+    "sfx": "Fabric scrunch foley.",
+    "cut_reason": "Cuts on 'It shifts'."
+   },
+   {
+    "shot_id": "S8-BR-liner-shift-side",
+    "lane": "broll",
+    "t_in": 10.98,
+    "t_out": 12.15,
+    "dur": 1.17,
+    "vo_on_shot": "'It shifts.'",
+    "planned_t": [
+     7.0,
+     7.6
+    ],
+    "what_we_see": "Low side angle: the hands lift and twist the nude underwear. The panty liner now sits visibly off-centre, diagonal, with one wing peeling up.",
+    "angle": "Lifted off the bed toward the window. Side-lit, never backlit (no core show-through).",
+    "motion": "One twist, and the panty liner slides diagonal.",
+    "on_screen_text": "The list adds: 'it shifts.'",
+    "sfx": "Fabric swish and a soft slide 'zip'.",
+    "cut_reason": "Cuts on 'It feels\u2026'."
+   },
+   {
+    "shot_id": "S9-BR-liner-pinch-side",
+    "lane": "broll",
+    "t_in": 12.15,
+    "t_out": 13.3,
+    "dur": 1.15,
+    "vo_on_shot": "'It feels like a'",
+    "planned_t": [
+     7.6,
+     8.4
+    ],
+    "what_we_see": "Side-on macro at the vanity: a thumb and finger pinch the panty liner's padded middle, still stuck in the nude underwear. Its thickness squishes, then springs back.",
+    "angle": "Bathroom vanity, bright side light (room change from the bed).",
+    "motion": "A slow press, then release.",
+    "on_screen_text": "The list adds: 'it feels like a diaper.'",
+    "sfx": "Soft foam squish.",
+    "cut_reason": "Hands off to the punch-in, which lands on 'diaper'."
+   },
+   {
+    "shot_id": "S9-BR-liner-pinch-punch",
+    "lane": "editor",
+    "t_in": 13.3,
+    "t_out": 14.3,
+    "dur": 1.0,
+    "vo_on_shot": "'diaper.' (CapCut punch-in on S9 footage)",
+    "planned_t": [
+     8.4,
+     9.1
+    ],
+    "what_we_see": "A 120% punch onto the plastic-backed wing as the fingers squeeze a second time.",
+    "angle": "Same take as S9, punched to 120%.",
+    "motion": "Snap punch over 2 frames plus the second squeeze.",
+    "on_screen_text": "The list holds.",
+    "sfx": "Exaggerated plastic crinkle on 'diaper', the sound cue for the diaper feel.",
+    "cut_reason": "Cuts on 'And by tonight'."
+   },
+   {
+    "shot_id": "S10-BR-liner-fold-night",
+    "lane": "broll",
+    "t_in": 14.3,
+    "t_out": 15.24,
+    "dur": 0.94,
+    "vo_on_shot": "'And by tonight,'",
+    "planned_t": [
+     9.1,
+     9.8
+    ],
+    "what_we_see": "Evening at the vanity. The hands fold the used-up panty liner back into its pastel wrapper and press it shut, so nothing loose or used-looking is ever on screen.",
+    "angle": "Same vanity at night: warm lamp, dark window. Graded, not re-shot, if time is tight.",
+    "motion": "Fold and press, with a quick day\u2192night light wipe on the cut.",
+    "on_screen_text": "The list adds: 'by tonight \u2014 the trash.'",
+    "sfx": "Wrapper-fold crinkle and a tiny clock tick.",
+    "cut_reason": "Cuts on 'it's in the trash'."
+   },
+   {
+    "shot_id": "S11-BR-bin-drop",
+    "lane": "broll",
+    "t_in": 15.24,
+    "t_out": 16.75,
+    "dur": 1.51,
+    "vo_on_shot": "'it's in the trash.'",
+    "planned_t": [
+     9.8,
+     10.75
+    ],
+    "what_we_see": "Low angle: a clean white pedal bin. The folded pastel wrapper bundle drops in and the lid taps shut. No pile, no other waste, nothing gross.",
+    "angle": "Bathroom floor, cream tiles.",
+    "motion": "The bundle drops, the foot comes off the pedal, and the lid taps shut exactly on 'trash'.",
+    "on_screen_text": "The list holds: it bunches. / it shifts. / it feels like a diaper. / by tonight \u2014 the trash.",
+    "sfx": "Bin-lid tap on 'trash', the full stop of the roast. Music holds.",
+    "cut_reason": "The lid tap is the full stop. Cuts on 'Or\u2026' into the match-cut reveal."
+   },
+   {
+    "shot_id": "S12-PROD-reveal-match",
+    "lane": "prod",
+    "t_in": 16.75,
+    "t_out": 19.95,
+    "dur": 3.2,
+    "vo_on_shot": "'Or... just underwear. Plain black underwear.'",
+    "planned_t": [
+     10.75,
+     13.45
+    ],
+    "what_we_see": "Match cut. The same hand lunges up from bottom-right into the S4 position, now holding the PLAIN BLACK UNDERWEAR (the real CJ sample, SKU CJNSNYNK00343) by the waistband. Both hands stretch the waistband wide and hold it. Plain black, no lace, no logo. Rise, waistband, leg line and sheen are exactly the sample's. Front-on; the gusset is never shown and it is never backlit.",
+    "angle": "The bathroom vanity in daylight again: identical tripod framing and light to S4 (the plan, redone).",
+    "motion": "Lunge-in and stop, mirroring S4. A slow waistband stretch on 'just underwear'. Editor push 100\u2192108% on 'Plain black underwear'.",
+    "on_screen_text": "Warm Cream box, ~22-30%: 'Or\u2026 just underwear.' (10.8-13.45). The underwear sits at ~35-58%, clear of the text.",
+    "sfx": "Reverse-cymbal riser into 'Or\u2026', then the music opens up warm on 'just underwear'. A satisfying fabric-stretch.",
+    "cut_reason": "Product hold WITH motion (2.7s, under the 4s cap): the first clear look at what ships. Cuts on 'Not a pad' to a new angle."
+   },
+   {
+    "shot_id": "S13-PROD-turn-mcu",
+    "lane": "prod",
+    "t_in": 19.95,
+    "t_out": 21.95,
+    "dur": 2.0,
+    "vo_on_shot": "'Not a pad, not a diaper.'",
+    "planned_t": [
+     13.45,
+     15.4
+    ],
+    "what_we_see": "Closer 3/4: the hands turn the plain black underwear front \u2192 side \u2192 back with a light shake, so it reads as just a pair of plain black underwear. Then a thumb runs along the smooth waistband.",
+    "angle": "Same vanity, closer, a 3/4 angle (size and angle change).",
+    "motion": "Turn and shake, then the thumb slides along the waistband.",
+    "on_screen_text": "Warm Cream box: 'Not a pad, not a diaper.' (13.45-15.4)",
+    "sfx": "Soft fabric flick.",
+    "cut_reason": "Room change on 'Just underwear', from the vanity to the bedroom."
+   },
+   {
+    "shot_id": "F9-WOMAN-side-waist-pullup",
+    "lane": "ai",
+    "t_in": 21.95,
+    "t_out": 24.2,
+    "dur": 2.25,
+    "vo_on_shot": "'Just underwear. Wash, hang,'",
+    "planned_t": [
+     15.4,
+     17.2
+    ],
+    "what_we_see": "Side-on, waist to knee, with no face in frame. Same dusty-rose knit top, its hem covering the hip. She pulls black leggings up over the plain black underwear in one smooth getting-dressed move, then smooths the leggings at the thigh. Never crotch- or butt-centred, and no laugh, sneeze or jump.",
+    "angle": "BEDROOM (the room change): soft window light, cream walls, the same warm grade.",
+    "motion": "One continuous pull-up from knee to waist, then a smoothing hand.",
+    "on_screen_text": "Warm Cream box pops word by word, ~24-32%: 'Wash.' (16.35) 'Hang.' (16.75) 'Wear again.' (17.15). It holds to 18.3.",
+    "sfx": "Soft fabric swish and a waistband snap; a light up-tempo lift in the music.",
+    "cut_reason": "Cuts on 'wear again'. The ease beat walks her out the door."
+   },
+   {
+    "shot_id": "S14-BR-hall-clutch-grab",
+    "lane": "broll",
+    "t_in": 24.2,
+    "t_out": 25.1,
+    "dur": 0.9,
+    "vo_on_shot": "'wear again.'",
+    "planned_t": [
+     17.2,
+     18.3
+    ],
+    "what_we_see": "Hands with the dusty-rose knit cuff scoop a small black clutch and keys off a hallway console table, heading out.",
+    "angle": "Hallway console table by the front door (new location).",
+    "motion": "Grab and lift, exiting frame-top to set up the match-on-action.",
+    "on_screen_text": "'Wash. Hang. Wear again.' holds to 18.3.",
+    "sfx": "Keys jingle and the clutch clasp clicks.",
+    "cut_reason": "Match-on-action: the clutch leaves frame-top here and lands on the restaurant table in the next shot."
+   },
+   {
+    "shot_id": "S15-BR-table-clutch-set",
+    "lane": "ai",
+    "t_in": 25.1,
+    "t_out": 26.25,
+    "dur": 1.15,
+    "vo_on_shot": "'For the woman who'd rather'",
+    "planned_t": [
+     18.3,
+     19.3
+    ],
+    "what_we_see": "Her hand sets the black clutch down on the sunlit wood table next to the sparkling-water glass, and her knit sleeve slides into frame.",
+    "angle": "Back at the restaurant: the same golden set as the hook, at a new table-top angle.",
+    "motion": "The clutch enters from frame-top and lands, completing S14's action.",
+    "on_screen_text": "(none, per script)",
+    "sfx": "Clutch thunk on wood; the warm room tone returns and the music settles.",
+    "cut_reason": "Cuts on 'laugh' to her face: we're back at the table where it started."
+   },
+   {
+    "shot_id": "F12-WOMAN-34-single",
+    "lane": "ai",
+    "t_in": 26.25,
+    "t_out": 28.0,
+    "dur": 1.75,
+    "vo_on_shot": "'laugh than cross her legs.'",
+    "planned_t": [
+     19.3,
+     21.0
+    ],
+    "what_we_see": "Same face, bun, knit and golden light as the hook. She settles into her chair, tucks her hair behind her ear and listens to her friend with an easy, closed-mouth smile, shoulders relaxed. No laugh, no relief exhale, no glance down at her lap.",
+    "angle": "Same restaurant, with the camera ACROSS the table at her 3/4 front, waist-up. The friend's soft shoulder edge sits at frame-left. Closer and from the opposite side to the hook's wide side two-shot, so it reads as a new moment.",
+    "motion": "She settles, tucks her hair and gives a small nod, with a slight handheld drift.",
+    "on_screen_text": "(none, per script). Optional, for Nikita: put the VO line in a cream box for muted viewers; it is the headline wording and adds no new claim.",
+    "sfx": "Warm room tone and the soft murmur of the restaurant.",
+    "cut_reason": "Hands off to a punch-in after 'legs', giving the line a beat to land before the card."
+   },
+   {
+    "shot_id": "F12-WOMAN-34-single-punch",
+    "lane": "dropped",
+    "t_in": 28.0,
+    "t_out": 28.0,
+    "dur": 0.0,
+    "vo_on_shot": "DROPPED \u2014 the read has no breath before the end card",
+    "planned_t": [
+     21.0,
+     22.6
+    ],
+    "what_we_see": "A 118% punch to a CU: she nods, smiles at her friend and reaches for her water glass. It reads as calm, easy and fully present.",
+    "angle": "Same take as F12, punched to 118%.",
+    "motion": "Punch-in, then the reach for the glass.",
+    "on_screen_text": "(none)",
+    "sfx": "Glass lifted; the music swells into the resolve.",
+    "cut_reason": "A claret wipe to the end card on the music beat at 22.6."
+   },
+   {
+    "shot_id": "S16-CARD-end",
+    "lane": "editor",
+    "t_in": 28.0,
+    "t_out": 33.6,
+    "dur": 5.6,
+    "vo_on_shot": "'Not a pad, not a diaper. 30 nights to see if they hold. Find my match.' (+0.7s hold)",
+    "planned_t": [
+     22.6,
+     27.5
+    ],
+    "what_we_see": "'leapproof' wordmark at ~16% (Fraunces, 'leap' Plum Ink + 'proof' italic Claret). Line 1 at ~24-30%: 'Stop! I'll pee myself!' (Fraunces, Plum Ink). Line 2 at ~33%: 'Not a pad, not a diaper.' (Hanken Grotesk). Line 3 at ~38%, smaller: '30 nights to see if they hold.' (Hanken Grotesk). A small REAL photo of the plain black underwear (flat front) sits centre-right at ~42-54%, above the Reels icon column. The Claret button 'Find my match \u203a' is at ~56-62%. A tiny Rose Taupe line reads 'Made with AI.' Everything sits inside the 4:5 crop and the 14-62% band.",
+    "angle": "Warm Cream #F5EDE6 end card.",
+    "motion": "22.6: claret wipe in (0.25s). 22.9: the underwear photo slides in from the right with a 2\u00b0 settle. The lines stagger in with the VO. The button is on screen from 22.6 and pulses at 24.55 and on 'Find my match' (26.35).",
+    "on_screen_text": "Stop! I'll pee myself! / Not a pad, not a diaper. / 30 nights to see if they hold. / [Claret button] Find my match \u203a / Made with AI.",
+    "sfx": "A soft tick as each line lands; the music button/resolve hits at ~27.05.",
+    "cut_reason": "Ends at 27.5. The card holds 4.9s with continuous motion and the button visible throughout."
+   }
+  ]
+ },
+ "V1-c": {
+  "recording": "rec3_111941.mp3 (ElevenLabs 11:19:41)",
+  "vo_len": 28.6,
+  "vo_offset": 2.4,
+  "vo_edit": "Place the VO starting at 2.40s (the first 2.40s is the silent text hook + sneeze/swipe SFX, per storyboard). No other edits.",
+  "total": 31.7,
+  "shots": [
+   {
+    "shot_id": "S1-PROD-liner-at-lens",
+    "lane": "broll",
+    "t_in": 0.0,
+    "t_out": 1.2,
+    "dur": 1.2,
+    "vo_on_shot": "(no VO; sneeze SFX; pill 'The sneeze-pee plan: a sticker.')",
+    "planned_t": [
+     0.0,
+     1.2
+    ],
+    "what_we_see": "A woman's right hand (30s, short natural nails, thin gold band, bare forearm) holds ONE clean, unbranded panty liner in a pastel-pink wrapper ~20cm from the lens, centred and sharp. Behind it, soft: white basin edge low in frame, toothbrush cup on the right third, Warm Cream wall, morning sun. No stains, no brand marks, no face.",
+    "angle": "Bathroom vanity, locked-off at hand height (lens ~30cm above the counter, level), window light camera-left",
+    "motion": "0.0: 3-frame camera bump on the achoo, so frame 0 is already moving \u00b7 0.0\u20130.6: slow push 100\u2192104% \u00b7 0.6: the hand gives the panty liner a small wry 'ta-da' tilt toward the lens as 'a sticker.' pops \u00b7 1.0\u20131.2: the hand whips it left\u2192right across the lens, close enough that the pastel wrapper smears into a full-frame blur",
+    "on_screen_text": "0.0s Claret pill: 'The sneeze-pee plan:' \u00b7 0.6s adds line 2 'a sticker.' \u00b7 the pill slides off to the right with the swipe at 1.0s",
+    "sfx": "0.0 soft off-screen female 'achoo' + music downbeat (dry-wry bed starts on frame 0) \u00b7 0.6 dry 'tick' on the text pop \u00b7 1.0 whoosh starts",
+    "cut_reason": "Joined to S2 at 1.2s on the blur peak (\u226580% of the frame blurred on both takes). The cut is hidden inside the swipe, so the hook reads as one continuous move."
+   },
+   {
+    "shot_id": "S2-PROD-underwear-wipe-reveal",
+    "lane": "prod",
+    "t_in": 1.2,
+    "t_out": 2.4,
+    "dur": 1.2,
+    "vo_on_shot": "(no VO; 'Or... underwear. Not a pad, not a diaper.')",
+    "planned_t": [
+     1.2,
+     2.5
+    ],
+    "what_we_see": "Out of the blur, the SAME right hand whips in from frame-left (the left hand joins on the other side of the waistband) and stops dead on the same mark, holding the plain black underwear stretched by its waistband, front to camera. It's the real CJ pair (SKU CJNSNYNK00343): no lace, no logo. Same basin, cup, wall and light.",
+    "angle": "Same locked framing, same light as S1 (take B)",
+    "motion": "1.2\u20131.4: whip-in decelerates and settles on the mark \u00b7 1.8: a small stretch-and-release snap of the waistband \u00b7 one gentle handheld drift runs over the whole joined S1+S2 clip",
+    "on_screen_text": "1.4s 'Or\u2026 underwear.' \u00b7 1.6s adds 'Not a pad, not a diaper.' (Plum Ink on a Warm Cream box, same position as the hook pill)",
+    "sfx": "1.3 whoosh lands \u00b7 1.8 soft elastic 'thwip' \u00b7 music",
+    "cut_reason": "Hard cut at 2.5s, once 'Not a pad, not a diaper.' has been readable for ~0.9s. The VO starts on the cut and turns the story back to the panty liner."
+   },
+   {
+    "shot_id": "S3-BR-peel-sticker",
+    "lane": "broll",
+    "t_in": 2.4,
+    "t_out": 3.4,
+    "dur": 1.0,
+    "vo_on_shot": "'A panty liner'",
+    "planned_t": [
+     2.5,
+     3.7
+    ],
+    "what_we_see": "Two hands tear open a pastel wrapper and peel the release strip off a clean white panty liner. The strip curls away in the sun, so the 'sticker' joke is made literal. Plain unbranded strip, no stains.",
+    "angle": "Same bathroom, top-down over the vanity counter (angle change)",
+    "motion": "2.6 tear \u00b7 2.8\u20133.5 slow peel \u00b7 3.5 strip flicked out of frame",
+    "on_screen_text": "(clean, per script)",
+    "sfx": "paper tear + sticky peel 'zzzip' on the cut",
+    "cut_reason": "Cuts on 'day' as the strip comes free. The sticker is spent; next is where it goes."
+   },
+   {
+    "shot_id": "S4-BR-bin-3q-lid-open",
+    "lane": "broll",
+    "t_in": 3.4,
+    "t_out": 4.4,
+    "dur": 1.0,
+    "vo_on_shot": "'lasts a day.'",
+    "planned_t": [
+     3.7,
+     5.0
+    ],
+    "what_we_see": "A white pedal bin on Warm Cream tiles with a clean, empty bag inside and the lid shut. Soft morning light from the left.",
+    "angle": "Bathroom floor, 3/4 high angle (bin plate A: camera at counter height, ~40\u00b0 down)",
+    "motion": "3.8: the lid flips open (plate swap shut\u2192open with a 2-frame blur) \u00b7 slow push 100\u2192106% across the shot",
+    "on_screen_text": "(clean)",
+    "sfx": "pedal-bin 'clack' on the cut (3.8)",
+    "cut_reason": "Cuts as the VO closes 'a day'. The open lid sets up where the panty liner goes."
+   },
+   {
+    "shot_id": "S5-BR-bin-topdown-MON",
+    "lane": "broll",
+    "t_in": 4.4,
+    "t_out": 5.45,
+    "dur": 1.05,
+    "vo_on_shot": "'Then it's gone.'",
+    "planned_t": [
+     5.0,
+     6.3
+    ],
+    "what_we_see": "Looking into the empty bin. One crinkled pastel wrapper plus its release strip drops in from the top of frame and lands on the bottom.",
+    "angle": "Straight down into the open bin (bin plate B)",
+    "motion": "5.0 the wrapper starts falling (on the cut) \u00b7 5.2 it lands with a small bounce and a soft shadow \u00b7 'MON' tag ticks on at 5.2",
+    "on_screen_text": "Day tag 'MON' (cream Hanken Grotesk ExtraBold on a small Plum Ink tag) ~56% down, left of centre. Moved up from the script's lower third to stay inside the safe zone.",
+    "sfx": "paper flutter on the cut \u00b7 crinkle on the landing \u00b7 calendar 'tick' on the tag",
+    "cut_reason": "Cuts on the end of 'gone'. The first drop pays off the line and opens the pile."
+   },
+   {
+    "shot_id": "S6-BR-bin-3q-115-TUE",
+    "lane": "broll",
+    "t_in": 5.45,
+    "t_out": 6.58,
+    "dur": 1.13,
+    "vo_on_shot": "'It bunches.'",
+    "planned_t": [
+     6.3,
+     7.3
+    ],
+    "what_we_see": "The bin from the side angle again, MON's wrapper visible inside. TUE's wrapper drops in and lands crumpled.",
+    "angle": "Bin plate A, 3/4 high angle, punched in to 115%",
+    "motion": "6.4 drop + bounce \u00b7 tag flips MON\u2192TUE \u00b7 kinetic word pops at 6.4",
+    "on_screen_text": "'Bunches.' (Plum Ink on a Warm Cream box, ~40% down) \u00b7 tag 'TUE'",
+    "sfx": "crinkle + tick",
+    "cut_reason": "Cuts on the next staccato beat. One drop per VO beat."
+   },
+   {
+    "shot_id": "S7-BR-bin-topdown-WED",
+    "lane": "broll",
+    "t_in": 6.58,
+    "t_out": 7.5,
+    "dur": 0.92,
+    "vo_on_shot": "'It shifts.'",
+    "planned_t": [
+     7.3,
+     8.3
+    ],
+    "what_we_see": "WED's wrapper drops onto the MON/TUE pile and slides sideways off it, so 'shifts' happens in frame.",
+    "angle": "Bin plate B, top-down, 100%",
+    "motion": "7.4 drop \u00b7 7.5\u20137.8 the wrapper slides 3cm sideways \u00b7 tag flips to WED",
+    "on_screen_text": "'Shifts.' \u00b7 tag 'WED'",
+    "sfx": "crinkle + tick",
+    "cut_reason": "Cuts on the next staccato beat, swapping angle to top-down so the same plate never repeats back to back."
+   },
+   {
+    "shot_id": "S8-BR-bin-3q-130-THU",
+    "lane": "broll",
+    "t_in": 7.5,
+    "t_out": 8.45,
+    "dur": 0.95,
+    "vo_on_shot": "'It feels like a'",
+    "planned_t": [
+     8.3,
+     9.4
+    ],
+    "what_we_see": "Tight on the bin mouth. THU's wrapper drops in on top of the pile.",
+    "angle": "Bin plate A punched in to 130%: the bin rim fills the lower frame",
+    "motion": "8.4 drop + bounce \u00b7 tag flips to THU \u00b7 8.5 kinetic phrase pops",
+    "on_screen_text": "'Feels like a diaper.' \u00b7 tag 'THU'",
+    "sfx": "crinkle + tick",
+    "cut_reason": "Cuts mid-phrase to the top-down punch-in, so the longest kinetic line gets two pictures."
+   },
+   {
+    "shot_id": "S9-BR-bin-topdown-130-pile",
+    "lane": "broll",
+    "t_in": 8.45,
+    "t_out": 9.55,
+    "dur": 1.1,
+    "vo_on_shot": "'diaper.'",
+    "planned_t": [
+     9.4,
+     10.3
+    ],
+    "what_we_see": "The four pastel wrappers (MON\u2013THU) heaped in the bottom of the bin, filling the frame.",
+    "angle": "Bin plate B punched in to 130% on the pile",
+    "motion": "slow 2\u00b0 rotate + push 130\u2192136% (the pile 'breathes')",
+    "on_screen_text": "'Feels like a diaper.' holds \u00b7 tag 'THU'",
+    "sfx": "low soft 'thud' accent on the cut",
+    "cut_reason": "Cuts on the end of the phrase. 'Tonight' needs a new light."
+   },
+   {
+    "shot_id": "S10-BR-bin-3q-dusk-lid-slam",
+    "lane": "broll",
+    "t_in": 9.55,
+    "t_out": 11.35,
+    "dur": 1.8,
+    "vo_on_shot": "'By tonight, the bin.'",
+    "planned_t": [
+     10.3,
+     12.0
+    ],
+    "what_we_see": "The full side view of the bin, now noticeably fuller. The light turns from cool morning daylight to warm evening lamp light (the 'tonight' cue). On 'bin' the lid slams shut on the pile.",
+    "angle": "Bin plate A at 100%, graded from morning to evening",
+    "motion": "10.3\u201310.7 grade slides day\u2192warm tungsten (light-switch click) \u00b7 11.6 lid slams shut (plate swap open\u2192shut, 2-frame blur)",
+    "on_screen_text": "'In the bin.' pops at 11.2",
+    "sfx": "light-switch click 10.4 \u00b7 lid 'clack' 11.6 \u00b7 music ducks for 0.3s after the clack (the comic beat)",
+    "cut_reason": "Cuts after the slam's comic pause, on 'Tomorrow'."
+   },
+   {
+    "shot_id": "S11-PROD-liner-at-lens-FRI",
+    "lane": "broll",
+    "t_in": 11.35,
+    "t_out": 13.15,
+    "dur": 1.8,
+    "vo_on_shot": "'Tomorrow, a new one.'",
+    "planned_t": [
+     12.0,
+     13.8
+    ],
+    "what_we_see": "The same hand holds a fresh pastel-wrapped panty liner at the lens, exactly like frame 1. Same day, new sticker.",
+    "angle": "Back at the hook framing: bathroom vanity, morning light (location callback)",
+    "motion": "12.2: a small 'here we go again' bob toward the lens \u00b7 13.6: the hand whips it left\u2192right across the lens, blurring the frame (second wipe)",
+    "on_screen_text": "tag 'FRI' ticks on at 12.1",
+    "sfx": "tick on the tag \u00b7 whoosh at 13.6",
+    "cut_reason": "Joined to S12 on the blur peak at 13.8. The second camera wipe rhymes the hook and sets up the payoff."
+   },
+   {
+    "shot_id": "S12-PROD-underwear-rewipe-turn",
+    "lane": "prod",
+    "t_in": 13.15,
+    "t_out": 16.3,
+    "dur": 3.15,
+    "vo_on_shot": "'Or there's underwear. Plain black underwear.'",
+    "planned_t": [
+     13.8,
+     16.3
+    ],
+    "what_we_see": "The plain black underwear whips in out of the blur, settles stretched by its waistband, then the hands give it a slow half-turn to show the back. It's the real CJ pair: plain, no lace, no logo, the rise and leg line as on the sample.",
+    "angle": "Hook framing at the vanity, take B2",
+    "motion": "13.8\u201314.1 whip-in + settle \u00b7 15.0\u201315.9 slow half-turn front\u2192back \u00b7 gentle handheld drift",
+    "on_screen_text": "(clean)",
+    "sfx": "whoosh lands \u00b7 soft fabric rustle \u00b7 music warms and softens",
+    "cut_reason": "Cuts on 'Wash.' as the routine starts."
+   },
+   {
+    "shot_id": "S13-BR-wash-drum",
+    "lane": "broll",
+    "t_in": 16.3,
+    "t_out": 17.2,
+    "dur": 0.9,
+    "vo_on_shot": "'Wash,'",
+    "planned_t": [
+     16.3,
+     16.8
+    ],
+    "what_we_see": "A hand tosses the black underwear into the drum with a cream towel, then the door swings shut toward the lens. A plain drum: NO mesh wash bag (the Wash Bag is a gift, and there are no gifts on screen).",
+    "angle": "Laundry, looking into an open front-loader (new room)",
+    "motion": "toss + door swings across the lens (a mini wipe)",
+    "on_screen_text": "'Wash.'",
+    "sfx": "door thunk",
+    "cut_reason": "Word-locked: one word, one picture."
+   },
+   {
+    "shot_id": "S14-BR-hang-airer",
+    "lane": "broll",
+    "t_in": 17.2,
+    "t_out": 17.85,
+    "dur": 0.65,
+    "vo_on_shot": "'hang,'",
+    "planned_t": [
+     16.8,
+     17.3
+    ],
+    "what_we_see": "Hands clip the black underwear onto the airer and a wooden peg snaps shut. Backlit sun.",
+    "angle": "Sunny window, side angle on a white indoor clothes airer (new room)",
+    "motion": "peg clip + the underwear swings once",
+    "on_screen_text": "'Hang.'",
+    "sfx": "peg snap",
+    "cut_reason": "Word-locked."
+   },
+   {
+    "shot_id": "S15-BR-drawer-wear-again",
+    "lane": "broll",
+    "t_in": 17.85,
+    "t_out": 18.7,
+    "dur": 0.85,
+    "vo_on_shot": "'wear again.'",
+    "planned_t": [
+     17.3,
+     18.1
+    ],
+    "what_we_see": "A drawer of neatly folded plain black underwear (whatever pairs are in hand). A hand lifts the top pair out, ready to wear again.",
+    "angle": "Bedroom, top-down into an open drawer",
+    "motion": "drawer slides open 2cm \u00b7 hand lifts the pair",
+    "on_screen_text": "'Wear again.'",
+    "sfx": "single soft chime (per script)",
+    "cut_reason": "Word-locked. The chime closes the routine before the fact."
+   },
+   {
+    "shot_id": "S16-PROD-flatlay-front",
+    "lane": "prod",
+    "t_in": 18.7,
+    "t_out": 20.25,
+    "dur": 1.55,
+    "vo_on_shot": "'One pair. Washed,'",
+    "planned_t": [
+     18.1,
+     19.3
+    ],
+    "what_we_see": "The black underwear laid flat, front side up. A hand smooths the waistband flat from left to right. This matches the 'flat front' reference photo.",
+    "angle": "Top-down on Warm Cream linen",
+    "motion": "the hand sweeps across the waistband",
+    "on_screen_text": "(clean)",
+    "sfx": "soft fabric brush",
+    "cut_reason": "Cuts on 'Worn again', which gets the flip."
+   },
+   {
+    "shot_id": "S17-PROD-flatlay-flip-back",
+    "lane": "prod",
+    "t_in": 20.25,
+    "t_out": 22.15,
+    "dur": 1.9,
+    "vo_on_shot": "'worn again, not binned.'",
+    "planned_t": [
+     19.3,
+     20.8
+    ],
+    "what_we_see": "The hand flips the underwear over to its back, then slides it 2cm toward the lens.",
+    "angle": "Same flat-lay",
+    "motion": "19.4 flip \u00b7 20.2 slide toward the lens",
+    "on_screen_text": "Tag card 'Nothing to stick, pack or change.' pops at 19.4 (Plum Ink on a Warm Cream box, mid-frame ~40%)",
+    "sfx": "fabric flick \u00b7 music lifts into the next section",
+    "cut_reason": "Cuts as the tag card has been readable for ~1.4s, straight into the body shot."
+   },
+   {
+    "shot_id": "F1-WOMAN-side-waist-pullup",
+    "lane": "ai",
+    "t_in": 22.15,
+    "t_out": 23.25,
+    "dur": 1.1,
+    "vo_on_shot": "'Not a pad.'",
+    "planned_t": [
+     20.8,
+     22.6
+    ],
+    "what_we_see": "One consistent AI woman (35\u201340, everyday athletic body) in a long, oversized Blush sports top that covers the hip. She pulls black leggings up from the knee to the waist in one smooth move. The plain black underwear shows only on the side of the thigh for the first half-second as the leggings rise. Never crotch or butt framing.",
+    "angle": "Bedroom, morning window light, STRICTLY side-on profile, camera at hip height",
+    "motion": "20.9\u201322.2 the leggings go up from knee to waist \u00b7 the top's hem settles",
+    "on_screen_text": "small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 70% opacity)",
+    "sfx": "fabric slide \u00b7 quiet room tone",
+    "cut_reason": "Cuts as the waistband reaches the waist and the move completes."
+   },
+   {
+    "shot_id": "F2-WOMAN-ecu-waistband-snap",
+    "lane": "ai",
+    "t_in": 23.25,
+    "t_out": 24.55,
+    "dur": 1.3,
+    "vo_on_shot": "'Not a diaper.'",
+    "planned_t": [
+     22.6,
+     23.6
+    ],
+    "what_we_see": "Her thumbs hook the leggings waistband at the side of the waist and give it a snap, then the top's hem drops back over it.",
+    "angle": "Same bedroom, side of the waist (angle change: ECU)",
+    "motion": "thumbs hook \u00b7 snap \u00b7 hem falls",
+    "on_screen_text": "'Not a pad, not a diaper.' (Plum Ink on a Warm Cream box ~56% down, moved up from the script's lower third) \u00b7 small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 70% opacity)",
+    "sfx": "elastic snap",
+    "cut_reason": "Cuts on the snap's release, then a new room."
+   },
+   {
+    "shot_id": "F3-WOMAN-hall-wide-tote",
+    "lane": "ai",
+    "t_in": 24.55,
+    "t_out": 25.3,
+    "dur": 0.75,
+    "vo_on_shot": "'Just get'",
+    "planned_t": [
+     23.6,
+     24.6
+    ],
+    "what_we_see": "She strides down the hallway toward camera in leggings, top and sneakers, lifts her tote off a wall hook and swings it onto her shoulder in one move. Relaxed face, mid-stride.",
+    "angle": "Hallway (location change), low angle from the far end",
+    "motion": "stride toward the lens \u00b7 tote swing lands on her shoulder at 24.4",
+    "on_screen_text": "'Not a pad, not a diaper.' holds until 24.0, then clears \u00b7 small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 70% opacity)",
+    "sfx": "footsteps \u00b7 tote swish \u00b7 music lifts",
+    "cut_reason": "Cuts on the tote landing. Then the door."
+   },
+   {
+    "shot_id": "F4-WOMAN-ots-door-sun",
+    "lane": "ai",
+    "t_in": 25.3,
+    "t_out": 26.2,
+    "dur": 0.9,
+    "vo_on_shot": "'dressed and go.'",
+    "planned_t": [
+     24.6,
+     25.9
+    ],
+    "what_we_see": "She pulls the front door open. Morning sun floods the frame (bloom, soft flare) and she steps out into it.",
+    "angle": "Front door (angle change: behind her)",
+    "motion": "door swings open \u00b7 light blooms \u00b7 she steps out",
+    "on_screen_text": "Tag card 'Just get dressed and go.' at 24.8 (Plum Ink on a Warm Cream box, ~40% down) \u00b7 small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 70% opacity)",
+    "sfx": "latch click \u00b7 door swing \u00b7 birds and street rising",
+    "cut_reason": "Cuts as she crosses the threshold into the light: inside \u2192 outside."
+   },
+   {
+    "shot_id": "F5-WOMAN-ext-friend-coffee",
+    "lane": "ai",
+    "t_in": 26.2,
+    "t_out": 27.1,
+    "dur": 0.9,
+    "vo_on_shot": "'The 30-night'",
+    "planned_t": [
+     25.9,
+     27.6
+    ],
+    "what_we_see": "THE ALIVE MOMENT: a friend (40ish, second consistent AI character) steps in from frame-left holding two takeaway coffees and hands her one. She breaks into a warm, open smile (no laugh, no leak acted), they tap cups and fall into step, walking out of frame-right.",
+    "angle": "Sunny footpath outside a caf\u00e9 (exterior)",
+    "motion": "friend enters \u00b7 coffee handoff \u00b7 the smile \u00b7 cup tap \u00b7 both walk out",
+    "on_screen_text": "'Just get dressed and go.' holds to 26.4 \u00b7 small 'AI-generated' tag upper-left (~16% down, cream Hanken Grotesk, 70% opacity)",
+    "sfx": "street ambience \u00b7 cup tap \u00b7 music",
+    "cut_reason": "Cuts as they walk out of frame. The life beat has landed, so back to the product for the promise."
+   },
+   {
+    "shot_id": "S18-PROD-bookend-at-lens",
+    "lane": "prod",
+    "t_in": 27.1,
+    "t_out": 27.9,
+    "dur": 0.8,
+    "vo_on_shot": "'leak test.'",
+    "planned_t": [
+     27.6,
+     29.0
+    ],
+    "what_we_see": "The hand holds the plain black underwear at the lens, exactly where the panty liner was in frame 1, and gives it a small stretch. The ad closes on its own first image, solved.",
+    "angle": "Hook framing at the vanity (bookend)",
+    "motion": "settle + small stretch at 28.2",
+    "on_screen_text": "Claret pill (the hook's style): 'The 30-Night Leak-Test'",
+    "sfx": "soft whoosh-in",
+    "cut_reason": "Cuts on 'Test' into the end card."
+   },
+   {
+    "shot_id": "S19-CARD-endcard",
+    "lane": "editor",
+    "t_in": 27.9,
+    "t_out": 31.7,
+    "dur": 3.8,
+    "vo_on_shot": "'30 nights to see if they hold. Find your match.' (+0.9s hold)",
+    "planned_t": [
+     29.0,
+     34.0
+    ],
+    "what_we_see": "Lowercase 'leapproof' wordmark ('leap' Plum Ink + italic Claret 'proof') ~16% down \u00b7 Fraunces 'Not a pad, not a diaper.' ~24% \u00b7 a small cut-out of the plain black underwear (from the reference photos) ~32\u201344% \u00b7 Hanken Grotesk guarantee line ~47% \u00b7 Claret 'Find my match \u203a' button ~57%, on screen for the whole card. Everything sits inside the 4:5 crop and the 14\u201362% safe zone. No price, no gifts.",
+    "angle": "Warm Cream end card",
+    "motion": "29.0\u201329.4 the underwear slides in from the right with a 3% settle bounce \u00b7 29.4\u201330.2 the guarantee line types on \u00b7 the button pulses (100\u2192106\u2192100%) at 32.4 on 'Find your match' and again at 33.4",
+    "on_screen_text": "'Not a pad, not a diaper.' / 'The 30-Night Leak-Test \u2014 30 nights to see if they hold.' / button 'Find my match \u203a' / leapproof wordmark",
+    "sfx": "soft slide whoosh \u00b7 music buttons out at 33.8",
+    "cut_reason": "End of ad: the button has been on screen for the full 5.0s."
+   }
+  ]
+ }
+}
