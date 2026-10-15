@@ -53,6 +53,38 @@ Leak-Test — thirty nights to see if they hold. Find your match.
 
 ---
 
+## ElevenLabs v4 tagged versions (optional, usually stronger)
+Same words, with v4 audio tags added at the emotional shifts. Keep Stability
+~middle ("Natural"); if any tag gets read aloud instead of performed, delete
+just that tag (the words are already approved).
+
+**V1-a:**
+[sighs] Sneeze. Little pee. [sarcastic] Still packing a spare panty liner?
+Here's that liner's day. It bunches. It shifts. [annoyed] It feels like a
+diaper. [flat] Another one in the trash. Tomorrow, a new one. [brightening] Or…
+it could just be underwear. Plain black underwear. [warmly] Pull them on, and go
+about the day. [confident] Not a pad. Not a diaper. [warmly] Take the quiz — it
+finds your size and how many pairs. Wear them through your moment for thirty
+nights. [reassuring] If they don't hold, you get your money back.
+
+**V1-b** — diegetic hook: [laughing] Stop — I'll pee myself!
+[wry] Three hours earlier. The plan? A panty liner. But a panty liner…
+[mildly exasperated] bunches. It shifts. It feels like a… diaper. [flat] And by
+tonight, it's in the trash. [brightening] Or… just underwear. Plain black
+underwear. [confident] Not a pad, not a diaper. [warmly] Just underwear — wash,
+hang, wear again. [smiling] For the woman who'd rather laugh than cross her legs.
+Not a pad, not a diaper. [reassuring] Thirty nights to see if they hold. Find my
+match.
+
+**V1-c:**
+[matter-of-fact] A panty liner lasts a day… then it's gone. It bunches. It
+shifts. [annoyed] It feels like a… diaper. [flat] By tonight — the bin.
+Tomorrow, a new one. [brightening] Or… there's underwear. Plain black underwear.
+[light] Wash. Hang. Wear again. One pair — washed, worn again, not binned.
+[confident] Not a pad. Not a… diaper. [warmly] Just get dressed and go. The
+thirty-night Leak-Test — thirty nights to see if they hold. [warmly] Find your
+match.
+
 ## Next step after recording
 Nikita records these in ElevenLabs and pastes the transcripts back (ideally with
 rough timestamps). Then: map each start scene to its VO beat, set each Kling clip
