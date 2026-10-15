@@ -1,0 +1,252 @@
+{
+ "group": "H5b",
+ "slots": [
+  {
+   "ad": "V1-c",
+   "shot_id": "S2-PROD-underwear-wipe-reveal",
+   "on_screen_s": 1.2,
+   "verdict": "stand_in",
+   "primary": {
+    "src": "pexels",
+    "id": "8783681",
+    "page_url": "https://www.pexels.com/video/person-holding-a-panty-8783681/",
+    "hd_url": "https://videos.pexels.com/video-files/8783681/8783681-hd_1920_1080_24fps.mp4",
+    "sd_url": "https://videos.pexels.com/video-files/8783681/8783681-sd_640_360_24fps.mp4",
+    "clip_duration": 9.59,
+    "resolution": "1280x720 actual, 23.976 fps (Pexels lists 1920x1080, but its largest file, the 'hd_1920_1080' link, decodes at 1280x720)",
+    "use_in": 4.85,
+    "use_out": 6.05,
+    "speed_pct": 100,
+    "crop_note": "FLIP HORIZONTALLY first (the garment is symmetric, nothing reads backwards). Static 9:16 full-height crop at x 0.455-0.771 of the flipped frame (centre 0.613), the SAME crop as S18. The held brief spans x ~0.39-0.81, wider than the crop, so it reads as a tight at-lens CU with a hand at each edge (left fist partly cut) and the brief in y ~0.40-0.88, leaving clean wall above for the 'Or... underwear.' box. Don't scale the whole hold to fit 9:16: that drops the brief into the bottom third under the Reels UI. For the 4:5 export, set the 4:5 window ~4% below centre so the gusset isn't clipped. Add the whip-in in the edit: keyframe x -60% to 0 over the first 4 frames with motion blur, out of the S1 blur peak.",
+    "what_happens": "As it plays after the flip: 4.85-5.30 both hands hold the lavender-grey seamless brief up by the waistband, front panel to camera, easing right ~2% of frame width and rising slightly as it decelerates; 5.30-5.80 dead still, waistband taut; 5.80-6.05 a barely visible drift back left (<1%). Plain light-grey seamless wall, soft even light, no logo, text or face.",
+    "fit_score": 5,
+    "why_it_fits": "The closest stand-in in four libraries: a seamless bonded brief with raw cut edges and no elastic band, a mid-rise full-brief cut and a smooth front, the same construction as ours, held by the waistband, front to camera, by fair natural-nail hands. This window is the clip's only settle-and-hold, so the hook text reads over a still product and the editor's whip-in supplies the 'whip-in decelerates and settles on the mark'.",
+    "risks": "Lavender-grey, not black: it can't be our product, so use it for the rough cut and timing only and never in a live ad, because showing a different colour from the one sold is misrepresentation. 720p source (Pexels' 'hd_1920_1080' file decodes at 1280x720): a full-height 9:16 crop is a 2.7x upscale and looks soft, so add sharpen 10-15 and light grain. Plain grey studio wall, not the S1 vanity. The hands are fair, ringless, natural nails, no tattoos (checked at full res), so they pass rule 9. No face, logo or text anywhere in the clip. The background jumps from the bathroom to the grey studio across the wipe; the whip blur hides most of it (optional fix: key the flat wall and comp over a defocused S1 vanity plate). Recolour for the animatic (optional): DaVinci Resolve qualifier on the lavender hue, Gain 0.15, Sat 0 = believable charcoal; CapCut HSL only reaches dark grey. No real waistband snap in the source: fake the 1.8 s 'stretch-and-release' with a 2-frame 100-103-100% scale bump 0.6 s into the shot. Ends at 6.05, right before S18's window (6.10): no overlap."
+   },
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "8783680",
+     "page_url": "https://www.pexels.com/video/a-person-holding-a-woman-s-underwear-8783680/",
+     "hd_url": "https://videos.pexels.com/video-files/8783680/8783680-hd_1920_1080_24fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/8783680/8783680-sd_640_360_24fps.mp4",
+     "clip_duration": 10.18,
+     "resolution": "1920x1080, 23.976 fps",
+     "use_in": 4.5,
+     "use_out": 5.7,
+     "speed_pct": 100,
+     "crop_note": "9:16 full-height crop at x 0.36-0.68 (centre 0.52), static, no flip. The fingers are splayed wide at x ~0.22-0.30 and ~0.72-0.83, so BOTH hands fall outside the crop: you see the centre of the brief with only a forearm crossing the bottom-right corner.",
+     "what_happens": "4.50-5.70: a blush seamless brief held up front-on by the fingertips at both waistband corners, fingers splayed, drifting slowly left (~5% of frame width) and down ~4%; waistband taut. Same grey studio wall and light as 8783681 (same shoot series).",
+     "fit_score": 3,
+     "why_it_fits": "Same series and construction (seamless, raw edges, full brief), front-on, held by the waistband, and true 1080p, so sharper than the primary. Use it only if S12 and S18 also run 8783680, so the hands and colour stay consistent.",
+     "risks": "Blush pink, not black, so it's for the rough cut only. The hands are tan with red nail polish and script tattoos on both forearms, so they won't match a fair hand model (soft fail on rule 9) and can't cut against 8783681. A tiny sewn tag mark sits at the centre-back waistband (no legible text at 1080p). Plain grey studio wall, not the vanity. No face. In the crop the brief looks hand-less and floating, which is a weaker hook frame than the primary."
+    }
+   ],
+   "queries_tried": [
+    "pexels API (HTTP 429, throttled tonight): 'black underwear' portrait, 'black panties' portrait, 'holding underwear', 'black briefs', 'underwear flat lay', 'seamless underwear', 'period underwear', 'hands stretching fabric'",
+    "pexels website via Firecrawl: 'black panties', 'holding underwear', 'black underwear product', 'panty', 'black lingerie hands', 'underwear on bed'",
+    "pexels shared API cache from earlier tonight (sibling hunters' saved JSONL, pooled 1,121 unique Pexels clips): 'black brief', 'black panty', 'black panties' portrait, 'black underwear' portrait+landscape, 'holding panties', 'person holding panty', 'underwear hands', 'showing underwear', 'seamless panties', 'seamless underwear', 'knickers', 'briefs', 'shapewear', 'unboxing underwear', 'black fabric hands'",
+    "pixabay: 'black panties', 'panties hand', 'underwear product', 'black fabric hands' (safesearch returns nothing relevant)",
+    "mixkit: 'black underwear', 'panties', 'black fabric' (only modelled/worn underwear)",
+    "coverr: 'black underwear', 'panties', 'black fabric' (nothing relevant)",
+    "web search: site:pexels.com/video black panties hands holding",
+    "verifier, live Pexels API (back up, HTTP 200): 'black panties', 'black underwear hands', 'black briefs', 'woman holding underwear', 'black seamless underwear' (any orientation, 80 each; 266 clips new vs the hunter's pool, none shows a plain black brief being handled)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video · 9:16 vertical · Pro · Sound OFF · 4 s. Photoreal vertical phone b-roll, locked-off at hand height about 30 cm above a bright bathroom vanity, soft morning window light from camera-left, natural warm colours, light grain, not glossy. Softly out-of-focus background: the white basin edge low in frame, a plain white ceramic toothbrush cup on the right third, a warm cream wall. 0.0-0.3 s: the frame starts as a horizontal motion-blur smear, then a woman's hands (early 30s, fair skin with light freckles, short natural unpolished nails, one thin gold band, bare forearms) whip in from frame-left and stop dead in the centre about 20 cm from the lens, holding plain black seamless matte-satin microfibre briefs (soft low sheen, never glossy): laser-cut raw edges at the waist and leg openings with no elastic band, a smooth flat front panel, short ruched gathers on the side seams, mid-rise full-brief cut, no lace, no logo, no label, no print, no visible stitching, stretched flat by the waistband between both hands, front panel to camera, in sharp focus, sitting just below the middle of the frame with clean cream wall above. 0.6 s: one small stretch-and-release of the waistband, a soft snap. Then a steady hold to 4 s with a gentle handheld micro-drift. Only hands and forearms in frame, no face, no body.\nNegative prompt: lace, logo, text, captions, label, care tag, elastic waistband, thong, bikini cut, high-cut leg, grey, navy, brown, pink or lavender fabric, glossy or shiny fabric, stains, liquid, red or blue fluid, period framing, face, body, extra fingers, fused fingers, extra hands, morphing or melting fabric, flicker, watermark.\nIf the PRODUCT-STORE / PRODUCT-REAL photos exist, run this same text as image-to-video from a Nano Banana Pro start frame built on them: it holds the garment far better than text alone.",
+   "slot_notes": "Real path: film the CJ samples (SKU CJNSNYNK00343) in the S1/S2 tripod session (phone, Blackmagic Camera, 4K30, 1/60, WB 5600K, focus locked at 20 cm, 8-10 takes). The stock is a rough-cut stand-in only, because the colour is wrong (lavender-grey). Use the same clip (8783681, flipped, same crop scale) for S2, S12 and S18 so the hands stay the same across the hook, reveal and bookend. Verifier watched: verify/f81.jpg (0.5 s sheet), crop_S2.jpg (old 4.3-5.5 window: left hand cropped out, still gliding), crop_S2_new.jpg (4.85-6.05: settled, hands at both edges), zoom81_5.5.jpg (hands at full res), plus 0.1 s subject tracking 4.0-7.0 s."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S12-PROD-underwear-rewipe-turn",
+   "on_screen_s": 3.15,
+   "verdict": "stand_in",
+   "primary": {
+    "src": "pexels",
+    "id": "8783681",
+    "page_url": "https://www.pexels.com/video/person-holding-a-panty-8783681/",
+    "hd_url": "https://videos.pexels.com/video-files/8783681/8783681-hd_1920_1080_24fps.mp4",
+    "sd_url": "https://videos.pexels.com/video-files/8783681/8783681-sd_640_360_24fps.mp4",
+    "clip_duration": 9.59,
+    "resolution": "1280x720 actual, 23.976 fps (Pexels lists 1920x1080, but its largest file, the 'hd_1920_1080' link, decodes at 1280x720)",
+    "use_in": 0.2,
+    "use_out": 3.35,
+    "speed_pct": 100,
+    "crop_note": "Flip horizontally to match S2 and S18. Static 9:16 full-height crop at x 0.339-0.655 of the flipped frame (centre 0.497), the same scale as S2. The hold spans x ~0.27-0.69, so a hand sits at each crop edge and the brief fills the width in y ~0.46-0.93.",
+    "what_happens": "0.20-3.35 (flipped): the same fair hands hold the lavender-grey seamless brief stretched by the waistband, front to camera, almost static: the centre drifts right ~3% of frame width to ~2.3 s and back ~1.5% by 3.35, with small fingertip re-grips. No whip and NO turn anywhere in this clip.",
+    "fit_score": 4,
+    "why_it_fits": "The same hands, garment and framing as S2, so the second camera-wipe rhymes with the hook exactly. Its 3.15 s window doesn't overlap S2's (4.85-6.05) or S18's (6.10-6.90).",
+    "risks": "Lavender-grey, not black: it can't be our product, so use it for the rough cut and timing only and never in a live ad, because showing a different colour from the one sold is misrepresentation. 720p source (Pexels' 'hd_1920_1080' file decodes at 1280x720): a full-height 9:16 crop is a 2.7x upscale and looks soft, so add sharpen 10-15 and light grain. Plain grey studio wall, not the S1 vanity. The hands are fair, ringless, natural nails, no tattoos (checked at full res), so they pass rule 9. No face, logo or text anywhere in the clip. Biggest gap: the storyboard's slow half-turn to the back doesn't exist here. Replace it with a slow 100-106% push-in from 1.2 s to 2.1 s into the shot (the VO 'Plain black underwear.' carries the beat), or cut to the backup for the turn, but never mix the two clips inside one shot (different hands and colour). Add the whip-in (x -60% to 0 over 4 frames, motion blur) out of the S11 blur. A grey brief under the VO 'Plain black underwear' only works in an animatic."
+   },
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "8783680",
+     "page_url": "https://www.pexels.com/video/a-person-holding-a-woman-s-underwear-8783680/",
+     "hd_url": "https://videos.pexels.com/video-files/8783680/8783680-hd_1920_1080_24fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/8783680/8783680-sd_640_360_24fps.mp4",
+     "clip_duration": 10.18,
+     "resolution": "1920x1080, 23.976 fps",
+     "use_in": 3.9,
+     "use_out": 0.75,
+     "speed_pct": 100,
+     "crop_note": "PLAY REVERSED (source 3.90 to 0.75 = 3.15 s at 100%). 9:16 full-height crop at x 0.39-0.71 (centre 0.55), static, no flip. The waistband touches the top edge near the end, which is fine.",
+     "what_happens": "As it plays reversed: (src 3.90-3.10) a fingertip hold, front to camera with the waistband tilted; (3.10-2.00) the hands re-grip and the brief TILTS on its horizontal axis, the waistband rolling toward the lens; (2.00-0.75) it ends seen from above, showing the inside of the back panel and the gusset lining. It reads as a 'turn', but not a true front-to-back half-turn. The tattooed right forearm and red nails are prominent in the crop for the whole window.",
+     "fit_score": 3,
+     "why_it_fits": "The only stock clip found with any real turn of a plain seamless brief held by the waistband, so it can stand in for the storyboard's half-turn in the animatic.",
+     "risks": "Blush pink, not black, so it's for the rough cut only. The hands are tan with red nail polish and script tattoos on both forearms, so they won't match a fair hand model (soft fail on rule 9) and can't cut against 8783681. A tiny sewn tag mark sits at the centre-back waistband (no legible text at 1080p). Plain grey studio wall, not the vanity. No face. Reversed hand motion looks slightly unnatural at src 3.6-3.2 (fingers 'un-release'); cover it with the whip-in blur. It shows the INSIDE of the brief (gusset lining visible), not the outer back panel."
+    }
+   ],
+   "queries_tried": [
+    "pexels API (HTTP 429, throttled tonight): 'black underwear' portrait, 'black panties' portrait, 'holding underwear', 'black briefs', 'underwear flat lay', 'seamless underwear', 'period underwear', 'hands stretching fabric'",
+    "pexels website via Firecrawl: 'black panties', 'holding underwear', 'black underwear product', 'panty', 'black lingerie hands', 'underwear on bed'",
+    "pexels shared API cache from earlier tonight (sibling hunters' saved JSONL, pooled 1,121 unique Pexels clips): 'black brief', 'black panty', 'black panties' portrait, 'black underwear' portrait+landscape, 'holding panties', 'person holding panty', 'underwear hands', 'showing underwear', 'seamless panties', 'seamless underwear', 'knickers', 'briefs', 'shapewear', 'unboxing underwear', 'black fabric hands'",
+    "pixabay: 'black panties', 'panties hand', 'underwear product', 'black fabric hands' (safesearch returns nothing relevant)",
+    "mixkit: 'black underwear', 'panties', 'black fabric' (only modelled/worn underwear)",
+    "coverr: 'black underwear', 'panties', 'black fabric' (nothing relevant)",
+    "web search: site:pexels.com/video black panties hands holding",
+    "pexels website: 'holding underwear' pages scanned for any turning/rotating hold (only 8783680 turns)",
+    "verifier, live Pexels API (back up, HTTP 200): 'black panties', 'black underwear hands', 'black briefs', 'woman holding underwear', 'black seamless underwear' (any orientation, 80 each; 266 clips new vs the hunter's pool, none shows a plain black brief being handled)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video · 9:16 vertical · Pro · Sound OFF · 5 s. Photoreal vertical phone b-roll, locked-off at hand height about 30 cm above a bright bathroom vanity, soft morning window light from camera-left, natural warm colours, light grain, not glossy. Softly out-of-focus background: the white basin edge low in frame, a plain white ceramic toothbrush cup on the right third, a warm cream wall. 0.0-0.4 s: the frame starts as a horizontal motion-blur smear, then a woman's hands (early 30s, fair skin with light freckles, short natural unpolished nails, one thin gold band, bare forearms) whip in from frame-left and settle in the centre about 20 cm from the lens, holding plain black seamless matte-satin microfibre briefs (soft low sheen, never glossy): laser-cut raw edges at the waist and leg openings with no elastic band, a smooth flat front panel, short ruched gathers on the side seams, mid-rise full-brief cut, no lace, no logo, no label, no print, no visible stitching, stretched by the waistband, front panel to camera, in sharp focus. Hold still until 1.4 s. 1.4-2.4 s: both hands slowly rotate the briefs a half-turn around the vertical axis to show the back: an equally plain seamless back panel with the same raw-edge leg line, the side ruching catching the light as it turns. Hold back-to-camera to 5 s with a gentle handheld micro-drift. Only hands and forearms in frame, no face, no body.\nNegative prompt: lace, logo, text, captions, label, care tag, elastic waistband, thong, bikini cut, high-cut leg, grey, navy, brown, pink or lavender fabric, glossy or shiny fabric, stains, liquid, red or blue fluid, period framing, face, body, extra fingers, fused fingers, extra hands, morphing or melting fabric, flicker, watermark.\nIf the PRODUCT-STORE / PRODUCT-REAL photos exist, run this same text as image-to-video from a Nano Banana Pro start frame built on them: it holds the garment far better than text alone.",
+   "slot_notes": "Real path: take B2 of the S1/S2 tripod session with the CJ sample (whip-in + half-turn). If the stock primary is used, the turn becomes a push-in. Verifier watched: verify/f81.jpg, crop_S12.jpg (0.2-3.35 at 0.25 s: both hands at the edges, no turn); backup f80.jpg and crop80_S12_fwd.jpg (0.75-3.95: a tilt toward the lens, not a vertical-axis turn)."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S16-PROD-flatlay-front",
+   "on_screen_s": 1.55,
+   "verdict": "no_stock",
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "8783681",
+     "page_url": "https://www.pexels.com/video/person-holding-a-panty-8783681/",
+     "hd_url": "https://videos.pexels.com/video-files/8783681/8783681-hd_1920_1080_24fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/8783681/8783681-sd_640_360_24fps.mp4",
+     "clip_duration": 9.59,
+     "resolution": "1280x720 actual, 23.976 fps (Pexels lists 1920x1080, but its largest file, the 'hd_1920_1080' link, decodes at 1280x720)",
+     "use_in": 6.9,
+     "use_out": 8.45,
+     "speed_pct": 100,
+     "crop_note": "EMERGENCY TIMELINE PLACEHOLDER ONLY (not a flat-lay): flip horizontally, 9:16 full-height crop; keyframe the crop centre from x 0.57 at 6.90 to x 0.65 at 8.45 (flipped frame) to follow the hold's drift.",
+     "what_happens": "6.90-7.50: the brief held still, stretched front-on; 7.50-8.45: the whole hold drifts right ~8% of frame width and up ~2.5%, no re-grip. It is a hand-held hold in the air, NOT laid on linen, and no hand smooths it.",
+     "fit_score": 2,
+     "why_it_fits": "Only use it to fill the timeline in an animatic. It keeps the same hands and garment as S2/S12/S18. There is no stock flat-lay of a plain black (or any colour) seamless brief with a hand smoothing it in Pexels, Pixabay, Mixkit or Coverr.",
+     "risks": "Lavender-grey, not black: it can't be our product, so use it for the rough cut and timing only and never in a live ad, because showing a different colour from the one sold is misrepresentation. 720p source: a 9:16 crop is a 2.7x upscale and looks soft, so add sharpen 10-15 and light grain. Plain grey studio wall, not the S1 vanity. Both hands are fair with natural nails and no rings or tattoos, so they pass rule 9. No face, logo or text in the window. It breaks the storyboard's top-down 'flat front' angle (the angle of reference photo #1) and repeats the hold shot a 4th time."
+    }
+   ],
+   "queries_tried": [
+    "pexels website via Firecrawl: 'underwear flat lay', 'black clothes flat lay', 'hand smoothing fabric', 'folding underwear', 'top view folding clothes'",
+    "pexels shared API cache: 'underwear flatlay', 'lingerie flatlay', 'bikini flatlay', 'swimsuit flatlay', 'clothes flatlay' portrait, 'smoothing fabric', 'stretching fabric', 'folding underwear', 'folding laundry black', 'black clothes fold', 'black fabric hands'",
+    "pixabay: 'lingerie flat lay', 'folding black clothes', 'black fabric hands' (+ cached 'folding clothes', 'folded clothes')",
+    "mixkit: 'clothes flat lay', 'black fabric' (+ cached 'folding clothes', 'folded clothes')",
+    "coverr: 'flat lay clothes', 'black fabric' (+ cached 'folding clothes')",
+    "pexels API (429): 'underwear flat lay', 'hands stretching fabric'",
+    "verifier, live Pexels API (back up, HTTP 200): 'underwear flat lay', 'panties flat lay', 'folding underwear', 'black underwear on bed', 'smoothing fabric top view', 'black clothes flat lay' (any orientation, 80 each; watched 6524539 and 6568261, both rejected)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video · 9:16 vertical · Pro · Sound OFF · 4 s. Photoreal top-down overhead phone shot, camera directly above, locked off, no camera move. A warm cream linen cloth fills the frame with a faint natural weave and soft daylight from the top-left casting a gentle shadow. Centred on it lie plain black seamless matte-satin microfibre briefs (soft low sheen, never glossy): laser-cut raw edges at the waist and leg openings with no elastic band, a smooth flat front panel, short ruched gathers on the side seams, mid-rise full-brief cut, no lace, no logo, no label, no print, no visible stitching, laid perfectly flat, front side up, waistband horizontal across the upper third, leg openings symmetrical. 0.2 s: a woman's right hand (early 30s, fair skin with light freckles, short natural unpolished nails, one thin gold band, bare forearm) enters from frame-left and smooths the waistband flat with flat fingers in one slow sweep from left to right, then lifts away out of frame-right by 1.5 s. The briefs stay flat and keep their exact shape. Hold the clean flat-lay to 4 s. Only the hand and forearm in frame, no face, no body.\nNegative prompt: lace, logo, text, captions, label, care tag, elastic waistband, thong, bikini cut, high-cut leg, grey, navy, brown, pink or lavender fabric, glossy or shiny fabric, stains, liquid, red or blue fluid, period framing, face, body, extra fingers, fused fingers, extra hands, morphing or melting fabric, flicker, watermark.\nBest path: animate reference photo #1 ('flat front') as image-to-video with this text. If the PRODUCT-STORE / PRODUCT-REAL photos exist, run this same text as image-to-video from a Nano Banana Pro start frame built on them: it holds the garment far better than text alone.",
+   "slot_notes": "No stock exists. Rejected by the hunter: 6782503 (pink velvet set on sheets with a handwritten 'My body my rules' mirror; verifier re-watched and confirmed), 10555499 (hand smoothing a cream bedspread, low angle, no garment), 7855151 (top-down hands wrapping tissue over a magenta knit: packaging, wrong surface), 7855136 (mustard sweater, not top-down), 7308230 (folding at a table, not top-down), 39993711 (black strappy lace + red box with a readable brand). Rejected by the verifier: 6524539 (top-down lavender ribbed bikini-cut brief buried in a fan of flowers on peach: wrong cut, cluttered, intimate-health flower trope, no hand) and 6568261 (white satin/lace set in a red gift box). Real path: phone overhead on Warm Cream linen with the CJ sample, which is also the angle of reference photo #1; 5 minutes, same session as S17. AI path: animate reference photo #1 with the prompt. The backup only fills the timeline in an animatic and repeats the hold a 4th time."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S17-PROD-flatlay-flip-back",
+   "on_screen_s": 1.9,
+   "verdict": "no_stock",
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "8783680",
+     "page_url": "https://www.pexels.com/video/a-person-holding-a-woman-s-underwear-8783680/",
+     "hd_url": "https://videos.pexels.com/video-files/8783680/8783680-hd_1920_1080_24fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/8783680/8783680-sd_640_360_24fps.mp4",
+     "clip_duration": 10.18,
+     "resolution": "1920x1080, 23.976 fps",
+     "use_in": 3.05,
+     "use_out": 1.15,
+     "speed_pct": 100,
+     "crop_note": "EMERGENCY RE-STAGE ONLY (not a flat-lay): PLAY REVERSED (src 3.05→1.15 = 1.9 s). 9:16 full-height crop x 0.39-0.71. Conflicts with the S12 backup window (3.90→0.75), so use this only if S12 runs its primary.",
+     "what_happens": "As it plays reversed: the hands re-grip and the brief tilts on its horizontal axis from a front-on hold until it is seen from above, showing the inside of the back panel and the gusset lining, held in the air. It isn't flat on linen, doesn't flip and doesn't slide toward the lens.",
+     "fit_score": 2,
+     "why_it_fits": "It's the only real 'turn to the back' of a plain seamless brief in the libraries searched, so it's only good as an animatic placeholder for the 'flip to the back' beat.",
+     "risks": "Blush pink, not black, so it's for the rough cut only. The hands are tan with red nail polish and script tattoos on both forearms, so they won't match a fair hand model (soft fail on rule 9) and can't cut against 8783681. A tiny sewn tag mark sits at the centre-back waistband (no legible text at 1080p). Plain grey studio wall, not the vanity. No face. Colour and hands differ from the 8783681 shots around it (lavender vs blush, fair vs tattooed), so the cut is visible. It also breaks the top-down flat-lay continuity with S16 and overlaps the S12 backup window, so use it only if S12 runs its primary."
+    }
+   ],
+   "queries_tried": [
+    "pexels website via Firecrawl: 'underwear flat lay', 'black clothes flat lay', 'hand smoothing fabric', 'folding underwear', 'top view folding clothes'",
+    "pexels shared API cache: 'underwear flatlay', 'lingerie flatlay', 'bikini flatlay', 'swimsuit flatlay', 'clothes flatlay' portrait, 'smoothing fabric', 'stretching fabric', 'folding underwear', 'folding laundry black', 'black clothes fold', 'black fabric hands'",
+    "pixabay: 'lingerie flat lay', 'folding black clothes', 'black fabric hands' (+ cached 'folding clothes', 'folded clothes')",
+    "mixkit: 'clothes flat lay', 'black fabric' (+ cached 'folding clothes', 'folded clothes')",
+    "coverr: 'flat lay clothes', 'black fabric' (+ cached 'folding clothes')",
+    "pexels API (429): 'underwear flat lay', 'hands stretching fabric'",
+    "pexels website: 'flip clothes' beat looked for inside 'folding underwear' and 'top view folding clothes' results (none flip a brief)",
+    "verifier, live Pexels API (back up, HTTP 200): 'underwear flat lay', 'panties flat lay', 'folding underwear', 'black underwear on bed', 'smoothing fabric top view', 'black clothes flat lay' (any orientation, 80 each; watched 6524539 and 6568261, both rejected)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video · 9:16 vertical · Pro · Sound OFF · 4 s. Photoreal top-down overhead phone shot, camera directly above, locked off, no camera move. Warm cream linen with a faint weave, soft daylight from the top-left. Lying flat, front side up, in the lower half of the frame (centre about 62% down) are plain black seamless matte-satin microfibre briefs (soft low sheen, never glossy): laser-cut raw edges at the waist and leg openings with no elastic band, a smooth flat front panel, short ruched gathers on the side seams, mid-rise full-brief cut, no lace, no logo, no label, no print, no visible stitching. The band from 30% to 50% of the frame height stays clean, empty linen. 0.2 s: a woman's right hand (early 30s, fair skin with light freckles, short natural unpolished nails, one thin gold band, bare forearm) pinches the bottom edge and flips the briefs over toward the top of frame in one smooth motion; by 0.8 s they land flat, back side up, showing an equally plain seamless back panel with the same raw-edge leg openings and ruched side seams. 1.0-1.4 s: the hand slides the briefs about 2 cm toward the bottom of frame, then lifts away out of frame-right by 1.8 s. Hold the clean flat-lay to 4 s. Only the hand and forearm in frame, no face, no body.\nNegative prompt: lace, logo, text, captions, label, care tag, elastic waistband, thong, bikini cut, high-cut leg, grey, navy, brown, pink or lavender fabric, glossy or shiny fabric, stains, liquid, red or blue fluid, period framing, face, body, extra fingers, fused fingers, extra hands, morphing or melting fabric, flicker, watermark.\nBest path: Kling start + end frames made from reference photo #1 ('flat front') and #2 ('flat back'), with this text. If the PRODUCT-STORE / PRODUCT-REAL photos exist, run this same text as image-to-video from a Nano Banana Pro start frame built on them: it holds the garment far better than text alone.",
+   "slot_notes": "No stock exists for a top-down flip of a black brief. Real path: same overhead phone setup as S16, one take, flip + 2 cm slide (ref photo #2 is the end state). The tag card 'Nothing to stick, pack or change.' sits mid-frame (~40%), so frame the garment in the lower half and keep 30-50% clear. AI path: Kling start/end frames from reference photos #1 and #2. The backup is a timeline placeholder only."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S18-PROD-bookend-at-lens",
+   "on_screen_s": 0.8,
+   "verdict": "stand_in",
+   "primary": {
+    "src": "pexels",
+    "id": "8783681",
+    "page_url": "https://www.pexels.com/video/person-holding-a-panty-8783681/",
+    "hd_url": "https://videos.pexels.com/video-files/8783681/8783681-hd_1920_1080_24fps.mp4",
+    "sd_url": "https://videos.pexels.com/video-files/8783681/8783681-sd_640_360_24fps.mp4",
+    "clip_duration": 9.59,
+    "resolution": "1280x720 actual, 23.976 fps (Pexels lists 1920x1080, but its largest file, the 'hd_1920_1080' link, decodes at 1280x720)",
+    "use_in": 6.1,
+    "use_out": 6.9,
+    "speed_pct": 100,
+    "crop_note": "Flip horizontally. Static 9:16 full-height crop at x 0.455-0.771 of the flipped frame (centre 0.613): the SAME crop as S2, so the bookend matches the hook. A hand sits at each crop edge; the brief is in y ~0.36-0.84. Same 4:5 offset as S2.",
+    "what_happens": "6.10-6.90 (flipped): the brief held up and stretched, front to camera, fingertips over the waistband at the crop edges; a slow steady drift left ~2.5% of frame width (~8% of the crop) and up ~2%, no re-grip. It carries straight on from the S2 window (ends 6.05), so the closing frame matches the opening one. Plain grey wall, no face, logo or text.",
+    "fit_score": 5,
+    "why_it_fits": "The same hands, garment, flip and crop as S2, so the ad closes on its own opening image. The window doesn't overlap S2 (4.85-6.05) or S12 (0.20-3.35).",
+    "risks": "Lavender-grey, not black: it can't be our product, so use it for the rough cut and timing only and never in a live ad, because showing a different colour from the one sold is misrepresentation. 720p source (Pexels' 'hd_1920_1080' file decodes at 1280x720): a full-height 9:16 crop is a 2.7x upscale and looks soft, so add sharpen 10-15 and light grain. Plain grey studio wall, not the S1 vanity. The hands are fair, ringless, natural nails, no tattoos (checked at full res), so they pass rule 9. No face, logo or text anywhere in the clip. The storyboard's 'small stretch' at 28.2 has no real counterpart: fake it with a 100-103% scale ease over 0.3 s from 0.4 s into the shot, and add the soft whoosh-in as a 3-frame x-slide from -15%."
+   },
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "8783680",
+     "page_url": "https://www.pexels.com/video/a-person-holding-a-woman-s-underwear-8783680/",
+     "hd_url": "https://videos.pexels.com/video-files/8783680/8783680-hd_1920_1080_24fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/8783680/8783680-sd_640_360_24fps.mp4",
+     "clip_duration": 10.18,
+     "resolution": "1920x1080, 23.976 fps",
+     "use_in": 7.2,
+     "use_out": 8.0,
+     "speed_pct": 100,
+     "crop_note": "9:16 full-height crop at x 0.29-0.61 (centre 0.45), static.",
+     "what_happens": "7.20-8.00: a blush brief held front-on, stretched between two hands that sit mostly outside the crop; at ~7.6-8.0 the left hand comes into the left edge (red nails visible) as it re-grips higher on the waistband, which reads as a small stretch. The brief fills the frame width.",
+     "fit_score": 3,
+     "why_it_fits": "It has a real small-stretch beat at the bookend moment. Only use it if S2 also runs 8783680, so the hook and bookend match.",
+     "risks": "Blush pink, not black, so it's for the rough cut only. The hands are tan with red nail polish and script tattoos on both forearms, so they won't match a fair hand model (soft fail on rule 9) and can't cut against 8783681. A tiny sewn tag mark sits at the centre-back waistband (no legible text at 1080p). Plain grey studio wall, not the vanity. No face."
+    }
+   ],
+   "queries_tried": [
+    "pexels API (HTTP 429, throttled tonight): 'black underwear' portrait, 'black panties' portrait, 'holding underwear', 'black briefs', 'underwear flat lay', 'seamless underwear', 'period underwear', 'hands stretching fabric'",
+    "pexels website via Firecrawl: 'black panties', 'holding underwear', 'black underwear product', 'panty', 'black lingerie hands', 'underwear on bed'",
+    "pexels shared API cache from earlier tonight (sibling hunters' saved JSONL, pooled 1,121 unique Pexels clips): 'black brief', 'black panty', 'black panties' portrait, 'black underwear' portrait+landscape, 'holding panties', 'person holding panty', 'underwear hands', 'showing underwear', 'seamless panties', 'seamless underwear', 'knickers', 'briefs', 'shapewear', 'unboxing underwear', 'black fabric hands'",
+    "pixabay: 'black panties', 'panties hand', 'underwear product', 'black fabric hands' (safesearch returns nothing relevant)",
+    "mixkit: 'black underwear', 'panties', 'black fabric' (only modelled/worn underwear)",
+    "coverr: 'black underwear', 'panties', 'black fabric' (nothing relevant)",
+    "web search: site:pexels.com/video black panties hands holding",
+    "verifier, live Pexels API (back up, HTTP 200): 'black panties', 'black underwear hands', 'black briefs', 'woman holding underwear', 'black seamless underwear' (any orientation, 80 each; 266 clips new vs the hunter's pool, none shows a plain black brief being handled)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video · 9:16 vertical · Pro · Sound OFF · 3 s. Photoreal vertical phone b-roll, locked-off at hand height about 30 cm above a bright bathroom vanity, soft morning window light from camera-left, natural warm colours, light grain, not glossy. Softly out-of-focus background: the white basin edge low in frame, a plain white ceramic toothbrush cup on the right third, a warm cream wall. The garment: plain black seamless matte-satin microfibre briefs (soft low sheen, never glossy): laser-cut raw edges at the waist and leg openings with no elastic band, a smooth flat front panel, short ruched gathers on the side seams, mid-rise full-brief cut, no lace, no logo, no label, no print, no visible stitching. 0.0-0.3 s: a woman's hands (early 30s, fair skin with light freckles, short natural unpolished nails, one thin gold band, bare forearms) bring the briefs in from just below frame centre with a soft motion and settle them in the centre about 20 cm from the lens, held by the waistband, front panel to camera, in sharp focus: exactly the framing of the opening shot, with clean cream wall in the top third. 0.8 s: a small gentle stretch of the waistband outward and back. Hold steady to 3 s with a gentle handheld micro-drift. Only hands and forearms in frame, no face, no body.\nNegative prompt: lace, logo, text, captions, label, care tag, elastic waistband, thong, bikini cut, high-cut leg, grey, navy, brown, pink or lavender fabric, glossy or shiny fabric, stains, liquid, red or blue fluid, period framing, face, body, extra fingers, fused fingers, extra hands, morphing or melting fabric, flicker, watermark.\nIf the PRODUCT-STORE / PRODUCT-REAL photos exist, run this same text as image-to-video from a Nano Banana Pro start frame built on them: it holds the garment far better than text alone.",
+   "slot_notes": "Real path: a spare take from the S1/S2 tripod session (same mark as frame 1). If the stock primary is used, S2 and S18 must share the clip, flip, crop and grade, or the bookend rhyme is lost. Verifier watched: verify/f81.jpg, crop_S18.jpg (6.1-6.9 at 0.1 s: steady, hands at both edges) and 0.1 s subject tracking."
+  }
+ ],
+ "group_notes": "THE STOCK LIBRARIES CAN'T SUPPLY OUR PRODUCT. Pexels, Pixabay, Mixkit and Coverr have no clip of a plain BLACK full brief being handled; black underwear only appears worn by models (faces, bodies) or as lace sets. The closest stand-in is Pexels 8783681: a lavender-grey seamless bonded brief (raw cut edges, no elastic band, mid-rise full brief) held by the waistband, front to camera, by fair, ringless, natural-nail hands on a plain grey wall. Its sister clip 8783680 (blush, same shoot, but tan tattooed forearms and red nails) is the backup and the only clip with a turn.\n1) ANIMATIC / ROUGH CUT ONLY. A grey or pink brief in an ad that sells black underwear misrepresents the product (Meta 'misleading' risk, plus refund complaints). The launch cut needs the real CJ sample (SKU CJNSNYNK00343) filmed on the phone, or the AI prompts (best run as image-to-video from PRODUCT-STORE/PRODUCT-REAL start frames).\n2) ONE CLIP FOR ALL HOLDS: S2 (4.85-6.05), S12 (0.20-3.35) and S18 (6.10-6.90) all come from 8783681 in non-overlapping windows, ALL flipped horizontally, same full-height 9:16 crop scale (0.316 of width), same grade. S2 and S18 share the crop x 0.455-0.771, and S18's window carries straight on from S2's, so the bookend matches the hook. The held brief is ~0.42 of the frame wide, so the crop always clips it: it reads as an at-lens CU with a hand at each edge. Don't scale the whole hold to fit 9:16 (the brief drops into the bottom third, under the Reels UI). Never cut 8783680 against 8783681 inside one sequence (different hands, skin, nails and colour).\n3) GRADE: lift warmth +8 and tint slightly toward cream so the cool grey studio sits closer to the warm vanity/S1 look. Optionally key the flat grey wall and comp the hands + brief over a defocused S1 vanity plate, which hides the location jump across the wipes. Recolour for the animatic: a DaVinci Resolve qualifier on the lavender hue (Gain ~0.15, Sat 0) gives a believable charcoal; CapCut HSL only reaches dark grey. 8783681 is really 1280x720 (Pexels labels the file 1080p), so the 9:16 crop is a 2.7x upscale: sharpen 10-15 + fine grain, and the whip blur covers the softness.\n4) FLAT-LAYS (S16, S17) = NO STOCK. Nothing top-down shows a brief being smoothed or flipped on linen. They need a 10-minute overhead phone shoot on Warm Cream linen with the sample (ref photos #1/#2 are exactly these frames), or Kling start/end frames from those refs. Their backups are timeline placeholders only.\n5) REAL SHOOT ORDER (one session, one hand model: fair skin, short natural nails, thin gold band): S1/S2/S11/S12/S18 on the tripod at the vanity, then S16/S17 overhead. That's the 5 H5b product shots plus the S1/S11 liner takes, about 30 minutes.\n6) AI PROMPTS: all five lock the garment with the project's wording (plain black seamless matte-satin microfibre, soft low sheen, laser-cut raw edges with no elastic band, smooth front panel, short ruched side gathers, mid-rise full-brief cut, no lace, logo or label) and the same hand (fair, light freckles, natural nails, thin gold band). Paste each 'Negative prompt' line into Kling's negative field. Nothing was generated.\nProcess: the verifier found the Pexels API live again and ran 11 fresh searches (266 clips new vs the hunter's pool): nothing better. All hd_urls are direct mp4s (HTTP 200, video/mp4); page URLs were confirmed through the Pexels API. Rejected (hunter + verifier): 6612519 (two people unboxing a black knit), 7317014 (T-shirt on a hanger), 4474050 (airer, better for the hang slot), 7719882/7719891/7719892 (blood), 5937882/5936517 (worn on the body), 6782503 (handwritten 'My body my rules' mirror), 39993711 (lace + readable box brand), 6524539 (bikini flat-lay in flowers), 6568261 (satin/lace in a red gift box). Verifier files: dl/H5b/verify/.",
+ "verifier_changes": [
+  "S2 primary window 4.30-5.50 -> 4.85-6.05. Subject tracking at 0.1 s showed 4.3-5.1 is a continuous slow glide (~0.08 frame-widths/s, no settle) and the old static crop cut the left hand out entirely; the clip only settles at 5.30 and holds dead still to 5.80. The new window is a short ease into a still hold, so the hook text reads over a settled product (the whip comes from the editor's keyframe). Still no overlap with S18 (6.10).",
+  "S2 + S18 crops unified to x 0.455-0.771 of the flipped frame, and every 8783681 crop note corrected: the hold is ~0.42 frame-widths wide vs the 0.316 crop, so it is always clipped with a hand at each edge. Removed the hunter's '85% scale' option, because fitting the hold drops the brief into the bottom third (under the Reels UI and outside the 4:5 crop).",
+  "S18 what_happens corrected: the hold drifts left ~2.5% of frame width (~8% of the crop) as well as up ~2%. S12 what_happens: the re-grip timings couldn't be confirmed, so it now describes the measured drift.",
+  "8783680 backups: the 'rotation on its vertical axis' (S12, S17) is really a tilt on the horizontal axis (the waistband rolls toward the lens, showing the inside of the back panel and the gusset lining), not a front-to-back half-turn. S2 backup crop note fixed: both hands fall outside the crop and only a forearm crosses the bottom-right corner. Backup fit scores for S2/S12/S18 lowered 4 -> 3 (tattooed tan forearms and red nails are prominent; blush won't cut with lavender).",
+  "All five ai_fallback_prompts rewritten as clean, paste-ready Kling 3.0 text-to-video prompts (settings line first, image-to-video advice moved to one closing line, negatives split into a 'Negative prompt' line). The garment lock now matches the project's locked wording ('matte-satin microfibre, soft low sheen'): the hunter's negative 'satin sheen' contradicted the real fabric. 'lavender'/'pink' added to the negatives.",
+  "S17 prompt fixed: the garment was 'centred' while the prompt also asked for a clear ~40% band for the tag card. It now sits in the lower half (centre ~62%) with 30-50% kept clear. S16 smoothing sweep re-timed to finish by 1.5 s so it lands inside the 1.55 s on-screen time.",
+  "Checks passed: both clips watched with frames.py at 0.5 s plus dense 9:16 crop strips for every window; all windows are exactly on_screen_s at 100%; no logos, text, faces, children, blood or lace in any window; 8783681 hands are fair, ringless, natural nails, no tattoos at full res. HD links HEAD-checked (HTTP 200, video/mp4, 3.18 MB / 3.10 MB); 8783681's 'hd_1920_1080' file confirmed 1280x720; page URLs confirmed via the Pexels API.",
+  "New search: 5 live Pexels queries for the hold slots and 6 for the flat-lay slots (the API was back up). Watched 6524539 and 6568261 and rejected both, and re-confirmed the 6782503 rejection. No better clip exists, so the verdicts stay: S2/S12/S18 stand_in, S16/S17 no_stock."
+ ]
+}

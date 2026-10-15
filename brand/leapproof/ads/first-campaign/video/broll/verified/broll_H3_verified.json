@@ -1,0 +1,458 @@
+{
+ "group": "H3",
+ "slots": [
+  {
+   "ad": "V1-a",
+   "shot_id": "S7-BR-bin-night",
+   "on_screen_s": 1.7,
+   "verdict": "stock_partial",
+   "primary": {
+    "src": "pexels",
+    "id": "7311931",
+    "page_url": "https://www.pexels.com/video/a-person-disposing-a-used-tampon-7311931/",
+    "hd_url": "https://videos.pexels.com/video-files/7311931/7311931-uhd_2160_4096_25fps.mp4",
+    "sd_url": "https://videos.pexels.com/video-files/7311931/7311931-sd_338_640_25fps.mp4",
+    "clip_duration": 18.24,
+    "resolution": "Listed as 2160x4096 UHD, but this hd_url (and Pexels' own /download/video/7311931/ redirect, which points to it) actually delivers 1440x2732, 25fps (ffprobe-checked, 8.7 MB). The '7311931-hd_1080_2048_25fps.mp4' link delivers only 720x1366. Use the hd_url.",
+    "use_in": 11.5,
+    "use_out": 15.95,
+    "speed_pct": 100,
+    "crop_note": "Box x0.40-1.00, y0.30-0.86 of the 1440x2732 file = 864x1530 px -> 1080x1920 (1.25x upscale, still clean). Checked on crop previews: the fully open lid tip stays ~3% inside the top edge, the bin base sits ~12% above the bottom on a strip of floor, and the jeans and the top-left hand stay outside. The tampon DOES come into this box ~5.0-8.5 (it is only above it before ~4.6), so never use 4.4-8.6. Two-piece edit: 11.50-12.80, then a 2-frame-blur jump cut to 15.55-15.95 = 1.70 s on screen.",
+    "what_happens": "Verifier re-watched: 0.5 s sheet, 0.04-0.2 s dense sheets and crop-box previews from the 1440p file, and zoomed stills of the lid, hinge and liner. Locked camera at bin height: grey round steel pedal bin with a black hinge block at the back, clear liner, white textured wall, white skirting, dark herringbone floor, soft daylight. 0.0-8.5 a hand lowers a pink tampon on its string from the top of frame: above the crop box until ~4.6, INSIDE it ~5.0-8.5 (reddish tip visible ~6.0), dropped in ~8.4. ~2.5-3.2 a bare foot (jeans) comes in from the left onto the pedal. 3.55-4.00 lid flips open. 4.00-12.05 lid held open; the hand hovers at the top-left of the full frame 8.5-12.6 (outside the crop). 12.10 the foot starts to come off the pedal and the lid starts down; toes stay in the crop's bottom-left corner until ~12.65; the foot is gone by ~13.0. 12.1-15.9 slow damped soft-close (lid ~45 deg at 12.8, ~25 deg at 14.4, ~15 deg at 15.15, ~5 deg at 15.55); it seats at 15.88-15.92 with no bounce; 16.0-18.24 shut and static. No logo or text on the bin, lid, hinge or liner (checked zoomed). Window used: 11.50-12.05 lid fully open, toes on the pedal bottom-left; 12.10-12.80 foot comes off the pedal and the lid sinks to ~45 deg; jump to 15.55-15.95 (lid ~5 deg), seats at 15.90 on 'trash'.",
+    "fit_score": 4,
+    "why_it_fits": "The only clean, bright, real pedal-bin footage on the free libraries: camera at bin height (the board's low locked angle), a real foot release and lid close, no branding, and enough resolution for the 60% crop.",
+    "risks": "Daylight, grey bin on dark wood, not a white bin on cream tiles at night: it needs a night grade (-1.3 stops, WB ~3000K, warm lifted blacks, soft vignette) to read as lamplight. No wrapper or hand drop in stock: composite the rolled pastel-wrapper PNG falling into the open mouth at 11.60-11.90 (mask it behind the rim). The soft-close never taps, so the jump cut plus a 'tok' SFX at 15.90 makes the tap. Tan bare toes visible bottom-left until ~12.65. File is 1440p, not 4K. The Pexels title mentions a used tampon: it is inside this crop 5.0-8.5, never in the window used."
+   },
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "10326491",
+     "page_url": "https://www.pexels.com/video/close-up-on-opening-trash-bin-10326491/",
+     "hd_url": "https://videos.pexels.com/video-files/10326491/10326491-uhd_2160_3840_30fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/10326491/10326491-sd_540_960_30fps.mp4",
+     "clip_duration": 7.27,
+     "resolution": "Listed as 2160x3840 UHD, but the hd_url (and Pexels' /download/ redirect) actually delivers 1440x2560, 30fps (ffprobe-checked).",
+     "use_in": 4.85,
+     "use_out": 6.55,
+     "speed_pct": 100,
+     "crop_note": "Box x0.20-0.80, y0.235-0.835 of the 1440x2560 file = 864x1536 px -> 1080x1920 (1.25x). CHANGED from the hunter's y0.22-0.82: at y0.22 the bottom of the front globe pendant shows as a grey arc along the top edge for the whole clip. At y0.235 the globe and softbox are out and the fully open lid's top edge just touches the frame top.",
+     "what_happens": "Verifier re-watched: 0.5 s sheet, 0.1 s dense sheets with the crop box, crop previews, and 1080p zooms of the lid and hinge. Cream/off-white rectangular sensor bin, 3/4 high angle, black studio floor and wall, softbox top-left, two globe pendants top-centre. 0.4-1.2 a woman's hand (ring, bracelet) waves in from the left and is INSIDE the crop 0.9-1.1 (out of it from 1.2). 0.9-1.6 the lid motor-swings open (about 30 deg open at 1.20). 1.6-5.95 open and still, white interior. 5.95-6.40 the lid swings down and snaps shut at 6.40 (a real tap). 6.40-7.27 shut. Printed black text in two places: a small strip on the rim between the hinge posts (visible whenever the lid is open) and a label on the lid's rear edge (visible once shut, from 6.40). Window used: 4.85-5.95 lid open and still (composite the wrapper drop at 4.95-5.25); 5.95-6.40 lid falls and snaps shut; 6.40-6.55 shut.",
+     "fit_score": 3,
+     "why_it_fits": "Already reads as a dim room at night, and it has the only real 'lid falls shut with a tap' in stock (6.40). Cream/white bin.",
+     "risks": "Blur or patch both printed text areas: the rim strip between the hinge posts while the lid is open (4.85-6.2) and the lid rear-edge label once shut (6.40-6.55), or cut on the 6.40 impact frame. Black studio void, not a tiled bathroom; sensor bin with no pedal; 3/4 high angle rather than bin height; 1440p, not 4K. No wrapper drop."
+    }
+   ],
+   "queries_tried": [
+    "pexels-api: 'pedal bin' (any), 'trash can' (portrait + any), 'trash bin' (portrait), 'garbage can lid' (any), 'bathroom trash' (any)",
+    "pexels-web: 'pedal bin', 'trash can lid', 'bathroom trash can', 'stepping on trash can pedal', 'trash bin top view', 'white trash can', 'throwing away tissue', 'wastebasket', 'inside trash can', 'dustbin', 'kitchen trash can', 'sanitary pad trash', 'trash can opening', 'rubbish bin', 'trash can bathroom floor', 'throwing away wrapper', 'trash can lid closing', 'empty trash can', 'garbage bag in bin'",
+    "pexels: same-shoot neighbours of 7311931 (ids 7311922-7311942, all period-themed, rejected)",
+    "pixabay: 'trash can', 'pedal bin', 'garbage bin lid', 'throwing trash', 'waste bin', 'bathroom bin', 'dustbin', 'trash bin', 'garbage can', 'throw away', 'rubbish bin', 'tissue trash', 'wastepaper basket', 'lid'",
+    "mixkit: 'trash', 'garbage', 'trash can', 'throwing trash', 'bin', 'waste', 'recycling', 'bathroom', 'bathroom floor', 'trash bin'",
+    "coverr: 'trash', 'trash can', 'garbage', 'bin', 'throwing away', 'waste', 'bathroom', 'bathroom floor', 'trash bin'",
+    "verifier pexels-api: 'foot pedal trash can' (any), 'throwing garbage in bathroom bin' (any), 'small white trash can' (any), 'trash can top view' (any), 'garbage bin home lid' (portrait), 'bathroom floor tiles bin' (any) -> nothing new usable (labelled PAPER/PLASTIC/METAL/TRASH recycling bins 7565xxx/9323703, dark office mesh bins 11485778/6914406/6914692, a red-lid bin 5698059, people with faces 7551475/7551203, no new pedal bin)",
+    "verifier pixabay: 'pedal' (bike, guitar-effect and boat pedals only, by tags), 'bathroom trash can' (nothing new)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video | 9:16 vertical | Pro | Sound OFF | 4 s. Photoreal iPhone b-roll look, real home, true-to-life textures. Static locked-off camera on a bathroom floor, lens at bin-rim height. A small round white pedal bin about 30 cm tall (plain glossy white body, white hinged lid, small brushed-steel foot pedal at the base, no logo, no text, no labels) lined with a clean translucent white bin bag neatly folded over the rim, standing on warm cream square ceramic floor tiles with thin pale grout, a warm cream painted wall and plain white skirting behind. Night: the only light is a warm table lamp off-screen left, a 2700K amber glow with the bin's soft shadow on the wall. The lid is already held open (the pedal is pressed by a foot just out of frame). At 0.6 s the fingertips of one adult woman's hand (fair skin, short natural unpainted nails, no rings) dip in from the top edge of frame and let go of one small rolled-up panty-liner bundle in soft pastel-pink wrapper paper (neatly closed, matchbox-sized, clean, never unwrapped); the hand lifts straight back out and the bundle drops into the open bin and disappears inside with a tiny bounce of the bag. At 2.4 s the pedal is released and the lid falls shut with one small tap and a tiny bounce. Hold on the closed bin to the end. Calm, tidy, cosy. Avoid: faces, arms or body in frame, feet in frame, more than one hand, logos, brand names, text, labels, packaging print, blood, red or blue liquid, stains, unwrapped or used liners, overflowing rubbish, mess, clinical or hospital look, dark gritty grade, neon, black underwear.",
+   "slot_notes": "No stock clip has the actual drop. Every bin clip on Pexels, Pixabay, Mixkit and Coverr is office paper, labelled recycling, masks or a tampon. Best real option: Pexels 7311931 for the lid action, plus a composited wrapper PNG and a night grade. Use the Kling prompt if you want the hand drop and the night bathroom in one camera move. Use the same 7311931 crop box here, in V1-b S11 and (if used) V1-c S4/S10, so it is visibly the same bin."
+  },
+  {
+   "ad": "V1-b",
+   "shot_id": "S11-BR-bin-drop",
+   "on_screen_s": 1.51,
+   "verdict": "stock_partial",
+   "primary": {
+    "src": "pexels",
+    "id": "7311931",
+    "page_url": "https://www.pexels.com/video/a-person-disposing-a-used-tampon-7311931/",
+    "hd_url": "https://videos.pexels.com/video-files/7311931/7311931-uhd_2160_4096_25fps.mp4",
+    "sd_url": "https://videos.pexels.com/video-files/7311931/7311931-sd_338_640_25fps.mp4",
+    "clip_duration": 18.24,
+    "resolution": "Listed as 2160x4096 UHD, but this hd_url (and Pexels' own /download/video/7311931/ redirect, which points to it) actually delivers 1440x2732, 25fps (ffprobe-checked, 8.7 MB). The '7311931-hd_1080_2048_25fps.mp4' link delivers only 720x1366. Use the hd_url.",
+    "use_in": 11.84,
+    "use_out": 15.95,
+    "speed_pct": 100,
+    "crop_note": "Box x0.40-1.00, y0.30-0.86 of the 1440x2732 file = 864x1530 px -> 1080x1920 (1.25x upscale, still clean). Checked on crop previews: the fully open lid tip stays ~3% inside the top edge, the bin base sits ~12% above the bottom on a strip of floor, and the jeans and the top-left hand stay outside. The tampon DOES come into this box ~5.0-8.5 (it is only above it before ~4.6), so never use 4.4-8.6. Two-piece edit: 11.84-12.80, then a 2-frame-blur jump cut to 15.40-15.95 = 1.51 s. The lid seats at 15.90 on 'trash'.",
+    "what_happens": "Verifier re-watched: 0.5 s sheet, 0.04-0.2 s dense sheets and crop-box previews from the 1440p file, and zoomed stills of the lid, hinge and liner. Locked camera at bin height: grey round steel pedal bin with a black hinge block at the back, clear liner, white textured wall, white skirting, dark herringbone floor, soft daylight. 0.0-8.5 a hand lowers a pink tampon on its string from the top of frame: above the crop box until ~4.6, INSIDE it ~5.0-8.5 (reddish tip visible ~6.0), dropped in ~8.4. ~2.5-3.2 a bare foot (jeans) comes in from the left onto the pedal. 3.55-4.00 lid flips open. 4.00-12.05 lid held open; the hand hovers at the top-left of the full frame 8.5-12.6 (outside the crop). 12.10 the foot starts to come off the pedal and the lid starts down; toes stay in the crop's bottom-left corner until ~12.65; the foot is gone by ~13.0. 12.1-15.9 slow damped soft-close (lid ~45 deg at 12.8, ~25 deg at 14.4, ~15 deg at 15.15, ~5 deg at 15.55); it seats at 15.88-15.92 with no bounce; 16.0-18.24 shut and static. No logo or text on the bin, lid, hinge or liner (checked zoomed). Window used: 11.84-12.05 lid fully open, toes on the pedal; 12.10-12.80 foot comes off and the lid sinks to ~45 deg; jump to 15.40-15.95 (lid ~10 deg) for the final lowering, seating at 15.90.",
+    "fit_score": 5,
+    "why_it_fits": "Bright, clean, low angle at bin height, a real pedal bin with a real foot release and lid close, no pile and nothing gross. It matches the roast's daytime look with a light warm grade (+0.3 exposure, slightly warmer, toward cream).",
+    "risks": "Grey bin on wood, not a white bin on cream tiles. No bundle drop in stock: composite the folded pastel-wrapper PNG falling in at 11.86-12.16. The soft-close never taps, so put the tap SFX on 15.90. Toes visible until ~12.65. File is 1440p, not 4K. The Pexels title mentions a used tampon (inside this crop only 5.0-8.5, never in this window)."
+   },
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "10326491",
+     "page_url": "https://www.pexels.com/video/close-up-on-opening-trash-bin-10326491/",
+     "hd_url": "https://videos.pexels.com/video-files/10326491/10326491-uhd_2160_3840_30fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/10326491/10326491-sd_540_960_30fps.mp4",
+     "clip_duration": 7.27,
+     "resolution": "Listed as 2160x3840 UHD, but the hd_url (and Pexels' /download/ redirect) actually delivers 1440x2560, 30fps (ffprobe-checked).",
+     "use_in": 5.04,
+     "use_out": 6.55,
+     "speed_pct": 100,
+     "crop_note": "Box x0.20-0.80, y0.235-0.835 of the 1440x2560 file = 864x1536 px -> 1080x1920 (1.25x). CHANGED from the hunter's y0.22-0.82: at y0.22 the bottom of the front globe pendant shows as a grey arc along the top edge for the whole clip. At y0.235 the globe and softbox are out and the fully open lid's top edge just touches the frame top.",
+     "what_happens": "Verifier re-watched: 0.5 s sheet, 0.1 s dense sheets with the crop box, crop previews, and 1080p zooms of the lid and hinge. Cream/off-white rectangular sensor bin, 3/4 high angle, black studio floor and wall, softbox top-left, two globe pendants top-centre. 0.4-1.2 a woman's hand (ring, bracelet) waves in from the left and is INSIDE the crop 0.9-1.1 (out of it from 1.2). 0.9-1.6 the lid motor-swings open (about 30 deg open at 1.20). 1.6-5.95 open and still, white interior. 5.95-6.40 the lid swings down and snaps shut at 6.40 (a real tap). 6.40-7.27 shut. Printed black text in two places: a small strip on the rim between the hinge posts (visible whenever the lid is open) and a label on the lid's rear edge (visible once shut, from 6.40). Window used: 5.04-5.95 open and still (composite the drop at 5.10-5.40); 5.95-6.40 lid falls and snaps shut on 'trash' (6.40); 6.40-6.55 shut.",
+     "fit_score": 2,
+     "why_it_fits": "A real lid tap exactly on the beat, and a cream/white bin.",
+     "risks": "Fails V1-b's look: a black studio clashes with the bright daytime roast, and lifting it looks muddy. Blur the rim text strip (open) and the lid rear-edge label (from 6.40). Sensor bin, 3/4 high angle, no tiles, no drop. 1440p."
+    },
+    {
+     "src": "pixabay",
+     "id": "1928",
+     "page_url": "https://pixabay.com/videos/id-1928/",
+     "hd_url": "https://cdn.pixabay.com/video/2016/01/14/1928-152081350_medium.mp4",
+     "sd_url": "https://cdn.pixabay.com/video/2016/01/14/1928-152081350_small.mp4",
+     "clip_duration": 5.74,
+     "resolution": "1920x1080, 29.97fps (ffprobe-checked). REPLACES Pexels 854681: identical footage and timing, but Pexels' '854681-hd_1920_1080_30fps.mp4' link (and its /download/ redirect) delivers only 1280x720.",
+     "use_in": 2.55,
+     "use_out": 4.06,
+     "speed_pct": 100,
+     "crop_note": "16:9 -> 9:16 box x0.27-0.59, full height (615x1080 px) -> 1080x1920 (1.76x upscale, soft). The 9:16 box is narrower than the bin, so both sides of the rim are cut and the bin sits in the lower half under grey wall tiles. The white toilet edge stays out (x<0.27). ",
+     "what_happens": "Verifier re-watched both Pexels 854681 and Pixabay 1928 (0.4-0.5 s sheets plus a 0.1 s dense sheet with the crop box): same clip. Locked 3/4-high view of an empty, open, lid-less grey plastic bin against grey wall tiles, white toilet edge at the left, dark stone floor. 2.5 a slim adult hand (natural nails; white shirt cuff under a mustard knit sleeve) enters top-right holding a crumpled white tissue; 3.3 lets go and the tissue falls in 3.3-3.45; 3.4-4.0 the open hand dips toward the bin mouth and withdraws up and right (fingertips still at the crop's top-right at 4.00-4.05); 4.1-5.74 empty bin, the tissue barely visible at the bottom. No text or logos. Window used: 2.55-4.06 hand comes in, drops the tissue (3.3), and withdraws.",
+     "fit_score": 2,
+     "why_it_fits": "The only real 'something dropped into a bathroom bin' on the free libraries.",
+     "risks": "Hand and sleeve in frame for the whole window, no lid (so no tap), a white tissue instead of a pastel bundle, a cool grey public-restroom look, rim cut on both sides by the 9:16 box, and soft after the 1.76x upscale. Emergency only."
+    }
+   ],
+   "queries_tried": [
+    "pexels-api: 'pedal bin' (any), 'trash can' (portrait + any), 'trash bin' (portrait), 'garbage can lid' (any), 'bathroom trash' (any)",
+    "pexels-web: 'pedal bin', 'trash can lid', 'bathroom trash can', 'stepping on trash can pedal', 'trash bin top view', 'white trash can', 'throwing away tissue', 'wastebasket', 'inside trash can', 'dustbin', 'kitchen trash can', 'sanitary pad trash', 'trash can opening', 'rubbish bin', 'trash can bathroom floor', 'throwing away wrapper', 'trash can lid closing', 'empty trash can', 'garbage bag in bin'",
+    "pexels: same-shoot neighbours of 7311931 (ids 7311922-7311942, all period-themed, rejected)",
+    "pixabay: 'trash can', 'pedal bin', 'garbage bin lid', 'throwing trash', 'waste bin', 'bathroom bin', 'dustbin', 'trash bin', 'garbage can', 'throw away', 'rubbish bin', 'tissue trash', 'wastepaper basket', 'lid'",
+    "mixkit: 'trash', 'garbage', 'trash can', 'throwing trash', 'bin', 'waste', 'recycling', 'bathroom', 'bathroom floor', 'trash bin'",
+    "coverr: 'trash', 'trash can', 'garbage', 'bin', 'throwing away', 'waste', 'bathroom', 'bathroom floor', 'trash bin'",
+    "verifier pexels-api: 'foot pedal trash can' (any), 'throwing garbage in bathroom bin' (any), 'small white trash can' (any), 'trash can top view' (any), 'garbage bin home lid' (portrait), 'bathroom floor tiles bin' (any) -> nothing new usable (labelled PAPER/PLASTIC/METAL/TRASH recycling bins 7565xxx/9323703, dark office mesh bins 11485778/6914406/6914692, a red-lid bin 5698059, people with faces 7551475/7551203, no new pedal bin)",
+    "verifier pixabay: 'pedal' (bike, guitar-effect and boat pedals only, by tags), 'bathroom trash can' (nothing new)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video | 9:16 vertical | Pro | Sound OFF | 3 s. Photoreal iPhone b-roll look, real home, true-to-life textures. Static low camera at bin-rim height on a bright bathroom floor. A small round white pedal bin about 30 cm tall (plain glossy white body, white hinged lid, small brushed-steel foot pedal at the base, no logo, no text, no labels) lined with a clean translucent white bin bag neatly folded over the rim, standing on warm cream square ceramic floor tiles with thin pale grout, a warm cream painted wall and plain white skirting behind. Soft morning daylight from a window off-screen left, airy and bright. The lid is held open by a foot on the pedal off-screen (nobody visible). At 0.5 s a small folded bundle drops from the top of frame into the open bin: a panty liner rolled up inside its soft pastel-pink wrapper, neatly closed. At 1.4 s the pedal is released and the lid taps shut with a tiny bounce. Nothing else in the bin: no pile, no other rubbish. Avoid: people, faces, hands or feet in frame, logos, brand names, text, labels, packaging print, blood, red or blue liquid, stains, unwrapped or used liners, overflowing rubbish, mess, clinical or hospital look, dark gritty grade, neon, black underwear.",
+   "slot_notes": "Same source and crop as V1-a S7, so the two ads share one bin. Bundle drop = composite (same wrapper PNG as V1-a), or use the Kling prompt."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S4-BR-bin-3q-lid-open",
+   "on_screen_s": 1.0,
+   "verdict": "stock_partial",
+   "primary": {
+    "src": "pexels",
+    "id": "7311931",
+    "page_url": "https://www.pexels.com/video/a-person-disposing-a-used-tampon-7311931/",
+    "hd_url": "https://videos.pexels.com/video-files/7311931/7311931-uhd_2160_4096_25fps.mp4",
+    "sd_url": "https://videos.pexels.com/video-files/7311931/7311931-sd_338_640_25fps.mp4",
+    "clip_duration": 18.24,
+    "resolution": "Listed as 2160x4096 UHD, but this hd_url (and Pexels' own /download/video/7311931/ redirect, which points to it) actually delivers 1440x2732, 25fps (ffprobe-checked, 8.7 MB). The '7311931-hd_1080_2048_25fps.mp4' link delivers only 720x1366. Use the hd_url.",
+    "use_in": 3.2,
+    "use_out": 4.2,
+    "speed_pct": 100,
+    "crop_note": "Box x0.40-1.00, y0.30-0.86 of the 1440x2732 file = 864x1530 px -> 1080x1920 (1.25x upscale, still clean). Checked on crop previews: the fully open lid tip stays ~3% inside the top edge, the bin base sits ~12% above the bottom on a strip of floor, and the jeans and the top-left hand stay outside. The tampon DOES come into this box ~5.0-8.5 (it is only above it before ~4.6), so never use 4.4-8.6. Add the 100->106% push in the edit (about 1.33x total upscale at the end, still fine). Start the clip at ad-time 3.40: the flip starts at ad 3.75 and is fully open by ad 4.20.",
+    "what_happens": "Verifier re-watched: 0.5 s sheet, 0.04-0.2 s dense sheets and crop-box previews from the 1440p file, and zoomed stills of the lid, hinge and liner. Locked camera at bin height: grey round steel pedal bin with a black hinge block at the back, clear liner, white textured wall, white skirting, dark herringbone floor, soft daylight. 0.0-8.5 a hand lowers a pink tampon on its string from the top of frame: above the crop box until ~4.6, INSIDE it ~5.0-8.5 (reddish tip visible ~6.0), dropped in ~8.4. ~2.5-3.2 a bare foot (jeans) comes in from the left onto the pedal. 3.55-4.00 lid flips open. 4.00-12.05 lid held open; the hand hovers at the top-left of the full frame 8.5-12.6 (outside the crop). 12.10 the foot starts to come off the pedal and the lid starts down; toes stay in the crop's bottom-left corner until ~12.65; the foot is gone by ~13.0. 12.1-15.9 slow damped soft-close (lid ~45 deg at 12.8, ~25 deg at 14.4, ~15 deg at 15.15, ~5 deg at 15.55); it seats at 15.88-15.92 with no bounce; 16.0-18.24 shut and static. No logo or text on the bin, lid, hinge or liner (checked zoomed). Window used (CHANGED from 3.30-4.30): 3.20-3.55 lid shut, toes resting on the pedal at the bottom-left edge; 3.55-4.00 lid flips open; 4.00-4.20 open, clean empty liner over the rim. The tampon is in the top 10% of the full frame here, about 20% above the crop box.",
+    "fit_score": 3,
+    "why_it_fits": "A real, crisp lid flip-open on a clean, logo-free pedal bin in soft daylight, with the liner still empty.",
+    "risks": "Low angle at bin height, not the board's 3/4 high plate A. Grey bin, wood floor, white wall: it will not match AI plates of a white bin on cream tiles in S5-S9, so use it only if all of V1-c's side-angle bin shots come from this one source. Toes visible bottom-left. Never extend past 4.40 (tampon). 1440p, not 4K."
+   },
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "10326491",
+     "page_url": "https://www.pexels.com/video/close-up-on-opening-trash-bin-10326491/",
+     "hd_url": "https://videos.pexels.com/video-files/10326491/10326491-uhd_2160_3840_30fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/10326491/10326491-sd_540_960_30fps.mp4",
+     "clip_duration": 7.27,
+     "resolution": "Listed as 2160x3840 UHD, but the hd_url (and Pexels' /download/ redirect) actually delivers 1440x2560, 30fps (ffprobe-checked).",
+     "use_in": 1.2,
+     "use_out": 2.2,
+     "speed_pct": 100,
+     "crop_note": "Box x0.20-0.80, y0.235-0.835 of the 1440x2560 file = 864x1536 px -> 1080x1920 (1.25x). CHANGED from the hunter's y0.22-0.82: at y0.22 the bottom of the front globe pendant shows as a grey arc along the top edge for the whole clip. At y0.235 the globe and softbox are out and the fully open lid's top edge just touches the frame top.",
+     "what_happens": "Verifier re-watched: 0.5 s sheet, 0.1 s dense sheets with the crop box, crop previews, and 1080p zooms of the lid and hinge. Cream/off-white rectangular sensor bin, 3/4 high angle, black studio floor and wall, softbox top-left, two globe pendants top-centre. 0.4-1.2 a woman's hand (ring, bracelet) waves in from the left and is INSIDE the crop 0.9-1.1 (out of it from 1.2). 0.9-1.6 the lid motor-swings open (about 30 deg open at 1.20). 1.6-5.95 open and still, white interior. 5.95-6.40 the lid swings down and snaps shut at 6.40 (a real tap). 6.40-7.27 shut. Printed black text in two places: a small strip on the rim between the hinge posts (visible whenever the lid is open) and a label on the lid's rear edge (visible once shut, from 6.40). Window used (CHANGED from 1.15-2.15: at 1.10-1.15 the hand's fingers are still inside the crop's left edge): 1.20-1.60 lid swinging open from about 30 deg to fully open; 1.60-2.20 open and still. To get a true shut-then-flip-open, play 5.80-6.80 REVERSED instead (shut 6.80-6.40, flips open 6.40-5.95, open to 5.80), blurring the lid rear-edge label while it is shut.",
+     "fit_score": 2,
+     "why_it_fits": "Same 3/4 high angle as the board's plate A, and a white/cream bin.",
+     "risks": "Played forward, the flip from fully shut happens 0.9-1.2 with the hand in frame, so the window starts mid-swing (use the reversed close if the shut beat matters). Dark studio cannot read as soft morning light. Blur the rim text strip between the hinges. Sensor bin. 1440p."
+    }
+   ],
+   "queries_tried": [
+    "pexels-api: 'pedal bin' (any), 'trash can' (portrait + any), 'trash bin' (portrait), 'garbage can lid' (any), 'bathroom trash' (any)",
+    "pexels-web: 'pedal bin', 'trash can lid', 'bathroom trash can', 'stepping on trash can pedal', 'trash bin top view', 'white trash can', 'throwing away tissue', 'wastebasket', 'inside trash can', 'dustbin', 'kitchen trash can', 'sanitary pad trash', 'trash can opening', 'rubbish bin', 'trash can bathroom floor', 'throwing away wrapper', 'trash can lid closing', 'empty trash can', 'garbage bag in bin'",
+    "pexels: same-shoot neighbours of 7311931 (ids 7311922-7311942, all period-themed, rejected)",
+    "pixabay: 'trash can', 'pedal bin', 'garbage bin lid', 'throwing trash', 'waste bin', 'bathroom bin', 'dustbin', 'trash bin', 'garbage can', 'throw away', 'rubbish bin', 'tissue trash', 'wastepaper basket', 'lid'",
+    "mixkit: 'trash', 'garbage', 'trash can', 'throwing trash', 'bin', 'waste', 'recycling', 'bathroom', 'bathroom floor', 'trash bin'",
+    "coverr: 'trash', 'trash can', 'garbage', 'bin', 'throwing away', 'waste', 'bathroom', 'bathroom floor', 'trash bin'",
+    "verifier pexels-api: 'foot pedal trash can' (any), 'throwing garbage in bathroom bin' (any), 'small white trash can' (any), 'trash can top view' (any), 'garbage bin home lid' (portrait), 'bathroom floor tiles bin' (any) -> nothing new usable (labelled PAPER/PLASTIC/METAL/TRASH recycling bins 7565xxx/9323703, dark office mesh bins 11485778/6914406/6914692, a red-lid bin 5698059, people with faces 7551475/7551203, no new pedal bin)",
+    "verifier pixabay: 'pedal' (bike, guitar-effect and boat pedals only, by tags), 'bathroom trash can' (nothing new)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video | 9:16 vertical | Pro | Sound OFF | 3 s. Photoreal iPhone b-roll look, real home, true-to-life textures. Camera at bathroom-counter height looking about 40 degrees down at a 3/4 angle (bin plate A). A small round white pedal bin about 30 cm tall (plain glossy white body, white hinged lid, small brushed-steel foot pedal at the base, no logo, no text, no labels) lined with a clean translucent white bin bag neatly folded over the rim, standing on warm cream square ceramic floor tiles with thin pale grout, a warm cream painted wall and plain white skirting behind. The bag is clean and empty and the lid is shut at the start. Soft cool morning daylight from the left with a gentle shadow to the right. At 1.0 s the lid flips open quickly (pedal pressed off-screen, nobody visible), revealing the empty white liner. Very slow push-in from 100% to 106% across the shot. Avoid: people, faces, hands or feet in frame, logos, brand names, text, labels, packaging print, blood, red or blue liquid, stains, unwrapped or used liners, overflowing rubbish, mess, clinical or hospital look, dark gritty grade, neon, black underwear.",
+   "slot_notes": "A real lid flip exists (7311931), but V1-c's continuity depends on one bin across S4-S10 and stock has no MON-THU pile. Recommended: keep the existing plate A/B plus wrapper-PNG plan (video/prompts/V1-c.json) or the Kling prompts, with identical bin and tile wording."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S5-BR-bin-topdown-MON",
+   "on_screen_s": 1.05,
+   "verdict": "no_stock",
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "12033692",
+     "page_url": "https://www.pexels.com/video/throwing-out-surgical-masks-to-trash-bin-12033692/",
+     "hd_url": "https://videos.pexels.com/video-files/12033692/12033692-uhd_3840_2160_30fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/12033692/12033692-sd_960_540_30fps.mp4",
+     "clip_duration": 8.32,
+     "resolution": "3840x2160, 29.97fps (ffprobe-checked: true 4K)",
+     "use_in": 0.0,
+     "use_out": 1.05,
+     "speed_pct": 100,
+     "crop_note": "4K 16:9 -> 9:16 box x0.342-0.658, full height (1215x2160 px) -> 1080x1920. The dark bin floor fills the frame, with rim arcs at the sides and jute rug in the corners.",
+     "what_happens": "Verifier re-watched (0.5 s sheet plus a 0.2 s dense sheet with the crop box). Locked, straight-down view of an empty round dark-brown metal bin (no liner) on a warm jute rug, soft daylight, a tiny white fleck on the rug to the right. 0.00-2.40 empty and static. ~2.5 a bundle of blue surgical masks enters from the bottom edge, drops in 3.8-4.5 and lies in the bin to 8.32. Never use anything after 2.30. Window used: 0.00-1.05 empty and static.",
+     "fit_score": 2,
+     "why_it_fits": "EMERGENCY ONLY: a real, warm, top-down empty-bin plate to drop the MON wrapper PNG onto.",
+     "risks": "A different bin from any plate A (dark-brown metal, no liner), surgical masks after 2.4, and no wrapper. It breaks the same-bin continuity."
+    }
+   ],
+   "queries_tried": [
+    "pexels-api: 'pedal bin' (any), 'trash can' (portrait + any), 'trash bin' (portrait), 'garbage can lid' (any), 'bathroom trash' (any)",
+    "pexels-web: 'pedal bin', 'trash can lid', 'bathroom trash can', 'stepping on trash can pedal', 'trash bin top view', 'white trash can', 'throwing away tissue', 'wastebasket', 'inside trash can', 'dustbin', 'kitchen trash can', 'sanitary pad trash', 'trash can opening', 'rubbish bin', 'trash can bathroom floor', 'throwing away wrapper', 'trash can lid closing', 'empty trash can', 'garbage bag in bin'",
+    "pexels: same-shoot neighbours of 7311931 (ids 7311922-7311942, all period-themed, rejected)",
+    "pixabay: 'trash can', 'pedal bin', 'garbage bin lid', 'throwing trash', 'waste bin', 'bathroom bin', 'dustbin', 'trash bin', 'garbage can', 'throw away', 'rubbish bin', 'tissue trash', 'wastepaper basket', 'lid'",
+    "mixkit: 'trash', 'garbage', 'trash can', 'throwing trash', 'bin', 'waste', 'recycling', 'bathroom', 'bathroom floor', 'trash bin'",
+    "coverr: 'trash', 'trash can', 'garbage', 'bin', 'throwing away', 'waste', 'bathroom', 'bathroom floor', 'trash bin'",
+    "verifier pexels-api: 'foot pedal trash can' (any), 'throwing garbage in bathroom bin' (any), 'small white trash can' (any), 'trash can top view' (any), 'garbage bin home lid' (portrait), 'bathroom floor tiles bin' (any) -> nothing new usable (labelled PAPER/PLASTIC/METAL/TRASH recycling bins 7565xxx/9323703, dark office mesh bins 11485778/6914406/6914692, a red-lid bin 5698059, people with faces 7551475/7551203, no new pedal bin)",
+    "verifier pixabay: 'pedal' (bike, guitar-effect and boat pedals only, by tags), 'bathroom trash can' (nothing new)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video | 9:16 vertical | Pro | Sound OFF | 3 s. Photoreal iPhone b-roll look, real home, true-to-life textures. Camera directly overhead looking straight down into an open bin (bin plate B): a small round white pedal bin about 30 cm tall (plain glossy white body, white hinged lid, small brushed-steel foot pedal at the base, no logo, no text, no labels) lined with a clean translucent white bin bag neatly folded over the rim. The round white rim forms a circle filling most of the frame, with warm cream square ceramic floor tiles with thin pale grout visible in the four corners. Soft morning daylight, static camera. At 0.6 s one crinkled pastel-pink panty-liner wrapper with its thin white release strip flutters down from the top of frame and lands on the bottom of the empty bag with a small bounce and a soft shadow. Keep clean empty space left of centre about halfway down. Avoid: people, faces, hands or feet in frame, logos, brand names, text, labels, packaging print, blood, red or blue liquid, stains, unwrapped or used liners, overflowing rubbish, mess, clinical or hospital look, dark gritty grade, neon, black underwear.",
+   "slot_notes": "Nothing usable: no free library has a top-down view into a clean lined bin with a wrapper falling in. Keep the planned Nano Banana plate B plus wrapper PNG (V1-c.json) or use the Kling prompt. 12033692 (0-2.30 s only) is listed purely as an emergency plate."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S6-BR-bin-3q-115-TUE",
+   "on_screen_s": 1.13,
+   "verdict": "no_stock",
+   "backups": [
+    {
+     "src": "pixabay",
+     "id": "1928",
+     "page_url": "https://pixabay.com/videos/id-1928/",
+     "hd_url": "https://cdn.pixabay.com/video/2016/01/14/1928-152081350_medium.mp4",
+     "sd_url": "https://cdn.pixabay.com/video/2016/01/14/1928-152081350_small.mp4",
+     "clip_duration": 5.74,
+     "resolution": "1920x1080, 29.97fps (ffprobe-checked). REPLACES Pexels 854681: identical footage and timing, but Pexels' '854681-hd_1920_1080_30fps.mp4' link (and its /download/ redirect) delivers only 1280x720.",
+     "use_in": 0.0,
+     "use_out": 1.13,
+     "speed_pct": 100,
+     "crop_note": "16:9 -> 9:16 box x0.27-0.59, full height (615x1080 px) -> 1080x1920 (1.76x upscale, soft). The 9:16 box is narrower than the bin, so both sides of the rim are cut and the bin sits in the lower half under grey wall tiles. The white toilet edge stays out (x<0.27). Then 115% in the edit (about 2x upscale overall, soft).",
+     "what_happens": "Verifier re-watched both Pexels 854681 and Pixabay 1928 (0.4-0.5 s sheets plus a 0.1 s dense sheet with the crop box): same clip. Locked 3/4-high view of an empty, open, lid-less grey plastic bin against grey wall tiles, white toilet edge at the left, dark stone floor. 2.5 a slim adult hand (natural nails; white shirt cuff under a mustard knit sleeve) enters top-right holding a crumpled white tissue; 3.3 lets go and the tissue falls in 3.3-3.45; 3.4-4.0 the open hand dips toward the bin mouth and withdraws up and right (fingertips still at the crop's top-right at 4.00-4.05); 4.1-5.74 empty bin, the tissue barely visible at the bottom. No text or logos. Window used: 0.00-1.13 empty open bin, nothing moves.",
+     "fit_score": 2,
+     "why_it_fits": "EMERGENCY ONLY: a real 3/4-high view into an empty bathroom bin to composite the wrapper drop onto.",
+     "risks": "No lid, a cool grey palette, a soft 1080p upscale, rim cut on both sides, a different bin from S4/S10, and no MON wrapper inside."
+    }
+   ],
+   "queries_tried": [
+    "pexels-api: 'pedal bin' (any), 'trash can' (portrait + any), 'trash bin' (portrait), 'garbage can lid' (any), 'bathroom trash' (any)",
+    "pexels-web: 'pedal bin', 'trash can lid', 'bathroom trash can', 'stepping on trash can pedal', 'trash bin top view', 'white trash can', 'throwing away tissue', 'wastebasket', 'inside trash can', 'dustbin', 'kitchen trash can', 'sanitary pad trash', 'trash can opening', 'rubbish bin', 'trash can bathroom floor', 'throwing away wrapper', 'trash can lid closing', 'empty trash can', 'garbage bag in bin'",
+    "pexels: same-shoot neighbours of 7311931 (ids 7311922-7311942, all period-themed, rejected)",
+    "pixabay: 'trash can', 'pedal bin', 'garbage bin lid', 'throwing trash', 'waste bin', 'bathroom bin', 'dustbin', 'trash bin', 'garbage can', 'throw away', 'rubbish bin', 'tissue trash', 'wastepaper basket', 'lid'",
+    "mixkit: 'trash', 'garbage', 'trash can', 'throwing trash', 'bin', 'waste', 'recycling', 'bathroom', 'bathroom floor', 'trash bin'",
+    "coverr: 'trash', 'trash can', 'garbage', 'bin', 'throwing away', 'waste', 'bathroom', 'bathroom floor', 'trash bin'",
+    "verifier pexels-api: 'foot pedal trash can' (any), 'throwing garbage in bathroom bin' (any), 'small white trash can' (any), 'trash can top view' (any), 'garbage bin home lid' (portrait), 'bathroom floor tiles bin' (any) -> nothing new usable (labelled PAPER/PLASTIC/METAL/TRASH recycling bins 7565xxx/9323703, dark office mesh bins 11485778/6914406/6914692, a red-lid bin 5698059, people with faces 7551475/7551203, no new pedal bin)",
+    "verifier pixabay: 'pedal' (bike, guitar-effect and boat pedals only, by tags), 'bathroom trash can' (nothing new)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video | 9:16 vertical | Pro | Sound OFF | 3 s. Photoreal iPhone b-roll look, real home, true-to-life textures. Same 3/4 high angle as bin plate A (camera at counter height, about 40 degrees down), punched in so the bin fills the lower two-thirds: a small round white pedal bin about 30 cm tall (plain glossy white body, white hinged lid, small brushed-steel foot pedal at the base, no logo, no text, no labels) lined with a clean translucent white bin bag neatly folded over the rim, lid open, standing on warm cream square ceramic floor tiles with thin pale grout, a warm cream painted wall and plain white skirting behind. One crinkled pastel-pink panty-liner wrapper already lies inside on the liner. Soft morning daylight. At 0.6 s a second crinkled pastel-mint wrapper with its white release strip drops in from the top of frame and lands crumpled beside the first with a small bounce. Static camera. Avoid: people, faces, hands or feet in frame, logos, brand names, text, labels, packaging print, blood, red or blue liquid, stains, unwrapped or used liners, overflowing rubbish, mess, clinical or hospital look, dark gritty grade, neon, black underwear.",
+   "slot_notes": "Stock cannot show the wrapper count growing. Use plate A at 115% plus wrapper PNG #2 (V1-c.json) or the Kling prompt."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S7-BR-bin-topdown-WED",
+   "on_screen_s": 0.92,
+   "verdict": "no_stock",
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "6279699",
+     "page_url": "https://www.pexels.com/video/throwing-crumpled-papers-on-a-trash-can-6279699/",
+     "hd_url": "https://videos.pexels.com/video-files/6279699/6279699-uhd_3840_2160_24fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/6279699/6279699-sd_960_540_24fps.mp4",
+     "clip_duration": 4.83,
+     "resolution": "3840x2160, 24fps (ffprobe-checked: true 4K)",
+     "use_in": 1.2,
+     "use_out": 2.12,
+     "speed_pct": 100,
+     "crop_note": "4K 16:9 -> 9:16 box x0.40-0.64, y0.15-0.91 (922x1642 px) -> 1080x1920. The white bin and its paper heap fill most of the frame; cork floor and the edge of one floor paper ball at the right.",
+     "what_happens": "Verifier re-watched (0.5 s sheet, 0.05 s dense sheet with the crop box, 0.1 s crop preview). Locked, straight-down view of a small white round bin on a brown cork floor, already about half full of crumpled white paper, a few paper balls on the floor around it; the grade is dim and greyish-brown. ~1.35 one crumpled paper ball enters at the top of the crop, lands on the heap ~1.65 and settles by ~1.80. Otherwise static. No text or logos. Window used: 1.20-2.12 the paper ball drops in from the top (~1.35), lands on the heap (~1.65), settles.",
+     "fit_score": 2,
+     "why_it_fits": "EMERGENCY ONLY: the only real top-down 'drop onto the pile' on the free libraries, in a white bin.",
+     "risks": "Office paper, not pastel wrappers; the pile is already big, so the MON-WED count is lost; no sideways slide; dim greyish-brown grade and cork floor; a different bin from the S4/S10 sources."
+    },
+    {
+     "src": "pexels",
+     "id": "12033692",
+     "page_url": "https://www.pexels.com/video/throwing-out-surgical-masks-to-trash-bin-12033692/",
+     "hd_url": "https://videos.pexels.com/video-files/12033692/12033692-uhd_3840_2160_30fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/12033692/12033692-sd_960_540_30fps.mp4",
+     "clip_duration": 8.32,
+     "resolution": "3840x2160, 29.97fps (ffprobe-checked: true 4K)",
+     "use_in": 1.1,
+     "use_out": 2.02,
+     "speed_pct": 100,
+     "crop_note": "4K 16:9 -> 9:16 box x0.342-0.658, full height (1215x2160 px) -> 1080x1920. The dark bin floor fills the frame, with rim arcs at the sides and jute rug in the corners.",
+     "what_happens": "Verifier re-watched (0.5 s sheet plus a 0.2 s dense sheet with the crop box). Locked, straight-down view of an empty round dark-brown metal bin (no liner) on a warm jute rug, soft daylight, a tiny white fleck on the rug to the right. 0.00-2.40 empty and static. ~2.5 a bundle of blue surgical masks enters from the bottom edge, drops in 3.8-4.5 and lies in the bin to 8.32. Never use anything after 2.30. Window used: 1.10-2.02 empty and static (matches the S5 backup plate).",
+     "fit_score": 2,
+     "why_it_fits": "EMERGENCY ONLY: an empty top-down plate for wrapper PNGs (matches the S5 backup).",
+     "risks": "Dark-brown metal interior, no liner, not the same bin as plate A."
+    }
+   ],
+   "queries_tried": [
+    "pexels-api: 'pedal bin' (any), 'trash can' (portrait + any), 'trash bin' (portrait), 'garbage can lid' (any), 'bathroom trash' (any)",
+    "pexels-web: 'pedal bin', 'trash can lid', 'bathroom trash can', 'stepping on trash can pedal', 'trash bin top view', 'white trash can', 'throwing away tissue', 'wastebasket', 'inside trash can', 'dustbin', 'kitchen trash can', 'sanitary pad trash', 'trash can opening', 'rubbish bin', 'trash can bathroom floor', 'throwing away wrapper', 'trash can lid closing', 'empty trash can', 'garbage bag in bin'",
+    "pexels: same-shoot neighbours of 7311931 (ids 7311922-7311942, all period-themed, rejected)",
+    "pixabay: 'trash can', 'pedal bin', 'garbage bin lid', 'throwing trash', 'waste bin', 'bathroom bin', 'dustbin', 'trash bin', 'garbage can', 'throw away', 'rubbish bin', 'tissue trash', 'wastepaper basket', 'lid'",
+    "mixkit: 'trash', 'garbage', 'trash can', 'throwing trash', 'bin', 'waste', 'recycling', 'bathroom', 'bathroom floor', 'trash bin'",
+    "coverr: 'trash', 'trash can', 'garbage', 'bin', 'throwing away', 'waste', 'bathroom', 'bathroom floor', 'trash bin'",
+    "verifier pexels-api: 'foot pedal trash can' (any), 'throwing garbage in bathroom bin' (any), 'small white trash can' (any), 'trash can top view' (any), 'garbage bin home lid' (portrait), 'bathroom floor tiles bin' (any) -> nothing new usable (labelled PAPER/PLASTIC/METAL/TRASH recycling bins 7565xxx/9323703, dark office mesh bins 11485778/6914406/6914692, a red-lid bin 5698059, people with faces 7551475/7551203, no new pedal bin)",
+    "verifier pixabay: 'pedal' (bike, guitar-effect and boat pedals only, by tags), 'bathroom trash can' (nothing new)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video | 9:16 vertical | Pro | Sound OFF | 3 s. Photoreal iPhone b-roll look, real home, true-to-life textures. Overhead, straight-down view into the open bin (bin plate B): a small round white pedal bin about 30 cm tall (plain glossy white body, white hinged lid, small brushed-steel foot pedal at the base, no logo, no text, no labels) lined with a clean translucent white bin bag neatly folded over the rim. A crinkled pastel-pink and a crinkled pastel-mint panty-liner wrapper lie together on the white liner. Soft daylight, static camera. At 0.5 s a third crinkled pastel-lilac wrapper drops onto them, lands on the edge of the little pile and slides about 3 cm sideways off it before settling. Avoid: people, faces, hands or feet in frame, logos, brand names, text, labels, packaging print, blood, red or blue liquid, stains, unwrapped or used liners, overflowing rubbish, mess, clinical or hospital look, dark gritty grade, neon, black underwear.",
+   "slot_notes": "'Shifts' needs a wrapper sliding in frame, which no stock has. Plate B plus wrapper PNG #3 with a keyframed slide (V1-c.json), or the Kling prompt."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S8-BR-bin-3q-130-THU",
+   "on_screen_s": 0.95,
+   "verdict": "no_stock",
+   "backups": [
+    {
+     "src": "pixabay",
+     "id": "1928",
+     "page_url": "https://pixabay.com/videos/id-1928/",
+     "hd_url": "https://cdn.pixabay.com/video/2016/01/14/1928-152081350_medium.mp4",
+     "sd_url": "https://cdn.pixabay.com/video/2016/01/14/1928-152081350_small.mp4",
+     "clip_duration": 5.74,
+     "resolution": "1920x1080, 29.97fps (ffprobe-checked). REPLACES Pexels 854681: identical footage and timing, but Pexels' '854681-hd_1920_1080_30fps.mp4' link (and its /download/ redirect) delivers only 1280x720.",
+     "use_in": 4.15,
+     "use_out": 5.1,
+     "speed_pct": 100,
+     "crop_note": "16:9 -> 9:16 box x0.27-0.59, full height (615x1080 px) -> 1080x1920 (1.76x upscale, soft). The 9:16 box is narrower than the bin, so both sides of the rim are cut and the bin sits in the lower half under grey wall tiles. The white toilet edge stays out (x<0.27). Then 130% on the rim in the edit (about 2.3x upscale overall, soft).",
+     "what_happens": "Verifier re-watched both Pexels 854681 and Pixabay 1928 (0.4-0.5 s sheets plus a 0.1 s dense sheet with the crop box): same clip. Locked 3/4-high view of an empty, open, lid-less grey plastic bin against grey wall tiles, white toilet edge at the left, dark stone floor. 2.5 a slim adult hand (natural nails; white shirt cuff under a mustard knit sleeve) enters top-right holding a crumpled white tissue; 3.3 lets go and the tissue falls in 3.3-3.45; 3.4-4.0 the open hand dips toward the bin mouth and withdraws up and right (fingertips still at the crop's top-right at 4.00-4.05); 4.1-5.74 empty bin, the tissue barely visible at the bottom. No text or logos. Window used (CHANGED from 4.10-5.05, because fingertips are still at the crop's top-right at 4.00-4.05): 4.15-5.10 the hand has gone; empty open bin, nothing moves.",
+     "fit_score": 2,
+     "why_it_fits": "EMERGENCY ONLY: a real 3/4-high view of a bin mouth to composite the THU wrapper drop onto.",
+     "risks": "No lid, grey and cool, soft from the upscale, a different bin, and no visible pile."
+    }
+   ],
+   "queries_tried": [
+    "pexels-api: 'pedal bin' (any), 'trash can' (portrait + any), 'trash bin' (portrait), 'garbage can lid' (any), 'bathroom trash' (any)",
+    "pexels-web: 'pedal bin', 'trash can lid', 'bathroom trash can', 'stepping on trash can pedal', 'trash bin top view', 'white trash can', 'throwing away tissue', 'wastebasket', 'inside trash can', 'dustbin', 'kitchen trash can', 'sanitary pad trash', 'trash can opening', 'rubbish bin', 'trash can bathroom floor', 'throwing away wrapper', 'trash can lid closing', 'empty trash can', 'garbage bag in bin'",
+    "pexels: same-shoot neighbours of 7311931 (ids 7311922-7311942, all period-themed, rejected)",
+    "pixabay: 'trash can', 'pedal bin', 'garbage bin lid', 'throwing trash', 'waste bin', 'bathroom bin', 'dustbin', 'trash bin', 'garbage can', 'throw away', 'rubbish bin', 'tissue trash', 'wastepaper basket', 'lid'",
+    "mixkit: 'trash', 'garbage', 'trash can', 'throwing trash', 'bin', 'waste', 'recycling', 'bathroom', 'bathroom floor', 'trash bin'",
+    "coverr: 'trash', 'trash can', 'garbage', 'bin', 'throwing away', 'waste', 'bathroom', 'bathroom floor', 'trash bin'",
+    "verifier pexels-api: 'foot pedal trash can' (any), 'throwing garbage in bathroom bin' (any), 'small white trash can' (any), 'trash can top view' (any), 'garbage bin home lid' (portrait), 'bathroom floor tiles bin' (any) -> nothing new usable (labelled PAPER/PLASTIC/METAL/TRASH recycling bins 7565xxx/9323703, dark office mesh bins 11485778/6914406/6914692, a red-lid bin 5698059, people with faces 7551475/7551203, no new pedal bin)",
+    "verifier pixabay: 'pedal' (bike, guitar-effect and boat pedals only, by tags), 'bathroom trash can' (nothing new)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video | 9:16 vertical | Pro | Sound OFF | 3 s. Photoreal iPhone b-roll look, real home, true-to-life textures. 3/4 high angle, tight on the bin mouth: the white rim and the open lid of a small round white pedal bin about 30 cm tall (plain glossy white body, white hinged lid, small brushed-steel foot pedal at the base, no logo, no text, no labels) lined with a clean translucent white bin bag neatly folded over the rim fill the lower frame, on warm cream square ceramic floor tiles with thin pale grout. Three crinkled pastel panty-liner wrappers (pink, mint, lilac) are visible inside. Soft daylight, static camera. At 0.6 s a fourth crinkled pastel-peach wrapper drops in from the top of frame and lands on top with a small bounce. Avoid: people, faces, hands or feet in frame, logos, brand names, text, labels, packaging print, blood, red or blue liquid, stains, unwrapped or used liners, overflowing rubbish, mess, clinical or hospital look, dark gritty grade, neon, black underwear.",
+   "slot_notes": "Use plate A at 130% plus wrapper PNG #4 (generate plate A at 2K or more, as V1-c.json says), or the Kling prompt."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S9-BR-bin-topdown-130-pile",
+   "on_screen_s": 1.1,
+   "verdict": "no_stock",
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "6279699",
+     "page_url": "https://www.pexels.com/video/throwing-crumpled-papers-on-a-trash-can-6279699/",
+     "hd_url": "https://videos.pexels.com/video-files/6279699/6279699-uhd_3840_2160_24fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/6279699/6279699-sd_960_540_24fps.mp4",
+     "clip_duration": 4.83,
+     "resolution": "3840x2160, 24fps (ffprobe-checked: true 4K)",
+     "use_in": 2.2,
+     "use_out": 3.3,
+     "speed_pct": 100,
+     "crop_note": "4K 16:9 -> 9:16 box x0.42-0.62, y0.26-0.89 (768x1361 px) -> 1080x1920; then the 2-degree rotate and 130->136% push in the edit (about 1.9x overall).",
+     "what_happens": "Verifier re-watched (0.5 s sheet, 0.05 s dense sheet with the crop box, 0.1 s crop preview). Locked, straight-down view of a small white round bin on a brown cork floor, already about half full of crumpled white paper, a few paper balls on the floor around it; the grade is dim and greyish-brown. ~1.35 one crumpled paper ball enters at the top of the crop, lands on the heap ~1.65 and settles by ~1.80. Otherwise static. No text or logos. Window used: 2.20-3.30 static heap after the drop has settled.",
+     "fit_score": 2,
+     "why_it_fits": "EMERGENCY ONLY: a real top-down heap in a white bin that 'breathes' with the edit push.",
+     "risks": "White office paper, not four pastel wrappers, so it can read as used tissues or general rubbish. Dim cork corners and a different bin."
+    }
+   ],
+   "queries_tried": [
+    "pexels-api: 'pedal bin' (any), 'trash can' (portrait + any), 'trash bin' (portrait), 'garbage can lid' (any), 'bathroom trash' (any)",
+    "pexels-web: 'pedal bin', 'trash can lid', 'bathroom trash can', 'stepping on trash can pedal', 'trash bin top view', 'white trash can', 'throwing away tissue', 'wastebasket', 'inside trash can', 'dustbin', 'kitchen trash can', 'sanitary pad trash', 'trash can opening', 'rubbish bin', 'trash can bathroom floor', 'throwing away wrapper', 'trash can lid closing', 'empty trash can', 'garbage bag in bin'",
+    "pexels: same-shoot neighbours of 7311931 (ids 7311922-7311942, all period-themed, rejected)",
+    "pixabay: 'trash can', 'pedal bin', 'garbage bin lid', 'throwing trash', 'waste bin', 'bathroom bin', 'dustbin', 'trash bin', 'garbage can', 'throw away', 'rubbish bin', 'tissue trash', 'wastepaper basket', 'lid'",
+    "mixkit: 'trash', 'garbage', 'trash can', 'throwing trash', 'bin', 'waste', 'recycling', 'bathroom', 'bathroom floor', 'trash bin'",
+    "coverr: 'trash', 'trash can', 'garbage', 'bin', 'throwing away', 'waste', 'bathroom', 'bathroom floor', 'trash bin'",
+    "verifier pexels-api: 'foot pedal trash can' (any), 'throwing garbage in bathroom bin' (any), 'small white trash can' (any), 'trash can top view' (any), 'garbage bin home lid' (portrait), 'bathroom floor tiles bin' (any) -> nothing new usable (labelled PAPER/PLASTIC/METAL/TRASH recycling bins 7565xxx/9323703, dark office mesh bins 11485778/6914406/6914692, a red-lid bin 5698059, people with faces 7551475/7551203, no new pedal bin)",
+    "verifier pixabay: 'pedal' (bike, guitar-effect and boat pedals only, by tags), 'bathroom trash can' (nothing new)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video | 9:16 vertical | Pro | Sound OFF | 3 s. Photoreal iPhone b-roll look, real home, true-to-life textures. Overhead, straight-down view, tight on the bottom of the open bin (a small round white pedal bin about 30 cm tall (plain glossy white body, white hinged lid, small brushed-steel foot pedal at the base, no logo, no text, no labels) lined with a clean translucent white bin bag neatly folded over the rim): four crinkled pastel panty-liner wrappers (pink, mint, lilac, peach) with their thin white release strips heaped together on the white liner, filling the frame. Nothing moves except a very slow push-in and a slight 2-degree clockwise rotation. Soft daylight, clean and dry, nothing gross. Avoid: people, faces, hands or feet in frame, logos, brand names, text, labels, packaging print, blood, red or blue liquid, stains, unwrapped or used liners, overflowing rubbish, mess, clinical or hospital look, dark gritty grade, neon, black underwear.",
+   "slot_notes": "The pastel MON-THU heap does not exist in stock. Plate B at 130% with all four wrapper PNGs (V1-c.json), or the Kling prompt."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S10-BR-bin-3q-dusk-lid-slam",
+   "on_screen_s": 1.8,
+   "verdict": "stock_partial",
+   "primary": {
+    "src": "pexels",
+    "id": "7311931",
+    "page_url": "https://www.pexels.com/video/a-person-disposing-a-used-tampon-7311931/",
+    "hd_url": "https://videos.pexels.com/video-files/7311931/7311931-uhd_2160_4096_25fps.mp4",
+    "sd_url": "https://videos.pexels.com/video-files/7311931/7311931-sd_338_640_25fps.mp4",
+    "clip_duration": 18.24,
+    "resolution": "Listed as 2160x4096 UHD, but this hd_url (and Pexels' own /download/video/7311931/ redirect, which points to it) actually delivers 1440x2732, 25fps (ffprobe-checked, 8.7 MB). The '7311931-hd_1080_2048_25fps.mp4' link delivers only 720x1366. Use the hd_url.",
+    "use_in": 11.8,
+    "use_out": 15.95,
+    "speed_pct": 100,
+    "crop_note": "Box x0.40-1.00, y0.30-0.86 of the 1440x2732 file = 864x1530 px -> 1080x1920 (1.25x upscale, still clean). Checked on crop previews: the fully open lid tip stays ~3% inside the top edge, the bin base sits ~12% above the bottom on a strip of floor, and the jeans and the top-left hand stay outside. The tampon DOES come into this box ~5.0-8.5 (it is only above it before ~4.6), so never use 4.4-8.6. Two-piece edit: 11.80-12.80, then a 2-frame-blur jump cut to 15.15-15.95 = 1.80 s. Run the day-to-warm-tungsten grade keyframe across the first piece; the lid seats at 15.90, which is the 'slam'.",
+    "what_happens": "Verifier re-watched: 0.5 s sheet, 0.04-0.2 s dense sheets and crop-box previews from the 1440p file, and zoomed stills of the lid, hinge and liner. Locked camera at bin height: grey round steel pedal bin with a black hinge block at the back, clear liner, white textured wall, white skirting, dark herringbone floor, soft daylight. 0.0-8.5 a hand lowers a pink tampon on its string from the top of frame: above the crop box until ~4.6, INSIDE it ~5.0-8.5 (reddish tip visible ~6.0), dropped in ~8.4. ~2.5-3.2 a bare foot (jeans) comes in from the left onto the pedal. 3.55-4.00 lid flips open. 4.00-12.05 lid held open; the hand hovers at the top-left of the full frame 8.5-12.6 (outside the crop). 12.10 the foot starts to come off the pedal and the lid starts down; toes stay in the crop's bottom-left corner until ~12.65; the foot is gone by ~13.0. 12.1-15.9 slow damped soft-close (lid ~45 deg at 12.8, ~25 deg at 14.4, ~15 deg at 15.15, ~5 deg at 15.55); it seats at 15.88-15.92 with no bounce; 16.0-18.24 shut and static. No logo or text on the bin, lid, hinge or liner (checked zoomed). Window used: 11.80-12.05 lid fully open, toes on the pedal; 12.10-12.80 foot leaves and the lid sinks to ~45 deg; jump to 15.15-15.95, where the lid lowers its last ~15 deg and seats at 15.90.",
+    "fit_score": 3,
+    "why_it_fits": "A real bin-height side view of a clean pedal bin whose lid closes, in bright daylight, so the board's day-to-evening grade slide works. Same bin and crop as S4 and V1-a/V1-b.",
+    "risks": "Soft-close, so there is no real slam: the jump cut plus the 'clack' SFX at 15.90 has to sell it. The pile can't be seen at this angle ('noticeably fuller' won't show). Grey bin on wood, low angle: no match for AI plates in S5-S9. Toes visible until ~12.65. Never go earlier than 8.6 (tampon). 1440p, not 4K."
+   },
+   "backups": [
+    {
+     "src": "pexels",
+     "id": "10326491",
+     "page_url": "https://www.pexels.com/video/close-up-on-opening-trash-bin-10326491/",
+     "hd_url": "https://videos.pexels.com/video-files/10326491/10326491-uhd_2160_3840_30fps.mp4",
+     "sd_url": "https://videos.pexels.com/video-files/10326491/10326491-sd_540_960_30fps.mp4",
+     "clip_duration": 7.27,
+     "resolution": "Listed as 2160x3840 UHD, but the hd_url (and Pexels' /download/ redirect) actually delivers 1440x2560, 30fps (ffprobe-checked).",
+     "use_in": 4.8,
+     "use_out": 6.6,
+     "speed_pct": 100,
+     "crop_note": "Box x0.20-0.80, y0.235-0.835 of the 1440x2560 file = 864x1536 px -> 1080x1920 (1.25x). CHANGED from the hunter's y0.22-0.82: at y0.22 the bottom of the front globe pendant shows as a grey arc along the top edge for the whole clip. At y0.235 the globe and softbox are out and the fully open lid's top edge just touches the frame top.",
+     "what_happens": "Verifier re-watched: 0.5 s sheet, 0.1 s dense sheets with the crop box, crop previews, and 1080p zooms of the lid and hinge. Cream/off-white rectangular sensor bin, 3/4 high angle, black studio floor and wall, softbox top-left, two globe pendants top-centre. 0.4-1.2 a woman's hand (ring, bracelet) waves in from the left and is INSIDE the crop 0.9-1.1 (out of it from 1.2). 0.9-1.6 the lid motor-swings open (about 30 deg open at 1.20). 1.6-5.95 open and still, white interior. 5.95-6.40 the lid swings down and snaps shut at 6.40 (a real tap). 6.40-7.27 shut. Printed black text in two places: a small strip on the rim between the hinge posts (visible whenever the lid is open) and a label on the lid's rear edge (visible once shut, from 6.40). Window used: 4.80-5.95 open and still; 5.95-6.40 lid swings down; 6.40 snaps shut (the slam); 6.40-6.60 shut, then cut.",
+     "fit_score": 3,
+     "why_it_fits": "The only real fast lid slam in stock, at a 3/4 high angle (plate A's angle), with a white/cream bin. The dark room already says 'tonight'.",
+     "risks": "It can't start as morning daylight. Blur the rim text strip (4.80-6.2) and the lid rear-edge label (6.40-6.60). Sensor bin, studio background, no pile visible. 1440p."
+    }
+   ],
+   "queries_tried": [
+    "pexels-api: 'pedal bin' (any), 'trash can' (portrait + any), 'trash bin' (portrait), 'garbage can lid' (any), 'bathroom trash' (any)",
+    "pexels-web: 'pedal bin', 'trash can lid', 'bathroom trash can', 'stepping on trash can pedal', 'trash bin top view', 'white trash can', 'throwing away tissue', 'wastebasket', 'inside trash can', 'dustbin', 'kitchen trash can', 'sanitary pad trash', 'trash can opening', 'rubbish bin', 'trash can bathroom floor', 'throwing away wrapper', 'trash can lid closing', 'empty trash can', 'garbage bag in bin'",
+    "pexels: same-shoot neighbours of 7311931 (ids 7311922-7311942, all period-themed, rejected)",
+    "pixabay: 'trash can', 'pedal bin', 'garbage bin lid', 'throwing trash', 'waste bin', 'bathroom bin', 'dustbin', 'trash bin', 'garbage can', 'throw away', 'rubbish bin', 'tissue trash', 'wastepaper basket', 'lid'",
+    "mixkit: 'trash', 'garbage', 'trash can', 'throwing trash', 'bin', 'waste', 'recycling', 'bathroom', 'bathroom floor', 'trash bin'",
+    "coverr: 'trash', 'trash can', 'garbage', 'bin', 'throwing away', 'waste', 'bathroom', 'bathroom floor', 'trash bin'",
+    "verifier pexels-api: 'foot pedal trash can' (any), 'throwing garbage in bathroom bin' (any), 'small white trash can' (any), 'trash can top view' (any), 'garbage bin home lid' (portrait), 'bathroom floor tiles bin' (any) -> nothing new usable (labelled PAPER/PLASTIC/METAL/TRASH recycling bins 7565xxx/9323703, dark office mesh bins 11485778/6914406/6914692, a red-lid bin 5698059, people with faces 7551475/7551203, no new pedal bin)",
+    "verifier pixabay: 'pedal' (bike, guitar-effect and boat pedals only, by tags), 'bathroom trash can' (nothing new)"
+   ],
+   "ai_fallback_prompt": "Kling 3.0 text-to-video | 9:16 vertical | Pro | Sound OFF | 5 s. Photoreal iPhone b-roll look, real home, true-to-life textures. Same 3/4 high angle as bin plate A at full width (camera at counter height, about 40 degrees down): a small round white pedal bin about 30 cm tall (plain glossy white body, white hinged lid, small brushed-steel foot pedal at the base, no logo, no text, no labels) lined with a clean translucent white bin bag neatly folded over the rim, standing on warm cream square ceramic floor tiles with thin pale grout, a warm cream painted wall and plain white skirting behind, lid open, with four crinkled pastel panty-liner wrappers (pink, mint, lilac, peach) heaped inside, noticeably fuller. From 0.5 s to 1.5 s the light changes from cool soft morning daylight to warm amber evening lamp light, as if a lamp clicks on off-screen. At 3.5 s the lid slams shut with a small bounce (pedal released off-screen, nobody visible). Hold one second on the shut bin. Avoid: people, faces, hands or feet in frame, logos, brand names, text, labels, packaging print, blood, red or blue liquid, stains, unwrapped or used liners, overflowing rubbish, mess, clinical or hospital look, dark gritty grade, neon, black underwear.",
+   "slot_notes": "Usable only as part of an all-stock V1-c (S4 plus S10 from 7311931), and that leaves S5-S9 without a matching bin. Recommended: keep the plan's plate A grade slide plus the open-to-shut plate swap (V1-c.json), or the Kling prompt."
+  }
+ ],
+ "group_notes": "1) There is almost no stock for this group. Every relevant clip on Pexels, Pixabay, Mixkit and Coverr comes from a small pool: office paper balls, labelled recycling bins (PAPER/PLASTIC/METAL/TRASH text), surgical masks, dark office mesh bins, and one tampon video. No library has a pastel wrapper or liner going into a bin, so every wrapper drop has to be composited (wrapper PNG) or generated. The verifier ran 8 more searches and found nothing new.\n2) Hero source = Pexels 7311931 (grey round pedal bin, white wall, wood floor, portrait, no branding). It gives a real lid open (3.55-4.00) and a real foot-off plus lid close (12.10-15.90), and it is the one bin that can tie V1-a S7, V1-b S11 and V1-c S4/S10 together. RESOLUTION CORRECTION: its 'uhd_2160_4096' link (also where Pexels' download button goes) actually delivers 1440x2732, not 4K, so the 60% crop is a 1.25x upscale (fine). Download it once and use the SAME crop box everywhere (x0.40-1.00, y0.30-0.86). HARD RULE: in that clip a hand lowers a tampon from the top of frame 0.0-8.5. It is above the crop box only until ~4.6 and is INSIDE the box ~5.0-8.5 (reddish tip visible ~6.0). Only ever use 3.20-4.40 or 8.60-18.24. The Pexels page title says 'used tampon', so keep the source notes internal.\n3) The lid is soft-close, so it never 'taps'. Make the tap with a 2-frame-blur jump cut into the last 0.4-0.8 s of the close (lid seats at 15.90) plus a 'tok/clack' SFX on 15.90. Don't speed-ramp the lid past 150%: the full close is 3.8 s and it starts to look fake.\n4) Grading: V1-a night = -1.3 stops, WB ~3000K, warm lifted blacks, soft vignette. V1-b day = +0.3 exposure, slightly warm and toward cream. To push the grey bin toward the brand's off-white, raise grey luminance and drop saturation in HSL, or accept grey: nobody reads bin colour in 1.5 s. The wood floor stays: no stock pedal bin on cream tiles exists.\n5) The alternative for the night/slam beats is Pexels 10326491 (cream sensor bin, dark studio, real snap shut at 6.40). Its link also delivers 1440x2560, not 4K. Use the corrected crop x0.20-0.80, y0.235-0.835 (the hunter's y0.22 shows a sliver of a globe pendant at the top edge). Blur BOTH printed text areas: the strip on the rim between the hinge posts (visible whenever the lid is open) and the label on the lid's rear edge (visible once shut). It fails V1-b's bright look.\n6) V1-c (the MON-THU pile) can't be done with stock. Stay on the existing plan in brand/leapproof/ads/first-campaign/video/prompts/V1-c.json (Nano Banana plate A + plate B + real wrapper PNG drops + day tags), or use the per-slot Kling prompts here, which share identical bin and tile wording for continuity. Don't mix the stock grey bin in S4/S10 with an AI white bin in S5-S9. If you do want stock in V1-c, generate plates A and B with a 7311931 frame as the image reference so all seven shots show one bin. Emergency-only plates per slot: 12033692 0-2.30 s (empty top-down; masks from ~2.5), Pixabay 1928 (empty open bathroom bin, true 1080p: use it instead of Pexels 854681, whose link only delivers 1280x720), 6279699 (white bin, white paper heap, one real drop ~1.35-1.80).\n7) Rejected after watching: Pixabay 199972 (man in jeans, dark red wall), Pexels 7668957/7668507 (handwritten 'IDEA' text, black bag, dark), 7551xxx/7565xxx/9323xxx recycling series (printed labels, people), 4203185 (man, teal grade), 9305899/9305614 (black mesh office bin), 11485778/6914406/6914692 (dark office mesh bins), 5698059 (red-lid bin, arm), Mixkit 39846 (dark office mesh bin), Pexels 7311929-7311942 (period-themed series), and all Coverr 'premium' clips (licence).\n8) All hd_urls return HTTP 200 video/mp4 (verifier HEAD-checked and ffprobed each one). Verifier sheets, dense sheets and crop previews are in SB/broll/dl/H3/verify/out/ (a_* = 7311931, b_* = 10326491, c_*/pb1928_* = 854681/Pixabay 1928, d_* = 12033692, e_* = 6279699).",
+ "verifier_changes": [
+  "Resolution corrections (ffprobe on the actual hd_url files): Pexels 7311931 'uhd_2160_4096' delivers 1440x2732 (not 4K; the 'hd_1080_2048' link is 720x1366); Pexels 10326491 'uhd_2160_3840' delivers 1440x2560; Pexels 854681 'hd_1920_1080' delivers 1280x720. 12033692 and 6279699 are true 3840x2160. Crop-note pixel sizes and 'stays sharp' claims updated.",
+  "Pexels 854681 replaced by the identical Pixabay 1928 (same footage and timing, verified side by side) in V1-b S11 backup 2, V1-c S6 and V1-c S8, because its medium.mp4 is a true 1920x1080 file.",
+  "7311931 crop note corrected: the tampon is NOT confined to the top 13% of the frame. It is inside the x0.40-1.00/y0.30-0.86 box ~5.0-8.5 s (reddish tip ~6.0). The 'never use 4.4-8.6' rule stands; safe ranges are 3.20-4.40 and 8.60-18.24.",
+  "7311931 lid-open timing corrected to 3.55-4.00 (was 3.50-3.95). Close timings confirmed on 0.04-0.05 s dense sheets: lid starts down at 12.10, seats at 15.88-15.92; toes in crop until ~12.65.",
+  "V1-c S4 primary window moved from 3.30-4.30 to 3.20-4.20 so the flip starts 0.35 s into the shot (ad 3.75, matching the board's 3.8 beat); fit 4 -> 3 because it cannot match plate A's angle or the S5-S9 bin.",
+  "10326491 crop changed from y0.22-0.82 to y0.235-0.835: the hunter's box shows a grey arc of the front globe pendant along the top edge for the whole clip.",
+  "10326491: added the second printed-text area that needs blurring (black strip on the rim between the hinge posts, visible whenever the lid is open), in addition to the lid rear-edge label; seat/snap time corrected to 6.40.",
+  "10326491 V1-c S4 backup window moved from 1.15-2.15 to 1.20-2.20 (the hand's fingers are still inside the crop's left edge at 1.10-1.15); added the reversed-close option (5.80-6.80 reversed) for a true shut-then-open beat; fit 3 -> 2.",
+  "10326491 V1-b S11 backup fit 3 -> 2 (black studio fails V1-b's bright daytime look, hard rule 5).",
+  "Pixabay 1928 / 854681 V1-c S8 backup window moved from 4.10-5.05 to 4.15-5.10 (fingertips still at the crop's top-right at 4.00-4.05).",
+  "V1-a S7 primary fit 5 -> 4 (needs a heavy day-to-night grade plus a composite drop); V1-c S10 primary fit 4 -> 3 (soft-close, no pile visible, no continuity with S5-S9).",
+  "Emergency plates 12033692 (S5) and 6279699 (S7, S9) fit 3 -> 2 (wrong bin, no liner / dim office-paper look).",
+  "V1-a ai_fallback_prompt rewritten to include the brief's hand drop (fingertips of one fair-skinned adult woman's hand, natural nails, entering from the top edge) and a lid 'tap'; other slots' Kling prompts checked against their briefs and kept.",
+  "Verifier ran 8 additional searches (Pexels API x6, Pixabay x2): nothing new usable. queries_tried condensed into grouped strings and extended.",
+  "All hd_urls HEAD-checked (HTTP 200, video/mp4) and page_urls confirmed; every primary and backup re-watched on the verifier's own frame sheets."
+ ]
+}

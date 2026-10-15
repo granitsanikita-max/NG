@@ -1,0 +1,351 @@
+{
+ "clips": [
+  {
+   "ad": "V1-a",
+   "order": 1,
+   "start_image": "V1-a/1_F13_leggings-pull.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F13-WOMAN-side-waist"
+   ],
+   "ad_timecode": "17.65–18.48",
+   "on_screen_seconds": 0.83,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "The waistband reaches her waist at about 1.1 s in the source and her hand drops by about 1.3 s. Take 0.2–1.6 s at 169% so the waistband lands on the VO word 'on'. F14 (the 125% punch-in) is dropped in the real timing, so cut straight to F15 at 18.48. Add the 'Pull them on.' caption and the small 'AI-generated' tag in CapCut.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 0.83 s (ad timecode 17.65–18.48) · EDIT: use 0.2–1.6 s @ 169%\n🖼 START IMAGE: V1-a/1_F13_leggings-pull.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same rear-side waist-to-calf framing, bedroom, window light, heather-grey cap-sleeve tee and black leggings throughout. One action, starting at once: in one brisk, smooth pull lasting about one second, her visible hand at the side of her hip draws the folded leggings waistband up from her upper thigh, over her hip, to her natural waist, the back and front rising together. The fabric glides up and fully covers the black underwear; the waistband settles just below the tee hem and she lets go. End state: leggings fully up and smooth, underwear hidden. Camera: locked-off with a subtle handheld micro-drift. Locks: her chin stays soft at the top edge, lips closed; five fingers, no second hand appears; both legs stay fully clothed and in frame; the underwear stays plain black seamless matte microfibre with laser-cut raw edges and ruched side gathers, no lace, no logo, no band. Avoid: a leg vanishing, leggings tearing or melting, buttock focus, text.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, second hand appearing, leggings tearing, fabric melting, lace, logo waistband, elastic band, hip sway, leggings rising only at the front",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) The leggings start at the upper thigh, just under the underwear, not bunched at the knee, so the pull is a short final tug. That is fine for 0.83 s. 2) The top is a short heather-grey cap-sleeve tee that ends above the waist, not a sports top covering the hip, so the black underwear is fully visible at the hip in frame 0. 3) The angle is rear-side rather than strictly side-on: the side of her bottom in the underwear is in frame, and her chin and lips show at the top edge. 4) Wardrobe mismatch: the grey tee here against the black tank or crop top in F15–F18. 5) Only one hand is visible.",
+   "risks": "Underwear on a rear-side angle in frame 0 is a Meta body-focus review risk. It is on screen for only about 0.4 s before the leggings cover it, but check the take. Kling may add a second hand, or raise the leggings only at the front so the back lags; reject those takes. Fallback: re-roll the start image strictly side-on with the leggings at the knee and the top covering the hip."
+  },
+  {
+   "ad": "V1-a",
+   "order": 2,
+   "start_image": "V1-a/2_F15_car-boot-wide.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F15-WOMAN-carboot-wide"
+   ],
+   "ad_timecode": "18.48–19.30",
+   "on_screen_seconds": 0.82,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "The bag touches the boot floor at about 1.0 s in the source. Take 0.1–1.2 s at 134% so the landing sits about 0.15 s before the cut at 19.30, and cut on the landing to F16 (F16 opens on the same bag already down, being settled). Add the caption 'Go about the day.' and the 'AI-generated' tag in CapCut.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 0.82 s (ad timecode 18.48–19.30) · EDIT: use 0.1–1.2 s @ 134%\n🖼 START IMAGE: V1-a/2_F15_car-boot-wide.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same wide overcast car park, unbadged white hatchback with the boot open, the woman in a black racerback tank, leggings and sneakers, and the empty grey basket trolley throughout. One action: over about one second she carries the cream canvas tote a little further into the boot, clear of the bumper sill, and lowers it onto the carpeted boot floor beside the first tote. It lands flat with a soft slump; the baguette and greens jiggle and stay inside. She lets go and withdraws her hands. End state: both totes resting upright on the boot floor, fully inside the car. Camera: locked-off with a subtle handheld micro-drift. Locks: same face and long wavy blonde hair; five fingers per hand; the raised lid, the car and the trolley stay still; her legs stay planted behind the trolley. Avoid: the bag resting on the bumper or hanging off the lid, floating groceries, signage, car badges, text.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, bag hanging off the car, bag resting on the bumper, groceries falling out, trolley rolling, car badge, signage, readable store names",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) The bag is already out of the trolley and held at the boot opening (the storyboard had her lift it from the trolley), so the clip only shows the set-down. 2) The 'trolley' is an empty grey basket cart, and one tote is already in the boot. 3) Her face is a fairly sharp three-quarter profile (the storyboard wanted it soft). 4) Black racerback tank. F16 and F17 show a black crop top with a bare midriff, so the wardrobe does not match. 5) The car is WHITE here and GREY in F17 (see F17).",
+   "risks": "The known failure on this project: the bag ends up hanging off the car. In frame 0 the held tote is over the bumper sill, so 'straight down' would land it on the sill; the prompt moves it further in first. Reject any take where it rests on the bumper, sill or lid edge. The trolley may creep. Distant buildings could sprout lettering, so check the background on the take."
+  },
+  {
+   "ad": "V1-a",
+   "order": 3,
+   "start_image": "V1-a/3_F16_boot-pov-low.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F16-WOMAN-boot-pov-low"
+   ],
+   "ad_timecode": "19.30–19.95",
+   "on_screen_seconds": 0.65,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "The settle and release finish by about 0.7 s in the source, and she has leaned back by about 1.2 s. Take 0.1–1.2 s at 169%, then cut as she leans back, into F17. No caption on this beat; keep the 'AI-generated' tag.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 0.65 s (ad timecode 19.30–19.95) · EDIT: use 0.1–1.2 s @ 169%\n🖼 START IMAGE: V1-a/3_F16_boot-pov-low.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same low camera on the boot floor looking out at her, the raised lid across the top, the bright overcast sky, and the woman in a black crop top and leggings throughout. One action: over about half a second she presses the cream canvas tote down the last centimetre so it settles flat and upright on the carpeted boot floor; the baguette and greens jiggle and stay inside. Then both hands let go and draw back, and she leans back slightly, her head and shoulders staying in frame below the lid edge. End state: the tote resting still in the foreground, her arms lowering. Camera: locked, fixed to the boot floor. Locks: same face, freckles and long wavy blonde hair, calm closed mouth; five fingers per hand; the bag never lifts, slides or floats; clothing stays fully on. Avoid: the bag sliding toward the lens, her head leaving frame, extra hands, face morphing, text, logos.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, bag sliding toward the camera, bag lifting off the floor, head cropped off, talking",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) The camera sits level at boot-floor height looking straight out, not tilted up 40°, so her waist and a strip of bare midriff are in frame (the storyboard said her waist is never in frame). 2) Her face is sharp and near-frontal (the storyboard wanted it soft). 3) The bag already rests on the boot floor, so it does not 'come down toward the lens'. 4) Black crop top with a bare midriff, against F15's full tank top, so the wardrobe does not match.",
+   "risks": "A sharp face this close is where identity drift shows most. Compare the take against F15 and F17. Her head sits just under the lid edge, so any real 'straighten up' would push it out of the top; the prompt asks only for a slight lean back. If the head still leaves frame, use the take only up to the release. Reject any take where the bag slides toward the lens or her hands multiply."
+  },
+  {
+   "ad": "V1-a",
+   "order": 4,
+   "start_image": "V1-a/4_F17_boot-close.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F17-WOMAN-boot-close-mcu"
+   ],
+   "ad_timecode": "19.95–20.85",
+   "on_screen_seconds": 0.9,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "The lid shuts at about 0.9 s in the source, which is about 0.45 s on screen, landing on 'pad'. The start of the turn reads by the cut. Take 0.2–1.6 s at 156% and cut on the turn to F18. Lay a boot 'thunk' SFX on the close. No caption on this beat; keep the 'AI-generated' tag. CapCut: crop or mask the 'N' logo on her sneaker, or scale up about 108% so the shoe sits below frame.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 0.90 s (ad timecode 19.95–20.85) · EDIT: use 0.2–1.6 s @ 156%\n🖼 START IMAGE: V1-a/4_F17_boot-close.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same side-on view of the woman at the open boot of the grey hatchback, the overcast car park, her black racerback crop top, leggings and sneakers, and the phone in her lowered hand throughout. One action: over about 0.8 s her raised hand pulls the boot lid down; it swings down in one smooth arc and shuts flush with a slight bounce of the car. Her arm follows the lid and lets go just before it closes. Then she lowers her arm and begins to turn away from the car toward frame-left, relaxed. End state: boot shut, arms down, phone still in hand. Camera: locked-off with a subtle handheld micro-drift. Locks: same soft-profile face and long wavy blonde hair; five fingers per hand; the lid stays rigid and never passes through her arm or head; both legs stay fully in frame. Avoid: the lid bending, groceries falling out, readable labels, car badges, text.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, lid clipping through arm, lid bending, groceries spilling, readable packaging labels, shoe logo, car badge, phone changing hands",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) The car is a GREY hatchback here and WHITE in F15. Continuity breaks between 19.3 and 19.95; the fast cuts may hide it, but it is visible. 2) The boot is packed with plastic-wrapped supermarket groceries carrying label blocks, not the two cream totes from F15 and F16. 3) Her sneaker shows a large 'N' logo (New Balance style), which is a brand mark: mask or crop it in CapCut, or re-roll. 4) Black racerback crop top with a bare midriff (F15 and F18 show a full tank). 5) The phone in her lowered hand matches the storyboard.",
+   "risks": "Lid physics is the main risk: Kling can bend the hatch or pass it through her arm, so pick a take where it pivots cleanly. The grocery labels may resolve into readable text or brands, so check at full res. The shoe logo is already in frame 0, and a prompt cannot remove it. Best fix: re-roll the start image with the white car, the two cream totes and plain black sneakers so F15–F17 match."
+  },
+  {
+   "ad": "V1-a",
+   "order": 5,
+   "start_image": "V1-a/5_F18_walk-off.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F18-WOMAN-walkoff-wide"
+   ],
+   "ad_timecode": "20.85–21.95",
+   "on_screen_seconds": 1.1,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "This is a continuous walk with no beat to land. Skip any start-up hesitation and take 0.4–1.5 s at 100%. Cut to S19 at 21.95. Add the caption 'Not a pad. Not a diaper.' and the 'AI-generated' tag in CapCut.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 1.10 s (ad timecode 20.85–21.95) · EDIT: use 0.4–1.5 s @ 100%\n🖼 START IMAGE: V1-a/5_F18_walk-off.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same side-on full-figure view of the woman in a black tank top, leggings and sneakers, looking down at the phone in her hand, with parked cars soft behind her, throughout. One action: she keeps walking left to right at an easy, unhurried pace, two natural steps with real weight transfer, heel to toe, while she reads; her thumb gives one small scroll. Camera: a smooth lateral track to the right at her walking speed, keeping her near the centre of frame so her whole body, head to sneakers, stays in frame. End state: mid-stride, still reading, still centred. Locks: same downward profile, long wavy blonde hair and body shape; five fingers per hand; both legs stay fully clothed and fully in frame on every step, sneakers inside the bottom edge; the phone screen stays dark. Avoid: sliding or moonwalking feet, legs swapping or merging, extra legs, car badges, text.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, sliding feet, moonwalking, legs merging, extra legs, readable phone screen, car badge, number plates",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) Her build reads fuller and her hair ashier than in F15–F17, so the AI woman's identity and body drift across V1-a. 2) She starts centre-frame, not 'on the left'. 3) The black tank covers the hip, which matches F15 and the storyboard. 4) Her face is a soft downward profile, as planned. 5) The white SUVs behind her have no legible badges at 720 px; confirm at full res.",
+   "risks": "Walk cycles are Kling's usual weak spot (foot sliding, legs crossing through each other). Her leading sneaker is already near the right edge and both feet sit on the bottom edge, so the camera now tracks at her speed to keep her centred; reject takes where a foot is clipped. She will not exit frame in 1.1 s; the cut lands mid-walk. The body mismatch with F15–F17 is visible because the shots are adjacent. Fallback: re-roll the start image from the F15 anchor."
+  },
+  {
+   "ad": "V1-b",
+   "order": 1,
+   "start_image": "V1-b/1_F1_restaurant-laugh.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F1-WOMAN-wide-side-twoshot"
+   ],
+   "ad_timecode": "0.00–2.80",
+   "on_screen_seconds": 2.8,
+   "kling_seconds": 4,
+   "sound": "OFF",
+   "edit_note": "The ElevenLabs 'Stop! I'll pee myself!' plays over the laugh from 0.0 s, and Kling carries no audio. Take 0.3–3.1 s at 100%; the slap lands at about 0.1 s on screen. Add the 100→104% push-in in CapCut, plus the hook pill and the 'Dramatization' label. S2: freeze the LAST frame (3.1 s in the source). S3: this same clip reversed (3.1→0.3 s) at about 430% to fill 0.65 s; that is the storyboard's deliberate rewind smear (planned at ~600%), so the 200% speed cap does not apply to it.",
+   "header": "⏱ GENERATE: 4 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 2.80 s (ad timecode 0.00–2.80) · EDIT: use 0.3–3.1 s @ 100%\n🖼 START IMAGE: V1-b/1_F1_restaurant-laugh.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same golden restaurant, window and wood table, the woman's messy bun, freckles, gold hoops and dusty-rose ribbed short-sleeve top, the sparkling-water glass with lemon, and her friend's blurred blonde hair and shoulder at the left edge throughout. One action, a real belly laugh: she is already laughing hard; at about 0.4 s she rocks forward and her raised open hand on frame-right slaps flat onto the table; the water ripples and the glass stays put. She keeps laughing, mouth wide open and moving with the laugh, eyes crinkled, shoulders shaking, head tipping back between laughs. Around 2.5 s she curls forward and that hand draws back off the table toward her lap, below the table edge. End state: leaning in mid-laugh, arm angled down. Camera: locked-off with a subtle handheld micro-drift. Locks: same face and teeth; five fingers per hand; the friend stays blurred, turned away. Avoid: wine, extra hands, a warped mouth, text.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, wine, alcohol, spilled drink, glass tipping, distorted teeth, warped mouth, friend turning to camera",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) The frame is waist-up to the table, so her lap, leggings and pressed knees are NOT in frame and the storyboard's hand-to-thigh clutch with knees pressed cannot be shown. The prompt has the hand draw back below the table edge toward her (hidden) lap instead; the freeze caption in S2 carries the meaning. 2) Her head is turned toward the friend, not tipped back; the mouth is wide mid-laugh, as planned. 3) Her left hand (frame-right) is already raised palm-open just above the table, so the slap is a short drop. 4) She wears a SHORT-sleeve ribbed tee, but S15 and F12 show a LONG-sleeve ribbed knit, so the wardrobe does not match. 5) The friend at the left has blonde hair and a bare shoulder; in F12 the friend has dark brown hair. 6) The window band at the top is bright and clean for the pill, and the drink is sparkling water with lemon, both as planned.",
+   "risks": "A 3 s laugh can warp the teeth or mouth, so pick the take with the cleanest face at the end, because that frame becomes the 1.15 s freeze (S2). The slap may knock or slide the glass. If the hand-off-the-table ending reads oddly, end the clip earlier and freeze on the peak of the laugh. This is the hook and the thumbnail: generate 2–3 takes."
+  },
+  {
+   "ad": "V1-b",
+   "order": 2,
+   "start_image": "V1-b/2_F9_leggings-pull.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F9-WOMAN-side-waist-pullup"
+   ],
+   "ad_timecode": "21.95–24.20",
+   "on_screen_seconds": 2.25,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "The pull finishes by about 1.3 s in the source and the smoothing hand runs to about 2.4 s. Take 0.3–2.55 s at 100%. The 'Wash. / Hang. / Wear again.' word pops are added in CapCut; cut on 'hang' to S14 at 24.20.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 2.25 s (ad timecode 21.95–24.20) · EDIT: use 0.3–2.55 s @ 100%\n🖼 START IMAGE: V1-b/2_F9_leggings-pull.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same rear-side waist-to-calf framing, bedroom, window light, fitted dusty-rose ribbed top, leggings and underwear throughout. One calm move: over about one second both hands, one at the back of her hip and one at the front, pull the folded leggings waistband up from her upper thigh, over her hip, to her natural waist, back and front rising together. The fabric glides up and fully covers the underwear; the waistband settles just below the top's hem. Then the back hand lets go and smooths once down the side of her thigh. End state: leggings up and smooth, hands relaxed. Camera: locked-off with a subtle handheld micro-drift. Locks: no face in frame; five fingers per hand; both legs stay clothed and visible to the bottom edge; the underwear stays plain black seamless matte microfibre with laser-cut raw edges and ruched side gathers, no lace, no logo, no band. Avoid: a leg vanishing, fabric melting, buttock focus, jumping, text.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, leggings tearing, fabric melting, lace, logo waistband, elastic band, hip sway, jumping",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) The leggings start at the upper thigh, not the knee, so the pull is short. That is fine. 2) The top is a fitted dusty-rose ribbed top that ends above the waist and does not cover the hip, so the underwear is visible at the hip and on the side of her bottom in frame 0 (a rear-side angle, not strictly side-on). 3) No sleeve shows on the bare upper arm in frame (sleeveless, or a short sleeve above the crop), while F1 is short-sleeved and S15 and F12 are long-sleeved, so the top changes across the ad. 4) Waist-to-lower-calf crop with no face, as planned.",
+   "risks": "Same risk as V1-a F13: the underwear is visible on a rear-side angle in frame 0, which Meta's body-focus review may flag. Kling may let one leg vanish or merge mid-pull (the known failure here). Reject those takes. Fallback: re-roll strictly side-on with the top covering the hip."
+  },
+  {
+   "ad": "V1-b",
+   "order": 3,
+   "start_image": "V1-b/3_S15_clutch-set.png",
+   "end_image": "none",
+   "covers_shots": [
+    "S15-BR-table-clutch-set"
+   ],
+   "ad_timecode": "25.10–26.25",
+   "on_screen_seconds": 1.15,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "The settle is at about 0.3 s and the hand is out by about 1.2 s in the source. Take 0.1–1.25 s at 100%. To sell the match-on-action from S14 (the clutch leaving frame-top), cut in on the settle bump and lay a soft clutch 'thunk' SFX there. Cut on 'laugh' to F12 at 26.25.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 1.15 s (ad timecode 25.10–26.25) · EDIT: use 0.1–1.25 s @ 100%\n🖼 START IMAGE: V1-b/3_S15_clutch-set.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same sunlit table-top close-up, warm wood grain, black clutch, dusty-rose ribbed knit sleeve and the tall sparkling-water glass with lemon throughout. One action: right away her hand gives the black clutch a final gentle press so it settles flat on the table with a tiny soft bump; then her fingers open and, by about one second, the hand has lifted up and out of frame toward the top right, the knit sleeve following. End state: the clutch resting still beside the glass in the golden light, no hand in frame. Bubbles keep rising; the glass never moves. Camera: locked-off with a subtle handheld micro-drift; the background stays soft. Locks: five fingers and the same freckled skin; the clutch keeps its exact shape, black leather and flap, no clasp logo; nothing else enters the frame. Avoid: wine or alcohol, the glass tipping or sliding, the clutch opening, sliding or floating, extra hands, text, logos.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, wine, alcohol, glass tipping, glass sliding, spilled water, clutch opening, clasp logo, second hand",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) The clutch is already resting on the table with her hand draped over it (the storyboard had it enter from frame-top and land), so the landing is sold with a small settle. 2) The sleeve is LONG and ribbed, which matches F12 but not F1 (short sleeve). 3) The background is a darker wood restaurant interior, closer to F12 than to F1's cream walls. 4) The sparkling water with lemon and the sunlit wood table match the plan.",
+   "risks": "Low risk. Watch for the glass drifting or bubbles freezing, the clutch flap opening, and the hand gaining a finger as it lifts away."
+  },
+  {
+   "ad": "V1-b",
+   "order": 4,
+   "start_image": "V1-b/4_F12_restaurant-single.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F12-WOMAN-34-single"
+   ],
+   "ad_timecode": "26.25–28.00",
+   "on_screen_seconds": 1.75,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "Take 0.3–2.05 s at 100%. The VO line '...laugh than cross her legs.' plays over her listening, so her lips must not move as if speaking. F12's 118% punch-in is dropped in the real timing, so do the claret wipe straight to the S16 end card at 28.00.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 1.75 s (ad timecode 26.25–28.00) · EDIT: use 0.3–2.05 s @ 100%\n🖼 START IMAGE: V1-b/4_F12_restaurant-single.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same three-quarter waist-up view across the restaurant table, dark wood panelling, red-framed window and warm golden light, the woman's messy bun, freckles, blue eyes, gold hoops and dusty-rose ribbed long-sleeve top, and the friend's soft blurred dark hair at the left edge throughout. One calm listening beat over about one and a half seconds: she finishes tucking the strand of hair behind her ear, lowers that hand to rest on the table, gives one small warm nod and keeps an easy smile as she listens. Her lips stay still in the smile; she is not talking and not laughing. End state: hand resting on the table, shoulders relaxed, eyes on her friend. Camera: locked-off with a subtle handheld micro-drift. Locks: same face, eye colour and smile; five fingers per hand; the friend stays blurred, still, back to camera; she never glances down at her lap. Avoid: talking mouth movements, laughing, wine, extra hands, text, logos.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, talking, lip movement, laughing, open-mouth laugh, glance down at lap, wine, friend turning to camera",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) The restaurant set differs from F1: dark wood panelling and a red-framed window here, against cream walls and a big bright window in F1, and there is no sparkling-water glass on this table. 2) The friend at the left has dark brown hair; the F1 friend is blonde with a bare shoulder. 3) Long-sleeve top here, short-sleeve in F1. 4) Her smile shows her teeth (lips parted) instead of the planned closed-mouth smile; the prompt holds the lips still. 5) A blank folded napkin sits at the bottom edge.",
+   "risks": "Parted lips plus the VO can look like she is speaking the narrator's line. Reject any take where her mouth moves. The set and friend mismatches with F1 are the biggest continuity break in V1-b, because the ad's payoff is 'back at the same table'. Fallback: re-roll F12 from the F1 still as the set and friend reference."
+  },
+  {
+   "ad": "V1-c",
+   "order": 1,
+   "start_image": "V1-c/1_F1_leggings-pull.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F1-WOMAN-side-waist-pullup"
+   ],
+   "ad_timecode": "22.15–23.25",
+   "on_screen_seconds": 1.1,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "The tug finishes at about 0.6 s and the hem is down by about 1.3 s in the source. Take 0.2–1.5 s at 118% and cut as the hem settles (on 'pad'), into F2. Add the 'AI-generated' tag in CapCut. Strongly consider re-rolling this start image first (see flags).",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 1.10 s (ad timecode 22.15–23.25) · EDIT: use 0.2–1.5 s @ 118%\n🖼 START IMAGE: V1-c/1_F1_leggings-pull.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same view from behind and slightly to the side, cream bedroom, window light, oversized blush T-shirt and black leggings throughout. One action: over about half a second both hands, fingers hooked in the leggings waistband at her hips, give one last smooth tug up to her natural waist, covering the thin black edge of underwear at the back. Then her hands let go and smooth the T-shirt hem down so it falls over the waistband and covers her lower back. End state: leggings up and smooth, T-shirt hanging loose over the waist. Camera: locked-off with a subtle handheld micro-drift, no push-in. Locks: only her chin shows at the top edge; five fingers per hand; both legs stay fully clothed and in frame; the underwear stays plain black seamless matte microfibre with ruched gathers, no lace, no logo, no band. Avoid: wiggling, hip sway, jiggle, buttock focus, a leg cut off, fabric melting, text.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, hip sway, wiggle, jiggle, push-in toward hips, lace, logo waistband, elastic band, leggings tearing",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) HIGH: the shot is from BEHIND, rear three-quarter, with her bottom in black leggings centred in frame. The storyboard requires STRICTLY side-on and never butt framing. 2) The leggings are already at her hips, with only the top edge of the underwear showing at the back, instead of rising from the knee, so the 'underwear on the side of the thigh' beat is lost. 3) She wears an oversized blush cotton T-shirt (not a sports top) with the hem bunched above the waist. 4) Her chin shows at the top edge.",
+   "risks": "A bottom-centred frame is a Meta body-focus disapproval risk, and Kling tends to add hip sway on this framing. Recommended: re-roll the start image strictly side-on (like V1-a F13 or V1-b F9), or crop to the waist and lower back in CapCut. If it is used as is, reject any take with sway or jiggle."
+  },
+  {
+   "ad": "V1-c",
+   "order": 2,
+   "start_image": "V1-c/2_F2_waistband-ecu.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F2-WOMAN-ecu-waistband-snap"
+   ],
+   "ad_timecode": "23.25–24.55",
+   "on_screen_seconds": 1.3,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "The snap lands at about 0.5 s and the hem is down by about 1.4 s in the source. Take 0.2–1.5 s at 100% and lay an elastic-snap SFX on the release. The caption 'Not a pad, not a diaper.' sits about 56% down, and the 'AI-generated' tag is added in CapCut. Cut on the hem landing to F3.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 1.30 s (ad timecode 23.25–24.55) · EDIT: use 0.2–1.5 s @ 100%\n🖼 START IMAGE: V1-c/2_F2_waistband-ecu.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same extreme close-up at the side of her waist, window light, blush T-shirt hem, strip of freckled skin, black leggings waistband and her hand with the thumb hooked inside it throughout. One action: within the first half-second her thumb draws the waistband out about two centimetres, lets go, and it snaps back flat against her skin with a quick ripple of the fabric. Then the same hand slides up and smooths the T-shirt hem down so it drops over the waistband and covers the skin, and the hand moves away out of frame right. End state: the soft blush hem resting over the black waistband, no hand in frame. Camera: locked-off with a subtle handheld micro-drift, no zoom. Locks: five fingers and the same freckled skin; the leggings stay plain black with no label or logo; nothing new enters the frame. Avoid: skin stretching unnaturally, the waistband tearing, extra hands, text.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, waistband tearing, skin stretching, rubbery skin, leggings label, second hand",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) This matches the storyboard closely: thumb hooked in the waistband at the side of the waist, hem just above. 2) The top is the oversized blush cotton T-shirt rather than a sports top, which is consistent with F1, F3 and F4. 3) Only one hand is visible.",
+   "risks": "Low risk. Kling may stretch the skin with the waistband or turn the snap into a slow peel; pick a take with a crisp release."
+  },
+  {
+   "ad": "V1-c",
+   "order": 3,
+   "start_image": "V1-c/3_F3_hallway-tote.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F3-WOMAN-hall-wide-tote"
+   ],
+   "ad_timecode": "24.55–25.30",
+   "on_screen_seconds": 0.75,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "The tote lands on her shoulder at about 1.0 s in the source. Take 0.1–1.4 s at 173% so the landing hits about 0.2 s before the cut at 25.30. Lay footsteps and a tote swish under it. The 'Not a pad, not a diaper.' caption carried over from F2 clears about 0.4 s into this shot (~24.95); keep the 'AI-generated' tag.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 0.75 s (ad timecode 24.55–25.30) · EDIT: use 0.1–1.4 s @ 173%\n🖼 START IMAGE: V1-c/3_F3_hallway-tote.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same bright hallway, wood floor and white doors, the woman, her blush T-shirt, black leggings and white sneakers, and the cream tote on the doorknob throughout. One action within the first second: her hand lifts the tote's handles up off the doorknob and swings the light tote onto her shoulder in one easy move as she takes one relaxed step toward the camera; the tote settles against her side. The door stays shut and the knob does not turn. End state: tote on her shoulder, mid-stride, relaxed smile. Camera: a slow backward drift at her walking pace so her whole body, head to sneakers, stays in frame. Locks: same face and smile, not speaking, gaze down the hall just past the lens; five fingers per hand; both legs fully in frame with natural steps; the tote stays plain. Avoid: the door opening, the tote passing through her arm, sliding feet, extra limbs, text, logos.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, door opening, knob turning, tote print, tote passing through body, sliding feet, talking",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) The tote hangs on a doorknob at the frame edge, with her hand already on the knob, instead of on a wall hook. 2) She looks straight into the lens with a smile (the storyboard wanted a relaxed face mid-stride, with nobody playing to camera); the prompt moves her gaze just past the lens. 3) Eye-level wide, not low angle. 4) The outfit (oversized blush tee with banded hem, black leggings, white sneakers) is consistent with the rest of V1-c.",
+   "risks": "Kling may open the door because her hand is on the knob. Reject those takes. Her gaze may stay locked on the lens; that is acceptable for 0.75 s but less native. Her feet are near the bottom edge, so a forward step without the backward drift would clip them. Note that the tote then disappears in F4 and F5."
+  },
+  {
+   "ad": "V1-c",
+   "order": 4,
+   "start_image": "V1-c/4_F4_ots-door-sun.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F4-WOMAN-ots-door-sun"
+   ],
+   "ad_timecode": "25.30–26.20",
+   "on_screen_seconds": 0.9,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "The door is open and the light blooms by about 1.0 s in the source, and her step lands by about 1.6 s. Take 0.2–1.6 s at 156% and cut as she crosses into the light, to F5. In CapCut add the tag card 'Just get dressed and go.' (about 40% down, popping ~0.2 s into the shot, ~25.50) and keep the 'AI-generated' tag. Lay a latch click, a door swing and birds or street ambience under it.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 0.90 s (ad timecode 25.30–26.20) · EDIT: use 0.2–1.6 s @ 156%\n🖼 START IMAGE: V1-c/4_F4_ots-door-sun.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same view from behind her at the wooden front door, warm hallway, long wavy hair, oversized blush T-shirt and black leggings throughout. One action: within about one second she turns the brass knob and pulls the door open toward herself in one easy swing; the door rotates in on its hinges at the right edge of frame, and bright morning sunlight pours through the widening doorway, with a soft bloom and gentle flare over her hair. End state: door wide open, she steps forward over the threshold into the light. Camera: behind her with a subtle handheld micro-drift that follows her step slightly. Locks: her face stays turned away; five fingers per hand; the door stays solid wood with the same brass knob and deadbolt; the light stays warm and never blows the frame to white. Avoid: the door bending or passing through her, a second door, people outside, text, logos.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, door warping, door clipping through body, second door, overexposed white frame, people outside, readable house numbers",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) The door is fully closed in frame 0 (the storyboard had the first sliver of sun). That is fine. 2) There is NO tote on her shoulder although F3 ends with it there, a continuity break (the tote is also missing in F5). 3) Her hair reads darker and more caramel than F3's ash blonde. 4) She is framed from mid-thigh up, from behind; her face is not visible, as planned.",
+   "risks": "Door geometry is the risk: the door swings toward the camera, so it may warp or pass through her arm. The sunlight bloom may blow out the frame, so pick a take that keeps her silhouette readable. If the tote continuity bothers you, re-roll with the tote on her shoulder."
+  },
+  {
+   "ad": "V1-c",
+   "order": 5,
+   "start_image": "V1-c/5_F5_cafe-coffee.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F5-WOMAN-ext-friend-coffee"
+   ],
+   "ad_timecode": "26.20–27.10",
+   "on_screen_seconds": 0.9,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "The cup tap is at about 0.4 s, the smile at about 0.6 s and the turn-and-step by about 1.5 s in the source. Take 0.1–1.5 s at 156% and cut as they start walking, back to S18. 'Just get dressed and go.' (from F4) holds about 0.5 s into this shot (~26.70). Add the 'AI-generated' tag and a soft cup-tap SFX.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 0.90 s (ad timecode 26.20–27.10) · EDIT: use 0.1–1.5 s @ 156%\n🖼 START IMAGE: V1-c/5_F5_cafe-coffee.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same sunny café footpath, plants and blurred window, the main woman on the right in the oversized blush T-shirt, black leggings, white sneakers and plain watch, and her friend on the left with shoulder-length brown hair, grey hoodie and jeans throughout. One action: right away the friend's raised cup and the main woman's cup tap together lightly in a small cheers; the main woman breaks into a warm, open smile and her friend smiles back. Then the main woman turns toward frame-right and her friend steps up beside her, both taking the first easy step together. End state: side by side, stepping toward frame-right. Camera: locked-off with a subtle handheld micro-drift. Locks: both faces stay the same and clearly different; no laughing, no talking; five fingers per hand; the friend keeps her second cup in her other hand; plain kraft cups and lids, no logos, no spills. Avoid: cups merging, faces blending, extra arms, text.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, extra cups, cups merging, faces blending, twin faces, spilled coffee, laughing, talking, readable window lettering, cup logos, watch logo",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "1) There are THREE cups: the friend holds one in each hand and the main woman already holds her own, so the storyboard's coffee hand-off cannot happen. The prompt plays the cup tap and the walk-off only. 2) Eye-level three-quarter, not low angle. 3) The main woman wears a plain smartwatch. 4) No tote (see F3 and F4). 5) The café window has a round outline shape but no legible lettering at 720 px; confirm at full res. 6) The friend is a clearly distinct face (brown hair, grey hoodie, jeans), as planned.",
+   "risks": "Two faces and three cups in one frame: Kling may merge cups or blend the faces as they turn. The walk-off is only a first step in 0.9 s, so they will not leave frame. The cut happens mid-step, which suits the storyboard's 'cuts as they walk out'."
+  }
+ ],
+ "uncovered_storyboard_shots": [
+  {
+   "ad": "V1-a",
+   "shot_id": "F14-WOMAN-side-waist-punchin",
+   "how_covered": "Dropped in the real cut list (the VO has no comma pause after 'on'). Nothing to generate: cut F13 straight to F15 at 18.48. If a pause is ever added back, use a 125% CapCut punch-in on the tail of the F13 clip."
+  },
+  {
+   "ad": "V1-b",
+   "shot_id": "S2-GFX-freeze-scratch",
+   "how_covered": "Editor lane, no generation: freeze the LAST frame (3.1 s in the source) of the V1-b F1 Kling clip for 1.15 s (2.80–3.95), 30% desaturated, with the freeze border, record scratch and 3-pop caption in CapCut. Pick the F1 take with the cleanest face and teeth on that frame."
+  },
+  {
+   "ad": "V1-b",
+   "shot_id": "S3-GFX-rewind-smear",
+   "how_covered": "Editor lane, no generation: the V1-b F1 Kling clip reversed (3.1→0.3 s source) at ~430% to fill 0.65 s (3.95–4.60), with directional blur, RGB split and the whip-smear into S4, per the storyboard's rewind effect."
+  },
+  {
+   "ad": "V1-b",
+   "shot_id": "F12-WOMAN-34-single-punch",
+   "how_covered": "Dropped in the real cut list (no breath before the end card). Nothing to generate: F12 runs 26.25–28.00, then the claret wipe to S16. If wanted later, use a 118% CapCut punch-in on the tail of the F12 clip."
+  },
+  {
+   "ad": "V1-c",
+   "shot_id": "S4–S10 bin plates A and B (S4-BR-bin-3q-lid-open … S10-BR-bin-3q-dusk-lid-slam)",
+   "how_covered": "Editor lane: AI stills animated in CapCut with wrapper PNGs, so no Kling clip is needed. The two Nano Banana Pro plates (A: 3/4 high angle of a white pedal bin on Warm Cream tiles, lid open and shut states; B: straight down into the bin) are NOT in this start-scene delivery. MISSING: generate the plates or shoot them on a phone before cutting V1-c."
+  }
+ ],
+ "ad_notes": "FORMAT 1 (V1-a, V1-b, V1-c): 14 Kling 3.0 image-to-video clips, all Sound OFF, all Pro, all 9:16, no end image. All narration is the ElevenLabs recording laid in CapCut; no prompt contains audio, dialogue or lip-sync. Durations come from timing/V1_cutlists.json. Every short window (under 1 s) is a 3 s generation with the move timed to finish by about 1–1.5 s, then sped up (max 173%; V1-a F15 now 134% so it cuts on the bag landing; the V1-b S3 ~430% reverse is a deliberate editor rewind effect); V1-b F1 is a 4 s generation used at 100% for its 2.8 s window. Captions, the 'AI-generated' and 'Dramatization' labels, push-ins and SFX are all added in CapCut, never in Kling. Each clip has an inline 'Avoid:' sentence plus a separate NEGATIVE line for UIs with a negative field. Continuity issues to decide BEFORE spending credits: V1-a: the car is white in F15 and grey in F17; the two cream totes become a boot of plastic-wrapped groceries in F17; the top switches between a full tank (F15, F18) and a crop top (F16, F17); F18's body reads fuller; F17 shows an 'N' sneaker logo, so re-roll F17 (and ideally F16) from the F15 anchor. V1-b: the top is short-sleeved in F1, shows no sleeve in F9 and is long-sleeved in S15 and F12; the friend is blonde in F1 and brunette in F12; F12's restaurant (dark wood, red window frame) does not match F1's cream, bright-window room, so re-roll F12 from the F1 still if 'back at the same table' must read. F1 frames waist-up, so the hand-to-lap clutch happens below the table (the prompt adapts it), and S2 freezes F1's last frame while S3 reverses it at about 430%. V1-c: F1 is bottom-centred from behind (HIGH Meta body-focus risk), so re-roll it strictly side-on first. The tote picked up in F3 is gone in F4 and F5, and F5 has three cups, so it plays a cup tap instead of a hand-off. Leggings shots (V1-a F13, V1-b F9, V1-c F1) all start with the leggings already high on the thigh or hip, so each is a short final pull. Reject any take where a leg vanishes or merges, or where the garment gains lace, a logo or a band. Verifier pass (2026-10-15): framing words corrected to the real frames (V1-a F13 and V1-b F9 are rear-side, not side-on), timing added so each move lands inside its edit window, physics fixed on V1-a F15/F16/F17/F18 and V1-c F5, caption times in V1-c re-mapped from the storyboard's planned clock to the real cut lists. Verified file: /tmp/claude-0/-home-user-NG/92cd2168-7086-5de0-bc34-0c2243670dd7/scratchpad/sb/results/prompts_V1_verified.json",
+ "verifier_changes": [
+  "V1-a F13: prompt said 'side-on framing' but the frame is rear-side (bottom in underwear in frame); corrected to 'rear-side waist-to-calf framing'.",
+  "V1-a F13 and V1-b F9: kept 'buttock focus' in the inline Avoid (Higgsfield has no negative field, and both frames are rear-side), dropping 'no zoom' to stay within 170 words.",
+  "V1-a F13: removed '(her far hand works unseen)', which invited Kling to add a second hand and contradicted the NEGATIVE; now 'her visible hand … no second hand appears'.",
+  "V1-a F13: added 'starting at once' and 'the back and front rising together' so the pull lands by ~1.1 s as the edit note assumes and the leggings do not rise only at the front (the risk the writer flagged); 'snug under the tee hem' changed to 'just below the tee hem' (the tee ends above the waist with a strip of skin). Added 'leggings rising only at the front' to NEGATIVE.",
+  "V1-a F15: edit note was internally inconsistent: 0.2–1.6 s @ 171% puts the 1.0 s landing ~0.47 s into a 0.82 s window, not 'just before the cut', and the storyboard cuts ON the landing. Changed to 'use 0.1–1.2 s @ 134%' (1.1/0.82), with the landing ~0.15 s before 19.30; header updated.",
+  "V1-a F15: in frame 0 the held tote hangs over the bumper sill, so 'lowers it straight down into the boot' risked the known 'bag on the bumper' failure; now she carries it further in, clear of the sill, then lowers it to the boot floor. 'Black tank top' and 'empty grey trolley' corrected to 'black racerback tank' and 'empty grey basket trolley'.",
+  "V1-a F16: 'she straightens up … her head staying in frame under the lid' was physically contradictory (her head already sits just under the lid edge, so straightening would push it out of frame); now 'leans back slightly, head and shoulders staying in frame below the lid edge'. Edit note and risks updated to match ('cut as she leans back').",
+  "V1-a F17: the edit note assumes the lid shuts at ~0.9 s but the prompt gave no timing; added 'over about 0.8 s'. Removed 'feet planted' (it contradicted 'turns away') and made it 'begins to turn away … toward frame-left'. Named the black racerback crop top and sneakers instead of 'her black outfit'. Removed 'shoe logos' from the inline Avoid (the logo is in frame 0 and a prompt cannot remove it; it stays in NEGATIVE and the CapCut mask note). Edit note now keeps the 'AI-generated' tag the storyboard puts on this shot.",
+  "V1-a F18: camera 'slightly slower than her walk, so she drifts toward the right' would push her leading foot (already near the right edge) out of frame within the used window, against the both-legs-in-frame lock; now the track matches her speed and keeps her centred. 'Parked white cars' changed to 'parked cars' (grey cars are also in frame); added 'sneakers inside the bottom edge'.",
+  "V1-b F1: named which hand slaps (the open hand already raised on frame-right; it is her left, as the storyboard says) so Kling does not invent a new arm; 'the glass jolts slightly without spilling' (an invitation to spill/tip) changed to 'the water ripples and the glass stays put'; 'blurred shoulder' corrected to 'blurred blonde hair and shoulder'; 'top' specified as short-sleeve. Added the raised-hand fact to the deviation flags.",
+  "V1-b F1: edit note now says the ~430% S3 reverse is the storyboard's deliberate rewind smear, so it is not a breach of the 200% speed-up cap.",
+  "V1-b F9: 'side-on' framing corrected to 'rear-side' (the side of her bottom is in frame); added 'back and front rising together' and 'just below the top's hem' (the top ends above the waist). The flag that the top is sleeveless was stated as fact but the frame only shows a bare upper arm; reworded to 'no sleeve shows (sleeveless, or a short sleeve above the crop)'.",
+  "V1-b S15: added timing ('right away … by about one second') so the settle at ~0.3 s and the hand clearing by ~1.2 s match the 0.1–1.25 s edit window.",
+  "V1-b F12: set description said 'golden window light' and 'friend's soft blurred head' but the frame has dark wood panelling, a red-framed window and a dark-haired friend; corrected so Kling does not drift the set toward F1's. Added 'over about one and a half seconds' to fit the 1.75 s window.",
+  "V1-c F1: 'thumbs hooked' corrected to 'fingers hooked' (the frame-right hand grips the waistband with its fingers); 'face stays cropped' made exact ('only her chin shows at the top edge').",
+  "V1-c F2: added 'within the first half-second' so the snap lands at ~0.5 s as the edit note assumes (the clip is used at 100%, so a late snap would miss the window).",
+  "V1-c F3: edit note said the caption 'clears at 24.0, before this shot'; 24.0 is the storyboard's planned clock, not the real cut list (F3 runs 24.55–25.30). Re-mapped to ~0.4 s into the shot (~24.95) and added the 'AI-generated' tag the storyboard puts on this shot.",
+  "V1-c F4: added 'within about one second' so the door-open/bloom lands by ~1.0 s as the 156% edit assumes; edit note now gives the tag card's real-clock time (~25.50, mapped from the storyboard's 0.2 s offset).",
+  "V1-c F5: 'both lower their cups and turn toward frame-right' was physically unclear (the main woman faces frame-left and the friend already faces right); now the main woman turns toward frame-right and the friend steps up beside her. 'Kraft cups with white lids' corrected to 'kraft cups and lids' (the lids are kraft-brown in the frame); specified which two cups tap; added the plain watch to wardrobe and 'watch logo' to NEGATIVE.",
+  "V1-c F5: edit note said 'holds to 26.4', which is the storyboard's planned clock; re-mapped to the real cut list (~0.5 s in, ~26.70).",
+  "V1-a order 2: header rebuilt -> 🎬 ON-SCREEN: 0.82 s (ad timecode 18.48–19.30) · EDIT: use 0.1–1.2 s @ 134%",
+  "uncovered_storyboard_shots: added V1-b S2 (freeze) and S3 (rewind smear). Both are editor shots built entirely from the F1 Kling clip, so whoever generates F1 needs to know its last frame and reversed body are reused.",
+  "V1-c F4: folded the separate 'She takes one step forward' sentence into the end state ('she steps forward over the threshold into the light') to keep one primary action and stay within 170 words."
+ ]
+}

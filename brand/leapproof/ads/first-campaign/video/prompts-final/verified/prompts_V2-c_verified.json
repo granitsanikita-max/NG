@@ -1,0 +1,352 @@
+{
+ "clips": [
+  {
+   "ad": "V2-c",
+   "order": 1,
+   "start_image": "V2-c/01_F1_duo-shove.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F1-DUO-wide"
+   ],
+   "ad_timecode": "0.00–3.00",
+   "on_screen_seconds": 3.0,
+   "kling_seconds": 4,
+   "sound": "ON",
+   "edit_note": "Use 0.15–3.15 s @ 100%, so the published frame 0 is already moving; cut on the end of 'sneeze'. Lay the off-screen achoo (audio only, no person) at 0.1 s, the single bell DING on the stance bounce (~0.3–0.5 s), the comedy bed from the bell, and a whoosh under the push-in. The underwear must not react to the achoo. The hook pill 'Big sneeze. Little pee.', the VS roundel, the 1.6 s 'What's the difference?' box and the AI label all go on in CapCut. If the line runs past 3.0 s, slip the poster cut; don't speed the voice. If Kling's push-in is weak, top it up with a CapCut scale to 112%.",
+   "header": "⏱ GENERATE: 4 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 3.0 s (ad timecode 0.00–3.00) · EDIT: use 0.15–3.15 s @ 100%\n🖼 START IMAGE: V2-c/01_F1_duo-shove.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same framing, bedroom, light and both character designs throughout. At left the clean white oval soft-pad mascot presses one hand on the side of the plain black underwear character, which tips away. Over ~0.5 s the underwear rocks back upright onto its leg openings and both bounce once into a playful squared-up stance, mascot hands up like little mitts, underwear planted with one fabric brow lifted. From ~0.8 s the mascot faces the lens and speaks. Slow push-in 100→112%. The underwear stays silent, mouth closed, face on its upper front panel; plain black seamless matte microfibre, laser-cut edges, ruched sides, no lace, no logo, no band, no arms. Audio: the LINER character speaks, lip-synced, a higher-pitched, fussy, fast-talking, slightly anxious young adult female cartoon voice, bright and comedic, clear American accent: \"I'm what she grabs for the sneeze.\". No music, no score; soft natural room tone only. Avoid: punches, gloves, underwear talking, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, punching, hitting, boxing gloves, referee, belt, underwear mouth moving, second voice, underwear growing arms, lace, elastic band, face on gusset, sneeze sound, music",
+   "spoken_line": "I'm what she grabs for the sneeze.",
+   "speaker": "LINER",
+   "image_deviation_flags": "Scale is off the character sheet: the mascot stands taller than the underwear (about 130% of its height; the sheet says 55–60%). Frames 01 and 14 match each other, so keep them as a pair. At frame 0 the mascot's face is worried, not eager (the bounce and the line carry the energy; no expression change is prompted). The underwear is tipped onto its lower point, touching the duvet only there, and its eyes already side-eye the mascot (the storyboard had that at ~2.7 s). The lamp is a shade at top-centre, not top-right. The mascot has two small nub feet and a pale-mint strip on its back. Only ONE mascot hand is visible, pressed on the underwear's ruched left side; the other hand is hidden. There's no motion smear. Otherwise as planned: the Claret throw in the left foreground at the foot of the bed, Blush pillows, a wooden headboard, both mouths closed, no text.",
+   "risks": "This is the heaviest ask in the ad: three motion beats plus speech in one clip. Kling may skip the bounce or blur it into a wobble. The push-in plus bounce can smear the mascot's hands. The underwear may lip-flap or sprout arms in the stance. The mascot's hidden second hand has to appear for the mitts; watch for a third hand. The shove can read as a hit if the rock-back is too violent. If the stance fails twice, keep the spring-upright and the turn to the lens, and sell the bell with the CapCut DING plus a 3-frame shake."
+  },
+  {
+   "ad": "V2-c",
+   "order": 2,
+   "start_image": "V2-c/02_F6_undies-hero.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F6-UNDIES-lowangle",
+    "F6-UNDIES-lowangle-punch (120% CapCut punch-in from 'What's')"
+   ],
+   "ad_timecode": "3.80–6.20",
+   "on_screen_seconds": 2.4,
+   "kling_seconds": 4,
+   "sound": "ON",
+   "edit_note": "Use 0.0–2.4 s @ 100% with the audio continuous. 0.0–1.2 s plays as F6-UNDIES-lowangle ('I'm just underwear.', 3.80–5.00). From 'What's', do a 100→120% CapCut punch-in on the eyes and mouth (3-frame ease) for F6-UNDIES-lowangle-punch ('What's the difference?', 5.00–6.20). Keep the punch above the leg-opening line. Slip the cut to the actual words; don't speed the voice. 'Same moment.' (the S2 poster pre-lap) is ElevenLabs, not this clip. Add a bass 'dun' on the cut in and a 'dun-dun' sting on the punch. Upscale to 4K so the punch stays sharp.",
+   "header": "⏱ GENERATE: 4 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 2.4 s (ad timecode 3.80–6.20) · EDIT: use 0.0–2.4 s @ 100%; F6-punch = 120% CapCut punch-in from 'What's'\n🖼 START IMAGE: V2-c/02_F6_undies-hero.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same framing, sunlit window, plant, golden backlight and character design throughout. The plain black underwear character stands on its leg openings on the duvet, calm, half-lidded. On \"just\" its fabric brows lift and on \"underwear\" its waistband gives a small shrug; after a tiny pause, on \"difference\" one brow arches higher and it tilts slightly toward the lens with a dry half-smile. It never lifts or floats. Slow creep-in 100→103%. Its face stays on the upper front panel under the waistband, the lower panel blank; plain black seamless matte microfibre, laser-cut edges, ruched sides, no lace, no logo, no band, no arms. Audio: the UNDERWEAR character speaks, lip-synced, a warm, dry, calm, unhurried adult female voice, low-mid pitch, confident and kind, clear American accent: \"I'm just underwear. What's the difference?\". No music, no score; soft natural room tone only. Avoid: arms, hands, second voice, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, arms, hands, second voice, face sliding down the garment, face on gusset, lace, elastic band, garment changing cut, music",
+   "spoken_line": "I'm just underwear. What's the difference?",
+   "speaker": "UNDERWEAR",
+   "image_deviation_flags": "Not a strong low hero angle: the camera sits at duvet height, close to eye level. The light is a golden-hour window backlight at left with a potted plant at right, not the 2700K lamp halo rimming the waistband, so it reads as another corner of the bedroom from 01/14 (fine as a new angle). Brown eyes with Rose Taupe lids, half-lidded. The mouth is a small closed smile and the face sits high on the front panel. The garment matches: ruched sides, raw edges, no lace, no logo. A soft duvet edge sits in the left foreground.",
+   "risks": "When the waistband shrugs, the face can drift down the panel. Reject any take where the mouth drops toward the leg-opening line. Kling may add arms on the shrug. Six words in a calm voice may run past 2.4 s; slip the board rather than speed it up. The 120% punch-in needs the 4K upscale."
+  },
+  {
+   "ad": "V2-c",
+   "order": 3,
+   "start_image": "V2-c/03_S5_handbag-popup.png",
+   "end_image": "none",
+   "covers_shots": [
+    "S5-BR-handbag-pov"
+   ],
+   "ad_timecode": "6.20–7.90",
+   "on_screen_seconds": 1.7,
+   "kling_seconds": 3,
+   "sound": "ON",
+   "edit_note": "Use 0.0–1.7 s @ 100% and cut on the end of 'bag'. Add a zipper rip and a keys jangle on the cut in. The receipt at upper right shows a printed 'RECEIPT' heading and printed lines. No text may appear in any frame, so blur-mask it in CapCut (track it through the push-in) or re-roll the start image with a blank folded receipt.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 1.7 s (ad timecode 6.20–7.90) · EDIT: use 0.0–1.7 s @ 100%\n🖼 START IMAGE: V2-c/03_S5_handbag-popup.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same high view into the open tan leather tote on the cafe chair, every item in the bag, the cafe, light and the mascot's design throughout. The white oval soft-pad mascot stands inside the bag, hands out, smiling. It does one quick springy jack-in-the-box bounce, a soft squash then a stretch, tiny feet staying on the bag floor, and lands puffing its chest proudly at the lens as it says the line; the keys and lip balm jiggle once and settle. Slow push-in 100→106%. The mascot stays pure clean white, no stains; the pale-mint strip stays flat behind it; hands keep their shape; nothing leaves the bag. Audio: the LINER character speaks, lip-synced, a higher-pitched, fussy, fast-talking, slightly anxious young adult female cartoon voice, bright and comedic, clear American accent: \"I've been in her bag…\". No music, no score; soft natural room tone only. Avoid: wings, new objects, logos, new writing, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, keys floating, objects multiplying, bag logo, branded hardware, readable writing, wings, mascot leaving the bag, second voice, music",
+   "spoken_line": "I've been in her bag…",
+   "speaker": "LINER",
+   "image_deviation_flags": "The pop-up has already happened: at frame 0 the mascot stands tall in the bag, hands out, mouth open in a smile. So the prompt plays a bounce and chest-puff instead of the jack-in-the-box rise. The view is a high 3/4 into the bag, not straight top-down. The receipt carries a printed 'RECEIPT' heading and printed lines, which is generated text and must be masked. The pale-mint strip shows at both sides behind the mascot, almost like small wings. The mascot has a quilted dimple texture and small nub feet. As planned: the tan, unbranded tote. A coffee cup on a saucer sits on a table at right.",
+   "risks": "The receipt text may sharpen or change during the push-in. The keys may float or multiply in the jiggle. The mint strip edges may grow into wings. The leading ellipsis in the line may add a short pause; cut on the word."
+  },
+  {
+   "ad": "V2-c",
+   "order": 4,
+   "start_image": "V2-c/04_S6_handbag-peel.png",
+   "end_image": "none",
+   "covers_shots": [
+    "S6-BR-handbag-stick"
+   ],
+   "ad_timecode": "7.90–9.20",
+   "on_screen_seconds": 1.3,
+   "kling_seconds": 3,
+   "sound": "ON",
+   "edit_note": "Use 0.0–1.3 s @ 100% and cut on the end of 'sneeze'. Add a 100→115% CapCut punch-in as the strip comes away, a peel 'zzzip' on the pull and the sticky THWACK on the nod. The storyboard's slap onto the bag lining is dropped: the mascot stands on the leather facing out, with no lining wall in reach. The 'Panty liner: sticks on.' label carries the form point.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 1.3 s (ad timecode 7.90–9.20) · EDIT: use 0.0–1.3 s @ 100% (115% CapCut punch-in on the peel)\n🖼 START IMAGE: V2-c/04_S6_handbag-peel.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same framing, the open tan tote it stands on, the key, lip balm, cafe bokeh, light and the mascot's design throughout. The white oval soft-pad mascot holds the pale-mint strip against its front with both hands. In one quick, smooth pull (~0.5 s) it peels the strip off and flicks it out to its side like a tiny cape, holding it by one end, then gives the lens a proud little nod as it says the line. The strip stays one intact piece in its hand. Its tiny feet stay planted on the leather. Camera locked. The mascot stays pure clean white, no stains, same face and shape. Audio: the LINER character speaks, lip-synced, a higher-pitched, fussy, fast-talking, slightly anxious young adult female cartoon voice, bright and comedic, clear American accent: \"…since the first sneeze.\". No music, no score; soft natural room tone only. Avoid: torn strip, second strip, new objects, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, torn strip, second strip, strip floating away, mascot leaving the bag, bag warping, person in background, second voice, music",
+   "spoken_line": "…since the first sneeze.",
+   "speaker": "LINER",
+   "image_deviation_flags": "The mascot stands on top of the open tote's leather, facing out, with the bag mouth behind it. It isn't pushed in against the inner lining. The pale-mint strip is on its FRONT (held in both hands, top end already lifting), not its back, so the peel comes off the front. The expression is a calm, proud smile with the mouth closed. A key lies at its left foot and the lip balm sits in the right foreground. In the cafe bokeh there's a faint, blurred, unrecognisable figure at the far-left edge. This mascot is smooth, without the quilted dimples from 03 (minor drift).",
+   "risks": "The strip may tear, duplicate or float. A 0.5 s peel in a 1.3 s window is tight; if the peel lags, start the edit a few frames later and let the line J-cut. The tote flap behind may warp. The blurred background figure may sharpen."
+  },
+  {
+   "ad": "V2-c",
+   "order": 5,
+   "start_image": "V2-c/05_S7_drawer-open.png",
+   "end_image": "none",
+   "covers_shots": [
+    "S7-BR-drawer-open"
+   ],
+   "ad_timecode": "9.20–10.40",
+   "on_screen_seconds": 1.2,
+   "kling_seconds": 3,
+   "sound": "ON",
+   "edit_note": "Use 0.0–1.2 s @ 100% and cut on the end of 'live…'. The drawer is already open in the frame, so there's no slide; lay the wooden drawer THUNK on the cut in to sell the open. It's fine if the line starts before the sit-up finishes.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 1.2 s (ad timecode 9.20–10.40) · EDIT: use 0.0–1.2 s @ 100%\n🖼 START IMAGE: V2-c/05_S7_drawer-open.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same high view into the open wooden drawer, the folded black pairs, light and character design throughout. The plain black underwear character lies face-up at the front of the drawer, half-lidded. Over ~0.8 s it sits up like someone sitting up in bed: its waistband edge lifts and it bends at the middle while its lower panel stays flat on the drawer floor, face turning to the lens; deadpan, it says the line. The drawer and the other folded pairs stay still. Camera locked. Its face stays on the upper front panel under the waistband; plain black seamless matte microfibre, laser-cut edges, ruched sides, no lace, no logo, no band, no arms. Audio: the UNDERWEAR character speaks, lip-synced, a warm, dry, calm, unhurried adult female voice, low-mid pitch, confident and kind, clear American accent: \"I just live…\". No music, no score; soft natural room tone only. Avoid: faces on other pairs, arms, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, faces on the other pairs, other pairs moving, drawer moving, arms, hands, face on gusset, lower panel lifting toward camera, lace, elastic band, second voice, music",
+   "spoken_line": "I just live…",
+   "speaker": "UNDERWEAR",
+   "image_deviation_flags": "The drawer is already fully open (no slide-open beat). The character lies flat and face-up, at a diagonal at the front of the drawer, rather than folded. The other pairs are folded in stacks of plain black (good). A window and a plant sit at top right. Eyes are half-lidded with Rose Taupe lids, and the mouth is a small closed smile.",
+   "risks": "Kling may give the other folded pairs faces or animate them. The sit-up may lift the lower panel toward the camera; reject those takes. The face may slide down the panel during the bend. 'I just live…' is short, so the lip-sync may trail into the ellipsis."
+  },
+  {
+   "ad": "V2-c",
+   "order": 6,
+   "start_image": "V2-c/06_S8_drawer-stretch.png",
+   "end_image": "none",
+   "covers_shots": [
+    "S8-BR-drawer-stretch"
+   ],
+   "ad_timecode": "10.40–11.70",
+   "on_screen_seconds": 1.3,
+   "kling_seconds": 3,
+   "sound": "ON",
+   "edit_note": "Use 0.0–1.3 s @ 100%. Add a 100→120% CapCut punch-in on 'drawer', kept on the eyes and mouth. The punch also helps hide the set change from 05. Add an elastic 'fwip' on the stretch and a tiny contented yawn SFX after the line.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 1.3 s (ad timecode 10.40–11.70) · EDIT: use 0.0–1.3 s @ 100% (120% CapCut punch-in on 'drawer')\n🖼 START IMAGE: V2-c/06_S8_drawer-stretch.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same framing, the drawer edge it stands on, the pastel folded clothes, tiled wall, window light and character design throughout. The plain black underwear character stands upright on its leg openings, eyes open. As it says the line, its waistband widens to both sides in one smooth ~0.8 s lazy, contented stretch, eyes easing half-closed; then it relaxes back to its exact shape and settles, unbothered. It never lifts or floats; the folded clothes stay still. Camera locked. Its face stays on the upper front panel under the waistband, the lower panel blank; plain black seamless matte microfibre, laser-cut edges, ruched sides, no lace, no logo, no band, no arms. Audio: the UNDERWEAR character speaks, lip-synced, a warm, dry, calm, unhurried adult female voice, low-mid pitch, confident and kind, clear American accent: \"…in the drawer.\". No music, no score; soft natural room tone only. Avoid: arms, hands, yawn sound, torn fabric, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, arms, hands, yawn sound, wide-open mouth, garment changing cut, face on gusset, face sliding down, lace, elastic band, second voice, music",
+   "spoken_line": "…in the drawer.",
+   "speaker": "UNDERWEAR",
+   "image_deviation_flags": "This reads as a different set from 05. The underwear stands upright on the front edge of an open drawer of pastel folded clothes (pink, white, mint, grey), not rows of black pairs. Behind it are a tiled wall, a window and a plant, which gives a bathroom or dressing-room feel. The eyes are wide open, with amber-orange irises and slightly furrowed brows, not the half-lidded deadpan of 05 (eye-colour drift). The mouth is already slightly open. The garment matches: ruched sides, raw edges, no lace, no logo.",
+   "risks": "The waistband stretch may deform the whole garment or move the face; reject takes where the face slides toward the leg-opening line. The cut from 05 (lying in a drawer of black pairs) to 06 (standing on a pastel drawer) may jar, so keep the 120% punch-in. Kling may add a yawn sound or open the mouth wide."
+  },
+  {
+   "ad": "V2-c",
+   "order": 7,
+   "start_image": "V2-c/07_F9_woman-side-waist.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F9-WOMAN-side-waist"
+   ],
+   "ad_timecode": "13.30–15.60",
+   "on_screen_seconds": 2.3,
+   "kling_seconds": 3,
+   "sound": "OFF",
+   "edit_note": "Use 0.2–2.9 s @ 117% (≈2.3 s) so the pull-up, the settle and the tee drop all land before the cut. This clip has no audio: the line 'Not a pad, not a diaper.' is the ElevenLabs UNDERWEAR VO (13.35–15.50). Add a leggings swish and a soft elastic snap at the top. The AI label stays on. If the start image is kept, crop the chin out with a ~110% CapCut punch-in anchored to the bottom edge.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound OFF\n🎬 ON-SCREEN: 2.3 s (ad timecode 13.30–15.60) · EDIT: use 0.2–2.9 s @ 117%\n🖼 START IMAGE: V2-c/07_F9_woman-side-waist.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same woman, side-on framing, charcoal tee, plain black underwear, black leggings, bedroom, soft window light and real skin texture throughout. Photoreal native phone b-roll. Her near hand grips the leggings waistband at her hip. In one smooth, brisk pull (~1.2 s) she draws the leggings up over her hip to her natural waist, covering the bare upper thigh and the underwear's leg line; a small tug and settle, then the tee hem drops over the waistband. Her head stays tilted down, only the chin edge at the top, lips closed and still. Both legs stay in the leggings, whole and continuous to the bottom edge. Her hand keeps five fingers. The underwear stays plain black matte, ruched side, no lace, no logo. Camera holds this side angle with a subtle handheld micro-drift, never moving lower or around to her back. Avoid: face entering frame, rear view, buttock focus, merged legs, skirt, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, face, head entering frame, talking, rear view, camera orbiting, merged legs, leg disappearing, skirt, rear framing, push-in to hip, lace, logo on leggings, extra arms, sixth finger",
+   "spoken_line": "",
+   "speaker": "",
+   "image_deviation_flags": "STRONGEST FLAG IN THIS AD. The angle is side-on turning slightly toward rear-3/4, and at frame 0 there's a band of bare upper-thigh and hip skin between the underwear's leg line and the leggings. That's close to buttock framing (Meta risk). The bottom of her chin and lips are visible at the top-left edge, where the storyboard said no face. The tee is a relaxed, hip-length charcoal T-shirt (not oversized), and its hem is already lifted, showing a strip of skin at the waist. The frame runs from chin to upper calf, not waist to knee, so the legs are cropped at the bottom edge. Only one hand is visible. The garment matches: ruched side gather, raw edges, no lace, no logo. Recommendation: re-roll the start image strictly side-on, waist-to-knee, with the leggings already above mid-thigh. If you keep this one, crop the chin out in CapCut.",
+   "risks": "This is the highest-risk clip in V2-c. Failures already hit on this project: a leg chopped or merged during the pull-up, and leggings turning into a skirt. Her face may enter the frame if she looks up. Meta may flag the bare-hip frame 0 even if the motion is clean; the storyboard fallback is to extend the hands-only S9 insert. The 117% speed-up is mild, but check the hand doesn't look jerky."
+  },
+  {
+   "ad": "V2-c",
+   "order": 8,
+   "start_image": "V2-c/08_F7_liner-highangle.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F7-LINER-highangle"
+   ],
+   "ad_timecode": "15.60–16.70",
+   "on_screen_seconds": 1.1,
+   "kling_seconds": 3,
+   "sound": "ON",
+   "edit_note": "Use 0.0–1.1 s @ 100% and cut on the end of 'fine'. Add the deflating 'whomp' and dip the music in CapCut.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 1.1 s (ad timecode 15.60–16.70) · EDIT: use 0.0–1.1 s @ 100%\n🖼 START IMAGE: V2-c/08_F7_liner-highangle.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same high angle down onto the duvet, the pillows, lamp glow, light and the mascot's design throughout. The small white oval soft-pad mascot stands alone in the middle of the duvet, one hand to its forehead, worried. As it says the line it deflates: it squashes about 10% shorter and its shoulders sink, hand still at its forehead, ending small and sheepish. Its tiny feet stay planted on the duvet. Slight camera drift down and in, 100→103%. The mascot stays pure clean white, no stains, same face and shape, the pale-mint strip on its back; hands keep their shape. Audio: the LINER character speaks, lip-synced, a higher-pitched, fussy, fast-talking, slightly anxious young adult female cartoon voice, bright and comedic, clear American accent: \"Okay, fine.\". No music, no score; soft natural room tone only. Avoid: tipping over, sigh sounds, new objects, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, tipping over, audible sigh, lying down, hand dropping, new objects, second character, second voice, music",
+   "spoken_line": "Okay, fine.",
+   "speaker": "LINER",
+   "image_deviation_flags": "Close to plan. The camera tilts ~30–35° down rather than 45°, so the bed, pillows and lamp fill the top third. At frame 0 the mascot already has its hand to its forehead and a worried, small-mouthed frown. It's a smooth mascot (no quilting), with the pale-mint strip visible at its right side and small nub feet.",
+   "risks": "Lip-sync on a two-word line can come out mumbled, and the squash may hide the mouth. Kling may drop the hand from the forehead or tip the mascot over."
+  },
+  {
+   "ad": "V2-c",
+   "order": 9,
+   "start_image": "V2-c/09_F4_liner-ecu.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F4-LINER-ecu"
+   ],
+   "ad_timecode": "16.70–18.30",
+   "on_screen_seconds": 1.6,
+   "kling_seconds": 3,
+   "sound": "ON",
+   "edit_note": "Use 0.0–1.6 s @ 100% and cut on the end of 'shift'. Add a paper crinkle-crumple on 'bunch'. On 'shift', do the storyboard's whip-pan in CapCut: a 4-frame position move with directional blur that re-centres the mascot after its lurch, plus the slide-whistle. The Kling camera stays locked so the face never smears in the ECU.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 1.6 s (ad timecode 16.70–18.30) · EDIT: use 0.0–1.6 s @ 100%; whip-pan on 'shift' = CapCut\n🖼 START IMAGE: V2-c/09_F4_liner-ecu.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same extreme close-up, the soft cream bedroom bokeh, light and the mascot's design throughout. The white oval soft-pad mascot's worried face fills the frame, its top edge already creased. As it says the line it does one quick comic scrunch: on \"bunch\" its top half squashes down into soft accordion folds, eyes squeezed; on \"shift\" it springs back up and lurches sideways toward frame-left, ending off-centre and wide-eyed. Its eyes, brows and mouth stay intact and readable throughout. Camera locked. The mascot stays pure clean white with its soft fabric texture, no stains, no tearing, same face and shape. Audio: the LINER character speaks, lip-synced, a higher-pitched, fussy, fast-talking, slightly anxious young adult female cartoon voice, bright and comedic, clear American accent: \"I bunch. I shift.\". No music, no score; soft natural room tone only. Avoid: tearing, extra eyes, face sliding off, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, tearing, ripped edges, extra eyes, face melting, face sliding off the body, big toothy grin, gross-out, second voice, music",
+   "spoken_line": "I bunch. I shift.",
+   "speaker": "LINER",
+   "image_deviation_flags": "At frame 0 the top edge is already pinched into a crease, a head start on 'bunch'. The mouth is slightly open, showing a sliver of teeth, with worried brows. The bottom of the body runs off the frame bottom (fine for an ECU). The background is soft cream pillows and duvet, as planned.",
+   "risks": "A scrunch and a lurch in 1.6 s is busy: Kling may skip the lurch, or melt the face in the crumple. The whip-pan is now a CapCut move, so the gen has no in-camera pan to smear the face. The sliver of teeth may look uncanny in the scrunch."
+  },
+  {
+   "ad": "V2-c",
+   "order": 10,
+   "start_image": "V2-c/10_F8_duo-ots.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F8-DUO-ots"
+   ],
+   "ad_timecode": "18.30–21.10",
+   "on_screen_seconds": 2.8,
+   "kling_seconds": 4,
+   "sound": "ON",
+   "edit_note": "Use 0.3–3.1 s @ 100% (≈2.8 s). The line runs through the turn; cut as the mascot leaves frame right (a match-on-action into the bin clip). Add a sad-trombone whomp, tiny footsteps and a hop 'boing' in CapCut. No caption on 'I feel like a diaper' (house rule). Don't count on a punch-in to hide the foreground: the black band reaches ~43% of the frame width at ~80% height, right up to the mascot's left edge, so a 120–125% punch anchored right still shows it. RE-ROLL the start image before generating (see flags).",
+   "header": "⏱ GENERATE: 4 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 2.8 s (ad timecode 18.30–21.10) · EDIT: use 0.3–3.1 s @ 100%\n🖼 START IMAGE: V2-c/10_F8_duo-ots.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same framing, the soft out-of-focus shape at frame-left, the bedroom, lamp, window light and the mascot's design throughout. The white oval soft-pad mascot stands on the duvet mid-ground, hands clasped, sheepish. It sags a little as it confesses, eyes down then up; on \"And every day\" it turns toward frame-right, takes two small glum steps and makes one small hop out of frame right. Slow push-in 100→108%. The left foreground shape stays completely still, soft and out of focus; nothing new appears on it. The mascot's feet stay on the duvet until the hop; it stays pure clean white, no stains, same face and shape. Audio: the LINER character speaks, lip-synced, a higher-pitched, fussy, fast-talking, slightly anxious young adult female cartoon voice, bright and comedic, clear American accent: \"I feel like a diaper. And every day…\". No music, no score; soft natural room tone only. Avoid: foreground sharpening into a person, second voice, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, foreground coming into focus, person, human body, skin, foreground moving, second voice, second character talking, duplicate mascot, music",
+   "spoken_line": "I feel like a diaper. And every day…",
+   "speaker": "LINER",
+   "image_deviation_flags": "BIG FLAG. The planned foreground isn't there: it should be the underwear character's soft waistband edge with one listening eye. Instead, the left third holds a large out-of-focus cream shape with a band of black ruched fabric across its lower part and pale tones below. That can read as a person's back and hip in black underwear, which means a human in a character shot and a buttock-focus risk. There's no underwear eye to blink. RE-ROLL REQUIRED before generating: put the underwear character's waistband and one eye in soft focus at frame-left (or drop the foreground for a clean single on the mascot). A punch-in can't fix it: measured on the PNG, the black band runs from the left edge to ~43% of the width at ~80% height, and the mascot starts at ~44%. The mascot is as planned: sheepish, hands clasped, mouth closed, with the lamp and window behind.",
+   "risks": "Kling may sharpen the foreground shape into a person or animate it. The lip-sync may break when the mascot turns side-on on 'And every day…'. The hop out of frame may leave a duplicate, or the mascot may vanish mid-step. 'Diaper' is spoken verbatim (the storyboard keeps it spoken-only, not captioned); if Kling's moderation trips on it, voice this line in ElevenLabs and run the clip Sound OFF."
+  },
+  {
+   "ad": "V2-c",
+   "order": 11,
+   "start_image": "V2-c/11_S14_bin.png",
+   "end_image": "none",
+   "covers_shots": [
+    "S14-BR-bin"
+   ],
+   "ad_timecode": "21.10–22.70",
+   "on_screen_seconds": 1.6,
+   "kling_seconds": 3,
+   "sound": "ON",
+   "edit_note": "Use 0.2–1.8 s @ 100% and cut on the end of 'trash'; slide the window if needed so both the drop and the whole word 'trash' are in. If the line still runs long, let its tail carry up to 0.2 s under clip 12 as an L-cut, but never under clip 12's 'So…'. Add the pedal-bin lid CLANK on the cut in and a soft thud on the drop. The 'Panty liner: the trash.' label goes on in CapCut.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 1.6 s (ad timecode 21.10–22.70) · EDIT: use 0.2–1.8 s @ 100%\n🖼 START IMAGE: V2-c/11_S14_bin.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same framing on the white pedal bin with its lid open, cream tiles, Claret towel, warm light and the mascot's design throughout. The white oval soft-pad mascot hovers just above the open bin, mid-drop, hands clasped. Over ~0.4 s gravity takes it straight down into the bin with a soft bounce, ending with its eyes and mouth peeking just above the rim, both little hands gripping the rim. As it lands it says the line with a sheepish shrug, mouth staying above the rim. The lid and towel stay still. Camera locked. The mascot stays pure clean white, no stains, same face and shape; nothing else is in the bin. Audio: the LINER character speaks, lip-synced, a higher-pitched, fussy, fast-talking, slightly anxious young adult female cartoon voice, bright and comedic, clear American accent: \"…I go in the trash.\". No music, no score; soft natural room tone only. Avoid: rubbish, lid closing, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, rubbish, litter, tissues, lid closing, mascot hovering, mouth hidden below rim, bin logo, second voice, music",
+   "spoken_line": "…I go in the trash.",
+   "speaker": "LINER",
+   "image_deviation_flags": "The lid is already open and the mascot already hovers just above the rim (mid-drop) at frame 0, so the lid-flip is skipped. It smiles sheepishly with its hands clasped and its mouth closed. The pale-mint strip isn't visible from the front. As planned: the Claret towel on the wall behind, cream tiles, a plain unbranded white bin, no rubbish.",
+   "risks": "The mascot may float instead of dropping, or sink so far that its mouth goes below the rim. The lid may swing shut. Kling may add rubbish to the bin."
+  },
+  {
+   "ad": "V2-c",
+   "order": 12,
+   "start_image": "V2-c/12_S15_bin-topdown.png",
+   "end_image": "none",
+   "covers_shots": [
+    "S15-BR-bin-topdown"
+   ],
+   "ad_timecode": "22.70–24.80",
+   "on_screen_seconds": 2.1,
+   "kling_seconds": 4,
+   "sound": "ON",
+   "edit_note": "Use 0.0–2.1 s @ 100% and cut on the end of 'trash'. Add a small echo on the voice in CapCut and thin the music. TRIM CANDIDATE T1: this line repeats the previous clip word for word. If Nikita OKs T1, skip this clip entirely (−2.1 s and one gen saved).",
+   "header": "⏱ GENERATE: 4 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 2.1 s (ad timecode 22.70–24.80) · EDIT: use 0.0–2.1 s @ 100%\n🖼 START IMAGE: V2-c/12_S15_bin-topdown.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same top-down view into the open white pedal bin, the lid, pedal, floor tiles, warm light and the mascot's design throughout. The small white oval soft-pad mascot sits at the bottom of the empty bin, hands clasped, looking up at the lens. It says the line in two beats: a small pause after \"So\", then a tiny shrug and a slow blink, resigned but good-natured, ending on a little smile. It stays seated on the bin floor. Very slow push-in 100→104%. The bin stays empty and clean; the lid stays open and still. The mascot stays pure clean white, no stains, same face and shape. Audio: the LINER character speaks, lip-synced, a higher-pitched, fussy, fast-talking, slightly anxious young adult female cartoon voice, bright and comedic, clear American accent: \"So… I go in the trash.\". No music, no score; soft natural room tone only. Avoid: rubbish, lid closing, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, rubbish, litter, lid closing, mascot climbing out, bin logo, second voice, music",
+   "spoken_line": "So… I go in the trash.",
+   "speaker": "LINER",
+   "image_deviation_flags": "Matches the plan: top-down into the clean, empty bin, with the mascot sitting small at the bottom, hands clasped, worried brows and a small smile, mouth closed. The open lid fills the top of the frame, the dark pedal sits at the bottom and a wooden cabinet edge runs down the right. This is its own start image, not the crane end of clip 11, so the crane becomes a slow push-in.",
+   "risks": "The 'So…' pause may stretch the line past 2.1 s; cut on the word or tighten the pause in the edit. Kling may add rubbish, close the lid or make the mascot stand up."
+  },
+  {
+   "ad": "V2-c",
+   "order": 13,
+   "start_image": "V2-c/13_S17_washline.png",
+   "end_image": "none",
+   "covers_shots": [
+    "S17-BR-washline"
+   ],
+   "ad_timecode": "25.40–27.00",
+   "on_screen_seconds": 1.6,
+   "kling_seconds": 3,
+   "sound": "ON",
+   "edit_note": "Use 0.0–1.6 s @ 100% and cut on the end of 'again'. The second peg is already on, so the peg CLIP on the cut in is sound only. Add birdsong and a breeze under it. 'Wash.' (S16) is the ElevenLabs line over the washer insert just before this clip.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 1.6 s (ad timecode 25.40–27.00) · EDIT: use 0.0–1.6 s @ 100%\n🖼 START IMAGE: V2-c/13_S17_washline.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same framing, washing line, two wooden pegs, sunny leafy bokeh and character design throughout. The plain black underwear character hangs by its waistband from both pegs, eyes closed in bliss, a small contented smile. A light breeze sways it gently. On \"Hang\" its eyes stay closed; on \"Wear again\" it opens one eye at the lens and its smile widens a little. Both pegs stay clipped in place; the garment never slips or floats. Camera locked. Its face stays on the upper front panel just under the pegged waistband, the lower panel blank; plain black seamless matte microfibre, laser-cut edges, ruched sides, no lace, no logo, no band, no arms. Audio: the UNDERWEAR character speaks, lip-synced, a warm, dry, calm, unhurried adult female voice, low-mid pitch, confident and kind, clear American accent: \"Hang. Wear again.\". No music, no score; soft natural room tone only. Avoid: pegs moving, extra pegs, arms, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, pegs moving, extra pegs, garment falling, both eyes opening wide, arms, hands, face on gusset, face sliding down, lace, elastic band, second voice, music",
+   "spoken_line": "Hang. Wear again.",
+   "speaker": "UNDERWEAR",
+   "image_deviation_flags": "Both pegs are already clipped at frame 0, so the storyboard's second-peg snap is dropped (sound only). The eyes are fully closed (domed lids) with a small closed smile, and the face sits on the upper front panel, as planned. Sunny leafy bokeh and blue sky. The garment matches: ruched sides, raw edges, no lace, no logo.",
+   "risks": "Kling may open both eyes, unclip a peg or drop the garment. A strong breeze may push the face down the panel. The closed-eye lip-sync on 'Hang.' may come out mumbled."
+  },
+  {
+   "ad": "V2-c",
+   "order": 14,
+   "start_image": "V2-c/14_F1_duo-truce.png",
+   "end_image": "none",
+   "covers_shots": [
+    "F1-DUO-wide-truce"
+   ],
+   "ad_timecode": "27.00–28.00",
+   "on_screen_seconds": 1.0,
+   "kling_seconds": 3,
+   "sound": "ON",
+   "edit_note": "Use 0.2–1.2 s @ 100% and cut on the end of 'options' into the poster reprise. Do the storyboard's 105→100% pull-back as a CapCut scale (start at 105% and ease to 100%), not in Kling, so nothing outside the frame has to be invented. Add one soft bell ding. 1.0 s is tight; slip the poster cut a few frames if the word runs long.",
+   "header": "⏱ GENERATE: 3 s · Kling 3.0 · Pro · 9:16 · Sound ON\n🎬 ON-SCREEN: 1.0 s (ad timecode 27.00–28.00) · EDIT: use 0.2–1.2 s @ 100%\n🖼 START IMAGE: V2-c/14_F1_duo-truce.png   ·   END IMAGE: none",
+   "prompt": "Animate the provided start image. The first frame matches the image exactly; keep the same wide bedroom framing, Claret throw, Blush pillows, lamp, light and both character designs throughout. The white oval soft-pad mascot stands at left, one arm reaching behind the plain black underwear character's side, like boxers after the final bell. The underwear, just above the duvet, finishes a tiny last bounce and lands softly on its leg openings, then right away says the line calmly with a dry half-smile. The mascot stays silent, mouth closed, and gives one small sporting nod, smiling. Camera locked. The underwear's face stays on its upper front panel; plain black seamless matte microfibre, laser-cut edges, ruched sides, no lace, no logo, no band, no arms. The mascot stays pure clean white. Audio: the UNDERWEAR character speaks, lip-synced, a warm, dry, calm, unhurried adult female voice, low-mid pitch, confident and kind, clear American accent: \"Two options.\". No music, no score; soft natural room tone only. Avoid: mascot talking, text, scene cut.",
+   "negative": "morphing, face change, identity drift, extra fingers, fused fingers, extra limbs, cut-off leg, missing leg, warped body, melting objects, floating objects, flicker, text, captions, subtitles, logo, watermark, brand marks, scene cut, heavy camera shake, motion blur smear, stains, leak, children, nudity, crotch focus, buttock focus, mascot talking, mascot mouth moving, second voice, underwear floating, arm fusing into fabric, underwear growing arms, face on gusset, lace, elastic band, belt, trophy, raised hand, music",
+   "spoken_line": "Two options.",
+   "speaker": "UNDERWEAR",
+   "image_deviation_flags": "Scale is off-sheet again: the mascot is taller than the underwear. That matches 01, so the pair is consistent. The mascot has thin stick legs with feet and a visible arm wrapped behind the underwear, unlike the nub feet in the other frames (character drift). The underwear's lower point sits just above the duvet with no clear contact shadow, so it reads as hovering; the prompt lands it with a last bounce. The underwear's mouth is a tiny 'o', slightly open. It's the same plate family as 01 (Claret throw, Blush pillows, upholstered headboard, a lamp top-centre-right), but the throw lies across the bed behind them, not in the foreground.",
+   "risks": "The underwear may stay floating or drift. The mascot may lip-flap or speak as well. The mascot's arm may fuse into the fabric. 1.0 s is very short for 'Two options.' plus a landing."
+  }
+ ],
+ "uncovered_storyboard_shots": [
+  {
+   "ad": "V2-c",
+   "shot_id": "S2-GFX-poster-faceoff",
+   "how_covered": "Not an AI shot: a CapCut boxing-poster freeze (3.0–3.8 s). The two background-removed poster-pose stills it needs were NOT delivered with the 14 start scenes. Take them from the Kling output: the mascot in its stance from clip 1 (01_F1_duo-shove, ~1.0 s) and the underwear from clip 2 (02_F6_undies-hero, frame 0), then Higgsfield remove_background. Or generate 2 dedicated pose stills. The UNDERWEAR pre-lap 'Same moment.' is ElevenLabs (trim T2 candidate)."
+  },
+  {
+   "ad": "V2-c",
+   "shot_id": "F6-UNDIES-lowangle-punch",
+   "how_covered": "Punch-in, as planned: a 120% CapCut punch-in on the second half (1.2–2.4 s) of clip 2 (02_F6_undies-hero). 'What's the difference?' and the brow arch are inside the clip-2 prompt."
+  },
+  {
+   "ad": "V2-c",
+   "shot_id": "S9-PROD-waistband-stretch",
+   "how_covered": "Not an AI shot: an owned-phone insert Nikita films on the CJ sample (a helper's hands stretch the waistband over the cream duvet, then let it go). The VO 'Plain black underwear.' is ElevenLabs (UNDERWEAR voice). No AI fallback start image was made. The storyboard fallback is an AI start frame from the 5 CJ photos plus Kling."
+  },
+  {
+   "ad": "V2-c",
+   "shot_id": "S16-PROD-washer",
+   "how_covered": "Not an AI shot: an owned-phone insert (the underwear tumbling past a front-loader window with two neutral towels, badge taped over). The VO 'Wash.' is ElevenLabs (UNDERWEAR voice). Use the washer click and whirr SFX, never a water trickle. No AI fallback start image was made."
+  },
+  {
+   "ad": "V2-c",
+   "shot_id": "S19-GFX-poster-hercall",
+   "how_covered": "Not an AI shot: the CapCut poster reprise, using the same template and stills as S2 with the band flipped to 'HER CALL.'. The VO 'Her call.' is ElevenLabs (UNDERWEAR voice)."
+  },
+  {
+   "ad": "V2-c",
+   "shot_id": "S20-CARD-end (corner character clips)",
+   "how_covered": "MISSING. The CapCut end card itself is editor work. The two small corner character clips (the mascot waving at left, the underwear nodding at right) were planned as separate Kling clips from the poster-pose stills on a plain Warm Cream backdrop, and no start images were delivered for them. Options: (a) generate 2 small pose stills on flat Warm Cream and run 3 s Sound-OFF Kling clips; or (b) use the background-removed poster stills with a small CapCut bob or wiggle keyframe. Both lines are ElevenLabs: LINER '…She knows where to find me.' and UNDERWEAR 'Find your match.'"
+  }
+ ],
+ "ad_notes": "V2-c 'The Sneeze-Pee Face-Off': 14 Kling 3.0 clips, all Pro, 9:16, 46 s of generation in total (4+4+3+3+3+3+3+3+3+4+3+4+3+3). 13 are Sound ON: one on-camera speaker each, lines verbatim from the storyboard, voice blocks pasted verbatim, and the partner (when in frame) silent with its mouth closed. 1 is Sound OFF: clip 7, the live-action leggings pull-up, whose line is ElevenLabs. Every storyboard AI shot has a start image. The 6 non-generated shots (2 posters, 2 phone inserts, the punch-in and the end card) are listed under uncovered_storyboard_shots.\n\nRUN ORDER: run clip 1 (hook, two characters, heaviest motion) and clip 2 (first underwear lip-sync on fabric) first, to check that both voices and the mouth sync work before running the other 12.\n\nELEVENLABS LINES TO RECORD (off-screen, no lip-sync): UNDERWEAR 'Same moment.' (S2 poster, trim T2 candidate), 'Plain black underwear.' (S9), 'Not a pad, not a diaper.' (F9, clip 7), 'Wash.' (S16), 'Her call.' (S19 poster), 'Find your match.' (S20 end card). LINER '…She knows where to find me.' (S20 end card).\n\nVOICE MATCH: Kling's native voices won't exactly match the ElevenLabs lines. As in V2-a/V2-b, run each Sound-ON clip's audio through ElevenLabs Voice Changer into the two saved voices (LP_LINER / LP_UNDIES), which keeps timing and lip-sync.\n\nTIMING: on-screen durations follow the storyboard (33.0 s main cut, all lines kept). Never speed a speaking clip. If a line runs long, slip the board. Clip 7 is the only speed-up (117%). Trims are still pending Nikita: T1 cuts clip 12 entirely (−2.1 s, one gen saved); T2 cuts the ElevenLabs 'Same moment.'.\n\nRE-ROLLS RECOMMENDED BEFORE GENERATING: (1) 07_F9 woman: rear-3/4 lean, a bare hip/thigh band, and the chin and lips in frame. This is the biggest compliance risk; re-roll strictly side-on, waist-to-knee. (2) 10_F8 OTS: RE-ROLL REQUIRED. The foreground reads as a person's back and hip in black underwear instead of the underwear character's waistband edge and eye. A punch-in can't hide it: the black band reaches ~43% of the width, and the mascot starts at ~44%. (3) 03_S5 handbag: the receipt carries a printed 'RECEIPT' heading and lines; mask it or re-roll. Optional, for consistency: 06_S8 (pastel drawer and amber eyes, against the black-pair drawer in 05) and 14_F1 truce (the mascot has stick legs and an arm round the underwear; the underwear hovers).\n\nCHARACTER NOTES: in 01 and 14 the mascot stands taller than the underwear (sheet: 55–60% of its height). The two frames are consistent with each other, so the bookends match, but it's off-sheet. The pale-mint strip is on the mascot's back in 01/03/08 and on its front in 04 (that's the peel gag).\n\nMARKET WORDS: the lines keep the storyboard's US 'trash'/'diaper' and an American accent, matching V2-a. If the launch is AU, change 'trash' to 'bin' (clips 11, 12) and the accent in both voice blocks before generating, in all three V2 ads at once so the voices stay matched. 'Diaper' is spoken only, never captioned.\n\nNO TEXT: no text, logos or captions are prompted anywhere. The hook pill, VS roundel, form labels, posters, end card and the persistent 'AI-generated. Not real customers.' label are all built in CapCut. Every bell, achoo, foley gag and the comedy bed is added in the edit.\n\nThe storyboard's start+end-frame interpolation for F9 isn't used: only the start image was delivered, so clip 7 runs start-frame only.",
+ "verifier_changes": [
+  "Clip 1 (F1 shove): the prompt said 'both hands pressed' on the underwear, but the frame shows ONE mascot hand (the other is hidden). Now 'presses one hand', and the flags/risks note it.",
+  "Clip 1 (F1 shove): tightened to one action with an end state (the shove resolves into a squared-up stance, then the mascot turns to the lens and speaks from ~0.8 s, not ~1 s, so the 7-word line ends before the 3.15 s out-point). Cut from 185 to under 170 words.",
+  "Clips 1 and 14 (both duo frames): NEGATIVE 'arms on underwear' → 'underwear growing arms'. In both frames the mascot's hand/arm really is on the underwear, so the old term fought frame 0 and could make Kling dissolve the mascot's arm.",
+  "Clip 2 (F6 hero): NEGATIVE 'garment reshaping' → 'garment changing cut'. The old term fights the waistband shrug the prompt asks for.",
+  "Clip 3 (S5 handbag): one primary action now (the bounce lands in the chest-puff while it speaks). I cut the separate hand-brush beat, which had three actions in a 1.7 s window. Added a lock that the pale-mint strip stays flat behind it, and 'wings' to the inline Avoid, since the strip already pokes out at both sides like wings in frame 0.",
+  "Clip 4 (S6 peel): 'Camera locked with a subtle micro-drift' → 'Camera locked.' (V2-c is a smooth animated-film camera, not handheld; this matches the V2-a verified set). Trimmed from 175 to under 170 words; the actions are unchanged.",
+  "Clip 5 (S7 drawer): 'Camera locked with a subtle micro-drift' → 'Camera locked.' This brings it from 174 to under 170 words.",
+  "Clip 6 (S8 stretch): 'slowly stretches' → 'in one smooth ~0.8 s stretch', so the stretch and the relax both land inside the 1.3 s window. Removed 'garment reshaping' from the inline Avoid and the NEGATIVE (→ 'torn fabric' / 'garment changing cut'), since the prompt asks for a waistband stretch, which is a reshape.",
+  "Clip 7 (F9 woman): pull-up brisker (~1.5 s → ~1.2 s), so the bare thigh/hip band in frame 0 is covered sooner. Added 'buttock focus' to the inline Avoid (Higgsfield has no negative field and the frame leans rear-3/4, same rule as the V1 verified set). The flag's 'fitted T-shirt' is now 'relaxed, hip-length tee', which is what the frame shows. Still Sound OFF with no voice text.",
+  "Clip 8 (F7 high angle): removed 'lets out a visible sigh'. With Sound ON Kling can voice a sigh, which would push 'Okay, fine.' past the 1.1 s window (the deflate 'whomp' is added in the edit). Added 'sigh sounds' / 'audible sigh' to the Avoid and NEGATIVE. Also 'its body squashes … slumped' → 'it squashes … small and sheepish', keeping the verbs moderation-safe.",
+  "Clip 9 (F4 ECU): Kling now does one continuous action (scrunch on 'bunch', then spring back and lurch toward frame-left on 'shift') with the camera locked. The whip-pan moves to CapCut (edit note + header). The old prompt asked for two gags plus a fast in-gen pan in 1.6 s, which is a smear risk on a face-filling ECU. NEGATIVE 'teeth' → 'big toothy grin', because frame 0 already shows a sliver of teeth and the old term fought it.",
+  "Clip 10 (F8 OTS): the 120–125% 'punch-in anchored right' fallback was wrong. Measured on the PNG, the black band reaches ~43% of the width at ~80% height (the mascot starts at ~44%), so that crop still shows most of it. Edit note, flags and ad_notes now say RE-ROLL REQUIRED. Prompt: 'trudges' → 'takes two small glum steps' (moderation-safe), the foreground is described neutrally, and the inline Avoid is now 'foreground sharpening into a person'.",
+  "Clip 11 (S14 bin): the end state now matches the character's anatomy. The mouth sits ~40% down the body, so 'only its upper third peeks above the rim' would hide the mouth mid-line; it's now 'eyes and mouth peeking just above the rim, hands gripping the rim'. The line starts as it lands, to fit the 1.6 s window. 'Camera locked with a subtle micro-drift' → 'Camera locked.' (171 → under 170 words). In the edit note, the tail-over is an L-cut (not a J-cut) and can't overlap clip 12's 'So…'.",
+  "Clip 13 (S17 washline): 'Camera locked with a subtle micro-drift' → 'Camera locked.' This brings it from 171 to under 170 words.",
+  "Clip 14 (F1 truce): the mascot's arm 'around the side' is now 'one arm reaching behind the underwear's side', which is what the frame shows. 'Then right away says the line', so the landing plus 'Two options.' fit the 1.0 s window. Dropped 'Both settle into calm stillness' (172 → under 170 words).",
+  "Clips 1 and 9: risk/flag text brought in line with the rewritten prompts (clip 9 no longer has an in-gen pan; clip 1 now turns to the lens instead of leaning, and no 'eager' expression change is prompted).",
+  "ad_notes: the 10_F8 re-roll is now marked REQUIRED (the punch-in fallback doesn't work). The AU 'trash'→'bin'/accent note now says to switch all three V2 ads together. The output path points at the verified file.",
+  "Checked and unchanged: every Sound-ON line is verbatim from the storyboard with the voice block verbatim and the partner silent; clip 7 is Sound OFF with no voice text; every K matches max(3, ceil(words/2.6+0.8)) (total 46 s); every ON-SCREEN D matches the storyboard t_out−t_in (clip 2 covers F6 + F6-punch); there's no on-screen text and no banned words; uncovered_storyboard_shots matches the storyboard's 6 shots that aren't generated (S2, F6-punch, S9, S16, S19, S20 corner clips)."
+ ]
+}
