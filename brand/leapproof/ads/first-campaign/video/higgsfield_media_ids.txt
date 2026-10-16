@@ -6,3 +6,9 @@ product-real=44506ee7-fca6-40ec-8514-f8adabd89e86
 liner-char-job=f2b037b8-47db-42c2-9a13-9af087946a6b
 undies-char-job=791ae56d-e134-47c6-bdf6-69af5e0a85c4
 avatar-leggings-job=a1e83422-ec33-4f5c-b327-81932140ea17
+# new Format2 (rewritten scripts) start scenes, nano_banana_pro 2k 9:16
+kit-dresser-job=b395d9b1-8640-4953-95ac-348a0dcc4807
+pack-in-bag-job=b583c815-c79b-458f-ba77-a97b2081581e
+ref-liner-char-media=212a2646-d9d6-4d0c-9038-754439a17e12
+ref-bedroom-media=e343a2af-e309-488a-bceb-c80aa1036e8a
+ref-tote-media=a2d02653-57b6-49d0-96ae-78440804d23d
