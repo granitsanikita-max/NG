@@ -2,7 +2,7 @@
 
 Built against: Notion **Copywriting Fundamentals** (④ fundamentals · ⑤/⑦ techniques), `fundamentals/04-pre-sales-page.md`, `BRAND_BIBLE.md` (§5 ICP · §6 emotions · §8 belief chain · §10 objections · §12 voice · §13 compliance), `AD_RESEARCH.md` (F1 side-by-side = the #1 proven format; A1 pads-are-the-wrong-tool = the #1 proven angle), the 155-snippet VOC bank, and Nikita's Joseph Sugarman *Vision Breakthrough* teardown.
 
-Job of this format in the ABO: cold TOF, broad US W28–50, **zero price / zero product-hero**. The image delivers ONE line; the caption does the advertorial belief-shift; the click goes to the **60-second quiz** ("Find Your Leak Match"). **No curiosity clicks** — she clicks already knowing it's a quiz that matches her and unlocks her gifts.
+Job of this format in the ABO: cold TOF, broad US W28–50, **zero price / zero product-hero**. The image delivers ONE line; the caption does the advertorial belief-shift; the click goes to the **quiz** ("Find Your Leak Match"). **No curiosity clicks** — she clicks already knowing it's a quiz that matches her and unlocks her gifts.
 
 ---
 
@@ -14,7 +14,7 @@ Job of this format in the ABO: cold TOF, broad US W28–50, **zero price / zero 
 | **Reader arrives** | Scrolling, not shopping. Guard up. ~1 in 3 is **burned/skeptical** (fell for Everdries / period undies / pads). |
 | **Awareness** | **Problem-aware, solution-skeptical.** She knows she leaks on a sneeze/jump. She does NOT believe leak-proof underwear is real. → Agitate the pain she feels now, then shift the belief by making her *current* product (the pad/liner) the problem. |
 | **Sophistication** | **Stage 4–5.** Market tired of leak-proof-underwear claims. Can't win on a plain claim. → Enter on a **new enemy frame** (the forever-pad racket) + **identity** (active, not old) + **honesty/proof** (the wear-test). |
-| **North Star belief** | "The pad was never a fix — it's a subscription to the problem. There's a different category — underwear made for the leak — and a free 60-second quiz tells me which set is mine." |
+| **North Star belief** | "The pad was never a fix — it's a subscription to the problem. There's a different category — underwear made for the leak — and a free quiz tells me which set is mine." |
 | **Target emotion** | **Anger at being lied to** (20 in the bank, the #1 emotion) → **relief**. Never shame. The enemy is the category/industry, never her, never a named brand. |
 
 **Necessary beliefs the caption installs, in order (Fundamentals ⑦):**
@@ -23,7 +23,7 @@ Job of this format in the ABO: cold TOF, broad US W28–50, **zero price / zero 
 3. There's a **real alternative**: underwear made for the leak, worn and washed like normal underwear.
 4. **This one's different / verifiable** — the keep-the-pairs wear-test, not another scam.
 5. It's **for ME** (active 30s–40s, not "old").
-6. The next step is a **quick, free, 60-second quiz** that matches me — and I know exactly what it is before I tap.
+6. The next step is a **quick, free quiz** that matches me — and I know exactly what it is before I tap.
 
 **Density rule (F#4 — standing rule for every script in this batch):** write only what's needed to (a) stop + identify, (b) shift the belief, (c) earn the committed tap. Every line moves a belief down the chain or moves her toward the quiz. If a line does neither, it's fluff — cut it. No throat-clearing, no restating, no second callback.
 
@@ -63,7 +63,7 @@ Reject if: the pair looks thin/shiny/seamless or has lace/logo/grey panels or no
 - **Headline (top, big):** `A pad every month. For the rest of your life.`
 - **Sub (under it, smaller):** `That's not a fix. That's their business model.`
 - **Tiny kicker labels in-scene (optional, hand-marker look):** over the pile → `every month, forever` · over the pair → `once`
-- **CTA chip (bottom, the one claret moment, small, clearly tappable):** `Take the 60-sec quiz →`
+- **CTA chip (bottom, the one claret moment, small, clearly tappable):** `Take the quiz →`
 
 ### Caption (primary text) — CHOSEN VERSION: full, with dead lines cut (F#4)
 ICP verdict: for a burned skeptic in a niche where long native wins, the full confessional converts better than the ultra-short — keep the specificity/proof beats, cut only throat-clearing and restatement.
@@ -81,7 +81,7 @@ ICP verdict: for a burned skeptic in a niche where long native wins, the full co
 >
 > Which set is right depends on your moment and your size — so there's a quick quiz instead of a guess.
 >
-> Tap it: 60 seconds, six questions, and it matches you to your set and unlocks your free gifts. You'll know exactly what you're getting before you spend a cent.
+> Tap it — it takes a couple of minutes, matches you to your set, and unlocks your free gifts. You'll know exactly what you're getting before you spend a cent.
 
 ---
 
@@ -102,7 +102,7 @@ Reject if: the row isn't a clear straight sequence, the 7th liner isn't visibly 
 - **Headline (top):** `A pad reminds you every day. Underwear lets you forget.`
 - **Sub (bottom band):** `Bunch, shift, bin — every day. Or wash, wear, done.`
 - **Tiny in-scene labels (optional):** over the row → `every single day` · over the pair → `once`
-- **CTA chip (bottom, claret):** `Take the 60-sec quiz →`
+- **CTA chip (bottom, claret):** `Take the quiz →`
 
 ### Caption (primary text) — CHOSEN VERSION: full, with dead lines cut (F#4)
 > Nobody warns you about the bunching.
@@ -119,7 +119,7 @@ Reject if: the row isn't a clear straight sequence, the 7th liner isn't visibly 
 >
 > Which set is right depends on your moment and your size — so there's a quick quiz instead of a guess.
 >
-> Tap it: 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting before you spend a cent.
+> Tap it — it takes a couple of minutes, matched to your set, free gifts unlocked. You'll know exactly what you're getting before you spend a cent.
 
 ---
 
@@ -150,14 +150,14 @@ Reject if: the row isn't a clear straight sequence, the 7th liner isn't visibly 
 - **Make their current product the problem** (Sunglass Danger) — the pad isn't just inferior, it's *designed* to keep her leaking. Her existing habit becomes the reason to act. ✓
 - **Name the flaw, then flip it** (the scam rep). ✓
 - **The dare / involvement** — "wear them, wash them, give them a real sneeze for 30 nights." She runs the experiment, like "compare them to your old sunglasses." ✓
-- **Specificity for credibility** (1978, 30 nights, 60 seconds, six questions). ✓
+- **Specificity for credibility** (1978, 30 nights, a couple of minutes). ✓
 - **Identity list / desire to belong** — the women who stopped renting the problem. ✓
 - **One clear action with direction** — the arrow CTA chip + the caption's single ask. ✓
 
-**No-curiosity-click check (the new bar):** the image names the quiz, the caption spells out exactly what's behind the tap (60s, 6 questions, matches you, unlocks gifts, know before you spend). Only someone who believes the premise taps — and she lands on a quiz she was promised, zero surprise. ✓
+**No-curiosity-click check (the new bar):** the image names the quiz, the caption spells out exactly what's behind the tap (a couple of minutes, matches you, unlocks gifts, know before you spend). Only someone who believes the premise taps — and she lands on a quiz she was promised, zero surprise. ✓
 
 ---
 
 ## 3. Two decisions for Nikita before we image
 - **Meta CTA button:** I'd set it to **"Learn More"** (honest match for a quiz LP) rather than the proven-but-mismatched **"Shop Now"** — "Shop Now" → a quiz is itself a small surprise, which is the thing we're killing. We can A/B "Shop Now" once we have a baseline. **Your call.**
-- **On-image CTA wording:** `Take the 60-sec quiz →` keeps the destination explicit on the image. If you'd rather protect the native "her photo" look, we drop it to the caption only and let the Meta button carry it. I lean toward keeping the tiny chip — the no-surprise goal beats a slightly purer native look. **Your call.**
+- **On-image CTA wording:** `Take the quiz →` keeps the destination explicit on the image. If you'd rather protect the native "her photo" look, we drop it to the caption only and let the Meta button carry it. I lean toward keeping the tiny chip — the no-surprise goal beats a slightly purer native look. **Your call.**

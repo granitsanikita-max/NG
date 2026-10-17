@@ -1,6 +1,6 @@
 # Static Batch 2 — Format 2: DOODLE (2a + 2b)
 
-Built against **both** Notion references pulled in full — **Copywriting Fundamentals** (④ 10 fundamentals · ⑤/⑦ techniques) AND **Ad Fundamentals** (② goal+target · ④ Tier-1 execution laws · ⑤ ad techniques · Format-as-first-argument) — plus `BRAND_BIBLE.md` §5/§6/§8/§10/§12/§13, `AD_RESEARCH.md`, the 155-snippet VOC bank, and the Sugarman *Vision Breakthrough* teardown. Cold TOF, broad US W28–50, zero price/offer. CTA → the 60-second quiz. **No curiosity clicks.**
+Built against **both** Notion references pulled in full — **Copywriting Fundamentals** (④ 10 fundamentals · ⑤/⑦ techniques) AND **Ad Fundamentals** (② goal+target · ④ Tier-1 execution laws · ⑤ ad techniques · Format-as-first-argument) — plus `BRAND_BIBLE.md` §5/§6/§8/§10/§12/§13, `AD_RESEARCH.md`, the 155-snippet VOC bank, and the Sugarman *Vision Breakthrough* teardown. Cold TOF, broad US W28–50, zero price/offer. CTA → the quiz. **No curiosity clicks.**
 
 ---
 
@@ -38,12 +38,12 @@ Open on the MOMENT. No "do you leak/you suffer" (first-person + general only, ne
 >
 > Which set is yours depends on your moment and your size — so there's a quick quiz instead of a guess.
 >
-> 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
+> It takes a couple of minutes, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
 >
 > I kept the run. Don't give yours up.
 
 ### On-image (handwritten text layer — NOT AI-rendered)
-Headline: `My PT told me to stop running. I cried. Then I said no.` · Sub: `You don't quit the sport. You fix the gear.` · CTA chip: `Take the 60-sec quiz →`
+Headline: `My PT told me to stop running. I cried. Then I said no.` · Sub: `You don't quit the sport. You fix the gear.` · CTA chip: `Take the quiz →`
 
 ---
 
@@ -66,12 +66,12 @@ Headline: `My PT told me to stop running. I cried. Then I said no.` · Sub: `You
 >
 > Which set is yours depends on your moment and your size — so there's a quick quiz instead of a guess.
 >
-> 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
+> It takes a couple of minutes, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
 >
 > The rope's not the problem. Pick it back up.
 
 ### On-image (handwritten text layer — NOT AI-rendered)
-Headline: `You didn't stop doing double-unders because they got hard.` · Sub: `Common. Not normal. And definitely not old.` · CTA chip: `Take the 60-sec quiz →`
+Headline: `You didn't stop doing double-unders because they got hard.` · Sub: `Common. Not normal. And definitely not old.` · CTA chip: `Take the quiz →`
 
 ---
 
@@ -79,7 +79,7 @@ Headline: `You didn't stop doing double-unders because they got hard.` · Sub: `
 *(This is the part I skipped before. Nothing is a label; each points at copy. "N/A" = consciously not used, with the reason.)*
 
 ### Copywriting Fundamentals ④ (the 10 — mandatory in every copy)
-1. **Argument > words** — the whole chain: told to quit → that's the wrong fix → you were handed a false choice → fix the gear, don't quit → here's the one you can verify → 60-sec match. Power words ride on top, never instead of it.
+1. **Argument > words** — the whole chain: told to quit → that's the wrong fix → you were handed a false choice → fix the gear, don't quit → here's the one you can verify → quick match. Power words ride on top, never instead of it.
 2. **Slippery slide / 3–6-word vacuum** — "I cried in my physical therapist's office." / "Nobody noticed when I stopped." Each line earns the next.
 3. **Clarity (5th–8th grade)** — one idea per line, short words.
 4. **Speed to value + density** — value signalled by line 3; every line moves a belief or the tap (no throat-clearing).
@@ -99,7 +99,7 @@ Headline: `You didn't stop doing double-unders because they got hard.` · Sub: `
 - **Human element** — the PT scene, the "water" dodge, the "I told everyone my knees" cover story.
 - **Silent problem** — "most women who hit this just quietly stop" (2a) / "plenty are doing the same quiet math, and nobody says a word" (2b).
 - **Let them reach the conclusion / communicates > says** — "I kept the run. Don't give yours up." / "The rope's not the problem. Pick it back up."
-- **Facts over opinions + specificity** — common/not normal; 30 nights; 60 seconds; six questions.
+- **Facts over opinions + specificity** — common/not normal; 30 nights; a couple of minutes.
 - **Sell the cure, not the prevention** — promises the fix for the pain she feels NOW (leaking mid-sport), not a someday risk.
 - **Necessary beliefs** — the 5 in the goal block, marched in order.
 - **Desire to belong / call-out** — the runner who refused / the woman who skipped the rope; "don't give yours up."
@@ -111,7 +111,7 @@ Headline: `You didn't stop doing double-unders because they got hard.` · Sub: `
 - **Positioning** — matches Stage 5 (identity, not a claim).
 - **Speed to value** — ~line 3.
 - **Clarity** — 5th–8th grade.
-- **Value lens (Hormozi) = (dream × likelihood) ÷ (time × effort)** — crush the denominator: lead with EASE — "Pull it on, forget it… Nothing to peel, nothing to pack," and the ask is a 60-second quiz (low time/effort). ← *added.*
+- **Value lens (Hormozi) = (dream × likelihood) ÷ (time × effort)** — crush the denominator: lead with EASE — "Pull it on, forget it… Nothing to peel, nothing to pack," and the ask is a quiz (low time/effort). ← *added.*
 - **Delivery/performance — N/A** (static, not video), except its "SHOW the contrast" → carried by the doodle.
 
 ### Ad ⑤ techniques
@@ -153,11 +153,11 @@ Headline: `You didn't stop doing double-unders because they got hard.` · Sub: `
 **Learning locked (applies to every future batch-2 image):** the angle must be EMBEDDED IN THE VISUAL, not just a pretty drawing. These bake in: (a) a matter-of-fact **wet patch** = "leaks while active," and (b) **hand-lettered headline + bubble** baked into the doodle (like the proven doodle refs). Pass the "stranger, sound off, 0.5s — do they get the angle?" test before accepting any image.
 - Baked in 2a: headline `THEY TOLD ME TO STOP RUNNING` + PT bubble `maybe ease off?`
 - Baked in 2b: headline `NOBODY KNEW WHY I STOPPED` + thought bubble `maybe not today`
-- Still added in editor: sub + CTA chip (2a sub `You don't quit the sport. You fix the gear.`; 2b sub `Common. Not normal. And definitely not old.`; both chip `Take the 60-sec quiz →`).
+- Still added in editor: sub + CTA chip (2a sub `You don't quit the sport. You fix the gear.`; 2b sub `Common. Not normal. And definitely not old.`; both chip `Take the quiz →`).
 - Open flags: 2a wet patch rendered a touch dark (can soften); wet-patch depiction carries a Meta-review + shame risk — keep subtle, fallback cue = a rejected pad/liner on the ground.
 
 ## Facebook fields
 - **Primary text:** the 2a / 2b captions above, verbatim.
 - CTA button: **Learn More** · URL: `https://leapproof.myfunnelish.com/quiz-2891028289-1791612140998314` (swap to try.leapproof.com when connected) · single image 4:5.
-- FB **Headline** field: `Find your match in 60 seconds` · FB **Description**: `60-second quiz · your set + free gifts · 30-night money-back test`
+- FB **Headline** field: `Find your match` · FB **Description**: `Quick quiz · matched to your set · free gifts · 30-night money-back test`
 - AI-disclosure: Meta "digitally created or altered" toggle, or last line `Made with AI.`

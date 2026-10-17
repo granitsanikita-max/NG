@@ -1,6 +1,6 @@
 # Static Batch 2 — Format 3: THEN / NOW DOODLE (3a + 3b)
 
-Built against **both** Notion refs (Copywriting Fundamentals ④/⑤/⑦ · Ad Fundamentals ②/④/⑤/Format-as-first-argument), `BRAND_BIBLE.md`, `AD_RESEARCH.md`, the 155-snippet VOC bank, and the Sugarman teardown. Cold TOF, broad US W28–50, zero price/offer. CTA → the 60-second quiz. **No curiosity clicks.** Angle embedded in the visual + baked text (locked rule).
+Built against **both** Notion refs (Copywriting Fundamentals ④/⑤/⑦ · Ad Fundamentals ②/④/⑤/Format-as-first-argument), `BRAND_BIBLE.md`, `AD_RESEARCH.md`, the 155-snippet VOC bank, and the Sugarman teardown. Cold TOF, broad US W28–50, zero price/offer. CTA → the quiz. **No curiosity clicks.** Angle embedded in the visual + baked text (locked rule).
 
 **Job of this format: BELIEF-SHIFT.** Break the belief "leaking after kids is normal / my fault / just my age — accept it." The deepest ICP wound here is **self-blame + gaslighting**: she was told "that's normal now," believed it, and quietly felt broken. We flip self-blame → righteous anger at a system → relief ("not my fault") → agency. Emotion: shame/resignation → anger → relief → defiance.
 
@@ -36,12 +36,12 @@ France 1985 decree = defensible (perineal re-education, ~10 paid sessions, sympt
 >
 > Which set is yours depends on your moment and your size — so there's a quick quiz instead of a guess.
 >
-> 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
+> It takes a couple of minutes, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
 >
 > You weren't broken. You were dropped. Time to catch yourself.
 
 ### On-image (THEN/NOW split doodle — concept for later)
-LEFT "FRANCE": a mum with a calendar of ✓ rehab sessions + a physio, standing tall. RIGHT "USA": a mum handed one pad + a "cleared ✓" stamp, a pile of pads behind her, deflated. Baked headline: `FRANCE REBUILDS NEW MOMS. AMERICA HANDS THEM A PAD.` Bottom (overlay): `You weren't broken. You were dropped.` Chip: `Take the 60-sec quiz →`. The France-care-vs-US-pad contrast IS the angle.
+LEFT "FRANCE": a mum with a calendar of ✓ rehab sessions + a physio, standing tall. RIGHT "USA": a mum handed one pad + a "cleared ✓" stamp, a pile of pads behind her, deflated. Baked headline: `FRANCE REBUILDS NEW MOMS. AMERICA HANDS THEM A PAD.` Bottom (overlay): `You weren't broken. You were dropped.` Chip: `Take the quiz →`. The France-care-vs-US-pad contrast IS the angle.
 
 ---
 
@@ -64,19 +64,19 @@ LEFT "FRANCE": a mum with a calendar of ✓ rehab sessions + a physio, standing 
 >
 > Which set is yours depends on your moment and your size — so there's a quick quiz instead of a guess.
 >
-> 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
+> It takes a couple of minutes, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
 >
 > Common? Yes. Normal? No. You get to decide which one you accept.
 
 ### On-image (THEN/NOW doodle — concept for later)
-THEN (left): woman in a postnatal class, others around, thought bubble `guess it's just normal`, a faint wet-patch cue. NOW (right): same woman mid-jump, clear-faced, free, no patch. Baked headline: `COMMON ≠ NORMAL`. Sub (overlay): `We do not have to pee ourselves.` Chip: `Take the 60-sec quiz →`. The resignation→freedom flip IS the angle.
+THEN (left): woman in a postnatal class, others around, thought bubble `guess it's just normal`, a faint wet-patch cue. NOW (right): same woman mid-jump, clear-faced, free, no patch. Baked headline: `COMMON ≠ NORMAL`. Sub (overlay): `We do not have to pee ourselves.` Chip: `Take the quiz →`. The resignation→freedom flip IS the angle.
 
 ---
 
 ## Embed map (every fundamental & technique → the line; NEW-for-this-format marked ★)
 **Copywriting ④:** Argument>words (self-blame → France fact → not-my-fault → gear you can verify → quiz) · vacuum hook ("In France, this would've been fixed. For free." / "For years I thought it was just normal.") · clarity · density · rhythm ("I wasn't broken. I was dropped.") · emotion (anger→relief) · human voice · objections (scam→wear-test; "it's normal"→common≠normal; "for me/old"→not age) · honesty (scam flaw flipped) · iceberg→**self-worth/worldview** (the system failed you; you're not defective).
 **Copywriting ⑤/⑦:** Belief change (core) · ★**Juxtaposition** (France vs America) · ★**Facts over opinions = authority** (1985, ~10 paid sessions, symptoms-or-not; nothing to argue) · ★**Specificity Rule** (1985, 8 months, six-week checkup, 40 years) · ★**"It's not your fault" reframe** ("You weren't broken. You were dropped.") · ★**"I was just like you — but worse"** ("For years I thought it was just normal") · ★**Harmony / Yes-ladder** ("…right? → Wrong.") · Silent-problem ("still being told that's just what happens" / "half the women in that room") · Let-them-conclude / Communicates>says (the closes) · Sell-the-cure-not-prevention (present pain) · Desire to belong/agency ("You get to decide which one you accept") · Power words (dropped, wrecks, broken).
-**Ad ④ (Tier-1):** Authority = facts-as-facts (France decree) ✓ · Positioning (Stage 5 identity) · Speed-to-value (line 1–3) · Clarity · ★Value lens/ease ("Pull it on, forget it… No pad, no routine"; 60-sec quiz) · Delivery N/A (static).
+**Ad ④ (Tier-1):** Authority = facts-as-facts (France decree) ✓ · Positioning (Stage 5 identity) · Speed-to-value (line 1–3) · Clarity · ★Value lens/ease ("Pull it on, forget it… No pad, no routine"; quiz) · Delivery N/A (static).
 **Ad ⑤:** Hook+Bridge (3a bridge = the 2am-forum proof detail; 3b bridge = "Wrong.") · Open-loop (why would France fix it / why's it not normal) paid off · UMP→UMS (**UMP** = you were told it's normal & handed a pad — the system dropped you; **UMS** = underwear made for this you verify on your own body 30 nights) · Silent-problem amplifier · ★Micro-commitments ("…right?" / "Cleared for what, exactly?" vibe) · Facts over opinions · Sell-cure-not-prevention.
 **Format = first argument:** THEN/NOW split doodle = native, found-not-made; claim-swap logged (borrow the comparison-doodle skeleton, insert the France/common-vs-normal frame); two layers (drawing no-text + baked hand-lettered headline + clean overlay sub/CTA); angle embedded in the visual contrast.
 **N/A (reason):** full UMP mechanism (CJ bans the cause claim) → kept frame-level; "Number is the hook" (not a listicle).
@@ -86,4 +86,4 @@ Enters at belief-block ✓ · positioning = Stage 5 ✓ · value in 5s ✓ · ho
 
 ## Facebook fields
 - Primary text = the 3a / 3b captions above. · Button **Learn More** · URL `https://leapproof.myfunnelish.com/quiz-2891028289-1791612140998314` · 4:5.
-- FB Headline `Find your match in 60 seconds` · FB Description `60-second quiz · your set + free gifts · 30-night money-back test` · AI-disclosure toggle or `Made with AI.`
+- FB Headline `Find your match` · FB Description `Quick quiz · matched to your set · free gifts · 30-night money-back test` · AI-disclosure toggle or `Made with AI.`

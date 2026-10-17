@@ -1,6 +1,6 @@
 # Static Batch 2 — Format 4: HANDWRITTEN NOTE (4a + 4b)
 
-Built against both Notion refs (Copywriting + Ad Fundamentals), `BRAND_BIBLE.md`, `AD_RESEARCH.md`, the 155-snippet VOC bank, Sugarman teardown. Cold TOF, broad US W28–50, zero price/offer. CTA → the 60-second quiz. **No curiosity clicks.** Angle embedded in the visual (the note IS the confession) + the caption extends it.
+Built against both Notion refs (Copywriting + Ad Fundamentals), `BRAND_BIBLE.md`, `AD_RESEARCH.md`, the 155-snippet VOC bank, Sugarman teardown. Cold TOF, broad US W28–50, zero price/offer. CTA → the quiz. **No curiosity clicks.** Angle embedded in the visual (the note IS the confession) + the caption extends it.
 
 **Job of this format: RAW MOMENT + POSTPARTUM CONFESSION.** The scroll-stopper is a real handwritten note — it reads as *found*, not made (max-native, the "Craft Object/confession" container). The deepest ICP lever: the **private thing she's never said out loud**. Seeing it written makes her feel *seen* (and that she's not alone/not gross). Emotion: private shame/dark-humor → communal relief → quiet anger at being left on her own → agency.
 
@@ -35,12 +35,12 @@ First-person confession only (no "do you leak"). "Peed a little," "sneeze" = all
 >
 > Which set is yours depends on your moment and your size — so there's a quick quiz instead of a guess.
 >
-> 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
+> It takes a couple of minutes, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
 >
 > Jump with your kids. Stop planning your life around it.
 
 ### On-image (concept for later)
-A real-looking handwritten note on the back of a receipt / scrap of paper on a kitchen bench or car console; trampoline or kids' socks softly blurred behind. The note text (above) is the baked handwriting = the angle. Overlay: small chip `Take the 60-sec quiz →` only.
+A real-looking handwritten note on the back of a receipt / scrap of paper on a kitchen bench or car console; trampoline or kids' socks softly blurred behind. The note text (above) is the baked handwriting = the angle. Overlay: small chip `Take the quiz →` only.
 
 ---
 
@@ -64,12 +64,12 @@ A real-looking handwritten note on the back of a receipt / scrap of paper on a k
 >
 > Which set is yours depends on your moment and your size — so there's a quick quiz instead of a guess.
 >
-> 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
+> It takes a couple of minutes, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
 >
 > You were cleared. You were never fixed. There's a difference.
 
 ### On-image (concept for later)
-Handwritten note on paper, paper-clipped to a hospital after-visit summary / discharge sheet on a nightstand or kitchen table. The note text (above) baked = the angle. Overlay: small chip `Take the 60-sec quiz →` only.
+Handwritten note on paper, paper-clipped to a hospital after-visit summary / discharge sheet on a nightstand or kitchen table. The note text (above) baked = the angle. Overlay: small chip `Take the quiz →` only.
 
 ---
 
@@ -86,4 +86,4 @@ Enters on the raw moment ✓ · Stage-5 identity positioning ✓ · value in ~5s
 
 ## Facebook fields
 - Primary text = the 4a / 4b captions above. · Button **Learn More** · URL `https://leapproof.myfunnelish.com/quiz-2891028289-1791612140998314` · 4:5.
-- FB Headline `Find your match in 60 seconds` · FB Description `60-second quiz · your set + free gifts · 30-night money-back test` · AI-disclosure toggle or `Made with AI.`
+- FB Headline `Find your match` · FB Description `Quick quiz · matched to your set · free gifts · 30-night money-back test` · AI-disclosure toggle or `Made with AI.`

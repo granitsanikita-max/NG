@@ -4,14 +4,14 @@
 - **CTA button:** Learn More
 - **Website URL:** `https://leapproof.myfunnelish.com/quiz-2891028289-1791612140998314` (swap to try.leapproof.com once connected)
 - **Format:** single image, 4:5
-- **FB Headline field:** `Find your match in 60 seconds`
-- **FB Description field:** `60-second quiz · your set + free gifts · 30-night money-back test`
+- **FB Headline field:** `Find your match`
+- **FB Description field:** `Quick quiz · matched to your set · free gifts · 30-night money-back test`
 - **AI disclosure:** flip Meta's "digitally created or altered" toggle, OR add a last line `Made with AI.`
 
 ---
 
 ## AD 1a — "The 40-year errand" (side-by-side: pile vs one pair)
-**On image:** headline `A pad every month. For the rest of your life.` · sub `That's not a fix. That's their business model.` · chip `Take the 60-sec quiz →`
+**On image:** headline `A pad every month. For the rest of your life.` · sub `That's not a fix. That's their business model.` · chip `Take the quiz →`
 
 **Primary text:**
 ```
@@ -29,7 +29,7 @@ And yeah, I know "leak-proof underwear" has a scam smell. I got burned too — I
 
 Which set is right depends on your moment and your size — so there's a quick quiz instead of a guess.
 
-Tap it: 60 seconds, six questions, and it matches you to your set and unlocks your free gifts. You'll know exactly what you're getting before you spend a cent.
+Tap it — it takes a couple of minutes, matches you to your set, and unlocks your free gifts. You'll know exactly what you're getting before you spend a cent.
 
 Stop running the 40-year errand.
 ```
@@ -37,7 +37,7 @@ Stop running the 40-year errand.
 ---
 
 ## AD 1b — "A pad's week vs one pair" (side-by-side: row → bin vs one pair)
-**On image:** headline `A pad reminds you every day. Underwear lets you forget.` · sub `Bunch, shift, bin — every day. Or wash, wear, done.` · chip `Take the 60-sec quiz →`
+**On image:** headline `A pad reminds you every day. Underwear lets you forget.` · sub `Bunch, shift, bin — every day. Or wash, wear, done.` · chip `Take the quiz →`
 
 **Primary text:**
 ```
@@ -55,7 +55,7 @@ And I'll be straight: "leak-proof underwear" sounds like every scam you've alrea
 
 Which set is right depends on your moment and your size — so there's a quick quiz instead of a guess.
 
-Tap it: 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting before you spend a cent.
+Tap it — it takes a couple of minutes, matched to your set, free gifts unlocked. You'll know exactly what you're getting before you spend a cent.
 
 A pad reminds you every day. Underwear lets you forget.
 ```
@@ -63,7 +63,7 @@ A pad reminds you every day. Underwear lets you forget.
 ---
 
 ## AD 2a — "I told her no" (doodle: runner leaving the "stop" advice)
-**On image:** baked already → headline `THEY TOLD ME TO STOP RUNNING` + bubble `maybe ease off?`. Add in editor → sub `You don't quit the sport. You fix the gear.` · chip `Take the 60-sec quiz →`
+**On image:** baked already → headline `THEY TOLD ME TO STOP RUNNING` + bubble `maybe ease off?`. Add in editor → sub `You don't quit the sport. You fix the gear.` · chip `Take the quiz →`
 
 **Primary text:**
 ```
@@ -83,7 +83,7 @@ And yeah, "leak-proof underwear" sounds like a scam — I'd been burned too. So 
 
 Which set is yours depends on your moment and your size — so there's a quick quiz instead of a guess.
 
-60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
+It takes a couple of minutes, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
 
 I kept the run. Don't give yours up.
 ```
@@ -91,7 +91,7 @@ I kept the run. Don't give yours up.
 ---
 
 ## AD 2b — "The skip nobody sees" (doodle: silent shrinking)
-**On image:** baked already → headline `NOBODY KNEW WHY I STOPPED` + thought bubble `maybe not today`. Add in editor → sub `Common. Not normal. And definitely not old.` · chip `Take the 60-sec quiz →`
+**On image:** baked already → headline `NOBODY KNEW WHY I STOPPED` + thought bubble `maybe not today`. Add in editor → sub `Common. Not normal. And definitely not old.` · chip `Take the quiz →`
 
 **Primary text:**
 ```
@@ -111,7 +111,7 @@ And look — "leak-proof underwear" sounds like every scam you've scrolled past.
 
 Which set is yours depends on your moment and your size — so there's a quick quiz instead of a guess.
 
-60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
+It takes a couple of minutes, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
 
 The rope's not the problem. Pick it back up.
 ```
