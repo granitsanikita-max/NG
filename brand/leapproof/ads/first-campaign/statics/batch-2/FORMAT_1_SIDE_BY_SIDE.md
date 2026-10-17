@@ -25,6 +25,8 @@ Job of this format in the ABO: cold TOF, broad US W28–50, **zero price / zero 
 5. It's **for ME** (active 30s–40s, not "old").
 6. The next step is a **quick, free, 60-second quiz** that matches me — and I know exactly what it is before I tap.
 
+**Density rule (F#4 — standing rule for every script in this batch):** write only what's needed to (a) stop + identify, (b) shift the belief, (c) earn the committed tap. Every line moves a belief down the chain or moves her toward the quiz. If a line does neither, it's fluff — cut it. No throat-clearing, no restating, no second callback.
+
 **Techniques pulled (⑤/⑦):** Curiosity & contrast (juxtaposition, *paid off* not left open) · Sell the concept not the product · Make their current product the problem (Sugarman "Sunglass Danger") · Fear / loss aversion (present + concrete, paired with relief) · Facts over opinions + Specificity (1978; one a day; the bin every night) · Let them reach the conclusion · Human element (first-person confession byline, dry-funny) · Honesty (raise the scam flaw first, then flip it) · Anticipate & resolve objections (scam → wear-test; for-me → active) · Communicates > says (the in-image line) · Yes-ladder / logical flow · Desire to belong · **No fake urgency** (the only "act now" is the free quiz).
 
 ---
@@ -59,30 +61,20 @@ Reject if: any wrapper shows print/brand/stain, the pair has lace/elastic trim/l
 - **Tiny kicker labels in-scene (optional, hand-marker look):** over the pile → `every month, forever` · over the pair → `once`
 - **CTA chip (bottom, the one claret moment, small, clearly tappable):** `Take the 60-sec quiz →`
 
-### Caption (primary text)
-> I did the math.
+### Caption (primary text) — tightened for density (F#4: every line moves a belief or the tap, nothing else)
+> I did the math on my panty liners.
 >
-> On my panty liners. It wasn't pretty.
+> One a day, every day, for four years — just in case I sneezed, jumped, or laughed too hard at my kid.
 >
-> For about four years, the first thing I packed every morning was a liner. Gym bag. Work bag. Glovebox. Just in case I sneezed, or did double-unders, or laughed too hard at my kid.
+> Then it clicked: whoever makes these doesn't *want* the leak to stop. A leak that stops is a customer who stops. The first adult pad shipped in 1978, and their only idea since is "wear another one tomorrow." That's not a fix. It's a subscription.
 >
-> One a day. Every day. For four years.
+> But leaking on a sneeze is common — not normal, and not a life sentence after kids. It's plumbing, not age.
 >
-> Then it clicked: whoever makes these doesn't *want* the leak to stop. A leak that stops is a customer who stops buying. The first adult pad hit shelves in 1978 — and almost fifty years later, their one big idea is still "here, wear another one tomorrow."
+> So I stopped. I wear plain black underwear made for the leak now — wash it, wear it again, nothing in the bin. I forget it's even there.
 >
-> That's not a fix. That's a subscription. And I was the one re-ordering it.
+> And yeah, "leak-proof underwear" sounds like a scam — I got burned too. So wear them, wash them, give them a real sneeze for 30 nights; if they don't hold, full refund and keep the pairs.
 >
-> Here's the part nobody in that aisle says out loud: leaking on a sneeze or a jump is common — it is NOT normal, and it is NOT a life sentence after kids. It's a plumbing thing, not a "you're old now" thing.
->
-> So I stopped buying the errand. I wear actual underwear made for the leak now — plain black, wash it, wear it again, done. No liner to peel. Nothing in the bin every night. I honestly forget it's doing a job.
->
-> And yeah — I know "leak-proof underwear" has a scam smell. I got burned too; I've had a pair soak through in an hour. So the only ones worth anyone's time are the ones you can actually put to the test: wear them, wash them, give them a real sneeze for 30 nights, and if they don't hold, send them back for every dollar — and keep the pairs anyway.
->
-> I'm not going to guess which set fits. Every leak is different.
->
-> So here's the only ask: tap the quiz. 60 seconds, six questions about your moment and your size. It matches you to your set and unlocks your free gifts. No 20-minute read, no guessing — you'll know exactly what you're getting before you spend a cent.
->
-> Stop running the 40-year errand.
+> Tap the quiz: 60 seconds, six questions, and it matches you to your set and unlocks your free gifts. You'll know exactly what you're getting first.
 
 ---
 
@@ -101,26 +93,20 @@ Reject if: wrappers show print/brand/stain, the row doesn't read as a sequence e
 - **Tiny in-scene labels (optional):** over the row → `every single day` · over the pair → `once`
 - **CTA chip (bottom, claret):** `Take the 60-sec quiz →`
 
-### Caption (primary text)
+### Caption (primary text) — tightened for density (F#4)
 > Nobody warns you about the bunching.
 >
-> A panty liner doesn't just sit there. It bunches. It shifts. By lunchtime it's folded sideways and you're doing the little walk to the bathroom to fix it. On a hard day it feels like a diaper — and I'm 36, not 86.
+> A liner doesn't just sit there. It bunches, it shifts, and by lunch you're doing the little walk to the bathroom to fix it. On a bad day it feels like a diaper — and I'm 36, not 86.
 >
-> Then at night it goes in the bin. Tomorrow you peel open a fresh one and start the whole thing over.
+> Then it goes in the bin, and tomorrow you start over. That's what got me — not one bad day, the *repeat*. A liner's only job is to remind you, every single day, that you're managing a problem instead of fixing it.
 >
-> That's the part that got me. Not one bad day — the *repeat*. A liner's only real job is to remind you, every single day, that you're managing a problem instead of fixing it. Bunch. Shift. Bin. Repeat.
+> But leaking on a sneeze is common after kids — not normal, and not the rest of your life. There's gear built for it.
 >
-> Here's what I didn't know: leaking on a sneeze or a jump is common after kids — but it is NOT normal, and it is NOT the rest of your life. It's a plumbing thing. There's gear built for it.
+> I wear plain black underwear made for the leak now. Pull it on, forget it. No peeling, no folding, nothing in the bin — wash, hang, wear again.
 >
-> I wear plain black underwear made for the leak now. I pull it on in the morning and don't think about it again. No peeling, no folding, no little walk to the bathroom, nothing in the bin. Wash it, hang it, wear it again. I forget it's even doing a job.
+> And "leak-proof underwear" sounds like every scam you've fallen for — I fell for two. So wear them, wash them, give them a real sneeze for 30 nights; if they don't hold, full refund and keep the pairs.
 >
-> I'll be straight with you — "leak-proof underwear" sounds like every scam you've already fallen for. I fell for a couple. So the only ones worth trying are the ones you can put to the test: wear them, wash them, give them a real sneeze for 30 nights, and if they don't hold, send them back for a full refund — and keep the pairs.
->
-> Which set is right depends on the moment and the body. Mine won't be the same as the next woman's.
->
-> So tap the quiz. 60 seconds, six questions, and it matches you to your set and unlocks your free gifts. You'll know exactly what you're getting before you spend a cent.
->
-> A pad reminds you every day. Underwear lets you forget.
+> Tap the quiz: 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
 
 ---
 
