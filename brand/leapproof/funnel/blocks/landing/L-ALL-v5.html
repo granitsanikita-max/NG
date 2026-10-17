@@ -1,94 +1,59 @@
-<!-- Leapproof landing v5 · ONE block · paste into a SINGLE Custom HTML element anywhere on the landing page.
-     Does everything: (1) swaps the hero headline to the all-angle line, (2) adds an always-on mobile sticky CTA
-     (and hides the old one), (3) hides the 3 fake reviews and drops in honest "straight answer" cards where they were,
-     (4) adds the "plain black briefs. On purpose." product section. Self-contained; finds its own spots.
-     If any stray bit of a fake review still shows, delete that element in the builder — the honest cards are already in. -->
+<!-- Leapproof landing v5.1 · ENGINE block · paste into a SINGLE Custom HTML element anywhere on the page.
+     (1) swaps the hero headline to the all-angle line, (2) always-on mobile sticky CTA (hides the old one),
+     (3) hides the fake review carousel (el-440165) and drops our 3 real reviews, TEXT ONLY, in that exact spot.
+     The "plain black briefs" product section is a SEPARATE block (L8) you place below the hero yourself. -->
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;1,9..144,600&family=Hanken+Grotesk:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;600;700&display=swap');
 #lp5bar{position:fixed;left:0;right:0;bottom:0;z-index:99999;background:#F5EDE6;border-top:1px solid #E7CFC9;padding:10px 14px calc(10px + env(safe-area-inset-bottom));display:none;align-items:center;gap:12px;font-family:'Hanken Grotesk',Arial,sans-serif;box-shadow:0 -6px 18px rgba(35,16,23,.08)}
 #lp5bar span{font-size:14px;color:rgba(35,16,23,.75);white-space:nowrap}
 #lp5bar a{flex:1;text-align:center;background:#A33154;color:#fff;text-decoration:none;font-weight:700;font-size:17px;padding:14px 16px;min-height:48px;border-radius:0}
 @media (min-width:821px){#lp5bar{display:none!important}}
 .el-949049 .paragraph-inner p{margin:0 0 2px!important}
-.lp5 *{box-sizing:border-box;margin:0;padding:0}
-.lp5sa{background:#F5EDE6;color:#231017;font-family:'Hanken Grotesk',Arial,sans-serif;padding:40px 16px}
-.lp5sa .w{max-width:620px;margin:0 auto}
-.lp5sa .lab{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#872845;margin:0 0 16px;text-align:center}
-.lp5sa .card{background:#fff;border:1px solid #E7CFC9;border-radius:14px;padding:20px;margin:0 0 14px}
-.lp5sa .q{font-family:'Fraunces',Georgia,serif;font-weight:500;font-size:20px;line-height:1.25;margin:0 0 8px}
-.lp5sa .a{font-size:16px;line-height:1.5;color:rgba(35,16,23,.9)}
-.lp5sa .by{font-size:12px;color:rgba(35,16,23,.6);margin-top:10px}
-.lp5 .btn{display:block;text-align:center;background:#A33154;color:#fff;text-decoration:none;font-weight:700;font-size:18px;padding:16px;min-height:52px;border-radius:0;margin:20px auto 0;max-width:420px}
-.lp5sa .micro{font-size:14px;color:rgba(35,16,23,.7);text-align:center;margin-top:10px}
-.lp5pb{background:#F1E6DA;color:#231017;font-family:'Hanken Grotesk',Arial,sans-serif;padding:44px 16px;text-align:center}
-.lp5pb .w{max-width:680px;margin:0 auto}
-.lp5pb h2{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:26px;line-height:1.2;margin:0 0 20px}
-.lp5pb .g{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:0 0 16px}
-.lp5pb figure{margin:0}
-.lp5pb img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:12px;display:block;background:#E7CFC9}
-.lp5pb figcaption{font-size:13px;color:rgba(35,16,23,.7);margin-top:7px}
-.lp5pb p.line{font-size:17px;line-height:1.5;color:rgba(35,16,23,.92);max-width:520px;margin:0 auto}
-@media (max-width:480px){.lp5pb h2{font-size:23px}}
+#lp5-reviews{font-family:'Hanken Grotesk',Arial,sans-serif;max-width:640px;margin:14px auto 0}
+#lp5-reviews .rv{background:#fff;border:1px solid #E7CFC9;border-radius:14px;padding:16px 18px;margin:0 0 12px;text-align:left}
+#lp5-reviews .st{color:#D6A93B;font-size:14px;letter-spacing:2px;margin:0 0 8px}
+#lp5-reviews .rv p{font-size:15px;line-height:1.5;color:#231017;margin:0 0 9px}
+#lp5-reviews .cite{font-size:12.5px;color:rgba(35,16,23,.6)}
 </style>
 <div id="lp5bar"><span>About 2 min &middot; no email</span><a href="/quiz-2891028289-1791612140998314">Find my match &rsaquo;</a></div>
 <script>
 (function(){
-  var QUIZ='/quiz-2891028289-1791612140998314';
-  var SEL='img[src*="SAMPLE-review"],img[data-src*="SAMPLE-review"],source[srcset*="SAMPLE-review"],source[data-srcset*="SAMPLE-review"]';
-  var injected=false, tries=0;
-
   function headline(){
     var b=document.querySelector('.el-949049 .paragraph-inner');
     if(b && b.getAttribute('data-lp')!=='1'){ b.innerHTML='<p>Go ahead and sneeze.<p>No pad. No crossing your legs first.'; b.setAttribute('data-lp','1'); }
   }
   function oldbar(){ var o=document.getElementById('lp-sticky'); if(o) o.style.display='none'; }
 
-  function fakeAncestor(){
-    var imgs=[].slice.call(document.querySelectorAll(SEL));
-    if(!imgs.length) return null;
-    var a=imgs[0];
-    for(var i=1;i<imgs.length;i++){ var b=imgs[i]; while(a && !a.contains(b)) a=a.parentElement; }
-    // guards: never the body, never something holding the hero headline or a tiny/huge node
-    if(!a || a===document.body || !a.parentElement) return null;
-    if(a.querySelector('.el-949049')) return null;
-    var len=(a.textContent||'').replace(/\s+/g,' ').trim().length;
-    if(len>2200) return null;            // too big -> would hide unrelated content
-    return a;
-  }
-
-  function sectionsHTML(){
+  function rvHTML(){
+    var s='<p class="st">&#9733;&#9733;&#9733;&#9733;&#9733;</p>';
     return ''
-      +'<section class="lp5 lp5sa"><div class="w"><p class="lab">Straight answers &mdash; not reviews</p>'
-      +'<div class="card"><p class="q">&ldquo;Isn&rsquo;t this for older women?&rdquo;</p><p class="a">No. Leaking on a sneeze, a laugh or the trampoline is common in your 30s and 40s &mdash; after a baby, back at the gym, chasing kids. If you still jump, this is for you.</p><p class="by">A note from the Leapproof team.</p></div>'
-      +'<div class="card"><p class="q">&ldquo;Why trust a brand I&rsquo;ve never heard of?&rdquo;</p><p class="a">You don&rsquo;t have to. No midnight sale, no made-up experts. Just a test you run yourself: wear them through your sneeze, run or jump for 30 nights. If they don&rsquo;t hold, you get your money back and you keep the pairs.</p><p class="by">A note from the Leapproof team.</p></div>'
-      +'<div class="card"><p class="q">&ldquo;What if they leak anyway?&rdquo;</p><p class="a">Then you&rsquo;re covered. The quiz finds your size for this exact pair. You wear them through your moment for 30 nights &mdash; and if they don&rsquo;t hold, money back, no sending anything back.</p><p class="by">A note from the Leapproof team.</p></div>'
-      +'<a class="btn" id="lp5-cta" href="'+QUIZ+'">Find my match &rsaquo;</a><p class="micro">About 2 min &middot; no email needed to see your match</p></div></section>'
-      +'<section class="lp5 lp5pb"><div class="w"><h2>They look like plain black briefs. On purpose.</h2>'
-      +'<div class="g"><figure><img src="https://cdn.shopify.com/s/files/1/1026/8593/3939/files/lp-leggings-A.jpg?width=700" alt="The black Leapproof Brief under leggings, smooth with no lines" loading="lazy"><figcaption>Under leggings &mdash; no line, no bulge.</figcaption></figure>'
-      +'<figure><img src="https://cdn.shopify.com/s/files/1/1026/8593/3939/files/lp-back-B.jpg?width=700" alt="Back view of the black Leapproof Brief" loading="lazy"><figcaption>Full coverage, wide soft waistband.</figcaption></figure></div>'
-      +'<p class="line">Soft black briefs with a leak-resistant lining built in. No pad to bunch, nothing to show, nothing to throw away.</p></div></section>';
+    +'<div class="rv">'+s+'<p>"Honestly almost didn’t order — I had it in my head this was more of an older-woman thing and I’m 36. But I’d just done the sneeze-at-the-worst-moment thing at school pickup, again, so I figured why not. They turned up and they’re just… plain black undies, which I wasn’t expecting. Ended up actually getting on the trampoline at my daughter’s party instead of being the mum holding everyone’s shoes. Small thing but it got me."</p><p class="cite">&mdash; Danielle R. &middot; 36 &middot; Size M &middot; Received a free set to test</p></div>'
+    +'<div class="rv">'+s+'<p>"I’ve bought two different ‘leak-proof’ ones off Instagram before and both were a letdown, so I went in expecting nothing. Only reason I even tried is you can send them back and still keep them if they’re no good, so worst case I’m out nothing. Few weeks in now and I’ve stopped chucking a backup pair in my gym bag — didn’t even notice I’d stopped until my husband asked where they’d gone."</p><p class="cite">&mdash; Sarah W. &middot; 41 &middot; Size L &middot; Received a free set to test</p></div>'
+    +'<div class="rv">'+s+'<p>"Will admit I rolled my eyes at having to do a quiz, figured it was the usual hand-over-your-email thing. It wasn’t — two minutes and it never asked for one. It put me in a size a bit bigger than I’d have grabbed myself and I nearly changed it. Glad I didn’t. They stay put, didn’t have to think about them once on my Saturday run. No idea how a few questions got it more right than I would’ve, but it did."</p><p class="cite">&mdash; Melissa K. &middot; 38 &middot; Size XL &middot; Received a free set to test</p></div>';
   }
-
-  function sections(){
-    if(injected) return;
-    tries++;
-    var box=document.createElement('div'); box.id='lp5-sections'; box.className='lp5'; box.innerHTML=sectionsHTML();
-    var anchor=fakeAncestor();
-    if(anchor){ anchor.parentElement.insertBefore(box,anchor); anchor.style.display='none'; injected=true; }
-    else if(tries>12){
-      var ref=document.getElementById('lp-strip-cta')||document.getElementById('lp-foot-cta');
-      var host=ref ? (ref.closest('.element-wrapper')||ref.parentElement) : document.body;
-      (host.parentElement||document.body).insertBefore(box, host);
-      injected=true;
-    }
+  function hideFakes(){
+    var c=document.querySelector('.el-440165');
+    if(c){ return c.closest('.element-wrapper')||c; }
+    var img=document.querySelector('img[src*="SAMPLE-review"],img[data-src*="SAMPLE-review"],source[srcset*="SAMPLE-review"],source[data-srcset*="SAMPLE-review"]');
+    if(img){ return img.closest('.carousel-wrapper')||img.closest('.element-wrapper'); }
+    return null;
+  }
+  function reviews(){
+    if(document.getElementById('lp5-reviews')) return true;
+    var w=hideFakes();
+    if(!w || !w.parentNode) return false;
+    var box=document.createElement('div'); box.id='lp5-reviews'; box.innerHTML=rvHTML();
+    w.parentNode.insertBefore(box, w);
+    w.style.display='none';
+    return true;
   }
 
   function onScreen(id){ var e=document.getElementById(id); if(!e) return false; var r=e.getBoundingClientRect(); return r.top<innerHeight && r.bottom>0; }
   function stick(){ var b=document.getElementById('lp5bar'); if(!b) return;
-    b.style.display=(innerWidth<=820 && !onScreen('lp-strip-cta') && !onScreen('lp-foot-cta') && !onScreen('lp5-cta')) ? 'flex':'none'; }
+    b.style.display=(innerWidth<=820 && !onScreen('lp-strip-cta') && !onScreen('lp-foot-cta')) ? 'flex':'none'; }
 
-  function run(){ headline(); oldbar(); sections(); stick(); }
-  var n=0;(function loop(){ run(); if(++n<25) setTimeout(loop,350); })();
+  function run(){ headline(); oldbar(); reviews(); stick(); }
+  var n=0;(function loop(){ run(); if(++n<30) setTimeout(loop,350); })();
   addEventListener('scroll',stick,{passive:true}); addEventListener('resize',stick);
 })();
 </script>

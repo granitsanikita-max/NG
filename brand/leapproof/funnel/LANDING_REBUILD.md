@@ -39,8 +39,12 @@ moments/proof, before the final CTA). Section: **"They look like plain black bri
 `lp-leggings-A.jpg` (under leggings) + `lp-back-B.jpg` (back view). This is where "show the product on a person" belongs:
 reassuring a scroller, not burying the hero CTA. (Your current hero carousel's slides 2 & 3 move down here.)
 
-### 5. New single hero image — the catalog→moment fix (BUILDER + IMAGE, pending)
-Replace the 4-women group carousel with ONE moment shot (spec below). Until it's generated:
+### 5. New single hero image — the catalog→moment fix (DONE — upload in builder)
+**Generated 2026-10-17:** `assets/landing/hero/lp-hero-laugh-inset.png` (recommended — laughing woman + real product
+inset) and `lp-hero-laugh-v1.png` (clean, no inset). Product locked to the real reference
+(`ads/first-campaign/statics/refs/product-ref-leapproof-pair.png`), so the product is consistent. Note: showing the
+brief *worn* was auto-blocked as NSFW by the generator (expected — IMAGE_PLAN says the landing hero is the fully-dressed
+moment, product shown via the inset + below-fold section). Upload the inset version as the hero image in the builder, then:
 - Remove the **L5 hero carousel** block (it makes the hero 125vw tall on mobile — a big reason the CTA is below the fold).
 - In the builder, set the hero image to a single shorter crop so eyebrow → H1 (2 lines) → button sit higher.
 - Swap in the new image when ready.
