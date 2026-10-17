@@ -743,6 +743,17 @@ var ftn=0; (function footers(){
   [].forEach.call(document.querySelectorAll('.pl-item .top-tag'),function(t){ var v=(t.textContent||'').trim().toUpperCase(); if(v==='OUR PICK') t.classList.add('lpk-tag-pick'); else if(v==='JUST TRYING') t.classList.add('lpk-tag-try'); });
   if(++ftn<30) setTimeout(footers,500);
 })();
+/* the checkout lists "Free Shipping" twice (a $0 shipping product + the shipping method). Keep one, hide the rest. */
+var shd=0; (function dedupeShipping(){
+  var seen=false;
+  [].forEach.call(document.querySelectorAll('body *'),function(el){
+    if(own(el) || el.children.length) return;                                  /* leaf text nodes only */
+    if((el.textContent||'').trim().toLowerCase()!=='free shipping') return;
+    if(seen){ var w=el.closest('.os-item')||el.closest('.element-wrapper')||el.parentElement; if(w) hide(w); }
+    else seen=true;
+  });
+  if(++shd<30) setTimeout(dedupeShipping,500);
+})();
 /* default the country to United States (retries until Funnelish has filled the list; never overrides her choice) */
 var ctry=0; (function us(){
   var c=document.querySelector('select[name="shipping_country"]'), done=false;
