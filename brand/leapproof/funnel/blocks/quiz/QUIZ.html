@@ -120,23 +120,17 @@ var Q = [
  {id:'q4',ch:1,t:'How much leaks out?',s:'Be honest. It tells us if these will suit you.',o:[
    ['1','A few drops'],['2','A small splash'],['3','More than a pad can hold'],['4','A lot']]},
  {card:'heavy',when:function(A){return A.q4==='4'}},
- {id:'q5',ch:1,multi:1,t:'Where does it happen?',s:'Pick all that apply.',o:[
-   ['s','At the shops'],['g','At the gym or on a run'],['k','With the kids'],['f','Out with friends'],['w','At work'],['n','At night'],['o','Somewhere else']]},
- {card:'play'},
- {id:'q6',ch:1,t:'Have you bought things that promised to fix this?',s:'Pick one.',o:[
-   ['0','No, this is my first time'],['1','Once or twice'],['2','Lots of times'],['3','Yes, and I’ve given up']]},
  {id:'q7',ch:1,t:'What worries you most about leak-proof undies?',s:'We’ll answer it straight on your results.',o:[
    ['n','They’ll feel like a diaper'],['b','They’ll show under leggings'],['l','They’ll leak anyway'],['f','They won’t fit right'],['m','I thought leaking was just normal'],['c','They cost too much'],['o','Something else']]},
  {id:'q8',ch:1,multi:1,t:'What have you skipped because of it?',s:'Pick all that apply.',o:[
    ['c','A class or a run'],['t','The trampoline with the kids'],['p','Light-colored pants'],['l','A big laugh'],['d','A long day out'],['o','Something else'],['n','Nothing yet',1]]},
+ {card:'close'},
  {id:'q9',ch:2,t:'When would you wear them?',s:'Pick one.',o:[
    ['e','Every day'],['t','On training days'],['n','At night'],['m','A mix']]},
  {id:'q10',ch:2,t:'What’s your hip size?',s:'Measure around the widest part of your hips. Between two sizes? Pick the smaller one.',o:[
    ['S','S','Hips up to 36″ (91 cm) · US 0–2'],['M','M','Hips 36–38″ (91–96 cm) · US 4–6'],['L','L','Hips 38–40″ (96–101 cm) · US 8–10'],['XL','XL','Hips 40–44″ (101–111 cm) · US 12–14'],['XXL','XXL','Hips 44–47″ (111–120 cm) · US 16'],['3XL','3XL','Hips 47–51″ (120–129 cm) · US 18'],['4XL','4XL','Hips 51–54″ (129–138 cm) · US 20'],['O','Over 54″ (138 cm)']]},
  {card:'nosize',when:function(A){return A.q10==='O'}},
  {card:'fit'},
- {id:'q11',ch:2,t:'What matters most?',s:'Pick one.',o:[
-   ['h','That they hold'],['n','That they feel normal'],['s','That they don’t move'],['w','That they last']]},
  {id:'q12',ch:2,t:'How often do you do washing?',s:'Pick one.',o:[
    ['f','Every few days'],['w','Once a week'],['r','Less than that']]},
  {id:'q13',ch:2,t:'What would you do first if you stopped worrying?',s:'Last one.',o:[
@@ -171,7 +165,8 @@ function intro(){
    '<p class="sub">A few quick questions about your moments. Then you’ll see your size, how many pairs you need, and your free gifts.</p>'+
    '<button class="btn" type="button" onclick="lpqNext()">Start my match</button>'+
    '<p class="micro">About 2 minutes · No email needed to see your match</p>'+
-   '<p class="micro" style="font-size:12.5px">This isn’t a medical assessment. It matches you to underwear.</p></div>';
+   '<p class="micro" style="font-size:12.5px">This isn’t a medical assessment. It matches you to underwear.</p>'+
+   '<button class="retake" type="button" onclick="lpqSkip()" style="margin-top:20px;font-weight:600;color:#A33154">I already know what I want — skip to the sets ›</button></div>';
 }
 
 function cardHTML(kind){
@@ -209,10 +204,11 @@ function cardHTML(kind){
   if(kind==='heavy'){
     return '<div class="card light"><h2>Thanks for being straight with us.</h2><p>These are made for lighter leaks. For what you’ve described, they may not be enough on their own, and a doctor or pelvic floor physical therapist is worth a chat.</p><p>You can still see your match.</p></div><button class="btn" type="button" onclick="lpqNext()">See my match anyway</button>';
   }
-  if(kind==='play'){
-    var n = (A.q5||[]).length;
-    var lead = n>1 ? 'That’s '+n+' places you’ve been bracing for it.' : 'That’s a place you’ve been bracing for it.';
-    return '<div class="card"><h2>'+lead+'</h2><p>These moments come with no warning. Whatever you wear has to already be on when they hit.</p><p class="big">So let’s make sure it’s the right pair.</p></div><button class="btn" type="button" onclick="lpqNext()">That’s me</button>';
+  if(kind==='close'){
+    return '<div class="card"><span class="eb">Why this isn’t like the others</span><h2>You test them. You don’t trust them.</h2>'+
+      '<p>You’ve already tried things that promised to work. So we’re not going to ask you to believe us. Wear them through your real moments for 30 nights — the sneeze, the laugh, the jump. If they don’t hold, you keep the pairs and get your money back.</p>'+
+      '<p class="big">The only proof that counts is your own.</p></div>'+
+      '<button class="btn" type="button" onclick="lpqNext()">See what matches me</button>';
   }
   if(kind==='nosize'){
     return '<div class="card light"><h2>We’d rather tell you now.</h2><p>This pair only goes up to 4XL (hips 54″ / 138 cm, about a US 20). We won’t send you a pair that doesn’t fit.</p></div><button class="btn ghost" type="button" onclick="lpqBack()">Change my size</button>';
@@ -285,6 +281,12 @@ function profile(){
   try{document.getElementById('lpq').scrollIntoView({behavior:'smooth'})}catch(e){}
 }
 window.lpqGo=function(){ go(); };
+window.lpqSkip=function(){
+  var u; try{ u=new URL(NEXT_URL, location.href); }catch(e){ location.href=NEXT_URL; return; }
+  var src=new URLSearchParams(location.search);
+  ['a','mk'].forEach(function(k){ if(src.get(k)) u.searchParams.set(k, src.get(k)); });
+  location.href=u.toString();
+};
 window.lpqRetake=function(){ A={}; hist=[]; i=-1; save(); render(); };
 function go(){
   var r = Q.filter(function(x){return x.id}).map(function(x){var v=A[x.id]; return Array.isArray(v)?v.join(''):(v||'-')}).join('.');
@@ -293,7 +295,6 @@ function go(){
   u.searchParams.set('set', String(setsize()));
   u.searchParams.set('p', persona());
   u.searchParams.set('o', A.q7||'');
-  u.searchParams.set('k', A.q11||'');
   u.searchParams.set('w', A.q13||'');
   u.searchParams.set('r', r);
   var src = new URLSearchParams(location.search);
