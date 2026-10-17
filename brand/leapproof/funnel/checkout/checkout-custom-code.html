@@ -1,0 +1,853 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;500;600;700&display=swap');
+
+    #ck1 {
+        font-family: 'Hanken Grotesk', Arial, sans-serif;
+        background: #fff;
+        border-bottom: 1px solid #E4D6D0
+    }
+
+    #ck1 * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0
+    }
+
+    #ck1 .w {
+        max-width: 1160px;
+        margin: 0 auto;
+        padding: 0 16px;
+        height: 64px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between
+    }
+
+    #ck1 .logo {
+        font-family: 'Fraunces', Georgia, serif;
+        font-size: 28px;
+        letter-spacing: -.02em;
+        color: #231017;
+        line-height: 1
+    }
+
+    #ck1 .logo i {
+        color: #A33154;
+        font-weight: 500;
+        margin-left: .06em
+    }
+
+    #ck1 .sec {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        font-size: 13px;
+        font-weight: 700;
+        letter-spacing: .12em;
+        text-transform: uppercase;
+        color: #231017
+    }
+
+    #ck1 .sec svg {
+        width: 15px;
+        height: 15px
+    }
+
+    #ck1 .bar {
+        background: #231017;
+        color: #F5EDE6;
+        font-size: 13.5px;
+        font-weight: 600;
+        text-align: center;
+        padding: 9px 12px;
+        letter-spacing: .02em
+    }
+
+    #ck1 .bar b {
+        color: #E7879F;
+        font-weight: 700
+    }
+
+    @media(max-width:520px) {
+        #ck1 .sec span {
+            display: none
+        }
+
+        #ck1 .bar {
+            font-size: 12.5px
+        }
+    }
+
+    #ck2 {
+        font-family: 'Hanken Grotesk', Arial, sans-serif;
+        color: #231017;
+        background: #fff;
+        border: 1px solid #E4D6D0;
+        margin: 0 0 14px
+    }
+
+    #ck2 * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0
+    }
+
+    #ck2 .top {
+        display: flex;
+        gap: 14px;
+        align-items: center;
+        padding: 16px 18px;
+        border-bottom: 1px solid #E4D6D0
+    }
+
+    #ck2 .cal {
+        flex: 0 0 46px;
+        height: 50px;
+        border: 1px solid #231017;
+        text-align: center;
+        background: #fff
+    }
+
+    #ck2 .cal b {
+        display: block;
+        background: #A33154;
+        color: #fff;
+        font-size: 10.5px;
+        letter-spacing: .12em;
+        text-transform: uppercase;
+        padding: 3px 0
+    }
+
+    #ck2 .cal span {
+        display: block;
+        font-family: 'Fraunces', Georgia, serif;
+        font-size: 21px;
+        font-weight: 600;
+        line-height: 28px
+    }
+
+    #ck2 .lab {
+        font-size: 11.5px;
+        font-weight: 700;
+        letter-spacing: .16em;
+        text-transform: uppercase;
+        color: #872845;
+        margin-bottom: 3px
+    }
+
+    #ck2 .when {
+        font-size: 16.5px;
+        font-weight: 700;
+        line-height: 1.3
+    }
+
+    #ck2 .small {
+        font-size: 13.5px;
+        color: #8C6A6C;
+        margin-top: 2px;
+        line-height: 1.4
+    }
+
+    #ck2 .pic {
+        padding: 14px 18px;
+        background: #F5EDE6;
+        font-family: 'Fraunces', Georgia, serif;
+        font-style: italic;
+        font-size: 17px;
+        line-height: 1.4;
+        color: #A33154
+    }
+
+    #ck2 .size {
+        display: none;
+        padding: 12px 18px;
+        border-top: 1px solid #E4D6D0;
+        font-size: 14.5px;
+        line-height: 1.45
+    }
+
+    #ck2 .size.on {
+        display: block
+    }
+
+    #ck2 .szl {
+        display: flex;
+        align-items: baseline;
+        gap: 8px;
+        flex-wrap: wrap
+    }
+
+    #ck2 .szl b {
+        font-size: 15.5px;
+        font-weight: 700
+    }
+
+    #ck2 .szl span {
+        font-size: 13.5px;
+        color: #8C6A6C
+    }
+
+    #ck2 details {
+        margin-top: 8px
+    }
+
+    #ck2 summary {
+        cursor: pointer;
+        list-style: none;
+        font-size: 13.5px;
+        font-weight: 700;
+        color: #A33154;
+        display: inline-flex;
+        align-items: center;
+        gap: 6px
+    }
+
+    #ck2 summary::-webkit-details-marker {
+        display: none
+    }
+
+    #ck2 summary::after {
+        content: '';
+        width: 7px;
+        height: 7px;
+        border: solid #A33154;
+        border-width: 0 2px 2px 0;
+        transform: rotate(45deg);
+        margin-top: -3px;
+        transition: transform .2s
+    }
+
+    #ck2 details[open] summary::after {
+        transform: rotate(-135deg);
+        margin-top: 3px
+    }
+
+    #ck2 table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 8px;
+        font-size: 13.5px
+    }
+
+    #ck2 th,
+    #ck2 td {
+        text-align: left;
+        padding: 6px 4px;
+        border-bottom: 1px solid #F0E6E2
+    }
+
+    #ck2 th {
+        font-size: 11px;
+        letter-spacing: .12em;
+        text-transform: uppercase;
+        color: #8C6A6C;
+        font-weight: 700
+    }
+
+    #ck2 .szn {
+        font-size: 13px;
+        color: #8C6A6C;
+        margin-top: 8px
+    }
+
+    #ck3 {
+        font-family: 'Hanken Grotesk', Arial, sans-serif;
+        color: #231017;
+        margin-top: 14px
+    }
+
+    #ck3 * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0
+    }
+
+    #ck3 .g {
+        background: #231017;
+        color: #F5EDE6;
+        padding: 20px 18px
+    }
+
+    #ck3 .g .lab {
+        font-size: 11.5px;
+        font-weight: 700;
+        letter-spacing: .16em;
+        text-transform: uppercase;
+        color: #E7879F;
+        margin-bottom: 6px
+    }
+
+    #ck3 .g h3 {
+        font-family: 'Fraunces', Georgia, serif;
+        font-size: 21px;
+        font-weight: 600;
+        line-height: 1.2;
+        color: #fff;
+        margin-bottom: 8px
+    }
+
+    #ck3 .g p {
+        font-size: 14.5px;
+        line-height: 1.55
+    }
+
+    #ck3 .g ul {
+        list-style: none;
+        margin-top: 12px;
+        border-top: 1px solid rgba(231, 207, 201, .25);
+        padding-top: 10px
+    }
+
+    #ck3 .g li {
+        position: relative;
+        padding: 5px 0 5px 26px;
+        font-size: 14px;
+        line-height: 1.45;
+        color: #E7CFC9
+    }
+
+    #ck3 .g li::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 7px;
+        width: 17px;
+        height: 17px;
+        border-radius: 50%;
+        background: #A33154 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23fff' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 12.5 4 4 8-8.5'/%3E%3C/svg%3E") center/10px no-repeat
+    }
+
+    #ck3 .rv {
+        display: none;
+        margin-top: 18px
+    }
+
+    #ck3 .rv.on {
+        display: block
+    }
+
+    #ck3 .rv .hd {
+        font-size: 11.5px;
+        font-weight: 700;
+        letter-spacing: .16em;
+        text-transform: uppercase;
+        color: #872845;
+        margin-bottom: 10px
+    }
+
+    #ck3 .rc {
+        background: #fff;
+        border: 1px solid #E4D6D0;
+        padding: 16px;
+        margin-top: -1px
+    }
+
+    #ck3 .rc .st {
+        color: #A33154;
+        letter-spacing: 2px;
+        font-size: 14px
+    }
+
+    #ck3 .rc .t {
+        font-family: 'Fraunces', Georgia, serif;
+        font-size: 16.5px;
+        font-weight: 600;
+        line-height: 1.3;
+        margin: 6px 0 4px
+    }
+
+    #ck3 .rc p {
+        font-size: 14.5px;
+        line-height: 1.55
+    }
+
+    #ck3 .rc .who {
+        font-size: 13.5px;
+        font-weight: 700;
+        margin-top: 10px
+    }
+
+    #ck3 .rc .meta {
+        font-size: 12.5px;
+        color: #8C6A6C;
+        margin-top: 1px
+    }
+
+    #ck3 .help {
+        font-size: 13.5px;
+        color: #8C6A6C;
+        text-align: center;
+        margin-top: 16px;
+        line-height: 1.5
+    }
+
+    #ck3 .help a {
+        color: #A33154
+    }
+
+
+    /* --- added trust content (inside lpk-3, under the Complete-my-order button) --- */
+    #ck3 .note {
+        background: #F5EDE6;
+        border: 1px solid #E4D6D0;
+        padding: 16px 18px;
+        margin-top: 14px
+    }
+
+    #ck3 .note .fr {
+        font-family: 'Fraunces', Georgia, serif;
+        font-size: 16.5px;
+        font-weight: 600;
+        color: #231017;
+        margin-bottom: 6px
+    }
+
+    #ck3 .note p {
+        font-size: 14px;
+        line-height: 1.55;
+        color: #4a3a40
+    }
+
+    #ck3 .founder {
+        display: flex;
+        gap: 12px;
+        align-items: flex-start;
+        background: #fff;
+        border: 1px solid #E4D6D0;
+        padding: 16px 18px;
+        margin-top: 14px
+    }
+
+    #ck3 .founder .mk {
+        flex: 0 0 40px;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background: #A33154;
+        color: #F5EDE6;
+        font-family: 'Fraunces', Georgia, serif;
+        font-weight: 600;
+        font-size: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+
+    #ck3 .founder p {
+        font-size: 14px;
+        line-height: 1.55;
+        color: #231017;
+        margin-bottom: 7px
+    }
+
+    #ck3 .founder .sig {
+        font-size: 13px;
+        font-style: italic;
+        color: #8C6A6C
+    }
+
+    #ck4 {
+        font-family: 'Hanken Grotesk', Arial, sans-serif;
+        background: #231017;
+        color: #E7CFC9;
+        text-align: center;
+        padding: 30px 16px 26px;
+        margin-top: 30px
+    }
+
+    #ck4 * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0
+    }
+
+    #ck4 .logo {
+        font-family: 'Fraunces', Georgia, serif;
+        font-size: 26px;
+        color: #F5EDE6;
+        letter-spacing: -.02em
+    }
+
+    #ck4 .logo i {
+        color: #E7879F;
+        font-weight: 500;
+        margin-left: .06em
+    }
+
+    #ck4 .links {
+        margin: 14px 0 8px;
+        font-size: 13.5px;
+        font-weight: 600
+    }
+
+    #ck4 .links a {
+        color: #F5EDE6;
+        text-decoration: none;
+        border-bottom: 1px solid #E7879F;
+        margin: 0 9px
+    }
+
+    #ck4 p {
+        font-size: 12.5px;
+        opacity: .85;
+        line-height: 1.6
+    }
+
+    .os-discount-box {
+        display: none !important
+    }
+
+    /* template green -> Leapproof claret, rounded -> square */
+    .pl-item {
+        background: #fff !important;
+        border: 1px solid #E4D6D0 !important;
+        border-radius: 0 !important;
+        box-shadow: none !important
+    }
+
+    .pl-item.highlight {
+        background: #fff !important;
+        transform: none !important
+    }
+
+    .pl-item.selected {
+        border-color: #A33154 !important;
+        background: #FBF5F2 !important
+    }
+
+    .pl-item .pl-image img,
+    .pl-item img {
+        border-radius: 0 !important
+    }
+
+    .pl-item .name {
+        font-weight: 600 !important;
+        color: #231017 !important
+    }
+
+    .pl-item .top-tag {
+        background: #231017 !important;
+        color: #fff !important;
+        border-radius: 0 !important;
+        letter-spacing: .1em
+    }
+
+    .pl-item .top-tag.lpk-tag-pick {
+        background: #A33154 !important
+    }
+
+    .pl-item .top-tag.lpk-tag-try {
+        background: #E7CFC9 !important;
+        color: #231017 !important
+    }
+
+    .pl-variant-name .select-a {
+        display: none !important
+    }
+
+    .pl-variant-option {
+        border-radius: 0 !important;
+        border: 1px solid #E7CFC9 !important;
+        background: #fff !important;
+        color: #231017 !important;
+        font-weight: 600
+    }
+
+    .pl-variant-option.selected {
+        background: #A33154 !important;
+        border-color: #A33154 !important;
+        color: #fff !important
+    }
+
+    input[name="product-id"] {
+        accent-color: #A33154;
+        border-radius: 0 !important
+    }
+
+    input[name="product-id"]:checked {
+        background-color: #A33154 !important;
+        border-color: #A33154 !important
+    }
+
+    a.btn.btn-v2 {
+        background: #A33154 !important;
+        border-color: #872845 !important;
+        border-radius: 0 !important;
+        box-shadow: none !important
+    }
+
+    a.btn.btn-v2:hover {
+        background: #872845 !important
+    }
+
+    .container-box,
+    .product-list img,
+    .main-wrapper input:not([type=checkbox]):not([type=radio]),
+    .main-wrapper select {
+        border-radius: 0 !important
+    }
+
+    .lpk-free {
+        color: #A33154 !important
+    }
+
+    /* free gifts: always visible, tagged, greyed + "Unlocks with N pairs" until the set unlocks them */
+    .lpk-gtag {
+        display: inline-block;
+        background: #A33154;
+        color: #fff;
+        font: 700 10.5px 'Hanken Grotesk', Arial, sans-serif;
+        letter-spacing: .14em;
+        text-transform: uppercase;
+        padding: 3px 7px;
+        margin: 0 0 4px
+    }
+
+    .lpk-unl {
+        display: block;
+        font: 600 12.5px 'Hanken Grotesk', Arial, sans-serif;
+        color: #A33154;
+        margin-top: 3px
+    }
+
+    .pl-item.lpk-locked {
+        background: #FAF7F5 !important;
+        border-style: dashed !important;
+        cursor: pointer
+    }
+
+    .pl-item.lpk-locked .pl-image,
+    .pl-item.lpk-locked .name,
+    .pl-item.lpk-locked .pl-price {
+        opacity: .5;
+        filter: grayscale(1)
+    }
+
+    .pl-item.lpk-locked .lpk-gtag {
+        background: #8C6A6C
+    }
+
+    .pl-item.lpk-locked .lpk-unl {
+        text-decoration: underline;
+        text-underline-offset: 3px
+    }
+
+    .pl-item.lpk-gift:not(.lpk-locked) {
+        pointer-events: none
+    }
+
+    #lpk-1,
+    #lpk-2,
+    #lpk-3,
+    #lpk-4 {
+        display: block !important;
+        width: 100% !important;
+        max-width: none;
+        flex: 1 1 100%;
+        align-self: stretch;
+        text-align: left;
+        box-sizing: border-box
+    }
+
+    #lpk-1 #ck1,
+    #lpk-4 #ck4 {
+        width: 100%
+    }
+
+    #lpk-3 #ck3,
+    #lpk-2 #ck2 {
+        width: 100%
+    }
+
+    #lpk-4 #ck4 {
+        text-align: center
+    }
+</style><div id=lpk-src style=display:none><div id=lpk-1><div id=ck1><div class=w><span class=logo>leap<i>proof</i></span><span class=sec><svg viewBox="0 0 24 24" fill="none" stroke="#231017" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="11" width="14" height="10"></rect><path d="M8 11V7.5a4 4 0 0 1 8 0V11"></path></svg><span>Secure checkout</span></span></div><div class=bar>Free shipping <b>·</b> 30-Night Leak-Test <b>·</b> Free size swap</div></div></div><div id=lpk-2><div id=ck2><div class=top><div class=cal><b id=ck2-m>Oct</b><span id=ck2-d>27</span></div><div><div class=lab>Order today</div><div class=when id=ck2-when>Most orders arrive in about 6–10 days</div><div class=small>Packed within 1–3 business days. Free shipping.</div></div></div><div class=pic id=ck2-pic>Your 30 nights start the day they arrive.</div><div class=size id=ck2-size></div></div></div><div id=lpk-3><div id=ck3><div class=g><div class=lab>The 30-Night Leak-Test</div><h3>Sneeze in them. Laugh in them. Then decide.</h3><p>Wear them through your real moments for 30 nights from the day they arrive. If they don’t hold, email
+us and we refund your whole order. You keep the pairs. Nothing to send back.<ul><li>Wrong size? We send your new size free.<li>One-off payment. No subscription, nothing renews.<li>On top of your legal rights.</ul></div><div class=note><div class=fr>Will it feel like a diaper?</div><p>No. It’s plain black underwear — pull it on and forget it’s doing anything. No crinkle, no bulk, nothing to show under leggings.</p></div><div class=founder><div class=mk>lp</div><div><p>I got tired of watching women quietly give up the trampoline, the run, the jump — handed a liner and told it’s “just normal now.” It’s common. It is not normal.</p><p>So we made underwear for the leak and put the 30-night, keep-the-pairs test on it — because you’ve been promised things before, and you deserve to try it with nothing on the line.</p><p class=sig>— The Leapproof team</p></div></div><div class=note><div class=fr>One set, not a monthly bin run.</div><p>A liner a day goes in the bin by nightfall — and you buy them again next month, and the month after. These you wash and wear again. Buy the set once; stop paying the forever tax.</p></div><div class=rv id=ck3-rv><div class=hd>From our testers</div><div id=ck3-list></div></div><p class=help>Questions before you pay? Email <a href=mailto:hello@leapproof.com>hello@leapproof.com</a>. A real person answers.</div></div><div id=lpk-4><div id=ck4><div class=logo>leap<i>proof</i></div><div class=links><a href=https://leapproof.com/policies/refund-policy target=_blank rel=noopener>Refunds</a><a href=https://leapproof.com/policies/shipping-policy target=_blank rel=noopener>Shipping</a><a href=https://leapproof.com/policies/terms-of-service target=_blank rel=noopener>Terms</a><a href=https://leapproof.com/policies/privacy-policy target=_blank rel=noopener>Privacy</a><a href=mailto:hello@leapproof.com>Contact</a></div><p>Underwear, not a treatment. Made for lighter leaks.<br>© 2026 leapproof · Melbourne, Australia</div></div></div><script>
+    (function(){
+/* ---------- 1. Lay out the page: our blocks in, template junk out, template text renamed ---------- */
+function own(n){ return n && n.closest && n.closest('#lpk-src,#lpk-1,#lpk-2,#lpk-3,#lpk-4'); }
+function textEl(t){ var w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null),n; while((n=w.nextNode())){ if(n.textContent.indexOf(t)>-1 && !own(n.parentElement)) return n.parentElement; } return null; }
+function rename(from,to,all){ var w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null),n,hit=0; while((n=w.nextNode())){ if(n.textContent.trim()===from && !own(n.parentElement)){ n.textContent=n.textContent.replace(from,to); hit++; if(!all) break; } } return hit; }
+function hide(el){ if(el) el.style.setProperty('display','none','important'); }
+function take(id){ var el=document.getElementById(id); return el; }
+function ph(name,txt){ var i=document.querySelector('[name="'+name+'"]'); if(i) i.setAttribute('placeholder',txt); }
+var laid=false;
+function layout(){
+  if(laid) return true;
+  var main=document.querySelector('.main-wrapper'); if(!main || !textEl('Shipping Information') && !textEl('Where should we send them?')) return false;
+  /* header: replace the template's top logo section */
+  var top=main.querySelector('[class*="section_wrapper"]');
+  if(top && top.getBoundingClientRect().height<160 && !top.querySelector('input')){ top.parentNode.insertBefore(take('lpk-1'),top); hide(top); }
+  else main.insertBefore(take('lpk-1'),main.firstChild);
+  /* footer */
+  /* footer: ours goes at the end; template footers are hidden by footers() below (they can render late) */
+  main.appendChild(take('lpk-4'));
+  /* climb from a piece of text to the first container-box that holds all of `need` */
+  function boxFor(t,need,tag){ var el=textEl(t); while(el && el!==document.body){ if(el.classList && el.classList.contains(tag||'container-box')){ var tx=el.textContent||''; if(need.every(function(n){return tx.indexOf(n)>-1})) return el; } el=el.parentElement; } return null; }
+  /* left header: rename in place, hide "Limura Bundle" + the gift/% image */
+  rename('Checkout Product','Your set');                       /* first one on the page = left column */
+  var gb=textEl('Get maximum bonus'); if(gb) gb.textContent='Matched to your quiz answers. Switch sets below if you like.';
+  var lb=textEl('Limura Bundle'); if(lb) hide(lb.closest('.element-wrapper')||lb);
+  [].forEach.call(document.querySelectorAll('img[src*="Coupon"],img[src*="Tag.svg"]'),function(i){ hide(i.closest('.element-wrapper')||i); });
+  /* right column: arrival box goes INSIDE the Congrats/meter box (keeps the template's order) */
+  var cb=boxFor('Congrats!',['Free Gift & Free Ship & 18% Off','You just get Free Gift']);   /* the box holding all 3 Congrats/meter versions */
+  if(cb && (cb.textContent||'').indexOf('Total')<0){ [].slice.call(cb.children).forEach(hide); cb.appendChild(take('lpk-2')); }
+  /* under the button: guarantee + reviews replace the money-back badge and payment logos */
+  var bb=boxFor('Checkout Now',['Checkout Now','30-Day Money Back']);
+  if(bb){ [].slice.call(bb.children).forEach(function(c){ if((c.innerText||'').indexOf('Checkout Now')<0) hide(c); }); bb.appendChild(take('lpk-3')); }
+  var lv=textEl('Loved by'), lw=lv && lv.closest('.container-wrapper'); if(lw) hide(lw.closest('.element-wrapper')||lw);
+  var cp=document.querySelector('input[placeholder="Coupon Code"]'); if(cp) hide(cp.closest('.element-wrapper'));
+  /* rename template text */
+  rename('Checkout Product','Your order',true);   /* the one left = right column */
+  rename('Shipping Information','Where should we send them?');
+  rename('Product Return Guarantee','30-Night Leak-Test');
+  rename('Personal / Contact','Your details');
+  rename('Delivery Information','Delivery address');
+  rename('Payment Secure & Encrypted','Secure, encrypted payment');
+  rename('Email me with news and offers','Email me washing tips and the odd Leapproof update. Unsubscribe any time.');
+  rename('Checkout Now','Complete my order');
+  ph('first_name','First name'); ph('last_name','Last name'); ph('email','Email (for order updates)'); ph('phone','Phone (for delivery)');
+  ph('shipping_address','Street address'); ph('shipping_city','City'); ph('shipping_state','State'); ph('shipping_zip','ZIP code');
+  laid=true; return true;
+}
+var lt=0; (function go(){ if(!layout() && ++lt<30) setTimeout(go,300); })();
+/* hide the template footer(s) ("Built with Funnelish") and keep ours right after them; re-checks for ~15s because Funnelish renders it late */
+var ftn=0; (function footers(){
+  var f4=document.getElementById('lpk-4');
+  [].forEach.call(document.querySelectorAll('[class*="section_wrapper"]'),function(x){
+    if(own(x) || x.parentElement.closest('[class*="section_wrapper"]') || !/Built with\s*Funnelish/.test(x.textContent||'')) return;
+    hide(x); if(f4 && laid && x.parentNode && x.nextSibling!==f4) x.parentNode.insertBefore(f4,x.nextSibling);
+  });
+  [].forEach.call(document.querySelectorAll('span'),function(x){ if(!own(x) && !x.children.length && (x.textContent||'').trim()==='Free') x.classList.add('lpk-free'); });   /* green "Free" in the summary */
+  [].forEach.call(document.querySelectorAll('.pl-item .top-tag'),function(t){ var v=(t.textContent||'').trim().toUpperCase(); if(v==='OUR PICK') t.classList.add('lpk-tag-pick'); else if(v==='JUST TRYING') t.classList.add('lpk-tag-try'); });
+  if(++ftn<30) setTimeout(footers,500);
+})();
+/* default the country to United States (retries until Funnelish has filled the list; never overrides her choice) */
+var ctry=0; (function us(){
+  var c=document.querySelector('select[name="shipping_country"]'), done=false;
+  if(c && c.options.length>2){
+    if(c.options[0] && /sel/i.test(c.options[0].text)) c.options[0].text='Country';
+    if(c.selectedIndex<=0 && !c.value){ for(var i=0;i<c.options.length;i++){ if(/^United States/.test(c.options[i].text)){ c.selectedIndex=i; c.dispatchEvent(new Event('input',{bubbles:true})); c.dispatchEvent(new Event('change',{bubbles:true})); break; } } }
+    done = c.selectedIndex>0;
+  }
+  if(!done && ++ctry<30) setTimeout(us,400);
+})();
+
+(function(){
+  /* Live arrival window: most orders arrive about 6–10 days after ordering (NUMBER_SHEET: 1–3 to pack + 4–9 in transit). */
+  function addDays(d,n){ d=new Date(d); d.setDate(d.getDate()+n); return d; }
+  var now=new Date(), a=addDays(now,6), b=addDays(now,10);
+  var D=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'], M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  function f(d){ return D[d.getDay()]+', '+M[d.getMonth()]+' '+d.getDate(); }
+  document.getElementById('ck2-m').textContent=M[b.getMonth()];
+  document.getElementById('ck2-d').textContent=b.getDate();
+  document.getElementById('ck2-when').textContent='Most orders arrive '+f(a)+' – '+f(b);
+  document.getElementById('ck2-pic').textContent='By '+f(b)+', you could be sneezing without crossing your legs. Your 30 nights start the day they arrive.';
+  var q=new URLSearchParams(location.search);
+
+  /* ===== ONE CHECKOUT, 3 SETS =====
+     Ticks the set she chose on the offer page (?set=3|5|10, default 5), unticks the other sets,
+     adds the free gifts that set unlocks and locks the gift rows.
+     Products are found by NAME, so keep these words in the Funnelish product names:
+     "3 Leapproof Briefs" / "5 Leapproof Briefs" / "10 Leapproof Briefs" / "Wash Bag" / "Wash Sheets" */
+  var SET = ({'3':3,'5':5,'10':10})[q.get('set')] || 5, busy=false;
+  function prods(){ return (window.PRODUCTS||[]).map(function(p){
+    var n=p.name||'', m=n.match(/\b(3|5|10)\s+Leapproof\s+Briefs/i);
+    return {id:String(p.id), set:m?+m[1]:0, bag:/wash\s*bag/i.test(n), sheets:/wash\s*sheets/i.test(n)};
+  }); }
+  function box(id){ return document.querySelector('input[name="product-id"][value="'+id+'"]'); }
+  /* one product = one .pl-item row (Funnelish product list). Never touch the list's wrapper: it holds every set. */
+  function row(i){ return i && i.closest('.pl-item'); }
+  function setTo(id,want){ var i=box(id); if(i && i.checked!==want) i.click(); }
+  /* gift row: tag it, and either unlocked (ticked, can't untick) or locked (greyed, tap = upgrade to `need` pairs) */
+  function gift(id,need){
+    var r=row(box(id)); if(!r) return;
+    var nv=r.querySelector('.pl-nvalue')||r.querySelector('.name'); r.classList.add('lpk-gift'); r.setAttribute('data-need',need);
+    if(nv && !nv.querySelector('.lpk-gtag')) nv.insertAdjacentHTML('afterbegin','<span class="lpk-gtag">Free gift</span>');
+    var u=nv && nv.querySelector('.lpk-unl'); if(nv && !u){ nv.insertAdjacentHTML('beforeend','<span class="lpk-unl"></span>'); u=nv.querySelector('.lpk-unl'); }
+    var locked=SET<need; r.classList.toggle('lpk-locked',locked);
+    if(u) u.textContent = locked ? 'Unlocks with '+need+' pairs · tap to add' : 'Unlocked with your '+SET+' pairs';
+  }
+  function sync(){
+    var P=prods(); if(!P.length) return false; busy=true;
+    P.forEach(function(p){
+      if(p.set){ setTo(p.id, p.set===SET); }
+      if(p.bag){ gift(p.id,5); setTo(p.id, SET>=5); }
+      if(p.sheets){ gift(p.id,10); setTo(p.id, SET>=10); }
+    });
+    busy=false;
+    if(window.lpkPickSize) setTimeout(window.lpkPickSize,250);   /* keep her size on whichever set is ticked */
+    return true;
+  }
+  var userPicked=false;
+  /* tap a locked gift = switch to the set that unlocks it (same as the offer page) */
+  document.addEventListener('click',function(e){
+    if(busy) return;                 /* our own programmatic ticks */
+    var r=e.target.closest && e.target.closest('.pl-item.lpk-locked'); if(!r) return;
+    e.preventDefault(); e.stopPropagation();
+    userPicked=true; SET=+r.getAttribute('data-need')||SET; sync();
+  },true);
+  document.addEventListener('change',function(e){
+    var i=e.target; if(busy || !i || i.name!=='product-id') return;   /* programmatic ticks run with busy=true, so this only fires on real clicks */
+    var p=prods().filter(function(x){return x.id===i.value})[0]; if(!p || !p.set) return;
+    userPicked=true;                  /* she chose a set herself; stop auto-enforcing */
+    if(i.checked) SET=p.set;
+    setTimeout(sync,0);               /* unticking the current set just re-ticks it */
+  },true);
+  /* Funnelish re-renders the list ~1-2s after load (restoring its default set), so keep
+     re-asserting the URL set for ~14s or until she picks one herself. */
+  var st=0; (function boot(){ if(!userPicked) sync(); if(++st<28) setTimeout(boot,500); })();
+
+  /* Her size from the quiz / offer page */
+  var sz=(q.get('size')||'').toUpperCase(); if(sz==='2XL') sz='XXL';
+  var el=document.getElementById('ck2-size');
+  var CHART='<details><summary>Size chart</summary><table><tr><th>Size</th><th>Hips</th><th>US</th></tr>'+
+    [['S','up to 36″ (91 cm)','0–2'],['M','36–38″ (91–96 cm)','4–6'],['L','38–40″ (96–101 cm)','8–10'],['XL','40–44″ (101–111 cm)','12–14'],['XXL','44–47″ (111–120 cm)','16'],['3XL','47–51″ (120–129 cm)','18'],['4XL','51–54″ (129–138 cm)','20']]
+    .map(function(r){return '<tr><td><b>'+r[0]+'</b></td><td>'+r[1]+'</td><td>'+r[2]+'</td></tr>'}).join('')+
+    '</table><p class="szn">Between two sizes? Pick the smaller one. Wrong size? We send your new size free.</p></details>';
+  var ok=['S','M','L','XL','XXL','3XL','4XL'].indexOf(sz)>-1;
+  el.innerHTML=(ok ? '<div class="szl"><b>Your size: '+sz+'</b><span>from your quiz · free swap if it’s off</span></div>'
+                   : '<div class="szl"><b>Choose your size</b><span>on your set, before you pay</span></div>')+CHART;
+  el.className='size on';
+  if(!ok) return;
+  /* Pre-select her size on each brief's size buttons (.pl-variant-option). Funnelish shows the
+     buttons only on the ticked set and defaults to S, so re-apply on load and whenever she switches set. */
+  window.lpkPickSize=function(){
+    [].forEach.call(document.querySelectorAll('.pl-item'),function(it){
+      var opts=it.querySelectorAll('.pl-variant-option'); if(!opts.length) return;
+      var want=null, already=false;
+      [].forEach.call(opts,function(o){
+        var t=(o.textContent||'').trim().toUpperCase().replace(/\s+/g,'');
+        if(t===sz){ want=o; if(o.className.indexOf('selected')>-1) already=true; }
+      });
+      if(want && !already) want.click();
+    });
+  };
+  var sp=0; (function pickLoop(){ if(sz) lpkPickSize(); if(++sp<24) setTimeout(pickLoop,500); })();
+})();
+
+(function(){
+/* REAL tester reviews go here (their own words). Empty = section hidden.
+   Format: { title:'…', text:'…', name:'Jess M.', age:34, size:'L', stars:5 }, */
+var REVIEWS = [
+];
+/* SAMPLE reviews: layout preview ONLY. They show only when the page URL has ?lpdemo=1 (not ?preview — Funnelish 404s on that), never to real visitors. Delete once real reviews are in. */
+var SAMPLES = [
+ { title:'Ran my first 5K since baby #2. In gray leggings.', text:'I used to run with a jacket tied around my waist, just in case. Saturday I did a 5K in light gray leggings, sneezed at the start line, and couldn’t see a thing when I checked the mirror after. No pad shifting by mile two either. They just feel like regular underwear under my tights.', name:'Danielle R.', age:34, size:'M', stars:5 },
+ { title:'The waistband actually stays up on my mom tummy.', text:'Every leak-proof brief I’ve tried rolled down the second I sat down. I measured my hips like the chart said, went 3XL, and the waistband sits flat under my work pants all day. Had a cold last week, coughing at my desk, and didn’t once sneak off to the bathroom to check.', name:'Tanya W.', age:42, size:'3XL', stars:5 },
+ { title:'Almost only got 3. So glad I got 5.', text:'I nearly closed this page twice. What got me was the 30 nights: if they didn’t work on my real sneezes, I’d get my money back and keep them anyway. Went with 5 and I’m glad. With 3 I’d be doing laundry every other day.', name:'Melissa K.', age:38, size:'L', stars:5 }
+];
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+var list = REVIEWS.length ? REVIEWS : (/[?&]lpdemo=1/.test(location.search) ? SAMPLES : []);
+if(!list.length) return;
+document.getElementById('ck3-list').innerHTML = list.map(function(r){
+  var n=Math.max(1,Math.min(5,r.stars||5));
+  return '<div class="rc"><div class="st">'+'★★★★★'.slice(0,n)+'</div>'+(r.title?'<div class="t">'+esc(r.title)+'</div>':'')+'<p>“'+esc(r.text)+'”</p>'+
+    '<div class="who">'+esc(r.name)+(r.age?', '+r.age:'')+'</div><div class="meta">Wearing size '+esc(r.size||'')+' · Received a free set to test</div></div>';
+}).join('');
+document.getElementById('ck3-rv').className='rv on';
+})();
+
+})();
+</script>
