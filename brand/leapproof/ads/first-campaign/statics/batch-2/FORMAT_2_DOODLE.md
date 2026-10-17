@@ -147,5 +147,17 @@ Headline: `You didn't stop doing double-unders because they got hard.` · Sub: `
 - [x] Word-craft checked vs Copywriting Fundamentals
 - [x] Read back as Mara: talks to identity, moves her to the tap, every technique is actually in the lines
 
-## Next step
-On approval → build the DOODLE image prompts (drawing only, no text in frame; weird-with-a-reason), **one generation each, no variants**, then generate.
+## Images — FINAL (approved 2026-10-17)
+`images/2a-doodle.png` · `images/2b-doodle.png` (Nano Banana Pro, 4:5).
+
+**Learning locked (applies to every future batch-2 image):** the angle must be EMBEDDED IN THE VISUAL, not just a pretty drawing. These bake in: (a) a matter-of-fact **wet patch** = "leaks while active," and (b) **hand-lettered headline + bubble** baked into the doodle (like the proven doodle refs). Pass the "stranger, sound off, 0.5s — do they get the angle?" test before accepting any image.
+- Baked in 2a: headline `THEY TOLD ME TO STOP RUNNING` + PT bubble `maybe ease off?`
+- Baked in 2b: headline `NOBODY KNEW WHY I STOPPED` + thought bubble `maybe not today`
+- Still added in editor: sub + CTA chip (2a sub `You don't quit the sport. You fix the gear.`; 2b sub `Common. Not normal. And definitely not old.`; both chip `Take the 60-sec quiz →`).
+- Open flags: 2a wet patch rendered a touch dark (can soften); wet-patch depiction carries a Meta-review + shame risk — keep subtle, fallback cue = a rejected pad/liner on the ground.
+
+## Facebook fields
+- **Primary text:** the 2a / 2b captions above, verbatim.
+- CTA button: **Learn More** · URL: `https://leapproof.myfunnelish.com/quiz-2891028289-1791612140998314` (swap to try.leapproof.com when connected) · single image 4:5.
+- FB **Headline** field: `Find your match in 60 seconds` · FB **Description**: `60-second quiz · your set + free gifts · 30-night money-back test`
+- AI-disclosure: Meta "digitally created or altered" toggle, or last line `Made with AI.`
