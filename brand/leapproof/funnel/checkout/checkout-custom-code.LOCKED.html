@@ -815,6 +815,26 @@ var ftn=0; (function footers(){
   [].forEach.call(document.querySelectorAll('.pl-item .top-tag'),function(t){ var v=(t.textContent||'').trim().toUpperCase(); if(v==='OUR PICK') t.classList.add('lpk-tag-pick'); else if(v==='JUST TRYING') t.classList.add('lpk-tag-try'); });
   if(++ftn<30) setTimeout(footers,500);
 })();
+/* The native order summary can list "Free Shipping" twice (the free-ship gift + the shipping line).
+   Hide the duplicate row only, keeping the first. STRICTLY scoped to .order-summary / .os-items, and only
+   ever hides a SHORT row containing no product name, so it can never hide the products. */
+var osn=0; (function dedupeSummary(){
+  [].forEach.call(document.querySelectorAll('.order-summary'),function(sum){
+    var osItems=sum.querySelector('.os-items'); if(!osItems) return;
+    var ship=[];
+    [].forEach.call(osItems.querySelectorAll('*'),function(el){
+      if(el.children.length>3) return;
+      var t=(el.textContent||'').replace(/\s+/g,' ').trim().toLowerCase();
+      if(t.indexOf('free shipping')!==0 || t.length>30) return;
+      var row=el; while(row.parentElement && row.parentElement!==osItems) row=row.parentElement;
+      var rt=(row.textContent||'').replace(/\s+/g,' ').trim().toLowerCase();
+      if(rt.length>=40 || rt.indexOf('leapproof')>-1 || rt.indexOf('wash')>-1) return;   /* never a product row */
+      if(ship.indexOf(row)<0) ship.push(row);                                            /* unique rows only */
+    });
+    ship.slice(1).forEach(function(r){ r.style.setProperty('display','none','important'); });  /* keep the first, hide the rest */
+  });
+  if(++osn<40) setTimeout(dedupeSummary,500);
+})();
 /* default the country to United States (retries until Funnelish has filled the list; never overrides her choice) */
 var ctry=0; (function us(){
   var c=document.querySelector('select[name="shipping_country"]'), done=false;
