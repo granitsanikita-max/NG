@@ -656,6 +656,78 @@
         text-underline-offset: 3px
     }
 
+    /* checkout is a recap, not a re-chooser: hide the Funnelish product selector
+       OFF-SCREEN (not display:none) so its checked items stay in the real order. */
+    .product-list {
+        position: absolute !important;
+        left: -9999px !important;
+        top: auto !important;
+        width: 1px !important;
+        height: 1px !important;
+        overflow: hidden !important
+    }
+
+    /* "Your order" recap (right column, inside lpk-2) */
+    #ck2 .ord {
+        border-top: 1px solid #E4D6D0;
+        padding: 14px 18px
+    }
+
+    #ck2 .ord h4 {
+        font-family: 'Hanken Grotesk', Arial, sans-serif;
+        font-size: 11.5px;
+        font-weight: 700;
+        letter-spacing: .16em;
+        text-transform: uppercase;
+        color: #872845;
+        margin-bottom: 8px
+    }
+
+    #ck2 .ord .ln {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        gap: 10px;
+        padding: 7px 0;
+        font-size: 14px;
+        border-bottom: 1px solid #F0E6E2
+    }
+
+    #ck2 .ord .nm {
+        color: #231017;
+        font-weight: 600
+    }
+
+    #ck2 .ord .nm small {
+        display: block;
+        color: #8C6A6C;
+        font-size: 12.5px;
+        font-weight: 400;
+        margin-top: 1px
+    }
+
+    #ck2 .ord .pr {
+        font-weight: 700;
+        white-space: nowrap;
+        color: #231017
+    }
+
+    #ck2 .ord .pr.free {
+        color: #A33154
+    }
+
+    #ck2 .ord .tot {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        margin-top: 10px;
+        padding-top: 12px;
+        border-top: 1px solid #231017;
+        font-family: 'Fraunces', Georgia, serif;
+        font-size: 18px;
+        font-weight: 600
+    }
+
     #lpk-1,
     #lpk-2,
     #lpk-3,
@@ -682,7 +754,7 @@
     #lpk-4 #ck4 {
         text-align: center
     }
-</style><div id=lpk-src style=display:none><div id=lpk-1><div id=ck1><div class=w><span class=logo>leap<i>proof</i></span><span class=sec><svg viewBox="0 0 24 24" fill="none" stroke="#231017" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="11" width="14" height="10"></rect><path d="M8 11V7.5a4 4 0 0 1 8 0V11"></path></svg><span>Secure checkout</span></span></div><div class=bar>Free shipping <b>·</b> 30-Night Leak-Test <b>·</b> Free size swap</div></div></div><div id=lpk-2><div id=ck2><div class=top><div class=cal><b id=ck2-m>Oct</b><span id=ck2-d>27</span></div><div><div class=lab>Order today</div><div class=when id=ck2-when>Most orders arrive in about 6–10 days</div><div class=small>Packed within 1–3 business days. Free shipping.</div></div></div><div class=pic id=ck2-pic>Your 30 nights start the day they arrive.</div><div class=size id=ck2-size></div></div></div><div id=lpk-3><div id=ck3><div class=g><div class=lab>The 30-Night Leak-Test</div><h3>Sneeze in them. Laugh in them. Then decide.</h3><p>Wear them through your real moments for 30 nights from the day they arrive. If they don’t hold, email
+</style><div id=lpk-src style=display:none><div id=lpk-1><div id=ck1><div class=w><span class=logo>leap<i>proof</i></span><span class=sec><svg viewBox="0 0 24 24" fill="none" stroke="#231017" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="11" width="14" height="10"></rect><path d="M8 11V7.5a4 4 0 0 1 8 0V11"></path></svg><span>Secure checkout</span></span></div><div class=bar>Free shipping <b>·</b> 30-Night Leak-Test <b>·</b> Free size swap</div></div></div><div id=lpk-2><div id=ck2><div class=top><div class=cal><b id=ck2-m>Oct</b><span id=ck2-d>27</span></div><div><div class=lab>Order today</div><div class=when id=ck2-when>Most orders arrive in about 6–10 days</div><div class=small>Packed within 1–3 business days. Free shipping.</div></div></div><div class=pic id=ck2-pic>Your 30 nights start the day they arrive.</div><div class=size id=ck2-size></div><div class=ord id=ck2-ord></div></div></div><div id=lpk-3><div id=ck3><div class=g><div class=lab>The 30-Night Leak-Test</div><h3>Sneeze in them. Laugh in them. Then decide.</h3><p>Wear them through your real moments for 30 nights from the day they arrive. If they don’t hold, email
 us and we refund your whole order. You keep the pairs. Nothing to send back.<ul><li>Wrong size? We send your new size free.<li>One-off payment. No subscription, nothing renews.<li>On top of your legal rights.</ul></div><div class=note><div class=fr>Will it feel like a diaper?</div><p>No. It’s plain black underwear — pull it on and forget it’s doing anything. No crinkle, no bulk, nothing to show under leggings.</p></div><div class=founder><div class=mk>lp</div><div><p>I got tired of watching women quietly give up the trampoline, the run, the jump — handed a liner and told it’s “just normal now.” It’s common. It is not normal.</p><p>So we made underwear for the leak and put the 30-night, keep-the-pairs test on it — because you’ve been promised things before, and you deserve to try it with nothing on the line.</p><p class=sig>— The Leapproof team</p></div></div><div class=note><div class=fr>One set, not a monthly bin run.</div><p>A liner a day goes in the bin by nightfall — and you buy them again next month, and the month after. These you wash and wear again. Buy the set once; stop paying the forever tax.</p></div><div class=rv id=ck3-rv><div class=hd>From our testers</div><div id=ck3-list></div></div><p class=help>Questions before you pay? Email <a href=mailto:hello@leapproof.com>hello@leapproof.com</a>. A real person answers.</div></div><div id=lpk-4><div id=ck4><div class=logo>leap<i>proof</i></div><div class=links><a href=https://leapproof.com/policies/refund-policy target=_blank rel=noopener>Refunds</a><a href=https://leapproof.com/policies/shipping-policy target=_blank rel=noopener>Shipping</a><a href=https://leapproof.com/policies/terms-of-service target=_blank rel=noopener>Terms</a><a href=https://leapproof.com/policies/privacy-policy target=_blank rel=noopener>Privacy</a><a href=mailto:hello@leapproof.com>Contact</a></div><p>Underwear, not a treatment. Made for lighter leaks.<br>© 2026 leapproof · Melbourne, Australia</div></div></div><script>
     (function(){
 /* ---------- 1. Lay out the page: our blocks in, template junk out, template text renamed ---------- */
@@ -843,6 +915,26 @@ var ctry=0; (function us(){
   /* Funnelish re-renders the list ~1-2s after load (restoring its default set), so keep
      re-asserting the URL set for ~14s or until she picks one herself. */
   var st=0; (function boot(){ if(!userPicked) sync(); if(++st<28) setTimeout(boot,500); })();
+
+  /* "Your order" recap: list what she's actually getting + prices, read live from the cart (read-only). */
+  function money(n){ n=+n||0; return '$'+n.toFixed(2); }
+  function esc2(x){ return String(x).replace(/[&<>]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;'}[c]}); }
+  function renderOrder(){
+    var P=window.PRODUCTS||[], ob=document.getElementById('ck2-ord'); if(!ob || !P.length) return;
+    var lines=[], total=0, any=false;
+    P.forEach(function(p){
+      var cb=document.querySelector('input[name="product-id"][value="'+p.id+'"]'); if(!cb || !cb.checked) return;
+      any=true;
+      var nm=p.name||'', isBrief=/Leapproof\s+Briefs/i.test(nm);
+      var sub=(isBrief && typeof ok!=='undefined' && ok && sz) ? '<small>Size '+esc2(sz)+'</small>' : '';
+      var pr = isBrief ? '<span class="pr">'+money((total+= (+p.price||0), +p.price||0))+'</span>'
+                       : '<span class="pr free">FREE</span>';
+      lines.push('<div class="ln"><span class="nm">'+esc2(nm)+sub+'</span>'+pr+'</div>');
+    });
+    if(!any) return;
+    ob.innerHTML='<h4>Your order</h4>'+lines.join('')+'<div class="tot"><span>Total</span><span>'+money(total)+'</span></div>';
+  }
+  var ro=0; (function orderLoop(){ renderOrder(); if(++ro<30) setTimeout(orderLoop,500); })();
 
   /* Her size from the quiz / offer page */
   var sz=(q.get('size')||'').toUpperCase(); if(sz==='2XL') sz='XXL';
