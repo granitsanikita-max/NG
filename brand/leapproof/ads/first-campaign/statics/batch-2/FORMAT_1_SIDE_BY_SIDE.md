@@ -61,20 +61,23 @@ Reject if: any wrapper shows print/brand/stain, the pair has lace/elastic trim/l
 - **Tiny kicker labels in-scene (optional, hand-marker look):** over the pile → `every month, forever` · over the pair → `once`
 - **CTA chip (bottom, the one claret moment, small, clearly tappable):** `Take the 60-sec quiz →`
 
-### Caption (primary text) — tightened for density (F#4: every line moves a belief or the tap, nothing else)
+### Caption (primary text) — CHOSEN VERSION: full, with dead lines cut (F#4)
+ICP verdict: for a burned skeptic in a niche where long native wins, the full confessional converts better than the ultra-short — keep the specificity/proof beats, cut only throat-clearing and restatement.
 > I did the math on my panty liners.
 >
-> One a day, every day, for four years — just in case I sneezed, jumped, or laughed too hard at my kid.
+> One a day. Every day. For four years. One in the gym bag, one in the glovebox, one in every coat pocket — just in case I sneezed, did double-unders, or laughed too hard at my kid.
 >
-> Then it clicked: whoever makes these doesn't *want* the leak to stop. A leak that stops is a customer who stops. The first adult pad shipped in 1978, and their only idea since is "wear another one tomorrow." That's not a fix. It's a subscription.
+> Then it clicked: whoever makes these doesn't *want* the leak to stop. A leak that stops is a customer who stops. The first adult pad shipped in 1978, and their only idea since is "wear another one tomorrow." That's not a fix. It's a subscription — and I was the one re-ordering it.
 >
 > But leaking on a sneeze is common — not normal, and not a life sentence after kids. It's plumbing, not age.
 >
-> So I stopped. I wear plain black underwear made for the leak now — wash it, wear it again, nothing in the bin. I forget it's even there.
+> So I stopped. I wear plain black underwear made for the leak now — wash it, wear it again, nothing in the bin. I honestly forget it's there.
 >
-> And yeah, "leak-proof underwear" sounds like a scam — I got burned too. So wear them, wash them, give them a real sneeze for 30 nights; if they don't hold, full refund and keep the pairs.
+> And yeah, I know "leak-proof underwear" has a scam smell. I got burned too — I've had a pair soak right through in under an hour. So the only ones worth your time are the ones you can actually test: wear them, wash them, put them through a real sneeze for 30 nights, and if they don't hold, full refund and keep the pairs anyway.
 >
-> Tap the quiz: 60 seconds, six questions, and it matches you to your set and unlocks your free gifts. You'll know exactly what you're getting first.
+> Which set is right depends on your moment and your size — so there's a quick quiz instead of a guess.
+>
+> Tap it: 60 seconds, six questions, and it matches you to your set and unlocks your free gifts. You'll know exactly what you're getting before you spend a cent.
 
 ---
 
@@ -93,20 +96,22 @@ Reject if: wrappers show print/brand/stain, the row doesn't read as a sequence e
 - **Tiny in-scene labels (optional):** over the row → `every single day` · over the pair → `once`
 - **CTA chip (bottom, claret):** `Take the 60-sec quiz →`
 
-### Caption (primary text) — tightened for density (F#4)
+### Caption (primary text) — CHOSEN VERSION: full, with dead lines cut (F#4)
 > Nobody warns you about the bunching.
 >
-> A liner doesn't just sit there. It bunches, it shifts, and by lunch you're doing the little walk to the bathroom to fix it. On a bad day it feels like a diaper — and I'm 36, not 86.
+> A liner doesn't just sit there. It bunches. It shifts. By lunch it's folded sideways and you're doing the little walk to the bathroom to fix it. On a bad day it feels like a diaper — and I'm 36, not 86.
 >
-> Then it goes in the bin, and tomorrow you start over. That's what got me — not one bad day, the *repeat*. A liner's only job is to remind you, every single day, that you're managing a problem instead of fixing it.
+> Then at night it goes in the bin, and tomorrow you peel open a fresh one and start over. That's the part that got me — not one bad day, the *repeat*. Bunch, shift, bin, repeat. A liner's only real job is to remind you, every single day, that you're managing the problem instead of fixing it.
 >
-> But leaking on a sneeze is common after kids — not normal, and not the rest of your life. There's gear built for it.
+> But leaking on a sneeze is common after kids — not normal, and not the rest of your life. It's plumbing. And there's gear built for it.
 >
-> I wear plain black underwear made for the leak now. Pull it on, forget it. No peeling, no folding, nothing in the bin — wash, hang, wear again.
+> I wear plain black underwear made for the leak now. Pull it on in the morning, forget about it. No peeling, no folding, nothing in the bin — wash it, hang it, wear it again.
 >
-> And "leak-proof underwear" sounds like every scam you've fallen for — I fell for two. So wear them, wash them, give them a real sneeze for 30 nights; if they don't hold, full refund and keep the pairs.
+> And I'll be straight: "leak-proof underwear" sounds like every scam you've already fallen for. I fell for two. So the only ones worth trying are the ones you can test — wear them, wash them, put them through a real sneeze for 30 nights, and if they don't hold, full refund and keep the pairs.
 >
-> Tap the quiz: 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
+> Which set is right depends on your moment and your size — so there's a quick quiz instead of a guess.
+>
+> Tap it: 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting before you spend a cent.
 
 ---
 
