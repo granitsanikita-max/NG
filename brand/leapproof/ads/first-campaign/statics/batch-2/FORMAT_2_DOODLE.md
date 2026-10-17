@@ -1,136 +1,151 @@
 # Static Batch 2 — Format 2: DOODLE (2a + 2b)
 
-Built against the same stack as Format 1 (Notion **Copywriting Fundamentals** ④/⑤/⑦, `BRAND_BIBLE.md` §5/§6/§8/§10/§12/§13, `AD_RESEARCH.md`, the 155-snippet VOC bank, Sugarman *Vision Breakthrough* teardown). Cold TOF, broad US W28–50, zero price/offer. CTA → the 60-second quiz. **No curiosity clicks.**
-
-**Why doodle = scroll-stopper:** a rough hand-drawn comic in a feed of photos and video is a pattern interrupt — it reads as a personal journal/comic, not an ad (native). The angle lives in the drawing + the handwritten line.
-
-**Angle for this format: identity + defiance (NOT the pad enemy — that's Format 1).** The emotional spine here is **pride + the grief of almost quitting → relief**. Emotion tally backs it: desire/pride 10, grief 8. The enemy is not the pad — it's **the advice to shrink** ("just stop running / modify / it's your age"). The brand is the answer to the deepest line in the dataset: *"My PT told me to quit running. I told her, with tears in my eyes, that I couldn't."* [C128]
+Built against **both** Notion references pulled in full — **Copywriting Fundamentals** (④ 10 fundamentals · ⑤/⑦ techniques) AND **Ad Fundamentals** (② goal+target · ④ Tier-1 execution laws · ⑤ ad techniques · Format-as-first-argument) — plus `BRAND_BIBLE.md` §5/§6/§8/§10/§12/§13, `AD_RESEARCH.md`, the 155-snippet VOC bank, and the Sugarman *Vision Breakthrough* teardown. Cold TOF, broad US W28–50, zero price/offer. CTA → the 60-second quiz. **No curiosity clicks.**
 
 ---
 
-## 0. Goal analysis (Fundamentals ③)
+## 0. Ad Fundamentals ② — Goal + target (decide BEFORE the format)
 
-| | 2a + 2b (same spine) |
-|---|---|
-| **Surface** | Native doodle ad + first-person caption (mini-advertorial). |
-| **Reader arrives** | Scrolling. Active 30s–40s woman who has quietly scaled back the thing she loves because she leaks doing it. |
-| **Awareness** | **Problem-aware, identity-threatened.** She knows she leaks during her sport. The belief to break: "the fix is to stop / ease off / it's my age." |
-| **Sophistication** | **Stage 4–5.** Lead with identity + a reframe, not a claim. |
-| **North Star belief** | "I don't have to choose between my sport and leaking. I'm not old, not broken — it's a gear problem, and a free 60-second quiz matches me to the fix." |
-| **Target emotion** | **Defiance + pride**, through the grief of nearly giving it up → relief. Never shame. Enemy = the advice to shrink, never a person, never a named brand. |
-
-**Necessary beliefs installed, in order:**
-1. This is ME — an athlete/active woman, not old, not broken. (identity, B4)
-2. I was wrongly told the only fix is to STOP / scale back the thing I love.
-3. Leaking during my sport is common — NOT normal, NOT age. A gear problem, not a me problem. (B1)
-4. There's real gear built for this I can verify — not another scam. (B3/B4, wear-test)
-5. The next step is a quick, free 60-second quiz that matches me — and I know what it is before I tap. (B6)
-
-**Techniques pulled (⑤/⑦ + Sugarman):** Curiosity headline that can't be filed away · first-person "I"/letter voice · skeptic→believer conversion arc · **make the handed "solution" (quit/modify) the problem** (Sugarman "Sunglass Danger" flipped onto advice) · **Linking** (athlete logic: "you wouldn't quit running because old shoes gave you blisters — you'd get better shoes") · Fear/loss aversion on **identity** (losing the one hour that's hers), present + concrete, paired with relief · Involvement/ownership (put her back in the moment, "run in them / jump in them") · Belief change · Honesty (raise the scam rep, flip it) · Let them reach the conclusion · Communicates > says (the sign-off) · Desire to belong · **Density (F#4): every line moves a belief or the tap.** · No fake urgency.
+- **Avatar:** Mara, 36. Postpartum, back to running/lifting/class. Experiences: leaks on the run, the double-under, the jump. Behaviours: packs a liner, "modifies," skips the rope, pees before class. Emotions: pride in being active, grief + quiet shame at shrinking, anger at being told it's "just her age." Demo: active 30s–40s US mom, buys premium athletic wear.
+- **Core desire (the "why?" method):** surface = "stop leaking when I move" → *why?* = "keep running / lifting / jumping" → *why?* = "it's the one hour that's mine" → *why?* = **"proof I'm still me — strong, active, not old, not broken."** We write to that deepest driver (identity/autonomy), never to "a dry gusset."
+- **Angle + emotion:** ONE problem attacked = *being told the only fix is to shrink/quit*. Emotion transferred = **defiance + pride**, through grief → relief. (Tally backs it: pride/desire 10, grief 8.)
+- **Funnel move:** cold scroller who's quietly scaling back → quiz-taker who believes there's gear for this. (Quiz LP is the pre-sell; no separate advertorial.)
+- **Awareness (Dial 1):** Problem-aware, identity-threatened → enter on the **relatable moment** (crying in the PT office / needing "water" when the rope comes out).
+- **Sophistication (Dial 2):** Stage 5 (exhausted) → **sell identity**, not a claim.
+- **3 modifiers:** belief-change depth = HIGH (skepticism high — 1-in-3 burned × real spend) → the verifiable wear-test carries it · iceberg depth = **identity** (this is an identity buy, go deep) · length = long static, so use arc/anticipation.
 
 ## Compliance lock (CJ column)
-Open on the MOMENT (the run / the jump rope). No "do you leak / you suffer" — keep it first-person + general, never attribute the condition to the viewer. No mechanism/Leak-Lock/pee-vs-blood/period-undie attack. No absolute claims. No banned words (incontinence, protection, discreet, dignity, accident). "common but not normal" + "not old" OK. **PT/physical therapist is not the villain** — she gave conventional advice; the brand respects the pelvic-PT authority (our #1 trusted source). The enemy is the *idea* that quitting is the only option. Guarantee = 30-Night Leak-Test. Quiz reward = "free gifts unlocked." AI-disclosure line or Meta toggle required (AI-made creative). No "diaper" as on-image text.
+Open on the MOMENT. No "do you leak/you suffer" (first-person + general only, never attribute the condition). No mechanism/Leak-Lock/pee-vs-blood/period-undie attack — so the **UMS is verifiability, not the sealed gusset**. No absolute claims, no banned words, no numeric prevalence stat (keep "common/not normal," communal framing). PT is sympathetic, never the villain (protects our #1 authority). "not old" OK. Guarantee = 30-Night Leak-Test. Quiz reward = "free gifts unlocked." AI-disclosure line or Meta toggle (AI-made). No "diaper" as on-image text.
 
 ---
 
 # 2a — "I told her no"
 
-### Doodle visual (concept — detailed prompt built after script approval)
-Rough hand-drawn marker/pen doodle, like a page from her journal: a woman mid-stride running, a PT with a clipboard to the side with a small speech bubble ("maybe ease off the running?"), the runner shaking her head with one tear, a scribbled road under her feet. Handwritten, imperfect, native — not a clean brand graphic.
-**On-image text (handwritten):**
-- Headline (top): `My PT told me to stop running. I cried. Then I said no.`
-- Sub (bottom): `You don't quit the sport. You fix the gear.`
-- CTA chip: `Take the 60-sec quiz →`
-
 ### Caption (primary text)
 > I cried in my physical therapist's office.
 >
-> Not because of the leaking. Because of what she said next: "Maybe ease off the running for a while."
+> Not because of the leaking — because of what she said next: "Maybe ease off the running for a while."
 >
-> Running is the one hour that's mine. No kids, no work — just me and the road. And I was being told to give it up because I leak a little when I push the pace.
+> Running is the one hour that's mine. No kids, no work — just me and the road. And I'm not the only one: most women who hit this just quietly stop, and never say why.
 >
 > I said no.
 >
-> Here's what took me too long to see: leaking when you run is common — but it is NOT normal, and it is NOT your body telling you you're done. You don't quit the sport. You fix the gear. You wouldn't stop running because your old shoes gave you blisters — you'd get better shoes.
+> Because leaking when you run isn't your body giving out, and it isn't your age. It's that you get handed two options — quit, or wear a pad — and nobody mentions the third. You don't quit the sport. You fix the gear. You wouldn't stop running because old shoes gave you blisters — you'd get better shoes.
 >
-> So I did. I wear underwear actually made for the leak now — plain black, looks like normal underwear, I pull it on and forget it's there, then wash it and wear it again.
+> So I did. There's underwear actually made for this — plain black, feels like normal underwear. Pull it on, forget it, wash it, wear it again. Nothing to peel, nothing to pack.
 >
-> And yeah, I know "leak-proof underwear" sounds like a scam. I'd been burned before. So the only ones worth trying are the ones you can test — run in them, wash them, put them through a real session for 30 nights, and if they don't hold, full refund and keep the pairs.
+> And yeah, "leak-proof underwear" sounds like a scam — I'd been burned too. So the only version worth your time is the one you can test on your own body: run in it, wash it, put it through a real session for 30 nights, and if it doesn't hold, full refund and keep the pairs.
 >
-> Which set is right depends on your moment and your size — so there's a quick quiz instead of a guess.
+> Which set is yours depends on your moment and your size — so there's a quick quiz instead of a guess.
 >
-> Tap it: 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting before you spend a cent.
+> 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
 >
-> I kept the run. Don't give yours up either.
+> I kept the run. Don't give yours up.
+
+### On-image (handwritten text layer — NOT AI-rendered)
+Headline: `My PT told me to stop running. I cried. Then I said no.` · Sub: `You don't quit the sport. You fix the gear.` · CTA chip: `Take the 60-sec quiz →`
 
 ---
 
 # 2b — "The skip nobody sees"
-
-### Doodle visual (concept — detailed prompt after approval)
-Rough doodle: a jump rope lying on the floor, a woman looking down at it, a thought bubble "…maybe not today." Quieter, lonelier than 2a. Handwritten, native.
-**On-image text (handwritten):**
-- Headline (top): `You didn't stop doing double-unders because they got hard.`
-- Sub (bottom): `Common. Not normal. And definitely not old.`
-- CTA chip: `Take the 60-sec quiz →`
 
 ### Caption (primary text)
 > Nobody noticed when I stopped.
 >
 > When the jump rope came out in class, I'd suddenly need water. When the workout said double-unders, I'd "modify." I told everyone it was my knees. It wasn't my knees.
 >
-> You don't stop doing double-unders because they got hard. You stop because of the leak — and nobody tells you there's another way, so you just quietly make yourself smaller.
+> You know the moment — the rope comes out, and your stomach drops. You're not the only one in that room: plenty are doing the exact same quiet math, and nobody says a word.
 >
-> Here's what I wish someone had said: leaking when you jump is common — but it is NOT normal, and it is definitely NOT because you're old. It's a gear problem, not a you problem.
+> You don't stop doing double-unders because they got hard. You stop because of the leak — and nobody tells you there's a third option, so you just make yourself smaller.
 >
-> So I stopped shrinking. I wear underwear actually made for the leak now — plain black, feels like normal underwear, I pull it on and forget it, then wash it and wear it again.
+> But leaking when you jump isn't weakness, and it isn't your age. It's a gear problem, not a you problem.
 >
-> And look — "leak-proof underwear" sounds like every scam you've scrolled past. I'd fallen for one. So the only ones worth trying are the ones you can test: jump in them, wash them, put them through a real class for 30 nights, and if they don't hold, full refund and keep the pairs.
+> So I stopped shrinking. There's underwear actually made for this — plain black, feels like normal underwear. Pull it on, forget it, wash it, wear it again. Nothing to peel, nothing to pack.
 >
-> Which set is right depends on your moment and your size — so there's a quick quiz instead of a guess.
+> And look — "leak-proof underwear" sounds like every scam you've scrolled past. I'd fallen for one. So the only version worth trying is the one you can test: jump in it, wash it, put it through a real class for 30 nights, and if it doesn't hold, full refund and keep the pairs.
 >
-> Tap it: 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting before you spend a cent.
+> Which set is yours depends on your moment and your size — so there's a quick quiz instead of a guess.
+>
+> 60 seconds, six questions, matched to your set, free gifts unlocked. You'll know exactly what you're getting first.
 >
 > The rope's not the problem. Pick it back up.
 
----
-
-## Chief pass (read back as Mara, 36 — Fundamentals ⑥)
-
-**Does it talk to HER, deeply?**
-- Opens on the MOMENT and her identity, not the condition: crying in the PT office / needing "water" when the rope comes out. ✓
-- Her exact world: running as "the one hour that's mine," "modify," "I told everyone my knees." Specific, athlete, relatable. ✓
-- Verbatim spine: the PT-quit-running line [C128]; the silent-shrinking of the athlete. ✓
-- **Pride + grief → relief, never shame.** The enemy is the advice to shrink, not her. ✓
-
-**Walking the belief chain?** B(identity: this is me/not old) ✓ · B(the handed fix = quit = wrong) ✓ · B(common not normal, gear not body) ✓ · B(verifiable, not a scam → wear-test) ✓ · B(the quiz is next and she knows what it is) ✓. All in order.
-
-**Fundamentals active?**
-- Argument > words: told to quit → that's not the fix → it's a gear problem → here's gear you can verify → here's the 60-sec match. Airtight; power words ride on top. ✓
-- 3–6 word vacuum: "I cried in my physical therapist's office." / "Nobody noticed when I stopped." ✓
-- Slippery slide; nothing deletable (density). ✓
-- 5th–8th grade, staccato + varied, stop-slop voice. ✓
-- Facts over opinions + specificity (30 nights, 60s, six questions). ✓
-- Objections raised + resolved: scam → wear-test; for-me/old → "not old," identity; "just stop" → fix the gear. ✓
-- Honesty: scam rep raised first, then flipped. ✓
-- Let them reach the conclusion / communicates > says: "I kept the run. Don't give yours up either." / "The rope's not the problem. Pick it back up." ✓
-
-**Sugarman moves present:**
-- Headline that can't be filed away (you must read on to learn what she said / why she stopped). ✓
-- "I"/letter voice, a real story, skeptic→believer conversion. ✓
-- **Make the handed "solution" the problem** — the advice to quit/modify is the villain, flipped. ✓
-- **Linking** — athlete logic (old shoes/blisters → better shoes), bridging the new (leak gear) to the known. ✓
-- The dare / involvement — "run in them / jump in them… for 30 nights." She runs the experiment. ✓
-- Specificity for credibility; desire to belong; one clear action. ✓
-
-**No-curiosity-click check:** the doodle's handwritten line + the caption spell out the quiz (60s, 6 questions, matches you, free gifts, know before you spend). Only a believer taps; she lands on exactly the quiz she was promised. ✓
+### On-image (handwritten text layer — NOT AI-rendered)
+Headline: `You didn't stop doing double-unders because they got hard.` · Sub: `Common. Not normal. And definitely not old.` · CTA chip: `Take the 60-sec quiz →`
 
 ---
 
-## Facebook fields (same shared settings as Format 1)
-- CTA button: **Learn More** · URL: the working quiz link (swap to try.leapproof.com when connected) · single image 4:5.
-- FB **Headline** field: `Find your match in 60 seconds` · FB **Description**: `60-second quiz · your set + free gifts · 30-night money-back test`
-- AI-disclosure: Meta toggle, or last line `Made with AI.`
+## Embed map — every fundamental & technique, and the exact line it lives in
+*(This is the part I skipped before. Nothing is a label; each points at copy. "N/A" = consciously not used, with the reason.)*
+
+### Copywriting Fundamentals ④ (the 10 — mandatory in every copy)
+1. **Argument > words** — the whole chain: told to quit → that's the wrong fix → you were handed a false choice → fix the gear, don't quit → here's the one you can verify → 60-sec match. Power words ride on top, never instead of it.
+2. **Slippery slide / 3–6-word vacuum** — "I cried in my physical therapist's office." / "Nobody noticed when I stopped." Each line earns the next.
+3. **Clarity (5th–8th grade)** — one idea per line, short words.
+4. **Speed to value + density** — value signalled by line 3; every line moves a belief or the tap (no throat-clearing).
+5. **Rhythm & cadence** — staccato beats: "I said no." / "It wasn't my knees."
+6. **Emotional resonance** — defiance + pride → relief; screened line by line, nothing shaming.
+7. **Human voice** — first-person byline, reads aloud.
+8. **Anticipate & resolve objections** — scam → wear-test; "for me / I'm old" → "not your age / not old"; "just quit" → fix the gear; "still need a pad" → made for this.
+9. **Honesty (flaw first, then flip)** — "'leak-proof underwear' sounds like a scam — I'd been burned too," then the keep-the-pairs test.
+10. **Consciousness / iceberg → identity** — reaches identity depth: "the one hour that's mine" (2a) / "you just make yourself smaller" (2b).
+
+### Copywriting ⑤/⑦ techniques (picked)
+- **Belief change** — common-not-normal, not your body, not your age, gear-not-you.
+- **Curiosity & contrast (open loops, paid off)** — "Then I said no" / "It wasn't my knees."
+- **Involvement / ownership** — "run in it" / "jump in it… for 30 nights."
+- **Linking (Sugarman)** — athlete logic: "you wouldn't stop running because old shoes gave you blisters — you'd get better shoes."
+- **Fear / loss aversion (present, not someday)** — the cost of nothing = lose the one hour that's hers / keep making yourself smaller. Paired with relief.
+- **Human element** — the PT scene, the "water" dodge, the "I told everyone my knees" cover story.
+- **Silent problem** — "most women who hit this just quietly stop" (2a) / "plenty are doing the same quiet math, and nobody says a word" (2b).
+- **Let them reach the conclusion / communicates > says** — "I kept the run. Don't give yours up." / "The rope's not the problem. Pick it back up."
+- **Facts over opinions + specificity** — common/not normal; 30 nights; 60 seconds; six questions.
+- **Sell the cure, not the prevention** — promises the fix for the pain she feels NOW (leaking mid-sport), not a someday risk.
+- **Necessary beliefs** — the 5 in the goal block, marched in order.
+- **Desire to belong / call-out** — the runner who refused / the woman who skipped the rope; "don't give yours up."
+- **Power words (edit-pass layer)** — burned, shrinking, quietly, giving out.
+- **N/A:** "That's-why evidence" and full UMP mechanism (CJ bans the cause/mechanism claim) → reframed mechanism-light; "Number is the hook" (not a listicle).
+
+### Ad Fundamentals ④ (Tier-1 execution laws — mandatory)
+- **Authority / trust** — BOTH routes: a credentialed figure present (the physical therapist) + **facts stated as facts** ("underwear actually made for this," the 30-night own-body test). ← *the gap I'd missed; now carried.*
+- **Positioning** — matches Stage 5 (identity, not a claim).
+- **Speed to value** — ~line 3.
+- **Clarity** — 5th–8th grade.
+- **Value lens (Hormozi) = (dream × likelihood) ÷ (time × effort)** — crush the denominator: lead with EASE — "Pull it on, forget it… Nothing to peel, nothing to pack," and the ask is a 60-second quiz (low time/effort). ← *added.*
+- **Delivery/performance — N/A** (static, not video), except its "SHOW the contrast" → carried by the doodle.
+
+### Ad ⑤ techniques
+- **Hook + Hook Bridge** — 2a bridge = **tease** ("because of what she said next:"). 2b bridge = **proof/relatable detail** ("I'd suddenly need water… I told everyone my knees. It wasn't my knees.").
+- **Open-loop mechanics** — opened and paid off within the caption (loop closes again on the quiz).
+- **Scroll stopper = weird-with-a-reason** — the doodle itself raises the ad's question (why is she crying mid-run? why is the rope on the floor?), so it holds, not just stops.
+- **Story Ladder climb** — Reporter (common/not normal) → Illusionist (open loops) → Champion (stakes + the exact person) → Architect (loops open/close) → Translator (clarity) → Maestro (signature close).
+- **Re-hook every scene** — each line earns the next.
+- **UMP → UMS (split the mechanism)** — **UMP (problem's root cause/villain):** it's NOT your body/age — you were handed a **false choice** (quit or a pad) and never told there's a third. **UMS (why ours uniquely fixes it, CJ-safe):** underwear *made for this* that you can **verify on your own body for 30 nights, keep-the-pairs** — verifiability is our differentiator since we can't claim the sealed mechanism. ← *added, sequenced problem-first.*
+- **Silent-problem amplifier** — see above; strongest in 2b.
+- **Micro-commitments** — "You know the moment — the rope comes out, and your stomach drops." (a mental yes). ← *added.*
+- **Facts over opinions** — as above.
+- **Sell the cure not the prevention** — as above.
+
+### Format = the first argument
+- **Container:** the **doodle / personal-comic** is a native, "found-not-made" container (Borrowed-Interface / Craft-Object family) — wins the "is this an ad?" check before the copy gets a turn.
+- **Claim-swap logged:** borrow the hand-drawn-journal skeleton → insert our defensible defiance claim ("told to quit → said no"); no borrowed proof.
+- **Two layers (mandatory):** the drawing is generated with **NO text in frame** (a model rendering our words = garbled = the ad has already failed); the handwritten lines are set as **real text on top, handwriting font, 2× resolution**.
+
+---
+
+## Chief pass — Ad ⑥ + Copywriting ⑥ checklists
+- [x] Entered at the right awareness (problem-aware, relatable moment — not mixed)
+- [x] Positioning matches sophistication (Stage 5 identity)
+- [x] Value signalled in first ~5 sec (by line 3)
+- [x] Hook has a bridge (tease / proof)
+- [x] 5th–8th grade, feels smart not lectured
+- [x] Belief-change depth fits skepticism × price (the wear-test does the heavy lift)
+- [x] Anticipation/arc used (length calls for it)
+- [x] **All Tier-1 present: avatar · core desire · angle · emotion · authority · positioning** (authority now carried)
+- [x] Honest — flaw raised & flipped
+- [x] Offer/CTA (the quiz) unmistakable + no-surprise
+- [x] Word-craft checked vs Copywriting Fundamentals
+- [x] Read back as Mara: talks to identity, moves her to the tap, every technique is actually in the lines
 
 ## Next step
-On approval of these two scripts → build the detailed DOODLE image prompts (one generation each, no variants) and generate.
+On approval → build the DOODLE image prompts (drawing only, no text in frame; weird-with-a-reason), **one generation each, no variants**, then generate.
