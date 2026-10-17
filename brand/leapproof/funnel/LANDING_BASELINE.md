@@ -28,8 +28,9 @@ Target after the new landing: **55–60%+**.
 
 Reading the drop-off, worst-to-best leak:
 - **Landing → Quiz = 35.7%** ← biggest leak, most visitors, the fix target (CTA above fold + new hero + headline + reviews).
-- Product → Checkout = 24.4% (only 10 reached checkout — tiny sample, watch later).
-- Checkout → purchase = 0% (0 of 10 — tiny sample; the real test comes with volume).
+- Product → Checkout = 24.4% on paper (10 checkout visits) — but ~3 of those 10 were Nikita testing, so
+  real checkout-initiated ≈ 7. Tiny sample either way; watch later.
+- Checkout → purchase = 0% (0 of ~7 real — tiny sample; the real test comes with volume).
 - Quiz → Product = 54.7% (healthiest step — the quiz surgery is holding).
 
 ## Whole-funnel totals (top cards)

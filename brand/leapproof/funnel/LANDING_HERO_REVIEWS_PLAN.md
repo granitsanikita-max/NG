@@ -60,24 +60,34 @@ The click happens when three hesitations are beaten: **"this isn't for me," "it'
 "the quiz is a gimmick / they'll get my size wrong."** One review each. CJ-safe (relief + behavior change,
 no absolute leak claims). Each tied to the headline's moment and to the quiz.
 
+**Voice pass (v2):** rewritten to sound like a real woman typed it on her phone — starts mid-thought,
+rambles a little, one mundane specific only a real user would mention, understated ending, and NONE of
+the brand's own marketing phrases in her mouth ("the 30-night thing," "the quiz knew what it was doing"
+were the dead giveaways — gone). The objection each one kills is still baked in, just carried under the
+surface instead of stated like a sales line.
+
 ### R1 — kills "I'm too young, this is for older women" (the #1 scroll-past for a 30-something)
-> "I'm 36 and almost scrolled past — I figured this stuff was for women a lot older than me. Did the quiz
-> anyway. They turned up looking like plain black briefs, and I wore them to my daughter's trampoline
-> party and actually got on it instead of 'just watching.' Wish I'd stopped bracing for a sneeze years ago."
+> "Honestly almost didn't order — I had it in my head this was more of an older-woman thing and I'm 36.
+> But I'd just done the sneeze-at-the-worst-moment thing at school pickup, again, so I figured why not.
+> They turned up and they're just… plain black undies, which I wasn't expecting. Ended up actually getting
+> on the trampoline at my daughter's party instead of being the mum holding everyone's shoes. Small thing
+> but it got me."
 > **— Danielle R. · 36 · Size M · Received a free set to test**
 *Kills:* "not for me / for my nan." *Ties to:* the moment (trampoline, sneeze) + validates doing the quiz.
 
 ### R2 — kills "I've been burned by 'leak-proof' junk before / is this a scam" (the burned third)
-> "I've wasted money on 'leak-proof' undies off Instagram before and they were rubbish, so I expected the
-> same. The only reason I did the quiz was the 30-night thing — if they didn't work I'd get my money back
-> and keep them anyway. Two weeks in, I've stopped packing a spare pair in my gym bag."
+> "I've bought two different 'leak-proof' ones off Instagram before and both were a letdown, so I went in
+> expecting nothing. Only reason I even tried is you can send them back and still keep them if they're no
+> good, so worst case I'm out nothing. Few weeks in now and I've stopped chucking a backup pair in my gym
+> bag — didn't even notice I'd stopped until my husband asked where they'd gone."
 > **— Sarah W. · 41 · Size L · Received a free set to test**
 *Kills:* scam / new-brand risk. *Ties to:* the 30-night test (zero risk to click + try) + the gym moment.
 
 ### R3 — kills "a quiz is a gimmick / homework / they'll get my size wrong" (the click-specific objection)
-> "I nearly skipped the quiz — figured it was just a way to grab my email. Took about two minutes, no
-> email, and it put me in a size I'd never have picked myself. They fit better than my normal undies and
-> didn't budge on my Saturday run. The quiz actually knew what it was doing."
+> "Will admit I rolled my eyes at having to do a quiz, figured it was the usual hand-over-your-email thing.
+> It wasn't — two minutes and it never asked for one. It put me in a size a bit bigger than I'd have grabbed
+> myself and I nearly changed it. Glad I didn't. They stay put, didn't have to think about them once on my
+> Saturday run. No idea how a few questions got it more right than I would've, but it did."
 > **— Melissa K. · 38 · Size XL · Received a free set to test**
 *Kills:* quiz-is-a-gimmick + wrong-size fear (the #1 research complaint). *Ties to:* directly de-risks
 the exact action we want — taking the quiz (2 min, no email).
@@ -95,8 +105,47 @@ before a CTA is "the quiz is worth 2 minutes." Tag format on each: first name + 
 
 ---
 
+## D. HEADLINE — does it cover ALL ad angles? (verdict + the fix)
+You were right to push on this. **The current two lines are an A1-only headline.** All three campaign
+angles land on this one page (FIRST_CAMPAIGN_CREATIVE_PLAN §4):
+- **A1 · The moment** (V3 silent on-body, S4 text cards) — "the sneeze, the laugh, the jump."
+- **A2 · Not a pad, not a diaper** (V1 liner-in-hand VO, S1 story) — "why are you still sticking pads in your undies."
+- **A3 · It's just underwear** (V2 liner-vs-brief "what's the difference", S2 on-body) — "plain black briefs, not a kit."
+
+"Go ahead and sneeze. / No crossing your legs first." is **two moment beats — both pure A1.** It's a
+perfect scent-match for the moment ads. But a woman arriving from an **A2** ad (she just watched 15s of
+"stop sticking pads in your underwear") or an **A3** ad ("it's just underwear, what's the difference") hits
+a headline about *sneezing* — her ad's scent (the pad / the "it's underwear" reframe) isn't in the H1. That
+micro-mismatch is exactly the kind of thing that leaks the click. The product reframe was only in the sub,
+one scroll-beat too late.
+
+**The fix is a one-line swap — keep line 1, rebuild line 2 to carry the product reframe:**
+- **Eyebrow:** Leak-resistant underwear · for the sneeze, the laugh, the jump  *(names all 3 moments → covers
+  laugh-ad and jump-ad traffic even though H1 leads on the single most universal micro-moment, the sneeze)*
+- **H1:** Go ahead and sneeze.
+- **Line 2:** **No pad. No crossing your legs first.**
+- **Sub:** Soft black briefs with a leak-resistant lining built in — so there's no pad. Take the 2-minute
+  quiz for your size and set, then 30 nights to see if they hold.
+- **Button:** Find my match › · *About 2 min · no email*
+
+Why "No pad. No crossing your legs first." is the unlock:
+- **"No pad"** = the A2 + A3 scent, now IN the headline. The liner/pad ads end on "Not a pad, not a diaper";
+  this line echoes it word-for-word → clean message match for that traffic.
+- **"No crossing your legs first"** = keeps the visceral A1 moment image (the bracing behavior) you already liked.
+- So all three angles see their scent on the first screen: moment (sneeze + legs), not-a-pad (no pad), just-underwear (no pad + "black briefs" in sub).
+- **Bonus:** it makes the *ads* easier to build — every ad can end on a line this hero repeats
+  ("Go ahead and sneeze" / "Not a pad, not a diaper" / "for the sneeze, the laugh and the jump"). The current
+  live hero ("Stop! I'll pee myself! / Common? Yes. Normal? No.") doesn't contain the "no pad" line the A2/A3 ads close on.
+
+7-ingredient score: curiosity **Y** (dare) · pain **Y** (sneeze + leg-cross) · promise **Y** ("no pad" = you don't
+need one) · specificity **Y** (no pad · 2 min · 30 nights) · simplicity **Y** (4 + 6 words) · credibility **PARTIAL**
+(honest "see if they hold"; full once a real tester count goes in the eyebrow) · timeframe **Y** → **6/7**, short,
+CJ-safe. *(One flag: "leak-resistant" is a hedge, not an absolute claim — defensible, but tell me if you'd rather
+drop it and let the sub carry the product idea alone.)*
+
 ## What I need from you to execute
-1. **Headline Option A** confirmed as launch (you said it's good → taking that as yes unless you change it).
+1. **Headline:** OK to make the one-line swap in §D — line 2 becomes **"No pad. No crossing your legs first."**
+   so the hero covers all 3 ad angles, not just the moment? (Line 1 "Go ahead and sneeze." unchanged.)
 2. **Hero image:** generate the new single-woman moment shot (one image, your go on credits), or crop the
    existing laughing-women asset + add the product inset?
 3. **Reviews:** these 3 templates OK as the objection spec? Then you collect the real versions on the same
