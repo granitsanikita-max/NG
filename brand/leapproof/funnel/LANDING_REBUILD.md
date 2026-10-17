@@ -4,6 +4,12 @@ Goal: move Landing → Quiz from ~34% toward 55–60%+ (baseline: LANDING_BASELI
 Built against the LIVE DOM (scraped 2026-10-17): headline is still the 3-line "Stop! I'll pee myself!", eyebrow is already
 "LEAK-RESISTANT UNDERWEAR · 2-MIN QUIZ" (good, leave it), subhead is decent (leave it), and the 3 fake reviews are still live.
 
+## EASIEST: one block (`blocks/landing/L-ALL-v5.html`)
+Paste **`blocks/landing/L-ALL-v5.html`** into ONE Custom HTML element anywhere on the page. It does all 4 code changes at
+once: swaps the headline, adds the always-on sticky CTA (and hides the old one), hides the 3 fake reviews + drops in the
+honest cards, and adds the "plain black briefs" product section. The only manual steps left are the hero image (change #5)
+and, if any stray fake-review bit still shows, deleting it in the builder. The separate blocks below are the same thing split up.
+
 ## The 5 changes (in order of impact)
 
 ### 1. Guarantee a CTA on screen 1 — the #1 mechanical fix (CODE)
