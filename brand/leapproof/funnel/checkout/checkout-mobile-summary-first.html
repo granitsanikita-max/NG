@@ -1,30 +1,25 @@
-<!-- Leapproof checkout · mobile: show the order-summary column FIRST (above the form/card details).
-     Paste into ONE Custom HTML element on the CHECKOUT page (in addition to the main checkout block).
-     Safe: it only reorders the column that holds the order summary AND does NOT hold the pay button,
-     so the "Complete my order" button always stays with the form. Desktop layout is untouched. -->
-<style>
-@media(max-width:600px){
-  .lpk-ckrow{display:flex!important;flex-direction:column!important}
-  .lpk-ckrow > .lpk-sumcol{order:-1!important}
-}
-</style>
+<!-- Leapproof checkout · mobile: move the "Your order" recap (delivery date + products + total) to the TOP,
+     above the form/card details. Paste into ONE Custom HTML element on the CHECKOUT page (with the main checkout block).
+     Moves only our own recap block (#lpk-2) — never the form, payment fields or pay button. Desktop is untouched.
+     Waits ~1.5s first so the main checkout block has finished placing the recap, then captures its home position. -->
 <script>
 (function(){
-  function run(){
-    var sumEl=document.querySelector('.order-summary.__open')||document.getElementById('lpk-2')||document.querySelector('.order-summary');
-    if(!sumEl) return false;
-    var row=sumEl.closest('.section_row'); if(!row) return false;
-    var cols=[].filter.call(row.children,function(c){return c.classList && c.classList.contains('row-column');});
-    if(cols.length<2) return false;
-    var sum=null;
-    cols.forEach(function(c){
-      var hasBtn=c.querySelector('button,input[type=submit],input[type=button]') || /Checkout Now|Complete my order|Place order|Pay now/i.test(c.textContent||'');
-      if((c.querySelector('.order-summary')||c.querySelector('#lpk-2')) && !hasBtn) sum=c;
-    });
-    if(!sum) return false;               /* summary column also holds the button -> do NOT reorder */
-    row.classList.add('lpk-ckrow'); sum.classList.add('lpk-sumcol');
-    return true;
+  var lpk2, par, next, cap=false, main;
+  function apply(){
+    lpk2=document.getElementById('lpk-2'); main=document.querySelector('.main-wrapper');
+    if(!lpk2||!main) return;
+    if(!cap){ par=lpk2.parentNode; next=lpk2.nextSibling; cap=true; }   /* remember where it lives (desktop home) */
+    if(window.innerWidth<=600){
+      var header=document.getElementById('lpk-1');
+      if(header && header.parentNode){
+        if(header.nextElementSibling!==lpk2) header.parentNode.insertBefore(lpk2, header.nextSibling);
+      } else {
+        if(main.firstElementChild!==lpk2) main.insertBefore(lpk2, main.firstChild);
+      }
+    } else if(par){
+      if(lpk2.parentNode!==par){ if(next&&next.parentNode===par) par.insertBefore(lpk2,next); else par.appendChild(lpk2); }
+    }
   }
-  var n=0;(function loop(){ if(run()||++n>40) return; setTimeout(loop,300); })();
+  setTimeout(function(){ var n=0;(function l(){ apply(); if(++n<25) setTimeout(l,400); })(); addEventListener('resize',apply); }, 1500);
 })();
 </script>

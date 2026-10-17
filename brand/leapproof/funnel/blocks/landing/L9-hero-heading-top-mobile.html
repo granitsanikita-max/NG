@@ -1,0 +1,26 @@
+<!-- Leapproof landing · mobile: move the HEADING above the hero image so it's fully visible on the first screen.
+     Replaces the 340px height-cap block (remove that one). On mobile the heading sits at the very top, the full
+     uncropped image shows right below it, then the sub/bullets/button. Desktop is untouched (heading restored in place). -->
+<style>
+@media(max-width:600px){ .el-213716 > .element-wrapper.lp-head{ width:100%!important; padding:14px 16px 6px!important; box-sizing:border-box; } }
+</style>
+<script>
+(function(){
+  var wrap, row, par, next, cap=false;
+  function setup(){
+    var h=document.querySelector('.el-949049'); var img=document.querySelector('.el-755524');
+    if(!h||!img) return false;
+    wrap=h.closest('.element-wrapper'); row=img.closest('.section_row');
+    if(!wrap||!row) return false;
+    if(!cap){ par=wrap.parentNode; next=wrap.nextSibling; wrap.classList.add('lp-head'); cap=true; }
+    return true;
+  }
+  function apply(){
+    if(!setup()) return;
+    if(window.innerWidth<=600){ if(row.firstElementChild!==wrap) row.insertBefore(wrap, row.firstChild); }
+    else if(par){ if(wrap.parentNode!==par){ if(next&&next.parentNode===par) par.insertBefore(wrap,next); else par.appendChild(wrap); } }
+  }
+  var n=0;(function l(){ apply(); if(++n<30) setTimeout(l,350); })();
+  addEventListener('resize',apply);
+})();
+</script>
