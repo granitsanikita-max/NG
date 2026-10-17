@@ -1,0 +1,123 @@
+<!--
+LEAPPROOF — Checkout trust + objection blocks
+Paste into a Funnelish "Custom HTML / Code" element placed DIRECTLY ABOVE the
+"Complete my order" button (and/or just under the order summary).
+Self-contained: scoped styles under .lpc, brand fonts + colours inline.
+Mobile-first (checkout is ~360px). Matches the white-card-on-cream look.
+
+CONTENT RULES BAKED IN:
+- No absolute leak claims. The 30-night keep-the-pairs guarantee does the work.
+- REVIEWS SECTION IS A TEMPLATE — fill with REAL, disclosed reviews only. Never fake.
+- Founder note is unsigned-placeholder: put a REAL name, or leave "The Leapproof team".
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+.lpc{--ink:#231017;--claret:#A33154;--cream:#F5EDE6;--blush:#E7CFC9;--rose:#8C6A6C;
+  font-family:'Hanken Grotesk',system-ui,-apple-system,sans-serif;color:var(--ink);
+  max-width:520px;margin:0 auto;padding:4px 0;line-height:1.5;-webkit-font-smoothing:antialiased;}
+.lpc *{box-sizing:border-box;}
+.lpc h2{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:22px;line-height:1.2;margin:0 0 4px;}
+.lpc .lpc-sub{color:var(--rose);font-size:14px;margin:0 0 16px;}
+.lpc-card{background:#fff;border:1px solid var(--blush);border-radius:16px;padding:18px 16px;margin:14px 0;}
+/* objection grid */
+.lpc-obj{display:grid;grid-template-columns:1fr;gap:10px;}
+@media(min-width:420px){.lpc-obj{grid-template-columns:1fr 1fr;}}
+.lpc-ob{background:var(--cream);border-radius:12px;padding:14px;}
+.lpc-ob .q{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:15px;margin:0 0 4px;color:var(--ink);}
+.lpc-ob .a{font-size:13.5px;color:#4a3a40;margin:0;}
+/* founder */
+.lpc-founder{display:flex;gap:12px;align-items:flex-start;}
+.lpc-founder .mark{flex:0 0 40px;width:40px;height:40px;border-radius:50%;background:var(--claret);
+  color:var(--cream);font-family:'Fraunces',serif;font-weight:600;font-size:16px;display:flex;align-items:center;justify-content:center;}
+.lpc-founder p{margin:0 0 8px;font-size:14.5px;}
+.lpc-founder .sig{color:var(--rose);font-size:13px;font-style:italic;margin:0;}
+/* cost line */
+.lpc-cost{background:var(--ink);color:var(--cream);border-radius:16px;padding:16px 18px;margin:14px 0;}
+.lpc-cost b{color:#E7879F;}
+.lpc-cost p{margin:0;font-size:14.5px;}
+/* trust ribbon */
+.lpc-ribbon{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:center;
+  font-size:13px;color:var(--ink);font-weight:600;margin:14px 0 2px;}
+.lpc-ribbon span{display:inline-flex;align-items:center;gap:6px;}
+.lpc-ribbon .dot{width:6px;height:6px;border-radius:50%;background:var(--claret);display:inline-block;}
+/* reviews */
+.lpc-rev{display:grid;grid-template-columns:1fr;gap:12px;}
+.lpc-rv{background:#fff;border:1px solid var(--blush);border-radius:12px;padding:14px;}
+.lpc-rv .stars{color:var(--claret);font-size:14px;letter-spacing:2px;}
+.lpc-rv .name{font-weight:700;font-size:13px;}
+.lpc-rv .tag{font-size:11px;color:var(--rose);}
+.lpc-rv .quote{font-size:14px;margin:6px 0 0;}
+</style>
+
+<div class="lpc">
+
+  <!-- ===== 1. OBJECTIONS ANSWERED ===== -->
+  <div class="lpc-card">
+    <h2>You've been burned before. Fair.</h2>
+    <p class="lpc-sub">So here's the honest answer to what you're probably thinking.</p>
+    <div class="lpc-obj">
+      <div class="lpc-ob">
+        <p class="q">"Will it actually hold?"</p>
+        <p class="a">Wear it through your real moments for 30 nights. If it doesn't hold, we refund every cent — and you keep the pairs.</p>
+      </div>
+      <div class="lpc-ob">
+        <p class="q">"What if the size is off?"</p>
+        <p class="a">Wrong size, we send the right one free. No forms, no return label.</p>
+      </div>
+      <div class="lpc-ob">
+        <p class="q">"Will it feel like a diaper?"</p>
+        <p class="a">No. Plain black underwear — pull it on and forget it's doing anything.</p>
+      </div>
+      <div class="lpc-ob">
+        <p class="q">"Is this just another scam?"</p>
+        <p class="a">Pay once — no subscription, no surprise charges. And a real person answers hello@leapproof.com.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== 2. FOUNDER NOTE (put a REAL name, or leave the team line) ===== -->
+  <div class="lpc-card">
+    <div class="lpc-founder">
+      <div class="mark">lp</div>
+      <div>
+        <p>I got tired of watching women quietly give up the trampoline, the run, the jump — handed a pad and told it's "just normal now." It's common. It is not normal. And you shouldn't have to plan your day around the nearest bathroom.</p>
+        <p>So we made underwear for the leak and put a 30-night, keep-the-pairs guarantee on it — because you've been promised things before, and you deserve to try it with nothing on the line.</p>
+        <p class="sig">— The Leapproof team</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== 3. COST vs DISPOSABLES ===== -->
+  <div class="lpc-cost">
+    <p>A liner a day goes in the bin by nightfall — and you buy them again next month, and the month after. <b>These you wash and wear again.</b> Buy the set once; stop paying the forever tax.</p>
+  </div>
+
+  <!-- ===== 4. TRUST RIBBON (reinforces the guarantee already on the page) ===== -->
+  <div class="lpc-ribbon">
+    <span><span class="dot"></span>30-Night Leak-Test</span>
+    <span><span class="dot"></span>Free size swap</span>
+    <span><span class="dot"></span>Keep the pairs</span>
+    <span><span class="dot"></span>Real human support</span>
+  </div>
+
+  <!-- ===== 5. REVIEWS — TEMPLATE ONLY =====
+       ⚠️ FILL WITH REAL, DISCLOSED REVIEWS ONLY (Founding cohort). Never fake/AI.
+       Delete this whole block until you have real ones. Example structure: -->
+  <!--
+  <div class="lpc-card">
+    <h2>From our first testers</h2>
+    <p class="lpc-sub">Real women, sent a free set to test. Disclosed.</p>
+    <div class="lpc-rev">
+      <div class="lpc-rv">
+        <div class="stars">★★★★★</div>
+        <span class="name">[Real first name]</span> <span class="tag">· Received a free set to test</span>
+        <p class="quote">[Real quote — her words]</p>
+      </div>
+      <!-- repeat lpc-rv for each real review -->
+    </div>
+  </div>
+  -->
+
+</div>
