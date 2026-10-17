@@ -1,0 +1,19 @@
+<!-- Leapproof landing v5 · Block L6 · hero headline swap (all-angle) · paste into ONE Custom HTML element anywhere on the page.
+     Replaces the 3-line hero headline ("Stop! I'll pee myself! / Common? Yes. Normal? No. / Find your match.")
+     with the new 2-line, all-angle headline so A1 (moment), A2 (not a pad) and A3 (just underwear) ad traffic all match.
+     Trimming the 3rd line (redundant with the button) also lifts the CTA toward the fold.
+     Targets the hero headline element .el-949049 (stable Funnelish id). Idempotent, safe to leave on. -->
+<style>
+.el-949049 .paragraph-inner p{margin:0 0 2px!important}
+</style>
+<script>
+(function(){
+  var NEW='<p>Go ahead and sneeze.<p>No pad. No crossing your legs first.';
+  function run(){
+    var box=document.querySelector('.el-949049 .paragraph-inner');
+    if(box && box.getAttribute('data-lp')!=='1'){ box.innerHTML=NEW; box.setAttribute('data-lp','1'); return true; }
+    return !!box;
+  }
+  var n=0;(function loop(){ if(run()||++n>25) return; setTimeout(loop,300); })();
+})();
+</script>
