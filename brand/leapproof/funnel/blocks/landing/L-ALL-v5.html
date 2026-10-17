@@ -1,7 +1,8 @@
-<!-- Leapproof landing v5.1 · ENGINE block · paste into a SINGLE Custom HTML element anywhere on the page.
+<!-- Leapproof landing v5.2 · ONE block · paste into a SINGLE Custom HTML element anywhere on the landing page.
      (1) swaps the hero headline to the all-angle line, (2) always-on mobile sticky CTA (hides the old one),
-     (3) hides the fake review carousel (el-440165) and drops our 3 real reviews, TEXT ONLY, in that exact spot.
-     The "plain black briefs" product section is a SEPARATE block (L8) you place below the hero yourself. -->
+     (3) hides the fake review carousel and drops our 3 real reviews TEXT-ONLY in that spot,
+     (4) on mobile moves the heading ABOVE the hero image so the full heading shows first.
+     The "plain black briefs" product section is a SEPARATE block (L8) placed below the hero. -->
 <style>
 #lp5bar{position:fixed;left:0;right:0;bottom:0;z-index:99999;background:#F5EDE6;border-top:1px solid #E7CFC9;padding:10px 14px calc(10px + env(safe-area-inset-bottom));display:none;align-items:center;gap:12px;font-family:'Hanken Grotesk',Arial,sans-serif;box-shadow:0 -6px 18px rgba(35,16,23,.08)}
 #lp5bar span{font-size:14px;color:rgba(35,16,23,.75);white-space:nowrap}
@@ -13,6 +14,7 @@
 #lp5-reviews .st{color:#D6A93B;font-size:14px;letter-spacing:2px;margin:0 0 8px}
 #lp5-reviews .rv p{font-size:15px;line-height:1.5;color:#231017;margin:0 0 9px}
 #lp5-reviews .cite{font-size:12.5px;color:rgba(35,16,23,.6)}
+@media(max-width:600px){ .el-213716 > .element-wrapper.lp-head{ width:100%!important; padding:14px 16px 6px!important; box-sizing:border-box; } }
 </style>
 <div id="lp5bar"><span>About 2 min &middot; no email</span><a href="/quiz-2891028289-1791612140998314">Find my match &rsaquo;</a></div>
 <script>
@@ -47,12 +49,24 @@
     return true;
   }
 
+  /* mobile: move the heading above the hero image so the full heading shows first */
+  var hwrap, hrow, hpar, hnext, hcap=false;
+  function moveHead(){
+    var h=document.querySelector('.el-949049'), img=document.querySelector('.el-755524');
+    if(!h||!img) return;
+    hwrap=h.closest('.element-wrapper'); hrow=img.closest('.section_row');
+    if(!hwrap||!hrow) return;
+    if(!hcap){ hpar=hwrap.parentNode; hnext=hwrap.nextSibling; hwrap.classList.add('lp-head'); hcap=true; }
+    if(innerWidth<=600){ if(hrow.firstElementChild!==hwrap) hrow.insertBefore(hwrap, hrow.firstChild); }
+    else if(hpar && hwrap.parentNode!==hpar){ if(hnext&&hnext.parentNode===hpar) hpar.insertBefore(hwrap,hnext); else hpar.appendChild(hwrap); }
+  }
+
   function onScreen(id){ var e=document.getElementById(id); if(!e) return false; var r=e.getBoundingClientRect(); return r.top<innerHeight && r.bottom>0; }
   function stick(){ var b=document.getElementById('lp5bar'); if(!b) return;
     b.style.display=(innerWidth<=820 && !onScreen('lp-strip-cta') && !onScreen('lp-foot-cta')) ? 'flex':'none'; }
 
-  function run(){ headline(); oldbar(); reviews(); stick(); }
+  function run(){ headline(); oldbar(); reviews(); moveHead(); stick(); }
   var n=0;(function loop(){ run(); if(++n<30) setTimeout(loop,350); })();
-  addEventListener('scroll',stick,{passive:true}); addEventListener('resize',stick);
+  addEventListener('scroll',stick,{passive:true}); addEventListener('resize',function(){ moveHead(); stick(); });
 })();
 </script>
