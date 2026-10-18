@@ -56,6 +56,7 @@ Market: US-primary + UK/CA/AU/NZ. Price tier $39–49 ("un-logo luxury"). Spine:
 - *Intentional living / control.* "The trick is *a brutal audit of your just-in-case items — half of what I carried I never actually touched*." [S61] (SNIPPET)
 - *Quietly skeptical of hype.* A vocal part of her crowd sneers that *"quiet luxury is just a re-branding of minimalism"* [S28] (SNIPPET) — so she wants it embodied, not named.
 - *Burned before, trust-first.* "I'm tired of *going through womens wallets that either become bulky or start falling apart*." [S3] (SNIPPET)
+- *Religion/spirituality:* INFERENCE — not overtly religious; her "spirituality" is secular-intentional — mindful consumption, "buy better, less often," treating the edit as a quiet ritual of self-respect (cf. "a brutal audit of your just-in-case items" [S61], guilt quote [S75]).
 - *Life/love/family:* INFERENCE — mid-life, partnered, practical-romantic; treats a small well-made object as self-respect, not indulgence (cf. guilt quote [S75]); politically/socially moderate-progressive, values sustainability and "buying better, less often."
 - *Prejudice:* rolls her eyes at logomania and fast-fashion throwaway — "real taste is quiet." INFERENCE from the anti-logo cluster [S45][S49].
 
