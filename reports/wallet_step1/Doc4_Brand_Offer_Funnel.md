@@ -2,16 +2,16 @@
 **Women's Slim Cardholder** · female-first, identity-led, accessible "un-logo luxury" · US-primary + UK/CA/AU/NZ · English
 **Run date:** 2026-10-18 · Counts from `databank_merged.csv` (201 unique snippets; cite "n of 201")
 
-Drive folder: [[FOLDER_LINK]]
+Notion: https://app.notion.com/p/3fdd53123cd681338b2cc8c1b0e3162b
 
 ---
 
 ## Top 5 Takeaways
-*(provisional — finalized after §20)*
+*(final — post-§20)*
 
 1. **The leather-labelling lie is our #1 legal trap AND our biggest wedge.** FTC 16 CFR Part 24 names "wallets, card cases, billfolds, purses" as covered products and bans unqualified "leather" on non-leather, in *all* advertising, not just the label [S1]. **Decision:** label every SKU "vegan/PU/faux" or "genuine [type]" in the ad creative itself, and turn material honesty into the brand's proof layer — the thing the $12 no-name structurally cannot say.
-2. **The $39–55 women's-identity rung is empty and everyone else owns a different rung.** Ladder runs Ali/CJ $3–8 → Amazon $13–20 → TikTok Shop $16–30 → dropship $20–35 → Quince/Portland $30–32 → [EMPTY $39–55] → Bellroy/Ekster/Coach/Cuyana $95–98 → Celine $390–490 [S11]. **Decision:** anchor the hero at $39–49, one rung above commodity, well under Bellroy/Coach.
-3. **Ridge/Ekster prove a bundle engine triples AOV — but only on a man.** Ridge AOV $185 (4× its $45 entry wallet); Ekster attaches a $39 tracker-card + AfterSell upsell [S13][S14]. Nobody runs that engine on her. **Decision:** copy the AOV engine (his-&-hers / 2-pack / color-set + strap/AirTag add-on + gift box) to lift AOV to $65–90.
+2. **The category is occupied, but no incumbent owns our anti-logo "edit" identity + snug-never-stuck fix at an accessible price — a positioning gap, not virgin territory.** Two female-first cardholder brands already sit near our band — Katie Loxton (card holders ~$19–28, fold-out wallets ~$39–55; cute/sentiment/gift, monogram) and The Daily Edited (card holders ~$66, wallets ~$95; monogram/personalization, premium-leaning) — alongside men's-EDC (Ridge/Ekster), luxury (Celine/Coach), and Amazon/dropship commodity [S11]. **Decision:** compete on positioning + mechanism + economics — anchor the hero at $39–49 with the "edited her life down / taste is the receipt" stance + the "snug, never stuck" product fix + radical material honesty + a durability guarantee; out-position named occupants, don't claim an empty lane.
+3. **Ridge/Ekster prove a bundle engine lifts AOV well above entry price — but only on a man.** Ridge AOV ~$185 (3rd-party estimate · directional; ~4× its $45 entry wallet); Ekster attaches a $39 tracker-card + AfterSell upsell [S13][S14]. Nobody runs that engine on her. **Decision:** copy the AOV engine (his-&-hers / 2-pack / color-set + strap/AirTag add-on + gift box) to lift AOV to $65–90.
 4. **Service is a wide-open differentiator — the closest women's comp sits at 2.5★.** Portland Leather is 2.5★ with documented "costly returns," "poor CS," "deceptive sale countdowns" [S16]; dropship/Amazon offer no guarantee at all [S18]. **Decision:** make a real guarantee + easy/free returns a front-of-funnel promise; it's the trust wedge no no-name can match.
 5. **She's Solution/Product-aware and this is an identity object, so no quiz is needed — a Discovery Stack fits.** Awareness split product 68 + solution 58 (126 of 201) [S19]; not a high-variant or eligibility product. **Decision:** build Advertorial/Listicle pre-sell → Offer/Product page → bundle cart, not a quiz funnel.
 
@@ -69,7 +69,9 @@ The 5 things ALL §1 competitors do the same, and our exact opposite each. This 
 | 4 | **Offer shape:** single-unit impulse (TikTok/Amazon) or a man's ecosystem bundle (Ridge/Ekster) [S11][S18] | **Color-drop / gift-native** — nameable color sets, his-&-hers/2-pack, gift box; the AOV engine aimed at *her* [S11][S10] |
 | 5 | **Page format:** spec sheet + star rating + countdown timer / BOGO pressure (dropship) [S11][S16] | **Pre-sell story → feeling-led PDP** — belief first, then color story, then honesty + guarantee; low-pressure [S10][S12] |
 
-**So What → do this:** lock an editorial, warm-but-sharp, material-honest, color-drop look across every asset; if a creative could be mistaken for a Ridge flat-lay, an Amazon listing, or a dropship countdown ad, it's off-brand — reshoot.
+**Note — the two female-cardholder occupants we out-execute:** **Katie Loxton** sells cute/sentiment/gift (monogram, gift box) but under $30 on the card holders, so it reads sweet, not refined/premium, and carries no stance; **The Daily Edited** sells monogram/personalization at a premium price (card holders ~$66) but has no anti-logo belief and no snug-never-stuck fix [S11]. Our execution opposite vs both = editorial-not-cute, material-honest, belief-led, at accessible-premium.
+
+**So What → do this:** lock an editorial, warm-but-sharp, material-honest, color-drop look across every asset; if a creative could be mistaken for a Ridge flat-lay, an Amazon listing, a Katie Loxton gift-shop flat-lay, a TDE monogram grid, or a dropship countdown ad, it's off-brand — reshoot.
 
 ---
 
@@ -81,7 +83,7 @@ The 5 things ALL §1 competitors do the same, and our exact opposite each. This 
 - **STAND FOR:** *"What you carry should prove you've got your life handled — not that you can afford a logo."* Less, done beautifully; the edit as the flex; taste is the receipt, not the price tag [S10][S12].
 - **ATTITUDE:** warm-but-sharp, quietly-confident, witty-minimalist — a knowing friend with great taste. Never shouty, never precious. She feels *in on it*, not sold to [S12].
 - **WEAKNESS-AS-WEAPON:** new/small = we can be honest about materials + have a human voice where incumbents hide and Amazon is faceless; not-a-logo-house = the un-logo IS the product; accessible price = the smart-insider flex ("looks like 10x") [S12][S22].
-- **UNCOPYABLE TEST (PASS):** the line indicts Ridge/Ekster (techy-masculine, mechanism-first), Celine/Coach (logo-and-price model), and Amazon no-names (faceless, fake-leather) if any tried to adopt it — none can [S12].
+- **UNCOPYABLE TEST (PASS):** the line indicts Ridge/Ekster (techy-masculine, mechanism-first), Celine/Coach (logo-and-price model), Amazon no-names (faceless, fake-leather), and the two female-cardholder occupants — **Katie Loxton** (cute/sentiment/gift, monogram, no stance, under-$30 so reads sweet not refined) and **The Daily Edited** (monogram/personalization, premium-priced, no anti-logo belief, no snug-never-stuck fix) — if any tried to adopt it. Our moat vs them = the "edited her life down / taste is the receipt" belief + the "snug, never stuck" product fix + radical material honesty + accessible-premium feel — a stance+mechanism they can't bolt on without becoming us [S11][S12].
 - **WHOLE-STORE THREAD:** name signals "edited/intentional"; About = "I was done carrying a brick to prove something, so I made the one thing that proves the opposite"; PDP leads with the feeling → color story → material honesty + card count + guarantee; color "drops"; warm-but-sharp voice in every email/insert; the card insert is the belief in one line [S12].
 
 ### The LOCKED one-liner
@@ -101,11 +103,14 @@ The 5 things ALL §1 competitors do the same, and our exact opposite each. This 
 ## §15 — Competitor Offers + Price Ladder
 
 ### Per-competitor offer blocks (price · guarantee · bundle · upsell · shipping · discount · weak spot)
-- **Ridge** (M) — wallet $45, aluminum ~$75–105; **AOV $185** (4× entry); ecosystem bundles (wallet+strap+tracker+keycase+rings); **lifetime warranty**, 45-day returns; Klaviyo/Postscript SMS, Rivo loyalty, Okendo, Intelligems A/B; free ship over threshold; email/SMS + loyalty + bundle-to-save discounts. **Weak spot:** 100% male — women appear only as a ring SKU; can't pivot to "her" [S13].
-- **Ekster** (M) — **Cardholder Pro $95 (compare-at $119)**; hero cross-sell **$39 Tracker Card** → ~$130–165; **AfterSell** post-purchase upsell; 12-mo warranty, 30-day returns, **Trustpilot 4.5★/3,144, replies to 100% of negatives <1 day** (a real CS moat); compare-at anchoring + SMS/email + bundle discounts. **Weak spot:** male gadget code; "unclear bundle inclusions" + card-retention complaints [S14].
+> **Note:** all WinningHunter/SimilarWeb revenue, AOV, units-sold and ad-count figures below are 3rd-party estimates for private companies — directional only. **Do not cite exact figures as fact in ad copy.** Prices and confirmed warranties are observed/verified.
+- **Ridge** (M) — wallet $45, aluminum ~$75–105; **AOV ~$185 (3rd-party estimate · directional)** (~4× entry); ecosystem bundles (wallet+strap+tracker+keycase+rings); **lifetime warranty**, 45-day returns; Klaviyo/Postscript SMS, Rivo loyalty, Okendo, Intelligems A/B; free ship over threshold; email/SMS + loyalty + bundle-to-save discounts. **Weak spot:** 100% male — women appear only as a ring SKU; can't pivot to "her" [S13].
+- **Ekster** (M) — **Cardholder Pro $95 (compare-at $119)**; hero cross-sell **$39 Tracker Card** → ~$130–165; **AfterSell** post-purchase upsell; 12-mo warranty, 30-day returns, **Trustpilot 4.3★/~3,100+ reviews, replies fast to negatives** (a real CS moat); compare-at anchoring + SMS/email + bundle discounts. **Weak spot:** male gadget code; "unclear bundle inclusions" + card-retention complaints [S14].
 - **Bellroy** (M-skew, most women-adjacent) — cardholders **$45–95**, **"Minimalist Set $115 (val $140)"**; **3-yr warranty**, free delivery + 30-day returns, 4.7★/4.9K; bundle-&-save, free-ship, low-pressure (no countdowns). **Weak spot:** design-neutral/male-skewing; "women's" is a filter, not an identity — premium feel, zero emotional pull for her [S15].
 - **Portland Leather** — **Card Holder $32** (reg ~$59–84), standing sitewide "Save 25%"; paid/limited returns via Redo, **Trustpilot 2.5★/576**; AfterSell + Alia popup + discount-in-cart + Fairing survey + Redo shipping-protection bump; free ship over threshold; inflated compare-at + countdown timers. **Weak spot:** it's a leather-*bag* brand, cardholder is a $32 afterthought; documented bad returns/CS/"deceptive countdowns" — beatable on service alone [S16].
 - **Quince** — **Adeline Slim Card Case $30** (Italian leather), anchored vs "$60/$68"; **365-day free returns** on some lines, 4.7★/180. **Weak spot:** deliberately anti-brand/anti-identity — proves women pay ~$30 for Italian-leather card cases with no brand to love [S17].
+- **Katie Loxton** (F) — dedicated women's "Wallets & Card Holders" (katieloxton.com); vegan-leather, colourway + "PERSONALIZE ME" monogram, gift-boxed; **card holders ~$19–28, fold-out wallets ~$39–55** (squarely in our band); positioning = cute / sentiment / gift. **Weak spot:** sweet-not-refined, no stance/belief, under-$30 card holders read gift-shop not premium; no snug-never-stuck fix, no material-honesty layer [S11].
+- **The Daily Edited** (F) — women-first PERSONALIZED leather card holders & wallets (thedailyedited.com), 15+ SKUs, monogramming; **card holders ~$66, wallets ~$95** (premium-leaning, straddles above our band); positioning = monogram / personalization. **Weak spot:** no anti-logo belief, no snug-never-stuck product fix, premium-priced — personalization is the whole identity [S11].
 - **TikTok Shop sellers** — women's cardholders **$8.56–$29.99**; single-unit impulse, 4.x★, creator UGC, "gift" framing, free TikTok shipping. **Weak spot:** no brand, no bundle, no guarantee, no email capture [S18].
 - **Dropship (Meta/Shopify)** — **$20–35** on inflated compare-at ($40–60), BOGO, 50%-off countdowns, "ideal gift," popup capture; thin-to-no warranty. **Weak spot:** faceless, disposable, no loyalty [S11].
 - **Amazon (Travelambo/Fependu)** — **$13–20**, Prime, free 30–90-day returns, RFID. **Weak spot:** commodity, no identity, no repeat loyalty [S11].
@@ -114,11 +119,13 @@ The 5 things ALL §1 competitors do the same, and our exact opposite each. This 
 ### 4-column summary
 | Competitor | Price (hero) | Best offer | Gap (weak/missing) |
 |---|---|---|---|
-| **Ridge** (M) | Wallet $45; AOV **$185** | Ecosystem bundles + lifetime warranty + loyalty + A/B | 100% male; no cardholder-as-identity for women |
+| **Ridge** (M) | Wallet $45; AOV **~$185** (est · directional) | Ecosystem bundles + lifetime warranty + loyalty + A/B | 100% male; no cardholder-as-identity for women |
 | **Ekster** (M) | Cardholder **$95** (fr $119) | $39 tracker cross-sell + AfterSell + 100%-reply CS | Male gadget code; "unclear bundle" complaints |
 | **Bellroy** (M-skew) | **$45–95**; Set $115 (val $140) | Bundle-&-save + 3-yr warranty + free ship/30-day | Women's = a filter, not an identity |
 | **Portland Leather** | **$32** (reg ~$59–84) | AfterSell + Redo + popup + 25% + countdowns | 2.5★ trust/returns/CS; afterthought SKU |
 | **Quince** | **$30** | 365-day returns, Italian leather, transparency | Anti-brand; zero identity/emotion |
+| **Katie Loxton** (F) | Card holders **$19–28**; wallets **$39–55** | Monogram + gift box; dedicated women's line | Cute/sentiment/gift, no stance; under-$30 reads gift-shop not premium |
+| **The Daily Edited** (F) | Card holders **$66**; wallets **$95** | Personalization/monogram; 15+ women's SKUs | No anti-logo belief, no snug-never-stuck fix; premium-priced |
 | **TikTok Shop** | **$8.56–$29.99** | Creator UGC + 4.x★ + gift + free ship | No brand, bundle, guarantee, or capture |
 | **Dropship** | **$20–35** (compare $40–60) | BOGO + countdown + "ideal gift" + popup | Faceless, disposable, no warranty |
 | **Amazon** | **$13–20** | Prime + free 30–90-day returns + RFID | Commodity, no identity/loyalty |
@@ -127,8 +134,8 @@ The 5 things ALL §1 competitors do the same, and our exact opposite each. This 
 
 ### Table-stakes / Best-in-class / Nobody-offers
 - **Table stakes (≥half do):** free ship over a threshold; 30-day returns; star-rating social proof; a compare-at/"% off" anchor; email **or** SMS popup; RFID-blocking as a claimed feature; "makes a great gift" framing [S11].
-- **Best-in-class:** **Ekster & Ridge** — accessory bundle/ecosystem that triples AOV + lifetime/multi-year warranty + loyalty + A/B pricing + (Ekster) 100%-reply CS at 4.5★; **Bellroy** best on *clean* bundle-and-save + 3-yr warranty + no-pressure trust. The playbook to copy — **but all for a man** [S13][S14][S15].
-- **Nobody offers:** (1) a **cardholder-identity brand for women** at an accessible price; (2) the **his-&-hers / color-set / 2-pack + strap/AirTag-card** AOV engine aimed at *her*; (3) **genuinely good service + easy/free returns + a real guarantee** in the accessible women's tier; (4) **gift-native premium unboxing** at an impulse price; (5) a **values/vegan-leather** identity layer [S11].
+- **Best-in-class:** **Ekster & Ridge** — accessory bundle/ecosystem that lifts AOV (3rd-party estimate · directional) + lifetime/multi-year warranty + loyalty + A/B pricing + (Ekster) fast-reply CS at 4.3★; **Bellroy** best on *clean* bundle-and-save + confirmed 3-yr card-holder warranty + no-pressure trust. The playbook to copy — **but all for a man** [S13][S14][S15].
+- **Nobody offers (the gap inside an occupied category — Katie Loxton/TDE own the female-cardholder lane on *cute/monogram*, not this):** (1) an **anti-logo quiet-luxury "edit"-identity** cardholder — the "edited her life down / taste is the receipt" stance — at an accessible price (Katie Loxton = cute/gift with no stance; TDE = monogram, premium-priced); (2) the **"snug, never stuck" easy-but-secure product fix** that solves the #1/#2 complaints no incumbent solves; (3) the **his-&-hers / color-set / 2-pack + strap/AirTag-card** AOV engine aimed at *her*; (4) **genuinely good service + easy/free returns + a real guarantee** paired with **radical material honesty** in the accessible women's tier; (5) **gift-native premium unboxing** at an accessible price [S11].
 
 ### The full price ladder
 | Rung | Who | Price (US) |
@@ -140,12 +147,14 @@ The 5 things ALL §1 competitors do the same, and our exact opposite each. This 
 | **Dropship DTC** | Meta/Shopify "elegant slim wallet, ideal gift" | **$20–35** (compare $40–60, BOGO) |
 | **Accessible DTC (anti-brand)** | Quince $30 · Portland Leather $32 | **$30–32** |
 | Heritage micro | Buffalo Billfold Prairie Slim | $34.95 |
-| **← OPEN RUNG →** | **women's identity cardholder** | **~$39–55 (EMPTY)** |
+| **Female-cardholder (cute/gift)** | Katie Loxton card holders $19–28 · wallets $39–55 | **$19–55** |
+| **← POSITIONING + MECHANISM GAP →** | **anti-logo quiet-luxury "edit" identity + snug-never-stuck fix** (our wedge — the stance/mechanism no occupant runs, NOT an empty price band) | **~$39–49** |
+| **Female-cardholder (monogram/premium)** | The Daily Edited card holders $66 · wallets $95 | **$66–95** |
 | **Identity/premium DTC** | Bellroy $45–95 · Ekster $95 · Ridge $45+ | **$45–98** |
 | **Accessible-luxury fashion** | Coach $95 · Cuyana $98 | **$95–98** |
 | **Luxury CEILING** | Celine card holders | **$390–490** |
 
-Floor→ceiling ≈ $3–8 to $490 (a ~60–160× spread). The women's buyer today chooses a **$13–30 commodity/impulse** or a **$95–490 fashion piece** — the **$39–55 accessible-identity rung is empty** [S11].
+Floor→ceiling ≈ $3–8 to $490 (a ~60–160× spread). The price band is *not* empty — Katie Loxton ($19–55) and The Daily Edited ($66–95) already sell women's cardholders across it. What no incumbent occupies is the **positioning + mechanism gap at $39–49: an anti-logo quiet-luxury "edit" identity + a snug-never-stuck product fix + radical material honesty**, which Katie Loxton (cute/gift, no stance) and TDE (monogram, premium) leave wide open [S11].
 
 ### Offer inputs for Step 2
 - **Pains the offer must solve (ranked, n of 201):** no feminine slim option / settle for men's **37**; bulky brick eats bag space **28**; slots too tight / cards fall out **22**; peels/wears out fast (even luxury) **13**; no pockets / bag-swap hassle **11**; disorganized/lost **8** [S19].
@@ -154,13 +163,13 @@ Floor→ceiling ≈ $3–8 to $490 (a ~60–160× spread). The women's buyer tod
 - **Add-ons:** wrist/crossbody **strap** · **AirTag-card / tracker** add-on (worded "fits Apple AirTag," never the Find My badge) [S11][S5].
 - **Price to test:** hero **$39–49**; bundle to **$65–90 AOV**; gift box as an AOV lift [S11].
 
-**So What → do this:** copy the Ekster/Ridge AOV mechanics (bundle + add-on + post-purchase upsell) on the women's side, set the hero at $39–49 with a real guarantee + easy returns as the headline trust promise, and make every bundle solve the ranked pains above — this is the exact empty rung.
+**So What → do this:** copy the Ekster/Ridge AOV mechanics (bundle + add-on + post-purchase upsell) on the women's side, set the hero at $39–49 with a real guarantee + easy returns as the headline trust promise, and make every bundle solve the ranked pains above — this out-positions the named occupants (Katie Loxton's cute/gift, TDE's monogram-premium) on stance + mechanism + economics, not an empty price band.
 
 ---
 
 ## The Funnel Map — DISCOVERY STACK
 
-**Funnel choice:** she's **Solution/Product-aware** (126 of 201) [S19] and this is an **identity object**, not a high-variant or eligibility product. So the **Discovery Stack** fits: **Advertorial/Listicle pre-sell → Offer/Product page → bundle cart.** **A quiz is NOT needed** — there's no eligibility gate, no complex fit/variant to diagnose, and no need to educate her that cardholders exist; a quiz would add friction to a buyer who already knows the category and is choosing on identity + taste [S19][S10].
+**Funnel choice:** per the **Funnel Selection Board** (reviewed earlier this session), the **Discovery Stack (Advertorial → Offer Page)** is the default for a **single-hero product** — which this is. It also fits the buyer: she's **Solution/Product-aware** (126 of 201) [S19] and this is an **identity object**, not a high-variant or eligibility product. So the **Discovery Stack** applies: **Advertorial/Listicle pre-sell → Offer/Product page → bundle cart.** **A quiz is NOT needed** — there's no eligibility gate, no complex fit/variant to diagnose, and no need to educate her that cardholders exist; a quiz would add friction to a buyer who already knows the category and is choosing on identity + taste [S19][S10].
 
 - **Ad** — the-edit / compliment UGC (creator pulls it from a small bag at the register, "I get so many compliments on it" energy), benefit **+** identity hook. Honest material wording, no luxury marks, #ad up front [S10][S22][S6].
 - **Pre-sell (advertorial)** — *"The card case was always hers — we're bringing it back"*: the sourced revival story (ladies' calling-card case, buried by plastic-card bloat + the logo-status era, the 2012–14 slim movement built for men) + the **material-honesty mechanism** ("snug, never stuck — in a material that ages, not peels — made for her") + proof (reviews, color-story, guarantee). Never claim brand provenance, a founder, antique materials, or a "dupe" [S10][S12].
@@ -173,7 +182,55 @@ Floor→ceiling ≈ $3–8 to $490 (a ~60–160× spread). The women's buyer tod
 ---
 
 ## §20 — Verify report
-**§20 verification to be completed by the coordinator after the adversarial fact-check pass.** (No verification results fabricated here.)
+
+Run as a 4-agent adversarial fact-check + completeness pass (skeptics told to *refute*), then every correction applied. Full check log: `research_notes/wallet_step1/verify_corrections.md`.
+
+### A) Tools / skills run (every one the page names)
+| Tool | Status | Note |
+|---|---|---|
+| `research-doc` | ✅ ran | drove this whole page top-to-bottom |
+| Audit first | ✅ ran | Doc 1 (Ridge = highest-traffic, male-coded, no female on-ramp) |
+| `product-pulse` | 🔁 substitute | CLI not available → Firecrawl + WebSearch + Reddit/review search |
+| `agent-reach` | 🔁 substitute | CLI not available → Firecrawl `search`/`scrape` + WebSearch (per page fallback) |
+| `Firecrawl` | ✅ ran | search + scrape across all collection + verify passes |
+| `playwright-skill` | 🔁 substitute | headless browser not run → competitor funnels/offers read via Firecrawl scrape + `/products/*.js`; Ad-Library region proof via WinningHunter |
+| Amazon trick | ✅ ran | 5★→angles, 1–2★→objections via Firecrawl `/dp/` + search; URL+star+date kept |
+| Forum tactics | ✅ ran | Reddit/PurseForum/Mumsnet; Reddit full-fetch 403 → SNIPPET (flagged) |
+| SimilarWeb | 🔁 / ❌ partial | demographics anti-bot-blocked all engines → age/gender INFERENCE (flagged §3) |
+| Winning Hunter | ✅ ran | `search_facebook_ads`, `get_store_details`, top ads, tiktok/google — figures labelled 3rd-party estimate |
+| Facebook Ad Library | 🔁 substitute | headless Library not run → region/language proof via WinningHunter `search_facebook_ads` + countries |
+| TikTok + Google/Amazon/Etsy | ✅ ran | WinningHunter + Firecrawl sweep |
+| Google Trends | 🔁 substitute | headless Trends not run → WinningHunter `search_exploding_topics` + WebSearch (not country-filtered — flagged §0B) |
+| Notion connector | ✅ ran | Funnel Selection Board reviewed (Discovery Stack basis); Offer Build ref belongs to Step 2 |
+| Google Drive | ✅ ran | folder + 4 Docs + §2C Sheet (delivery) |
+
+### B) Adversarial fact-check — corrections made (reported honestly, not hidden)
+- **WEDGE (biggest):** "uncontested / empty lane" was **REFUTED** — **Katie Loxton** (women's card holders $19–28 / wallets $39–55, monogram, gift-led) and **The Daily Edited** (personalized leather card holders ~$66+) already occupy the female-cardholder category. Re-scoped across all docs: this is a **positioning + product-execution gap inside an occupied, proven category**, not virgin territory. Added both as direct competitors (§1, §15) and as the brands we out-position (§4B).
+- **Scale numbers CORRECTED → softened:** Ridge $25–44M/mo & AOV $185, Bellroy/Ekster/Cuyana revenue + ad counts, Cuyana AOV $346.92, "~12,100 Amazon units/mo", "TikTok 5–25k units / $94–170k", "16+ advertisers" are all **3rd-party estimates (directional)** — relabelled, false precision stripped, "do not cite exact figures in ad copy" noted. **Ekster Trustpilot = 4.3★ ~3,100+** (was 4.5).
+- **History CORRECTED:** the ornamental ladies' card **case** is a **Victorian/1800s** object — 1760 dates the printed visiting-**card** custom, not the case. **Bellroy** = "launched first wallets 2010 (founded 2009)". CONFIRMED (safe for copy): "ladies were expected to carry a card case" + materials + late-19thc decline; carte-de-visite "early social media" 1860s; Diners Club 1950; Amex/BankAmericard 1958; LV Monogram 1896; Murakami×LV 2003; Ridge 2013; 2012–14 Kickstarter slim-wallet "glut"; quiet luxury "2023's most visible movement".
+- **Material CORRECTED → softened:** "peels within a year" reframed (PU/bonded ~18mo–5yr vs full-grain patina; the "less than a year" line kept only as an anecdotal 1★ quote). "off-gasses" **cut** → "chemical/plastic smell". "genuine/bonded leather = low grade" CONFIRMED [Carl Friedrik/Mahi]. Pockets stat (48% shorter / 6.5% narrower) CONFIRMED, re-sourced to **The Pudding (2018)**. RFID skimming "largely theoretical" CONFIRMED [AARP] → quiet-privacy line only. FTC leather-labelling = **16 CFR 24.2** (unqualified "leather" only if all-substantial-parts leather; disclosures in all advertising).
+
+### C) Completeness check (vs this page, all 4 docs)
+All required sections present and in their assigned docs (Pre-0→Funnel Map). 12 critic-flagged gaps fixed: §11 objections re-sorted by count (22→14→12→7→4→3); §3A avatars 4–5 given snippet counts; §8 added "burned 17/201"; §5 added the 2nd awareness measure; Pre-0 added Target ROAS/CPA @20%/30% rows; §3 worldview 4th (religious/spiritual) axis added; §2 Gate now enumerates the 3 auto-fails; §14 AVOID words mapped to plain substitutes; §10 "past victories vs failures" added; §1 Audit re-check added; §12 authority ranking basis stated; Funnel Map cites the Selection Board. Source types mined: Reddit/forums · Amazon 1–2★ + 4–5★ · TikTok/YouTube/IG · PurseForum/Mumsnet/Trustpilot · competitor pages · gov/regulatory.
+
+### D) Self-approval
+- [x] Every line on the page covered across the 4 docs, thorough, sourced (or flagged inference). Ledger: 0 `todo` remaining.
+- [x] Every tool run, substituted (named), or marked — all listed in A.
+- [x] §2C data bank = **201 unique snippets from 10+ source types**; every §3–§18 list ranked by a real `databank_merged.csv` tally.
+- [x] Every historical/material/stat claim that could enter ad copy verified with a URL or softened/cut.
+- [~] Wedge passes the Gate as an **out-positioning play** (painkiller = partial/identity; **category contested** by Katie Loxton/TDE but our angle+mechanism uncontested; a real MARKET). Reported honestly — not a first-mover claim.
+- [x] §2B compliance table matches the actual category (fashion accessory / leather-labelling).
+- [ ] Economics use the REAL price — **DEFERRED: no product sourced; Pre-0 KPI inputs PENDING COGS + price** (flagged, with reminder).
+- [x] Product/mechanism gaps flagged honestly (all specs PENDING REAL SPEC).
+- [x] Funnel Map filled for this product (Discovery Stack).
+- [x] §2/§4/§4B LOCKED after §11; §9 One Belief rewritten after §13 — changes recorded.
+- [~] Target region from Pre-0 (top English, US-primary); Audit first done. (SimilarWeb demographics INFERENCE — anti-bot blocked.)
+- [x] Each doc has the folder link + Top 5 takeaways at top and its own Sources list; §2C CSV final + ready as the Sheet.
+- [x] Corrections reported (this §20 B), not hidden.
+
+**Verified & self-approved**, with two open flags carried forward: **(1) economics pending COGS/price; (2) SimilarWeb demographics are inference (anti-bot blocked).**
+
+**So What → do this:** treat the research as decision-ready for Step 2, but send **landed COGS + final price** to close the KPI table, and know the wedge is an **out-position-the-incumbents** play (Katie Loxton/TDE/luxury/commodity), not an empty field.
 
 ---
 
@@ -199,12 +256,12 @@ Floor→ceiling ≈ $3–8 to $490 (a ~60–160× spread). The women's buyer tod
 10. **LOCKED_decisions.md** — wedge, §4B one-liner, premium-vs-affordable, ICP, feeling, mechanism, belief chain, discovery-story spine, names, visual world · internal spine · 2026-10-18 · INFERENCE
 11. **B_offers_priceladder.md** — competitor offer blocks, 4-col table, 3 lines, full price ladder, premium-vs-affordable, offer inputs (WinningHunter store_details/FB-ad/TikTok Shop + Firecrawl + WebSearch) · internal · 2026-10-18 · DATA/SNIPPET/INFERENCE
 12. **identity_positioning.md** — §4B positioning system, enemy/stand-for/attitude/uncopyable/weakness-as-weapon, contrast lines, names, visual world (Liquid Death model) · internal · 2026-10-18 · VERBATIM/SNIPPET/INFERENCE
-13. **Ridge** — ridge.com, AOV $185.46, ecosystem bundles, lifetime warranty, app stack · WinningHunter get_store_details · 2026-10-18 · DATA
-14. **Ekster** — ekster.com, Cardholder Pro $95 (fr $119), $39 Tracker Card, AfterSell upsell, Trustpilot 4.5★/3,144 · WinningHunter + Firecrawl · 2026-10-18 · DATA/SNIPPET
+13. **Ridge** — ridge.com, AOV ~$185 (3rd-party estimate · directional), ecosystem bundles, lifetime warranty, app stack · WinningHunter get_store_details · 2026-10-18 · DATA/estimate
+14. **Ekster** — ekster.com, Cardholder Pro $95 (fr $119), $39 Tracker Card, AfterSell upsell, Trustpilot 4.3★/~3,100+ reviews · WinningHunter + Firecrawl (revenue/traffic figures are 3rd-party estimates · directional) · 2026-10-18 · DATA/SNIPPET
 15. **Bellroy** — bellroy.com, cardholders $45–95, Minimalist Set $115 (val $140), 3-yr warranty, 4.7★/4.9K · Firecrawl category pages · 2026-10-18 · SNIPPET
-16. **Portland Leather Goods** — portlandleathergoods.com, Card Holder $32 (`/products/plg-card-holder.js` = 3200¢), Trustpilot 2.5★/576, AfterSell/Redo/Alia stack, 30-day rev est $14.5–27M · WinningHunter + Firecrawl · 2026-10-18 · VERBATIM/DATA
+16. **Portland Leather Goods** — portlandleathergoods.com, Card Holder $32 (`/products/plg-card-holder.js` = 3200¢), Trustpilot 2.5★/576, AfterSell/Redo/Alia stack; revenue figures are 3rd-party estimates · directional (do not cite exact) · WinningHunter + Firecrawl · 2026-10-18 · VERBATIM/DATA
 17. **Quince** — quince.com, Adeline Slim Card Case $30, Italian leather, 365-day returns, 4.7★/180 · Firecrawl · 2026-10-18 · SNIPPET
-18. **TikTok Shop (US) women's cardholders** — $8.56–$29.99; heroes $19.78/8,588 sold ($169.9k) and $29.99/5,550 sold ($166.4k), 4.8–4.9★ · WinningHunter TikTok product search, 30-d · 2026-10-18 · DATA
+18. **TikTok Shop (US) women's cardholders** — price range $8.56–$29.99 (prices observed); units-sold and $ revenue are 3rd-party estimates · directional (e.g. ~5–25k units/~$94–170k over 30-d; do not cite exact), 4.8–4.9★ · WinningHunter TikTok product search, 30-d · 2026-10-18 · DATA/estimate
 19. **databank_merged.csv** — §2C ranked pains + awareness split (product 68 + solution 58 of 201) · internal databank · 2026-10-18 · DATA
 20. **vibesabi.com** clean-girl guide ("effortless, expensive, morally tidy"; "quality-over-logos overlaps old money") · vibesabi.com/clean-girl-aesthetic/ · web article · 2026-10-18 · VERBATIM
 21. **r/handbags** "I want to buy a small cardholder but I want a quiet luxury brand" ("No LV, Chanel, CC, Prada") · reddit.com/r/handbags/comments/1av9o41/ · social · 2026-10-18 · SNIPPET

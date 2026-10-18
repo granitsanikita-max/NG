@@ -1,4 +1,4 @@
-Drive folder: [[FOLDER_LINK]]
+Notion: https://app.notion.com/p/3fdd53123cd681338b2cc8c1b0e3162b
 
 # Doc 2 — The Customer
 **Women's Slim Cardholder · Step-1 Deep Research · run 2026-10-18**
@@ -7,7 +7,7 @@ Market: US-primary + UK/CA/AU/NZ. Price tier $39–49 ("un-logo luxury"). Spine:
 ---
 
 ## Top 5 Takeaways
-*(provisional — finalized after §20)*
+*(final — post-§20)*
 
 1. **She already names the brief, in our words.** A r/handbags thread is literally titled *"I want to buy a small cardholder but I want a quiet luxury brand- so no LV, Chanel, CC, Prada etc."* [S45] — **Decision: lead copy with "quiet luxury, no logo tax," never educate on the category.**
 2. **The gender gap IS the opening.** 37/201 settle for a men's wallet — *"I use a slim men's wallet (why are wallets gendered anyway)"* [S7]; of Bellroy, *"in the eyes of a woman it is not as so refined, elegant"* [S46]. **Decision: position unapologetically feminine-refined, not a de-gendered tech wallet.**
@@ -69,7 +69,7 @@ Market: US-primary + UK/CA/AU/NZ. Price tier $39–49 ("un-logo luxury"). Spine:
 
 **1. The Gift-Buyer (husband / boyfriend / parent)** — ~10 snippets, the clear #2 group.
 - #1 pain: lost on brand/design — *"I am looking for a perfect wallet that is nice and good looking for my girlfriend... I have no idea which brand or designs"* [S53] (SNIPPET).
-- Size signal: Amazon reviews repeatedly gift-framed — *"Exactly what my wife wanted"* [S27] (VERBATIM); Etsy "personalized wallet for mom" listing shows **(933) reviews** [S85].
+- Size signal: Amazon reviews repeatedly gift-framed — *"Exactly what my wife wanted"* [S27] (VERBATIM); Etsy "personalized wallet for mom" listing shows **(933) reviews** (3rd-party estimate) [S85].
 - Gathers: r/luxurypurses (gifting hub), r/BuyItForLife, r/femalefashionadvice; Pinterest "gifts for her," Etsy. (authority_gathering.md §C)
 - Opening angle: a clean, foolproof **gift SKU + engraving + gift-ready box** — "she'll carry that love every day" [S70].
 
@@ -83,12 +83,12 @@ Market: US-primary + UK/CA/AU/NZ. Price tier $39–49 ("un-logo luxury"). Spine:
 - Gathers: r/minimalism, r/onebag, r/HerOneBag; capsule-wardrobe / KonMari creators. (authority_gathering.md)
 - Opening angle: the cardholder as the decluttering *tool* — "carry only what adds value" [S33].
 
-**4. The Gen-Z Clean-Girl / Coquette (~18–27)** — IG/TikTok heavy (clean-girl + coquette clusters).
+**4. The Gen-Z Clean-Girl / Coquette (~18–27)** — IG/TikTok heavy, ~9 snippets (n of 201) (clean-girl + coquette clusters).
 - #1 pain: wants the elevated/cute look cheaply — *"You don't need a luxury budget to look like you have one"* [S66] (SNIPPET); counter-segment pink/coquette *"giving ALL the girly vibes"* (cb_social).
 - Gathers: #cleangirl #thatgirl #whatsinmybag #coquette on TikTok/IG; Lemon8, Pinterest. (authority_gathering.md)
 - Opening angle: "slim card holder makes your fits look cleaner and more put together" [S73] — the easy styling upgrade + a nameable signature color.
 
-**5. The Traveler / One-Bagger / Cashless** — recurring across YouTube + Amazon.
+**5. The Traveler / One-Bagger / Cashless** — ~7 snippets (n of 201), recurring across YouTube + Amazon.
 - #1 pain: wants to go bag-free — *"sometimes you just want to go out with your phone only. No bag no extra weight"* [S30] (VERBATIM); venue bans — *"I am so over bag policies at concerts, sports and events"* [S18].
 - Gathers: r/onebag, r/HerOneBag, r/MagSafe, what's-in-my-bag creators.
 - Opening angle: pocketable/grab-and-go + a "quiet privacy" RFID line (never fear-based) for travel.
@@ -136,6 +136,11 @@ Register compliment · dropping it in a new small bag · the old wallet finally 
 
 ### Failed Solutions
 See §10B.
+
+### Past victories vs past failures
+*(what has / hasn't worked for her before — quoted, ranked by count; distinct from the §10B teardown)*
+- **Won (worked):** the switch to a cardholder — *"I changed to a card holder years ago and it's a game changer"* [S40] (count 8); a cheap-but-pretty find that over-delivered — *"it honestly looks like it is worth 10x the amount!"* [S26] (count 5); a BIFL leather piece that lasted — *"My last leather wallet I had for almost 15 years"* [S57] (count 11 durable).
+- **Failed (didn't work):** the men's-aisle compromise — *"in the eyes of a woman it is not as so refined, elegant"* [S46] (count 37); the "genuine leather" lie — *"I did test it and it showed to not be genuine leather"* [S26] (count 4); the fiddly metal mechanism — *"too difficult for me to manage... I'll stick with a regular nylon wallet"* [S23]; the luxury buy that peeled/stretched — *"The Celine is NOT worth it... and it's worn"* [S4] (count 13 peel).
 
 ### Goals
 - **Near:** replace the brick with one slim thing that fits her cards + a couple bills and still gets noticed.
@@ -266,7 +271,14 @@ See §10B.
 
 ### USE vs AVOID words
 - **USE:** *card holder · slim · put-together · not bulky · classy · elegant · quiet luxury (embodied, sparingly) · looks-expensive · worth 10x · game changer · editing down · grown woman · snug (never stuck) · ages, not peels · compliments.*
-- **AVOID:** *RFID-blocking tech jargon · "tactical"/carbon-fiber/EDC language · "dupe" of a luxury house · hype/"🔥 sale" spam · "genuine leather" on vegan SKUs · precious/shouty luxury-speak · over-leaning on the buzzword "quiet luxury" (skeptics call it "re-branded minimalism" [S28]).*
+- **AVOID → SAY INSTEAD (map every banned word to its plain substitute):**
+  - *"RFID-blocking"* → **"keeps your cards private"** (never fear-based).
+  - *"tactical" / "EDC" / carbon-fiber* → **"everyday"** / "the only thing you'll carry."
+  - *"dupe" of a luxury house* → **"the look, without the logo tax"** (name no house).
+  - *hype / "🔥 sale" spam* → **"a quiet upgrade"** (calm, no urgency theatrics).
+  - *"genuine leather" (the low grade, and a lie on vegan SKUs)* → name the real grade: **"full-grain leather"** / **"top-grain leather"** / **"vegan (PU)"** — whatever the sample actually is; never "genuine leather."
+  - *the buzzword "quiet luxury" in ADS* → **"looks expensive, costs less"** (skeptics call "quiet luxury" "re-branded minimalism" [S28]; embody it, sparingly, don't shout it).
+  - *precious / shouty luxury-speak* → **plain, confident lines** ("pretty, slim, holds everything").
 
 **So What → do this:** Build the ad library straight from these phrases; open on "game changer / slim-that-holds / looks-worth-10x," name the grown-woman edit identity, and ban the tech-EDC and "dupe" vocabulary brand-wide.
 

@@ -2,17 +2,17 @@
 **Women's Slim Cardholder** · female-first, identity-led, accessible "un-logo luxury" · US-primary + UK/CA/AU/NZ · English
 **Run date:** 2026-10-18 · Counts from `databank_merged.csv` (201 unique snippets; cite "n of 201")
 
-Drive folder: [[FOLDER_LINK]]
+Notion: https://app.notion.com/p/3fdd53123cd681338b2cc8c1b0e3162b
 
 ---
 
 ## Top 5 Takeaways
-*(provisional — finalized after §20)*
+*(final — post-§20)*
 
 1. **She's not in pain — she's in quiet Desire/Pride, already "settled."** 37 of 201 settle for a men's wallet because no elegant option exists [S1]; emotional tally runs aspirational 10 · proud 8, not "desperate" [S1]. **Decision:** copy must *affirm* ("you already edited your life down — here's the piece that matches you"), never *rescue* ("fix your messy life"); move her Pride → Courage, don't manufacture a crisis.
 2. **The hero mechanism is "snug, never stuck," and it kills the two biggest objections at once.** Slots-too-tight is the #1 product complaint (22 of 201) and metal "smart" wallets are "too much work" [S1][S4] — nobody owns effortless-but-secure access for the non-techy woman [S9][S10]. **Decision:** lead the PDP and ads on one-thumb access; name the break-in so firm-at-first reads as quality, not defect.
 3. **"Genuine leather" is her enemy, and honesty is our wedge.** "Genuine leather… a red flag, likely signifying a substandard grade… prone to cracking, peeling" [S7]; her own 1★ reviews say "it showed to not be genuine leather" and "less than a year and it's falling apart" [S4]. **Decision:** print the exact grade on page/ad/tag — make the compliance requirement the pitch; the $12 unit structurally can't copy it.
-4. **The story is true and ownable: the card case was hers first (c.1760).** "Ladies were expected to always carry their cards in a card case," earliest French cases c.1760 [S16]; the slim-wallet revival came back for men (Ridge 2013, /mens-wallets, "Carry Less. Live More.") [S27]. **Decision:** build the Discovery Story on the ladies' calling-card-case revival — reclaim, don't invent; never claim a founder, provenance, or a luxury-house dupe.
+4. **The story is true and ownable: the card case was hers.** The printed visiting-card custom dates to the 1760s [S17]; the ladies' ornamental card case — "ladies were expected to always carry their cards in a card case" — is a Victorian / 1800s object [S16]; the slim-wallet revival came back for men (Ridge 2013, /mens-wallets, "Carry Less. Live More.") [S27]. **Decision:** build the Discovery Story on the ladies' calling-card-case revival — reclaim, don't invent; never claim a founder, provenance, or a luxury-house dupe.
 5. **She trusts peers over influencers — her authority is other women.** r/handbags: "I generally don't trust influencers… The people here, I trust 100%" [S33]. **Decision:** borrow trust via over-disclosed micro-UGC (quiet-luxury / clean-girl / what's-in-my-bag) + earned editorial (Wirecutter-tier) [S30][S34]; never astroturf.
 
 ---
@@ -93,12 +93,12 @@ Ranked by §2C count (highest first). **Power move: raise the most obvious flaw 
 | Her worry (in her words) | Kill it with proof |
 |---|---|
 | **⚑ POWER MOVE — "New brand, no reviews, never heard of you. Why risk it?"** | Flip the weakness: *"New means we can tell you the truth the big names won't — the exact leather grade, the real card count, and a guarantee no $12 listing will sign."* Lead with radical material honesty + warranty + over-disclosed "return it if you don't love it." **CAN CREATE** (honesty policy + guarantee + seed early UGC). The un-logo, no-heritage position IS the product [§4B]. |
+| **"Cards too tight / hard to pull out."** (22 — #1 product-level [S1][S4]) | Name the break-in: "snug at first by design — it breaks in to one-thumb easy" [S9]; thumb-notch + quick-access front slot; the opposite of metal "too much work" [S4]. Show the thumb-swipe in UGC. **CAN CREATE** (requires real slot spec — **PENDING REAL SPEC**). |
 | **"I still need cash / coins."** (14 [S1]) | Reframe to her real life: most no longer carry cash ("I never carry cash anymore" [S1]); design holds **folded bills**, cards-primary. Be honest: no coin pocket by design (coin bloat is the enemy). **HAVE NOW** (positioning) · a coin/zip SKU is **DON'T HAVE (=OPEN)** until sourced. |
 | **"Designer is overpriced — I won't pay the logo tax."** (12 [S1]) | Agree loudly: "taste is the receipt, not the price tag." Quiet luxury is *defined* as accessible at any budget [S26]; "looks like it is worth 10x the amount," "my friends don't believe what I spent" [S3]. The money goes into hide + cut, not initials. **HAVE NOW.** |
 | **"A slim one won't hold enough."** (too-few-slots 7 [S1]) | State exact capacity (6–10 cards + folded bills [PENDING SPEC]); reviews: "holds more than its looks convey," "deceptively large… in a good way" [S4]. **CAN CREATE** (confirm real count before any number goes live). |
 | **"Not real leather / I'll feel deceived."** (4 [S1]) | Print the grade everywhere: "genuine leather… a red flag" [S7]; we name full-grain (patinas) OR premium microfiber (won't peel) per SKU — never call vegan "leather" [S7][S14]. Honesty is the mechanism. **HAVE NOW** (policy); patina claim only on genuine SKU. |
 | **"Skeptical — 'quiet luxury' is just marketing."** (3 [S1]) | Don't say the buzzword; *embody* it (un-logo deboss, no face logo, materials-forward). The aesthetic is accessible-at-any-budget by definition [S26]; let the object and the compliment do the talking. **HAVE NOW** (voice/design). |
-| **"Cards too tight / hard to pull out."** (22 — #1 product-level [S1][S4]) | Name the break-in: "snug at first by design — it breaks in to one-thumb easy" [S9]; thumb-notch + quick-access front slot; the opposite of metal "too much work" [S4]. Show the thumb-swipe in UGC. **CAN CREATE** (requires real slot spec — **PENDING REAL SPEC**). |
 | **"Is it worth the price?" (price / value)** | Visibly justify: honest material + finish + color story + packaging + voice + guarantee [§3]. "Looks 10x," "felt very fancy" [S3]. **HAVE NOW** (positioning); requires real finish + unboxing to deliver. |
 | **"Will it actually work for me daily?" (will-it-work)** | The whole UMS = effortless-but-secure; one thumb, one card, nothing falls out, no lever to fight [S9][S10]. **CAN CREATE** (PENDING SPEC). |
 | **"Is this for someone like me?" (for-someone-like-me)** | Female-first proportion + her bag/hand + ownable color [S12]; the Discovery Story says it was hers first [S16]. **HAVE NOW.** |
@@ -113,7 +113,7 @@ Ranked by §2C count (highest first). **Power move: raise the most obvious flaw 
 
 ## §12 · Authority Figure
 
-Top figures she trusts, to borrow (not impersonate). Ranked by trust-strength for this buyer.
+Top figures she trusts, to borrow (not impersonate). Ranked by **trust-strength**, not mention-count: §2C tallies pains/desires/objections/triggers, not authority figures, so there is no per-figure mention count to rank on. The one explicit trust signal in the data is directional and decisive — peers over influencers — so trust-strength (who she says she believes) is the proxy. Where a count exists it is noted.
 
 **1. Peer communities / subreddits (COMMUNITY — her #1, most-trusted).**
 - r/handbags, r/HerOneBag, r/BuyItForLife, r/bitcheswithtaste. Trust signal: *"I generally don't trust influencers because I think they are too beholden to sponsors. The people here, I trust 100%."* [S33]
@@ -147,7 +147,7 @@ Top figures she trusts, to borrow (not impersonate). Ranked by trust-strength fo
 ### UMP — Mechanism of the Problem (the villain)
 **"A man's object, or a lie that peels."** Every disappointing cardholder failed for one of two engineered reasons — built for a man, or built to a price on a material lie — hidden behind a logo or a word. Four causes:
 - **(A) Built for men, cash, coins.** The category evolved around men's deep pockets; women's pockets were shrunk — women's jeans pockets average **48% shorter, 6.5% narrower** (2018 study) [S12]. She inherits a man's slim wallet ("not as refined, elegant" [S6]) or a brick.
-- **(B) "Genuine"/bonded leather = scraps + glue that peel by year two.** "Genuine leather… a red flag, likely signifying a substandard grade… prone to cracking, peeling" [S7]; bonded "tends to peel and crack early" [S8]; cheap PU off-gasses and flakes [S14]. Maps 1:1 to her 1★ reviews [S4].
+- **(B) "Genuine"/bonded leather = a substandard grade that peels and cracks far sooner than full-grain.** "Genuine leather… a red flag, likely signifying a substandard grade… prone to cracking, peeling" [S7] (bonded = leather scraps + glue [S8]); PU/bonded typically lasts ~18 months–5 years and cracks within a few years, vs full-grain that ages into a patina [S8][S13]; cheap synthetic has a chemical/plastic smell [S7]. Maps to her 1★ reviews — one buyer wrote it was "less than a year and it's falling apart" [S4].
 - **(C) Slots cut as a blind tradeoff.** Snug-holds vs loose-drops is a real design tension [S10]; cheap makers resolve it by accident [S11]; the metal "smart" fix is "too much work" [S4]. No good answer exists *for her*.
 - **(D) The logo tax.** At the top she pays for initials, not hide; at the bottom, a faceless no-name [§4B].
 
@@ -175,7 +175,7 @@ Scored on **Proof-now · Competitor-taken · Compliance-safe:**
 - Break-in intentional / loosens with use — Craft & Antler VERBATIM [S9]; slot tension — r/Leathercraft [S10], leatherav [S11].
 - "Genuine = red flag," grade hierarchy, synthetic chemical smell — Carl Friedrik VERBATIM [S7]; bonded peels [S8].
 - Full-grain patina = protective layer — Tanner Bates [S13]; microfiber > PU durability — doshi [S14].
-- Gendered pockets (48% shorter) — Dovetail/Outside [S12].
+- Gendered pockets (48% shorter) — The Pudding [S12].
 - Her own objection map — cb_reviews VERBATIM [S4].
 
 ### RFID
@@ -193,11 +193,11 @@ Scored on **Proof-now · Competitor-taken · Compliance-safe:**
 The ladies' calling-card-case revival, braided with the double-corruption and the "men took the slim wallet and skipped her" proof.
 
 ### The real sourced arc (facts the story stands on)
-1. **It was hers (c.1760–1900).** "Ladies were expected to always carry their cards in a card case"; earliest French cases c.1760 (gold, silver, enamel, mother-of-pearl, tortoiseshell); use declined end of 19th c. [S16]. By the 19th c. "men and women needed personalized calling or visiting cards to maintain their social status" [S17]; the card was "an early form of social media" [S18] — a self-presentation/identity object from the start. Antique silver/MOP cases still sell as collector status goods [S19].
-2. **Plastic bloat (the mechanical fall).** Diners Club card, first issued on cardboard **1950**; Amex + BankAmericard **1958**; plastic by the 1960s [S20]. Today Americans hold an average of **~3.7–5 cards** in regular use [S21] — stacked with loyalty cards + receipts, the slim case became the brick.
+1. **It was hers (Victorian / 1800s).** The custom of the printed visiting card dates to the 1760s [S17]; the ladies' ornamental card case itself is a Victorian / 1800s object — "ladies were expected to always carry their cards in a card case" (silver, ivory, mother-of-pearl, tortoiseshell); use declined at the end of the 19th c. [S16]. By the 19th c. "men and women needed personalized calling or visiting cards to maintain their social status" [S17]; the card was "an early form of social media" (traded 1860s) [S18] — a self-presentation/identity object from the start. Antique silver/MOP cases still sell as collector status goods [S19].
+2. **Plastic bloat (the mechanical fall).** Diners Club card, first issued on cardboard **1950**; in **1958** Amex (first card paper) and BankAmericard (first card plastic) followed; plastic by the early 1960s [S20]. Today Americans hold an average of **~3.7–5 cards** in regular use [S21] — stacked with loyalty cards + receipts, the slim case became the brick.
 3. **Logo-tax corruption (the cultural fall).** LV Monogram created **1896** (logo-as-status born) [S22]; peaked in 2000s logomania (Murakami × LV, 2003) [S23] — status became a stamp you pay a tax for.
 4. **The un-fallen elite.** Old money "low-key and subdued" vs new-money ostentation; Social Register first published **1887** [S24]; quiet luxury "easily 2023's most visible fashion movement" [S25] and "accessible at any budget… Uniqlo linen does the job" [S26] — the permission slip for a $39–49 cardholder.
-5. **Men took the slim wallet and skipped her.** Ridge founded **2013** (Kane father-son, Kickstarter, aluminum/titanium, /collections/mens-wallets, "Carry Less. Live More.") [S27][S28]; a 2012–14 Kickstarter glut of "more than a dozen slim wallets" [S29]; Bellroy's wallet landing defaults to /mens-wallets [S27 context]. The refined little case that was hers first got skipped.
+5. **Men took the slim wallet and skipped her.** Ridge founded **2013** (Kane father-son, Kickstarter, aluminum/titanium, /collections/mens-wallets, "Carry Less. Live More.") [S27][S28]; a 2012–14 Kickstarter glut of "more than a dozen slim wallets" [S29]; Bellroy (founded 2009, launched its first wallets in 2010) defaults its wallet landing to /mens-wallets [S27 context]. The refined little case that was hers first got skipped.
 
 ### Emotional beats (each tied to a confirmed quote)
 - **"Fancy / arrived"** — "I felt very fancy," "classy," "sophisticated" [S3]. The case was *always* a fancy-feeling object.
@@ -236,7 +236,7 @@ Built from TYPICAL category spec — **every value is PENDING REAL SPEC.** ⚠ =
 | # | Feature (PENDING SPEC) | Benefit | Desire it hits | Struggle removed | Objection raised | How to handle |
 |---|---|---|---|---|---|---|
 | 1 | Thumb-notch + quick-access front slot; slots tuned to break in snug-not-stuck | One thumb pulls the exact card; nothing falls out; no lever to fight | Effortless control; grab-and-go | #1 tight/hard-to-pull; #2 metal "too much work" | "cards too tight" | Say it on PDP: "snug at first by design, breaks in to one-thumb easy" [S9]; show thumb-swipe in UGC |
-| 2 | Honest named material: full-grain OR premium microfiber (per SKU) | Ages into patina / won't peel or off-gas | Smart-insider; not duped | "not real leather," chemical smell, "falls apart" | "is it real?" | Print the grade everywhere [S7]; NEVER call vegan "leather"; no patina claim on vegan |
+| 2 | Honest named material: full-grain OR premium microfiber (per SKU) | Ages into patina / won't peel or carry a chemical smell | Smart-insider; not duped | "not real leather," chemical smell, "falls apart" | "is it real?" | Print the grade everywhere [S7]; NEVER call vegan "leather"; no patina claim on vegan |
 | 3 | Slim profile holds ~6–10 cards + folded bills ⚠(count pending) | Slim but still holds everything; no coin bloat | Lighter life; in-control | "too bulky loaded" / "too small" (both [S4]) | capacity mismatch | State exact capacity so expectation matches; cards-primary. ⚠ confirm real count |
 | 4 | Slim dimensions ~4.1 × 2.8 × ~0.4 in ⚠(pending) | Fits the small/crossbody bag + hand | Feminine-first; the finishing piece | "will it fit my bag?" | fit doubt | Show in a real small bag/hand at a café. ⚠ do not publish dims until measured |
 | 5 | RFID-blocking layer ⚠(claim only w/ bench test) | A quiet layer of privacy | Peace of mind, travel | over/under-claim risk | fear-mongering / ad reject | Minor line only, never hero: "a quiet layer of privacy," never "stops thieves" [S15] |
@@ -261,7 +261,7 @@ Built from TYPICAL category spec — **every value is PENDING REAL SPEC.** ⚠ =
 ## §18B · Curiosity & Corruption
 
 ### Lost-solution candidates
-- **A (PRIMARY) — the ladies' calling-card case, c.1760–1900.** A precious daily status object a refined woman was *expected* to carry; died with the calling ritual at the turn of the 20th c. [S16][S17]. Carte-de-visite as "early social media" [S18]; antique cases still collectible [S19].
+- **A (PRIMARY) — the ladies' ornamental calling-card case (Victorian / 1800s; the printed visiting-card custom dates to the 1760s [S17]).** A precious daily status object a refined woman was *expected* to carry; died with the calling ritual at the turn of the 20th c. [S16][S17]. Carte-de-visite as "early social media" [S18]; antique cases still collectible [S19].
 - **B (SUPPORTING) — the slim card case as the elite's enduring "discreet carry," 1850s→mid-century.** Survived as the quiet-luxury object women still name (Celine/Chanel/Bottega card cases) — just gatekept behind $150–490 [S17].
 
 ### Corruption candidates
@@ -298,11 +298,11 @@ Built from TYPICAL category spec — **every value is PENDING REAL SPEC.** ⚠ =
 9. **Craft & Antler** — "A new card holder often feels tight… This tightness is intentional… It will gradually loosen with regular use" · craftandantlerco.com · 2026-10-18 · VERBATIM · https://craftandantlerco.com/blogs/journal/card-holder-too-tight
 10. **r/Leathercraft** — slot design tension (snug-holds vs loose-drops; leather stretches with use) · reddit.com · 2026-10-18 · SNIPPET · https://www.reddit.com/r/Leathercraft/comments/zzynwx/
 11. **leatherav.com** — poor slot design vs break-in ("if the slot stays unreasonably tight… that is not 'quality'") · 2026-10-18 · SNIPPET · https://leatherav.com/blogs/news/do-leather-wallets-stretch-what-s-normal-what-s-not-and-what-to-do
-12. **Dovetail Workwear / Outside** — women's jeans pockets average 48% shorter, 6.5% narrower (2018 study) · 2026-10-18 · SNIPPET · https://dovetailworkwear.com/blogs/news/the-sexist-history-of-pockets ; https://www.outsideonline.com/outdoor-gear/clothing-apparel/how-womens-clothes-pockets-changed-over-time/
+12. **The Pudding** — "Women's Pockets are Inferior" (2018): measured women's jeans pockets average 48% shorter, 6.5% narrower than men's · pudding.cool · 2018 · PRIMARY/DATA · https://pudding.cool/2018/08/pockets/ (secondary coverage: Dovetail Workwear; Outside)
 13. **Tanner Bates** — full-grain patina "creates a protective layer that boosts durability" · 2026-10-18 · SNIPPET · https://www.tannerbates.co.uk/blogs/news/what-is-leather-patina-the-beauty-of-naturally-aged-leather
 14. **doshi.shop** — premium microfiber vegan has "stronger internal structure and better hydrolysis resistance" vs PU · 2026-10-18 · SNIPPET · https://doshi.shop/blogs/the-doshi-blog-vegan-fashion-for-the-world/will-microfiber-vegan-leather-last-longer-than-pu
 15. **D_compliance.md** (AARP, ITRC, FTC 16 CFR 24.3) — RFID skimming "largely unheard of"/"very theoretical"; absolute-claim traps · internal · 2026-10-18 · SNIPPET
-16. **The French Tangerine** — "Victorian Card Cases": "Ladies were expected to always carry their cards in a card case," earliest French cases c.1760 (gold/silver/enamel/MOP/tortoiseshell), declined end of 19th c. · thefrenchtangerine.com · 2024-12-06 · VERBATIM · https://www.thefrenchtangerine.com/blog/victorian-card-cases
+16. **The French Tangerine** — "Victorian Card Cases": the ladies' ornamental card case is a Victorian / 1800s object — "Ladies were expected to always carry their cards in a card case" (silver, ivory, mother-of-pearl, tortoiseshell); use declined at the end of the 19th c. (the 1760s date belongs to the printed visiting-card custom, not this case — see S17) · thefrenchtangerine.com · 2024-12-06 · VERBATIM · https://www.thefrenchtangerine.com/blog/victorian-card-cases
 17. **Wikipedia — "Visiting card"** — 1760s printed visiting cards; "men and women needed personalized calling or visiting cards to maintain their social status"; cards kept in decorated card cases · en.wikipedia.org · 2026-10-18 · VERBATIM · https://en.wikipedia.org/wiki/Visiting_card
 18. **Wikipedia — "Carte de visite"** — patented Paris 1854 (Disdéri); "an early form of social media," traded 1860s · en.wikipedia.org · 2026-10-18 · VERBATIM · https://en.wikipedia.org/wiki/Carte_de_visite
 19. **eBay** — antique sterling-silver / MOP card cases as collector status goods · ebay.com · 2026-10-18 · SNIPPET · https://www.ebay.com/b/Antique-US-Sterling-Silver-Card-Cases/105899/bn_16561838

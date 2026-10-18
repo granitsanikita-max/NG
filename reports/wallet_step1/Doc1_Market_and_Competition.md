@@ -2,15 +2,15 @@
 **Women's Slim Cardholder** · female-first, identity-led, accessible "un-logo luxury" · US-primary + UK/CA/AU/NZ · English
 **Run date:** 2026-10-18 · Counts from `databank_merged.csv` (201 unique snippets; cite "n of 201")
 
-Drive folder: [[FOLDER_LINK]]
+Notion: https://app.notion.com/p/3fdd53123cd681338b2cc8c1b0e3162b
 
 ---
 
 ## Top 5 Takeaways
-*(provisional — finalized after §20)*
+*(final — post-§20)*
 
-1. **The accessible-tier women's-identity cardholder slot is empty.** Across 24 advertisers/clusters scanned, **zero** dedicated $25–55 women's-identity cardholder brands exist — men own every identity lane; women get commodity or non-cardholder premium [S1]. **Decision:** build the first identity brand in the empty $39–49 rung; don't out-spec, leapfrog.
-2. **Demand is mass but low-urgency.** ~**12,100 units/month "bought in past month"** on one Amazon query (top 13 listings) [S2]; TikTok Shop women's heroes at **5,835–8,588 lifetime units** [S3] — but Mass-Desire urgency scores **2/5** [S4]. **Decision:** win on identity + gifting, never on function/price; expect to manufacture urgency via gift occasions and aesthetic triggers.
+1. **The category is OCCUPIED — but our exact positioning + product fix is not.** Two female-first cardholder brands already own the women's lane: **Katie Loxton** (cute/sentiment/gift, cards ~$19–28, fold-out wallets ~$39–55) and **The Daily Edited** (monogram/personalization, cards ~$66, wallets ~$95) [S1/S16/S17]. What NONE of them — nor men's-EDC, luxury, nor Amazon commodity — owns is OUR wedge: the anti-logo "edited her life down / taste is the receipt" quiet-luxury **stance** + the "snug, never stuck" easy-but-secure **product fix** (the #1/#2 complaints no one solves) + radical **material honesty** + a **durability guarantee**, at an accessible **$39–49**. **Decision:** this is a **positioning + product-execution** play against named incumbents, NOT first-mover virgin territory — compete on stance + mechanism + economics, honestly.
+2. **Demand is mass but low-urgency.** ~**12,100 units/mo "bought in past month"** on one Amazon query (top 13 listings) and TikTok Shop women's heroes at **~5,800–8,600 lifetime units** (both 3rd-party estimate · directional — not exact; do not cite as fact in ad copy) [S2/S3] — but Mass-Desire urgency scores **2/5** [S4]. **Decision:** win on identity + gifting, never on function/price; expect to manufacture urgency via gift occasions and aesthetic triggers.
 3. **She's already Solution/Product-aware (126 of 201).** product 68 + solution 58 vs problem 20, most 8, unaware 4 [S5]. **Decision:** don't educate her that cardholders exist — hand her the brand/identity to belong to.
 4. **Category is Level-5 sophisticated for men, Level 2–3 for her.** 7 of 22 proven creatives lead with identity — 6 of 7 are male; women's tier is still sold plain-claim + RFID + "gift" [S6]. **Decision:** bring Level-4/5 identity to a buyer being sold at Level 2–3.
 5. **Seasonality is Q4-gifting-dominant, NOT Valentine's/Mother's Day.** "Card holder" peaks Dec (33.9) > Nov (27.7), secondary Jan; Feb is among the lowest [S7]. **Decision:** Oct 18 is slightly late to win this Nov–Dec peak cold — treat Q4 2026 as a paid-creative learning window, scale fully-branded into the 2027 gift calendar.
@@ -31,6 +31,10 @@ Drive folder: [[FOLDER_LINK]]
 | Break-even ROAS | 1 / CM% | PENDING COGS + price |
 | Break-even CPA | = CM$ | PENDING COGS + price |
 | Target CPA @ n% margin | CM$ − (n × Price) | PENDING COGS + price |
+| **Target CPA @ 20% net** | CM$ − (0.20 × Price) | PENDING COGS + price |
+| **Target CPA @ 30% net** | CM$ − (0.30 × Price) | PENDING COGS + price |
+| **Target ROAS @ 20% net** | Price / [CM$ − (0.20 × Price)] | PENDING COGS + price |
+| **Target ROAS @ 30% net** | Price / [CM$ − (0.30 × Price)] | PENDING COGS + price |
 
 **⚠️ REMINDER — SEND COGS.** Every cell above is blocked on one input: real landed unit cost + final price. The moment a product is sourced, these resolve in minutes. Until then all CAC/ROAS targets in later docs are illustrative only.
 
@@ -40,7 +44,7 @@ Drive folder: [[FOLDER_LINK]]
 
 ## Audit first
 
-**Highest-traffic competitor page = Ridge (ridge.com):** 4,100,782 monthly visits (Sep '26); 30-day rev est **$25.08M–$44.47M**; **AOV $185.46**; **2,117 active ads** [S1]. It is the category's traffic and spend ceiling — and the template for the AOV engine.
+**Highest-traffic competitor page = Ridge (ridge.com):** ~4.1M monthly visits (Sep '26); 30-day rev **~$25–44M/mo (3rd-party estimate · directional)**; **AOV ~$185 (3rd-party estimate · directional)**; **~2,117 active ads** [S1]. It is the category's traffic and spend ceiling — and the template for the AOV engine. *Note: these are WinningHunter/SimilarWeb estimates for a private company — do not cite exact figures as fact in ad copy.*
 
 **What's weak for OUR buyer:** Ridge is **100% male-equipped-man coded** — "No powers. Just preparation" (Batman collection), MKBHD power-bank authority, EDC ecosystem [S1]. The wallet does not even appear in its top 10 active ads. A woman has **no on-ramp except gifting** ("girls loving this minimalist mens wallet" is a Ridge-partner headline [S10]). No feminine identity, no female-default landing, no aesthetic/quiet-luxury frame. The whole funnel is built for him.
 
@@ -57,9 +61,9 @@ Drive folder: [[FOLDER_LINK]]
 |---|---|---|
 | **Urgency** | **2/5 — LOW** | A cardholder is a style/convenience want, not acute pain. "Slim wallet women" Google intent is thin with many zero-weeks [S7]; purchase is impulse/gift at $4–13 Amazon price points = low-consideration, not painkiller behavior [S2]. Nobody loses sleep over a bulky wallet. |
 | **Staying power** | **3.5/5 — MOD-HIGH** | Rides durable desires (minimalism/"the edit," carry-light, gifting). "Card holder" interest rose steadily 5 yrs [S7]; Amazon heroes accreted **10K–14K ratings** over years (Travelambo 14.3K, GH Gold Horse 13.2K, Chelmon 12.4K) [S2] = sustained multi-year demand, not a spike. |
-| **Scope** | **4.5/5 — VERY HIGH** | Mass. ~**12,100+ "bought in past month"** on one Amazon query [S2]; TikTok Shop heroes 5K–25K lifetime units [S3]; Exploding Topics RFID Wallet 49.5K/mo + Minimalist Wallet 40.5K/mo searches [S12]. |
+| **Scope** | **4.5/5 — VERY HIGH** | Mass. ~**12,100 "bought in past month"** summed across one Amazon query (3rd-party estimate · directional — rounded Amazon badge floors, not exact) [S2]; TikTok Shop heroes ~5–25k lifetime units (3rd-party estimate · directional) [S3]; Exploding Topics RFID Wallet 49.5K/mo + Minimalist Wallet 40.5K/mo searches [S12]. |
 
-**Honest read:** this is a **mass-scope, durable STYLE-WANT with LOW urgency** — an identity/desire play, NOT an acute painkiller. The real *functional* pain beneath it: **37 of 201 snippets settle for a men's wallet because no elegant slim option that works + lasts exists for her** [S5, LOCKED]. The money is unambiguously present; the only durable moat is identity/belonging + art direction, which is exactly the uncontested lane.
+**Honest read:** this is a **mass-scope, durable STYLE-WANT with LOW urgency** — an identity/desire play, NOT an acute painkiller. The real *functional* pain beneath it: **37 of 201 snippets settle for a men's wallet because no feminine slim option that works + lasts exists for her** [S5, LOCKED]. The money is unambiguously present. The category itself is contested (Katie Loxton/The Daily Edited run the women's lane) — but our specific **angle (anti-logo quiet-luxury "edit" stance) + mechanism (snug-never-stuck) + material honesty + guarantee** is run by no incumbent, so the durable moat is positioning + product execution, not a first-mover claim.
 
 **So What → do this:** sell the identity and the gift occasion, with the functional pain ("made for her, works daily, won't peel") as the proof layer underneath — do not build the pitch on urgency or price, both of which already belong to the $5 commodity.
 
@@ -69,11 +73,11 @@ Drive folder: [[FOLDER_LINK]]
 
 **Search trend (Google Trends, US, 5-yr, pulled 2026-10-18) [S7, DATA]:** "card holder" year-avg **25.0 (2021) → 30.6 (2025) = RISING** (highest-volume, cleanest term women actually use); "slim wallet" flat (~4); "minimalist wallet" flat/slight decline; "slim wallet women" small but rising (1.3→3.3, tripled 2023→25) with many zero-weeks = thin intent. A Mar–May 2026 spike (all terms peaked wk of Apr 12–18 =100) decayed to baseline by Jun–Jul — treated as a one-off, excluded.
 
-**Amazon [S2, DATA/VERBATIM]:** ~**12,100 units "bought in past month"** summed across top 13 badged listings on "women card holder wallet slim"; six listings carry **8.9K–14.3K ratings** (4.3–4.7★ = category works); price band **100% sub-$18** — the $25–55 tier is empty on Amazon too.
+**Amazon [S2, DATA/VERBATIM]:** ~**12,100 units "bought in past month"** summed across top 13 badged listings on "women card holder wallet slim" (3rd-party estimate · directional — these are rounded Amazon badge floors, not exact unit counts; do not cite as fact in ad copy); six listings carry **8.9K–14.3K ratings** (4.3–4.7★ = category works); price band **100% sub-$18** — the accessible $25–55 tier is absent from the Amazon commodity set (Katie Loxton/The Daily Edited sit on their own DTC, off-Amazon).
 
-**TikTok Shop [S3, DATA]:** actively selling. Women's heroes: "Women's Fashionable Card Holder" **8,588 units / $169.9K lifetime**; "Wrangler Leopard Wristlet" **5,550 / $166.4K**; women's RFID bifold (gift) **5,835 / $93.8K**. Men's refs: slim RFID pop-up 13,152, carbon-fiber 17,326, zipper short 25,137. Heroes span **~5K–25K units**. Most show negative 30-d growth (−26% to −57%) but positive 7-d ticks = cooling off a spring high, re-accelerating into Q4.
+**TikTok Shop [S3, DATA — all unit/$ figures 3rd-party estimate · directional, do not cite as fact in ad copy]:** actively selling. Women's heroes: "Women's Fashionable Card Holder" **~8,600 units / ~$170k lifetime**; "Wrangler Leopard Wristlet" **~5,550 / ~$166k**; women's RFID bifold (gift) **~5,835 / ~$94k**. Men's refs: slim RFID pop-up ~13k, carbon-fiber ~17k, zipper short ~25k. Heroes span **~5–25k units**. Most show negative 30-d growth (−26% to −57%) but positive 7-d ticks = cooling off a spring high, re-accelerating into Q4.
 
-**Live advertisers [S1/S13, DATA]:** `minimalist wallet` → 17 distinct active advertiser domains (~16 rotating generic dropshippers on the same pop-up RFID wallet + MagBak as the only real brand); `slim wallet women` → ~90% cloaked health/elderly dropship funnels, **no women's-identity brand on any page**. ~16+ advertisers running card-holder ads to US/GB/CA/AU now.
+**Live advertisers [S1/S13, DATA — advertiser counts are 3rd-party estimate · directional]:** `minimalist wallet` → ~17 distinct active advertiser domains (~16 rotating generic dropshippers on the same pop-up RFID wallet + MagBak as the only real brand); `slim wallet women` → mostly cloaked health/elderly dropship funnels, **no anti-logo quiet-luxury women's cardholder brand on any page** (the female-first incumbents Katie Loxton/The Daily Edited sell via their own DTC + wholesale, not on these keyword ad pulls). **~16+** advertisers running card-holder ads to US/GB/CA/AU now (3rd-party estimate · directional).
 
 **Gift seasonality [S7, DATA]:** every term peaks **December (card holder 33.9)**, then **November (27.7)**, secondary **January (28.2)**. **Feb (Valentine's) and May (Mother's Day) are NOT peaks** — Feb is among the lowest months. Gifting is **Q4-dominant** with a Jan post-holiday/gift-card echo.
 
@@ -85,8 +89,8 @@ Drive folder: [[FOLDER_LINK]]
 
 ## §1 · Competitor scan
 
-### Long-list (24 advertisers/clusters; target region, pulled 2026-10-18) [S1, DATA]
-Proven slim-wallet/cardholder advertisers are **~100% male- or unisex-male-coded.** Ranked by active FB ads:
+### Long-list (26 advertisers/clusters; target region, pulled 2026-10-18) [S1/S16/S17, DATA]
+The *ad-heavy, high-spend* slim-wallet/cardholder advertisers are **~100% male- or unisex-male-coded** — but the women's cardholder category is NOT empty: two female-first brands own it (Katie Loxton, The Daily Edited; items 25–26), running lighter paid and more wholesale/retail/organic. Ranked by active FB ads:
 1. **Ridge** — 2,117 ads — equipped-man EDC ecosystem (AOV $185)
 2. **MagBak** — 1,676 — MagSafe iPhone wallet $49, unisex-male
 3. **Bellroy** — 829 — considered design, leather that ages, 3-yr warranty
@@ -111,27 +115,41 @@ Proven slim-wallet/cardholder advertisers are **~100% male- or unisex-male-coded
 22. **Dango** — niche — overbuilt tactical CNC EDC
 23. **Commodity (Amazon):** Travelambo, VULKIT, Hawanik, Vaultskin, Leatherology, Lo & Sons — cheap RFID "for women," no identity
 24. **Dropship catalogs cycling a women's wallet:** mindsparkl.com, bestemall.com — 1,639+ products, no identity (gadget/gift catalogs, not wallet brands — corrects prior "7,000+ ads" figure) [S13]
+25. **Katie Loxton** (katieloxton.com) — **female-first** dedicated women's "Wallets & Card Holders," vegan-leather, colourway + "PERSONALIZE ME" monogram, gift-boxed; card holders ~$19–28, fold-out wallets ~$39–55 (squarely in our band). Positioning = **cute / sentiment / gift** [S16]
+26. **The Daily Edited** (thedailyedited.com) — **women-first PERSONALIZED** leather card holders & wallets, 15+ SKUs, monogramming; card holders ~$66, wallets ~$95 (premium-leaning, straddles above our band). Positioning = **monogram / personalization** [S17]
 
-**The single most important finding: zero accessible-tier ($25–55) women's-identity cardholder brand. The slot is empty.**
+**The single most important finding (CORRECTED at §20): the women's cardholder category is NOT empty — Katie Loxton and The Daily Edited occupy it. What is unoccupied is the accessible ($39–49) anti-logo quiet-luxury "edit" STANCE + "snug, never stuck" product fix + material honesty + durability guarantee. This is a POSITIONING + PRODUCT-EXECUTION gap inside an occupied, proven category — not virgin territory.**
 
-### 3 DIRECT (category incumbents whose playbook to reverse-engineer — all male/unisex-male)
-| Brand | Shop signals [S1] | Leads with | Funnel | Offer | Weak spot for her |
+### DIRECT — female-first cardholder incumbents (the REAL category occupants to out-position)
+| Brand | Shop signals | Leads with | Offer / price | Weak spot = OUR opening |
+|---|---|---|---|---|
+| **Katie Loxton** (katieloxton.com) | dedicated women's "Wallets & Card Holders"; vegan-leather; colourway + "PERSONALIZE ME" monogram; gift-boxed [S16] | **cute / sentiment / gift** | card holders ~$19–28; fold-out wallets ~$39–55 (in our band) | cute/gifty, not quiet-luxury or grown-up; vegan-PU with no durability/material-honesty story; no "works-and-lasts" fix |
+| **The Daily Edited** (thedailyedited.com) | women-first personalized leather cards & wallets; 15+ SKUs; monogramming [S17] | **monogram / personalization** | card holders ~$66; wallets ~$95 (premium, above our band) | premium-priced + personalization-led, not an accessible anti-logo "edit" identity; no easy-but-secure mechanism claim; above our $39–49 rung |
+
+**Both prove the women's cardholder category is real, proven, and buyable — neither runs the anti-logo quiet-luxury "edit" stance, the "snug, never stuck" product fix, material honesty, or a durability guarantee at $39–49. That is the gap.**
+
+### MEN'S-INCUMBENT SET — AOV + identity playbook to reverse-engineer (male/unisex-male; NOT women's-category competitors)
+| Brand | Shop signals [S1 — 3rd-party estimate · directional] | Leads with | Funnel | Offer | Weak spot for her |
 |---|---|---|---|---|---|
-| **Ridge** | 4.1M visits/mo; $25–44M/mo; AOV **$185**; 2,117 ads; 12 FB pages | mechanism + authority (MKBHD) + **identity** ("No powers. Just preparation" / Batman) | advertorial/listicle pages → PDP; heavy A/B, bundle, SMS/loyalty | ecosystem sets + lifetime warranty | 100% male-equipped; no female on-ramp except gifting |
-| **Bellroy** | 829 ads; ~$54M/yr; 200K page likes | **identity** ("leathers that age gracefully… like no other," 769d; #day1day1000) | polished brand image/DCO/video (NOT UGC); PDP + collections | bundle-&-save, Set $115 (val $140), 3-yr warranty | wallet landing defaults to **/mens-wallets** — female-default absent |
-| **Ekster** | 837K visits/mo; $5.2–8.5M/mo; 557 ads; Trustpilot 4.5 (3,144) | **upgraded mechanism** ("slimmest and most durable… space-grade aluminium") | video + advertorial listicle (/pages/5-reasons…) → PDP; AfterSell upsell | tracker-card $39 cross-sell, bundles | tech/male identity; drifting into travel gear |
+| **Ridge** | ~4.1M visits/mo; ~$25–44M/mo; AOV **~$185**; ~2,117 ads; 12 FB pages | mechanism + authority (MKBHD) + **identity** ("No powers. Just preparation" / Batman) | advertorial/listicle pages → PDP; heavy A/B, bundle, SMS/loyalty | ecosystem sets + lifetime warranty | 100% male-equipped; no female on-ramp except gifting |
+| **Bellroy** | ~829 ads; ~$54M/yr; ~200K page likes | **identity** ("leathers that age gracefully… like no other," 769d; #day1day1000) | polished brand image/DCO/video (NOT UGC); PDP + collections | bundle-&-save, Set $115 (val $140), **3-yr warranty (confirmed)** | wallet landing defaults to **/mens-wallets** — female-default absent |
+| **Ekster** | ~837K visits/mo; ~$5–8.5M/mo; ~557 ads; **Trustpilot 4.3★ (~3,100+ reviews)** | **upgraded mechanism** ("slimmest and most durable… space-grade aluminium") | video + advertorial listicle (/pages/5-reasons…) → PDP; AfterSell upsell | tracker-card $39 cross-sell, bundles | tech/male identity; drifting into travel gear |
 
-**Most-duplicated winner per direct:** Ridge = MKBHD power-bank + Batman (not a wallet); Bellroy = "leathers that age gracefully / Hide & Seek" (769d); Ekster = "Slim is in. Bulk is out." Cardholder Pro video [S1].
+*All Ridge/Bellroy/Ekster traffic, revenue, AOV and ad-count figures are WinningHunter/SimilarWeb estimates for private companies — directional only, do not cite as fact in ad copy.*
+
+**Most-duplicated winner per men's incumbent:** Ridge = MKBHD power-bank + Batman (not a wallet); Bellroy = "leathers that age gracefully / Hide & Seek" (769d); Ekster = "Slim is in. Bulk is out." Cardholder Pro video [S1].
 
 ### 3 INDIRECT (search the female desire/identity)
-- **Cuyana** — *the bullseye identity.* "**Fewer, Better Things.** Timeless apparel and accessories for the **modern woman**…" 604K visits/mo; **AOV $346.92**; US 87.8%; card cases $98–138 [S1]. Owns the exact "intentional woman / the edit" identity — but bag/SLG-led and premium, not cardholder-first. **This is who she buys instead.**
-- **Quince** — *accessible-luxury at scale.* **64.2M visits/mo**; US 91.8%; Adeline Slim Card Case $30 [S1/S14]. Proves the massive accessible-luxury female appetite — but it's a deliberately **anti-brand** catalog, zero cardholder identity.
+- **Cuyana** — *the bullseye identity.* "**Fewer, Better Things**" (confirmed tagline). Timeless apparel and accessories for the **modern woman**; ~604K visits/mo; **AOV ~$300+ (3rd-party estimate · directional)**; US ~88%; card cases $98–138 [S1]. Owns the exact "intentional woman / the edit" identity — but bag/SLG-led and premium, not cardholder-first. **This is who she buys instead.**
+- **Quince** — *accessible-luxury at scale.* **~64M visits/mo (3rd-party estimate · directional)**; US ~92%; Adeline Slim Card Case $30 [S1/S14]. Proves the massive accessible-luxury female appetite — but it's a deliberately **anti-brand** catalog, zero cardholder identity.
 - **Celine / Chanel / Coach** — *the aspiration she names.* Reddit VERBATIM: "I switched from a wallet to a **Celine card holder**. I love it, so easy"; "Slim and small **Chanel** cardholder" [S15]. $95–490, inaccessible — the identity ceiling; the wedge delivers that *feeling* at $39–49.
 
 ### TAKEN map (one line per lane)
-Men own every identity: Ridge (equipped man/EDC) · Ekster (tech smart wallet) · Bellroy (considered design/ageing leather, /mens-wallets) · Secrid (Dutch design-object) · Carved/Trayvax/Dango (tactical) · Kings Loot (regal masculine) · MagBak (MagSafe ecosystem) · Aristo Vault (ultra-capacity) · Carbon FG (materials geek) · Lost Dutchman (heritage leather). Women get only: **commodity** (Travelambo/VULKIT + mindsparkl/bestemall, "ideal gift," zero identity) or **non-cardholder premium** (Cuyana/Quince bag-led; Celine/Coach fashion-house $150–490). **UNCONTESTED: accessible $25–55 women's cardholder sold as a feminine IDENTITY object — no active or abandoned occupant** [S1, LOCKED].
+Men own every male identity: Ridge (equipped man/EDC) · Ekster (tech smart wallet) · Bellroy (considered design/ageing leather, /mens-wallets) · Secrid (Dutch design-object) · Carved/Trayvax/Dango (tactical) · Kings Loot (regal masculine) · MagBak (MagSafe ecosystem) · Aristo Vault (ultra-capacity) · Carbon FG (materials geek) · Lost Dutchman (heritage leather). **Women's cardholder lane is OCCUPIED:** **cute/gift personalized** = Katie Loxton · **monogram/premium personalized** = The Daily Edited · **commodity** = Travelambo/VULKIT + mindsparkl/bestemall ("ideal gift," zero identity) · **non-cardholder premium** = Cuyana/Quince bag-led; Celine/Coach fashion-house $150–490. **STILL OPEN (our wedge): the accessible $39–49 anti-logo quiet-luxury "edit" STANCE + "snug, never stuck" easy-but-secure mechanism + radical material honesty + durability guarantee — run by no incumbent, cute/gift (Katie Loxton) and monogram/premium (TDE) do not touch it** [S1/S16/S17, LOCKED].
 
-**So What → do this:** reverse-engineer the Ridge/Bellroy/Ekster identity-and-AOV playbook, point it at the female avatar, and benchmark the *feeling* against Cuyana/Celine — because there is no direct occupant to benchmark against.
+**So What → do this:** out-position the two female-first incumbents (Katie Loxton = cute/gift; TDE = monogram/premium) on **stance + mechanism + economics**, reverse-engineer the Ridge/Bellroy/Ekster AOV + identity machine, and benchmark the *feeling* against Cuyana/Celine — this is a compete-on-positioning play against named competitors, not a first-mover land-grab.
+
+**Audit re-check (§20):** the earlier "empty lane / no occupant / uncontested category" framing is REFUTED — Katie Loxton and The Daily Edited are live, proven female-first cardholder brands. Every "empty/uncontested" claim in this doc has been re-scoped to "occupied category, unoccupied angle + mechanism + economics." The wedge is **stronger and more defensible** as an out-positioning play (proven demand, named gaps) than it was as an unverified first-mover claim.
 
 ---
 
@@ -140,26 +158,34 @@ Men own every identity: Ridge (equipped man/EDC) · Ekster (tech smart wallet) �
 ### The 3 gaps checked
 - **(a) Creative-format — OPEN (secondary).** Incumbents run polished brand assets (Bellroy image/DCO/video; Ridge/Ekster listicle+video); the only women-coded wins are *advertorials* (Karly Seleste declutter, Libra luxury-hobo). **No proven native female-UGC cardholder creative** ("what's in my small bag," handbag POV, GRWM/"the edit") found in the corpus [S6]. Against: UGC is common in DTC, not a durable moat alone.
 - **(b) Mechanism — CLOSED.** Every mechanism is claimed and commoditized: RFID (Swarous), aluminum pop-up/"slimmest" (Ekster), MagSafe (MagBak/Kaaf-Nūn), card-slider (Secrid), ultra-capacity (Aristo), tracker card (Ridge/Ekster) [S6]. A new mechanism cannot out-position them — do not fight here.
-- **(c) Avatar — OPEN (primary, highest conviction).** 100% of proven brands target a male/unisex-male avatar (Ekster affiliate spec "Men 25–54"; Ridge "equipped man / Batman"; Bellroy/Carved male-default) [S6]. The aesthetic-driven woman who wants a cardholder *as an identity object* in the accessible tier has **no brand.**
+- **(c) Avatar + stance — OPEN (primary, highest conviction).** The ad-heavy incumbents are 100% male/unisex-male (Ekster affiliate spec "Men 25–54"; Ridge "equipped man / Batman"; Bellroy/Carved male-default) [S6]. The women's cardholder avatar IS served — by Katie Loxton (cute/gift) and The Daily Edited (monogram/premium) [S16/S17] — but the specific woman who wants a cardholder as an **anti-logo quiet-luxury "edit" identity object** at an **accessible $39–49**, with a **"snug, never stuck" works-and-lasts** fix and **material honesty**, has **no brand built for her.** Open on stance + mechanism + economics, not on "no women's brand exists."
 
-### Purple Ocean Gate
-- **Painkiller-under-identity?** YES — identity on top, with a real functional pain beneath (37/201 settle for a men's wallet because no elegant slim option that works+lasts exists for her) [S5]. ✅
-- **Uncontested?** YES — no active or abandoned occupant of the accessible women's-identity rung [S1]. ✅
-- **A real MARKET?** YES — scope very high (12K+ bought/mo on one Amazon query; TikTok heroes 5K–25K units) [S2/S3]. ✅
-- **Honest caveat:** desire **urgency is LOW (2/5)** — this is an identity/desire + gifting play, not an acute painkiller [S4]. ⚠️ Win on identity + gifting, not urgency.
-- **GATE: PASS.**
+### Purple Ocean Gate (re-scoped at §20 — honest handling)
+- **PAINKILLER? PARTIAL.** It is primarily an identity/desire (style-want) play, but a real functional pain sits beneath it: **37 of 201 settle for a men's wallet because no feminine slim option that works + lasts exists for her** [S5]. So: identity on top, genuine functional pain underneath — not a pure painkiller, not a pure vitamin. ⚠️ partial.
+- **UNCONTESTED? THE CATEGORY IS CONTESTED — OUR ANGLE IS NOT.** The women's cardholder *category* is occupied (Katie Loxton = cute/gift; The Daily Edited = monogram/premium) [S16/S17]. But our specific **angle + identity + mechanism** — anti-logo quiet-luxury "edit" stance + "snug, never stuck" fix + material honesty + guarantee at $39–49 — is run by **no incumbent.** → **purple on the angle, not on the category.** ✅ (angle) / ⚠️ (category is occupied).
+- **A real MARKET? YES.** Scope very high — ~12k bought/mo on one Amazon query, TikTok heroes ~5–25k units, two live DTC incumbents proving buyability (all 3rd-party estimate · directional) [S2/S3/S16/S17]. ✅
 
-**"Which competitor runs this exact angle, and where?" → NONE.** No active or abandoned brand occupies accessible women's-identity cardholder in any of the 5 target countries [S1].
+**3 auto-fail checks (state each + whether it tripped):**
+1. **Vitamin / "nicer-X" trap** — *PARTIAL RISK, did NOT trip fatally.* It is partly a style want (a "nicer cardholder"), which is the classic vitamin risk — **mitigated** by the real functional pain (works+lasts, 37/201) + a belonging/identity hook that lifts it above "nicer-X." Manage, don't ignore.
+2. **Red ocean (is this just the biggest competitor's own angle?)** — *NO, did not trip.* No incumbent — not Katie Loxton (cute/gift), not TDE (monogram/premium), not the men's set, not luxury, not commodity — runs our stance + mechanism. We are not entering on a crowded incumbent angle.
+3. **Angle-as-market (is the "wedge" too narrow to be a market?)** — *NO, did not trip.* This is a whole proven market (mass scope, two live incumbents, year-round money), not a thin sub-segment of one.
 
-**COMMIT (from LOCKED):** the wedge = an accessible ($39–49), unapologetically **feminine, identity-led** slim cardholder for **"the woman who edited her life down"** (AVATAR gap primary + "small-bag/the-edit" UGC format secondary; mechanism lane left closed). **Runner-up:** service-and-guarantee differentiation in the accessible tier (Portland is 2.5★; dropship/Amazon have none) — a supporting layer, not the lead.
+- **Honest caveat (kept):** desire **urgency is LOW (2/5)** — identity/desire + gifting play, not an acute painkiller [S4]. ⚠️ Win on identity + gifting + the works-and-lasts proof, not on urgency.
+- **GATE VERDICT: PROCEED — as an OUT-POSITIONING play against named competitors, NOT a first-mover land-grab.**
 
-**So What → do this:** lead every asset with the female avatar and the "edit" identity in open UGC format; treat mechanism as table-stakes parity only — this §2 call is a DRAFT and re-locks after §11.
+**"Which competitor runs this EXACT angle (anti-logo quiet-luxury 'edit' + snug-never-stuck + material honesty + guarantee at $39–49), and where?" → NONE.** The category has occupants (Katie Loxton/TDE) but none on our angle+mechanism in any of the 5 target countries [S1/S16/S17].
+
+**COMMIT (from LOCKED, re-scoped):** the wedge = an accessible ($39–49), anti-logo **quiet-luxury "edit"** slim cardholder for **"the woman who edited her life down"** — won on **positioning (stance) + product execution ("snug, never stuck" + material honesty + durability guarantee) + economics**, out-positioning Katie Loxton (too cute/gifty, PU, no durability story) and The Daily Edited (too premium/personalization-led, above our band). **Runner-up angle:** service-and-guarantee differentiation in the accessible tier (dropship/Amazon offer none) — a supporting layer, not the lead.
+
+**So What → do this:** lead every asset with the "edit" stance + the works-and-lasts proof, explicitly out-positioned against the cute/gift and monogram/premium incumbents; treat mechanism as a named product fix (not a tech-lane claim) — this §2 call is a DRAFT and re-locks after §11.
 
 ---
 
 ## §5 · Awareness level
 
-**Split (n of 201) [S5, DATA]:** product **68** · solution **58** · problem **20** · most **8** · unaware **4**. So **126 of 201 are already Solution/Product-aware.** She actively debates "cardholder vs wallet," says "I don't carry cash anymore," and names brands (Celine, Chanel, Madewell, Jil Sander) — but **nobody names an accessible identity brand, because none exists** [S15]. "Most-aware" is tiny (8) only because there's no brand to be loyal to — that loyalty is up for grabs.
+**Measure 1 — discourse split (n of 201) [S5, DATA]:** product **68** · solution **58** · problem **20** · most **8** · unaware **4**. So **126 of 201 are already Solution/Product-aware.** She actively debates "cardholder vs wallet," says "I don't carry cash anymore," and names brands (Celine, Chanel, Madewell, Jil Sander) — and when she names a *women's cardholder* it is a luxury house or, occasionally, a gift brand (Katie Loxton), **never an accessible anti-logo "edit" identity brand, because none runs that angle** [S15/S16/S17]. "Most-aware" is tiny (8) only because there's no brand on our angle to be loyal to — that loyalty is up for grabs.
+
+**Measure 2 — search/discourse-volume proxy [S7/S12/S1, DATA · 3rd-party estimate · directional]:** demand reads as **category-aware, brand-unaware on our angle.** Generic *category* search dwarfs any *branded* search — Exploding Topics "RFID Wallet" 49.5K/mo + "Minimalist Wallet" 40.5K/mo, and Google Trends "card holder" is the dominant high-volume term, vs. negligible branded volume for any women's-cardholder name. Advertiser presence confirms it: ~16+ live card-holder advertisers but **zero running the anti-logo quiet-luxury women's angle**; the two female-first incumbents (Katie Loxton/TDE) show only light paid presence. Both measures agree: she knows the *product category* exists, but has no *brand* to belong to on our angle.
 
 **Enter at Solution → Product.** Don't educate her that slim cardholders exist; give her the **brand/identity to belong to.** Funnel type her stage needs: **identity/brand-led discovery** (paid-social + UGC + gift-guide), not problem-education or category-explainer funnels.
 
@@ -179,13 +205,15 @@ Cold launch traffic = **TOF/MOF** (top/middle of funnel) — she doesn't know th
 
 ## §8 · Sophistication stage
 
-**Level 5 for the men's/branded segment** — mechanisms are exhausted, so winners sell identity. Evidence (22 proven creatives classified) [S6, DATA]: Mechanism 8 · **Identity 7** · Plain claim 3 · Bigger claim 2 · Upgraded mechanism 2. **9 of 22 lead with identity or upgraded-mechanism; 7 with pure identity — and 6 of those 7 are MALE/unisex** (Bellroy "leathers that age… like no other"; Ridge "No powers. Just preparation"; Carved artistry; Ekster×DOAC "1% philosophy"; Lost Dutchman heritage). Only 2 identity attempts target women, both one-off advertorials.
+**Level 5 for the men's/branded segment** — mechanisms are exhausted, so winners sell identity. **Sell-side evidence** (22 proven creatives classified) [S6, DATA]: Mechanism 8 · **Identity 7** · Plain claim 3 · Bigger claim 2 · Upgraded mechanism 2. **9 of 22 lead with identity or upgraded-mechanism; 7 with pure identity — and 6 of those 7 are MALE/unisex** (Bellroy "leathers that age… like no other"; Ridge "No powers. Just preparation"; Carved artistry; Ekster×DOAC "1% philosophy"; Lost Dutchman heritage). Only 2 identity attempts target women, both one-off advertorials.
 
-**But the women's accessible tier is only Level 2–3** — still sold plain claims + RFID/slim + "gift," no identity brand has arrived [S6].
+**Buyer-side evidence (she is MORE sophisticated than the ads she's shown):** **17 of 201 snippets are "burned"** — women who bought a cheap/commodity or ill-fitting cardholder and were disappointed (peeling PU, cards too loose or too stuck, fell apart) [S5, DATA]. A burned buyer has already cycled through plain-claim/RFID/gift messaging and stopped believing it — she is primed for a Level-4/5 identity + credible works-and-lasts proof, which is exactly what no incumbent on our angle offers.
 
-**Decision this forces:** against male incumbents, mechanism is lost — you **must sell IDENTITY**. Into the women's tier, you are the **first to bring Level-4/5 identity** to a buyer being sold at Level 2–3 — you **leapfrog, you don't out-spec.**
+**But the women's accessible tier is still sold at only Level 2–3** — plain claims + RFID/slim + "gift" (Katie Loxton gift/sentiment; TDE personalization); **no brand has brought a Level-4/5 anti-logo identity + works-and-lasts proof to this buyer** [S6/S16/S17].
 
-**So What → do this:** sell identity (not specs); be the first Level-5 identity brand in the women's tier and skip the mechanism arms race entirely.
+**Decision this forces:** against male incumbents, mechanism is lost — you **must sell IDENTITY**. Against the women's incumbents (Katie Loxton/TDE at Level 2–3, gift/personalization), you **out-position by bringing Level-4/5 anti-logo identity + a credible works-and-lasts proof** to a buyer already burned by plain-claim product — you **leapfrog on sophistication, you don't out-spec on mechanism.**
+
+**So What → do this:** sell the "edit" identity + works-and-lasts proof (not specs); out-position the gift/personalization incumbents on sophistication and skip the mechanism arms race entirely.
 
 ---
 
@@ -214,3 +242,5 @@ Cold launch traffic = **TOF/MOF** (top/middle of funnel) — she doesn't know th
 13. **get_store_details** — mindsparkl.com (re-registered 2026-08-31, 1,639 products, gadget dropshipper) + bestemall.com (gadget store) · WinningHunter · 2026-10-18 · DATA (corrects stale prior figures)
 14. **Quince** — Adeline Slim Card Case $30, Italian leather, 365-day returns · quince.com · via Firecrawl 2026-10-18 · SNIPPET
 15. **Reddit** (female fashion communities, via Firecrawl): r/handbags (reddit.com/r/handbags/comments/1lolz2h "Card holder or wallet?"; /1k63ipk; /1co2t5b "best wallet / Celine card holder"), r/AusFemaleFashion (/1jrx98t), r/HerOneBag (/1ecwqeh), r/femalefashionadvice (/3rugji) · 2026-10-18 · VERBATIM
+16. **Katie Loxton** — dedicated women's "Wallets & Card Holders," vegan-leather, colourway + "PERSONALIZE ME" monogram, gift-boxed; card holders ~$19–28, fold-out wallets ~$39–55; positioning cute/sentiment/gift · katieloxton.com · 2026-10-18 · DATA (added at §20 — refutes prior "empty category" claim)
+17. **The Daily Edited** — women-first personalized leather card holders & wallets, 15+ SKUs, monogramming; card holders ~$66, wallets ~$95 (premium-leaning); positioning monogram/personalization · thedailyedited.com · 2026-10-18 · DATA (added at §20 — refutes prior "empty category" claim)
