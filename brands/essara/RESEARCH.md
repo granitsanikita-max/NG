@@ -217,19 +217,10 @@ Built from 10 live competitor offer teardowns (Ridge, Ekster, Bellroy, Secrid, K
 
 ### The funnel, stage by stage
 1. **AD (cold, paid-social/TikTok UGC):** "the edit" / compliment-at-the-register UGC — creator pulls one slim pretty thing from a small bag. Identity hook + slim-that-holds promise. Honest material wording, no luxury marks, **#ad up front** (FTC 255.5). Open on swipe energy: "game changer," "looks worth 10x," "finally one made for a woman." Trigger-matched cuts for the top 3 triggers: new small/crossbody bag, dying wallet, the-switch [brain/02 §18].
-2. **LISTICLE ADVERTORIAL (pre-sell — the belief/trust engine):** first-person editorial. Intro = her trigger moment (downsized bag / dying wallet) + the identity beat "the card case was always hers — brought back and built for her" [brain/03 §13B]. Then ~6 items, each a belief rung + objection kill (skeleton below). Soft CTA → PDP ("see the colors"), never a hard pressure close.
+2. **LISTICLE ADVERTORIAL (pre-sell — the belief/trust engine):** first-person, editorial, affirm-not-rescue. **Copywriting writes it fresh from the brain** (belief chain brain/03 §9B + ranked objections §11 + swipe phrases brain/02 §14) — deliberately NOT pre-drafted here, so it's built to convert off the full research, not anchored to a memory-based skeleton. Soft CTA → PDP, never a hard-pressure close.
 3. **PDP (feeling-led):** lead with the feeling → nameable **color story** (color = #1 praised attribute) → **radical material honesty** (one honestly-named grade per SKU + exact card count) → **"snug, never stuck" demo** said out loud → **guarantee** (100-day money-back + honest 2-yr warranty + free ship) [brain/04, brain/03 §9B]. Low-pressure. The quantity ladder (buy 1/2/3, color-sets) lives here.
 4. **ONE-CLICK POST-PURCHASE UPSELLS (after checkout):** tracker card **$29** then leather key pouch **$19** (both paid, see THE DESIGNED OFFER). Lifts AOV without cluttering the offer page.
 5. **POST-PURCHASE / RETENTION:** premium unboxing → review request (earn the first reviews that kill the power objection for the *next* buyer) → "Join The Edit" email/SMS (perk = early color-drop access, all subscribers) → Q4/birthday gifting nudge.
-
-### The listicle skeleton (grounded in the belief chain + ranked objections + swipe phrases — hand to Copywriting)
-Working title: *"I switched to a smaller bag and finally found a cardholder actually made for a woman — here are the 6 things that sold me."*
-1. **It's slim but holds everything** — desire #1 (59/201); "holds more than its looks convey." (Belief 2)
-2. **It's made for HER, not the men's wallet I settled for** — pain #1 (37/201); "why are wallets gendered anyway." (Belief 3 / identity)
-3. **Cards slide out with one thumb — and never fall out** — pain #3 (22/201), the "snug, never stuck" hero demo vs metal "too much work." (Belief 4)
-4. **They tell you the exact leather grade — no "genuine leather" lie** — the material-honesty wedge; "genuine leather = a red flag." (Belief 5 / proof)
-5. **Backed for years + 100 days to send it back** — the power-objection flip: "new means we tell you the truth the big names won't," + guarantee. (Trust)
-6. **Looks like it costs 10x — no logo, no logo tax** — "taste is the receipt, not the price tag"; "my friends don't believe what I spent." (Beliefs 1 & 6 / identity)
 
 ### Guardrails for the build (LOCKED)
 - Never educate her that cardholders exist (she's product-aware) — hand her the brand/identity + proof.
