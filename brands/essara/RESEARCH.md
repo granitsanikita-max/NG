@@ -202,3 +202,39 @@ Built from 10 live competitor offer teardowns (Ridge, Ekster, Bellroy, Secrid, K
 **One-sentence offer (validation):** *"A slim, logo-free leather cardholder that holds everything you actually carry — in the colors you actually wear, backed for years — and if it's not the most put-together thing in your bag in 100 days, send it back, on our dime."*
 
 **HINGES ON before ad spend:** (1) validate "snug, never stuck" + real material grade on the sample; (2) route cold traffic through the Discovery advertorial first — don't convert a cold skeptic on the PDP alone.
+
+---
+
+## THE LAUNCH FUNNEL (2026-10-18) — deep-research recommendation → hand to Offer/Store/Funnel station to BUILD (FUNNEL.md/STORE.md)
+
+**VERDICT — LAUNCH FUNNEL = LISTICLE ADVERTORIAL → feeling-led PDP → one-click upsells → post-purchase.** NOT straight-to-PDP. NOT a pure narrative story advertorial. The listicle is an *editorial, first-person, affirm-not-rescue* piece with the Discovery Story woven in — never a hypey "shocking reasons" listicle.
+
+**Why a pre-sell page at all (not cold → PDP):** cold launch traffic is TOF/MOF — most-aware is only **8/201**, zero warm audience to retarget [brain/01 §7]. She's a **burned buyer (17/201)** and the #1 objection is the **power objection: "new brand, no reviews, why risk you?"** [brain/03 §11]. A brand-new store with no reviews + low urgency can't convert a cold skeptic on the PDP alone — the pre-sell page is where belief + trust get built *before* the ask.
+
+**Why LISTICLE (not a pure story advertorial):** she is **Solution/Product-aware — 126/201** (product 68 + solution 58; only 4 unaware) [brain/01 §5, brain/02 §2C]. She already knows cardholders exist — a pure "unaware"-style narrative is the wrong tool. Schwartz logic: a product-aware buyer needs *proof THIS one is different + objections killed*, which is exactly what a listicle does — modular, each item = one belief-chain rung + one objection kill. Bonus: a listicle is the best format to **practice/learn copywriting** (modular, testable, teaches structure) and the easiest to iterate creative-by-creative.
+
+**Why it MUST be editorial-toned, not hypey:** urgency is **LOW (2/5)** — a style-want, not a painkiller [brain/01 §0]. She's in **quiet Pride/Desire, "already settled," affirm-not-rescue** [brain/03 §6]. She **trusts peers over influencers** and sneers at hype [brain/02 §3]. A countdown/"shocking"/fear listicle trips her burned-buyer alarm. Voice = "knowing friend with great taste," first-person peer, not a marketer.
+
+### The funnel, stage by stage
+1. **AD (cold, paid-social/TikTok UGC):** "the edit" / compliment-at-the-register UGC — creator pulls one slim pretty thing from a small bag. Identity hook + slim-that-holds promise. Honest material wording, no luxury marks, **#ad up front** (FTC 255.5). Open on swipe energy: "game changer," "looks worth 10x," "finally one made for a woman." Trigger-matched cuts for the top 3 triggers: new small/crossbody bag, dying wallet, the-switch [brain/02 §18].
+2. **LISTICLE ADVERTORIAL (pre-sell — the belief/trust engine):** first-person editorial. Intro = her trigger moment (downsized bag / dying wallet) + the identity beat "the card case was always hers — brought back and built for her" [brain/03 §13B]. Then ~6 items, each a belief rung + objection kill (skeleton below). Soft CTA → PDP ("see the colors"), never a hard pressure close.
+3. **PDP (feeling-led):** lead with the feeling → nameable **color story** (color = #1 praised attribute) → **radical material honesty** (one honestly-named grade per SKU + exact card count) → **"snug, never stuck" demo** said out loud → **guarantee** (100-day money-back + honest 2-yr warranty + free ship) [brain/04, brain/03 §9B]. Low-pressure. The quantity ladder (buy 1/2/3, color-sets) lives here.
+4. **ONE-CLICK POST-PURCHASE UPSELLS (after checkout):** tracker card **$29** then leather key pouch **$19** (both paid, see THE DESIGNED OFFER). Lifts AOV without cluttering the offer page.
+5. **POST-PURCHASE / RETENTION:** premium unboxing → review request (earn the first reviews that kill the power objection for the *next* buyer) → "Join The Edit" email/SMS (perk = early color-drop access, all subscribers) → Q4/birthday gifting nudge.
+
+### The listicle skeleton (grounded in the belief chain + ranked objections + swipe phrases — hand to Copywriting)
+Working title: *"I switched to a smaller bag and finally found a cardholder actually made for a woman — here are the 6 things that sold me."*
+1. **It's slim but holds everything** — desire #1 (59/201); "holds more than its looks convey." (Belief 2)
+2. **It's made for HER, not the men's wallet I settled for** — pain #1 (37/201); "why are wallets gendered anyway." (Belief 3 / identity)
+3. **Cards slide out with one thumb — and never fall out** — pain #3 (22/201), the "snug, never stuck" hero demo vs metal "too much work." (Belief 4)
+4. **They tell you the exact leather grade — no "genuine leather" lie** — the material-honesty wedge; "genuine leather = a red flag." (Belief 5 / proof)
+5. **Backed for years + 100 days to send it back** — the power-objection flip: "new means we tell you the truth the big names won't," + guarantee. (Trust)
+6. **Looks like it costs 10x — no logo, no logo tax** — "taste is the receipt, not the price tag"; "my friends don't believe what I spent." (Beliefs 1 & 6 / identity)
+
+### Guardrails for the build (LOCKED)
+- Never educate her that cardholders exist (she's product-aware) — hand her the brand/identity + proof.
+- No urgency theatrics (countdowns, "3 left", %-off popups, BOGO), no fear-RFID, no fabricated reviews/"#1", no luxury "dupe"/marks, no "genuine leather" / unverified "full-grain", no invented founder/lineage. [brain/03, brain/04 §2B]
+- Affirm, don't rescue. Peer voice, not influencer. Material honesty is the proof layer the $12 no-name can't copy.
+
+### Second test AFTER the listicle proves out (not now)
+Straight-to-PDP (and a narrative story-advertorial variant) are worth A/B testing **once there are reviews + a retargeting pool** — product-aware buyers can convert direct when the trust gap is closed. At cold launch with zero reviews, lead with the listicle.
