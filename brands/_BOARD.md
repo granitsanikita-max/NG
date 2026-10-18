@@ -11,6 +11,6 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| essara | deep-research | IN PROGRESS | Deep research + offer research underway → next: design offer + funnel | 2026-10-18 | deep-research |
+| essara | deep-research | READY FOR NEXT | Design the offer + funnel (RESEARCH.md done; blocked on COGS + sourced-unit spec) | 2026-10-18 | deep-research |
 
 <!-- Add new brands below. -->
