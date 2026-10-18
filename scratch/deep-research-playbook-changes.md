@@ -27,3 +27,8 @@ on shallow data.
 ## Ownership note
 This is the Deep Research station's methodology. Daily Tasks made the edit on
 direct request. If the Deep Research station wants to refine wording, it owns it.
+
+## Mirrored to Notion
+2026-10-18 — same change log added as a collapsible "🛠️ Changelog" toggle at the
+bottom of the Notion "Step 1 — Deep Market Research" doc, so the record lives
+with the doc it documents.
