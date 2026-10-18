@@ -129,6 +129,36 @@ Floor→ceiling ≈ $3–8 to $490 (~60–160× spread). The band is NOT empty �
 
 ---
 
+## THE VALIDATION OFFER — FINAL (locked 2026-10-18)
+*Store charges USD · AUD ≈ USD × 1.55 · Fees 3% + $0.30/order · Dropship COGS: cardholder $19/unit, tracker $13, pouch = GUESS (~$6.50). Single is ~break-even after ad cost — profit comes from the ladder (2–3 colors) + the two upsells. PENDING: real sourced tracker + pouch price; sample validation (snug-never-stuck + real grade). Phase-2 bulk cardholder COGS $19→~$12 lifts every line below.*
+
+### The offer — cardholder quantity ladder
+| Rung | Sell | Cost | Fees | Profit | Margin |
+|------|------|------|------|--------|--------|
+| **Single** (1 cardholder) | $49 | $19 | $1.77 | **$28.23** | 58% |
+| **The Pair** (2 colors, ~10% off) | $88 | $38 | $2.94 | **$47.06** | 54% |
+| **The Edit Set** (3 colors, ~12% off) | $129 | $57 | $4.17 | **$67.83** | 53% |
+
+### One-click upsells (paid, post-checkout — stack on any order)
+| Upsell | Sell | Cost | Fee | Profit | Margin |
+|--------|------|------|-----|--------|--------|
+| **Tracker card** | $29 | $13 | $0.87 | **$15.13** | 52% |
+| **Leather key pouch** *(cost = GUESS)* | $19 | ~$6.50 | $0.57 | **~$11.93** | ~63% |
+
+### Best-case stacked orders
+- Single + tracker: $78 → profit $43.36.
+- Single + both upsells: $97 → profit $55.29.
+- Pair + both upsells: $126 → profit $74.12.
+
+### Offer frame
+- **Guarantee / risk-reversal is the hero** (100-day money-back + honest multi-year warranty + free ship) — substitutes for zero reviews.
+- Email-list perk: early color-drop access (all subscribers).
+- Phase 2 (after sales; needs branding/custom packaging): blind-deboss monogram, gift-ready unboxing, warm custom colors, bulk COGS.
+
+**So What:** this is the locked validation offer for Offer Design to formalize into OFFER.md + FUNNEL.md — single is a break-even front end; profit comes from the color-ladder + the two post-purchase upsells, so don't scale on the single alone. Confirm the real tracker + pouch cost before committing ad budget.
+
+---
+
 ## The Funnel Map — DISCOVERY STACK
 **Funnel choice:** Discovery Stack (Advertorial → Offer Page) — default for a single-hero product; she's Solution/Product-aware (126/201); identity object, not high-variant/eligibility. **A quiz is NOT needed.**
 - **Ad** — the-edit / compliment UGC (creator pulls it from a small bag at the register), benefit + identity hook. Honest material wording, no luxury marks, #ad up front.
