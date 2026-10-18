@@ -11,6 +11,6 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| _(example)_ glow-roller | deep-research | READY FOR NEXT | Design the offer + funnel | 2026-10-18 | deep-research |
+| essara | deep-research | IN PROGRESS | Deep research + offer research underway → next: design offer + funnel | 2026-10-18 | deep-research |
 
-<!-- Add new brands below. Delete the example row once you have real brands. -->
+<!-- Add new brands below. -->
