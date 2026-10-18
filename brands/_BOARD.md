@@ -11,6 +11,6 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| essara | deep-research | READY FOR NEXT | Formalize LOCKED validation offer → OFFER.md + FUNNEL.md (RESEARCH.md → "THE DESIGNED OFFER"). Gates before ad spend: tracker price + sample. · Core desires (core-first) + finalized offer now SYNCED to Notion + brain (daily-tasks). Pending: §9 One Belief repoint (Doc 3) | 2026-10-18 | daily-tasks |
+| essara | deep-research | READY FOR NEXT | Formalize LOCKED offer + funnel → OFFER.md + FUNNEL.md (RESEARCH.md → "THE DESIGNED OFFER" + "THE LAUNCH FUNNEL" = listicle advertorial → PDP → one-click upsells). Gates before ad spend: tracker price + sample. · Core desires (core-first) + finalized offer SYNCED to Notion + brain (daily-tasks). Pending: §9 One Belief repoint (Doc 3) | 2026-10-18 | daily-tasks |
 
 <!-- Add new brands below. -->
