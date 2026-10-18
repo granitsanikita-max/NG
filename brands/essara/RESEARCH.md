@@ -147,3 +147,21 @@
 8. **Research foundation is the least verifiable layer.** Every count rests on a 201-row CSV not in the repo, whose largest source (Reddit, ~80–92 rows) is 403-blocked search excerpts. For a radical-honesty brand, verify the top pains/desires before betting the whole hierarchy on them.
 9. **The buyer built-for (quiet-luxury Mara, 38) may not be the buyer who clicks (TikTok/IG impulse, younger/cheaper).** Demographics are inference; live transactional data skews cheaper/younger. If ads reach her instead, the quiet-luxury frame and $39–49 price may both misfire.
 10. **Karly Seleste already runs a declutter/edit advertorial at $29.99** — the angle is less uncontested than "nobody runs it" implies. Watch it.
+
+## Offer build — locked hero + upsell architecture (2026-10-18, validation phase)
+
+**HERO PRODUCT (locked for validation):** CJdropshipping *"Genuine Leather Large-Capacity Cardholder Wallet"* (SKU CJQB319267101AZ / …104DW) — vertical bifold, full-grain cowhide outer + microfiber-suede lining, ~87g, 4 colors (Black / Dark Green / Silver Gray / Wine Red). Landed **AUD ~$29.41/unit dropship-single (USD ~$19)**; drops to ~$12–15 at bulk. Chosen for premium look + CJ's branding/customize/wholesale options. **VERIFY ON SAMPLE:** real thickness (<~1.5cm closed), true full-grain grade (don't print "full-grain" until confirmed), feminine restyle + warm colors via CJ Customize post-validation.
+
+**ECONOMICS FLAG:** at ~USD $19 dropship COGS, single sales barely cover paid-ad CPA. Price single at **USD $49** (top of the $39–49 band, ~2.3–2.5× landed), treat the test phase as ~breakeven (buying conversion data), and make profit via (a) **AOV from bundles** and (b) **bulk COGS** post-validation.
+
+**Offer ladder (proposed → hand to Offer Design / OFFER.md):**
+- Single hero: **$49**
+- "The Pair" (2 cardholders, 2 colors / gift) → **$79** — #1 AOV driver, zero sourcing friction (order 2 of hero)
+- "The Edit Set" (3 colors) → **$115**
+- Add-ons (Phase 2, matching leather): wrist/crossbody strap ~$15 · **slim leather AirTag holder ~$17 (the tracker upsell, done on-brand — not iOS-locked)** · leather key pouch ~$19
+- Gift box / premium wrap ~$9 (also the unboxing + Q4 gift engine); blind-deboss monogram ~$6 (Phase 2)
+- **Target AOV: $80–95.**
+
+**DROPPED (off-ICP):** metal key organizer, MagSafe power bank — gadget-brand upsells, not Essara.
+
+**Sequencing:** Phase 1 validate (single + 2-pack + 3-set + gift box, all zero-friction) → Phase 2 post-sales (add leather accessories, move to bulk + CJ Customize for warm colors + deboss + lower COGS).
