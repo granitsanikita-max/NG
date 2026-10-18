@@ -11,6 +11,6 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| essara | deep-research | READY FOR NEXT | Design the offer + funnel (RESEARCH.md done; blocked on COGS + sourced-unit spec) | 2026-10-18 | deep-research |
+| essara | deep-research | READY FOR NEXT | Formalize LOCKED validation offer → OFFER.md + FUNNEL.md (RESEARCH.md → "THE DESIGNED OFFER"). Gates before ad spend: tracker price + sample | 2026-10-18 | deep-research |
 
 <!-- Add new brands below. -->

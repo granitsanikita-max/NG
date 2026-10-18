@@ -149,6 +149,7 @@
 10. **Karly Seleste already runs a declutter/edit advertorial at $29.99** — the angle is less uncontested than "nobody runs it" implies. Watch it.
 
 ## Offer build — locked hero + upsell architecture (2026-10-18, validation phase)
+> NOTE: earlier working draft. The AUTHORITATIVE validation offer is **"THE DESIGNED OFFER"** below (updated with Nikita's final trims). Where numbers or item placement differ, THE DESIGNED OFFER governs.
 
 **HERO PRODUCT (locked for validation):** CJdropshipping *"Genuine Leather Large-Capacity Cardholder Wallet"* (SKU CJQB319267101AZ / …104DW) — vertical bifold, full-grain cowhide outer + microfiber-suede lining, ~87g, 4 colors (Black / Dark Green / Silver Gray / Wine Red). Landed **AUD ~$29.41/unit dropship-single (USD ~$19)**; drops to ~$12–15 at bulk. Chosen for premium look + CJ's branding/customize/wholesale options. **VERIFY ON SAMPLE:** real thickness (<~1.5cm closed), true full-grain grade (don't print "full-grain" until confirmed), feminine restyle + warm colors via CJ Customize post-validation.
 
@@ -158,16 +159,18 @@
 - Single hero: **$49**
 - "The Pair" (2 cardholders, 2 colors / gift) → **$79** — #1 AOV driver, zero sourcing friction (order 2 of hero)
 - "The Edit Set" (3 colors) → **$115**
-- Add-ons (Phase 2, matching leather): wrist/crossbody strap ~$15 · **slim leather AirTag holder ~$17 (the tracker upsell, done on-brand — not iOS-locked)** · leather key pouch ~$19
-- Gift box / premium wrap ~$9 (also the unboxing + Q4 gift engine); blind-deboss monogram ~$6 (Phase 2)
+- **VALIDATION upsell (paid): tracker card $29** (dual-system, Google-certified — NOT iOS-locked). **VALIDATION gift (free GWP): leather key pouch** (COGS ~$3). Phase 2 paid add-ons (matching leather): wrist/crossbody strap ~$15 · slim leather AirTag sleeve ~$17 · key pouch sold ~$19
+- Gift box / premium wrap ~$9 (unboxing + Q4 gift engine) — **Phase 2**; blind-deboss monogram ~$6 — **Phase 2** (both need branded / custom packaging)
 - **Target AOV: $80–95.**
 
 **DROPPED (off-ICP):** metal key organizer, MagSafe power bank — gadget-brand upsells, not Essara.
 
-**Sequencing:** Phase 1 validate (single + 2-pack + 3-set + gift box, all zero-friction) → Phase 2 post-sales (add leather accessories, move to bulk + CJ Customize for warm colors + deboss + lower COGS).
+**Sequencing:** Phase 1 validate (single + 2-pack + 3-set + free key-pouch GWP + tracker-card paid upsell, all zero-friction) → Phase 2 post-sales (branded packaging + gift-ready unboxing + deboss monogram + paid leather accessories, move to bulk + CJ Customize for warm colors + lower COGS).
 
 ## THE DESIGNED OFFER (2026-10-18) — deep-research → ready for Offer Design to formalize into OFFER.md
 Built from 10 live competitor offer teardowns (Ridge, Ekster, Bellroy, Secrid, Katie Loxton, The Daily Edited, Quince, Cuyana, Dagne Dover, Portland Leather) + an adversarial critique. USD primary (US market); AUD ~1.55×.
+
+**>> VALIDATION OFFER — LOCKED by Nikita 2026-10-18 (what actually launches now):** cardholder (hero $49) **+** the full guarantee / risk-reversal **+** a FREE leather key pouch gift (GWP) **+** the tracker card as the ONE paid upsell ($29). Email-list perk = early access to color drops (all subscribers, not a tier). **Deliberately cut to Phase 2** (needs branding / custom packaging — only after sales prove the product): free blind-deboss monogram, free gift-ready unboxing, all product + packaging branding, bulk COGS, warm custom colors. Rationale: a lean offer that costs us nothing to set up *before we know the product sells* — we add perceived-value layers once there's revenue.
 
 **Core strategy:** the single ($49) is a ~break-even cold-ad unit; profit comes from (1) AOV (~$85 order), (2) bulk COGS post-validation, (3) repeat/gift LTV. **AOV engine = high-margin ACCESSORIES + GIFTING, NOT quantity bundles** (quantity fights the "edit to one" identity and dilutes margin %).
 
@@ -177,23 +180,24 @@ Built from 10 live competitor offer teardowns (Ridge, Ekster, Bellroy, Secrid, K
 - **Ages-Not-Peels Promise** — honest **2-year craftsmanship warranty** (NEVER "lifetime": can't honor dropshipping + compliance trap).
 - Power-move flip: *"new means we tell you the truth the big names won't — the exact grade, the real card count, and a guarantee no $12 listing will sign."*
 
-**Free value stack (near-zero marginal cost, no competitor gives all at once):** free blind-deboss monogram (Phase 2) · free gift-ready unboxing on every order · belief card that scripts the compliment reply.
+**Free value stack (VALIDATION / launch — near-zero marginal cost):** FREE leather key pouch with every cardholder (GWP, COGS ~$3, reads as a ~$19 gift — the one bonus that makes the offer feel generous *without* needing branding or custom packaging) · belief card that scripts the compliment reply.
+**MOVED TO PHASE 2 (needs branded / custom packaging — only after sales prove the product):** free blind-deboss monogram · free gift-ready unboxing on every order. This right-sizes the launch: less perceived value, but nothing that costs us setup before a single sale.
 
-**Price ladder (USD / AUD):** Hero single **$49 / ~$75** · The Pair (2 colors) **$88 / ~$136** ("add your 2nd color for $39" — color-story, never BOGO) · The Edit Set (3, loaded) **$129 / ~$200**. Anchor against REAL competitor prices ($49 vs Cuyana $98 vs Celine $390) — never a fake "was $95" strikethrough (FTC risk + trips her burned-buyer alarm).
+**Price ladder (USD / AUD):** Hero single **$49 / ~$75** · The Pair (2 colors) **$88 / ~$136** ("add your 2nd color for $39" — color-story, never BOGO) · The Edit Set (3 colors) **$129 / ~$200**. **Every tier ships with the free key pouch** — it's an offer-wide GWP, NOT a tier perk, so no tier is gated behind bonuses. Anchor against REAL competitor prices ($49 vs Cuyana $98 vs Celine $390) — never a fake "was $95" strikethrough (FTC risk + trips her burned-buyer alarm).
 
-**AOV engine (accessories):** tracker card **$29** (COGS ~$13) · leather key pouch **$19** (COGS ~$3, **~83% margin** — best item) · "send it as a gift" upgrade **$9**. Target AOV **~$85 / ~A$130**.
+**AOV engine (VALIDATION = ONE paid upsell):** tracker card **$29 / ~A$45** (dual-system, Google-certified, COGS ~$13). The leather key pouch is NOT sold — it's the free GWP (above). "Send it as a gift" **$9** optional. Target order on an attach **~$78 / ~A$120** (hero + tracker). *Phase 2 adds the paid leather accessories — strap / AirTag sleeve / sold key pouch — once the product proves out.*
 
 **Urgency — quiet-luxury only:** color drops (scarcity = taste), "back in Oxblood (you asked)" restocks, honest low-stock, gift-season cutoffs. BANNED: countdowns, "3 left", %-off popups, BOGO, fear-RFID.
 
-**First-order capture:** "Join The Edit" (early color-drop access + free monogram), NOT a %-off popup.
+**First-order capture / email perk:** "Join The Edit" email list — perk = **early access to every new color drop, for ALL subscribers** (not a tier-3 exclusive; gating it to the top set reads as punishing the customers who didn't buy it). NOT a %-off popup. (Free monogram removed — Phase 2.)
 
-**ECONOMICS** (3% + $0.30 fees; dropship COGS hero $19, tracker $13):
-- Single $49: contribution ~$28 (57.6%); break-even CPA $28; CPA @20% net ~$18 → too thin for cold; never scale on the single.
-- Target order $87: contribution ~$49 (56%); break-even CPA $49; CPA @20% net ~$32 → scalable.
-- Bulk COGS (hero $19→$12): single contribution ~$35 (72%) = biggest unlock, but add 3PL + branded packaging back (~$8–12) → model conservatively.
+**ECONOMICS** (3% + $0.30 fees; dropship COGS hero $19, tracker $13; **every order now carries the free key pouch ~$3 GWP cost**):
+- Single $49: contribution ~$25 (51%); break-even CPA $25; CPA @20% net ~$15 → too thin for cold; never scale on the single.
+- Target order $78 (hero + tracker attach): contribution ~$40 (52%); break-even CPA $40; CPA @20% net ~$25 → where it becomes scalable. **So the tracker attach isn't a nice-to-have — it's what makes paid traffic math work.**
+- Bulk COGS (hero $19→$12): single contribution ~$32 (66%) = biggest unlock; add branded packaging back only in Phase 2 (~$8–12) → model conservatively then.
 
 **Compliance locks:** no "lifetime"; no "Works with Apple Find My" badge (MFi-only — sell a leather sleeve "fits Apple AirTag", or verify the tracker's cert); never print "full-grain" until sample-verified; no fabricated compare-at; no fabricated reviews/press/"#1 rated"; frame monogram/gift box as "included", not "free with purchase" (FTC 16 CFR 251).
 
-**One-sentence offer:** *"A slim, logo-free leather cardholder that holds everything you actually carry — your initials pressed in free, gift-boxed free, backed for years — and if it's not the most put-together thing in your bag in 100 days, send it back, on us."*
+**One-sentence offer (validation):** *"A slim, logo-free leather cardholder that holds everything you actually carry — with a matching leather key pouch on us, backed for years — and if it's not the most put-together thing in your bag in 100 days, send it back, on our dime."*
 
 **HINGES ON before ad spend:** (1) validate "snug, never stuck" + real material grade on the sample; (2) route cold traffic through the Discovery advertorial first — don't convert a cold skeptic on the PDP alone.
