@@ -11,6 +11,6 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| skinfold-cream | product-research | READY FOR NEXT | Deep research: diabetic/caregiver avatar + offer + "fold care not rash cure" positioning; lock supplier quote | 2026-10-19 | product-research |
+| skinfold-cream | product-research | PARKED | Gap failed stress-test (trap); re-validating dental/scalp/back-belt for a surviving gap | 2026-10-19 | product-research |
 
 <!-- Add new brands below. -->

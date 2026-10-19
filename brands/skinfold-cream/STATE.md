@@ -3,10 +3,11 @@
 > The handoff file. EVERY station updates this before it stops. Read it first.
 
 - **Current stage:** product-research
-- **Status:** READY FOR NEXT
-- **Next action (for the next station = Deep Research):** Deep research on the **diabetic / senior / caregiver** avatar (and the men's secondary) + offer, grounded in the **"fold care, not rash cure"** positioning. In parallel: lock a private-label supplier quote for a zinc-oxide powder-dry-down barrier cream (target landed COGS ≤ $4–5).
-- **Blocked on:** Nothing hard. One decision open for Nikita: confirm **intertrigo cream** as the pick, or switch to the **dental appliance cleaner** (the close #2 — more defensible device, best LTV, but needs more upfront inventory cash). Say the word and I repoint before Deep Research spends.
+- **Status:** PARKED (gap failed stress-test — see PRODUCT.md status banner)
+- **Next action:** None on this product unless re-opened. Product research is re-validating the other candidates (dental / scalp / back belt) to pick a first brand whose gap survives scrutiny. If none beats it, intertrigo may return as a *compete-on-funnel/creative* play (not a gap play) — but that's a weaker first brand.
+- **Blocked on:** Nothing. Decision pending: the winning product from the re-validation sweep (in progress). Nikita is offline; final pick + positioning will be waiting.
 - **Last touched:** 2026-10-19 by product-research
 
 ## Log (newest first)
-- 2026-10-19 · product-research · Swept 6 products live on WinningHunter (dental cleaner, intertrigo, scalp scrub, back belt, prostate, arousal/menopause). Verdict GO on intertrigo/skin-fold cream for the first brand; dental is the strong #2; nothing killed on compliance/returns grounds (per Nikita). Positioning set to "fold care, not rash cure" (diabetic/senior/caregiver avatar). Open gate: supplier quote.
+- 2026-10-19 · product-research · PARKED. Diabetic/senior/caregiver gap failed adversarial stress-test (price-anchored to $6 OTC; generic hook already nets high-WTP; 65+ not on TikTok). Competitor teardown: core women lane saturated (Healora + clone Clairon), men's lane taken (Veloma). No clean first-brand gap. Re-validating dental/scalp/back-belt per Nikita's instruction.
+- 2026-10-19 · product-research · Initial GO on intertrigo from the 6-product sweep (now superseded).

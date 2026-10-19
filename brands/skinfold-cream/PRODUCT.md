@@ -2,7 +2,14 @@
 > Owned by: Product research & validation. Reads: brain/
 > Chosen from a live 6-product WinningHunter sweep, 2026-10-19. Verdict basis: best first brand on a ~$1–3k budget.
 
-## VERDICT: **GO** — build this first.
+## ⚠️ STATUS 2026-10-19 (REVISED): ON HOLD — gap failed stress-test, pick under re-validation
+The diabetic/senior/caregiver gap below **did not survive an adversarial stress-test**, and the competitor teardown closed the other intertrigo angles too:
+- **Diabetic/senior/caregiver = messaging gap / trap.** They have the problem (diabetes is a top risk factor; ~16% of nursing-home residents) but are price-anchored to $6 OTC (Desitin/clotrimazole), Medicare doesn't cover barrier creams, the generic "skin fold rash" hook already nets the high-WTP ones, and 65+ aren't on TikTok. 37,887 live "diabetic" ads exist (feet/neuropathy/supplements) with ZERO skin-fold product — smart money tried the adjacency and left.
+- **Core embarrassed-women lane = saturated & cooling** — Healora (4.8/1,297) + near-identical clone Clairon (same 10% undecylenic acid + 15% zinc oxide dries-to-powder deck).
+- **Men's chafe / jock-itch = already taken** by Veloma ("17,000+ men finally free," antifungal soap + boob-itch variant).
+→ No clean, ownable, first-brand gap. Per Nikita, not forcing this product. Re-validating dental / scalp / back-belt gaps for one whose positioning survives scrutiny. Original verdict kept below for the record.
+
+## VERDICT (original, now SUPERSEDED): GO — build this first.
 A daily skin-fold barrier cream, led into the **diabetic / senior / caregiver** avatar nobody serves (secondary: active/big men), on a **"fold care, not rash cure"** positioning, with subscribe-&-save as the LTV engine. Open gate before spend: one private-label supplier quote (target landed COGS ≤ $4–5).
 
 > Scoring rule applied (per Nikita): compliance, returns and chargebacks are NOT kill reasons — they're solved with copywriting, offer/brand build and supplier QC. Nothing below is ruled out on those grounds. Products rank lower only for structural economics (no recurring revenue, multi-SKU capital needs, or a slow runway to win).
