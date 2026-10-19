@@ -11,5 +11,6 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
+| skinfold-cream | product-research | READY FOR NEXT | Deep research: diabetic/caregiver avatar + offer + "fold care not rash cure" positioning; lock supplier quote | 2026-10-19 | product-research |
 
 <!-- Add new brands below. -->
