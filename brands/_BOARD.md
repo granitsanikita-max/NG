@@ -11,6 +11,7 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| skinfold-cream | product-research | PARKED | Gap failed stress-test (trap); re-validating dental/scalp/back-belt for a surviving gap | 2026-10-19 | product-research |
+| menopause-serum | product-research | READY FOR NEXT | CONFIRM pick, then deep research: insertion-averse avatar + offer + advertorial funnel + subscription; lock supplier quote | 2026-10-19 | product-research |
+| skinfold-cream | product-research | PARKED | Fallback compete-play (no gap); superseded by menopause-serum unless Nikita switches | 2026-10-19 | product-research |
 
 <!-- Add new brands below. -->
