@@ -11,7 +11,7 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| menopause-serum | product-research | READY FOR NEXT | CONFIRM pick, then deep research: insertion-averse avatar + offer + advertorial funnel + subscription; lock supplier quote | 2026-10-19 | product-research |
-| skinfold-cream | product-research | PARKED | Fallback compete-play (no gap); superseded by menopause-serum unless Nikita switches | 2026-10-19 | product-research |
+| menopause-serum | product-research | READY FOR NEXT | #2 / alternative (own-a-position) — harder & pricier sourcing; behind skinfold-cream compete-play | 2026-10-19 | product-research |
+| skinfold-cream | product-research | READY FOR NEXT | RECOMMENDED 1st brand — compete-play: TikTok-Shop + UGC "Fold-First" prevention/dignity; cheap easy sourcing (~$2-4 ZnO cream) | 2026-10-19 | product-research |
 
 <!-- Add new brands below. -->

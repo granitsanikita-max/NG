@@ -2,7 +2,10 @@
 > Owned by: Product research & validation. Reads: brain/
 > Chosen from a live 6-product WinningHunter sweep, 2026-10-19. Verdict basis: best first brand on a ~$1–3k budget.
 
-## ⚠️ STATUS 2026-10-19 (REVISED): ON HOLD — gap failed stress-test, pick under re-validation
+## ✅ STATUS 2026-10-19 (LATEST): RE-ACTIVATED as a COMPETE-PLAY — real winning stack found. RECOMMENDED first brand.
+> This product was parked when its *gaps* failed (see below). A deeper competitive + positioning sweep then found a clear way to WIN **without** a gap — a TikTok-Shop + UGC + prevention/dignity compete-play that also solves the sourcing friction that stalled the menopause serum. **Full positioning + the winning levers are at the BOTTOM of this file ("COMPETE-PLAY POSITIONING").** The gap analysis below stays as the record of why we don't play the gap game here.
+
+### (Prior status, superseded) ⚠️ ON HOLD — gap failed stress-test, pick under re-validation
 The diabetic/senior/caregiver gap below **did not survive an adversarial stress-test**, and the competitor teardown closed the other intertrigo angles too:
 - **Diabetic/senior/caregiver = messaging gap / trap.** They have the problem (diabetes is a top risk factor; ~16% of nursing-home residents) but are price-anchored to $6 OTC (Desitin/clotrimazole), Medicare doesn't cover barrier creams, the generic "skin fold rash" hook already nets the high-WTP ones, and 65+ aren't on TikTok. 37,887 live "diabetic" ads exist (feet/neuropathy/supplements) with ZERO skin-fold product — smart money tried the adjacency and left.
 - **Core embarrassed-women lane = saturated & cooling** — Healora (4.8/1,297) + near-identical clone Clairon (same 10% undecylenic acid + 15% zinc oxide dries-to-powder deck).
@@ -81,3 +84,29 @@ The entire category sells a reactive, clinical, slightly-shameful fix *after* th
 
 ## EVIDENCE / METHOD
 Live WinningHunter sweep (Meta ad library, store details, brief_competitor, TikTok Shop, exploding-topics), 6 parallel product researchers, 2026-10-19. Full per-product sweep notes retained this session; key competitor numbers captured above. Incumbent revenue/scale figures are est, directional.
+
+---
+
+## COMPETE-PLAY POSITIONING — validated 2026-10-19 (answers "can we win without a gap?")
+**Answer: YES, qualified.** No new product/mechanism to own (commodity ~$3 zinc-oxide + undecylenic barrier cream; can't out-science or out-spend Healora on Meta). But there's a clear winning STACK that fits a cash-light, creative-led operator and dodges Meta budget-death + health-claim bans. **The win = CHANNEL + CREATIVE + a sharper angle + attacking their weak spots.**
+
+- **Channel (the wedge):** TikTok Shop. The intertrigo/skin-fold CREAM SKU has **0 products / 0 shops** there; every incumbent (Healora, Clairon, Veloma, Orgatics) is **Meta-only**. Adjacent fold/chafe products already scale on TTS via cheap creator UGC with no competing bidder — HAPPY CURVES anti-chafe powder **$53k/30d (124k lifetime units)**, Dr.Melaxin balm **$127k/30d**, men's groin products $15–42k/mo. First-mover UGC on a fold-rash cream is uncontested.
+- **Creative:** incumbents run static-image long-text advertorials; almost no true UGC video on the cream. A video/UGC operator wins attention cheaply — the single biggest edge.
+- **Angle (ownable frame):** flip their 100%-reactive "stop the burning NOW" into **prevention + dignity** — *"Every other fold cream waits until you're raw. This one makes sure you never get there."* Keep a mid-flare "fast relief" creative variant in reserve if prevention tests low on urgency.
+- **Attack the weak spots:** overseas shipping delays → **fast US shipping**; hard-to-cancel auto-ship → **honest, easy subscription**; soft ratings (Clairon 4.0, Veloma/Orgatics 3.5) → **review-dense trust**; "kills yeast" claim exposure → **compliant "comfort/soothe/dry-barrier/anti-chafe"** (never antifungal/cure — also what keeps you alive on TTS).
+
+**Field reality (why it's winnable):** Meta volume is tiny + concentrated — basically Healora + Orgatics, all cooling off a Sept peak, no crowded long tail. A sharp new entrant on a new channel has room.
+
+**Positioning to test (pick = A):**
+- **A. "Fold-First" (RECOMMENDED)** — TTS-native daily *prevention* barrier balm, plus-size women, claim-safe. *"Every other fold cream waits until you're raw. This one makes sure you never get there."* ~$27 / $45 duo / $23 sub. Channel: TikTok Shop creator UGC (+ Meta advertorial secondary). Layer in a dignity tone.
+- **B. "No Confession Needed"** — dignity vs shame frame ("they sell you shame in a tube; we clear the rash and leave your dignity alone"), body-positive women 30–55. Use as the creative TONE inside A.
+- **C. "After the Baby"** — postpartum under-bust + belly-fold care, new moms 0–18mo. Keep as a cheap expansion ad set.
+
+**Avatar:** core = plus-size women (daily fold care), TTS-native; expansion = postpartum, men's folds/between-toes (unclaimed).
+**Economics:** COGS est $2.50–4 → sell $27 (duo $45) → ~87–90% gross; subscribe-&-save on a chronic condition.
+**Sourcing:** trivial — commodity zinc-oxide (+ optional undecylenic) barrier cream; abundant AliExpress/Alibaba private-label at ~$2–4. No niche-SKU hunt, no $220 membership. (This solves the sourcing friction that stalled the menopause serum.)
+**Hard compliance line:** "soothes, protects, keeps folds dry, reduces chafing/friction" — NEVER "kills yeast/bacteria, antifungal, cures/treats." One violation can kill a young ad account; TTS polices it even harder.
+
+**Recommendation vs the menopause serum:** for a FIRST brand this is now the better fit — cheaper/easier sourcing, proven 8-figure demand, an open cheap channel (TTS), broader/younger avatar, pure creative game (operator's strength). Menopause serum stays the stronger "own-a-real-position" play but with harder sourcing + older advertorial-only avatar. **Build this first; keep menopause serum as #2.**
+
+(Evidence: scratch files intertrigo-competitive-map.md + intertrigo-positioning.md, 2026-10-19.)
