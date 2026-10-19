@@ -9,4 +9,5 @@
 - **Last touched:** 2026-10-19 by product-research
 
 ## Log (newest first)
+- 2026-10-19 · product-research · Sourcing scoped (see PRODUCT.md Supplier/sourcing). Zero-inventory no-MOQ intimate SKU exists only via DR.HC "YOURS" (US, balm, rewrite claims); Supliful/Blanka carry no intimate SKU; own-it low-MOQ ~140–200 units (FormuNova/Alibaba) or serum via Fuyue(TW)/ZKBN(CN). COGS ~$4–7 landed confirmed. Remaining: request actual quotes (quote-gated).
 - 2026-10-19 · product-research · CONDITIONAL GO (B+). Chosen as the only one of 6 products whose gap survived adversarial validation (intertrigo/dental/scalp/back-belt gaps all traps; prostate slow). Real external-serum format gap vs insert-dominated category; proven WTP (VMagic 15k reviews); recurring. Caveats: narrow avatar, Meta-advertorial not TikTok-flip, subscription-dependent, ~$38 price. Positioning set. Open gate: supplier quote. Fallback = intertrigo compete-play.

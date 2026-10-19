@@ -58,7 +58,13 @@ Avatar: 52–60, external dryness/itch/burning, insertion-averse, refuses Rx/hor
 
 **Honest caveats (why B+ not A):** narrow, lower-urgency external avatar; no cheap-channel flip (advertorial discipline required); subscription-dependent economics; compliance discipline required (menopause/dryness wording OK; arousal/orgasm/libido = instant ban).
 
-**Supplier:** not locked. External intimate serums are a private-label category (US cosmetic contract manufacturers). COGS est from category norms. **Open gate before spend:** a quote landing ~$4–7/unit.
+**Supplier / sourcing (scanned 2026-10-19 — COGS ~$4–7 landed CONFIRMED):**
+- **Zero-inventory / no-MOQ intimate SKU — only one exists: DR.HC Cosmetic Lab "YOURS" (US).** Real intimate feminine moisturizer, 0 MOQ, dropship per order, brand on the bottle, ~$220 to start (~$120/mo + $100 setup). Catches: it's a *balm* (not our airless-pump serum) and its stock copy is drug-claim-heavy → must rewrite to compliant external-vulvar cosmetic claims. Use for the cheap demand test.
+- **No-MOQ platforms DON'T carry this:** Supliful, Blanka, Selfnamed have zero feminine/intimate SKUs. Branding a generic body/HA serum for intimate use is NOT vulva-safety-validated (liability/claims risk) — throwaway test only, not a brand foundation.
+- **Low-MOQ to OWN it:** FormuNova (US, MOQ 140, no upfront) · Alibaba "private-label vulva balm" (MOQ 200 @ ~$2.49/unit). Serum format: **Fuyue (Taiwan)** has a stock external "intimate serum" (closest match); **ZKBN (China)** has real pH/lab data; Poison-Free (US, MOQ 500, FDA cGMP) as a US fallback.
+- **COGS:** China product $1.79–2.49/unit + airless pump (~$0.40–1) + carton/label + freight → ~$3.50–5.50 landed at 300–1,000 units; US custom ~$5–8 + a $500–1,000 one-time formula fee.
+- **Recommended $1–3k path:** (1) DR.HC zero-inventory test (rewrite claims) — under $1k for a 1–2 month ad read; (2) in parallel, sample+quote Fuyue / ZKBN / Alibaba-MOQ-200, then place 300–500 units in airless pumps (~$1.5–2.5k landed) once ads convert. Fulfillment = self-ship the small test (physical cream, not POD).
+- **Open items:** per-unit wholesale for DR.HC/Fuyue/ZKBN is quote-gated (request quotes); confirm FDA-registered/MoCRA facility + COA/stability as a contract requirement; keep claims external-vulvar/cosmetic only.
 
 ---
 
