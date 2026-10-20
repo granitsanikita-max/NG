@@ -53,7 +53,7 @@ The category's #1 complaint is the **sub-trap**. So running a subscription is wa
 **Fallback (lowest account risk):** launch one-time-only (Clairon model) + an honest "reorder reminder" email flow, add the opt-in sub once trust/accounts are seasoned. Costs us the LTV engine up front. → **This is the A/B test below (Variant A vs B). Nikita's call on which leads.**
 
 ### The guarantee is the hero of the offer (she's a burned buyer — risk reversal does the heavy lifting)
-**The 365-Day Keep-It Comfort Guarantee** — *"Use the whole tube. If your folds don't feel calmer, cooler and more comfortable, email us for a full refund and keep the tube — no returning it, no forms, no 'unopened' fine print, no questions. One real person reads every email."* Stated **identically everywhere** (beats Healora's 365/90 split), **honors opened/used product** (beats Orgatics' unredeemable unopened-only), longest + boldest in the niche. Add a real refund-rate confidence stat ("only X% ask") once we have data — never fabricated.
+**The 60-Day Keep-It Comfort Guarantee** (LOCKED — 90 is the push-harder ceiling; a full year was rejected as too long for a new brand) — *"Use the whole tube. If your folds don't feel calmer, cooler and more comfortable, email us for a full refund and keep the tube — no returning it, no forms, no 'unopened' fine print, no questions. One real person reads every email."* The edge is NOT the length — it's the 4 things no rival does: stated **identically everywhere** (beats Healora's 365/90 split), **honors opened/used product** (beats Orgatics' unredeemable unopened-only), **keep-the-tube no return**, **a real person answers**. 60 days matches Lume (the best comfort-lane brand) = honest + category-normal, short liability tail, abuse-resistant. Add a real refund-rate confidence stat ("only X% ask") once we have data — never fabricated.
 
 ---
 
@@ -80,7 +80,7 @@ Subscribe tier (and 2-tube+ one-time) unlocks the full stack:
 - ✅ **"Friction, Not Your Fault" guide** — digital — ~~$19~~ **FREE**
 - ✅ **Free Travel Mini** (purse/gym size) — ~~$12~~ **FREE** *(subscribe + 2-tube+ only)*
 - ✅ **Free US Shipping** — ~~$6~~ **FREE** *(orders $40+)*
-- ✅ **365-Day Keep-It Comfort Guarantee** — risk reversal
+- ✅ **60-Day Keep-It Comfort Guarantee** — risk reversal (90 = push-harder ceiling)
 - ✅ **Founding price locked** (honest version of "locked-in for life")
 > One-time single still gets both **digital guides** (near-zero cost, they drive the sale + handle objections) — the travel mini + best price + locked founding rate are the subscribe/bundle sweeteners. Keeps the sale-conversion benefit for everyone while making the sub/bundle the obvious better deal.
 
@@ -111,15 +111,18 @@ Price anchor (single anchors the bundles; honest compare-at only) · honest reas
 
 ---
 
-## 4. ECONOMICS (known COGS: $6.70/tube single landed, ~$3.25/tube at 5-pack bulk; proc 2.9%+$0.30)
-| Order | Price | COGS (launch / bulk) | Proc | CM$ (launch) | CM% | BE ROAS |
-|---|---|---|---|---|---|---|
-| 1 tube one-time | $29.95 | $6.70 | $1.17 | **$22.08** | 73.7% | 1.36 |
-| **2-tube Duo (target AOV)** | $49.95 | $13.40 / $6.50 | $1.75 | **$34.80** | 69.7% | 1.44 |
-| 3-tube Supply | $64.95 | $20.10 / $9.75 | $2.18 | **$42.67** | 65.7% | 1.52 |
-| Sub Duo — first order (25% off) | $37.46 | $13.40 +mini ~$2 | $1.39 | **~$20.7** | 55% | 1.81 |
-| Sub Duo — recurring (15% off) | $42.46 | $13.40 / $6.50 | $1.53 | **$27.5 / $34.5** | 65–81% | — |
-- Model launch COGS conservatively ($6.70/tube) until the 5-pack bulk quote lands (then CM jumps ~12–15 pts). Subtract ~$4.50 real US ship on free-ship bundles before promising free shipping. **Every tier clears break-even ROAS ≤ ~1.5** → healthy room for Meta CPMs. The business is **reorder LTV** (~$60–120 over 2–3 refills), not first-order margin.
+## 4. ECONOMICS — USD (known COGS: $6.70/tube launch, ~$3.25/tube at 5-pack bulk; proc 2.9%+$0.30; bundles = free ship we eat ~$4.50; single = customer pays shipping, ~net $0)
+| Order | Price | COGS launch→bulk | Proc | Ship we eat | **CM$ launch** | **CM$ bulk** | CM% launch→bulk | BE ROAS launch→bulk |
+|---|---|---|---|---|---|---|---|---|
+| 1 tube — Starter | $29.95 | 6.70 → 3.25 | 1.17 | 0 | **$22.08** | **$25.53** | 74% → 85% | 1.36 → 1.17 |
+| **2 tubes — Duo (target AOV)** | $49.95 | 13.40 → 6.50 | 1.75 | 4.50 | **$30.30** | **$37.20** | 61% → 75% | 1.65 → 1.34 |
+| 3 tubes — Supply | $64.95 | 20.10 → 9.75 | 2.18 | 4.50 | **$38.17** | **$48.52** | 59% → 75% | 1.70 → 1.34 |
+| Sub Duo — 1st order (25% off, +mini) | $37.46 | 13.40 → 6.50 (+mini 1.50) | 1.39 | 4.50 | **$16.67** | **$23.57** | 45% → 63% | 2.25 → 1.59 |
+| Sub Duo — each refill (15% off) | $42.46 | 13.40 → 6.50 | 1.53 | 4.50 | **$23.03** | **$29.93** | 54% → 70% | 1.84 → 1.42 |
+
+**Upsell / bump profit (incremental):** travel mini $9.99 → **~$7.90 CM (79%)** · applicator $7.99 → **~$5.46 CM (68%)** · 1-click 2nd tube 40% off $17.97 → **$10.45 launch / $13.90 bulk**.
+**Sub LTV example** (Duo, first order + 2 refills): **~$62.73 launch / ~$83.43 bulk**, and it climbs with every refill — this is the engine.
+- Model **launch COGS ($6.70)** until the 5-pack bulk quote ($3.25) lands — bulk adds ~12–15 margin points across the board. Every tier clears **break-even ROAS ≤ ~1.7 at launch, ~1.3 at bulk** → real room for Meta CPMs. The business is **reorder LTV**, not first-order margin.
 
 ## 5. THE 2 OFFER VARIANTS TO TEST (framework: test offers, not discount depths)
 - **Variant A — "The Honest Subscription"** (LTV play): opt-in front-loaded sub (25%/15%) + full gift stack + keep-it, Duo default, "the only fold-care subscription you can actually cancel." Highest LTV; needs disciplined opt-in to limit dispute risk.
