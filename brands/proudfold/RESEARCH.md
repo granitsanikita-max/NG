@@ -57,9 +57,20 @@ The category's #1 complaint is the **sub-trap**. So running a subscription is wa
 
 ---
 
-## 3. THE GRAND-SLAM OFFER (full spec)
+## 3. THE LAUNCH OFFER — v1 (LOCKED 2026-10-20)
+> **ProudFold's canonical Launch Offer.** It is a *named version*, NOT the only offer we'll ever run — future offers (a scale offer, a summer/seasonal offer, a win-back offer, test variants) get their OWN named versions and never overwrite this one. Whenever the live offer changes, say which version is running. Launch = **one physical SKU (the cream) + 2 digital guides**; no second physical SKU.
+>
+> **AT A GLANCE — the locked launch config:**
+> - **Hero + bundles:** 1 tube **$29.95** "Starter" · **2-tube "All-Day Comfort Duo" $49.95 (MOST POPULAR / target AOV ~$50)** · 3-tube "Summer-Proof Supply" **$64.95**. Named by result, anchored to the single.
+> - **Subscription:** honest **opt-in** (never pre-selected) · **25% off first order / 15% off refills** · one-click cancel, no auto-enroll. *(Running it = Variant A, recommended; Variant B = no-sub fallback — the one open A/B toggle before the store build.)*
+> - **Free gifts (launch = digital, zero-logistics):** Fold-Care Playbook (~$29) + "Friction, Not Your Fault" guide (~$19). Travel mini ONLY if the cream supplier fills a small size in the same box. Applicator = Phase-2 (park until sales + a US-stocked, correct-shape helper).
+> - **Guarantee:** **60-Day Keep-It Comfort Guarantee** — keep the tube, honors opened product, consistent everywhere, a real person answers. 90 = ceiling.
+> - **Objection-handling upsells:** 1-click 2nd tube 40% off ("never run out") · checkout bump to the honest sub · $40 free-ship bar · travel mini $9.99 (if sourced).
+> - **First-order pop-up:** question-first → "$15 store credit" vs an odd-% (test); never a default "10% off".
+> - **Economics:** every tier profitable on order #1 (BE ROAS 1.3–1.7); sub LTV ~$63 → $83+ over 3 orders (§4).
+> - **Compliance:** barrier / soothe / cool / comfort only — never cure / antifungal / kills-yeast / "do you have…".
 
-**Product = 1 tube ≈ 30-day supply. Bundles named by RESULT, not quantity. Subscribe = opt-in, front-loaded.**
+**Full spec below. Product = 1 tube ≈ 30-day supply. Bundles named by RESULT, not quantity. Subscribe = opt-in, front-loaded.**
 
 ### Price ladder
 | Pack (named) | One-time | Subscribe (opt-in) | Compare-at | Per-tube (sub) | Tag |
