@@ -11,7 +11,7 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| proudfold | offer-design | READY FOR NEXT | **COMMITTED brand** (ProudFold / proudfold.com, USA, Meta-only). Step 1 deep research done + in brain/. Next: Offer/Store/Funnel build — 365-day keep-it + 3-pack + honest easy-cancel sub + US-ship; $29.95/$49.95; Discovery-Stack funnel; comfort/barrier claims only. | 2026-10-20 | product-research |
+| proudfold | offer-design | READY FOR NEXT | **GRAND-SLAM OFFER (Step 2 Part A) DONE** → RESEARCH.md (built from framework + live competitor teardown). Offer = honest front-loaded sub + result-named bundles + 365-day keep-it guarantee; ladder $29.95/$49.95/$64.95, AOV ~$50; objection-mapped gifts+upsells. OPEN: Nikita picks Variant A (sub) vs B (no-sub); then build Part B store page. Comfort/barrier claims only. | 2026-10-20 | deep-research |
 | menopause-serum | product-research | PARKED | #2 / fallback (own-a-position) — harder & pricier sourcing; parked behind ProudFold. | 2026-10-19 | product-research |
 
 <!-- Add new brands below. -->
