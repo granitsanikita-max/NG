@@ -11,7 +11,7 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| menopause-serum | product-research | READY FOR NEXT | #2 / alternative (own-a-position) — harder & pricier sourcing; behind skinfold-cream compete-play | 2026-10-19 | product-research |
-| skinfold-cream | product-research | READY FOR NEXT | RECOMMENDED 1st brand — compete-play: TikTok-Shop + UGC "Fold-First" prevention/dignity; cheap easy sourcing (~$2-4 ZnO cream) | 2026-10-19 | product-research |
+| proudfold | offer-design | READY FOR NEXT | **COMMITTED brand** (ProudFold / proudfold.com, USA, Meta-only). Step 1 deep research done + in brain/. Next: Offer/Store/Funnel build — 365-day keep-it + 3-pack + honest easy-cancel sub + US-ship; $29.95/$49.95; Discovery-Stack funnel; comfort/barrier claims only. | 2026-10-20 | product-research |
+| menopause-serum | product-research | PARKED | #2 / fallback (own-a-position) — harder & pricier sourcing; parked behind ProudFold. | 2026-10-19 | product-research |
 
 <!-- Add new brands below. -->

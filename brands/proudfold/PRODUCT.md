@@ -1,6 +1,13 @@
-# PRODUCT — skin-fold / intertrigo cream
+# PRODUCT — ProudFold (skin-fold comfort / barrier cream)
 > Owned by: Product research & validation. Reads: brain/
 > Chosen from a live 6-product WinningHunter sweep, 2026-10-19. Verdict basis: best first brand on a ~$1–3k budget.
+
+## 🟢 STATUS 2026-10-20 (LATEST): COMMITTED — brand locked = ProudFold / proudfold.com. Handoff to offer-design.
+> The brand is now real. Name **ProudFold**, domain **proudfold.com** (bought), market **USA**, channel **Facebook/Meta only**. Full validated positioning, customer, mechanism, offer inputs and 185-snippet VOC bank are in `brain/` (01–06 + `msds-composition.md`). Canonical identity + compliance live in `BRAND.md`. The sections below are kept as the decision record (how we got here); where they conflict with `brain/` + `BRAND.md`, the brain + BRAND.md win.
+>
+> **Two corrections to everything below:**
+> 1. **CHANNEL:** earlier notes say "TikTok-Shop + UGC compete-play." That is **superseded** — Nikita runs **Facebook/Meta only**. The play is a Meta Discovery-Stack (advertorial → offer page) identity brand.
+> 2. **PRODUCT TRUTH (MSDS 2026-10-20):** the cream is **mineral oil 5% + glycerin 5% + allantoin + menthol**; **zinc oxide and undecylenic acid are each 0.01% (trace)**. So it is an **occlusive comfort/barrier cream, NOT an antifungal/zinc "dries-to-powder" treatment.** "Kills yeast / antifungal / cures" is dead (illegal + false). Mechanism is "second skin" occlusive barrier + soothe + cool. See `brain/msds-composition.md`.
 
 ## ✅ STATUS 2026-10-19 (LATEST): RE-ACTIVATED as a COMPETE-PLAY — real winning stack found. RECOMMENDED first brand.
 > This product was parked when its *gaps* failed (see below). A deeper competitive + positioning sweep then found a clear way to WIN **without** a gap — a TikTok-Shop + UGC + prevention/dignity compete-play that also solves the sourcing friction that stalled the menopause serum. **Full positioning + the winning levers are at the BOTTOM of this file ("COMPETE-PLAY POSITIONING").** The gap analysis below stays as the record of why we don't play the gap game here.
