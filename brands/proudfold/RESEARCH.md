@@ -78,7 +78,7 @@ Subscribe tier (and 2-tube+ one-time) unlocks the full stack:
 - ✅ ProudFold Comfort Barrier Cream (the hero)
 - ✅ **The Fold-Care Playbook** — digital guide — ~~$29~~ **FREE**
 - ✅ **"Friction, Not Your Fault" guide** — digital — ~~$19~~ **FREE**
-- ✅ **Free Travel Mini** (purse/gym size) — ~~$12~~ **FREE** *(subscribe + 2-tube+ only)*
+- ✅ **Free Travel Mini** (purse/gym size) — ~~$12~~ **FREE** *(ONLY if the cream supplier fills a small size shipped in the SAME box; otherwise dropped — the 2 digital guides carry the free-gift value)*
 - ✅ **Free US Shipping** — ~~$6~~ **FREE** *(orders $40+)*
 - ✅ **60-Day Keep-It Comfort Guarantee** — risk reversal (90 = push-harder ceiling)
 - ✅ **Founding price locked** (honest version of "locked-in for life")
@@ -90,13 +90,13 @@ Subscribe tier (and 2-tube+ one-time) unlocks the full stack:
 | **The Fold-Care Playbook** (digital) — the daily clean→dry→barrier routine + **how to apply to a hard-to-reach fold** (under-breast, belly apron, inner thigh) without mess | $29 | *"too thick / won't stay / slimy"* (O5) + the real **"I'm 79, I can't hold up my breast/fat to reach-and-dry"** pain + makes it actually work (Lume's "preps skin so it works better" move) |
 | **"Friction, Not Your Fault" guide** (digital) — why borrowed baby/foot/powder products fail (friction + trapped moisture, not just yeast), flare-day vs daily-prevention, **when to see a doctor** (honest — comfort, not cure) | $19 | *"nothing works / tried everything"* (O1, deepest) + *"doctor said lose weight / brands don't care about my size"* (O7) → **de-shames + reframes**; compliance-safe education |
 | **Free Travel Mini** (physical, ~$2 COGS) | $12 | *on-the-go / reapplication / long sweaty shift / the gym bag* (trigger moments 1–2) |
-| *(Phase-2 test)* **Fold-Care Applicator** — a simple smooth-glide tool to reach under the belly apron / under-breast | — | the **can't-reach-the-fold dignity pain** + mess of application; **no competitor offers this** (novel). Needs sourcing → test later. |
+| *(PARKED — Phase-2 only)* **Fold-Care Applicator** | — | novel idea, BUT the long-handled ROLLER found (CJ SKU CJYD290774901AZ, A$4.27 + A$10 ship) is the wrong shape for a tight under-breast crease, ships separately from China (~A$14/unit = uneconomical + breaks US-ship). Only viable if co-stocked in a US warehouse. At launch the **digital Playbook handles this objection for free.** Better long-term fix = a cream tube with a long/angled nozzle tip (packaging, not a 2nd SKU). |
 
 ### UPSELLS / CART BUMPS — each handles an objection AND lifts AOV (per your rule)
 | Upsell | Price | Objection it handles |
 |---|---|---|
 | **Travel/Purse Mini** (cart bump) | $9.99 (free on sub) | "what about when I'm out / I can't reapply at work" |
-| **Fold-Care Applicator** (cart bump) | $7.99 | "I can't reach/apply it cleanly on the fold" (the repeated dignity pain) |
+| ~~Fold-Care Applicator~~ | PARKED | **Phase-2 only** — roller shape wrong for the crease + ships from China separately (lands ~A$14 > $7.99 sell) + breaks US-ship. Not at launch; digital Playbook covers the objection. |
 | **1-click post-purchase: "Add a 2nd tube, 40% off — never run out mid-summer"** | ~$17 | "it'll run out / I don't want to re-order mid-flare" (pantry-load a consumable, honest) |
 | **Checkout order-bump: upgrade to the honest subscription** (if they chose one-time) | — | shows the "cancel in one click, no auto-enroll" promise *at the moment of decision* → converts the LTV without a trick |
 | **Free-shipping threshold bar ($40)** | — | nudges single → Duo or +mini (honest AOV mechanic) |
@@ -120,7 +120,7 @@ Price anchor (single anchors the bundles; honest compare-at only) · honest reas
 | Sub Duo — 1st order (25% off, +mini) | $37.46 | 13.40 → 6.50 (+mini 1.50) | 1.39 | 4.50 | **$16.67** | **$23.57** | 45% → 63% | 2.25 → 1.59 |
 | Sub Duo — each refill (15% off) | $42.46 | 13.40 → 6.50 | 1.53 | 4.50 | **$23.03** | **$29.93** | 54% → 70% | 1.84 → 1.42 |
 
-**Upsell / bump profit (incremental):** travel mini $9.99 → **~$7.90 CM (79%)** · applicator $7.99 → **~$5.46 CM (68%)** · 1-click 2nd tube 40% off $17.97 → **$10.45 launch / $13.90 bulk**.
+**Upsell / bump profit (incremental):** travel mini $9.99 → **~$7.90 CM (79%)** · 1-click 2nd tube 40% off $17.97 → **$10.45 launch / $13.90 bulk**. *(Applicator upsell removed — Phase-2.)*
 **Sub LTV example** (Duo, first order + 2 refills): **~$62.73 launch / ~$83.43 bulk**, and it climbs with every refill — this is the engine.
 - Model **launch COGS ($6.70)** until the 5-pack bulk quote ($3.25) lands — bulk adds ~12–15 margin points across the board. Every tier clears **break-even ROAS ≤ ~1.7 at launch, ~1.3 at bulk** → real room for Meta CPMs. The business is **reorder LTV**, not first-order margin.
 
@@ -132,6 +132,6 @@ Price anchor (single anchors the bundles; honest compare-at only) · honest reas
 ## 6. OPEN ITEMS (Nikita decides / confirm before build)
 1. **Subscription vs no-subscription at launch** (Variant A vs B) — the one big call. My rec: A, but opt-in + profitable-on-order-1 so the sub is upside not survival.
 2. **Final bulk COGS** — lock the 5-pack quote ($3.25/tube) to finalize margins + whether free shipping is promised on the Duo.
-3. **Source the Travel Mini + (Phase-2) Applicator** — mini is a cheap, high-leverage gift; applicator is a novel objection-killer worth a sourcing look.
+3. **LAUNCH WITH ONE PHYSICAL SKU (the cream) + the 2 digital guides.** Travel mini only if the cream supplier fills a small size in the SAME box (ask them); else drop it. **Applicator PARKED to Phase-2** (roller shape wrong for the crease + separate China shipment uneconomical + breaks US-ship). One SKU = lean, cheap, fast, fully US-ship-honest for validation.
 4. **"US-ship" wording** — verify CJ fulfils from a US warehouse before any "ships from the US" line; never imply "made in USA" (supplier = Hong Kong Cyravis). This is the brand's integrity landmine.
 5. Reviews/UGC: we launch with none — the guarantee + founder story + guides carry trust until real reviews land.
