@@ -140,6 +140,13 @@ Price anchor (single anchors the bundles; honest compare-at only) · honest reas
 - **Variant B — "The No-Trap Bundle"** (lowest account risk): NO sub; result-named bundles (Duo/Supply, "buy-2-get-1" framing for the Supply) + full gift stack + keep-it + honest reorder-reminder email. Attacks the trap hardest; safest for a young ad account; weaker LTV.
 - The **pop-up (store-credit vs odd-%)** and the **guarantee** ride on both. Run A vs B to decide the subscription question with real data; track first-order CVR **and** 90-day LTV on each.
 
+## 5B. FUNNEL (launch) — Discovery Stack
+**Ad → story advertorial (REAL founder / real-person editorial — NEVER a fake nurse persona) → long-form "click-through" offer page → cart/upsells.**
+- Matches the Funnel Selection Board **Discovery Stack** (default for a single-hero product) AND the Funnel Fundamentals "Pick the page" route for **cold + skeptical + tried-everything → story advertorial → PDP.** Dawn is solution-aware, burned, Stage 4→5 → she needs the editorial trust step *before* landing on anything that looks like a store (her scam alarm).
+- The "product page" is **NOT a bare PDP** — it's a **long click-through offer page** (what Healora runs at /pages/v1_ss): story recap → "friction, not your fault" reframe → "second-skin" mechanism → honest "what it is / isn't" → proof → the offer stack (the Launch Offer v1).
+- **Contrast vs Healora:** copy the page STRUCTURE, never the fake "Dr. Rebecca Mills / Barbara Collins" persona advertorials — ours is a real founder. Compliance stays in the barrier/comfort lane on every page (Meta reviews the lander too).
+- **Build order (Step 2 doc):** Part A offer ✅ → **Part B = the long click-through offer page NOW** → **Part C = the advertorial AFTER the Step-3 ad angle** (it must match the winning ad). Can run early **ad → offer-page** tests first, then layer the advertorial to scale cold + lower CPM.
+
 ## 6. OPEN ITEMS (Nikita decides / confirm before build)
 1. **Subscription vs no-subscription at launch** (Variant A vs B) — the one big call. My rec: A, but opt-in + profitable-on-order-1 so the sub is upside not survival.
 2. **Final bulk COGS** — lock the 5-pack quote ($3.25/tube) to finalize margins + whether free shipping is promised on the Duo.
