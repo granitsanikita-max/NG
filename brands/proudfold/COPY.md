@@ -588,3 +588,321 @@ ship wording · real reviews · drop/real countdown.
   made-for-me), not brand self-praise. (Nikita's note + Ogilvy.)
 - These moves govern the Part-2 copy pass: reviewer skeptic-convert voice, prove-don't-claim, honest
   IS/ISN'T, future-paced relief, keep-it guarantee, "oldest simple fix" sophistication resolver.
+
+---
+---
+
+# ═══════════════════════════════════════════════════════════════
+# PART 4 — FINAL ADVERTORIAL COPY  (write-ready, v1)
+# ═══════════════════════════════════════════════════════════════
+> **Voice = "Linda":** an independent reviewer — a size-20, big-busted woman, ~50s, who fought fold rash for
+> ~20 years, tried everything, and is writing to help women like her. First person. Plain 5th–8th-grade
+> English. Her words (brain/02 §14 swipe). Proves instead of claims. Every sentence is built to pull her
+> into the next (slippery slide). Fundamentals from Copywriting Fundamentals; headline scored on Nikita's
+> 7 ingredients (curiosity · call out the pain · promise · specificity · simplicity · credibility · timeframe).
+> **Compliance held:** comfort/barrier only, no cure/antifungal/"dries to powder," occlusive barrier not zinc.
+> Section numbers map to the template (Part 2). Image/GIF tags map to the GIF list (P2.4).
+
+## HEADLINES — drafted & scored (pick #1; run #2/#3 as ad-set test variants)
+1. ✅ **"After 20 Years, I Finally Figured Out Why My Fold Rash Kept Coming Back — and the Simple Fix That Got Me Through a Whole Summer."**
+   → curiosity (*why*) · pain (fold rash coming back) · promise (got me through a whole summer) · specificity
+   (20 years / a whole summer) · simplicity ("simple fix") · credibility (first-person "I figured out") ·
+   timeframe (20 years → a summer) = **7/7.**
+2. "I Tried Every Cream in the Drugstore for the Rash Under My Belly and Boobs. The One That Finally Worked Wasn't Even Trying to Do What the Others Did." → curiosity·pain·promise·specificity·credibility·simplicity = 6/7.
+3. "If You've Tried Everything for the Raw, Burning Rash Where Your Skin Rubs — Read This Before You Buy One More Cream." (qualifier/call-out hook) = ~5/7.
+
+**Sub-head (deck, under H1):** *"I'm a size 20 with a big chest, and I'd tried every powder, diaper cream and
+'doctor-recommended' antifungal there is. Turns out they were all doing the one thing that keeps it coming
+back. Here's what finally worked — and why no one tells you this."*
+
+---
+
+## ① STICKY SIDEBAR
+**What makes ProudFold different:**
+- ✅ Stops the *rub* that causes it — instead of chasing the rash after it's raw
+- ✅ Soothes and cools the second it goes on
+- ✅ Stays put in the fold all day (it's a cream, not a powder that turns to paste)
+- ✅ Actually made for plus-size and big-busted folds — on purpose
+
+**[CHECK AVAILABILITY]** · *60-Day Keep-It Comfort Guarantee — cancel anytime, one click.*  [IMG: product shot]
+
+---
+
+## ② H1 + BYLINE + HERO + INTRO
+
+# After 20 Years, I Finally Figured Out Why My Fold Rash Kept Coming Back — and the Simple Fix That Got Me Through a Whole Summer
+*I'm a size 20 with a big chest, and I'd tried every powder, diaper cream and "doctor-recommended" antifungal there is. Turns out they were all doing the one thing that keeps it coming back. Here's what finally worked — and why no one tells you this.*
+
+**By Linda R.**  ·  Updated [Month] 2026
+
+**[HERO — GIF #1: a real, dignified bigger woman on a hot day, tugging her shirt away from a sweaty fold, fanning herself. No rash close-up.]**
+
+It always starts the same way.
+
+A hot afternoon. A long day on your feet. And that raw, stinging burn flares up again — right where your skin folds and rubs. Under the belly. Under the breasts. Between the thighs.
+
+You know the drill. You lift the fold, dab it dry with a wad of paper towel, smear on whatever's in the cabinet, and pray it holds till you get home.
+
+I did that for almost twenty years.
+
+I'm Linda. I'm a size 20 with a chest that has caused me nothing but grief, and for most of my grown life, summer meant one thing — the rash was back. The itch. The burn. That sour, yeasty smell I was so embarrassed by that I quit my water aerobics class and didn't tell a soul why.
+
+I tried everything. And I mean *everything* — I'll show you the whole sad graveyard in a second.
+
+Nothing really worked. Something would quiet it down for a day, maybe two, and then I'd be right back in a bathroom stall, lifting the fold, blinking back tears over something I couldn't believe a grown woman was still dealing with.
+
+So when I tell you I finally got through an entire summer — the pool, the sundresses, all of it — without that rash running my life, you should know I'm the last person on earth who'd have believed it. I didn't believe it either. Not until it happened to me.
+
+Let me tell you what I figured out. Because I'm fairly sure nobody's ever told you this part either.
+
+---
+
+## ③ WHY IT KEEPS HAPPENING (AND WHY IT'S NEVER BEEN YOUR FAULT)
+
+For twenty years I thought this was my fault.
+
+I thought I wasn't clean enough. I thought if I just lost the weight like one doctor told me to — in about ten seconds, without really looking — it would finally go away. I believed that. For two decades.
+
+I was wrong. And so was that doctor.
+
+Here's what's actually going on down there, and once you see it, you can't un-see it:
+
+- **It burns because skin is rubbing on skin.** Where a fold sits, two patches of your own skin press and drag against each other all day. That friction wears the skin raw. *(Customer problem 1)*
+- **It traps heat and sweat with nowhere to go.** A fold is warm, damp and closed-in. The moisture can't dry out, so the skin stays soft, wet and fragile — perfect conditions for it to break down. *(Customer problem 2)*
+- **That's why the smell shows up — and why the shame does too.** It's not a hygiene failing. It's a warm, damp pocket of skin. Any skin would do the same thing. *(Customer problem 3)*
+- **And that's why nothing you tried ever lasted.** You can calm the rash down, but if the rubbing and the trapped moisture are still happening every single day, it comes right back. *(Customer problem 4)*
+
+Read that last one again, because it's the whole thing: **the rash isn't the problem. The rubbing is.** The rash is just what the rubbing leaves behind.
+
+Nobody's skin is "too gross" for this to happen. It's friction. It's physics. And the good news hiding inside that? A physical problem has a physical fix — once you stop treating the rash and start stopping the rub.
+
+**[IMG — GIF #2: LIFE before/after — her avoiding the pool and layering clothes in the heat → her relaxed at a cookout in a sundress. Not skin.]**
+
+Which brings me to the mistake I made for twenty years — the same one I'd bet money you're making right now.
+
+---
+
+## ④ CTA BAND #1
+*Already know you want to try the thing that finally worked for me?* **[CHECK AVAILABILITY →]**
+
+---
+
+## ⑤ BENEFIT 1 — THE ONE THING EVERYTHING ELSE GOT WRONG
+
+Here's the mistake: everything I ever tried was built to *chase the rash.*
+
+Antifungal creams, steroid creams, the diaper cream I stole from my grandbaby — they all go after the rash *after* it's already raw. They treat what the rubbing left behind. And the second I stopped using them, the rubbing was still there, so the rash just... came back. Every time.
+
+The thing that finally worked did the opposite. It didn't chase the rash at all. It **stopped the rub.**
+
+It's called ProudFold, and it's a barrier cream — but not the thick, pasty kind. You smooth a thin layer right where your skin meets skin, and it forms a soft, slick shield between the two surfaces. So instead of your skin grinding on skin all day, it **glides.**
+
+A friend of mine who's a wound-care nurse put it the way that finally made it click for me: *"Think of it as a second skin, right where your skin meets itself."*
+
+That's the whole trick. No grinding, no raw. And because it's working on the *cause* and not the leftover rash, it kept working — right through the hottest, sweatiest week of the summer, when every other thing I'd ever used had always tapped out by day three.
+
+**[IMG — GIF #3 (the big one): illustrated cross-section of a fold — skin rubbing, heat and redness building → a thin barrier film slides in → the two surfaces glide past each other, calm. "Skin-on-skin → skin-on-shield."]**
+
+Now, I'm nosy and I'd been burned before, so "it stops the rub" wasn't enough for me. I wanted to know *how* it actually felt on raw skin. Here's what surprised me.
+
+---
+
+## ⑥ BENEFIT 2 — IT ACTUALLY FEELS GOOD GOING ON
+
+If your skin is anything like mine, it's not just irritated — half the time it's already raw. And the cruel joke is that most of the creams you'd reach for *sting like fire* on raw skin. (The antifungal one I tried felt like someone lit a match in my fold. Never again.)
+
+ProudFold doesn't do that. The first thing you feel is a light, cool tingle — almost minty — and then the burning just... quiets down.
+
+I'll be straight with you about that cool tingle, because I don't want you surprised: that's a little bit of menthol, and it lasts about a minute before it settles into plain, calm comfort. It's the good kind of cool, not the "oh no what did I just do" kind. The first time, I actually sat there on the edge of the tub and exhaled, because I couldn't remember the last time putting something *on* the rash made it feel better instead of worse.
+
+There's no perfume in it, nothing harsh — just a simple soothing cream doing a simple job. On skin that's been through what ours has been through, "gentle" isn't a nice-to-have. It's the whole ballgame.
+
+So it stops the rub, and it feels good doing it. But I had one more worry — the one that's killed every other product I've owned.
+
+---
+
+## ⑦ BENEFIT 3 — IT STAYS WHERE YOU PUT IT
+
+Every powder I've ever used turns to paste.
+
+You dust it on, you feel dry for maybe an hour, and then the sweat shows up and now you've got a damp, clumpy mess rolled up in your fold — which, I promise you, is worse than where you started. I've tried cornstarch (a nurse later told me yeast actually *feeds* on it — great). I've tried tucking a strip of cotton in there, which falls right out the second you move. I've tried a blow dryer on my own body in a locked bathroom like a lunatic.
+
+ProudFold is a cream, and it *stays a cream.* It doesn't cake up and it doesn't fall out. You put it where the rubbing happens, and it stays there, doing its job, through a sweaty shift or a hot afternoon.
+
+And a little goes a long way — I'm talking a pea-sized dab covers an entire under-breast fold. One tube lasts me weeks, which matters, because I'd wasted an embarrassing amount of money on tiny tubes that did nothing.
+
+Here's the part that took me the longest to believe, though — the part about who this was actually built for.
+
+---
+
+## ⑧ BENEFIT 4 — SOMEBODY FINALLY MADE THIS FOR A BODY LIKE MINE
+
+Do you know what it's like to spend twenty years borrowing?
+
+Borrowing the baby's diaper cream. Borrowing the athlete's foot powder. Borrowing products designed for feet and babies and jock itch, because *nobody* makes anything for a woman with a belly and a big chest and folds that rub. The whole drugstore acts like we don't exist.
+
+ProudFold was built for exactly this. For the fold. On purpose. For plus-size bodies and big-busted bodies — not borrowed from somewhere else and not an afterthought.
+
+I can't fully explain what that did to me until you've lived without it. The first time I used something that was *made for my body* instead of something I had to repurpose and feel weird about at the checkout — it felt less like buying a cream and more like somebody finally admitting I was here.
+
+You are not gross. Your body is not a problem to be managed. You've just been handed the wrong tools for twenty years. That's all this ever was.
+
+Okay — by now you might be thinking, "fine, but what's actually *in* it?" Good. You should ask that. So did I.
+
+---
+
+## ⑨ WHAT'S IN IT (AND, JUST AS IMPORTANT, WHAT ISN'T)
+
+I read the whole label before I bought it, because at this point I don't trust anybody. Here's the honest rundown.
+
+**What's in it — and what each part does:**
+- **Mineral oil + glycerin** — the barrier. This is the "second skin" that stops the rub.
+- **Glyceryl stearate** — helps it stay put in the fold instead of running off.
+- **Allantoin** — soothes and calms irritated skin.
+- **Menthol** — that light cooling feeling.
+- **A water base** — so it's light, not that heavy, greasy paste.
+
+That's basically it. And honestly? That's the point.
+
+**What's NOT in it:**
+- No perfume or fragrance (the #1 thing that stings already-raw skin)
+- No steroids
+- No harsh "antifungal" chemicals burning their way across skin that's already hurting
+- Nothing it doesn't need
+
+**[IMG #7 — product + the ingredient icons + true badges: Fragrance-Free · Made For Folds · No Forced Subscription · 60-Day Keep-It]**
+
+Now let me be dead honest with you about what this *is* and *isn't*, because the lying is exactly why you've been burned before:
+
+> **It IS** a barrier that stops the rubbing, soothes the sting, and cools the burn.
+> **It ISN'T** a magic "cure," it ISN'T an antifungal, and it will NOT "dry your fold to a powder" like the flashy ads promise. It stays a cream — because a *cream* is what sits between your skin and stops the rub. A powder can't do that. That honesty is the whole reason it works when the overhyped stuff quit on me.
+
+I'll take a product that tells me the truth and *works* over one that promises me the moon and leaves me raw by Wednesday. Every single time.
+
+---
+
+## ⑩ CTA BAND #2
+*The simple, honest one — made for folds.* **[CHECK AVAILABILITY →]**
+
+---
+
+## ⑪ WHY I ACTUALLY TRUSTED IT ENOUGH TO BUY (I DID THE DIGGING FOR YOU)
+
+Look — I've been scammed. We all have.
+
+I've been charged $47 a month by a "cream" I canceled twice. I've ordered two tubes of something and had six show up. I've bought from a "US-based" company and watched a package crawl in from overseas three weeks later, after the flare had already come and gone.
+
+So before I spent a dime, I did the boring homework. Here's what I actually checked, so you don't have to:
+
+- **Where it ships from.** It ships from the US — so it shows up in days, not "sometime next month" from who-knows-where.
+- **The cancel terms.** There's no forced subscription and no phone-call runaround. If you ever want to stop, it's one click. You buy what you want, when you want it.
+- **The guarantee.** Sixty days, and you keep the tube. If it doesn't do what I'm telling you it does, you send one email and you get your money back — no "ship back the empty container" nonsense.
+- **That it's a real brand, not a faceless funnel** hiding behind a stock photo of a fake doctor.
+
+None of that is exciting. All of it is exactly the stuff I wish someone had checked for me the first dozen times I got burned.
+
+Once I'd checked all that, the only thing left to lose was the rash. So I finally pulled the trigger.
+
+---
+
+## ⑫ HOW TO USE IT — EVEN ON A FOLD YOU CAN'T EASILY REACH
+
+It couldn't be simpler, which after twenty years of blow-dryers and cotton strips felt almost insulting:
+
+1. **Clean and pat the fold dry** as best you can.
+2. **Smooth on a thin layer** right where the skin rubs. A little is plenty.
+3. **Reapply after a shower or a big sweat.** That's the whole routine.
+
+And if you're like me and there are folds you genuinely can't reach or hold up long enough to treat — I get it, I've been there with a hand mirror and zero dignity — a long-handled applicator or even a soft folded cloth makes it easy to reach and apply without the yoga.
+
+**[IMG/GIF #9 — the 3 steps: pat dry → thin layer in the fold → get on with your day]**
+
+So does it actually beat everything else out there? I made myself a little chart, because that's the kind of person I've become. Here it is.
+
+---
+
+## ⑬ HOW IT STACKS UP AGAINST EVERYTHING ELSE I'D TRIED
+*(the questions I was actually asking — answered straight)*
+
+| What I really wanted to know | ProudFold | Everything else I'd tried |
+|---|---|---|
+| **Will the rash just come back?** | Stops the *rubbing* that causes it, so the cycle breaks | Treats the rash after it's raw → back in days |
+| **Will it sting my already-raw skin?** | Fragrance-free, no harsh actives → calm + cool | Fragrance + antifungals → burns on contact |
+| **Does it actually stay, or disappear?** | A cream that stays in the fold all day | Powder turns to paste · cotton falls out |
+| **Can I use it where I can't reach?** | A dab smooths in and stays put | Messy, hard to place, falls out |
+| **Is it made for a body like mine?** | Built for plus-size + big-busted folds, on purpose | Borrowed from babies, feet, jock itch |
+| **Will it even show up — and fast?** | Ships from the US | "US-based" but weeks from overseas |
+| **Will I get charged forever?** | Buy once · no forced sub · cancel in one click | Hidden auto-ship you can't cancel |
+| **What if it doesn't work for me?** | 60-day keep-it guarantee · keep the tube | 30 days, if they honor it at all |
+
+**[CHECK AVAILABILITY →]** · *60-Day Keep-It Comfort Guarantee*
+
+---
+
+## ⑭ WHAT YOU'RE ACTUALLY GETTING  *(honest trust markers — no fake certificates)*
+Not a wall of fake awards. Just the four promises that made me comfortable hitting "buy":
+**🛡 60-Day Keep-It Guarantee** · **🎯 Made For Folds** · **🚫 Fragrance-Free & Gentle** · **🇺🇸 Ships From the US · One-Click Cancel**
+
+---
+
+## ⑮ I'M NOT THE ONLY ONE  *(representative voices — ⚠ TEST ONLY; replace with real, seeded reviews before live)*
+> ★★★★★ **"I was sure it'd be another scam cream off Facebook."**
+> First comfortable summer I've had in years. I'm honestly a little mad it took me this long to find it. — *Denise R.*
+
+> ★★★★★ **"Underboob sweat used to wreck me by noon."**
+> This stays put and the cool feeling is everything on a hot day. Big-boob crew, this one's for us. — *Marie T.*
+
+> ★★★★★ **"I use it on my mom's folds when I'm caring for her."**
+> Gentle, no stinging, and she's finally comfortable. That's all I wanted. — *Kathy L.*
+
+> ★★★★★ **"Twenty years and a small fortune wasted on stuff that didn't last."**
+> Wish I'd had this the whole time. A little goes a long way, too. — *Sharon B.*
+
+---
+
+## ⑯ THE STUFF YOU'RE PROBABLY STILL WONDERING  *(FAQ)*
+- **Will it stain my clothes or bra?** No — it's light and soaks in. Give it a minute before you get dressed and you're fine.
+- **Is it okay on skin that's already raw and sensitive?** That's exactly who it's for — fragrance-free and gentle. As with anything, dab a little on first to be sure your skin's happy with it.
+- **What if I can't reach the fold?** A long-handled applicator or a soft folded cloth does the trick — no contortion required.
+- **Does it "dry out" the fold like the other ads promise?** No, and that's on purpose. It's a *barrier*, not a powder. Stopping the rub is what actually breaks the cycle — "drying you out" never did.
+- **How long does a tube last?** Weeks, for most people. A pea-sized dab covers a whole fold.
+- **Am I signing up for some subscription I can't cancel?** No. Buy what you want, when you want it. If you ever do subscribe to save, it's one click to cancel. No runaround.
+- **What if it doesn't work for me?** Then you didn't lose anything. 60 days, keep the tube, money back.
+
+---
+
+## ⑰ IF YOU WANT TO TRY WHAT FINALLY WORKED FOR ME
+I'm not going to do the fake countdown-timer thing at you — you've had enough of that from people trying to sell you something.
+
+Here's the straight version: you've read this far because you're tired. Tired of the burn, the smell, the hiding, the bathroom-stall routine, the quiet little grief of it. I know, because I lived it for twenty years, and I'd give anything to get those summers back.
+
+ProudFold is the thing that finally stopped the rub for me — and it comes with a 60-day keep-it guarantee, ships from the US, and has no subscription trap. Which means the only thing you're actually risking is the rash.
+
+If you're done being an afterthought, go see if it's in stock.
+
+**[CHECK AVAILABILITY →]** · *60-Day Keep-It Comfort Guarantee · Ships from the US · Cancel anytime, one click*
+
+— Linda
+
+---
+
+## ⑱ FOOTER
+Standard advertorial disclosure block (advertisement · persons shown are models · marketing disclosure) ·
+© ProudFold · Refund Policy · Terms of Service · Privacy Policy.
+
+---
+
+### ✎ COPY NOTES (fundamentals/techniques used + chiefing)
+- **Headline:** 7/7 ingredients. **Fundamentals active:** argument>words (the whole case = "stop the rub,
+  don't chase the rash") · slippery slide (every section ends on a bridge into the next) · 5th–8th grade ·
+  speed-to-value · emotional resonance (shame→anger at the real enemy→relief) · human voice (Linda, her
+  words) · anticipate+resolve objections (each as her own doubt) · **honesty/IS-ISN'T** · consciousness
+  method (reaches identity/dignity in ⑧). **Techniques:** skeptic-convert reviewer (Sugarman) · peer as
+  first believer (the wound-nurse friend) · future-pace ("got through a whole summer") · UMP→UMS (⑤:
+  rub=problem, barrier=solution) · facts-over-opinions (⑬, ingredient list) · let-them-conclude ("read that
+  last one again") · prove-don't-claim · "I was just like you—but worse" · honest under-claim (⑨) ·
+  sell-the-cure-not-prevention (leads on the burn she feels NOW) · no fake urgency (⑰, on-brand).
+- **Chiefing (read back as Dawn):** every objection (§5 #1–11) lands in-body; each section hands off to the
+  next; no brand "we" voice; compliance held (no cure/antifungal/dries; occlusive barrier); only fiction =
+  Linda + the representative reviews (test-only, flagged). **Not final-live** until: real reviewer, real
+  seeded reviews, offer A/B, true ship wording confirmed.
