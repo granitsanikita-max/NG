@@ -11,7 +11,7 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| proudfold | copywriting | IN PROGRESS | **ADVERTORIAL BLUEPRINT DONE** → COPY.md (full pre-sell map: 1 job, 5-belief chain, 11-objection matrix, info inventory, 13-beat founder story-advertorial spine, honest new-store proof, 6 self-audit passes). Final copy GATED on Nikita: (1) Variant A vs B, (2) real founder-origin truth, (3) share his advertorial template, (4) confirm honest US-ship wording. NB offer-design left OFFER.md/FUNNEL.md as empty stubs — blueprint built off RESEARCH.md. Comfort/barrier claims only; "occlusive barrier" not "zinc." | 2026-10-21 | copywriting |
+| proudfold | copywriting | IN PROGRESS | **ADVERTORIAL BLUEPRINT v2 DONE** → COPY.md. POV = **independent third-party review** (a real person reviewing/advising, NOT the brand) — objections = reviewer's own doubts checked & resolved; brand honesty = her findings; proof = her lived experience + honest con (works for a new store). Full map: 1 job, 5-belief chain, 11-objection matrix, info inventory, 13-beat reviewer spine, FTC/honesty rules, 7 self-audit passes. GATED on Nikita: (1) reviewer identity (real woman preferred vs disclosed persona), (2) Variant A vs B, (3) share advertorial template, (4) honest US-ship wording. NB OFFER.md/FUNNEL.md still empty stubs. Comfort/barrier only; "occlusive barrier" not "zinc." | 2026-10-21 | copywriting |
 | menopause-serum | product-research | PARKED | #2 / fallback (own-a-position) — harder & pricier sourcing; parked behind ProudFold. | 2026-10-19 | product-research |
 
 <!-- Add new brands below. -->
