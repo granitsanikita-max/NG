@@ -649,7 +649,7 @@ I'm Linda. I'm a size 20 with a chest that has caused me nothing but grief, and 
 
 I tried everything. And I mean *everything* — I'll show you the whole sad graveyard in a second.
 
-Nothing really worked. Something would quiet it down for a day, maybe two, and then I'd be right back in a bathroom stall, lifting the fold, blinking back tears over something I couldn't believe a grown woman was still dealing with.
+Nothing really worked. Not for long. Something would calm it down for a day or two — then I'd be right back in a bathroom stall, lifting the fold, blinking back tears over something I couldn't believe a grown woman was still fighting.
 
 So when I tell you I finally got through an entire summer — the pool, the sundresses, all of it — without that rash running my life, you should know I'm the last person on earth who'd have believed it. I didn't believe it either. Not until it happened to me.
 
@@ -700,6 +700,8 @@ It's called ProudFold, and it's a barrier cream — but not the thick, pasty kin
 A friend of mine who's a wound-care nurse put it the way that finally made it click for me: *"Think of it as a second skin, right where your skin meets itself."*
 
 That's the whole trick. No grinding, no raw. And because it's working on the *cause* and not the leftover rash, it kept working — right through the hottest, sweatiest week of the summer, when every other thing I'd ever used had always tapped out by day three.
+
+Picture getting dressed on a hot morning and just... not thinking about it. Not planning your whole day around a tube of cream and a wad of paper towels. That's the part I still can't get over.
 
 **[IMG — GIF #3 (the big one): illustrated cross-section of a fold — skin rubbing, heat and redness building → a thin barrier film slides in → the two surfaces glide past each other, calm. "Skin-on-skin → skin-on-shield."]**
 
@@ -845,18 +847,17 @@ Not a wall of fake awards. Just the four promises that made me comfortable hitti
 
 ---
 
-## ⑮ I'M NOT THE ONLY ONE  *(representative voices — ⚠ TEST ONLY; replace with real, seeded reviews before live)*
-> ★★★★★ **"I was sure it'd be another scam cream off Facebook."**
-> First comfortable summer I've had in years. I'm honestly a little mad it took me this long to find it. — *Denise R.*
+## ⑮ I'M NOT THE ONLY ONE
+*(⚠ representative, TEST-ONLY — swap for real seeded reviews before live. Short + human on purpose, each kills one objection; the italic (kills:…) tags come OFF for the build. All stay in comfort/barrier language — no "cure.")*
 
-> ★★★★★ **"Underboob sweat used to wreck me by noon."**
-> This stays put and the cool feeling is everything on a hot day. Big-boob crew, this one's for us. — *Marie T.*
-
-> ★★★★★ **"I use it on my mom's folds when I'm caring for her."**
-> Gentle, no stinging, and she's finally comfortable. That's all I wanted. — *Kathy L.*
-
-> ★★★★★ **"Twenty years and a small fortune wasted on stuff that didn't last."**
-> Wish I'd had this the whole time. A little goes a long way, too. — *Sharon B.*
+> ★★★★★ Thought for sure this was gonna be another scam cream off Facebook. First summer in years I'm not hiding. — **Denise R., FL**  *(kills: scam / "another Facebook cream")*
+> ★★★★★ Underboob sweat had me by noon every day. This stays put. Big-boob girls, get this one. — **Marie T.**  *(kills: won't-stay / sweat-paste + belonging)*
+> ★★★★★ My skin's too sensitive for the antifungal stuff, it always burned. No sting with this. Finally. — **Pam K.**  *(kills: will it burn / sensitive skin)*
+> ★★★★★ Twenty years and a small fortune on things that didn't last. Should've started here. Little goes a long way too. — **Sharon B.**  *(kills: tried-everything / price / value)*
+> ★★★★☆ Takes a minute to soak in before you get dressed, that's my only note. But no raw skin by lunch, so I'm sold. — **Lori A.**  *(kills: stains/how-to + believability via honest 4★)*
+> ★★★★★ I take care of my mom and everything hurt her. This doesn't. She's comfortable now. — **Kathy L.**  *(kills: gentle / caregiver sub-avatar)*
+> ★★★★★ Canceled a different "miracle" sub three times and STILL got charged. Bought this once. No games. — **Robin M.**  *(kills: subscription trap)*
+> ★★★★★ Not greasy, no perfume, doesn't wreck my bras. Where was this ten years ago? — **Teresa W.**  *(kills: greasy / fragrance / stains clothes)*
 
 ---
 
@@ -906,3 +907,12 @@ Standard advertorial disclosure block (advertisement · persons shown are models
   next; no brand "we" voice; compliance held (no cure/antifungal/dries; occlusive barrier); only fiction =
   Linda + the representative reviews (test-only, flagged). **Not final-live** until: real reviewer, real
   seeded reviews, offer A/B, true ship wording confirmed.
+- **CHIEF v2 (2026-10-21):** full ICP read-back pass. Changes: (1) tightened the intro to staccato ("Not
+  for long.") for rhythm (Fundamental 5); (2) added a future-pace/ownership beat to ⑤ ("picture getting
+  dressed on a hot morning and just… not thinking about it") — Sugarman ownership + pays off the dignity
+  core; (3) **rewrote all reviews (⑮) short + human** (1–2 lines, lowercase, one honest 4★ for
+  believability), each tagged to the objection it kills — coverage: scam #2 · stays-put #5 · sting #4 ·
+  tried-everything/price #1/#6 · how-to/stain · caregiver gentle #4 · sub-trap #3 · greasy/fragrance #5.
+  Objection coverage now body + reviews = all 11 hit in ≥2 places. Fundamentals/techniques all present
+  (argument-first, slippery slide, honesty/IS-ISN'T, future-pace, UMP→UMS, facts-over-opinions,
+  let-them-conclude, belonging, no fake urgency). No brand "we"; compliance held.
