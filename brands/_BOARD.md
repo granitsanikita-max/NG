@@ -11,7 +11,7 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| proudfold | offer-design | READY FOR NEXT | **GRAND-SLAM OFFER (Step 2 Part A) DONE** → RESEARCH.md (built from framework + live competitor teardown). Offer = honest front-loaded sub + result-named bundles + 60-day keep-it guarantee; ladder $29.95/$49.95/$64.95, AOV ~$50; objection-mapped gifts+upsells. OPEN: Nikita picks Variant A (sub) vs B (no-sub); then build Part B store page. Comfort/barrier claims only. | 2026-10-20 | deep-research |
+| proudfold | copywriting | IN PROGRESS | **ADVERTORIAL BLUEPRINT DONE** → COPY.md (full pre-sell map: 1 job, 5-belief chain, 11-objection matrix, info inventory, 13-beat founder story-advertorial spine, honest new-store proof, 6 self-audit passes). Final copy GATED on Nikita: (1) Variant A vs B, (2) real founder-origin truth, (3) share his advertorial template, (4) confirm honest US-ship wording. NB offer-design left OFFER.md/FUNNEL.md as empty stubs — blueprint built off RESEARCH.md. Comfort/barrier claims only; "occlusive barrier" not "zinc." | 2026-10-21 | copywriting |
 | menopause-serum | product-research | PARKED | #2 / fallback (own-a-position) — harder & pricier sourcing; parked behind ProudFold. | 2026-10-19 | product-research |
 
 <!-- Add new brands below. -->
