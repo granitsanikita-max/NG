@@ -11,6 +11,10 @@ to help others. **NOT the founder, NOT the brand, NOT "we."** The brand shows up
 reviewer found and recommends.* Final written copy (Part 2) is gated — see §12. Product-page copy = later.
 Grounded in: the brand brain + the playbook's *④ Pre-Sales Page (Advertorial/Listicle)* (the 13-beat
 story-advertorial is a customer/reviewer narrative) + *Reference — Copywriting Fundamentals*.
+**→ PART 2 (bottom of file) = the TEMPLATE-MAPPED BUILD PLAN**: the reviewer strategy mapped onto Nikita's
+exact GemPages advertorial template, slot by slot, with the GIF/image spec, sections to add/cut, objection
+coverage, and the ICP chiefing audit. **That is what store-build builds.** (Test build — persona fiction
+OK per Nikita; still no claims the product doesn't do, no fake authority, no fake certs/lab/reviews-as-fact.)
 
 ---
 
@@ -293,3 +297,235 @@ honest first reviews ASAP.
   brand is against → bounded by the §3 four-point line; flagged real-reviewer as the clean path.
 
 **Residual risk = the 6 dependencies in §12.** Content map is bulletproof; final copy is gated on those.
+
+---
+---
+
+# ═══════════════════════════════════════════════════════════════
+# PART 2 — TEMPLATE-MAPPED BUILD PLAN  (GemPages "Gemadvertorial")
+# ═══════════════════════════════════════════════════════════════
+
+> Maps the reviewer-voice strategy (Part 1) onto Nikita's EXACT advertorial template, slot by slot: what
+> copy goes in each section, which objections/beliefs it hits, the VOC to pull, and the GIF/image to make.
+> Plus sections to ADD and sections to CUT/REPURPOSE. **This is the store-build spec.** POV = independent
+> third-party reviewer (a relatable fellow sufferer). Objection #s = Part 1 §5; Belief #s = Part 1 §4.
+
+## P2.0 · GLOBAL TEMPLATE CALLS (apply everywhere)
+- **Byline (MANDATORY fix):** template reads "Written by Dr.Marcus" → change to a regular woman (e.g.
+  "Linda R."), **no "Dr." / no nurse / no fake authority anywhere.**
+- **Masthead:** keep the top-bar "Advertorial" tag (honest). Use a neutral editorial masthead — do NOT fake
+  a news brand (avoid the "DERMATOL TIMES" mistake).
+- **Footer disclosure stays** (already says "this is an advertisement… photographs of persons are models")
+  — that's what keeps model photos + the reviewer persona honest-enough if it ever goes live. Swap
+  "SOCKSCOMPRESSION" → ProudFold.
+- **Sidebar guarantee:** template "30-Day Money-Back" → **60-Day Keep-It Comfort Guarantee.**
+- **All CTAs ("CHECK AVAILABILITY") → the offer/PDP.** Keep the label (low-pressure, fits reviewer tone) or
+  soften to "See If It's In Stock."
+- **Countdown timer (final offer):** ⚠ a fake resetting countdown is literally the enemy's move (brain/04
+  "fake 24-hr countdowns"). Fine for this TEST; for LIVE drop it or use a real launch-window date.
+- **Compliance everywhere:** comfort/barrier language only · "occlusive barrier," never "zinc" · no
+  cure/antifungal/"dries to a powder" · no graphic raw-skin imagery · reach by situation, not diagnosis.
+
+## P2.1 · SECTION-BY-SECTION BUILD
+
+### ① Sticky sidebar (UVP — persists on scroll)
+- **Role:** always-visible offer anchor + 4 reasons; keeps the CTA in view through the whole read.
+- **UVP 4 checkmarks:** (1) Stops the rub where skin meets skin · (2) Soothes + cools on contact · (3) Made
+  for folds — not borrowed from a baby · (4) 60-day keep-it guarantee · cancel anytime.
+- **Product shot · CTA → offer · guarantee = 60-day keep-it.**  **Kills:** #7,#3,#6. **Belief:** B3,B7.
+- **Image:** clean product shot, warm non-clinical background.
+
+### ② [H1] Headline + byline + hero + intro  (the hook)
+- **Role:** stop the scroll, call her out, open a loop, make her feel seen in the first lines.
+- **H1 direction:** *"I Tried Everything For My Fold Rash — This Was the Only Thing That Actually Worked."*
+  (alt: *"After 20 Years of Fold Rash, Here's What Finally Gave Me a Summer Off."*)
+- **Call-out sub:** *"For plus-size and big-busted women who've tried every cream in the aisle and still dread the heat."*
+- **Byline:** "Written by Linda R. · Updated [today]" (regular woman, not Dr.).
+- **Intro (3–6 word vacuum → recognition):** open tiny (*"It always starts the same way."*) → her day in her
+  words (the heat, the sweaty shift, lifting the fold to dry it, the *"sour, yeasty smell,"* quitting the
+  pool) → close the loop: *"I tried all of it. Here's the only thing that finally worked — and why nothing else did."*
+- **Kills:** #7,#8,#1. **Belief:** B1,B7.
+- **HERO → GIF/IMG #1:** dignified plus-size/big-busted woman in summer discomfort (fanning, tugging a shirt
+  off a sweaty fold, wiping her brow). Human, relatable. **No graphic skin / no rash close-up.**
+
+### ③ [H2 repurposed] "Why This Keeps Happening (And Why It's Not Your Fault)"
+- **Role:** de-shame + install the real cause — the emotional hinge. (Template's "timeframe to results"
+  doesn't fit a cream → repurpose this whole section to cause/reframe.)
+- **Intro:** *"For years I thought it was me — not clean enough, just needed to lose weight like the doctor said. I was wrong, and so was that doctor."*
+- **Customer problems 1–4 → her 4 realities (her words):** (1) the rub that turns raw · (2) it comes back
+  every summer (*"multiple times each damned year, even with a good bra"*) · (3) the smell + shame (*"stopped going to the pool"*) · (4) nothing works + can't even reach it (*"I've tried everything," "can't hold the fold up long enough to dry it"*).
+- **The turn:** *"It's not hygiene and it's not willpower. It's friction — skin rubbing skin, heat and sweat trapped with nowhere to go. A physical problem — which means it has a physical fix."* *(that's-why: that's why it comes back no matter how clean you are.)*
+- **Kills:** #1,#8,#9. **Belief:** B1,B2.
+- **Before/After slot → GIF/IMG #2 = LIFE before/after** (NOT skin): Before = avoiding the pool / layering
+  in heat / wincing; After = at the pool, in the dress, relaxed. Emotional, dignified, compliant.
+
+### ④ CTA band #1
+- *"Want to skip to the one that actually worked? → Check availability."* (soft, reviewer tone)
+
+### ⑤–⑧ [H3 ×4] Benefit blocks → "The 4 Reasons It Worked When Nothing Else Did"
+> Each = mini-ad: benefit title → her pain scene → one-line mechanism → outcome → honest proof → GIF.
+
+- **⑤ Benefit 1 — "It stops the RUB instead of chasing the rash" (THE mechanism).** Everything she tried
+  *chased* the rash or was borrowed; this sits in the fold as a **barrier** so skin **glides instead of
+  grinds** — *"a second skin where your skin meets itself."* *That's why it kept working when the others quit.*
+  **Kills:** #1,#9,#11. **Belief:** B3. **→ GIF #3 (the money GIF).**
+- **⑥ Benefit 2 — "It soothes and cools the second it goes on."** Allantoin soothes + a hit of menthol cools.
+  *Heads-up so you're not surprised: there's a light cooling tingle for a minute — that's the menthol, not a
+  burn.* (sets expectation.) **Kills:** #4. **Belief:** B3. **→ GIF #4.**
+- **⑦ Benefit 3 — "It actually stays where you put it."** Powders turn to paste and fall out; cotton falls
+  out; this cream **stays in the fold** through a sweaty day. A little goes a long way. **Kills:** #5,#6.
+  **Belief:** B3. **→ GIF #5.**
+- **⑧ Benefit 4 — "Made for the fold, on purpose — for a body like mine."** Fragrance-light, gentle on
+  already-raw skin, built for plus-size + big-busted bodies, not a borrowed baby cream. Identity + belonging.
+  **Kills:** #7,#4. **Belief:** B7. **→ GIF #6.**
+
+### ⑨ [H2] Safety & Health → "What's Actually In It (And What's NOT)"
+- **Role:** the honest ingredient story = trust weapon. Shorten the 14-ingredient grid to our REAL short
+  list + a **"what's NOT in it"** column.
+- **In it (ingredient→benefit):** Mineral oil → the barrier that stops the rub · Glycerin → holds the
+  barrier · Glyceryl stearate → helps it stay put · Allantoin → soothes raw skin · Menthol → the cooling you
+  feel · Water base → light, not greasy-heavy.
+- **NOT in it:** no fragrance/perfume · no steroids · no harsh "antifungal" actives that sting raw skin ·
+  nothing it doesn't need. *"It's almost boring — that's the point. The stuff that irritated me was never the barrier, it was everything else."*
+- **The IS / ISN'T honest box (ADD):** *IS* a barrier that stops the rub, soothes, cools · *ISN'T* a cure,
+  an antifungal, or a powder that "dries you out." **Kills:** #5; buys belief.
+- **Trust badges → TRUE only:** Fragrance-Light · Made For Folds · No Forced Subscription · 60-Day Keep-It.
+  (NOT fake "Lab Tested / GMO Free / Clinically Proven.")
+- **Kills:** #4,#5. **Belief:** B3,B4. **→ IMG #7** (product + 6 ingredient icons + true badges).
+
+### ⑩ CTA band #2
+- *"The honest one, made for folds → check availability."*
+
+### ⑪ [H2 Development roadmap → REPURPOSE] "Why I Actually Trusted This One (I Did the Digging)"
+- **Role:** the reviewer's due-diligence = the trust engine of the review POV; kills the scam cluster.
+- **Copy:** *"I've been burned — by creams that made it worse and 'US-based' brands that shipped from China
+  and charged me after I cancelled. So before I bought this I checked:"* → ✓ where it ships from ✓ the full
+  ingredient list ✓ the cancel terms (one click, no runaround) ✓ that it's a real company, not a faceless
+  funnel with a fake nurse. Report honest findings.
+- **Kills:** #2,#3,#10. **Belief:** B4.
+- **CUT the fake factory/manufacturing images** (we don't own a lab — dishonest + off-voice). **→ IMG #8 =
+  "what I checked" cards** (ship-from, one-click cancel, ingredient label, real-brand), NOT a fake factory.
+
+### ⑫ [H2] Product manual → "How to Use It (Even On a Fold You Can't Easily Reach)"
+- **3 steps (adapted from dosage/warm-water/bedtime):** (1) Clean + pat the fold dry · (2) Smooth a thin
+  layer where skin meets skin (a little goes a long way) · (3) Reapply after a shower or big sweat.
+- **+ tip for hard-to-reach folds** (S009, the 79-yo): a long-handled applicator / a strip of soft cloth to
+  lift + apply. Name it — she'll feel understood.
+- **Kills:** the "can't reach/dry it" friction + #5/#6. **Belief:** B5. **→ IMG/GIF #9** (3 apply steps).
+
+### ⑬ [H2] Compare with other products → the comparison table (KEEP — power section)
+- **ProudFold vs "the other fold creams / everything else I tried" — 8 differentiation points:**
+  1. Made for the fold, on purpose ✓ / Borrowed from babies & feet ✗
+  2. Stops the rub (barrier) ✓ / Just chases the rash ✗
+  3. Honest about what it is & isn't ✓ / Overclaims "cures / kills yeast" ✗
+  4. Fragrance-light, gentle on raw skin ✓ / Stings already-raw skin ✗
+  5. Ships from the US ✓ / "US-based" but ships from China ✗
+  6. No forced sub, cancel in 1 click ✓ / Hidden auto-ship ✗
+  7. Real brand, honest page ✓ / Fake "Dr." / nurse personas ✗
+  8. 60-day keep-it guarantee ✓ / 30 days / won't honor it ✗
+- Then **CTA + guarantee.** **Kills nearly every objection at once.** **Belief:** B2,B3,B4. **→ IMG #10.**
+
+### ⑭ [H2] Achievements / Certificates → REPURPOSE or CUT (honesty)
+- **No certificates exist (new brand). Fake certs = the enemy's move + dishonest → DO NOT.**
+- **Recommend:** CUT, or REPURPOSE into honest "What You're Actually Getting" markers (60-Day Keep-It seal ·
+  Made For Folds · Fragrance-Light · Ships From the US · One-Click Cancel). True only. **→ IMG #11 (if kept).**
+
+### ⑮ [H2] Social proof → review cards
+- **TEST:** representative reviews written from the real VOC, strictly comfort/barrier (NO "cured my
+  intertrigo"). Cast 4, each a job: (1) skeptic-converted *"sure it'd be another scam cream from Facebook —
+  first comfortable summer in years"* · (2) big-boob crew *"underboob sweat wrecked me by noon; this stays
+  put, the cooling is everything"* · (3) caregiver *"use it on my mom's folds — gentle, no stinging"* · (4)
+  tried-everything *"20 years, hundreds wasted — wish I'd had this the whole time."* Avatars = models
+  (footer-disclosed). ⚠ **LIVE: replace with REAL reviews — seed product first.**
+- **Belief:** B5,B7. **→ IMG #12** (4 cards: star/title/body/avatar/"Verified Buyer" — true only when real).
+
+### ⑯ [H2 mislabeled "Show social proof"] FAQ → objection mop-up (accordion)
+- Swap the compression-socks Qs for ours: (1) *Will it stain my clothes/bra?* · (2) *Safe for already-raw,
+  sensitive skin?* · (3) *What if I can't easily reach the fold?* · (4) *Does it "dry out" the fold like the
+  other ads say?* → honest: no, it's a barrier not a powder, that's why it works · (5) *How long does a tube
+  last / worth it?* · (6) *Can I cancel easily? Any subscription trap?* · (7) *Return policy?* (60-day keep-it).
+- **Kills residual:** #4,#5,#6,#3. **Belief:** B4,B5.
+
+### ⑰ Final "TODAY'S OFFER" block
+- **Copy (reviewer handoff):** *"If you want to try what finally worked for me, here's where I got it — and
+  why I felt safe hitting buy."* → the honest offer (RESEARCH.md): cream + free **Fold-Care Playbook** +
+  **"Friction, Not Your Fault" guide** (+ travel mini if in-box) · 60-day keep-it · one-click cancel. Swap
+  the template's "free compression socks" for our free gift.
+- ⚠ **Countdown:** test-only; drop/real-deadline for live. **Kills:** #3,#6. **Belief:** B5. **→ IMG #13**
+  (product + free-gift mockups + 60-day seal).
+
+### ⑱ Footer
+- Keep the disclosure boilerplate (honest). Swap "SOCKSCOMPRESSION" → ProudFold. Refund/Terms/Privacy links.
+
+## P2.2 · SECTIONS TO ADD (template lacks; ICP needs)
+1. **"What it IS / what it ISN'T" honest box** — fold into ⑨ or its own band after the mechanism. **HIGH
+   priority:** our #1 trust lever; kills "won't dry / too thick" by owning it.
+2. **The de-shame "not your fault + real cause" reframe** — carried by repurposed ③; keep it explicit, not
+   buried. Emotional hinge (B1).
+3. **The "I did the digging" due-diligence beat** — carried by repurposed ⑪; the review POV's trust engine.
+   Without it the scam cluster (#2,#3,#10) isn't fully killed.
+4. **A dedicated mechanism visual (GIF #3)** — the glide/"second skin" explainer; the single most
+   persuasive asset. Template has benefit GIFs but no true mechanism diagram.
+5. **(Optional) a "is this you?" self-ID strip** (3 *"If you've…"* lines) near the top or before the offer.
+
+## P2.3 · SECTIONS TO CUT / REPURPOSE
+- **Development roadmap + factory images → REPURPOSE to due-diligence; CUT fake-lab imagery.**
+- **Achievements / Certificates → CUT or honest trust badges** (no fake certs).
+- **14-ingredient grid → SHORTEN to the real ~6 + "what's NOT in it"** (simplicity is the sell).
+- **Countdown timer → test-only;** drop/real-deadline for live.
+- **"Dosage / warm water / bedtime" manual → ADAPT to cream application.**
+- **Byline "Dr.Marcus" → regular woman, no Dr.** (hard rule).
+
+## P2.4 · GIF / IMAGE PRODUCTION LIST  (hand to ad-creation / store-build)
+| # | Slot | What it shows | Style | Compliance |
+|---|---|---|---|---|
+| 1 | ② hero | Dignified woman in summer fold-discomfort (fanning, tugging shirt) | Real/stock or AI, warm | No graphic skin |
+| 2 | ③ before/after | LIFE before (hiding/layering) → after (pool/dress, comfortable) | Real/stock | Emotional, not skin |
+| **3** | ⑤ benefit 1 | **MECHANISM:** fold rubbing → friction/heat → barrier film appears → skin GLIDES (skin-on-shield) | Illustrative/AI animation | **The money GIF** |
+| 4 | ⑥ benefit 2 | Cool-blue ripple of relief across calm skin / menthol cooling | Illustrative/AI | — |
+| 5 | ⑦ benefit 3 | Split: powder→paste + cotton falling out VS cream staying put | Illustrative + demo | — |
+| 6 | ⑧ benefit 4 | Plus-size woman comfortable through a hot day (time-lapse) | Real/stock | Dignified |
+| 7 | ⑨ ingredients | Product + 6 ingredient icons + TRUE badges | Graphic | True badges only |
+| 8 | ⑪ due-diligence | "What I checked" cards (ship-from, 1-click cancel, label, real brand) | Graphic/UI-style | No fake factory |
+| 9 | ⑫ how-to-use | 3 steps: pat dry → thin layer in fold → carry on | Real/stock or GIF | — |
+| 10 | ⑬ compare | ProudFold tube vs generic "other" tube | Product shot | — |
+| 11 | ⑭ trust markers | Honest badge row | Graphic | No fake certs |
+| 12 | ⑮ reviews | 4 review cards w/ model avatars | Graphic | Models disclosed; real reviews for live |
+| 13 | ⑰ offer | Product + free-gift mockups + 60-day seal | Graphic | — |
+
+**GIF priority (make these first):** #3 mechanism → #5 stays-put-vs-paste → #2 life before/after → #1 hero → #4 cooling.
+
+## P2.5 · OBJECTION → TEMPLATE-SECTION COVERAGE (bulletproof check)
+| Objection | Killed in |
+|---|---|
+| #1 nothing works | ② · ③ · ⑤ · ⑬ |
+| #2 scam/ships from China | ⑪ · ⑬ |
+| #3 subscription trap | ⑪ · ⑯ · ⑰ · sidebar |
+| #4 burn/react | ⑥ · ⑨ · ⑯ |
+| #5 thick/won't dry/slimy | ⑦ · ⑨ IS/ISN'T · ⑯ |
+| #6 expensive/tiny tube | ⑦ · ⑫ · ⑯ · ⑰ |
+| #7 for someone like me? | ② · ⑧ · ⑬ |
+| #8 doctors dismiss/shame | ② · ③ |
+| #9 made worse/back day 3 | ③ · ⑤ · ⑬ |
+| #10 fake/knock-off | ⑪ · ⑬ |
+| #11 won't heal if irritated | ⑤ |
+**All 11 covered, most in ≥2 sections. ✓**
+
+## P2.6 · CHIEFING / ICP-LENS AUDIT (read back as Dawn)
+- **1 Flow:** hook → recognition → reframe → mechanism/benefits → honesty → due-diligence → compare → proof
+  → FAQ → offer. Every section earns the next; no dead/filler sections (misfit ones repurposed, not left). ✓
+- **2 Objections:** all 11 land, most ≥2× (P2.5). ✓
+- **3 Belief chain:** B1 (③) → B2 (③/⑤) → B3 (⑤–⑨) → B4 (⑪/⑬) → B5 (⑮–⑰), in order. ✓
+- **4 Compliance:** comfort/barrier only · "occlusive barrier" not zinc · IS/ISN'T owns "no dry/no cure" · no
+  graphic skin · situation-not-diagnosis · byline de-doctored · countdown flagged. ✓
+- **5 Honesty (Nikita's hard line):** no claim the product doesn't do · no fake certs · no fake lab · short
+  honest ingredients + "what's NOT in it" · reviews stay comfort-language · model photos footer-disclosed.
+  Only fiction = the reviewer persona (allowed, test). ✓
+- **6 ICP "does she convert herself?":** de-shame hits first → mechanism gives a NEW reason to believe (not
+  another claim) → due-diligence removes the scam fear a review-less brand otherwise can't → compare stacks
+  the decision → FAQ clears last friction → low-risk offer. Only gap = real reviews (seed for live). ✓
+- **7 Visual persuasion:** every major belief carried by a visual (mechanism GIF #3 = hero); no blank stills;
+  before/after is emotional, not graphic. ✓
+
+**Verdict: bulletproof for a TEST build.** Live gating unchanged: real reviewer/creator · offer A/B · true
+ship wording · real reviews · drop/real countdown.
