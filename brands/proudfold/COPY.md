@@ -414,15 +414,24 @@ honest first reviews ASAP.
 - **Kills:** the "can't reach/dry it" friction + #5/#6. **Belief:** B5. **→ IMG/GIF #9** (3 apply steps).
 
 ### ⑬ [H2] Compare with other products → the comparison table (KEEP — power section)
-- **ProudFold vs "the other fold creams / everything else I tried" — 8 differentiation points:**
-  1. Made for the fold, on purpose ✓ / Borrowed from babies & feet ✗
-  2. Stops the rub (barrier) ✓ / Just chases the rash ✗
-  3. Honest about what it is & isn't ✓ / Overclaims "cures / kills yeast" ✗
-  4. Fragrance-light, gentle on raw skin ✓ / Stings already-raw skin ✗
-  5. Ships from the US ✓ / "US-based" but ships from China ✗
-  6. No forced sub, cancel in 1 click ✓ / Hidden auto-ship ✗
-  7. Real brand, honest page ✓ / Fake "Dr." / nurse personas ✗
-  8. 60-day keep-it guarantee ✓ / 30 days / won't honor it ✗
+- **DEPTH RULE (Nikita's note + Ogilvy's lesson):** each row = **a question SHE is actually asking,
+  answered with a concrete functional CONTRAST she cares about** — recurrence, sting, staying put,
+  reach — **NOT brand self-praise** ("we're honest / they're scammy" is us patting ourselves on the back).
+  State facts, let her conclude we're better. Contrast against "the other fold creams / everything you've
+  tried," ranked by what matters most to her:
+  1. **"Will the rash just come back?"** → Stops the skin-on-skin *rubbing* that causes it, so the cycle
+     breaks ✓ / Treats the rash after it's already raw → back in days ✗
+  2. **"Will it sting my already-raw skin?"** → Fragrance-free, no harsh actives → calm + cooling ✓ /
+     Fragrance + antifungal actives → burns on contact ✗
+  3. **"Does it actually stay, or disappear?"** → A cream that stays in the fold through a sweaty day ✓ /
+     Powder turns to paste · cotton falls out · "doesn't stay dry" ✗
+  4. **"Can I even use it where I can't reach?"** → A little smooths in + stays put ✓ / Messy, hard to
+     place, falls out ✗
+  5. **"Is it made for a body like mine?"** → Built for plus-size + big-busted folds on purpose ✓ /
+     Borrowed from babies & feet ✗
+  6. **"Will it show up — and fast?"** → Ships from the US ✓ / "US-based" but weeks from overseas ✗
+  7. **"Will I get charged forever?"** → Buy once, no forced sub, cancel in 1 click ✓ / Hidden auto-ship ✗
+  8. **"What if it doesn't work for me?"** → 60-day keep-it guarantee, keep the tube ✓ / 30 days / won't honor ✗
 - Then **CTA + guarantee.** **Kills nearly every objection at once.** **Belief:** B2,B3,B4. **→ IMG #10.**
 
 ### ⑭ [H2] Achievements / Certificates → REPURPOSE or CUT (honesty)
@@ -529,3 +538,53 @@ honest first reviews ASAP.
 
 **Verdict: bulletproof for a TEST build.** Live gating unchanged: real reviewer/creator · offer A/B · true
 ship wording · real reviews · drop/real countdown.
+
+---
+---
+
+# ═══════════════════════════════════════════════════════════════
+# PART 3 — SWIPE BREAKDOWNS → STEAL-LIST (for the copy pass)
+# ═══════════════════════════════════════════════════════════════
+> Studied 4 proven DR ads in full (actual copy, not summaries): **Sugarman — BluBlocker "Vision
+> Break-through"** · **Schwartz — "Burn Disease Out of Your Body"** (health advertorial, closest to us) ·
+> **Halbert — "Burn Off Body Fat Hour-by-Hour"** (personal-letter advertorial) · **Ogilvy — Rolls-Royce
+> "At 60 miles an hour…"**. These set how we WRITE the ProudFold copy.
+
+## P3.1 · The 8 shared moves (all four use them — our non-negotiables)
+1. **PROVE, don't claim** — mechanism / specifics / facts beat adjectives. (Ogilvy: "the loudest noise is
+   the clock" proves "quiet" without saying it.)
+2. **Honesty disarms** — raise the limit/doubt FIRST (Sugarman "if you don't believe me I'll change your
+   mind"; Halbert "won't work for everyone"). = our IS/ISN'T box.
+3. **Let her conclude it herself** — state the fact, stop. A conclusion she reaches sticks. (Ogilvy.)
+4. **Lowered-guard entry** — story / letter / editorial, never "an ad." All four hide the sell inside content.
+5. **Specificity = credibility** — exact %, exact timeframe, exact scene (Halbert: "6 inches off waistline,
+   6 lbs in 48 hrs"; Ogilvy: "fourteen coats of paint").
+6. **Specific, confident, keep-it risk reversal** — Halbert's "send back the empty container"; Sugarman's
+   "so noticeable you can tell immediately or send them back."
+7. **Future-pace ownership** — put her inside having it (Halbert "imagine how it must feel to…"; Sugarman
+   "when you put these on, your vision improves").
+8. **Resolve sophistication** — Schwartz's "new, although it's 4,000 years old." → OUR exact play: the
+   oldest, simplest fix (a barrier) got buried under complicated creams & pills that chase the rash.
+
+## P3.2 · Per-ad steals
+- **Sugarman (the one that matches our POV):** the **skeptic-convert REVIEWER arc** — he writes as a
+  customer who *doubted*, tested obsessively ("kept taking them off and putting them on"), and got
+  converted. A **peer as first believer** ("Len is a friend of mine who has an eye for good products").
+  **Models the reader's skepticism, then resolves it** (= our due-diligence beat ⑪). **"Don't Be Confused —
+  do these really work?"** raised head-on. Second-person **sensory ownership** of the result.
+- **Schwartz:** the **"new but ancient"** sophistication-resolver (→ our barrier pedigree). **Fascination-
+  bullet stacks** (specific, curiosity-opening outcomes) → our UVP / benefit bullets. Mechanism told as a
+  **discovery**, in plain language. *(We borrow the TECHNIQUE, not his fake-authority credential dump.)*
+- **Halbert:** warm **first-person "let me tell you what happened to me."** **"Imagine how it must feel
+  to…"** future-pacing. **Honest qualification** ("this won't work for everyone"). **Send-back / keep-it
+  guarantee.** The **P.S.** as a warmth/accessibility beat.
+- **Ogilvy:** **ONE concrete, surprising proof-fact instead of a claim** (→ our headline + the compare
+  table). **Facts over virtue** — this is the fix for the compare table (⑬ now reframed to her
+  outcomes/questions, not "we're honest vs they're scammy"). **Cite a real source** (he quoted The Motor →
+  we use real VOC / the mechanism). **Long copy works IF every line is a specific fact.**
+
+## P3.3 · Applied
+- **Compare table ⑬ reworked** → contrasts on HER questions/outcomes (recurrence, sting, stays-put, reach,
+  made-for-me), not brand self-praise. (Nikita's note + Ogilvy.)
+- These moves govern the Part-2 copy pass: reviewer skeptic-convert voice, prove-don't-claim, honest
+  IS/ISN'T, future-paced relief, keep-it guarantee, "oldest simple fix" sophistication resolver.
