@@ -972,3 +972,49 @@ green button + CountDown timer + "30-Day") = d.desktop:FALSE/tablet:false/**mobi
 visitors see the OLD offer. Fix in editor (mobile view): delete the old block + set the new block to show on
 mobile + publish. (Too big for safe API re-emit; handed to Nikita as editor steps.)
 SHIPPED via API earlier: footer policy links (Refund/Terms/Privacy, HTTP 200) + sticky-CTA green→terracotta.
+
+---
+---
+
+# ═══════════════════════════════════════════════════════════════
+# PART 6 — ADVERTORIAL ASSET SPEC + FINAL COPY FIXES (2026-10-22)
+# ═══════════════════════════════════════════════════════════════
+> Full image/GIF production plan (4 GIFs + ~11 static images, frame-by-frame) delivered to Nikita as
+> `proudfold-advertorial-asset-plan.md` → HAND TO ad-research/storyboarding/ad-creation (they own
+> STORYBOARDS.md / CREATIVES.md). Below = the parts that are COPY (this station's lane) + the live-page fixes.
+
+## P6.1 · GLOBAL ASSET RULES (Nikita)
+1. **Editorial ≠ carousel.** Advertorial assets are in-context/documentary/illustrative; the clean white-bg
+   beauty shots live on the PDP. Reusing carousel shots breaks the "report → sales page" illusion.
+2. **Skin compliance.** Show **friction/chafe redness → calm, comfortable skin** (cosmetic anti-chafe, our
+   lane). NEVER raw/rashy/broken-skin "healing/cleared/cured" before/afters = cure claim (illegal) + Meta reject.
+
+## P6.2 · THE 4 GIFs (benefit "Image gif" slots)
+1. **Mechanism** (Benefit 1, ⭐#1): cross-section of a fold — two skin surfaces grind → red friction heat →
+   glossy cream layer slides between → they GLIDE, heat → calm. Abstract, not real skin. The money asset.
+2. **Cooling** (Benefit 2): cream touches down → cool mint ripple → warm tint settles to calm.
+3. **Stays-put** (Benefit 3): split demo — powder+sweat → paste; ProudFold+sweat → smooth intact layer.
+4. **Lifestyle cinemagraph** (Benefit 4): plus-size woman comfortable through a hot day, one subtle moving element.
+One visual world: warm cream + terracotta, 3–5s loops.
+
+## P6.3 · BODY-AREA BEFORE/AFTERS (repurpose the "Certificate 1/2/3" row)
+New heading (replace "The Promises They Keep"): **"Wherever Your Skin Rubs"** (alts: "It's Not Just an
+Under-Boob Thing" / "Every Place That Rubs Raw by Noon"). 3 areas = **inner thighs · underarms · under-belly**
+(NOT under-breast — that's the PDP's one). **Comfort captions, never medical:**
+- Inner thighs: *"Thighs that used to rub raw on every hot walk — now I forget they touch."*
+- Underarms: *"The armpit fold nobody warns you about — calm, even in a tank top."*
+- Under-belly: *"The fold under my belly, through a full shift — comfortable, not stinging."*
+(Bulletproof alt if Meta-cautious: "where it helps" lifestyle shots per area, same captions, zero skin.)
+
+## P6.4 · LIVE-PAGE COPY FIXES FOUND IN QA (2026-10-22, desktop+tablet+mobile)
+- **Remove "wound-care nurse"** in the mechanism section → "A friend explained it in a way that finally made
+  it click for me: …" (fake-authority / no-nurse rule; the cornstarch "a nurse later told me" mention is fine).
+- **Duplicate heading:** old H2 "What's Actually In It — And What Isn't" still sits above the new ingredient
+  component → delete the old HEADING (keep the "not a cure, not an antifungal…" paragraph as lead-in).
+- **Compare table:** flip "Soothes and cools" + "Money-back guarantee" Other-Brands cells ✓→✗ (competitor
+  currently shown winning those rows).
+- **Review "Brenda M." has a man's photo** → swap to a woman.
+- Green "Verified Buyer" → terracotta. "Welcome to our store" top bar is theme default.
+**PASSED in QA:** new ingredient component (all 3 widths), honest TODAY'S OFFER now shows on mobile
+(device-visibility bug fixed), compare copy filled, review names + section headings fixed, footer links live,
+60-day consistent, disclosure intact.
