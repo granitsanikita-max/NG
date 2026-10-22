@@ -916,3 +916,59 @@ Standard advertorial disclosure block (advertisement · persons shown are models
   Objection coverage now body + reviews = all 11 hit in ≥2 places. Fundamentals/techniques all present
   (argument-first, slippery slide, honesty/IS-ISN'T, future-pace, UMP→UMS, facts-over-opinions,
   let-them-conclude, belonging, no fake urgency). No brand "we"; compliance held.
+
+---
+---
+
+# ═══════════════════════════════════════════════════════════════
+# PART 5 — FINALIZED PASTE COPY (GemPages build, 2026-10-22)
+# ═══════════════════════════════════════════════════════════════
+> Locked, paste-ready copy handed to Nikita for the manual GemPages build. Supersedes the template-placeholder
+> content for these four sections. Compliance held (comfort/barrier, no fungal/cure, occlusive barrier).
+
+## P5.1 · COMPARISON TABLE (⑬)
+Headers: **ProudFold** vs **Other Creams**. ProudFold = ✓ all 8; Other Creams = ✗ all 8. ✓ color = terracotta #C4603F.
+(Live-page bug caught: template had "Your Brand/Other Brands" + "Differentiation Point 1-8", green ✓, and rows 4 & 6 showed Other Brands winning — flip all Other-Creams cells to ✗.)
+1. Stops the rub, not the rash · 2. Won't sting raw skin · 3. Stays put — never cakes or rolls off ·
+4. Soothes and cools on contact · 5. Made for folds, on purpose · 6. Ships from the US (days, not weeks) ·
+7. 60-day keep-it guarantee · 8. No subscription trap
+
+## P5.2 · TODAY'S OFFER (⑰) — Nikita's honest build, finalized
+Eyebrow: **TODAY'S OFFER** (one word). Headline: **Get the free Fold-Care Playbook with your first tube**.
+Body: *"I'm not going to hit you with a fake countdown — you've had enough of that. You read this far because
+you're tired of the burn, the smell, the hiding. ProudFold is the thing that finally stopped the rub for me —
+60-day keep-it guarantee, ships from the US, no subscription trap. The only thing you're really risking is the
+rash. If you're done being an afterthought, go see if it's in stock. — Linda"*
+Button: **CHECK AVAILABILITY** · Badge: **● Low stock — selling fast** (amber/terracotta dot, no number, no timer).
+**NO fake countdown** (the old timer was removed/retired here — see mobile note P5.5).
+
+## P5.3 · REVIEWS (⑮) — final cast, all women (ICP), objection-mapped
+1. ★★★★★ "Thought it'd be another scam cream" — First summer in years I'm not hiding. Honestly, a little mad it took me this long to find it. — **Denise R.** (scam/skeptic #2)
+2. ★★★★★ "Underboob sweat used to wreck me by noon" — This stays put all day. Big-busted girls — get this one. — **Sharon K.** (stays-put #5)
+3. ★★★★★ "No sting on my sensitive skin" — Everything else burned the second it touched raw skin. This one doesn't. Finally. — **Brenda M.** (sting #4)
+4. ★★★★ "20 years and a small fortune wasted" — Should've just started here. And a little goes a long way — one tube lasts me weeks. — **Carol T.** (tried-everything/value #1/#6)
+5. ★★★★★ "I stopped dreading getting dressed" — A pea-sized dab and I forget it's even there. That's the whole point. — **Debra H.** (dignity/B7)
+6. ★★★★★ "The 'no subscription' thing is real" — Ordered once, got one tube, no surprise charges. After what I've been burned by, that alone earned my trust. — **Marisol V.** (sub-trap #3)
+Fixes vs live: "Anna Chirstin" (typo) + "Rayul Mike" (male name+photo on a women's product) removed. Use women's
+photos. Recolor green "Verified Buyer" → terracotta #C4603F; keep gold stars. (Still TEST reviews — real ones for live.)
+
+## P5.4 · INGREDIENTS (⑨) — replaces the ugly IN-IT/NOT-IN-IT with a clean ingredient-card showcase
+Nikita swiped a competitor (Veloma) ingredient-explorer layout — adopt the STYLE, not the content (Veloma's
+"targets fungal buildup" = a claim we CANNOT make). Drop the product selector (one product). KEEP a compact
+"what's NOT in it" strip (the honesty beat). Needs 5 ingredient icons = ad-creation.
+Heading: **What's Actually In It — In Plain English**. Sub: *"You don't need a chemistry degree to read this
+label. A short list, each thing doing one job — and just as honest, what we left out."*
+- **Mineral Oil** — The barrier itself. The smooth, invisible layer between two sides of skin so they glide instead of grinding each other raw.
+- **Glycerin** — Keeps it working. Pulls in a touch of moisture and helps the layer stay put through a long, sweaty afternoon.
+- **Allantoin** — The soother. Calms skin that's already rubbed raw — so putting something on finally feels better, not worse.
+- **Menthol** — The light cool. A clean, gentle tingle that takes the edge off, then settles into plain comfort in about a minute.
+- **Light Water Base** — Never greasy. Goes on like a cream, not a thick pasty paste that cakes up and rolls off.
+NOT in it: ❌ No added fragrance · ❌ No steroids or medicated actives · ❌ No "dries-you-out" powder · ❌ No thick, pasty filler.
+
+## P5.5 · MOBILE OFFER-BLOCK BUG (diagnosed 2026-10-22 — for store-build)
+Section [3] (offer+FAQ, 79KB) contains TWO stacked offer blocks with per-DEVICE visibility: the NEW "TODAY'S
+OFFER" block = d.desktop:true/tablet:true/**mobile:FALSE** (hidden on phone); the OLD block (GemSleep image +
+green button + CountDown timer + "30-Day") = d.desktop:FALSE/tablet:false/**mobile:true** (phone only). So phone
+visitors see the OLD offer. Fix in editor (mobile view): delete the old block + set the new block to show on
+mobile + publish. (Too big for safe API re-emit; handed to Nikita as editor steps.)
+SHIPPED via API earlier: footer policy links (Refund/Terms/Privacy, HTTP 200) + sticky-CTA green→terracotta.
