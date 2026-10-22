@@ -1018,3 +1018,37 @@ Under-Boob Thing" / "Every Place That Rubs Raw by Noon"). 3 areas = **inner thig
 **PASSED in QA:** new ingredient component (all 3 widths), honest TODAY'S OFFER now shows on mobile
 (device-visibility bug fixed), compare copy filled, review names + section headings fixed, footer links live,
 60-day consistent, disclosure intact.
+
+# ═══════════════════════════════════════════════════════════════
+# PART 7 — FINAL ASSET DECISION + FULL IMAGE BATCH PLAN (2026-10-22)
+# ═══════════════════════════════════════════════════════════════
+> Supersedes Part 6's "4 GIFs" spec. **Nikita's decision: only 2 GIFs total** (too slow to make);
+> **everything else = static images**, including "science" shots (chafe / cross-section) done as stills.
+> Full working plan: scratchpad/proudfold-image-batch-plan.md. Assets live in session scratchpad.
+
+## P7.1 · THE 2 GIFs (source clips already generated, Kling 3.0 std 3s silent)
+- **HERO GIF** — woman hot/hurting (fanning, wince) → zoom to chafe spot → friction cutaway (heat blazing).
+  Clips: hero_clip1_woman.mp4 ✓, hero_clip3_cutaway.mp4 ✓, hero_clip2_spot.mp4 ⚠ (Kling puffed the red into a
+  raised welt — needs redo keeping redness FLAT). Pain-only (no relief; hero copy has no relief). Red pain-bolt
+  overlay + circular inset composited in EDIT. Format per Nikita refs: realistic → science-inset explainer.
+- **MECHANISM GIF** — grind → barrier film floods in → glide. 5 clips done (mech_scene1_anim … mech_scene5_calm).
+
+## P7.2 · IMAGE BATCHES (~15 NEW; all "science" slots REUSE stills already rendered)
+- **Batch 1 SCIENCE stills (REUSE, 0 new):** hero_sci1_spot_v2 (chafe), hero_sci2_cutaway (friction), mech_xsec_film
+  (barrier), mech_xsec_glide (calm), mech1_real + mech_surface_calm (fold before/after).
+- **Batch 2 BENEFIT stills:** B1=mechanism GIF (have); B2 cooling science still [NEW]; B3 stays-put demo (cream stays
+  vs powder pastes) [NEW, needs tube]; B4 lifestyle plus-size confident/comfortable [NEW].
+- **Batch 3 LIFESTYLE/EMOTIONAL:** Before/After LIFE hiding→free [NEW ×2]; body-area before/afters (Promises/Cert row):
+  inner thighs, underarms, under-belly — mild chafe-red→calm, intact skin, comfort captions [NEW ×3]. (NOT under-breast
+  = PDP's.)
+- **Batch 4 PRODUCT (needs real ProudFold tube ref — pull from Shopify):** sidebar in-context tube [NEW]; compare
+  ProudFold tube + generic "other" tube [NEW ×2]; How-to 3 steps clean/apply/reapply [NEW ×3]; offer tube+playbook
+  [NEW ×1 optional].
+- **Batch 5 REVIEW FIX:** Brenda M. → woman 45–60 [NEW ×1].
+- **Ingredients:** 5 macro images DONE (Shopify CDN).
+
+## P7.3 · RULES (unchanged, every image): editorial ≠ PDP carousel · friction chafe-red → calm, SKIN INTACT
+(no raw/rash/wound/cure) · body-area B/As avoid under-breast · reuse hero avatar (HF media c77e8935) for
+same-person continuity; reviews = distinct women.
+## P7.4 · OPEN: pull real tube image (Batch 4 dep) · confirm body-area B/As go chafe-red→calm (stronger) vs
+lifestyle (Meta-bulletproof) · hero clip 2 flat-red redo.
