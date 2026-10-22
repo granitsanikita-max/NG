@@ -1052,3 +1052,37 @@ Under-Boob Thing" / "Every Place That Rubs Raw by Noon"). 3 areas = **inner thig
 same-person continuity; reviews = distinct women.
 ## P7.4 · OPEN: pull real tube image (Batch 4 dep) · confirm body-area B/As go chafe-red→calm (stronger) vs
 lifestyle (Meta-bulletproof) · hero clip 2 flat-red redo.
+
+---
+
+## PART 8 — FULL-PAGE QA ("CHIEF") · 2026-10-22 · desktop/tablet/mobile
+Chiefed the LIVE page (publish #16) at 1440 / 834 / 390px, top to bottom. Verdict: **copy is strong
+everywhere, all our custom assets exist and render correctly on desktop/tablet.** Every issue is a
+last-mile GemPages assembly fix (store-build lane), not a missing asset. Full report +
+drop-in assets: `scratchpad/PROUDFOLD_QA_REPORT.md` + `scratchpad/compressed/posters/`.
+
+**🔴 MUST FIX (visual):**
+1. **Hero video = black box** (all devices) — Video element has no poster. Set poster = `HERO_poster.jpg`.
+2. **Mechanism video = black box** (all devices) — set poster = `MECHANISM_poster.jpg`. (Both posters
+   extracted from the final MP4s' opening frames; ready in scratchpad/compressed/posters/.)
+3. **Compare table, MOBILE only** = placeholder **supplement bottles** (green+red) instead of our tubes.
+   Desktop/tablet correct. Fix mobile image slots → ProudFold cell `proudfold_featured.jpg`, Other cell
+   = the white tube desktop uses.
+4. **Problem section, MOBILE only** = stray **blue-pajama before/after** (not ours, not ICP, absent on
+   desktop) — a template element set show-mobile/hide-desktop. Fix: hide it on mobile (recommended) or
+   swap to `00_problem_beforeafter_stacked.jpg`.
+
+**🟡 COPY FIX:**
+5. **"TO DAY'S OFFER:"** → **"TODAY'S OFFER:"** (stray space in the offer headline, all devices).
+6. **"wound-care nurse" line** (still live, was P6.4) — drop the clinical credential. Suggested:
+   *"A friend finally explained it in a way that made it click for me: 'Your fold is two sides of skin
+   rubbing against each other all day. This slips a smooth, invisible layer between them — so they glide
+   instead of grinding each other raw.'"*
+
+**⚪ OPTIONAL:** green "Verified Buyer" badges (reviews) — fine as-is; terracotta only if strict brand consistency.
+
+**✅ CONFIRMED GOOD:** headline+byline, sticky offer sidebar (branded tube), problem anatomical diagram
+(desktop/tablet), benefits 1–4 (plus-size ICP, no product until compare), how-to ×3, compare table
+desktop/tablet (real tubes), certificate before/afters ×3 (portrait, ICP, labels), reviews ×4
+(realistic older plus-size avatars), FAQ ×5, honest offer block (no fake countdown, free playbook,
+60-day, ships US, no sub trap, Linda sign-off), footer disclosures + policy links.
