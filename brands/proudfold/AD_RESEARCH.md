@@ -1,174 +1,247 @@
-# AD RESEARCH — ProudFold
+# AD RESEARCH — ProudFold · WHAT'S WORKING IN THE NICHE
 > Owned by: Ad research & planning. Reads: brain/, PRODUCT.md, RESEARCH.md, OFFER.md
-> Built 2026-10-23 from a full whole-niche Meta sweep (WinningHunter ad library + 5 parallel competitor teardowns + ~20 pulled video transcripts). Full per-competitor teardowns archived in scratch (`adresearch/{healora,clairon,veloma,other-direct,comfort-lane}.md`). Channel = **Facebook/Meta only.** Market = **USA.**
+> Pure competitive-intelligence map. Built 2026-10-23 from a full Meta ad-library sweep (WinningHunter) across every competitor + adjacent + the comfort/anti-chafe lane — every page, image + video, ~20 pulled video scripts. Documents **what the market is actually running and scaling right now.** Full per-competitor teardowns: `scratch` → `adresearch/{healora,clairon,veloma,other-direct,comfort-lane}.md`.
 >
-> **COMPLIANCE LOCK (every line/angle below obeys it):** barrier / protects / soothes / cools / comfort / reduces-friction / stays-put / anti-chafe ONLY. NEVER antifungal / kills-yeast-or-bacteria / cures / treats / "dries to a powder" / "do you have [condition]?" / graphic before-after / fake doctor-nurse personas / fake clearance. The comfort/barrier lane is the whole game — see BRAND.md guardrail + brain/04 §2B.
+> **👁️ SEE ANY AD:** every link in this doc is a Meta Ad Library link — click it to watch/view the actual live creative (image or video). Format: `https://www.facebook.com/ads/library/?id=<AD_ID>`. A **§8 VISUAL SWIPE BOARD** at the bottom groups every example by format with links so you can just scroll and click.
+>
+> **Reading "proven":** these advertisers are US-targeted, so WinningHunter's EU spend/adscore is noise. Real signals used: **days running · active-ad volume on the page · duplicate count · how widely a concept is cloned across a cluster.** Revenue figures are directional estimates.
 
 ---
 
-## 0. HOW TO READ "PROVEN" (method caveat — matters)
-WinningHunter's spend/reach/"adscore" (Winning/Scaling/Testing) is **EU-derived**, and every competitor here is **US-targeted** → their EU metrics read ~0 and "adscore" basically just means "ran >7 days." **So I rank proof by: (1) days running, (2) raw active-ad volume on the page, (3) duplicate/active count, (4) how widely a concept is cloned across a cluster's pages.** Those four are the real signal. Revenue/spend numbers in the niche are directional estimates, not facts.
+## 1. SCOREBOARD — who's winning, how big, which way they're moving
+
+| Advertiser | Live US ads | Pages | Trend | Format mix | Product | What they sell on | See the page |
+|---|---|---|---|---|---|---|---|
+| **Healora** | ~2,762 | 7 | ▲ growing | **82% image** / 18% video | fold cream | "kills yeast → dries to a powder barrier," 50% off | [page](https://www.facebook.com/ads/library/?view_all_page_id=987916181072356) |
+| **Veloma** | ~2,600 | 14 | ▲ men mature + new women push | **58% video** / 37% img | antifungal soap | biofilm "shield," 16-yrs-expert, misdiagnosis | [page](https://www.facebook.com/ads/library/?view_all_page_id=903917486130556) |
+| **Clairon** | ~1,311 | 5 | ▲▲ scaling hard | 65% image / 35% video | fold cream | "break the cycle," odor-shame VSLs, BOGO | [page](https://www.facebook.com/ads/library/?view_all_page_id=1314617211725690) |
+| **Ionix Labs** (adjacent) | ~1,334 | 2 | ▲▲ ~doubled in a quarter | **95% video** | loose-skin leggings | GLP-1 pride-not-shame founder story | [page](https://www.facebook.com/ads/library/?view_all_page_id=901472963049037) |
+| **Orgatics "Intertrigo Reset"** | 582 (of ~10k) | 24-page empire | ▲ mature | ~100% image advertorial | oral softgel | "fix the fold from the inside," fake nurses | [page](https://www.facebook.com/ads/library/?view_all_page_id=943922942142999) |
+| **Lume** | 369 + 32 | 2 | mature whale | video + DCO + UGC | whole-body deodorant | names the folds out loud, 72-hr, offer stack | [page](https://www.facebook.com/ads/library/?view_all_page_id=1968343433393769) |
+| **Megababe** | 86 | 1 | steady evergreen | DCO + UGC video | anti-chafe stick/gel | "glides on, barrier, 15,000 chafe-free steps" | [page](https://www.facebook.com/ads/library/?view_all_page_id=431572493888276) |
+| **DermaSoothX** | 31 | 1 | ▲▲ +23 ads/wk | 85% image | barrier cream | "repair the barrier, not a hygiene problem" | [page](https://www.facebook.com/ads/library/?view_all_page_id=115876568144956) |
+| **Fresh "Fresh Breasts"** | ~14 | 1 | flat | image + Amazon | anti-chafe lotion-to-powder | "#boobsweat #swampboob, no talc" | [page](https://www.facebook.com/ads/library/?view_all_page_id=106040329225847) |
+| **Lupina** | ~12 (cooled) | 2 | ▼ paused | even video/image | fold cream | "made for folds / 3 root causes" | [page](https://www.facebook.com/ads/library/?view_all_page_id=618118478057388) |
+
+**Structural pattern every direct player uses:** one operation = a **cluster of pages** — a brand page + "publisher" fronts (Real Talk Wellness, Her Health Hub, Healthy Living Digest) + named **fake-persona / fake-doctor pages** (Barbara Collins 1,202 ads, Nancy Anderson, Sandra Mitchell, Dr. Emily Thompson, Caroline Moore, Dr. Michael Harrington). New aged pages get spun up ~monthly and loaded with the proven creatives.
 
 ---
 
-## 1. THE MARKET MAP (who's running what, right now)
-The niche is **bigger and more scaled than the Step-1 brain snapshot said.** Every direct player runs a **cluster** of pages: a brand page + advertorial "publisher" fronts (Healthy Living Digest, Real Talk Wellness, Her Health Hub) + **fake-persona/fake-doctor pages** (Barbara Collins 1,202 ads, Dr. Emily Thompson, Caroline Moore, Dr. Michael Harrington). That cluster model = the funnel-splitting + fake-authority playbook the brain predicted — and it's exactly what our honest brand is built against.
+## 2. THE MOST-PROVEN ADS (longest-running + most-cloned = the controls)
+Study these first. Click to view each.
 
-| Competitor | Live US ads (cluster) | Trend | Format mix | Product / lane | Threat to us |
-|---|---|---|---|---|---|
-| **Healora** (control) | ~2,762 / 7 pages | **GROWING** (new funnel domains, male variant, UK) | **~82% image** / 18% video | Fold cream, medical "kill yeast → dry to powder" | High — owns the proven hooks (all medical) |
-| **Clairon** | ~1,311 / 5 pages | **Scaling hard** (serial page rotation) | ~65% image / 35% video | Fold cream clone; women under-breast + men "CycleBreak" | High — same buyer, scaling into her now |
-| **Veloma** | ~2,600 / 14 pages | Mature men + **fast new push into WOMEN** | **~58% video** / 37% image | Antifungal SOAP; 95% men, but newest front = under-boob + fake-doctor/sepsis | Medium-High — invading our exact avatar with fear |
-| **Orgatics "Intertrigo Reset"** | 582 (of ~10k cross-condition) | Mature | ~100% image advertorial | ORAL softgel, "fix the fold from inside" | Low-Med — different format (pill), fake nurses |
-| **DermaSoothX** | 31 | **Scaling fast (+23/wk)** | ~85% image | Barrier-repair cream, de-shame angle | Watch — closest *tone* to us (but still claims "clinically relieves") |
-| **Lupina** | ~12 (cooled from 31) | Paused/choppy | even video/image | Fold cream, "3 root causes / made for folds" | Low now — proven concept that stalled |
-| **Ionix Labs** (ADJACENT) | 1,334, **~doubled in a quarter** | **Scaling hard** | **~95% video** | GLP-1 loose-skin *leggings* (garment) | Not a competitor — but maps the biggest OPEN avatar (see §9) |
-| **COMFORT LANE** — Lume (369+32), Megababe (86), Fresh "Fresh Breasts" (14) | — | Lume whale; Fresh Breasts tiny | **VIDEO/UGC-dominant** | Anti-chafe / fold comfort, **fully compliant** | **Our actual lane + our template** |
-
-**The one-sentence read:** the DIRECT niche is huge and proven but runs almost entirely on claims **we are legally barred from** (antifungal / dry-to-powder / cure / fake doctors / fake scarcity). The COMFORT lane proves the **same body geography + same pain sells 100% compliantly** with barrier/comfort language — and it's where the honest, zero-shame, fold-specific identity is **wide open**.
-
----
-
-## 2. THE STRATEGIC FINDING (what this means for our creative)
-**ProudFold's winning formula = COMFORT-LANE formats + COMPLIANT comfort/barrier claims + the DIRECT niche's audience intensity & fold-specific pain + the honest/zero-shame identity the whole category leaves open.**
-
-- Do **not** try to out-mechanism the control. Its 264-day hook ("kills yeast → dries to a powder") is a claim we can't and won't make. Copying it = dead account + a lie.
-- **Do** take the proven *hook structures* (problem-callout, "made for folds not borrowed," category-contrast, confession) and run them with comfort claims.
-- **Do** steal the comfort lane's *formats* (UGC barrier-demo, zero-shame confession, fold-map enumeration) — they're proven AND already compliant.
-- **Our moat is the posture:** every competitor is the thing Dawn is sick of (fake nurse, fake countdown, "it's a disease, be scared," sub-trap). We are the opposite, out loud. That contrast is a net-new angle **nobody in the niche can run** (it would indict their whole model).
+| Rank signal | Advertiser | Format | Hook (verbatim) | 👁️ See it |
+|---|---|---|---|---|
+| **264 days** (longest in niche) | Healora | image | "Still dealing with painful skin fold rash? Get 50% off the solution today" | [view](https://www.facebook.com/ads/library/?id=3336578013212268) |
+| 199 days | Veloma | video | "I've spent 16 years helping men beat chronic jock itch." | [view](https://www.facebook.com/ads/library/?id=1389748865856521) |
+| 197 days | Veloma | video | "You've tried the creams. The sprays. The messy powders. So why is it still coming back?" | [view](https://www.facebook.com/ads/library/?id=1477105807243842) |
+| 237 days | Healora | image | "I'm looking at $47,000 worth of inventory in our warehouse right now." | [view](https://www.facebook.com/ads/library/?id=1766821448082055) |
+| 146 days | Veloma | image | "After 1 year of jock itch hell… the fungus builds invisible shields. Like bulletproof armor." | [view](https://www.facebook.com/ads/library/?id=1451962010063767) |
+| 140 days | Veloma | video | "Ladies, can we talk about under-boob rash for a second? 😭" | [view](https://www.facebook.com/ads/library/?id=938409122575836) |
+| top spend ($715 est rev) | Clairon | video | "Grandma, you smell funny." (Sunday-lunch shame VSL) | [view](https://www.facebook.com/ads/library/?id=1393570802826283) |
+| ~1 yr evergreen | Megababe | video | "You are too cute to chafe under that sweater dress! …1,000+ 5-star reviews 🙌" | [view](https://www.facebook.com/ads/library/?id=1583307435936135) |
+| scaling leader | Ionix | video | "I lost 100 lbs, but nobody warned me about the loose skin." | [view](https://www.facebook.com/ads/library/?id=1306614781328072) |
 
 ---
 
-## 3. COMPETITOR SWIPE FILE (the proven, long-running creatives — links)
-Meta ad-library link = `https://www.facebook.com/ads/library/?id=<ID>`. These are the ones worth studying before scripting. ⛔ = built on claims we can't copy (study structure only).
+## 3. WINNING ANGLES — ranked by how hard the niche runs them
+Each: who runs it, verbatim hook, and a link to see it.
 
-**Direct cream brands**
-- ⭐ **Healora control — 264 days (longest in niche).** Static image, hook *"Still dealing with painful skin fold rash? Get 50% off the solution today."* id `3336578013212268` (also `27711392918476785`, `1549848069954610`). ⛔ desc = kills yeast + dries to powder.
-- **Healora "empty our warehouse" founder advertorial** (fake overstock + origin story), 80–131d, id `1766821448082055`. ⛔ fake clearance.
-- **Healora "prices go up in 3 days" founder letter** (manufactured urgency), 41d, ids `1856209018749590`, `854356374338030`. ⛔ fake urgency.
-- **Healora comparison video** *"Deodorant Max vs Healora Heals… your folds deserve skincare too,"* id `2517032658716139`. ⛔ "instantly dries to a powder, kills the fungus." (Steal only the "made for folds, not armpits" + "your folds deserve [comfort] too" beats.)
-- **Clairon women VSL** *"A Folded Tissue Under Each Breast"* / *"Grandma, You Smell Funny"* (emotional odor-shame short films, funnel-wuk). ⛔ odor-shame + "dries to a powder." Study the emotional arc only.
-- **Clairon men VSL** *"Bought Clairon For Jock Itch? You Got Scammed… here's where I lied."* ⛔ fake confession + fake clearance.
+**1. "It keeps coming back → here's the hidden reason" (mechanism-education). THE dominant angle.** Healora, Clairon, Veloma, Lupina, DermaSoothX.
+- Clairon: *"Powder, prescription creams, antifungals. They all calmed it for a week, then it came back in the same fold. That is not bad luck, and it is not your hygiene… Clairon works on the fold itself."* [► see](https://www.facebook.com/ads/library/?id=2276749602894078)
+- Lupina: *"It's three things at once — trapped moisture, skin rubbing, and overgrowth feeding off both… That's a targeting failure."* [► see](https://www.facebook.com/ads/library/?id=992564619829630)
+- DermaSoothX: *"Your skin barrier is breaking down. That's why the itch keeps coming back. Most creams give you an hour of relief. Then it's back."* [► see](https://www.facebook.com/ads/library/?view_all_page_id=115876568144956)
 
-**Veloma (video-first; the women push is the collision with us)**
-- ⭐ **Veloma women two-friends UGC skit** *"Ladies, can we talk about under-boob rash for a second? 😭"* id `938409122575836`, 140d — **closest to our audience.** Contains the gold **powder-paste wedge** (*"talcum powder… the humidity turned it into a sticky paste… once you start sweating they cake up in the fold"*). ⛔ payoff is candida/antifungal — stop before that.
-- **Veloma "16 years helping women overcome skin fold rash,"** id `2275120106600267` (newest women front). ⛔ expert-persona + antifungal.
-- **Veloma fake-doctor sepsis** *"I got sepsis at 41. It started as a rash under my bra,"* id `1593886659085537`; 4-stage progression id `2887593004907684`. ⛔⛔ fear-ladder + fake doctor — exactly what we counter-position against.
+**2. Problem-callout + discount (the workhorse static).** Healora's 264-day control. [► see](https://www.facebook.com/ads/library/?id=3336578013212268)
+- *"Still dealing with painful skin fold rash? Get 50% off the solution today."*
 
-**Other direct / adjacent**
-- **Lupina VSL** *"Three years of powders that turned to paste… it's three things at once: trapped moisture, skin rubbing, fungal overgrowth,"* id `992564619829630`. Steal the "made FOR folds / targeting-failure" frame + "no grease/residue/stain" reassurance; ⛔ drop the fungal third + "$500–1,000 dermatologist" anchor.
-- **DermaSoothX de-shame static** *"…caused by dryness, friction, or a disrupted skin barrier — not a lack of hygiene."* On-brand tone. ⛔ but its PDP claims "clinically relieves."
-- ⭐ **Ionix founder origin video** (GLP-1 loose-skin, pride-not-shame) *"I lost 100 lbs, nobody warned me about loose skin… creams fail because they sit on the surface… I made this for you,"* id `1306614781328072`. Tonal template for our 45–62 avatar.
+**3. "Made for folds, on purpose — not borrowed from a baby/foot/the pharmacy."** Healora, Clairon, Lupina.
+- Clairon: *"Discover the only cream built specifically for skin fold rash."* [► see](https://www.facebook.com/ads/library/?id=2385701228838387)
 
-**Comfort lane (our template — all compliant)**
-- ⭐ **Megababe Thigh Rescue UGC demo** *"a clear, lightweight gel that glides on smooth and dries fast… protecting everything that rubs."* Page `431572493888276`. **Verbatim-usable vocabulary.**
-- **Megababe quantified-barrier static** *"glides on clear, creates a barrier good for 15,000 chafe-free steps."*
-- **Megababe Bust Dust confession** *"Come get ready with me for our first date as a sweaty girl. I used to stuff tissue in my bra…"* (confession format; re-cast older for Dawn).
-- ⭐ **Lume fold-map enumeration** *"…control odor and sweat under your boobs, in your thigh folds, around your vulva, on your feet… your boobs will thank you."* Page `1968343433393769`. Names the geography out loud (drop the shock words for Dawn).
-- **Fresh "Fresh Breasts"** *"Anti-Chafe Cream for Women, Inner Thighs & Areas that Sweat, No Talc"* — page `106040329225847`. **Near-identical product, tiny & image/Amazon-only = demand we can own on Meta with video.**
+**4. "You've tried everything" failure-stack.** Veloma, Lupina, Clairon, Orgatics.
+- Veloma: *"You've tried Lotrimin. Lamisil. Powders. Prescriptions. Maybe even prescribed steroids…"* [► see](https://www.facebook.com/ads/library/?id=1477105807243842)
+- **Most-repeated concrete detail in the whole niche: powder → paste.** Veloma women skit: *"I used talcum powder… the humidity turned it into a sticky paste… once you start sweating they cake up in the fold."* [► see](https://www.facebook.com/ads/library/?id=938409122575836)
 
----
+**5. Misdiagnosis reframe — "that's not chafing, it's ___."** Veloma + Clairon.
+- Veloma: *"That itchy, burning skin isn't chafing… It's a contagious fungal infection."* [► see](https://www.facebook.com/ads/library/?id=2110820292791616)
+- Clairon: *"It's Not Hygiene. It's Yeast."* [► see](https://www.facebook.com/ads/library/?id=1763557858095501)
 
-## 4. WINNING ANGLES — RANKED, with WHY for Dawn + compliant build
-Ranked by (proven-in-niche × fit-for-Dawn × compliance headroom). Every one below is sayable in the barrier/comfort lane.
+**6. Fake / manufactured urgency + clearance (very heavily run).** Healora, Clairon, Veloma.
+- Healora: *"I'm looking at $47,000 of inventory in our warehouse… help us empty our warehouse."* [► see](https://www.facebook.com/ads/library/?id=1766821448082055)
+- Healora: *"In 3 days we are raising our prices… never coming back… no Black Friday version."* [► see](https://www.facebook.com/ads/library/?id=1856209018749590)
+- Clairon: *"🚨 CLAIRON WAREHOUSE CLEAROUT… buy 2, get the 3rd free. Once the last packs are gone, the offer ends."* [► see](https://www.facebook.com/ads/library/?id=4319601864996368)
 
-1. **"Made for folds — on purpose. Not borrowed from a baby, a foot, or the pharmacy aisle."**
-   *Proof:* Healora, Clairon AND Lupina all run this as their strongest *honest* line; it's also ProudFold's locked positioning. *Why Dawn:* her #1 wound is "nobody made this for a body like mine." Instant "this is FOR me." *Compliant:* it's a design-intent claim, not a disease claim. **This is our hero angle — ours by right and proven across the niche.**
+**7. Fake authority — nurse / doctor persona.** Healora, Orgatics, Veloma, Ionix.
+- Orgatics: *"I'm Caroline Moore. I've been a wound-care nurse for 22 years. Please don't buy these softgels."* [► see](https://www.facebook.com/ads/library/?view_all_page_id=943922942142999)
+- Veloma fake-doctor 4-stage: *"Four warning signs a fungal infection is hiding in your skin folds…"* [► see](https://www.facebook.com/ads/library/?id=2887593004907684)
 
-2. **Category-contrast / "here's why nothing's worked" (the powder-paste wedge).**
-   *Proof:* Healora, Clairon, Veloma (`938409122575836`), Lupina — the single most-cloned structure in the niche. *Why Dawn:* she's tried everything; this explains the *failure* without blaming her. *Compliant build:* "Powder cakes into paste by lunch. Diaper cream's made for babies. Deodorant just sits there. None of them is a **barrier made for the fold** — so the rubbing comes right back." Land on friction/moisture + barrier, **never** "they don't kill the yeast."
+**8. Zero-shame / emotional confession story (women).** Clairon, Veloma, Healora, Megababe.
+- Clairon "Grandma, you smell funny" VSL (top-spend women's video). [► see](https://www.facebook.com/ads/library/?id=1393570802826283)
+- Veloma "frozen in the living room / granddaughter" image. [► see](https://www.facebook.com/ads/library/?id=1895093557819441)
+- Megababe Bust Dust: *"Come get ready with me for our first date as a sweaty girl. I used to stuff tissue in my bra."* [► see](https://www.facebook.com/ads/library/?id=7852295908139262)
 
-3. **Problem-callout → relief (the felt experience).**
-   *Proof:* Healora's 264-day control is this exact shape. *Why Dawn:* stops the scroll on her lived reality. *Compliant build:* "Raw, stinging chafe where your skin folds rub by midday?" Reach by **situation** (summer heat, long shift, all-day wear), sell **comfort/cooling/all-day barrier** — never "do you have intertrigo?" and no graphic skin.
+**9. Name the body-map out loud (fold enumeration).** Lume's signature.
+- *"…control odor and sweat under your boobs, in your thigh folds, around your vulva, on your feet… Your boobs will thank you."* [► see Lume's ads](https://www.facebook.com/ads/library/?view_all_page_id=1968343433393769)
 
-4. **Zero-shame confession / storytime (first-person, re-cast 45–58).**
-   *Proof:* Megababe Bust Dust, Healora "paper towels under the bra," Clairon/Veloma emotional VSLs. *Why Dawn:* she's suffered this silently for years; the normalization IS the emotional payload. *Compliant build:* "I used to dread summer — dresses meant raw inner thighs by lunch, and nobody tells you under-bust chafe is even a thing." **Keep dignity, strip all odor-shame.**
+**10. "Wear the dress / live your life" outcome.** Megababe, Thigh Society (2+ yr evergreen).
+- Megababe: *"You are too cute to chafe under that sweater dress."* [► see](https://www.facebook.com/ads/library/?id=1583307435936135)
 
-5. **Fold-map enumeration (name the geography out loud).**
-   *Proof:* Lume's signature move. *Why Dawn:* nobody says her exact map — under-bust, where the belly folds, inner thigh, groin. Naming it = "made for folds, on purpose," demonstrated. *Compliant:* pure body-geography + comfort. **Flag:** keep it blunt-but-dignified (drop Lume's shock words / 20-something cheek).
+**11. Founder origin story (pride-not-shame).** Ionix engine; Healora fake version.
+- Ionix: *"I lost 100 lbs… creams failed because they sit on the surface… I made these for you."* [► see](https://www.facebook.com/ads/library/?id=1306614781328072)
 
-6. **Honest anti-scam / "no games" (the pure differentiator).**
-   *Proof:* the *inverse* of the whole niche — fake clearance (Healora $47k warehouse), fake countdowns, fake nurses (Caroline Moore / Dr. Emily Thompson), sub-traps are everywhere. Nobody runs the honest version because they're all the scammers. *Why Dawn:* she's burned by exactly these. *Compliant build:* "No fake countdown. No fake nurse. No subscription trap. One real person and a barrier made for folds." **A moat the competitors structurally cannot copy.**
+**12. Sub-avatar targeting (diabetic / age / GLP-1).**
+- Clairon diabetic explainer (34 days). [► see](https://www.facebook.com/ads/library/?id=943716164899492)
+- Ionix GLP-1 loose-skin (biggest-scaling adjacent). [► see](https://www.facebook.com/ads/library/?id=895517903364626)
 
-**Supporting tones (fold into the above, not standalone):**
-- **Honest founder origin** (Ionix template, made REAL): "I'm plus-size, I was tired of the chafe and the shame-in-a-tube products, so I made the honest one." David-vs-Goliath.
-- **De-shame reframe:** "It's not hygiene. It's friction — and it's not your fault." (Belief-chain #1.) The honest twin of Clairon/Veloma's "it's not hygiene, it's YEAST."
-- **"Wear the dress / live your day" outcome:** "Wear the sundress. Walk the whole fair. Hold the grandkids. No raw patches." (Thigh Society/Megababe evergreen proof.)
+**13. "You got scammed" / anti-scam pattern-interrupt (Clairon men).** *"If you bought Clairon for your jock itch, you got scammed."* (captured in the Clairon teardown; runs on the Relief page) [► see page](https://www.facebook.com/ads/library/?view_all_page_id=954916517700024)
 
 ---
 
-## 5. WINNING FORMATS — video + image (what's actually working)
-**Format verdict:** the **medical cream brands are image/advertorial-dominant** (Healora 82%, Clairon 65%, Orgatics ~100%) because their sell is a long medical argument. The **clean comfort brands + the whole anti-chafe category are VIDEO/UGC-dominant** (Veloma 58%, anti-chafe keyword scans ~60–65%, Ionix ~95%). Dawn is 45–62 on Facebook, which consumes **both** static advertorials and simple video well. → **We run video-first for prospecting + static advertorial as a co-primary** (our control proves static scales to 264 days on this exact buyer), with DCO/static for retargeting. **We do NOT need a high-production pipeline to start** — the proven formats are phone-shot UGC and plain headline cards.
-
-### Best VIDEO formats (ranked, all adaptable compliant)
-1. **UGC demo + barrier/glide physics** ★ — real woman, phone camera, swipes it on, states the physics: "glides on, creates a barrier that stays put, protects everything that rubs." (Megababe.) *The core clean-comfort format; verbatim-usable language.*
-2. **Zero-shame confession / storytime** ★ — embarrassing admission → normalize → the fix. (Megababe Bust Dust, Healora.) Re-cast to Dawn's life.
-3. **Fold-map enumeration + offer** — name the body map, then the offer, cheeky-but-dignified close. (Lume.)
-4. **Problem → comfort "wear-the-dress"** — sells the life outcome, not the ingredient. (Thigh Society/Megababe, 2+ yr runtimes = durable.)
-5. **Honest founder origin** — pride-not-shame, "I built this for us." (Ionix template, made real.)
-6. **Comparison "you're doing it wrong"** — "made for folds, not armpits/babies/feet." (Healora video; keep the contrast, drop the fungal payoff.)
-   ⛔ *Niche video formats we do NOT touch:* "16-years-expert" medical VO, fake-doctor disease-progression/sepsis, fake "I lied" apology, misdiagnosis "it's a fungal infection."
-
-### Best IMAGE / STATIC formats (ranked)
-1. **Problem-callout headline card + offer** — the 264-day control's format (felt-experience headline, reframed to comfort).
-2. **Long-form story advertorial image** — founder/customer story as the pre-sell thumbnail. (Our funnel's advertorial is third-person editorial — see §9.)
-3. **"Made for folds, not repurposed" category-contrast card.**
-4. **Quantified-barrier product-on-clean-bg** — "a barrier that stays put all day" / Megababe's "15,000 chafe-free steps" pattern (use a true number only).
-5. **Occasion / seasonal static** — "first heat wave," "summer-dress season," "travel day." Cheap, strong retargeting (mirror Megababe's DCO-heavy always-on).
-6. **Review / social-proof card** — build once we have real reviews.
-   ⛔ *Static formats we do NOT touch:* fake-news "Dermatologists found a remedy," symptom-checklist "does this match you?", fake clearance/overstock, inflated/contradictory review counts.
+## 4. HOOK SWIPE — the first lines stopping the scroll (verbatim)
+- "Still dealing with painful skin fold rash? Get 50% off the solution today"
+- "Why It Keeps Coming Back In The Same Fold"
+- "Ladies, can we talk about under-boob rash for a second? 😭"
+- "You've tried the creams. The sprays. The messy powders. So why is it still coming back?"
+- "That's not chafing. It's a contagious fungal infection."
+- "It's Not Hygiene. It's Yeast."
+- "Grandma, you smell funny."
+- "I used talcum powder… the humidity turned it into a sticky paste under my skin."
+- "I'm looking at $47,000 of inventory in our warehouse right now."
+- "In 3 days we are raising our prices. It will never be this price again."
+- "If you bought [X] for your rash, you got scammed."
+- "Come get ready with me for our first date as a sweaty girl."
+- "$15 for deodorant plus shipping? Wrong."
+- "You are too cute to chafe under that sweater dress."
+- "I lost 100 lbs, but nobody warned me about the loose skin."
+- "Please don't buy these softgels." (reverse psychology)
+- "Hot Girl Summer is ending, but Hot Girl Autumn is just beginning."
 
 ---
 
-## 6. TARGET ANGLES TO TEST (the shortlist → hand to scripting)
-Six lead angles. Each gets scripted as **1 UGC/video + 1 static/advertorial headline** so we test the message across both formats. Launch wave = 5 of the 6 (hold #6 anti-scam as the retarget/brand layer OR swap it in if a lead angle dies).
+## 5. WINNING VIDEO FORMATS — ranked, with scripts + links to watch
+Video dominates the clean comfort brands + Veloma + Ionix (58–95% of their mix).
 
-| # | Angle | Lead format | Why it's in the test |
+**A. UGC demo + barrier/glide physics** (most on-lens for a fold cream).
+- Megababe Thigh Rescue Gel: *"…a clear, lightweight gel that glides on smooth and dries fast… protecting everything that rubs."* [▶ watch](https://www.facebook.com/ads/library/?id=946169165228595)
+- Megababe Blister & Heel: *"a grippy swipe-on stick that creates an invisible barrier to protect my feet from rubbing."* [▶ watch](https://www.facebook.com/ads/library/?id=4211895259101447)
+
+**B. Two-friends / dialogue UGC skit (women, under-boob).** Veloma, 140 days — closest to our audience. Date cut short by under-boob flare → powder-paste reveal → product → relief. [▶ watch](https://www.facebook.com/ads/library/?id=938409122575836)
+
+**C. "16-years-expert" VO advertorial (Veloma workhorse).** 199 days. Disease-reframe hook → "what your doctor never told you" → mechanism → offer; gender-swapped men↔women. [▶ watch](https://www.facebook.com/ads/library/?id=1389748865856521)
+
+**D. Confession / GRWM storytime.** Megababe Bust Dust: *"…our first date as a sweaty girl. I used to stuff tissue in my bra."* [▶ watch](https://www.facebook.com/ads/library/?id=7852295908139262) · Clairon "Grandma, you smell funny" (long emotional VSL, top spend). [▶ watch](https://www.facebook.com/ads/library/?id=1393570802826283)
+
+**E. Fold-map enumeration + offer (Lume).** Price-objection open → names the folds → offer stack → cheeky close. [▶ see Lume](https://www.facebook.com/ads/library/?view_all_page_id=1968343433393769)
+
+**F. Founder origin story (Ionix).** *"I worked so hard to lose 100 lbs, but nobody warned me about the loose skin… I made these for you."* [▶ watch](https://www.facebook.com/ads/library/?id=1306614781328072)
+
+**G. Comparison "you're doing it wrong" (Healora).** *"One was made for armpits, one for skin folds… your folds deserve skincare too."* [▶ watch](https://www.facebook.com/ads/library/?id=2517032658716139)
+
+**H. Fake-live comment-reply scarcity (Healora).** 233-day video: *"The sale ends… not tomorrow, not next week — today. Last chance at $16.60 a tube."* [▶ watch](https://www.facebook.com/ads/library/?id=2115649515886333)
+
+**I. Fake-doctor disease-progression / fear-ladder (Veloma, newest women front).** 4 escalating stages → sepsis → mechanism. [▶ watch](https://www.facebook.com/ads/library/?id=2887593004907684)
+
+**J. Week-by-week "inside your body" mechanism (Orgatics).** Weekly timeline → "only brand that combines both" → discount. [▶ watch](https://www.facebook.com/ads/library/?id=1617371643425637)
+
+**K. Offer/urgency video (Clairon).** *"🚨 Insane sale… goes on like a cream, dries down like a powder… when a batch is gone it's gone for months."* [▶ watch](https://www.facebook.com/ads/library/?id=2385701228838387)
+
+**L. Anti-steroid rebuttal VSL (DermaSoothX).** *"Hydrocortisone thins the skin… we repair the barrier instead of suppressing."* [▶ watch](https://www.facebook.com/ads/library/?id=990131686751770)
+
+**Recurring video spine:** Hook (confession / taboo name / misdiagnosis / price-objection) in 0–3s → agitate "why nothing worked" → mechanism → product as the only purpose-built fix → urgency/identity CTA. 15–30s UGC for comfort brands; 60–135s VSL for the story/medical advertorials.
+
+---
+
+## 6. WINNING IMAGE / STATIC FORMATS — ranked, with links to view
+1. **Problem-callout headline card + offer** — the 264-day control. [👁️ view](https://www.facebook.com/ads/library/?id=3336578013212268)
+2. **Long-form story advertorial image** — Healora "$47k warehouse" founder story. [👁️ view](https://www.facebook.com/ads/library/?id=1766821448082055) · Clairon "Dermatologists found a remedy… this article explains" fake-news advertorial. [👁️ view](https://www.facebook.com/ads/library/?id=1039058425820153)
+3. **"Made for folds, not repurposed" / mechanism card** — Clairon "Why It Keeps Coming Back In The Same Fold." [👁️ view](https://www.facebook.com/ads/library/?id=2276749602894078)
+4. **Quantified-barrier product-on-clean-bg** — Megababe "glides on clear, a barrier good for 15,000 chafe-free steps." [👁️ view](https://www.facebook.com/ads/library/?id=1466093857762785)
+5. **Occasion / seasonal static** — Megababe "Theme park days mean walking… swipe it on, then go ride everything twice." [👁️ view](https://www.facebook.com/ads/library/?id=2148397099436608)
+6. **Review / social-proof static** — Megababe "#1 For a Reason… 15,000+ 5-star reviews" [👁️ view](https://www.facebook.com/ads/library/?id=2075365973348778) · Blade Bar single-quote testimonial "-Paloma" [👁️ view](https://www.facebook.com/ads/library/?id=1565172555383811)
+7. **Taboo visual + emoji** — Megababe Bust Dust "( • )( • )". [👁️ view](https://www.facebook.com/ads/library/?id=7852295908139262)
+8. **Offer/scarcity static** — Clairon "Halloween Sale: Buy 1 Get 1 Free" [👁️ view](https://www.facebook.com/ads/library/?id=1419698626904553) · "Warehouse Clearout 3-for-2" [👁️ view](https://www.facebook.com/ads/library/?id=4319601864996368)
+9. **Ingredient / "what's in it" deck** — Veloma "bulletproof armor" biofilm image. [👁️ view](https://www.facebook.com/ads/library/?id=1451962010063767)
+
+**Video vs image, bluntly:** medical cream/oral brands (Healora 82%, Clairon 65%, Orgatics ~100%) win on **static advertorials**. Clean comfort brands + Veloma + Ionix win on **video/UGC** (58–95%). The 45–62 FB buyer consumes both.
+
+---
+
+## 7. OFFERS & FUNNELS THAT ARE WORKING
+- **Price:** $29.95 single / $49.95 3-pack = proven anchor (Healora). Clairon BOGO/Buy-2-Get-1 at ~$39.99. Comfort lane lower ($14–30).
+- **Guarantee ladder:** 30-day (Veloma) < 60-day (Lume) < 90-day (Healora ads/Orgatics) < 100-day (Clairon) < 365-day (Healora site).
+- **Subscription:** Healora pre-selects autoship (+gift stack, "80% choose monthly"); Megababe/Lume modest "subscribe at the button ~14%, cancel anytime"; Clairon runs **no** sub (pure first-order AOV).
+- **Free-gift stacks:** Healora ebook + travel tube + free-ship-forever; Veloma tiered "locked" gift ladder; Lume "free mini that preps skin so it works better."
+- **Funnels:** (1) **ad → advertorial/listicle → product page** (Healora `offer.tryhealora.com/adv/…`, Veloma `/pages/listicle_1`, Clairon `funnel-wus/wca/men`, Orgatics `/pages/intertrigo-3`) and (2) **ad → direct product page** (comfort brands + retargeting). Medical players = advertorial-first; comfort brands = DTP + UGC.
+- **Cart:** $40 free-ship gate just above single price (forces a bundle); cheap bumps (travel mini, anti-chafe stick, wipes); 1-click 2nd-tube upsell.
+
+---
+
+## 8. 👁️ VISUAL SWIPE BOARD — click to see every ad
+Each link opens the live creative in Meta's Ad Library (image renders; video plays). Grouped so you can scan by format.
+
+### 📹 VIDEO winners
+| Brand | Format | Hook | Watch |
 |---|---|---|---|
-| A | **Made for folds, on purpose** | static card + UGC | Hero / our positioning, proven across niche |
-| B | **Powder-paste category-contrast** ("why nothing worked") | UGC demo | Most-cloned structure in niche; most liftable compliant wedge |
-| C | **Problem-callout → relief** (felt experience, situation-based) | static headline + UGC | The control's 264-day shape, de-risked to comfort |
-| D | **Zero-shame confession** (re-cast 45–58) | UGC storytime | Emotional hook; our zero-shame core |
-| E | **Fold-map enumeration** | UGC / static | Differentiation — names her exact geography |
-| F | **Honest anti-scam "no games"** | static + founder UGC | Pure moat; nobody else can run it |
+| Megababe | UGC demo (glide/barrier) | "glides on smooth and dries fast… protecting everything that rubs" | [▶](https://www.facebook.com/ads/library/?id=946169165228595) |
+| Megababe | UGC barrier demo | "an invisible barrier to protect my feet from rubbing" | [▶](https://www.facebook.com/ads/library/?id=4211895259101447) |
+| Megababe | Confession/GRWM | Bust Dust "first date as a sweaty girl… stuff tissue in my bra" | [▶](https://www.facebook.com/ads/library/?id=7852295908139262) |
+| Megababe | Wear-the-dress | "too cute to chafe under that sweater dress" | [▶](https://www.facebook.com/ads/library/?id=1583307435936135) |
+| Megababe | Chafe outcome | Thigh Rescue Gel "wear the dresses, ditch the chafe" | [▶](https://www.facebook.com/ads/library/?id=946169165228595) |
+| Veloma | Two-friends skit (women) | "under-boob rash… turned to a sticky paste" | [▶](https://www.facebook.com/ads/library/?id=938409122575836) |
+| Veloma | 16-yrs-expert VO | "I've spent 16 years helping men beat chronic jock itch" | [▶](https://www.facebook.com/ads/library/?id=1389748865856521) |
+| Veloma | Failure-stack / "I lied" | "You've tried the creams, sprays, powders…" | [▶](https://www.facebook.com/ads/library/?id=1477105807243842) |
+| Veloma | Misdiagnosis reframe | "that's not chafing — it's a contagious fungal infection" | [▶](https://www.facebook.com/ads/library/?id=2110820292791616) |
+| Veloma | Fake-doctor fear-ladder | "4 warning signs a fungal infection is hiding in your folds" | [▶](https://www.facebook.com/ads/library/?id=2887593004907684) |
+| Clairon | Odor-shame VSL (top spend) | "Grandma, you smell funny" | [▶](https://www.facebook.com/ads/library/?id=1393570802826283) |
+| Clairon | Offer/urgency | "Insane sale… dries down like a powder… batch is gone for months" | [▶](https://www.facebook.com/ads/library/?id=2385701228838387) |
+| Clairon | Diabetic explainer | "Diabetic Skin Folds: why it keeps coming back" | [▶](https://www.facebook.com/ads/library/?id=943716164899492) |
+| Healora | Comparison "you're doing it wrong" | "your folds deserve skincare too" | [▶](https://www.facebook.com/ads/library/?id=2517032658716139) |
+| Healora | Fake-live scarcity | "the sale ends… today. $16.60 a tube" | [▶](https://www.facebook.com/ads/library/?id=2115649515886333) |
+| Ionix | Founder origin (GLP-1) | "I lost 100 lbs… I made these for you" | [▶](https://www.facebook.com/ads/library/?id=1306614781328072) |
+| Ionix | Testimonial (loose skin) | "7 years ago I lost 100 pounds… this actually helped" | [▶](https://www.facebook.com/ads/library/?id=895517903364626) |
+| Orgatics | Week-by-week mechanism | "what happens inside your body for 8 weeks" | [▶](https://www.facebook.com/ads/library/?id=1617371643425637) |
+| DermaSoothX | Anti-steroid rebuttal | "steroids thin the skin… we repair the barrier" | [▶](https://www.facebook.com/ads/library/?id=990131686751770) |
+| Lupina | 3-root-causes VSL | "powders that turned to paste… a targeting failure" | [▶](https://www.facebook.com/ads/library/?id=992564619829630) |
+
+### 🖼️ IMAGE / STATIC winners
+| Brand | Format | Hook | View |
+|---|---|---|---|
+| Healora | Problem-callout + 50% off (264-day control) | "Still dealing with painful skin fold rash?" | [👁️](https://www.facebook.com/ads/library/?id=3336578013212268) |
+| Healora | Overstock founder advertorial | "$47,000 of inventory in our warehouse" | [👁️](https://www.facebook.com/ads/library/?id=1766821448082055) |
+| Healora | Price-increase letter | "In 3 days we are raising our prices" | [👁️](https://www.facebook.com/ads/library/?id=1856209018749590) |
+| Clairon | Fake-news advertorial | "Dermatologists found remedy… this article explains" | [👁️](https://www.facebook.com/ads/library/?id=1039058425820153) |
+| Clairon | Mechanism / "keeps coming back" | "Why It Keeps Coming Back In The Same Fold" | [👁️](https://www.facebook.com/ads/library/?id=2276749602894078) |
+| Clairon | Odor reframe | "It's Not Hygiene. It's Yeast." | [👁️](https://www.facebook.com/ads/library/?id=1763557858095501) |
+| Clairon | Fake clearance offer | "Warehouse Clearout — buy 2 get 3rd free" | [👁️](https://www.facebook.com/ads/library/?id=4319601864996368) |
+| Clairon | Seasonal offer | "Halloween Sale: Buy 1 Get 1 Free" | [👁️](https://www.facebook.com/ads/library/?id=1419698626904553) |
+| Veloma | Biofilm "armor" ingredient | "the fungus builds invisible shields… bulletproof armor" | [👁️](https://www.facebook.com/ads/library/?id=1451962010063767) |
+| Veloma | Emotional shame image | "frozen in the living room… granddaughter ran back to her toys" | [👁️](https://www.facebook.com/ads/library/?id=1895093557819441) |
+| Megababe | Quantified-barrier | "a barrier good for 15,000 chafe-free steps" | [👁️](https://www.facebook.com/ads/library/?id=1466093857762785) |
+| Megababe | Occasion/seasonal | "Theme park days mean walking… swipe it on" | [👁️](https://www.facebook.com/ads/library/?id=2148397099436608) |
+| Megababe | Social proof | "#1 For a Reason… 15,000+ 5-star reviews" | [👁️](https://www.facebook.com/ads/library/?id=2075365973348778) |
+| Megababe | Thigh Rescue DCO (evergreen) | "Vanquish the chafe once and for all" | [👁️](https://www.facebook.com/ads/library/?id=324675477353945) |
+
+> Want more from any brand? Open its page from the §1 table ("page" link) to browse its entire live library.
 
 ---
 
-## 7. AVOID — gets the account killed, or breaks the brand
-**Claims (illegal / Meta-toxic / false for our formula):** antifungal · kills yeast or bacteria · candida · "biofilm" · cures/treats/heals/eliminates intertrigo · **"dries to a powder" / "invisible powder barrier"** (banned AND false — we're a water-based cream) · "clinically proven to relieve [condition]."
-**Targeting:** "Do you have intertrigo / a fungal infection?" · "3 warning signs you have…" · symptom-checklists · "Diabetic and can't stop the itch?" — any condition-diagnosis hook (Meta personal-attributes). Reach by **situation**, let her self-identify.
-**Tactics (break our honest/anti-scam soul + risk FTC/Meta):** fake doctor/nurse personas & fake publisher fronts · fake overstock/clearance ("$47k warehouse," "batch is gone," "code leak") · manufactured price-increase deadlines · fake "I lied" confessions · inflated/contradictory review counts (Clairon's own ads say "15,000+ women" and "8,700 reviews" — self-contradiction we can quietly beat with real, modest, verifiable proof) · named-drug + competitor smears.
-**Imagery/tone:** graphic raw-skin before/after · odor-shame ("you smell") · fear-ladder (sepsis/ICU) · any shaming of her body or size.
+## 9. TOP FORMATS & ANGLES TO SCRIPT (the shortlist → ad-scripting)
+The highest-proven concepts to turn into ProudFold creatives, ranked. Each → script as **1 video + 1 static**.
 
----
+1. **"Made for folds, on purpose"** — the niche's strongest honest line + our positioning. (static card + UGC)
+2. **Powder → paste / "why nothing worked" category-contrast** — the single most-repeated proven detail in the niche. (UGC demo)
+3. **Problem-callout → relief** — the 264-day control shape. (static headline + UGC)
+4. **Zero-shame confession storytime** (re-cast 45–58). (UGC VSL)
+5. **Fold-map enumeration** — name under-bust/belly/inner-thigh/groin out loud. (UGC/static)
+6. **"No games" honest anti-scam** — inverse of the fake-nurse/fake-clearance norm nobody else can run. (static + founder UGC)
+7. **UGC barrier-demo** — "glides on, stays put, protects everything that rubs." (UGC)
+8. **"Wear the dress / live your day" outcome** + **founder origin (pride-not-shame)** as tones.
 
-## 8. THE TEST PLAN (angles → scripts → structure)
-Grounded in: lean budget, Meta-only, a **young account** (survival is constraint #1), the Discovery-Stack funnel (ad → third-person editorial advertorial → PDP, RESEARCH.md §5B), AI-creative tooling on hand, and **no real reviews/creator yet**.
+**Test structure:** Wave 1 = 5 angles × (video + static) ≈ 10 creatives, broad US + situation-based interest sets (plus-size apparel, menopause, caregiving), all → advertorial → PDP; judge hook/CTR first (2–3 days) then CPA vs break-even (~1.36 single / ~1.65 Duo, RESEARCH.md §4). Wave 2 = scale the winning angle with 3–5 hook variants + DCO/static retargeting.
 
-**Scripting station produces (SCRIPTS.md):** 6 angle scripts (A–F), each as a **video script + a static/advertorial headline variant** = **12 creative briefs**. Keep every line in the comfort/barrier lane; write to the editorial advertorial, not a hard pitch.
-
-**Wave 1 — cold test (deliberately compliance-conservative, to season the account):**
-- **~10 creatives live:** 5 angles (A–E) × (1 video + 1 static) each. Hold F (anti-scam) for wave 2 / retarget.
-- **Structure:** 1 campaign, broad US + 2–3 **situation-based** interest sets (plus-size apparel, menopause, caregiving — never "intertrigo"/condition). ABO or simple CBO, modest daily budget split evenly, all creatives → the editorial advertorial → PDP.
-- **Judge in two gates:** (1) **thumbstop/CTR + CPC** first (which hook earns the click) within 2–3 days; (2) **CPA vs break-even ROAS ~1.36 single / ~1.65 Duo** (ECONOMICS in RESEARCH.md §4) once enough spend. Kill losers fast; keep the account clean.
-
-**Wave 2 — scale the winner:**
-- Take the 1–2 winning **angles** and iterate 3–5 **hook variations** each (same angle, new openers). Introduce F (anti-scam) and the founder-origin tone. Layer static/DCO for retargeting the advertorial/PDP viewers.
-
-**Creative production notes for the next stations:**
-- **Video = phone-shot UGC** (real woman 45–58 preferred). We have an AI-creative stack (Higgsfield / ElevenLabs / Canva) to produce AI-UGC/demos while we source a **real plus-size creator** (still an open gap — STATE flags it; sourcing her also unlocks authentic confession + de-shame angles).
-- **Static = headline card + simple advertorial thumbnail.** No fake badges, no fake countdowns.
-- Every creative must survive Meta review on **all three surfaces** (ad, advertorial, PDP) — the lander is reviewed too.
-
----
-
-## 9. OPEN FLAGS / what downstream needs
-1. **Creator gap (unchanged from STATE):** no real plus-size creator yet. Recommend: start AI-UGC + source a real one in parallel; she's the unlock for the confession/de-shame video angles and for real review-proof.
-2. **GLP-1 / post-weight-loss loose-skin chafe = the biggest OPEN adjacent avatar.** Ionix proves it's massive and scaling (1,334 ads, ~doubled in a quarter) on pride-not-shame messaging. We can target it **100% compliantly** as a *comfort/chafe* angle ("lost the weight — now the loose skin folds rub? a barrier that keeps them comfortable"), never as a loose-skin *treatment*. Park for a scale ad-set after launch validates the core plus-size/big-bust avatar.
-3. **Veloma is actively invading our avatar** (newest women/under-boob + fake-doctor push). Our counter is posture, not claims — same pain, opposite stance (honest, zero-shame, "it's friction not a disease"). Move while their women front is still "Testing."
-4. **Funnel alignment:** these angles feed the Discovery Stack. The **ad** sells the emotional truth + the enemy (no product shot, no "do you have," no graphic skin); the **advertorial** (third-person editorial, no fabricated person) carries the "friction not your fault" reframe + second-skin barrier + proof; the **PDP** carries the offer. Scripting + storyboarding should keep the winning ad angle and the advertorial matched (RESEARCH.md §5B: advertorial is written AFTER the ad angle wins).
+**Open leads for downstream:** (a) real plus-size UGC creator still unsourced — AI-UGC (Higgsfield/ElevenLabs) can start now; (b) **GLP-1 / post-weight-loss loose-skin chafe is the biggest open adjacent avatar** (Ionix: 1,334 ads, ~doubled in a quarter) — park for a post-launch ad set.
 
 ---
 
 ## Sources
-WinningHunter Meta ad-library sweep 2026-10-23: `get_store_top_ads` per high-active page + `search_facebook_ads` (image/video splits, longest-running) + ~20 `get_ad_transcript` pulls, across Healora, Clairon, Veloma, Orgatics, DermaSoothX, Lupina, Ionix clusters + the comfort lane (Lume, Megababe, Fresh Body, Thigh Society). Full teardowns: `scratch` → `adresearch/{healora,clairon,veloma,other-direct,comfort-lane}.md`. Grounded in brain/ (01 competition, 02 customer "Dawn", 03 persuasion/compliance, 04 SAY/DON'T, 05 identity) + PRODUCT.md + RESEARCH.md offer/funnel. Compliance line per BRAND.md + brain/msds-composition.md (occlusive comfort/barrier cream; antifungal claim dead at 0.01% undecylenic).
+WinningHunter Meta ad-library sweep 2026-10-23: `get_store_top_ads` per high-active page + `search_facebook_ads` (image/video splits, longest-running) + ~20 `get_ad_transcript` pulls across Healora, Clairon, Veloma, Orgatics, DermaSoothX, Lupina, Ionix + the comfort lane (Lume, Megababe, Fresh Body, Thigh Society). All ad IDs captured live this session. Full teardowns in `scratch` → `adresearch/`. Ad-library links open the real creative; a few comfort-lane brands (Lume, Fresh Breasts) and Clairon's men VSLs are linked at the page level because clean per-ad IDs weren't isolated.
