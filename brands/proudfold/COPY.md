@@ -1086,3 +1086,90 @@ drop-in assets: `scratchpad/PROUDFOLD_QA_REPORT.md` + `scratchpad/compressed/pos
 desktop/tablet (real tubes), certificate before/afters ×3 (portrait, ICP, labels), reviews ×4
 (realistic older plus-size avatars), FAQ ×5, honest offer block (no fake countdown, free playbook,
 60-day, ships US, no sub trap, Linda sign-off), footer disclosures + policy links.
+
+---
+---
+
+# ═══════════════════════════════════════════════════════════════
+# PART 9 — THE OFFER PAGE (homepage / click-through / PDP) PLAN (2026-10-23)
+# ═══════════════════════════════════════════════════════════════
+> Full bulletproof plan: **`brands/proudfold/HOMEPAGE_PLAN.md`** (section-by-section, objection matrix,
+> competitor steals, chief). This P9 is the condensed record. Replaces the raw GemShoes template.
+> Grounded in brain/ + advertorial (Parts 4–5) + Offer v1 (RESEARCH §3) + 2 live competitor teardowns.
+
+## P9.0 · THE JOB
+proudfold.com root = this page (RESEARCH §5B). Serves BOTH streams: **WARM** (off the Linda advertorial →
+just CLOSE, don't restart) and **COLD** (short ad → straight here → install the whole belief chain, then
+close). Dual-duty fix: "case" sections compressed/scannable (warm skims, cold gets full install); offer/
+proof/guarantee convert both. Mechanism + ingredients ARE repeated here (Nikita's call — non-advertorial
+ads can't carry them). **Voice = the BRAND** (blunt/warm/zero-shame, "you" by situation), NOT Linda; reviews
+quoted as proof. **Install B1→B5** (friction-not-fault → everything-borrowed → barrier-stops-rub →
+honest-brand → made-for-me) + the identity flip (afterthought → seen; the name flips shame→pride).
+
+## P9.1 · THE CONVERSION THESIS — honest trust is the weapon
+The template IS our enemy made flesh (fake Dr. Bavlsik, fake APMA/Stanford, "5,369 reviews," "54,000 lives,"
+"9,595 left," "3,421 bought in 24h"). Dawn's been burned by exactly this — her scam alarm is the #1 barrier
+to the button. We do the loud opposite: honest numbers, "what it IS and ISN'T," one-click cancel, ships-US,
+a real person answers. For a burned buyer, radical honesty out-converts fake urgency — and a faceless funnel
+can't copy it. **Every "trust" element is real or it doesn't ship.** Compliance: barrier/soothe/cool/comfort
+only; never cure/antifungal/powder/"do you have…"; no fabrication; "occlusive barrier" not "zinc."
+
+## P9.2 · THE 5 DECISIONS FOR NIKITA
+- **D1 (THE big one) · Proof honesty.** We launch with 0 reviews; template fakes thousands. Can't fabricate.
+  → **(A)** seed real reviews NOW (free tubes to real plus-size women — same hunt as the real creator;
+  critical-path gate before paid scale) · **(B, bridge)** honest substitutes in the proof slots: guarantee +
+  honest-brand + mechanism + VOC as "what women say" (not as our reviews) + **an honest small-panel
+  perception stat** (cheap 30–50-person 2-wk use test, footnoted — Megababe move) · **(C) never fabricate.**
+  Rec: **B now, A in parallel, flip to A on arrival; hold paid scale until ~20 real reviews.**
+- **D2 · Authority section (replaces fake doctor).** Real honest founder/brand-promise section (+ a light
+  honest category line: "what skin nurses have reached for for years"). NO fake doctor/badges. Decide:
+  real founder face/name, or brand-voice version?
+- **D3 · Honest urgency** (replaces fake countdown/"9,595 left"/"3,421 bought): founding-customer launch
+  price ("goes up as we grow") + honest low-stock dot (no number/timer) + genuine ship-cutoff if true. No timers.
+- **D4 · Page voice = brand** (not Linda). Reviews quoted as proof. (Flag to confirm.)
+- **D5 · Sub: Variant A (opt-in sub 25%/15%, one-click cancel) vs B (no sub).** Buy box built opt-in either
+  way (never pre-selected). Rec: A — and make cancel GENUINELY one-click ("the only fold sub you can
+  actually cancel"); Lume's own reviews prove the trap backfires with this exact buyer.
+
+## P9.3 · THE SECTION MAP (KEEP / REBUILD / ADD / KILL vs the GemShoes template)
+Full detail + copy direction in the scratchpad plan. Order top→bottom:
+- **S0** Announcement bar — REBUILD → honest trio (60-Day Keep-It · Ships US · No Sub Trap).
+- **S1** HERO + BUY BOX — REBUILD (PDP core): outcome/identity headline + 1-line clarity + 4 ticks +
+  result-named bundles (Starter $29.95 / **Duo $49.95 MOST POPULAR** / Supply $64.95, compare-at anchors,
+  opt-in sub) + terracotta ATC. **Under the button:** trust row (guarantee·US·no-trap·fragrance-free) + **2
+  embedded objection-killer reviews** (scam + sensitive-skin). KILL all shoe leftovers (Orthotic Insoles,
+  Size guide, True-to-size, Doctor-Recommended Shoes, Wear Test, fake stock/bought counts). Clarify "50g ≈ 30 days."
+- **S2** Recognition/de-shame — ADD [COLD] · B1 · negative future-pace.
+- **S3** Why it keeps happening (problem mechanism) — REBUILD · B1 · anatomical diagram asset · "the rash isn't the problem, the rubbing is."
+- **S4** "Everything you tried was borrowed" graveyard — ADD [COLD] · B2 · the 5-way teardown (steal #1, high-leverage, comfort-framed).
+- **S5** Meet ProudFold + mechanism (UMS) — REBUILD · B3 · "second skin" · MECHANISM video.
+- **S6** How it works (4 callouts) — REBUILD · barrier/soothe/cool/stays-put.
+- **S7** FUTURE-PACE "picture your summer" — ADD [CLOSE] · B5 + dignity · life before→after asset. (You asked for this.)
+- **S8** What's in it & what isn't — REBUILD · ingredient-card component + "NOT in it" strip.
+- **S9** The honest IS/ISN'T — ADD [CLOSE] · B4 · the differentiator · + honest "heads-up" cards (steal #5).
+- **S10** Made for a body like yours + plain shame-free "where to use it" (steal #1) — REBUILD · B5/belonging.
+- **S11** How to use it (incl. "can't reach") — ADD · clarity + kills reach/price.
+- **S12** Comparison table (P5.1, 8 rows) — KEEP · ProudFold ✓ vs Other Creams ✗.
+- **S13** Why trust a brand you just met (honest founder/promises) — REBUILD from fake Dr. Bavlsik · B4.
+- **S14** Social proof wall — REBUILD from "54,000 lives": real/seeded reviews (P5.3) + zone-matched comfort
+  before/afters (steal #3) + honest panel stat (steal #2) + transparent distribution when real (steal #7).
+- **S15** 60-Day Keep-It Guarantee — REBUILD · the offer's hero · welded to every CTA (steal #4).
+- **S16** FAQ — REBUILD (kill shoe Qs) · objection mop-up (P5 FAQ set).
+- **S17** Final offer + CTA — REBUILD · value stack w/ struck values (cream + 2 free guides + free US ship +
+  guarantee + founding price) + honest close (P5.2) + honest urgency. NO fake countdown.
+- **S18** Footer — REBUILD (kill GemThemes/Connecticut/gempages-gmail placeholders) · real contact + disclosures + policy links.
+- **GLOBAL:** sticky ATC bar · repeated CTA bands (after S6/S7/S12/S15) · trust+2 reviews at the cart · social
+  proof distributed · honest urgency only.
+
+## P9.4 · OBJECTION COVERAGE (all 11 hit ≥2×) — full matrix in the plan file.
+O1 tried-everything S2/3/4/5/12/15 · O2 scam/ships-China S0/9/13/buybox/16/footer · O3 sub-trap S0/13/15/16/buybox ·
+O4 will-it-burn S6/8/16/embedded · O5 thick/won't-dry S8/9/11/12 · O6 price/tiny-tube S11/15/17 ·
+O7 for-someone-like-me S7/10/embedded · O8 doctors-dismiss S2/3/13 · O9 made-it-worse S4/5/9/12 ·
+O10 fake/knock-off S13/footer · O11 won't-heal-if-irritated S3/5/9 (comfort framing).
+
+## P9.5 · OPEN / DEPENDENCIES
+D1 seed reviews (critical path) · D2 founder · D5 sub A/B · confirm real US-ship (CJ US warehouse — integrity
+landmine) · headline A/B (identity vs outcome). Assets mostly exist (mechanism video+poster, anatomical
+diagram, ingredient macros, how-to, life before/after, body-area B/As; reviews→replace with real). Likely
+new: clean product/bundle gallery, future-pace image, honest trust-badge row. **Next station: this plan →
+copy pass (write every section's lines) → store-build (GemPages). Feeds FUNNEL.md (offer/funnel station).**
