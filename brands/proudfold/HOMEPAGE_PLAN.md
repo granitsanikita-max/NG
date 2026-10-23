@@ -196,34 +196,43 @@ segmented by fold, a one-line comfort caption each: *"no more raw-red by lunch"*
 INTACT, never "cured"). Transparent distribution: include the one honest 4★ (R4) — a not-perfect-5.0 wall
 converts skeptics harder.
 
-### S15 · RISK REVERSAL — the 60-Day Keep-It Guarantee **[REBUILD from "60 Days Money Back"]** [CLOSE-CRITICAL]
-The hero of the offer. *"Use the whole tube. If your folds don't feel calmer, cooler and more comfortable,
-email us for a full refund and keep the tube — no returning it, no forms, no 'unopened' fine print, no
-questions. One real person reads every email."* Edge = consistent everywhere + honors opened product +
-keep-the-tube + a real person. Welded under every CTA + on each bundle card. Kill the sneaker image.
+### S15 · THE OFFER — the full deal (value stack + bundles) **[REBUILD — MOVED above the FAQ]** [CLOSE-CRITICAL]
+She believes now → show her the complete deal before her last questions. Re-present the bundles (same as the
+S1 buy box, so she can pick here without scrolling up) + the **value stack with struck values:**
+✅ ProudFold Comfort Barrier Cream · ✅ Free Fold-Care Playbook ~~$29~~ · ✅ "Friction, Not Your Fault" guide
+~~$19~~ · ✅ Free US Shipping (orders $40+) ~~$6~~ · ✅ 60-Day Keep-It Guarantee · ✅ Founding price locked.
+Honest urgency (D3): founding-customer launch price ("goes up as we grow") + honest low-stock dot (no number,
+no timer). CTA → cart. **Why here, not at the bottom: she sees the whole offer while belief is hot, right
+before the FAQ catches her last doubts — never buried under the footer.**
 
-### S16 · FAQ — objection mop-up **[REBUILD from the 8 shoe FAQs]** [CLOSE-CRITICAL]
-P5 FAQ set: stains/bra · raw+sensitive skin · can't reach · "does it dry it out" (no, on purpose) · how long
-a tube lasts · subscription/cancel · "what if it doesn't work." KILL all shoe Qs (plantar fascia, orthopedic,
-wrong size). Kills O2–O6, O11.
+### S16 · RISK REVERSAL — the 60-Day Keep-It Guarantee **[REBUILD from "60 Days Money Back"]** [CLOSE-CRITICAL]
+Right after the ask, where it kills the "is it worth $50?" hesitation. *"Use the whole tube. If your folds
+don't feel calmer, cooler and more comfortable, email us for a full refund and keep the tube — no returning
+it, no forms, no 'unopened' fine print, no questions. One real person reads every email."* Edge = consistent
+everywhere + honors opened product + keep-the-tube + a real person. Welded under every CTA + on each bundle
+card. Kill the sneaker image.
 
-### S17 · FINAL OFFER + CTA — the close **[REBUILD from guarantee/offer + P5.2]** [CLOSE-CRITICAL]
-Value stack w/ struck values: ✅ ProudFold Comfort Barrier Cream · ✅ Free Fold-Care Playbook ~~$29~~ ·
-✅ "Friction, Not Your Fault" guide ~~$19~~ · ✅ Free US Shipping $40+ ~~$6~~ · ✅ 60-Day Keep-It · ✅ Founding
-price locked. Close copy (draft):
-> *"No fake countdown — you've had enough of those. Here's the straight version: you read this far because
-> you're tired. Of the burn, the smell, the hiding, the quiet little grief of it. The only thing you're
-> actually risking is the rash. If you're done being an afterthought, see if it's in stock."*
-Honest urgency (D3): founding-price line + honest low-stock dot. NO timer. Final CTA → cart.
+### S17 · FAQ — the last objection mop-up **[REBUILD from the 8 shoe FAQs]** [CLOSE-CRITICAL]
+Placed here on purpose: she's seen the offer + the guarantee, now the FAQ answers the final "but what
+about…" right before she commits. P5 FAQ set: stains/bra · raw+sensitive skin · can't reach · "does it dry
+it out" (no, on purpose) · how long a tube lasts · subscription/cancel · "what if it doesn't work." KILL all
+shoe Qs (plantar fascia, orthopedic, wrong size). Kills O2–O6, O11.
 
-### S18 · FOOTER **[REBUILD]**
+### S18 · FINAL CTA band — the close **[ADD]** [CLOSE-CRITICAL]
+The last thing before the footer = a button, not dead air. Short honest close:
+> *"No fake countdown — you've had enough of those. You read this far because you're tired: of the burn,
+> the smell, the hiding, the quiet little grief of it. The only thing you're actually risking is the rash.
+> If you're done being an afterthought, see if it's in stock."*
+CTA → cart + honest low-stock dot. NO timer.
+
+### S19 · FOOTER **[REBUILD]**
 Kill the placeholders ("2118 Thornridge Cir, Connecticut," "hello.gempages@gmail.com," "0917-778-899,"
 "© 2022 GemThemes"). Real ProudFold contact + © 2026 ProudFold · payment icons · Refund/Terms/Privacy
 (wired) · advertisement + marketing + models-shown disclosure.
 
 ### GLOBAL
-Sticky ATC bar (desktop+mobile) · repeated CTA bands after S6/S7/S12/S15 (each → cart) · reviews placed at
-the decision points (not dumped) · honest urgency only.
+Sticky ATC bar (desktop+mobile) · repeated CTA bands after S6/S7/S12 and after the offer block (each → cart)
+· reviews placed at the decision points (not dumped) · honest urgency only.
 
 ---
 
@@ -300,12 +309,12 @@ in these same voices/slots — don't "upgrade" them into polished paragraphs or 
 ## 4 · OBJECTION COVERAGE (every objection ≥2×)
 | # | Objection | Sections + reviews |
 |---|---|---|
-| O1 | Nothing works / tried everything | S2, S3, S4, S5, S12, S15 · R4 |
-| O2 | Scam / "US-based" ships from China | S0, S9, S13, S16, footer · R1 |
-| O3 | Subscription trap | S0, S13, S15, S16, S1-toggle · R5 |
-| O4 | It'll burn / give me a reaction | S6, S8, S16 · R3 |
+| O1 | Nothing works / tried everything | S2, S3, S4, S5, S12, S16 · R4 |
+| O2 | Scam / "US-based" ships from China | S0, S9, S13, S17, footer · R1 |
+| O3 | Subscription trap | S0, S13, S16, S17, S1-toggle · R5 |
+| O4 | It'll burn / give me a reaction | S6, S8, S17 · R3 |
 | O5 | Too thick / won't dry / slimy | S8, S9, S11, S12 · R2 |
-| O6 | Too expensive for a tiny tube | S11, S15, S17 · R4 |
+| O6 | Too expensive for a tiny tube | S11, S15, S16 · R4 |
 | O7 | Is it for someone like ME? | S7, S10 · R3 |
 | O8 | Doctors dismiss / "lose weight" | S2, S3, S13 |
 | O9 | Made it worse / back by day 3 | S4, S5, S9, S12 |
@@ -334,16 +343,16 @@ inflated/inconsistent/padded reviews + "Amazon is counterfeit" fear move.
 - **Scam alarm disarmed?** S0 + buy-box trust row + R1/R3 at the button + S9 IS/ISN'T + S13 (peer +
   transparency, no fake doctor) + honest low-stock, no timers, no fake counts. Nothing on the page triggers
   "here we go again." ✅
-- **Belief chain with no gap?** B1 (S2/S3) → B2 (S4) → B3 (S5/S6/S8) → B4 (S9/S13/S15 + the reviews) → B5
-  (S7/S10/S17). ✅
+- **Belief chain with no gap?** B1 (S2/S3) → B2 (S4) → B3 (S5/S6/S8) → B4 (S9/S13/S16 + the reviews) → B5
+  (S7/S10/S15/S18). ✅
 - **Identity shift?** afterthought → seen → "there's a crew for me" (S7 + S10 + the name + R6). ✅
 - **Can she picture her life better?** S7 (the summer, the sundress, the double shift) + the negative→positive
   arc from S2. ✅
 - **Authority that actually moves HER?** Not a lab coat — *women with her body* (reviews, placed where fears
   fire) + a brand that won't lie (S13). This is the D2 fix, and it's the right authority for a woman who's
   been dismissed by every expert. ✅
-- **Does she know exactly what she's buying + her risk?** buy box + S8 + S11 + S17 value stack = total
-  clarity; S15 keep-it = zero risk. ✅
+- **Does she know exactly what she's buying + her risk?** buy box + S8 + S11 + S15 value stack = total
+  clarity; S16 keep-it = zero risk. ✅
 - **Do the reviews read real?** short, varied, imperfect, one honest 4★, objections handled invisibly, placed
   at the decision points — not a wall of polished 5s. ✅
 - **Every objection dead?** §4 matrix, all ≥2×. ✅
