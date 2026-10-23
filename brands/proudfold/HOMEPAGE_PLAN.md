@@ -1,308 +1,312 @@
-# ProudFold — THE OFFER PAGE (homepage / click-through / PDP) — BULLETPROOF PLAN
+# ProudFold — THE OFFER PAGE (homepage / click-through / PDP) — PLAN v2
 **Station:** Copywriting · **Date:** 2026-10-23 · **Replaces:** the raw GemShoes template
-**Grounded in:** brain/ (01–06 + msds), PRODUCT/RESEARCH/BRAND/COPY (advertorial), Offer v1.
+**Mode:** copywriting-skills test build (not for publish) — so reviews are written here as a craft demo;
+at real launch these same slots/voices get filled by genuinely seeded reviews. Craft + placement is identical.
 
-> This is the ONE page the whole business converts on. proudfold.com root = this page (RESEARCH §5B).
-> It serves **two** traffic streams and must win both:
-> - **WARM** — came off the Linda advertorial (already de-shamed, already believes the mechanism, already
->   trusts the review). Job: **close** — clear offer, remove last risk, convert. Don't restart the story.
+> The ONE page the business converts on (proudfold.com root). Serves **two** streams:
+> - **WARM** — off the Linda advertorial (already de-shamed, believes the mechanism). Job: **close.**
 > - **COLD** — short ad → straight here, never saw the advertorial. Job: **install the whole belief chain
->   fast** (friction-not-fault → everything-borrowed → barrier-stops-rub → honest-brand → made-for-me),
->   THEN close. This is why the mechanism + ingredients must be **repeated** here (Nikita's call) — a
->   non-advertorial ad can't carry them.
->
-> Resolution for dual-duty: the "case" sections (problem/mechanism/graveyard/ingredients) are **compressed
-> & scannable** — warm traffic skims past (they know it), cold traffic gets the full install. The
-> offer/proof/guarantee/close convert both. Every section tagged [COLD-CRITICAL] or [CLOSE-CRITICAL] below.
+>   fast, then close.** (This is why mechanism + ingredients are repeated here — a non-advertorial ad can't carry them.)
+> Dual-duty fix: "case" sections are compressed & scannable (warm skims, cold gets the full install);
+> offer/proof/guarantee convert both. Every section tagged [COLD-CRITICAL] / [CLOSE-CRITICAL].
 
 ---
 
-## 0 · THE STRATEGY (what makes this page convert HER)
+## 0 · STRATEGY — what converts HER
 
-**Who she is (do not forget for one line):** "Dawn" — 45–62, plus-size (16–24) and/or big-busted (DD+),
-burned by a graveyard of borrowed baby/foot/Rx fixes, dismissed by doctors ("lose weight"), scammed by
-sub-traps and "US-based-ships-from-China" funnels. Her deepest wound isn't the rash — it's **exhaustion +
-being unseen**. Her deepest driver isn't dryness — it's **dignity**. She enters at Frustration→Desperation.
-She is a **skeptic with her wallet already bitten.**
+**Dawn:** 45–62, plus-size (16–24) and/or big-busted (DD+). Burned by a graveyard of borrowed baby/foot/Rx
+fixes, dismissed by doctors ("lose weight"), scammed by sub-traps and "US-based-ships-from-China" funnels.
+Her wound isn't the rash — it's **exhaustion + being unseen.** Her driver isn't dryness — it's **dignity.**
+She's a **skeptic with her wallet already bitten.** Everything on this page is built for that one nerve.
 
-**Copywriting = belief change + identity change. The 5 beliefs this page installs (brain/03 §9B):**
-- **B1** — "It's friction + trapped moisture. Not poor hygiene. Not my fault." *(de-shame — the unlock)*
+**Copywriting = belief change + identity change. Install B1→B5 (brain/03):**
+- **B1** — "It's friction + trapped moisture. Not hygiene. Not my fault." *(de-shame — the unlock)*
 - **B2** — "Nothing worked because everything I tried was borrowed — never made for the fold."
 - **B3** — "A barrier that stops the rubbing breaks the cycle; creams that chase the rash can't."
-- **B4** — "I can trust THIS one — it's honest, US-ship, no trap, a real person behind it." *(disarm the scam alarm)*
-- **B5** — "It's worth trying one more time — because it was made on purpose, for a body like mine."
+- **B4** — "I can trust THIS one." *(disarm the scam alarm — see the Authority rethink, D2)*
+- **B5** — "It's worth one more try — it was made on purpose, for a body like mine."
 
-**The identity shift (the real sale — brain/03 §16):** from *"I'm gross / failing / invisible / an
-afterthought the whole drugstore ignores"* → *"my body deserves care, somebody finally built for it, and
-there's a brand (and a crew) that's FOR me."* The name does the heavy lift: **ProudFold** = shame flipped
-to pride. Identity work lives in the Future-Pace + "Made For You" + Honest-Brand sections, not just features.
+**Identity shift (the real sale):** *"I'm gross / failing / invisible / the afterthought the whole drugstore
+ignores"* → *"my body deserves care, somebody built for it, there's a brand AND a crew that's FOR me."* The
+name does the lift: **ProudFold** = shame flipped to pride. Identity work lives in Future-Pace + Made-For-You
++ the reviews — not just features.
 
-**THE CONVERSION THESIS — honest trust is our weapon, not a handicap.**
-The template we were handed IS our enemy made flesh: fake "Dr. Tom Bavlsik," fake APMA/Stanford badges,
-"5,369 reviews," "54,000+ lives," "Only 9,595 left," "3,421 bought in 24h." Dawn has been burned by
-**exactly this** a dozen times — her scam alarm is the single biggest thing standing between her and the
-button. So we do the opposite and make the contrast loud: real honesty, honest numbers, "here's what it
-is AND isn't," one-click cancel, ships-from-US, a real person answers. For a burned buyer, **radical
-honesty converts harder than any fake urgency** — and it's the one thing a faceless $10M funnel structurally
-can't copy (brain/04 §4B). Every "trust" element on this page is real or it doesn't ship.
+**THE CONVERSION THESIS — honest trust is the weapon.** The template we were handed IS our enemy made flesh:
+fake "Dr. Bavlsik," fake APMA/Stanford badges, "5,369 reviews," "9,595 left," "3,421 bought in 24h." Dawn
+has been burned by *exactly this.* So we do the loud opposite — and the contrast is the conversion edge a
+faceless funnel structurally can't copy. **For a burned buyer, honesty out-sells hype.**
 
-**Voice of the page = the BRAND** (not Linda). The advertorial is Linda's first-person review; this page is
-ProudFold finally speaking for itself — **blunt, warm, zero-pity, a little funny, zero-shame** (brand
-attitude, brain/04 §4B), talking to "you" **by situation** (heat, sweat, long shifts), never by diagnosis
-(Meta personal-attribute line). Reviews/VOC are quoted AS social proof. This keeps the two assets distinct
-and lets the page do identity work the review voice can't.
+**Voice = the BRAND** (not Linda — she's the advertorial). Blunt, warm, zero-pity, a little funny, zero-shame;
+"you" **by situation** (heat, sweat, long shifts), never by diagnosis. Reviews are quoted as proof.
 
-**Compliance (every line, Meta reviews the lander):** barrier / protects / soothes / cools / comfort ONLY.
-NEVER cure/treat/heal/antifungal/kills-yeast, never "dries to a powder," never "Do YOU have [condition]?",
-no graphic raw-skin before/after, no "Made in USA," no fabricated anything. "Occlusive barrier," never "zinc."
+**Compliance (Meta reviews the lander):** barrier/protects/soothes/cools/comfort ONLY. Never
+cure/treat/heal/antifungal/kills-yeast, never "dries to a powder," never "Do YOU have…?", no graphic
+before/after, no "Made in USA." "Occlusive barrier," never "zinc."
 
 ---
 
-## 1 · THE 5 STRATEGIC DECISIONS (Nikita — these shape the build)
+## 1 · THE DECISIONS (updated to your calls)
 
-**D1 · Reviews & social-proof honesty — THE big one.** We launch with **zero own reviews.** The template
-fakes 5,369 reviews / 54,000 lives. We cannot fabricate (brand thesis + FTC + it's the exact sin we attack).
-So the star-rating, the review wall, AND the 2 embedded reviews under the cart are **slots that must be
-filled with REAL seeded reviews** before we scale paid. Options, ranked:
-  - **(A, recommended) Seed real reviews NOW** — send free tubes to real plus-size/big-busted women (the
-    same search that finds our real creator), collect honest reviews under a disclosed-gifting note. 15–25
-    real reviews unlocks every proof slot honestly. Start this today; it's the critical-path gate.
-  - **(B, bridge until A lands)** run the page with **honest substitutes in the proof slots:** the
-    guarantee + the honest-brand transparency + the mechanism + **VOC framed as "what women say about fold
-    rash" (NOT as ProudFold reviews)** + borrowed CATEGORY authority + **an honest small-panel perception
-    stat** (run a cheap 30–50-person 2-week use test, cite it truthfully + footnoted — the Megababe move;
-    see §6 steal #2). No star-count claim until real reviews exist.
-  - **(C, do NOT)** fabricate reviews/counts. Off the table.
-  → My rec: **B now, A in parallel, flip to A the moment real reviews land.** Decide: do we hold paid scale
-    until ~20 real reviews are in? (I'd say yes — a burned buyer on a 0-review store is a hard convert.)
-
-**D2 · The authority/founder section (replaces fake Dr. Bavlsik).** Two honest ways to fill the trust job:
-  - **(A, recommended) A real, honest founder/brand-promise section** — a real note (a face/first name helps
-    but isn't required) on *why ProudFold exists* + the transparent promises (US-ship, no trap, honest about
-    where it's made, a real person answers every email). This is "I did the digging," told by the brand.
-  - **(B) Borrowed CATEGORY authority, honestly** — "barrier creams are what skin & wound nurses have
-    reached for for years" (as a category, never a fake named persona, never "clinically proven for ProudFold").
-  → Use **A as the section + a light touch of B inside it.** NO fake doctor, NO fake badges, ever.
-    Decision: is there a real founder name/face we can use, or do we run the honest brand-voice version?
-
-**D3 · Honest urgency/scarcity (replaces fake countdowns + "9,595 left" + "3,421 bought").** Allowed because
-true: **founding-customer launch price** ("this is our founding price while we're new — it goes up as we
-grow" — real, and the honest opposite of Healora's fake "$87k overstock"); **honest seasonal** ("get ahead
-of summer"); **genuine shipping cutoff** ("order by [X]pm and it ships today") IF true; an **honest low-stock
-dot with NO fake number/timer** only if actually low. That's the whole urgency toolkit — and the honesty of
-it is itself a selling point ("no fake countdown — you've had enough of that").
-
-**D4 · Page voice = brand (not Linda).** Confirmed above. Reviews quoted as proof. (Flag only so it's a
-conscious call — if you'd rather the whole page stay in a first-person voice, say so; I recommend brand voice.)
-
-**D5 · Subscription on the page: Variant A vs B (still the open offer toggle, RESEARCH §5).** A = honest
-opt-in sub (25%/15%, one-click cancel) shown in the buy box as the clearly-better-value choice she actively
-picks. B = no sub, bundles only. Either way the buy box is built opt-in (never pre-selected) — but confirm
-which leads at launch. My rec stands: **A, opt-in, profitable-on-order-1 so the sub is upside not survival.**
+- **D1 · Reviews — WRITTEN (test).** We write real-sounding reviews now to demo the craft (full method +
+  the actual reviews in §3). At real launch, same slots/voices = seeded-real reviews; nothing about the page
+  changes. No fabricated *counts/press* anywhere (that's the fake move) — just believable individual reviews.
+- **D2 · Authority = what's authority to HER (your call — brand/clinical authority is OUT).** She does NOT
+  trust doctors (they dismissed her), brands (they scammed her), or badges (fake). The only two things that
+  carry weight with her:
+  1. **Peer authority — women exactly like her who lived it and got relief.** The reviews ARE the authority.
+     "The only opinion that counts here is a woman who's got the same body and the same problem as you."
+  2. **Transparency as authority — the brand earns trust by refusing to lie** (what it is AND isn't, where
+     it ships from, one-click cancel, "we're new, we'd rather tell you the truth than oversell you"). For a
+     burned buyer, honesty IS the credential. → **S13 rebuilt around peer + transparency. No nurses/derms,
+     no "clinically tested," no founder-as-expert. If a founder appears, she's a peer ("same body, same
+     problem"), never an authority above the reader.**
+- **D3 · Honest scarcity/urgency — YES to real low-stock, NO to fake timers.** Allowed: honest low-stock
+  ("low stock" / "running low on the Duo" — real, no fabricated number), **founding-customer launch price**
+  ("goes up as we grow" — true), a genuine ship-cutoff ("order by Xpm, ships today") if true. Banned: any
+  countdown, any "X bought in 24h," any "89% sold" fake meter.
+- **D4 · Page voice = brand** (not Linda). Reviews quoted as proof.
+- **D5 · Sub: Variant A (opt-in, 25%/15%, genuine one-click cancel) vs B (no sub).** Buy box built opt-in
+  either way. If A: make cancel a *selling point* — "the only fold-care subscription you can actually
+  cancel" (Lume's own reviews prove the trap backfires with this exact buyer).
 
 ---
 
-## 2 · SECTION-BY-SECTION — the full page (top → bottom)
+## 2 · SECTION-BY-SECTION (top → bottom)
+> **[KEEP]** usable shell · **[REBUILD]** gut the content · **[ADD]** template lacks it · **[KILL]** must go.
+> Reviews are placed INTO specific sections (not dumped in one wall) — see the ⟵REVIEW tags + §3.
 
-> Legend: **[KEEP]** = template has a usable shell · **[REBUILD]** = template section, gut the content ·
-> **[ADD]** = template lacks it, ICP needs it · **[KILL]** = template section that must go.
-> Each: JOB · installs (B#) / kills objection (O#) · copy direction · proof/trust/future-pace · CTA.
+### S0 · Announcement trust bar **[REBUILD]**
+Rotating honest trio: **60-Day Keep-It Comfort Guarantee · Ships from the US · No Subscription Trap (cancel
+in 1 click).** Disarms the scam alarm in the first second. (Kills O2/O3 pre-emptively. No review count.)
 
-### S0 · Announcement trust bar  **[REBUILD]**
-- Template: "60-Day Wear Test · Free Worldwide Shipping · 54,000+ Reviews" (shoe + fake count).
-- **Rebuild →** rotating HONEST trust trio: **60-Day Keep-It Comfort Guarantee · Ships from the US · No
-  Subscription Trap, Cancel in 1 Click.** (Drop the review count until real.) Job: disarm the scam alarm in
-  the first second. Kills O2/O3 pre-emptively.
+### S1 · HERO + BUY BOX — the money zone, above the fold **[REBUILD — PDP core]** [CLOSE-CRITICAL]
+The hot buyer must be able to buy HERE. Gallery left, buy box right.
+- **Headline** (3 options to A/B — all brand voice, identity + outcome):
+  1. *"Finally — Fold Care Made For Your Body. Not Borrowed From a Baby."*  (identity-led)
+  2. *"Get Through a Whole Summer Without the Burn, the Smell, or the Hiding."*  (outcome-led)
+  3. *"The Rash Was Never the Problem. The Rubbing Is — And This Stops It."*  (mechanism-led)
+- **1-line clarity sub:** *"A comfort barrier cream that stops the skin-on-skin rub behind fold rash —
+  soothes, cools, stays put all day. Made for plus-size and big-busted bodies."*
+- **4 benefit ticks:** Stops the *rub*, not just the rash · Soothes + cools on contact · Stays put all day
+  (a cream, not a powder that pastes) · Made for folds, on purpose.
+- **Bundle selector — named by RESULT, anchored to the single:**
+  - The Starter — 1 tube — $29.95 ~~$39.95~~
+  - **The All-Day Comfort Duo — 2 tubes — $49.95 ~~$79.90~~ · ★ MOST POPULAR**
+  - The Summer-Proof Supply — 3 tubes — $64.95 ~~$119.85~~ · BEST VALUE
+  - **Opt-in subscribe toggle** (D5): "Subscribe & save — 25% off first, 15% refills · cancel in 1 click,
+    no auto-enroll." Never pre-selected. **⟵REVIEW R5 (sub-trap) sits right under this toggle.**
+- **Terracotta ATC / Buy Now.** Microcopy under: "60-Day Keep-It Guarantee · Ships from the US."
+- **RIGHT UNDER THE BUTTON — trust row + 2 embedded reviews (the last two fears):**
+  - Trust row: 🛡 60-Day Keep-It · 🇺🇸 Ships from US · 🚫 No Sub Trap · 🌿 Fragrance-Free.
+  - **⟵REVIEW R1 (scam/"another Facebook flop") + R3 (raw/sensitive skin "will it burn / work for me").**
+  - Honest low-stock line if true ("Duo running low"). NO fake "bought in 24h."
+- **KILL all shoe leftovers:** "Orthotic Insoles" tag · "True to size / your usual size" · "Size guide"
+  dropdown · "Doctor-Recommended Shoes / Premium Orthotic Insoles" · "60-Day Wear Test" · "9,595 left" ·
+  "3,421 bought." Relabel "capacity" → "Size: 50g tube (~30 days of daily fold care)."
 
-### S1 · HERO + BUY BOX — the money zone, above the fold  **[REBUILD — this is the PDP core]** [CLOSE-CRITICAL]
-The hot buyer (warm off the advertorial) must be able to buy **here, immediately.** Everything below is for
-the ones who need more. Layout = product gallery left, buy box right.
-- **Outcome/identity headline** (NOT "Skin Soothing Care"): lead with the transformation + who it's for.
-  e.g. *"Fold Care Made For Your Body — On Purpose. Not Borrowed From a Baby."* or outcome-led: *"Get Through
-  a Whole Summer Without the Burn, the Smell, or the Hiding."* (A/B these.)
-- **One-line clarity sub** (she must instantly know WHAT it is): *"A comfort barrier cream that stops the
-  skin-on-skin rub behind fold rash — soothes, cools, and stays put all day. Made for plus-size and
-  big-busted bodies."*
-- **Star rating + review count** — ONLY real/seeded (D1). Until then, replace with an honest line
-  ("Founding-customer launch — be one of the first") — never a fake count.
-- **4 quick benefit ticks:** Stops the *rub*, not just the rash · Soothes + cools on contact · Stays put
-  all day (cream, not a powder that pastes) · Made for folds, on purpose.
-- **Bundle selector — named by RESULT, anchored to the single** (Offer v1):
-  - **The Starter** — 1 tube — $29.95 ~~$39.95~~
-  - **The All-Day Comfort Duo** — 2 tubes — **$49.95 ~~$79.90~~ · ★ MOST POPULAR** (target AOV)
-  - **The Summer-Proof Supply** — 3 tubes — $64.95 ~~$119.85~~ · BEST VALUE
-  - **Opt-in subscribe toggle** (D5): "Subscribe & save 25% first order / 15% refills — cancel in 1 click,
-    no auto-enroll" (never pre-selected).
-- **Quantity + big ATC / "Buy Now" button** — **terracotta #C4603F** (kill the blue). Microcopy under:
-  "60-Day Keep-It Guarantee · Ships from the US."
-- **RIGHT UNDER THE BUTTON — the trust barrier + embedded reviews (exactly what you asked for):**
-  - **Trust row** (4 icons): 🛡 60-Day Keep-It Guarantee · 🇺🇸 Ships from US · 🚫 No Sub Trap · 🌿 Fragrance-Free & Gentle.
-  - **2 embedded quick reviews** that handle the **last two objections before the click** (real/seeded, D1):
-    1. the **scam/"will this be another Facebook flop"** objection → *"Thought it'd be another scam cream. First summer in years I'm not hiding."*
-    2. the **"will it work for MY raw/sensitive skin / is it for someone like me"** objection → *"Everything else burned the second it touched raw skin. This one doesn't. Finally."*
-  - Payment icons. "X bought this week" ONLY if true (else omit).
-- **KILL every shoe leftover in this box:** "Orthotic Insoles" tag, "True to size / order your usual size,"
-  "Size guide" dropdown, "Doctor-Recommended Shoes / Premium Orthotic Insoles," "60-Day Wear Test,"
-  "capacity" label (→ "Size: 50g / ~30-day supply"), the "9,595 left" fake stock, "3,421 bought in 24h" fake.
-- **Clarity adds:** "50g tube ≈ 30 days of daily fold care" + a one-line "what's in the box."
+### S2 · RECOGNITION / "You know this feeling" — de-shame **[ADD]** [COLD-CRITICAL]
+Brand voice, to "you," by situation: the hot afternoon, lifting the fold to dab it dry with a paper towel,
+the sour yeasty smell she quit water aerobics over, the bathroom-stall routine. Land: *"If this is you —
+you're not crazy, you're not gross, and you're definitely not failing at hygiene."* **Negative future-pace**
+(what the rash quietly stole: the pool, the sundresses). B1. Kills O1/O8. Hero/life image, no rash close-up.
 
-### S2 · RECOGNITION / "You know this feeling" — de-shame  **[ADD]** [COLD-CRITICAL]
-- JOB: emotional hook for cold + validation for warm; opens the belief chain. Installs **B1**, kills **O1/O8**.
-- Copy (brand voice, to "you", by situation): the daily hell in her words — the hot afternoon, lifting the
-  fold to dab it dry with a paper towel, the *sour yeasty smell* she quit water aerobics over, the
-  bathroom-stall routine. Land it: *"If this is you — you're not crazy, you're not gross, and you're
-  definitely not failing at hygiene."*
-- **Negative future-pace** (set up the positive later): name what the rash has quietly stolen — the pool,
-  the sundresses, the not-thinking-about-it.
-- Asset: our dignified hero image (woman in the heat) / life-before image. NO rash close-up.
+### S3 · WHY IT KEEPS HAPPENING — problem mechanism **[REBUILD from "How Does GemShoes Work"]** [COLD-CRITICAL]
+Friction (skin rubs skin → raw) + trapped heat/moisture (warm, damp, closed-in → skin breaks down) + "the
+smell is physics, not hygiene" + "that's why nothing lasted — you calmed the rash while the rubbing never
+stopped." Punchline: **"The rash isn't the problem. The rubbing is."** B1 → sets up B3. Anatomical fold
+diagram (built). Kills O1/O8/O11.
 
-### S3 · WHY IT KEEPS HAPPENING — the mechanism of the PROBLEM  **[REBUILD from "How Does GemShoes Work"]** [COLD-CRITICAL]
-- JOB: the "it was never your fault" reframe + why it recurs. Installs **B1**, sets up **B3**. Kills O1/O8/O11.
-- Copy: friction (skin rubs skin → raw) + trapped heat/moisture (fold is warm, damp, closed-in → skin breaks
-  down) + the smell is physics not hygiene + **"that's why nothing lasted — you were calming the rash while
-  the rubbing never stopped."** Punchline: **"The rash isn't the problem. The rubbing is."**
-- Asset: our **anatomical skin-fold diagram** (already made). Clean, educational, no text baked in.
+### S4 · "Everything you've tried was borrowed" — the graveyard **[ADD]** [COLD-CRITICAL] — HIGH LEVERAGE
+The steal from both competitor lanes: name every product she's failed with, kill each in one line →
+*"your products were wrong, not you."* 2-col "what you tried → why it failed": diaper/baby cream (made for
+babies, pasty, chases the rash) · powder (turns to paste; cornstarch *feeds* yeast) · OTC antifungal (treats
+a symptom, back in days) · steroid/Rx (recurs; "lose weight") · cotton/blow-dryer (falls out, undignified) ·
+*"that cream all over Facebook"* (worse by day 3). B2. Kills O1/O9. Put it HIGH.
 
-### S4 · "Everything you've tried was borrowed" — the graveyard  **[ADD]** [COLD-CRITICAL]
-- JOB: neutralize every alternative she'd buy instead; differentiate. Installs **B2**, kills O1/O9.
-- Copy/visual (a scannable list or 2-col "what you tried → why it failed"): diaper/baby creams (made for
-  babies, pasty, chase the rash) · powders (turn to paste; cornstarch *feeds* yeast) · OTC antifungals
-  (treat a symptom, back in days) · Rx/steroids (recur; "lose weight") · cotton/blow-dryer (falls out,
-  undignified) · *"that cream all over Facebook"* (made it worse by day 3). Each line = one dead competitor.
+### S5 · MEET PROUDFOLD + mechanism (UMS) **[REBUILD from "GemShoes Technology"]** [COLD-CRITICAL]
+*"It doesn't chase the rash. It stops the rub."* Core metaphor: **"a second skin, right where your skin meets
+itself"** — a thin barrier film so skin **glides instead of grinds.** Clear statement of what it IS: a
+comfort barrier cream. MECHANISM video (poster set). B3. **⟵REVIEW R2 (stays-put/sweat) near here** —
+proof the mechanism holds through a sweaty day.
 
-### S5 · MEET PROUDFOLD — the fix + mechanism (UMS)  **[REBUILD from "GemShoes Technology"]** [COLD-CRITICAL]
-- JOB: introduce the product as the ONE thing that stops the rub; deliver the unique mechanism. Installs **B3**.
-- Copy: *"It doesn't chase the rash. It stops the rub."* The core metaphor: **"a second skin, right where
-  your skin meets itself"** — a thin barrier film so skin **glides instead of grinds.** Clear statement of
-  what it IS: a comfort barrier cream.
-- Asset: our **MECHANISM video** (skin-on-skin → barrier slides in → glide/calm). Poster set (from QA).
-- Repeats the advertorial's core mechanism — intentional, for cold traffic.
+### S6 · HOW IT WORKS — 4 callouts **[REBUILD from the 4-callout]** [COLD-CRITICAL]
+Around the product: **1) Barrier that stops the rub** (mineral oil + glycerin "second skin") · **2) Soothes
+on contact** (allantoin) · **3) Cools the burn** (light menthol tingle) · **4) Stays put all day** (a cream
+that doesn't cake/roll off). Kills O4/O5. (May merge with S5.)
 
-### S6 · HOW IT WORKS — 4 mechanism callouts  **[REBUILD from "How Does GemShoes Work?" 4-callout]** [COLD-CRITICAL]
-- JOB: make the mechanism concrete + introduce the hero ingredients' jobs. Installs B3, kills O4/O5.
-- 4 callouts around the product: **1) Barrier that stops the rub** (mineral oil + glycerin "second skin")
-  · **2) Soothes on contact** (allantoin calms raw skin) · **3) Cools the burn** (a light menthol tingle)
-  · **4) Stays put all day** (a cream that doesn't cake or roll off like powder). (May merge with S5.)
+### S7 · FUTURE-PACE "Picture your summer" — the dream state **[ADD]** [CLOSE-CRITICAL]
+The identity/dignity payoff, vivid + sensory + second person. Draft:
+> *"Picture a hot morning where you get dressed and just… don't think about it. No wad of paper towels in
+> your purse. No planning the whole day around a tube of cream. You wear the sundress. You get in the pool.
+> You make it through a double shift and the first thing on your mind at the end of it isn't the raw patch
+> under your bra. This was never really about a cream. It's about getting your summers — and yourself — back."*
+B5 + dignity. Life before→after image. **⟵REVIEW R6 (dignity) near here.**
 
-### S7 · FUTURE-PACE / "Picture your summer" — the dream state  **[ADD — you specifically asked for this]** [CLOSE-CRITICAL]
-- JOB: paint her future life WITH the product — the identity/dignity payoff. Installs **B5** + the dignity core.
-- Copy (second-person, vivid, sensory): *getting dressed on a hot morning and just… not thinking about it.
-  The pool. The sundress you stopped wearing. A whole shift on your feet with no bathroom-stall detour. Lying
-  down at night without the sting. Reaching for your partner without flinching.* Land it on identity:
-  **"This was never about a cream. It's about getting your summers — and yourself — back."**
-- Asset: the **life before→after** image (hiding → free at a cookout/pool), dignified, real plus-size body.
+### S8 · WHAT'S IN IT (AND WHAT ISN'T) **[REBUILD — reuse the live ingredient component]** [COLD-CRITICAL]
+Interactive ingredient cards (5 CDN macros + P5.4 copy): Mineral Oil (the barrier) · Glycerin (keeps it
+working) · Allantoin (the soother) · Menthol (the light cool) · Light Water Base (never greasy). + the
+"what's NOT in it" strip: ❌ fragrance ❌ steroids ❌ "antifungal" burn ❌ dries-you-out powder ❌ pasty filler.
+B3/B4. Kills O4/O5. (Ingredients repeated for cold traffic — your call.)
 
-### S8 · WHAT'S IN IT (AND WHAT ISN'T) — ingredients + honesty  **[REBUILD — use the live ingredient component]** [COLD-CRITICAL]
-- JOB: clarity on what she's buying + the honesty trust beat. Installs B3/B4, kills O4/O5. (Repeats
-  ingredients for cold traffic — your call.)
-- Use the **existing interactive ingredient-card showcase** (5 CDN macros + P5.4 copy): Mineral Oil (the
-  barrier) · Glycerin (keeps it working) · Allantoin (the soother) · Menthol (the light cool) · Light Water
-  Base (never greasy). + the **"what's NOT in it"** strip: ❌ fragrance ❌ steroids ❌ "antifungal" burn
-  ❌ dries-you-out powder ❌ pasty filler.
+### S9 · THE HONEST "IS / ISN'T" — the trust weapon **[ADD]** [CLOSE-CRITICAL]
+The most on-brand block on the page. Draft:
+> **"Let's be straight — because the lying is exactly why you've been burned before.**
+> **It IS** a barrier that stops the rub, soothes the sting, and cools the burn — made for folds.
+> **It ISN'T** a cure, an antifungal, or a powder that 'dries you out.' It stays a cream — because a cream
+> is what sits between your skin and stops the rub. A powder can't do that.
+> That's the honest difference. And it's the whole reason it keeps working when the overhyped stuff quit on you."
++ small **"honest heads-up" cards** (the Megababe trust move): "the cool tingle is menthol — lasts about a
+minute" · "give it a minute to sink in before you dress so it won't transfer" · "reapply after a big sweat."
+Naming the small cons buys belief for everything else. B4. Kills O1/O5/O11.
 
-### S9 · THE HONEST "IS / ISN'T" — the trust weapon  **[ADD]** [CLOSE-CRITICAL]
-- JOB: the radical-honesty differentiator that disarms the burned skeptic. Installs **B4**, kills O1/O5/O11.
-- Copy (big, bold, framed as a promise): **IT IS** a barrier that stops the rub, soothes the sting, cools
-  the burn, made for folds. **IT ISN'T** a cure, an antifungal, and it will **not** "dry your fold to a
-  powder" like the flashy ads promise — it stays a cream, *because a cream is what sits between your skin
-  and stops the rub.* *"That honesty is the whole reason it keeps working when the overhyped stuff quit on you."*
-- This is the single most on-brand section on the page. It's the thing the fake-doctor template can't do.
+### S10 · "MADE FOR A BODY LIKE YOURS" + plain, shame-free "where to use it" **[REBUILD from "Summarize Benefits"]** [CLOSE-CRITICAL]
+Belonging + identity flip (B5, kills O7): *"For twenty years the whole drugstore acted like we don't exist —
+so you borrowed the baby's cream and felt weird at the checkout. ProudFold was built for the fold. For
+plus-size and big-busted bodies. On purpose."* Then the **Lume steal — name her exact folds, plainly, no
+euphemism, over the diagram:** under the breasts · under the belly · inner thighs · the bra line · the
+bikini/groin line · anywhere skin meets skin and sweats. Dissolves the awkwardness of creaming an intimate
+fold (the #1 application hesitation). **⟵REVIEW R7 (caregiver/gentle) near here** (widens who it's for).
 
-### S10 · "MADE FOR A BODY LIKE YOURS" — identity / who it's for  **[REBUILD from "Summarize Benefits"]** [CLOSE-CRITICAL]
-- JOB: belonging + dignity; the identity flip. Installs **B5** + belonging core, kills **O7**.
-- Copy: *"For twenty years the whole drugstore acted like we don't exist — so you borrowed the baby's cream
-  and the athlete's foot powder and felt weird at the checkout. ProudFold was built for the fold. For
-  plus-size and big-busted bodies. On purpose."* The crew/identity ("you're not an afterthought here").
-- Where it helps (by situation, not diagnosis): under the breasts · under the belly · inner thighs · the
-  groin/bikini line · anywhere skin meets skin and sweats. (Replaces the shoe "conditions" checklist.)
+### S11 · HOW TO USE IT — incl. "even on a fold you can't reach" **[ADD]** [COLD-CRITICAL for clarity]
+3 steps (how-to images): clean + pat dry → smooth a thin layer where skin rubs (a pea-sized dab covers a
+whole fold) → reapply after a shower or big sweat. + the reach tip (long-handled applicator / soft folded
+cloth — no yoga). "One tube lasts weeks" kills O6. **⟵REVIEW R8 (greasy/stains-bras) near here.**
 
-### S11 · HOW TO USE IT — incl. "even on a fold you can't reach"  **[ADD]** [COLD-CRITICAL for clarity]
-- JOB: she knows EXACTLY how to use it (clarity = confidence) + kills the "I can't reach/dry it" pain (S009).
-- 3 steps (our how-to images): **1)** clean + pat the fold dry · **2)** smooth a thin layer where skin rubs
-  (a pea-sized dab covers a whole fold) · **3)** reapply after a shower or a big sweat. + the reach tip
-  (long-handled applicator / soft folded cloth — no yoga). "One tube lasts weeks" (kills price/tiny-tube O6).
+### S12 · HOW IT STACKS UP — comparison table **[KEEP — P5.1, 8 rows]** [CLOSE-CRITICAL]
+ProudFold ✓ vs Other Creams ✗ (terracotta ✓; fix the live bug — all Other-Creams = ✗). Rows framed as HER
+questions: come-back / sting / stays-put / soothes-cools / made-for-folds / ships-US / 60-day-guarantee /
+no-sub-trap. Kills O1–O6, O9.
 
-### S12 · HOW IT STACKS UP — comparison table  **[KEEP — use P5.1]** [CLOSE-CRITICAL]
-- JOB: objection mop-up + differentiation, framed as HER questions. Kills O1/O2/O3/O4/O5/O6/O9.
-- The 8-row table (P5.1): ProudFold ✓ vs Other Creams ✗. Terracotta ✓. (Fix the live bug: all Other-Creams
-  cells = ✗.) Rows = will-it-come-back / sting / stays-put / soothes-cools / made-for-folds / ships-US /
-  60-day-guarantee / no-sub-trap.
+### S13 · WHY YOU CAN TRUST THIS — peer + transparency (NOT a doctor) **[REBUILD from the fake "Dr. Bavlsik"]** [CLOSE-CRITICAL]
+The authority rethink (D2). NO fake doctor, NO badges, NO "skin nurses," NO "clinically tested." Two halves:
+- **Peer authority:** *"We're not going to show you a man in a lab coat you've never heard of. The only
+  people whose opinion matters here are women who've got the same body and the same problem as you —"* →
+  rolls straight into the review wall (S14) / a cluster of peer quotes.
+- **Transparency as the credential:** the "we checked so you don't have to," told honestly by the brand —
+  ships from the US (days, not "sometime from who-knows-where") · no forced subscription, one-click cancel,
+  no auto-enroll · 60-day keep-it, **a real person reads every email** · honest about where it's made (no
+  "Made in USA" lie) · *"We're new. We'd rather tell you the truth about what this is than oversell you and
+  lose you."* B4. Kills O2/O3/O10. **⟵ this is where honesty becomes the authority.**
 
-### S13 · WHY TRUST A BRAND YOU JUST MET — honest brand/founder  **[REBUILD from the fake "Dr. Bavlsik" section]** [CLOSE-CRITICAL]
-- JOB: disarm the scam alarm with REAL honesty (replaces the fake doctor + fake badges). Installs **B4**,
-  kills O2/O3/O10. (D2 decides founder-face vs brand-voice.)
-- Copy = "I did the digging for you," told by the brand: **ships from the US** (days, not "sometime from
-  who-knows-where") · **no forced subscription, one-click cancel, no auto-enroll** · **60-day keep-it, a
-  real person reads every email** · **honest about where it's made** (no "Made in USA" lie). Optional honest
-  category line: "barrier creams are what skin nurses have reached for for years." **NO fake doctor, NO fake
-  APMA/Stanford badges** — their presence is the exact thing that makes her distrust the category.
+### S14 · SOCIAL PROOF — reviews + zone-matched comfort before/afters **[REBUILD from "54,000+ Lives"]** [CLOSE-CRITICAL]
+All women, ICP, no male runners, no fake count. Headline honest: *"From women who were sure nothing would
+work."* The **review wall = R1–R8** (written in §3; the embedded ones also appear here so the wall feels
+full). + **zone-matched before/after carousel** (our body-area B/As — inner thigh, underarm, under-belly —
+segmented by fold, a one-line comfort caption each: *"no more raw-red by lunch"* — compliance-safe, skin
+INTACT, never "cured"). Transparent distribution: include the one honest 4★ (R4) — a not-perfect-5.0 wall
+converts skeptics harder.
 
-### S14 · SOCIAL PROOF — the review wall  **[REBUILD from "GemShoes Changed 54,000+ Lives"]** [CLOSE-CRITICAL]
-- JOB: peer proof; each review kills an objection. **MUST be real/seeded (D1)** — all women, ICP, no male
-  runners. Replace the fabricated "54,000+ lives" headline with an honest one.
-- Use the P5.3 cast (objection-mapped: scam · stays-put · sting · tried-everything/value · dignity · sub-trap).
-  Headline honest: *"From women who were sure nothing would work."* (NOT a fake count.) Recolor badges terracotta.
-- **ADD — zone-matched comfort before/after carousel** (steal #3): our body-area before/afters (inner thigh,
-  underarm, under-belly, already produced), segmented by fold with a one-line comfort caption each
-  (friction chafe-red → calm, skin INTACT — "no more raw-red by lunch," NEVER "rash cured"). She sees HER fold.
-- **ADD — the honest small-panel perception stat** (steal #2 / D1-B) once the use-test is run, footnoted.
-- When real reviews land: show the **transparent distribution incl. the occasional 4★** (steal #7) — a
-  not-perfect-5.0 wall converts skeptics harder than a suspiciously flawless one.
+### S15 · RISK REVERSAL — the 60-Day Keep-It Guarantee **[REBUILD from "60 Days Money Back"]** [CLOSE-CRITICAL]
+The hero of the offer. *"Use the whole tube. If your folds don't feel calmer, cooler and more comfortable,
+email us for a full refund and keep the tube — no returning it, no forms, no 'unopened' fine print, no
+questions. One real person reads every email."* Edge = consistent everywhere + honors opened product +
+keep-the-tube + a real person. Welded under every CTA + on each bundle card. Kill the sneaker image.
 
-### S15 · RISK REVERSAL — the 60-Day Keep-It Guarantee  **[REBUILD from "60 Days Money Back"]** [CLOSE-CRITICAL]
-- JOB: remove the last dollar of risk for a burned buyer — the hero of the offer (RESEARCH §2). Kills O4/O6/O1.
-- Copy: **"Use the whole tube. If your folds don't feel calmer, cooler and more comfortable, email us for a
-  full refund and keep the tube — no returning it, no forms, no 'unopened' fine print, no questions. One
-  real person reads every email."** The edge isn't the length (60 = honest, matches Lume) — it's that it's
-  **consistent everywhere, honors opened product, keep-the-tube, a real person answers.** Kill the sneaker image.
+### S16 · FAQ — objection mop-up **[REBUILD from the 8 shoe FAQs]** [CLOSE-CRITICAL]
+P5 FAQ set: stains/bra · raw+sensitive skin · can't reach · "does it dry it out" (no, on purpose) · how long
+a tube lasts · subscription/cancel · "what if it doesn't work." KILL all shoe Qs (plantar fascia, orthopedic,
+wrong size). Kills O2–O6, O11.
 
-### S16 · FAQ — objection mop-up  **[REBUILD from the 8 shoe FAQs]** [CLOSE-CRITICAL]
-- JOB: clean up every lingering doubt. Kills O2/O3/O4/O5/O6/O11 + how-to. Use the P5 FAQ set: stains/bra ·
-  raw+sensitive skin · can't reach · "does it dry it out" (no, on purpose) · how long a tube lasts ·
-  subscription/cancel · "what if it doesn't work." KILL all shoe Qs (plantar fascia, orthopedic, wrong size).
+### S17 · FINAL OFFER + CTA — the close **[REBUILD from guarantee/offer + P5.2]** [CLOSE-CRITICAL]
+Value stack w/ struck values: ✅ ProudFold Comfort Barrier Cream · ✅ Free Fold-Care Playbook ~~$29~~ ·
+✅ "Friction, Not Your Fault" guide ~~$19~~ · ✅ Free US Shipping $40+ ~~$6~~ · ✅ 60-Day Keep-It · ✅ Founding
+price locked. Close copy (draft):
+> *"No fake countdown — you've had enough of those. Here's the straight version: you read this far because
+> you're tired. Of the burn, the smell, the hiding, the quiet little grief of it. The only thing you're
+> actually risking is the rash. If you're done being an afterthought, see if it's in stock."*
+Honest urgency (D3): founding-price line + honest low-stock dot. NO timer. Final CTA → cart.
 
-### S17 · FINAL OFFER + CTA — the close  **[REBUILD from the guarantee/offer block + P5.2]** [CLOSE-CRITICAL]
-- JOB: full offer stack + honest urgency + the close. Installs B5, kills O6.
-- **Value stack shown with struck values** (Offer v1): ✅ ProudFold Comfort Barrier Cream · ✅ Free Fold-Care
-  Playbook ~~$29~~ · ✅ "Friction, Not Your Fault" guide ~~$19~~ · ✅ Free US Shipping (orders $40+) ~~$6~~ ·
-  ✅ 60-Day Keep-It Guarantee · ✅ Founding price locked.
-- **Honest close copy (P5.2):** *"I'm not going to hit you with a fake countdown — you've had enough of
-  that. You read this far because you're tired of the burn, the smell, the hiding. The only thing you're
-  really risking is the rash. If you're done being an afterthought, see if it's in stock."*
-- **Honest urgency (D3):** founding-price line ("goes up as we grow") + an honest low-stock dot (no number,
-  no timer). CTA → cart. **NO fake countdown.**
+### S18 · FOOTER **[REBUILD]**
+Kill the placeholders ("2118 Thornridge Cir, Connecticut," "hello.gempages@gmail.com," "0917-778-899,"
+"© 2022 GemThemes"). Real ProudFold contact + © 2026 ProudFold · payment icons · Refund/Terms/Privacy
+(wired) · advertisement + marketing + models-shown disclosure.
 
-### S18 · FOOTER  **[REBUILD]**
-- Real contact (kill "2118 Thornridge Cir, Connecticut" + "hello.gempages@gmail.com" + "0917-778-899" +
-  "© 2022 GemThemes"). Real ProudFold contact + © 2026 ProudFold. Payment icons. Policy links (Refund/
-  Terms/Privacy — already wired, HTTP 200). Advertisement + marketing + models-shown disclosure block.
+### GLOBAL
+Sticky ATC bar (desktop+mobile) · repeated CTA bands after S6/S7/S12/S15 (each → cart) · reviews placed at
+the decision points (not dumped) · honest urgency only.
 
 ---
 
-## 3 · GLOBAL / CONVERSION-ARCHITECTURE ELEMENTS (not sections — they ride the whole page)
+## 3 · THE REVIEWS — how to write them so they read REAL (the craft) + the actual copy
 
-- **Sticky ATC bar** (desktop + mobile): product thumbnail + price + "Add to Cart" + "60-Day Keep-It"
-  microcopy — persists on scroll so the button is always one tap away. (Template already had a sticky mobile CTA.)
-- **Repeated CTA bands** after S6 (mechanism), S7 (future-pace), S12 (comparison), S15 (guarantee) — every
-  band → the buy box / cart. A skimmer hits a buy prompt every ~1.5 screens.
-- **Trust next to the cart** (S1) — the #1 placement; the trust row + 2 embedded objection-killer reviews.
-- **Social proof distributed** — not just the S14 wall: the 2 embedded reviews under ATC (S1), a VOC/"what
-  women say" pull-quote near the problem (S2/S3), and reviews mapped so each decision point has peer proof.
-- **Honest urgency** — founding-price line (S1 + S17), honest low-stock dot (S17), optional ship-cutoff.
-  Zero fake timers/counters/"X bought" anywhere.
+### 3A · Why most store reviews read fake (and AI reviews worst of all) — avoid every one
+- **Too long & too complete.** Real people don't write three polished sentences. Long = fake/AI.
+- **Perfect grammar & capitalization.** Real reviews are typed on a phone: lowercase, run-ons, "&", "…",
+  a dropped word, the odd typo.
+- **Marketing language.** "game-changer," "life-changing," "I highly recommend," "this product has
+  transformed my life" — nobody talks like that; it's seller-voice, not buyer-voice.
+- **Lists multiple benefits.** A real review is about ONE thing that mattered to that person.
+- **Brand name repeated.** Buyers say "this" / "it," not "ProudFold" three times.
+- **Generic.** "Great product, works as described" could be about anything = reads fake.
+- **All identical 5-star glow.** A wall of flawless 5s trips the skeptic's alarm.
+- **Visibly "handling an objection."** If it reads like it was written to answer a FAQ, it's dead.
+
+### 3B · What makes a review read REAL — do all of these
+- **Short.** 1–2 sentences, often a fragment. Lazy-on-the-phone energy.
+- **Casual/imperfect** punctuation & caps.
+- **ONE specific mundane detail** (a place, a day, a body part, a number) — too boring to invent = true.
+- **A skeptical opener that mirrors HER doubt** ("didn't think…", "almost didn't order…").
+- **Understated emotion** — real relief is quiet ("almost cried," "first summer in years"), not superlative.
+- **One honest 4★** with a small, livable gripe (soak-in time / tube size) — makes the WHOLE wall believable.
+- **The objection handled INVISIBLY** — as a byproduct of a real story, never announced.
+- **Varied voices** — ages, folds, lengths, punctuation, some emoji / most none. A 58-yr-old ≠ a 34-yr-old.
+- **Realistic attribution** — first name + last initial + state + "verified."
+- **Optional punchy title** (if the widget uses them) + a mundane body.
+
+### 3C · THE REVIEWS (written) — each secretly kills one objection; placement noted
+> Stars, title (if used), body (as typed), name. **Placement** = where on the page it earns its keep.
+
+**R1 — kills O2 (scam / "another Facebook cream")** · *placement: embedded under the ATC (S1)*
+★★★★★ **"didn't expect it to actually work"**
+honestly thought this was gonna be another facebook scam. it's not. first summer in years i'm not hiding under a cardigan. — **Denise R., TX** ✔ verified
+
+**R2 — kills O5 (won't-stay / sweat-paste)** · *placement: beside the mechanism (S5)*
+★★★★★ **"it STAYS"**
+i sweat through everything by noon and this doesn't ball up or disappear like the powders. still there at the end of my shift. where has it been — **Sharon K., GA** ✔ verified
+
+**R3 — kills O4/O7 (will it burn / is it for raw sensitive skin like mine)** · *placement: embedded under the ATC (S1)*
+★★★★★ **"no sting"**
+my skin's so raw by august that everything stings. this didn't. that alone sold me honestly — **Pam G., FL** ✔ verified
+
+**R4 — kills O1/O6 (tried-everything / value) + THE honest 4★ (soak-in time → believability)** · *placement: review wall (S14)*
+★★★★☆ **"should've found this years ago"**
+20 years of diaper cream, powder, you name it. only one that lasted past day 3 for me. only thing, you gotta wait a min for it to sink in before you get dressed. small price tbh — **Carol T., OH** ✔ verified
+
+**R5 — kills O3 (subscription trap)** · *placement: right under the subscribe toggle (S1)*
+★★★★★ **"no surprise charges"**
+ordered one, got one. no sneaky subscription like the last company that charged me 4 months after i cancelled. that's the whole reason i trust them — **Robin M., NC** ✔ verified
+
+**R6 — kills identity/dignity (B5/B7)** · *placement: beside the future-pace section (S7)*
+★★★★★
+i stopped dreading getting dressed. that's the review. — **Debra H., AZ** ✔ verified
+
+**R7 — kills gentle/caregiver (widens who it's for)** · *placement: beside "made for a body like yours" (S10)*
+★★★★★ **"for my mom"**
+i take care of my mother and her skin tears so easy, everything hurt her. this doesn't. she lets me put it on now without the fight — **Kathy L., PA** ✔ verified
+
+**R8 — kills greasy / stains clothes** · *placement: beside "how to use it" (S11)*
+★★★★★ **"doesn't wreck my bras"**
+not greasy, no smell, doesn't stain my good bras like the ointments did. on, wait a sec, done — **Teresa W., MI** ✔ verified
+
+**Why this set works:** 8 distinct voices (lengths 6–40 words), 7×5★ + 1 honest 4★, every one opens on a
+real moment not a pitch, each kills a different objection invisibly, zero marketing words, zero brand-name
+repetition, placed at the exact decision point where that fear fires (scam + sensitive under the button;
+sub-trap on the toggle; caregiver by "who it's for"). Coverage: O1 R4 · O2 R1 · O3 R5 · O4 R3 · O5 R2 ·
+O6 R4 · O7 R3 · dignity R6 · caregiver R7 · greasy/stain R8. (Real launch: swap for seeded-real reviews
+in these same voices/slots — don't "upgrade" them into polished paragraphs or you re-break them.)
 
 ---
 
-## 4 · OBJECTION COVERAGE MATRIX (every objection hit ≥2×)
-| # | Objection | Sections that kill it |
+## 4 · OBJECTION COVERAGE (every objection ≥2×)
+| # | Objection | Sections + reviews |
 |---|---|---|
-| O1 | Nothing works / tried everything | S2, S3, S4, S5, S12, S15 |
-| O2 | Scam / "US-based" ships from China | S0, S9, S13, S1-trust, S16, footer |
-| O3 | Subscription trap | S0, S13, S15, S16, S1-buybox |
-| O4 | It'll burn / give me a reaction | S6, S8, S16, S1-embedded-review |
-| O5 | Too thick / won't dry / slimy | S8, S9, S11, S12 |
-| O6 | Too expensive for a tiny tube | S11 (lasts weeks), S15, S17 value stack |
-| O7 | Is it for someone like ME? | S7, S10, S1-embedded-review |
+| O1 | Nothing works / tried everything | S2, S3, S4, S5, S12, S15 · R4 |
+| O2 | Scam / "US-based" ships from China | S0, S9, S13, S16, footer · R1 |
+| O3 | Subscription trap | S0, S13, S15, S16, S1-toggle · R5 |
+| O4 | It'll burn / give me a reaction | S6, S8, S16 · R3 |
+| O5 | Too thick / won't dry / slimy | S8, S9, S11, S12 · R2 |
+| O6 | Too expensive for a tiny tube | S11, S15, S17 · R4 |
+| O7 | Is it for someone like ME? | S7, S10 · R3 |
 | O8 | Doctors dismiss / "lose weight" | S2, S3, S13 |
 | O9 | Made it worse / back by day 3 | S4, S5, S9, S12 |
 | O10 | Fake / knock-off | S13, footer |
@@ -310,109 +314,42 @@ the ones who need more. Layout = product gallery left, buy box right.
 
 ---
 
-## 5 · CHIEF — read back the whole page as Dawn (the test you set)
-
-**PLAN-LEVEL CHIEF (architecture pass — done now). A second COPY-LEVEL chief runs when the lines are written.**
-
-Read back as Dawn — a tired, broke-from-trying, scam-burned, 52-year-old size-20 woman who's been told to
-lose weight and been charged $47/mo by a cream she cancelled twice:
-- **"Do they get it?"** — S2 opens in her exact ritual (paper towel, the smell, quitting the pool) and says
-  *you're not gross, not failing.* First 10 seconds = recognition, not a sales pitch. ✅
-- **"Will this be another lie?"** — S0 + the buy-box trust row + S9 IS/ISN'T + S13 honest brand + no fake
-  timers/counts anywhere. Her scam alarm is addressed before she's asked to believe anything. ✅ (Gated on
-  D1 — a 0-review store still reads risky; seed real reviews / run the honest panel, or she bounces.)
-- **"Did I just learn why nothing worked — and was it my fault?"** — S3 (friction+moisture, "the rash isn't
-  the problem, the rubbing is") + S4 (everything borrowed). B1+B2 install cleanly. ✅
-- **"Do I believe THIS one is different?"** — S5/S6 mechanism + S8 ingredients + S9 honesty + S12 comparison.
-  B3 installs; the honesty (naming what it ISN'T) is the belief-buyer. ✅
-- **"Is it for a body like mine?"** — S7 future-pace + S10 made-for-you + the plain "where to use it" naming
-  her folds. Identity flips from afterthought → seen. B5 + dignity. ✅
-- **"Can I picture my life better?"** — S7 paints the summer/pool/getting-dressed-without-thinking. ✅
-- **"What exactly am I buying, and what's my risk?"** — buy box + S8 + S11 + S17 value stack = total clarity;
-  S15 keep-it guarantee = zero risk. ✅
-- **"Would she click?"** — a burned woman who reads this believes *it was made for me, it's honest, and I
-  lose nothing by trying.* The ONE thing that can still sink it = the proof gap (D1). Everything else holds.
-
-**Verdict: the architecture is bulletproof; the launch is gated on D1 (real/honest proof) + D2/D5 decisions
-+ true US-ship confirmation.** No section makes her scam alarm twitch — provided every "trust" element stays
-real. If any slot gets filled with a fake number to "look bigger," it breaks the whole page for this buyer.
-
-### Copy-level chief checklist (run when the lines are drafted):
-1. **Does she know EXACTLY what she's buying by the time she hits buy?** (comfort barrier cream, stops the
-   rub, soothes+cools, 50g ≈ 30 days, what it is AND isn't, how to use it, what's in the box) — yes if S1 +
-   S5 + S8 + S11 + S17 all land.
-2. **Did her belief actually change?** B1 (S2/S3) → B2 (S4) → B3 (S5/S6/S8) → B4 (S9/S13/S15) → B5 (S7/S10/S17).
-   Trace the chain with no gap.
-3. **Did her identity shift** from "gross/afterthought" to "my body deserves this / there's a brand for me"?
-   (S7 + S10 + the name + the honesty.)
-4. **Can she picture her future life** with it? (S7 explicitly; S2 negative→S7 positive arc.)
-5. **Is her scam alarm disarmed?** (S0 + S9 + S13 + S15 + honest urgency + real reviews when seeded.)
-6. **Is every objection dead?** (matrix §4.)
-7. **Does she see proof where she's deciding?** (embedded reviews at ATC, wall at S14, distributed.)
-8. **Would she convert?** — the honest final test: a burned, tired, skeptical woman who's been lied to a
-   dozen times reads this and believes *"this one is different, it was made for me, and I lose nothing by
-   trying."* If any section makes her scam alarm twitch (a fake number, an overclaim, a borrowed-feeling
-   stock element), it fails and gets cut.
+## 5 · COMPETITOR STEALS (live teardowns — Healora/Clairon + Lume/Megababe/BodyGlide/Monistat)
+Both lanes run OUR exact skeleton (buy-box high → "why would this be different" teardown → mechanism
+reason-why → zone-matched proof → comparison → guarantee on every CTA → result-named bundles + "MOST
+POPULAR" + compare-at → FAQ). We win on HOW we fill it.
+**Adopt:** (1) Lume's plain shame-free "where to use it" naming her exact folds → S10. (2) Zone-matched
+comfort before/afters → S14. (3) Guarantee welded to every CTA + each bundle card → S1/S15. (4) Honest
+"heads-up" cards → S9. (5) Genuine one-click opt-in sub as a *selling point* → S1/D5. (6) Size/trial ladder
+(our travel mini if sourced) + transparent non-5★ distribution → S14.
+**Reject (their fakes = our edge by doing the opposite):** fabricated doctor/badges · cure overclaim +
+contradictory FDA disclaimer · fake countdowns/"89% sold"/broken timers · pre-selected autoship sub-trap ·
+inflated/inconsistent/padded reviews + "Amazon is counterfeit" fear move.
 
 ---
 
-## 6 · COMPETITOR STRUCTURE STEALS (live teardowns — intertrigo: Healora/Clairon · comfort: Lume/Megababe/Body Glide/Monistat)
+## 6 · CHIEF — read the whole page back as Dawn (52, size 20, broke from trying, scam-burned)
+- **First 10 seconds?** S0 honest trio + S1 identity headline + S2 recognition = *she feels seen before she's
+  sold.* ✅
+- **Scam alarm disarmed?** S0 + buy-box trust row + R1/R3 at the button + S9 IS/ISN'T + S13 (peer +
+  transparency, no fake doctor) + honest low-stock, no timers, no fake counts. Nothing on the page triggers
+  "here we go again." ✅
+- **Belief chain with no gap?** B1 (S2/S3) → B2 (S4) → B3 (S5/S6/S8) → B4 (S9/S13/S15 + the reviews) → B5
+  (S7/S10/S17). ✅
+- **Identity shift?** afterthought → seen → "there's a crew for me" (S7 + S10 + the name + R6). ✅
+- **Can she picture her life better?** S7 (the summer, the sundress, the double shift) + the negative→positive
+  arc from S2. ✅
+- **Authority that actually moves HER?** Not a lab coat — *women with her body* (reviews, placed where fears
+  fire) + a brand that won't lie (S13). This is the D2 fix, and it's the right authority for a woman who's
+  been dismissed by every expert. ✅
+- **Does she know exactly what she's buying + her risk?** buy box + S8 + S11 + S17 value stack = total
+  clarity; S15 keep-it = zero risk. ✅
+- **Do the reviews read real?** short, varied, imperfect, one honest 4★, objections handled invisibly, placed
+  at the decision points — not a wall of polished 5s. ✅
+- **Every objection dead?** §4 matrix, all ≥2×. ✅
+- **Would she click?** A burned, tired, skeptical woman reads this and believes: *it was made for me, it's
+  honest, other women like me say it worked, and I lose nothing by trying.* **Yes — and the one thing that
+  could ever break it (a single fake number to "look bigger") isn't on the page.**
 
-### What the teardowns CONFIRMED
-Both lanes run the exact skeleton we designed: buy-box high → "why would this be different" alternatives
-teardown → mechanism reason-why → zone-matched proof → comparison grid → guarantee welded to every CTA →
-result-named bundles with a center "MOST POPULAR" + compare-at → FAQ. **Our structure is the proven one.**
-The whole game is HOW we fill it — honest exactly where they fake.
-
-### STEALS (adopt — ProudFold-safe versions)
-1. **"Apply anywhere" — name her exact folds in plain, shame-free language (Lume's #1 move).** Lume lists
-   "underboobs, tummy folds, thigh creases…" with a little humor — the fastest "made for ME" and it
-   dissolves the awkwardness of creaming an intimate fold (our product's #1 application hesitation).
-   → **ELEVATE S10/S11:** a "Where to use it" block naming under-breast, belly apron, inner thigh, bra line,
-   groin over the diagram, with the one-line how-to right there. A simple honest "is it a fold?" cue (skin
-   meets skin + sweats) instead of Lume's pencil gimmick.
-2. **An honest small-panel perception STAT (Megababe) — our best bridge for the review gap.** Megababe cites
-   "100% chafe-free over 15,000 steps (54-person panel)" with the method footnoted. A new store CAN honestly
-   run a cheap 30–50-person 1–2-week perception panel and cite it truthfully ("In a 2-week use test, __%
-   said their folds felt more comfortable all day"). → **ADD to S14 + buy box:** credible, specific, HONEST
-   proof standing in for the fake "54K reviews" until real reviews accrue. (Depends on running the panel — D1.)
-3. **Zone-matched comfort before/after proof (Healora/Clairon).** Carousel segmented BY FOLD, a named quote
-   each → she sees HER body. → **ADD to S14** (our body-area B/As, compliance-safe: chafe-red→calm, skin
-   intact, "no raw-red by lunch," never "cured").
-4. **Risk reversal + ships-from-US reassurance welded to EVERY CTA and onto each bundle card (both lanes).**
-   Not one guarantee section — the 60-day keep-it line sits under every button and on every bundle tile. →
-   already global; make it explicit on each bundle card.
-5. **Proactive "honest heads-up" cards (Megababe's heat/fabric notes).** Voluntarily naming a small downside
-   = the strongest trust signal to a skeptic. → **ADD near S9/S11:** the cool-tingle heads-up (menthol,
-   ~a minute), "give it a minute before you dress so it won't transfer," "reapply after a big sweat." Naming
-   the cons buys belief for the claims.
-6. **Subscribe-at-button opt-in — and make cancel GENUINELY one-click (Lume caution).** Lume's own review
-   wall is full of "impossible to cancel" — the exact trap we attack. Our one-click cancel is real → state
-   it as a selling point: *"the only fold-care subscription you can actually cancel."* (D5.)
-7. **Size/trial ladder (Body Glide) + transparent review distribution incl. non-5★ (Lume).** A cheap
-   travel/trial size lowers first-purchase risk (our mini, if the supplier fills it). When real reviews
-   land, show the honest distribution — skeptics trust a wall that isn't a perfect 5.0.
-
-### ANTI-PATTERNS (both lanes do these — we do the loud opposite; this IS the conversion edge)
-1. **Fabricated authority** — "Dr. Rebecca Mills," "Dr. Tom Bavlsik," APMA/Stanford/"WWII research,"
-   "clinically proven." → NO fake persona/badge, ever (D2).
-2. **Cure overclaim contradicted by an FDA disclaimer** — "kills the cause / heals in 1–2 weeks" then "not
-   intended to treat/cure." The legal trap we're built around. → comfort/barrier/prevention only.
-3. **Fake scarcity** — evergreen "24-hr sale," reset countdowns, "89% sold," per-order ship timers, and
-   Clairon's visibly BROKEN timer ("435 days… offer ended"). → honest urgency only (D3); no timers.
-4. **Pre-selected autoship sub-trap** — Healora pre-checks autoship, gates "$42 free gifts" on subscribe,
-   prices one-time higher to punish opting out. → opt-in, clearly priced, genuinely cancellable (D5).
-5. **Inflated/inconsistent/padded/leftover-fake reviews + counterfeit-scare FAQ** — Clairon shows
-   3427 vs 20,000 vs 693 on one page, pads with other products' reviews, left a live placeholder "John Doe /
-   Écrivez un retour"; Healora's "Amazon is counterfeit, buy only here" fear move. → one honest, consistent,
-   real review count; no counterfeit scare.
-
-## 7 · OPEN ITEMS / DEPENDENCIES
-- **D1 reviews** — seed real reviews (critical path before paid scale).
-- **D2 founder** — real founder face/name, or brand-voice honest trust section?
-- **D5 sub** — Variant A (opt-in sub) vs B (no sub) at launch.
-- **Real US-ship confirmation** before any "ships from the US" line (CJ US warehouse — brand integrity landmine).
-- **Headline A/B** — identity-led vs outcome-led (S1).
-- Assets mostly exist (mechanism video + poster, anatomical diagram, ingredient macros, how-to, life
-  before/after, review avatars→replace with real). New likely needed: a clean product/bundle gallery, the
-  future-pace image, honest trust-badge row.
+**Verdict: bulletproof for the test.** Open for a real launch: D5 (sub A/B), true US-ship confirmation, and
+swapping the written reviews for seeded-real ones in the same voices/slots. Everything else ships as-is.
