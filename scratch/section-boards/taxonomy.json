@@ -232,6 +232,13 @@
    "board": "store"
   },
   {
+   "key": "references",
+   "group": "proof",
+   "board": "store",
+   "name": "Studies / references / footnotes",
+   "desc": "Numbered study citations, clinical references, footnotes and claim sources backing the copy."
+  },
+  {
    "key": "benefits_grid",
    "group": "persuade",
    "name": "Benefits (icons / grid)",
@@ -655,8 +662,8 @@
    "key": "p_ranking_method",
    "group": "p_open",
    "board": "presell",
-   "name": "How we ranked / review methodology",
-   "desc": "'How we tested', ranking criteria and scoring used in best-of / top-5 comparison listicles."
+   "name": "How we ranked / verdict box",
+   "desc": "'How we tested', ranking criteria, scores and 'our verdict' boxes used in best-of / top-5 comparison listicles."
   },
   {
    "key": "p_authenticity_warning",
