@@ -1,6 +1,7 @@
-<!-- ProudFold REVIEWS WALL — responsive card grid (replaces the native testimonials template that broke on mobile).
-     Honest 4.8 summary + 6 quote cards (the locked review cast). WHITE bg, terracotta accents. 3 cols -> 2 -> 1.
-     Avatar = initial circle for now; swap to the 6 review portraits when those images are generated.
+<!-- ProudFold REVIEWS — swipeable carousel (replaces the native testimonials template).
+     Honest 4.8 summary + 6 quote cards in a horizontal scroll-snap carousel: 3 across desktop, 2 tablet,
+     1 (with a peek of the next) on mobile. Native touch swipe + arrow buttons + dots. WHITE bg, terracotta accents.
+     Avatar = initial circle for now; swap to the 6 review portraits when generated.
      Compliant: comfort/experience only, no cure/before-after. Paste into a GemPages Custom Code element. -->
 <div id="pfrv">
 <style>
@@ -8,27 +9,29 @@
   #pfrv{--ink:#1C1B19;--terra:#C4603F;--terra-d:#A84E30;--amber:#D99A4E;--taupe:#B8A995;--line:#E8E4DC;--soft:#FAF8F4;--muted:#6f685e;
     font-family:'Outfit',-apple-system,Segoe UI,Roboto,sans-serif;color:var(--ink);background:#fff;box-sizing:border-box;width:100%;text-align:left}
   #pfrv *{margin:0;padding:0;box-sizing:border-box}
-  #pfrv .wrap{max-width:1140px;margin:0 auto;padding:70px 28px 74px}
-  #pfrv .head{text-align:center;max-width:640px;margin:0 auto 34px}
+  #pfrv .wrap{max-width:1140px;margin:0 auto;padding:70px 20px 70px}
+  #pfrv .head{text-align:center;max-width:640px;margin:0 auto 30px}
   #pfrv .eye{font-size:13px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--terra);margin-bottom:14px}
   #pfrv h2{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:36px;line-height:1.1;letter-spacing:-.015em;color:#141311}
 
   /* rating summary */
-  #pfrv .summary{display:flex;align-items:center;gap:40px;justify-content:center;flex-wrap:wrap;background:var(--soft);border:1px solid var(--line);border-radius:18px;padding:26px 34px;max-width:760px;margin:0 auto 40px}
+  #pfrv .summary{display:flex;align-items:center;gap:40px;justify-content:center;flex-wrap:wrap;background:var(--soft);border:1px solid var(--line);border-radius:18px;padding:24px 34px;max-width:720px;margin:0 auto 34px}
   #pfrv .score{text-align:center;flex:none}
-  #pfrv .score .n{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:52px;line-height:1;color:#141311}
-  #pfrv .score .st{color:var(--amber);font-size:17px;letter-spacing:2px;margin:6px 0 4px}
+  #pfrv .score .n{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:48px;line-height:1;color:#141311}
+  #pfrv .score .st{color:var(--amber);font-size:16px;letter-spacing:2px;margin:6px 0 4px}
   #pfrv .score .c{font-size:12.5px;color:var(--muted);font-weight:600}
-  #pfrv .dist{flex:1 1 260px;min-width:220px;display:flex;flex-direction:column;gap:6px}
+  #pfrv .dist{flex:1 1 240px;min-width:210px;display:flex;flex-direction:column;gap:6px}
   #pfrv .drow{display:flex;align-items:center;gap:10px;font-size:12px;color:var(--muted);font-weight:600}
   #pfrv .drow .lab{width:34px;flex:none}
   #pfrv .drow .bar{flex:1;height:7px;border-radius:5px;background:#EAE3D8;overflow:hidden}
   #pfrv .drow .bar i{display:block;height:100%;background:var(--amber);border-radius:5px}
   #pfrv .drow .pc{width:34px;text-align:right;flex:none}
 
-  /* cards grid */
-  #pfrv .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
-  #pfrv .card{border:1.5px solid var(--line);border-radius:16px;background:#fff;padding:22px 22px 20px;box-shadow:0 2px 10px rgba(28,27,25,.045);display:flex;flex-direction:column}
+  /* carousel */
+  #pfrv .caro{position:relative}
+  #pfrv .track{display:flex;gap:18px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;-webkit-overflow-scrolling:touch;padding:4px 2px 6px;scrollbar-width:none}
+  #pfrv .track::-webkit-scrollbar{display:none}
+  #pfrv .card{flex:0 0 calc((100% - 36px)/3);scroll-snap-align:center;min-width:0;border:1.5px solid var(--line);border-radius:16px;background:#fff;padding:22px 22px 20px;box-shadow:0 2px 10px rgba(28,27,25,.045);display:flex;flex-direction:column}
   #pfrv .crow{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:11px}
   #pfrv .stars{color:var(--amber);font-size:14px;letter-spacing:1.5px;white-space:nowrap}
   #pfrv .zone{font-size:10.5px;font-weight:800;letter-spacing:.04em;text-transform:uppercase;color:var(--terra-d);background:#F6EFE6;border-radius:20px;padding:3px 10px;white-space:nowrap}
@@ -41,15 +44,28 @@
   #pfrv .vb{margin-left:auto;font-size:11px;color:var(--muted);font-weight:600;display:flex;align-items:center;gap:4px;white-space:nowrap}
   #pfrv .vb svg{width:13px;height:13px;stroke:#4caf6e;fill:none;stroke-width:3}
 
-  #pfrv .foot{max-width:760px;margin:30px auto 0;text-align:center;font-size:13px;line-height:1.6;color:var(--muted)}
+  /* arrows */
+  #pfrv .arw{position:absolute;top:50%;transform:translateY(-50%);width:42px;height:42px;border-radius:50%;background:#fff;border:1px solid var(--line);box-shadow:0 4px 14px rgba(28,27,25,.12);display:flex;align-items:center;justify-content:center;color:var(--terra);font-size:20px;font-weight:700;cursor:pointer;user-select:none;z-index:4}
+  #pfrv .arw:hover{background:var(--soft)}
+  #pfrv .arw.l{left:-10px}#pfrv .arw.r{right:-10px}
 
-  @media(max-width:900px){#pfrv .grid{grid-template-columns:1fr 1fr}}
+  /* dots */
+  #pfrv .dots{display:flex;gap:7px;justify-content:center;margin-top:20px}
+  #pfrv .dots i{width:8px;height:8px;border-radius:50%;background:var(--taupe);opacity:.4;cursor:pointer;transition:all .2s}
+  #pfrv .dots i.on{background:var(--terra);opacity:1;width:22px;border-radius:5px}
+
+  #pfrv .foot{max-width:720px;margin:26px auto 0;text-align:center;font-size:13px;line-height:1.6;color:var(--muted)}
+
+  @media(max-width:900px){
+    #pfrv .card{flex:0 0 calc((100% - 18px)/2)}
+    #pfrv .arw{display:none}
+  }
   @media(max-width:600px){
-    #pfrv .grid{grid-template-columns:1fr}
+    #pfrv .card{flex:0 0 87%}
     #pfrv h2{font-size:27px}
-    #pfrv .wrap{padding:52px 18px 56px}
+    #pfrv .wrap{padding:52px 16px 56px}
     #pfrv .summary{gap:20px;padding:20px}
-    #pfrv .score .n{font-size:44px}
+    #pfrv .score .n{font-size:42px}
   }
 </style>
 <div class="wrap">
@@ -73,45 +89,75 @@
     </div>
   </div>
 
-  <div class="grid">
-    <div class="card">
-      <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span class="zone">Belly fold</span></div>
-      <div class="q">"if it works on me it works on anyone"</div>
-      <div class="t">i'm a size 26 and the fold under my belly is deep. most stuff never makes it down to where the trouble is. this gets in there, and that sore patch i'd just made my peace with isn't bugging me anymore. if it can handle me, trust me, it'll handle you.</div>
-      <div class="who"><span class="av">B</span><span class="nm">Barb K.<s>Oklahoma</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
+  <div class="caro">
+    <div class="arw l" onclick="pfRvMove(-1)">&#8249;</div>
+    <div class="arw r" onclick="pfRvMove(1)">&#8250;</div>
+    <div class="track" id="pfrvtrack">
+      <div class="card">
+        <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span class="zone">Belly fold</span></div>
+        <div class="q">"if it works on me it works on anyone"</div>
+        <div class="t">i'm a size 26 and the fold under my belly is deep. most stuff never makes it down to where the trouble is. this gets in there, and that sore patch i'd just made my peace with isn't bugging me anymore. if it can handle me, trust me, it'll handle you.</div>
+        <div class="who"><span class="av">B</span><span class="nm">Barb K.<s>Oklahoma</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
+      </div>
+      <div class="card">
+        <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span class="zone">Fast relief</span></div>
+        <div class="q">"i felt it the first day"</div>
+        <div class="t">wasn't expecting much that fast. by that evening i wasn't wincing every time i got up out of my chair. i didn't have to babysit it for a week to see if it did anything. that's what won me over.</div>
+        <div class="who"><span class="av">C</span><span class="nm">Cheryl A.<s>Indiana</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
+      </div>
+      <div class="card">
+        <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span class="zone">Hard to reach</span></div>
+        <div class="q">"i can finally do it myself"</div>
+        <div class="t">i can't lift the fold on my own these days, and nobody warns you about that part. i grabbed the long applicator and now i'm not wrestling myself or hollering for help. dab, wipe it across, finished.</div>
+        <div class="who"><span class="av">D</span><span class="nm">Diane F.<s>Pennsylvania</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
+      </div>
+      <div class="card">
+        <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span class="zone">Inner thighs</span></div>
+        <div class="q">"not just a summer thing"</div>
+        <div class="t">funny how everyone treats this like a july problem. try leggings on cold thighs in february. i reach for it all year now, which is the whole reason i grabbed extra and i'm not sorry.</div>
+        <div class="who"><span class="av">J</span><span class="nm">Janet M.<s>Wisconsin</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
+      </div>
+      <div class="card">
+        <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span class="zone">First order</span></div>
+        <div class="q">"half expected nothing to show up"</div>
+        <div class="t">never heard of them, took the chance anyway. showed up in a few days, plain box, tube sealed up proper. kind of embarrassed i worried. these folks are the real deal.</div>
+        <div class="who"><span class="av">R</span><span class="nm">Rhonda P.<s>Missouri</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
+      </div>
+      <div class="card">
+        <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span><span class="zone">Honest take</span></div>
+        <div class="q">"almost sent it back out of habit"</div>
+        <div class="t">you get to where nothing works so you just assume the worst. then i realized i'd gone a whole week without stopping to fix myself. only gripe, you don't need much, a little goes further than you think. the fact i could send it back is why i even bothered. ended up keeping it.</div>
+        <div class="who"><span class="av">G</span><span class="nm">Gail S.<s>Kentucky</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
+      </div>
     </div>
-    <div class="card">
-      <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span class="zone">Fast relief</span></div>
-      <div class="q">"i felt it the first day"</div>
-      <div class="t">wasn't expecting much that fast. by that evening i wasn't wincing every time i got up out of my chair. i didn't have to babysit it for a week to see if it did anything. that's what won me over.</div>
-      <div class="who"><span class="av">C</span><span class="nm">Cheryl A.<s>Indiana</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
-    </div>
-    <div class="card">
-      <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span class="zone">Hard to reach</span></div>
-      <div class="q">"i can finally do it myself"</div>
-      <div class="t">i can't lift the fold on my own these days, and nobody warns you about that part. i grabbed the long applicator and now i'm not wrestling myself or hollering for help. dab, wipe it across, finished.</div>
-      <div class="who"><span class="av">D</span><span class="nm">Diane F.<s>Pennsylvania</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
-    </div>
-    <div class="card">
-      <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span class="zone">Inner thighs</span></div>
-      <div class="q">"not just a summer thing"</div>
-      <div class="t">funny how everyone treats this like a july problem. try leggings on cold thighs in february. i reach for it all year now, which is the whole reason i grabbed extra and i'm not sorry.</div>
-      <div class="who"><span class="av">J</span><span class="nm">Janet M.<s>Wisconsin</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
-    </div>
-    <div class="card">
-      <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span class="zone">First order</span></div>
-      <div class="q">"half expected nothing to show up"</div>
-      <div class="t">never heard of them, took the chance anyway. showed up in a few days, plain box, tube sealed up proper. kind of embarrassed i worried. these folks are the real deal.</div>
-      <div class="who"><span class="av">R</span><span class="nm">Rhonda P.<s>Missouri</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
-    </div>
-    <div class="card">
-      <div class="crow"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span><span class="zone">Honest take</span></div>
-      <div class="q">"almost sent it back out of habit"</div>
-      <div class="t">you get to where nothing works so you just assume the worst. then i realized i'd gone a whole week without stopping to fix myself. only gripe, you don't need much, a little goes further than you think. the fact i could send it back is why i even bothered. ended up keeping it.</div>
-      <div class="who"><span class="av">G</span><span class="nm">Gail S.<s>Kentucky</s></span><span class="vb"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>Verified</span></div>
-    </div>
+    <div class="dots" id="pfrvdots"></div>
   </div>
 
   <div class="foot">These are real customers describing their own experience. Comfort and results vary from person to person &mdash; every order is backed by our 60-day keep-it guarantee, so you can try ProudFold on your own skin with nothing to lose.</div>
 </div>
+<script>
+(function(){
+  var track=document.getElementById('pfrvtrack');
+  var dotsWrap=document.getElementById('pfrvdots');
+  if(!track) return;
+  var cards=[].slice.call(track.querySelectorAll('.card'));
+  // build one dot per card
+  cards.forEach(function(_,k){ var d=document.createElement('i'); if(k===0)d.className='on'; d.onclick=function(){ cards[k].scrollIntoView({behavior:'smooth',inline:'center',block:'nearest'}); }; dotsWrap.appendChild(d); });
+  var dots=[].slice.call(dotsWrap.children);
+  window.pfRvMove=function(dir){
+    var step=cards[0].getBoundingClientRect().width + 18;
+    track.scrollBy({left:dir*step, behavior:'smooth'});
+  };
+  // sync active dot to nearest card on scroll
+  var raf;
+  track.addEventListener('scroll', function(){
+    if(raf) cancelAnimationFrame(raf);
+    raf=requestAnimationFrame(function(){
+      var mid=track.scrollLeft + track.clientWidth/2, best=0, bd=1e9;
+      cards.forEach(function(c,k){ var cc=c.offsetLeft + c.offsetWidth/2; var d=Math.abs(cc-mid); if(d<bd){bd=d;best=k;} });
+      dots.forEach(function(d,k){ d.className = (k===best)?'on':''; });
+    });
+  },{passive:true});
+})();
+</script>
 </div>
