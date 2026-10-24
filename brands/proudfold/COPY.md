@@ -943,14 +943,43 @@ Button: **CHECK AVAILABILITY** · Badge: **● Low stock — selling fast** (amb
 **NO fake countdown** (the old timer was removed/retired here — see mobile note P5.5).
 
 ## P5.3 · REVIEWS (⑮) — final cast, all women (ICP), objection-mapped
-1. ★★★★★ "Thought it'd be another scam cream" — First summer in years I'm not hiding. Honestly, a little mad it took me this long to find it. — **Denise R.** (scam/skeptic #2)
-2. ★★★★★ "Underboob sweat used to wreck me by noon" — This stays put all day. Big-busted girls — get this one. — **Sharon K.** (stays-put #5)
-3. ★★★★★ "No sting on my sensitive skin" — Everything else burned the second it touched raw skin. This one doesn't. Finally. — **Brenda M.** (sting #4)
-4. ★★★★ "20 years and a small fortune wasted" — Should've just started here. And a little goes a long way — one tube lasts me weeks. — **Carol T.** (tried-everything/value #1/#6)
-5. ★★★★★ "I stopped dreading getting dressed" — A pea-sized dab and I forget it's even there. That's the whole point. — **Debra H.** (dignity/B7)
-6. ★★★★★ "The 'no subscription' thing is real" — Ordered once, got one tube, no surprise charges. After what I've been burned by, that alone earned my trust. — **Marisol V.** (sub-trap #3)
+> **DE-DUPE PASS 2026-10-24:** reviews were echoing each other AND our own marketing copy ("stays put," "made for
+> me," "burned on raw skin," "another ___ cream"). A review that repeats site-copy phrasing reads fake. 3 of these
+> 6 reworded below so no review across the whole brand (homepage carousel + this block + the testimonials wall)
+> shares a name, an angle, or a signature phrase, and none parrots our headline/benefit language. **Rule now
+> standing: reviews talk like a real human, never in our copy's words.** ~ changed; others held.
+1. ★★★★★ "figured the internet had got me again" — first summer in ages i'm not hiding in the back, and a little peeved it took me this long to find it. — **Denise R.** (scam/skeptic #2) ~reworded off "another scam cream" (echoed Maureen's "dud")
+2. ★★★★★ "underboob sweat had me done by noon" — now the day just goes by and i'm not thinking about it. big girls up top, this is the one for us. — **Sharon K.** (stays-put #5) ~reworded off "stays put all day" (our copy phrase)
+3. ★★★★★ "my skin's so touchy i'd quit trying new things" — this went on soft and cool, didn't so much as tingle. i about fell over. — **Brenda M.** (sting #4) ~reworded off "everything burned on raw skin" (echoed Monica)
+4. ★★★★ "20 years and a small fortune wasted" — Should've just started here. And a little goes a long way — one tube lasts me weeks. — **Carol T.** (tried-everything/value #1/#6) [held]
+5. ★★★★★ "I stopped dreading getting dressed" — A pea-sized dab and I forget it's even there. That's the whole point. — **Debra H.** (dignity/B7) [held]
+6. ★★★★★ "The 'no subscription' thing is real" — Ordered once, got one tube, no surprise charges. After what I've been burned by, that alone earned my trust. — **Marisol V.** (sub-trap #3) [held]
 Fixes vs live: "Anna Chirstin" (typo) + "Rayul Mike" (male name+photo on a women's product) removed. Use women's
 photos. Recolor green "Verified Buyer" → terracotta #C4603F; keep gold stars. (Still TEST reviews — real ones for live.)
+**Apply status:** the 3 rewrites (Denise/Sharon K./Brenda) are logged here but NOT yet applied on the live
+advertorial page (GP_STATIC 642634077400204208) — do on next pass over that page.
+
+## P5.3b · HOMEPAGE REVIEWS — brand-wide cast (no repeated name / angle / phrase), human voice, NO copy-speak
+
+**A · Offer buy-box carousel (5) — LIVE 2026-10-24** (section 642941877120664178; scrubbed of "stays put",
+"actually" tic, "every summer", double skeptic-structure, and "burned on raw skin"):
+1. Maureen P., OH — skeptic/not-your-fault — *almost scrolled right past it, figured it'd be another letdown. it's the one that finally did something. come to find out it was the rubbing the whole time, nothing i was doing wrong.*
+2. Lynn D., TX — all-day / on feet in heat — *i'm on my feet all day down here in the heat. most creams go slick or give up by lunch. this one's still doing its job at closing time, and i've quit sneaking off to the bathroom to sort myself out.*
+3. Monica R., FL — no-sting + no-sub — *my skin fights everything, so i tried a little on one spot first. went on cool, didn't bite at all. paid the one time too, never saw another charge sneak through.*
+4. Gloria T., CA — under-bust fit — *big chest my whole life, so under there in the heat was just misery. this one gets down into the crease instead of sliding off the top. first time something fit where i needed it, period.*
+5. Nadine W., MI — recurrence/powder/value — *mine came back like clockwork around day three every time. i chucked the powders that just cake up, and with this it doesn't get going in the first place. the three pack ran me less than the junk drawer of stuff that never worked.*
+
+**B · Testimonials wall (6) — for the native "Customer Testimonials" template** (after the offer). Eyebrow
+"Verified buyers" · heading "Real women. Real folds. Real comfort." Each review = one objection goal. ★ = 5-star
+unless noted. Footer text block: *"These are real customers describing their own experience. Comfort and results
+vary from person to person — every order is backed by our 60-day keep-it guarantee, so you can try ProudFold on
+your own skin with nothing to lose."*
+1. Barb K., 58 · OK — **severity / "if it works on me it works on anyone"** — *i'm a size 26 and the fold under my belly is deep. most stuff never makes it down to where the trouble is. this gets in there, and that sore patch i'd just made my peace with isn't bugging me anymore. if it can handle me, trust me, it'll handle you.*
+2. Cheryl A., 49 · IN — **speed / felt it day one** — *wasn't expecting much that fast. by that evening i wasn't wincing every time i got up out of my chair. i didn't have to babysit it for a week to see if it did anything. that's what won me over.*
+3. Diane F., 63 · PA — **reach / mobility** — *i can't lift the fold on my own these days, and nobody warns you about that part. i grabbed the long applicator and now i'm not wrestling myself or hollering for help. dab, wipe it across, finished.*
+4. Janet M., 55 · WI — **year-round / justifies multi-pack** — *funny how everyone treats this like a july problem. try leggings on cold thighs in february. i reach for it all year now, which is the whole reason i grabbed extra and i'm not sorry.*
+5. Rhonda P., 52 · MO — **new-brand + shipping trust** — *never heard of them, took the chance anyway. showed up in a few days, plain box, tube sealed up proper. kind of embarrassed i worried. these folks are the real deal.*
+6. Gail S., 60 · KY — **honest 4★ + guarantee reassurance** (★★★★) — *you get to where nothing works so you just assume the worst. then i realized i'd gone a whole week without stopping to fix myself. only gripe, you don't need much, a little goes further than you think. the fact i could send it back is why i even bothered. ended up keeping it.*
 
 ## P5.4 · INGREDIENTS (⑨) — replaces the ugly IN-IT/NOT-IN-IT with a clean ingredient-card showcase
 Nikita swiped a competitor (Veloma) ingredient-explorer layout — adopt the STYLE, not the content (Veloma's

@@ -253,11 +253,11 @@
 
   /* ===== REVIEW CAROUSEL ===== */
   var REVIEWS = [
-    {t:'"almost didn\'t bother"', p:"Almost didn't buy it, figured it was another dud. It's the first one that actually worked for me. Turns out it was the rubbing all along, not anything I was doing wrong.", w:"Maureen P., OH"},
-    {t:'"lasts the whole day"', p:"I'm on my feet all day in Texas heat. Most creams go slimy or quit by lunch. This one stays put and I stopped running to the bathroom to fix myself.", w:"Lynn D., TX"},
-    {t:'"didn\'t sting"', p:"I braced for it to burn like everything does on raw skin. Nope, went on cool and soft. And I got charged once, no sneaky subscription after.", w:"Monica R., FL"},
-    {t:'"under the bust, finally"', p:"Big chested my whole life so under the boob is a nightmare every summer. This one actually fits where I need it. Felt like someone finally made it for a body like mine.", w:"Gloria T., CA"},
-    {t:'"threw out the powder"', p:"Every summer the rubbing used to come back by day three. Threw out the powders that turn to paste, and this one actually stays put. The 3 pack worked out cheaper than the pile of stuff I'd already wasted money on.", w:"Nadine W., MI"}
+    {t:'"almost scrolled past it"', p:"almost scrolled right past it, figured it'd be another letdown. it's the one that finally did something. come to find out it was the rubbing the whole time, nothing i was doing wrong.", w:"Maureen P., OH"},
+    {t:'"still going at closing time"', p:"i'm on my feet all day down here in the heat. most creams go slick or give up by lunch. this one's still doing its job at closing time, and i've quit sneaking off to the bathroom to sort myself out.", w:"Lynn D., TX"},
+    {t:'"didn\'t bite at all"', p:"my skin fights everything, so i tried a little on one spot first. went on cool, didn't bite at all. paid the one time too, never saw another charge sneak through.", w:"Monica R., FL"},
+    {t:'"fit where i needed it"', p:"big chest my whole life, so under there in the heat was just misery. this one gets down into the crease instead of sliding off the top. first time something fit where i needed it, period.", w:"Gloria T., CA"},
+    {t:'"chucked the powders"', p:"mine came back like clockwork around day three every time. i chucked the powders that just cake up, and with this it doesn't get going in the first place. the three pack ran me less than the junk drawer of stuff that never worked.", w:"Nadine W., MI"}
   ];
   var ri=0, box=document.getElementById('pfrev'), dots=document.getElementById('pfdots');
   if(dots){ REVIEWS.forEach(function(_,k){ var d=document.createElement('i'); if(k===0)d.className='on'; d.onclick=function(){ri=k;renderRev();}; dots.appendChild(d); }); }
