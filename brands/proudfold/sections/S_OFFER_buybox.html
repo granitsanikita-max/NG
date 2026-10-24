@@ -112,7 +112,7 @@
   #pfbb .fq{display:flex;justify-content:space-between;align-items:center;padding:13px 2px;font-weight:700;font-size:14.5px;gap:12px;cursor:pointer}
   #pfbb .fq .ic{color:var(--terra);font-size:19px;font-weight:400;flex:none;width:16px;text-align:center}
   #pfbb .fa{padding:0 2px;font-size:13.5px;line-height:1.55;color:#4a443d;max-height:0;overflow:hidden;transition:max-height .3s ease,padding .3s ease}
-  #pfbb .fi.open .fa{max-height:720px;padding:2px 2px 16px}
+  #pfbb .fi.open .fa{max-height:1600px;padding:2px 2px 16px}
   #pfbb .fa p{margin-bottom:9px}
   #pfbb .fa b{color:var(--ink);font-weight:800}
   #pfbb .fa ul{list-style:none;margin:2px 0 9px;display:flex;flex-direction:column;gap:8px}
@@ -122,7 +122,16 @@
   #pfbb .fa .stp li{counter-increment:s;align-items:flex-start}
   #pfbb .fa .stp li::before{content:counter(s);width:19px;height:19px;border-radius:50%;background:var(--terra);color:#fff;font-size:11px;font-weight:800;display:flex;align-items:center;justify-content:center;margin-top:1px}
 
-  @media(max-width:820px){#pfbb .grid{flex-direction:column;gap:26px}#pfbb .grid>div,#pfbb .grid>div:first-child{flex:1 1 auto;width:100%}#pfbb h1.title{font-size:31px}}
+  @media(max-width:820px){
+    #pfbb .grid{flex-direction:column;gap:26px}
+    #pfbb .grid>div,#pfbb .grid>div:first-child{flex:1 1 auto;width:100%;min-width:0}
+    #pfbb h1.title{font-size:31px}
+    /* FAQ mobile: don't clip open answers, keep questions readable + wrapping */
+    #pfbb .fi.open .fa{max-height:3000px}
+    #pfbb .fq{font-size:14px;align-items:flex-start;gap:10px}
+    #pfbb .fa{font-size:14px}
+    #pfbb .fa li{line-height:1.5}
+  }
 
   /* ===== FULL-WIDTH FIX: override GemPages' content-width clamp for THIS section only.
      GemPages caps section content at var(--g-ct-w) (1200px) via the .gp-mx-auto container.
@@ -218,10 +227,10 @@
 
       <div class="faq">
         <div class="ftitle">Before you buy</div>
-        <div class="fi open"><div class="fq" onclick="pfFaq(this)">What's actually in it? <span class="ic">−</span></div><div class="fa"><p>A short, fragrance-free formula built around one job — a protective barrier:</p><ul><li><b>Mineral oil &amp; glycerin</b> — form the thin layer that sits in the fold and cuts the skin-on-skin rubbing.</li><li><b>Allantoin</b> — soothes chafed, chapped skin.</li><li><b>A touch of mint</b> — the light cooling you feel on contact.</li></ul><p>No fragrance. No steroids. No harsh medicated actives that sting already-raw skin.</p><p>The full ingredient list is in the <b>third product photo above</b>.</p></div></div>
-        <div class="fi"><div class="fq" onclick="pfFaq(this)">Will it sting my already-raw skin? <span class="ic">+</span></div><div class="fa"><p>It was made for skin that's already raw and angry — so it's <b>gentle on purpose</b>.</p><ul><li><b>No fragrance</b> and none of the harsh stuff that burns.</li><li>Just a thin, comforting layer.</li><li>The <b>light cool is the mint</b>, not a sting.</li></ul><p>Skin very sore, or reacts to nearly everything? <b>Dab a little on one spot first</b> and wait a day.</p><p>Still not right? The <b>60-day keep-it guarantee</b> has you covered — full refund, keep the tube.</p></div></div>
-        <div class="fi"><div class="fq" onclick="pfFaq(this)">How do I use it — even on a fold I can't reach? <span class="ic">+</span></div><div class="fa"><p>Three easy steps:</p><ol class="stp"><li><b>Pat the fold dry</b> with a towel.</li><li><b>Smooth on a thin layer</b> anywhere skin rubs skin — you don't need much.</li><li><b>Reapply after a shower</b> or a big sweat.</li></ol><p>Most days, that's it.</p><p>Can't reach the spot? A <b>long-handled lotion applicator</b> — or a soft folded cloth — lets you pat it dry and smooth it on without holding the fold up or stretching.</p></div></div>
-        <div class="fi"><div class="fq" onclick="pfFaq(this)">Shipping, returns &amp; the guarantee? <span class="ic">+</span></div><div class="fa"><ul><li><b>Ships from the US</b>, usually lands in <b>3–7 business days</b>.</li><li>You get a <b>tracking email</b> the moment it's on its way.</li><li><b>One-time buy</b> — no subscription, nothing auto-charged, nothing sneaky after checkout.</li><li><b>60-day keep-it guarantee</b> — not for you? Email in for a full refund and keep the tube.</li></ul><p>No forms, no hoops, and a <b>real person answers</b>.</p></div></div>
+        <div class="fi open"><div class="fq" onclick="pfFaq(this)">What's actually in it? <span class="ic">−</span></div><div class="fa"><p>A short, fragrance-free formula built around one job — a protective barrier:</p><ul><li><b>Mineral oil &amp; glycerin</b> — form the thin layer that sits in the fold and cuts the skin-on-skin rubbing.</li><li><b>Allantoin</b> — soothes chafed, chapped skin.</li><li><b>A touch of mint</b> — the light cooling you feel on contact.</li></ul><p>No fragrance, no steroids, and no harsh medicated actives that sting already-raw skin. The full ingredient list is in the third product photo above.</p></div></div>
+        <div class="fi"><div class="fq" onclick="pfFaq(this)">Will it sting my already-raw skin? <span class="ic">+</span></div><div class="fa"><p>It was made for skin that's already raw and angry — so it's gentle on purpose.</p><ul><li>No fragrance, and none of the harsh stuff that burns.</li><li>Just a thin, comforting layer.</li><li>The light cool you feel is the mint, not a sting.</li></ul><p>Skin very sore, or reacts to nearly everything? Dab a little on one spot first and wait a day.</p><p>Still not right? The 60-day keep-it guarantee has you covered — full refund, keep the tube.</p></div></div>
+        <div class="fi"><div class="fq" onclick="pfFaq(this)">How do I use it — even on a fold I can't reach? <span class="ic">+</span></div><div class="fa"><p>Three easy steps:</p><ol class="stp"><li>Pat the fold dry with a towel.</li><li>Smooth on a thin layer anywhere skin rubs skin — you don't need much.</li><li>Reapply after a shower or a big sweat.</li></ol><p>Most days, that's it.</p><p>Can't reach the spot? A long-handled lotion applicator — or a soft folded cloth — lets you pat it dry and smooth it on without holding the fold up or stretching.</p></div></div>
+        <div class="fi"><div class="fq" onclick="pfFaq(this)">Shipping, returns &amp; the guarantee? <span class="ic">+</span></div><div class="fa"><ul><li>Ships from the US, usually lands in 3–7 business days.</li><li>You get a tracking email the moment it's on its way.</li><li>One-time buy — no subscription, nothing auto-charged, nothing sneaky after checkout.</li><li>60-day keep-it guarantee — not for you? Email in for a full refund and keep the tube.</li></ul><p>No forms, no hoops, and a real person answers.</p></div></div>
       </div>
     </div>
   </div>
@@ -238,7 +247,6 @@
     {label:'in use',        src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/reframe_nbp.png?v=1792743503'},
     {label:'detail',        src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/ChatGPT_Image_Oct_23_2026_07_25_11_PM_d430cf83-5157-4106-be19-f44a31ee5797.png?v=1792744161'},
     {label:'reviews',       src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/testimonials_nbp.png?v=1792743503'},
-    {label:'detail 2',      src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/ChatGPT_Image_Oct_23_2026_07_29_02_PM.png?v=1792744182'},
     {label:'guarantee',     src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/guarantee_gpt2.png?v=1792743501'}
   ];
   var gi=0, mainc=document.getElementById('pfmainc'), thumbs=document.getElementById('pfthumbs');

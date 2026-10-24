@@ -1,6 +1,7 @@
-<!-- ProudFold TOP TRUST BAR — infinite scrolling marquee. Dark bar, cream text, terracotta icons.
-     Robust: nothing shrinks (flex:0 0 auto), each item carries its own trailing separator (::after) so the
-     gap is identical everywhere incl. the loop seam. 16s desktop / 10s mobile. Hover to pause.
+<!-- ProudFold TOP TRUST BAR — bulletproof infinite marquee (no JavaScript). Dark bar, cream text, terracotta icons.
+     ONE track = two IDENTICAL halves; translateX:-50% = exactly one half, so it loops seamlessly with no overlap.
+     Every item + separator is flex:0 0 auto (never shrinks) + white-space:nowrap (never wraps) => identical on
+     desktop and mobile, all 5 messages always scroll. 14s desktop / 9s mobile. Hover to pause.
      Paste into a GemPages Custom Code element. -->
 <div id="pftb">
 <style>
@@ -8,30 +9,28 @@
   #pftb{--ink:#1C1B19;--cream:#F6F0E6;--terra:#D2704C;
     font-family:'Outfit',-apple-system,Segoe UI,Roboto,sans-serif;background:var(--ink);box-sizing:border-box;width:100%;overflow:hidden}
   #pftb *{margin:0;padding:0;box-sizing:border-box}
-  #pftb .mq{display:inline-flex;flex-wrap:nowrap;width:max-content;animation:pftbscroll 16s linear infinite}
+  #pftb .mq{display:flex;flex-wrap:nowrap;width:max-content;align-items:center;animation:pftbscroll 14s linear infinite;will-change:transform}
   #pftb:hover .mq{animation-play-state:paused}
-  #pftb .grp{display:inline-flex;flex-wrap:nowrap;align-items:center;flex:0 0 auto}
-  #pftb .it{display:inline-flex;align-items:center;gap:9px;flex:0 0 auto;padding:12px 0;white-space:nowrap;font-size:13.5px;font-weight:700;letter-spacing:.01em;color:var(--cream)}
+  #pftb .it{display:inline-flex;align-items:center;gap:9px;flex:0 0 auto;padding:12px 0;white-space:nowrap;
+    font-size:13.5px;font-weight:700;letter-spacing:.01em;color:var(--cream)}
   #pftb .it svg{width:17px;height:17px;stroke:var(--terra);fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
-  #pftb .it::after{content:"\25C6";color:var(--terra);opacity:.5;font-size:7px;margin:0 28px}
+  #pftb .sep{flex:0 0 auto;margin:0 30px;color:var(--terra);opacity:.55;font-size:7px;line-height:1}
   @keyframes pftbscroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-  @media(max-width:640px){#pftb .mq{animation-duration:10s}}
-  @media(prefers-reduced-motion:reduce){#pftb .mq{animation:none}}
+  @media(max-width:640px){#pftb .mq{animation-duration:9s}#pftb .it{font-size:13px}#pftb .sep{margin:0 22px}}
+  @media(prefers-reduced-motion:reduce){#pftb .mq{animation:none;justify-content:center}}
 </style>
 <div class="mq">
-  <div class="grp">
-    <span class="it"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M5.6 5.6l12.8 12.8"/></svg>No Subscription Trap</span>
-    <span class="it"><svg viewBox="0 0 24 24"><path d="M1 4h14v11H1z"/><path d="M15 8h4l3 3v4h-7z"/><circle cx="5.5" cy="18" r="2"/><circle cx="18" cy="18" r="2"/></svg>Ships From the US</span>
-    <span class="it"><svg viewBox="0 0 24 24"><path d="M12 2l8 4v6c0 5-3.5 8-8 10-4.5-2-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>60-Day Keep-It Comfort Guarantee</span>
-    <span class="it"><svg viewBox="0 0 24 24"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.5 19 2c1 2.5 1.5 5-.5 8.5A7 7 0 0 1 11 20z"/><path d="M2 22c3-3 6.5-5 9-6"/></svg>Fragrance-Free &amp; Gentle</span>
-    <span class="it"><svg viewBox="0 0 24 24"><path d="M12 21s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 11c0 5.5-7 10-7 10z"/></svg>Made for Plus-Size &amp; Big-Busted Folds</span>
-  </div>
-  <div class="grp">
-    <span class="it"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M5.6 5.6l12.8 12.8"/></svg>No Subscription Trap</span>
-    <span class="it"><svg viewBox="0 0 24 24"><path d="M1 4h14v11H1z"/><path d="M15 8h4l3 3v4h-7z"/><circle cx="5.5" cy="18" r="2"/><circle cx="18" cy="18" r="2"/></svg>Ships From the US</span>
-    <span class="it"><svg viewBox="0 0 24 24"><path d="M12 2l8 4v6c0 5-3.5 8-8 10-4.5-2-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>60-Day Keep-It Comfort Guarantee</span>
-    <span class="it"><svg viewBox="0 0 24 24"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.5 19 2c1 2.5 1.5 5-.5 8.5A7 7 0 0 1 11 20z"/><path d="M2 22c3-3 6.5-5 9-6"/></svg>Fragrance-Free &amp; Gentle</span>
-    <span class="it"><svg viewBox="0 0 24 24"><path d="M12 21s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 11c0 5.5-7 10-7 10z"/></svg>Made for Plus-Size &amp; Big-Busted Folds</span>
-  </div>
+  <!-- HALF 1 -->
+  <span class="it"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M5.6 5.6l12.8 12.8"/></svg>No Subscription Trap</span><span class="sep">&#9670;</span>
+  <span class="it"><svg viewBox="0 0 24 24"><path d="M1 4h14v11H1z"/><path d="M15 8h4l3 3v4h-7z"/><circle cx="5.5" cy="18" r="2"/><circle cx="18" cy="18" r="2"/></svg>Ships From the US</span><span class="sep">&#9670;</span>
+  <span class="it"><svg viewBox="0 0 24 24"><path d="M12 2l8 4v6c0 5-3.5 8-8 10-4.5-2-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>60-Day Keep-It Comfort Guarantee</span><span class="sep">&#9670;</span>
+  <span class="it"><svg viewBox="0 0 24 24"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.5 19 2c1 2.5 1.5 5-.5 8.5A7 7 0 0 1 11 20z"/><path d="M2 22c3-3 6.5-5 9-6"/></svg>Fragrance-Free &amp; Gentle</span><span class="sep">&#9670;</span>
+  <span class="it"><svg viewBox="0 0 24 24"><path d="M12 21s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 11c0 5.5-7 10-7 10z"/></svg>Made for Plus-Size &amp; Big-Busted Folds</span><span class="sep">&#9670;</span>
+  <!-- HALF 2 (identical) -->
+  <span class="it"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M5.6 5.6l12.8 12.8"/></svg>No Subscription Trap</span><span class="sep">&#9670;</span>
+  <span class="it"><svg viewBox="0 0 24 24"><path d="M1 4h14v11H1z"/><path d="M15 8h4l3 3v4h-7z"/><circle cx="5.5" cy="18" r="2"/><circle cx="18" cy="18" r="2"/></svg>Ships From the US</span><span class="sep">&#9670;</span>
+  <span class="it"><svg viewBox="0 0 24 24"><path d="M12 2l8 4v6c0 5-3.5 8-8 10-4.5-2-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>60-Day Keep-It Comfort Guarantee</span><span class="sep">&#9670;</span>
+  <span class="it"><svg viewBox="0 0 24 24"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.5 19 2c1 2.5 1.5 5-.5 8.5A7 7 0 0 1 11 20z"/><path d="M2 22c3-3 6.5-5 9-6"/></svg>Fragrance-Free &amp; Gentle</span><span class="sep">&#9670;</span>
+  <span class="it"><svg viewBox="0 0 24 24"><path d="M12 21s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 11c0 5.5-7 10-7 10z"/></svg>Made for Plus-Size &amp; Big-Busted Folds</span><span class="sep">&#9670;</span>
 </div>
 </div>
