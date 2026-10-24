@@ -1,0 +1,104 @@
+<!-- ProudFold TRUST + GUARANTEE (merged). Quick trust tiles (why trust a new brand) + the 60-Day Keep-It
+     guarantee panel with friction-killer checks + CTA. WHITE bg, terracotta accents. GemPages Custom Code element. -->
+<div id="pftg">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Outfit:wght@400;500;600;700;800&display=swap');
+  #pftg{--ink:#1C1B19;--terra:#C4603F;--terra-d:#A84E30;--taupe:#B8A995;--line:#E8E4DC;--soft:#FAF8F4;--muted:#6f685e;
+    font-family:'Outfit',-apple-system,Segoe UI,Roboto,sans-serif;color:var(--ink);background:#fff;box-sizing:border-box;width:100%;text-align:left}
+  #pftg *{margin:0;padding:0;box-sizing:border-box}
+  #pftg .wrap{max-width:1080px;margin:0 auto;padding:70px 28px 74px}
+  #pftg .head{text-align:center;max-width:680px;margin:0 auto 42px}
+  #pftg .eye{font-size:13px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--terra);margin-bottom:14px}
+  #pftg h2{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:36px;line-height:1.1;letter-spacing:-.015em;color:#141311;margin-bottom:15px}
+  #pftg .sub{font-size:16.5px;line-height:1.55;color:#454545}
+
+  /* trust tiles */
+  #pftg .tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:40px}
+  #pftg .tile{border:1.5px solid var(--line);border-radius:14px;background:#fff;padding:20px 18px;text-align:center;box-shadow:0 2px 10px rgba(28,27,25,.04)}
+  #pftg .tile .ic{width:46px;height:46px;border-radius:50%;background:var(--soft);display:flex;align-items:center;justify-content:center;margin:0 auto 12px}
+  #pftg .tile .ic svg{width:23px;height:23px;stroke:var(--terra);fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+  #pftg .tile b{display:block;font-size:15px;font-weight:800;color:#141311;margin-bottom:5px}
+  #pftg .tile span{font-size:13px;line-height:1.45;color:#5a544b}
+
+  /* guarantee panel */
+  #pftg .gpanel{border:1.5px solid var(--line);border-radius:20px;background:#fff;box-shadow:0 10px 30px rgba(28,27,25,.06);padding:38px 40px;display:flex;align-items:center;gap:48px}
+  #pftg .sealwrap{flex:none}
+  #pftg .seal{width:200px;height:200px;border-radius:50%;border:2.5px solid var(--terra);display:flex;align-items:center;justify-content:center;position:relative;transform:rotate(-5deg);background:var(--soft)}
+  #pftg .seal .ring{position:absolute;inset:11px;border-radius:50%;border:1.5px dashed var(--terra);opacity:.55}
+  #pftg .seal .mid{text-align:center;color:var(--terra-d);padding:0 18px}
+  #pftg .seal .big{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:50px;line-height:.9;color:var(--terra)}
+  #pftg .seal .day{font-weight:800;font-size:13px;letter-spacing:.3em;text-transform:uppercase;margin-top:3px}
+  #pftg .seal .div{width:40px;height:1.5px;background:var(--terra);opacity:.5;margin:8px auto}
+  #pftg .seal .kp{font-weight:800;font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;line-height:1.35}
+  #pftg .seal .star{position:absolute;left:50%;transform:translateX(-50%);color:var(--terra);font-size:12px}
+  #pftg .seal .star.t{top:18px}#pftg .seal .star.b{bottom:18px}
+  #pftg .copy{flex:1 1 0;min-width:0}
+  #pftg .copy h3{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:26px;line-height:1.15;letter-spacing:-.01em;color:#141311;margin-bottom:12px}
+  #pftg .lead{font-size:15.5px;line-height:1.55;color:#413c34;margin-bottom:18px}
+  #pftg .checks{list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:11px 22px;margin-bottom:22px}
+  #pftg .checks li{display:flex;gap:10px;align-items:flex-start;font-size:14.5px;line-height:1.35;color:#2c2822;font-weight:500}
+  #pftg .checks li b{font-weight:800}
+  #pftg .checks .ck{flex:none;width:21px;height:21px;border-radius:50%;background:var(--terra);display:flex;align-items:center;justify-content:center;margin-top:1px}
+  #pftg .checks .ck svg{width:12px;height:12px;stroke:#fff;fill:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+  #pftg .cta{display:inline-flex;align-items:center;gap:9px;background:var(--terra);color:#fff;text-decoration:none;font-weight:800;font-size:15.5px;border-radius:12px;padding:14px 24px;box-shadow:0 8px 22px rgba(196,96,63,.26)}
+  #pftg .cta:hover{background:var(--terra-d)}
+  #pftg .fine{font-size:12.5px;color:var(--muted);margin-top:13px;line-height:1.5}
+
+  @media(max-width:860px){
+    #pftg .tiles{grid-template-columns:1fr 1fr}
+    #pftg .gpanel{flex-direction:column;text-align:center;gap:26px;padding:32px 22px}
+    #pftg .checks{grid-template-columns:1fr;text-align:left;gap:10px}
+    #pftg h2{font-size:28px}#pftg .wrap{padding:52px 18px 56px}
+  }
+  @media(max-width:460px){#pftg .tiles{grid-template-columns:1fr}}
+</style>
+<div class="wrap">
+  <div class="head">
+    <div class="eye">No risk · No tricks</div>
+    <h2>Never heard of us? Fair. Here's why there's nothing to risk.</h2>
+    <div class="sub">A new brand has to earn it. So we stacked the deal in your favour — on trust, and on your money.</div>
+  </div>
+
+  <div class="tiles">
+    <div class="tile">
+      <div class="ic"><svg viewBox="0 0 24 24"><path d="M1 4h14v11H1z"/><path d="M15 8h4l3 3v4h-7z"/><circle cx="5.5" cy="18" r="2"/><circle cx="18" cy="18" r="2"/></svg></div>
+      <b>Ships from the US</b><span>Fast, tracked delivery — usually 3–7 days.</span>
+    </div>
+    <div class="tile">
+      <div class="ic"><svg viewBox="0 0 24 24"><path d="M20 12a8 8 0 1 1-2.3-5.6"/><path d="M18 3v4h-4"/></svg></div>
+      <b>No subscription</b><span>A one-time buy. Nothing auto-charged, nothing to cancel.</span>
+    </div>
+    <div class="tile">
+      <div class="ic"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/></svg></div>
+      <b>Honest about sourcing</b><span>Made to spec overseas, shipped from our US warehouse. No fake badges.</span>
+    </div>
+    <div class="tile">
+      <div class="ic"><svg viewBox="0 0 24 24"><rect x="4" y="10" width="16" height="11" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/></svg></div>
+      <b>Secure checkout</b><span>Encrypted, trusted payment. Your details stay safe.</span>
+    </div>
+  </div>
+
+  <div class="gpanel">
+    <div class="sealwrap">
+      <div class="seal">
+        <div class="ring"></div>
+        <div class="star t">★</div>
+        <div class="mid"><div class="big">60</div><div class="day">Days</div><div class="div"></div><div class="kp">Keep-It Comfort<br>Guarantee</div></div>
+        <div class="star b">★</div>
+      </div>
+    </div>
+    <div class="copy">
+      <h3>Use the whole tube. If your folds aren't calmer, keep it anyway.</h3>
+      <div class="lead">You've been burned by things that didn't work before — so this time the risk is ours, not yours. If ProudFold isn't for you, here's exactly how easy it is:</div>
+      <ul class="checks">
+        <li><span class="ck"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></span><span><b>Keep the tube</b> — ship nothing back.</span></li>
+        <li><span class="ck"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></span><span><b>Just email us</b> — no forms, no hoops.</span></li>
+        <li><span class="ck"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></span><span><b>A real person answers</b>, same day.</span></li>
+        <li><span class="ck"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></span><span><b>Full refund</b>, any time in 60 days.</span></li>
+      </ul>
+      <a class="cta" href="#offer">Try ProudFold risk-free →</a>
+      <div class="fine">We'd rather eat the cost than leave you stuck with one more thing that didn't help.</div>
+    </div>
+  </div>
+</div>
+</div>
