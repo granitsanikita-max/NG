@@ -26,6 +26,22 @@
 | `whycomesback_2_friction.png` | panel 2 — skin rubs skin / friction | none (diagram) | ✅ |
 | `whycomesback_3_raw.png` | panel 3 — raw layer + recurring loop | none (diagram) | ✅ |
 
+## GRAVEYARD + MECHANISM sections (made 2026-10-24)
+| File | Section / slot | Status |
+|------|----------------|--------|
+| `graveyard_product_hero.png` | Graveyard — BIG LEFT slot = our product (Nikita's call; caption needs to change from "bathroom shelf…" to e.g. "The one actually built for your folds") | ✅ |
+| `mechanism_product_hero.png` | Mechanism — CENTER hero, tube on terracotta halo (replaces the stock shoe) | ✅ |
+| `icons/grave_baby.png` | Graveyard card: Baby & diaper creams | ✅ |
+| `icons/grave_powder.png` | Graveyard card: Powders & cornstarch | ✅ |
+| `icons/grave_antifungal.png` | Graveyard card: Antifungal creams | ✅ |
+| `icons/grave_steroid.png` | Graveyard card: Steroid & prescription creams | ✅ |
+| `icons/grave_facebook.png` | Graveyard card: "cream off a Facebook ad" (pump bottle) | ✅ |
+| `icons/mech_barrier.png` | Mechanism: A Barrier That Stops the Rub (shield+check) | ✅ |
+| `icons/mech_soothe.png` | Mechanism: Soothes the Second It Goes On (leaf) | ✅ |
+| `icons/mech_cool.png` | Mechanism: Cools the Burn (snowflake) | ✅ |
+| `icons/mech_staysput.png` | Mechanism: Stays Put All Day (clock) | ✅ |
+> Icons are terracotta (#C4603F) line icons, transparent PNG ~360px, authored as vectors (crisp, consistent) — NOT AI.
+
 ## REFS (source reference photos, in images/refs/)
 - `00_brand_model.jpg` + the brand-model locked face is in masters.
 - `01_review_barb` · `02_review_cheryl` · `03_review_diane` · `04_review_janet` · `05_review_rhonda` · `06_review_gail` — the 6 review-women refs (use these for any new people).
