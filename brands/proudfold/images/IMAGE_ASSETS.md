@@ -42,6 +42,12 @@
 | `icons/mech_staysput.png` | Mechanism: Stays Put All Day (clock) | ✅ |
 > Icons are terracotta (#C4603F) line icons, transparent PNG ~360px, authored as vectors (crisp, consistent) — NOT AI.
 
+## COMPARISON + PAYMENT (made 2026-10-24)
+| File | Section / slot | People ref | Status |
+|------|----------------|-----------|--------|
+| `comparison_woman_holding.png` | Comparison table — BIG LEFT image (Variant A: woman holding our tube) | Cheryl ref 02 + tube | ✅ 1792×2400 |
+| `payment/visa.svg` · `mastercard.svg` · `amex.svg` · `paypal.svg` · `shop_pay.svg` · `google_pay.svg` | Payment-icon row (checkout trust) | official brand SVGs | ✅ sourced — WIRE IN during final image-adding pass (Nikita's call) |
+
 ## REFS (source reference photos, in images/refs/)
 - `00_brand_model.jpg` + the brand-model locked face is in masters.
 - `01_review_barb` · `02_review_cheryl` · `03_review_diane` · `04_review_janet` · `05_review_rhonda` · `06_review_gail` — the 6 review-women refs (use these for any new people).
