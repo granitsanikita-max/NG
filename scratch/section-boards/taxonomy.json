@@ -1,0 +1,697 @@
+{
+ "boards": {
+  "store": {
+   "name": "Store board",
+   "pages": "homepages, product pages, offer / landing pages, quizzes"
+  },
+  "presell": {
+   "name": "Pre-sell board",
+   "pages": "advertorials, listicles, article-style pre-sell pages"
+  }
+ },
+ "groups": [
+  {
+   "key": "atf",
+   "name": "Above the fold",
+   "board": "store"
+  },
+  {
+   "key": "offer",
+   "name": "Offer & buying",
+   "board": "store"
+  },
+  {
+   "key": "proof",
+   "name": "Social proof & trust",
+   "board": "store"
+  },
+  {
+   "key": "persuade",
+   "name": "Education & persuasion",
+   "board": "store"
+  },
+  {
+   "key": "shop",
+   "name": "Product discovery",
+   "board": "store"
+  },
+  {
+   "key": "brand",
+   "name": "Brand & content",
+   "board": "store"
+  },
+  {
+   "key": "chrome",
+   "name": "Site chrome & capture",
+   "board": "store"
+  },
+  {
+   "key": "p_open",
+   "name": "Opening",
+   "board": "presell"
+  },
+  {
+   "key": "p_story",
+   "name": "Story & problem",
+   "board": "presell"
+  },
+  {
+   "key": "p_solution",
+   "name": "Solution reveal",
+   "board": "presell"
+  },
+  {
+   "key": "p_proof",
+   "name": "Proof",
+   "board": "presell"
+  },
+  {
+   "key": "p_close",
+   "name": "Offer & close",
+   "board": "presell"
+  },
+  {
+   "key": "p_chrome",
+   "name": "Page chrome",
+   "board": "presell"
+  }
+ ],
+ "types": [
+  {
+   "key": "announcement_bar",
+   "group": "chrome",
+   "name": "Announcement / promo bar",
+   "desc": "Thin top strip with a sale, free shipping or offer message, sometimes rotating or with a countdown.",
+   "board": "store"
+  },
+  {
+   "key": "header_nav",
+   "group": "chrome",
+   "name": "Header & navigation",
+   "desc": "Logo, menu, cart and search icons at the very top.",
+   "board": "store"
+  },
+  {
+   "key": "home_hero",
+   "group": "atf",
+   "name": "Homepage hero",
+   "desc": "First big banner on a homepage: image or video, headline, subhead and CTA button(s).",
+   "board": "store"
+  },
+  {
+   "key": "pdp_atf",
+   "group": "atf",
+   "name": "Product page above the fold (buy box)",
+   "desc": "Product gallery plus title, star rating, price, variant pickers and add-to-cart on a product page. Includes the buy box when it sits beside or below the gallery.",
+   "board": "store"
+  },
+  {
+   "key": "lp_hero",
+   "group": "atf",
+   "name": "Landing page hero",
+   "desc": "Top of a dedicated ad landing page (not homepage, not article): bold promise headline, hero image, offer or CTA.",
+   "board": "store"
+  },
+  {
+   "key": "bundle_selector",
+   "group": "offer",
+   "name": "Bundle / quantity offer selector",
+   "desc": "Tiered offer cards: buy 1 / buy 2 / buy 3, 'most popular', 'best value', per-unit price, savings badges.",
+   "board": "store"
+  },
+  {
+   "key": "subscription_selector",
+   "group": "offer",
+   "name": "Subscribe & save selector",
+   "desc": "One-time vs subscription choice with discount, delivery frequency and subscription perks.",
+   "board": "store"
+  },
+  {
+   "key": "offer_pricing",
+   "group": "offer",
+   "name": "Offer / pricing block",
+   "desc": "Standalone section presenting the deal: price anchor, discount, what you get, CTA. Not the PDP buy box.",
+   "board": "store"
+  },
+  {
+   "key": "free_gifts",
+   "group": "offer",
+   "name": "Free gifts / gift with purchase",
+   "desc": "Section showing free bonuses or gifts unlocked with the order.",
+   "board": "store"
+  },
+  {
+   "key": "urgency_countdown",
+   "group": "offer",
+   "name": "Urgency / countdown / scarcity",
+   "desc": "Countdown timers, 'sale ends', low stock, sell-out warnings as their own section.",
+   "board": "store"
+  },
+  {
+   "key": "upsell_cross_sell",
+   "group": "offer",
+   "name": "Upsell / frequently bought together",
+   "desc": "Add-ons, 'complete the routine', pairs-well-with, bundle builders on a product page.",
+   "board": "store"
+  },
+  {
+   "key": "final_cta",
+   "group": "offer",
+   "name": "Final CTA / closing banner",
+   "desc": "Bottom-of-page block re-stating the promise with a big button (try it today, shop now) after the persuasion.",
+   "board": "store"
+  },
+  {
+   "key": "trust_badges",
+   "group": "proof",
+   "name": "Trust badges / icon bar",
+   "desc": "Row of icons + short labels: free shipping, money-back, made in USA, cruelty-free, secure checkout.",
+   "board": "store"
+  },
+  {
+   "key": "press_logos",
+   "group": "proof",
+   "name": "As seen in / press logos",
+   "desc": "Media or retailer logos, press quotes, 'featured in'.",
+   "board": "store"
+  },
+  {
+   "key": "testimonials",
+   "group": "proof",
+   "name": "Testimonials / review cards",
+   "desc": "Curated customer quotes as cards or carousel with names, stars, photos.",
+   "board": "store"
+  },
+  {
+   "key": "review_widget",
+   "group": "proof",
+   "name": "Full reviews widget",
+   "desc": "Review app section (Judge.me, Okendo, Yotpo, Loox...): rating summary, histogram, filters, list of reviews.",
+   "board": "store"
+  },
+  {
+   "key": "ugc_video",
+   "group": "proof",
+   "name": "UGC / video testimonials / social feed",
+   "desc": "Customer videos, TikTok-style reels, Instagram feed, creator content carousel.",
+   "board": "store"
+  },
+  {
+   "key": "before_after",
+   "group": "proof",
+   "name": "Before & after",
+   "desc": "Side-by-side or slider transformations, result photos.",
+   "board": "store"
+  },
+  {
+   "key": "stats_results",
+   "group": "proof",
+   "name": "Stats / clinical results",
+   "desc": "Big numbers and percentages: '93% saw results', '1M+ customers', study results, rating counts.",
+   "board": "store"
+  },
+  {
+   "key": "expert_endorsement",
+   "group": "proof",
+   "name": "Expert / doctor endorsement",
+   "desc": "Doctor, vet, dermatologist, scientist or advisory board recommending the product, with credentials.",
+   "board": "store"
+  },
+  {
+   "key": "guarantee",
+   "group": "proof",
+   "name": "Guarantee / risk reversal",
+   "desc": "Money-back guarantee, trial period, warranty: badge + explanation as a section.",
+   "board": "store"
+  },
+  {
+   "key": "certifications",
+   "group": "proof",
+   "name": "Certifications / quality standards",
+   "desc": "Third-party tested, GMP, NSF, clinically tested, standards checklist, lab seals.",
+   "board": "store"
+  },
+  {
+   "key": "benefits_grid",
+   "group": "persuade",
+   "name": "Benefits (icons / grid)",
+   "desc": "Key benefits as icons or tiles with short labels (what it does for you).",
+   "board": "store"
+  },
+  {
+   "key": "feature_split",
+   "group": "persuade",
+   "name": "Image + text feature block",
+   "desc": "Split layout: image or video one side, heading + copy + bullets the other. One feature or benefit explained.",
+   "board": "store"
+  },
+  {
+   "key": "ingredients",
+   "group": "persuade",
+   "name": "Ingredients breakdown",
+   "desc": "Key ingredients or materials with images, doses, what each does.",
+   "board": "store"
+  },
+  {
+   "key": "how_it_works",
+   "group": "persuade",
+   "name": "How it works / mechanism / science",
+   "desc": "Explains the mechanism or science: diagrams, layers, 'the science behind'.",
+   "board": "store"
+  },
+  {
+   "key": "how_to_use",
+   "group": "persuade",
+   "name": "How to use / steps",
+   "desc": "Step 1-2-3 usage instructions, routine steps, application guide.",
+   "board": "store"
+  },
+  {
+   "key": "comparison",
+   "group": "persuade",
+   "name": "Comparison (us vs them)",
+   "desc": "Comparison table or side-by-side vs competitors, alternatives or 'other brands'; checkmarks vs crosses.",
+   "board": "store"
+  },
+  {
+   "key": "problem_agitation",
+   "group": "persuade",
+   "name": "Problem / pain points",
+   "desc": "Names the customer's problem or frustrations, 'sound familiar?', symptoms list, agitation before the solution.",
+   "board": "store"
+  },
+  {
+   "key": "results_timeline",
+   "group": "persuade",
+   "name": "Results timeline",
+   "desc": "What to expect over time: day 1, week 2, month 3.",
+   "board": "store"
+  },
+  {
+   "key": "who_its_for",
+   "group": "persuade",
+   "name": "Who it's for / use cases",
+   "desc": "Personas, use cases, 'perfect for', 'is this for you?' qualifiers.",
+   "board": "store"
+  },
+  {
+   "key": "specs_details",
+   "group": "persuade",
+   "name": "Specs / product details / tabs",
+   "desc": "Technical specs, dimensions, what's in the box, product description tabs and accordions on the PDP.",
+   "board": "store"
+  },
+  {
+   "key": "objection_handling",
+   "group": "persuade",
+   "name": "Myths vs facts / objection handling",
+   "desc": "Addresses doubts directly: myth vs fact, 'is it safe?', 'why it's different', skepticism busters.",
+   "board": "store"
+  },
+  {
+   "key": "faq",
+   "group": "persuade",
+   "name": "FAQ",
+   "desc": "Frequently asked questions, usually accordions.",
+   "board": "store"
+  },
+  {
+   "key": "video_section",
+   "group": "persuade",
+   "name": "Video / demo section",
+   "desc": "Brand or product demo video as its own section (not UGC grid).",
+   "board": "store"
+  },
+  {
+   "key": "product_grid",
+   "group": "shop",
+   "name": "Product grid / bestsellers carousel",
+   "desc": "Featured products with images, prices, ratings and add-to-cart: bestsellers, new arrivals.",
+   "board": "store"
+  },
+  {
+   "key": "collection_tiles",
+   "group": "shop",
+   "name": "Shop by category / need",
+   "desc": "Category, collection, concern or need tiles that link to collections.",
+   "board": "store"
+  },
+  {
+   "key": "quiz_cta",
+   "group": "shop",
+   "name": "Quiz / product finder",
+   "desc": "Invites the visitor to take a quiz or find their match, or the quiz itself.",
+   "board": "store"
+  },
+  {
+   "key": "bundle_builder",
+   "group": "shop",
+   "name": "Bundle builder / build your kit",
+   "desc": "Interactive pick-your-items bundle builder.",
+   "board": "store"
+  },
+  {
+   "key": "brand_story",
+   "group": "brand",
+   "name": "Brand story / founder / mission",
+   "desc": "Founder story, why we started, mission, values, manifesto.",
+   "board": "store"
+  },
+  {
+   "key": "community_social",
+   "group": "brand",
+   "name": "Community / social follow",
+   "desc": "Community stats, follow us, hashtag, Instagram grid CTA.",
+   "board": "store"
+  },
+  {
+   "key": "sustainability",
+   "group": "brand",
+   "name": "Sustainability / giving back / values",
+   "desc": "Eco, charity, donation, sourcing and ethics.",
+   "board": "store"
+  },
+  {
+   "key": "blog_content",
+   "group": "brand",
+   "name": "Blog / articles / education hub",
+   "desc": "Article cards, guides, journal.",
+   "board": "store"
+  },
+  {
+   "key": "rewards_referral",
+   "group": "brand",
+   "name": "Rewards / loyalty / referral",
+   "desc": "Points program, refer-a-friend, VIP club.",
+   "board": "store"
+  },
+  {
+   "key": "marquee_banner",
+   "group": "brand",
+   "name": "Scrolling marquee / statement banner",
+   "desc": "Moving text ticker or big one-line statement/slogan strip.",
+   "board": "store"
+  },
+  {
+   "key": "rich_text",
+   "group": "brand",
+   "name": "Rich text / statement",
+   "desc": "Simple centered heading + paragraph, no strong visual.",
+   "board": "store"
+  },
+  {
+   "key": "image_banner",
+   "group": "brand",
+   "name": "Image / lifestyle banner or gallery",
+   "desc": "Full-width lifestyle image, mid-page banner or image gallery with little copy.",
+   "board": "store"
+  },
+  {
+   "key": "shipping_returns",
+   "group": "offer",
+   "name": "Shipping / returns info",
+   "desc": "Delivery times, shipping policy, returns explained as a section.",
+   "board": "store"
+  },
+  {
+   "key": "payment_options",
+   "group": "offer",
+   "board": "store",
+   "name": "Payment options / financing",
+   "desc": "Pay-later, installments (Klarna, Afterpay, Shop Pay), HSA/FSA eligibility or financing explained as its own block."
+  },
+  {
+   "key": "newsletter_signup",
+   "group": "chrome",
+   "name": "Email / SMS signup",
+   "desc": "Join the list, get X% off, email input field.",
+   "board": "store"
+  },
+  {
+   "key": "footer",
+   "group": "chrome",
+   "name": "Footer",
+   "desc": "Bottom links, policies, socials, payment icons, company info.",
+   "board": "store"
+  },
+  {
+   "key": "p_masthead",
+   "group": "p_open",
+   "name": "Masthead / publication bar",
+   "desc": "Fake-news or magazine-style top bar: publication name, 'Advertorial' or 'Sponsored' label, category nav, trending bar.",
+   "board": "presell"
+  },
+  {
+   "key": "p_headline",
+   "group": "p_open",
+   "name": "Advertorial headline + byline",
+   "desc": "Article headline, subhead, author/byline, date, read time, editorial hero image.",
+   "board": "presell"
+  },
+  {
+   "key": "p_listicle_intro",
+   "group": "p_open",
+   "name": "Listicle headline / intro",
+   "desc": "'X reasons why...' title, short intro and hero for a listicle.",
+   "board": "presell"
+  },
+  {
+   "key": "p_hook_lead",
+   "group": "p_open",
+   "name": "Hook / opening lead",
+   "desc": "First paragraphs that hook: a surprising claim, a relatable moment, a question, a pattern interrupt.",
+   "board": "presell"
+  },
+  {
+   "key": "p_story",
+   "group": "p_story",
+   "name": "Story / narrative",
+   "desc": "The character's journey: struggle, turning point, what happened. Long-form editorial copy with images.",
+   "board": "presell"
+  },
+  {
+   "key": "p_problem",
+   "group": "p_story",
+   "name": "Problem / symptoms checklist",
+   "desc": "'Sound familiar?' symptoms, pain points, checklist of frustrations.",
+   "board": "presell"
+  },
+  {
+   "key": "p_consequences",
+   "group": "p_story",
+   "name": "Stakes / what happens if ignored",
+   "desc": "Agitation: how it gets worse, risks, cost of doing nothing.",
+   "board": "presell"
+  },
+  {
+   "key": "p_failed_solutions",
+   "group": "p_story",
+   "name": "Why other solutions fail",
+   "desc": "What they already tried (diets, creams, pills, doctors) and why it didn't work.",
+   "board": "presell"
+  },
+  {
+   "key": "p_mechanism",
+   "group": "p_story",
+   "name": "Root cause / mechanism reveal",
+   "desc": "The hidden cause or 'new mechanism': science, diagrams, charts, studies explaining the real problem.",
+   "board": "presell"
+  },
+  {
+   "key": "p_discovery",
+   "group": "p_solution",
+   "name": "Discovery / product introduction",
+   "desc": "The moment the product is revealed: 'that's when I found...', product hero shot, what it is.",
+   "board": "presell"
+  },
+  {
+   "key": "p_how_it_works",
+   "group": "p_solution",
+   "name": "How the product works / ingredients",
+   "desc": "Ingredients, steps or technology inside the product and what each does.",
+   "board": "presell"
+  },
+  {
+   "key": "p_listicle_reason",
+   "group": "p_solution",
+   "name": "Listicle reason block",
+   "desc": "One numbered reason: number + heading + image/GIF + short copy (+ inline link).",
+   "board": "presell"
+  },
+  {
+   "key": "p_comparison",
+   "group": "p_solution",
+   "name": "Comparison vs alternatives",
+   "desc": "Table or side-by-side vs other options, competitors, or the old way.",
+   "board": "presell"
+  },
+  {
+   "key": "p_how_to_use",
+   "group": "p_solution",
+   "name": "How to use / routine",
+   "desc": "Simple usage steps, 'just X a day'.",
+   "board": "presell"
+  },
+  {
+   "key": "p_testimonials",
+   "group": "p_proof",
+   "name": "Testimonials / reviews",
+   "desc": "Customer quotes, review cards, star ratings inside the pre-sell.",
+   "board": "presell"
+  },
+  {
+   "key": "p_comments",
+   "group": "p_proof",
+   "name": "Facebook-style comments",
+   "desc": "Social comment thread section: avatars, names, likes, replies.",
+   "board": "presell"
+  },
+  {
+   "key": "p_before_after",
+   "group": "p_proof",
+   "name": "Before & after",
+   "desc": "Transformation photos, result images.",
+   "board": "presell"
+  },
+  {
+   "key": "p_stats",
+   "group": "p_proof",
+   "name": "Stats / study results / social proof numbers",
+   "desc": "Big numbers, % results, customer counts, sold-out counts, press mentions.",
+   "board": "presell"
+  },
+  {
+   "key": "p_expert",
+   "group": "p_proof",
+   "name": "Expert / doctor / authority",
+   "desc": "Doctor, scientist or expert quote, credentials, endorsement.",
+   "board": "presell"
+  },
+  {
+   "key": "p_results_timeline",
+   "group": "p_proof",
+   "name": "What to expect / results timeline",
+   "desc": "Day/week/month timeline of results.",
+   "board": "presell"
+  },
+  {
+   "key": "p_offer",
+   "group": "p_close",
+   "name": "Offer box / deal block",
+   "desc": "Discount, price, bundle options, free gifts, CTA button: the closing offer.",
+   "board": "presell"
+  },
+  {
+   "key": "p_inline_cta",
+   "group": "p_close",
+   "name": "Inline CTA / button bar",
+   "desc": "Mid-article call to action: button, 'check availability', link bar.",
+   "board": "presell"
+  },
+  {
+   "key": "p_guarantee",
+   "group": "p_close",
+   "name": "Guarantee / risk reversal",
+   "desc": "Money-back guarantee, trial, risk-free badge.",
+   "board": "presell"
+  },
+  {
+   "key": "p_urgency",
+   "group": "p_close",
+   "name": "Urgency / scarcity",
+   "desc": "Stock warnings, countdowns, sell-out notices, 'sale ends'.",
+   "board": "presell"
+  },
+  {
+   "key": "p_faq",
+   "group": "p_close",
+   "name": "FAQ",
+   "desc": "Questions and answers / objection handling in accordion or list form.",
+   "board": "presell"
+  },
+  {
+   "key": "p_author_bio",
+   "group": "p_chrome",
+   "name": "Author bio / editor note",
+   "desc": "Box about the writer or editor.",
+   "board": "presell"
+  },
+  {
+   "key": "p_disclaimer_footer",
+   "group": "p_chrome",
+   "name": "Disclaimer / references / footer",
+   "desc": "FDA disclaimers, 'this is an advertisement', references, footer links.",
+   "board": "presell"
+  },
+  {
+   "key": "gamified_offer",
+   "group": "offer",
+   "board": "store",
+   "name": "Gamified discount / prize reveal",
+   "desc": "Spin-to-win wheel, flip-a-card, pick-a-box or scratch reveal that unlocks a discount or free gift."
+  },
+  {
+   "key": "authenticity_warning",
+   "group": "proof",
+   "board": "store",
+   "name": "Counterfeit / only-sold-here warning",
+   "desc": "Warns about knock-offs and says the product is only sold on this site."
+  },
+  {
+   "key": "contact_support",
+   "group": "chrome",
+   "board": "store",
+   "name": "Contact / help block",
+   "desc": "'Need help?' block with email, chat or phone support details."
+  },
+  {
+   "key": "p_buy_box",
+   "group": "p_close",
+   "board": "presell",
+   "name": "Embedded buy box / product card",
+   "desc": "A product card or mini buy box inside the pre-sell: image, rating, price, variant/quantity pick and add-to-cart."
+  },
+  {
+   "key": "p_ranking_method",
+   "group": "p_open",
+   "board": "presell",
+   "name": "How we ranked / review methodology",
+   "desc": "'How we tested', ranking criteria and scoring used in best-of / top-5 comparison listicles."
+  },
+  {
+   "key": "p_authenticity_warning",
+   "group": "p_close",
+   "board": "presell",
+   "name": "Counterfeit / only-sold-here warning",
+   "desc": "Warns about knock-offs on Amazon etc. and says to buy only from the official site."
+  },
+  {
+   "key": "p_related_articles",
+   "group": "p_chrome",
+   "board": "presell",
+   "name": "Related articles / more stories",
+   "desc": "Blog-style 'you may also like' article cards at the end of a pre-sell."
+  },
+  {
+   "key": "store_locator",
+   "group": "brand",
+   "board": "store",
+   "name": "Find in store / retail locator",
+   "desc": "Store finder, retailer logos or 'available at' block, store hours and directions."
+  },
+  {
+   "key": "other",
+   "group": "chrome",
+   "name": "Other / unclear",
+   "desc": "Doesn't fit any type, broken capture, blank, cookie banner, or loading state.",
+   "board": "store"
+  },
+  {
+   "key": "p_other",
+   "group": "p_chrome",
+   "name": "Other / unclear",
+   "desc": "Doesn't fit, broken capture, blank, cookie banner.",
+   "board": "presell"
+  }
+ ]
+}
