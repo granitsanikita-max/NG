@@ -848,6 +848,10 @@ Not a wall of fake awards. Just the four promises that made me comfortable hitti
 ---
 
 ## ⑮ I'M NOT THE ONLY ONE
+> **⛔ SUPERSEDED (2026-10-24) — DO NOT USE.** This was the first review draft. The live advertorial cast is
+> **P5.3** and the de-duped human-voice versions are in **P5.3b**. Kept only for history; these have the exact
+> repetition/copy-speak problems P5.3b fixes ("stays put," "little goes a long way," duplicate names).
+
 *(⚠ representative, TEST-ONLY — swap for real seeded reviews before live. Short + human on purpose, each kills one objection; the italic (kills:…) tags come OFF for the build. All stay in comfort/barrier language — no "cure.")*
 
 > ★★★★★ Thought for sure this was gonna be another scam cream off Facebook. First summer in years I'm not hiding. — **Denise R., FL**  *(kills: scam / "another Facebook cream")*
@@ -951,9 +955,9 @@ Button: **CHECK AVAILABILITY** · Badge: **● Low stock — selling fast** (amb
 1. ★★★★★ "figured the internet had got me again" — first summer in ages i'm not hiding in the back, and a little peeved it took me this long to find it. — **Denise R.** (scam/skeptic #2) ~reworded off "another scam cream" (echoed Maureen's "dud")
 2. ★★★★★ "underboob sweat had me done by noon" — now the day just goes by and i'm not thinking about it. big girls up top, this is the one for us. — **Sharon K.** (stays-put #5) ~reworded off "stays put all day" (our copy phrase)
 3. ★★★★★ "my skin's so touchy i'd quit trying new things" — this went on soft and cool, didn't so much as tingle. i about fell over. — **Brenda M.** (sting #4) ~reworded off "everything burned on raw skin" (echoed Monica)
-4. ★★★★ "20 years and a small fortune wasted" — Should've just started here. And a little goes a long way — one tube lasts me weeks. — **Carol T.** (tried-everything/value #1/#6) [held]
-5. ★★★★★ "I stopped dreading getting dressed" — A pea-sized dab and I forget it's even there. That's the whole point. — **Debra H.** (dignity/B7) [held]
-6. ★★★★★ "The 'no subscription' thing is real" — Ordered once, got one tube, no surprise charges. After what I've been burned by, that alone earned my trust. — **Marisol V.** (sub-trap #3) [held]
+4. ★★★★ "twenty years of trying things that quit on me" — kind of wish i'd found this one first. one tube's lasted me weeks too, so it's not like i'm forever reordering. — **Carol T.** (tried-everything/value #1/#6) ~reworded: dropped em-dash + "a little goes a long way" (clashed with Gail)
+5. ★★★★★ "i was quietly miserable most afternoons" — now it's just not on my mind. didn't realize how much that was weighing on me until it stopped. — **Debra H.** (dignity/B7) ~reworded off "stopped dreading getting dressed" (echoed our future-pace copy)
+6. ★★★★★ "ordered the one tube and that was that" — no account, no auto-ship, nothing to remember to cancel down the line. i've been roped into those before, so it mattered more than it should've. — **Marisol V.** (sub-trap #3) ~reworded off "no surprise charges" (sub-cluster with Monica)
 Fixes vs live: "Anna Chirstin" (typo) + "Rayul Mike" (male name+photo on a women's product) removed. Use women's
 photos. Recolor green "Verified Buyer" → terracotta #C4603F; keep gold stars. (Still TEST reviews — real ones for live.)
 **Apply status:** the 3 rewrites (Denise/Sharon K./Brenda) are logged here but NOT yet applied on the live
