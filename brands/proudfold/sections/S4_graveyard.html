@@ -1,6 +1,15 @@
-<!-- ProudFold S4 — THE PROBLEM / GRAVEYARD. Pro clone of Healora "The Problem": 2-column (failure photo + cards),
-     per-card product thumbnails, compliant + ProudFold brand (white bg, terracotta accents). Image slots left as
-     styled placeholders to fill later. -->
+<!-- ProudFold S4 — THE PROBLEM / GRAVEYARD. 2-column: LEFT = OUR product (the one built for folds),
+     RIGHT = the 5 things she's already tried & failed. White bg, terracotta accents.
+     ========================= IMAGE SLOTS — swap after CDN upload =========================
+     LEFT product hero  -> replace the `.photo .ph` div with:
+        <img class="prodimg" src="CDN_URL/graveyard_product_hero.png" alt="ProudFold Comfort Barrier Cream">
+     RIGHT card icons    -> replace each `.cthumb .ph` div with:  <img src="CDN_URL/icons/<file>.png" alt="">
+        card 1 Baby & diaper creams      -> icons/grave_baby.png
+        card 2 Powders & cornstarch      -> icons/grave_powder.png
+        card 3 Antifungal creams         -> icons/grave_antifungal.png
+        card 4 Steroid & prescription    -> icons/grave_steroid.png
+        card 5 "cream off a Facebook ad" -> icons/grave_facebook.png
+     ===================================================================================== -->
 <div id="pfgy">
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Outfit:wght@400;500;600;700;800&display=swap');
@@ -24,6 +33,9 @@
   /* styled image placeholder (remove the data-ph label + set background-image to go live) */
   #pfgy .ph{position:relative;width:100%;height:100%;background:linear-gradient(145deg,#F6F2EB,#EBE4D8);border:1px solid var(--line);border-radius:18px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;overflow:hidden}
   #pfgy .photo .ph{min-height:520px;box-shadow:0 14px 34px rgba(28,27,25,.08)}
+  #pfgy .prodimg{width:100%;min-height:520px;height:100%;object-fit:cover;border-radius:18px;box-shadow:0 14px 34px rgba(28,27,25,.08);display:block}
+  #pfgy .pcap{text-align:center;margin-top:14px;font-size:14.5px;font-weight:700;color:var(--terra)}
+  #pfgy .cthumb img{width:100%;height:100%;object-fit:contain}
   #pfgy .ph svg{width:40px;height:40px;stroke:#c3b49c;fill:none;stroke-width:1.6}
   #pfgy .ph .phl{font-size:11.5px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:#b0a08a}
   #pfgy .ph .phs{font-size:12.5px;color:#b0a08a;max-width:220px;text-align:center;line-height:1.4;margin-top:-4px}
@@ -61,13 +73,14 @@
   <div class="emph">Your fold rash isn't really a skin problem. It's a <b>friction problem</b> — and these never touch the rub.</div>
 
   <div class="main">
-    <!-- LEFT: big "everything you've tried" failure photo (fill later) -->
+    <!-- LEFT: OUR product (swap .ph for the product <img> — see top comment) -->
     <div class="photo">
-      <div class="ph" data-slot="failure-photo">
+      <div class="ph" data-slot="product-hero">
         <svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.8"/><path d="M4 18l5-5 3.5 3.5L16 12l4 4"/></svg>
-        <div class="phl">Image slot</div>
-        <div class="phs">The bathroom shelf of everything she's already tried</div>
+        <div class="phl">ProudFold product</div>
+        <div class="phs">graveyard_product_hero.png</div>
       </div>
+      <div class="pcap">The one actually built for your folds</div>
     </div>
 
     <!-- RIGHT: 5 failed-product cards, each with a product thumbnail slot -->
