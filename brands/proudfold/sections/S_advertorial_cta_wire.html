@@ -1,0 +1,18 @@
+<!-- ProudFold ADVERTORIAL CTA WIRING — paste into ONE Custom Code / HTML element anywhere on the advertorial page.
+     Every "CHECK AVAILABILITY" button on the advertorial currently has an EMPTY, DISABLED link (goes nowhere).
+     This one snippet makes all of them (present + any future) jump to the offer section on the homepage.
+     Zero risk: it only adds a click listener, it does not modify any button. -->
+<script>
+(function(){
+  var DEST = 'https://proudfold.com/#pfbb'; /* the offer buy box */
+  document.addEventListener('click', function(e){
+    var el = e.target.closest('a,button,[role="button"],[class*="button"],[class*="Button"]');
+    if(!el) return;
+    var t = (el.textContent || '').replace(/\s+/g,' ').trim().toLowerCase();
+    if(t.indexOf('check availability') !== -1){
+      e.preventDefault(); e.stopPropagation();
+      window.location.href = DEST;
+    }
+  }, true);
+})();
+</script>

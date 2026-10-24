@@ -11,6 +11,7 @@
   ►► REVIEWS: placeholder copy until real reviews are seeded.
 -->
 <div id="pfbb">
+<a id="offer" aria-hidden="true" tabindex="-1"></a>
 <style>
   #pfbb{--cream:#F6F0E6;--ink:#1C1B19;--terra:#C4603F;--terra-d:#A84E30;--taupe:#B8A995;--amber:#D99A4E;--line:#E6DED0;--soft:#FBF8F2;--muted:#6f685e;
     font-family:'Outfit',-apple-system,Segoe UI,Roboto,sans-serif;color:var(--ink);-webkit-font-smoothing:antialiased;box-sizing:border-box;width:100%;text-align:left}
@@ -286,7 +287,11 @@
     3:{price:'$64.95', head:'★ Your 3-pack also includes, FREE:', gifts:PLAYBOOK+GUIDE2+SHIP},
     5:{price:'$94.95', head:'★ Your 5-pack also includes, FREE:', gifts:PLAYBOOK+GUIDE2+SHIP}
   };
+  /* Shopify variant ids for product "skin-soothing-care": 1-pack / 3-pack / 5-pack */
+  var VARIANTS={1:'53575440269493', 3:'53575440335029', 5:'53575440367797'};
+  var CURRENT=3;
   window.pfSel=function(tier){
+    CURRENT=tier;
     var cards=document.querySelectorAll('#pfbb .bc');
     [].forEach.call(cards,function(c){ c.classList.toggle('sel', c.getAttribute('data-tier')==String(tier)); });
     var t=TIERS[tier];
@@ -295,6 +300,18 @@
     var vr=document.getElementById('pfvrow'); if(vr) vr.innerHTML=t.gifts;
   };
   pfSel(3);
+
+  /* ADD TO CART -> add selected variant, then go straight to checkout (fallback: cart page). */
+  var atcBtn=document.getElementById('pfatc');
+  if(atcBtn){
+    atcBtn.addEventListener('click',function(){
+      var vid=VARIANTS[CURRENT]; if(!vid) return;
+      var label=atcBtn.textContent; atcBtn.disabled=true; atcBtn.style.opacity='.75'; atcBtn.textContent='Adding…';
+      fetch('/cart/add.js',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:[{id:Number(vid),quantity:1}]})})
+        .then(function(r){ if(!r.ok) throw new Error('add failed'); window.location.href='/checkout'; })
+        .catch(function(){ window.location.href='/cart/'+vid+':1'; });
+    });
+  }
 
   /* ===== FAQ ACCORDION ===== */
   window.pfFaq=function(el){
