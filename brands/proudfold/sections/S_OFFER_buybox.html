@@ -1,0 +1,300 @@
+<!--
+  ProudFold BUY BOX  —  paste into the GemPages "Liquid / Custom HTML" (Code) element.
+  Full width is handled by scoped CSS that overrides GemPages' content-width variable
+  (--g-ct-w) for THIS section only (.gps-642941877120664178). No JavaScript touches layout,
+  so it cannot freeze. NOTE: that selector is tied to this exact section id — if you move
+  this to a different section, tell me and I'll update it.
+
+  ►► CART: the radios + ADD TO CART button are a visual mockup (JS updates price only).
+     For a real checkout, link the button to a variant/cart permalink OR rebuild the
+     price+selector+add-to-cart with GemPages' dynamic PRODUCT element.
+  ►► REVIEWS: placeholder copy until real reviews are seeded.
+-->
+<div id="pfbb">
+<style>
+  #pfbb{--cream:#F6F0E6;--ink:#1C1B19;--terra:#C4603F;--terra-d:#A84E30;--taupe:#B8A995;--amber:#D99A4E;--line:#E6DED0;--soft:#FBF8F2;--muted:#6f685e;
+    font-family:'Outfit',-apple-system,Segoe UI,Roboto,sans-serif;color:var(--ink);-webkit-font-smoothing:antialiased;box-sizing:border-box;width:100%;text-align:left}
+  #pfbb *{margin:0;padding:0;box-sizing:border-box}
+  #pfbb .wrap{max-width:1600px;margin:0 auto;padding:30px 28px 24px}
+  /* FLEXBOX two-column (GemPages mangles CSS grid, so we use flex) */
+  #pfbb .grid{display:flex;flex-direction:row;gap:48px;align-items:flex-start}
+  #pfbb .grid>div{flex:1 1 0;min-width:0}
+  #pfbb .grid>div:first-child{flex:1.05 1 0}
+
+  /* gallery */
+  #pfbb .gal .main{background:var(--soft);border:1px solid var(--line);border-radius:18px;overflow:hidden;display:flex;align-items:center;justify-content:center;aspect-ratio:1/1;position:relative}
+  #pfbb .mainc{width:100%;height:100%;display:flex;align-items:center;justify-content:center}
+  #pfbb .mainc img{width:94%;height:94%;object-fit:contain}
+  #pfbb .gal .main .arw{position:absolute;top:50%;transform:translateY(-50%);width:34px;height:34px;border-radius:50%;background:#fff;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;color:var(--terra);font-size:17px;font-weight:700;cursor:pointer;user-select:none;z-index:3;box-shadow:0 2px 9px rgba(0,0,0,.09)}
+  #pfbb .gal .main .arw.l{left:10px}#pfbb .gal .main .arw.r{right:10px}
+  #pfbb .thumbs{display:flex;gap:10px;margin-top:12px}
+  #pfbb .thumbs .t{flex:1;aspect-ratio:1/1;background:var(--soft);border:1px solid var(--line);border-radius:12px;display:flex;align-items:center;justify-content:center;overflow:hidden;cursor:pointer}
+  #pfbb .thumbs .t.sel{border:2px solid var(--terra)}
+  #pfbb .thumbs .t img{width:100%;height:100%;object-fit:contain}
+  #pfbb .ph{color:var(--taupe);font-size:11px;font-weight:600;text-align:center;line-height:1.25;padding:4px}
+
+  /* review carousel */
+  #pfbb .rcar{margin-top:18px;background:var(--soft);border:1px solid var(--line);border-radius:16px;padding:18px 20px;position:relative;min-height:150px}
+  #pfbb .rcar .st{color:var(--amber);font-size:15px;letter-spacing:1px}
+  #pfbb .rcar h4{font-size:15.5px;font-weight:700;margin:6px 0 5px}
+  #pfbb .rcar p{font-size:13.5px;line-height:1.5;color:#4a443d}
+  #pfbb .rcar .who{display:flex;align-items:center;gap:7px;margin-top:10px;font-size:12.5px}
+  #pfbb .rcar .who b{font-weight:700}
+  #pfbb .rcar .vb{color:var(--terra);font-weight:700}
+  #pfbb .rcar .arw{position:absolute;top:50%;transform:translateY(-50%);width:30px;height:30px;border-radius:50%;background:#fff;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;color:var(--terra);font-size:15px;font-weight:700;cursor:pointer;user-select:none;z-index:2}
+  #pfbb .rcar .arw.l{left:-13px}#pfbb .rcar .arw.r{right:-13px}
+  #pfbb .dots{display:flex;gap:6px;justify-content:center;margin-top:12px}
+  #pfbb .dots i{width:7px;height:7px;border-radius:50%;background:var(--taupe);opacity:.4;cursor:pointer;transition:all .2s}
+  #pfbb .dots i.on{background:var(--terra);opacity:1;width:18px;border-radius:4px}
+
+  /* offer col */
+  #pfbb .tl{display:flex;align-items:center;gap:8px;font-size:14px;font-weight:600}
+  #pfbb .tl .st{color:var(--amber);letter-spacing:1px;font-size:16px}
+  #pfbb h1.title{font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:38px;line-height:1.06;letter-spacing:-.01em;margin:11px 0 10px}
+  #pfbb .sub{font-size:16.5px;font-weight:600;line-height:1.42;color:#2c2822;margin-bottom:17px}
+  #pfbb .bul{list-style:none;display:flex;flex-direction:column;gap:9px;margin-bottom:22px}
+  #pfbb .bul li{display:flex;gap:10px;align-items:flex-start;font-size:15px;font-weight:500;line-height:1.35}
+  #pfbb .bul svg{flex:none;width:19px;height:19px;margin-top:1px}
+
+  #pfbb .bundles{display:flex;flex-direction:column;gap:12px}
+  #pfbb .bc{position:relative;display:flex;align-items:center;gap:14px;border:1.5px solid var(--line);border-radius:16px;padding:14px 16px 14px 42px;background:#fff;cursor:pointer}
+  #pfbb .bc .radio{position:absolute;left:15px;top:50%;transform:translateY(-50%);width:21px;height:21px;border-radius:50%;border:2px solid var(--taupe);background:#fff}
+  #pfbb .bc .tube{position:relative;flex:none;width:74px;height:66px;display:flex;align-items:center;justify-content:center}
+  #pfbb .bc .tube img{height:100%;width:auto;max-width:100%;object-fit:contain;filter:drop-shadow(0 4px 7px rgba(0,0,0,.16))}
+  #pfbb .bc .qty{position:absolute;top:-7px;right:-9px;min-width:26px;height:26px;padding:0 6px;background:var(--terra);color:#fff;font-size:12px;font-weight:800;border-radius:30px;display:flex;align-items:center;justify-content:center;box-shadow:0 3px 8px rgba(196,96,63,.35);border:2px solid #fff}
+  #pfbb .bc.sel .qty{background:var(--terra-d)}
+  #pfbb .bc .bcbody{flex:1 1 0;min-width:0}
+  #pfbb .bc.sel{border:2px solid var(--terra);background:linear-gradient(0deg,rgba(196,96,63,.05),rgba(196,96,63,.05)),#fff;box-shadow:0 6px 20px rgba(196,96,63,.10)}
+  #pfbb .bc.sel .radio{border-color:var(--terra);background:radial-gradient(circle,var(--terra) 0 5px,#fff 6px 20px)}
+  #pfbb .bc .ribbon{position:absolute;top:-10px;left:42px;background:var(--terra);color:#fff;font-size:10.5px;font-weight:800;letter-spacing:.06em;padding:3px 10px;border-radius:20px}
+  #pfbb .bc .best{position:absolute;top:-10px;left:42px;background:var(--ink);color:#fff;font-size:10.5px;font-weight:800;letter-spacing:.06em;padding:3px 10px;border-radius:20px}
+  #pfbb .bc .row1{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+  #pfbb .bc .nm{font-weight:800;font-size:16.5px}
+  #pfbb .bc .nm span{display:block;font-weight:500;font-size:12px;color:var(--muted);margin-top:1px}
+  #pfbb .bc .price{text-align:right;white-space:nowrap}
+  #pfbb .bc .price .now{font-weight:800;font-size:19px}
+  #pfbb .bc .price .was{text-decoration:line-through;color:var(--muted);font-size:12.5px;margin-left:4px}
+  #pfbb .bc .meta{display:flex;gap:9px;flex-wrap:wrap;margin-top:6px;font-size:12px;color:var(--muted);font-weight:600;align-items:center}
+  #pfbb .bc .perday{background:var(--cream);color:var(--terra-d);padding:2px 9px;border-radius:20px;font-weight:800}
+  #pfbb .bc .save{color:var(--terra);font-weight:800}
+  #pfbb .bc .gifts{margin-top:9px;padding-top:9px;border-top:1px dashed var(--line);display:flex;flex-direction:column;gap:4px}
+  #pfbb .bc .gifts div{font-size:12px;display:flex;gap:6px;align-items:center;color:#4a443d}
+  #pfbb .bc .gifts svg{flex:none;width:13px;height:13px}
+
+  /* value stack (dynamic per tier) */
+  #pfbb .vstack{margin-top:16px;background:var(--soft);border:1px dashed var(--terra);border-radius:14px;padding:14px 16px}
+  #pfbb .vstack .vh{font-size:11.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--terra-d);margin-bottom:11px}
+  #pfbb .vrow{display:flex;justify-content:center;gap:18px;flex-wrap:wrap}
+  #pfbb .vitem{display:flex;flex-direction:column;align-items:center;text-align:center;gap:7px;flex:0 1 130px}
+  #pfbb .gcard{flex:none;width:52px;height:68px;border-radius:7px;display:flex;flex-direction:column;justify-content:space-between;padding:7px 6px;box-shadow:0 3px 9px rgba(0,0,0,.14)}
+  #pfbb .gcard.a{background:linear-gradient(140deg,#C4603F,#A84E30);color:#F6F0E6}
+  #pfbb .gcard.b{background:linear-gradient(140deg,#E7D9C4,#CBB89b);color:#4a3b2c}
+  #pfbb .gcard .gt{font-family:'Fraunces',Georgia,serif;font-weight:700;font-size:8.5px;line-height:1.08}
+  #pfbb .gcard .gb{font-size:5.5px;letter-spacing:.06em;text-transform:uppercase;opacity:.8}
+  #pfbb .shipb{flex:none;width:52px;height:68px;border-radius:7px;background:var(--cream);display:flex;align-items:center;justify-content:center;border:1px solid var(--line)}
+  #pfbb .shipb svg{width:28px;height:28px}
+  #pfbb .vitem .vt{font-size:12px;font-weight:700;line-height:1.2}
+  #pfbb .vitem .vt s{color:var(--muted);font-weight:500}
+  #pfbb .vitem .vt b{color:var(--terra);display:block;font-size:11px}
+
+  #pfbb .atc{margin-top:18px;width:100%;background:var(--terra);color:#fff;border:none;border-radius:14px;padding:18px;font-family:inherit;font-weight:800;font-size:18px;letter-spacing:.02em;cursor:pointer;box-shadow:0 8px 24px rgba(196,96,63,.28)}
+  #pfbb .atc:hover{background:var(--terra-d)}
+
+  #pfbb .ticons{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:20px;padding-top:18px;border-top:1px solid var(--line)}
+  #pfbb .ti{text-align:center;display:flex;flex-direction:column;align-items:center;gap:6px}
+  #pfbb .ti .c{width:38px;height:38px;border-radius:50%;background:var(--cream);display:flex;align-items:center;justify-content:center}
+  #pfbb .ti .c svg{width:19px;height:19px}
+  #pfbb .ti span{font-size:11px;font-weight:600;line-height:1.25;color:#4a443d}
+
+  #pfbb .faq{margin-top:20px;border-top:1px solid var(--line)}
+  #pfbb .faq .ftitle{font-weight:800;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:16px 0 4px}
+  #pfbb .fi{border-bottom:1px solid var(--line)}
+  #pfbb .fq{display:flex;justify-content:space-between;align-items:center;padding:13px 2px;font-weight:700;font-size:14.5px;gap:12px;cursor:pointer}
+  #pfbb .fq .ic{color:var(--terra);font-size:19px;font-weight:400;flex:none;width:16px;text-align:center}
+  #pfbb .fa{padding:0 2px;font-size:13.5px;line-height:1.55;color:#4a443d;max-height:0;overflow:hidden;transition:max-height .3s ease,padding .3s ease}
+  #pfbb .fi.open .fa{max-height:720px;padding:2px 2px 16px}
+  #pfbb .fa p{margin-bottom:9px}
+  #pfbb .fa b{color:var(--ink);font-weight:800}
+  #pfbb .fa ul{list-style:none;margin:2px 0 9px;display:flex;flex-direction:column;gap:8px}
+  #pfbb .fa li{display:flex;gap:9px;line-height:1.45}
+  #pfbb .fa li::before{content:"";flex:none;width:6px;height:6px;border-radius:50%;background:var(--terra);margin-top:6px}
+  #pfbb .fa .stp{counter-reset:s;list-style:none;margin:2px 0 9px;display:flex;flex-direction:column;gap:8px}
+  #pfbb .fa .stp li{counter-increment:s;align-items:flex-start}
+  #pfbb .fa .stp li::before{content:counter(s);width:19px;height:19px;border-radius:50%;background:var(--terra);color:#fff;font-size:11px;font-weight:800;display:flex;align-items:center;justify-content:center;margin-top:1px}
+
+  @media(max-width:820px){#pfbb .grid{flex-direction:column;gap:26px}#pfbb .grid>div,#pfbb .grid>div:first-child{flex:1 1 auto;width:100%}#pfbb h1.title{font-size:31px}}
+
+  /* ===== FULL-WIDTH FIX: override GemPages' content-width clamp for THIS section only.
+     GemPages caps section content at var(--g-ct-w) (1200px) via the .gp-mx-auto container.
+     We raise that to the full viewport for this one section, then our own .wrap re-centers
+     the content. Scoped to .gps-642941877120664178 so no other section is affected. ===== */
+  @media(min-width:821px){
+    .gps-642941877120664178{--g-ct-w:100% !important;max-width:none !important;width:100% !important}
+    .gps-642941877120664178 .gp-mx-auto,
+    .gps-642941877120664178 [class*="gp-max-w"],
+    .gps-642941877120664178 [data-id]{max-width:none !important;width:100% !important}
+  }
+</style>
+
+<div class="wrap">
+  <div class="grid">
+
+    <!-- LEFT: clickable image gallery + review carousel -->
+    <div>
+      <div class="gal">
+        <div class="main">
+          <div class="arw l" onclick="pfImg(-1)">‹</div>
+          <div class="mainc" id="pfmainc"></div>
+          <div class="arw r" onclick="pfImg(1)">›</div>
+        </div>
+        <div class="thumbs" id="pfthumbs"></div>
+      </div>
+
+      <div class="rcar">
+        <div class="arw l" onclick="pfRev(-1)">‹</div><div class="arw r" onclick="pfRev(1)">›</div>
+        <div id="pfrev"></div>
+        <div class="dots" id="pfdots"></div>
+      </div>
+    </div>
+
+    <!-- RIGHT: offer -->
+    <div>
+      <div class="tl"><span class="st">★★★★★</span> <span style="font-weight:800">4.7 / 5.0</span>&nbsp;·&nbsp;<span style="color:#6f685e">from verified buyers</span></div>
+      <h1 class="title">ProudFold™ Comfort Barrier Cream</h1>
+      <div class="sub">Made for plus-size &amp; big-busted folds — so the burn, the rub and the hiding finally stop, and you can just get on with your day.</div>
+      <ul class="bul">
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg> Finally made for your folds.</li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg> Stops the rub before it starts.</li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg> Hug, bend, reach. No bracing.</li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg> Done hiding. Back to living.</li>
+      </ul>
+
+      <div class="bundles">
+        <div class="bc" data-tier="1" onclick="pfSel(1)">
+          <div class="radio"></div>
+          <div class="tube"><img src="https://cdn.shopify.com/s/files/1/1037/1163/7685/files/proudfold_tube_cutout.png?v=1792808643" alt="ProudFold tube"><span class="qty">×1</span></div>
+          <div class="bcbody">
+          <div class="row1"><div class="nm">1 Month of Comfort <span>1 tube</span></div><div class="price"><span class="now">$29.95</span> <span class="was">$39.95</span></div></div>
+          <div class="meta"><span class="perday">$1.00/day</span></div>
+          <div class="gifts"><div><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="3" stroke-linecap="round"><path d="M20 6L9 17l-5-5"/></svg> FREE: The Fold-Care Playbook (digital)</div></div>
+          </div>
+        </div>
+        <div class="bc sel" data-tier="3" onclick="pfSel(3)">
+          <div class="ribbon">★ MOST POPULAR</div>
+          <div class="radio"></div>
+          <div class="tube"><img src="https://cdn.shopify.com/s/files/1/1037/1163/7685/files/proudfold_tube_cutout.png?v=1792808643" alt="ProudFold 3 tubes"><span class="qty">×3</span></div>
+          <div class="bcbody">
+          <div class="row1"><div class="nm">3 Months of Comfort <span>3 tubes</span></div><div class="price"><span class="now">$64.95</span> <span class="was">$119.85</span></div></div>
+          <div class="meta"><span class="perday">$0.72/day</span> <span>$21.65 / tube</span> <span class="save">SAVE 46%</span></div>
+          <div class="gifts"><div><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="3" stroke-linecap="round"><path d="M20 6L9 17l-5-5"/></svg> FREE: The Fold-Care Playbook</div><div><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="3" stroke-linecap="round"><path d="M20 6L9 17l-5-5"/></svg> FREE: "Friction, Not Your Fault" guide</div><div><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="3" stroke-linecap="round"><path d="M20 6L9 17l-5-5"/></svg> FREE: US Shipping</div></div>
+          </div>
+        </div>
+        <div class="bc" data-tier="5" onclick="pfSel(5)">
+          <div class="best">BEST VALUE</div>
+          <div class="radio"></div>
+          <div class="tube"><img src="https://cdn.shopify.com/s/files/1/1037/1163/7685/files/proudfold_tube_cutout.png?v=1792808643" alt="ProudFold 5 tubes"><span class="qty">×5</span></div>
+          <div class="bcbody">
+          <div class="row1"><div class="nm">5 Months of Comfort <span>5 tubes</span></div><div class="price"><span class="now">$94.95</span> <span class="was">$199.75</span></div></div>
+          <div class="meta"><span class="perday">$0.63/day</span> <span>$18.99 / tube</span> <span class="save">SAVE 52%</span></div>
+          <div class="gifts"><div><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="3" stroke-linecap="round"><path d="M20 6L9 17l-5-5"/></svg> FREE: The Fold-Care Playbook</div><div><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="3" stroke-linecap="round"><path d="M20 6L9 17l-5-5"/></svg> FREE: "Friction, Not Your Fault" guide</div><div><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="3" stroke-linecap="round"><path d="M20 6L9 17l-5-5"/></svg> FREE: US Shipping</div></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="vstack">
+        <div class="vh" id="pfvh">★ Your 3-pack also includes, FREE:</div>
+        <div class="vrow" id="pfvrow"></div>
+      </div>
+
+      <!-- CART: wire to your product/cart, or replace with a GemPages product Add-to-Cart element -->
+      <button class="atc" id="pfatc">ADD TO CART — $64.95 USD</button>
+
+      <div class="ticons">
+        <div class="ti"><div class="c"><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.5 8-8 10-4.5-2-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg></div><span>60-Day<br>Keep-It</span></div>
+        <div class="ti"><div class="c"><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 3h15v13H1z"/><path d="M16 8h4l3 3v5h-7z"/><circle cx="5.5" cy="18.5" r="2"/><circle cx="18.5" cy="18.5" r="2"/></svg></div><span>Ships from<br>the US</span></div>
+        <div class="ti"><div class="c"><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.5 19 2c1 2.5 1.5 5-.5 8.5A7 7 0 0 1 11 20z"/><path d="M2 22c3-3 6.5-5 9-6"/></svg></div><span>Fragrance-<br>Free</span></div>
+        <div class="ti"><div class="c"><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 11c0 5.5-7 10-7 10z"/></svg></div><span>Made for<br>the Fold</span></div>
+      </div>
+
+      <div class="faq">
+        <div class="ftitle">Before you buy</div>
+        <div class="fi open"><div class="fq" onclick="pfFaq(this)">What's actually in it? <span class="ic">−</span></div><div class="fa"><p>A short, fragrance-free formula built around one job — a protective barrier:</p><ul><li><b>Mineral oil &amp; glycerin</b> — form the thin layer that sits in the fold and cuts the skin-on-skin rubbing.</li><li><b>Allantoin</b> — soothes chafed, chapped skin.</li><li><b>A touch of mint</b> — the light cooling you feel on contact.</li></ul><p>No fragrance. No steroids. No harsh medicated actives that sting already-raw skin.</p><p>The full ingredient list is in the <b>third product photo above</b>.</p></div></div>
+        <div class="fi"><div class="fq" onclick="pfFaq(this)">Will it sting my already-raw skin? <span class="ic">+</span></div><div class="fa"><p>It was made for skin that's already raw and angry — so it's <b>gentle on purpose</b>.</p><ul><li><b>No fragrance</b> and none of the harsh stuff that burns.</li><li>Just a thin, comforting layer.</li><li>The <b>light cool is the mint</b>, not a sting.</li></ul><p>Skin very sore, or reacts to nearly everything? <b>Dab a little on one spot first</b> and wait a day.</p><p>Still not right? The <b>60-day keep-it guarantee</b> has you covered — full refund, keep the tube.</p></div></div>
+        <div class="fi"><div class="fq" onclick="pfFaq(this)">How do I use it — even on a fold I can't reach? <span class="ic">+</span></div><div class="fa"><p>Three easy steps:</p><ol class="stp"><li><b>Pat the fold dry</b> with a towel.</li><li><b>Smooth on a thin layer</b> anywhere skin rubs skin — you don't need much.</li><li><b>Reapply after a shower</b> or a big sweat.</li></ol><p>Most days, that's it.</p><p>Can't reach the spot? A <b>long-handled lotion applicator</b> — or a soft folded cloth — lets you pat it dry and smooth it on without holding the fold up or stretching.</p></div></div>
+        <div class="fi"><div class="fq" onclick="pfFaq(this)">Shipping, returns &amp; the guarantee? <span class="ic">+</span></div><div class="fa"><ul><li><b>Ships from the US</b>, usually lands in <b>3–7 business days</b>.</li><li>You get a <b>tracking email</b> the moment it's on its way.</li><li><b>One-time buy</b> — no subscription, nothing auto-charged, nothing sneaky after checkout.</li><li><b>60-day keep-it guarantee</b> — not for you? Email in for a full refund and keep the tube.</li></ul><p>No forms, no hoops, and a <b>real person answers</b>.</p></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  /* ===== IMAGE GALLERY (clickable) =====
+     Paste your image URLs into the  src:''  slots below. Leave src empty to keep a placeholder. */
+  var GALLERY = [
+    {label:'main',          src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/hf_20261021_093322_67679015-b070-4194-9da0-9c4a0b873290.png?v=1792743501'},
+    {label:'before/after',  src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/beforeafter_v2.png?v=1792743503'},
+    {label:'ingredients',   src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/proudfold_ingredients.webp?v=1792755230'},
+    {label:'in use',        src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/reframe_nbp.png?v=1792743503'},
+    {label:'detail',        src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/ChatGPT_Image_Oct_23_2026_07_25_11_PM_d430cf83-5157-4106-be19-f44a31ee5797.png?v=1792744161'},
+    {label:'reviews',       src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/testimonials_nbp.png?v=1792743503'},
+    {label:'detail 2',      src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/ChatGPT_Image_Oct_23_2026_07_29_02_PM.png?v=1792744182'},
+    {label:'guarantee',     src:'https://cdn.shopify.com/s/files/1/1037/1163/7685/files/guarantee_gpt2.png?v=1792743501'}
+  ];
+  var gi=0, mainc=document.getElementById('pfmainc'), thumbs=document.getElementById('pfthumbs');
+  function cell(it,big){ return it.src ? '<img src="'+it.src+'" alt="">' : '<span class="ph">'+it.label+(big?'<br>(swap in)':'')+'</span>'; }
+  function renderGal(){
+    if(mainc) mainc.innerHTML=cell(GALLERY[gi],true);
+    if(thumbs) thumbs.innerHTML=GALLERY.map(function(it,k){return '<div class="t'+(k===gi?' sel':'')+'" onclick="pfImgGo('+k+')">'+cell(it,false)+'</div>';}).join('');
+  }
+  window.pfImg=function(dir){ gi=(gi+dir+GALLERY.length)%GALLERY.length; renderGal(); };
+  window.pfImgGo=function(k){ gi=k; renderGal(); };
+  renderGal();
+
+  /* ===== REVIEW CAROUSEL ===== */
+  var REVIEWS = [
+    {t:'"almost didn\'t bother"', p:"Almost didn't buy it, figured it was another dud. It's the first one that actually worked for me. Turns out it was the rubbing all along, not anything I was doing wrong.", w:"Maureen P., OH"},
+    {t:'"lasts the whole day"', p:"I'm on my feet all day in Texas heat. Most creams go slimy or quit by lunch. This one stays put and I stopped running to the bathroom to fix myself.", w:"Lynn D., TX"},
+    {t:'"didn\'t sting"', p:"I braced for it to burn like everything does on raw skin. Nope, went on cool and soft. And I got charged once, no sneaky subscription after.", w:"Monica R., FL"},
+    {t:'"under the bust, finally"', p:"Big chested my whole life so under the boob is a nightmare every summer. This one actually fits where I need it. Felt like someone finally made it for a body like mine.", w:"Gloria T., CA"},
+    {t:'"threw out the powder"', p:"Every summer the rubbing used to come back by day three. Threw out the powders that turn to paste, and this one actually stays put. The 3 pack worked out cheaper than the pile of stuff I'd already wasted money on.", w:"Nadine W., MI"}
+  ];
+  var ri=0, box=document.getElementById('pfrev'), dots=document.getElementById('pfdots');
+  if(dots){ REVIEWS.forEach(function(_,k){ var d=document.createElement('i'); if(k===0)d.className='on'; d.onclick=function(){ri=k;renderRev();}; dots.appendChild(d); }); }
+  function renderRev(){
+    if(!box)return; var r=REVIEWS[ri];
+    box.innerHTML='<div class="st">★★★★★</div><h4>'+r.t+'</h4><p>'+r.p+'</p><div class="who"><b>'+r.w+'</b> · <span class="vb">✔ Verified</span></div>';
+    if(dots){[].forEach.call(dots.children,function(c,k){c.className=(k===ri)?'on':'';});}
+  }
+  window.pfRev=function(dir){ ri=(ri+dir+REVIEWS.length)%REVIEWS.length; renderRev(); };
+  renderRev();
+
+  /* ===== TIER SELECT + DYNAMIC VALUE STACK ===== */
+  var PLAYBOOK='<div class="vitem"><div class="gcard a"><div class="gb">Guide</div><div class="gt">The Fold-Care Playbook</div></div><div class="vt">Fold-Care Playbook <s>$29</s> <b>FREE</b></div></div>';
+  var GUIDE2='<div class="vitem"><div class="gcard b"><div class="gb">Guide</div><div class="gt">Friction, Not Your Fault</div></div><div class="vt">"Friction, Not Your Fault" <s>$19</s> <b>FREE</b></div></div>';
+  var SHIP='<div class="vitem"><div class="shipb"><svg viewBox="0 0 24 24" fill="none" stroke="#C4603F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 3h15v13H1z"/><path d="M16 8h4l3 3v5h-7z"/><circle cx="5.5" cy="18.5" r="2"/><circle cx="18.5" cy="18.5" r="2"/></svg></div><div class="vt">US Shipping <s>$6</s> <b>FREE</b></div></div>';
+  var TIERS={
+    1:{price:'$29.95', head:'★ Your order also includes, FREE:', gifts:PLAYBOOK},
+    3:{price:'$64.95', head:'★ Your 3-pack also includes, FREE:', gifts:PLAYBOOK+GUIDE2+SHIP},
+    5:{price:'$94.95', head:'★ Your 5-pack also includes, FREE:', gifts:PLAYBOOK+GUIDE2+SHIP}
+  };
+  window.pfSel=function(tier){
+    var cards=document.querySelectorAll('#pfbb .bc');
+    [].forEach.call(cards,function(c){ c.classList.toggle('sel', c.getAttribute('data-tier')==String(tier)); });
+    var t=TIERS[tier];
+    var atc=document.getElementById('pfatc'); if(atc) atc.textContent='ADD TO CART — '+t.price+' USD';
+    var vh=document.getElementById('pfvh'); if(vh) vh.textContent=t.head;
+    var vr=document.getElementById('pfvrow'); if(vr) vr.innerHTML=t.gifts;
+  };
+  pfSel(3);
+
+  /* ===== FAQ ACCORDION ===== */
+  window.pfFaq=function(el){
+    var fi=el.parentNode, wasOpen=fi.classList.contains('open');
+    var all=fi.parentNode.querySelectorAll('.fi');
+    [].forEach.call(all,function(x){ x.classList.remove('open'); var ic=x.querySelector('.ic'); if(ic)ic.textContent='+'; });
+    if(!wasOpen){ fi.classList.add('open'); var ic=el.querySelector('.ic'); if(ic)ic.textContent='−'; }
+  };
+})();
+</script>
+</div>
