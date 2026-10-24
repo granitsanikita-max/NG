@@ -1,40 +1,34 @@
-<!-- ProudFold HOMEPAGE CTA WIRING — global script.
-     * Makes #pfbb / #offer land EXACTLY on the offer buy box (corrects for GemPages lazy-load overshoot).
-     * Wires the custom ADD TO CART button to add the selected pack -> checkout.
-     * Rewrites any dead #offer links to #pfbb and normalises the rating to 4.8.
-     Lives as its own Custom Code section; runs page-wide so placement doesn't matter. -->
+<!-- ProudFold HOMEPAGE CTA WIRING — single page-wide script.
+     * Scroll-to-offer for CTAs / #pfbb / #offer (corrects GemPages lazy-load overshoot).
+     * Add-to-Cart adds the selected pack + matching free guide(s) -> checkout.
+     * Normalises rating to 4.8.  MUST be the only wiring script on the page. -->
 <script>
 (function(){
-  var VAR={1:'53575440269493',3:'53575440335029',5:'53575440367797'};
-  function cur(){ var s=document.querySelector('#pfbb .bc.sel'); return (s&&s.getAttribute('data-tier'))||'3'; }
-  function scrollToOffer(){
-    // scroll a few times over ~1.2s so lazy-loaded sections above can't throw off the landing
-    [0,250,600,1100].forEach(function(d){ setTimeout(function(){
-      var e=document.getElementById('pfbb'); if(e) e.scrollIntoView({block:'start'});
-    }, d); });
-  }
-  function hashGo(){ if(/#(pfbb|offer)\b/.test(location.hash)) scrollToOffer(); }
-  if(document.readyState!=='loading') hashGo(); else window.addEventListener('load',hashGo);
-  window.addEventListener('hashchange', hashGo);
-
-  document.addEventListener('click', function(e){
-    // any in-page link to the offer -> reliable scroll
-    var a=e.target.closest('a[href$="#pfbb"],a[href$="#offer"]');
-    if(a){ e.preventDefault(); if(history.replaceState) history.replaceState(null,'',location.pathname+'#pfbb'); scrollToOffer(); return; }
-    // ADD TO CART (custom button) -> add selected variant -> checkout
-    var b=e.target.closest('#pfatc'); if(!b) return;
-    e.preventDefault(); e.stopPropagation();
-    var vid=VAR[cur()]||VAR['3']; b.textContent='Adding…';
-    fetch('/cart/add.js',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:[{id:Number(vid),quantity:1}]})})
+  if(window.__pf) return; window.__pf=1;
+  var MAIN={1:'53575440269493',3:'53575440335029',5:'53575440367797'};
+  var PLAYBOOK='53596551184565', FRICTION='53596551217333';
+  var GIFTS={1:[PLAYBOOK],3:[PLAYBOOK,FRICTION],5:[PLAYBOOK,FRICTION]};
+  var LABELS=['get proudfold','try proudfold','shop now'];
+  function tier(){ var s=document.querySelector('#pfbb .bc.sel'); return (s&&s.getAttribute('data-tier'))||'3'; }
+  function toOffer(){ var last=-1e9,stable=0,n=0; var iv=setInterval(function(){ n++; var o=document.getElementById('pfbb'); if(!o){ if(n>60)clearInterval(iv); return;} o.scrollIntoView({block:'start'}); var now=Math.round(o.getBoundingClientRect().top); if(Math.abs(now-last)<2)stable++; else stable=0; last=now; if(stable>=4||n>60)clearInterval(iv); },80); }
+  function addToCart(){
+    var t=tier(), vid=MAIN[t]; if(!vid) return;
+    var items=[{id:Number(vid),quantity:1}];
+    (GIFTS[t]||[]).forEach(function(g){ items.push({id:Number(g),quantity:1}); });
+    var btn=document.getElementById('pfatc'); if(btn) btn.textContent='Adding…';
+    fetch('/cart/add.js',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
       .then(function(r){ if(!r.ok) throw 0; window.location.href='/checkout'; })
       .catch(function(){ window.location.href='/cart/'+vid+':1'; });
-  }, true);
-
-  function fix(){
-    document.querySelectorAll('a[href$="#offer"]').forEach(function(a){ a.setAttribute('href','#pfbb'); });
-    var tl=document.querySelector('#pfbb .tl span[style*="800"]');
-    if(tl && /4\.7/.test(tl.textContent)) tl.textContent='4.8 / 5.0';
   }
-  if(document.readyState!=='loading') fix(); else document.addEventListener('DOMContentLoaded',fix);
+  document.addEventListener('click',function(e){
+    if(e.target.closest('#pfatc')){ e.preventDefault(); e.stopPropagation(); addToCart(); return; }
+    var el=e.target.closest('a,button,[role="button"],[class*="button"],[class*="Button"],[class*="btn"]'); if(!el) return;
+    var txt=(el.textContent||'').replace(/\s+/g,' ').trim().toLowerCase();
+    var href=(el.getAttribute&&(el.getAttribute('href')||''))||'';
+    if(LABELS.some(function(l){return txt.indexOf(l)===0;})||/#(pfbb|offer)\b/.test(href)){ e.preventDefault(); e.stopPropagation(); toOffer(); }
+  },true);
+  if(/#(pfbb|offer)\b/.test(location.hash)){ document.readyState!=='loading'?toOffer():window.addEventListener('load',toOffer); }
+  function fix(){ var tl=document.querySelector('#pfbb .tl span[style*="800"]'); if(tl&&/4\.7/.test(tl.textContent)) tl.textContent='4.8 / 5.0'; }
+  document.readyState!=='loading'?fix():document.addEventListener('DOMContentLoaded',fix);
 })();
 </script>
