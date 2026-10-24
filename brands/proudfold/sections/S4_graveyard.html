@@ -1,14 +1,7 @@
 <!-- ProudFold S4 — THE PROBLEM / GRAVEYARD. 2-column: LEFT = OUR product (the one built for folds),
      RIGHT = the 5 things she's already tried & failed. White bg, terracotta accents.
-     ========================= IMAGE SLOTS — swap after CDN upload =========================
-     LEFT product hero  -> replace the `.photo .ph` div with:
-        <img class="prodimg" src="CDN_URL/graveyard_product_hero.png" alt="ProudFold Comfort Barrier Cream">
-     RIGHT card icons    -> replace each `.cthumb .ph` div with:  <img src="CDN_URL/icons/<file>.png" alt="">
-        card 1 Baby & diaper creams      -> icons/grave_baby.png
-        card 2 Powders & cornstarch      -> icons/grave_powder.png
-        card 3 Antifungal creams         -> icons/grave_antifungal.png
-        card 4 Steroid & prescription    -> icons/grave_steroid.png
-        card 5 "cream off a Facebook ad" -> icons/grave_facebook.png
+     ========================= IMAGES: LIVE (compressed .webp on Shopify CDN, wired 2026-10-24) =========================
+     Paste this whole block into a GemPages Custom Code / HTML element. No image uploads needed — all URLs are live.
      ===================================================================================== -->
 <div id="pfgy">
 <style>
@@ -30,15 +23,10 @@
   #pfgy .photo{flex:0 0 40%;min-width:0}
   #pfgy .cards{flex:1 1 0;min-width:0;display:flex;flex-direction:column;gap:18px}
 
-  /* styled image placeholder (remove the data-ph label + set background-image to go live) */
-  #pfgy .ph{position:relative;width:100%;height:100%;background:linear-gradient(145deg,#F6F2EB,#EBE4D8);border:1px solid var(--line);border-radius:18px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;overflow:hidden}
-  #pfgy .photo .ph{min-height:520px;box-shadow:0 14px 34px rgba(28,27,25,.08)}
+  /* live product image (left) */
   #pfgy .prodimg{width:100%;min-height:520px;height:100%;object-fit:cover;border-radius:18px;box-shadow:0 14px 34px rgba(28,27,25,.08);display:block}
   #pfgy .pcap{text-align:center;margin-top:14px;font-size:14.5px;font-weight:700;color:var(--terra)}
-  #pfgy .cthumb img{width:100%;height:100%;object-fit:contain}
-  #pfgy .ph svg{width:40px;height:40px;stroke:#c3b49c;fill:none;stroke-width:1.6}
-  #pfgy .ph .phl{font-size:11.5px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:#b0a08a}
-  #pfgy .ph .phs{font-size:12.5px;color:#b0a08a;max-width:220px;text-align:center;line-height:1.4;margin-top:-4px}
+  #pfgy .cthumb img{width:100%;height:100%;object-fit:contain;display:block}
 
   /* cards */
   #pfgy .card{position:relative;display:flex;gap:16px;align-items:center;border:1.5px solid var(--line);border-radius:14px;padding:18px 18px;background:#fff;box-shadow:0 2px 10px rgba(28,27,25,.045);transition:box-shadow .2s,border-color .2s}
@@ -47,9 +35,7 @@
   #pfgy .cbody{flex:1 1 0;min-width:0}
   #pfgy .card .nm{font-weight:800;font-size:18px;line-height:1.2;margin-bottom:5px;color:#141311}
   #pfgy .card .why{font-size:14.5px;line-height:1.5;color:#555;font-weight:400}
-  #pfgy .cthumb{flex:none;width:76px;height:76px;border-radius:12px}
-  #pfgy .cthumb .ph{border-radius:12px}
-  #pfgy .cthumb svg{width:26px;height:26px}
+  #pfgy .cthumb{flex:none;width:76px;height:76px;border-radius:12px;overflow:hidden}
 
   /* reframe */
   #pfgy .reframe{margin-top:44px;background:var(--soft);border:1px solid var(--line);border-radius:18px;padding:34px 30px;text-align:center}
@@ -60,7 +46,7 @@
   @media(max-width:860px){
     #pfgy .main{flex-direction:column;gap:26px}
     #pfgy .photo{flex:1 1 auto}
-    #pfgy .photo .ph{min-height:300px}
+    #pfgy .prodimg{min-height:300px}
     #pfgy h2{font-size:29px}
     #pfgy .wrap{padding:52px 18px 58px}
     #pfgy .reframe .rt{font-size:22px}
@@ -73,17 +59,13 @@
   <div class="emph">Your fold rash isn't really a skin problem. It's a <b>friction problem</b> — and these never touch the rub.</div>
 
   <div class="main">
-    <!-- LEFT: OUR product (swap .ph for the product <img> — see top comment) -->
+    <!-- LEFT: OUR product -->
     <div class="photo">
-      <div class="ph" data-slot="product-hero">
-        <svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.8"/><path d="M4 18l5-5 3.5 3.5L16 12l4 4"/></svg>
-        <div class="phl">ProudFold product</div>
-        <div class="phs">graveyard_product_hero.png</div>
-      </div>
+      <img class="prodimg" src="https://cdn.shopify.com/s/files/1/1037/1163/7685/files/pf_graveyard_product_hero.webp?v=1792831724" alt="ProudFold Comfort Barrier Cream">
       <div class="pcap">The one actually built for your folds</div>
     </div>
 
-    <!-- RIGHT: 5 failed-product cards, each with a product thumbnail slot -->
+    <!-- RIGHT: 5 failed-product cards, each with a product thumbnail -->
     <div class="cards">
       <div class="card">
         <span class="tag">Surface only</span>
@@ -91,7 +73,7 @@
           <div class="nm">Baby &amp; diaper creams</div>
           <div class="why">Thick white paste that cakes, rolls into little balls and ends up on every bra you own. Built for a baby's bottom, not an adult fold.</div>
         </div>
-        <div class="cthumb"><div class="ph"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.6"/><path d="M4 18l5-5 3.5 3.5L16 12l4 4"/></svg></div></div>
+        <div class="cthumb"><img src="https://cdn.shopify.com/s/files/1/1037/1163/7685/files/pf_grave_baby.webp?v=1792831724" alt="Baby and diaper cream"></div>
       </div>
       <div class="card">
         <span class="tag">Soaks, then quits</span>
@@ -99,7 +81,7 @@
           <div class="nm">Powders &amp; cornstarch</div>
           <div class="why">Dry for about an hour, then sweat turns them to damp clumps that grind in the crease worse than before.</div>
         </div>
-        <div class="cthumb"><div class="ph"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.6"/><path d="M4 18l5-5 3.5 3.5L16 12l4 4"/></svg></div></div>
+        <div class="cthumb"><img src="https://cdn.shopify.com/s/files/1/1037/1163/7685/files/pf_grave_powder.webp?v=1792831724" alt="Powder and cornstarch"></div>
       </div>
       <div class="card">
         <span class="tag">Wrong target</span>
@@ -107,7 +89,7 @@
           <div class="nm">Antifungal creams</div>
           <div class="why">Aimed at a fungus you may not even have — and they do nothing about the rubbing that's actually burning you.</div>
         </div>
-        <div class="cthumb"><div class="ph"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.6"/><path d="M4 18l5-5 3.5 3.5L16 12l4 4"/></svg></div></div>
+        <div class="cthumb"><img src="https://cdn.shopify.com/s/files/1/1037/1163/7685/files/pf_grave_antifungal.webp?v=1792831724" alt="Antifungal cream"></div>
       </div>
       <div class="card">
         <span class="tag">Temporary fix</span>
@@ -115,7 +97,7 @@
           <div class="nm">Steroid &amp; prescription creams</div>
           <div class="why">Settle it for a few days, but you're told not to use them for long — so the burn comes right back once you stop.</div>
         </div>
-        <div class="cthumb"><div class="ph"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.6"/><path d="M4 18l5-5 3.5 3.5L16 12l4 4"/></svg></div></div>
+        <div class="cthumb"><img src="https://cdn.shopify.com/s/files/1/1037/1163/7685/files/pf_grave_steroid.webp?v=1792831724" alt="Steroid and prescription cream"></div>
       </div>
       <div class="card">
         <span class="tag">Cheap &amp; harsh</span>
@@ -123,7 +105,7 @@
           <div class="nm">"That cream off a Facebook ad"</div>
           <div class="why">Cheap, heavily fragranced, and it stings the second it touches skin that's already raw.</div>
         </div>
-        <div class="cthumb"><div class="ph"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.6"/><path d="M4 18l5-5 3.5 3.5L16 12l4 4"/></svg></div></div>
+        <div class="cthumb"><img src="https://cdn.shopify.com/s/files/1/1037/1163/7685/files/pf_grave_facebook.webp?v=1792831724" alt="Cheap cream off a Facebook ad"></div>
       </div>
     </div>
   </div>
