@@ -1,19 +1,35 @@
-<!-- ProudFold HOMEPAGE CTA WIRING — tiny global script. Wires the offer ADD TO CART to real checkout,
-     repoints any dead #offer CTAs to the offer section, and normalises the rating to 4.8.
+<!-- ProudFold HOMEPAGE CTA WIRING — global script.
+     * Makes #pfbb / #offer land EXACTLY on the offer buy box (corrects for GemPages lazy-load overshoot).
+     * Wires the custom ADD TO CART button to add the selected pack -> checkout.
+     * Rewrites any dead #offer links to #pfbb and normalises the rating to 4.8.
      Lives as its own Custom Code section; runs page-wide so placement doesn't matter. -->
 <script>
 (function(){
   var VAR={1:'53575440269493',3:'53575440335029',5:'53575440367797'};
   function cur(){ var s=document.querySelector('#pfbb .bc.sel'); return (s&&s.getAttribute('data-tier'))||'3'; }
-  document.addEventListener('click',function(e){
+  function scrollToOffer(){
+    // scroll a few times over ~1.2s so lazy-loaded sections above can't throw off the landing
+    [0,250,600,1100].forEach(function(d){ setTimeout(function(){
+      var e=document.getElementById('pfbb'); if(e) e.scrollIntoView({block:'start'});
+    }, d); });
+  }
+  function hashGo(){ if(/#(pfbb|offer)\b/.test(location.hash)) scrollToOffer(); }
+  if(document.readyState!=='loading') hashGo(); else window.addEventListener('load',hashGo);
+  window.addEventListener('hashchange', hashGo);
+
+  document.addEventListener('click', function(e){
+    // any in-page link to the offer -> reliable scroll
+    var a=e.target.closest('a[href$="#pfbb"],a[href$="#offer"]');
+    if(a){ e.preventDefault(); if(history.replaceState) history.replaceState(null,'',location.pathname+'#pfbb'); scrollToOffer(); return; }
+    // ADD TO CART (custom button) -> add selected variant -> checkout
     var b=e.target.closest('#pfatc'); if(!b) return;
     e.preventDefault(); e.stopPropagation();
-    var vid=VAR[cur()]||VAR['3'];
-    b.textContent='Adding…';
+    var vid=VAR[cur()]||VAR['3']; b.textContent='Adding…';
     fetch('/cart/add.js',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:[{id:Number(vid),quantity:1}]})})
       .then(function(r){ if(!r.ok) throw 0; window.location.href='/checkout'; })
       .catch(function(){ window.location.href='/cart/'+vid+':1'; });
-  },true);
+  }, true);
+
   function fix(){
     document.querySelectorAll('a[href$="#offer"]').forEach(function(a){ a.setAttribute('href','#pfbb'); });
     var tl=document.querySelector('#pfbb .tl span[style*="800"]');
