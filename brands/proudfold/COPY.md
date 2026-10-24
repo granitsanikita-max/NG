@@ -960,8 +960,9 @@ Button: **CHECK AVAILABILITY** · Badge: **● Low stock — selling fast** (amb
 6. ★★★★★ "ordered the one tube and that was that" — no account, no auto-ship, nothing to remember to cancel down the line. i've been roped into those before, so it mattered more than it should've. — **Marisol V.** (sub-trap #3) ~reworded off "no surprise charges" (sub-cluster with Monica)
 Fixes vs live: "Anna Chirstin" (typo) + "Rayul Mike" (male name+photo on a women's product) removed. Use women's
 photos. Recolor green "Verified Buyer" → terracotta #C4603F; keep gold stars. (Still TEST reviews — real ones for live.)
-**Apply status:** the 3 rewrites (Denise/Sharon K./Brenda) are logged here but NOT yet applied on the live
-advertorial page (GP_STATIC 642634077400204208) — do on next pass over that page.
+**Apply status:** ✅ ALL 6 reworded reviews APPLIED LIVE by Nikita 2026-10-24 (advertorial page 642634077400204208).
+Homepage carousel (P5.3b-A) + testimonials wall (P5.3b-B) also live. Every review on the brand is now de-duped,
+human-voice, no copy-speak. (Still TEST reviews — swap for real seeded reviews before scaling spend.)
 
 ## P5.3b · HOMEPAGE REVIEWS — brand-wide cast (no repeated name / angle / phrase), human voice, NO copy-speak
 
