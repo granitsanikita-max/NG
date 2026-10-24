@@ -1,7 +1,6 @@
 # Section boards: stores included
 
 207 brands appear on the boards. Revenue = WinningHunter 30-day estimate ×12 (third-party estimate). Fashion/apparel excluded.
-Brands marked unrated are not in WinningHunter's index and are included as pre-sell funnel references only.
 
 | Category | Store | Est. annual | Tier | Boards |
 |---|---|---|---|---|
@@ -92,13 +91,13 @@ Brands marked unrated are not in WinningHunter's index and are included as pre-s
 | Electronics & gadgets | modretro.com | $32M | 8-fig | store |
 | Electronics & gadgets | bluntcases.com | $26M | 8-fig | store |
 | Food & drink | ryzesuperfoods.com | $420M | 9-fig | presell |
+| Food & drink | javvycoffee.com | $240M | 9-fig | presell, store |
 | Food & drink | shopflavcity.com | $117M | 9-fig | store |
 | Food & drink | tryuvola.com | $58M | 8-fig | store |
 | Food & drink | atlascoffeeclub.com | $50M | 8-fig | presell |
 | Food & drink | licorice.com | $21M | 8-fig | store |
 | Food & drink | zbiotics.com | $16M | 8-fig | store |
 | Food & drink | cellucor.com | $14M | 8-fig | store |
-| Food & drink | javvycoffee.com | n/a | unrated | presell, store |
 | Health & supplements | resilia.shop | $2.0B | 9-fig | presell, store |
 | Health & supplements | humehealth.com | $541M | 9-fig | store |
 | Health & supplements | lymphoria.co | $540M | 9-fig | presell, store |

@@ -19,6 +19,7 @@ _First big banner on a homepage: image or video, headline, subhead and CTA butto
 - Smooche · 9-fig · home · Sale countdown bar, headline, shop now, product-on-skin photo, clinicians choice badge · https://smooche.com/
 - Clarity MD · 9-fig · home · Announcement bar, Trustpilot stars, benefit headline, CTA, model photo, four stat tiles · https://claritymd.co/
 - Jones Road · 9-fig · home · Editorial portrait with white overlay card: headline, one-line copy, shop now · https://www.jonesroadbeauty.com/
+- Javvy Coffee · 9-fig · home · Promo bar, header, hero with product lineup, headline, CTA, benefit ticker · https://javvycoffee.com/
 - glamnetic · 9-fig · home · Star Wars collab slideshow hero, lineup shot, shop now, dots · https://www.glamnetic.com/
 - Mars Men · 9-fig · home · Dark hero: 50% off plus gifts, bottle stats, product on Mars, rating, sticky CTA · https://mengotomars.com/
 - Kind Patches · 9-fig · home · Hero with rating, headline, UGC photo, CTA, four benefit icons, retailer logos · https://kindpatches.com/
@@ -40,7 +41,6 @@ _First big banner on a homepage: image or video, headline, subhead and CTA butto
 - TheraPetMD · 8-fig · home · Orange hero: photo card carousel, Trustpilot badge, headline, yellow SAVE UP TO 59% button · https://therapetmd.com/en-us
 - Ohsnap · 8-fig · home · Full-bleed 'match your iPhone 18' hero, green pill CTA, scrolling ticker · https://ohsnap.com/
 - True Sea Moss · 8-fig · home · Teal hero: review badge, 'Fuel your body & mind', Halloween offer, orange CTA · https://trueseamoss.com/
-- Selene · 8-fig · home · Promo bar, header, dog photo, stars, headline, three icons, CTA, review, press logos · https://selenepets.com/
 - …41 more on the board
 
 #### Product page above the fold (buy box) (66)
@@ -198,6 +198,7 @@ _Countdown timers, 'sale ends', low stock, sell-out warnings as their own sectio
 _Add-ons, 'complete the routine', pairs-well-with, bundle builders on a product page._
 
 - ILIA Beauty · 8-fig · pdp · Four-step ritual: cleanser, face milk, eye cream, tint with add-to-bag prices · https://iliabeauty.com/products/the-base-face-milk-essence-lightweight-moisturizer
+- Javvy Coffee · 9-fig · pdp · 'You might also like' product cards carousel with shop now · https://javvycoffee.com/products/protein-coffee
 - L'ange Hair · 9-fig · pdp · Pairs perfectly with list: diffuser, primer, mousse with quick view buttons · https://langehair.com/products/axia-dryer
 - Kind Patches · 9-fig · offer_lp · 'Add 2 more packs, get 1 free' swipe cards with one-time/subscribe picker · https://kindpatches.com/pages/mojolp
 - Larine · 9-fig · pdp · Complete your routine swipe cards, pouches and toothpaste, price, add to cart · https://buylarine.com/products/larineco%E2%84%A2%EF%B8%8F-remineralizing-gum-copy?boxes=8
@@ -221,7 +222,6 @@ _Add-ons, 'complete the routine', pairs-well-with, bundle builders on a product 
 - The Pod Company · 8-fig · pdp · Accessories carousel: filter packs and maintenance kits with sale prices · https://podcompany.com/products/the-water-chiller
 - ZBiotics · 8-fig · pdp · Recommended pairing: Pre-Alcohol with Sugar-to-Fiber, learn more button · https://zbiotics.com/products/zbiotics
 - Hug Sleep Inc. · 8-fig · pdp · Customers-also-bought product card with variant dropdown and add to cart · https://hugsleep.com/products/kids-hooded-sleep-pod-move
-- Javy Coffee · unrated · pdp · 'You might also like' product cards carousel with shop now · https://javvycoffee.com/products/protein-coffee
 - …8 more on the board
 
 #### Final CTA / closing banner (40)
@@ -284,9 +284,9 @@ _Pay-later, installments (Klarna, Afterpay, Shop Pay), HSA/FSA eligibility or fi
 _Spin-to-win wheel, flip-a-card, pick-a-box or scratch reveal that unlocks a discount or free gift._
 
 - Wuffes · 9-fig · home · Match-3 card flip modal 'Try your luck' reveals discount, over standards section · https://wuffes.com/
+- Javvy Coffee · 9-fig · offer_lp · Pick-a-box grid of gift boxes, select 5 to reveal prizes, Black Friday · https://try.javvycoffee.com/plpc16
 - Grüns · 9-fig · other · Pick-a-card flip game: 3x3 bear cards, collect 4 prizes for gifts and discounts · https://gruns.co/pages/bau-flip-to-win-55
 - Serene Herbs · 8-fig · offer_lp · Pick 4 of 9 gift boxes to reveal prizes, locked slots, countdown strip · https://sereneherbs.com/pages/intro-offer-free-metabolic-edd
-- Javy Coffee · unrated · offer_lp · Pick-a-box grid of gift boxes, select 5 to reveal prizes, Black Friday · https://try.javvycoffee.com/plpc16
 - BLUETTI · 9-fig · offer_lp · Halloween hidden-pumpkin hunt for store credit, event dates, redeem button · https://www.bluettipower.com/pages/bluetti-discount
 - Flashforge · 8-fig · home · $20,000 prize pool draw: tiered prize cards with rules/T&C tabs · https://www.flashforge.com/
 
@@ -360,6 +360,7 @@ _Curated customer quotes as cards or carousel with names, stars, photos._
 
 - Wyze Labs, Inc. · 9-fig · pdp · 13,000,000+ households stat with swipe quote cards, dark teal gradient · https://www.wyze.com/products/wyze-solar-cam-pan-2k
 - Wuffes · 9-fig · home · Real dogs: photo cards with pet age, condition tag, overlaid quote and stars · https://wuffes.com/
+- Javvy Coffee · 9-fig · home · UGC photo collage, one review at a time, taste tag, CTA · https://javvycoffee.com/
 - Polar Haircare · 9-fig · offer_lp · Real-guy review cards with before/after photos, highlighted quote, carousel · https://polarhaircare.com/pages/reverse-your-gray-hair
 - Grüns · 9-fig · offer_lp · Review cards filtered by topic pill tabs: taste, value, benefits, convenience · https://gruns.co/pages/birthday
 - Primal Remedies · 9-fig · pdp · Four photo cards holding product, bold story headline, stars, name and age · https://primal-remedies.com/products/ceylon-cinnamon-7200mg
@@ -372,7 +373,6 @@ _Curated customer quotes as cards or carousel with names, stars, photos._
 - eskiin · 8-fig · offer_lp · Before/after customer photos with verified reviews, vertical cards · https://eskiin.com/pages/handheld-gft-t56
 - Pawfy · 8-fig · offer_lp · Verified review cards with before/after dog photos under rating header · https://offer.pawfy.com/pdp-fresh-aic-v2
 - Stasis · 8-fig · home · Teal-green review cards slider with title, taking duration, benefit tag pills · https://takestasis.com/
-- Javy Coffee · unrated · home · UGC photo collage, one review at a time, taste tag, CTA · https://javvycoffee.com/
 - Resilia · 9-fig · pdp · Customer photo strip, review card carousel with rating and verified tag · https://resilia.shop/products/resilia-oil-of-oregano-softgels
 - Hume Health USA · 9-fig · offer_lp · Rating header with swipeable review card carousel, verified member tags · https://humehealth.com/pages/hume-bandv2
 - Lymphoria · 9-fig · pdp · Symptom-tabbed review cards (bloating, swelling, energy), swipe · https://lymphoria.co/products/natures-sunrise-lymphatic-drainage-supplement
@@ -422,6 +422,7 @@ _Customer videos, TikTok-style reels, Instagram feed, creator content carousel._
 
 - Smooche · 9-fig · home · 1,000,000+ women headline, video review cards with quote, verified buyer, product link · https://smooche.com/
 - Wuffes · 9-fig · home · Video testimonial slider with tagged product card and shop button · https://wuffes.com/
+- Javvy Coffee · 9-fig · pdp · Customer routine video carousel with flavor add chips, find favorite flavor CTA · https://javvycoffee.com/products/protein-coffee
 - Kind Patches · 9-fig · home · TikTok-style customer video carousel with shoppable product tag · https://kindpatches.com/
 - MagBak · 9-fig · offer_lp · Reviewer video carousel with creator quotes and Instagram creator posts · https://magbak.com/pages/pixel-11-vips
 - Koprez® · 9-fig · home · 'Real people, real relief' 4.7/5 headline over video testimonial cards with stars · https://koprez.com/
@@ -430,7 +431,6 @@ _Customer videos, TikTok-style reels, Instagram feed, creator content carousel._
 - Nuropod · 8-fig · home · Video testimonial slider: face-to-camera clips, condition tags, quotes, 5M sessions · https://nuropod.com/
 - Studio Dermal · 8-fig · pdp · '50,000+ British women' headline over swipe video testimonial thumbnails · https://studiodermal.com/products/revivefx-tightening-eye-formula-1
 - Quia Korean Beauty · 8-fig · home · Real women video testimonial grid with skin close-ups and product names · https://join.quiabeauty.com/
-- Javy Coffee · unrated · pdp · Customer routine video carousel with flavor add chips, find favorite flavor CTA · https://javvycoffee.com/products/protein-coffee
 - Resilia · 9-fig · pdp · Video testimonial carousel with thumbnails, dots, arrows · https://resilia.shop/products/resilia-oil-of-oregano-softgels
 - GODA · 9-fig · pdp · Press logos plus customer video testimonial carousel, body-oil/scent toggle, CTA · https://goda.co/products/silk-body-oil
 - Black Girl Vitamins · 9-fig · home · Customer video story carousel, "Join millions of Black women", shop product tags · https://blackgirlvitamins.co/
@@ -765,13 +765,13 @@ _Step 1-2-3 usage instructions, routine steps, application guide._
 - Lymphoria · 9-fig · pdp · 30-second ritual swipe steps with photos, dropper instructions · https://lymphoria.co/products/natures-sunrise-lymphatic-drainage-supplement
 - Clarity MD · 9-fig · pdp · Numbered 3-step dosing routine with red markers, pouch image · https://claritymd.co/products/astx-comp
 - Luxe Research · 9-fig · pdp · Swipeable 3-step apply cards with photos, spray-buff-blur headline · https://luxeresearchlab.com/products/luxe%E2%84%A2-air-foundation
+- Javvy Coffee · 9-fig · pdp · Numbered 1-2-3 steps with video thumbnails, CTA · https://javvycoffee.com/products/protein-coffee
 - WONDERSKIN · 9-fig · offer_lp · Two application photos: stain and go, lip combo, bold captions with steps · https://eu.wonderskin.com/pages/perfect-lip-set-eu
 - Fenty Beauty · 9-fig · pdp · Lip routine steps carousel (prep, line) with photos and shop links · https://fentybeauty.com/products/traced-out-longwear-waterproof-pencil-lip-liner-amber-rose
 - Oricle Hearing · 9-fig · pdp · Numbered order-to-wear steps with box contents image and support photo · https://www.oriclehearing.com/products/oricle-hearing-aid
 - MyDermaDream · 9-fig · home · Three-step routine carousel with photos: cleanse, use device 15 min, moisturize · https://www.mydermadream.com/
 - Dog Is Human · 9-fig · pdp · Directions and weight-based chew dosing table over lifestyle photo · https://dogishuman.com/products/multivitamin
 - Shop FlavCity · 9-fig · pdp · 30 seconds, no blender, no cleanup; three numbered mixing steps, shaker photo · https://www.shopflavcity.com/products/build-your-own-protein-smoothie-packets
-- BARK · 9-fig · pdp · Twist/fill/lick 3-step carousel, benefit bullets, UGC hashtag gallery · https://bark.co/products/licksters-starter-kit
 - …39 more on the board
 
 #### Comparison (us vs them) (66)
@@ -780,6 +780,7 @@ _Comparison table or side-by-side vs competitors, alternatives or 'other brands'
 
 - Clarity MD · 9-fig · offer_lp · Us vs generic table with green ticks and red crosses, buy button, guarantee · https://try.claritymd.co/astx-ears-t3
 - SmoothSpine · 9-fig · pdp · Green 'SmoothSpine' check list versus red 'other pain methods' cross list · https://smoothspine.com/products/tfm-pres
+- Javvy Coffee · 9-fig · home · Branded column table: protein coffee vs grande coffee vs shake · https://javvycoffee.com/
 - Mars Men · 9-fig · offer_lp · Us vs Rx support vs generic boosters table, orange highlight column, CTA · https://mengotomars.com/pages/boost-fb
 - Kind Patches · 9-fig · offer_lp · Purple pill-row table: patches vs capsules vs gummies with ticks and crosses · https://kindpatches.com/pages/mojolp
 - Freebird · 9-fig · offer_lp · Dark two-column table vs Braun: speed, attachments, blade cost, price · https://www.myfreebird.com/pages/men-body-shaver
@@ -802,7 +803,6 @@ _Comparison table or side-by-side vs competitors, alternatives or 'other brands'
 - eskiin · 8-fig · offer_lp · Product vs alternative showerhead side-by-side with check/cross rows · https://eskiin.com/pages/handheld-bogo
 - Spotminders. · 8-fig · home · Card vs tag table, blue check column, pink X column, icons per feature · https://www.spotminders.com/
 - Woof · 8-fig · offer_lp · Dog photo above us vs others check/cross rows, playful hand-drawn style · https://mywoof.com/pages/forager
-- Bullymake · 8-fig · home · Us vs other dog subscriptions: check/cross rows, orange header, footnote · https://bullymake.com/
 - …41 more on the board
 
 #### Problem / pain points (33)
@@ -873,6 +873,7 @@ _Personas, use cases, 'perfect for', 'is this for you?' qualifiers._
 
 - Serene Herbs · 8-fig · offer_lp · Tappable 'who in your home needs this' list matching person to formula · https://sereneherbs.com/pages/healthy-home-reset
 - Raycon · 8-fig · offer_lp · Pill tabs for runners, cyclists, hikers, office with coral use-case card · https://rayconglobal.com/pages/raycon-bone-conduction-headphones-adr6
+- Javvy Coffee · 9-fig · pdp · Time-of-day use cases (7 AM, 12 PM, 4 PM) swipe carousel with photos · https://javvycoffee.com/products/protein-coffee
 - Freebird · 9-fig · offer_lp · One tool for body, groin, face and head with photo tiles · https://www.myfreebird.com/pages/men-body-shaver
 - Shop FlavCity · 9-fig · pdp · Teal use-case grid: chaotic mornings, midday slump, hustle, on the road · https://www.shopflavcity.com/products/build-your-own-protein-smoothie-packets
 - Muddy Mat® · 9-fig · offer_lp · Size and room use cases stacked: bathroom, kitchen, patio, truck, puppy photo · https://buy.muddymats.com/product/muddy-mat-csb
@@ -890,7 +891,6 @@ _Personas, use cases, 'perfect for', 'is this for you?' qualifiers._
 - FurLife™ · 8-fig · home · Right for your dog checklist buttons, collar with surrounding icon benefits · https://getfurlife.com/
 - US Robosen · 8-fig · pdp · Scenarios swipe: collector, family; what's in the box heading · https://us.robosen.com/products/toy-story-buzz-lightyear
 - Hug Sleep Inc. · 8-fig · offer_lp · Use-case photo cards with overlay labels and short parent quotes, trust strip · https://hugsleep.com/pages/gift-of-sleep
-- Javy Coffee · unrated · pdp · Time-of-day use cases (7 AM, 12 PM, 4 PM) swipe carousel with photos · https://javvycoffee.com/products/protein-coffee
 - DREO · 9-fig · offer_lp · Room-by-room use-case carousel: bedroom, office, living room, kitchen · https://www.dreo.com/pages/ro-water-filter-series
 - LiTime · 8-fig · pdp · Use-case banner image: trolling motor, back-up and solar power · https://www.litime.com/products/36v-50ah-trolling-motor-bluetooth-battery
 
@@ -1073,12 +1073,12 @@ _Invites the visitor to take a quiz or find their match, or the quiz itself._
 
 - Jones Road · 9-fig · offer_lp · 'Match a face' shade finder: tap model faces grid with skin-tone filters · https://www.jonesroadbeauty.com/pages/foundation-stick-epdp
 - VelvetCaviar.com · 9-fig · home · Mad-lib product finder: 'For my iPhone I need a Case', show-my-match button · https://velvetcaviar.com/
+- Javvy Coffee · 9-fig · home · Mini craving quiz with chips and a recommended pick, mascot · https://javvycoffee.com/
 - Koriderm · 9-fig · quiz · Quiz step 1: age-range tiles with portrait photos, progress-free minimal header · https://koriderm.com/pages/quiz1
 - Mars Men · 9-fig · quiz · Dark quiz intro: testimonial chip, 'how old are you' answer buttons · https://mengotomars.com/pages/quiz-v6
 - Primal Storm · 8-fig · quiz · Quiz step 1: age-range photo tiles in 2x2 grid, progress bar, disabled Continue · https://try.primal-storm.com/quiz-db-s/page-1
 - Beauty of Joseon · 8-fig · home · Shade finder carousel: swatch dots, product image, add shade to cart · https://beautyofjoseon.com/
 - Therabody US · 8-fig · home · Product finder: lifestyle image, 'take the one-minute quiz' black button · https://www.therabody.com/
-- Javy Coffee · unrated · home · Mini craving quiz with chips and a recommended pick, mascot · https://javvycoffee.com/
 - Resilia · 9-fig · home · Symptom-to-product router list: gut, energy, digestion with try links · https://resilia.shop/
 - Wuffes · 9-fig · home · Lime CTA: not sure where to start, find my dog's formula, $5 off · https://wuffes.com/
 - Fenty Beauty · 9-fig · home · Shade finder banner over face photo with Find Your Shade button · https://fentybeauty.com/
@@ -1101,11 +1101,11 @@ _Invites the visitor to take a quiz or find their match, or the quiz itself._
 
 _Interactive pick-your-items bundle builder._
 
+- Javvy Coffee · 9-fig · home · Step-by-step drink builder: mixer, base, flavor chips, next button · https://javvycoffee.com/
 - WONDERSKIN · 9-fig · offer_lp · Web-only 50% off set: gallery, shade pickers per item, add-ons, ATC · https://eu.wonderskin.com/pages/ultimate-lip-set
 - CRAFTD.com · 9-fig · pdp · Make-your-own set: pendant grid then chain grid, Klarna installments, reviews · https://craftdlondon.com/products/build-your-own-set-gold
 - Flower Knows · 8-fig · home · Build-your-own basket: shop 2 get free eyeliner, shade dropdowns, price lines · https://flowerknows.co/
 - Hug Sleep Inc. · 8-fig · offer_lp · Product cards by size with color/size selects and Add; every second 50% off · https://hugsleep.com/pages/gift-of-sleep
-- Javy Coffee · unrated · home · Step-by-step drink builder: mixer, base, flavor chips, next button · https://javvycoffee.com/
 - Shop FlavCity · 9-fig · home · Build-your-own variety pack intro with flavor collage, shop now · https://www.shopflavcity.com/
 - MagBak · 9-fig · offer_lp · 'Make it yours' accent color swatch picker with product render · https://magbak.com/pages/pixel-11-vips
 - WOLFpak · 8-fig · home · 'Build your pak' shoppable hotspot image with plus markers over backpack kit · https://wolfpak.com/
@@ -1200,6 +1200,7 @@ _Eco, charity, donation, sourcing and ethics._
 
 _Article cards, guides, journal._
 
+- Javvy Coffee · 9-fig · home · Recipe carousel with tabs, video thumbnails, view recipe button · https://javvycoffee.com/
 - DREO · 9-fig · collection · Guide article cards carousel with image, title, read more · https://www.dreo.com/pages/humidifiers-series
 - CRAFTD.com · 9-fig · home · Essential Reads: style guide article cards carousel, view all · https://craftdlondon.com/
 - BLUETTI · 9-fig · home · Blog center carousel with large image cards · https://www.bluettipower.com/
@@ -1220,7 +1221,6 @@ _Article cards, guides, journal._
 - ZBiotics · 8-fig · home · Lab Notes article cards with category chip and image, Start Learning button · https://zbiotics.com/
 - Pulse of Potential · 8-fig · home · Wellness blog featured article card: photo, date, title, excerpt · https://pulseofpotential.com/
 - LYMA · 8-fig · offer_lp · Journal article cards with read-time labels and carousel arrows · https://us.lyma.life/pages/helena-christensen-lyma-laser
-- Javy Coffee · unrated · home · Recipe carousel with tabs, video thumbnails, view recipe button · https://javvycoffee.com/
 - Olive and June · 8-fig · home · Olive University education banner with Learn More outline button · https://oliveandjune.com/
 - RingConn · 8-fig · home · Beyond the Ring: news and event cards carousel with photos and learn more · https://ringconn.com/
 - Heavys · 8-fig · home · Blog article card carousel under 'grab yours today' pill and 4.7 rating line · https://www.heavys.com/
@@ -1232,6 +1232,7 @@ _Article cards, guides, journal._
 _Points program, refer-a-friend, VIP club._
 
 - Sol de Janeiro · 8-fig · home · Polaroid rewards intro, tiered product-for-points cards, log in button · https://soldejaneiro.com/
+- Javvy Coffee · 9-fig · home · Better Bevvy Club join banner, collage, quote card, shop all · https://javvycoffee.com/
 - Mars Men · 9-fig · offer_lp · Members-only 90-day transformation program: expert masterclass cards · https://mengotomars.com/pages/10-reason-modern-man
 - Tarte Cosmetics · 9-fig · home · VIP holiday sweepstakes slide with product pyramid, sign-up button · https://tartecosmetics.com/
 - Dose · 9-fig · pdp · Subscriber perks 2x3 icon grid: nutritionist, discounts, gifts, community · https://dosedaily.co/products/dose-for-your-liver-new?selling_plan=5291213041
@@ -1249,7 +1250,6 @@ _Points program, refer-a-friend, VIP club._
 - LiTime · 8-fig · offer_lp · Points-for-coupon redemption tiles, tabbed coupons vs goods · https://jp.litime.com/pages/time-sale
 - Slashop.Inc · 8-fig · home · Olive fabric banner: $30 bonus gift card refer-a-friend, light-blue ticker · https://www.slashop.com/
 - Riddle · 8-fig · home · Smell Good Club loyalty: three perks, learn more and sign up buttons · https://riddleoil.com/
-- Javy Coffee · unrated · home · Better Bevvy Club join banner, collage, quote card, shop all · https://javvycoffee.com/
 - glamnetic · 9-fig · home · Two tiles: membership program and GlamFam community · https://www.glamnetic.com/
 - BLUETTI · 9-fig · home · Membership invite: join for deals, free gifts, CTA · https://www.bluettipower.com/
 - Roborock US Official Store · 8-fig · offer_lp · Featured offers cards: points program, refurbished, trade-up · https://us.roborock.com/pages/roborock-deals
@@ -1335,6 +1335,7 @@ _Full-width lifestyle image, mid-page banner or image gallery with little copy._
 _Store finder, retailer logos or 'available at' block, store hours and directions._
 
 - ALT. Fragrances · 8-fig · other · Store hours table, address, get-directions button, embedded map · https://altfragrances.com/pages/alt-fragrances-mills-at-jersey-gardens
+- Javvy Coffee · 9-fig · home · Mascot photo, retailer logos, find a store button · https://javvycoffee.com/
 - glamnetic · 9-fig · home · Retailer logo grid: Ulta, Sephora, Kohl's, Sally, Beauty Studio · https://www.glamnetic.com/
 - Ywigs · 8-fig · pdp · Find-a-stylist photo banner with CTA button · https://www.ywigs.com/products/knotless-pre-separated-crochet-hair-extensions-human-hair-deep-wave
 - Botanic Tonics · 8-fig · home · Bold blue band: find us near you, store locator button · https://botanictonics.com/
@@ -1345,7 +1346,6 @@ _Store finder, retailer logos or 'available at' block, store hours and direction
 - Snif · 8-fig · home · Ulta retail tile (find one near you) plus build-your-own-bundle tile, marquee strip · https://snif.co/
 - ZBiotics · 8-fig · home · Dark Find Pre-Alcohol Near You block with orange Find a Store pill · https://zbiotics.com/
 - Nailboo® · 8-fig · home · Pool product photo, Sally and CVS logos, find a store button · https://nailboo.com/
-- Javy Coffee · unrated · home · Mascot photo, retailer logos, find a store button · https://javvycoffee.com/
 - Dose · 9-fig · offer_lp · 'Also sold in' retailer logos: Erewhon, Wegmans, Sprouts, Vitamin Shoppe · https://dosedaily.co/pages/16-2oz-3
 - DREO · 9-fig · home · Retail partner logos: Best Buy, Walmart, Target, Lowe's, Home Depot · https://www.dreo.com/
 - BARK · 9-fig · home · Retailer logo stack: Amazon, Chewy, Target, Walmart, Petsmart · https://bark.co/
@@ -1539,6 +1539,7 @@ _'X reasons why...' title, short intro and hero for a listicle._
 - Ketone · 8-fig · listicle · Dark hero: 5-reasons headline, athlete photo, mini product card with price, CTA · https://ketone.com/pages/listicle-40
 - Everly · 8-fig · listicle · Stock-alert box, highlighted headline, rating, before/after, doctor byline, symptom callout · https://try.shopeverly.shop/5-reasons-v1-cc
 - Jones Road · 9-fig · listicle · Logo, shop now bar, hero photo, '5 reasons' title, star rating, CTA · https://www.jonesroadbeauty.com/pages/listicle-wtf-reviews-sc-header
+- Javvy Coffee · 9-fig · listicle · Countdown bar, '11 reasons' title, byline, nutrition comparison chart, TLDR · https://try.javvycoffee.com/ps
 - SmoothSpine · 9-fig · listicle · Advertorial tag, '5 reasons' title, video, doctor byline, symptom bullet box · https://try.smoothspine.com/tfbm-coc-lis
 - Koriderm · 9-fig · listicle · Dermatologists-shocked headline, byline, product on cream swatch, lead paragraph · https://koriderm.com/pages/koriderm-listicle-1
 - Oricle Hearing · 9-fig · listicle · Countdown sale bar, '10 reasons seniors are done paying $5,000', byline, quote · https://hear.oriclehearing.com/10-reasons-why-t22-lab26?c=US&lang=en
@@ -1552,7 +1553,6 @@ _'X reasons why...' title, short intro and hero for a listicle._
 - First Day Life Inc. · 8-fig · listicle · Site header, 'Red Flags' headline, subhead, note callout, short intro · https://firstday.com/pages/wds-3-red-flags-lander-lp
 - Vyper Industrial · 8-fig · listicle · Site header, bundle promo bar, '6 reasons' headline over cheap vs Vyper stool photo · https://www.vyperindustrial.com/pages/6-reasons-why
 - Mama Bear Oasis · 8-fig · listicle · Advertorial tag, 'Ways spinal stenosis messes with your nerves' title, byline, reasons 1-2 · https://mamabearoasis.com/pages/spinal-stenosis-listicle-article-1
-- meimei beauty · 8-fig · listicle · Bold 'Dermatologists shocked' headline, intro copy, reason 1 with before/after split image · https://officialmeimei.com/pages/dermatologists-shocked-this-korean-pharmacy-serum-can-reduce-years-off-aging-skin-heres-7-reasons-why
 - …11 more on the board
 
 #### Hook / opening lead (4)
@@ -1756,6 +1756,7 @@ _One numbered reason: number + heading + image/GIF + short copy (+ inline link).
 - Resilia · 9-fig · listicle · Reason 01 with man holding product photo, formula explanation · https://try.resilia.shop/7-reason-why-50k-ooo
 - RYZE · 9-fig · listicle · 01 The Gut: AI lifestyle photo of man with mug, short symptom copy · https://shop.ryzesuperfoods.com/p/cookout-florin-listicle
 - Jones Road · 9-fig · listicle · Numbered serif reason, annotated product diagram, short copy, shop now link · https://www.jonesroadbeauty.com/pages/lip-recharge-listicle-cclp
+- Javvy Coffee · 9-fig · listicle · Reason 1: numbered heading, product photo, short copy, deal CTA button · https://try.javvycoffee.com/ps
 - SmoothSpine · 9-fig · listicle · Numbered condition (#1 sciatica): video, short copy, relief promise · https://try.smoothspine.com/tfbm-coc-lis
 - Koriderm · 9-fig · listicle · Reasons 1-2: before/after face photo with red caption, headings, copy · https://koriderm.com/pages/koriderm-listicle-1
 - Oricle Hearing · 9-fig · listicle · Reason 1: no prescription, product-in-hand photo, short copy · https://hear.oriclehearing.com/10-reasons-why-t22-lab26?c=US&lang=en
@@ -1767,7 +1768,6 @@ _One numbered reason: number + heading + image/GIF + short copy (+ inline link).
 - eskiin · 8-fig · listicle · Reasons 1-3: numbered headings, lifestyle photos, pull-quote boxes, CTA · https://eskiin.com/pages/adv-0010-10-reasons-wm-badge
 - Aurivita · 8-fig · listicle · Numbered reason, illustrated image with red caption strip, short copy, underlined CTA link · https://aurivita.co/pages/adv-general-ed-listicle
 - Nuropod · 8-fig · listicle · Reason 01 label, bullets, shop/discover pill buttons, device photo, research logo strip · https://nuropod.com/pages/11-reasons-why-tens-of-thousands-of-people-choose-nuropod-as-part-of-their-daily-wellness-routine
-- Rhykin · 8-fig · listicle · Reason 1: tool-in-use photo, bold heading, bullets on shedding · https://rhykin.com/en-us/pages/groompro-listicle1
 - …40 more on the board
 
 #### Comparison vs alternatives (13)
@@ -1916,6 +1916,7 @@ _Discount, price, bundle options, free gifts, CTA button: the closing offer._
 
 - Resilia · 9-fig · advertorial · Closing checklist, yellow update box with pack shot, trust seals, green 70% off button · https://try.resilia.shop/authority-expert-led-ooo
 - Wuffes · 9-fig · listicle · Fall sale offer card: product, bestseller tag, bullets, neon CTA, disclaimer footer · https://try.wuffes.com/lander/allergyitch/listicle/5-reasons-v2-1m-rb-v2
+- Javvy Coffee · 9-fig · listicle · Closing offer: free gifts box image, 58% off CTA, countdown, sell-out risk · https://try.javvycoffee.com/ps
 - SmoothSpine · 9-fig · listicle · Reader offer: price anchor, guarantee seal, product image, green CTA, sell-out risk, 3 reviews · https://try.smoothspine.com/tfbm-coc-lis
 - MyDermaDream · 9-fig · listicle · Product card, green CTA, rating, 90-day badge, discount copy, 2 customer before/afters · https://sale.mydermadream.com/cc585-melasmin-ps73
 - Cupids · 9-fig · listicle · Dotted sale box: product shot, 67% off, deal-ending, sell-out risk, guarantee · https://www.cupids.com/pages/cupids-brickd-gummies-reasons
@@ -1929,7 +1930,6 @@ _Discount, price, bundle options, free gifts, CTA button: the closing offer._
 - Erodus · 8-fig · advertorial · Dark offer card: crossed $120 to From $69, three free gifts, guarantee, gold CTA · https://drinkerodus.com/pages/erodus-review
 - Everly · 8-fig · listicle · Stock-alert box, pouch shot, trust seal grid, orange CTA, rating histogram · https://try.shopeverly.shop/5-reasons-v1-cc
 - Xeviola · 8-fig · advertorial · 60% off $39.99 reveal with product photo, strikethrough price, big CTA · https://xeviola.com/pages/scientific-product-unaware-advertorial
-- Javy Coffee · unrated · listicle · Closing offer: free gifts box image, 58% off CTA, countdown, sell-out risk · https://try.javvycoffee.com/ps
 - Lymphoria · 9-fig · advertorial · Risk-free 60-day closing card: bottle photo, seal, rating, trust line, CTA · https://lymphoria.co/pages/harvard-states-165-million-americans-are-living-with-a-lymphatic-dysfunction-and-have-no-idea
 - Koriderm · 9-fig · listicle · Halloween BOGO offer: product bundle, check availability button, risk line, review list · https://koriderm.com/pages/koriderm-listicle-1
 - Oricle Hearing · 9-fig · advertorial · Where to get it: $99 price, update callout box, scarcity text, green CTA buttons · https://hear.oriclehearing.com/miracle-hearing-aid-vl?c=US&lang=en
@@ -2083,6 +2083,7 @@ _FDA disclaimers, 'this is an advertisement', references, footer links._
 - Lymphoria · 9-fig · advertorial · Dark advertorial disclaimer: not an actual news article, FDA text · https://lymphoria.co/pages/harvard-states-165-million-americans-are-living-with-a-lymphatic-dysfunction-and-have-no-idea
 - RYZE · 9-fig · listicle · Small sale terms, FDA statement, legal links on red · https://shop.ryzesuperfoods.com/p/cookout-florin-listicle
 - Jones Road · 9-fig · listicle · Cream footer with email capture, help, about and legal links · https://www.jonesroadbeauty.com/pages/lip-recharge-listicle-cclp
+- Javvy Coffee · 9-fig · listicle · Navy fine-print: discount terms, subscription disclosure, copyright · https://try.javvycoffee.com/ps
 - Dog Is Human · 9-fig · listicle · Minimal footer, FDA disclaimer, copyright · https://dogishuman.com/pages/whyhj-lp
 - Grüns · 9-fig · listicle · Dark green footer: SMS signup, link accordions, FDA disclaimer, big brand lettering · https://gruns.co/pages/nutrition-support-men
 - Koprez® · 9-fig · advertorial · Blue footer with 'this is a marketing piece' disclaimer · https://offers.koprez.com/adv-ko
@@ -2096,7 +2097,6 @@ _FDA disclaimers, 'this is an advertisement', references, footer links._
 - ARTUVATE · 8-fig · advertorial · Medical disclaimer, DMCA badge, final green CTA · https://artuvate.co/pages/editorial-3
 - Vyper Industrial · 8-fig · listicle · Email signup then full link footer with contact details · https://www.vyperindustrial.com/pages/6-reasons-why
 - meimei beauty · 8-fig · listicle · Plain results-may-vary and FDA disclaimer text · https://officialmeimei.com/pages/dermatologists-shocked-this-korean-pharmacy-serum-can-reduce-years-off-aging-skin-heres-7-reasons-why
-- Pup Labs · 8-fig · advertorial · Vet bio note, FDA disclaimer, copyright on navy · https://puplabs.com/pages/fjd-vet-advice
 - …8 more on the board
 
 #### Related articles / more stories (2)
