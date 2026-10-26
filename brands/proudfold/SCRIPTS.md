@@ -506,7 +506,7 @@ Linda **is** a Dawn who got to the other side; she speaks to the viewer as "a wo
 - **Hook:** Storytelling/Personal confession opener — specificity ("twelve summers," "folded tissue under each breast") + the **shameful workaround named out loud** (the single biggest pattern-interrupt in the angle bank). Overlay: "FOR 12 SUMMERS, I HID THIS."
 - **Open loop:** "…until I found out it was never my fault — and what actually worked" → resolved on the advertorial.
 - **Remove blame** (emotional core): "it was never me. It's the fold."
-- **Failed-attempts beat** (Hero's-Journey rule): brief graveyard (powder→paste, creams stayed wet, doctors said lose weight) = objection pre-fire.
+- **Failed-attempts beat** (Hero's-Journey rule): brief graveyard (powder→paste, creams stayed wet, "keep it clean and dry") = objection pre-fire. *(The "doctors said lose weight" line is 2B's signature — kept out of 2A so the variants stay distinct.)*
 - **Micro-commitments** ("if you've done this too…"); **relatability/involvement** (her specific moments = the viewer sees herself); **honest under-claim** (reviewer credibility); **soft CTA → advertorial.**
 
 ## CONGRUENCE WITH THE ADVERTORIAL (the requirement)
@@ -522,12 +522,12 @@ report** — one continuous person, zero reset. Handoff line = "I wrote the whol
 - VISUAL: Linda (plus-size ~50) to camera — or VO over her hands folding a tissue. Warm, intimate, real.
 
 **[0:06–0:16] THE RITUAL / RECOGNITION**
-- VO: "By lunch it was paste. I kept a cardigan on in July so no one would get close. I skipped the pool. I stood a little further back in the photos. And every morning I thought the same thing — what is wrong with me?"
+- VO: "By lunch it was paste. I kept a cardigan on in July so no one would get close. I stood a little further back in every photo. And every morning I thought the same thing — what is wrong with me?"
 - CAPTION: *what is wrong with me?*
 - VISUAL: cardigan in summer, skipping the pool, standing back — her hiding rituals.
 
 **[0:16–0:26] SELF-BLAME LOW POINT**
-- VO: "I was sure it was me. That I wasn't clean enough. I showered twice a day. I scrubbed. Two doctors looked for about a second and told me to lose weight. So I just… carried it. For twenty years."
+- VO: "I was sure it was me. That I wasn't clean enough. I showered twice a day. I scrubbed raw. Everything I read just said 'keep it clean and dry' — like I hadn't been killing myself trying to do exactly that. So I just… carried it. For twenty years."
 - CAPTION: *I thought it was me*
 - VISUAL: the shower, a doctor's office, quiet shame.
 
@@ -587,7 +587,7 @@ Frame 1 = Linda + **"FOR 12 SUMMERS, I HID THIS"** + folding a tissue. A shame-c
 Open: Nikita's real-vs-composite reviewer gate (memory #919) + lock Linda's name.
 
 ### VERDICT
-Ready to produce as v1. The most **emotionally shareable** of all variants and the one built for perfect ad→advertorial congruence. Routes to the advertorial. Next: 2B (GLP-1) + 2C (doctors-dismissed), same reviewer, same handoff.
+Ready to produce as v1. The most **emotionally shareable** of all variants and the one built for perfect ad→advertorial congruence. Routes to the advertorial. Part of the locked confession set (**2A** hiding ritual · **2B** wrong enemy · **2C** coming out the other side) — same Linda, same advertorial story, different doors in.
 
 ---
 
@@ -700,3 +700,153 @@ Linda on-cam/VO (locked, SAME face+voice as 2A/advertorial); hot-day + failed-pr
 
 ### VERDICT
 Ready to produce as v1. The **de-shame flagship** of the confession set — lifts the "it's my fault I'm big" blame and lands dead-on the advertorial's opening beat. Routes to the advertorial. Next: 2C ("I stopped hiding" — coming out the other side, advertorial beat ②).
+
+---
+
+# SCRIPT 2C — Confession · "I quit the pool for twelve years and never said why"
+Format 2, Variant C. Same reviewer **Linda**, same advertorial story, **different door in**: the hiding →
+coming-out-the-other-side arc. Congruent to advertorial beat ② (*"got through a whole summer — the pool, the
+sundresses, all of it — without that rash running my life"*) + the quit-water-aerobics detail. Hero's-Journey
+confession spine (emergence variant), Storytelling/Personal secret-reveal hook → **advertorial**.
+**Congruence lock:** same Linda (size 20, big chest, ~20 yrs, under belly/breasts/thighs, "it was never me,
+it's friction," the barrier). The ad states nothing the advertorial contradicts.
+
+## ② GOAL + TARGET
+### Avatar — "Linda" (the advertorial reviewer, peer → peer)
+- **Demographic:** plus-size / big-busted US woman ~45–62, FB; has quietly organised her whole life around hiding.
+- **Experiences / VOC:** quit swimming / water aerobics and told no one why; long sleeves in summer; stood at the back of photos; dodged the hug that lasts a beat too long; the rash under the belly/breasts that burned and stung by afternoon.
+- **Emotions:** isolation + the shame of hiding (and lying about it) → grief for the years lost → **freedom / belonging** (back in the pool, the sundress, the hug, not hiding).
+- **Core desire:** to live in her own body / stop hiding / belong again.
+- **Angle:** *"I hid for years — covered up, skipped the pool, lied about why. It wasn't vanity; it was the rash where my skin folds. Here's what finally let me stop."* ONE problem = the **life lost to hiding.**
+- **Emotion to transfer:** recognition of the hiding → **hope / freedom.** Shareable — every woman who's covered up in the heat sees herself.
+
+## DIALS + FUNNEL
+- **Awareness → entry:** **problem-aware** → enter on the secret-reveal ("quit the pool, never said why") → hands off to the advertorial (which pays off on exactly this — "the pool, the sundresses, all of it").
+- **Sophistication → Stage 4/5, identity lean** + "you've been hiding a physical problem, not a flaw."
+- **Funnel move:** cold stranger who's been hiding → *"she hid like me, and she got her life back"* → clicks to the **advertorial.**
+
+## THE 3 MODIFIERS
+- **Belief-change depth:** removes the shame that keeps her hiding; the advertorial finishes the proof + offer.
+- **Iceberg/identity:** deep — the hiding is identity-level (who she's become); lands on belonging + a life back.
+- **Length/story arc:** ~60s (secret → hiding → turn → fix → **emergence payoff**).
+
+## ③ DECIDE
+- **Format:** First-person Confession (Linda). **Hook:** Storytelling/Personal **secret-reveal** — *"I quit my water aerobics class twelve years ago and never told a soul why. This summer, I went back."* **Structure:** Hero's-Journey 1st-person → tease/handoff (product teased, advertorial closes). Unlike 2A/2B this one **lands the transformation on screen** (the emergence payoff) before the handoff.
+- **Sanity check:** problem-aware → personal story + before/after (hiding → free). ✅ Pays off on the advertorial's own promise beat → seamless congruence.
+
+## ④ EXECUTION FUNDAMENTALS
+- Authority = peer lived-experience + honest "I'm not a doctor." Positioning = "you've been hiding a physical problem." Speed-to-value: the secret-reveal hook lands by ~6s. Clarity: Linda's plain voice. Value lens: a life back (the pool, the hug). Delivery: starts quiet/confessional → opens into relief + a little joy on the emergence.
+
+## ⑤ TECHNIQUES
+- Hook: Storytelling/Personal **secret-reveal** — specificity ("twelve years," "water aerobics") + the withheld *why* (open loop) + the implicit turnaround ("I went back"). Remove blame + common enemy (the hiding forced on her, not vanity). Facts-over-opinions ("any skin would do the same thing"). **Transformation/before-after** payoff on screen. Micro-commitment ("if you've been hiding too…"). Honest under-claim. Soft CTA → advertorial.
+
+## CONGRUENCE (to the advertorial — hard requirement)
+Same Linda, same voice. Hook detail (quit the pool / water aerobics) = advertorial beat ②. Mechanism = §③.
+Fix ("barrier · second skin · glides instead of grinds") = §⑤. Emergence payoff (pool/sundress) = advertorial
+beat ②'s promise. Handoff ("I wrote it all down… what I checked") = beat ⑪. She clicks and reads the SAME
+story, with the payoff she just watched. No contradicting facts.
+
+## 🎬 THE SCRIPT  (~60s · first-person confession · Linda) → ADVERTORIAL
+
+**[0:00–0:08] HOOK** *(secret-reveal)*
+- VO (Linda, quiet, confessional): "I quit my water aerobics class twelve years ago. I never told a single soul why. This summer, for the first time, I went back."
+- CAPTION: **TWELVE YEARS. NOBODY KNEW WHY.**
+- VISUAL: Linda setting a swim bag down at a pool edge; warm, a little nervous-happy.
+
+**[0:08–0:22] THE HIDING / RECOGNITION**
+- VO: "It wasn't vanity. There was a rash where my skin folds — under my belly, under my breasts — that burned and stung by the afternoon. So I covered it. Long sleeves at the cookout in ninety-degree heat. I turned down the pool, the beach, the hug that lasts a beat too long. People thought I was shy. I was just hiding."
+- CAPTION: *long sleeves at the cookout — so no one would get close*
+- VISUAL: long sleeves in summer heat, declining the pool, pulling back from a hug.
+
+**[0:22–0:32] WHY / SELF-BLAME**
+- VO: "And the worst part — I thought it was my fault. That I wasn't clean enough, that I was too big, that if I just tried harder it would stop. I believed that for twenty years."
+- CAPTION: *I thought it was my fault*
+- VISUAL: quiet shame; a mirror turned away.
+
+**[0:32–0:42] THE TURN** *(de-shame)*
+- VO: "Then I found out it was never me. It's friction. Where skin folds, it rubs itself raw — heat and sweat with nowhere to dry. It's physics, not a flaw. Any skin would do the same thing."
+- CAPTION: **it was never me — it's friction**
+- VISUAL: soft realization.
+
+**[0:42–0:54] THE FIX → EMERGENCE PAYOFF** *(tease the product, land the transformation)*
+- VO: "What finally worked wasn't another cream chasing the rash. It was a barrier — a thin layer right in the fold, like a second skin, so skin glides instead of grinds. And that's how I ended up back in that pool. In a swimsuit. Not hiding, for the first time in twelve years."
+- CAPTION: *back in the pool — not hiding*
+- VISUAL: tube + thin line (brief) → Linda in the pool / a sundress / a full, easy hug. At ease.
+
+**[0:54–1:04] WHY + CTA → advertorial**
+- VO: "I'm not a doctor. Nobody told me any of this — so I wrote it all down. What I tried, what finally worked, and what I checked before I trusted it. If you've been hiding too — it was never you. Read my story. It's right here."
+- CAPTION: **it was never you → read my story**
+- VISUAL: Linda to camera, warm; CTA.
+- **CTA DESTINATION:** the **advertorial** (`proudfold.com/pages/advertorial-lp`).
+
+## ⑥ CHIEF — heavy review
+
+### Fundamentals checklist (⑥)
+- [x] Right awareness (problem-aware → advertorial). · [x] Positioning = "hiding a physical problem, not a flaw." · [x] Value in ~6s (secret-reveal). · [x] Hook bridge = the withheld *why* + "I went back." · [x] 5th–8th grade, Linda's voice. · [x] Belief-change depth fits (removes the shame; advertorial finishes). · [x] Anticipation (the why, the turn, the emergence). · [x] Tier-1 present (avatar = Linda · core desire = a life back/belonging · angle = hiding a physical problem · emotion = shame→freedom · authority = peer, NO credential · positioning). · [x] Honest under-claim (teases, doesn't "cure"). · [x] CTA → advertorial. · [x] Word-craft (quiet → joyful, specific).
+
+### Compliance red-line pass (COPY §8)
+- ✅ No cure/heal/antifungal/yeast. "**yeasty smell**" from advertorial beat ② deliberately DROPPED (infection-adjacent). "rash that burned and stung / rubs itself raw / heat and sweat with nowhere to dry" = friction discomfort (§8 SAY).
+- ✅ "a barrier · second skin · glides instead of grinds · not hiding" = §8 SAY.
+- ✅ **Dignified** — the enemy is the hiding forced by discomfort, never her body ("it wasn't vanity… it was never you"). Mirrors advertorial §⑧.
+- ✅ **Emergence payoff is comfort/freedom, not a cure** — "back in the pool, not hiding," not "healed."
+- ✅ No graphic skin — visuals are pool/cookout/hug lifestyle + a thin-line application. Never pathology.
+- ⚠️ FTC: softened independence ("I'm not a doctor… so I wrote it down") + advertisement + fictional-narrator (composite) disclosure. (Real-vs-composite gate, memory #919.)
+
+### Claim-swap log
+- Advertorial beat ② (the pool/sundress promise, told as narrative) → **ours:** the same payoff shown on screen as the emergence beat. · Competitor "dries the fold" → ours "a barrier… glides." · Full resolution → tease + advertorial handoff.
+
+### Read-back as Linda's viewer
+Every woman who's covered up in the heat freezes on "I quit the pool twelve years ago and never said why" — *that's me, and I've never heard anyone admit it.* The long-sleeves-at-the-cookout and the dodged hug are her exact life. "It was never me — it's friction" lifts the blame; then she **watches** Linda get back in the pool — the proof is the emergence, not a claim. She clicks to read how. ✅
+
+### Hook PASS test
+Frame 1 = Linda at a pool edge + **"TWELVE YEARS. NOBODY KNEW WHY."** A woman who's been hiding stops on the secret + the promise she could stop too. ✅
+
+### Congruence check vs advertorial  ✅
+Hook detail = beat ② · mechanism = §③ · fix = §⑤ · emergence payoff = beat ②'s promise · handoff = beat ⑪ · voice = Linda · no contradicting facts.
+
+### Open production dependencies
+Linda on-cam/VO (SAME face+voice as 2A/2B/advertorial); hiding B-roll (long sleeves in heat, pool decline, pulled-back hug) + **emergence payoff B-roll (pool / swimsuit / sundress / full hug)**; tube + thin-line; captions; advertorial end-card; ad + composite-narrator disclosure.
+
+### VERDICT
+Ready to produce as v1. The **transformation/payoff** member of the set — the only one that shows the after on screen, which makes it the best candidate for retargeting as well as cold. Routes to the advertorial.
+
+---
+
+# ⑥⑥ SET CHIEF — 2A · 2B · 2C reviewed as ONE set (strength + distinctness + congruence)
+> Re-chief pass. Goal: each variant the strongest it can be, the three clearly distinct, all three congruent
+> to the advertorial and to each other (same Linda).
+
+### The three doors into ONE story (distinctness — no cannibalising)
+| | 2A | 2B | 2C |
+|---|---|---|---|
+| **Hook** | "Twelve summers, a folded tissue under each breast" | "Two doctors told me to lose the weight — both wrong" | "I quit the pool twelve years ago, never said why" |
+| **Emotional center** | the hiding **ritual/object** + "what is wrong with me" | the **wrong enemy** / blame-your-size | the **life lost to hiding** → freedom |
+| **Owns (unique)** | the folded tissue · "what is wrong with me" | the doctors / lose-the-weight line | the pool / water-aerobics · the emergence payoff shown on screen |
+| **Advertorial beat** | ② ritual + ④ turn | ③ de-shame opener | ② promise (pool/sundress) |
+| **Best for** | top-of-feed emotional recognition | de-shame indignation (most "that was never my fault") | transformation + retargeting |
+
+**De-overlap applied this pass:** removed "two doctors said lose weight" and "skipped the pool" from 2A →
+the doctors line is 2B's alone, the pool is 2C's alone. Each hook now hits a different nerve; a viewer who
+sees two of them gets two different stories about the same woman, never the same ad twice.
+
+### Shared spine (the deliberate congruence — keep identical)
+- **Narrator:** Linda — same face, same voice, same register across all three AND the advertorial.
+- **Mechanism line:** "it was never me/you — it's friction… skin folds and rubs… physics, not a flaw."
+- **Fix line:** "not another cream chasing the rash — a barrier… second skin… glides instead of grinds."
+- **Handoff:** "I'm not a doctor. Nobody told me any of this — so I wrote it all down… what I checked before I trusted it. If you've [angle] too — it was never you. Read my story. It's right here." → advertorial.
+- This repetition is a **feature**: one continuous person, so the ad→advertorial click never resets.
+
+### Strength pass — each is sharpest when:
+- **2A** keeps the taboo object in frame 1 (the tissue) — that's the scroll-stopper; don't bury it.
+- **2B** keeps "they were both wrong" as the frame-1 open loop — indignation + vindication is the pull.
+- **2C** keeps the withheld *why* in the hook and **shows** the pool payoff — the only on-screen before/after.
+
+### Compliance (all three) ✅
+Comfort/barrier lane only; no cure/antifungal/"yeasty"/graphic skin; dignity (enemy = bad tools/advice/hiding,
+never her body); peer authority, no fake credential; advertisement + composite-narrator disclosure on each.
+**Shared open gate:** Nikita's real-vs-composite reviewer decision (memory #919) + lock Linda's name — resolving
+it to a REAL plus-size reviewer removes the independence-claim FTC risk from all three at once.
+
+### Set verdict
+All three ready to produce as v1, same cast. Recommended cold test order by expected thumbstop: **2B** (broadest
+recognition — "lose the weight") → **2A** (taboo object) → **2C** (secret + payoff; also the retargeting piece).
