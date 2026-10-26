@@ -537,12 +537,12 @@ report** — one continuous person, zero reset. Handoff line = "I wrote the whol
 - VISUAL: a soft realization; a gentle friction/fold hint (warm, not clinical).
 
 **[0:36–0:48] FAILED ATTEMPTS → THE FIX** *(tease, not full resolve)*
-- VO: "Every cream I'd tried either soaked in and left me wet, or dried me out and cracked. So I stopped looking for a stronger cream — and found a barrier. Something that sits in the fold like a second skin, so skin glides instead of grinds. The first thing in twenty years that let me get through a summer comfortable."
+- VO: "Every cream I'd tried either soaked in and left me wet, or dried me out and cracked. A friend of mine who's a nurse finally put it in a way that clicked — think of it like a second skin, right where your skin meets itself. So I stopped looking for a stronger cream and found exactly that: a barrier that sits in the fold, so skin glides instead of grinds. The first thing in twenty years that let me get through a summer comfortable."
 - CAPTION: *not a stronger cream — a barrier*
 - VISUAL: the tube (brief), a thin line, a relieved exhale; a sundress moment.
 
 **[0:48–1:00] WHY I'M TELLING YOU + CTA → advertorial**
-- VO: "I'm not a doctor. Nobody told me any of this — so I figured it out myself, and I wrote the whole thing down. Everything I tried, what finally worked, and what I checked before I trusted it. If you've been hiding a tissue too — it was never you. Read my story. The link's right here."
+- VO: "I'm not a doctor — I just lived it. So I did all the digging myself and wrote the whole thing down. Everything I tried, what finally worked, and what I checked before I trusted it. If you've been hiding a tissue too — it was never you. Read my story. The link's right here."
 - CAPTION: **it was never you → read my story**
 - VISUAL: Linda to camera, warm; CTA.
 - **CTA DESTINATION:** the **advertorial** (`proudfold.com/pages/advertorial-lp`).
@@ -568,7 +568,7 @@ report** — one continuous person, zero reset. Handoff line = "I wrote the whol
 - ✅ "a barrier · second skin · glides instead of grinds · got through a summer comfortable" = §8 SAY language.
 - ✅ "soaked in and left me wet, or dried me out and cracked" = describing *other* products (true, neutral); and it pre-empts "too thick / won't dry."
 - ✅ No graphic raw-skin / before-after — visuals are lifestyle + hiding rituals, never pathology.
-- ⚠️ **FTC / independence:** softened the advertorial's "I don't work for them" to **"Nobody told me any of this — so I figured it out myself"** — a composite brand persona asserting hard independence is the riskiest FTC element (COPY §3). The ad still carries the **advertisement + fictional-narrator (composite customer) disclosure.** (Nikita's open gate: real reviewer would remove this risk entirely — memory #919.)
+- ⚠️ **FTC / independence:** dropped the "nobody told me — I figured it out myself" independence claim (it also contradicted the advertorial's nurse-friend). Now "I'm not a doctor — I just lived it" + the nurse-friend ANALOGY (consistent with advertorial §⑤), which is not a diagnosis or product endorsement. The ad still carries the **advertisement + fictional-narrator (composite customer) disclosure.** (Nikita's open gate: a real reviewer removes the residual risk — memory #919.)
 
 ### Claim-swap log (borrowed Clairon's confession pattern + the Hero's-Journey container)
 - Clairon *"by lunch it smelled… musty odor"* → **ours:** "by lunch it was paste" (drop the odor/smell-as-disease beat; keep the paste).
@@ -659,12 +659,12 @@ due-diligence beat ⑪. She clicks and reads the SAME story, longer. No contradi
 - VISUAL: soft realization; a simple friction cue (two surfaces dragging).
 
 **[0:45–0:54] THE FIX** *(tease)*
-- VO: "What finally worked didn't chase the rash at all. It stopped the rub — a thin barrier that sits right in the fold like a second skin, so skin glides instead of grinds. First summer in twenty years that burn didn't run my life."
+- VO: "What finally worked didn't chase the rash at all. A friend of mine who's a nurse put it in a way that clicked — think of it like a second skin, right where your skin meets itself. So instead of another cream, I found a barrier: a thin layer that sits right in the fold, so skin glides instead of grinds. First summer in twenty years that burn didn't run my life."
 - CAPTION: *stop the rub, not the rash*
 - VISUAL: the tube (brief), a thin line smoothed into a fold, a calm hot-day moment.
 
 **[0:54–1:04] WHY + CTA → advertorial**
-- VO: "I'm not a doctor. The two I saw sent me home with the wrong answer for two decades — so I wrote down what actually worked, and everything I checked before I trusted it. If a doctor ever told you to just lose the weight — it was never the weight. Read my story. It's right here."
+- VO: "I'm not a doctor — the two I saw sent me home with the wrong answer for two decades. So I did the digging myself and wrote down what actually worked, and everything I checked before I trusted it. If a doctor ever told you to just lose the weight — it was never the weight. Read my story. It's right here."
 - CAPTION: **it was never the weight → read my story**
 - VISUAL: Linda to camera; CTA.
 - **CTA DESTINATION:** the **advertorial** (`proudfold.com/pages/advertorial-lp`).
@@ -769,12 +769,12 @@ story, with the payoff she just watched. No contradicting facts.
 - VISUAL: soft realization.
 
 **[0:42–0:54] THE FIX → EMERGENCE PAYOFF** *(tease the product, land the transformation)*
-- VO: "What finally worked wasn't another cream chasing the rash. It was a barrier — a thin layer right in the fold, like a second skin, so skin glides instead of grinds. And that's how I ended up back in that pool. In a swimsuit. Not hiding, for the first time in twelve years."
+- VO: "What finally worked wasn't another cream chasing the rash. A friend of mine who's a nurse put it in a way that clicked — think of it like a second skin, right where your skin meets itself. That's exactly what I found: a barrier, a thin layer right in the fold, so skin glides instead of grinds. And that's how I ended up back in that pool. In a swimsuit. Not hiding, for the first time in twelve years."
 - CAPTION: *back in the pool — not hiding*
 - VISUAL: tube + thin line (brief) → Linda in the pool / a sundress / a full, easy hug. At ease.
 
 **[0:54–1:04] WHY + CTA → advertorial**
-- VO: "I'm not a doctor. Nobody told me any of this — so I wrote it all down. What I tried, what finally worked, and what I checked before I trusted it. If you've been hiding too — it was never you. Read my story. It's right here."
+- VO: "I'm not a doctor — I just lived it. So I did the digging myself and wrote it all down. What I tried, what finally worked, and what I checked before I trusted it. If you've been hiding too — it was never you. Read my story. It's right here."
 - CAPTION: **it was never you → read my story**
 - VISUAL: Linda to camera, warm; CTA.
 - **CTA DESTINATION:** the **advertorial** (`proudfold.com/pages/advertorial-lp`).
@@ -832,8 +832,9 @@ sees two of them gets two different stories about the same woman, never the same
 ### Shared spine (the deliberate congruence — keep identical)
 - **Narrator:** Linda — same face, same voice, same register across all three AND the advertorial.
 - **Mechanism line:** "it was never me/you — it's friction… skin folds and rubs… physics, not a flaw."
-- **Fix line:** "not another cream chasing the rash — a barrier… second skin… glides instead of grinds."
-- **Handoff:** "I'm not a doctor. Nobody told me any of this — so I wrote it all down… what I checked before I trusted it. If you've [angle] too — it was never you. Read my story. It's right here." → advertorial.
+- **Fix line:** a friend who's a nurse gives the "second skin" analogy (matches advertorial §⑤) → "not another cream chasing the rash — a barrier that sits in the fold, so skin glides instead of grinds."
+- **Handoff:** "I'm not a doctor — I just lived it. So I did the digging myself and wrote it all down… what I checked before I trusted it. If you've [angle] too — it was never you. Read my story. It's right here." → advertorial.
+- **Nurse-friend consistency (fixed this pass):** the advertorial has a friend-who's-a-nurse give the "second skin" analogy (§⑤), so the ads now carry the SAME detail — and the old "nobody told me — I figured it out myself" line (which contradicted it) is cut from all three. Kept compliant: she's a friend giving an analogy about friction, NOT diagnosing or endorsing ProudFold. ⚠ Advertorial says specifically "wound-care nurse"; ads say "a nurse" (softer). Make them word-for-word identical if preferred; the real-reviewer gate (memory #919) clears the residual authority risk.
 - This repetition is a **feature**: one continuous person, so the ad→advertorial click never resets.
 
 ### Strength pass — each is sharpest when:
