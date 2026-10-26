@@ -126,3 +126,30 @@ clinic `826f20f3-3717-47a0-b48e-0118ee82ab26` · tube `de612154-95f1-427a-a6af-d
 - **LN-APPLY-FOLD** (recommended hero) — her applying to her own lower-belly fold, clean healthy skin, modest: `hf_20261026_104731_a4b5f756-dfb1-4cbf-8a60-621914c7a4be.png`
 - LN-APPLY (forearm macro, two-hand fixed): `hf_20261026_104433_710b947c-67e4-4c8a-ba42-191729c4c2f3.png`
 **COMPLIANCE LOCK:** application scenes show CLEAN, healthy skin only. NO rash / red / broken skin in any ad or site image (implied-cure = Meta ban + breaks the comfort/barrier positioning). Copy stays comfort/barrier — no change needed.
+
+---
+
+## ✅ GENERATED — Format 3 (VSL) B-roll (2026-10-26)
+Format 3 uses a SEPARATE avatar (NOT Linda) — the VSLs route to the offer page, so no advertorial-narrator match needed.
+New F3 avatar: 4-panel sheet at scratchpad/proudfold_f3_refs/f3_avatar_sheet.webp · **Higgsfield media_id `951347c2-b5d3-4ac4-a215-1bfbdd7b210d`**.
+CDN base: `https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/`
+
+**Provided by Nikita** (realistic 3D-medical + real-skin), saved in images/ (164–168 + the 4 inline object shots): SL-XSEC-TRAP/GRIND/FILM/GLIDE, SL-GRIND-MACRO (friction+heat), SL-CALM-MACRO (calm), OB-TISSUE (3A hook), OB-GRAVEYARD, OB-PASTE.
+**Generated (Nano Banana Pro):**
+| Scene | file |
+|---|---|
+| OB-SOAK | hf_20261026_105841_13f50c80-6eec-4272-a5d1-a39ceb212e27.png |
+| OB-BABY | hf_20261026_105841_cd750869-4761-43bb-888b-fd018003aed2.png |
+| OB-TIN | hf_20261026_105841_3a251050-9670-4c45-a85e-2d7dab9e4e63.png |
+| OB-CREAMWALL | hf_20261026_110310_a3c4fd21-120a-4578-8d59-9522d9408f06.png |
+| OB-MODERNLIFE | hf_20261026_110310_327fd61a-1348-42d1-ba6b-af3bd4b53758.png |
+| OB-BORROWED | hf_20261026_110310_5d908482-7504-487d-b9b5-ce812b370bb3.png |
+| OB-TOWEL | hf_20261026_110310_3a53ccfa-903d-4930-aa43-445e58d2ac10.png |
+| OB-SHOWER | hf_20261026_110310_3b2bcab5-0eda-425e-9dd8-f08a934cc962.png |
+| OB-CALENDAR | hf_20261026_110310_306795bd-3846-481a-a363-a7825eb70946.png |
+| F3-PF-CAM (new avatar talking head) | hf_20261026_110436_ea4389fd-954f-4510-833a-dcaa16ce98ff.png |
+| F3-PF-LIFE (hot day) | hf_20261026_110438_fbc9af33-d270-410f-a6bc-eab05f62c243.png |
+| F3-PO-SUNDRESS | hf_20261026_110437_fbec051b-0c2d-4955-a7ae-a6c9f036bc10.png |
+| F3-PO-POOL | hf_20261026_110436_d4dbde21-ef26-44cf-96c8-d7c49eb98d96.png |
+| F3-PO-HUG (v2, smudge fixed) | hf_20261026_110800_dab50c41-07af-4b15-9ed6-28152238a6d2.png |
+Offer shots reuse: OF-TUBE / OF-SEAL / OF-BUYBOX (have) + OF-LINE (F2). **Format 3 B-roll = COMPLETE.**
