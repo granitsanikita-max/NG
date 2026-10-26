@@ -18,6 +18,13 @@
   so we don't copy the angle, we copy the proven *structures* and fill them with our compliant story.
 - **Our lane = the COMFORT sub-lane** (Megababe/Lume/Fresh/Body Glide): confession, reframe, demo. All **UGC**
   (trust map: peers > influencers > brands — COPY §2). Never brand/founder voice.
+- **AUTHORITY — yes, but real, not faked (Nikita confirmed 2026-10-26).** Every ad should carry authority.
+  Source = a **peer-expert**: a real-seeming woman who lived it ~20 years, tried everything, and *learned what's
+  actually going on.* Authority comes from (a) lived experience + (b) the REAL mechanism stated as **learned
+  fact** (*"the fold just never dries — it's friction, not hygiene"*), plus an honest *"I'm not a doctor, I just
+  lived it"* beat (raises trust with our skeptical buyer). **Never** invent a nurse/derm who diagnosed her or
+  endorsed the product (= the "wound-care nurse" line we already killed on the advertorial; same FTC/Meta risk,
+  one step removed). A genuine credentialed voice = a **real partnered pro**, truthfully named — Wave 2 upgrade.
 - **The one job (dominant): CHANGE STATE** — *"I've tried everything / maybe it's just me"* → *"it was never
   me, it's friction, and the honest barrier made for the fold finally worked."*
 - **Belief chain:** B1 not-my-fault-it's-friction · B2 everything-failed-wrong-tool · B3 a-barrier-breaks-the-
@@ -71,12 +78,14 @@ One woman, honest to camera (or lightly cinematic). Shame → not-your-fault →
   B1+B2 (obj #8).
 - **2C — "I stopped hiding."** Cardigans-in-July → sundress / grandkids' hug / pool. Belonging payoff. B5.
 
-### FORMAT 3 — "YOU'VE TRIED EVERYTHING" FAILURE-STACK + REFRAME  *(rational — proven 197d, V10 + compliant V2)*
-First-person VO over B-roll / talking head. The "real reason" cold hook, no fungal.
-- **3A — "The creams, the powders, the sprays…"** Failure-stack → *"here's why they all failed: borrowed and
-  chasing the rash"* → the barrier that stops the rub. B2+B3.
-- **3B — "It's not a hygiene thing."** The compliant misdiagnosis reframe: *"that's not poor hygiene and it's
-  not just chafing — it's friction + trapped moisture where skin folds."* B1.
+### FORMAT 3 — PEER-EXPERT REFRAME VSL  *(authority + rational — proven 197d V10, + the compliant half of V2/V3)*
+The expert VSL Nikita wants — but authority from a **peer-expert** (lived it ~20 yrs, learned the mechanism),
+NOT a fake nurse. First-person, talking-head or VO over B-roll. "Real reason" cold hook, no fungal/endorser.
+Every variant opens with lived-experience authority + an honest "I'm not a doctor, I just lived it."
+- **3A — "The creams, the powders, the sprays…"** Failure-stack → *"after 20 years I finally learned why they
+  all failed: borrowed and chasing the rash"* → the barrier that stops the rub. B2+B3.
+- **3B — "It's not a hygiene thing."** The compliant misdiagnosis reframe, as what she learned: *"that's not
+  poor hygiene and it's not just chafing — it's friction + trapped moisture where skin folds."* B1.
 - **3C — "Wet or dried-out — never a barrier."** Differentiation reframe: every cream either sat there wet or
   dried you out and cracked; this is a barrier that lets skin glide. B2+B3.
 
