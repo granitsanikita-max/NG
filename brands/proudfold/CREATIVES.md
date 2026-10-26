@@ -153,3 +153,118 @@ CDN base: `https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN
 | F3-PO-POOL | hf_20261026_110436_d4dbde21-ef26-44cf-96c8-d7c49eb98d96.png |
 | F3-PO-HUG (v2, smudge fixed) | hf_20261026_110800_dab50c41-07af-4b15-9ed6-28152238a6d2.png |
 Offer shots reuse: OF-TUBE / OF-SEAL / OF-BUYBOX (have) + OF-LINE (F2). **Format 3 B-roll = COMPLETE.**
+
+
+---
+
+# ══════ FORMAT 3 — KLING 4.0 TALKING-AVATAR PROMPTS (her clips → edit over B-roll) ══════
+> Station: ad-creation. Generator: **Kling 4.0** (image-to-video, dialogue/lip-sync ON).
+> Goal: generate the avatar SPEAKING the VO + gesturing, in ≤30s clips, then composite over the Format-3 B-roll per STORYBOARDS.md edit maps. VSLs route to OFFER page (#pfbb).
+
+## REFERENCE FRAMES (upload these to Kling)
+- **REF-UP**  = image 171 — finger pointing UP, white background.
+- **REF-NEU** = image 172 — neutral talking, living-room background.
+- **REF-DOWN**= image 173 — finger pointing DOWN, white background.
+- Side-point & hand-to-chest are generated FROM REF-NEU via the motion text (no extra still needed).
+
+## HOW TO RUN (read once)
+1. **Lip-sync match:** each clip's "SHE SAYS" is the EXACT VO text, word-for-word, so her mouth matches the ElevenLabs track you lay on top. If Kling generates its own audio, MUTE it and use your ElevenLabs VO.
+2. **Background logic (keeps her consistent):**
+   - White-bg clips (REF-UP / REF-DOWN) = cut her out → **floating presenter** who points at the full-screen B-roll. Cleanest key.
+   - Living-room clip (REF-NEU) = use **full-frame / big-corner** for the hook + emotional talk-to-cam beats (reads as a real selfie).
+3. **Duration:** set Kling's length to the seconds noted (round to the nearest Kling step, ≥ the noted value). If her delivery drifts from the VO, nudge speed ±5% in the edit.
+4. **Multi-frame clips:** where two REFs are listed (e.g. REF-NEU → REF-DOWN), use frame 1 as the start keyframe and frame 2 as the end keyframe so the gesture lands on the last words.
+
+## UNIVERSAL SETTINGS + STYLE (prepend / keep set for EVERY clip)
+```
+9:16 vertical, 1080p. Image-to-video. Dialogue/lip-sync ON — she speaks the quoted line aloud,
+clear accurate lip-sync, natural warm middle-aged American woman's voice, conversational, sincere.
+IDENTITY LOCK (match the reference exactly): the same woman — early-to-mid 40s, fair skin with
+light freckles and a natural rosy flush on the cheeks, blue-grey eyes, mauve lipstick, hair in a
+loose low bun with wispy strands framing the face; wearing a cream chunky-knit cardigan over a
+teal crew-neck t-shirt. Keep her face identical to the reference. Do NOT slim, beautify, or
+smooth her — real skin, real texture.
+CAMERA: handheld phone selfie, eye-level, slight natural handshake, static framing, no zoom, no cuts.
+PERFORMANCE: talking to a friend, natural blinks and small head movements, hands in frame.
+NEGATIVE: extra fingers, third hand, deformed hands, morphing or warping face, identity drift,
+on-screen text/captions/watermark/logo, subtitles, beauty filter, cartoon/CGI look, hard cuts,
+camera push-in, changing outfit, changing background mid-shot.
+```
+
+---
+## 3A — "Tried everything / wrong tool"  (6 clips · ≈122s VO)
+
+**3A-1 — HOOK + bridge** · REF-NEU · **~22s** · full-frame
+SHE SAYS: *"Tried the powder. The diaper cream. The prescription. And the rash where your skin folds still comes back by noon. If you've ever folded a tissue under your bust just to get through a hot day — give me twenty seconds. Because I did all of this too. For twenty years. I'm not a doctor. I just finally figured out why none of it worked."*
+MOTION: Talks straight to camera, sincere and a little weary; small shrug on the list of products; on "none of it worked" a small dismissive hand wave and slight head shake.
+
+**3A-2 — MECHANISM** · REF-UP · **~18s** · floating/corner
+SHE SAYS: *"Here's the part nobody tells you. A skin fold traps heat and moisture — so skin rubs on skin, all day, and it never gets to dry. That rubbing is the problem. Powders cake into paste. Creams soak in and leave it wet. The medicated ones chase the rash. Not one of them stops the rub."*
+MOTION: Points up toward the top of the frame (at the animation), glances up then back to camera, a couple of small emphatic upward jabs while explaining.
+
+**3A-3 — WRONG TOOL / not you** · REF-NEU → point-side · **~23s**
+SHE SAYS: *"So the thing you reached for to calm it kept the fold wet — or rubbed it raw. Three days later, you're right back where you started. It's not that you didn't try hard enough. You tried the wrong tool. It was never your hygiene. It was never your body."*
+MOTION: Talks to camera, then points to the side (toward the product shots) with a slight head shake on "wrong tool," warm and reassuring on "never your body."
+
+**3A-4 — SOLUTION** · REF-DOWN · **~27s** · floating/corner
+SHE SAYS: *"Those creams were built for babies' bottoms and runners' feet — borrowed for a fold they were never made for. So I stopped hunting for a stronger cream — and looked for the opposite. A barrier. ProudFold is a comfort barrier cream made for one job: it sits in the fold like a second skin, so skin glides instead of grinds. It doesn't soak in. It doesn't dry you out. It stays — so the rubbing stops, and the fold finally gets a break. It's the simplest fix there is. It's just the first one actually built for the fold."*
+MOTION: Points down toward the product/CTA area, a bit excited and relieved, a couple of downward emphasis points on "a barrier" and "glides instead of grinds."
+> NOTE: this chunk is long (~84w). If it runs past 30s, split after "...made for one job:" into 3A-4a / 3A-4b (both REF-DOWN).
+
+**3A-5 — PAYOFF + offer** · REF-NEU · **~24s** · full-frame
+SHE SAYS: *"A thin line in the morning. By noon — no paste. No checking. No stinging. You get dressed without bracing for it. You stop packing powder in your bag. You stop planning your whole day around your skin. It's water-based, fragrance-light, made in small honest batches. No forced subscription. It ships from the US — and if it's not for you, keep the tube. You've got sixty days."*
+MOTION: Open, relieved, warm — a real small smile; relaxed hands, light open-palm gestures. Calm, no pointing.
+
+**3A-6 — CTA** · REF-NEU → REF-DOWN · **~9s** · multi-frame
+SHE SAYS: *"If your skin folds and rubs, this was made for you. Tap below, grab your tube, and see if it's still in stock. Hiding through the summer is long enough."*
+MOTION: Starts talking to camera, ends with a firm encouraging point DOWN at the CTA on "tap below."
+
+---
+## 3B — "You're not dirty / physics problem"  (4 clips · ≈103s VO)
+
+**3B-1 — HOOK (stop) → mechanism** · REF-NEU → REF-UP · **~27s** · multi-frame
+SHE SAYS: *"If you've ever thought you were just… not clean enough — stop. It was never you. And once you see what's really going on, you'll never call yourself dirty again. The rash where your skin folds isn't a hygiene problem — it's a physics problem. A fold presses skin against skin and traps heat and sweat where the air can't reach — so it never dries. Picture the inside of a folded towel that never gets to air out."*
+MOTION: Opens with a gentle "stop" palm toward camera on "stop," sincere; then transitions to pointing UP at the fold animation as she explains the physics.
+
+**3B-2 — FRICTION / nothing stops it** · REF-NEU → point-side · **~25s**
+SHE SAYS: *"All day, that trapped skin rubs on itself. Rubbing plus wet is what leaves it raw and burning. Not your hygiene. Not your body. Friction. You could shower ten times a day — the fold still never dries. That's why powders cake into paste, and creams soak in and leave it wet. They all try to treat the skin — when the problem is the rubbing. Nothing you put on it stops the rub."*
+MOTION: Talks to camera with a small head shake on "Not your hygiene. Not your body."; points to the side at the failed products on "powders cake into paste"; firm on "nothing stops the rub."
+
+**3B-3 — BARRIER** · REF-DOWN · **~22s** · floating/corner
+SHE SAYS: *"So the fix isn't a stronger cream. It's a barrier. ProudFold sits in the fold like a second skin — so instead of grinding, skin glides. It doesn't soak in. It doesn't dry you out. It just stays, and stops the rub. The fold finally gets a break. The simplest thing — and the first one actually made for the fold."*
+MOTION: Points down at the barrier/product, warm and a little triumphant, small downward emphasis on "a barrier" and "skin glides."
+
+**3B-4 — REASSURE + offer + CTA** · REF-NEU → REF-DOWN · **~29s** · multi-frame
+SHE SAYS: *"No paste. No checking. No bracing for the sting by noon. And no more wondering if something's wrong with you. It was never you. It was a fold that never dries — and now it finally can. Water-based, fragrance-light, ships from the US — and if it's not for you, keep the tube. You've got sixty days. If your skin folds and rubs, this was made for you. Tap below and feel what a fold that finally gets a break feels like."*
+MOTION: Hand to chest on "It was never you," heartfelt; relaxes into a warm smile; ends with a firm point DOWN at the CTA on "tap below."
+
+---
+## 3C — "The fix isn't new / baby's skin"  (6 clips · ≈118s VO)
+
+**3C-1 — HOOK** · REF-NEU · **~7s** · full-frame
+SHE SAYS: *"The fix for the rash where your skin folds isn't new. You've already used it — just not where it counts."*
+MOTION: Talks to camera with an intriguing, knowing half-smile — like she's about to let you in on something; slight lean toward camera.
+
+**3C-2 — THE AISLE** · REF-NEU → point-side · **~25s**
+SHE SAYS: *"Here's the part nobody tells you. The kind of raw, rubbed-together fold most women just live with is more common now than it's ever been. We sit more. We sweat under synthetic clothes. Summers run hotter — the fold gets more chances to rub. So the drugstore filled up with creams that promise to calm it, dry it, medicate it. A whole aisle — all built to chase the rash after it starts."*
+MOTION: Talks to camera, then sweeps a point to the side (at the cream wall / aisle) on "a whole aisle," slightly unimpressed.
+
+**3C-3 — BABY'S SKIN (aha)** · REF-UP · **~20s** · floating/corner
+SHE SAYS: *"But here's what we somehow forgot. There's one kind of skin we've always known how to protect from rubbing and wetness — a baby's. We don't medicate a baby's fold. We put a barrier on it — a thick balm that just sits there and keeps skin from rubbing raw. We've done it for a hundred years, without thinking."*
+MOTION: Points up with an "aha" open hand, eyebrows raised, like a lightbulb moment; warm.
+
+**3C-4 — IT WAS BURIED** · REF-NEU → point-side · **~16s**
+SHE SAYS: *"So if nothing's worked for you, it was never that you didn't try hard enough. The simple fix just got buried — because there's no money in telling a grown woman the answer is a plain barrier, not a fancier cream. Almost nobody makes one for the fold."*
+MOTION: Talks to camera, a touch indignant on "no money in telling a grown woman"; small firm point to the side.
+
+**3C-5 — PROUDFOLD** · REF-DOWN · **~22s** · floating/corner
+SHE SAYS: *"So that's the whole idea behind ProudFold. It's not a stronger cream. It's a comfort barrier, made for the fold — it sits like a second skin, so skin glides instead of grinds. It doesn't soak in. It doesn't dry you out. It stays, and it stops the rub. The oldest idea in skincare — finally made for the one place everyone forgot."*
+MOTION: Points down at the product, warm and confident, small downward emphasis on "comfort barrier" and "glides instead of grinds."
+
+**3C-6 — PAYOFF + offer + CTA** · REF-NEU → REF-DOWN · **~27s** · multi-frame
+SHE SAYS: *"A thin line in the morning. By noon — no paste, no stinging, no checking. You stop planning your day around your skin. Because the answer was never a miracle. It was the simplest thing — brought back. Water-based, ships from the US, with a 60-day keep-it guarantee — so trying it costs you nothing but a rash you've had long enough. If your skin folds and rubs, go see the oldest fix, made new for you."*
+MOTION: Open, relieved, warm smile through the payoff; ends with a firm point DOWN at the CTA on "go see the oldest fix."
+
+---
+### COMPLIANCE (holds for every clip)
+Comfort/barrier language only — no cure/heal/treat/antifungal/yeast. She is a composite/fictional narrator → disclose "advertisement" + narrator disclaimer per ad policy. No rash/red/broken skin shown on her or anywhere in frame. Product = comfort barrier, not medicine.
