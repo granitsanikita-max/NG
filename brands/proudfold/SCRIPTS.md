@@ -588,3 +588,115 @@ Open: Nikita's real-vs-composite reviewer gate (memory #919) + lock Linda's name
 
 ### VERDICT
 Ready to produce as v1. The most **emotionally shareable** of all variants and the one built for perfect ad→advertorial congruence. Routes to the advertorial. Next: 2B (GLP-1) + 2C (doctors-dismissed), same reviewer, same handoff.
+
+---
+
+# SCRIPT 2B — Confession · "Two doctors told me to lose the weight. They were both wrong."
+Format 2, Variant B. Same reviewer **Linda**, same advertorial story, **different door in**: the wrong-enemy /
+blame-the-weight beat. Congruent to advertorial beat ③ (*"I thought if I just lost the weight like one doctor
+told me to… I was wrong. And so was that doctor."*). Hero's-Journey confession spine, Storytelling/Personal
+hook → **advertorial**.
+**Congruence lock:** this is the SAME Linda from the advertorial — size 20, big chest, fought the fold rash ~20
+years, under belly / under breasts / between thighs, the lift-dab-smear ritual, "it was never me, it's
+friction," the barrier that let her glide. The ad never states a fact the advertorial contradicts (NO
+weight-loss-success story — that was the killed GLP-1 version).
+
+## ② GOAL + TARGET
+### Avatar — "Linda" (the advertorial reviewer, talking peer → peer)
+- **Demographic:** plus-size / big-busted US woman ~45–62, FB; told for years her body was the problem.
+- **Experiences / VOC:** the fold rash came back every summer; a doctor (or two) glanced at her and said *lose the weight*; she believed it and blamed her body for ~20 years; the lift-fold-dab-dry-smear ritual; powders that caked, diaper cream borrowed, a "doctor-recommended" antifungal that stung.
+- **Emotions:** shame / self-blame ("it's my fault, I'm too big") → **anger at the wrong enemy** (the bad advice) → **relief + vindication** ("it was never the weight — it's friction").
+- **Core desire:** to stop being blamed for her own body → dignity + an answer that's actually true.
+- **Angle:** *"Two doctors said lose the weight. It was never the weight — skin folds and rubs at any size. It's friction, and a barrier fixes it."* ONE problem = being handed the wrong enemy for 20 years.
+- **Emotion to transfer:** self-blame → **vindication.** Shareable — every big woman has been told "just lose the weight."
+
+## DIALS + FUNNEL
+- **Awareness → entry:** **problem-aware** (has the rash, has been blamed) → enter on the wrong-enemy confession → hands off to the advertorial (which opens with this exact beat).
+- **Sophistication → Stage 4/5, identity lean** (plus-size identity) + "it was never your size, it's friction."
+- **Funnel move:** cold stranger who's been shamed → *"someone like me who got told the same lie — and found out the truth"* → clicks to the **advertorial** and reads the long version of this story.
+
+## THE 3 MODIFIERS
+- **Belief-change depth:** removes the deepest blame (your body is the problem); the advertorial finishes the proof.
+- **Iceberg/identity:** deep — hits the lifelong "my body is wrong" wound; lands on "you were handed the wrong tools, not a wrong body."
+- **Length/story arc:** ~60s (blame → wrong-enemy reveal → turn → tease).
+
+## ③ DECIDE
+- **Format:** First-person Confession (Linda). **Hook:** Storytelling/Personal + wrong-enemy reveal — *"Two doctors told me to lose the weight. They were both wrong."* **Structure:** Hero's-Journey 1st-person → tease/handoff to the advertorial (same deviation as 2A: product teased, not sold — the advertorial closes).
+- **Sanity check:** problem-aware → personal story. ✅ Hook = the exact line the advertorial opens the de-shame beat on → seamless congruence.
+
+## ④ EXECUTION FUNDAMENTALS
+- Authority = peer lived-experience (20 years, tried everything) + honest "I'm not a doctor" (and the doctors she DID see were wrong — flips credential-authority into peer-authority). Positioning = "it was never your size." Speed-to-value: the wrong-enemy hook lands by ~5s. Clarity: Linda's plain voice. Value lens: dignity + an answer that lasts. Delivery: starts tired/ashamed, turns to quiet anger, lands on relief.
+
+## ⑤ TECHNIQUES
+- Hook: Storytelling/Personal + **specificity** ("two doctors," "twenty years") + **wrong-enemy / they-were-both-wrong** reveal (curiosity + indignation). Open loop → advertorial. **Remove blame + common enemy** = the lazy "lose the weight" advice, not her body. Failed-attempts stack (brief, congruent to the advertorial graveyard). Facts-over-opinions ("skin folds and rubs at any size — thin women get it under their arms too"). Micro-commitment ("if a doctor ever told you to just lose the weight…"). Honest under-claim. Soft CTA → advertorial.
+
+## CONGRUENCE (to the advertorial — hard requirement)
+Same Linda, same voice, same world. Hook = advertorial beat ③. Mechanism ("friction / skin folds and rubs /
+physics, not your size") = advertorial §③ verbatim-in-spirit. Fix ("barrier · second skin · glides instead of
+grinds") = advertorial §⑤. Handoff ("I wrote it all down… what I checked before I trusted it") = advertorial's
+due-diligence beat ⑪. She clicks and reads the SAME story, longer. No contradicting facts.
+
+## 🎬 THE SCRIPT  (~60s · first-person confession · Linda) → ADVERTORIAL
+
+**[0:00–0:07] HOOK**
+- VO (Linda, flat then sharpening): "Two different doctors looked at the rash where my skin folds and told me the same thing. Lose the weight. For twenty years, I believed them."
+- CAPTION: **"LOSE THE WEIGHT"** // they were both wrong
+- VISUAL: Linda to camera, tired, honest.
+
+**[0:07–0:20] THE BLAME**
+- VO: "So I blamed my body. Every summer the burn came back — under my belly, under my breasts — and every summer I told myself the same thing. It's your fault. You're too big. If you were smaller, this wouldn't happen. I'd lift the fold, dab it dry with a wad of paper towel, smear on whatever was in the cabinet, and pray it held till I got home."
+- CAPTION: *every summer — it's your fault, you're too big*
+- VISUAL: hot day, tugging a top away from a sweaty fold; a cabinet of half-used tubes.
+
+**[0:20–0:33] THE GRAVEYARD** *(failed attempts — congruent)*
+- VO: "I tried everything the drugstore had. Powders that caked into paste by noon. Diaper cream I borrowed from my own grandbaby. A 'doctor-recommended' antifungal that stung like a lit match. Nothing lasted more than a day or two. And every time it came back, I heard those two doctors again. Lose the weight."
+- CAPTION: *nothing lasted more than a day or two*
+- VISUAL: the failed-product lineup; a calendar flipping summers.
+
+**[0:33–0:45] THE TURN** *(wrong enemy → de-shame)*
+- VO: "Then I finally figured out the thing neither of them ever told me. It was never the weight. It's friction. Where skin folds, two patches of your own skin rub together all day, and that rubbing wears it raw. Thin women get it under their arms. New moms get it. It's not your size — it's physics. Losing the weight was never going to stop your skin from folding and rubbing."
+- CAPTION: **it was never the weight — it's friction**
+- VISUAL: soft realization; a simple friction cue (two surfaces dragging).
+
+**[0:45–0:54] THE FIX** *(tease)*
+- VO: "What finally worked didn't chase the rash at all. It stopped the rub — a thin barrier that sits right in the fold like a second skin, so skin glides instead of grinds. First summer in twenty years that burn didn't run my life."
+- CAPTION: *stop the rub, not the rash*
+- VISUAL: the tube (brief), a thin line smoothed into a fold, a calm hot-day moment.
+
+**[0:54–1:04] WHY + CTA → advertorial**
+- VO: "I'm not a doctor. The two I saw sent me home with the wrong answer for two decades — so I wrote down what actually worked, and everything I checked before I trusted it. If a doctor ever told you to just lose the weight — it was never the weight. Read my story. It's right here."
+- CAPTION: **it was never the weight → read my story**
+- VISUAL: Linda to camera; CTA.
+- **CTA DESTINATION:** the **advertorial** (`proudfold.com/pages/advertorial-lp`).
+
+## ⑥ CHIEF — heavy review
+
+### Fundamentals checklist (⑥)
+- [x] Right awareness (problem-aware confession → advertorial). · [x] Positioning = "it was never your size." · [x] Value in ~5s (wrong-enemy hook). · [x] Hook bridge = "they were both wrong" open loop. · [x] 5th–8th grade, Linda's voice. · [x] Belief-change depth fits (removes the deepest blame; advertorial finishes). · [x] Anticipation (turn + tease). · [x] Tier-1 present (avatar = Linda · core desire = dignity + a true answer · angle = it's friction not size · emotion = self-blame→vindication · authority = 20-yr peer, NO credential · positioning). · [x] Honest under-claim (teases, doesn't "cure"). · [x] CTA → advertorial. · [x] Word-craft (sharp, indignant, specific).
+
+### Compliance red-line pass
+- ✅ No cure/heal/antifungal/yeast claim for ProudFold. "friction / skin folds and rubs / physics, not your size" = §8 SAY, advertorial §③.
+- ✅ "a barrier · second skin · glides instead of grinds · stop the rub not the rash" = §8 SAY, advertorial §⑤.
+- ✅ The "antifungal that stung" + "diaper cream" lines describe HER past failed products (lived experience, congruent to the advertorial graveyard) — NOT claims about ProudFold.
+- ✅ **Dignified** — the enemy is the lazy "lose the weight" advice, never her body or her size ("you were handed the wrong tools, not a wrong body"). Mirrors advertorial §⑧ ("You are not gross").
+- ✅ No graphic skin — visuals are hot-day lifestyle, the failed-product lineup, a thin-line application. Never pathology.
+- ✅ **Doctors:** "two doctors told ME to lose weight" is Linda's lived experience (a composite narrator), common to this niche, and sits verbatim-in-spirit in the advertorial. Not a blanket claim that doctors are wrong — just that *that* advice, for *her*, was. Covered by the fictional/composite-narrator disclosure.
+- ⚠️ FTC: softened independence ("I'm not a doctor… so I wrote it down") + the advertisement + fictional-narrator (composite) disclosure. (Real-vs-composite gate, memory #919.)
+
+### Claim-swap log
+- Killed the GLP-1 / weight-loss-**success** version (broke advertorial congruence — different woman) → replaced with the congruent wrong-enemy angle (Linda never lost the weight; she was wrongly told to). · Competitor "dries the fold" → ours "a barrier… glides." · Full resolution → tease + advertorial handoff.
+
+### Read-back as Linda's viewer
+Every plus-size woman watching has been told "just lose the weight." "Two doctors… they were both wrong" stops her cold — *finally, someone's saying it wasn't me.* The graveyard ("powders caked, borrowed the baby's cream, the antifungal that stung") is her exact drawer. "It was never the weight — it's friction… thin women get it too" lifts 20 years of blame off her in one line. She clicks, and the advertorial opens on the *same* confession — perfect congruence, no whiplash. ✅
+
+### Hook PASS test
+Frame 1 = Linda + **"LOSE THE WEIGHT // they were both wrong."** A woman who's heard that line her whole life stops on the indignation + the promise that it was never her fault. ✅
+
+### Congruence check vs advertorial  ✅
+Hook = advertorial beat ③ · mechanism = §③ · fix = §⑤ · handoff/due-diligence = §⑪ · voice = Linda · no contradicting facts (she did NOT lose weight — consistent with the whole advertorial). Clicking the ad lands her on the long version of the identical story.
+
+### Open production dependencies
+Linda on-cam/VO (locked, SAME face+voice as 2A/advertorial); hot-day + failed-product-lineup + thin-line B-roll (NO skin pathology); tube + calm-moment payoff; captions; advertorial end-card; ad + composite-narrator disclosure.
+
+### VERDICT
+Ready to produce as v1. The **de-shame flagship** of the confession set — lifts the "it's my fault I'm big" blame and lands dead-on the advertorial's opening beat. Routes to the advertorial. Next: 2C ("I stopped hiding" — coming out the other side, advertorial beat ②).
