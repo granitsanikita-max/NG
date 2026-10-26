@@ -446,4 +446,145 @@ Frame 1 = vintage balm tin vs a wall of modern creams + **"the fix isn't new —
 1. **Then-vs-now montage** — vintage balm tin + modern cream aisle. 2. **Baby-cream / diaper-paste** stock. 3. Neutral modern-life B-roll (NO body-shaming). 4. Mechanism animation (barrier between surfaces). 5. Payoff lifestyle B-roll. 6. **Same locked voice**, storyteller register. 7. Caption system. 8. Tube + seal + offer end-card. 9. FTC/fictional-narrator disclosure.
 
 ### VERDICT
-Ready to produce as v1. The **widest-reach** variant (curiosity pulls colder viewers) and the most *shareable* ("did-you-know"); its baby-cream contrast is the single most persuasive compliant proof we have. Routes to offer page. **Format 3 is complete (3A/3B/3C).** Next: Format 2 (Confession) — and per Nikita, FIRST pull the live advertorial copy and make the confession scripts congruent with it (same reviewer, same beats).
+Ready to produce as v1. The **widest-reach** variant (curiosity pulls colder viewers) and the most *shareable* ("did-you-know"); its baby-cream contrast is the single most persuasive compliant proof we have. Routes to offer page. **Format 3 is complete (3A/3B/3C).**
+
+---
+
+# ═══ FORMAT 2 — FIRST-PERSON CONFESSION (→ ADVERTORIAL) ═══
+**Voice = the avatar/reviewer herself** ("Linda" — the locked brand reviewer, same woman as the advertorial
+narrator + the VSL voice; composite, disclosed). These ads are *her telling the opening of her story* → the
+click lands on **her full story = the advertorial** (`/pages/advertorial-lp`). **Congruence is the whole point.**
+- **Same narrator** (name/face/voice) in the ad AND the advertorial.
+- **Same beats** — each confession ad = a compressed slice of the advertorial spine (COPY §7A): Beat 2
+  (recognition/ritual) + Beat 4 (self-blame → the turn) + a teaser of Beat 5 (found the fix) + the "why I'm
+  telling you" warmth → hand off to the advertorial for the full case + objections + offer.
+- **Same register** (COPY §9): a real woman warning/helping another — warm, blunt, zero-pity, a little funny.
+- **Same compliance** (COPY §8): SAY "barrier / protects chafed skin / soothed / got a break / comfortable";
+  NEVER "cured / killed the yeast / antifungal / dries to a powder / Do YOU have X"; no graphic raw-skin.
+- **Routing:** confession → **advertorial** (the ad hooks emotionally; the advertorial closes). So the ad ends
+  on a **tease/handoff**, not a hard offer close (unlike the VSLs).
+
+# SCRIPT 2A — Confession · "Twelve summers, a folded tissue"
+Format 2, Variant A. The flagship confession (Clairon-pattern, de-medicalised). Hook = the shameful workaround
+named out loud; core = de-shame ("it was never me, it's the fold"); hand off to the advertorial.
+Structure: **Hero's Journey 1st-Person Problem→Solution**; hook family: **Storytelling/Personal**.
+
+## ② GOAL + TARGET
+### Avatar — narrated BY the avatar-as-reviewer (Linda) TO Dawn (peer → peer)
+Linda **is** a Dawn who got to the other side; she speaks to the viewer as "a woman who's been exactly where you are."
+- **Demographic:** woman 45–62, plus-size/big-busted, US, FB (both narrator + viewer).
+- **Experiences / behaviors / emotions:** the **shame rituals** (folded tissue under each breast, cardigan in July, skipping the pool, standing back in photos, scrubbing, two doctors saying "lose weight") → shame → self-blame → (on the turn) relief + being-seen.
+- **Core desire:** dignity / self-forgiveness / belonging. **Proximate for 2A:** *someone who's lived it telling me the truth — and that it was never my fault.*
+- **Angle:** the hidden-shame workaround → **"it was never me, it's the fold."** The ONE problem = the **shame + the years lost to it.**
+- **Emotion:** recognition → being-seen → **de-shame relief** → hope. Warm, intimate, confessional. **Highly shareable** (women tag friends: "this is me"). High intensity (confession + shame-release).
+
+## DIALS + FUNNEL
+- **Awareness → entry:** **problem-aware** → enter on the **shame ritual named out loud** (instant "that's me"). Not mechanism-led — it's **emotional recognition + peer trust**, then hands off.
+- **Sophistication → Stage 4/5 with an IDENTITY lean** (confession = identity/belonging). Mechanism touched lightly ("it's friction, a barrier"); the advertorial carries the full case.
+- **Funnel move:** cold, shame-carrying stranger → *"this woman is me, she found something, and it was never my fault"* → clicks to the **advertorial** (her full story).
+
+## THE 3 MODIFIERS
+- **Belief-change depth:** 2A *starts* the belief change (de-shame) + builds reviewer trust; hands the deep skepticism×price lift to the advertorial. So 2A = light on proof, heavy on **recognition + credibility.**
+- **Iceberg/identity:** deep — confession is identity-level; lands on belonging ("you're not the only one; it was never you").
+- **Length/story arc:** ~60s confession arc (anticipation: the turn + the tease to "what I found").
+
+## ③ DECIDE
+- **Format:** First-person **Confession** (talking-head and/or VO-over-b-roll), the avatar/reviewer speaking.
+- **Hook:** **Storytelling/Personal** — *"For twelve summers, I kept a folded tissue under each breast."* (confession, specific number + specific object = max specificity + the shameful-workaround pattern-interrupt).
+- **Structure:** **Hero's Journey 1st-Person** — problem/ritual → low point (self-blame) → failed attempts (brief graveyard = objection pre-fire) → the turn (it's friction, not me; a barrier) → **tease** the fix → CTA to advertorial. **Deviation (logged):** because it feeds the advertorial, it ends on a **handoff/tease**, not a full close.
+- **Sanity check:** problem-aware → personal/founder story, before/after. ✅
+
+## ④ EXECUTION FUNDAMENTALS (written in)
+- **Authority = peer lived-experience** (she *is* the proof) + "I'm not a doctor, I just lived it." Facts light (advertorial carries them). **No fake credential.**
+- **Positioning:** identity/belonging + "it's friction, not you."
+- **Speed to value:** recognition + "it was never me" by ~5s (the tissue confession = instant "that's me").
+- **Clarity:** 5th–8th grade, HER voice — warm, blunt, a little funny.
+- **Value lens:** ease implied ("a thin line, and I got my summer back") — but 2A is **emotion-led**, not ease-led.
+- **Delivery:** intimate, confessional, *real* — not polished; pauses; a real woman.
+
+## ⑤ TECHNIQUES (picked)
+- **Hook:** Storytelling/Personal confession opener — specificity ("twelve summers," "folded tissue under each breast") + the **shameful workaround named out loud** (the single biggest pattern-interrupt in the angle bank). Overlay: "FOR 12 SUMMERS, I HID THIS."
+- **Open loop:** "…until I found out it was never my fault — and what actually worked" → resolved on the advertorial.
+- **Remove blame** (emotional core): "it was never me. It's the fold."
+- **Failed-attempts beat** (Hero's-Journey rule): brief graveyard (powder→paste, creams stayed wet, doctors said lose weight) = objection pre-fire.
+- **Micro-commitments** ("if you've done this too…"); **relatability/involvement** (her specific moments = the viewer sees herself); **honest under-claim** (reviewer credibility); **soft CTA → advertorial.**
+
+## CONGRUENCE WITH THE ADVERTORIAL (the requirement)
+Same narrator (Linda), same voice/register, same beats (this ad = advertorial Beats 2 + 4 + teaser of 5 + the
+"why I'm telling you"), same compliance language. The viewer **meets Linda in the ad, then reads Linda's full
+report** — one continuous person, zero reset. Handoff line = "I wrote the whole thing down."
+
+## 🎬 THE SCRIPT  (~60s · vertical 9:16 · first-person confession · the avatar/reviewer "Linda") → ADVERTORIAL
+
+**[0:00–0:06] HOOK** *(confession)*
+- VO/on-cam (Linda, warm, a little wry): "For twelve summers, I kept a folded tissue tucked under each breast. Just to get through the day."
+- CAPTION: **FOR 12 SUMMERS, I HID THIS**
+- VISUAL: Linda (plus-size ~50) to camera — or VO over her hands folding a tissue. Warm, intimate, real.
+
+**[0:06–0:16] THE RITUAL / RECOGNITION**
+- VO: "By lunch it was paste. I kept a cardigan on in July so no one would get close. I skipped the pool. I stood a little further back in the photos. And every morning I thought the same thing — what is wrong with me?"
+- CAPTION: *what is wrong with me?*
+- VISUAL: cardigan in summer, skipping the pool, standing back — her hiding rituals.
+
+**[0:16–0:26] SELF-BLAME LOW POINT**
+- VO: "I was sure it was me. That I wasn't clean enough. I showered twice a day. I scrubbed. Two doctors looked for about a second and told me to lose weight. So I just… carried it. For twenty years."
+- CAPTION: *I thought it was me*
+- VISUAL: the shower, a doctor's office, quiet shame.
+
+**[0:26–0:36] THE TURN** *(de-shame)*
+- VO: "Then I found out the thing nobody had told me. It was never me. It's the fold. Skin folds trap heat and sweat and never dry — so the skin just rubs itself raw. It's friction. A physical problem, not a hygiene one. I'd spent twenty years ashamed of physics."
+- CAPTION: **it was never me — it's the fold**
+- VISUAL: a soft realization; a gentle friction/fold hint (warm, not clinical).
+
+**[0:36–0:48] FAILED ATTEMPTS → THE FIX** *(tease, not full resolve)*
+- VO: "Every cream I'd tried either soaked in and left me wet, or dried me out and cracked. So I stopped looking for a stronger cream — and found a barrier. Something that sits in the fold like a second skin, so skin glides instead of grinds. The first thing in twenty years that let me get through a summer comfortable."
+- CAPTION: *not a stronger cream — a barrier*
+- VISUAL: the tube (brief), a thin line, a relieved exhale; a sundress moment.
+
+**[0:48–1:00] WHY I'M TELLING YOU + CTA → advertorial**
+- VO: "I'm not a doctor. Nobody told me any of this — so I figured it out myself, and I wrote the whole thing down. Everything I tried, what finally worked, and what I checked before I trusted it. If you've been hiding a tissue too — it was never you. Read my story. The link's right here."
+- CAPTION: **it was never you → read my story**
+- VISUAL: Linda to camera, warm; CTA.
+- **CTA DESTINATION:** the **advertorial** (`proudfold.com/pages/advertorial-lp`).
+
+## ⑥ CHIEF — heavy review
+
+### Fundamentals checklist (⑥)
+- [x] **Right awareness** — problem-aware recognition entry → hands off to the advertorial for solution/offer; no level-mixing.
+- [x] **Positioning = sophistication** — identity/belonging + "it's friction, not you."
+- [x] **Value in ~5s** — the tissue confession = instant recognition + "it was never me" promise.
+- [x] **Hook has a bridge** — the open loop ("until I found out it was never my fault — and what worked").
+- [x] **5th–8th grade, HER voice** — warm, blunt, a little funny; reads aloud as a real woman.
+- [x] **Belief-change depth fits** — 2A starts it; the advertorial finishes it (correct division of labour).
+- [x] **Anticipation used** — the turn + the "what I found" tease.
+- [x] **Tier-1 present** — avatar ✓ core desire (dignity/self-forgiveness) ✓ angle (shame workaround → it's the fold) ✓ emotion (recognition→de-shame) ✓ authority (peer lived-experience, NO credential) ✓ positioning ✓.
+- [x] **Honest — flaw raised & flipped** — honest under-claim ("first thing that let me get through a summer *comfortable*" — not "cured," not "bone-dry").
+- [x] **Offer + CTA unmistakable** — one ask → the advertorial (soft, advisory, matches confession tone).
+- [x] **Word-craft** — tender + specific; keep the pauses on the record pass.
+
+### Compliance red-line pass (COPY §8)
+- ✅ No cure/heal/antifungal/yeast. **"Yeasty smell" from the advertorial Beat 2 is deliberately DROPPED** in the ad (too infection-adjacent for a cold Meta creative).
+- ✅ "it was never me, it's the fold / friction" · "trap heat and sweat and never dry · rubs itself raw" = friction discomfort (§8 SAY), not disease.
+- ✅ "a barrier · second skin · glides instead of grinds · got through a summer comfortable" = §8 SAY language.
+- ✅ "soaked in and left me wet, or dried me out and cracked" = describing *other* products (true, neutral); and it pre-empts "too thick / won't dry."
+- ✅ No graphic raw-skin / before-after — visuals are lifestyle + hiding rituals, never pathology.
+- ⚠️ **FTC / independence:** softened the advertorial's "I don't work for them" to **"Nobody told me any of this — so I figured it out myself"** — a composite brand persona asserting hard independence is the riskiest FTC element (COPY §3). The ad still carries the **advertisement + fictional-narrator (composite customer) disclosure.** (Nikita's open gate: real reviewer would remove this risk entirely — memory #919.)
+
+### Claim-swap log (borrowed Clairon's confession pattern + the Hero's-Journey container)
+- Clairon *"by lunch it smelled… musty odor"* → **ours:** "by lunch it was paste" (drop the odor/smell-as-disease beat; keep the paste).
+- Clairon *"this dries to a powder in a minute" (their product DRIES)* → **ours:** "a barrier… skin glides instead of grinds" (we do NOT dry you out — opposite + our truth).
+- Clairon *40% off tail* → **ours:** no offer in the ad (it hands off to the advertorial).
+- Hero's-Journey *full resolution/proof* → **ours:** tease + handoff to the advertorial (deviation logged).
+
+### Read-back as Dawn
+"For twelve summers, I kept a folded tissue under each breast" — a stranger scrolling freezes: *that's me, and I've never heard anyone say it out loud.* The cardigan/pool/photos name her exact hiding. "What is wrong with me?" is her own thought on screen. "It was never me — it's the fold… I spent twenty years ashamed of physics" is the exhale. "I'm not a doctor… I wrote it down" = a peer handing her the map, not a pitch. She clicks to read Linda's full story. ✅ She's met the woman whose story she's about to read — total congruence.
+
+### Hook PASS test (sound-off)
+Frame 1 = Linda + **"FOR 12 SUMMERS, I HID THIS"** + folding a tissue. A shame-carrying woman stops on the confession + the specific, taboo object. ✅
+
+### Open production dependencies
+1. **Linda on-camera** (locked brand model, warm, real) OR VO over her b-roll. 2. Hiding-ritual B-roll (cardigan in July, pool skip, standing back). 3. Tube + thin-line + sundress payoff. 4. **Same locked voice.** 5. Caption system. 6. **Advertorial end-card/CTA.** 7. Advertisement + fictional-narrator disclosure on the ad.
+Open: Nikita's real-vs-composite reviewer gate (memory #919) + lock Linda's name.
+
+### VERDICT
+Ready to produce as v1. The most **emotionally shareable** of all variants and the one built for perfect ad→advertorial congruence. Routes to the advertorial. Next: 2B (GLP-1) + 2C (doctors-dismissed), same reviewer, same handoff.
