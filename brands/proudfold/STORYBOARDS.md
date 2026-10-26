@@ -62,21 +62,22 @@ Target lengths: **3A ~85s · 3B ~70s · 3C ~85s** (lean cold-test cuts; trim to 
 ---
 
 ## 1 · MASTER B-ROLL LIBRARY (build once, reuse across all 3 — batch this)
-**✅ = already rendered in scratchpad (reuse, don't regenerate).** Tool pipeline = Higgsfield (nano_banana stills
-→ Kling i2v for motion). Compliance on EVERY asset: intact skin, friction-sheen + FLAT redness at most, NO
-wound/pus/pathogen/fungus, NO lab coat, illustrative animation (not real pathology), dignified bodies.
+**Everything here is built FRESH this batch — we reuse nothing.** (The v1 mechanism GIF is retired; we aim higher.)
+Tool pipeline = Higgsfield (nano_banana stills → Kling i2v for motion). Compliance on EVERY asset: intact skin,
+friction-sheen + FLAT redness at most, NO wound/pus/pathogen/fungus, NO lab coat, illustrative animation (not
+real pathology), dignified bodies. (OF-TUBE / OF-SEAL / OF-BUYBOX are the real product/offer, not creative art.)
 
 ### A · SCIENCE-LOOK (our compliant "fungus-equivalent" scroll-stopper)
 | ID | Shot | Motion | Status |
 |---|---|---|---|
-| **SL-GRIND-MACRO** | EXTREME macro: two skin surfaces pressing + dragging, micro sweat-beads, heat-glow at the contact line — the visceral "ouch, that's me" shot | slow drag + heat shimmer loop | ✅ base `mech1_real.png` → add drag motion |
-| **SL-XSEC-TRAP** | Cross-section of a fold: skin pressed together, heat + moisture trapped, orange/red glow, "air can't reach" | glow builds | ⬜ new (extend xsec style) |
-| **SL-XSEC-GRIND** | Cross-section: the two surfaces grinding, heat building, raw-warm | grind loop | ✅ `mech_xsec_grind.png` + `mech_scene2_grind.mp4` |
-| **SL-XSEC-FILM** | Cross-section: a smooth barrier film slides IN between the surfaces | film slides in | ✅ `mech_xsec_film.png` + `mech_scene3_film.mp4` |
-| **SL-XSEC-GLIDE** | Cross-section: surfaces now glide past each other, heat-glow fades to cool/calm | glide + glow→calm | ✅ `mech_xsec_glide.png` + `mech_scene4_glide.mp4` |
-| **SL-CALM-MACRO** | EXTREME macro: the barrier film on calm skin, cool sheen — the "ahh" payoff macro | settle/cool | ✅ `mech_surface_calm.png` + `mech_scene5_calm.mp4` |
-> The mechanism montage (grind→film→glide→calm) is **already cut** as `mech_scene2–5.mp4`. This IS the asset the
-> fungus ad uses an animation for — ours is friction→barrier, fully compliant.
+| **SL-GRIND-MACRO** | EXTREME macro: two skin surfaces pressing + dragging, micro sweat-beads, heat-glow at the contact line — the visceral "ouch, that's me" shot | slow drag + heat shimmer loop | ⬜ build fresh |
+| **SL-XSEC-TRAP** | Cross-section of a fold: skin pressed together, heat + moisture trapped, orange/red glow, "air can't reach" | glow builds | ⬜ build fresh |
+| **SL-XSEC-GRIND** | Cross-section: the two surfaces grinding, heat building, raw-warm | grind loop | ⬜ build fresh |
+| **SL-XSEC-FILM** | Cross-section: a smooth barrier film slides IN between the surfaces | film slides in | ⬜ build fresh |
+| **SL-XSEC-GLIDE** | Cross-section: surfaces now glide past each other, heat-glow fades to cool/calm | glide + glow→calm | ⬜ build fresh |
+| **SL-CALM-MACRO** | EXTREME macro: the barrier film on calm skin, cool sheen — the "ahh" payoff macro | settle/cool | ⬜ build fresh |
+> The science-look montage (trap→grind→film→glide→calm) is our compliant answer to the fungus ad's animation —
+> friction→barrier, no pathogen. **Built fresh + premium this batch** (the v1 mechanism GIF is not reused).
 
 ### B · OBJECT / RECOGNITION (the "car-crash" stop-objects)
 | ID | Shot | Status |
@@ -189,8 +190,8 @@ Face-cam ONLY on hook / payoff / CTA — the mechanism beats are **full-screen a
    (terracotta/cream), realistic "good AI microscope" look for the science-look shots (NOT plasticky — the style
    Nikita already approved on the mechanism GIF). **HARD RULE (memory #122): count=1 always, never multiple
    variations** (credits).
-2. **Motion** → Kling i2v 3s per still for drag/glow/glide. **Mechanism montage already rendered**
-   (`mech_scene2–5.mp4` in scratchpad) — reuse; only new science-look (SL-XSEC-TRAP, SL-GRIND drag) needs generating.
+2. **Motion** → Kling i2v 3s per still for drag/glow/glide. Build the science-look montage **fresh + premium**
+   this batch (trap→grind→film→glide→calm) — aim well above the v1 mechanism GIF; reuse no old art.
 3. **Face-cam (Linda)** → AI-UGC talking-head (locked model) for v1; shoot a real plus-size creator on the Wave-2
    winner. Record the full VO once (one locked voice) — she carries all three.
 4. **Compositing** → corner face-cam + full-screen B-roll + caption, in CapCut/editor. **Captions = word-by-word
@@ -208,8 +209,8 @@ dignified bodies, no body-shaming · mechanism = illustrative animation, not rea
 ## 6 · PRIORITY / NEXT
 - **Biggest lever = the 3 hook frames** (OB-TISSUE, SL-XSEC-TRAP, OB-THENNOW). Nail these first — the scroll-stop
   lives in frame 1. Generate + review before cutting full videos.
-- **Reuse** the existing mechanism montage (`mech_scene2–5.mp4`) across all three — only ~5 new science-look /
-  object stills + payoff lifestyle are net-new.
+- **Everything built fresh this batch (no reused art)** — the full science-look montage + object stills + payoff
+  lifestyle. Put the most craft into the 3 hook frames; they carry the scroll-stop.
 - **One VO record** (Linda) covers all three.
 - Open (from SCRIPTS): VO-only vs on-camera peer for the face-cam (on-cam lifts trust; AI-UGC fine for v1); lock
   Linda as real-vs-composite (clears the FTC line for the whole funnel).
