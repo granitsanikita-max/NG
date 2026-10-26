@@ -87,3 +87,10 @@ Nikita was browsing his own store + adding to cart during this window, so the Sh
 - **Real vs curiosity ATC:** mixed but directionally real — all from women; core/younger women converted clicks→ATC efficiently (intent); 65+ = curiosity. Can pull `omni_initiated_checkout` (ad-attributed) to measure intent depth if needed.
 - **Not chasing** period-over-period trend / industry benchmark (Ads MCP steering) — meaningless at 3 days / A$98.
 - **ACTION (pending Nikita approval):** ad-set edits — (1) placement → Facebook Feed only; (2) audience → women 45–64, exclude men. Editing a live ad set pauses + re-enters learning; re-activate in same step. Settings fix, NOT a store rebuild.
+
+#### 2026-10-26 — DIRECTION SET (Nikita's call) — supersedes the tightening proposal above
+- **Audience tightening = DROPPED (Nikita, correctly).** Brand-new pixel (launched ~1 day ago, ~A$98 spent) is deep in LEARNING; the spread to men/65+/all placements is exploration, not a settings error. Tightening now raises CPM + starves learning. → **KEEP BROAD.** (Only structural bit = statics in Reels/Stories; video covers those placements — don't micro-manage.)
+- **No funnel to 'fix':** store + checkout fully built & on-brand; no proven conversion problem (data too thin + was polluted). 'Fix funnel first' = waiting on a non-problem → skip.
+- **DIRECTION = build creative VOLUME + DIVERSITY:** new ANGLES + VIDEO, not re-skins of the one advertorial. Both the pixel's data engine and the #1 lever. Pipeline: ad-scripting (TOF Google Doc V1–V10 video / S1–S11 image ready) → storyboarding → creation.
+- **Learning-phase economics:** ATC-optimized ad set needs ~50 ATC/wk to EXIT learning ≈ **~A$800/wk at ~A$16/ATC**. Below that the pixel never stabilises → permanent erratic delivery (= the spread observed). Either budget to exit learning or expect noise. Don't split a small budget across many ads in one ABO set (Meta starves most — AD4 got 5 impr). Few concepts, enough budget each.
+- **Open:** Nikita to give daily budget → economics to set exact per-concept test spend + hard kill/scale thresholds.
