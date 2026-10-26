@@ -215,3 +215,45 @@ dignified bodies, no body-shaming · mechanism = illustrative animation, not rea
 - Open (from SCRIPTS): VO-only vs on-camera peer for the face-cam (on-cam lifts trust; AI-UGC fine for v1); lock
   Linda as real-vs-composite (clears the FTC line for the whole funnel).
 - After Nikita signs off the hook frames → Ad Creation generates the B-roll library → assemble 3A first (flagship).
+
+---
+
+## 7 · ATOMIC B-ROLL SHOT LIST (one clip per row) — live Google Sheet
+**Sheet:** https://docs.google.com/spreadsheets/d/1rd4R2TYGESJ2wDLDepjLG4buUQ_pdPJMeool1hMDqcc/edit
+> Every shot broken out separately (no combined cells) so the exact count is clear. Build fresh, count=1 each.
+
+**COUNT: 30 distinct clips · 3 already have (OF-TUBE/SEAL/BUYBOX) · 27 to create** (26 core + 1 optional).
+New by category: **5** science-look (x-section anim + macro, +1 opt) · **12** object/recognition · **1** peer talking-head (Linda — one record covers all 3) · **2** peer-life · **5** payoff lifestyle · **1** product application.
+
+| # | Clip ID | Scene | Used in | Status |
+|---|---|---|---|---|
+| 1 | SL-XSEC-TRAP | fold x-section: heat+sweat trapped, glow builds | 3A·5, 3B·1/·2 | NEW |
+| 2 | SL-XSEC-GRIND | x-section: surfaces grind/drag, heat builds | 3A·5, 3B·3 | NEW |
+| 3 | SL-XSEC-FILM | x-section: barrier film slides in between | 3A·9, 3B·5, 3C·3 | NEW |
+| 4 | SL-XSEC-GLIDE | x-section: surfaces glide, glow→calm | 3A·9, 3B·5, 3C·5 | NEW |
+| 5 | SL-GRIND-MACRO | extreme REAL-skin macro: drag + sweat + heat glow (visceral) | 3A·1alt/·7 | NEW ★hook opt |
+| 6 | SL-CALM-MACRO | extreme macro: barrier film on calm skin (payoff) | payoff | NEW (opt) |
+| 7 | OB-TISSUE | damp folded tissue pulled from under a bra band | 3A·1 | NEW ★3A HOOK |
+| 8 | OB-GRAVEYARD | failed-product lineup top-down, hand sweeps past | 3A·1/·2 | NEW |
+| 9 | OB-PASTE | powder dusted into a fold → clumps to damp paste | 3A·6, 3B·4 | NEW |
+| 10 | OB-SOAK | cream rubbed in, absorbs, leaves skin shiny-wet | 3A·6, 3B·4 | NEW |
+| 11 | OB-CALENDAR | calendar flipping fast (the rash keeps coming back) | 3A·7 | NEW |
+| 12 | OB-BORROWED | baby-cream tube + anti-chafe stick (built for babies/feet) | 3A·8 | NEW |
+| 13 | OB-BABY | a baby's skin getting a thick barrier balm (tasteful) | 3C·3 | NEW ★3C proof |
+| 14 | OB-TOWEL | inside of a folded towel — damp, never airs out (analogy) | 3B·2 | NEW |
+| 15 | OB-SHOWER | a shower running (over-washing, thinks it's hygiene) | 3B·3 | NEW |
+| 16 | OB-TIN | vintage tin of barrier balm — "the old fix" | 3C·1/·4 | NEW |
+| 17 | OB-CREAMWALL | towering modern wall/aisle of drugstore creams (enemy) | 3C·1/·2/·4 | NEW |
+| 18 | OB-MODERNLIFE | neutral modern-life (sitting, synthetic clothes, heat) | 3C·2 | NEW |
+| 19 | PF-CAM | Linda talking-head reaction-cam, delivers the VO | ALL | NEW (1 record) |
+| 20 | PF-HOTDAY | Linda on a hot day — fanning, wiping | 3A·3 | NEW |
+| 21 | PF-DAB | Linda discreetly dabbing under the bust | 3A·3 | NEW |
+| 22 | PO-DRESSED | getting dressed on a hot morning, not bracing | 3A·10 | NEW |
+| 23 | PO-BAG | reaching into a bag and NOT pulling out powder | 3A·10, 3C·6 | NEW |
+| 24 | PO-SUNDRESS | plus-size woman ~50 in a sundress, at ease | 3A·10, 3B·6, 3C·6 | NEW |
+| 25 | PO-POOL | poolside / stepping into the pool, not hiding | 3A·10, 3C·6 | NEW |
+| 26 | PO-HUG | a close, full hug / laughing close | 3B·6, 3C·6 | NEW |
+| 27 | OF-TUBE | ProudFold tube clean hero (+ label CU) | ALL | HAVE |
+| 28 | OF-LINE | a thin line applied into a real fold | 3A·9, 3B·5, 3C·5 | NEW |
+| 29 | OF-SEAL | 60-day Keep-It seal/badge | ALL | HAVE |
+| 30 | OF-BUYBOX | offer buy-box ×1/×3/×5 + CTA + wordmark end-card | ALL | HAVE |
