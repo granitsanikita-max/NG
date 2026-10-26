@@ -313,28 +313,33 @@ New by category: **5** science-look (x-section anim + macro, +1 opt) · **12** o
 | 5 | 0:42–0:54 | "A nurse friend said: second skin. A barrier. And that's how I ended up back in that pool. In a swimsuit. Not hiding, for the first time in twelve years." | *back in the pool — not hiding* | `OF-TUBE`/`OF-LINE` (brief) → `PO-POOL` (Linda in pool) | land on pool |
 | 6 | 0:54–1:04 | "I'm not a doctor — I just lived it. I wrote it all down. If you've been hiding too — it was never you. Read my story." | **it was never you → read my story** | Linda → `F2-ADCARD` | hold |
 
-## F2 · ATOMIC B-ROLL LIST (one clip per row) — tab 2 of the Google Sheet
-**COUNT: 19 clips used · ONLY 9 net-new · 10 reused from the Format-3 library / already have.**
-New-9: PF-CONFESS · F2-CARDIGAN · F2-PHOTO · F2-DABRITUAL · F2-DOCTOR · F2-COOKOUT · F2-DECLINE · F2-POOLBAG · F2-ADCARD.
+## F2 · SCENE LIST — actual images of LINDA (its own Google Sheet)
+**Format 2 sheet:** https://docs.google.com/spreadsheets/d/1sxjWLV_-6s4NVfCuPtvYjgkyu-F8i-_VSxrU1GwvvLY/edit
+> Format 2 is a **consistent-character shoot of Linda**, NOT a montage of generic B-roll. Every recognition beat
+> is HER doing it (same locked model HF `c77e8935` — identical face/body in every scene). The F3 clip library is
+> not reused here. **18 scenes · 16 of Linda (all NEW) + OF-TUBE (have) + F2-ADCARD (new).**
+> Product-featuring: LN-APPLY, LN-TUBE-RELIEF, OF-TUBE.
 
-| Clip ID | Scene | Used in | Status |
+| Scene ID | What Linda is doing | Used in | Status |
 |---|---|---|---|
-| PF-CONFESS | Linda confessing to camera, intimate — the on-screen performance (delivers all VO) | ALL | NEW (1 record, all 3) |
-| F2-CARDIGAN | keeping a cardigan / long sleeves on in July heat, covering up | 2A·2 | NEW |
-| F2-PHOTO | standing at the back / further from the group in a photo | 2A·2 | NEW |
-| F2-DABRITUAL | lifting the fold, dabbing dry with a paper towel, smearing cream | 2B·2 | NEW |
-| F2-DOCTOR | doctor's office / a scale / a note reading "lose the weight" | 2B hook | NEW |
-| F2-COOKOUT | long sleeves at a hot cookout in 90° heat | 2C·2 | NEW |
-| F2-DECLINE | turning down the pool/beach / pulling back from a hug | 2C·2 | NEW |
-| F2-POOLBAG | Linda at the pool edge with a swim bag — "this summer I went back" | 2C hook | NEW |
-| F2-ADCARD | advertorial end-card: "Read my story" + advertorial headline + arrow | ALL (CTA) | NEW (1 asset) |
-| OB-TISSUE | damp folded tissue under a bra band | 2A hook | REUSE (F3) |
-| OB-SHOWER | shower running — scrubbing (thinks it's hygiene) | 2A·3 | REUSE (F3) |
-| OB-GRAVEYARD | failed-product lineup | 2B·3 | REUSE (F3) |
-| OB-PASTE | powder → paste in a fold | 2B·3 | REUSE (F3) |
-| F2-FRICTION | simple warm friction/fold insert (confession-light) | 2A·4, 2B·4, 2C·4 | REUSE (SL-GRIND-MACRO / SL-XSEC) |
-| OF-TUBE | ProudFold tube hero | ALL | HAVE |
-| OF-LINE | thin line applied into a fold | ALL | REUSE (F3) |
-| PO-POOL | Linda back in the pool, at ease (2C payoff) | 2C·5 | REUSE (F3) |
-| PO-SUNDRESS | sundress, at ease (optional payoff) | payoff | REUSE (F3) |
-| PO-HUG | a close, full hug (optional payoff) | payoff | REUSE (F3) |
+| LN-CONFESS | talking to camera, confessing (the spine — delivers all VO) | ALL | NEW ★spine |
+| LN-TISSUE | tucking a folded tissue under her bra while dressing | 2A hook | NEW ★hook |
+| LN-CARDIGAN | cardigan on in July heat, covering up | 2A·2 | NEW |
+| LN-PHOTO | standing at the back of a group photo | 2A·2 | NEW |
+| LN-MIRROR | at the sink, scrubbing / studying herself, tired | 2A·3 | NEW |
+| LN-DOCTOR | doctor's office / scale / a "lose the weight" note, deflated | 2B hook | NEW ★hook |
+| LN-RITUAL | lifting the fold, dabbing dry, smoothing on cream | 2B·2 | NEW |
+| LN-CABINET | staring at a cabinet of failed products (generic, not ours) | 2B·3 | NEW |
+| LN-COOKOUT | long sleeves at a hot cookout | 2C·2 | NEW |
+| LN-DECLINE | turning down the pool / stepping back from a hug | 2C·2 | NEW |
+| LN-POOLBAG | at the pool edge with a swim bag ("I went back") | 2C hook | NEW ★hook |
+| LN-APPLY | applying a thin line of ProudFold into a fold | ALL (fix) | NEW · product |
+| LN-TUBE-RELIEF | holding the tube, a relieved exhale | ALL (fix) | NEW · product |
+| LN-POOL-PAYOFF | back in the pool, swimsuit, at ease | 2C·5 | NEW ★payoff |
+| LN-SUNDRESS | sundress, laughing, free | payoff | NEW |
+| LN-HUG | a full, warm hug — no flinch | payoff | NEW |
+| OF-TUBE | ProudFold tube product hero (non-Linda) | ALL | HAVE · product |
+| F2-ADCARD | advertorial "read my story" end-card (non-Linda) | ALL (CTA) | NEW |
+
+**Build:** all LN-* via consistent-character (Higgsfield AI-influencer / locked model) so Linda is identical in
+every scene. Routing → advertorial (end on F2-ADCARD). The combined sheet is now Format-3 only.
