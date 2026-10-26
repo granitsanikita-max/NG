@@ -257,3 +257,84 @@ New by category: **5** science-look (x-section anim + macro, +1 opt) · **12** o
 | 28 | OF-LINE | a thin line applied into a real fold | 3A·9, 3B·5, 3C·5 | NEW |
 | 29 | OF-SEAL | 60-day Keep-It seal/badge | ALL | HAVE |
 | 30 | OF-BUYBOX | offer buy-box ×1/×3/×5 + CTA + wordmark end-card | ALL | HAVE |
+
+---
+---
+
+# ══════ FORMAT 2 — CONFESSION STORYBOARDS (2A / 2B / 2C → ADVERTORIAL) ══════
+> First-person confession, Linda to camera. **Routes to the advertorial** (`/pages/advertorial-lp`), not #pfbb —
+> ends on a "read my story" handoff, NOT a buy-box. Same Linda, same voice, congruent to the advertorial.
+
+## F2 · THE FORMAT (how it differs from the VSLs)
+- **Linda-FORWARD, not B-roll-forward.** She's the ad — large/near-full-frame, intimate, confessional. B-roll
+  cuts in as **emotional recognition inserts** (full-screen 2–3s on a specific line) then back to her face.
+  (The VSLs are B-roll montage with a face-corner; the confessions are the inverse.)
+- **Slower, warmer pacing:** frame-1 hook holds ~1s, body cuts every **2.5–4s** (not the VSL's 1.5s). Payoff
+  can quicken. Intimate hand-held feel, warm grade, soft music.
+- **Caption:** same burned-in word-highlight, terracotta key words — but fewer, softer (it supports her, doesn't
+  carry the ad).
+- **End-card = the advertorial handoff** (`F2-ADCARD`: "Read my story" + the advertorial headline + arrow), not
+  the offer buy-box.
+- **Compliance (COPY §8):** comfort/barrier only; the nurse-friend gives a *second-skin analogy* (not a
+  diagnosis/endorsement); no graphic skin; advertisement + fictional-narrator (composite) disclosure.
+
+### F2 Hook frames (emotional/taboo recognition — the scroll-stop is her first line + the object)
+- **2A → `OB-TISSUE`** (the damp folded tissue under the bra) → cut to Linda. Caption **FOR 12 SUMMERS, I HID THIS.**
+- **2B → `F2-DOCTOR`** (a scale / doctor's note reading "lose the weight") → Linda. Caption **"LOSE THE WEIGHT" / they were both wrong.**
+- **2C → `F2-POOLBAG`** (Linda at the pool edge with a swim bag) → Linda. Caption **TWELVE YEARS. NOBODY KNEW WHY.**
+
+## F2 · STORYBOARD 2A — "Twelve summers, a folded tissue" (~60s)
+| # | In–Out | VO (see SCRIPTS 2A) | Caption | Visual | Cut |
+|---|---|---|---|---|---|
+| 1 | 0:00–0:06 | "For twelve summers, I kept a folded tissue tucked under each breast. Just to get through the day." | **FOR 12 SUMMERS, I HID THIS** | `OB-TISSUE` CU (hold 1s) → `PF-CONFESS` | hold → 3s |
+| 2 | 0:06–0:16 | "By lunch it was paste. A cardigan in July… stood further back in every photo… what is wrong with me?" | *what is wrong with me?* | `F2-CARDIGAN` → `F2-PHOTO` → Linda | 2.5–3s |
+| 3 | 0:16–0:26 | "I was sure it was me. Not clean enough. Showered twice a day, scrubbed raw… carried it 20 years." | *I thought it was me* | `OB-SHOWER` → Linda | 3s |
+| 4 | 0:26–0:36 | "It was never me. It's the fold. Skin folds trap heat & sweat, never dry — rub themselves raw. Friction. I'd spent 20 years ashamed of physics." | **it was never me — it's the fold** | Linda + `F2-FRICTION` insert | 3s |
+| 5 | 0:36–0:48 | "Creams soaked in or dried me out. A nurse friend said: think of it like a second skin. So I found a barrier — skin glides instead of grinds. First summer comfortable." | *not a stronger cream — a barrier* | `OF-TUBE` → `OF-LINE` → Linda relieved | 3–4s |
+| 6 | 0:48–1:00 | "I'm not a doctor — I just lived it. I wrote it all down. If you've hidden a tissue too — it was never you. Read my story." | **it was never you → read my story** | Linda → `F2-ADCARD` | hold |
+
+## F2 · STORYBOARD 2B — "Two doctors told me to lose the weight" (~60s)
+| # | In–Out | VO (see SCRIPTS 2B) | Caption | Visual | Cut |
+|---|---|---|---|---|---|
+| 1 | 0:00–0:07 | "Two doctors looked at the rash where my skin folds and said the same thing. Lose the weight. For 20 years I believed them." | **"LOSE THE WEIGHT" / they were both wrong** | `F2-DOCTOR` (scale/note) → Linda | hold → 3s |
+| 2 | 0:07–0:20 | "So I blamed my body… it's your fault, you're too big… I'd lift the fold, dab it dry, smear on whatever, and pray it held." | *it's your fault, you're too big* | Linda → `F2-DABRITUAL` | 3s |
+| 3 | 0:20–0:33 | "Tried everything. Powders caked to paste. Diaper cream from my grandbaby. An antifungal that stung. Every time it came back — I heard those two doctors again." | *nothing lasted more than a day or two* | `OB-GRAVEYARD` → `OB-PASTE` → Linda | 2.5s |
+| 4 | 0:33–0:45 | "It was never the weight. It's friction. Thin women get it under their arms. New moms get it. It's not your size — it's physics." | **it was never the weight — it's friction** | Linda + `F2-FRICTION` | 3s |
+| 5 | 0:45–0:56 | "A nurse friend said: second skin. So I found a barrier, not another cream. First summer that burn didn't run my life." | *a barrier — skin glides* | `OF-TUBE` → `OF-LINE` → Linda | 3–4s |
+| 6 | 0:56–1:04 | "I'm not a doctor — the two I saw sent me home with the wrong answer for two decades. If a doctor told you to just lose the weight — it was never the weight. Read my story." | **it was never the weight → read my story** | Linda → `F2-ADCARD` | hold |
+
+## F2 · STORYBOARD 2C — "I quit the pool for twelve years" (~60s)
+| # | In–Out | VO (see SCRIPTS 2C) | Caption | Visual | Cut |
+|---|---|---|---|---|---|
+| 1 | 0:00–0:08 | "I quit my water aerobics class twelve years ago. Never told a soul why. This summer, I went back." | **TWELVE YEARS. NOBODY KNEW WHY.** | `F2-POOLBAG` → Linda | hold → 3s |
+| 2 | 0:08–0:22 | "It wasn't vanity. A rash where my skin folds burned by afternoon. So I covered it. Long sleeves at the cookout. Turned down the pool, the beach, the hug that lasts too long. I was just hiding." | *long sleeves at the cookout — so no one would get close* | `F2-COOKOUT` → `F2-DECLINE` → Linda | 2.5–3s |
+| 3 | 0:22–0:32 | "The worst part — I thought it was my fault. Not clean enough, too big… I believed that for 20 years." | *I thought it was my fault* | Linda (quiet) | 3s |
+| 4 | 0:32–0:42 | "It was never me. It's friction. Skin folds, it rubs itself raw. Physics, not a flaw. Any skin would do the same." | **it was never me — it's friction** | Linda + `F2-FRICTION` | 3s |
+| 5 | 0:42–0:54 | "A nurse friend said: second skin. A barrier. And that's how I ended up back in that pool. In a swimsuit. Not hiding, for the first time in twelve years." | *back in the pool — not hiding* | `OF-TUBE`/`OF-LINE` (brief) → `PO-POOL` (Linda in pool) | land on pool |
+| 6 | 0:54–1:04 | "I'm not a doctor — I just lived it. I wrote it all down. If you've been hiding too — it was never you. Read my story." | **it was never you → read my story** | Linda → `F2-ADCARD` | hold |
+
+## F2 · ATOMIC B-ROLL LIST (one clip per row) — tab 2 of the Google Sheet
+**COUNT: 19 clips used · ONLY 9 net-new · 10 reused from the Format-3 library / already have.**
+New-9: PF-CONFESS · F2-CARDIGAN · F2-PHOTO · F2-DABRITUAL · F2-DOCTOR · F2-COOKOUT · F2-DECLINE · F2-POOLBAG · F2-ADCARD.
+
+| Clip ID | Scene | Used in | Status |
+|---|---|---|---|
+| PF-CONFESS | Linda confessing to camera, intimate — the on-screen performance (delivers all VO) | ALL | NEW (1 record, all 3) |
+| F2-CARDIGAN | keeping a cardigan / long sleeves on in July heat, covering up | 2A·2 | NEW |
+| F2-PHOTO | standing at the back / further from the group in a photo | 2A·2 | NEW |
+| F2-DABRITUAL | lifting the fold, dabbing dry with a paper towel, smearing cream | 2B·2 | NEW |
+| F2-DOCTOR | doctor's office / a scale / a note reading "lose the weight" | 2B hook | NEW |
+| F2-COOKOUT | long sleeves at a hot cookout in 90° heat | 2C·2 | NEW |
+| F2-DECLINE | turning down the pool/beach / pulling back from a hug | 2C·2 | NEW |
+| F2-POOLBAG | Linda at the pool edge with a swim bag — "this summer I went back" | 2C hook | NEW |
+| F2-ADCARD | advertorial end-card: "Read my story" + advertorial headline + arrow | ALL (CTA) | NEW (1 asset) |
+| OB-TISSUE | damp folded tissue under a bra band | 2A hook | REUSE (F3) |
+| OB-SHOWER | shower running — scrubbing (thinks it's hygiene) | 2A·3 | REUSE (F3) |
+| OB-GRAVEYARD | failed-product lineup | 2B·3 | REUSE (F3) |
+| OB-PASTE | powder → paste in a fold | 2B·3 | REUSE (F3) |
+| F2-FRICTION | simple warm friction/fold insert (confession-light) | 2A·4, 2B·4, 2C·4 | REUSE (SL-GRIND-MACRO / SL-XSEC) |
+| OF-TUBE | ProudFold tube hero | ALL | HAVE |
+| OF-LINE | thin line applied into a fold | ALL | REUSE (F3) |
+| PO-POOL | Linda back in the pool, at ease (2C payoff) | 2C·5 | REUSE (F3) |
+| PO-SUNDRESS | sundress, at ease (optional payoff) | payoff | REUSE (F3) |
+| PO-HUG | a close, full hug (optional payoff) | payoff | REUSE (F3) |
