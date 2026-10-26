@@ -305,3 +305,145 @@ Same belief family (B1 de-shame) but a **different emotional door** (self-blame/
 
 ### VERDICT
 Ready to produce as v1. Lowest-risk **authority** play of the three (animation = nothing to cast or prove) and the **purest de-shame install.** Routes to offer page. Next: await Nikita's read, then run 3C's full process from scratch.
+
+---
+
+# SCRIPT 3C — Peer-Expert Mechanism VSL · "This isn't new — it's the oldest fix, buried"
+Format 3, Variant C. **Third door:** 3A = failure-stack → *vindication*; 3B = self-blame → *absolution*;
+3C = resignation/cynicism → **curiosity / "aha."** Maps to the **238-day "here's why" curiosity reveal**
+(longest-runner in the whole sweep). Built on the **Storytelling Open-Loop / Authority** spine + **Curiosity
+& Secrets** hooks. The hero beat = the *baby-cream contrast* (Sugarman linking: tie the unknown to the known).
+
+## ② GOAL + TARGET
+
+### Avatar — "Dawn," entered at RESIGNATION
+- **Demographic:** same — woman 45–62, plus-size/big-busted, US, FB.
+- **Experiences:** same history, but she's reached a verdict: *"maybe there just is no answer — this is my life."* Scrolls past "miracle cream" ads cynically.
+- **Behaviors:** stopped actively hunting; numb to new products.
+- **Emotions:** **resignation / cynicism** → curiosity (the hook cracks it) → intrigue → **hope + a flash of indignation** at the enemy (an industry that buried the simple answer).
+
+### Core desire — the "why?" chain
+Understand why nothing works / find the real answer → stop the rash → feel clean, not broken → **dignity** (same bottom as 3A/3B). 3C's *proximate* desire = **the truth + the relief that it's not hopeless and not her fault.**
+
+### Angle + emotion
+- **Angle:** attack the **"there's no real fix" resignation** → *"there IS one — the oldest, simplest fix there is — and it got buried under an aisle built to chase the rash."*
+- **Emotion:** **curiosity → aha-relief + empowerment**, a flash of indignation at the common enemy. Valence cynical→positive; intensity medium (curiosity = a strong HOLD lever + "did-you-know" shareability). Uniquely, curiosity also pulls slightly **colder / less-desperate** viewers → audience expansion.
+
+## DIALS + FUNNEL
+- **Awareness → entry:** problem/solution-aware but **RESIGNED** → enter on a **curiosity gap** ("why nothing works — and it's not what you think") → educate → mechanism. (Curiosity also reaches the colder edge of the audience.)
+- **Sophistication → Stage 4→5:** the **oldest, most-proven fix** = Stage-4 "more-proven mechanism" taken to its limit (proven for a century) **+** a Stage-5 **own-the-original-category** move ("a barrier isn't a new gimmick — it's the original skincare; we just forgot it for the fold").
+- **Funnel move:** cold/resigned stranger → believes *there's a real, simple, old fix that was just buried* → clicks to **offer page (#pfbb).**
+
+## THE 3 MODIFIERS
+- **Belief-change depth:** the belief to flip is **"nothing works / there's no answer"** (resignation) — deep; done via the curiosity reveal + the **undeniable baby-cream contrast** (makes it obvious). Price moderate.
+- **Iceberg/identity:** can run a touch more intellectual than 3B, but still closes on identity ("finally made for the fold / for me"). Belief-led, identity close.
+- **Length/story arc:** ~85s (curiosity/open-loop needs room). **Nested loops**, **product enters LAST** (Storytelling-structure core rule).
+
+## ③ DECIDE — pulled from the swipe file
+- **Format:** Peer-Expert **Mechanism VSL (curiosity-reveal variant)** — VO over a *then-vs-now* montage (vintage balm → modern cream aisle) + baby-cream contrast + mechanism animation + tube. Same locked voice, **storyteller/educator** register.
+- **Hook format:** **Curiosity & Secrets** ("here's the part nobody tells you… it's not what you think" / "the fix isn't new — you've already used it").
+- **Structure:** **Storytelling Open-Loop / Authority** (adapted) — curiosity hook + open loop → tease + contrast → **"But" pivot = the baby-cream reveal** → remove blame + common enemy → close loop 1 → **"So" rehook = product last** → payoff → soft CTA. **Deviation (logged):** compressed from the full 16-beat 3-min+ VSL to ~85s, keeping open-loop discipline (never close a loop without opening another), **product-last**, facts-not-opinions, common-enemy, remove-blame, "But/So" rehooks.
+- **Sanity check:** solution-aware + curiosity → educational / us-vs-them + mechanism (+ the unaware-edge "educational/curiosity" lean). ✅
+
+## ④ EXECUTION FUNDAMENTALS (written in)
+- **Authority = FACTS as facts + outside authority** = the century-old, universally-trusted practice of **barrier-protecting a baby's skin** (a "tribe/practice" everyone already believes). **No fake credential.**
+- **Positioning:** Stage-4/5 "the oldest, most-proven fix, finally made for the fold."
+- **Speed to value:** the curiosity gap + "it's not what you think" + "you've already used it" by ~5s.
+- **Clarity:** 5th–8th grade; the picture-able proof = **baby cream = a barrier.**
+- **Value lens:** ease — "the simplest idea there is."
+- **Delivery:** warm storyteller energy ("let me tell you something"); word-by-word captions; then-vs-now cuts.
+
+## ⑤ TECHNIQUES (picked)
+- **Hook:** Curiosity & Secrets overlay + "it's not what you think" **open loop** + scroll-stopper **juxtaposition** (vintage balm tin vs a modern wall of creams).
+- **Open-loop discipline:** keep ≥1 loop open to the end; **product LAST** (Storytelling core rule).
+- **Linking (Sugarman):** tie the unknown (ProudFold barrier) to the **known** (baby cream/diaper paste — a barrier everyone already trusts). Positive link.
+- **Common enemy + remove blame:** enemy = the modern cream aisle built to *chase* the rash (and that forgot the simple barrier); blame lifted = "the simple fix got buried — it was never that you didn't try hard enough."
+- **Facts over opinions · micro-commitments ("you already know this works — you've used it on a baby") · sell-the-cure.**
+- **UMP→UMS** woven: UMP = friction / fold never dries; UMS = the barrier (the old fix), made for the fold.
+- **Soft CTA** (never salesy) → offer page.
+
+## HOOK → OFFER CARRY
+curiosity "why nothing works — not what you think, and you've already used the fix" (stop + loop 1) → "two generations ago this was rarer; the drugstore filled with creams that chase the rash" (tease + enemy, loop 2) → **"But" — we've always barrier-protected a baby's skin; we just stopped for ours** (the reveal begins) → it's a barrier; nobody makes one for the fold (loop 1 closes, blame lifted) → **"So" — that's ProudFold: the barrier, made for the fold** (product enters last) → thin line, skin glides, the fold gets a break (mechanism/payoff) → "the oldest fix, made new for you → tap" (soft CTA → offer). Curiosity holds the whole way; the product lands as the obvious conclusion, never a pitch.
+
+## 🎬 THE SCRIPT  (~85s · vertical 9:16 · VO storyteller = same locked voice · then-vs-now montage) → offer page #pfbb
+
+**[0:00–0:05] HOOK** *(curiosity + open loop)*
+- VO: "Here's the part about the rash where your skin folds that nobody tells you. It's not a new problem — and the thing that actually fixes it isn't new either. In fact, you've probably already used it. Just not where it counts."
+- CAPTION: **the fix isn't new — and you've already used it**
+- VISUAL: juxtaposition — an old tin of balm → a modern wall of drugstore creams.
+
+**[0:05–0:18] TEASE + CONTRAST** *(educate, loop stays open)*
+- VO: "The kind of raw, rubbed-together fold most women just live with is more common now than it's ever been. We sit more. We sweat under synthetic clothes. Summers run hotter — the fold gets more chances to rub. So the drugstore filled up with creams that promise to calm it, dry it, medicate it. A whole aisle — all built to chase the rash *after* it starts."
+- CAPTION: *an entire aisle — built to chase the rash*
+- VISUAL: tasteful, neutral modern-life montage (sitting, synthetic clothes, heat — NO body-shaming) → the cream aisle.
+
+**[0:18–0:30] THE REVEAL — baby cream = a barrier** *("But" pivot)*
+- VO: "But here's what we somehow forgot. There's one kind of skin we've always known how to protect from rubbing and wetness — a baby's. We don't medicate a baby's fold. We put a *barrier* on it — a thick balm that just sits there and keeps skin from rubbing raw. We've done it for a hundred years, without thinking."
+- CAPTION: *a baby's skin? we barrier it. — we just stopped doing it for ours.*
+- VISUAL: baby-cream / diaper-paste imagery → the mechanism animation (a barrier film between two surfaces).
+
+**[0:30–0:42] REMOVE BLAME + CLOSE LOOP 1 (common enemy)**
+- VO: "So if nothing's worked for you, it was never that you didn't try hard enough. The simple fix just got buried — because there's no money in telling a grown woman the answer is a plain barrier, not a fancier cream. Almost nobody makes one for the fold."
+- CAPTION: **it was never you — the simple fix got buried**
+- VISUAL: the forgotten tin; the busy cream aisle (the enemy).
+
+**[0:42–0:56] PRODUCT ENTERS (last)** *("So" rehook)*
+- VO: "So that's the whole idea behind ProudFold. It's not a stronger cream. It's a comfort barrier, made for the fold — it sits like a second skin, so skin glides instead of grinds. It doesn't soak in. It doesn't dry you out. It stays, and it stops the rub. The oldest idea in skincare — finally made for the one place everyone forgot."
+- CAPTION: **the oldest fix — finally made for the fold**
+- VISUAL: the tube; a thin line applied in a fold; animation glide → calm.
+
+**[0:56–1:08] PAYOFF**
+- VO: "A thin line in the morning. By noon — no paste, no stinging, no checking. You stop planning your day around your skin. Because the answer was never a miracle. It was the simplest thing — brought back."
+- CAPTION: *no paste. no stinging. no checking.*
+- VISUAL: dignified plus-size women, payoff montage.
+
+**[1:08–1:16] TRUST + SOFT CTA → offer**
+- VO: "Water-based, ships from the US, with a 60-day keep-it guarantee — so trying it costs you nothing but a rash you've had long enough. If your skin folds and rubs, go see the oldest fix, made new for you."
+- CAPTION: **made for the fold → tap to see it**
+- VISUAL: tube + 60-day seal + offer buy-box + CTA.
+- **CTA DESTINATION:** offer page — homepage #pfbb.
+
+## ⑥ CHIEF — heavy review
+
+### Fundamentals checklist (⑥)
+- [x] **Right awareness** — curiosity entry for a resigned problem/solution-aware viewer → mechanism; no level-mixing.
+- [x] **Positioning = sophistication** — Stage-4/5 "oldest, most-proven fix / original category."
+- [x] **Value in ~5s** — the curiosity gap + "you've already used the fix."
+- [x] **Hook has a bridge** — the open loop + "it's not what you think."
+- [x] **5th–8th grade** — one picture-able proof (baby cream).
+- [x] **Belief-change depth fits** — deep (flips "nothing works"), carried by the undeniable baby-cream contrast.
+- [x] **Anticipation used** — multiple nested loops; product enters last (structure core rule).
+- [x] **Tier-1 present** — avatar ✓ core desire (truth→dignity) ✓ angle (resignation→the buried fix) ✓ emotion (curiosity→aha) ✓ authority (facts + the baby-cream practice, NO credential) ✓ positioning ✓.
+- [x] **Honest — flaw raised & flipped** — honest con built in ("not a stronger cream… doesn't soak in… doesn't dry you out, it stays"); no fake authority.
+- [x] **Offer + CTA unmistakable** — soft but clear → offer page (#pfbb).
+- [x] **Word-craft** — warm storyteller cadence; "But/So" rehooks land on the beat.
+
+### Compliance red-line pass
+- ✅ No fungal/yeast/antifungal/cure/heal/treat. Problem = friction + trapped moisture.
+- ✅ **No body-shaming** — the "more common now" cause is framed as *environment/lifestyle* (sitting, synthetic clothes, heat), NEVER "bigger bodies / it's your weight." Macro/societal only.
+- ✅ **The "more common than ever" line is a general observation, not a cited statistic** — kept qualitative/defensible; do NOT add a fabricated number.
+- ✅ Baby-cream/zinc/balm referenced as **general skincare history** (the barrier *category*), not a ProudFold ingredient claim — ProudFold stays "a comfort barrier" (mineral oil/glycerin), not "a zinc cream."
+- ✅ Mechanism = barrier / second skin / glides / stays / "doesn't dry you out." No cure.
+- ✅ Common-enemy line ("no money in telling a woman the answer is a plain barrier") = rhetoric on the customer's side, not a product/medical claim.
+- ✅ No fabricated proof — honest trust + guarantee only.
+- ⚠️ **FTC:** composite narrator → the **ad** carries the advertisement + fictional-narrator note (COPY §8).
+
+### Claim-swap log (borrowed the Storytelling Open-Loop container — logged the swaps)
+- Template *"AUTHORITY #2 = outside tribe"* + *"crazy fact (cocoa 40× antioxidants)"* → **ours:** outside authority = the century-old practice of **barrier-protecting babies' skin**; our "fact" = "we barrier a baby's skin, we stopped for the fold" (true, picture-able, **no fabricated stat**).
+- Template *full 16-beat 3-min+ VSL* → **ours:** compressed to ~85s, open-loop discipline + product-last kept. *[deviation logged]*
+- Any medical/historical "ancient cure" framing → **ours:** "the oldest *comfort barrier* idea," never a cure.
+
+### Read-back as Dawn
+She's stopped believing there's an answer. "Here's what nobody tells you… you've already used the fix" cracks the cynicism (curiosity + the promise of the *real* reason). "A whole aisle built to chase the rash" names why she's been failed — and it's not her. Then the **baby-cream contrast** is the aha: *of course — we barrier a baby's skin; it obviously works; we just forgot to do it for the fold.* Undeniable, and it makes her feel smart. "The simple fix got buried" lifts the blame + gives her a villain. ProudFold lands as the obvious conclusion, not a pitch. She taps out of curiosity-turned-hope. ✅
+
+### Hook PASS test (sound-off)
+Frame 1 = vintage balm tin vs a wall of modern creams + **"the fix isn't new — and you've already used it."** A resigned scroller stops on the curiosity gap + the then-vs-now visual. ✅ (Alt if weak: open on the baby-cream shot + "we do THIS for a baby's skin — not for yours. here's why.")
+
+### 3C vs 3A vs 3B — three clean doors
+3A frustration→**vindication** (Belief-Changework story, montage) · 3B shame→**absolution** (Restural animation belief-flip, faceless) · 3C resignation→**curiosity/aha** (Storytelling open-loop, then-vs-now + baby-cream reveal, product-last). Three emotional doors × three structures × three visual systems → a clean test; 3C additionally reaches the **colder/less-desperate edge** of the audience.
+
+### Open production dependencies
+1. **Then-vs-now montage** — vintage balm tin + modern cream aisle. 2. **Baby-cream / diaper-paste** stock. 3. Neutral modern-life B-roll (NO body-shaming). 4. Mechanism animation (barrier between surfaces). 5. Payoff lifestyle B-roll. 6. **Same locked voice**, storyteller register. 7. Caption system. 8. Tube + seal + offer end-card. 9. FTC/fictional-narrator disclosure.
+
+### VERDICT
+Ready to produce as v1. The **widest-reach** variant (curiosity pulls colder viewers) and the most *shareable* ("did-you-know"); its baby-cream contrast is the single most persuasive compliant proof we have. Routes to offer page. **Format 3 is complete (3A/3B/3C).** Next: Format 2 (Confession) — and per Nikita, FIRST pull the live advertorial copy and make the confession scripts congruent with it (same reviewer, same beats).
