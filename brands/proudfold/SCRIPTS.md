@@ -30,7 +30,7 @@ Stop the rash/chafe → *why?* get through a hot day without stinging + checking
 
 - **Awareness → entry:** **Solution-aware** (she's tried solutions; wants what works + who to trust). We ENTER on the **failure-stack** (problem-aware recognition — "you've tried everything") to earn the stop, then flip immediately to the **mechanism** (solution-aware). That pivot is the whole hook.
 - **Sophistication → positioning:** **Stage 4 (mechanism war).** The feed is saturated with *complex* mechanisms — "it's a fungal/bacterial 3-cause cycle, attack it with 6 actives" (Veloma/Lupina/Clairon). Stage-4 play per the playbook = **easier / more-proven mechanism.** Ours: reject the complexity. **One simple, century-old, proven fix — a barrier that stops skin grinding on skin.** Simpler than their biofilm story and more proven (barrier/occlusive protection is as old as zinc and diaper cream). A touch of Stage-5 category ownership rides on top: *"the first cream actually built for the fold."*
-- **Funnel move:** cold FB stranger (scroll) **→** believes *it's a wrong-tool problem, and the simple barrier is the fix* **→** clicks to the **advertorial** (→ PDP). Ad → advertorial → PDP.
+- **Funnel move:** cold FB stranger (scroll) **→** believes *it's a wrong-tool problem, and the simple barrier is the fix* **→** clicks to the **OFFER page** = the homepage deep-linked to the offer section **#pfbb**. **Ad → offer page** (NO advertorial bridge — the VSL *is* the pre-sell; the page below #pfbb closes with reviews → comparison → guarantee → FAQ). *(VSLs → offer page; the confession/skit → advertorial.)*
 
 ## THE 3 MODIFIERS
 - **Belief-change depth = skepticism × price.** Skepticism HIGH (burned, "tried everything," scam-wary); price moderate ($29.95–94.95). → **deep flip required:** dismantle "another cream won't work" by explaining *why every other thing failed* (category reframe) + why this is categorically different (barrier, not a rash-chaser) + strip the scam risk (US-ship, no-sub, keep-it guarantee).
@@ -53,16 +53,17 @@ Stop the rash/chafe → *why?* get through a hot day without stinging + checking
 
 ## ⑤ TECHNIQUES (picked for THIS ad)
 - **Hook (first 3s):** text-overlay **Hook Builder** ("IT WAS NEVER YOU") + spoken failure-stack + scroll-stopper visual (the failed-product lineup + the folded-tissue-under-the-bra reveal = the *car-crash*, and it has a reason — it raises "why did none of it work?"). **Hook Bridge = warning/tease** ("the reason nothing worked isn't a better cream") + **qualifier hook** ("if you've folded a tissue under your bust just to get through a hot day…").
-- **Open loop:** "the REAL reason every cream failed" opens at 0s → paid off at the mechanism beat (~36–52s); fully closed on the LP.
+- **Open loop:** "the REAL reason every cream failed" opens at 0s → paid off at the mechanism beat (~36–52s); fully closed inside the ad (no bridge — it ends ON the fix).
 - **Story ladder:** Reporter (facts) → Illusionist (the loop + the twist) → Champion (name the exact person: the tissue-under-the-bust woman) → Architect (arc + loop open/close).
 - **Body:** **UMP→UMS split** — *UMP (problem mechanism):* friction + trapped moisture; skin grinds on skin, the fold never dries. *UMS (solution mechanism):* an **occlusive barrier "second skin"** that lets skin **glide instead of grind**, stays put, doesn't soak in or dry you out. **Facts over opinions** throughout. **Micro-commitments** ("if the powder turns to paste by noon, this is for you"). **Sell the cure** (promise the fix for the pain she feels NOW). **Involvement/ownership** (narrate the feel of a thin line going on).
 - **Common enemy + remove blame:** enemy = creams *borrowed for a fold they were never built for* + the "it's complicated" lie; blame removed = *"it was never your hygiene, never your body — it's friction."*
-- **Offer/CTA:** tease (free US shipping · 2 free guides · 60-day keep-it) → ONE CTA to the advertorial.
+- **Offer/CTA:** tease (free US shipping · 2 free guides · 60-day keep-it) → ONE direct CTA to the **offer page (#pfbb)** ("grab your tube").
 
 ## HOOK → OFFER CARRY (the throughline — every scene re-hooks)
-IT-WASN'T-YOU (stop) → *why did it all fail?* (loop) → the fold never dries / skin grinds (facts) → your fix made it worse (twist) → it's the wrong tool, not you (blame lifted) → so I looked for the opposite: a barrier (loop paid off = the belief flips) → a thin line, and by noon nothing (feature→payoff) → honest + safe to try (trust/scam-strip) → "built for the fold — tap to read more" (CTA). The **belief flip (wrong tool, not you)** is installed by ~35s and every later beat compounds it toward the click.
+IT-WASN'T-YOU (stop) → *why did it all fail?* (loop) → the fold never dries / skin grinds (facts) → your fix made it worse (twist) → it's the wrong tool, not you (blame lifted) → so I looked for the opposite: a barrier (loop paid off = the belief flips) → a thin line, and by noon nothing (feature→payoff) → honest + safe to try (trust/scam-strip) → "built for the fold — grab your tube" (CTA → offer page). **Because there's no advertorial bridge, the VSL must fully close itself** — and it does: the mechanism flips the belief, the trust beat strips the scam fear, and the offer page (reviews → comparison → guarantee → FAQ, right under #pfbb) finishes price + proof. The **belief flip (wrong tool, not you)** is installed by ~35s and every later beat compounds it toward the click.
 
-## 🎬 THE SCRIPT  (~85s · vertical 9:16 · caption-driven · peer-expert VO, warm woman ~50s)
+## 🎬 THE SCRIPT  (~85s · vertical 9:16 · caption-driven)
+**Narrator = the LOCKED brand reviewer** — plus-size woman ~50 (brand model `00_brand_model` / HF `c77e8935`), one voice, **the same woman across the whole funnel** (advertorial reviewer + confession narrator + a skit friend + the VSL voice). Name TBD (working: "Linda") — finalized at Format 2 where she feeds the advertorial. Composite narrator → ad carries the fictional-narrator disclosure.
 Format: VO over a fast-cut montage (real-skin application B-roll, mechanism animation, powder-to-paste demo, payoff lifestyle, tube + offer). Captions burned in, word-highlighted, key words in terracotta. Cuts every 2–4s.
 
 **[0:00–0:04] HOOK** — *flip the belief*
@@ -106,10 +107,10 @@ Format: VO over a fast-cut montage (real-skin application B-roll, mechanism anim
 - VISUAL: tube in hand, label close-up, the terracotta 60-day Keep-It seal.
 
 **[1:16–1:25] CTA + OFFER**
-- VO: "If your skin folds and rubs, this was made for you. Tap below, read the full story, and see if it's still in stock. Hiding through the summer is long enough."
-- CAPTION: **made for the fold → tap to read more**
-- VISUAL: tube + a glimpse of the advertorial headline + CTA button; end on the wordmark.
-- **CTA DESTINATION:** advertorial → PDP.
+- VO: "If your skin folds and rubs, this was made for you. Tap below, grab your tube, and see if it's still in stock. Hiding through the summer is long enough."
+- CAPTION: **made for the fold → tap to get yours**
+- VISUAL: tube + the offer buy-box (×1 / ×3 / ×5) + CTA button; end on the wordmark.
+- **CTA DESTINATION:** the **offer page** — homepage deep-linked to **#pfbb** (buy box). Offer + 60-day guarantee + FAQ close on the page.
 
 ---
 
@@ -125,7 +126,7 @@ Format: VO over a fast-cut montage (real-skin application B-roll, mechanism anim
 - [x] **Anticipation used (length calls for it)** — one clean open loop, paid off at the mechanism beat.
 - [x] **Tier-1 present** — avatar ✓ core desire (dignity) ✓ angle (wrong tool) ✓ emotion (vindication) ✓ authority (facts + lived experience, NO fake credential) ✓ positioning ✓.
 - [x] **Honest — obvious flaw raised & flipped** — the honest con is built in: "it doesn't soak in, it doesn't dry you out, it *stays* a cream" (pre-empts "too thick/greasy/won't dry"), and "I'm not a doctor."
-- [x] **Offer + CTA unmistakable** — one ask → advertorial; offer teased, not dumped.
+- [x] **Offer + CTA unmistakable** — one ask → the **offer page (#pfbb)**: "grab your tube"; price/guarantee/FAQ close on the page below. (Re-checked for the routing change — the VSL fully closes itself, so no bridge is needed.)
 - [x] **Word-craft** — tighten on the record pass; keep contractions + spoken rhythm.
 
 ### Compliance red-line pass (every claim) — comfort/barrier lane
@@ -136,7 +137,7 @@ Format: VO over a fast-cut montage (real-skin application B-roll, mechanism anim
 - ✅ No fake authority — peer lived-experience + "I'm not a doctor." No nurse/derm/"recommended by".
 - ✅ No fabricated proof — new store, so NO review counts / "15,000 women" / "cleared it." Trust = honest signals + keep-it guarantee only.
 - ✅ Visuals: NO raw-rash "clearing up" / before-after healing. Allowed: application on a fold, friction-redness→calm at most, lifestyle payoff. Mechanism = illustrative animation, not real pathology.
-- ⚠️ **FTC disclosure:** VO is a composite peer narrator → the ad/LP needs the standard "advertisement" + fictional-narrator note (footer), consistent with COPY §8. Flag for the build.
+- ⚠️ **FTC disclosure:** VO is a composite peer narrator → the **ad** carries the "advertisement" + fictional-narrator note, consistent with COPY §8. (The offer page already carries the cosmetic disclaimer.) Flag for the build.
 
 ### Claim-swap log (borrowed the Lupina container — logged the swaps)
 - Lupina *"tried the antifungal… fungal + bacterial overgrowth"* → **ours:** "tried the powder/diaper cream/prescription… it's friction + trapped moisture."
@@ -153,8 +154,8 @@ First 3s she sees her own graveyard of failed products + "it was never you" → 
 Frame 1 is a failed-product lineup + **IT WAS NEVER YOU**; by 0:03 the tissue-under-the-bra. A stranger scrolling muted stops on the recognition + the taboo object. ✅ Passes. (If hold-rate is weak, it's the hook — test an alt opening visual: the folded tissue FIRST, before the product lineup.)
 
 ### Open production dependencies (hand to storyboarding/creation)
-1. **Mechanism animation** — grind→barrier→glide (reuse mech_xsec_grind/film/glide frames; needs the barrier-slide + heat-fade motion). 2. **Powder-to-paste demo** clip. 3. **Payoff lifestyle B-roll** — dignified plus-size women (AI-UGC). 4. **Peer-narrator VO + on-cam** (AI-UGC woman ~50s; warm, real, "I'm not a doctor"). 5. **Caption system** — word-highlight, terracotta key words (CapCut-style). 6. **Tube + 60-day seal + advertorial end-card.** 7. **FTC footer** on the LP.
+1. **Mechanism animation** — grind→barrier→glide (reuse mech_xsec_grind/film/glide frames; needs the barrier-slide + heat-fade motion). 2. **Powder-to-paste demo** clip. 3. **Payoff lifestyle B-roll** — dignified plus-size women (AI-UGC). 4. **Peer-narrator VO + on-cam** (AI-UGC woman ~50s; warm, real, "I'm not a doctor"). 5. **Caption system** — word-highlight, terracotta key words (CapCut-style). 6. **Tube + 60-day seal + offer/buy-box end-card.** 7. **FTC + fictional-narrator disclosure** on the ad.
 Open question for Nikita: VO-only over montage, or a real on-camera peer face for the bridge/CTA? (On-camera lifts trust; AI-UGC face is fine for v1.)
 
 ### VERDICT
-Ready to produce as v1. Strongest lever = the Stage-4 *easier-mechanism* flip (barrier vs complexity) fused to the de-shame vindication — both proven and both fully ours to claim. Next: await Nikita's read, then 3B.
+Ready to produce as v1. **Routing locked: VSL → offer page (#pfbb).** Strongest lever = the Stage-4 *easier-mechanism* flip (barrier vs complexity) fused to the de-shame vindication — both proven and both fully ours to claim. Narrator = the single locked brand reviewer. Next: await Nikita's read, then run 3B's full process from scratch.
