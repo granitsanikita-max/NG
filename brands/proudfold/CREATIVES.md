@@ -121,3 +121,8 @@ LINDA `99e1caa5-a7dd-4892-8ee8-3621901c21ce` · bathroom `a0417295-f627-4066-a47
 cabinet `4c651935-f1c3-46d5-ba03-ce119ca7b763` · cookout `08136360-b282-4b31-9ff0-1fb113c3f445` ·
 clinic `826f20f3-3717-47a0-b48e-0118ee82ab26` · tube `de612154-95f1-427a-a6af-df2ce8fab2c6`
 (pool ref `34718b85…` was auto-flagged NSFW — pool scenes were prompted without it.)
+
+### Apply-scene options (pick the hero)
+- **LN-APPLY-FOLD** (recommended hero) — her applying to her own lower-belly fold, clean healthy skin, modest: `hf_20261026_104731_a4b5f756-dfb1-4cbf-8a60-621914c7a4be.png`
+- LN-APPLY (forearm macro, two-hand fixed): `hf_20261026_104433_710b947c-67e4-4c8a-ba42-191729c4c2f3.png`
+**COMPLIANCE LOCK:** application scenes show CLEAN, healthy skin only. NO rash / red / broken skin in any ad or site image (implied-cure = Meta ban + breaks the comfort/barrier positioning). Copy stays comfort/barrier — no change needed.
