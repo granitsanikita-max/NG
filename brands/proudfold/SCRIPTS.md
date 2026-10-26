@@ -68,7 +68,7 @@ Format: VO over a fast-cut montage (real-skin application B-roll, mechanism anim
 
 **[0:00–0:04] HOOK** — *flip the belief*
 - VO: "Tried the powder. The diaper cream. The prescription. And the rash where your skin folds *still* comes back by noon."
-- CAPTION: **IT WAS NEVER YOU**
+- CAPTION (2 lines — qualifier + driver): **TRIED EVERYTHING** // **IT WAS NEVER YOU**
 - VISUAL: fast cuts — a hand pointing down a lineup of failed products on a counter (powder, baby cream, a tube); a **folded tissue pulled out from under a bra**; a red ✗ drops over the lineup.
 
 **[0:04–0:12] BRIDGE** — *qualifier + tease + peer reveal*
@@ -223,11 +223,11 @@ Stop the rash → feel clean / not gross → stop being ashamed of my own body �
 
 **[0:00–0:04] HOOK / BLAME-FLIP** *(visual pattern-interrupt)*
 - VO (warm): "If you've ever thought you were just… not clean enough — stop. It was never you."
-- CAPTION: **IF YOU THINK YOU'RE "JUST NOT CLEAN ENOUGH" — STOP**
+- CAPTION (2 lines): **"NOT CLEAN ENOUGH"** // **IT WAS NEVER YOU**
 - VISUAL: a glowing, premium cross-section of a skin fold (warm tones) — reads as *science*, no logo, no face.
 
-**[0:04–0:14] MECHANISM SETUP** *(the fact)*
-- VO: "The rash where your skin folds isn't a hygiene problem. It's a physics problem. A fold presses skin against skin and traps heat and sweat where the air can't reach — so it never dries. Picture the inside of a folded towel that never gets to air out."
+**[0:04–0:14] BRIDGE + MECHANISM SETUP** *(tease → the fact)*
+- VO: "And once you see what's really going on, you'll never call yourself dirty again. The rash where your skin folds isn't a hygiene problem — it's a physics problem. A fold presses skin against skin and traps heat and sweat where the air can't reach — so it never dries. Picture the inside of a folded towel that never gets to air out."
 - CAPTION: *it's not hygiene — it's a fold that never dries*
 - VISUAL: animation — surfaces press together, heat/moisture trapped; the folded-towel analogy.
 
@@ -368,12 +368,12 @@ curiosity "why nothing works — not what you think, and you've already used the
 ## 🎬 THE SCRIPT  (~85s · vertical 9:16 · VO storyteller = same locked voice · then-vs-now montage) → offer page #pfbb
 
 **[0:00–0:05] HOOK** *(curiosity + open loop)*
-- VO: "Here's the part about the rash where your skin folds that nobody tells you. It's not a new problem — and the thing that actually fixes it isn't new either. In fact, you've probably already used it. Just not where it counts."
-- CAPTION: **the fix isn't new — and you've already used it**
+- VO: "The fix for the rash where your skin folds isn't new. You've already used it — just not where it counts."
+- CAPTION (2 lines): **THE FIX ISN'T NEW** // **YOU'VE ALREADY USED IT**
 - VISUAL: juxtaposition — an old tin of balm → a modern wall of drugstore creams.
 
 **[0:05–0:18] TEASE + CONTRAST** *(educate, loop stays open)*
-- VO: "The kind of raw, rubbed-together fold most women just live with is more common now than it's ever been. We sit more. We sweat under synthetic clothes. Summers run hotter — the fold gets more chances to rub. So the drugstore filled up with creams that promise to calm it, dry it, medicate it. A whole aisle — all built to chase the rash *after* it starts."
+- VO: "Here's the part nobody tells you. The kind of raw, rubbed-together fold most women just live with is more common now than it's ever been. We sit more. We sweat under synthetic clothes. Summers run hotter — the fold gets more chances to rub. So the drugstore filled up with creams that promise to calm it, dry it, medicate it. A whole aisle — all built to chase the rash *after* it starts."
 - CAPTION: *an entire aisle — built to chase the rash*
 - VISUAL: tasteful, neutral modern-life montage (sitting, synthetic clothes, heat — NO body-shaming) → the cream aisle.
 
