@@ -343,3 +343,79 @@ New by category: **5** science-look (x-section anim + macro, +1 opt) · **12** o
 
 **Build:** all LN-* via consistent-character (Higgsfield AI-influencer / locked model) so Linda is identical in
 every scene. Routing → advertorial (end on F2-ADCARD). The combined sheet is now Format-3 only.
+
+---
+---
+
+# ══════ FORMAT 3 — VSL VO SCRIPTS + ON-SCREEN EDIT MAPS ══════
+> VO = the Format-3 avatar (NOT Linda). One voice across 3A/3B/3C. Routes to OFFER page (#pfbb).
+> HER POSITION legend: [BL]=bottom-left corner · [BR]=bottom-right corner · [C]=center-lower · [FULL]=full frame.
+> Gesture: talk-to-cam · point-up (at B-roll) · point-down (at CTA/product) · point-side · open/relieved · hand-to-chest.
+> NOTE: if her talking-head clip has real gestures, time them to these beats; if it's just talking, keep her in a
+> rotating corner + add animated arrows from her toward the B-roll + caption emphasis to create the "pointing."
+
+## 3A — VO (paste into ElevenLabs)
+Tried the powder. The diaper cream. The prescription. And the rash where your skin folds still comes back by noon.
+If you've ever folded a tissue under your bust just to get through a hot day — give me twenty seconds. Because I did all of this too. For twenty years. I'm not a doctor. I just finally figured out why none of it worked.
+Here's the part nobody tells you. A skin fold traps heat and moisture — so skin rubs on skin, all day, and it never gets to dry. That rubbing is the problem. Powders cake into paste. Creams soak in and leave it wet. The medicated ones chase the rash. Not one of them stops the rub.
+So the thing you reached for to calm it kept the fold wet — or rubbed it raw. Three days later, you're right back where you started. It's not that you didn't try hard enough. You tried the wrong tool.
+It was never your hygiene. It was never your body. Those creams were built for babies' bottoms and runners' feet — borrowed for a fold they were never made for. That's the real reason.
+So I stopped hunting for a stronger cream — and looked for the opposite. A barrier. ProudFold is a comfort barrier cream made for one job: it sits in the fold like a second skin, so skin glides instead of grinds. It doesn't soak in. It doesn't dry you out. It stays — so the rubbing stops, and the fold finally gets a break. It's the simplest fix there is. It's just the first one actually built for the fold.
+A thin line in the morning. By noon — no paste. No checking. No stinging. You get dressed without bracing for it. You stop packing powder in your bag. You stop planning your whole day around your skin.
+It's water-based, fragrance-light, made in small honest batches. No forced subscription. It ships from the US — and if it's not for you, keep the tube. You've got sixty days.
+If your skin folds and rubs, this was made for you. Tap below, grab your tube, and see if it's still in stock. Hiding through the summer is long enough.
+
+### 3A — edit map
+| # | Time | B-roll on screen | HER | Caption |
+|---|---|---|---|---|
+| 1 | 0:00–0:04 | tissue-pull → failed-product graveyard (fast) | [BR] small, talking + dismissive wave | TRIED EVERYTHING / IT WAS NEVER YOU |
+| 2 | 0:04–0:12 | PF-LIFE (fanning) → her | [C] larger, talk-to-cam, hand-to-chest | the real reason nothing worked → |
+| 3 | 0:12–0:24 | SL-XSEC-TRAP → GRIND → powder-to-paste | [BL] POINT-UP at the animation | the fold never dries |
+| 4 | 0:24–0:32 | calendar flip + friction macro | [BR] point + head-shake | the fix was making it worse |
+| 5 | 0:32–0:40 | OB-BORROWED (baby cream + stick) + cream wall | [BL] POINT-SIDE at the products | it's not hygiene. it's friction. |
+| 6 | 0:40–0:54 | tube → thin line → FILM slides in → GLIDE | [BR] POINT-DOWN at product/mechanism | a BARRIER — not another cream |
+| 7 | 0:54–1:06 | payoff montage (sundress/pool/bag-no-powder) | [BL] small, open/relieved smile | no paste. no checking. no stinging. |
+| 8 | 1:06–1:16 | tube label CU + 60-day seal | [BR] talk-to-cam, point-down at seal | US ships · no sub · 60-day keep-it |
+| 9 | 1:16–1:25 | offer buy-box end-card | [C] POINT-DOWN hard at the CTA | made for the fold → tap to get yours |
+
+## 3B — VO (paste into ElevenLabs)
+If you've ever thought you were just… not clean enough — stop. It was never you.
+And once you see what's really going on, you'll never call yourself dirty again. The rash where your skin folds isn't a hygiene problem — it's a physics problem. A fold presses skin against skin and traps heat and sweat where the air can't reach — so it never dries. Picture the inside of a folded towel that never gets to air out.
+All day, that trapped skin rubs on itself. Rubbing plus wet is what leaves it raw and burning. Not your hygiene. Not your body. Friction. You could shower ten times a day — the fold still never dries.
+That's why powders cake into paste, and creams soak in and leave it wet. They all try to treat the skin — when the problem is the rubbing. Nothing you put on it stops the rub.
+So the fix isn't a stronger cream. It's a barrier. ProudFold sits in the fold like a second skin — so instead of grinding, skin glides. It doesn't soak in. It doesn't dry you out. It just stays, and stops the rub. The fold finally gets a break. The simplest thing — and the first one actually made for the fold.
+No paste. No checking. No bracing for the sting by noon. And no more wondering if something's wrong with you. It was never you. It was a fold that never dries — and now it finally can.
+Water-based, fragrance-light, ships from the US — and if it's not for you, keep the tube. You've got sixty days.
+If your skin folds and rubs, this was made for you. Tap below and feel what a fold that finally gets a break feels like.
+
+### 3B — edit map (animation-led; she appears less)
+| # | Time | B-roll on screen | HER | Caption |
+|---|---|---|---|---|
+| 1 | 0:00–0:04 | SL-XSEC-TRAP (glowing fold) | [BR] small, gentle "stop" palm | "NOT CLEAN ENOUGH" / IT WAS NEVER YOU |
+| 2 | 0:04–0:14 | TRAP anim → OB-TOWEL | [BL] POINT-UP at animation | it's not hygiene — a fold that never dries |
+| 3 | 0:14–0:24 | GRIND anim → OB-SHOWER (✗) | [BR] point + head-shake | skin rubs on skin — all day |
+| 4 | 0:24–0:34 | OB-PASTE (powder→paste) + OB-SOAK | [BL] point-side | nothing stops the rub |
+| 5 | 0:34–0:48 | FILM → GLIDE → tube + thin line | [BR] POINT-DOWN at the barrier | a BARRIER — skin glides, instead of grinds |
+| 6 | 0:48–0:58 | hug / sundress payoff | [C] hand-to-chest, warm | you're not gross. you're not broken. |
+| 7 | 0:58–1:05 | tube + seal | [BR] talk-to-cam | US ships · 60-day keep-it |
+| 8 | 1:05–1:12 | offer buy-box | [C] POINT-DOWN at CTA | made for the fold → tap to get yours |
+
+## 3C — VO (paste into ElevenLabs)
+The fix for the rash where your skin folds isn't new. You've already used it — just not where it counts.
+Here's the part nobody tells you. The kind of raw, rubbed-together fold most women just live with is more common now than it's ever been. We sit more. We sweat under synthetic clothes. Summers run hotter — the fold gets more chances to rub. So the drugstore filled up with creams that promise to calm it, dry it, medicate it. A whole aisle — all built to chase the rash after it starts.
+But here's what we somehow forgot. There's one kind of skin we've always known how to protect from rubbing and wetness — a baby's. We don't medicate a baby's fold. We put a barrier on it — a thick balm that just sits there and keeps skin from rubbing raw. We've done it for a hundred years, without thinking.
+So if nothing's worked for you, it was never that you didn't try hard enough. The simple fix just got buried — because there's no money in telling a grown woman the answer is a plain barrier, not a fancier cream. Almost nobody makes one for the fold.
+So that's the whole idea behind ProudFold. It's not a stronger cream. It's a comfort barrier, made for the fold — it sits like a second skin, so skin glides instead of grinds. It doesn't soak in. It doesn't dry you out. It stays, and it stops the rub. The oldest idea in skincare — finally made for the one place everyone forgot.
+A thin line in the morning. By noon — no paste, no stinging, no checking. You stop planning your day around your skin. Because the answer was never a miracle. It was the simplest thing — brought back.
+Water-based, ships from the US, with a 60-day keep-it guarantee — so trying it costs you nothing but a rash you've had long enough. If your skin folds and rubs, go see the oldest fix, made new for you.
+
+### 3C — edit map (curiosity / storyteller)
+| # | Time | B-roll on screen | HER | Caption |
+|---|---|---|---|---|
+| 1 | 0:00–0:05 | OB-TIN → OB-CREAMWALL (then-vs-now) | [BR] talk-to-cam, intriguing | THE FIX ISN'T NEW / YOU'VE ALREADY USED IT |
+| 2 | 0:05–0:18 | OB-MODERNLIFE → OB-CREAMWALL | [BL] POINT-SIDE at the aisle | an entire aisle — built to chase the rash |
+| 3 | 0:18–0:30 | OB-BABY → FILM anim | [BR] POINT-UP + "aha" open hand | a baby's skin? we barrier it — we stopped for ours |
+| 4 | 0:30–0:42 | OB-TIN (forgotten) → cream wall | [BL] point, indignant | it was never you — the simple fix got buried |
+| 5 | 0:42–0:56 | tube → thin line → GLIDE | [BR] POINT-DOWN at product | the oldest fix — finally made for the fold |
+| 6 | 0:56–1:08 | payoff montage | [BL] open/relieved | no paste. no stinging. no checking. |
+| 7 | 1:08–1:16 | tube + seal → offer buy-box | [C] POINT-DOWN at CTA | made for the fold → tap to see it |
