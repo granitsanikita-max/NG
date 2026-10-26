@@ -9,7 +9,7 @@
 - **Key IDs:** GemCommerce shopId **642209940705903123** (NOT the Shopify store id 103711637685); homepage GP_INDEX theme_page_id **642213044188873235**; buy-box section id **642941877120664178** (full-width CSS scoped to .gps-642941877120664178). Preview: rpn6ax-zr.myshopify.com/a/gempages?version=v7&shop_id=642209940705903123&theme_page_id=642213044188873235&page_type=GP_INDEX
 - **Product render note:** the tube on the page is the supplier's **"Intertrigo Relief Cream"** green/medical-cross render — Nikita confirmed **that is the actual product being sold, use as-is**. Clean cutout hosted at cdn.shopify.com/.../files/proudfold_tube_cutout.png. (Keep all COPY claims compliant regardless of the tube art.)
 - **Blocked on:** not blocked for the PLAN. **Final advertorial copy gated on** the 4 unlocks above + these open items: confirm Reddit quote wording at source before live; no own-product reviews yet (new store — honest launch-proof strategy in COPY.md §10, seed real reviews); find a real plus-size creator for UGC.
-- **Last touched:** 2026-10-26 by ad-scripting (SCRIPT 3A WRITTEN — full Ad-Fundamentals process head-to-toe + ~85s VSL + heavy chief → SCRIPTS.md. Awaiting Nikita review, then 3B.)
+- **Last touched:** 2026-10-26 by ad-scripting (3A locked + routed to offer page; 3B WRITTEN — full fresh Ad-Fundamentals process + ~70s animation-led belief-flip VSL + heavy chief → SCRIPTS.md. Awaiting review, then 3C.)
 
 ## OPEN ITEMS (parked by Nikita — "do later when we start getting orders/ad traffic")
 Funnel is live and functional. These are cleanup, not blockers, but do them BEFORE spending real ad money (esp. the compliance images):

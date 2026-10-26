@@ -159,3 +159,149 @@ Open question for Nikita: VO-only over montage, or a real on-camera peer face fo
 
 ### VERDICT
 Ready to produce as v1. **Routing locked: VSL → offer page (#pfbb).** Strongest lever = the Stage-4 *easier-mechanism* flip (barrier vs complexity) fused to the de-shame vindication — both proven and both fully ours to claim. Narrator = the single locked brand reviewer. Next: await Nikita's read, then run 3B's full process from scratch.
+
+---
+
+# SCRIPT 3B — Peer-Expert Mechanism VSL · "It was never you — it's the fold"
+Format 3, Variant B. **Different door than 3A:** 3A entered on *failure-stack → vindication*; 3B enters on
+*self-blame → absolution*, and is **animation-led** (the mechanism IS the authority — no persona). Built on the
+**Restural Clinical-Animation Belief-Flip Mechanism VSL** spine + **Callout/For-You** + Myth-Busting hooks.
+
+## ② GOAL + TARGET
+
+### Avatar — "Dawn," entered at her SELF-BLAME
+- **Demographic:** same — woman 45–62, plus-size/big-busted, US, on Facebook.
+- **Experiences:** same 10–20-yr history, but 3B centres the **shame rituals** — the extra showers, the scrubbing, "feeling disgusting," apologising for her own body; dismissive doctors who reinforced "it's you."
+- **Behaviors:** over-washes/scrubs the fold (thinks it's hygiene), hides, keeps her distance.
+- **Emotions:** **SHAME is dominant** (self-blame, quiet humiliation) → on hearing "it's not your fault," **relief + being-seen**, and a flash of indignation at having carried it for years.
+
+### Core desire — the "why?" chain
+Stop the rash → feel clean / not gross → stop being ashamed of my own body → know I'm **not broken, not to blame** → **DIGNITY + SELF-FORGIVENESS.** Same deep driver as 3A (dignity), entered through **shame** instead of wasted effort.
+
+### Angle + emotion
+- **Angle:** attack the **self-blame.** *"You think it's your hygiene or your body. It's neither. A fold never dries, so skin grinds on skin — that's friction, physics, not a personal failing."*
+- **Emotion:** **relief-of-being-absolved** ("it was never you") + warmth/being-seen. Valence shame→relief; intensity medium-high (shame-release is powerful + shareable). A soft flash of indignation, never anger-heavy.
+
+## DIALS + FUNNEL
+- **Awareness → entry:** **problem-aware but MIS-attributing** (she blames herself). Enter on the **blame-flip in the first line** (Restural rule) → install the mechanism (solution-aware).
+- **Sophistication → Stage 4** (easier/more-proven mechanism = barrier), delivered through the **mechanism ANIMATION as visual authority** (Restural: borrow authority *visually*, no persona/credential). Sidesteps the fake-authority trap completely — the animation proves it, the warm peer VO carries the de-shame.
+- **Funnel move:** cold stranger carrying self-blame → believes *it's not me, it's friction, and a barrier fixes it* → clicks to **offer page (#pfbb).**
+
+## THE 3 MODIFIERS
+- **Belief-change depth = skepticism × price.** The deepest belief here is a **20-year self-blame identity belief** — a deep flip; the **animation does the heavy lifting** (seeing = believing). Price moderate.
+- **Iceberg/identity depth:** shame is identity-level → climb **belief → identity** ("you're not gross, you're not broken").
+- **Length/story arc:** ~70s, animation-led (Restural runs ~40–45s; we add room for the de-shame warmth + payoff + offer handoff). Open loop: "the real reason isn't what you think" → paid off by the animation.
+
+## ③ DECIDE — pulled from the swipe file
+- **Format:** **Comfort Mechanism-Animation Belief-Flip VSL** (Restural template) — **faceless**, warm peer VO over premium fold-cross-section animation + real-skin B-roll + payoff. Authority = the animation.
+- **Hook format:** **Callout/For-You** ("This is for you if you think you're just not clean enough") + **Myth-Busting** ("It's not hygiene. It's not your body"). **Blame-flip in line one.**
+- **Structure:** **Restural Clinical-Animation Belief-Flip** (10 beats) — adapted: pattern-interrupt → blame-removal → mechanism setup → authority via analogy → villain reveal (friction / the fold that never dries) → consequence → product as the barrier → payoff → CTA. **Deviation (logged):** Restural reveals product at ~95% on an *unclosed* loop that resolves on a content LP; we reveal the barrier ~65% and **close the loop on the offer page** (we route direct to #pfbb, not a content LP).
+- **Sanity check:** solution-aware → mechanism + us-vs-them; the de-shame is the belief flip. ✅
+
+## ④ EXECUTION FUNDAMENTALS (written in)
+- **Authority = VISUAL (the animation) + facts as facts** ("a fold traps heat + sweat where air can't reach; it never dries; skin rubs on skin"). **No persona/credential** — the cleanest authority play we have.
+- **Positioning:** Stage-4 easier mechanism (barrier), *shown*.
+- **Speed to value:** by ~3–5s the blame is lifted ("it was never you") — for a shame-carrying viewer, *that is the value.*
+- **Clarity:** 5th–8th grade; one picture-able analogy (**the inside of a folded towel that never gets to air out**).
+- **Value lens:** ease — "one simple barrier," "a thin line."
+- **Delivery:** **warm, reassuring** VO (not clinical-cold, not salesy); word-by-word captions; animation cuts; SHOW the mechanism.
+
+## ⑤ TECHNIQUES (picked)
+- **Hook:** Callout/For-You text overlay + blame-flip spoken line + scroll-stopper = the **animation pattern-interrupt** (a glowing fold cross-section that reads as *science*, not an ad).
+- **Open loop:** "the real reason isn't hygiene — and once you see it, you can't unsee it" → paid off by the animation.
+- **Picture-able analogy** (Restural rule): "a fold is two damp surfaces pressed together — like the inside of a folded towel that never gets to dry."
+- **Two villains:** trapped heat/moisture + the rubbing — never the self.
+- **Remove blame** (first line + reinforced): "never your hygiene, never your body."
+- **UMP→UMS:** UMP = fold never dries → skin grinds (animation). UMS = barrier "second skin" → skin glides (animation: film slides between, glow calms).
+- **Facts over opinions · involvement ("watch what happens…") · micro-commitments ("look at that") · sell-the-cure.**
+- **Late-ish product reveal (~65%)** as the "repair," then direct offer CTA.
+
+## HOOK → OFFER CARRY
+"it was never you" (blame lifted = the stop AND the value) → *then what is it?* (loop) → animation: the fold never dries → skin grinds (proof) → that's friction, not hygiene (villain named, blame gone) → a barrier lets skin glide (the fix, shown) → a thin line, the fold gets a break (payoff) → you're not gross, you're not broken (identity) → "see what that feels like → tap" (offer). B1 (de-shame) is installed in the **first line** and *proven by the animation*; every beat compounds the absolution toward the click.
+
+## 🎬 THE SCRIPT  (~70s · vertical 9:16 · animation-led · faceless warm peer VO = same locked voice) → offer page #pfbb
+
+**[0:00–0:04] HOOK / BLAME-FLIP** *(visual pattern-interrupt)*
+- VO (warm): "If you've ever thought you were just… not clean enough — stop. It was never you."
+- CAPTION: **IF YOU THINK YOU'RE "JUST NOT CLEAN ENOUGH" — STOP**
+- VISUAL: a glowing, premium cross-section of a skin fold (warm tones) — reads as *science*, no logo, no face.
+
+**[0:04–0:14] MECHANISM SETUP** *(the fact)*
+- VO: "The rash where your skin folds isn't a hygiene problem. It's a physics problem. A fold presses skin against skin and traps heat and sweat where the air can't reach — so it never dries. Picture the inside of a folded towel that never gets to air out."
+- CAPTION: *it's not hygiene — it's a fold that never dries*
+- VISUAL: animation — surfaces press together, heat/moisture trapped; the folded-towel analogy.
+
+**[0:14–0:24] VILLAIN REVEAL (friction) + remove blame**
+- VO: "All day, that trapped skin rubs on itself. Rubbing plus wet is what leaves it raw and burning. Not your hygiene. Not your body. Friction. You could shower ten times a day — the fold still never dries."
+- CAPTION: **skin rubs on skin — all day**
+- VISUAL: animation — the surfaces grinding, heat glow building; quick cut — a shower crossed out.
+
+**[0:24–0:34] CONSEQUENCE / why it all failed**
+- VO: "That's why powders cake into paste, and creams soak in and leave it wet. They all try to treat the *skin* — when the problem is the *rubbing.* Nothing you put on it stops the rub."
+- CAPTION: *nothing stops the rub*
+- VISUAL: powder→paste; cream soaking in (wet); the grind continues.
+
+**[0:34–0:48] THE FIX — PRODUCT AS THE BARRIER** *(UMS, shown)*
+- VO: "So the fix isn't a stronger cream. It's a barrier. ProudFold sits in the fold like a second skin — so instead of grinding, skin glides. It doesn't soak in. It doesn't dry you out. It just stays, and stops the rub. The fold finally gets a break. The simplest thing — and the first one actually made for the fold."
+- CAPTION: **a BARRIER — skin glides, instead of grinds**
+- VISUAL: animation — a smooth film slides between the surfaces, they glide, the glow fades to calm; then the tube + a thin line applied into a real fold.
+
+**[0:48–0:58] PAYOFF** *(dignity / identity)*
+- VO: "No paste. No checking. No bracing for the sting by noon. And no more wondering if something's wrong with you. It was never you. It was a fold that never dries — and now it finally can."
+- CAPTION: **you're not gross. you're not broken.**
+- VISUAL: dignified plus-size women — a relieved exhale, a sundress, laughing close with someone.
+
+**[0:58–1:05] TRUST** *(honest, brief)*
+- VO: "Water-based, fragrance-light, ships from the US — and if it's not for you, keep the tube. You've got sixty days."
+- CAPTION: *ships from the US · 60-day keep-it guarantee*
+- VISUAL: tube + 60-day seal.
+
+**[1:05–1:12] CTA → offer page**
+- VO: "If your skin folds and rubs, this was made for you. Tap below and feel what a fold that finally gets a break feels like."
+- CAPTION: **made for the fold → tap to get yours**
+- VISUAL: tube + offer buy-box + CTA button.
+- **CTA DESTINATION:** offer page — homepage #pfbb.
+
+## ⑥ CHIEF — heavy review
+
+### Fundamentals checklist (⑥)
+- [x] **Right awareness** — enters at mis-attributed self-blame (problem-aware), flips to mechanism (solution-aware); no level-mixing.
+- [x] **Positioning = sophistication** — Stage-4 easier mechanism (barrier), *shown* via animation.
+- [x] **Value in ~5s** — blame lifted in line one = the value for this viewer.
+- [x] **Hook has a bridge** — callout + the open loop ("once you see it, you can't unsee it").
+- [x] **5th–8th grade** — one idea per line; one picture-able analogy (folded towel).
+- [x] **Belief-change depth fits** — deep (a 20-yr identity belief), carried by *visual* proof.
+- [x] **Anticipation used** — one loop, paid off by the animation.
+- [x] **Tier-1 present** — avatar ✓ core desire (dignity/self-forgiveness) ✓ angle (self-blame→friction) ✓ emotion (absolution) ✓ authority (animation + facts, NO persona) ✓ positioning ✓.
+- [x] **Honest — flaw raised & flipped** — honest con built in ("doesn't soak in, doesn't dry you out, it *stays*"); no fake authority at all.
+- [x] **Offer + CTA unmistakable** — one ask → offer page (#pfbb); loop resolves on the offer.
+- [x] **Word-craft** — warm, reassuring on the VO pass; keep it tender, not clinical.
+
+### Compliance red-line pass
+- ✅ No fungal/yeast/antifungal/cure/heal/treat. Problem = **friction + trapped moisture**; "raw and burning" = friction discomfort (our own point-sentence language), not disease.
+- ✅ Animation is **illustrative + warm-toned** — a fold cross-section + friction glow, NOT a raw rash, NOT pathology, NOT a healing before/after.
+- ✅ Mechanism = occlusive **barrier / second skin / glides / stays**; "doesn't dry you out" (the opposite of competitors — our truth + differentiator).
+- ✅ **Authority = animation only, zero persona/credential** → cannot be read as fake-nurse/derm. (Cleaner than 3A on this axis.)
+- ✅ No fabricated proof — honest trust signals + keep-it guarantee only.
+- ⚠️ **FTC:** composite narrator voice → the **ad** carries the "advertisement" + fictional-narrator note (COPY §8). Offer page already carries the cosmetic disclaimer.
+
+### Claim-swap log (borrowed the Restural container — logged the swaps)
+- Restural *"their muscles are NOT getting weaker"* (blame-flip) → **ours:** "it was never you — it's not your hygiene, not your body."
+- Restural myelin/immune-cell **medical** mechanism (cure claims on LP) → **ours:** friction + trapped-moisture **barrier** mechanism; comfort-lane, **no medical/cure claim anywhere** (not even the LP — we're comfort/barrier end to end).
+- Restural *"3D medical animation = borrowed authority"* → **ours:** a warm comfort fold-cross-section animation (friction physics, not pathology).
+- Restural *product @ ~95% on an unclosed loop → resolve on content LP* → **ours:** barrier @ ~65%, loop **closes on the offer page** (we route to #pfbb, not a content LP). *[deviation logged]*
+
+### Read-back as Dawn
+She's carried "maybe I'm just gross" for 20 years. Line one lifts it — "it was never you." She stops (relief + the science-look visual). The animation shows her it's **physics** (a fold never dries) — undeniable *because she's seeing it.* "Shower ten times, still never dries" names her exact shame ritual. The barrier-glide animation flips the belief (a barrier, not another cream). "You're not gross, you're not broken" = the identity release. She taps to feel what she's been denied. ✅ She absolves herself through the visual.
+
+### Hook PASS test (sound-off)
+Frame 1 = a glowing fold cross-section (*science*) + **"IF YOU THINK YOU'RE JUST NOT CLEAN ENOUGH — STOP."** A shame-carrying woman scrolling muted stops on the callout + the unusual visual. ✅ (Alt if hold is weak: lead the caption with **"IT WAS NEVER YOU"** over the animation.)
+
+### 3B vs 3A — why the test is clean
+Same belief family (B1 de-shame) but a **different emotional door** (self-blame/absolution vs failure-stack/vindication), **different structure** (Restural animation belief-flip vs Belief-Changework story), **different execution** (faceless animation-led vs narrative montage). Isolates *emotional entry × format* in the A/B.
+
+### Open production dependencies
+1. **Fold cross-section animation** — press→trap→grind→barrier→glide, warm comfort tones (extend mech_xsec frames). 2. **Folded-towel analogy** illustration. 3. Powder→paste + cream-soak clips. 4. Payoff lifestyle B-roll. 5. **Same locked peer VOICE**, warm register. 6. Caption system. 7. Tube + seal + offer end-card. 8. FTC/fictional-narrator disclosure on the ad.
+
+### VERDICT
+Ready to produce as v1. Lowest-risk **authority** play of the three (animation = nothing to cast or prove) and the **purest de-shame install.** Routes to offer page. Next: await Nikita's read, then run 3C's full process from scratch.
