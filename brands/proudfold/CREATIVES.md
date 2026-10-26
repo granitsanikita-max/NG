@@ -87,3 +87,37 @@
 the tube + "Read my story →" on brand (terracotta/cream). Built at assembly time.
 
 **Count:** 16 Linda prompts to run · each with [LINDA] attached + its listed refs · count=1 · 9:16 · 2K.
+
+---
+
+## ✅ GENERATED — Format 2 Linda scenes (Nano Banana Pro 2K · 9:16 · 2026-10-26)
+All 16 generated + delivered to Nikita. Images on Higgsfield CDN (base below) + saved to
+scratchpad/proudfold_f2_out/. Compliance clean (no rash, modest, generic cabinet labels, modest swimsuit).
+Likeness consistent off the single 4-panel sheet (TUBE-RELIEF/HUG/CABINET/CARDIGAN/POOL-PAYOFF dead-on).
+**Flag:** APPLY + TUBE-RELIEF show the tube's "Intertrigo Relief Cream + medical cross" legibly — Nikita's call to keep or relabel for ads.
+
+CDN base: `https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/`
+| Scene | file |
+|---|---|
+| LN-CONFESS | hf_20261026_102901_b016241c-f1b2-4083-852a-a663f094a07d.png |
+| LN-TISSUE | hf_20261026_102903_6cb3e14c-b9f2-4417-afe8-c00b2188db6f.png |
+| LN-MIRROR | hf_20261026_102906_f329f6f3-a896-483d-af55-c4ce1b07f785.png |
+| LN-CARDIGAN | hf_20261026_103640_95460b12-2e98-4a3a-9151-90d82e21012f.png |
+| LN-PHOTO | hf_20261026_103638_7d59c8d8-6f34-47f7-85f3-c7ab7a1cb7b7.png |
+| LN-DOCTOR | hf_20261026_103638_caf8c3d4-7c70-46dd-8c84-ac777524432b.png |
+| LN-RITUAL | hf_20261026_103638_f8176249-159e-49ac-92ec-408765400947.png |
+| LN-CABINET | hf_20261026_103638_3d766716-9033-4a0a-9220-88dd5aa03c9a.png |
+| LN-COOKOUT | hf_20261026_103639_81382e9d-b128-4d8f-9464-b2ac662766c9.png |
+| LN-DECLINE | hf_20261026_103638_be4e38ab-2048-4657-bf6c-d5377fa16a4f.png |
+| LN-POOLBAG | hf_20261026_103638_b43e7e34-3efa-4637-a339-5ca45806e4c5.png |
+| LN-APPLY | hf_20261026_103638_cceb3bb8-380e-4bec-b154-783d271fe446.png |
+| LN-TUBE-RELIEF | hf_20261026_103805_2f2a1b9d-0a63-466d-8f68-f2a429730634.png |
+| LN-POOL-PAYOFF | hf_20261026_103638_c9bec913-74df-4b76-83e9-3132134c02fb.png |
+| LN-SUNDRESS | hf_20261026_103638_b52a0330-7766-42ad-9e3b-0730b4ba74f4.png |
+| LN-HUG | hf_20261026_103642_31f475c0-599d-4c71-99db-4740d408b1e7.png |
+
+### Reusable Higgsfield ref media_ids (for re-gen / Kling i2v)
+LINDA `99e1caa5-a7dd-4892-8ee8-3621901c21ce` · bathroom `a0417295-f627-4066-a476-a74744d6eb1a` ·
+cabinet `4c651935-f1c3-46d5-ba03-ce119ca7b763` · cookout `08136360-b282-4b31-9ff0-1fb113c3f445` ·
+clinic `826f20f3-3717-47a0-b48e-0118ee82ab26` · tube `de612154-95f1-427a-a6af-df2ce8fab2c6`
+(pool ref `34718b85…` was auto-flagged NSFW — pool scenes were prompted without it.)
