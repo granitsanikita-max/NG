@@ -268,3 +268,36 @@ MOTION: Open, relieved, warm smile through the payoff; ends with a firm point DO
 ---
 ### COMPLIANCE (holds for every clip)
 Comfort/barrier language only — no cure/heal/treat/antifungal/yeast. She is a composite/fictional narrator → disclose "advertisement" + narrator disclaimer per ad policy. No rash/red/broken skin shown on her or anywhere in frame. Product = comfort barrier, not medicine.
+
+
+---
+
+# ══════ FORMAT 3 — B-ROLL SOURCING LIST (get online, royalty-free) ══════
+> Compliance: discomfort via BEHAVIOR only (fanning, sweat, tugging, clock-check). NEVER rash/red/raw/broken skin or the fold itself.
+> Licensing: PEOPLE shots from Pexels/Unsplash/Pixabay (model-released). Pinterest OK for OBJECTS/props/scenery (no identifiable faces).
+
+## PEOPLE / LIFESTYLE (real)
+1  Plus-size woman fanning, flushed, hot — 3A hot day / 3C hotter summers — `woman fanning herself hot flushed summer`, `plus size woman heat sweat`
+2  Sweat beads neck/brow/chest (NOT fold) — all "heat and sweat" — `sweat drops skin neck macro`
+3  Woman tugging/adjusting shirt uncomfortably — 3A/3B rubs all day — `woman adjusting shirt uncomfortable`
+4  Woman sitting at desk all day — 3C we sit more — `woman sitting desk long day tired`
+5  Synthetic activewear / leggings close — 3C synthetic clothes — `leggings fabric close up`
+6  Heatwave sun / thermometer high — 3C hotter summers — `heatwave sun haze city`, `thermometer hot weather`
+7  Getting dressed / closet (relaxed) — 3A get dressed without bracing — `getting dressed morning closet`
+8  Checking watch/clock frustrated (~noon) — all "by noon" — `woman checking watch frustrated`, `wall clock noon`
+9  Hand pulling powder from handbag — 3A stop packing powder — `hand reaching into handbag`
+10 Confident/relieved woman, summer, smiling — all payoffs — `confident plus size woman summer smiling`
+
+## OBJECTS / PROPS (Pinterest OK)
+11 Body/talcum powder bottle + caked powder macro — 3A/3B powders cake — `talcum powder spilled`, `caked powder clumps macro`
+12 Generic diaper-rash cream tube — 3A diaper cream / 3C baby — `diaper rash cream tube white`
+13 Runner's anti-chafe balm stick — 3A runners' feet — `anti chafe balm stick`
+14 Prescription/medicated cream tube — 3A the prescription — `medicated ointment tube pharmacy`
+15 Pharmacy skincare aisle, rows of creams — 3C whole aisle / 3A stronger cream — `pharmacy skincare aisle shelves`
+16 Applying barrier cream to a baby (Pexels only, released) — 3C we barrier a baby — `applying diaper cream baby`
+17 Vintage zinc / apothecary balm tin — 3C a hundred years — `vintage zinc ointment tin antique`
+18 Small-batch skincare making (hands pouring) — 3A small honest batches — `small batch skincare making hands`
+19 US map / shipping box "ships from USA" — all offer lines — `made in usa shipping box`
+
+## MUST stay owned/AI (do NOT source)
+Her 16 Kling clips · the mechanism cross-sections (SL-XSEC/MACRO) · the real ProudFold tube/line/seal · the 60-day guarantee badge (make as a graphic).

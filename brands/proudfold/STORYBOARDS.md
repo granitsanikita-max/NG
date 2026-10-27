@@ -419,3 +419,144 @@ Water-based, ships from the US, with a 60-day keep-it guarantee — so trying it
 | 5 | 0:42–0:56 | tube → thin line → GLIDE | [BR] POINT-DOWN at product | the oldest fix — finally made for the fold |
 | 6 | 0:56–1:08 | payoff montage | [BL] open/relieved | no paste. no stinging. no checking. |
 | 7 | 1:08–1:16 | tube + seal → offer buy-box | [C] POINT-DOWN at CTA | made for the fold → tap to see it |
+
+
+# ══════ FORMAT 3 — CAPCUT ASSEMBLY (shot-by-shot) ══════
+> Google Doc: https://docs.google.com/document/d/1B8M-84Kh8e9f4peyvbL3WFiJCtSOUh_SdoiYoz_U34k/edit
+
+```
+PROUDFOLD — FORMAT 3 VSLs · CAPCUT ASSEMBLY (shot-by-shot, over the VO)
+Route: OFFER page (#pfbb). 9:16. Her = the 16 Kling clips. VO = your 3 ElevenLabs tracks.
+
+======================================================================
+GLOBAL SETUP — do this ONCE before any variant
+======================================================================
+PROJECT: 1080 x 1920 (9:16), 30fps.
+TRACKS (bottom to top):
+  • Track 1 (bottom) = FULL-SCREEN B-roll (the images/clips you gathered + our owned assets).
+  • Track 2 (middle) = HER (the Kling avatar clip for that section) — either a CORNER box or a cut-out float.
+  • Track 3 (top)    = CAPTIONS (big bold, word-pop).
+AUDIO:
+  • A1 = the ElevenLabs VO for this variant (VO_1=3A, VO_2=3B, VO_3=3C). This is your MASTER. Lay it first, lock it, build to it.
+  • MUTE the audio on every Kling clip — her mouth matches the VO, so the VO carries the sound.
+  • A2 = music bed, low (~ -18 to -22 dB). Tense/curious under the mechanism, warm under the payoff.
+  • A3 = SFX: a soft whoosh on hard cuts, a subtle ding on the key caption pops.
+HER, two ways:
+  • WHITE-BG clips (REF-UP / REF-DOWN) → CapCut 'Remove Background' → scale ~35% → park in a corner (BL/BR) so she literally points at the full-screen B-roll. This is your 'floating pointer.'
+  • LIVING-ROOM clips (REF-NEU) → use as a rounded-rectangle CAM BOX (~40%) in a corner, OR blow up to FULL-FRAME for the hook + emotional beats.
+CAPTIONS: bold sans (Anton / Montserrat Black), white + black stroke, ONE keyword per line in terracotta (#C06A4B). Auto-caption to the VO, then restyle. Keep them in the lower-middle, ABOVE the CTA/safe zone. Word-by-word reveal.
+CUT PACING (the retention lever):
+  • Hook: hold the first frame ~0.8s, THEN start punching.
+  • Mechanism beats: 3–4s each (let them breathe).
+  • Payoff/CTA: rapid, 1–1.5s.
+  • 90% HARD CUTS. No fancy transitions — they kill retention. Occasional quick punch-in (scale 100→108%) on a macro.
+  • Put a 2–4% slow Ken-Burns zoom on every STILL so nothing sits dead.
+COMPLIANCE ON SCREEN: never a caption that says cure/heal/treat/rash-gone/antifungal. Comfort/barrier only. No real photo that shows red/raw/broken skin. Put a small 'Paid advertisement · Dramatization · Results vary' line on the hook or end card.
+TAGS in the table: [HAVE]=asset we already made · [GET #n]=the online shot from your sourcing list · [HER]=that section's Kling clip.
+
+======================================================================
+3A — "Tried everything / wrong tool"  (VO_1, ~2:03)
+======================================================================
+TIME        | VO (what's playing)                 | TRACK 1 — SCREEN (B-roll)            | TRACK 2 — HER                  | CAPTION                         | CUT/FX
+[0:00-0:02] · "Tried the powder..." · SCREEN: HER full-frame (opening face) · HER: 3A-1 FULL-FRAME · CAP: "I TRIED EVERYTHING FOR THE RASH IN MY FOLDS" · FX: hold 0.8s, hard in
+[0:02-0:04] · "the powder" · SCREEN: [GET #11] powder bottle / caked powder · HER: hidden (full B-roll) · CAP: "powder" · FX: hard cut + whoosh
+[0:04-0:05] · "the diaper cream" · SCREEN: [GET #12] diaper-cream tube · HER: hidden · CAP: "diaper cream" · FX: hard cut
+[0:05-0:06] · "the prescription" · SCREEN: [GET #14] prescription tube · HER: hidden · CAP: "prescriptions" · FX: hard cut
+[0:06-0:08] · "still comes back by noon" · SCREEN: [GET #8] clock at noon / checking watch · HER: 3A-1 small box BR · CAP: "...STILL BACK BY NOON" · FX: cut
+[0:08-0:11] · "folded a tissue under your bust" · SCREEN: [HAVE] OB-TISSUE · HER: hidden · CAP: "if you've done this..." · FX: slow push
+[0:11-0:13] · "to get through a hot day" · SCREEN: [GET #1] woman fanning, flushed · HER: hidden · CAP: "—" · FX: cut
+[0:13-0:18] · "give me 20 seconds... I did this too. 20 years." · SCREEN: HER full-frame · HER: 3A-1 FULL-FRAME (hand to chest) · CAP: "I DID THIS FOR 20 YEARS" · FX: cut
+[0:18-0:22] · "not a doctor... why none of it worked." · SCREEN: HER full-frame · HER: 3A-1 FULL-FRAME (dismissive wave) · CAP: "it was never you" · FX: cut
+[0:22-0:26] · "the fold traps heat and moisture" · SCREEN: [HAVE] SL-XSEC-TRAP · HER: 3A-2 float BL, point-UP · CAP: "the fold TRAPS heat + sweat" · FX: cut (she points at it)
+[0:26-0:30] · "skin rubs on skin, all day, never dries" · SCREEN: [HAVE] SL-XSEC-GRIND · HER: 3A-2 float BL point-UP · CAP: "skin rubs on skin — ALL DAY" · FX: cut
+[0:30-0:33] · "that rubbing is the problem" · SCREEN: [HAVE] SL-GRIND-MACRO · HER: 3A-2 BL · CAP: "the RUBBING is the problem" · FX: punch-in
+[0:33-0:36] · "powders cake into paste" · SCREEN: [HAVE] OB-PASTE (+[GET #11]) · HER: hidden · CAP: "powder -> paste" · FX: cut
+[0:36-0:38] · "creams soak in and leave it wet" · SCREEN: [HAVE] OB-SOAK · HER: hidden · CAP: "creams soak in" · FX: cut
+[0:38-0:40] · "medicated ones chase it. none stop the rub." · SCREEN: [HAVE] OB-GRAVEYARD · HER: 3A-2 BL (head-shake) · CAP: "none of them stop the RUB" · FX: cut
+[0:40-0:45] · "kept the fold wet — or rubbed it raw" · SCREEN: [GET #3] tugging shirt / OB-SOAK · HER: 3A-3 box BR · CAP: "it made it WORSE" · FX: cut
+[0:45-0:50] · "three days later, right back where you started" · SCREEN: [HAVE] OB-CALENDAR · HER: hidden · CAP: "3 days later -> again" · FX: cut
+[0:50-0:56] · "not that you didn't try. you tried the WRONG tool." · SCREEN: HER full-frame · HER: 3A-3 FULL-FRAME · CAP: "the WRONG tool" · FX: cut
+[0:56-1:03] · "never your hygiene. never your body." · SCREEN: [GET #10] mirror -> confident · HER: 3A-3 box point-SIDE · CAP: "not hygiene. not YOU." · FX: cut
+[1:03-1:08] · "built for babies' bottoms and runners' feet — borrowed" · SCREEN: [HAVE] OB-BORROWED (+[GET #16]/[GET #13]) · HER: 3A-4 box · CAP: "borrowed from babies + runners" · FX: cut
+[1:08-1:12] · "stopped hunting for a stronger cream — the opposite. a barrier." · SCREEN: [GET #15] aisle -> [HAVE] OF-TUBE · HER: 3A-4 float point-DOWN · CAP: "stop chasing. START blocking." · FX: cut
+[1:12-1:17] · "sits in the fold like a second skin" · SCREEN: [HAVE] OF-TUBE / OF-LINE · HER: 3A-4 float point-DOWN · CAP: "a BARRIER — a second skin" · FX: cut
+[1:17-1:22] · "skin glides instead of grinds" · SCREEN: [HAVE] SL-XSEC-FILM -> SL-XSEC-GLIDE · HER: 3A-4 point-DOWN · CAP: "skin GLIDES, not grinds" · FX: cut
+[1:22-1:26] · "doesn't soak in. doesn't dry you out. it stays." · SCREEN: [HAVE] OF-LINE · HER: hidden · CAP: "it STAYS" · FX: cut
+[1:26-1:30] · "rubbing stops. first one built for the fold." · SCREEN: [HAVE] SL-CALM-MACRO · HER: 3A-4 box (smile) · CAP: "the first one MADE for the fold" · FX: cut
+[1:30-1:33] · "a thin line in the morning" · SCREEN: [HAVE] OF-LINE · HER: 3A-5 FULL-FRAME · CAP: "one thin line, AM" · FX: cut
+[1:33-1:37] · "by noon — no paste, no checking, no stinging" · SCREEN: [GET #7] getting dressed, relaxed · HER: hidden · CAP: "by noon: nothing" · FX: rapid cuts
+[1:37-1:41] · "get dressed without bracing for it" · SCREEN: [HAVE] PO-SUNDRESS · HER: 3A-5 FULL-FRAME (smile) · CAP: "dressed, no bracing" · FX: cut
+[1:41-1:44] · "stop packing powder in your bag" · SCREEN: [GET #9] powder out of handbag · HER: hidden · CAP: "leave the powder home" · FX: cut
+[1:44-1:47] · "stop planning your day around your skin" · SCREEN: [GET #10] confident, summer · HER: 3A-5 FULL-FRAME · CAP: "stop planning around your skin" · FX: cut
+[1:47-1:51] · "water-based, small honest batches, no sub" · SCREEN: [GET #18] small-batch making · HER: hidden · CAP: "water-based · small batch · no sub" · FX: cut
+[1:51-1:54] · "ships from US — keep the tube, 60 days" · SCREEN: [GET #19] US ship + [HAVE] OF-SEAL · HER: 3A-5 FULL-FRAME · CAP: "US ships · 60-day keep-it" · FX: cut
+[1:54-1:58] · "if your skin folds and rubs, this was made for you" · SCREEN: [HAVE] OF-TUBE · HER: 3A-6 float point-DOWN · CAP: "made for the fold" · FX: cut
+[1:58-2:03] · "tap below, grab your tube. hiding is long enough." · SCREEN: [HAVE] OF-BUYBOX end-card · HER: 3A-6 point-DOWN at CTA · CAP: "TAP TO GET YOURS ->" · FX: END CARD holds 3s
+
+======================================================================
+3B — "You're not dirty / physics problem"  (VO_2, ~1:43)
+======================================================================
+TIME        | VO (what's playing)                 | TRACK 1 — SCREEN (B-roll)            | TRACK 2 — HER                  | CAPTION                         | CUT/FX
+[0:00-0:03] · "...just not clean enough — stop." · SCREEN: HER full-frame · HER: 3B-1 FULL-FRAME (stop palm) · CAP: "NOT CLEAN ENOUGH?" · FX: hold 0.8s, hard in
+[0:03-0:06] · "it was never you." · SCREEN: HER full-frame · HER: 3B-1 FULL-FRAME · CAP: "it was never you" · FX: cut
+[0:06-0:11] · "once you see it, you'll never call yourself dirty again" · SCREEN: [GET #8] mirror, self-conscious · HER: 3B-1 box BR · CAP: "this changes everything" · FX: cut
+[0:11-0:16] · "not a hygiene problem — a physics problem" · SCREEN: [HAVE] SL-XSEC-TRAP · HER: 3B-1 float BL point-UP · CAP: "not hygiene — PHYSICS" · FX: cut (points at it)
+[0:16-0:21] · "traps heat + sweat where air can't reach — never dries" · SCREEN: [HAVE] SL-XSEC-TRAP (anim) · HER: 3B-1 point-UP · CAP: "heat + sweat, TRAPPED" · FX: cut
+[0:21-0:27] · "like the inside of a folded towel that never airs out" · SCREEN: [HAVE] OB-TOWEL (+[GET] folded towels) · HER: hidden · CAP: "a folded towel that never dries" · FX: slow push
+[0:27-0:31] · "all day, that trapped skin rubs on itself" · SCREEN: [HAVE] SL-XSEC-GRIND · HER: 3B-2 box BR · CAP: "all day — skin on skin" · FX: cut
+[0:31-0:35] · "rubbing plus wet leaves it raw and burning" · SCREEN: [HAVE] SL-GRIND-MACRO (NO rash) · HER: hidden · CAP: "rub + wet" · FX: cut
+[0:35-0:38] · "not your hygiene. not your body. FRICTION." · SCREEN: HER full-frame (head-shake) · HER: 3B-2 FULL-FRAME · CAP: "it's FRICTION" · FX: cut
+[0:38-0:42] · "shower 10x a day — the fold still never dries" · SCREEN: [HAVE] OB-SHOWER · HER: 3B-2 box · CAP: "shower all you want — still wet" · FX: cut
+[0:42-0:47] · "powders cake into paste, creams soak in" · SCREEN: [HAVE] OB-PASTE -> OB-SOAK (+[GET #11]) · HER: 3B-2 point-SIDE · CAP: "powder cakes · cream soaks" · FX: cut
+[0:47-0:52] · "they treat the skin — nothing stops the rub" · SCREEN: [HAVE] OB-GRAVEYARD · HER: 3B-2 point-SIDE · CAP: "nothing stops the RUB" · FX: cut
+[0:52-0:57] · "the fix isn't a stronger cream. it's a barrier." · SCREEN: [GET #15] aisle -> [HAVE] OF-TUBE · HER: 3B-3 float point-DOWN · CAP: "not stronger — a BARRIER" · FX: cut
+[0:57-1:02] · "a second skin — instead of grinding, skin glides" · SCREEN: [HAVE] SL-XSEC-FILM -> GLIDE · HER: 3B-3 point-DOWN · CAP: "a second skin — skin GLIDES" · FX: cut
+[1:02-1:07] · "doesn't soak in, doesn't dry you out, just stays" · SCREEN: [HAVE] OF-LINE · HER: hidden · CAP: "it STAYS. stops the rub." · FX: cut
+[1:07-1:14] · "the fold gets a break. first one made for the fold." · SCREEN: [HAVE] SL-CALM-MACRO · HER: 3B-3 box (smile) · CAP: "the first one MADE for the fold" · FX: cut
+[1:14-1:19] · "no paste, no checking, no bracing by noon" · SCREEN: [GET #7] dressed, relaxed · HER: 3B-4 FULL-FRAME · CAP: "no paste. no bracing." · FX: rapid cuts
+[1:19-1:23] · "no more wondering if something's wrong with you. it was never you." · SCREEN: HER full-frame · HER: 3B-4 FULL-FRAME (hand to chest) · CAP: "it was NEVER you" · FX: cut
+[1:23-1:27] · "a fold that never dries — now it finally can" · SCREEN: [HAVE] PO-HUG · HER: hidden · CAP: "now it finally can" · FX: cut
+[1:27-1:32] · "water-based, ships from US, keep the tube, 60 days" · SCREEN: [GET #19] + [HAVE] OF-SEAL · HER: 3B-4 FULL-FRAME · CAP: "US ships · 60-day keep-it" · FX: cut
+[1:32-1:37] · "if your skin folds and rubs, this was made for you" · SCREEN: [HAVE] OF-TUBE · HER: 3B-4 point-DOWN · CAP: "made for the fold" · FX: cut
+[1:37-1:43] · "tap below and feel what a break feels like" · SCREEN: [HAVE] OF-BUYBOX end-card · HER: 3B-4 point-DOWN at CTA · CAP: "TAP TO FEEL IT ->" · FX: END CARD holds 3s
+
+======================================================================
+3C — "The fix isn't new / baby's skin"  (VO_3, ~1:57)
+======================================================================
+TIME        | VO (what's playing)                 | TRACK 1 — SCREEN (B-roll)            | TRACK 2 — HER                  | CAPTION                         | CUT/FX
+[0:00-0:03] · "the fix... isn't new." · SCREEN: HER full-frame (intrigue) · HER: 3C-1 FULL-FRAME · CAP: "THE FIX ISN'T NEW" · FX: hold 0.8s, hard in
+[0:03-0:07] · "you've already used it — just not where it counts" · SCREEN: [HAVE] OB-TIN -> OB-CREAMWALL · HER: 3C-1 box BR · CAP: "you've ALREADY used it" · FX: cut
+[0:07-0:11] · "the fold most women just live with — more common than ever" · SCREEN: [HAVE] OB-MODERNLIFE / [GET #10] · HER: 3C-2 box · CAP: "more common than ever" · FX: cut
+[0:11-0:14] · "we sit more" · SCREEN: [GET #4] sitting at desk all day · HER: hidden · CAP: "we sit more" · FX: cut
+[0:14-0:17] · "we sweat under synthetic clothes" · SCREEN: [GET #5] leggings / activewear · HER: hidden · CAP: "synthetic clothes = sweat" · FX: cut
+[0:17-0:21] · "summers run hotter — more chances to rub" · SCREEN: [GET #6] heatwave / [GET #1] fanning · HER: 3C-2 box · CAP: "hotter summers" · FX: cut
+[0:21-0:27] · "the drugstore filled up — calm it, dry it, medicate it" · SCREEN: [HAVE] OB-CREAMWALL (+[GET #15]) · HER: 3C-2 point-SIDE · CAP: "a whole aisle of promises" · FX: cut
+[0:27-0:32] · "a whole aisle — all built to chase the rash" · SCREEN: [GET #15] aisle pan · HER: 3C-2 point-SIDE · CAP: "all CHASING it" · FX: cut
+[0:32-0:37] · "one kind of skin we've always protected — a baby's" · SCREEN: [HAVE] OB-BABY (+[GET #16]) · HER: 3C-3 float point-UP · CAP: "we already KNOW the fix" · FX: cut (points UP)
+[0:37-0:43] · "we don't medicate a baby's fold — we put a barrier on it" · SCREEN: [GET #16] barrier on baby / [HAVE] OB-BORROWED · HER: 3C-3 point-UP · CAP: "a baby's fold? we BARRIER it" · FX: cut
+[0:43-0:47] · "keeps skin from rubbing raw" · SCREEN: [HAVE] SL-XSEC-FILM · HER: hidden · CAP: "it just sits + protects" · FX: cut
+[0:47-0:52] · "we've done it for a hundred years, without thinking" · SCREEN: [HAVE] OB-TIN (+[GET #17] antique tin) · HER: 3C-3 box · CAP: "100 years — without thinking" · FX: slow push
+[0:52-0:57] · "it was never that you didn't try hard enough" · SCREEN: HER full-frame · HER: 3C-4 FULL-FRAME · CAP: "it was never you" · FX: cut
+[0:57-1:03] · "the simple fix got buried — no money in a plain barrier" · SCREEN: [HAVE] OB-CREAMWALL (+[GET #15]) · HER: 3C-4 point-SIDE · CAP: "the simple fix got BURIED" · FX: cut
+[1:03-1:08] · "almost nobody makes one for the fold" · SCREEN: [HAVE] OB-TIN (forgotten) · HER: 3C-4 box · CAP: "nobody made it... for the fold" · FX: cut
+[1:08-1:13] · "that's the whole idea behind ProudFold. not a stronger cream." · SCREEN: [HAVE] OF-TUBE · HER: 3C-5 float point-DOWN · CAP: "meet ProudFold" · FX: cut
+[1:13-1:18] · "a comfort barrier, made for the fold — a second skin" · SCREEN: [HAVE] OF-LINE · HER: 3C-5 point-DOWN · CAP: "a comfort BARRIER for the fold" · FX: cut
+[1:18-1:23] · "so skin glides instead of grinds" · SCREEN: [HAVE] SL-XSEC-FILM -> GLIDE · HER: hidden · CAP: "skin GLIDES, not grinds" · FX: cut
+[1:23-1:27] · "doesn't soak in, doesn't dry you out, stays, stops the rub" · SCREEN: [HAVE] OF-LINE / SL-CALM · HER: hidden · CAP: "it STAYS. stops the rub." · FX: cut
+[1:27-1:30] · "oldest idea in skincare — made for the place everyone forgot" · SCREEN: [HAVE] SL-CALM-MACRO · HER: 3C-5 box (smile) · CAP: "the oldest fix — made new" · FX: cut
+[1:30-1:33] · "a thin line in the morning" · SCREEN: [HAVE] OF-LINE · HER: 3C-6 FULL-FRAME · CAP: "one thin line, AM" · FX: cut
+[1:33-1:37] · "by noon — no paste, no stinging, no checking" · SCREEN: [GET #7] dressed, relaxed · HER: hidden · CAP: "by noon: nothing" · FX: rapid cuts
+[1:37-1:41] · "you stop planning your day around your skin" · SCREEN: [GET #10] confident / [HAVE] PO-SUNDRESS · HER: 3C-6 FULL-FRAME · CAP: "stop planning around your skin" · FX: cut
+[1:41-1:46] · "the answer was never a miracle — the simplest thing, brought back" · SCREEN: [HAVE] OB-TIN -> OF-TUBE · HER: hidden · CAP: "not a miracle — the simplest thing" · FX: cut
+[1:46-1:51] · "water-based, ships from US, 60-day keep-it" · SCREEN: [GET #19] + [HAVE] OF-SEAL · HER: 3C-6 FULL-FRAME · CAP: "US ships · 60-day keep-it" · FX: cut
+[1:51-1:57] · "go see the oldest fix, made new for you" · SCREEN: [HAVE] OF-BUYBOX end-card · HER: 3C-6 point-DOWN at CTA · CAP: "TAP TO SEE IT ->" · FX: END CARD holds 3s
+
+======================================================================
+AFTER THE CUT — finishing checklist
+======================================================================
+1. Watch once with SOUND OFF — captions + visuals must tell the whole story (most Meta/TikTok views are muted).
+2. First 3 seconds: if the hook frame + caption don't stop you, swap the opener (try leading on OB-TISSUE or SL-XSEC-TRAP instead of her face).
+3. Export 1080x1920, H.264, high bitrate.
+4. Also cut a 30-45s SHORT version of each (hook -> mechanism -> barrier -> CTA) — cheaper to test, and the short usually finds the winner first.
+5. Keep the disclaimer on screen; keep every caption in the comfort/barrier lane.
+```
