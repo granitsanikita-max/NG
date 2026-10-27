@@ -110,3 +110,18 @@ Walked the whole live funnel. **Prior "half-built store" + "no reviews" guesses 
 - **#3 caveat:** 8 IC still thin — first sale could be near; don't rebuild.
 - **FIX SEQUENCE (corrected):** you do NOT need a prior purchase to run a Purchase-optimised campaign — Meta allows Purchase optimisation on a 0-purchase pixel; it just delivers conservatively / "learning limited" until sales come in, but it hunts BUYERS from day one. So: (1) **launch a NEW ad set/campaign optimised for PURCHASE now** (can't flip the event on the existing live ATC ad set — must create new); stop running ATC (it trains the pixel on non-buyers). Only if Purchase won't spend at budget, bridge with **Initiate Checkout**, never ATC. (2) lower first-purchase barrier to land first sales faster — default/lead the **$29.95 single** + small (10–15%) first-order code. (3) keep volume growing; goal now = first sales + clean data, not peak efficiency. *(Supersedes the earlier "seed ATC then switch" note — that overstated the need to seed.)*
 - Note: all store-side execution (offer default, discount code) = store-build/offer stations; optimisation-event switch = ads/Nikita. Economics owns the diagnosis + the seed-then-switch logic.
+
+#### 2026-10-27 — Fresh per-ad read (lifetime A$176.37, 21 ATC, 8 IC) + 3-question plan
+**Winner is now obvious with volume — AD9 carries the campaign:** A$23 spend, **14 ATC @ A$1.67, 6 IC** (= Nikita's "$2 ATC"; it's this ONE ad). **AD9+AD7 = 18/21 ATC + 7/8 IC on A$53 (30% of spend); the other A$123 (70%) made 3 ATC/1 IC** = big misallocation. BUT even AD9's 6 checkouts → 0 purchase → confirms leak = optimisation+offer, not creative.
+| Ad | Spend | ATC | IC | Call |
+|---|---|---|---|---|
+| AD9 | 23 | 14 | 6 | ⭐ KEEP (winner) |
+| AD7 | 30 | 4 | 1 | ✅ KEEP (CPM A$80, lowest) |
+| AD5 | 36 | 3 | 1 | ⚠️ weak keeper (A$12/ATC) |
+| AD1 | 28 | 0 | 0 | ❌ STOP (good CTR, 0 cart = bleed) |
+| AD2/AD4/AD8 | ~3 ea | 0 | 0 | ❌ STOP (starved/clutter) |
+| AD3/AD6 | — | 0 | 0 | already PAUSED |
+- **Q1 (purchases from current ATCs):** mostly can't recover the 21 cold ATCs (too small for retargeting, no emails). Purchases come from next cohort via Purchase optimisation + lower offer. Only real recovery lever = Shopify abandoned-checkout email + email-capture popup + first-order code.
+- **Q2 (site):** site already strong (audited) — don't rebuild. Real levers = offer mechanics: (1) default buy box to **$29.95 single** (not $64.95 3-pack), (2) first-order 10–15% code via email popup, (3) Shop Pay Installments "pay in 4", (4) abandoned-checkout email ON.
+- **Q3 (stop):** stop AD1 + AD2/AD4/AD8; carry **AD9 + AD7** into the new Purchase ad set.
+- **Priority:** (1) new Purchase ad set w/ AD9+AD7, (2) default $29.95 single + first-order code, (3) stop AD1 + dead ones. Execution pending Nikita (money-affecting).
