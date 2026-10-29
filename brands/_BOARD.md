@@ -12,7 +12,7 @@ ad-creation → live → scaling
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
 | proudfold | tested | FINISHED — TESTED | **Product tested and finished (Nikita, 2026-10-29).** Not proceeding and no retest. Reason: it's an LTV/reorder brand and there's not enough cash to run an LTV brand yet. The next brand must be profitable on the first order. | 2026-10-29 | offer-design |
-| mens-compression-tank | deep-research | READY FOR NEXT | Run Step 1 Deep Market Research (Notion playbook) from `brain/00-HANDOFF-READ-FIRST.md`: validate "shirt problem, not body problem" + big & tall, VOC bank, North Alpine teardown, compliant claims, offer, name. Crowded market (North Alpine/Evolv/Selure) — conditional compete play. Parallel: Nikita sampling CJ CJDS299280229CX (ask CJ length/hem/spandex). | 2026-10-28 | product-research |
+| mens-compression-tank | offer-design (next) | READY FOR NEXT | **brain/ = full Notion Step 1 research** (overview, Docs 1–4, 581-row data bank) + new supplier SKU CJYD323488825YB + an old-vs-new analysis (`brain/06`). Wedge = post-weight-loss men, "hold it flat". NEXT: sample-test the new SKU (compression, length/sit test, white-shirt show-through, heat, 5 washes); confirm fiber %, size-chart units and whether the pattern is knitted or printed with CJ; then build the offer once Nikita gives the unit costs. | 2026-10-29 | offer-design |
 | menopause-serum | product-research | PARKED | #2 / fallback (own-a-position) — harder & pricier sourcing; parked behind ProudFold. | 2026-10-19 | product-research |
 
 <!-- Add new brands below. -->
