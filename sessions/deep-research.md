@@ -18,5 +18,6 @@ You gather and analyze. You do NOT decide the final offer — that's Offer Desig
 - Every claim traces to the brain or a cited source — no invented facts.
 
 ## Handoff
+**Only after Nikita explicitly confirms the work (CLAUDE.md rule 7).** Until then the draft stays in your scratchpad and nothing is committed — not the file, not STATE, not the board.
 Set STATE: stage `deep-research`, status `READY FOR NEXT`, next action
 "Design the offer + funnel." Update the board. Commit + push. Pull before you start.

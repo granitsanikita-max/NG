@@ -16,5 +16,6 @@ design the funnel: funnel type, page map, and a section-by-section PDP outline.
 - You spell out exactly what Copywriting must produce and what Store Build needs.
 
 ## Handoff
+**Only after Nikita explicitly confirms the work (CLAUDE.md rule 7).** Until then the draft stays in your scratchpad and nothing is committed — not the file, not STATE, not the board.
 Set STATE: stage `offer-design`, status `READY FOR NEXT`, next action
 "Write the funnel + store copy." Update the board. Commit + push. Pull first.

@@ -14,5 +14,6 @@ generate every clip without guessing.
 - A shot plan detailed enough that the next station just executes it.
 
 ## Handoff
+**Only after Nikita explicitly confirms the work (CLAUDE.md rule 7).** Until then the draft stays in your scratchpad and nothing is committed — not the file, not STATE, not the board.
 Set STATE: stage `storyboarding`, status `READY FOR NEXT`, next action
 "Generate the creatives." Update the board. Commit + push. Pull before you start.

@@ -15,5 +15,6 @@ pixel, checkout — and QA it.
 - STORE.md has live URLs and an honest "what's left" list.
 
 ## Handoff
+**Only after Nikita explicitly confirms the work (CLAUDE.md rule 7).** Until then the draft stays in your scratchpad and nothing is committed — not the file, not STATE, not the board.
 Set STATE: stage `store-build`, status `READY FOR NEXT` (or `BLOCKED` with what's
 needed), next action "Research ad angles / start creative." Update board. Commit + push. Pull first.

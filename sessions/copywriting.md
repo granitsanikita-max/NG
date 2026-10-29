@@ -15,5 +15,6 @@ mechanism, benefits, proof, offer block, FAQ, CTAs.
 - Hooks and the offer block are tight enough to convert cold traffic.
 
 ## Handoff
+**Only after Nikita explicitly confirms the work (CLAUDE.md rule 7).** Until then the draft stays in your scratchpad and nothing is committed — not the file, not STATE, not the board.
 Set STATE: stage `copywriting`, status `READY FOR NEXT`, next action
 "Build the store/funnel." Update the board. Commit + push. Pull before you start.

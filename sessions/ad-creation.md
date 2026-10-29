@@ -14,5 +14,6 @@ tools), logging the exact prompts so winners can be iterated.
 - Asset links are in CREATIVES.md; reusable good prompts go in the prompt library.
 
 ## Handoff
+**Only after Nikita explicitly confirms the work (CLAUDE.md rule 7).** Until then the draft stays in your scratchpad and nothing is committed — not the file, not STATE, not the board.
 Set STATE: stage `ad-creation`, status `READY FOR NEXT` → "Launch + track economics,"
 or `LIVE` once running. Update the board. Commit + push. Pull before you start.

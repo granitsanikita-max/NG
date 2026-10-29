@@ -17,6 +17,7 @@ Never write another station's file. (You'll also start new brand folders — see
 - A clear verdict: **GO / NO-GO / needs more validation**, with the reason.
 
 ## Handoff
+**Only after Nikita explicitly confirms the work (CLAUDE.md rule 7).** Until then the draft stays in your scratchpad and nothing is committed — not the file, not STATE, not the board.
 Set STATE: stage `product-research`, status `READY FOR NEXT` (if GO), next action
 "Deep research on audience + offer." Update the board. Commit + push.
 If NO-GO, status `KILLED` and one line why. Pull before you start, push when done.

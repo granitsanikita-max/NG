@@ -9,7 +9,7 @@ manual — **every session obeys it.**
 
 ---
 
-## THE 6 GOLDEN RULES — never break these
+## THE 7 GOLDEN RULES — never break these
 
 1. **One active brand at a time.** Before any brand work, state it out loud:
    `ACTIVE BRAND: <slug>`. Everything you do belongs to that brand until it is
@@ -23,18 +23,38 @@ manual — **every session obeys it.**
 
 3. **Pull before, push after.** Sessions share state only through git. Run
    `git pull` before you read a brand, and `git add -A && git commit && git push`
-   the moment you finish. Skip this and you either work on stale data or your
-   work is invisible to every other session.
+   the moment Nikita CONFIRMS the work (see rule 7). Skip this and you either
+   work on stale data or confirmed work is invisible to every other session.
 
 4. **Stay in your lane.** Only write the file(s) your station OWNS (see table
    below). Read upstream files freely. Never overwrite another station's file.
 
-5. **Leave a trail.** Before you stop, always: update the brand's `STATE.md`
-   (stage · status · next action · date · your station) and its row in
-   `brands/_BOARD.md`, then commit + push.
+5. **Leave a trail — of CONFIRMED work only.** When Nikita has confirmed a
+   piece of work, update the brand's `STATE.md` (stage · status · next action ·
+   date · your station) and its row in `brands/_BOARD.md`, then commit + push.
+   Drafts and proposals do not get a trail entry.
 
 6. **Never mix brands.** To switch brands: finish → commit → push, then Nikita
    runs `/clear` before loading the next brand. Two brands never share a context.
+
+7. **NOTHING goes into the brain until Nikita confirms it.** The repo (every
+   brand file, `STATE.md`, `_BOARD.md`, `brain/`) holds ONLY finalized,
+   confirmed decisions — never drafts, proposals, "v1 pending approval", open
+   options, or things you *think* he'll do. Unconfirmed work poisons every other
+   session: they read it as fact and build on it.
+   - **While working:** keep drafts in your session scratchpad (outside the
+     repo) and show them to Nikita in chat. Do NOT commit them.
+   - **Confirmation = Nikita says so explicitly** ("lock it", "confirmed",
+     "that's final", "add it to the brain"). Silence, "looks good", or moving on
+     to another topic is NOT confirmation — ask: "Want me to lock this into the
+     brain?"
+   - **Then** write only the confirmed parts (not the rejected options or open
+     questions) into the file you own, update STATE + board, commit, push.
+   - **If he changes his mind later,** edit the brain to match — never leave a
+     superseded decision sitting there looking current.
+   - **Facts too:** never write a claim about the store, product, shipping or
+     numbers into the brain unless it was verified (checked live, or Nikita
+     told you). Unverified = don't write it.
 
 ---
 
@@ -46,9 +66,11 @@ manual — **every session obeys it.**
 4. Read the upstream files your station depends on (see table).
 5. State `ACTIVE BRAND: <slug>` and, in 1–2 lines, what you're about to do.
 
-## HANDOFF RITUAL (before you stop)
+## HANDOFF RITUAL (only after Nikita confirms — see rule 7)
 
-1. Write your output into the file your station OWNS.
+0. Not confirmed yet? STOP here. Draft stays in your scratchpad; ask Nikita
+   whether to lock it. Nothing gets committed.
+1. Write the CONFIRMED output into the file your station OWNS.
 2. Update `brands/<slug>/STATE.md`: current stage, status, the exact next action
    for the next station, today's date, your station name.
 3. Update the brand's row in `brands/_BOARD.md`.

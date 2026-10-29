@@ -15,5 +15,6 @@ offer/CTA — each mapped to an angle, ready to storyboard.
 - Claims stay inside what the brain/RESEARCH support (ad-policy safe).
 
 ## Handoff
+**Only after Nikita explicitly confirms the work (CLAUDE.md rule 7).** Until then the draft stays in your scratchpad and nothing is committed — not the file, not STATE, not the board.
 Set STATE: stage `ad-scripting`, status `READY FOR NEXT`, next action
 "Storyboard the scripts + list B-roll." Update the board. Commit + push. Pull first.
