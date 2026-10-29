@@ -302,8 +302,47 @@ All bonuses are digital (≈$0 marginal). The offer stays profitable on order #1
 
 ---
 
-## 11. LIVE RESEARCH ADDITIONS (L#)
-*(filled from the 2026-10-29 live sweep — see below)*
+## 11. LIVE RESEARCH ADDITIONS (2026-10-29 sweep)
+Sources: Trustpilot (Healora, Clairon, Orgatics, Veloma), Mumsnet, People's Pharmacy, Reddit (search excerpts) and Target. Amazon review pages were blocked.
+
+**The core dream is confirmed in fresh words:**
+- L1 *"I can comfortably wear a bra and have sex without feeling awful about my body. I'm crying as I write this."* (peoplespharmacy.com, under-breast rash thread)
+- L2 *"Beginning to have a few thoughts that I could feel normal eventually!"* (same)
+- L3 *"Sometimes the pain was so bad I could barely leave the house."* (same)
+- L4 *"not only is the rash gone, I am able to wear my bras again"* (getclairon.com PDP review)
+- L5 *"a solution to a generational problem… all the ladies in my family have been 'well endowed' and struggled through the summer months"* (Healora Trustpilot)
+
+**New objections → added fixes:**
+
+| # | Objection | Source | Fix |
+|---|---|---|---|
+| L15 | **"Previous creams were basically barriers and didn't treat the rash"**, i.e. "just a barrier" sounds weak | Clairon Trustpilot 5★ | **Turn it around.** Real buyers found the *opposite* of drying works: *"Keeping it dry didn't work for me. Keeping it moisturized did"* (r/PlusSize). *"Most of the advice… says to DRY the area… I tried the opposite, and it worked"* (People's Pharmacy). Vaseline after showers → *"I have not had a problem since."* → ADV/PDP angle: **"Stop trying to dry it out. Protect it instead."** Never imply it "treats". Pitch it as a daily protect-and-prevent step, not a flare cure. |
+| L16 | "Do not buy on Facebook." | Orgatics Trustpilot 1★ | Same answer as L5: the trust block, no fake discounts, a real person, plain terms. Our channel *is* Facebook, so the PDP must look unlike a Facebook funnel. |
+| L17 | "Relief lasted 5 minutes / no change after 2 weeks" | Clairon 2★ ×2 · Veloma | The honest what-to-expect timeline (T2). The guarantee covers the full window, so she isn't gambling. |
+| L18 | Bra laundering, zinc stains, "gloopy" powders | Mumsnet · r/SkincareAddiction · Facebook "less messy than Calmoseptine?" | GAP-2 fabric test becomes **high priority**. If clean: "no white zinc stains on your bras" is a headline differentiator (ours has 0.01% zinc). |
+| L19 | "I'd rather talk to a person!" / "Automated AI-agent replies" | Orgatics ×2 | Already in the guarantee ("a real person within 1 business day"). Make it a buy-box line. |
+| L20 | "I couldn't have a refund as the cream had been opened… offered 20%" | Clairon 1★ | Already killed: the Keep-It Promise honours opened product. Say "even if it's opened and used" word for word. |
+
+**Competitor terms (checked live), so ours can't be compared like-for-like:**
+- **Clairon:**
+  - Pricing: $39.99 single · BOGO $39.99 · B2G2 $69.99.
+  - Free extras: wipes, a "mystery gift" and shipping.
+  - Guarantee: **100-day "no questions"**, but reviewers say opened tubes are refused or given 20–30% back.
+  - Shipping: "delivered in 7–12 business days".
+- **Healora:** 365-day guarantee in support replies, with the "money back guarantee is a scam" complaint. Support tells customers to "use every day for at least 30 days". Ships from China via Yun Express in 2–6+ weeks.
+- **Orgatics and Veloma:** surprise subscriptions, AI support, 70% partial refunds.
+
+**What this means for the offer:**
+1. **Overseas shipping is category-normal** (Clairon also quotes 7–12 business days). Stating it honestly costs us nothing. What buyers punish is *lying* about it.
+2. **Our guarantee is shorter than Clairon's 100 days and Healora's 365 days.** We win on *terms*, not length:
+   - honours opened tubes
+   - stop-and-refund
+   - keep the tube
+   - a human answers
+
+   ⚠️ **Decision for Nikita:** a skimmer will compare numbers. Options: (a) keep 60/90 and lead with "even if opened", or (b) raise the Reset and Every-Fold tiers to **100 days** to match Clairon's number while beating its terms. My rec: **(b) on the 3- and 5-tube tiers.** The refund exposure is the same tubes, and it removes the one like-for-like number she could compare.
+3. **The menthol sting risk is real** (several "burned / stings" complaints across the category). GAP-3 must be closed *before* the PDP says "cooling". If it tingles on raw skin, add the honest line: "a cool tingle on contact; if it stings on broken skin, wait until it's calmer, or stop and we refund you."
+4. **Unserved ideas, parked for later SKUs:** a no-reach / easy-apply format for 70+ and limited mobility, and a between-showers pocket refresher (Veloma buyer ask). Phase 2, not now.
 
 ---
 
