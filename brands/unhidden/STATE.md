@@ -1,0 +1,12 @@
+# STATE — Unhidden (men's compression slimming tank)
+
+> The handoff file. EVERY station updates this before it stops. Read it first.
+
+- **Current stage:** store build — PDP (setup/grounding done)
+- **Status:** IN PROGRESS — grounding complete, awaiting store template from Nikita
+- **Next action:** Nikita gives the live store **template** (theme sections as-is) → confirm what to ADD/CHANGE (his doc Part 3/bottom already maps most) → **OFFER lock → PDP section copy → image brief → images.** COPY BEFORE IMAGES.
+- **Blocked on:** **Physical sample** — gates the #1 images (with/without demo, sit/ride-up, white-shirt show-through, real big-body/loose-skin, fit) AND the claims (long-cut-stays-below-belt, invisible-under-white, strong compression, fiber %). Also: CJ multi-unit shipping quote; real reviews (never fabricate).
+- **Last touched:** 2026-10-30 by store-build
+
+## Log (newest first)
+- 2026-10-30 · store-build · **Brand set up + fully grounded.** Mirrored the Notion brain (DOC1 Market, DOC2 Customer, DOC3 Persuasion, DOC4 Brand/Offer/Funnel) into brain/ + saved Nikita's funnel/offer doc (NIKITA_FUNNEL_OFFER.md). **Key facts:** product = men's compression undershirt, **SKU CJYD323488814NM, S–5XL**, 5 colours; brand "Unhidden"; positioning "The scale isn't the finish line — your shirt is" (apparel-fit, AGAINST the miracle shirt); mechanism = extra skin can't shrink → HOLD it flat (long cut, deflated-balloon). **Offer = "The Finish-Line Kit"**: $39.95 / $79.90 (B2G1, pre-selected) / $119.85 (B3G2), ~74–76% margin, free ship; digital Kit (Styling Playbook + 60-Sec Put-On + Keep-It-Flat Care + free size-down swap) + "Look-Flatter-Or-It's-Free" keep-the-tank guarantee + Founding-500 (real count, no fake timers) + Perfect-Fit Finder + plain packaging. **Funnel = PDP-FIRST** (no advertorial at Launch 1); 14-section conversion-carousel PDP map. **Audience:** PDP speaks to ALL (lost-weight-loose-skin WEDGE + broad dad-bod/beer-belly scale + partner buyer); sharp per-avatar ADS feed it. **Compliance (existential):** appearance-only/while-worn, 1st/3rd person; NEVER weight-loss/tighten-skin/timeframe/condition-targeting/medical/fake-proof; a competitor page was Meta-disabled. **Imagery doctrine (from Nikita's doc): REAL imagery is the premium lever; AI/stock/mixed = the dropship tell** → build design/graphic assets now, on-body/demo imagery is sample-gated + wants real bodies/video. Next: store template → copy → images.
