@@ -19,12 +19,13 @@
 
 - **Bonuses / bundles (THE KIT — on every tier, shown as benefit bullets at add-to-cart):**
   - Free shipping
-  - The Styling Playbook (~$29 value) — digital guide, emailed on purchase
-  - The Keep-It-Flat Care Card (~$9 value) — digital guide, emailed on purchase
+  - The Styling Playbook ($19.99 value) — digital guide, emailed on purchase
+  - The Keep-It-Flat Care Card ($19.99 value) — digital guide, emailed on purchase
   - Free size-down swap as you keep losing
   - 60-day keep-it guarantee
   - Founding price locked (first 500)
-  - ≈$38 digital value + free shipping on top of the tank(s). Tiers escalate on free tanks + $/tank, NOT on bonuses.
+  - ≈$40 digital value ($19.99 each guide) + free shipping on top of the tank(s). Tiers escalate on free tanks + $/tank, NOT on bonuses.
+  - NOTE (2026-10-31): guide products set to $0.00 price / $19.99 compare-at in Shopify so the cart shows "$19.99 → FREE". Keep Kaching bundle highlight bullets at "$19.99 value" to match.
   - (REMOVED 2026-10-31: "60-Second Put-On Method" guide — step-in method doesn't apply to this SKU.)
 
 - **Tech setup:**
