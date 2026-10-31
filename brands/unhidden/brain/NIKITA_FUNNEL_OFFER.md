@@ -23,12 +23,12 @@ Free shipping on all (baked into cost). Reason-why = founding launch price. Fall
 THE KIT (on EVERY tier — these kill objections every buyer has)
 - The tank(s) — 1/3/5
 - The Styling Playbook (~$29) — how to wear/style it
-- The 60-Second Put-On Method (~$12) — how to get it on easy
 - The Keep-It-Flat Care Card (~$9) — how to keep the compression
 - Free size-down swap as you keep losing
 - "Look-Flatter-Or-It's-Free" guarantee (keep the tank)
 - Founding price locked (first 500)
-≈$50 digital value > a single tank, ~$0 cost. Tiers escalate on free tanks + $/tank, NOT on bonuses.
+≈$38 digital value > a single tank, ~$0 cost. Tiers escalate on free tanks + $/tank, NOT on bonuses.
+(REMOVED 2026-10-31: "60-Second Put-On Method" guide — the step-in method doesn't apply to this SKU and the page already covers putting it on.)
 (The Kit's extras are digital guides — frame "unlock your Kit", never imply a box of physical trinkets.)
 
 GUARANTEE — "Look Flatter Or It's Free"

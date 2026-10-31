@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Unhidden Styling Playbook</title>
+<style>
+  @page { size: Letter; margin: 0; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html,body { background:#F4EEDF; color:#1C1C1C; font-family:'Helvetica Neue', Arial, sans-serif; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  .page {
+    width:8.5in; min-height:11in; background:#F4EEDF;
+    padding:0.75in 0.85in 0.6in; position:relative;
+    display:flex; flex-direction:column; page-break-after:always;
+  }
+  .page:last-child { page-break-after:auto; }
+
+  /* shared bits */
+  .wordmark { font-size:15px; font-weight:800; letter-spacing:3px; color:#1C1C1C; }
+  .foot { position:absolute; left:0.85in; right:0.85in; bottom:0.45in; display:flex; justify-content:space-between; font-size:11px; letter-spacing:1px; color:#8c8674; text-transform:uppercase; }
+  .kicker { font-size:13px; font-weight:800; letter-spacing:2px; color:#E32402; text-transform:uppercase; margin-bottom:10px; }
+  h1.sec { font-size:34px; font-weight:800; line-height:1.05; letter-spacing:-0.5px; margin-bottom:6px; }
+  .rule { height:5px; width:64px; background:#1C1C1C; margin:14px 0 22px; }
+  p { font-size:16px; line-height:1.62; margin-bottom:14px; color:#2b281f; }
+  p.lead { font-size:18px; line-height:1.6; }
+  strong { font-weight:800; color:#1C1C1C; }
+  ul { margin:4px 0 16px 0; list-style:none; }
+  li { font-size:16px; line-height:1.55; margin-bottom:11px; padding-left:26px; position:relative; color:#2b281f; }
+  li:before { content:""; position:absolute; left:4px; top:10px; width:8px; height:8px; background:#E32402; border-radius:50%; }
+  .imgph {
+    border:2px dashed #c3b896; background:#EChnE; background:#ece3cd; color:#7b7560;
+    text-align:center; font-style:italic; font-size:13.5px; line-height:1.5;
+    padding:30px 26px; border-radius:10px; margin:16px 0 20px;
+  }
+  .imgph b { display:block; font-style:normal; font-weight:800; letter-spacing:1px; color:#9a9072; font-size:11px; margin-bottom:6px; text-transform:uppercase; }
+  .box { background:#1C1C1C; color:#F4EEDF; border-radius:14px; padding:26px 30px; margin:8px 0 14px; }
+  .box h3 { font-size:17px; font-weight:800; letter-spacing:1px; text-transform:uppercase; margin-bottom:12px; color:#fff; }
+  .box p, .box li { color:#e9e3d2; }
+  .box li:before { background:#E32402; }
+  .twocol { display:flex; gap:22px; }
+  .twocol > div { flex:1; }
+  .tag { display:inline-block; background:#1C1C1C; color:#F4EEDF; font-size:12px; font-weight:800; letter-spacing:1px; padding:5px 12px; border-radius:20px; text-transform:uppercase; margin-bottom:14px; }
+
+  /* cover */
+  .cover { justify-content:center; align-items:flex-start; text-align:left; }
+  .cover .bigmark { font-size:30px; font-weight:800; letter-spacing:6px; }
+  .cover .finish { height:6px; width:200px; background:#1C1C1C; margin:16px 0 40px; }
+  .cover h1 { font-size:62px; font-weight:800; line-height:1.0; letter-spacing:-1.5px; margin-bottom:20px; }
+  .cover h1 .red { color:#E32402; }
+  .cover .sub { font-size:21px; line-height:1.4; color:#4a4636; max-width:6.2in; font-weight:500; }
+  .cover .pill { margin-top:40px; font-size:13px; font-weight:800; letter-spacing:2px; color:#8c8674; text-transform:uppercase; }
+</style>
+</head>
+<body>
+
+<!-- COVER -->
+<section class="page cover">
+  <div class="bigmark">UNHIDDEN</div>
+  <div class="finish"></div>
+  <h1>The Styling<br><span class="red">Playbook</span></h1>
+  <div class="sub">How to look leaner and sharper in the clothes you already own. The tank does half the work. This is the other half.</div>
+  <div class="pill">Part of your Finish-Line Kit</div>
+</section>
+
+<!-- WELCOME -->
+<section class="page">
+  <div class="kicker">Start here</div>
+  <h1 class="sec">Read this once and you'll never get dressed the same way again</h1>
+  <div class="rule"></div>
+  <p class="lead">You bought the tank to look flatter. Wearing it is step one. Dressing around it is what takes you from "that looks a bit better" to "wait, have you lost weight?"</p>
+  <p>None of this is complicated. You probably already own most of what you need. We're not going to tell you to throw out your wardrobe or spend a fortune. We're going to show you a few simple rules that make everything you put on sit better over a flat front.</p>
+  <p>Give it ten minutes. Then go open your closet and look at it differently.</p>
+  <div class="imgph"><b>Image</b>Lifestyle shot: our guy at home, relaxed, pulling a shirt off a hanger. Warm, real, confident. Sets the "you've got this" tone.</div>
+  <div class="foot"><span class="wordmark">UNHIDDEN</span><span>Styling Playbook · 02</span></div>
+</section>
+
+<!-- THE ONE IDEA -->
+<section class="page">
+  <div class="kicker">The one idea</div>
+  <h1 class="sec">Start flat, then build on top</h1>
+  <div class="rule"></div>
+  <p class="lead">Here is the whole trick in one sentence. When your stomach is held flat, your shirt stops fighting your body and finally hangs the way it was designed to.</p>
+  <p>Think about why your shirts never sat right before. The fabric was stretching over your middle, pulling at the buttons, riding up, bunching. You were asking the shirt to do a job it was never built for.</p>
+  <p>The tank gives you a smooth, flat base. Now the shirt just drapes. That is it. Everything else in this book is simply making sure the shirt on top works with that flat base instead of hiding it.</p>
+  <div class="box">
+    <h3>Remember this</h3>
+    <p>A flat base plus a well fitted shirt beats an expensive shirt every time. You already sorted the base. Now let's sort the shirt.</p>
+  </div>
+  <div class="foot"><span class="wordmark">UNHIDDEN</span><span>Styling Playbook · 03</span></div>
+</section>
+
+<!-- COLOUR RULE -->
+<section class="page">
+  <div class="kicker">The most important page</div>
+  <h1 class="sec">The colour rule</h1>
+  <div class="rule"></div>
+  <p class="lead">The tank comes in more than one colour for a reason. Which one you wear depends on the shirt going over the top. Get this wrong and everyone sees the tank. Get it right and nobody ever knows it's there.</p>
+  <ul>
+    <li><strong>Under white or light shirts, wear a light tank.</strong> White or light grey. A dark tank under a thin white shirt shows straight through, and that is the one mistake people actually notice.</li>
+    <li><strong>Under dark shirts, wear black.</strong> Navy, charcoal, black on top means black underneath. It disappears completely.</li>
+    <li><strong>Not sure? Grey is your safe pick.</strong> It hides under almost everything, light or dark.</li>
+  </ul>
+  <div class="box">
+    <h3>The 5 second window test</h3>
+    <p>Before you leave, hold your shirt up to a window with the tank behind it. If you can see the tank through the shirt, that shirt is too thin for that colour. Switch to a lighter tank or a thicker shirt. Done.</p>
+  </div>
+  <div class="imgph"><b>Image</b>Side by side: left, light tank under a white shirt and you can't see it. Right, dark tank under the same white shirt and it shows through. Big clear difference.</div>
+  <div class="foot"><span class="wordmark">UNHIDDEN</span><span>Styling Playbook · 04</span></div>
+</section>
+
+<!-- T-SHIRT -->
+<section class="page">
+  <span class="tag">Shirt by shirt</span>
+  <h1 class="sec">Under a plain t-shirt</h1>
+  <div class="rule"></div>
+  <p class="lead">Fit is everything here. This is the one most men get wrong, and it is the easiest to fix.</p>
+  <p>A tee that is too baggy hides the flat shape you just created and makes you look bigger than you are. A tee that is too thin and clingy shows every outline. You want the middle ground. A mid weight tee that skims your body without gripping it.</p>
+  <ul>
+    <li>Go for a slightly structured cotton, not the cheap thin stuff that clings.</li>
+    <li>A crew neck sits cleaner on most builds than a deep v neck.</li>
+    <li>If you tuck it, tuck it fully. A half tuck on a bigger frame usually just looks messy.</li>
+    <li>If it pulls anywhere across the chest or stomach, go up one size. Comfort reads as confidence.</li>
+  </ul>
+  <div class="imgph"><b>Image</b>Our guy in a well fitted mid weight tee, flat front, looking relaxed. Show how clean a plain tee can look over the tank.</div>
+  <div class="foot"><span class="wordmark">UNHIDDEN</span><span>Styling Playbook · 05</span></div>
+</section>
+
+<!-- POLO -->
+<section class="page">
+  <span class="tag">Shirt by shirt</span>
+  <h1 class="sec">Under a polo</h1>
+  <div class="rule"></div>
+  <p class="lead">The polo is one of the easiest wins you own. The collar pulls the eye up to your face, and the structure holds its own shape instead of clinging to yours.</p>
+  <ul>
+    <li><strong>Buttons.</strong> Leave the top one undone and do the rest up. All buttoned looks tight. All undone looks sloppy. One undone looks right.</li>
+    <li><strong>Fit.</strong> It should sit close but never pull. The fit across your chest and stomach matters far more than the sleeve. If it tugs, size up.</li>
+    <li><strong>Colour.</strong> A solid mid to dark colour is the most flattering. Save the busy patterns for when you're feeling good and want to show it.</li>
+  </ul>
+  <div class="imgph"><b>Image</b>Our guy in a fitted polo, top button open, collar sitting clean. Shows the flat front and the collar drawing the eye up.</div>
+  <div class="foot"><span class="wordmark">UNHIDDEN</span><span>Styling Playbook · 06</span></div>
+</section>
+
+<!-- OPEN SHIRT -->
+<section class="page">
+  <span class="tag">Shirt by shirt</span>
+  <h1 class="sec">Under an open or casual shirt</h1>
+  <div class="rule"></div>
+  <p class="lead">This layer does a lot of quiet work. An open shirt creates two long vertical lines running straight down your body, and vertical lines make you look taller and leaner without doing anything else.</p>
+  <ul>
+    <li>Wear it open over a fitted tee, or with just the tank collar showing. Both work.</li>
+    <li>Keep it from turning into a tent. It should hang straight down, not balloon out at the sides.</li>
+    <li>Roll the sleeves up to the forearm. It looks intentional and easy, and it shows a bit of skin which breaks up the bulk.</li>
+  </ul>
+  <div class="imgph"><b>Image</b>Our guy in an open casual button shirt over a fitted tee, sleeves rolled. Show the two vertical lines down the body.</div>
+  <div class="foot"><span class="wordmark">UNHIDDEN</span><span>Styling Playbook · 07</span></div>
+</section>
+
+<!-- DRESS SHIRT -->
+<section class="page">
+  <span class="tag">Shirt by shirt</span>
+  <h1 class="sec">Under a dress shirt</h1>
+  <div class="rule"></div>
+  <p class="lead">This is the one people notice. A dress shirt over a flat base, with nothing pushing it out and no lines showing through, is the whole reason you bought the tank.</p>
+  <ul>
+    <li><strong>Get the fit right in the body first.</strong> You can tailor a collar and shorten a sleeve. You cannot fake the fit through the chest and stomach, so buy for that.</li>
+    <li><strong>Tuck it in.</strong> A flat front, tucked, is the leanest you will look all day. Untucked over a flat stomach is a wasted opportunity.</li>
+    <li><strong>Wear your light tank underneath</strong> so nothing shows through, and check it in daylight before you walk out the door.</li>
+    <li><strong>For events</strong>, pick a shirt with a bit of body to it. The flimsy cheap kind clings. A shirt with structure holds the clean line all night.</li>
+  </ul>
+  <div class="imgph"><b>Image</b>Our guy in a crisp tucked dress shirt at an event, flat front, confident. This is the money shot of the whole guide.</div>
+  <div class="foot"><span class="wordmark">UNHIDDEN</span><span>Styling Playbook · 08</span></div>
+</section>
+
+<!-- BOTTOMS -->
+<section class="page">
+  <div class="kicker">Don't forget the bottom half</div>
+  <h1 class="sec">The trousers matter too</h1>
+  <div class="rule"></div>
+  <p class="lead">Half of looking leaner up top is making sure the bottom half agrees with it. You can nail the shirt and still throw it away with the wrong trousers.</p>
+  <ul>
+    <li><strong>Wear them at your natural waist,</strong> not slung under your stomach. Sitting under the belly makes it look bigger and shorter. Up and over is leaner every time.</li>
+    <li><strong>Go straight or slightly tapered in the leg.</strong> Skinny fits fight a fuller middle and baggy fits drown you. Straight is the friend of almost every body.</li>
+    <li><strong>Keep your shoe colour close to your trouser colour.</strong> It keeps one long unbroken line running from your waist all the way to the floor, and long lines read as tall and lean.</li>
+  </ul>
+  <div class="imgph"><b>Image</b>Lower body: trousers sitting at the natural waist, straight leg, shoes matched in tone. Show the clean long line.</div>
+  <div class="foot"><span class="wordmark">UNHIDDEN</span><span>Styling Playbook · 09</span></div>
+</section>
+
+<!-- FORMULAS -->
+<section class="page">
+  <div class="kicker">Steal these</div>
+  <h1 class="sec">Three outfits that always work</h1>
+  <div class="rule"></div>
+  <p>When you can't be bothered thinking, reach for one of these. They are built on everything in this book, so you don't have to remember the rules.</p>
+  <div class="box">
+    <h3>Weekend</h3>
+    <p>Light tank, fitted grey tee, dark straight jeans, clean trainers. Easy, flat, done.</p>
+  </div>
+  <div class="box">
+    <h3>Work</h3>
+    <p>Light tank, white dress shirt tucked in, navy chinos, brown shoes. Sharp and nobody knows your secret.</p>
+  </div>
+  <div class="box">
+    <h3>Night out</h3>
+    <p>Black tank, black fitted tee, a dark open shirt over the top, dark trousers. One tone head to toe is the oldest leaning trick there is, and it still works.</p>
+  </div>
+  <div class="foot"><span class="wordmark">UNHIDDEN</span><span>Styling Playbook · 10</span></div>
+</section>
+
+<!-- DOS AND DONTS -->
+<section class="page">
+  <div class="kicker">Keep it simple</div>
+  <h1 class="sec">Quick do's and don'ts</h1>
+  <div class="rule"></div>
+  <div class="twocol">
+    <div>
+      <div class="box" style="background:#1C1C1C;">
+        <h3 style="color:#fff;">Do</h3>
+        <ul>
+          <li>Buy shirts to fit your chest and stomach, size up if they pull.</li>
+          <li>Keep your colours close together for one long line.</li>
+          <li>Tuck in when the front is flat.</li>
+          <li>Check thin pale shirts in daylight before you leave.</li>
+        </ul>
+      </div>
+    </div>
+    <div>
+      <div class="box" style="background:#E32402;">
+        <h3 style="color:#fff;">Don't</h3>
+        <ul>
+          <li>Hide under baggy clothes. It makes you look bigger, not smaller.</li>
+          <li>Wear a dark tank under a thin pale shirt.</li>
+          <li>Put horizontal stripes across your middle.</li>
+          <li>Let a shirt balloon out. It should hang straight down.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="imgph"><b>Image</b>Optional: a clean side by side, one baggy "before" look and one fitted "after" look on the same guy, to drive the do/don't home.</div>
+  <div class="foot"><span class="wordmark">UNHIDDEN</span><span>Styling Playbook · 11</span></div>
+</section>
+
+<!-- CLOSE -->
+<section class="page cover">
+  <div class="bigmark">UNHIDDEN</div>
+  <div class="finish"></div>
+  <h1 style="font-size:46px;">Now go get<br>dressed.</h1>
+  <div class="sub" style="margin-top:4px;">Nothing in here is hard. Fit flat first. Match your colours. Let the clothes hang straight. Keep one long line down your body.<br><br>Do that and the question stops being "does this hide it" and starts being "where are we going tonight."</div>
+  <div class="box" style="margin-top:36px; max-width:6.2in;">
+    <h3>Still deciding?</h3>
+    <p>Put it on, look in the mirror. If you don't look flatter, keep the tank and we'll refund you. Wrong size, we swap it free. A real person answers in one business day. That's the deal.</p>
+  </div>
+</section>
+
+</body>
+</html>
