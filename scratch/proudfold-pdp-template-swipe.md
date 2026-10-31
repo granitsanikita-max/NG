@@ -1,3 +1,5 @@
+> **PROPOSAL — NOT CONFIRMED by Nikita.** Reference only; not a brand decision. Do not build from this until it is confirmed and moved into the owning station's file.
+
 # ProudFold — PDP template to swipe (Daily Tasks, 2026-10-28)
 
 > For the **store-build / copywriting** stations. Daily Tasks does not own STORE.md or COPY.md, so this lives in scratch.
