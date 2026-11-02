@@ -5,7 +5,11 @@
 **Why:** run 1 researched only post-weight-loss men; the store speaks to all men. Run 2 researched every men's buyer group at full depth (G1 dad bod / belly · G2 chest / "man boobs" · G3 post-weight-loss · G4 big & tall · G5 men 50+; women buyers and gym guys excluded per Nikita) and let the evidence pick the launch group.
 
 **Notion folder:** https://app.notion.com/p/40cd53123cd681488348ee7264cc7fb6
-(Doc + data-bank page links are added once the Notion upload finishes.)
+- Doc 1 — Market & Competition: https://app.notion.com/p/40cd53123cd6819989d6cf65afe1afd8
+- Doc 2 — The Customer: https://app.notion.com/p/40cd53123cd68114845af1c046af5fd1
+- Doc 3 — Persuasion: https://app.notion.com/p/40cd53123cd681b9aed0d9b6f1d4f0cc
+- Doc 4 — Brand, Offer & Funnel: https://app.notion.com/p/40cd53123cd68151a39ddf7a0214455c
+- §2C Data Bank (2,322 rows): https://app.notion.com/p/df1d3d8c7d38401a81cb2fcbf3d6d5b3 (full CSV: research/run2/2C-databank.csv)
 
 **Local copies:** `research/run2/` — 4 docs (.md), `2C-databank.csv` (2,322 rows: run 1's 581 re-sorted + 1,741 new), `2C-tally.md`, `ad-log-run2.csv` (867 ads), `competitor-offers-table.tsv` (33 competitors), `step1-ledger.md` (588 rows: 584 done, 4 blocked), `verify/RESULT-A/B/C.md` (§20 fact-checks).
 
