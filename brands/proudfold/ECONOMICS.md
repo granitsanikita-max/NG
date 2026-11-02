@@ -125,3 +125,13 @@ Walked the whole live funnel. **Prior "half-built store" + "no reviews" guesses 
 - **Q2 (site):** site already strong (audited) — don't rebuild. Real levers = offer mechanics: (1) default buy box to **$29.95 single** (not $64.95 3-pack), (2) first-order 10–15% code via email popup, (3) Shop Pay Installments "pay in 4", (4) abandoned-checkout email ON.
 - **Q3 (stop):** stop AD1 + AD2/AD4/AD8; carry **AD9 + AD7** into the new Purchase ad set.
 - **Priority:** (1) new Purchase ad set w/ AD9+AD7, (2) default $29.95 single + first-order code, (3) stop AD1 + dead ones. Execution pending Nikita (money-affecting).
+
+#### 2026-11-02 — CLOSING SCOREBOARD (ProudFold finished/tested; both campaigns paused). Economics closes the book.
+**Total ProudFold ad test: ~A$383.26 spend → 24 ATC → 9 checkouts → 0 purchases → $0 revenue.**
+| Campaign | Opt | Spend | Impr | CPM | ATC | IC | Purch |
+|---|---|---|---|---|---|---|---|
+| WARM UP C1 | Add-to-Cart | A$192.74 | 1,812 | A$106 | 24 (A$8.03) | 9 (A$21.42) | 0 |
+| Purchase 1 | Purchase | A$190.52 | **749** | **A$254** | 0 | 0 | 0 |
+- **Key lesson — Purchase-opt on a cold 0-purchase pixel FAILED by delivery:** same A$190, but 60% fewer impressions at 2.4× CPM (A$254) → 0 carts/checkouts/sales. The cold-start chicken-and-egg is real: no purchase history + limited budget → Meta throttles to a tiny expensive audience and finds nobody. (My earlier "switch to Purchase" advice was directionally right but his budget was too small to push through the cold start — the real constraint was CASH, which is exactly Nikita's shelving reason.)
+- **Soft metrics:** every ad's quality/engagement/conversion ranking = UNKNOWN — no ad crossed the ~500-impr/wk threshold to earn a rank. Test was spread across ~16 ads/adsets = under-powered, no creative got a fair read. Engagement itself fine (video VID F3 V1 drove Purchase 1 post-eng 217). So creative wasn't the failure; delivery + cold-start + LTV-model cash need were.
+- **Verdict confirms the shelving (Nikita 2026-10-29):** ProudFold is an LTV/reorder brand; getting the 1st sale needs cash to push purchase-opt through its cold start. Correct call to move to a first-order-profit brand. **ECONOMICS BOOK CLOSED on ProudFold.**

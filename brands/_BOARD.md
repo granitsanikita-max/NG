@@ -11,7 +11,7 @@ ad-creation → live → scaling
 
 | Brand | Stage | Status | Next action | Updated | By |
 |-------|-------|--------|-------------|---------|----|
-| proudfold | tested | FINISHED — TESTED | **Product tested and finished (Nikita, 2026-10-29).** Not proceeding and no retest. Reason: it's an LTV/reorder brand and there's not enough cash to run an LTV brand yet. The next brand must be profitable on the first order. | 2026-10-29 | offer-design |
+| proudfold | tested | FINISHED — TESTED | **Product tested and finished (Nikita, 2026-10-29).** Not proceeding and no retest. Reason: it's an LTV/reorder brand and there's not enough cash to run an LTV brand yet. The next brand must be profitable on the first order. · **Economics closing scoreboard (2026-11-02):** ~A$383 spend → 24 ATC → 9 checkouts → **0 sales / $0 rev**; Purchase-opt campaign failed by delivery (A$254 CPM, 749 impr, 0 results) — cold-start confirmed. Book closed. | 2026-11-02 | economics |
 | mens-compression-tank | offer-design → funnel/store | READY FOR NEXT | **OFFER LAUNCH 1 LOCKED → OFFER.md** ("The Finish-Line Kit"). USD $39.95 / $79.90 (Buy2Get1Free, pre-selected) / $119.85 (Buy3Get2Free); SKU CJYD323488814NM, landed A$12.40/24.20/34.96; ~75% margin, B/E ROAS ~1.31–1.34. Kit = tank + 3 digital playbooks + free size-swap + "Look-Flatter-Or-It's-Free" guarantee + Founding-500. No sub; upsells parked. **NEXT: funnel + PDP build (FUNNEL.md). Priority #1 = the keystone Finish-Line Video, gated on the sample.** Gaps: sample test, FX, big-body clip, price-raise decision, plain mailer. | 2026-10-29 | offer-design |
 | menopause-serum | product-research | PARKED | #2 / fallback (own-a-position) — harder & pricier sourcing; parked behind ProudFold. | 2026-10-19 | product-research |
 
