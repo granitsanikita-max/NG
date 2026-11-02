@@ -1,5 +1,28 @@
 # RESEARCH — men's compression tank (Step 1 Deep Market Research)
-> Owned by: DEEP research & offer research. Run 2026-10-28, verified 2026-10-29. Built from THIS run's fresh research only (the brain/ hand-off conclusions were not used as sources, per Nikita).
+> Owned by: DEEP research & offer research. **Two runs exist — Nikita will compare and keep one.**
+
+## RUN 2 — ALL MEN (2026-11-02, verified same day) ← newest
+**Why:** run 1 researched only post-weight-loss men; the store speaks to all men. Run 2 researched every men's buyer group at full depth (G1 dad bod / belly · G2 chest / "man boobs" · G3 post-weight-loss · G4 big & tall · G5 men 50+; women buyers and gym guys excluded per Nikita) and let the evidence pick the launch group.
+
+**Notion folder:** https://app.notion.com/p/40cd53123cd681488348ee7264cc7fb6
+(Doc + data-bank page links are added once the Notion upload finishes.)
+
+**Local copies:** `research/run2/` — 4 docs (.md), `2C-databank.csv` (2,322 rows: run 1's 581 re-sorted + 1,741 new), `2C-tally.md`, `ad-log-run2.csv` (867 ads), `competitor-offers-table.tsv` (33 competitors), `step1-ledger.md` (588 rows: 584 done, 4 blocked), `verify/RESULT-A/B/C.md` (§20 fact-checks).
+
+- **Launch group (honest):** no men's group is uncontested in the US. G1 + G2 are North Alpine's own angles (automatic fails); G4 is owned by specialists and our SKU stops at 3XL; G5 is a want. **G3 (lost the weight, still shows) is the least-owned painkiller** — ≥21 live ads from InShape, Selure and Alphacore (Alphacore names GLP-1), North Alpine none → a land-grab. Same lead as run 1, now proven against every group.
+- **Scale targets (full depth, Doc 2 §3A):** G2 chest (strongest pain) → G1 belly (biggest pool, work-shirt moment) → G5 50+ (the age band already buying; age as a passing label only) → G4 on hold until the CJ 3XL is measured.
+- **Customer:** every group wants "look flat in a shirt" (363); core driver = identity — look like the man you are now (545). Top fears for every group: size 261 · strength 156 · scam 137. #1 belief: "compression works, but only while I wear it" (64). G3's #1 trigger: the weight-loss milestone (106 of 290).
+- **Mechanism:** "Squeeze moves it. Hold keeps it." — an even hold from chest to past the belt line, hem below the soft part, stays down. **Blocked until a filmed sample proves length, hem and breathing.**
+- **Brand line (locked):** "the blunt, dry-funny brand that stands FOR 'a shirt can't change your body — it can change how you look in your shirt' and AGAINST the miracle shirt — the compression undershirt for men who want to look like the man they are now." (InShape and Alphacore already say "won't tighten skin" → moat = line + mechanism + size-down swap + attitude + speed.)
+- **Offer + price:** policy-true 60-day guarantee (13 of 22 competitor guarantees are contradicted by their policy), measured fit (chest + waist + height), free size swap, **size-down swap for men still losing (nobody offers it)**. Test $39.95 single / "2 + 1 FREE" $79.90 (ROAS 3.13 for 20% net at worst-case shipping); $69.90 needs 3.92.
+- **Funnel:** Discovery Stack — G3 ad (milestone moment, shirt-on proof) → third-person advertorial (why it still shows + squeeze vs hold + forgotten history + FTC villain) → offer page → one cart add-on → thank-you-page fit check + size swap.
+- **Compliance:** appearance-while-worn only; Meta's undergarment exemption doesn't cover slimming ads; no "you/your + body", no GLP-1 / age questions, no body before/after, no posture / fat / skin-tightening claims; say "undershirt", never "shapewear".
+- **Gates (Nikita):** sample M + XL (white + nude) — length, hem sit test, breathing, white-shirt show-through, heat; CJ combined-parcel quote (2/3/5); CJ product URL.
+
+---
+
+## RUN 1 — POST-WEIGHT-LOSS ONLY (2026-10-28, verified 2026-10-29)
+> Run 2026-10-28, verified 2026-10-29. Built from THIS run's fresh research only (the brain/ hand-off conclusions were not used as sources, per Nikita).
 
 **Notion folder (the deliverable):** https://app.notion.com/p/407d53123cd6817187dbc91861161563
 - Doc 1 — Market & Competition: https://app.notion.com/p/407d53123cd68122a1ccf98ef60bb795
