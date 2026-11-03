@@ -1,38 +1,34 @@
 # 📊 Doc 1 — Market & Competition
 
-**Folder:** [Men's Compression Slimming Tank — Step 1 Research (2026-10-28)](https://app.notion.com/p/407d53123cd6817187dbc91861161563)
+**Folder:** [Deep Research Run 2 — Men's Compression Tank](https://app.notion.com/p/40cd53123cd681488348ee7264cc7fb6)
 
 ## Top 5 takeaways
-1. **Demand is proven — and crowded.**
-   - Amazon: ≥12,150 units/month from badge floors.
-   - TikTok Shop US: 3,485 units in 30 days.
-   - ≥30 US Meta advertisers live; North Alpine est. $6.2–10.3M/30 days after only 8 months.
-   - → Don't test *whether* it sells. Test *what makes us different*.
-2. **The market is Stage 4→5.**
-   - 58% of live direct ads lead with a bigger claim, and 94 of 581 customer snippets are burned ("a printed pattern that looks like the elastic webbing in the ads").
-   - → Lead with a **mechanism + identity**, never another "2x slimmer".
-3. **Wedge = men who lost the weight but it still shows (loose skin first) — but §20 overturned "uncontested."**
-   - InShape opened a "men after GLP-1" loose-skin funnel on 2026-10-13 (≥8 live ads).
-   - Selure's "Arthur" persona runs it in 12 of 26 ads.
-   - → It's a **land-grab**: launch fast and win on mechanism + fit offer, not on the angle's words.
-4. **Seasonality:** June is the peak (6,074 TikTok units in Jun vs 2,025 in Oct). Black Friday CPMs run +59% for the week and +84% on the day.
-   - → Build now. Low-spend tests before ~Nov 10 or after Dec 2. Real spend from early January. Scale May–July.
-5. **Economics:** the $39.95 single has a 66.5% margin (break-even ROAS 1.50). But the $79.90 3-pack needs **ROAS 3.13 for 20% net** at worst-case shipping (each unit costed as its own parcel).
-   - → Get **CJ's multi-unit shipping quote** before setting bundle prices.
+1. **No men's group is uncontested — the post-weight-loss man (G3) is the least-owned painkiller, and it's crowding fast.**
+   - G1 dad bod (322 of 445 ads) and G2 chest (291) are North Alpine's own angles → automatic fails. G4 big & tall is owned by specialists and our SKU stops at 3XL.
+   - G3: ≥21 live ads from InShape, Selure and Alphacore (Alphacore names GLP-1 since Oct 21) — but North Alpine, the $6–10M/month leader, runs none.
+   - → **Launch on G3 now, as a land-grab**: win on mechanism + shirt-on proof + the size-down swap nobody offers + speed.
+2. **Demand is real and mature:** 4 stores at $1.8–10.3M per 30 days, ads live 398–457 days, Amazon's #1 at 2K+ bought/month — but all four leaders' traffic fell 16–51% from August to September.
+   - → Don't test *whether* it sells; test *what makes us different*. Expect the summer (May–Aug) and holiday (Nov–Dec) peaks.
+3. **The market is Stage 4 → 5:** 46% of ads lead with a bigger claim, the leaders already sell "upgraded" features (longer, adjustable, 360°), and 11% of 2,322 customer snippets are burned.
+   - → Lead with one honest mechanism + identity + on-camera proof. Never another "2x slimmer".
+4. **The #1 competitor's page is beatable on four things:** a "no questions asked" guarantee its policy contradicts (final sale, store credit), weight-loss and "ionic" claims, a flat-lay hero with no man in a shirt, and fit as its #1 complaint.
+   - → Build the opposite: policy-true guarantee, appearance-only claims, a shirt-on hero, a measured fit tool.
+5. **Economics hold, but the bundle is tight:** the $39.95 single clears 66.5% (break-even ROAS 1.50); a "2 + 1 FREE" at $69.90 needs ROAS 3.92 for 20% net at worst-case shipping (3.13 at $79.90) — before refunds and size swaps.
+   - → Price at $39.95 / 2+1 $79.90 and **get CJ's combined-parcel quote** before locking bundles.
 
 ---
 
 # Pre-0 · Economics & KPIs
 
-## Inputs (from Nikita — run date 2026-10-28)
-- **Target country / language:** USA · English (Nikita's standing rule: US first, Facebook/Meta only). Asked to confirm in the run's opening message.
-- **Current product page / store:** none yet (new product).
-- **Supplier product:** CJdropshipping **CJDS299280217QJ** — "Men Slim Body Shaper Tank Top Compression Tummy Control Hide Pot Belly Flatten Chest Undershirt Shapewear" (Nikita's screenshot of the live listing). CJ product URL requested from Nikita. Spec seen on the listing: 180 g · colours black / grey / navy / beige / white · sizes S, M, L, XL, 2XL, 3XL · inventory 6,201 (all at factory, CJ US warehouse 0) → ships from China. Full spec feeds §17.
-- **Landed cost per unit:** AUD 6.52 product + AUD 10.42 shipping (CJPacket Ordinary → US, 1–3 day processing, 4–9 day delivery for 62% of orders) = **AUD 16.94 = US$11.90** at the xe.com mid-market rate 1 AUD = 0.7022 USD (2026-10-28) [S1][S2]. (§20 re-check: xe showed 0.703503 at 12:00 UTC → US$11.91 — +1¢, no decision changes.) No separate fulfilment/packaging fee on CJ dropship (none shown on the listing).
-- **Planned selling price + offer shape:** not set yet → modelled below as test variants (two singles + a 2-pack + a 3-pack). Re-run at the §15 price.
-- **Processing:** 3% (page default) + $0.30 per order (entered as "other"). Shopify Payments Basic is 2.9% + 30¢. Premium cards are 3.5% and international cards +1%, so stress-test at 3.5% (≈ −$0.20 on a $39.95 order, −$0.40 on $79.90).
-- ⚠️ Real CJ price used — this is a CJ listing price, not an AliExpress "welcome deal" teaser.
-- ⚠️ Bundles are costed **conservatively as N separate parcels** (N × US$11.90). A combined 3-unit CJ parcel (~540 g) should ship cheaper — **CJ's multi-unit shipping quote is still needed** to finish the bundle rows.
+## Inputs (run 2 — 2026-11-02)
+- **Target country / language:** USA · English (Nikita's standing rule: US first, Facebook/Meta only; restated in his run-2 brief).
+- **Current product page / store:** none yet (new product, new brand).
+- **Supplier product:** CJdropshipping **CJDS299280217QJ** — "Men Slim Body Shaper Tank Top Compression Tummy Control Hide Pot Belly Flatten Chest Undershirt Shapewear" (Nikita's screenshot of the live listing) [S1]. 180 g · black / grey / navy / beige-nude / white · S–3XL · ships from China (CJ US warehouse stock = 0). Full spec → §17.
+- **Landed cost per unit:** AUD 6.52 product + AUD 10.42 CJPacket Ordinary to US (1–3 day processing, 4–9 day delivery) = **AUD 16.94 ≈ US$11.90** at the xe.com mid-market rate 1 AUD = 0.7024 USD (08:29 UTC, 2026-11-02; 0.7018 at 07:15 → $11.89) [S1][S2]. (§20: the first draft rounded to $11.88; corrected.)
+- **Planned selling price + offer shape:** not set → modelled below as four test variants (two singles, a 2-pack, a 3-pack). Re-run at the §15 test price (Doc 4).
+- **Processing:** 3% (page default) + $0.30 per order (entered as "other"). Shopify Payments Basic is 2.9% + 30¢ [S3] (run-1 source, not re-checked).
+- ⚠️ Real CJ listing price, not an AliExpress "welcome deal" teaser.
+- ⚠️ Bundles costed **conservatively as N separate parcels** (N × $11.90). A combined CJ parcel should ship cheaper — **CJ's multi-unit shipping quote is still missing** (asked in run 1, not yet sent).
 
 ## KPI table (USD)
 
@@ -47,602 +43,360 @@
 | Contribution margin % | 66.5% | 72.6% | 62.5% | 57.0% |
 | Break-even ROAS | 1.50 | 1.38 | 1.60 | 1.76 |
 | Break-even CPA | $26.55 | $36.25 | $43.75 | $51.25 |
-| Target CPA @ 20% net (kill line) | $18.56 | $26.26 | $29.76 | $33.26 |
+| Target CPA @ 20% net (**kill line**) | $18.56 | $26.26 | $29.76 | $33.26 |
 | Target ROAS @ 20% net | 2.15 | 1.90 | 2.35 | 2.70 |
-| Target CPA @ 30% net (scale line) | $14.56 | $21.27 | $22.77 | $24.27 |
+| Target CPA @ 30% net (**scale line**) | $14.57 | $21.27 | $22.77 | $24.27 |
 | Target ROAS @ 30% net | 2.74 | 2.35 | 3.07 | 3.71 |
 
-**Formulas:** CM $ = Price − (landed per unit × units) − (3% × Price) − other ($0.30). CM % = CM $ ÷ Price. Break-even ROAS = Price ÷ CM $ (= 1 ÷ CM%). Break-even CPA = CM $. Target CPA at n% net = CM $ − (n × Price). Target ROAS = Price ÷ Target CPA. Scale line = the ~30% net CPA (at or under → scale). Kill line = the ~20% net CPA (consistently above → fix or kill). Break-even shown next to both. No variant has CM% ≤ 30%, so every target is possible.
+**Formulas:** CM $ = Price − (landed per unit × units) − (3% × Price) − other ($0.30). CM % = CM $ ÷ Price. Break-even ROAS = Price ÷ CM $ (= 1 ÷ CM%). Break-even CPA = CM $. Target CPA at n% net = CM $ − (n × Price). Target ROAS = Price ÷ Target CPA. Scale line = the ~30% net CPA (at or under → scale). Kill line = the ~20% net CPA (consistently above → fix or kill).
 
-**So What → do this:** the unit economics hold at any of these prices — even the $39.95 single clears a ~66% margin. The real constraint is the price the market will bear (§15), not the cost. Send CJ's combined-parcel quote for 2 and 3 units so the bundle rows can be finished.
+⚠ **Missing cost line (§20):** the table has no line for refunds, no-return refunds, free size swaps (a re-ship = another $11.90 landed) or chargebacks — the very policies §15-E recommends. Example: a 10% no-return refund rate on the §15 Test B offer moves its kill-line CPA from $25.52 to ≈ $17.5. Budget it before setting the guarantee.
 
-**✅ Re-run at the §15 test price** (full table in Doc 4 §15-E):
-
-| Variant | Price | CM $ | CM % | Break-even ROAS | Target ROAS @20% net |
-|---|---|---|---|---|---|
-| Single | $39.95 | $26.55 | 66.5% | 1.50 | 2.15 |
-| 3-pack (middle, auto-selected) | $79.90 | $41.50 | 51.9% | 1.93 | **3.13** |
-| 5-pack | $119.85 | $56.45 | 47.1% | 2.12 | 3.69 |
-
-This is still worst-case, with each unit costed as its own parcel. The middle tier needs ≈3.1 ROAS for 20% net, which is high for cold Meta. **The CJ multi-unit shipping quote is the number most likely to change this.**
+**So What → do this:** unit economics work at every price here (even the $39.95 single clears 66%). The constraint is the price the market bears (§15), not cost. The 3-pack is the tightest (ROAS 2.70 for 20% net at worst-case shipping) — **send CJ's combined-parcel quote for 2 and 3 units** before locking bundle prices.
 
 ---
 
-# Audit first · the control page we're modelling
+# Audit first
 
-**Page audited:** [north-alpine.com/products/northpower-experience-the-shift-in-shape-posture-pride](https://north-alpine.com/products/northpower-experience-the-shift-in-shape-posture-pride) (NORTH ALPINE "NorthPower" tank). Walked with playwright-skill (headless, mobile iPhone 13 + desktop) on 2026-10-28 [S3] VERBATIM.
-**Why this page:** it's the highest-traffic store in the category. Winning Hunter shows **1,101,150 visits in Sep-2026** (peak 1,934,726 in Jul), 77.2% US, and an est. **$6.18M–$10.35M revenue / 30 days** [S4] DATA. Next are Selure (415,890), Evolv (360,244) and Shaperluv (306,445) [S5–S7] DATA. 25 of the 33 North Alpine ads captured land on this PDP [S14]. §1 re-checked it: still the #1 page, so no second audit.
+**Audited:** Nikita has no page yet, so per the page we audited the **highest-traffic competitor page** — **north-alpine.com** (1,101,150 visits Sep-26, Winning Hunter [S4] DATA; next: Selure 415,890 · Evolv 360,244 · Shaperluv 306,445).
+**URL:** https://north-alpine.com/products/northpower-experience-the-shift-in-shape-posture-pride — their main paid landing page. Walked with Playwright (headless, mobile 390×844): full scroll, add-to-cart, cart — **stopped before payment, nothing entered** [S5] VERBATIM. Their listicle `/pages/5-reasons-why-vboost-instantly-transforms` now returns **404** [S5].
 
-**What the page does, top to bottom** [S3] VERBATIM:
-1. Announcement bar "90-Day Money-Back Guarantee", then "Excellent 2383+ reviews".
-2. H1 "NorthPower | Feel The Power of Confidence, Shape & Control". Subhead: "Ionic shaping vest that helps you stand taller, reshape your torso and flatten every problem area the moment you put it on."
-3. Claim chips: "Crushes Dad Bod / Accelerates Weight Loss / Flattens Man Boobs / Erases Love Handles".
-4. Weight-band size picker.
-5. Kaching bundle:
-   - 1 for $29.90 (vs $60.00)
-   - **2 + 1 FREE $59.80** "BEST SELLER" (vs $180)
-   - **3 + 2 FREE $89.70** "BEST VALUE" (vs $300)
-6. ATC button.
-7. Accordions.
-8. "YOUR NEW SECRET WEAPON AGAINST THE BEER BELLY. BYE DAD BOD. … MAN BOOBS? FLATTENED."
-9. Testimonial carousel, FAQ, Judge.me reviews (4.8, 2,383).
+**What the page does (VERBATIM [S5]):** H1 "NorthPower | Feel The Power of Confidence, Shape & Control" · "Ionic shaping vest that helps you stand taller, reshape your torso and flatten every problem area the moment you put it on" · icons "Crushes Dad Bod · Accelerates Weight Loss · Flattens Man Boobs · Erases Love Handles" · 1 for $29.90 (compare $60) · "2 NorthPower + 1 FREE" $59.80 · "3 + 2 FREE" $89.70 · sizes S (110–154 lb) to 5XL (419–463 lb) · "90-Day Money-Back Guarantee".
 
-**What's weak (the opening):**
+**What's weak (specific):**
+1. **The guarantee is contradicted by the policy.** PDP: "return it for a full refund — no questions asked", "free returns and exchanges… at no cost to you". Refund policy: "underwear and intimate apparel are final sale", "we offer store credit instead of cash refunds", "Return shipping costs are the responsibility of the customer" [S6] VERBATIM. Trustpilot gaps: "Return process difficult and unresponsive" 13 · "Unresponsive or non-existent customer service" 13 [S4] DATA.
+2. **Claims they can't back:** "Accelerates Weight Loss", "Ionic Compression fabric engineered to activate your body's natural response… promote healthy blood flow", "visible transformation within the first 30 days" [S5] VERBATIM; Trustpilot "does not produce weight-loss results" 3 [S4].
+3. **The page contradicts itself:** "90% polyester, 10% spandex" vs "80% nylon, 20% spandex" (FAQ); "2383+ reviews" vs "766+ Verified Reviews"; Miami address vs Albuquerque store record; cart prices labelled backwards [S5][S4].
+4. **5 recycled testimonials** (each 3× in the DOM), written to cover every buyer at once — ages 27–55, chest, belly, posture, a son's wedding [S5] (INFERENCE on intent).
+5. **One page for everyone:** dad bod + man boobs + love handles + weight loss + posture; no buyer group owned.
+6. **Hero = a flat-lay of a bright-blue "ionic" tank** — no man wearing it under a shirt above the fold, against its own "Undetectable beneath any shirt" promise [S5].
+7. **Fit is the #1 complaint:** "Inaccurate size chart" 10 · "does not provide effective compression" 11 · "too short" 6 · "rides up" 3 [S4] DATA; the page's answer is "if you're between sizes, size up".
+8. **Thin funnel:** straight PDP (advertorial 404), no free-shipping threshold in cart, upsell only post-purchase (AfterSell), Kaching bundles, Intelligems A/B [S4][S5].
 
-| # | Weakness | Evidence | Our move |
-|---|---|---|---|
-| 1 | Unsubstantiated weight-loss / health claims | "Accelerates Weight Loss"; FAQ: "advanced Ionic Compression fabric… micro-weave fibers promote healthy blood flow" [S3] VERBATIM. Trustpilot gaps: "Product does not provide effective compression as advertised" (11+4+4+3), "does not produce weight-loss results" (3) [S4] DATA | Appearance-only claims ("looks flatter in your shirt") |
-| 2 | Page contradicts itself | "90% polyester, 10% spandex" vs FAQ "80% nylon, 20% spandex"; "2383+ reviews" vs "766+ Verified Reviews"; carousel repeats the same 5 quotes 3× [S3] VERBATIM | One consistent spec block |
-| 3 | Sizing is weight-only, coarse — the #1 complaint | "S (110-154 lbs) … 5XL (419-463 lbs)" = 44-lb bands, no chest/waist/height/torso length; "If you're between sizes, we recommend sizing up" [S3]. Trustpilot: "Inaccurate size chart" (10), "sizing inconsistent" (6), "length too short" (6+2+2), "rides up" (3) [S4] DATA | A real fit system: chest + waist + height → size |
-| 4 | Trust and origin are murky | Footer "66 W FLAGLER STREET STE 900PMB 12765 MIAMI FL" (a mailbox); no ship-from; "Unresponsive… customer service" (13+5); 0% replies to 209 negative reviews; store ~8.7 months old [S3][S4] | Visible, answered support (never "trust us" copy — Nikita's rule) |
-| 5 | Proof is all copy | Long first-name + age stories ("Dave R. — 55 years old"); no measurement-based before/after; no third-party proof [S3] | Demo proof we can film: same shirt, with/without, sit/stand/arms-up |
-| 6 | Mobile UX | Full-screen "TRY YOUR LUCK — Match 3 cards" pop-up covered the PDP; page ~8,400–9,800 px; "How does it actually work?" buried at the bottom; ATC blocked until a size is picked [S3] | Clean mobile page, mechanism up top |
-| 7 | Offer is a template, not a brand | Same ladder, weight bands, claim chips and FAQ wording on Selure's SlimFlex [S18] and Evolv [S19] | Keep the ladder mechanics, own the identity (§4B) |
-
-**So What → do this:** copy the bundle ladder and the long guarantee, because they work. Beat the page on honest appearance claims, a real fit system, one consistent spec, filmed demo proof and a clean mobile page.
+**So What → do this:** copy the 2+1 / 3+2 bundle ladder; beat the #1 player on what it gets wrong — (1) a guarantee the policy honours, (2) no weight-loss / "ionic" claims (an honest instant-look mechanism), (3) one buyer group per page with an under-a-shirt hero, (4) measured fit + length / stay-down proof. §1 confirms North Alpine is still the highest-traffic competitor, so no second audit is needed.
 
 ---
 
 # 0 · Product & core problem
 
-**One line:** a compression undershirt tank that makes a man's chest and belly look flat under his shirt, instantly. It's for US men (≈30–65, many after losing weight) who **won't take their shirt off, size up, or avoid photos** because of what shows through.
+**One line:** a men's compression undershirt that makes the chest and belly look flatter under a normal shirt the moment it goes on — for US men whose body shows through their clothes and who want to look "finished" in a shirt.
 
-**Need, not want:** these men hide.
-- They refuse pools and sex without a shirt [S38].
-- They pay $5,587 for surgery (the surgeon's fee alone; anaesthesia and OR extra) [S43].
-- They buy ≥12,150 hiding shirts a month on Amazon [S32].
+**Does the market NEED it (painkiller), or just want it?** Run 2 tested all five men's groups. Two are real painkillers, two are wants, one is a fit need the SKU can't serve:
 
-That is a painful problem looking for a fix, not "a nicer undershirt".
+| Group | Urgency | Staying power | Scope | Painkiller or want (evidence) |
+|---|---|---|---|---|
+| **G2 Chest / "man boobs" / gyno** | **5** | **5** | 4 | **Painkiller** — "I am considering suicide is the man boobs don't go." (r/Fitness) [S28]; "I don't go to the gym because I am too embarrassed for people to see me in a light workout shirt." (r/gynecomastia) [S28]; the surgeon's fee alone averages $5,587, excl. anesthesia/OR [S20] |
+| **G3 Lost the weight, still shows (loose skin)** | 4 | **5** | 3 | **Painkiller** — "he NEVER took his shirt off in front of me in 10 years" (r/datingoverthirty) [S28]; skin doesn't retract ("The only way to tighten skin… is surgery", The Aesthetic Society [S45] SNIPPET); a tummy tuck's surgeon fee alone averages $8,174 [S21] |
+| **G1 Dad bod / belly** | 3 | 4 | **5** | **Want, with painkiller spikes** at trigger moments — "I feel myself sucking in so that my stomach doesn't poke out of my shirt" [S28]; but "dad bod" is half-embraced (6 of 28 relevant threads are "do women like dad bods" debates) [S28] |
+| **G5 Men 50+** | 2 | 5 | 5 | **Want** — almost no men-50+ talk about hiding the body in a shirt (0 of 40 Q1 hits); threads lean to health/acceptance [S28]. Reddit under-samples 50+ (Pew: 18% of 50–64s use it vs 40% of 18–29s) [S23], so urgency is partly a sampling artifact |
+| **G4 Big & tall (2XL+)** | 3 | 4 | 4 | **Need for clothes that fit** — mostly fit/length threads; **8 of 12 size mentions are above 3XL** (our SKU's top size) [S28] |
 
-## Mass desire test (Schwartz)
+**Mass desire test (Schwartz) — the evidence behind the scores:**
+- **Scope:** ~75% of US men are overweight or obese (35.5% overweight + 39.3% obese, both age-adjusted, CDC Health E-Stat 111 [S8]; crude obesity 39.2% [S7]); abdominal obesity in US men rose from 39.1% to 49.7% (2001→2018) [S9]; the average US man's waist is 40.6 in [S10] — already over Mayo's 40-in belly-fat line [S24]. Gynecomastia (often detectable only on exam): 32–65% of adult men [S12] SNIPPET — the visible, symptomatic kind is "markedly lower" [S13]; Mayo "About 24% to 65% of men ages 50 to 80 get gynecomastia. But most adults with the condition have no symptoms." [S11] VERBATIM. GLP-1: "Women are more likely than men to say they are currently taking GLP-1 drugs (15% vs. 9%)" [S14] → ≈11M US men (INFERENCE: 9% × ~125M men); bariatric 177,297 cases in 2024 [S15], ~19% male [S16] SNIPPET. Men 50+ ≈ 56M (INFERENCE from Census table [S17]).
+- **Urgency:** G2 has the most intense language of any group (suicide, dating, gym avoidance) and the only organised communities — r/gynecomastia 29k members (+26%/yr) [S26]; forum.gynecomastia.org 33,673 members / 206,543 posts [S27] VERBATIM.
+- **Staying power:** glandular gyno doesn't diet away ("It went away around 25, and came back at 35" [S28]); loose skin doesn't retract without surgery [S45]; age-related muscle loss is "approximately 3–8% per decade after the age of 30" [S22] SNIPPET (§20: source page came back empty on re-check — unverified, keep out of ads).
 
-| Test | Score | Evidence |
-|---|---|---|
-| **Urgency** | **4 / 5** | **He hides and avoids:** "I avoid those places because people wonder why I won't take my shirt off. I'm uncomfortable about sex unless I'm wearing a shirt." [S38] SNIPPET · "It's embarrassing and I don't feel comfortable taking my shirt off" [S39] SNIPPET.<br />**He pays big:** ASPS average gynecomastia surgery = **$5,587** [S43] SNIPPET, ~280× a $20 shirt.<br />**He buys now:** ≥12,150 units/mo on Amazon from badge floors [S32–S34] DATA.<br />**Why not 5:** day to day he copes with free workarounds (dark/thick tees, a size-down Under Armour) [S41] SNIPPET. Urgency spikes at triggers (wedding, summer, pool, date). |
-| **Staying power** | **5 / 5** | **A shirt doesn't cure it,** so he wears it daily and re-buys: "Doctor said it would go away on it's own. Now I'm 24 and it's still there" [S39] SNIPPET · "It's been about 20 years since I've had my shirt off outside the house" [S45] SNIPPET.<br />**It grows with age:** gynecomastia is "most prevalent between the ages of 50 and 69" [S46] SNIPPET.<br />**The market lasts:** Amazon listings with 8K–25K ratings still sell 500–2K+/mo [S32]; Meta ads have run 213–393 days [S37] DATA; r/gynecomastia has 27K weekly visitors [S47] SNIPPET. |
-| **Scope** | **4 / 5** | **Belly:** 39.2% of US adult men (20+) have obesity (CDC, 2021–23, crude rate) [S48] VERBATIM-confirmed in §20, plus ~38–47% overweight [S49] SNIPPET.<br />**Chest:** "About 24% to 65% of men ages 50 to 80 get gynecomastia" (Mayo) [S50] SNIPPET.<br />**Breadth:** 29 US Meta advertisers on-market plus 11 adjacent [S37] DATA.<br />**Why not 5:** prevalence ≠ desire, it's men-only, and men's shapewear is a niche next to women's [S30]. |
-
-**So What → do this:** mass desire passes (4 · 5 · 4). This is a persistent, embarrassing problem, not a want. Hit it at the moment he dreads (pool, wedding, photo), not with a generic "look slimmer".
+**So What → do this:** the desire is real and big, but it's **two painkillers inside one wide want**: the chest (G2) and the leftover after weight loss (G3) are the desperate problems; the belly (G1) and 50+ (G5) are the big pool you reach through them. Whichever group leads (§2), the copy must speak to a **specific visible problem in a shirt**, never generic "look slimmer". G4 is out for this SKU unless the CJ size chart proves US-3XL+ fit.
 
 ---
 
-# 0B · Demand & seasonality
+# 0B · Demand & Seasonality (real numbers)
 
-**1. Google Trends (US, 5-yr): ❌ not obtained.**
-- playwright-skill made one normal page load and got **HTTP 429** [S28].
-- The playbook fallback, Winning Hunter `search_exploding_topics` / `get_exploding_topic_detail`, returned "Request limit reached." on all 6 calls [S29].
-- A catalogued Firecrawl Trends provider was blocked by this session's anti-circumvention guard. It was not pursued.
-- **No first-party 5-year curve exists in this run.** It's a 2-minute manual check for Nikita: `trends.google.com/trends/explore?date=today%205-y&geo=US&q=man%20boobs,gynecomastia,mens%20shapewear,compression%20shirt%20men`.
-- **Secondary trend source (unverified, no methodology):** ShelfTrend says "male shapewear" - 40% growth from 2024 to 2025" and "May-July: Summer body preparation shows 28% spike in demand". Its market sizes contradict each other ($500M headline vs 6.2% × $2.73B ≈ $169M) → low trust [S30] VERBATIM.
+**Search trend — Google Trends (US, 5 years):** ❌ **blocked twice.** Playwright (headless, one normal page load each) returned **HTTP 429 "Too Many Requests"** on 2026-11-02 (a first load, then a single retry with a 5-term comparison) [S46]. Not retried further (no circumvention). Fallback per the page → Winning Hunter `search_exploding_topics` — **NOT country-filtered** [S29] DATA:
 
-**2. Amazon US** [S32–S35] VERBATIM (pages opened):
-- **32 chest/belly shapewear listings carry a "bought in past month" badge. Their floors sum to ≥ 12,150 units/month.**
-- Sellers at 1K+/mo:
-  - Lgtfy 2K+ (BSR #1, 8,345 ratings)
-  - XINGCOOL 2K+
-  - QORE LOGIQ 1K+
-  - JESIDO 3-pack 1K+
-- **Biggest review depth:**
-  - an unbranded vest with 24,954 ratings (500+/mo)
-  - Esteem "…to Hide Gynecomastia Moobs" with 14,219 ratings
-- **Median price $19.99** (range $7.99–$32.99 across the 32 badge listings — §20 correction: the $45.95 Insta Slim listing isn't in that set).
-- Search results: "1-48 of over 1,000" (compression shirt slimming); "420" (gynecomastia compression shirt); "over 2,000" (shapewear tank tummy control).
+| Topic (abs. volume) | Group | 2022 | 2023 | 2024 | 2025 | 2026 YTD | Direction | Peak months (2022–25 avg) |
+|---|---|---|---|---|---|---|---|---|
+| Compression t shirt (165k) | product, all groups | 10.1 | 27.8 | 39.8 | 55.6 | 75.4* | **Rising** (×5.5 2022→2025) | **Dec, Nov, Aug**; low Jan–Mar |
+| Male tummy tuck (9.9k) | G3 (+G1) | 52.5 | 41.8 | 38.1 | 64.5 | 81.0 | **Rising since 2025** | **Jul, Aug, Jan** |
+| GLP1 (1.5M) | G3 tailwind | ~1–2 | 2–3 | 4–10 | 14–31 | 41 → **100 (Sep-26)** | **Rising steeply** | — |
+| Wegovy injection (49.5k) | G3 | 4–6 | 13–22 | 14–24 | 22–50 | 78–100 | Rising | — |
+| Ozempic (3.35M) | G3 | — | — | — | — | 6-mo −23% | Brand plateau (class still rising) | — |
 
-**3. TikTok Shop US** [S36] DATA (Winning Hunter, country US):
-- 10 relevant products: **3,485 units / ≈$46.0K in the last 30 days** and 157,340 lifetime units.
-- #1 product: 111,563 lifetime units, avg $28.32.
-- QORE LOGIQ's gyno shirt launched 2026-08-24 and did 512 units / $12.5K in its first 30 days.
+\*Index artifact: unrelated topics all spike in Feb/Apr 2026; with Feb–May 2026 excluded the product series is still rising (66.8 vs 73.5). No Exploding Topics topic exists for gynecomastia, man boobs, dad bod, beer belly, loose skin or big & tall → **per-group search demand is unmeasured** (GAP; 2-minute manual fix in a normal browser: trends.google.com, geo US, 5y, "man boobs, gynecomastia, beer belly, loose skin, compression shirt men").
 
-| Month 2026 (top-3 products, US units) | Apr | May | **Jun** | Jul | Aug | Sep | Oct (to 28th) |
-|---|---|---|---|---|---|---|---|
-| Units | 4,968 | 4,706 | **6,074** | 3,741 | 3,697 | 2,763 | 2,025 |
+**Marketplace demand:**
+- **Amazon US** (213 unique listings across 6 group searches, 2026-11-02) [S30] VERBATIM: **Lgtfy #1 Men's Shapewear, 2K+ bought/mo** ($17.99, 8,375 ratings); **XINGCOOL #1 Men's Compression Shirts, 2K+/mo**; JESIDO 3-pack listed **2026-07-29**, already #3 Compression Tank Tops (700–900+/mo); Esteem 14.2K ratings, 300+/mo; QORE LOGIQ 300+/mo (was 1K+ on 10-28; §20: unverifiable — a QORE search shows a 1K+ listing, brand-to-listing match not pinned). Price band $5.99–$45.95 single; multipacks ≈ $4–7/tank.
+- **Group split on Amazon (titles):** G1 belly 89 (42%) · G2 gyno 45 (21%) · **G3 loose skin 0** (even the query "loose skin after weight loss" returns generic shirts) · G4 3 · G5 posture-only 7, **0 mention age** [S30].
+- **TikTok Shop US** [S31] DATA: #1 men's shaper (id 1729757657428627985) 1,058 units / $15.35k in 30 days (111,691 lifetime), but **−39% over 90 days, −46% over 180** (peak June); 11 SKUs ≈ 3,059 units/30d; 0 G3 titles. `get_tiktok_product` history slice (daily, 2026-10-04 → 11-02): lifetime count 110,765 → 111,691 = **926 units in 29 days ≈ 32/day**, flat; 9 of 30 days flagged `data_outage` (0 recorded); the recorded average price jumps $10.39 → $12.50 → $28.32 mid-month (a price change or data artifact — treat revenue as unreliable).
+- **Ad demand (Meta, US, last seen 2026-10-03 → 11-02):** ~75 `search_facebook_ads` calls, `countries: US`, 40+ exact phrases (product: "compression tank", "compression shirt", "shapewear for men", "slimming tank", "undershirt"; problem: "dad bod", "beer belly", "belly fat", "man boobs", "gynecomastia", "loose skin", "big and tall", "men over 50"; + synonyms), paged with the `scroll` cursor, advertisers de-duped with jq → **22 garment advertisers in a fresh 445-ad sample; 29 on the long-list** (§1). Facebook Ad Library (Playwright, logged out): US exact "dad bod" ≈ **3,700** ads; US "loose skin compression shirt men" ≈ **110**; 6 of 9 queries throttled (logged, not circumvented) [S32][S35]. **Longest-running: Shaperluv 457 days, Selure 408, Evolv 398** (all still live). 4 stores at an est. $1.8–10.3M per 30 days [S33].
 
-**4. Meta ads** [S37] DATA:
-- Winning Hunter, US only, 9 keywords, ads live in the last 30 days, 840 ads de-duped → **29 on-market US stores** plus 11 adjacent. §20: that's a floor — Shaperluv (live to 10-27) was missed by the sweep, so **≥30**.
-- **19 of the 29 started their oldest live ad on or after 2026-09-01.** Many new testers, around a core of ~10 established runners.
-- Longest live runs:
-  - Rablaisie 393 days
-  - Rounderbum 347 days
-  - Selure's "Prime Men's Journal" 213 days
-  - The Natural Posture 210 days
-- 8 stores have an ad running for 90+ days.
-- Facebook Ad Library: HTTP 403 / no results headless → 🔁 Winning Hunter `countries: US` [S37].
+**Seasonality:** product search peaks **Nov–Dec** (holiday / events) with a **summer bump Jul–Aug** (thin shirts, pool) [S29]; TikTok Shop units peaked in **June** [S31]; "male tummy tuck" peaks **Jul–Aug and January** [S29]; summer pain shows up in threads ("Hiding man boobs in hot weather") [S28]. Black-Friday CPM inflation: run-1 cited +59% for the week, +84% on the day (run-1 source, not re-checked).
 
-**Verdict:** **STABLE-TO-GROWING, seasonal, and in its trough today.**
-- **Peak is June** (summer, thin shirts, heat): 6,074 units in Jun vs 2,025 in Oct (TikTok US, DATA). Reddit: "hiding man boobs in hot weather" [S42] SNIPPET.
-- Jan–Feb and Nov–Dec bumps are claimed but unverified [S30].
-- **Caveat:** TikTok covers only 3 products from Mar 2026, and product decay is mixed into the seasonal signal (INFERENCE).
-
-**So What → do this:** demand is real and measurable, so don't wait for Trends.
-- **Now–Dec:** build the store and creatives; test at low spend in November.
-- **Late Nov / BFCM:** avoid heavy test spend. §20-confirmed: Lebesgue 2025 data shows Meta CPMs up 59% in Black Friday week and 84% on Black Friday vs September, rising from about Nov 10 (Black Friday 2026 = Nov 27). So test from about Oct 30 to Nov 9, or wait until December.
-- **First week of January 2027:** start real spend.
-- **May–July:** scale into the peak.
-
-19 new advertisers entered in the last 8 weeks, so the edge must come from the market/angle (§2) and the offer, not from being first.
+**So What → do this:** demand is proven and still rising at category level, but the leaders' TikTok and store traffic **fell from the summer peak** (all four direct stores down 16–51% Aug→Sep [S39]). Build now; low-spend tests in the Nov–Dec search peak (avoid BF/CM week CPMs); scale May–August. For the post-weight-loss group, January ("new year, new body", male tummy tuck peak) is a second entry point.
 
 ---
 
 # 1 · Competitor scan
 
-## 1A · Long-list (US)
+**How it was mapped:** Winning Hunter (≈75 `search_facebook_ads` calls, US, 40+ phrases; `get_store_details` ×10; `get_store_top_ads` ×3; `brief_competitor`; `find_similar_shops` — returned only name-noise, as in run 1) + Facebook Ad Library (Playwright; 3 of 9 queries rendered, 6 throttled) + TikTok ads / TikTok Shop / Google ads (Winning Hunter) + Amazon / Etsy (Firecrawl) + SimilarWeb (Firecrawl) — all 2026-11-02 [S32][S33][S34][S35][S36][S37][S30][S38][S39]. Every ad is logged one row per ad id in the run-2 ad log (**867 rows: 445 fresh + 422 run-1 cache marked not re-checked**), saved with this doc's files (`ad-log-run2.csv`). Buyer-group and "leads with" tags in the log are rule-based (INFERENCE).
 
-**Real count:**
-- **33 long-list entries**: 31 advertisers that ran Meta ads to the US (clone clusters grouped), 1 clone store with no ads, 1 TikTok-only seller.
-- **Plus 12 Amazon brands and 3 Etsy shops.**
-- Only **~10 are active on Meta today**; ~20 are abandoned [S9][S10][S14] DATA.
-- Synonyms searched (US): "compression tank", "compression tank men", "man boobs", "gynecomastia", "slimming undershirt", "body shaper", "men shapewear", "shapewear for men", "compression undershirt", "beer belly", "undershirt", plus landing-URL fragments.
+## 1A · Long-list (29 US Meta advertisers of men's torso shapewear)
 
-| # | Advertiser (FB pages) | URL | Active ads (page) | Longest ad (days) | Region | Status |
+| # | Advertiser | URL | Live ads (US) | Longest-running ad | Region | Status · group it speaks to |
 |---|---|---|---|---|---|---|
-| 1 | **North Alpine** (NorthAlpine Co · North Alpine Shop · North Alpine US) | north-alpine.com | **2,037** | 218 | US + AU/CA/NZ/NO/Gulf | active, scaling |
-| 2 | **Shaperluv** (+ The Modern Man Style · buff_sosa · AlphaInfuse) | shaperluv.com | **1,166** (+UK 592) | **453** (Google 713) | US 49%, CA/GB/AU/DE | active since 2024-01 |
-| 3 | **Selure Wear** (+ Prime Men's Journal · Big Guy Solutions · Arthur from Selure Wear · Themexicandad) | selurewear.com | **519** | **398** | US (96.6%) | active |
-| 4 | **Evolv** (+ "Scott Hughes") | evolv-off.com | 347 | 393 | US/AU/NZ/CA | active (the original V-Boost) |
-| 5 | InShape | in-shape.co | 1,739 | 333 | US | active, tiny revenue ($25–50k/30d) |
-| 6 | Rounderbum USA | rounderbum.com | 351 | 338 | AU/CA/US/GB | active (multi-product) |
-| 7 | StealthSlim ("The Perfect Korner") | stealthslim.com | 11 | 357 | US — big & tall | active, low volume |
-| 8 | The Natural Posture | thenaturalposture.com | 17 | 561 | US/AU/CA/NZ | active (1 live ad) |
-| 9 | Pomence | pomence.com | 3,104 (general store) | 32 | US/GB | testing |
-| 10 | Waist Sculpt (zip-front) | waistsculpt.com | 0 | 159 | US | stopped 2026-10-03 |
-| 11 | Sculptix | trysculptix.com | 0 | 165 | US/CA | abandoned |
-| 12 | Qore Logiq | qorelogiq.com | 38–52 | 157 | US | Meta abandoned, Amazon-led |
-| 13 | Vantor ("Marcus Reid") | vantor-us.com | 0 | 2 | US | test, abandoned |
-| 14 | Shape (AU) | shapeclothing.com.au | 0 | 59 | NZ/AU/US | paused |
-| 15 | FormWear (DK) | getformwear.com | 0 | 0 | CA/US | test |
-| 16 | Shapecore | shapecore.net | 0 | 310 | US/AU/CA/NZ | abandoned Dec-24 |
-| 17–30 | Feetoot · Pure Care Goods · Frost Flex · Elboo · Echo Beaters · Bond International · Allanii · Nominateh/Commentaryt/Goodwillbrave · Porttalent · OmniBrace · rukjx · Introductiont/Previouslyt · Shaperluv clone domain + page | various | 0 | 20–141 | US/CA/AU/NZ | abandoned (2023–25) |
-| 31 | evolvboost.com (V-Boost clone) | evolvboost.com | 0 | — | US | clone, no ads |
-| 32 | uk.shaperluv.com | uk.shaperluv.com | 592 | — | GB | active UK |
-| 33 | bazarii.store (TikTok, COD) | bazarii.store | — | 1 | 31 countries | inactive |
-| + | Also live per the 30-day demand sweep [S37]: Havengrand (727 page ads), Alphacore (321, big guys), Aida Global (278), Diligetirect (256), Nebility (184), Gaudenza (34 rows), Vesaron, Ironstride, Mr. Sculpt, Huracan, Biggmans, Rablaisie, Clasp Compression, Temu | various | — | — | US | active / testing |
-| A | **Amazon:** Lgtfy · Esteem Apparel · unbranded B07F1WJLVC · QORE LOGIQ · XINGCOOL · Odoland · TAILONG · KOCLES · JESIDO · Nebility · LGMTR · MISS MOLY ($7.99–$29.99) [S25] SNIPPET | amazon.com | — | — | US | active marketplace |
-| E | **Etsy:** MenTrendify ($29.24, 4 reviews) · FlipYourWeight ($17.99, 2.7★) · MDJApparel ($100) [S26] SNIPPET | etsy.com | — | — | US | negligible |
+| 1 | **North Alpine** | north-alpine.com | **2,295** (WH search total, window-dependent — 2,066 for the last 7 days; + a third page "North Alpine Shop", 713 active) | 223 d | US + AU/CA/NZ/NO/BR | ACTIVE, biggest · G1 + G2 + "over 40" |
+| 2 | **Shaperluv** (+ creator page buff_sosa) | shaperluv.com | 1,112 | **457 d** | US/CA/AU/NZ/UK | ACTIVE · G1 + G2 |
+| 3 | **Selure Wear** (+ Prime Men's Journal, Big Guy Solutions, "Arthur" founder pages) | selurewear.com | 655 | 408 d | US | ACTIVE · G1 + G2 + G3 (founder) + G4 (persona) + 40+ |
+| 4 | **Evolv** (V-Boost) | evolv-off.com | 655 | 398 d | US/AU/NZ/CA | ACTIVE · G1 + G2 |
+| 5 | InShape | in-shape.co | 981 | 171 d | US/AU/CA/NO/NZ | ACTIVE · G2 + **G3 page since 08-17** |
+| 6 | Alphacore (NEW) | alphacore-store.com | 196 (292 page) | 93 d | US/AU/CA/GB/NZ | ACTIVE, scaling · **G4 (S–5XL)** |
+| 7 | Qore Logiq | qorelogiq.com | 291 | 67 d | US | ACTIVE again · G4 big + tall |
+| 8 | Aida (men's lymphatic vest) | officialaidastore.com | 85 | 36 d (new 09-22) | US/intl | ACTIVE · G1 40s |
+| 9 | Shapers "SlimShirt 3.0" (NEW) | shaprs.shop | 40 | 47 d | US | testing · G1 |
+| 10 | Tusq (NEW) | tusqapparel.com | 84 | 132 d | US | ACTIVE · G4 + events |
+| 11 | Somnea "Beaters" (NEW) | shopsomnea.com | 40 | 268 d | US ads / GB traffic | ACTIVE · **G2 chest-only** |
+| 12 | Rounderbum | rounderbum.com | ~13 (tank) | 351 d | US/AU/CA/GB | ACTIVE · generic |
+| 13 | Nebility (NEW) | nebility.com | ~10 | 164 d | US | ACTIVE · G1 |
+| 14 | The Natural Posture | thenaturalposture.com | 1 | 214 d | US+ | ACTIVE · posture |
+| 15 | Pomence | pomence.com | 4 (tank) | 32 d | US/GB | stopped 10-19? · "ionic" |
+| 16 | Waist Sculpt | waistsculpt.com | 1 | 14 d | US/GB | re-test, last seen 10-12 |
+| 17 | Thirsix (NEW) | thirsix.com | 1 | 247 d | US+ | ACTIVE · G1 zip vest |
+| 18 | Vesaron (NEW) | vesaron.com | 5 | 5 d | US | testing |
+| 19 | Diligetirect (NEW) | diligetirect.com | 3 | 11 d | US | testing |
+| 20 | Shapeea | shapeea.store | 21 | 64 d | US-tagged (Nepali copy) | not a US brand |
+| 21 | Rablaisie | rablaisie.com | 1 | 398 d | US + EU | ACTIVE · sweat vest |
+| 22 | Allanii | allanii.com | 0 | — | — | ABANDONED |
+| 23 | StealthSlim | stealthslim.com | 0 | — | US | **now inactive** (active in run 1) |
+| 24 | Gaudenza | gaudenza.com | 0 | — | US | stopped (last seen 10-14) |
+| 25 | Biggmans | biggmans.com | 0 shaper today | 232 d (apparel) | US/AU | apparel live, shaper not seen |
+| 26 | Havengrand | havengrand.com | 0 shaper today | — | US | general store |
+| 27 | "The Men's Report" (persona) | unresolved | Ad Library only | — | US | ACTIVE |
+| 28 | Core Armour | unresolved | Ad Library only | — | **GB** | NA/Evolv template in the UK |
+| 29 | Moonighty / Melbob (padded "muscle" shirts) | moonighty.com | 1 each | 205 d | US | out of scope (gym) |
 
-- **Google (US)** [S12] DATA:
-  - Shaperluv: 168 ads, longest 713 days.
-  - Selure: 161 ads, longest 435 days.
-  - North Alpine (via MACKECOM LLC): 32 ads ("Compression Shapewear Men - Look 15 lbs Lighter").
-- **TikTok (US)** [S11][S13] DATA:
-  - Shaperluv ran 12 "Buy 1, GET 1 FREE!" ads, all paused by Mar-2026.
-  - North Alpine: 0.
-  - The niche barely exists in TikTok ads.
-- **Facebook Ad Library** (US, "men compression tank") [S20] VERBATIM:
-  - "~22,000 results". Of the top 26 by impressions, **15 are Shaperluv**.
-  - One Shaperluv ad now reads "**This ad was run by an account or Page we later disabled for not following our Advertising Standards.**" → Meta has already actioned this category's claims.
-- **Pattern** (INFERENCE from the ads + pages):
-  - North Alpine, Selure and Evolv run the *same* template: claim chips, $29.90/$60 anchors, 2+1, weight bands, "Ionic" FAQ.
-  - Evolv's own PDP: "There are copies of this tank. This is the only website that sells the real V-Boost." [S19] VERBATIM.
+[S32][S33][S35] DATA. Advertisers not in run 1's list: Alphacore, Aida men's vest, Shapers, Tusq, Somnea, Nebility, Thirsix, Vesaron, Diligetirect — **§20 correction: only Vesaron (5 days) and Diligetirect (11 days) are actually new; the others have run for 1–9 months and run 1 missed them**; Qore Logiq is back; StealthSlim and Gaudenza stopped. ~20 run-1 abandons (Sculptix, Shapecore, Allanii…) not re-checked.
 
-## 1B · The 3 DIRECT competitors (most proven spend)
+**Store numbers (Winning Hunter, series ends Sep-26) [S33] DATA:**
 
-Ranked by active ads × longest run × revenue. InShape is excluded: 1,739 ads but only $25–50k/30d, so its spend isn't proven [S8].
+| Store | Visits Sep-26 | Est. revenue / 30 d | AOV | Created | Top country |
+|---|---|---|---|---|---|
+| north-alpine.com | 1,101,150 (peak 1.93M Jul) | **$6.18M–$10.35M** | $36.27 | 2026-02-05 | US 77% |
+| selurewear.com | 415,890 (peak 1.19M Jul) | $1.8M–$3.6M | $39.46 | 2024-06-21 | US 97% |
+| evolv-off.com | 360,244 | $2.2M–$3.8M | $40.79 | 2024-07-30 | US 100% |
+| shaperluv.com | 306,445 (flat 10 months) | $1.78M–$2.89M | $27.01 | 2023-06-26 | US 49% |
+| shopsomnea.com | 13,299 | $65k–$105k | $32.47 | 2025-04-06 | GB 82% |
+| qorelogiq.com | 6,547 | $24k–$42k | $35.85 | 2020-12-06 | US 79% |
+| alphacore-store.com | 6,875 (Jul 247 → Sep 6,875) | $3k–$7k | — | 2026-05-15 | — |
 
-| | **North Alpine** | **Shaperluv** | **Selure Wear** | Runner-up: Evolv |
-|---|---|---|---|---|
-| Monthly traffic | 1,101,150 (Sep-26; peak 1.93M Jul) [S4] | 306,445 (steady 300–490k for 10 months) [S5] | 415,890 (peak 1.19M Jul) [S6] | 360,244 [S7] |
-| Revenue est. / 30d | $6.18M–$10.35M · AOV $36.27 | $1.78M–$2.89M · AOV $27.01 | $1.8M–$3.6M · AOV $39.46 | $2.2M–$3.8M · AOV $40.79 |
-| Time in business | Store 2026-02-05 (~8.7 mo) | Store 2023-06-26 (3.3 yr) | Store 2024-06-21; ads since 2025-04 | Store 2024-07-30 |
-| Active ads | **2,037** across 3 pages | **1,166** + UK 592 | **519** across 5 pages | 347 (+ persona page) |
-| Longest ad | 218 d (2108122476695556) | **453 d** (24318406337785077) | **398 d** (657161910763591) | 393 d (1745330436188149) |
-| Most-duplicated | 1855997402442389 (10×) "Over 40 and can't get rid of that beer belly? Try this 👇" | 807396685203489 ("23 ads use this creative and text") | 2555640341590817 (5×) "It's Not Age. It's This." | 1299212292375147 (7×) |
-| Other pages to same domain | 4 brand pages (one aged page from 2020) | "The Modern Man Style", creator "buff_sosa" | **Persona network:** "Prime Men's Journal" (publisher), "Big Guy Solutions", founder "Arthur", creator "Themexicandad" | "Scott Hughes" persona |
-| Lead pain/desire | "2026 = NO MORE DAD BOD 🔥"; wife/doctor "dad bod" story; men 40+ | "Struggling with man boobs or stubborn beer belly? Feeling less confident every time you dress up?" | "You're not alone… 2x slimmer in just seconds" | "Say goodbye to beer belly, love handles and men's breasts" |
-| Mechanism | None in ads; PDP "Ionic Compression… healthy blood flow" | Weak "FormRetain"; **new 3.0 "extended cut stays anchored below your waistband"** | PDP "Ionic Compression"; new hidden-cause hook "It's Not Age. It's This." | "Ionic Ice… boosts circulation… breaks down fat cells" |
-| Avatar | 40–55 dad/husband | Self-conscious guy who dresses up; dads | 45–65+, incl. post-weight-loss men with loose skin (PDP reviews), big & tall | Dad bod after 40 |
-| Format | 20 video · 12 image · 1 DCO | 42 video · 2 DCO · 2 image | 32 video · 2 DCO · 1 image | image/DCO-heavy |
-| Funnel | Ad → **PDP** (25/33) | Ad → **"5 reasons" listicle** (27/48) → PDP | Ad → **PDP** (27/35) | Ad → PDP |
-| Offer | $29.90 (vs $60) · 2+1 $59.80 · 3+2 $89.70 · 90-day guarantee | 1× $15 · 3× $45 · **5× $50** · 8× $80 · 60-day "keep the product" refund · $2.95 "Fit Dad" program (subscription complaints) | $29.90 · 2+1 $59.80 · "ONLY $10 PER TANK" in ads · 60-day guarantee · 80%-off exit pop-up | $60 single · 2+1 · 60-day · $2.99 package insurance · Recharge subscriptions |
-| Audience (SimilarWeb) | M 56 / F 44 · 45–64 = 43% [S21] | **M 68 / F 32** · 25–44 = 47% [S22] | **F 56 / M 44** · 45+ = 66% [S23] | M 59 / F 41 [S24] |
-| Weak spots | Weight-loss/ionic claims; contradictory spec; weight-only sizing; Miami mailbox; 0% replies | **Sizes S–2XL only**; "$10 / LAST SIZES" cheap + fake scarcity; subscription trap; a Meta page disabled | Ad price ($10) ≠ PDP price ($29.90); same template as North Alpine; 0% replies to 84 negatives; women are 56% of visitors but the page talks only to him | Pseudo-science claims; $60 price; subscriptions |
+## 1B · The 3 direct competitors (most proven spend: longest-running + most active ads)
+North Alpine > Shaperluv > **Selure** (runner-up Evolv: ties Selure on live ads, loses on longest ad and persona network). Same three as run 1, confirmed on 2026-11-02 data [S32][S33].
 
-**Top ads logged:** 10+ per competitor (Library IDs, dates, days, format, duplicates, first line verbatim) are in the ad log behind §8 (315 ads) and in Appendix A at the end of this doc.
+### D1 · North Alpine — north-alpine.com
+- **Shop signals:** 1.10M visits/mo · ~9 months in business · **2,295 live ads** · longest ad 223 d (2108122476695556, "2+1 FREE — Ditch the "dad bod" for good!") · **most-duplicated = "Over 40 and can't get rid of that beer belly?" (13 duplicates)** → their real winner · other pages: 2 brand pages, no creator/persona pages [S32][S33].
+- **Ads:** lead pain "dad bod / beer belly / love handles / man boobs"; desire "confidence", "back pain"; **no mechanism in the ad** (the PDP sells "Ionic Compression"); avatar = husband/dad 40+; formats image + video, 0 carousel. Repeating hooks: "2026 = NO MORE DAD BOD 🔥" · "Ditch the "dad bod" for good!" · "Over 40 and can't get rid of that beer belly?" · "My wife called it my "dad bod." My doctor called it a "health risk."" · "I used to avoid mirrors and fitted shirts." [S32][S34].
+- **Top 10 ads** (`get_store_top_ads`, meta) [S34]: 1 image/identity "My wife called it my "dad bod."…" (46 d, 4 dup) · 2 image/bigger claim "Ditch the dad bod… Beer belly • Love handles • Man boobs" · 3 image/plain "Over 40 and can't get rid of that beer belly?" · 4 image/identity "(BUY 2 GET 1 FREE) I used to avoid mirrors and fitted shirts." · 5 image/bigger claim (5 dup) · 6–7 video/identity "I used to avoid mirrors…" · 8 image/bigger (5 dup) · 9 video/plain "Over 40…" (3 dup) · 10 video/identity. All started 09-17 → 09-29.
+- **Funnel:** ad → **PDP** (one job: 2+1 bundle into cart); the "Over 40" family also tests a listicle /pages/5-reasons-men-ditching-baggy-shirts; the older V-Boost listicle is 404 [S32][S5].
+- **Offer:** $29.90 (compare $60) · 2+1 $59.80 · 3+2 $89.70 · 90-day "no questions asked" guarantee · S–5XL by weight bands · AfterSell post-purchase. **Weak / missing:** the policy contradicts the guarantee (final sale, store credit, buyer pays return) [S6]; no fit tool or length option; 0% replies to 209 negative Trustpilot reviews; weight-loss / ionic claims; no human face, no bonus [S4][S5].
 
-## 1C · 3 INDIRECT competitors (searched the PAIN, not the product)
+### D2 · Shaperluv — shaperluv.com
+- **Shop signals:** 306k visits/mo (flat 10 months) · 3.4 years (category veteran) · 1,112 live ads · **longest 457 d** ("ONLY $10 PRIME DAY SALE—LAST SIZES IN STOCK! / Struggling with man boobs or stubborn beer belly?") · **most-duplicated = "NEW SHAPERLUV 3.0 — 5 TANKS FOR $50" (19 duplicates)** · whitelisting via creator page **buff_sosa** [S32][S33].
+- **Ads:** lead "man boobs or a stubborn beer belly", "less confident every time you dress up"; **upgraded mechanism = 3.0 extra length / stays put**; avatar self-conscious dresser + "Dad Bod to Fit Dad" program; video-dominant; hooks "ONLY $10 … LAST SIZES IN STOCK" (Prime Day / Summer / Clearance variants), "Buy 1 Get 1 FREE". Top 10: 5 × "NEW SHAPERLUV 3.0" (upgraded mechanism, video), 4 × "ONLY $10" (three of them 458 d), 1 image [S34].
+- **Funnel:** ad → **listicle** /pages/5-reasons-why-shaperluv-v3 (pre-sell) → PDP bundle.
+- **Offer:** list $44.99; ads "$10" / "5 for $50"; FIT DAD PROGRAM $2.95 add-on + free "Dad Bod to Fit Dad" program (compare $99.99); shipping protection $2.97; 60-day promise (run-1, not re-checked). **Weak:** hidden-subscription complaints (8 on Trustpilot), $10 bait vs $44.99, 0% replies, half its traffic non-US [S33].
 
-The pain is "man boobs + beer belly showing through my shirt" (dad bod 40+).
+### D3 · Selure Wear — selurewear.com
+- **Shop signals:** 416k visits/mo (peak 1.19M Jul) · 2.4 years · 655 live ads · longest 408 d ("Struggling with man boobs or a stubborn beer belly? You're not alone.") · **most-duplicated = Prime Men's Journal ad, 7 duplicates** · **the strongest persona network in the niche:** Prime Men's Journal (publisher, 167 ads), Big Guy Solutions (G4, 23), "Arthur from Selure Wear" + "Arthur Johnson" (founder, G3, 10 + 10) [S32][S33].
+- **Ads:** "You're not alone… 2x slimmer in just seconds" · "ONLY $10 PER TANK - LAST SIZES IN STOCK!" · hidden-cause mechanism "It's Not Age. It's This. — There's a thing that happens to most men after 40" (5 dup) · founder: "When I was 244 pounds, I hated looking in the mirror. Even after losing weight, I still dealt with loose skin and…" (live 276 d). Top 10: 9 × bigger claim (video/DCO/image), 1 × hidden-cause mechanism [S34].
+- **Funnel:** ad (often from a persona page) → **PDP** (/products/slimflex); run 1 also saw listicles.
+- **Offer:** $19.95–$29.95 (compare $44.95–$60); ads "$10 per tank"; cross-sells fitted cotton tanks, shorts, socks, a new stretch dress shirt; 60-day guarantee. **Weak:** service (0% replies, "order never received" 6, ignored emails 9), "$10" bait, "too short and rolls up" 6, template clone of NA/Evolv [S33].
 
-| Indirect | Sells to the same pain | Scale (DATA) | What's working (steal-able) |
-|---|---|---|---|
-| **Primal Viking** — primalviking.com | Reindeer-organ "testosterone" supplement, $125; AOV $332.80 | **5,173 active ads**; 238,924 visits; $1.15–1.9M/30d [S27] | Sells a **cause/enemy**: "Man Boobs are not your fault…", "You're NOT Fat, You're Inflamed from High Cortisol". Funnels = **quizzes** + "10 reasons" listicles [S14] VERBATIM |
-| **Mott & Bow** — mottandbow.com | Men's tees | 818 active ads; 432,205 visits; $2.1–3.9M/30d [S27] | "👕They hide your belly and man boobs" — ran **503 days**; **wife-targeted** version: "Life's too short to let your man settle for old, faded tees, ladies… They hide his belly and man boobs" [S14] VERBATIM |
-| **Mars Men** — mengotomars.com | Testosterone supplement, $59 | 2,774 own ads + **whitelisted on media pages** (Sports Illustrated 664, NY Post 377, Rolling Stone 138…); **$10.5–19.0M/30d** [S27][S10] | "Your grandfather had more testosterone at 60 than you do at 35. He didn't have: ❌ Plastics… ❌ Seed oils…" (172 days) — an enemy + era story; quiz funnels [S10] VERBATIM |
+*Runner-up Evolv:* 655 live ads, 398 d ("Say goodbye to beer belly, love handles and men's breasts with the V-Boost Tank Top!"), 2+1 free, Recharge subscriptions; **the only big player replying to negatives (68%)**; complaints "rides up" 9, "too short" 5 [S33].
 
-Also seen: UnderFit ("Stays tucked in" undershirt, ad live 698 days) and Manly ("I cured my own man boobs by making soap in my mom's kitchen.") [S14].
+## 1C · 3 indirect competitors (searched the PAIN, not the product)
+Meta pain searches (US, Oct-26): "hide your belly" 1,192 ads · "man boobs" **5,811** · "loose skin" **6,713** · "men over 50" 3,520 [S32].
+1. **Primal Viking** (testosterone / "reindeer organ" supplement) — **4,874–5,173 active ads (the count moves daily); owns "man boobs" on Meta** (40 of the 60 newest man-boobs ads). Leads with failed solutions: "I struggled with MAN BOOBS for years and years. Nothing worked… I tried - Diets - Supplements - Exercise - Even a green juice"; reframe "You're NOT Fat, You're Inflamed from High Cortisol… Fat accumulates in the chest". Quiz + listicle + subscription ($49.99 jar, "63% OFF on subscription", 30-day MBG). Its man-boobs listicle now redirects to "7 Reasons Why Men Over 35 Are Losing The Belly…" [S40] VERBATIM. **Steal:** the failed-solutions hook, the "you're NOT fat, you're ___" reframe, the age-qualified headline, the quiz entry.
+2. **Mott & Bow** (basics tees) — 432k visits/mo; evergreen ad **"They hide your belly and man boobs"** live ≈ **756 days**; a plain tee with a claimed hide benefit, multi-buy up to 50% off at 10 units [S41][S39]. **Steal:** the 3-bullet benefit static that runs for 2 years.
+3. **AT2A / Lymphoria network** (muvost.com landers) — lymph drops for man boobs (5,705 active ads) and a **"GLP-1 skin" body oil (6,856 active ads)**: "This is why your skin turned loose and deflated after GLP-1 weight loss… GLP-1 medications strip fat faster than your skin's collagen and elastin can possibly remodel" — **0 of 20 sampled G3 ads speak to men** [S42] VERBATIM. **Steal:** mechanism-first long copy naming the failed fixes, the B1G1 → B3G2 ladder.
+- Top indirect per group: G1 Mott & Bow · G2 Primal Viking · G3 AT2A "GLP-1 skin" oil (+ Renuvion / tummy-tuck clinics) · G4 **Built Different** ("T-Shirts Made For Bigger Guys… No riding up", 131k visits, $780k–1.4M/30 d, **180-day trial**, sizes to 5XL) [S43] · G5 **IntelliSkin** posture shirt ($135, "PostureCue® Technology"; never mentions belly or chest) [S44].
+- **None of them makes the chest and belly look flatter in a shirt instantly** — the mechanism gap against the whole indirect field.
 
-## 1D · SimilarWeb (traffic + audience, Jul–Sep 2026)
+## 1D · Off-Meta sweep (per group)
+| Group | TikTok ads (US) | TikTok Shop (11 SKUs) | Google | Amazon (213 listings) | Etsy |
+|---|---|---|---|---|---|
+| G1 belly | 2 | 9 | 3 of 3 advertisers | 89 | 2 |
+| G2 chest | 0 garment (1 oil) | 7 | 1 | 45 | 1 |
+| G3 post-weight-loss | 0 | 0 | 0 | **0** | 0 |
+| G4 big & tall | 0 | 1 | size range only | 3 | 0 |
+| G5 50+ | 3 (posture, no age) | 0 | 0 | 7 posture, 0 age | 0 |
+TikTok paid is dead for the category: newest US men's-shaper ad last seen **2026-05-22** [S36]. Google: North Alpine 22 active (103 d), Shaperluv 44 active (two creatives live **1,011 days**), Selure 11 active [S37]. Amazon's leaders sell the stacked "chest + belly + under a dress shirt" message at $18–20 [S30].
 
-| Site | Visits | m/m | Bounce | Male / Female | 18–24 | 25–34 | 35–44 | 45–54 | 55–64 | 65+ | #1 source |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| north-alpine.com [S21] | (WH 1.10M) | −39.2% | 68.9% | 56.31 / 43.69 | 8.11 | 15.4 | 17.97 | 20.42 | **22.79** | 15.31 | Display 44% |
-| shaperluv.com [S22] | <1M | +15.6% | 47.5% | **68.42 / 31.58** | 15.5 | **25.05** | 21.98 | 20.55 | 10.51 | 6.42 | Direct 32% |
-| selurewear.com [S23] | 415.9K | −51.4% | 60.7% | 43.85 / **56.15** | 4.64 | 12.37 | 17.35 | 24.22 | **25.49** | 15.93 | Display 33% |
-| evolv-off.com [S24] | <1M | −33.2% | 59.7% | 59.48 / 40.52 | 11.16 | 21.57 | 19.39 | 20.57 | 16.46 | 10.86 | Paid Social 36% |
+**Re-check of Audit first:** North Alpine is still the highest-traffic competitor (1.10M vs Selure 416k) → the audited page stands.
 
-All DATA. Shaperluv and Selure were first fetched by Firecrawl's auto-selected "stealth" proxy. Both were **re-fetched on a normal ("basic") connection on 2026-10-28 and the numbers matched exactly** [S22][S23].
+**Traffic + audience (SimilarWeb, Sep-26) [S39]:** NA 1.10M (−39% MoM, 56% male, **largest age 55–64**) · Selure 416k (−51%, 44% male, 55–64) · Evolv 360k (−33%, 59% male, 25–34) · Shaperluv 306k (−16%, 68% male, 25–34) · Mott & Bow 432k (55–64) · Primal Viking 239k (25–34). **All four direct stores fell month-on-month.**
 
-## 1E · TAKEN map — what each incumbent owns
+## 1E · TAKEN map (owned angle · region · active/abandoned)
+1. North Alpine — "NO MORE DAD BOD" / beer belly + love handles + man boobs / **"Over 40 and can't get rid of that beer belly?"** · US + intl · ACTIVE
+2. Shaperluv — "man boobs or stubborn beer belly?" + "$10 last sizes" + **3.0 extra length** + Fit Dad program · US/CA/AU/UK · ACTIVE
+3. Selure — "You're not alone, 2x slimmer" + personas: publisher, **big guy (G4)**, **founder 244 lb → loose skin (G3)**, "It's Not Age. It's This." (40+) · US · ACTIVE
+4. Evolv — beer belly + love handles + "men's breasts", 2+1 free, V-Boost program · US/AU/NZ/CA · ACTIVE
+5. InShape — "Man Boobs? Wear This Under Your Shirt" / "Surgery isn't the only answer" / "360° chest compression" + **/pages/after-weight-loss "10 reasons why men after GLP-1…" (G3, ads since 2026-08-17)** + **"Men Over 55" advertorial (G5)** + size quiz — the only competitor with a pre-sell per buyer group · US/AU/CA · ACTIVE (tiny)
+6. Alphacore — **big men S–5XL, "not resized from a slim-fit pattern", 27% extra length, try 3 sizes** + **GLP-1 ads since Oct 21 ("The skin can't keep up… It won't tighten the skin")** · US/intl · ACTIVE, scaling
+7. Qore Logiq — big **and tall**, "I'm a 5XL", tall length · US · ACTIVE
+8. Aida — **"The vest that drains your beer gut while you do nothing"** (lymphatic/magnetic), founder voice, "Dr." pages · US/intl · ACTIVE
+9. Shapers — **"the first adjustable" SlimShirt 3.0**, "A secret women have kept for decades" · US · testing
+10. Tusq — "No roll. No jiggle." base layer for bigger bodies, event collection · US · ACTIVE
+11. Somnea — **"hides my Gyno with no surg*ry"**, heavyweight 340gsm cotton (not compression) · US ads · ACTIVE
+12. Rounderbum (generic silhouette) · Nebility (front zip) · Natural Posture (posture) · Thirsix (zip waist trainer) · Waist Sculpt ("double compression") · Pomence ("ionic") · vest testers — small / testing
+13. Core Armour — NA template · **GB** · ACTIVE
+14. StealthSlim (big & tall), Gaudenza, Sculptix, Shapecore, Allanii — **ABANDONED**
+15. Adjacent: Mott & Bow "hide belly and man boobs" tees (756 d) · Built Different "the t-shirt that hides your beer belly" · Primal Viking (supplement) owns "man boobs" · AT2A owns "GLP-1 skin"
 
-1. **North Alpine:** "2026 = NO MORE DAD BOD" + wife/doctor "dad bod" story + 2+1 + "Ionic" · US+ · ACTIVE
-2. **Shaperluv:** "Struggling with man boobs or stubborn beer belly?" + "ONLY $10… LAST SIZES" + 5-for-$50 + "Fit Dad" program; now **"3.0 extended length / no riding up"** · US/CA/UK/AU · ACTIVE
-3. **Selure:** "You're not alone… 2x slimmer in seconds… $10 PER TANK" + persona pages (incl. "Arthur": the 244-lb loose-skin story in 12 of 26 ads — §20) + "It's Not Age. It's This." · US · ACTIVE
-4. **Evolv:** "Say goodbye to beer belly, love handles and men's breasts" + "2+1 FREE TODAY" + "Ionic Ice / breaks down fat cells" + "Scott Hughes" persona · ACTIVE
-5. **InShape:** "No More Man Boobs / No More Loose Skin / No More Dad bod" + "10 reasons" listicle · US · ACTIVE (low revenue) · **§20: since 2026-10-13 also a dedicated "men after GLP-1" loose-skin funnel (in-shape.co/pages/after-weight-loss; "You did the work. Let your shirt show it.")** — *note: "loose skin" appears as one line, not a market*
-6. **Rounderbum:** "Natural Feel, Enhanced Look" · ACTIVE
-7. **StealthSlim:** **big & tall** "Designed for big and tall men" · ACTIVE (low)
-8. **The Natural Posture:** "chest and mid-section slimming" + posture · ACTIVE
-9. **Gaudenza (FitForm):** "BYE BYE MAN BOOBS. Under your shirt. In seconds." + "Before you size up" + "Before you consider surgery" · US · ACTIVE
-10. **Aida:** lymphatic **"fluid, not fat"** + "after 50 / grandpa gut" + "weight came off, belly stayed" (boxers) + wife "I bought one for my husband" · US/CA/NZ/GB · ACTIVE
-11. **Huracan:** "three separate zones… no ride-up" + wedding hook · ACTIVE
-12. **Mr. Sculpt / Rablaisie:** sauna/sweat "burn more calories" · ACTIVE
-13. **Waist Sculpt:** zip-front adjustable compression · ABANDONED Oct-26
-14. **Qore Logiq:** "#1 Men's Shapewear on Amazon" · Meta ABANDONED
-15. **Vantor / FormWear:** long-form native dad story · TESTED 1–2 days, dropped
-16. **Shapecore / Feetoot:** "Zoned compression… 100% Guaranteed Fit" · ABANDONED Dec-24
-17. **The ~14 dead clones:** "dad bod / stubborn fat / toned in seconds / sweat vest" · ABANDONED 2023–25
-18. **Amazon:** "Gynecomastia compression shirt… hide fat… tummy control", multipacks, $7.99–$29.99 · ACTIVE (price floor)
-19. **Indirect:** Primal Viking (hormone cause + quizzes) · Mott & Bow (tees that hide belly + wife angle) · Mars Men (testosterone + media whitelisting) · ACTIVE
-
-**Unowned** (INFERENCE from the map):
-- (1) a real **fit system**: measure-to-size, torso length;
-- (2) a **partner-buyer** angle on a tank (44–56% of competitor visitors are women);
-- (3) a **credible, honest mechanism**: every "Ionic" claim is the same pseudo-science;
-- (4) a **quiz / fit-finder funnel** (only the supplement indirects use one);
-- (5) **visible, responsive service**: 0% Trustpilot reply rates at all top-3 tank sellers;
-- (6) **post-weight-loss men / loose skin as a market** (see §2).
-
-**So What → do this:**
-- Demand is proven: 4 stores at est. $1.8M–$10M/month on Meta, ads running 393–453 days.
-- The plain "flatten man boobs and belly" claim, the $10 tank, the 2+1 and "Ionic" are **taken**.
-- Steal the mechanics: bundle ladder, long guarantee, listicle/quiz pre-sell, persona/media whitelisting.
-- Never copy their claims. Compete on the unowned slots above.
+**So What → do this:** demand is proven and still attracting entrants (2 brand-new testers this week, 7 more run 1 had missed), but every big player sells the **same merged "man boobs + beer belly" angle** with $10 bait, weight-loss/ionic claims and broken guarantees. Don't fight them on that avatar. Model their bundle math; beat them on fit/length proof, honest claims, a real guarantee and one buyer per page.
 
 ---
 
-# 2 · Your gap (Purple Ocean) — 🔒 **LOCKED after §11** (draft below + what changed)
+# 2 · Your gap (Purple Ocean) — DRAFT (locks after §11)
 
-## Check all three gaps first
+## Check all three gaps first (with §1 evidence)
+- **1. Creative-format gap — barely open.** 445 ads: video 282 · image 106 · DCO 57 · **carousel 0**; listicles (Shaperluv, NA, Aida, InShape), founder voice (Aida, Selure "Arthur", Shapers) and persona pages (Selure) are already used. Open: carousel, honest demo/explainer, proof-led before/after-of-the-*shirt* (not the body). Unproven in this niche [S32] (INFERENCE).
+- **2. Mechanism gap — open for one specific "how".** Taken: ionic (NA, Pomence), lymphatic drain (Aida), extra length / no roll (Shaperluv 3.0, InShape, Alphacore 27%), adjustable (Shapers), front zip (Nebility), 360° chest (InShape), heavyweight cotton (Somnea), posture (NA, Natural Posture), "double compression" (Waist Sculpt). **Not seen:** an honest "it hides, it doesn't burn" mechanism tied to *why the problem exists* for a specific man — e.g. loose skin that can't shrink (G3) — and a fit-to-torso sizing system [S32] (INFERENCE from regex; absence ≠ proof).
+- **3. Avatar gap — least closed for G3 (and for naming 50+).** Ad counts by group in the 445-ad sample: G1 322 · G2 291 · **G3 9** (§20 re-check: **≥21 live** from 3 advertisers) · G4 56 · **G5 0 named** in ads (InShape has a 55+ landing page) [S32].
 
-| Gap | For / against (§1 evidence) | Verdict |
-|---|---|---|
-| **1. Creative format** | **Carousel: 0 of 225** US men's-compression ad rows (women's shapers run 35) [S52] DATA. Honest expert/clinician video: **0** garment ads (only topical-patch scams use "Dr." pages) [S52]. Mechanism animation: 1 (Aethon 3D). Founder story: 0 on Meta. Native long-form story statics: tested by Evolv (~23 d), Vantor (2 d), FormWear (1 d), never sustained [S52]. Listicle pre-lander: Aida's and Shaperluv's home turf. | **Open, but a HOW, not a wedge.** Use expert/mechanism explainer + carousel with/without sequences as the *execution*. |
-| **2. Mechanism** | Taken: "instant" (39 creatives), posture (34), invisible (28), fabric tech (17), zoned (7 + Aida ~11), sauna (6), fat-loss (5), lymphatic "fluid not fat" (Aida ~28+ Meta + 197 Google ads), Ionic (Evolv/Bond/North Alpine/Selure), "extended cut / no ride-up" (Shaperluv 3.0, Huracan) [S52][S19][S20]. **Unowned and honest:** "holds loose skin and soft tissue flat after weight loss" (0 men's ads) [S52]. | Mechanism alone won't carry a brand. The honest unowned "how" must ride a market. |
-| **3. Avatar** | Red: gyno/chest **63 of 100** US creatives, belly 45, gym 22, office 16, 50+ 12, dad 9 [S52]. **0 of 100 target post-weight-loss / loose skin** in the first sweep [S52] — **§20: InShape (since 2026-10-13) and Selure's Arthur persona do** [S73]. Organic: 18 of 40 loose-skin compression results are male-explicit (r/loseit, r/BariatricSurgery, r/gastricsleeve, r/SuperMorbidlyObese, r/mounjarouk) [S60] SNIPPET. Big men: very high organic, few ads, but our SKU stops at 3XL. | **The first gap we can genuinely win → commit.** |
+## The Purple Ocean Gate, group by group
+| Group | PAINKILLER (§0) | UNCONTESTED | A MARKET, not an angle | Auto-fails | Verdict |
+|---|---|---|---|---|---|
+| G1 dad bod / belly | ✗ want (3/4/5) | ✗ 322 ads, 20 advertisers; **North Alpine's own angle** | ✓ | vitamin + red ocean | **FAIL** |
+| G2 chest / gyno | ✓ strongest (5/5/4) | ✗ 291 ads; NA's core bullet, Shaperluv's #1 hook; Primal Viking owns "man boobs" (5,173 ads) | ✓ | red ocean | **FAIL** (chest-only niche is small: 25 ads, Somnea + InShape) |
+| **G3 lost the weight, still shows** | ✓ (4/5/3) | **~ contested and crowding (§20): ≥21 live US ads from 3 garment advertisers — InShape ≥15, Selure 4 (founder pages), Alphacore ≥2 naming GLP-1 (since Oct 21); North Alpine / Shaperluv / Evolv none; 0 Amazon / TikTok Shop / Etsy / Google listings** | ✓ ~11M men on GLP-1 + ~35–54k bariatric men/yr, growing | none (the biggest doesn't run it) | **least-owned painkiller — passes painkiller + market; "uncontested" only partly** |
+| G4 big & tall | ~ need (fit) | ✗ specialists own it (Alphacore, Qore, Built Different) | ✓ | — | **FAIL** — our SKU stops at 3XL; 8 of 12 size mentions are above it |
+| G5 men 50+ | ✗ want (2/5/5) | ~ 0 ads *name* 50+, but NA's most-duplicated ad is "Over 40…" | ~ overlaps G1/G2 | red ocean (40+) | **runner-up** |
 
-## Commit (draft): **"Lost the weight — but it still shows."** US men who have already lost serious weight (diet, gym, GLP-1 drugs, bariatric surgery) but still look soft in a T-shirt because of loose skin plus leftover chest and belly.
+**"Which competitor is already running this exact angle, and where?"** — **Selure Wear (US)**, via its "Arthur from Selure Wear" / "Arthur Johnson" founder pages (4 ads, 122–276 days, live: "When I was 244 pounds… Even after losing weight, I still dealt with loose skin"); and **InShape (US)**, /pages/after-weight-loss (5 ads since 2026-08-17: "The Post-Weight Loss Tank", "If you're dealing with loose skin after weight loss…", "You did the work… Now, get the shirt fit you earned"). Selure is #2–3 by revenue, not the biggest — and its founder ads land on a **generic product page whose own copy never mentions weight loss** (one shown customer review mentions loose skin; no G3 page). InShape is the real occupant at page level: its landing page headline is **"10 REASONS WHY MEN AFTER GLP-1 ARE WEARING INSHAPE UNDER EVERY SHIRT"** and it already says "InShape does not tighten skin or change your body" — small by revenue ($25–50k / 30 days; 9,453 visits in Sep, 49.8% from the Philippines) but **not small in ad volume — 1,845 active ads on its page, and its FAQ calls GLP-1 "the campaign angle"**, 3XL max, and its "fit promise" is store credit tied to paid shipping protection [S53] VERBATIM/DATA. **⚠ §20 correction — the angle is more crowded than the first scan showed:** the first count (9 ads, 2 advertisers, "0 garment ads name GLP-1") came only from the 445-ad fresh sample; a hostile re-check found **≥21 live G3 garment ads from 3 advertisers**: InShape ≥15 (8 × "Lost the weight, but your shirts still aren't fitting…" started Oct 13–14; "guys who lost 50, 100, 200+ lbs", Oct 20; two since Aug 14; a "loose skin insecurity" ad ran Oct 2025 → Sep 2026) · Selure 4 · **Alphacore ≥2 naming GLP-1** (ids 1449775446552073, 1091436097044953, since Oct 21: "On GLP-1, the weight comes off fast. The skin can't keep up… It won't tighten the skin… 3 for $49, for men who want to look as good as they feel on GLP-1"); next to them, Aida's men's boxers run "The belly that stayed after you lost the weight" [S32][S35][S53]. **The gap they still miss:** no proof-led shirt-on creative, no mechanism that explains *why* it still shows, **no size-down swap for a body that's still shrinking** (still 0 of 25), no guarantee that matches the policy (Alphacore's doesn't either) — and North Alpine, the biggest, hasn't moved [S32][S53][S54].
 
-**The Purple Ocean Gate:**
-- **PAINKILLER — YES.**
-  - "The extra skin after weight loss is so cruel" (r/loseit) [S60] SNIPPET.
-  - "For Men: What to wear as I lose weight and belly hangs lower???" (r/BariatricSurgery) [S60] SNIPPET.
-  - "I'm looking for something I can wear under a normal T-shirt that will help with loose belly skin sag." ([r/BariatricSurgery](https://www.reddit.com/r/BariatricSurgery/comments/1lpztb0/mens_undershirts_to_fight_loose_skin_sag/)) [S60] SNIPPET.
-  - Their only "real" fix is skin-removal surgery: "I (M) lost over 340 pounds before having skin removal surgery. Up until then, I used compression shirts/tanks" (r/SuperMorbidlyObese) [S60] SNIPPET.
-  - It is not a nicer-shirt want: he did the work and still won't take the shirt off.
-- **UNCONTESTED in the US — ~~PARTIAL~~ → CORRECTED in §20: CONTESTED-EARLY (see the correction box below).**
-  - First sweep: 0 of 100 US men's garment creatives (CG category, page 1) target loose skin or post-weight-loss.
-  - Exact-phrase checks "loose skin men", "weight loss compression shirt", "ozempic compression" → 0 [S52] DATA.
-  - Proven-but-elsewhere: women's shapewear runs it in the US and GB (Shape Lab, "The weight came off. The loose skin stayed.") [S52] → de-risked.
-- **"Which competitor is already running this exact angle, and where?"**
-  - **Aida** (officialaidastore.com, "Daily Men's Wellness" page, US/CA/NZ/GB) runs it **for boxers, framed as trapped fluid**: "If the weight came off and the belly is still out front, it isn't fat you missed. Steve, 52, lost sixty pounds…" (2026-10-17→10-28) and "I dieted the weight off and my dad bod stayed." (2026-10-13→10-28) [S52] VERBATIM ad text.
-  - Selure's founder persona "Arthur": 12 of 26 page ads since 2025-12-09, 3 live (1383503447126674, 1595932471662174, 1257383202415056): "When I was 244 pounds… Even after losing weight, I still dealt with loose skin" [S10][S73] (§20-corrected).
-  - **InShape: a dedicated "men after GLP-1" loose-skin landing page + ≥8 live ads since 2026-10-13** [S73] (§20-corrected; the first draft said "one line").
-  - → It is not owned by a scaled brand. The "weight came off" phrase is in Aida's and InShape's mouths, so **we must own the MECHANISM (hold extra skin flat, long cut) + the fit offer, never "fluid"**.
+*Run 1 vs run 2:* run 1 dated InShape's "men after GLP-1" push to 2026-10-13 — §20 confirms **that is when a new wave of ads started**; its earliest post-weight-loss ads go back to 2026-08-14, its landing page names GLP-1, and it also runs a "Men Over 55" advertorial (/pages/clothes-that-fit-better) [S32][S53]. The first run-2 draft's "correction" of run 1 was itself wrong and is withdrawn.
 
-> ⚠️ **§20 CORRECTION — "uncontested" was WRONG.** The adversarial check searched Winning Hunter's **Men's Clothing** category and phrase variants that the first sweep missed. It found:
-> - **InShape** (in-shape.co) launched a dedicated men's funnel on **2026-10-13/14**: landing page *in-shape.co/pages/after-weight-loss*, "10 reasons why men after GLP-1 are wearing InShape under every shirt", with ≥8 live US/CA/AU/NZ/NO ads. Examples:
->   - "Lost the weight, but your shirts still aren't fitting how you'd hoped? Weight loss can leave loose skin around your chest and stomach…" (headline "Lost Weight? Smooth the Look of Loose Skin.")
->   - "Built for guys who lost 50, 100, 200+ lbs and want their shirts to finally show it."
->   - "You did the work. Let your shirt show it."
->   - InShape also ran "Say goodbye to loose skin insecurity" as an ad's lead for **333 days** (2025-10-29→2026-09-27).
-> - **Selure's "Arthur from Selure Wear"** persona tells the 244-lb "even after losing weight, I still dealt with loose skin" story in **12 of its 26 ads** since 2025-12-09, **3 still live** — not "one ad".
->
-> **What this means (honest call):**
-> - **No fully uncontested painkiller wedge exists for this product in the US.**
-> - W1 is still the **least-owned real market**. Its two occupants are small:
->   - InShape: ~9.5K visits/mo, est. $25–50K/30d, 14 days into the angle.
->   - Selure: a side persona page with 10 active ads, out of Selure's 519.
-> - **The biggest competitor (North Alpine) doesn't run it** → not an automatic fail. But it now reads **"under-owned / early — a land-grab"**, not "uncontested".
-> - **InShape already owns the words** "lost the weight… shirts… show it" and "did the work". So **our edge can't be the angle wording**. It has to be the **mechanism** (extra skin can't shrink → hold it flat, long cut below the belt, §13), the **fit system + size-down swap offer** (§15), and **speed**.
-> - §4B's brand line was reworded for this reason (Doc 4).
-- **A MARKET, not an angle — YES (provisional).**
-  - KFF (Nov 2025): **9% of US men currently take a GLP-1** — for any reason, incl. diabetes [S62] (VERBATIM-confirmed in §20) → ≈11M men (INFERENCE: 9% × ~128M adult men), plus diet, gym and bariatric losers.
-  - That supports a whole brand and 20+ ads (GLP-1 men, post-bariatric, "down 50 lbs", chest skin, belly skin, back at the gym, first beach trip after the weight, wedding after weight loss…).
-- **3 automatic fails:** not a vitamin (fixes a visible problem now) · not red ocean (the biggest competitor, North Alpine, doesn't run it; the occupants are InShape — tiny — and one Selure persona page) · not a single scenario.
-- **Product fit:** men after weight loss fit S–3XL far better than big & tall men. Compression can only **hold and smooth** soft tissue under a shirt. Never claim tightening, fat loss or gyno reduction (§2B).
+## Commit: **G3 — the man who lost the weight but it still shows** *(internal segment label — not ad copy: it's too close to InShape's live hook "Lost the weight, but your shirts still aren't fitting…")*
+US men who already lost serious weight (diet, gym, GLP-1 drugs, bariatric surgery) but still look soft in a shirt — loose skin plus leftover chest and belly the scale can't move. Run 2 tested it against every men's group. **Said plainly: no fully uncontested men's group exists in the US** — G1 and G2 are the biggest competitor's own angles (automatic fails), G4 is owned by specialists and our SKU can't serve it, G5 is a want. **G3 is the least-owned painkiller**: the biggest competitor doesn't run it, the three that do are small by revenue, and none owns the offer (size-down swap) or the mechanism. It is a **land-grab, not white space** — attack it with the mechanism gap (why it still shows + "squeeze moves it, hold keeps it"), proof-led shirt-on creative, the changing-body offer, and speed.
+**Runner-up (one line):** G5 men 50+ — open only as *named* copy, sits inside North Alpine's "over 40" angle, and naming age risks Meta's personal-attributes rule (§2B).
 
-**Runner-up (one line):** big & tall men (2XL–5XL) — strong organic pain and few sellers (Biggmans, StealthSlim, Alphacore), but our SKU caps at 3XL, so it needs a 4XL+ source.
+**What this means for Nikita's "all men" store:** the gate decides who the *first* ads and funnel speak to — not who the store sells to. G1 (the biggest pool), G2 (the strongest pain) and G5 (the age band already buying: NA and Selure peak at 55–64) are researched at full depth in §3A as the scale targets, and the brand (§4B) is built to hold all of them.
 
-**Red ocean, don't lead with:** chest/gyno "man boobs" (Gaudenza, Evolv, Ironstride, Vantor, 20+ "Dr." patch ads, 13/15 Amazon titles) and generic dad-bod.
-
-**Pressure-tested open questions** (answered later in the run):
-1. Is W1 big enough as a share of what men actually post? (§2C counts)
-2. Does a compression tank really make loose skin look better? (§13 science)
-3. Can a Meta ad say "lost the weight" or mention GLP-1 without rejection? (§2B)
-4. Does anyone run loose-skin tops for men in the US? (§20 refute)
-
-**🔒 LOCKED after §11 (Doc 3).** The wedge stands. What changed:
-- It is now led by **loose skin first, chest second** (83 vs 19 of 110 W1 social rows).
-- He is solution-aware and product-burned, so the wedge must arrive with the §13 mechanism.
-- W1 is only 3% of buyer reviews, so the launch ad test must include one broad "your shirt fits right" control.
-- ~~A fresh US sweep found 0 of 120 first-page ads… so the gap re-checks as uncontested.~~ **§20 corrected this:** a deeper sweep (Men's Clothing category, pages 1–5, phrase variants) found InShape's GLP-1 funnel and Selure's Arthur persona → **contested-early, not uncontested**.
-
-**So What → do this:** wedge = **post-weight-loss men (loose skin first, then chest/belly)**.
-- Broad men's shapewear stays the scaling pool (§3A).
-- Steer clear of Aida's "fluid" framing and the gyno red ocean.
-- Lock or kill this after §11.
+**So What → do this:** launch to the post-weight-loss man, built so the dad-bod, chest and 50+ man can buy from day one; win on mechanism + proof + the size-down swap + speed, because InShape, Alphacore and Selure are already in — and moving.
 
 ---
 
 # 5 · Awareness level
 
-**Verdict: SOLUTION-AWARE (with a large problem-aware slice).** He knows compression shirts exist, and many tried UA, athletic or cheap Amazon ones that rode up or felt too short. Enter at **"why the shirts you tried didn't work → what actually has to happen"**. The funnel type that stage needs is a **pre-sell page that explains the mechanism and compares** (advertorial or listicle) → product page. The final pick is in the Funnel Map (Doc 4).
+**Measure 1 — discourse-volume proxy ("[problem] + Reddit" + forums, 2026-11-02) [S28][S26][S27]:**
+| Group | Relevant threads (2 fixed searches) | Dedicated communities | Read |
+|---|---|---|---|
+| G3 lost the weight | 24/33 + 24/30 (~half clearly male) | r/Zepbound 241k (+48%/yr), r/Mounjaro 208k (+32%), r/loseit 4.2M; BariatricPal "The Guys' Room" (male-only); **no loose-skin subreddit** | problem-aware, fast-growing hosts |
+| G2 chest | 27/30 + 28/30 | r/gynecomastia 29k (+26%/yr); forum.gynecomastia.org 206,543 posts | problem- and solution-aware, organised |
+| G1 belly | 28/33 + 25/30 | none dedicated (fashion-advice threads) | problem-aware, solution-vague |
+| G5 50+ | 6/40 + 6/30 male | none (aging threads are mostly women's) | mostly unaware / accepting |
+| G4 big & tall | 33/40 + 26/30 | r/bigmenfashionadvice 71k (+29%/yr) | problem-aware, shops by fit |
+Reddit comment/view counts were blocked (old.reddit / API 403; Firecrawl unsupported) — threads ranked by relevance only (GAP).
 
-**Measure 1 — discourse-volume proxy ("[problem] + Reddit"):** pages and pages of threads.
-- "site:reddit.com compression shirt gynecomastia": 50 of 50 results (cap hit), 47 relevant.
-- "hide belly under shirt men": 50 of 50, 42 relevant.
-- "loose skin compression shirt men after weight loss": 40 of 40, 18 male-explicit.
-- Every W1 subreddit query (r/loseit, r/BariatricSurgery, r/gastricsleeve, r/Mounjaro, r/Ozempic, r/WegovyWeightLoss) hit the 15-result cap [S60] SNIPPET.
-- On BariatricPal's men-only board, the "Compression Shirts" thread has 15.3k views for 10 replies [S64].
-- → **at least problem-aware everywhere.** Brand comparisons (Underworks, Esteem, Under Armour, Spanx, Shaperluv) are common → solution/product-aware.
-- **One exception:** men's GLP-1 discussion is thin. In GLP-1 subs men are a minority (only 2–3 male-explicit of 30 GLP-1 loose-skin results) [S60], so GLP-1 men need the symptom bridged (below).
+**Measure 2 — real-data split of the §2C bank by stage:**
+| Slice | Unaware | Problem | Solution | Product | Most | n |
+|---|---|---|---|---|---|---|
+| **Posting market** (Reddit, forums, X, video comments) | 3% | **45%** | 26% | 16% | 9% | 740 |
+| ↳ G3 lost the weight (lead) | 2% | **45%** | 30% | 17% | 7% | 242 |
+| ↳ G2 chest | 2% | 39% | 28% | 15% | **16%** | 170 |
+| ↳ G1 belly | 2% | **55%** | 21% | 12% | 11% | 113 |
+| ↳ G5 50+ | **14%** | **65%** | 13% | 3% | 4% | 69 |
+| ↳ G4 big & tall | 2% | 32% | 25% | **33%** | 8% | 60 |
+| Buyers (reviews — a reviewer has already bought) | 0% | 0% | 0% | 91% | 9% | 1,582 |
+[S52]. Unaware people don't post, so the unaware slice is a floor (INFERENCE: much larger for G5 and G1).
 
-**Measure 2 — real-data split of the §2C data bank** (Python tally of the 581-row CSV):
+**Where she sits:** the launch man (G3) is **problem-aware → solution-aware** (45% + 30%): he knows the leftover is skin, he's heard of surgery, half of him has heard of compression — but he doesn't know *which* shirt works or why the ones he tried failed. "Men: How much loose skin should I realistically expect after weight loss…" (r/Zepbound, SNIPPET) · "Compression shirts are what I used up until the skin removal" (r/BariatricSurgery, SNIPPET) [S28].
 
-| Slice | Unaware | Problem | Solution | Product | Most aware |
-|---|---|---|---|---|---|
-| All 581 rows | 10 (2%) | 80 (14%) | 100 (17%) | **354 (61%)** | 37 (6%) |
-| **Posting market only** — Reddit/forums/X (269; buyer reviews removed, because a reviewer has already bought by definition) | 10 (4%) | 80 (30%) | **99 (37%)** | 76 (28%) | 4 (1%) |
-| **W1 post-weight-loss men** (163) | 4 (2%) | 41 (25%) | **64 (39%)** | 49 (30%) | 5 (3%) |
+**Symptom bridges (for the low-awareness slices):** medical/expert "signs" pages — loose skin "often doesn't retract, especially around the" belly and chest after a big loss (Eterno 360) [S50]; it "affects your life" through irritation and self-consciousness (Healthline, Sono Bello) [S48][S51]; chest tissue can be "fat, gland or both" (Cleveland Clinic) [S47]. Then the symptom + Reddit threads:
+- **G3:** "I still see the fat guy" → it's skin the scale can't move → hold it flat.
+- **G1:** "gut sticks out above my belt" / "shirt muffin top" → the tank pushes the soft layer out the bottom → a hold that reaches below the belt.
+- **G5:** "pecs turn to moobs", "nipples showing through" thin polos → the same shirt fits different now → a smooth layer under the polo.
+- **G2:** already aware — straight to proof.
 
-- "Unaware" is under-counted by nature (unaware men don't post) → its true size is INFERENCE.
-- The searches all contained "compression"/"loose skin", which tilts the sample toward solution-aware.
+**Funnel type her stage needs (final pick in the Funnel Map):** G3 problem/solution-aware → **pre-sell advertorial** that names why the shirt still shows and why the tanks he tried failed, then the offer page. G2 / G4 (more product- and most-aware) can go **straight to a proof-heavy product page**. G1 / G5 need a symptom-first pre-sell.
 
-What each stage sounds like:
-- **Problem-aware:** "Many people mistake loose skin for fat and think that if they lose enough, it will go away." ([r/Mounjaro](https://www.reddit.com/r/Mounjaro/comments/1jbpsov/is_my_goal_weight_unrealistic/), SNIPPET)
-- **Solution-aware:** "Guys - do any of you who have lost a lot of weight wear compression shirts?… The last thing I want to do is order a bunch and have them not perform" ([BariatricPal](https://www.bariatricpal.com/topic/36820-compression-shirts/), VERBATIM)
-- **Product-aware:** "Baleaf: … not long enough for me, constantly rides up as I exercise. UA: … constantly rides up due to length." ([ObesityHelp](https://www.obesityhelp.com/forums/vsg/6015323/quick-compression-shirt-reviews/), VERBATIM)
-- **Most aware:** "I have a spanx t-shirt….even though I am done loosing weight, I still wear it when "in the spotlight"" ([BariatricPal](https://www.bariatricpal.com/topic/332101-spanx-for-men/), VERBATIM)
-
-**Symptom bridge (for the problem-aware / GLP-1 slice):** start from a symptom he already notices and wants gone → the hidden problem → the product.
-
-| Symptom he notices (his words) | Hidden problem (expert source) | Use? |
-|---|---|---|
-| **"My shirts still don't fit right" / buys a size up to cover it** — "buy up a size or to to make sure they covered" (Underworks testimonial [S65] VERBATIM) | 96% of gastric-bypass patients develop surplus skin; patients report problems "finding clothing that fit appropriately" (Kitzinger 2012) [S66] VERBATIM | ✅ **LEAD** — pure apparel pain, 100% sayable |
-| **Chest still "soft/puffy" in a T-shirt after losing weight** — "I dropped from around 250 to currently at 190, and I still have the moobs." (trg, [r/loseit](https://www.reddit.com/r/loseit/comments/1djwhvc/)) | After big weight loss men "suffer from redundant skin and soft tissue in the anterior and lateral chest region… without enlargement of the breast glandular component" (pseudogynecomastia abstracts) [S67] SNIPPET; "a chest that looks soft or undefined, regardless of how lean" (Arroyo Plastic Surgery) [S68] VERBATIM | ✅ LEAD (never say "gyno") |
-| **A "ring" of loose skin round the lower belly** — "a "ring" of loose skin that gravity's placed around my lower abdomen" ([r/loseit](https://www.reddit.com/r/loseit/comments/9mrvek/need_mens_fashion_advice_what_clothes_will/), SNIPPET) | Stretched collagen and elastin "lose some of their ability to retract" (Healthline, med-reviewed) [S69] VERBATIM; the abdomen is the #1 excess-skin site in men (78%) [S70] VERBATIM | ✅ shirt-on demo |
-| **Skin moves when he runs or does push-ups** — "saw the skin just hanging there" (soc-190, VERBATIM) | Surplus skin causes "problems with physical activity" [S66] | ✅ gym sub-angle |
-| Rash/itch in skin folds | intertrigo (medical) [S66] | ❌ medical — compression doesn't treat it |
-
-**So What → do this:**
-- Enter at **solution-aware**. Hooks name the *failed fix* ("the compression shirt that rode up by lunch", "sized up and still saw it").
-- For GLP-1/cold men, open with **"my shirts still don't fit right"** → "it's skin the scale can't move" → "hold it flat".
-- Never cold-pitch "loose skin" as a diagnosis to the viewer (§2B Personal Attributes).
+**So What → do this:** don't educate the G3 man about loose skin — he lives it. Educate him on **why his shirt still shows it and why the tanks he tried made it worse**, then show the proof.
 
 ---
 
 # 7 · Funnel level
 
-**Cold launch traffic = TOP of funnel.** These are broad US men 35–65 who've never heard of us, reached by creative that self-selects post-weight-loss men (§2B — no condition targeting). They're solution-aware about the *category* (§5) but cold to *us*, and burned by "miracle shirt" ads (§8).
-- **What it means for the ad's job:** stop him with his own moment (the shirt that still clings after the loss, the pool, the old XXL tag). Earn the click with curiosity about *why* the shirts he tried failed. **Don't sell the price in the ad.**
-- **What it means for the first page:** **pre-sell, not straight to the PDP.** The page must deliver the mechanism ("extra skin can't shrink — hold it flat") plus shirt-on proof before he sees a price. Every top competitor sends cold traffic to a PDP or a "5 reasons" listicle (§1); the brand page that explains wins on a burned market (§8).
-- Retargeting (warm) can go straight to the product page.
+**This traffic = cold.** Launch ads reach the §3 ICP (Mark) at problem→solution-aware on broad Meta targeting (no condition targeting exists — §2B). He has never heard of us and has been burned by the category (§8).
+- **The ad's job:** stop him with *his* moment (the shirt that still shows after the loss — achievement words, no medical words) and earn one click — not the sale.
+- **The first page:** a **pre-sell** (third-person advertorial / "why your shirt still shows it" explainer), not the product page — he needs the mechanism and the proof before he sees a price. Retargeting and G2 proof ads can go straight to the offer page.
 
-**So What → do this:** Ad (TOF, curiosity + recognition) → pre-sell page → product page. The structure is locked in the Funnel Map (Doc 4).
+**So What → do this:** top-of-funnel creative + a middle-of-funnel pre-sell page; the offer page is step 2, never step 1, for cold G3 traffic.
 
 ---
 
 # 8 · Sophistication stage
 
-**Verdict: STAGE 4 moving into 5** — a tired, copy-pasted claim market where leaders are now testing upgraded mechanisms and identity.
+**Prove the level — every captured competitor ad classified by what it leads with** (445 fresh US ads, rule-based on copy) [S32]:
+| Leads with | All 445 | Active 358 |
+|---|---|---|
+| Bigger claim ("2x slimmer", "BYE DAD BOD", "flattens instantly") | **203 (46%)** | **153 (43%)** |
+| Plain claim | 115 (26%) | 97 (27%) |
+| Upgraded mechanism (3.0 extra length, "first adjustable", front zip, 360° chest) | 51 (11%) | 44 (12%) |
+| Mechanism (ionic, lymphatic, "It's Not Age. It's This.") | 43 (10%) | 35 (10%) |
+| Identity ("I used to avoid mirrors…", founder, "built for big men") | 33 (7%) | 29 (8%) |
 
-**Proof — every captured competitor ad classified by what it leads with** (ad log, 315 ads; rule-based classification = INFERENCE, rules in the run's build script) [S14][S52]:
+**Burned evidence from the §2C bank:** **255 of 2,322 snippets (11%)** are burned — returned it 75 · wasted money 55 · skeptical of ads 47 · scam 43 · tried everything 30 · nothing works 11 [S52]. Scam/trust is the #1 objection in 1–2★ rows (87 of 332). "A printed pattern that looks like the elastic webbing in the ads" (run-1 bank) · "Junk products… don't shape a person 15lbs over weight let alone the ads with plain fat people!" (Trustpilot 1★) [S52].
 
-| Scope | Plain claim | Bigger claim | Mechanism | Upgraded mechanism | Identity | n |
-|---|---|---|---|---|---|---|
-| All direct-market ads | 120 (46%) | 105 (40%) | 12 (5%) | 6 (2%) | 19 (7%) | 262 |
-| **Direct ads still ACTIVE** | 24 (25%) | **56 (58%)** | 0 | 5 (5%) | 11 (11%) | 96 |
-| Unique direct creatives (dedup) | 36 (58%) | 12 (19%) | 4 (6%) | 1 (2%) | 9 (15%) | 62 |
-| Indirect (pain-side supplements/tees) | 10 | 10 | **24 (45%)** | 0 | 9 | 53 |
-| North Alpine | 9 | 13 | 0 | 0 | **11** | 33 |
-| Shaperluv | 21 | 21 | 0 | **6** | 0 | 48 |
-| Selure | 3 | **30** | 0 | 0 | 2 | 35 |
-| Evolv | 6 | **34** | 1 | 0 | 0 | 41 |
+**Level: Stage 4, edging into 5.** Bigger claims still dominate (Stage 2 behaviour), but the leaders have already moved to **upgraded mechanisms** (Shaperluv 3.0 length, Shapers "first adjustable", InShape 360°) and pseudo-mechanisms (ionic, lymphatic), and 11% of all customer voices are burned — the mark of Stage 4→5. Belief in the category exists ("compression works — but only while worn", 64 — the #1 belief) but belief in any *one brand's* claim is low.
 
-- **Level 2 is the market's base:** 58% of live direct ads shout a bigger claim ("2x slimmer in just seconds", "NO MORE DAD BOD").
-- **Level 3–4 is where leaders are going:**
-  - Mechanisms live on the PDPs ("Ionic Compression", "Ionic Ice", "FormRetain", "multi-zone").
-  - Shaperluv 3.0 sells an *upgraded* fix: "rebuilt with the one thing everybody asked for: length… No riding up."
-  - Supplement giants on the same pain sell a cause: "Man Boobs are not your fault…"
-- **Level 5 is being tested:**
-  - North Alpine's identity stories (11 of 33 ads: "My wife called it my "dad bod."…").
-  - Selure's persona network (Prime Men's Journal, Big Guy Solutions, "Arthur").
+**Match the marketing to the level:** lead with a **better mechanism that explains why the others failed** (Stage 4 — §13: "squeeze moves it, hold keeps it") wrapped in an **identity** the leaders can't copy (Stage 5 — §4B: the brand that says a shirt can't change your body). Never another "2x slimmer".
 
-**§2C burned count:** **94 of 581 snippets (16%)** carry a burned/skeptical tag — wasted money 31 · skeptical of ads 22 · tried everything 19 · scam 17 · returned it 6 · nothing works 5. "Not strong enough / just a tight shirt" is the #1 objection (73), and "scam / the ad lied" is #4 (36).
-- "This is just a pull over t-shirt. No compression & the advertising is all false." (rev-182, [Trustpilot 1★](https://www.trustpilot.com/review/north-alpine.com))
-- "It's basically a $29 sleeveless shirt that doesn't even look like what the guys in their ads are wearing, except that it has basically a printed pattern that looks like the elastic webbing in the ads." (rev-193, Trustpilot 2★, 2026-10-03)
-- "fooled again!" (rev-169, Trustpilot 1★)
-
-**So What → do this:**
-- A plain or bigger claim is dead on arrival. **Lead with an upgraded mechanism that explains why the shirts in the market fall short** (Stage 4). Wrap it in **identity** — "for the guy who did the work" (Stage 5, §4B).
-- Never another "2x slimmer". The mechanism must be the *clearest* one, not the cleverest (§13).
-- Every proof should be one he can see with his own eyes (shirt-on demo), because he no longer believes claims.
-
+**So What → do this:** every ad = one honest mechanism + one identity line + one piece of on-camera proof. A bigger claim is the fastest way to look like everyone else.
 
 ---
 
-# Appendix A · Top ads logged per direct competitor (from the ad log, sorted by days running, deduplicated)
+**⏰ Reminder:** send CJ's combined-parcel shipping quote (2 / 3 / 5 units) and the CJ product URL — the bundle rows of the KPI table are costed at worst case until then.
 
-Source: Winning Hunter `search_facebook_ads` + `get_store_top_ads` (meta) [S9][S10][S14] DATA. Days for active ads run to last-seen, so they are minimums. Full log: 315 ads in the §2C/§8 ad-log CSV.
-
-## North Alpine
-
-| # | Ad (Library ID) | Page | Start | Last seen | Days | Status | Format | Dup | Leads with | Hook (first line, verbatim) | Landing |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | [2108122476695556](https://www.facebook.com/ads/library/?id=2108122476695556) | NorthAlpine Co | 2026-03-23 | 2026-10-27 | 218 | active | video | 2 | bigger claim | 2+1 FREE — Ditch the "dad bod" for good! Say goodbye to: • Beer belly • Love handles • Man boobs And hello to: • Improved | north-alpine.com/products/northpower-experience-the-shift-in |
-| 2 | [819096930654902](https://www.facebook.com/ads/library/?id=819096930654902) | NorthAlpine Co | 2026-04-03 | 2026-10-27 | 207 | active | video | 3 | identity | 2026 = NO MORE DAD BOD 🔥 — My wife called it my "dad bod." My doctor called it a "health risk." I called it… unavoidable. 😅 Until I found | north-alpine.com/products/northpower-experience-the-shift-in |
-| 3 | [1461927788427179](https://www.facebook.com/ads/library/?id=1461927788427179) | NorthAlpine Co | 2026-09-03 | 2026-10-27 | 54 | active | video | 2 | plain claim | Over 40 and can't get rid of that beer belly? Try this 👇 — Say goodbye to dad bod, love handles and man boobs with the NorthPower Compression Tank 💪 Take back control of | north-alpine.com/products/northpower-experience-the-shift-in |
-| 4 | [1640247113880090](https://www.facebook.com/ads/library/?id=1640247113880090) | NorthAlpine Co | 2026-09-17 | 2026-10-27 | 41 | active | image | 1 | bigger claim | 2026 = NO MORE DAD BOD 🔥 — Ditch the "dad bod" for good! Say goodbye to: • Beer belly • Love handles • Man boobs And hello to: • Improved | north-alpine.com/products/northpower-experience-the-shift-in |
-| 5 | [1372167035056682](https://www.facebook.com/ads/library/?id=1372167035056682) | NorthAlpine Co | 2026-09-17 | 2026-10-27 | 41 | active | image | 1 | plain claim | Over 40 and can't get rid of that beer belly? Try this 👇 — Say goodbye to dad bod, love handles and man boobs with the NorthPower Compression Tank 💪 Take back control of | north-alpine.com/products/northpower-experience-the-shift-in |
-| 6 | [1272256698456450](https://www.facebook.com/ads/library/?id=1272256698456450) | North Alpine US | 2026-09-17 | 2026-10-27 | 40 | active | video | 2 | bigger claim | 2026 = NO MORE DAD BOD 🔥 — Ditch the "dad bod" for good! Say goodbye to: • Beer belly • Love handles • Man boobs And hello to: • Improved | north-alpine.com/products/northpower-experience-the-shift-in |
-| 7 | [1024345943590464](https://www.facebook.com/ads/library/?id=1024345943590464) | North Alpine US | 2026-09-17 | 2026-10-27 | 40 | active | image | 4 | identity | 2026 = The Year You Feel Unstoppable 🔥 — I used to avoid mirrors and fitted shirts. Sound familiar? 😅 Then I tried V-Boost. First time I wore it, my co | north-alpine.com/products/northpower-experience-the-shift-in |
-| 8 | [773408132467202](https://www.facebook.com/ads/library/?id=773408132467202) | North Alpine US | 2026-09-17 | 2026-10-27 | 40 | active | video | 7 | plain claim | Over 40 and can't get rid of that beer belly? Try this 👇 — Say goodbye to dad bod, love handles and man boobs with the NorthPower Compression Tank 💪 Take back control of | north-alpine.com/products/northpower-experience-the-shift-in |
-| 9 | [1419190453292319](https://www.facebook.com/ads/library/?id=1419190453292319) | NorthAlpine Co | 2026-09-17 | 2026-10-27 | 40 | active | video | 3 | identity | 2026 = NO MORE DAD BOD 🔥 — My wife called it my "dad bod." My doctor called it a "health risk." I called it… unavoidable. 😅 Until I found | north-alpine.com/products/northpower-experience-the-shift-in |
-| 10 | [931086516324769](https://www.facebook.com/ads/library/?id=931086516324769) | NorthAlpine Co | 2026-09-17 | 2026-10-27 | 40 | active | dco | 3 | bigger claim | 2026 = NO MORE DAD BOD 🔥 — Ditch the "dad bod" for good! Say goodbye to: • Beer belly • Love handles • Man boobs And hello to: • Improved | north-alpine.com/products/northpower-experience-the-shift-in |
-| 11 | [1442847860158083](https://www.facebook.com/ads/library/?id=1442847860158083) | NorthAlpine Co | 2026-09-17 | 2026-10-27 | 40 | active | image | 4 | identity | 2026 = NO MORE DAD BOD 🔥 — My wife called it my "dad bod." My doctor called it a "health risk." I called it… unavoidable. 😅 Until I found | north-alpine.com/products/northpower-experience-the-shift-in |
-| 12 | [955066897651317](https://www.facebook.com/ads/library/?id=955066897651317) | North Alpine Shop | 2026-09-16 | 2026-10-23 | 37 | active | video | 1 | plain claim | Over 40 and can't get rid of that beer belly? Try this 👇 — Say goodbye to dad bod, love handles and man boobs with the NorthPower Compression Tank 💪 Take back control of | north-alpine.com/products/northpower-experience-the-shift-in |
-
-## Shaperluv
-
-| # | Ad (Library ID) | Page | Start | Last seen | Days | Status | Format | Dup | Leads with | Hook (first line, verbatim) | Landing |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | [24318406337785077](https://www.facebook.com/ads/library/?id=24318406337785077) | Shaperluv | 2025-08-01 | 2026-10-27 | 453 | active | dco | 1 | bigger claim | ONLY $10 PRIME DAY SALE—LAST SIZES IN STOCK! — Struggling with man boobs or stubborn beer belly? Feeling less confident every time you dress up? This Prime D | shaperluv.com/products/shaperluv%E2%84%A2-tank-2-3 |
-| 2 | [1404893480717235](https://www.facebook.com/ads/library/?id=1404893480717235) | Shaperluv | 2025-08-01 | 2026-10-27 | 453 | active | video | 1 | bigger claim | ONLY $10 SUMMER CLEARANCE—LAST SIZES IN STOCK! — Struggling with man boobs or stubborn beer belly? Feeling less confident every time you dress up? It’s time to | shaperluv.com/pages/5-reasons-why-shaperluv-instantly-transf |
-| 3 | [1171568044746414](https://www.facebook.com/ads/library/?id=1171568044746414) | Shaperluv | 2025-05-08 | 2026-06-21 | 409 | inactive | video | 3 | plain claim | Buy 1 Get 1 FREE: Transform Your Look Instantly! — Struggling with man boobs or a stubborn beer belly? Say goodbye to those tummy rolls and hello to a sleek, fit | shaperluv.com/pages/5-reasons-why-shaperluv-instantly-transf |
-| 4 | [680882427644110](https://www.facebook.com/ads/library/?id=680882427644110) | Shaperluv | 2025-04-28 | 2026-05-22 | 389 | inactive | video | 1 | bigger claim | ONLY $10 BLACK FRIDAY DEAL—LAST SIZES IN STOCK! — Struggling with man boobs or stubborn beer belly? Feeling less confident every time you dress up? This Black F | shaperluv.com/products/shaperluv%E2%84%A2-tank-2-3 |
-| 5 | [1690763798499205](https://www.facebook.com/ads/library/?id=1690763798499205) | Shaperluv | 2025-05-08 | 2026-05-23 | 380 | inactive | video | 2 | bigger claim | ONLY $10 BLACK FRIDAY DEAL—LAST SIZES IN STOCK! — Struggling with man boobs or stubborn beer belly? Feeling less confident every time you dress up? This Black F | shaperluv.com/products/shaperluv%E2%84%A2-tank-2-3 |
-| 6 | [3005550576269614](https://www.facebook.com/ads/library/?id=3005550576269614) | Shaperluv | 2025-03-06 | 2026-02-10 | 341 | inactive | dco | 1 | bigger claim | ONLY $10 BLACK FRIDAY DEAL—LAST SIZES IN STOCK! — Struggling with man boobs or stubborn beer belly? Feeling less confident every time you dress up? This Black F | shaperluv.com/products/shaperluv%E2%84%A2-tank-2-3 |
-| 7 | [554644447403929](https://www.facebook.com/ads/library/?id=554644447403929) | Shaperluv | 2025-05-16 | 2026-04-20 | 339 | inactive | video | 1 | bigger claim | ONLY $10 TARIFF CLEARANCE—LAST SIZES IN STOCK! — Struggling with man boobs or stubborn beer belly? Feeling less confident every time you dress up? It’s time to | shaperluv.com/pages/5-reasons-why-shaperluv-instantly-transf |
-| 8 | [904702147995508](https://www.facebook.com/ads/library/?id=904702147995508) | Shaperluv | 2026-04-01 | 2026-10-27 | 209 | active | video | 1 | plain claim | Buy 1 Get 1 FREE: Transform Your Look Instantly! — Struggling with man boobs or a stubborn beer belly? Say goodbye to those tummy rolls and hello to a sleek, fit | shaperluv.com/pages/5-reasons-why-shaperluv-instantly-transf |
-| 9 | [1394047658325434](https://www.facebook.com/ads/library/?id=1394047658325434) | Shaperluv | 2025-08-18 | 2026-03-13 | 207 | inactive | video | 6 | bigger claim | Struggling with man boobs or stubborn beer belly? Feeling less confident every time you dress up? It’s time to | shaperluv.com |
-| 10 | [807396685203489](https://www.facebook.com/ads/library/?id=807396685203489) | Shaperluv | 2025-09-22 | 2026-04-04 | 194 | inactive | video | 23 | plain claim | Struggling with man boobs or a stubborn beer belly? Say goodbye to those tummy rolls and hello to a sleek, fit | shaperluv.com |
-| 11 | [2053495562130439](https://www.facebook.com/ads/library/?id=2053495562130439) | Shaperluv | 2025-12-04 | 2026-05-23 | 170 | inactive |  | 11 | plain claim | This ad was run by an account or Page we later disabled for not following our Advertising Standards. | shaperluv.com |
-| 12 | [24648311284834492](https://www.facebook.com/ads/library/?id=24648311284834492) | Shaperluv | 2026-05-13 | 2026-10-21 | 161 | active | video | 2 | plain claim | ONLY $10 SUMMER SALE — LAST SIZES IN STOCK! — Struggling with man boobs or a stubborn beer belly? Say goodbye to those tummy rolls and hello to a sleek, fit | shaperluv.com/pages/5-reasons-why-shaperluv-instantly-transf |
-
-## Selure Wear
-
-| # | Ad (Library ID) | Page | Start | Last seen | Days | Status | Format | Dup | Leads with | Hook (first line, verbatim) | Landing |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | [657161910763591](https://www.facebook.com/ads/library/?id=657161910763591) | Selure | 2025-09-24 | 2026-10-27 | 398 | active | video | 1 | bigger claim | ONLY $10 PER TANK - LAST SIZES IN STOCK! — Struggling with man boobs or a stubborn beer belly? You’re not alone. The Selure Wear Tank gives you an instan | selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0 |
-| 2 | [2288633478240015](https://www.facebook.com/ads/library/?id=2288633478240015) | Selure | 2025-10-07 | 2026-09-26 | 354 | inactive | video | 1 | bigger claim | ONLY $10 PER TANK - LAST SIZES IN STOCK! — Struggling with man boobs or a stubborn beer belly? You’re not alone. The Selure Wear Tank gives you an instan | selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0 |
-| 3 | [2056400304763981](https://www.facebook.com/ads/library/?id=2056400304763981) | Selure | 2025-10-11 | 2026-09-26 | 350 | inactive | video | 1 | bigger claim | ONLY $10 PER TANK - LAST SIZES IN STOCK! — Struggling with man boobs or a stubborn beer belly? You’re not alone. The Selure Wear Tank gives you an instan | selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0 |
-| 4 | [1343600560522832](https://www.facebook.com/ads/library/?id=1343600560522832) | Selure | 2025-11-11 | 2026-10-27 | 350 | active | video | 1 | bigger claim | ONLY $10 PER TANK - LAST SIZES IN STOCK! — Struggling with man boobs or a stubborn beer belly? You’re not alone. The Selure Wear Tank gives you an instan | selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0 |
-| 5 | [2033524644132182](https://www.facebook.com/ads/library/?id=2033524644132182) | Selure | 2025-10-18 | 2026-09-26 | 343 | inactive | video | 2 | bigger claim | ONLY $10 PER TANK - LAST SIZES IN STOCK! — Struggling with man boobs or a stubborn beer belly? You’re not alone. The Selure Wear Tank gives you an instan | selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0 |
-| 6 | [24474950208850498](https://www.facebook.com/ads/library/?id=24474950208850498) | Selure | 2025-11-01 | 2026-09-26 | 329 | inactive | video | 2 | bigger claim | ONLY $10 PER TANK - LAST SIZES IN STOCK! — Struggling with man boobs or a stubborn beer belly? You’re not alone. The Selure Wear Tank gives you an instan | selurewear.com/pages/5-reasons-why-shaping |
-| 7 | [2103732096699624](https://www.facebook.com/ads/library/?id=2103732096699624) | Selure | 2026-01-02 | 2026-10-27 | 299 | active | dco | 1 | bigger claim | ONLY $10 PER TANK - LAST SIZES IN STOCK! — Struggling with man boobs or a stubborn beer belly? You’re not alone. The Selure Wear Tank gives you an instan | selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0 |
-| 8 | [2002632403846499](https://www.facebook.com/ads/library/?id=2002632403846499) | Selure | 2025-12-05 | 2026-09-26 | 295 | inactive | video | 2 | bigger claim | ONLY $10 PER TANK - LAST SIZES IN STOCK! — Struggling with man boobs or a stubborn beer belly? You’re not alone. The Selure Wear Tank gives you an instan | selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0 |
-| 9 | [2533481410365425](https://www.facebook.com/ads/library/?id=2533481410365425) | Selure | 2025-09-12 | 2026-06-25 | 286 | inactive | video | 1 | bigger claim | ONLY $10 PER TANK - LAST SIZES IN STOCK! — Struggling with man boobs or a stubborn beer belly? You’re not alone. The Selure Wear Tank gives you an instan | selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0 |
-| 10 | [1595932471662174](https://www.facebook.com/ads/library/?id=1595932471662174) | Arthur from Selure Wear | 2026-01-28 | 2026-10-27 | 272 | active | video | 1 | identity | All Tanks Under $10 \| Limited Time — When I was 244 pounds, I hated looking in the mirror. Even after losing weight, I still dealt with loose skin  | selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0 |
-| 11 | [954200970392108](https://www.facebook.com/ads/library/?id=954200970392108) | Selure | 2026-04-03 | 2026-10-27 | 207 | active | video | 2 | bigger claim | ONLY $10 PER TANK - LAST SIZES IN STOCK! — Struggling with man boobs or a stubborn beer belly? You’re not alone. The Selure Wear Tank gives you an instan | selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0 |
-| 12 | [2555640341590817](https://www.facebook.com/ads/library/?id=2555640341590817) | Selure | 2026-06-05 | 2026-10-27 | 144 | active | video | 5 | identity | It's Not Age. It's This. — There's a thing that happens to most men after 40, and nobody talks about it. You used to reach for your wife  | selurewear.com/products/slimflex |
-
-## Evolv (runner-up)
-
-| # | Ad (Library ID) | Page | Start | Last seen | Days | Status | Format | Dup | Leads with | Hook (first line, verbatim) | Landing |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | [1745330436188149](https://www.facebook.com/ads/library/?id=1745330436188149) | Evolv | 2025-09-29 | 2026-10-27 | 393 | active | image | 1 | plain claim | 2+1 FREE TODAY — Say goodbye to beer belly, love handles and men's breasts with the V-Boost Tank Top! 💪 Regain confidence in yo | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-| 2 | [1185020203128437](https://www.facebook.com/ads/library/?id=1185020203128437) | Evolv | 2025-11-25 | 2026-10-27 | 336 | active | dco | 1 | bigger claim | 1+1 FREE TODAY — Say goodbye to beer belly, love handles and men's breasts! 💪 Unleash your potential with the V-Boost Tank Top. | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-| 3 | [880901351583622](https://www.facebook.com/ads/library/?id=880901351583622) | Evolv | 2026-02-09 | 2026-10-27 | 260 | active | image | 1 | bigger claim | Make 2026 Your Year 💫 — Say goodbye to beer belly, love handles and men's breasts with the V-Boost Tank Top! 💪 Transform your life by  | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-| 4 | [877295691596737](https://www.facebook.com/ads/library/?id=877295691596737) | Evolv | 2026-02-10 | 2026-10-27 | 259 | active | dco | 1 | bigger claim | Make 2026 Your Year 💫 — Say goodbye to beer belly, love handles and men's breasts with the V-Boost Tank Top! 💪 Transform your life by  | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-| 5 | [1866993004004704](https://www.facebook.com/ads/library/?id=1866993004004704) | Evolv | 2026-04-10 | 2026-10-27 | 200 | active | image | 1 | bigger claim | 🚨 BLACK FRIDAY DEALS JUST DROPPED — Say goodbye to beer belly, love handles and men's breasts with the V-Boost Tank Top! 💪 Transform your life by  | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-| 6 | [1473146414164610](https://www.facebook.com/ads/library/?id=1473146414164610) | Evolv | 2026-04-13 | 2026-10-27 | 197 | active | image | 1 | bigger claim | 🚨 BLACK FRIDAY DEALS JUST DROPPED — Say goodbye to beer belly, love handles and men's breasts with the V-Boost Tank Top! 💪 Transform your life by  | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-| 7 | [26099575783076153](https://www.facebook.com/ads/library/?id=26099575783076153) | Evolv | 2026-04-14 | 2026-10-27 | 196 | active | image | 1 | bigger claim | 🚨 BLACK FRIDAY DEALS JUST DROPPED — Say goodbye to beer belly, love handles and men's breasts with the V-Boost Tank Top! 💪 Transform your life by  | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-| 8 | [1188610669750617](https://www.facebook.com/ads/library/?id=1188610669750617) | Evolv | 2026-05-28 | 2026-10-27 | 152 | active | image | 1 | bigger claim | 2+1 FREE TODAY — Got a beer belly, love handles or man boobs? 🤔 Say goodbye to them with V-Boost Tank Top! 💪 Eliminate stubborn | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-| 9 | [1815437305730718](https://www.facebook.com/ads/library/?id=1815437305730718) | Evolv | 2026-05-28 | 2026-10-27 | 152 | active | video | 1 | bigger claim | 2+1 FREE TODAY — GET READY TO TRANSFORM! 👇 Say goodbye to beer belly, love handles & man boobs with V-Boost Tank Top! ✅ 💫 Elimi | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-| 10 | [1807060710145583](https://www.facebook.com/ads/library/?id=1807060710145583) | Evolv | 2026-05-28 | 2026-10-27 | 152 | active | video | 1 | bigger claim | Make 2026 Your Year 💫 — Say goodbye to beer belly, love handles and men's breasts with the V-Boost Tank Top! 💪 Transform your life by  | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-| 11 | [1642364306927537](https://www.facebook.com/ads/library/?id=1642364306927537) | Evolv | 2026-05-28 | 2026-10-27 | 152 | active | dco | 1 | plain claim | 2+1 FREE TODAY — Say goodbye to beer belly, love handles & man boobs with V-Boost Tank Top! 💪 Transform your body in weeks: • S | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-| 12 | [955611493975510](https://www.facebook.com/ads/library/?id=955611493975510) | Evolv | 2026-05-28 | 2026-10-27 | 152 | active | dco | 1 | bigger claim | Get a Fitter, More Confident You — Say goodbye to beer belly, love handles and men's breasts with the V-Boost Tank Top! 💪 Transform your life by  | evolv-off.com/products/v-boost-v2-feel-the-power-of-confiden |
-
-
-> ⏰ **Reminder (Pre-0):**
-> 1. Send **CJ's combined-parcel shipping quote for 2, 3 and 5 units** so the bundle rows in Pre-0 and §15 can use the real landed cost. They are costed as separate parcels right now.
-> 2. Send the **CJ product URL**. The listing is bot-walled to automated access, so fabric %, body length and size chart are still unknown.
-
----
-
-# Sources (Doc 1)
-All accessed 2026-10-28 unless dated otherwise. Raw files are kept in the run's scratchpad and summarised in the §2C data bank page.
-
-- [S1] xe.com mid-market rate, 1 AUD = 0.7022 USD — https://www.xe.com/currencyconverter/convert/?Amount=1&From=AUD&To=USD · DATA
-- [S2] CJdropshipping listing CJDS299280217QJ (Nikita's screenshot of the live listing, 2026-10-28) — https://cjdropshipping.com · VERBATIM (screenshot)
-- [S3] North Alpine NorthPower PDP — https://north-alpine.com/products/northpower-experience-the-shift-in-shape-posture-pride — playwright-skill, mobile + desktop · VERBATIM
-- [S4] Winning Hunter `get_store_details` north-alpine.com (traffic, revenue, apps, Trustpilot gap analysis) · DATA
-- [S5] Winning Hunter `get_store_details` shaperluv.com · DATA
-- [S6] Winning Hunter `get_store_details` selurewear.com · DATA
-- [S7] Winning Hunter `get_store_details` evolv-off.com · DATA
-- [S8] Winning Hunter `get_store_details` in-shape.co · DATA
-- [S9] Winning Hunter `search_facebook_ads` keyword=[domain], searchkeyword=landingurl, min_duplicates=2, sort longestrunning (north-alpine 424 · evolv 57 · selure 80 · shaperluv 187 results) · DATA
-- [S10] Winning Hunter `get_store_top_ads` platform=meta (north-alpine, shaperluv, selurewear, evolv-off, mengotomars) · DATA
-- [S11] Winning Hunter `get_store_top_ads` platform=tiktok (shaperluv 12, north-alpine 0) · DATA
-- [S12] Winning Hunter `search_google_ads` country=US domain=north-alpine.com / shaperluv.com / selurewear.com — Google Ads Transparency advertisers https://adstransparency.google.com/advertiser/AR00215079575497998337 · https://adstransparency.google.com/advertiser/AR08524887655899463681 · https://adstransparency.google.com/advertiser/AR18185829878538960897 · DATA
-- [S13] Winning Hunter `search_tiktok_ads` countries=US ("man boobs", "shaper tank") · DATA
-- [S14] Winning Hunter `search_facebook_ads` synonym sweeps, US (14 keyword / landing / product / ad-text searches; ad copy quoted verbatim from the records) · DATA
-- [S15] Winning Hunter `brief_competitor` north-alpine.com + `find_similar_shops` (north-alpine, evolv-off, selurewear, shaperluv) · DATA
-- [S16] Shaperluv listicle — https://shaperluv.com/pages/5-reasons-why-shaperluv-v3 — playwright-skill · VERBATIM
-- [S17] Shaperluv Tank 3.0 PDP + cart + checkout landing (stopped before any data entry) — https://shaperluv.com/products/shaperluv%E2%84%A2-tank-3-0 · VERBATIM
-- [S18] Selure SlimFlex PDP — https://selurewear.com/products/slimflex — playwright-skill · VERBATIM
-- [S19] Evolv V-Boost v2 PDP — https://evolv-off.com/products/v-boost-v2-feel-the-power-of-confidence-energy-strength · VERBATIM
-- [S20] Facebook Ad Library, US, all ads, "men compression tank" — https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&q=men%20compression%20tank&search_type=keyword_unordered&media_type=all — playwright-skill (26 ads parsed; later queries throttled logged-out) · VERBATIM
-- [S21] SimilarWeb — https://www.similarweb.com/website/north-alpine.com/ · DATA
-- [S22] SimilarWeb — https://www.similarweb.com/website/shaperluv.com/ (re-fetched with basic proxy, numbers matched) · DATA
-- [S23] SimilarWeb — https://www.similarweb.com/website/selurewear.com/ (re-fetched with basic proxy, numbers matched) · DATA
-- [S24] SimilarWeb — https://www.similarweb.com/website/evolv-off.com/ · DATA
-- [S25] Amazon US search — https://www.amazon.com/s?k=mens+slimming+compression+tank+top+shapewear · SNIPPET
-- [S26] Etsy search — https://www.etsy.com/search?q=mens+compression+shapewear+tank · SNIPPET
-- [S27] Winning Hunter `get_store_details` primalviking.com · mottandbow.com · mengotomars.com · DATA
-- [S28] Google Trends attempt (HTTP 429) — https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=man%20boobs,mens%20shapewear,compression%20shirt%20men,dad%20bod — playwright-skill · VERBATIM (error)
-- [S29] Winning Hunter `search_exploding_topics` ×5 + `get_exploding_topic_detail` ("Request limit reached.") · VERBATIM (error)
-- [S30] ShelfTrend (2025-08-04) — https://www.shelftrend.com/fashion/why-skims-just-launched-mens-shapewear-a-500m-market-signal-smart-sellers-cant-ignore · VERBATIM (no methodology — unverified)
-- [S31] Accio — https://www.accio.com/business/shapewear_trends · SNIPPET
-- [S32] Amazon Best Sellers in Men's Shapewear — https://www.amazon.com/Best-Sellers-Men's-Shapewear/zgbs/fashion/17443581011 · VERBATIM
-- [S33] Amazon search "mens compression shirt slimming" — https://www.amazon.com/s?k=mens+compression+shirt+slimming · VERBATIM
-- [S34] Amazon search "gynecomastia compression shirt for men" — https://www.amazon.com/s?k=gynecomastia+compression+shirt+for+men · VERBATIM
-- [S35] Amazon search "mens shapewear tank top tummy control" — https://www.amazon.com/s?k=mens+shapewear+tank+top+tummy+control · VERBATIM (count only)
-- [S36] Winning Hunter `search_tiktok_products` (country US) + `get_tiktok_product` metrics/history (ids 1729757657428627985 and 2 others) · DATA
-- [S37] Winning Hunter `search_facebook_ads` demand sweep — 9 keywords, countries US, last seen 2026-09-28→10-28, 840 ads de-duped to 29 on-market + 11 adjacent stores · DATA. Facebook Ad Library (logged-out, headless) returned HTTP 403 → 🔁
-- [S38] Reddit r/AskMen — https://www.reddit.com/r/AskMen/comments/tvdcu0/im_a_grown_man_terrified_of_talking_to_anyone/ · SNIPPET
-- [S39] Reddit r/AskMen — https://www.reddit.com/r/AskMen/comments/26l006/men_with_gynecomastia_how_has_it_affected_your/ · SNIPPET
-- [S40] Reddit r/gynecomastia — https://www.reddit.com/r/gynecomastia/comments/ezru5a/research_has_proven_that_there_is_a_definite/ · SNIPPET
-- [S41] Reddit workarounds — https://www.reddit.com/r/gynecomastia/comments/u8r79d/what_can_i_do_to_hide_my_moobs_through_t_shirts_i/ · https://www.reddit.com/r/AskMenOver30/comments/uuwjki/t_shirts_for_dad_bods_with_man_boobs/ · https://www.reddit.com/r/malefashionadvice/comments/1jrgsxd/best_t_shirts_to_hide_manboobs/ · SNIPPET
-- [S42] Reddit r/bigmenfashionadvice "hiding man boobs in hot weather" — https://www.reddit.com/r/bigmenfashionadvice/comments/1ur9aai/hiding_man_boobs_in_hot_weather/ · SNIPPET
-- [S43] ASPS gynecomastia surgery cost — https://www.plasticsurgery.org/cosmetic-procedures/gynecomastia-surgery/cost · SNIPPET
-- [S44] ASPS statistics — https://www.plasticsurgery.org/plastic-surgery-statistics · SNIPPET
-- [S45] Reddit r/TooAfraidToAsk — https://www.reddit.com/r/TooAfraidToAsk/comments/ygetoq/what_are_you_most_insecure_about_your_body_or/ · SNIPPET
-- [S46] Wikipedia, Gynecomastia — https://en.wikipedia.org/wiki/Gynecomastia · SNIPPET
-- [S47] Reddit r/gynecomastia (27K weekly visitors) — https://www.reddit.com/r/gynecomastia/top/ · SNIPPET
-- [S48] CDC NCHS Data Brief 508 (adult obesity 2021–2023) — https://www.cdc.gov/nchs/products/databriefs/db508.htm · SNIPPET
-- [S49] CDC NCHS Health E-Stat 111 — https://www.cdc.gov/nchs/data/hestat/hestat111.htm · SNIPPET
-- [S50] Mayo Clinic, Gynecomastia — https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793 · SNIPPET
-- [S51] PMC/NIH screening study — https://pmc.ncbi.nlm.nih.gov/articles/PMC2770912/ · SNIPPET
-- [S52] Winning Hunter `search_facebook_ads` white-space corpus — ~50 calls, US + GB/AU/CA/NZ/IE, DE/AT/CH, FR, ES, IT, NL, BR; 225 US ad rows / 100 unique creatives / 40 advertisers; 69 creatives viewed by eye · DATA
-- [S53] Facebook Ad Library, US, "compression shirt men" — https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=compression%20shirt%20men — headless, no results rendered → 🔁 [S52]
-- [S54] Winning Hunter `search_tiktok_ads` US ("compression shirt men", "men shapewear") · DATA
-- [S55] Aida listicle — https://officialaidastore.com/pages/lymphatic-compression-vest-listicle · VERBATIM
-- [S56] Gaudenza FitForm PDP — https://www.gaudenza.com/products/fitform%E2%84%A2-men-s-compression-undershirt · VERBATIM
-- [S57] Huracan PDP — https://www.huracanperformance.com/products/men-body-shaper-shirt · VERBATIM
-- [S58] Shapeea — https://shapeea.store/products/compression-shaper-vest · VERBATIM
-- [S59] Vesaron product URL (404 while ads live) — https://www.vesaron.com/products/mens-slimming-posture-compression-vest · VERBATIM (error)
-- [S60] Reddit discourse sweep via `firecrawl_search` site:reddit.com, 13 framings — e.g. https://www.reddit.com/r/loseit/comments/4oaqrf/compression_shirts_for_men/ · https://www.reddit.com/r/BariatricSurgery/comments/1lpztb0/mens_undershirts_to_fight_loose_skin_sag/ · https://www.reddit.com/r/gynecomastia/comments/1o1exp0/these_compression_tank_tops_are_unironically/ · https://www.reddit.com/r/bigmenfashionadvice/comments/1ku3lsw/compression_tanks_actually_helped_my_confidence/ · https://www.reddit.com/r/bigmenfashionadvice/comments/1jy6y2v/has_anyone_bought_shaper_vests_and_are_they_worth/ · https://www.reddit.com/r/mensfashion/comments/1dxtk60/tucking_in_shirt_when_you_have_a_big_belly/ · https://www.reddit.com/r/bigmenfashionadvice/comments/1nvtiw7/light_compression_for_a_big_belly/ · https://www.reddit.com/r/bigmenfashionadvice/comments/3lhq5i/compression_shirts_help_i_need_a_male_version_of/ · https://www.reddit.com/r/gynecomastia/comments/1b1tcx0/a_mom_asking_for_help/ · https://www.reddit.com/r/tall/comments/1kp0kt6/every_shirt_becomes_a_crop_top/ · SNIPPET
-- [S61] Amazon titles via `firecrawl_search` site:amazon.com (13/15 lead with "Gynecomastia") — https://www.amazon.com/Best-Sellers-Men's-Compression-Tank-Tops/zgbs/fashion/121177991011 · SNIPPET
-- [S62] KFF poll (Oct 27–Nov 2 2025): "Women are more likely than men to say they are currently taking GLP-1 drugs (15% vs. 9%)." — https://www.kff.org/public-opinion/poll-1-in-8-adults-say-they-are-currently-taking-a-glp-1-drug-for-weight-loss-diabetes-or-another-condition-even-as-half-say-the-drugs-are-difficult-to-afford/ · SNIPPET
-- [S63] Winning Hunter `search_google_ads` domain=officialaidastore.com (197 ads) · DATA
-- [S64] BariatricPal "The Guys' Room" sorted by posts (reply/view counts) — https://www.bariatricpal.com/forum/431-the-guys-room/?sortby=posts&sortdirection=desc · "Compression Shirts" thread https://www.bariatricpal.com/topic/36820-compression-shirts/ · VERBATIM
-- [S65] Underworks homepage testimonials — https://www.underworks.com/ · VERBATIM
-- [S66] Kitzinger et al., Obes Surg 2012 (n=252 gastric bypass) — https://pubmed.ncbi.nlm.nih.gov/22101887/ · VERBATIM (abstract)
-- [S67] Pseudogynecomastia after massive weight loss — PubMed 39838129, 22173651, 31451852, 29916894 (abstracts via firecrawl_research_search_papers) · SNIPPET
-- [S68] Arroyo Plastic Surgery, "You lost the weight, so why does your chest still look like this?" — https://www.arroyoplasticsurgeryhouston.com/blog/you-lost-the-weight-so-why-does-your-chest-still-look-like-this/ · VERBATIM
-- [S69] Healthline, Loose skin after weight loss (med-reviewed 2024-11-29) — https://www.healthline.com/nutrition/loose-skin-after-weight-loss · VERBATIM
-- [S70] Staalesen et al., Obes Surg 2013 — https://pubmed.ncbi.nlm.nih.gov/23666714/ · VERBATIM (abstract)
-- Customer quotes cited inline in §5/§8 carry their own URLs (Reddit, BariatricPal, ObesityHelp, Trustpilot); every one is a row in the §2C data bank.
-- [S71] Lebesgue, Meta CPM seasonality around Black Friday (2025 data), via §20 verify · DATA
-- [S72] Shopify Payments US pricing (Basic 2.9% + 30¢; premium 3.5%; international +1%) — https://www.shopify.com/pricing · VERBATIM
-- [S73] §20 adversarial re-sweep — Winning Hunter search_facebook_ads, US, Men's Clothing + Fashion categories, pages 1–5, phrase variants: InShape ads 1155536503803944, 1270993571839839, 1405551461737791, 1689336332909430, 4040231802950543, 4709685862641728, 1079659254871238, 1742293063504264, 1259058542902631 (https://www.facebook.com/ads/library/?id=1270993571839839); landing page https://in-shape.co/pages/after-weight-loss (VERBATIM, Firecrawl basic); Selure "Arthur" ads 1383503447126674, 1595932471662174, 1257383202415056 · DATA/VERBATIM
+## Sources (Doc 1)
+- [S1] CJdropshipping listing CJDS299280217QJ — Nikita's screenshot of the live listing (price, shipping, spec) · supplier · 2026-10-28 · VERBATIM (screenshot)
+- [S2] https://www.xe.com/currencyconverter/convert/?Amount=16.94&From=AUD&To=USD · xe.com mid-market 1 AUD = 0.7018 USD, 07:15 UTC · 2026-11-02 · VERBATIM
+- [S3] https://www.shopify.com/pricing · Shopify Payments Basic 2.9% + 30¢ · run-1 source (2026-10-28), not re-checked
+- [S4] Winning Hunter get_store_details north-alpine.com (traffic, revenue, apps, Trustpilot gap analysis) · 2026-11-02 · DATA
+- [S5] https://north-alpine.com/products/northpower-experience-the-shift-in-shape-posture-pride (Playwright walk to cart, stopped before payment) + https://north-alpine.com/pages/5-reasons-why-vboost-instantly-transforms (404) · 2026-11-02 · VERBATIM
+- [S6] https://north-alpine.com/policies/refund-policy · 2026-11-02 · VERBATIM
+- [S7] https://www.cdc.gov/nchs/products/databriefs/db508.htm · CDC NCHS Data Brief 508 · VERBATIM
+- [S8] https://www.cdc.gov/nchs/data/hestat/hestat111.htm · CDC Health E-Stat 111 · VERBATIM
+- [S9] https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.925293/full · Frontiers Public Health 2022 (NHANES 2001–2018) · VERBATIM
+- [S10] https://www.cdc.gov/nchs/fastats/body-measurements.htm · CDC FastStats · VERBATIM
+- [S11] https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793 · Mayo Clinic · VERBATIM (2026-11-02)
+- [S12] https://pmc.ncbi.nlm.nih.gov/articles/PMC3987263/ · PMC · SNIPPET
+- [S13] https://pmc.ncbi.nlm.nih.gov/articles/PMC2770912/ · PMC · SNIPPET
+- [S14] https://www.kff.org/public-opinion/poll-1-in-8-adults-say-they-are-currently-taking-a-glp-1-drug-for-weight-loss-diabetes-or-another-condition-even-as-half-say-the-drugs-are-difficult-to-afford/ · KFF (poll Oct 27–Nov 2, 2025) · VERBATIM
+- [S15] https://asmbs.org/news_releases/bariatric-surgery-procedures-fall-below-200000-first-time-since-2020-new-research-finds/ · ASMBS (May 5, 2026) · VERBATIM
+- [S16] https://pubmed.ncbi.nlm.nih.gov/26782151/ · PubMed (19.3% male) · SNIPPET
+- [S17] https://en.wikipedia.org/wiki/Demographics_of_the_United_States · Census-based age/sex table (2021) · VERBATIM table
+- [S18] https://www.sec.gov/Archives/edgar/data/813298/000119312526115660/dxlg-20260131.htm · DXL 10-K FY2025 · VERBATIM
+- [S19] https://www.plasticsurgery.org/plastic-surgery-statistics · ASPS 2025 statistics · VERBATIM
+- [S20] https://www.plasticsurgery.org/cosmetic-procedures/gynecomastia-surgery/cost · ASPS "$5,587" · VERBATIM
+- [S21] https://www.plasticsurgery.org/cosmetic-procedures/tummy-tuck/cost · ASPS "$8,174" · VERBATIM
+- [S22] https://pmc.ncbi.nlm.nih.gov/articles/PMC2804956/ · PMC (sarcopenia 3–8% per decade) · SNIPPET
+- [S23] https://www.pewresearch.org/internet/fact-sheet/social-media/ · Pew 2026 Reddit use by age · SNIPPET
+- [S24] https://www.mayoclinic.org/healthy-lifestyle/mens-health/in-depth/belly-fat/art-20045685 · Mayo (40-in waist) · VERBATIM
+- [S25] https://medschool.duke.edu/news/age-glp-1s-plastic-surgeons-face-new-reality · Duke (Jul 8, 2026) · VERBATIM
+- [S26] https://gummysearch.com/r/gynecomastia/ · /r/Zepbound/ · /r/Mounjaro/ · /r/bigmenfashionadvice/ · /r/loseit/ · /r/gastricsleeve/ · /r/BariatricSurgery/ · /r/AskOldPeople/ · /r/malefashionadvice/ · /r/daddit/ · /r/AskMenOver30/ · GummySearch (updated Oct 2026) · DATA
+- [S27] https://forum.gynecomastia.org/ · forum index (33,673 members / 206,543 posts) · VERBATIM · 2026-11-02
+- [S28] Reddit threads (firecrawl_search, includeDomains reddit.com, 2026-11-02) — SNIPPET, confirm wording at the URL before live creative: r/Fitness/2612lv · r/gynecomastia/{12qn3ey, io2syc, 10qg4nh, 1o1exp0, 1lkvbzz} · r/dating_advice/1kqdxjd · r/AskMenAdvice/1p95zme · r/AskReddit/18c9qa1 · r/AskMen/{1cyutfq, 2ln7cy, 18k5v3k, 1gv688b, f0r1w3} · r/datingoverthirty/oiyvlz · r/loseit/{1hfnk12, 17e02ph, 1elqfp4, 1v3alg} · r/BariatricSurgery/{1ntr3ek, 1lpztb0} · r/SuperMorbidlyObese/q8a4kb · r/bigmenfashionadvice (10 size threads) · r/malefashionadvice/1ur9i6z · r/datingoverfifty/1wuois4 (all https://www.reddit.com/r/<sub>/comments/<id>/)
+- [S29] Winning Hunter search_exploding_topics / autocomplete_exploding_topics (global, NOT country-filtered) · 2026-11-02 · DATA
+- [S30] Amazon US: https://www.amazon.com/Best-Sellers-Men's-Shapewear/zgbs/fashion/17443581011 + 6 group searches (/s?k=gynecomastia+compression+shirt+men · mens+compression+shirt+loose+skin+after+weight+loss · big+and+tall+mens+compression+shirt+slimming+4xl+5xl · mens+undershirt+to+hide+belly+beer+gut · posture+corrector+compression+shirt+men · mens+slimming+compression+tank+top+shapewear) + /dp/B09DCB97KY · /dp/B0DJ3NHTT1 · /dp/B076B5R4Q1 · 2026-11-02 · VERBATIM
+- [S31] Winning Hunter search_tiktok_products (US) + get_tiktok_product 1729757657428627985 history slice · 2026-11-02 · DATA
+- [S32] Winning Hunter search_facebook_ads (US; ~75 calls; 445 fresh ads; ad URLs https://www.facebook.com/ads/library/?id=<ad id> in ad-log-run2.csv) · 2026-11-02 · DATA / VERBATIM ad text
+- [S33] Winning Hunter get_store_details (north-alpine, shaperluv, selurewear, evolv-off, alphacore-store, shopsomnea, qorelogiq, built-different.co, intelliskin.net) · 2026-11-02 (series ends Sep-26) · DATA
+- [S34] Winning Hunter get_store_top_ads (meta) north-alpine.com, shaperluv.com, selurewear.com · 2026-11-02 · DATA
+- [S35] https://www.facebook.com/ads/library/ (Playwright, logged out; 3 of 9 queries rendered) · 2026-11-02 · DATA
+- [S36] Winning Hunter search_tiktok_ads (US, 10 sweeps) · 2026-11-02 · DATA
+- [S37] Winning Hunter search_google_ads + https://adstransparency.google.com/advertiser/AR00215079575497998337 · AR08524887655899463681 · AR18185829878538960897 · 2026-11-02 · DATA
+- [S38] https://www.etsy.com/search?q=mens+compression+shirt+gynecomastia+slimming · 2026-11-02 · VERBATIM
+- [S39] https://www.similarweb.com/website/{north-alpine.com, selurewear.com, evolv-off.com, shaperluv.com, mottandbow.com, primalviking.com}/ · SimilarWeb [September 2026] via firecrawl_scrape (proxy basic) · 2026-11-02 · DATA
+- [S40] https://primalviking.com/pages/cortisol · https://primalviking.com/pages/10-reasons-man-boobs (→ /pages/7-reasons-lose-belly-fat) + WH ad text · 2026-11-02 · VERBATIM
+- [S41] https://www.mottandbow.com/collections/classic-tee-perfected + WH ad 1276431907047981 · 2026-11-02 · VERBATIM ad text
+- [S42] https://sb.muvost.com/ · https://ly.muvost.com/ + WH ad text · 2026-11-02 · VERBATIM
+- [S43] https://built-different.co + WH get_store_details · 2026-11-02 · DATA / SNIPPET
+- [S44] https://www.intelliskin.net/products/foundation-pro-series-2 · 2026-11-02 · VERBATIM
+- [S45] https://www.theaestheticsociety.org/ask-question/98886 · The Aesthetic Society Q&A · SNIPPET
+- [S46] https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=… · Google Trends via Playwright → HTTP 429 (×2) · 2026-11-02
+- [S47] https://my.clevelandclinic.org/health/symptoms/16227-enlarged-male-breast-tissue-gynecomastia · Cleveland Clinic · VERBATIM (via science lane, 2026-11-02)
+- [S48] https://www.healthline.com/nutrition/loose-skin-after-weight-loss · Healthline · SNIPPET · 2026-11-02
+- [S49] https://www.menshealth.com/weight-loss/a26424334/loose-skin-after-weight-loss/ · Men's Health · SNIPPET · 2026-11-02
+- [S50] https://www.eterno360.com/blog/transforming-the-male-physique-after-massive-weight-loss-a-guide-to-360-abdominoplasty-and-chest-contouring · Eterno 360 · SNIPPET · 2026-11-02
+- [S51] https://www.sonobello.com/blog/loose-skin-after-weight-loss/ · Sono Bello · SNIPPET · 2026-11-02
+- [S52] the §2C Data Bank (2,322 customer snippets) in this folder — tallies by script; see Doc 2
+- [S53] https://in-shape.co/pages/after-weight-loss · https://in-shape.co/pages/clothes-that-fit-better · in-shape.co refund policy + WH get_store_details in-shape.co (Playwright walk, 2026-11-02) · VERBATIM / DATA

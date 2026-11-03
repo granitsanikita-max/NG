@@ -12,3 +12,4 @@ intact. Station outputs (PRODUCT.md, OFFER.md, etc.) live one level up, not here
 - `00-HANDOFF-READ-FIRST.md` — product-research → deep-research handoff: SKU, sample test, market, buyers, positioning hypothesis, economics, Nikita's rules, open questions.
 - `01-product-hunt-men-desire.md` — Hunt 2 "men's desire" territory sweep that surfaced the tank (its saturation check UNDER-counted competitors; see 02).
 - `02-tank-deepdive-evolv-and-market.md` — Evolv teardown, full competitor table, buyer VOC snippets, positioning test, target spec, suppliers.
+- `03-mens-compression-slimming-tank-step1-research/` — **THE Step 1 deep research (all men, 2026-11-02; the only research set).** Start with `00-SUMMARY-READ-FIRST.md`. Overrides 00–02 wherever they disagree (e.g. 00's big & tall lead hypothesis was tested and rejected).
