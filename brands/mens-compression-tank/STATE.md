@@ -9,6 +9,7 @@
 - **Last touched:** 2026-11-02 by economics (front gate set + day-1 scoreboard → ECONOMICS.md)
 
 ## Log (newest first)
+- 2026-11-04 · ad-scripting · **Swipe 4 → SCRIPTS.md** (InShape "TRANSFORM YOUR BODY IN SECONDS" hanger static, G1+G2): TRANSFORM YOUR LOOK IN SECONDS, No More Man Boobs.
 - 2026-11-04 · ad-scripting · **Swipe 3 → SCRIPTS.md** (Shapecore "HIGH COMPRESSION" spec-sheet static, G1+G2): GUT & MOOB FLATTENING UNDERSHIRTS + Look-Flatter-Or-It's-Free caption.
 - 2026-11-04 · ad-scripting · **Swipe 2 → SCRIPTS.md** (Sculptix "CLEARANCE SALE $9.99" price-drop static, G1+G2): LAUNCH SALE, $39.95 → $26.63 each (3-pack B2G1).
 - 2026-11-04 · daily-tasks · **BRAIN REPLACED WITH DEEP RESEARCH RUN 2 (Nikita's order).** Deleted the Run 1 research from `brain/` (old overview, Docs 1–4, 581-row data bank). Mirrored the full Notion folder "Deep Research Run 2 — Men's Compression Tank" verbatim: `00-overview.md` (the call: launch lead G3 post-weight-loss; mechanism "Squeeze moves it. Hold keeps it."), Docs 1–4 (`01`–`04`), and the complete §2C Data Bank → `05-data-bank-2322.csv` (all 2,322 rows, every tag column). Kept: `OFFER.md` (Offer Launch 1) and `brain/06-sourcing-new-supplier.md`. ⚠️ Run 2 Doc 4 has its own offer + names SKU CJDS299280217QJ, while OFFER.md ("Finish-Line Kit", SKU CJYD323488814NM) stays the locked live offer until Nikita says otherwise. BRAND.md positioning still says big & tall / "shirt problem" (Run 1-era) — needs a refresh to match Run 2.

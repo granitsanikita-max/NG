@@ -202,3 +202,56 @@
 - **Right ~45%:** OUR **white** tank (SKU CJYD323488814NM, style 7) as a ghost-mannequin shot, front-on, filling the height. Real product photo.
 - **Bottom-left:** "UNHIDDEN" wordmark in a bold red, with the store URL in small black above it.
 - **No:** people, shirtless bodies, price, other logos.
+
+---
+
+## Swipe 4 — "TRANSFORM YOUR BODY IN SECONDS" hanger static (InShape) · **G1+G2 mixed** (dad bod + man boobs)
+**Source:** Nikita's screenshot (WinningHunter) · page "InShape" (in-shape.co) · 13 countries · 532 active ads · ~4:5 image. InShape is a known Run 2 competitor (also runs the post-weight-loss page).
+
+### Their ad (verbatim)
+- **Primary text:** "Say goodbye to dad bod and man boobs. InShape Compression Tank is the ultimate tank top that makes you look great in any shirt and gives your confidence back."
+- **Image (light grey gradient):** headline "TRANSFORM YOUR BODY IN SECONDS" + small "NO GYM REQUIRED*" · a man's hand/arm from the left holding a white tank on a wooden hanger, centred · 3 callouts with hand-drawn black arrows: "FLATTENS CHEST" (left), "HIDES GYNO" (top right), "INVISIBLE UNDER CLOTHES" (bottom right) · badge bottom-left: "MEDICAL GRADE COMPRESSION" + red cross
+- **Headline:** No More Man Boobs · **Description:** Trusted by 9000+ Men · **CTA:** Learn more
+
+### Why it works
+- **The hanger shot makes it look like a normal undershirt**, not shapewear. Kills the "it's a girdle" stigma before he thinks it. The hand makes it feel real and in-the-moment.
+- **"In seconds / no gym required" sells speed and no effort**, the exact opposite of what he's tried (diet, gym).
+- **Hand-drawn arrows + condensed caps** read native and fast, like a guy marked up a photo, not an agency.
+- **Caption is 2 sentences:** pain → product → payoff. Shortest possible for product-aware traffic.
+- **Headline "No More Man Boobs"** is the whole promise in 4 words.
+
+### Our ad — Unhidden (line for line)
+| Slot | Theirs | Ours |
+|---|---|---|
+| Image headline | TRANSFORM YOUR BODY IN SECONDS | **TRANSFORM YOUR LOOK IN SECONDS** |
+| Sub | NO GYM REQUIRED* | **NO GYM REQUIRED** |
+| Callout L (→ belly) | FLATTENS CHEST | **FLATTENS GUT** |
+| Callout top R (→ chest) | HIDES GYNO | **HIDES MOOBS** |
+| Callout bottom R (→ side) | INVISIBLE UNDER CLOTHES | **NOBODY CAN TELL** |
+| Badge | MEDICAL GRADE COMPRESSION + red cross | **REAL COMPRESSION** + ✓ check badge |
+| Headline | No More Man Boobs | **No More Man Boobs** (keep) |
+| Description | Trusted by 9000+ Men | **Look Flatter Or It's Free** |
+| CTA | Learn more | **Learn more** |
+
+**Primary text:**
+> "Say goodbye to dad bod and man boobs. The Unhidden Compression Tank is the ultimate undershirt that makes you look sharp in any shirt and gives your confidence back."
+
+**What changed and why:**
+- **"Transform your BODY" → "your LOOK".** It changes how he looks in a shirt, not his body (brain Doc 3). The same punch, true.
+- **"HIDES GYNO" → "HIDES MOOBS".** His word; Run 2 voice: never "gyno" in ads.
+- **"FLATTENS CHEST" → "FLATTENS GUT".** "Hides moobs" already covers the chest, and the caption leads with dad bod, so the gut gets its own arrow.
+- **"MEDICAL GRADE" + red cross → "REAL COMPRESSION" ✓.** It isn't medical grade. It also hits his #2 fear ("not strong enough", 156).
+- **"Trusted by 9000+ Men" → "Look Flatter Or It's Free".** We have 0 reviews; a fake number breaks FTC 16 CFR 465 and Nikita's no-fake-proof rule. The guarantee does the same trust job, and it's true.
+- **Asterisk dropped** from "NO GYM REQUIRED". There's no fine print behind it.
+
+### Image brief (for Ad Creation)
+- **Format:** 4:5 vertical, 1080×1350 static.
+- **Background:** smooth light-grey gradient, lighter top-centre, slightly darker at the corners. Studio feel.
+- **Top-centre:** "TRANSFORM YOUR LOOK IN SECONDS" on 2 lines, heavy condensed black caps (Anton / Bebas Neue style). Under it, right-aligned and smaller: "NO GYM REQUIRED".
+- **Centre:** a man's bare forearm and hand coming in from the left edge, holding a wooden hanger by the hook. On the hanger: OUR **white** tank (SKU CJYD323488814NM, style 7), hanging flat and front-facing, centred, ~45% of the frame. Real product, its real panel pattern visible.
+- **Callouts:** heavy condensed black caps, each with a thick hand-drawn black curved arrow:
+  - left, mid-height → arrow to the lower belly of the tank: "FLATTENS GUT"
+  - top right → arrow to the chest: "HIDES MOOBS"
+  - bottom right → arrow to the side seam: "NOBODY CAN TELL"
+- **Bottom-left badge:** cream rounded square, black condensed caps "REAL COMPRESSION" with a dark-green circle holding a white ✓ (replaces the red medical cross).
+- **No:** body/torso, shirtless, medical symbols, review counts.
