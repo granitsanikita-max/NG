@@ -255,3 +255,52 @@
   - bottom right → arrow to the side seam: "NOBODY CAN TELL"
 - **Bottom-left badge:** cream rounded square, black condensed caps "REAL COMPRESSION" with a dark-green circle holding a white ✓ (replaces the red medical cross).
 - **No:** body/torso, shirtless, medical symbols, review counts.
+
+---
+
+## Swipe 5 — "30 LBS DOWN" first-person + stat static (North Alpine) · **G3** (lost the weight, still shows)
+**Source:** Nikita's screenshot (WinningHunter) · page "NorthAlpine Co" (north-alpine.com, the category leader, 1.1M visits/mo) · 53 countries · 909 active ads · 4:5 image. Its caption family "I used to avoid mirrors and fitted shirts" is one of NA's top-10 ads (Run 2 Doc 1 §1B).
+
+### Their ad (verbatim)
+- **Primary text:** "I used to avoid mirrors and fitted shirts. Sound familiar? 😅 Then I tried NorthPower. First time I wore it, my coworker asked if I'd been working out. I'd had it on for 3 hours. 😂 Here's what I noticed 👇 ✅ Midsection — looked visually smoother instantly ✅ Sides — more streamlined silhouette ✅ Chest area — flatter, cleaner look under shirts ✅ Posture support — felt better throughout the day ✅ Confidence — way up No pills. No programs. Just a compression tank top designed to help you look and feel your best. 💪 End of Season Sale → Buy 2 Get 1 Free Only $20 each. Limited stock."
+- **Image (light grey studio):** navy pill "12 WEEKS" · huge navy condensed "30 LBS DOWN" · white pill "230 lbs → 200 lbs" (200 in blue) · right half: white/blue patterned tank on a dark grey bust mannequin
+- **Headline:** BUY 2 GET 1 FREE · **Description:** NORTH ALPINE · **CTA:** Shop now
+
+### Why it works
+- **A number stops the scroll.** "30 LBS DOWN" + "230 → 200" is a result he wants, readable in half a second.
+- **The caption is a mini first-person review:** relatable pain ("avoid mirrors and fitted shirts") → "sound familiar?" → a social moment (the coworker) → ✅ checklist by body zone → what it ISN'T (no pills, no programs) → offer + urgency.
+- **The ✅ checklist** gives 5 benefits in skim-speed.
+- **The headline is just the offer.** Product-aware buyers only need the deal.
+
+### Our ad — Unhidden (line for line, G3)
+| Slot | Theirs | Ours |
+|---|---|---|
+| Top pill | 12 WEEKS | **14 MONTHS** |
+| Big stat | 30 LBS DOWN | **85 LBS DOWN** |
+| Bottom pill | 230 lbs → 200 lbs | **3XL shirts → L shirts** |
+| Added line under the pill | — | **"…and now it finally doesn't show."** |
+| Headline | BUY 2 GET 1 FREE | **BUY 3 GET 2 FREE** |
+| Description | NORTH ALPINE | **UNHIDDEN** |
+| CTA | Shop now | **Shop now** |
+
+**Primary text:**
+> "I lost the weight but still avoided mirrors and fitted shirts. Sound familiar? 😅 Then I tried Unhidden. First time I wore it, my coworker asked if I'd lost even more weight. I'd had it on for 3 hours. 😂 Here's what I noticed 👇 ✅ Loose skin — held flat instantly ✅ Belly — no more ring showing through my shirt ✅ Chest area — flatter, cleaner look under shirts ✅ Fit — finally wearing my real size ✅ Confidence — way up. No surgery. No creams. Just a compression tank designed to make the outside match the work you did. 💪 Launch Sale → Buy 3 Get 2 Free, only $23.97 each. Founding price for the first 500 customers."
+
+**What changed and why:**
+- **The stat is now HIS weight loss, not the tank's.** NA implies the tank took 30 lbs off; ours can't (brain Doc 3). The added line "…and now it finally doesn't show" makes the tank the last step, which is the G3 story. 85 lbs / 14 months / 3XL → L is the Run 2 ICP ("Mark").
+- **"working out" → "lost even more weight".** "People asked if I lost weight" is the #1 win phrase in reviews (50).
+- **Checklist re-pointed to G3 pains:** loose skin (192 G3 mentions), the belly "ring", chest, real size (sizes up 31). "Posture support" dropped: unproven on our SKU.
+- **"No pills. No programs." → "No surgery. No creams."** Those are G3's own failed fixes (surgery considered, creams don't work).
+- **"End of Season Sale / Limited stock" → "Launch Sale / Founding price for the first 500".** Our real reason (OFFER.md §7), no fake scarcity.
+- **⚠️ The caption is a first-person story.** Run it from a real person: you, a founder voice, or a real creator who wore it. A made-up customer story counts as a fake testimonial (FTC 16 CFR 465).
+
+### Image brief (for Ad Creation)
+- **Format:** 4:5 vertical, 1080×1350 static.
+- **Background:** light grey studio seamless, soft shadow under the mannequin.
+- **Left half, left-aligned, stacked:**
+  - navy rounded pill, white bold letter-spaced caps: "14 MONTHS"
+  - huge heavy condensed navy caps on 2 lines: "85 LBS / DOWN"
+  - white rounded pill with a soft shadow, bold navy text: "3XL shirts → **L shirts**" (the arrow and "L shirts" in bright blue)
+  - small navy italic line under the pill: "…and now it finally doesn't show."
+- **Right half:** OUR tank (SKU CJYD323488814NM, style 7) on a dark grey matte bust mannequin, front-on, slight 3/4 turn, filling the height. White version if it shows the panel pattern clearly (matches the original); black if white washes out. Real product photo.
+- **No:** a body, shirtless, before/after torso, scales, tape measures.
