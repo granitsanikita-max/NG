@@ -275,10 +275,9 @@
 ### Our ad — Unhidden (line for line, G3)
 | Slot | Theirs | Ours |
 |---|---|---|
-| Top pill | 12 WEEKS | **14 MONTHS** |
-| Big stat | 30 LBS DOWN | **85 LBS DOWN** |
-| Bottom pill | 230 lbs → 200 lbs | **3XL shirts → L shirts** |
-| Added line under the pill | — | **"…and now it finally doesn't show."** |
+| Top pill | 12 WEEKS | **FIRST WEAR** |
+| Big stat | 30 LBS DOWN | **ONE SIZE DOWN** |
+| Bottom pill | 230 lbs → 200 lbs | **XL shirt → L shirt** |
 | Headline | BUY 2 GET 1 FREE | **BUY 3 GET 2 FREE** |
 | Description | NORTH ALPINE | **UNHIDDEN** |
 | CTA | Shop now | **Shop now** |
@@ -287,7 +286,7 @@
 > "I lost the weight but still avoided mirrors and fitted shirts. Sound familiar? 😅 Then I tried Unhidden. First time I wore it, my coworker asked if I'd lost even more weight. I'd had it on for 3 hours. 😂 Here's what I noticed 👇 ✅ Loose skin — held flat instantly ✅ Belly — no more ring showing through my shirt ✅ Chest area — flatter, cleaner look under shirts ✅ Fit — finally wearing my real size ✅ Confidence — way up. No surgery. No creams. Just a compression tank designed to make the outside match the work you did. 💪 Launch Sale → Buy 3 Get 2 Free, only $23.97 each. Founding price for the first 500 customers."
 
 **What changed and why:**
-- **The stat is now HIS weight loss, not the tank's.** NA implies the tank took 30 lbs off; ours can't (brain Doc 3). The added line "…and now it finally doesn't show" makes the tank the last step, which is the G3 story. 85 lbs / 14 months / 3XL → L is the Run 2 ICP ("Mark").
+- **The stat is now what the TANK does, on the first wear: one shirt size down.** NA's "30 LBS DOWN in 12 weeks" implies the tank took weight off; ours can't (brain Doc 3). A time pill like "14 MONTHS" read as "results take 14 months", so it was cut (Nikita, 2026-11-04). "Wear your real size" is the backup mechanism in the brain (Doc 3 §13 P4): he sizes up to hide it; held flat, he drops back to his real size.
 - **"working out" → "lost even more weight".** "People asked if I lost weight" is the #1 win phrase in reviews (50).
 - **Checklist re-pointed to G3 pains:** loose skin (192 G3 mentions), the belly "ring", chest, real size (sizes up 31). "Posture support" dropped: unproven on our SKU.
 - **"No pills. No programs." → "No surgery. No creams."** Those are G3's own failed fixes (surgery considered, creams don't work).
@@ -298,9 +297,8 @@
 - **Format:** 4:5 vertical, 1080×1350 static.
 - **Background:** light grey studio seamless, soft shadow under the mannequin.
 - **Left half, left-aligned, stacked:**
-  - navy rounded pill, white bold letter-spaced caps: "14 MONTHS"
-  - huge heavy condensed navy caps on 2 lines: "85 LBS / DOWN"
-  - white rounded pill with a soft shadow, bold navy text: "3XL shirts → **L shirts**" (the arrow and "L shirts" in bright blue)
-  - small navy italic line under the pill: "…and now it finally doesn't show."
+  - navy rounded pill, white bold letter-spaced caps: "FIRST WEAR"
+  - huge heavy condensed navy caps on 2 lines: "ONE SIZE / DOWN"
+  - white rounded pill with a soft shadow, bold navy text: "XL shirt → **L shirt**" (the arrow and "L shirt" in bright blue)
 - **Right half:** OUR tank (SKU CJYD323488814NM, style 7) on a dark grey matte bust mannequin, front-on, slight 3/4 turn, filling the height. White version if it shows the panel pattern clearly (matches the original); black if white washes out. Real product photo.
 - **No:** a body, shirtless, before/after torso, scales, tape measures.
