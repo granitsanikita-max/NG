@@ -134,3 +134,71 @@
   - eye-with-slash icon → "NOBODY CAN TELL"
 - **Bottom-right:** "UNHIDDEN" wordmark in bold italic white caps.
 - **No:** people, shirtless bodies, fat-burn or sweat icons.
+
+---
+
+## Swipe 3 — "HIGH COMPRESSION" clean spec-sheet static (Shapecore) · **G1+G2 mixed** (gut + chest)
+**Source:** Nikita's screenshot (WinningHunter) · page "Shapecore" (shapecore.net) · 14 countries · 53 active ads · 1:1 image.
+
+### Their ad (verbatim)
+- **Primary text:**
+  "💪 Elevate Your Look with ShapeCORE Fitness™ Men's Slimming High Compression Vest Tank Top! 💪
+  🎯 Instantly shape and define your midsection and chest. Hide those unwanted bulges and bumps.
+  👌 Greatly reduce Gynecomastia (Man Boobs), improve your posture, and reduce back pain & fatigue.
+  🏋️ Excellent core support with high-quality, durable material.
+  💯 100% Guaranteed Fit! If our body shapers don't fit, contact us for an easy refund or exchange.
+  🚚 FREE SHIPPING on ALL orders! Try us RISK FREE with 100% FREE pre-paid exchanges & returns."
+- **Image (white bg):** "HIGH COMPRESSION" thin letter-spaced with red underline strokes · bold black "BODY SHAPING / SLIMMING / UNDERSHIRTS" · 4 black bars, white caps: DEFINE AND FLATTEN CHEST · SHAPE & CONTROL STOMACH · IMPROVE POSTURE & CONFIDENCE · STAY TUCKED BAND DESIGN · white tank ghost-mannequin on the right · logo + URL bottom-left
+- **Headline:** Men's Slimming Undershirt · **Description:** Try us RISK FREE · **CTA:** Shop now
+
+### Why it works
+- **Looks like a real brand's product sheet, not a hype ad.** White space, one product, a clean checklist. Product-aware buyers burned by "miracle shirt" ads read it as legit.
+- **4 black bars = 4 benefits in 2 seconds.** Scannable, no reading needed.
+- **Caption is a 6-line emoji checklist:** what it is → what it does → chest → quality → fit guarantee → free shipping/risk-free. Each line kills one objection (strength, size, risk).
+- **The last two lines carry the close:** guaranteed fit + free shipping + risk-free. That answers the #1 fear in the bank (wrong size, 261).
+
+### Our ad — Unhidden (line for line)
+| Slot | Theirs | Ours |
+|---|---|---|
+| Top line | HIGH COMPRESSION | **HIGH COMPRESSION** (keep) |
+| Big title | BODY SHAPING / SLIMMING / UNDERSHIRTS | **GUT & MOOB / FLATTENING / UNDERSHIRTS** |
+| Bar 1 | DEFINE AND FLATTEN CHEST | **FLATTENS CHEST & MOOBS** |
+| Bar 2 | SHAPE & CONTROL STOMACH | **HOLDS YOUR GUT IN** |
+| Bar 3 | IMPROVE POSTURE & CONFIDENCE | **NOBODY CAN TELL** |
+| Bar 4 | STAY TUCKED BAND DESIGN | **STAYS TUCKED ALL DAY** ⚠️ sample-gated · fallback: **SIZES S TO 5XL** |
+| Logo | ShapeCORE + www.shapecore.net | **UNHIDDEN** + store URL (⚠️ domain not set in BRAND.md yet) |
+| Headline | Men's Slimming Undershirt | **Men's Compression Undershirt** |
+| Description | Try us RISK FREE | **Look Flatter Or It's Free** |
+| CTA | Shop now | **Shop now** |
+
+**Primary text:**
+> "💪 Elevate Your Look with the Unhidden Men's High Compression Tank! 💪
+>
+> 🎯 Instantly shape and flatten your gut and chest. Hide those unwanted bulges and bumps.
+>
+> 👌 Flattens the look of man boobs under any shirt. Nobody can tell it's there.
+>
+> 🏋️ Real compression that holds everything in. Not just a tight T-shirt.
+>
+> 💯 Look Flatter Or It's Free! Not flatter under your shirt? Full refund, and keep the tank. Wrong size? We swap it free.
+>
+> 🚚 FREE SHIPPING on ALL orders! Try us RISK FREE. Nothing to send back."
+
+**What changed and why:**
+- **"Greatly reduce Gynecomastia… improve posture… reduce back pain" → "Flattens the look of man boobs… nobody can tell".** It can't reduce gyno (gland tissue), and posture/back pain is unproven on our SKU.
+- **"core support… durable material" → "Real compression… not just a tight T-shirt".** "Just a tight shirt / not strong enough" is the #2 fear in the bank (156), so this line hits it head-on.
+- **Their guarantee → ours** (OFFER.md §6): Look Flatter Or It's Free, keep the tank, free size swap, free shipping. It beats theirs: no pre-paid return needed, they keep it.
+- **"Slimming" / "Body Shaping" dropped from title + headline.** Men don't say it (Run 2 §14: "never shapewear, never slimming"). Replaced with his words: gut, moob, flattening.
+
+### Image brief (for Ad Creation)
+- **Format:** 1:1, 1080×1080 static. **Background:** clean white.
+- **Top-left:** "HIGH COMPRESSION" in thin black caps, wide letter-spacing, with short hand-drawn red underline strokes under "HIGH" and "COMP".
+- **Below it, left-aligned:** "GUT & MOOB / FLATTENING / UNDERSHIRTS" on 3 lines, ultra-bold black caps.
+- **Left column:** 4 solid black rectangles, stacked with small gaps, white caps text centred:
+  - "FLATTENS CHEST & MOOBS"
+  - "HOLDS YOUR GUT IN"
+  - "NOBODY CAN TELL"
+  - "STAYS TUCKED ALL DAY" (or "SIZES S TO 5XL" until the sample passes)
+- **Right ~45%:** OUR **white** tank (SKU CJYD323488814NM, style 7) as a ghost-mannequin shot, front-on, filling the height. Real product photo.
+- **Bottom-left:** "UNHIDDEN" wordmark in a bold red, with the store URL in small black above it.
+- **No:** people, shirtless bodies, price, other logos.
