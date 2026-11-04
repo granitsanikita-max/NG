@@ -2,7 +2,7 @@
 > Owned by: Offer, store & funnel design. Reads: brain/ (Notion Step-1 research Docs 1–4 + 581-row bank), PRODUCT.md.
 > **This is a NAMED version — "Offer Launch 1." It is NOT the only offer we'll ever run.** A relaunch / scale offer / seasonal offer gets its OWN named version and never overwrites this. Whenever the live offer changes, say which version is running.
 > Built via the Hormozi $100M Offers process (value equation + A1 Steps 1–9). Full working + evidence: `scratch` research `offer-research-A1.md` + `offer-structure.md` (chief passes, per-objection sourcing, 3 live research streams). Every element traces to the brain (Doc/row IDs) or Nikita's confirmed inputs.
-> **COMPLIANCE LOCK (Doc 4 §2B — applies to every line):** appearance only, while worn. Never fat-loss / "tighten" / medical / "do you have…?". First or third person in ads. No drug/surgery words in ads, URLs or pixel data. It's an apparel undershirt, not a device.
+> **COMPLIANCE LOCK — ❌ REMOVED (Nikita, 2026-11-04).** No compliance lock applies to this offer's copy.
 
 ---
 
