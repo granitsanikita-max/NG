@@ -9,6 +9,7 @@
 - **Last touched:** 2026-11-02 by economics (front gate set + day-1 scoreboard → ECONOMICS.md)
 
 ## Log (newest first)
+- 2026-11-04 · ad-scripting · **Angle map A1–A10 → SCRIPTS.md** (from Notion Deep Research Run 2, Docs 1–2: G1 dad bod / G2 moobs / G3 lost-the-weight / G5 50+; G4 held). Swipe 1 re-pointed to broad A1 (dad bod + moobs) with a G3 variant. ⚠️ **Brain mismatch:** Notion says Run 2 (2,322 snippets, 5 groups) is now the ONLY research set and Run 1 was deleted. The repo `brain/` still holds Run 1 only. Run 2 needs mirroring into brain/ (Nikita to confirm).
 - 2026-11-04 · ad-scripting · **Swipe 1 written → SCRIPTS.md** ("DADBOOBS KILLA" infographic static, Bond International 542288135029675): breakdown + Unhidden copy (MOOBS KILLA / LOOSE SKIN KILLA) + image brief. In progress — swiping ads one by one with Nikita.
 - 2026-11-04 · ad-scripting · **Removed BRAND.md compliance guardrail + OFFER.md compliance lock** (Nikita's order — "man boobs" / you-your hooks allowed). Doc 2 §14 AVOID words + Doc 3 §6 no-shame rule kept (Nikita: fine as is).
 - 2026-11-04 · ad-scripting · **BRAIN EDIT (Nikita's order): Doc 4 §2B SAY / DON'T SAY deleted** from `brain/04-brand-offer-funnel.md` (left a dated tombstone note). Reason: Nikita — creatives can't win without "man boobs" / "Struggling with…?" hooks. ⚠️ BRAND.md compliance guardrail + OFFER.md compliance lock still carry the old rules (not touched — Nikita to decide). Ad scripting starting next: swiping competitor ads into SCRIPTS.md.
