@@ -72,3 +72,66 @@
   - left, belly height → "flattens belly"
   - right, lower side → "boost confidence"
 - **No:** people, shirtless bodies, price on the image, other brands' logos.
+
+---
+
+## Swipe 2 — "CLEARANCE SALE $9.99" price-drop static (Sculptix) · **G1+G2 mixed** (belly fat + man boobs)
+**Source:** Nikita's screenshot (WinningHunter) · page "Sculptix" (trysculptix.com) · 3 countries · 270 active ads · 1:1 image.
+
+### Their ad (verbatim)
+- **Primary text:** "Struggling with stubborn belly fat or man boobs? You're not alone. This high-compression tank top is built for men who are ready to take control and look better. 🔥 Increases sweat to burn more calories 💪 Improves posture & supports your core instantly 🖤 Flattens belly and chest instantly for a leaner look"
+- **Image:** scrolling ticker top + bottom "CLEARANCE SALE" · white tank + grey tank stacked on the left · right: "GET ONE FOR $39.99" / "$9.99" / "EACH" / "COMPRESSION TANK" · 3 icons: STAY COOL & DRY · BURN FAT FASTER · BETTER PERFORMANCE · logo SCULPTIX
+- **Headline:** Sculpted Look, No Surgery Needed · **Description:** Elevate your workout experience with a game-changing sleeveless gym shirt designed... · **CTA:** Shop now
+
+### Why it works
+- **The price drop IS the ad.** $39.99 small → $9.99 huge. Product-aware buyers already want one; this gives them the reason to buy now.
+- **Ticker banners top and bottom** read as "sale" before he reads a word, and they frame the image.
+- **Black background, white type:** max contrast, stops the scroll on a light feed.
+- **Two colours stacked** = "you get options / buy more".
+- **3 icons** give benefits in one glance.
+- **Caption = problem question → "you're not alone" → who it's for → 3 emoji bullets.** Direct, no story.
+
+### Our ad — Unhidden (line for line)
+| Slot | Theirs | Ours |
+|---|---|---|
+| Ticker | CLEARANCE SALE | **LAUNCH SALE** |
+| Anchor | GET ONE FOR $39.99 | **GET ONE FOR $39.95** |
+| Big price | $9.99 EACH | **$26.63 EACH** · small line under: **BUY 2 GET 1 FREE** |
+| Product line | COMPRESSION TANK | **COMPRESSION TANK** (keep) |
+| Icon 1 | STAY COOL & DRY | **FLATTENS CHEST** |
+| Icon 2 | BURN FAT FASTER | **FLATTENS BELLY** |
+| Icon 3 | BETTER PERFORMANCE | **NOBODY CAN TELL** |
+| Logo | SCULPTIX | **UNHIDDEN** |
+| Headline | Sculpted Look, No Surgery Needed | **Flatter Look, No Surgery Needed** |
+| Description | Elevate your workout experience with a game-changing sleeveless gym shirt designed... | **Flatten your gut and moobs with a game-changing compression undershirt made for every shirt you own.** |
+| CTA | Shop now | **Shop now** |
+
+**Primary text:**
+> "Struggling with a stubborn gut or man boobs showing through your shirt? You're not alone. This high-compression tank is built for men who are done sucking it in and ready to look sharp. 🔥 Holds your gut flat all day 💪 Hides under any shirt, nobody can tell 🖤 Flattens belly and chest instantly for a leaner look"
+
+**What changed and why:**
+- **"CLEARANCE" → "LAUNCH SALE".** We're new; "clearance" would be fake. The real reason is the founding launch price (OFFER.md §7).
+- **$9.99 → $26.63 each.** That's our real 3-pack price per tank ($79.90 ÷ 3, Buy 2 Get 1 Free = the pre-selected tier). A $9.99 claim would be a lie and puts us in Shaperluv's "$10 tank" bucket.
+  - Alt variant to test: **$23.97 EACH** with "IN THE 5-PACK" (Buy 3 Get 2 Free).
+- **"Increases sweat to burn more calories" / "BURN FAT FASTER" → look-flatter lines.** The tank burns no fat (brain Doc 3).
+- **"Improves posture" / "BETTER PERFORMANCE" → "nobody can tell".** Posture is unproven on our SKU and gym guys aren't a target group.
+- **"STAY COOL & DRY" dropped.** Breathability is unproven until the sample is worn.
+- **Kept verbatim:** "Struggling with… You're not alone", "Flattens belly and chest instantly for a leaner look", "No Surgery Needed".
+
+### Image brief (for Ad Creation)
+- **Format:** 1:1, 1080×1080 static.
+- **Background:** solid black.
+- **Top + bottom bands:** white strips, about 8% of the height each. Repeating "LAUNCH SALE LAUNCH SALE…" in bold caps, cut off at both edges like a ticker. "LAUNCH" in black, "SALE" in mid-grey.
+- **Left half:** two of OUR tanks (SKU CJYD323488814NM) as ghost-mannequin shots, stacked: **white on top, black below** (gray if black disappears on the background; give the black tank a soft rim light). Real product photos.
+- **Right half, right-aligned, white text:**
+  - "GET ONE FOR $39.95": small, bold, letter-spaced caps
+  - "$26.63": huge, heavy bold, the biggest thing on the image
+  - "EACH": small caps under it
+  - "BUY 2 GET 1 FREE": small bold caps
+  - "COMPRESSION TANK": medium bold caps, 2 lines
+- **3 icons in a row** under that, white line icons with 2-line captions:
+  - chest icon → "FLATTENS CHEST"
+  - belly / measuring-tape icon → "FLATTENS BELLY"
+  - eye-with-slash icon → "NOBODY CAN TELL"
+- **Bottom-right:** "UNHIDDEN" wordmark in bold italic white caps.
+- **No:** people, shirtless bodies, fat-burn or sweat icons.
