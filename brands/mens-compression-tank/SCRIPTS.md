@@ -176,7 +176,7 @@
 >
 > 🎯 Instantly shape and flatten your gut and chest. Hide those unwanted bulges and bumps.
 >
-> 👌 Flattens the look of man boobs under any shirt. Nobody can tell it's there.
+> 👌 Flatten the look of man boobs, stop sucking in your gut, and wear fitted shirts again with real confidence.
 >
 > 🏋️ Real compression that holds everything in. Not just a tight T-shirt.
 >
@@ -185,7 +185,7 @@
 > 🚚 FREE SHIPPING on ALL orders! Try us RISK FREE. Nothing to send back."
 
 **What changed and why:**
-- **"Greatly reduce Gynecomastia… improve posture… reduce back pain" → "Flattens the look of man boobs… nobody can tell".** It can't reduce gyno (gland tissue), and posture/back pain is unproven on our SKU.
+- **"Greatly reduce Gynecomastia… improve posture… reduce back pain" → 4 core desires in one line** (Nikita, 2026-11-04: match their 3–4 benefit stack). Flat chest (chest shows through shirt 357), stop sucking it in ("constantly sucking in my gut" 19), fitted shirts again (127), confidence (128). Their claims are dropped: it can't reduce gyno (gland tissue), and posture/back pain is unproven on our SKU.
 - **"core support… durable material" → "Real compression… not just a tight T-shirt".** "Just a tight shirt / not strong enough" is the #2 fear in the bank (156), so this line hits it head-on.
 - **Their guarantee → ours** (OFFER.md §6): Look Flatter Or It's Free, keep the tank, free size swap, free shipping. It beats theirs: no pre-paid return needed, they keep it.
 - **"Slimming" / "Body Shaping" dropped from title + headline.** Men don't say it (Run 2 §14: "never shapewear, never slimming"). Replaced with his words: gut, moob, flattening.
