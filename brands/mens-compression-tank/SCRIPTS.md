@@ -6,30 +6,26 @@
 
 ---
 
-## ANGLE MAP (set 2026-11-04 — from Notion "Deep Research Run 2", Docs 1–2)
-> Nikita's rule: **swipe the group the original ad targets** (a dad-bod/moobs ad stays dad-bod/moobs), and **spread the batch so every one of our angles gets tested.** Run 2's 5 buyer groups (2,322 snippets):
-> G1 dad bod / belly 253 · G2 chest / man boobs 249 · G3 lost the weight, still shows 290 · G5 men 50+ 108 · G4 big & tall 148 (**on hold** — SKU stops at 3XL until the 3XL is measured).
-> Every group wants the same surface thing: **"look flat in a shirt" (363)**. Every group is stopped by the same 3 fears: **wrong size 261 · not strong enough 156 · scam 137**.
+## ANGLE MAP (revised 2026-11-04 — Nikita: 5 groups, one direct angle each)
+> Traffic is **solution-aware / product-aware**, so copy is **direct and concise**: name the problem → show the product → 2–3 benefits → offer. No stories, no wife/daughter/wedding scenes.
+> Source: Notion Deep Research Run 2 (Docs 1–2). Every group wants "look flat in a shirt" (363) and every group's hesitation is size (261) / not strong enough (156) / scam (137), so benefits lean on **real compression, stays down, sizes that fit**.
 
-| # | Angle | Group | Hook seed (his words, from the bank) | Why test it |
-|---|---|---|---|---|
-| A1 | **Broad dad bod: beer belly + moobs + love handles** | G1+G2 | "Over 40 and can't get rid of that beer belly?" (North Alpine's most-duplicated ad, 13 dupes) | Where the volume is. Our control: the market's proven angle, said our way |
-| A2 | **The tuck-in / work shirt** | G1 | "my gut sticks out above my belt and it just ruins the look" · "insecure when tucking shirts in" | Work is the #1 trigger in the whole bank (160) |
-| A3 | **The kid's comment** | G1 | "My 5yo son asked me why my belly is so big" · "Why is your belly sticking out of your shirt?" | Gut-punch moment, nobody runs it |
-| A4 | **Moobs through the shirt** | G2 | "pointy moobs bulging through my shirt" · "my nipples poke through dress shirts and polos" | Strongest pain of any group (chest shows through shirt 357) |
-| A5 | **Summer / hoodie in July** | G2 (+G3) | "everything that conceals it is too hot in the summer… the sun eats us alive" | Kills the "too hot" objection up front |
-| A6 | **Lost the weight, it still shows** | G3 | "You hit the number. Then you put on a T-shirt." · "Down 85 lb. Still wearing a hoodie in July." · "I still see the fat guy" | Run 2's launch lead: the least-owned painkiller. Milestone = 106 of 290 G3 triggers |
-| A7 | **"People asked if I lost weight"** | all | "people asked if I lost weight" (50) · "My kids thought I had lost weight overnight" | The #1 win phrase in reviews: social proof, his words |
-| A8 | **Her reaction** | all | "wife said the fit made me look slimmer" · "As my wife would say, 'good purchase!'" | Wife = #1 authority (38) |
-| A9 | **The burned buyer / "it rode up"** | all | "just a regular wife-beater" · "it rides up" (71) · "DOESN'T take you from Beer Belly to 6 Pack" | 11% of the bank is burned. Mechanism: **"Squeeze moves it. Hold keeps it."** |
-| A10 | **Men 50+: look sharp, not old** | G5 | "Your daughter's wedding. A white shirt. Photos all night." · "made me feel younger and like a new man" (78-yr-old) | The age band already buying from the leaders (55–64 peak) |
+| Tag | Group | Direct angle | His words to use |
+|---|---|---|---|
+| **G1** | Dad bod / belly | Flattens the beer belly and love handles under any shirt | gut, beer belly, love handles, dad bod, "stop sucking it in", "tuck it in" |
+| **G2** | Chest / man boobs | Flattens man boobs under any shirt, nobody can tell | man boobs, moobs, "nipples poke through", "nobody can tell" |
+| **G3** | Lost the weight, still shows | Holds loose skin and leftover moobs flat under your shirt | loose skin, extra skin, "down 80 lbs", "wear your real size" |
+| **G4** | Big & tall | Built for big guys, long enough to stay down, sizes to 5XL | big guys, "rides up", "long enough to tuck in", 2XL–5XL |
+| **G5** | Men 40+ / 50+ | Look sharp in your shirts again, no gut, no moobs | over 40/50, "look sharp", polo, dress shirt |
 
-**Batch split for ~10–12 statics:** ~5 broad (A1/A2/A7/A8 — the control), 2 chest (A4/A5), 2–3 lost-the-weight (A6), 1 men 50+ (A10), 1 burned buyer (A9). Each swipe gets tagged with its angle so the test reads cleanly.
-**Voice (Run 2 §14):** man boobs, moobs, gut, beer belly, love handles, dad bod, loose skin, "it rides up", "nobody can tell", 6th-grade, dry humor. Never "shapewear", "slimming", "gyno" in ads.
+- **Mixed (G1+G2):** beer belly + man boobs in one ad, the market's main combo. Use when the swipe source does both.
+- **G4 note:** our SKU (CJYD323488814NM) runs **S–5XL**, so G4 is live. Run 2's "stops at 3XL" was about the old SKU. Real fit on big men is still unproven until the sample is measured.
+- **Batch rule:** each swipe keeps the group its source ad targets; across the batch, cover all five.
+- **Voice:** man boobs, moobs, gut, beer belly, love handles, dad bod, loose skin, "rides up", "nobody can tell". 6th-grade. Never "shapewear", "slimming", "gyno" in ads.
 
 ---
 
-## Swipe 1 — "DADBOOBS KILLA" infographic static (Bond International) · **Angle A1 broad (G1+G2)** · variant B = A6 (G3)
+## Swipe 1 — "DADBOOBS KILLA" infographic static (Bond International) · **G1+G2 mixed** · variant B = G3
 **Source:** https://app.winninghunter.com/ad/542288135029675?platform=facebook · Meta 542288135029675 · page "Bond International" (615 likes) · US · 1:1 image · ran 2024-08-21 → 2024-10-13 (54 days) · 1 duplicate · lander bond-collection.com "BOND™ ENERGY VEST" $24.95 (vs $49.95), Buy 2 Get 1 Free.
 **Evidence strength: WEAK.** 54 days then switched off, tiny page, no traffic/revenue data. WH's "Winning" score only means "ran >7 days". It's the most common static format in the category (infographic with arrows = #1 static sub-format, Doc 4 §4), so we're testing the FORMAT, not a proven winner.
 
