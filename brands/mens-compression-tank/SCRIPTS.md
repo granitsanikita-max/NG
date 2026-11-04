@@ -56,7 +56,7 @@
 | CTA | Shop now | **Shop now** |
 
 **Primary text:**
-> "Busy dads and men over 40, say goodbye to that stubborn gut showing through your shirt! Introducing the Unhidden Compression Tank - your ultimate everyday undershirt. Flatten your chest, hold your belly in, and wave goodbye to the beer belly and man boobs under every shirt. Look sharp, feel great, and make every shirt fit right! 💪🔥 #FitnessForDads #NobodyCanTell"
+> "Busy dads and men over 40, say goodbye to that stubborn gut showing through your shirt! Introducing the Unhidden Compression Tank - your ultimate everyday undershirt. Flatten your chest, hold your belly in, and wave goodbye to the beer belly and man boobs under every shirt. Look sharp, feel great, and make every shirt fit right! 💪🔥 #WearUnhidden #NobodyCanTell"
 
 **What changed and why:** only the fat-burn lines ("burn chest fat / burn belly fat / boost metabolism / burn fat faster") became their look-flatter versions on the same body zones. The brain says the tank burns no fat, and "the ad lied" is our buyer's top complaint. "Back support" became "nobody can tell": posture isn't proven on our SKU, and hiding it is what every group wants (141 mentions). Everything else is kept or swapped one-for-one.
 
