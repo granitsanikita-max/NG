@@ -302,3 +302,49 @@
   - white rounded pill with a soft shadow, bold navy text: "XL shirt → **L shirt**" (the arrow and "L shirt" in bright blue)
 - **Right half:** OUR tank (SKU CJYD323488814NM, style 7) on a dark grey matte bust mannequin, front-on, slight 3/4 turn, filling the height. White version if it shows the panel pattern clearly (matches the original); black if white washes out. Real product photo.
 - **No:** a body, shirtless, before/after torso, scales, tape measures.
+
+---
+
+## Swipe 6 — "My wife called it my dad bod" + folded-stack static (North Alpine) · **G5** (men 40+/50+)
+**Source:** Nikita's screenshot (WinningHunter) · "NorthAlpine Co" · 53 countries · 909 active ads · 1:1 image. "My wife called it my dad bod" is NA's #1 top ad (Run 2 Doc 1 §1B), and NA's "2026 = NO MORE DAD BOD" family is its longest-running line.
+**Why G5:** the hook's beat "I called it… unavoidable" is G5's #1 belief, "aging is inevitable" (45 mentions; 25 of G5's 108 rows). So the same ad, aimed at the 40+/50+ man.
+
+### Their ad (verbatim)
+- **Primary text:** "My wife called it my "dad bod." My doctor called it a "health risk." I called it... unavoidable. 😅 Until I found NorthPower. First time I wore it, my coworker asked if I'd lost weight. I'd had it on for 3 hours. 😂 Here's what changed for me 👇 ✅ Beer belly — gone (visually, instantly) ✅ Love handles — smoothed out ✅ Man boobs — compressed, invisible ✅ Back pain — actually improved ✅ Confidence — through the roof This isn't a magic pill. It's a tank top that works harder than you think. 💪 End of Season Sale → Buy 2 Get 1 Free Only $19.99 each. Won't last long. ⏳"
+- **Image:** white top band, black condensed caps "LOSE 30 LBS IN 90 DAYS / WITHOUT GOING TO THE GYM" · 3 black/blue tanks folded and stacked on white bed sheets · bottom "BUY 1" black + "GET 1 FREE" white on a red block
+- **Headline:** 2026 = NO MORE DAD BOD 🔥 · **Description:** NORTH ALPINE · **CTA:** Shop now
+
+### Why it works
+- **The rule of three hook:** wife → doctor → me. Three labels for the same belly, ending on his resignation ("unavoidable"). Funny, and every 40+ guy has heard all three.
+- **"Until I found…" flips it in one line.** Then the same coworker moment + ✅ checklist as Swipe 5 (it's NA's proven caption skeleton).
+- **"This isn't a magic pill"** pre-empts the skeptic; "works harder than you think" re-sells.
+- **Image = a big promise + a stack of product + the offer.** The folded stack says "you get several", so the bundle is visual before he reads the price.
+
+### Our ad — Unhidden (line for line, G5)
+| Slot | Theirs | Ours |
+|---|---|---|
+| Top band | LOSE 30 LBS IN 90 DAYS / WITHOUT GOING TO THE GYM | **LOOK 20 LBS LIGHTER IN SECONDS / WITHOUT GOING TO THE GYM** |
+| Product | 3 folded tanks on bed sheets | **5 folded tanks** (matches the 5-pack) |
+| Offer block | BUY 1 GET 1 FREE | **BUY 3 GET 2 FREE** |
+| Headline | 2026 = NO MORE DAD BOD 🔥 | **OVER 40? NO MORE DAD BOD 🔥** |
+| Description | NORTH ALPINE | **UNHIDDEN** |
+| CTA | Shop now | **Shop now** |
+
+**Primary text:**
+> "My wife called it my "dad bod." My doctor called it "part of getting older." I called it... unavoidable. 😅 Until I found Unhidden. First time I wore it, my coworker asked if I'd lost weight. I'd had it on for 3 hours. 😂 Here's what changed for me 👇 ✅ Beer belly — flat (visually, instantly) ✅ Love handles — smoothed out ✅ Man boobs — held flat, nobody can tell ✅ Shirts — fitting like they did at 35 ✅ Confidence — through the roof. This isn't a magic pill. It's an undershirt that works harder than you think. 💪 Launch Sale → Buy 3 Get 2 Free, only $23.97 each. Founding price for the first 500 customers. ⏳"
+
+**What changed and why:**
+- **"LOSE 30 LBS IN 90 DAYS" → "LOOK 20 LBS LIGHTER IN SECONDS".** The tank can't take weight off (brain Doc 3), but "look X lbs lighter" is how buyers describe it in reviews ("made me look 15 lbs lighter", "look 30 lbs lighter"). The same big number, an instant result, true.
+- **Doctor line: "health risk" → "part of getting older".** It points the joke at the G5 belief (aging), not a medical scare.
+- **"Back pain — actually improved" → "Shirts — fitting like they did at 35".** Back pain is unproven on our SKU; "look younger" is a top G5 desire (8 of the bank's 15).
+- **"compressed, invisible" → "held flat, nobody can tell".** His words.
+- **"End of Season Sale / Won't last long" → "Launch Sale / Founding price for the first 500".** Real reason, no fake urgency (OFFER.md §7).
+- **"OVER 40?" in the headline** is NA's best-performing qualifier ("Over 40 and can't get rid of that beer belly?", 13 duplicates).
+- **⚠️ First-person story → run it from a real person** (you / founder voice / a real 40+ creator), not an invented customer (FTC 16 CFR 465).
+
+### Image brief (for Ad Creation)
+- **Format:** 1:1, 1080×1080 static.
+- **Top band (~15% height):** solid white, black heavy condensed caps (Anton / Bebas style), 2 centred lines: "LOOK 20 LBS LIGHTER IN SECONDS" / "WITHOUT GOING TO THE GYM".
+- **Middle (~70%):** photo of **5** of OUR **black** tanks (SKU CJYD323488814NM, style 7), neatly folded and stacked, slightly angled, on rumpled white bed sheets. Soft natural window light, real-life look (not studio). The panel pattern visible on the top tank. Real product.
+- **Bottom, overlaid on the sheets:** "BUY 3" in heavy black condensed caps + "GET 2 FREE" in white heavy condensed caps on a solid red block, one line, centred.
+- **No:** people, bodies, scales, tape measures.

@@ -9,6 +9,7 @@
 - **Last touched:** 2026-11-02 by economics (front gate set + day-1 scoreboard → ECONOMICS.md)
 
 ## Log (newest first)
+- 2026-11-04 · ad-scripting · **Swipe 6 → SCRIPTS.md** (North Alpine "My wife called it my dad bod" folded-stack static) → first **G5** ad: LOOK 20 LBS LIGHTER IN SECONDS, OVER 40? NO MORE DAD BOD.
 - 2026-11-04 · ad-scripting · **Swipe 5 → SCRIPTS.md** (North Alpine "30 LBS DOWN" first-person + stat static) → first **G3** ad: 85 LBS DOWN / 3XL → L, the stat is his weight loss, tank = the last step.
 - 2026-11-04 · ad-scripting · **Swipe 4 → SCRIPTS.md** (InShape "TRANSFORM YOUR BODY IN SECONDS" hanger static, G1+G2): TRANSFORM YOUR LOOK IN SECONDS, No More Man Boobs.
 - 2026-11-04 · ad-scripting · **Swipe 3 → SCRIPTS.md** (Shapecore "HIGH COMPRESSION" spec-sheet static, G1+G2): GUT & MOOB FLATTENING UNDERSHIRTS + Look-Flatter-Or-It's-Free caption.
