@@ -96,7 +96,7 @@
 |---|---|---|
 | Ticker | CLEARANCE SALE | **LAUNCH SALE** |
 | Anchor | GET ONE FOR $39.99 | **GET ONE FOR $39.95** |
-| Big price | $9.99 EACH | **$26.63 EACH** · small line under: **BUY 2 GET 1 FREE** |
+| Big price | $9.99 EACH | **$23.97 EACH** · small line under: **BUY 3 GET 2 FREE** |
 | Product line | COMPRESSION TANK | **COMPRESSION TANK** (keep) |
 | Icon 1 | STAY COOL & DRY | **FLATTENS CHEST** |
 | Icon 2 | BURN FAT FASTER | **FLATTENS BELLY** |
@@ -111,8 +111,7 @@
 
 **What changed and why:**
 - **"CLEARANCE" → "LAUNCH SALE".** We're new; "clearance" would be fake. The real reason is the founding launch price (OFFER.md §7).
-- **$9.99 → $26.63 each.** That's our real 3-pack price per tank ($79.90 ÷ 3, Buy 2 Get 1 Free = the pre-selected tier). A $9.99 claim would be a lie and puts us in Shaperluv's "$10 tank" bucket.
-  - Alt variant to test: **$23.97 EACH** with "IN THE 5-PACK" (Buy 3 Get 2 Free).
+- **$9.99 → $23.97 each.** That's our real 5-pack price per tank ($119.85 ÷ 5, Buy 3 Get 2 Free, the best-value tier in OFFER.md). A $9.99 claim would be a lie and puts us in Shaperluv's "$10 tank" bucket. (Nikita, 2026-11-04: show the 5-pack offer, not the 3-pack.)
 - **"Increases sweat to burn more calories" / "BURN FAT FASTER" → look-flatter lines.** The tank burns no fat (brain Doc 3).
 - **"Improves posture" / "BETTER PERFORMANCE" → "nobody can tell".** Posture is unproven on our SKU and gym guys aren't a target group.
 - **"STAY COOL & DRY" dropped.** Breathability is unproven until the sample is worn.
@@ -125,9 +124,9 @@
 - **Left half:** two of OUR tanks (SKU CJYD323488814NM) as ghost-mannequin shots, stacked: **white on top, black below** (gray if black disappears on the background; give the black tank a soft rim light). Real product photos.
 - **Right half, right-aligned, white text:**
   - "GET ONE FOR $39.95": small, bold, letter-spaced caps
-  - "$26.63": huge, heavy bold, the biggest thing on the image
+  - "$23.97": huge, heavy bold, the biggest thing on the image
   - "EACH": small caps under it
-  - "BUY 2 GET 1 FREE": small bold caps
+  - "BUY 3 GET 2 FREE": small bold caps
   - "COMPRESSION TANK": medium bold caps, 2 lines
 - **3 icons in a row** under that, white line icons with 2-line captions:
   - chest icon → "FLATTENS CHEST"
