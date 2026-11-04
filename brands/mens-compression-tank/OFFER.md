@@ -1,4 +1,77 @@
-# OFFER — Men's Compression Tank · "The Finish-Line Kit" — **OFFER LAUNCH 1 (LOCKED 2026-10-29)**
+# OFFER — Unhidden (men's compression tank) · **OFFER LAUNCH 2 — "Run 2" (CURRENT, set 2026-11-04)**
+> Owned by: Offer, store & funnel design. Reads: brain/ (Deep Research Run 2, Docs 1–4 + 2,322-row bank), PRODUCT.md.
+> **Why this version exists:** Nikita, 2026-11-04 — "Just do everything that Run 2 says." Every line below comes from `brain/04-brand-offer-funnel.md` (Top 5, §4, §4B, §15-D, §15-E, §15-E2, Funnel Map). Offer Launch 1 ("The Finish-Line Kit") is kept below as an archive only — **do not build from it.**
+> Named version. A later relaunch / scale / seasonal offer gets its own named version.
+
+---
+
+## 0. AT A GLANCE
+- **Lead buyer:** G3 — US men who already lost serious weight (diet, gym, GLP-1, surgery) but still look soft in a shirt: loose skin + leftover chest and belly. Later doors: G2 chest, G1 belly, G5 50+ (same offer page, own pre-sell). G4 big & tall = out (SKU stops at 3XL).
+- **Promise (appearance while worn only):** "Looks flatter under your shirt the moment it's on."
+- **Mechanism:** *"Squeeze moves it. Hold keeps it."* — an even hold from chest to past the belt line, hem below the soft part, stays down.
+- **Offer type:** Bundle (same tank, multiple colours) + first-order pop-up. **No subscription.**
+- **Price:** **$39.95 single · "2 + 1 FREE" $79.90 (auto-selected) · "3 + 2 FREE" $119.85.** USD, US, Meta only.
+- **Wins on:** a policy-true 60-day guarantee · measured fit (chest + waist + height) + free size swap · the size-down swap for men still losing (0 of 25 competitors offer it).
+
+## 1. PRODUCT + COST
+- **SKU: CJdropshipping CJDS299280217QJ** — "Men Slim Body Shaper Tank Top Compression Tummy Control Hide Pot Belly Flatten Chest Undershirt Shapewear". 180 g · black / grey / navy / beige-nude / white · **S–3XL** · ships from China (CJ US warehouse stock = 0). CJPacket 4–9 days + 1–3 processing.
+- **Landed (1 tank):** AUD 6.52 + AUD 10.42 CJPacket = AUD 16.94 ≈ **US$11.90**. Bundles costed worst case = every unit its own parcel. Processing 3% + $0.30.
+- **Unverified on this SKU:** fiber %, compression level, torso length per size, hem grip, breathability (CJ spec tab behind a bot check). The sample decides (§9).
+
+## 2. PRICE LADDER (USD, worst-case shipping)
+| Tier | Price | Per tank | Landed | CM $ | CM % | Break-even ROAS | CPA @20% net (ROAS) | CPA @30% net (ROAS) |
+|---|---|---|---|---|---|---|---|---|
+| Single | $39.95 | $39.95 | $11.90 | $26.55 | 66.5% | 1.50 | $18.56 (2.15) | $14.57 (2.74) |
+| **"2 + 1 FREE" — auto-selected** | **$79.90** | $26.63 | $35.70 | **$41.50** | 51.9% | 1.93 | **$25.52 (3.13)** | $17.53 (4.56) |
+| "3 + 2 FREE" — top tier + gift | $119.85 | $23.97 | $59.50 | $56.45 | 47.1% | 2.12 | $32.48 (3.69) | $20.50 (5.85) |
+
+- Market middle is $19–23/tank; real ceiling ~$33 (InShape). **Never drop to the $10–15/tank floor** (Shaperluv / Selure / Somnea own it; below a safe margin).
+- The $69.90 middle tier (needs ROAS 3.92 for 20% net) stays parked **until CJ's combined-parcel quote for 3 and 5 units** proves it.
+- **Framing:** free units, not % off. Price per wear: *"one on, one in the wash, one spare."*
+
+## 3. BUNDLES (named by result, not quantity)
+- **The under-the-shirt colour kit:** nude/beige + white + black — nude under white shirts, black under dark ones.
+- **Work-week rotation** (the multi-unit tiers).
+- **Working bundle name:** "The Flat-Under-Any-Shirt Kit" (final name = Copy's job).
+- **Gift at the top tier only:** a wash bag or a short "how a shirt should fit you now" guide. **Never** a weight-loss program / meal plan.
+
+## 4. GUARANTEE — written into the policy, same words on PDP and policy
+- **"Wear it 60 days. If your shirt doesn't sit flatter, keep it — full refund."** (outcome name: *"If your shirt doesn't sit flatter, you don't pay for it."*)
+- Worn is OK · refund with **no return needed for 1–2 units** · **free size swap**.
+- Wash-and-wear promise goes inside it **only if the sample's 5-wash test passes.** Confidence stat only once real data exists.
+- 13 of 22 competitor guarantees are contradicted by their own policy — ours must not be.
+
+## 5. FIT
+- **Measured size chart in inches + 3-question fit finder** (chest, waist, height). True-size guide, never "two sizes down".
+- **Torso length per size** on the PDP (sample-measured).
+- **Free size swap** + **size-down swap** for men still losing (also the G3 repeat-buy reminder after purchase).
+
+## 6. FIRST-ORDER POP-UP + REASON FOR THE DISCOUNT
+- **Segmentation quiz pop-up:** "lost the weight / chest / belly / 50+" → returns his size + the matching page + one offer. G3 option: "I lost weight — the loose skin still shows". No spin-to-win, no giveaways.
+- **Real, dated reason:** launch pricing for the first buyers who send a photo review (the launch batch / first 100 reviewers). No fake timers, no stale calendar sales.
+
+## 7. UPSELLS + AFTER PURCHASE
+- **Cart:** one add-on only — the next colour at a member price (*"Add a nude one for white shirts."*). Free-shipping threshold just above the single (~$50).
+- **Shipping protection:** opt-in only, never tied to returns.
+- **Post-purchase:** one-click extra colour at a member price (AfterSell-style).
+- **Thank-you page:** fit check — did the size work? swap it now, free.
+- **Every order** ships with a "how to put it on" card + video link ("step in, pull up").
+
+## 8. OFFER RULES
+- Appearance while worn only. G3 wording: **"holds and smooths", never "tightens".** No inches, no weight loss, no "ionic".
+- Guarantee, real delivery window (honest 5–12 business days) and no subscription are **built into the offer and policy — never advertised as "we're the honest ones"** (Nikita's rule).
+- Attack the pattern ("miracle shirts"), never name a competitor. All reviews shown, never curated-only.
+
+## 9. OPEN GAPS / BLOCKERS
+1. **Sample test on CJDS299280217QJ:** torso length below the waistband on S–3XL, hem stays put (sit / bend / arms-up / stairs), normal breathing at true size, white-shirt show-through, 5-wash. Gates the shirt-on demo, the mechanism claim and the size chart. If it fails → swap the SKU.
+2. **CJ combined-parcel quote for 3 and 5 units** — the most valuable missing number (moves every bundle margin).
+3. **Confirm the CJ listing URL.**
+4. Confirm real AUD→USD FX (Meta account bills AUD).
+
+---
+---
+
+# ARCHIVE — "The Finish-Line Kit" — OFFER LAUNCH 1 (locked 2026-10-29 · ❌ SUPERSEDED 2026-11-04 by Offer Launch 2 above)
 > Owned by: Offer, store & funnel design. Reads: brain/ (Notion Step-1 research Docs 1–4 + 581-row bank), PRODUCT.md.
 > **This is a NAMED version — "Offer Launch 1." It is NOT the only offer we'll ever run.** A relaunch / scale offer / seasonal offer gets its OWN named version and never overwrites this. Whenever the live offer changes, say which version is running.
 > Built via the Hormozi $100M Offers process (value equation + A1 Steps 1–9). Full working + evidence: `scratch` research `offer-research-A1.md` + `offer-structure.md` (chief passes, per-objection sourcing, 3 live research streams). Every element traces to the brain (Doc/row IDs) or Nikita's confirmed inputs.

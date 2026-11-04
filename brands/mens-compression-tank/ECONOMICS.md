@@ -4,7 +4,15 @@
 > Rule: numbers are dated; append new reads, never overwrite history.
 > ⚠️ Currency: product/store sells **USD**; Meta ad account **WearUnhidden (2019922985337843) bills AUD**. Convert spend AUD→USD before judging ROAS (~0.70 placeholder — confirm real bank FX, OFFER §13).
 
-## Front gate (set 2026-11-02, grounded in OFFER.md "Offer Launch 1" + brain Doc 1)
+## Front gate v2 (2026-11-04) — CURRENT, from Run 2 (`brain/04` §15-E / §15-E2) + OFFER.md "Offer Launch 2"
+> Set by daily-tasks on Nikita's order ("do everything Run 2 says"). Numbers are Run 2's own, not a new economics read.
+- **SKU CJDS299280217QJ · landed US$11.90/tank, worst case = every unit its own parcel.** Processing 3% + $0.30.
+- **Single $39.95** → CM $26.55 (66.5%) · BE ROAS **1.50** · kill CPA $18.56 (ROAS 2.15) · scale CPA $14.57 (ROAS 2.74)
+- **"2 + 1 FREE" $79.90, auto-selected** → CM $41.50 (51.9%) · BE ROAS **1.93** · kill CPA **$25.52 (ROAS 3.13)** · scale CPA $17.53 (ROAS 4.56)
+- **"3 + 2 FREE" $119.85** → CM $56.45 (47.1%) · BE ROAS **2.12** · kill CPA $32.48 (ROAS 3.69) · scale CPA $20.50 (ROAS 5.85)
+- **Verdict:** still first-order profitable, but thinner than v1 (BE ROAS ~1.9 on the middle tier vs ~1.3). **CJ's combined-parcel quote for 3/5 units is the number most likely to improve this.** Economics station: re-check kill/scale lines once that quote lands.
+
+## Front gate v1 (set 2026-11-02) — ❌ SUPERSEDED by v2 (old SKU CJYD323488814NM, Offer Launch 1)
 - **Landed cost (per order, AUD→USD @0.70):** 1 tank A$12.40/$8.68 · 3 A$24.20/$16.94 · 5 A$34.96/$24.47. Processing 3% + $0.30. (SKU CJYD323488814NM; combined-parcel shipping — ⚠️ still gated on CJ multi-unit quote + sample test, OFFER §13.)
 - **Sell price (USD):** **$39.95 single** · **$79.90 3-pack** (Buy2Get1Free, PRE-SELECTED = target AOV) · **$119.85 5-pack** (Buy3Get2Free).
 - **Gross margin:** single **74.5%** ($29.77) · 3-pack **75.4%** ($60.26) · 5-pack **76.3%** ($91.48).

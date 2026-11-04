@@ -2,13 +2,15 @@
 
 > The handoff file. EVERY station updates this before it stops. Read it first.
 
-- **Current stage:** **LIVE — day-1 static test running** (ads launched ahead of the documented funnel/store-build step). Economics **front gate SET → ECONOMICS.md (GO, ~75% margin, first-order profitable, BE ROAS ~1.3).** Funnel/store build still pending.
-- **Status:** LIVE (testing, day 1) + READY FOR NEXT on funnel/PDP build.
-- **Next action (for funnel/store build):** Map the pre-sell page + PDP section-by-section → FUNNEL.md, then copy → COPY.md, then build the store. Input = OFFER.md ("The Finish-Line Kit", Offer Launch 1). **Production priority #1 = the keystone "Finish-Line Video" — GATED on the sample.**
-- **Blocked on:** nothing for the funnel plan. Build gates (OFFER.md §13): the SAMPLE (gates demo-video claims + Fit-Finder cm sizes + confirms knitted-vs-printed panel), confirm AUD→USD FX, CJ plain-mailer, a real 300lb+ body for the big-frame clip, and Nikita's call on raising price after the Founding 500.
-- **Last touched:** 2026-11-02 by economics (front gate set + day-1 scoreboard → ECONOMICS.md)
+- **Current stage:** **LIVE — day-1 static test running.** Brain = Deep Research Run 2; **brand, offer, funnel all re-set to Run 2 (2026-11-04).** Funnel/store build pending.
+- **Status:** LIVE (testing) + READY FOR NEXT on copy → store build.
+- **Next action (for copywriting):** write COPY.md from FUNNEL.md (G3 ad hooks, G3 advertorial, offer page, cart/thank-you/email/insert copy) using OFFER.md → **Offer Launch 2** ($39.95 / 2+1 FREE $79.90 auto-selected / 3+2 FREE $119.85, 60-day policy-true guarantee, fit finder, size swap + size-down swap). Then store build.
+- **Blocked on:** the SAMPLE of SKU CJDS299280217QJ (gates shirt-on demo, mechanism claim, inch size chart, torso length) · CJ combined-parcel quote for 3/5 units · confirm the CJ listing URL · real AUD→USD FX.
+- **⚠️ Check:** SCRIPTS.md swipes + the live "C1 Statics" ads were built on the old SKU CJYD323488814NM (S–5XL, G4 live). Under Run 2 the SKU is 217QJ (S–3XL) and G4 is out — ad-scripting should re-point image briefs / G4 swipes.
+- **Last touched:** 2026-11-04 by daily-tasks (Run 2 applied to BRAND / OFFER / FUNNEL / ECONOMICS)
 
 ## Log (newest first)
+- 2026-11-04 · daily-tasks · **RUN 2 APPLIED EVERYWHERE (Nikita: "Just do everything that Run 2 says").** BRAND.md → Unhidden, G3 launch lead, Run 2 locked brand line, enemy = miracle shirt, mechanism "Squeeze moves it. Hold keeps it.", G4 out. OFFER.md → new **Offer Launch 2** (SKU CJDS299280217QJ, US$11.90 landed; $39.95 / 2+1 FREE $79.90 auto-selected / 3+2 FREE $119.85; "Wear it 60 days. If your shirt doesn't sit flatter, keep it — full refund."; fit finder + free size swap + size-down swap; colour kit; quiz pop-up; one cart add-on, post-purchase colour, opt-in protection, thank-you fit check; no sub). Launch 1 archived in-file. FUNNEL.md → Run 2 Discovery Stack (G3 ad → advertorial → offer page → cart → after purchase; later doors G2/G1/G5). ECONOMICS.md → front gate v2 at Run 2 numbers (BE ROAS 1.50 / 1.93 / 2.12), v1 marked superseded. brain/06 + PRODUCT.md marked superseded on SKU. SCRIPTS.md not touched (flagged above).
 - 2026-11-04 · ad-scripting · **Swipe 6 → SCRIPTS.md** (North Alpine "My wife called it my dad bod" folded-stack static) → first **G5** ad: LOOK 20 LBS LIGHTER IN SECONDS, OVER 40? NO MORE DAD BOD.
 - 2026-11-04 · ad-scripting · **Swipe 5 → SCRIPTS.md** (North Alpine "30 LBS DOWN" first-person + stat static) → first **G3** ad: 85 LBS DOWN / 3XL → L, the stat is his weight loss, tank = the last step.
 - 2026-11-04 · ad-scripting · **Swipe 4 → SCRIPTS.md** (InShape "TRANSFORM YOUR BODY IN SECONDS" hanger static, G1+G2): TRANSFORM YOUR LOOK IN SECONDS, No More Man Boobs.

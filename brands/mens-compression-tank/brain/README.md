@@ -15,9 +15,8 @@ Notion folder: https://app.notion.com/p/40cd53123cd681488348ee7264cc7fb6
    Emotional state, Burned, Need, Awareness, Authority, Misconception, Great phrase, Solidity, Collected by). Multi-tags are `; `-separated.
 
 ## Kept (not part of Run 2)
-- `06-sourcing-new-supplier.md` — Nikita's supplier/SKU notes (kept with the offer material; see note there).
-- The offer itself lives one level up in `../OFFER.md` (Offer Launch 1, kept as-is).
+- `06-sourcing-new-supplier.md` — old SKU notes (CJYD323488825YB). ❌ Superseded by Run 2's SKU CJDS299280217QJ; history only.
 
 ## Note for every station
-Run 2's own offer section (Doc 4) and `../OFFER.md` ("The Finish-Line Kit") are different versions. OFFER.md is the locked live offer
-until Nikita says otherwise. Run 2 names SKU CJDS299280217QJ; OFFER.md uses CJYD323488814NM — confirm with Nikita before quoting costs.
+Run 2 wins everywhere (Nikita, 2026-11-04). Current offer = `../OFFER.md` → **Offer Launch 2** (built from Doc 4); Launch 1 is archived in the same file.
+SKU = **CJDS299280217QJ** (S–3XL, US$11.90 landed). Brand line/positioning → `../BRAND.md`; funnel → `../FUNNEL.md`.

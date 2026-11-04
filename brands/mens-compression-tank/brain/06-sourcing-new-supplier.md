@@ -1,5 +1,7 @@
 # Sourcing — new supplier SKU CJYD323488825YB (added 2026-10-29)
 
+> ❌ **SUPERSEDED 2026-11-04** (Nikita: "do everything Run 2 says"). Run 2 uses SKU **CJDS299280217QJ** (S–3XL, US$11.90 landed) — see `00-overview.md`, `01` §17, `04` §15-D. This file (CJYD323488825YB / sibling 814NM) is history only; do not source from it.
+
 > Source: Nikita's screenshots of the live CJdropshipping listing, 2026-10-29. Everything below is **copied from the listing** (supplier claims, not tested).
 > **Costs are deliberately left out.** Nikita adds unit and shipping costs when the offer is built.
 

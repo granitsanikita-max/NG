@@ -1,4 +1,6 @@
 # PRODUCT — men's compression tank
+
+> ⚠️ **Update 2026-11-04 (daily-tasks, Nikita: "do everything Run 2 says"):** SKU is now **CJDS299280217QJ** (S–3XL, ~US$11.90 landed); launch lead = **G3 post-weight-loss**, big & tall (G4) dropped. The decision table below is the 2026-10-28 product-research read, kept as history.
 > Owned by: Product research & validation. Reads: brain/
 
 ## Decision (2026-10-28): GO to deep research — as a CONDITIONAL COMPETE PLAY
