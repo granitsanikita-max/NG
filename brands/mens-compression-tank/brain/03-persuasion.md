@@ -1,502 +1,525 @@
-# Doc 3 — Persuasion (Men's Compression Slimming Tank)
+# Doc 3 — Persuasion (Deep Research Run 2 — Men's Compression Tank)
 
-> Mirrored verbatim from Notion on 2026-10-29 (source: https://app.notion.com/p/407d53123cd68128bb2ef39e4f0948ee). Notion is the source of truth; formatting converted to markdown only — no content edited or summarised.
+> Verbatim mirror of the Notion page https://app.notion.com/p/40cd53123cd681b9aed0d9b6f1d4f0cc (last edited 2026-11-02), copied 2026-11-04. Notion is the source of truth; formatting converted to Markdown.
 
-**Folder:** [Men's Compression Slimming Tank — Step 1 Research (2026-10-28)](https://app.notion.com/p/407d53123cd6817187dbc91861161563)
+**Folder:** Deep Research Run 2 — Men's Compression Tank
 
 ## Top 5 takeaways
 
-1. **Lead mechanism: "extra skin can't shrink — you don't squeeze it, you hold it flat."**
-   - Backed by: 96% surplus skin after gastric bypass; 78% of men have it at the abdomen; surgeons say compression doesn't tighten skin but "create[s] a firmer appearance while being worn".
-   - → Make it the brand's mechanism. Never say "tightens".
-2. **The proof feature ("long cut that stays below the belt") is unproven on our SKU.** Body length, hem and compression strength are unknown (the CJ page is bot-walled).
-   - → **Order a sample (M + XL, black + white).** If it's short or weak, don't launch this SKU.
-3. **His emotional state:** Shame 16 + Fear 17 + Grief 7, sitting next to Pride 9.
-   - → Open on his pride and name the fear. **Never shame** (Meta bans it too). The sale happens at Willingness.
-4. **5 objections are OPEN, with no proof today:** length, real compression, durability, real post-weight-loss customer proof, breathability.
-   - → Film the shirt-on demo, the sit test, the white-shirt test and a 5-wash test before launch. Seed real creators.
-5. **Advertorial spine:** men's support belts from the 1810s to the 1940s faded with looser tailoring. The GLP-1 era is now creating loose skin at scale (Duke: "an explosion of patients").
-   - → Use the forgotten-history "aha". **The LIFE 1937/1939 ad dates are unverifiable — never print them.**
+1. **The lead mechanism: "Squeeze moves it. Hold keeps it."** Squeezing doesn't make soft tissue go away — shapewear "pushes it outward and away from where the shapewear is being worn" (Hourglass Angel); a full-length, even hold with the edge below the soft part avoids it. No men's ad explains this cause (0 of 867); only women's brands do.
+   - → One brand mechanism; each group enters from its own link (G3 skin, G1 muffin top, G2 "tighter isn't flatter", G5 "same weight, new shape").
+2. **It can't run until the sample proves it.** The CJ spec tab is behind a bot check + login; torso length, hem grip and breathing are unknown — and a surgeon warns "a man with a large amount of gland or loose skin may see little change in profile".
+   - → **Order 2 samples (M + XL, white + nude) and film the sit/bend, white-shirt and breathing tests first.** G3 copy says "lies smoother", never "flat".
+3. **The belief chain has 6 steps, and the two that stop the buy are "nothing works" (42) and "surgery is the only fix" (31).**
+   - → Walk every G3 page: it's skin, not failure → no need to wait for surgery → the tanks failed because they squeeze → it's an undershirt, not a girdle → it fits the body you have now → the policy pays you back.
+4. **Men trust their wife (38 mentions) and men who visibly have the problem (32) — never a paid doctor.** ObesetoBeast's loose-skin video has 6.5M views; FatGuyReviews is "the most honest review I've ever seen".
+   - → Disclosed creators who have the problem + surgeons' public honesty ("a tool for the day, not a treatment"); her reaction as the proof moment.
+5. **The story is real history + a named villain:** the "John Bull Belly" (1819), 1920s belts for men "beginning to grow a belly", the Bracer supporter belt into the late '40s — then the FTC-fined "rock hard abs with no sweat" crowd.
+   - → The advertorial spine; it lets us say "it doesn't burn fat" as the hero line.
 
 ---
 
-# 6 · Consciousness level (emotional state)
+# 6 · Consciousness level
 
-Emotion names only from the consciousness map; its numbers are ignored. Counts are Python tallies of the §2C `emotional_state` tag. A snippet can carry more than one emotion.
+**Where the launch man (G3) sits now — §2C emotional-state tags (290 G3 snippets) [S1]:** frustration 34 · **shame 22 · anxiety 22** · pride 22 · grief 15 · fear 10 · embarrassment 6 · hope 17 · relief 25 (the ones who found something that works).  
+On the map: **Shame · Grief · Fear** (the hiding: "I still see the fat guy") sitting right next to **Pride** (the win he earned). That split is the whole story — the pride of the loss, the shame of the shirt.
 
-| Map level | Posting market (Reddit/forums/X, 269 rows) | **W1 post-weight-loss men (163)** | Buyer reviews (312) | What it sounds like |
-| --- | --- | --- | --- | --- |
-| **Shame** (shame + embarrassment) | **32** | **16** | 2 | "Between the sagging skin and the man boobs - I am feeling more self consious now than I did when my skin was taught and I was fatter." ([BariatricPal](https://www.bariatricpal.com/topic/36820-compression-shirts/), VERBATIM) |
-| **Fear** (fear + anxiety) | **29** | **17** | 3 | "Loose skin! I'm terrified I'm going to be left with a bunch of extra skin and that mental strain is really bothering me." ([r/WegovyWeightLoss](https://www.reddit.com/r/WegovyWeightLoss/comments/1dwiu26/curious_to_hear_from_men/), SNIPPET) · "I am worried about if I just get a typical shirt it will ride up" ([r/BariatricSurgery](https://www.reddit.com/r/BariatricSurgery/comments/zwzl82/compression_clothing/), SNIPPET) |
-| **Anger** (anger + frustration) | 26 | 17 | **121** | "It was a waste of money. Doesn't stretch one bit…" ([Amazon](https://www.amazon.com/portal/customer-reviews/srp/-/R1SQZXFWPOROLU)) — anger lives with the *burned buyer*, aimed at products |
-| **Grief** | 7 | **7** | 0 | "I hate that I've done so much work, and made so much progress… but my loose skin around my stomach still" ([r/loseit](https://www.reddit.com/r/loseit/comments/l096hf/loose_skin_is_negatively_impacting_me_and_i_dont/), SNIPPET) · "The loose skin is the legacy that having been big always leaves." ([r/Mounjaro](https://www.reddit.com/r/Mounjaro/comments/1hcc0eh/body_dysmorphia/), SNIPPET) |
-| **Apathy** | 3 | 3 | 2 | "i hate my loose skin especially my chest, where you can see the ghost of my once juicy tits" ([r/loseit "now I'm giving up"](https://www.reddit.com/r/loseit/comments/ebk6yc/21m59_lost_130_lbs_now_im_giving_up_on_getting/), SNIPPET) |
-| **Pride** | 7 | **9** | 30 | "Now, at 235 I look like somebody who works out and takes care of himself. Heck I got pecs for the first time in my life." ([BariatricPal](https://www.bariatricpal.com/topic/235097-ok-might-have-to-turn-in-my-man-card-for-asking-this/), VERBATIM) |
-| Desire · Guilt | 1 · 0 | 1 · 0 | 0 · 1 | rare |
-| *(upper)* Courage · Willingness · Neutrality · Acceptance | 2 · 2 · 12 · 12 | 1 · 2 · 10 · 7 | 0 · 1 · 73 · 3 | "I will never have a six pack, but look much better when I am dressed." ([Zappos 5★](https://www.zappos.com/product/review/7793769#Benjamin-2012-10-02)) |
-| *(off-map)* Relief · Hope | 18 · 6 | 17 · 6 | 70 · 3 | relief = after something worked |
+- Shame: "I'm so sensitive about my moobs that I won't swim without a shirt on." ([BariatricPal](https://www.bariatricpal.com/topic/405216-man-boobs/) · VERBATIM)
+- Grief: "The extra skin after weight loss is so cruel… I am a 6 foot male, that started at 242lbs" ([Reddit](https://www.reddit.com/r/loseit/comments/1evyys6/the_extra_skin_after_weight_loss_is_so_cruel/) · SNIPPET) · "I can't help but be uncomfortable in my (saggy) skin… I look in the mirror, and I don't really like what I see." ([BariatricPal](https://www.bariatricpal.com/topic/345553-i-feel-like-i-look-weird/) · VERBATIM)
+- Fear: "[30M] Anxious about intimacy with loose skin" (Reddit thread title · SNIPPET [S1])
+- Pride: "Now, at 235 I look like somebody who works out and takes care of himself. Heck I got pecs for the first time in my life." ([BariatricPal](https://www.bariatricpal.com/topic/235097-ok-might-have-to-turn-in-my-man-card-for-asking-this/) · VERBATIM)
 
-**Where she sits now (W1 ICP):** **Shame (16) + Fear (17) + Grief (7)**, sitting right next to **Pride (9)** in the weight loss itself.
+**Where the copy moves him:** Shame/Grief → **Courage** ("put the fitted shirt on") → **Willingness** ("try it for 60 days") → **Acceptance** ("this is the body I earned, and it looks right in a shirt"). Never back down into shame (no before/after of the body, no "embarrassing" language) — lean on the pride he already has.
 
-- He is proud of the work and ashamed of what the work left behind: "more self conscious now than when I was fatter".
-- The burned broad buyer sits at **Anger** (121 in reviews), aimed at products that lied.
+**The other groups (same tags):**
 
-**Where the copy moves him:** Shame/Fear → **Courage** ("you already did the hardest thing a body can do") → **Willingness** ("put one under your shirt and look") → **Acceptance** ("the skin is the receipt for the work — and it doesn't have to show in a shirt"). The sale happens at **Willingness**. **Acceptance** is the brand feeling (§4B "the scale isn't the finish line — your shirt is").
+- **G2 chest:** frustration 38 · shame 17 · embarrassment 14 · anxiety 19 · fear 7 → also Shame/Fear; move to Courage ("wear the white tee") — the strongest emotional heat of any group.
+- **G1 belly:** frustration 41 · pride 26 · shame 11 · embarrassment 8 → mostly **Anger/frustration at the gut**, low shame; move to Willingness ("finally a shirt that sits right"). Don't sell hope; sell relief.
+- **G5 50+:** willingness 28 · **acceptance 16** · pride 15 · frustration 12 → already near Acceptance ("I'm 56; my days as a slim young man are over"); move him from Apathy-acceptance to **Pride** ("look sharp, not old").
+- **G4 big & tall:** frustration 36 · willingness 34 → Anger at clothes that don't fit; move to Willingness with size certainty.
 
-**So What → do this:**
-
-- Never push him lower (no shame hooks — also banned by Meta, §2B). Open on his **Pride**, name the **Shame/Fear** honestly ("nobody told you about the skin"), and give him a small, safe **Courage** step.
-- For the burned broad buyer, acknowledge the **Anger** first ("if the last one was a printed T-shirt…") before any claim.
+**So What → do this:** for G3 and G2, write to the man who hides — courage, not shame. For G1 and G5, write to the man who's annoyed — relief, not hope.
 
 ---
 
-# 9 · Beliefs: now → needed (DRAFT — rewritten after §13)
+# 9 · Beliefs: now → needed
 
-**What he believes now** (§2C belief + misconception tags, ranked by count):
+**What he believes now (§2C belief / misconception tags, bank-wide 2,322; G3 in brackets) [S1]:**
 
-- **nothing works (19)** · **"it's just a tight shirt" (18)** · **compression only works while it's on (16)** · **only surgery fixes loose skin (12)** · **men don't wear shapewear (11)** · loose skin goes away with exercise (6) · compression tightens skin (5) · it's all fat (5) · compression burns fat (5) · age is inevitable (5) · it's genetic (4) · it's my own fault / lazy (4) · GLP-1 is cheating (2).
-- Real quotes:
-  - "Many people mistake loose skin for fat and think that if they lose enough, it will go away." ([r/Mounjaro](https://www.reddit.com/r/Mounjaro/comments/1jbpsov/is_my_goal_weight_unrealistic/), SNIPPET)
-  - "the only thing that can fix loose skin is surgery. start documenting with your PCP." ([r/gastricsleeve](https://www.reddit.com/r/gastricsleeve/comments/1d8osye/loose_skin_and_compression_shirts/), SNIPPET)
-  - "But you literally ARE wearing a girdle…" ([r/mensfashion](https://www.reddit.com/r/mensfashion/comments/1onti5k/can_you_tell_im_wearing_shapewear/), SNIPPET)
-
-**What he must believe to buy:**
-
-1. What's left is skin, not failure.
-2. He can look right in a shirt *now*, without surgery.
-3. The shirts he tried failed for a fixable reason.
-4. It's a man's undershirt, not a girdle.
-5. It will fit his body.
-6. He won't lose money finding out.
-
-**How we change it:** UMP (§13) for #1–#3 · voice and product look for #4 · fit system + offer for #5–#6 (§11, §15).
-
-**The One Belief (DRAFT, working name — repointed in §10A and ✅ REWRITTEN at the end of §13, below):**<br>*"This new opportunity — holding the extra skin flat instead of squeezing it — is the key to looking flat and normal in your shirt (top surface desire: look flat in shirt, 56 snippets), and it's only attainable through the long-cut, hold-flat compression undershirt (working name)."*
-
-**So What → do this:** every ad, page and email must walk him from "nothing works / it's just a tight shirt / only surgery" to the One Belief. If a piece of copy doesn't move one of those beliefs, cut it.
-
----
-
-# 9B · The Belief Chain (North Star — persuasion order)
-
-Each belief shows: what he believes now (quote + §2C count) → the belief he needs → the proof that moves him. The proof column was filled after §11 and §13; §13's last step re-checked this chain.
-
-| # | "I believe that…" | Now (count + quote) | Proof that moves him |
+| Belief now | # bank (G3) | What he must believe instead | How we change it |
 | --- | --- | --- | --- |
-| 1 | **…the soft chest and belly I still have isn't fat I failed to lose — it's extra skin the scale can't move.** | it's all fat (5) + goes away with exercise (6) + own fault (4) = 15. "Many people mistake loose skin for fat…" (r/Mounjaro) | Healthline: stretched collagen/elastin "lose some of their ability to retract" · Aesthetic Society surgeon: "the only option is to have the excess skin removed surgically" when the loss is large · 78% of men report abdominal excess skin after bariatric surgery (§13) |
-| 2 | **…I don't have to wait for (or pay for) surgery to look right in a shirt.** | surgery is the only fix (12) + only surgery works (2) = 14. "the only thing that can fix loose skin is surgery" (r/gastricsleeve) | Surgeon (Jim Brantner MD): compression can "create a firmer appearance while being worn" · 10 user quotes, e.g. "Compression shirts are what I used up until the skin removal and they worked great for me." (§13) · shirt-on with/without demo (CAN CREATE) |
-| 3 | **…the shirts I tried failed because they squeeze one spot and ride up — not because compression can't work.** | nothing works (19) + just a tight shirt (18) + compression only works temporarily (16). "constantly rides up due to length" (ObesityHelp) | Rolls up/too short = 30 objection tags; Amazon's QORE summary: "good length that keeps shirts tucked in and doesn't ride up" · our sit/bend/arms-up test on film (**CAN CREATE — only if the sample passes**) |
-| 4 | **…a man can wear this under a T-shirt and nobody will know — it's an undershirt, not a girdle.** | men don't wear shapewear (11) + looks like a bra/feminine (8) = 19. "I was skeptical about buying this product because I would feel like a woman." (Zappos) | Peer voice: "Amen brotha. I wear these under my work shirts all the time" (BariatricPal) · 49 "hide it invisibly" desire tags · white-shirt opacity test (CAN CREATE) |
-| 5 | **…this one will fit MY body — and keep fitting while I keep losing.** | sizing wrong (70) — the #2 objection. "I recommend sizing up at least 2, maybe even 3 sizes." (Amazon) | Fit-finder by height + chest + waist (CAN CREATE) · free size-down swap as he loses (offer, §15) · "went from needing 2x… to wearing L now" (BariatricPal) |
-| 6 | **…if it doesn't work on me, I get my money back without a fight.** | refund hassle (23) + scam (36) + wasted money (31). "they offered to refund only 40% if I kept the items… and they hung up on me" (Trustpilot 1★) | A plain guarantee in plain words (CAN CREATE) · stated real delivery dates (HAVE NOW: 1–3 day processing + 4–9 days CJPacket) |
+| "Compression works — but only while I wear it" | **64** (19) | "That's exactly the job: look right in the shirt *while it's on*" | Agree with it. It's true, and it's the honest frame no competitor uses (§4B) |
+| "Aging is inevitable" | 45 (3) — G5 25 | "My body changed, but how my shirt sits doesn't have to" | Shirt-on demo on a 55–65-year-old man |
+| "Nothing works" | 42 (11) | "The ones I tried failed for a reason I can see" | §13 mechanism: squeeze moves it, hold keeps it |
+| "Surgery is the only real fix" | 31 (12) — G2 15 | "Surgery fixes the body; a garment fixes the shirt — and I can have the shirt today" | Surgeon quote on what compression can and can't do (§12, §13) |
+| "Men don't wear shapewear / it's a girdle" | 27 (3) | "It's an undershirt — the kind athletes and post-op patients wear" | Words (§14): "undershirt", never "shapewear / girdle / body shaper" |
+| "It's genetic / it's hormones" | 15 / 11 | "Whatever caused it, the shirt can still lie flat" | Don't argue the cause — move to the shirt |
+| "It's my fault / I'm lazy" | 13 | "I did the work" (G3) / "I came by it honestly" (G1) | Achievement words; never shame |
+| Misconception: "Loose skin goes away with exercise" | 11 (11) | "Skin stretched for years can't fully retract" | Healthline / Aesthetic Society / Brantner MD (§13) |
+| Misconception: "It's all fat — it'll go if I lose more" | 15 (9) | "Some of it is skin (or gland) the scale can't move" | Cleveland Clinic: fat, gland or both (§13) |
+| Misconception: "Compression burns fat / tightens skin" | 17 / 5 | "It holds; it doesn't burn or tighten" | Say it before he asks (§2B honesty) |
+| Misconception: "It's just a tight shirt" | 19 | "Where the pressure goes is the difference" | §13 mechanism + sit/bend proof |
 
-**→ leads to the One Belief:** holding the extra skin flat (not squeezing it) is how he finally looks flat and normal in his shirt (rewritten in §13).
+**The One Belief (DRAFT — rewritten at the end of §13):**  
+*"This new opportunity — ****holding the leftover flat instead of trying to shrink it**** — is the key to ****looking flat in a shirt**** (#1 desire, 363 snippets), and it's only attainable through ****a long-cut, even-hold undershirt that stays below the belt****."*
+
+**So What → do this:** don't fight his top belief — **agree with it** ("it only works while you wear it — that's the point"). Fight the two that stop the buy: "nothing works" and "surgery is the only fix".
+
+---
+
+# 9B · The Belief Chain (North Star) — the launch man (G3)
+
+| # | "I believe that…" | What he believes now (quote + count) | The proof that moves him (from §11 / §13) |
+| --- | --- | --- | --- |
+| 1 | **"…what's left isn't fat I failed to lose — it's skin the scale can't move."** | "When do my man boobs go away?" ([Reddit](https://www.reddit.com/r/loseit/comments/1djwhvc/when_do_my_man_boobs_go_away/) · SNIPPET) — it's-all-fat 9 + loose-skin-goes-away 11 (G3) | Healthline / The Aesthetic Society: stretched skin loses its ability to retract; the only way to tighten it is surgery (§13, Doc 3 sources) |
+| 2 | **"…I don't have to wait for surgery to look right in a shirt."** | "I'm glad I have another solution to keep me at ease until I can afford this surgery down the line." ([gynecomastia.org](http://gynecomastia.org) · VERBATIM) — surgery-only 12 (G3), 31 bank | Brantner MD: compression makes "sagging skin appear more held in while you are wearing them" + men's shirt-on quotes (§12, §13) |
+| 3 | **"…the tanks I tried failed because they squeeze and ride up — not because compression can't work (and tighter isn't flatter)."** | "they actually lift up my belly and make it stick out more" ([YouTube](https://www.youtube.com/watch?v=WH0B9itUICY) · VERBATIM) — rolls up 66, too short 66, not strong enough 156 bank | Surgeon: "Compression pushes tissue sideways and down… a full-length body so the shirt stays in place" + **sit/bend film (needs the sample)** (§13) |
+| 4 | **"…a men's undershirt isn't a girdle, and nobody will see it."** | "most guys would react funny to the word "girdle"" (Styleforum · VERBATIM) — men-don't-wear-shapewear 27; shows lines 26 | Undershirt language + **white-shirt test (needs the sample)** (§11, §14) |
+| 5 | **"…this one will fit the body I have now — and the one I'll have in three months."** | "Getting ready to order next size down." ([Trustpilot](https://www.trustpilot.com/reviews/6ade20e76f8e42355688da65) · VERBATIM) — sizing wrong 261 bank, 13 G3; price 14 G3 | Measured size finder + free size-down swap (§11, §15) |
+| 6 | **"…if it doesn't work for me, I get my money back without a fight."** | "Complete scam First order they sent 3 sizes too small… Fooled me again" ([Trustpilot 1★](https://www.trustpilot.com/reviews/6a9bd85b4a9ffd51b81ad8d5) · VERBATIM) — scam/trust 137, returned it 75 | A guarantee whose policy says the same as the page (§15) — shown as an offer term, not a "trust us" claim |
+
+**So What → do this:** every G3 ad and page walks beliefs 1 → 6 in this order *before* the price. Beliefs 3 and 4 hang on the sample — film it first.
 
 ---
 
 # 11 · Objections → answers
 
-Ranked by §2C objection count. Each proof is tagged **HAVE NOW** · **CAN CREATE before launch** · **DON'T HAVE** (→ flagged **OPEN**).
+**Power move — raise the most obvious flaw first:** *"It only works while you're wearing it. It won't melt fat, tighten skin or fix gyno. It's the shirt under your shirt — and while it's on, your shirt sits flat."* Men already believe this (the #1 belief, 64 snippets); buyers punish the fat-melting claim the market makes (§10B). Saying it first reads as the only straight answer in the category. Second flaw to own: **it's a tank** — "the crew neck shirt will help the most, the sleeveless ones a bit less" (r/bigmenfashionadvice · SNIPPET [S1]); flip it with the chest-band proof on the sample, or add a crew/T version later.
 
-**Power move — raise the obvious flaw first:** *"It's tight. The first time you put it on, it's a fight — that's how you know it's actually compressing. Step into it, don't pull it over your head."* Reviewers flip it themselves: "Took a little to put on and take off but isn't that the point?" (TAILONG Amazon excerpt, seen on the page). The second flaw to own: **"It won't fix your skin. It fixes how your shirt looks."**
+Ranked by §2C count (2,322 snippets; G3 count in brackets). Proof tags: **HAVE NOW · CAN CREATE** before launch · **DON'T HAVE** (= OPEN).
 
-| Her worry, in her words | Kill it with proof (count · proof · tag) |
+| Her worry (her words) | The answer (count · proof · tag) |
 | --- | --- |
-| **"It doesn't actually compress — it's just a T-shirt."** "The part that's supposed to compress the chest is so loose it actually stands away from me" ([Amazon](https://www.amazon.com/portal/customer-reviews/srp/-/R1FTZ17ATZMWRK)) · "This is just a pull over t-shirt. No compression & the advertising is all false." ([Trustpilot 1★](https://www.trustpilot.com/reviews/6ad7a11f2d969fd772f1e578)) | **73 + 36 (scam/ad lied) = #1.** Proof: a shirt-on with/without demo on a real 40–60 man, same plain tee, sitting and standing, uncut — plus a stretch test showing the panel, not a print. The fabric % on the page. **CAN CREATE** (sample needed). ⚠ If the CJ sample turns out to be light compression, this answer fails → don't launch on this SKU |
-| **"Sizing is wrong — I can't trust the chart."** "seem 2 to 3 sizes to small if your somewhat muscular" ([Amazon](https://www.amazon.com/portal/customer-reviews/srp/-/RN8GROH913N01)) | **70.** Proof: our own measured chart (height + chest + waist, not weight bands), a fit-finder, and **free size exchange**, with the size-down swap as he keeps losing (§15). **CAN CREATE** — needs the sample measured in M and XL |
-| **"I can't get it on (or off)."** "I used a little spray fabric softener to make the vest easier to put on" ([Amazon](https://www.amazon.com/portal/customer-reviews/srp/-/RMT4ZEUMURY22)) | **40.** Proof: a 20-second "step in, roll up, arms through" video + an insert card. "The instructions on how to put it on are spot-on" is praised on Amazon (rev-155). **CAN CREATE** |
-| **"It's a scam / the ad lied."** "nothing but a gimmick to get your money" (rev-270, Walmart 2★) | **36.** Proof: we claim less, not more — no weight loss, no "ionic", no trim models (§2B), and real delivery dates. ⚠ Per Nikita's rule this is shown by **what we don't claim and what we demo**, never by saying "we're honest / not a scam". **CAN CREATE** |
-| **Price.** "I have had to replace this 3 times this year." ([Amazon](https://www.amazon.com/portal/customer-reviews/srp/-/R2C0NPH32SCWI0)) · "at $20 a shirt that adds up quick" (BariatricPal) | **33.** Proof: per-wear maths on a 3-pack (wear one / wash one / spare), and the size-down swap means he doesn't re-buy every size as he shrinks (§15). **CAN CREATE** (offer) |
-| **"Too tight — I can't breathe."** "it does the job, but it takes your breath away!" ([Amazon](https://www.amazon.com/portal/customer-reviews/srp/-/R14HTK0DIHJKFZ)) | **26.** Proof: honest fit guidance ("snug, not painful — if you can't breathe, size up; exchange is free"). **CAN CREATE.** Comfort spec is **OPEN** until the sample is worn 8+ hours |
-| **"They won't give my money back."** "Their refund policy is less than stellar, store credit only" ([Trustpilot 2★](https://www.trustpilot.com/reviews/6a4720dbc33936f52b6f85a7)) | **23.** Proof: a plain-English guarantee — the window, money back (not store credit), and who pays return postage — written in 3 lines. **CAN CREATE** (Step 2 sets the terms) |
-| **"It stretches out / falls apart."** "the stitching came apart after wearing it twice" ([Amazon](https://www.amazon.com/portal/customer-reviews/srp/-/R1WYHKSMHFYSST)) | **20.** Proof: a 5-wash test on the sample (filmed before/after stretch) + care card. **CAN CREATE**. Long-term durability = **DON'T HAVE → OPEN** (no history yet) |
-| **"Too short / rolls up when I sit."** "too short keeps riding up" ([Trustpilot 2★](https://www.trustpilot.com/reviews/6ad1309b9bb876189468fd06)) · "barely goes past my waist" ([Walmart 2★](https://www.walmart.com/reviews/product/20228856788)) | **17 + 13 = 30 tag hits; 36 long-torso needs.** Proof: the sit/bend/arms-up test on film + the body length per size (cm) printed on the page. **CAN CREATE ONLY IF the sample is long enough.** CJ body length is unknown → **OPEN until the sample is measured.** This is the single biggest product risk |
-| **"It ships from China and arrives too late."** "i ordered for an event.... they will not arrive in time" ([Trustpilot 2★](https://www.trustpilot.com/reviews/6ad10a85e8ed04271b955e0e)) | **14.** Proof: real dates on the PDP ("ships in 1–3 days, arrives in 4–9 business days" for CJPacket). No "this weekend" urgency. **HAVE NOW** (CJ timings) — but event buyers are partly **OPEN** (no US warehouse stock) |
-| **"It shows through my shirt."** "Very discrete if you wear the black one with dark clothing" ([Amazon](https://www.amazon.com/portal/customer-reviews/srp/-/R11AOKEOOXXEUH)) | **11.** Proof: a white/nude tank under a white dress shirt, on camera. **CAN CREATE** (sample: opacity and strap width unknown) |
-| **"Itchy / it chafes."** "Warning to those with sensory issues" ([Trustpilot 1★](https://www.trustpilot.com/reviews/6ab705aea5138ae23dc3070c)) | **11.** Proof: seam/tag placement shown close-up; fabric %. **CAN CREATE** after the sample wear test |
-| **"It only hides it — doesn't fix it."** "the stomach area? not so much, but I'm happy with two out of three" ([Walmart 5★](https://www.walmart.com/reviews/product/1765779578)) | **9.** Answer: own it — "It won't fix your skin. It fixes how your shirt looks — today, while you decide what's next." **HAVE NOW** (it's the true claim, §2B) |
-| **"It feels like a girdle / a bra."** "It's like what pantyhose feels like under clothes" (BariatricPal 36820) | **8 (+11 men-don't-wear-shapewear beliefs).** Proof: it looks and is named like an undershirt (tank, black/grey/navy). The voice is man-to-man, and men vouch: "Amen brotha. I wear these under my work shirts all the time." **CAN CREATE** (brand + creative) |
-| **"Too hot."** "without having to wear and entire shirt (too hot)" (BariatricPal 434635) | **8.** Proof: it's sleeveless and 180 g (HAVE NOW). The breathability claim is **OPEN** until the fabric is known (§2B: say "breathable" only with the spec). Summer is the peak month (Doc 1 §0B), so this must be answered |
-| **"No one answers."** "no reasonable customer service or response" ([Trustpilot 1★](https://www.trustpilot.com/reviews/6ad010aefe8713ab72b34908)) | **7.** Proof: a stated reply time — only if Nikita can staff it. **CAN CREATE** (operational, not a trust slogan) |
-| **"I'm embarrassed to buy it."** "I was skeptical about buying this product because I would feel like a woman." ([Zappos](https://www.zappos.com/product/review/7793769#Chubby_I-2013-01-03)) | **4.** Proof: discreet packaging + a plain billing name. **CAN CREATE** (Step 2) |
-| **"It makes me look worse."** "it honestly makes him look fatter and rounder" ([Trustpilot 1★](https://www.trustpilot.com/reviews/6aa644a7c6209c7b086b9b88)) | **4.** Proof: the fit-finder (wrong size causes this) + free exchange. **CAN CREATE** |
-| *Checklist:* **"For someone like me?"** (post-weight-loss / big frame) | 25 big-sizes needs + 36 long-torso needs + the W1 voice (163 rows). Proof: UGC from real post-weight-loss men — **DON'T HAVE** today → **OPEN** (needs seeded creators or first buyers; never invented — 16 CFR 465) |
-| *Checklist:* **Time to results** | Only 1 snippet ("The effect is not immediate as they advertise", rev-197). Answer: "the moment it's on" — appearance while worn, which the demo shows. **HAVE NOW** (true by nature) |
-| *Checklist:* **Upkeep / cost over time** | Price 33 + durability 20 + shrinking ("too big within a few months"). Proof: care card + size-down swap. **CAN CREATE** |
-| *Checklist:* **Looks** | covered by shows lines (11) + feminine (8) above |
+| **"Will it even fit me? Size charts lie."** — "Not even close to my size" · "sizes are totally misleading" (Trustpilot / Walmart 1★ [S1]) | **261 (G3 13; G4 29).** A measured size chart from the actual CJ sample — chest, waist and torso length in inches — plus a 3-question fit finder (chest + waist + height; 0 of 25 competitors use all three) and a **free size swap**. CN sizes run 1–2 small, so the chart must be our own measurement, never CJ's. **CAN CREATE** (needs the sample) |
+| **"Will it actually do anything?"** — "does it help with compressing down the moobs? ... To an extent. There is only so much that can be done." (BariatricPal · VERBATIM) | **156 (G3 9; G1 23).** Same man, same shirt, with/without — front, side, sitting — on a G3, G1 and G2 body. Honest claim: "chest and belly look flatter under a shirt while it's on". **CAN CREATE** (sample + 3 men) |
+| **"Is this a scam? Will I get my money back?"** — "Fooled me again and reordered and never received the order again." (quoted in §9B) · "They offered 50% of the product cost, minus the…" (Trustpilot 2★ [S1]) | **137 + refund hassle 23 + no service 7.** **No subscription — one charge, and unretouched shirt-on photos** (r/Workwear already calls the leader's before/afters "clearly manipulated" and "ionic shaping" "pseudoscientific buzzwords" — product-pulse, §20). A guarantee whose **policy says exactly what the page says** (worn is OK, full refund, prepaid US return label or keep-it for small orders, like Esteem) — 13 of 22 competitor guarantees are contradicted by their own policy (§15). **No subscription, no "program" add-on.** Unedited reviews: **DON'T HAVE → OPEN** until real buyers review. Never sell "trust us" as the lever (Nikita's rule) — show the policy, don't brag about it. **CAN CREATE** (policy) / **OPEN** (reviews) |
+| **"It's just an overpriced tank top."** — "Buyer Beware It's just a very lightweight wife-beater." (quoted in §4B) · "just a expensive t shirts" (Trustpilot [S1]) | **135 (G3 14 — "my size keeps changing").** Show the knit zones on a spec photo + side-by-side vs a plain tank under the same shirt. Price it in the market middle ($34.95 / 2+1 $69.90 — §15), never the $10 floor; the size-down swap answers "I'll shrink out of it". **CAN CREATE** |
+| **"I won't be able to breathe."** — "Yeah compression shirts are the worst they suffocate you it feels." ([gynecomastia.org](http://gynecomastia.org) · VERBATIM [S1]) | **87 (G2 14).** "Firm, not a binder" — film a man wearing it all day (sit, eat, drive); fit guide = true size, not two sizes down. Binder-harm studies are why we say "firm, even hold", never "maximum compression" (§13). **CAN CREATE** (only if the sample passes a normal-breathing test) |
+| **"It's a nightmare to get on."** — "to make you fight, wrestle, agonize, sweat, and struggle to the the thing off and on" (YouTube · VERBATIM [S1]) | **83 (G3 7).** A 10-second "step in and pull up" GIF — reviewers' own tip: "You put them on by stepping into them from the top, not pulling it down." (YouTube · VERBATIM [S1]). **CAN CREATE** |
+| **"It'll fall apart / stretch out."** — "coming apart at the seams" · "pilling makes them look old" (Trustpilot [S1]) | **69.** 20-wash test video + a durability promise inside the guarantee (Built Different does 180-day wash & wear). **CAN CREATE** (needs time — start washing the sample now) |
+| **"It'll roll up / ride up."** — "kept coming up over my belly. That defeats the purpose" (Trustpilot [S1]) | **66 (G3 7; G4 12).** The sit/bend/arms-up film, after 8 hours. This is belief 3 of §9B and the whole mechanism — **CAN CREATE only if the sample's hem stays down; if it doesn't, DON'T HAVE → OPEN and don't run the mechanism** |
+| **"It'll be too short."** — "If I wanted a crop top" (Amazon [S1]) | **66 (G4 14).** Torso length in inches on the PDP for every size, measured. **CAN CREATE / DON'T HAVE if the sample is short** |
+| **"It'll show under my shirt."** — "It is very noticeable im wearing a tank top underneath a t shirt and it seems very off." (r/gynecomastia · SNIPPET [S1]) | **26 (G2 4).** White-shirt + polo test photos in nude/beige; "sand under light shirts, black under dark" colour logic (InShape does it — make it a named kit). **CAN CREATE** |
+| **"It'll be too hot."** — "The compression stuff makes me too hot and I sweat like crazy." (Reddit · SNIPPET [S1]) | **28 (G2 8).** Breathable claim only with the real fiber % and a summer wear test. **DON'T HAVE → OPEN** until the fabric spec is known |
+| **"It chafes."** — "these chaff the nips" (YouTube · VERBATIM [S1]) | **28.** Seam/edge close-up on the sample; honest note in the FAQ. **CAN CREATE** |
+| **"Shipping from China takes forever."** — "took nearly three weeks" (Trustpilot [S1]) | **26.** State the real window up front (1–3 days processing + 4–9 days CJPacket = 5–12 business days). **HAVE NOW** |
+| **"It's a girdle / a bra — men don't wear this."** — "most guys would react funny to the word "girdle"" (Styleforum · VERBATIM, quoted in §9B) | **23 + belief 27.** Words: "undershirt", "compression shirt" — never shapewear/girdle/body shaper (§14). Male talent, a shirt-and-tie context, "the shirt athletes and post-op patients wear". **HAVE NOW** (copy) |
+| **"Will it work on a lot of loose skin?"** (G3 limit, §20) — "Compression pushes tissue sideways and down, so a man with a large amount of gland or loose skin may see little change in profile." (Dr. Moeinolmolki · VERBATIM) | **G3 5 + surgeon limit.** Honest scope: "For a big apron of skin it smooths the line under a shirt — it won't make it disappear." Show a real big-loss man, not a model. **CAN CREATE** (casting) |
+| **"It just hides it — it doesn't fix anything."** — "everything is just "covering the problem"" (Reddit · SNIPPET [S1]) | **19 (G3 5).** Agree: "Right. It's a shirt. The fix for skin is surgery; the fix for your shirt is this." (surgeon quotes, §12/§13). **HAVE NOW** |
+| **"I'd be embarrassed to buy it."** — "I can't really do mail order, want to look at them in person first." ([gynecomastia.org](http://gynecomastia.org) · VERBATIM [S1]) | **7.** Discreet plain packaging + "Imported undershirt" on the label. **CAN CREATE** |
+| **"It'll make my belly look worse."** — "made my abdomen look even bigger from the over compression" (quoted in §10) | **4 (G1 3).** The mechanism: a hold that runs below the belt so nothing is pushed out the bottom — side-view proof on a G1 belly. **CAN CREATE (sample-dependent)** |
+| **"Is it bad for me?"** — "I wonder whether the compression could somehow make the gyne worse over time" ([gynecomastia.org](http://gynecomastia.org) · VERBATIM, quoted in §10) | **1–3.** A surgeon's line that a well-fitted garment "will do no harm" ([gynecomastia.org](http://gynecomastia.org) Ask-a-Doctor, §12) + true-size fit. **HAVE NOW** |
+| **Checklist sweep:** "for someone like me?" | Group-specific proof: a G3 man (down 80+ lb), a G2 man (white tee), a G1 dad (tucked polo), a G5 man 55+ (dress shirt). **CAN CREATE** (UGC / casting) |
+| **"How long until I see results?"** | **Instantly — the moment it's on.** The only "time to result" claim we can make, and the only one the category's "visible transformation within 30 days" can't. **HAVE NOW** |
+| **Upkeep / cost over time** | Machine wash cold, hang dry (confirm on the sample label); a 3-pack = wear one, wash one, spare. **CAN CREATE** |
 
-**OPEN (no answer until something exists):**
-
-1. **Body length / anti-roll** — needs the sample.
-2. **Real compression strength** — needs the sample.
-3. **Long-term durability** — needs time.
-4. **Real post-weight-loss customer proof** — needs first buyers or seeded creators.
-5. **Breathability claim** — needs the fabric spec.
-
-## 🔒 LOCK — §2, §4 and §4B, updated with what §10–§11 found
-
-**§2 wedge — LOCKED: "Lost the weight — but it still shows," for US men after big weight loss, led by LOOSE SKIN (chest second).** The *market* is unchanged (US men's torso compression undershirts), so §0–§11 stand and there's no redo. What changed from the draft:
-
-1. **Loose skin first, chest second.** In W1 posts, loose skin appears in 83 of 110 social rows vs chest in 19. The draft said "loose skin + chest" — chest now supports, it doesn't lead.
-2. **He's solution-aware and product-burned**, not naive: UA/athletic compression 30 tags, "rides up" 30, "just a tight shirt" 18. So the wedge has to arrive with a mechanism (§13), not just an avatar.
-3. **Honest size check:** W1 is 3% of buyer reviews (10 of 308) but 28% of what we collected and ~11–12M men by population (KFF/Gallup) → it's a real **market**, but the people who *buy on Amazon today* are mostly the broad man. **So the launch test must run one broad "your shirt fits right" control angle next to the W1 angles.** If W1 doesn't beat it, the brand keeps the identity and shifts its lead avatar to sub-avatar #1 (Doc 2 §3A).
-4. **Uncontested re-checked — ⚠ OVERTURNED in §20:** a fresh US sweep found 0 of 120 first-page ads for "extra skin / after weight loss / ozempic / glp-1 / bariatric / skin removal" targeting men; Aida openly *denies* loose skin ("A lot of it isn't loose skin or fat. It's fluid…"). Partial overlaps only: one Selure persona ad, InShape's one line "No More Loose Skin" (§20 B re-checks).
-
-**§4 contrast — LOCKED** with one sharpening: #4 (offer shape) and #5 (page) now answer the top 4 anxieties directly — **fit-finder + size-down swap** (sizing 70), **step-in instructions** (hard to put on 40), **visible-compression demo** (not strong enough 73 + scam 36).
-
-**§4B identity — LOCKED.** The 1★ reviews confirmed the enemy: **the miracle shirt** — "a printed pattern that looks like the elastic webbing in the ads", "advertising is all false" (not-strong-enough 73 + scam 36 = the #1 and #4 objections).
-
-- What changed: the enemy now names the category's **false promise** (weight loss / ionic / 2x slimmer / printed "compression").
-- What we stand FOR is phrased so it never becomes a trust/honesty *lever* (Nikita's rule). We show what we don't claim; we never say "trust us".
-- **Locked line (reworded in §20):** *"We are the blunt, proud brand that stands FOR 'the scale isn't the finish line — your shirt is' and AGAINST the miracle shirt — the compression undershirt that holds the extra skin flat, for men who already lost the weight."*
-- **§20 correction to this lock:** the deeper adversarial sweep found **InShape's "men after GLP-1" loose-skin funnel (live since 2026-10-13, ≥8 ads)** and **Selure's "Arthur" persona (12 of 26 ads)**. So the wedge is **contested-early, not uncontested**. The MARKET choice stands — it is still the least-owned real market, and the alternatives are red (gyno) or product-blocked (big & tall). But the differentiation moves from *angle* to *mechanism + offer + speed*, and the brand line was reworded away from InShape's "You did the work. Let your shirt show it."
-
-**So What → do this:** the wedge, contrast and identity are locked. The two things that can still kill the plan are the **sample** (length + real compression) and the **W1 vs broad ad test**. Both are on the next-action list.
+**Still OPEN (not answered until we have them):** real reviews for a new store · the hot/breathable proof · and — until the sample passes — the stay-down and invisible-under-white proofs.
 
 ---
 
-# 12 · Authority figure — who HE actually trusts
+## LOCK §2, §4 and §4B (what §10–§11 changed)
 
-Ranked by the §2C `authority` tag (581 rows, 92 tagged). **He doesn't trust doctors for this. He trusts men who've been there, the brands he already wears, and his partner.**
+**§2 — LOCKED. Market unchanged: G3, "Lost the weight — but it still shows."** No redo of §0–§11 needed. What changed from the draft:
 
-| # | Authority · type | §2C count | Reach | A quote showing he trusts them | How we borrow it (without implying endorsement) |
-| --- | --- | --- | --- | --- | --- |
-| 1 | **His partner** (wife / girlfriend / fiancée) · partner | **31** (wife 26 · girlfriend 3 · fiancé(e) 2) | 44–56% of competitor store visitors are women (SimilarWeb, Doc 1 §1D) | "As my wife would say, "good purchase!"" ([Amazon](https://www.amazon.com/portal/customer-reviews/srp/-/RM5CUS0DWOTSZ)) · "My daughters wedding was coming up and she suggested I wear it under my suit… I felt like a new man." ([London Corset Co. review](https://thelondoncorsetcompany.co.uk/blog/innovative-shapewear-for-men), VERBATIM) | Put **her reaction** in the creative ("she noticed before I said anything"), and add a gift path for her. Real partner quotes only, never invented |
-| 2 | **Fellow sufferers — men who lost the weight** · community | **15** (fellow sufferer 13 · r/loseit 1 · r/weddings 1) | r/loseit **4.2M** members, r/BariatricSurgery ~30k (GummySearch snapshots ≤2025-11) [S1]; BariatricPal Guys' Room "For Just Us Guys" 1.3k replies / 120.4k views [S2] | "Has great compression and support for anyone that has been on a weight loss journey and has extra skin this is great for that!" ([Walmart 5★](https://www.walmart.com/reviews/product/20248512385)) · "Amen brotha. I wear these under my work shirts all the time" ([BariatricPal](https://www.bariatricpal.com/topic/36820-compression-shirts/), VERBATIM) | **Real post-weight-loss men as UGC creators** (disclosed paid partnerships per 16 CFR 255). The brand story is built on their words ("we read 581 posts and reviews"). Never use subreddit logos or claim "Reddit-approved" |
-| 3 | **Under Armour** (athletic compression) · brand he already wears | **14** | mainstream | "I went with under armour. first impression WOW freakin WOW" (BariatricPal 36820) | Category comparison only — "gym compression is cut short for workouts; this is cut long for your shirt". **No name or logo in ads** (trademark) |
-| 4 | **Underworks** (medical-style binders, Made in USA) · legacy brand | **11** | 0 US Meta ads found (may be under-indexed) | "I wear Underworks chest binders tank tops (model 997) mostly for gynecomastia, but they definitely help with my loose skin from weight loss too" ([r/bigmenfashionadvice](https://www.reddit.com/r/bigmenfashionadvice/comments/1jy6y2v/has_anyone_bought_shaper_vests_and_are_they_worth/), SNIPPET) | Borrow the *ideas* he trusts in it: full front panel, no lines. No name |
-| 5 | **Spanx for Men** · premium yardstick | **8** | — | "I use the men's tank top Spanx for my saggy chest skin and I love it" ([r/BariatricSurgery](https://www.reddit.com/r/BariatricSurgery/comments/1lpztb0/mens_undershirts_to_fight_loose_skin_sag/), SNIPPET) | Price anchor in his own words ("the $78 one"). No name in ads |
-| (low) | **Doctors** (PCP, plastic surgeon) · doctor | **3** | Dr. Anthony Youn has 5.57M YouTube subscribers and 8.5M TikTok followers [S3] SNIPPET, **but 0 of 581 snippets cite him** | "the only thing that can fix loose skin is surgery. start documenting with your PCP." ([r/gastricsleeve](https://www.reddit.com/r/gastricsleeve/comments/1d8osye/loose_skin_and_compression_shirts/), SNIPPET) — doctors are trusted as **surgery gatekeepers**, not as recommenders of compression | Use surgeons only as **cited public facts** that make our small claim stronger: "Compression garments do not physically shrink or tighten your loose skin… they can… create a firmer appearance while being worn" (Jim Brantner MD) [S4] SNIPPET-confirmed. **Never** a doctor persona, never "doctor-recommended" (§2B) |
+1. **The competition is bigger than the first count showed (§20).** ≥21 live G3 garment ads from InShape, Selure and Alphacore; InShape's page names GLP-1 and Alphacore's *ads* do; both already use the honest "won't tighten skin" line. All three are small by revenue and the biggest player doesn't run it — so G3 stays the **least-owned painkiller, contested and crowding**, not red and not white space.
+2. **The real gap lives in the objections, not the angle:** fit (261), strength (156) and trust (137) are the top three for every group, and G3 adds two of its own — **"my size keeps changing"** and price for something he'll shrink out of (G3 price 14). → The offer, not the angle, is the moat: **a size-down swap + measured fit + a policy-true guarantee** (nobody has all three; nobody has the swap).
+3. **The G3 man's chest matters as much as his belly** (chest-shows 80 of 290 G3 snippets, loose skin 192). Lead creative must show both.
 
-**So What → do this:**
+**§4 — LOCKED with one change:** contrast #4 (offer shape) is now the sharpest one — the market's "$10 last sizes / no questions asked" vs our "measured fit, free size swap, the policy says what the page says". Contrast #3 (claim type) holds against the big players but is no longer unique (InShape's page, Alphacore's ads) — so it must be paired with the mechanism and the proof.
 
-- Borrow trust from **real men who lost the weight** (disclosed UGC) and **the partner's reaction**.
-- Position against the brands he already tried (UA "too short", Spanx "pricey", Underworks "a fight to get on") without naming them.
-- Use doctors only as truth-tellers in footnoted facts.
+**§4B — LOCKED (refined):**
+
+- Enemy: **the miracle shirt** — confirmed by the 1★ data (the ad lied, not the garment; scam/trust is the #1 complaint in 1–2★ rows, 87 of 332).
+- Stand FOR: **"A shirt can't change your body. It can change how you look in your shirt."**
+- Identity repointed at the #1 core desire from §10A (identity / self-image, 545): men who want to **look like the man they actually are now**.
+- Uncopyable: real against North Alpine / Aida / Selure; **InShape and Alphacore already share the honest line**, so our moat = line + mechanism + the size-down swap (nobody has it) + attitude on every surface + speed.
+
+**LOCKED line:** *"We are the ****blunt, dry-funny**** brand that stands FOR ****'a shirt can't change your body — it can change how you look in your shirt'**** and AGAINST ****the miracle shirt**** — the compression undershirt for ****men who want to look like the man they are now****."*  
+G3 ads use the run-1 line as their hook family: **"The scale isn't the finish line. Your shirt is."** (never InShape's "You did the work…").
+
+**So What → do this:** answer **size, strength and scam on the first screen** of every page; the guarantee and the size swap are copy, not fine print. Film the sample before anything that depends on stay-down or white-shirt proof.
+
+---
+
+# 12 · Authority figure
+
+**Top authorities by §2C count (who men actually cite, of 2,322) [S1]:** his **wife / partner 38** (+ girlfriend 3, fiancé 2) · **fellow sufferers 32** · **Under Armour 21** (the compression he already trusts) · **Underworks 17** (the gyno benchmark) · **Spanx 15** · [**gynecomastia.org**](http://gynecomastia.org)** 5** · FatGuyReviews 4. **No brand-paid doctor appears** — doctors show up as truth-tellers who admit limits, never as endorsers.
+
+| # | Who · type | Why he trusts them (quote + source) | How we borrow it (no implied endorsement) |
+| --- | --- | --- | --- |
+| 1 | **His wife** · partner (38) | She is the mirror he checks: "My wife and daughters tell me I look better with one on" ([gynecomastia.org](http://gynecomastia.org) · VERBATIM [S1]) · "Made my husband look 40 again" (Trustpilot, a wife [S1]) | Her reaction as the proof moment in creative ("she noticed before I said anything") — first person from *him*; never target or sell to her (Nikita's exclusion) |
+| 2 | **Fellow sufferers who show it** · creators / peers (32) — G3: **ObesetoBeast** (loose-skin + compression video, **6,533,810 views**); G1/G4: **FatGuyReviews** (187,563 views; "Probably the most honest review I've ever seen"); G2: gyno creators (jorgefleitao, Better Pursuits) | They visibly have the problem: "I'm not convinced… you're a body builder of course it's going to fit you like a glove" (bank row r2sci-031 · VERBATIM) — men reject reviewers who don't. G3 audience phrase: **"this is not loose skin. This is the winner skin."** (2.3K likes [S138]) | Seed product to disclosed creators *with* the problem (16 CFR 255); "winner skin" as a G3 identity frame. Only send to FatGuyReviews once our sample passes our own sit test — he publicly calls out failures |
+| 3 | **Under Armour / Underworks** · the brands he already trusts (21 + 17) | "I'm now using the Underarmour brand of compression shirts… These not only keep things from 'flopping' around they also provide support" ([gynecomastia.org](http://gynecomastia.org) · VERBATIM) · "Before I discovered Underworks, I tried bandages, band-aids, medical tape, duct tape… Nothing really did the job." (bank row r2sci-017 · VERBATIM) | Category framing only ("the old medical-looking compression shirts", "gym compression") — never their trademarks in ads. Their fans' complaints are our spec: UA = short, Underworks = "way too long", girdle-like, hard to get on |
+| 4 | **Surgeons who say a shirt is a tool, not a cure** · doctors as truth-tellers | Dr. Babak Moeinolmolki (Gynecomastia LA, 2026-10-28): "a good shirt is a useful tool for the day, not a treatment" [S126] VERBATIM; Dr. Jeffrey Ditesheim (2026-06-30): "the improvement is cosmetic, not structural or medical" [S125]; [gynecomastia.org](http://gynecomastia.org) Ask-a-Doctor (2010 post): "A compression garment, if properly fitting, will do no harm whatsoever." [S137]; Jim Brantner MD on loose skin [S135] | Quote their *public* lines with links on the landing page: "Surgeons say a shirt can't change your body — only how it sits. So we built the one that sits right." No white coats, no "doctor-recommended" |
+| 5 | **The communities** · [gynecomastia.org](http://gynecomastia.org) (33.7k members), r/gynecomastia (29k), BariatricPal "The Guys' Room", r/bigmenfashionadvice (71k), r/Zepbound / r/Mounjaro | 24 of 47 science-lane G2 rows came from [gynecomastia.org](http://gynecomastia.org); "these compression tank tops are unironically saving my life" (r/gynecomastia thread title · SNIPPET) [S1] | Thread titles as hooks; "built after reading what men on the biggest forums actually complain about (rides up, too hot, can't breathe)" |
+
+**Per group:** G3 trusts men who show the skin (and his wife) · G2 trusts its forum + surgeons who admit limits · G1 trusts honest big-guy reviewers and style creators (Real Men Real Style 3.72M subs, alpha m — a viewer comment under his video: "This is what men with belly really need", VERBATIM [S144]) · G5 trusts men's-health YouTube doctors (Fit Father Project "6 Foundations for Men Over 50…" 727,109 views; Seth Capehart MD — "This is exactly what's happening 2 me 54 years old", bank row r2sci-094 · VERBATIM [S138]) but has **no garment authority yet** — and often heard "live with it" from his own doctor (r2sci-090).
+
+**So What → do this:** borrow trust from **men who visibly have the problem** and from **surgeons' public honesty** — never a paid doctor, never a logo. The wife's reaction is the strongest single proof moment.
 
 ---
 
 # 13 · Unique mechanism (UMP → UMS) — research
 
-The market is at Stage 4→5 (Doc 1 §8). So the mechanism has to be the **clearest** one, and it has to show why the shirts already on the market fall short.
+## Step 1 — Raw material
 
-## Step 1 — Raw material (everything captured, with sources)
+**Her side** (§10B + §2C failed-solution / misconception / belief tags + dedicated mechanism research; counts = bank rows) [S1]:
 
-**Everything he tried that did NOT work, in his own explanation of why:**
+- **What he tried that failed (+ his own reason):** diet (90) — "180 is still not lean enough for the gyno to look non existent" (r2sci-015) · gym / chest work (77) — "the chest muscles pushes the gland more so my nipple became more noticeable with a shirt on" (r2sci-004) · cheap shapers (234) and DTC tanks (147) — size, length, roll · athletic compression (58) — short, thin · creams / supplements (8) — "snake oil" · tape / bandages — "horrible scars".
+- **What worked only temporarily (+ why it came back):** compression while worn (the #1 belief, 64: "Compression shirts work well for short-term use, but they are very uncomfortable." — r2sci-005) · dark / layered clothes until summer · tape until the skin tore.
+- **What he blames himself for:** "my gyne tends to be worse if i eat loads of rubbish" (r2sci-007) · bench pressing · beer · "I'm lazy" (own_fault 13) · G3: "I waited too long" / "I lost it too fast".
+- **What he believes causes it (right and wrong):** it's all fat (15) · it's gland, not fat (5) · it's skin (G3) · genetic (15) · hormones (11) · age (45) · "my metabolism slowed at 35" (r2sci-081) · "spot reduction doesn't work" (4).
+- **The key observation nobody explains:** compression can make it **look worse** — "they actually lift up my belly and make it stick out more and also make my shirt stick to my body more" (r2sci-049 · VERBATIM, YouTube) · "rolls up and tightens on my waist" (r2sci-041) · "rides up and im tired of it" (r2sci-063) · "After they go around my belly, there isn't much to hold it tucked in" (Reddit · SNIPPET).
 
-- **More dieting:** "Man boobs not going away despite lots of fat loss?" ([r/loseit](https://www.reddit.com/r/loseit/comments/16d8phg/man_boobs_not_going_away_despite_lots_of_fat_loss/)). His explanation: "Many people mistake loose skin for fat and think that if they lose enough, it will go away." ([r/Mounjaro](https://www.reddit.com/r/Mounjaro/comments/1jbpsov/is_my_goal_weight_unrealistic/))
-- **Lifting:** "Strength training doesn't actually shrink the skin, it just builds muscle which makes the skin look less loose" ([r/loseit](https://www.reddit.com/r/loseit/comments/1evyys6/the_extra_skin_after_weight_loss_is_so_cruel/), SNIPPET)
-- **Creams / collagen / dry brushing:** "Creams, lotions, potions don't work." ([r/loseit](https://www.reddit.com/r/loseit/comments/t9gfy8/excess_skin_after_weight_loss_any_ways_to_lose_it/)) · "collagen powder, the creams and brushing didn't do much" ([r/loseit](https://www.reddit.com/r/loseit/comments/1lk5i9m/how_to_get_rid_of_loose_skin_after_weight_loss/))
-- **Gym / athletic compression:** "UA: … constantly rides up due to length." ([ObesityHelp](https://www.obesityhelp.com/forums/vsg/6015323/quick-compression-shirt-reviews/), VERBATIM) · "After they go around my belly, there isn't much to hold it tucked in." ([r/bigmenfashionadvice](https://www.reddit.com/r/bigmenfashionadvice/comments/1ku3lsw/compression_tanks_actually_helped_my_confidence/))
-- **DTC slimming tanks:** "a printed pattern that looks like the elastic webbing in the ads" (rev-193, Trustpilot 2★)
+**Science side (what experts say the real cause is):**
 
-**What worked only temporarily, and why it came back:**
+- **G1 belly — two layers:** "Visceral fat… lives deep in your belly… it makes your belly firm to the touch" vs subcutaneous fat, "the pinchable kind" — examples "Love handles and muffin tops"; "there's no easy way to target losing one kind of fat over the other" (Cleveland Clinic, 2025-08-26) [S119] VERBATIM. Men store more of the firm kind [S121] SNIPPET. "Six weeks of abdominal exercise training alone was not sufficient to reduce abdominal subcutaneous fat" (Vispute 2011) [S120] SNIPPET (a 2023 RCT, n=16, found some spot reduction — so never say "crunches never work").
+- **G2 chest — fat, gland or both:** gynecomastia = "an increase in glandular tissue… Obesity can also cause an increase in breast size due to excess adipose (fat) tissue… pseudogynecomastia"; "If you have gynecomastia due to a hormonal imbalance, exercise likely won't make a difference" (Cleveland Clinic) [S123] VERBATIM. Fat feeds the loop: aromatase in fat converts testosterone to estradiol [S133] SNIPPET.
+- **What compression does to soft tissue (surgeon, 2026-10-28):** "It presses the chest flatter against the body, smooths the outline of soft tissue, and reduces how much the nipples show through a T-shirt." The limit: "Compression pushes tissue sideways and down, so a man with a large amount of gland or loose skin may see little change in profile." **"Pushing harder does not flatten the chest more. It only makes the shirt uncomfortable."** Fit: "a full-length body so the shirt stays in place"; "the fabric should not roll at the chest" (Dr. Moeinolmolki) [S126] VERBATIM.
+- **Where squeezed tissue goes (shapewear sources — §20 re-sourcing):** shapewear "compress[es] and hold[s] in excess fat, but sometimes it also pushes it outward and away from where the shapewear is being worn. This leads to the lines and bulges"; "the more intense the compression, the more the weight on your body becomes displaced" (Hourglass Angel) [S150] VERBATIM · "The panel needs to extend beyond the fold you want to smooth. An edge that stops halfway across it can emphasize the part left uncovered." (ShaperX) [S151] VERBATIM · "Squeezing your body into shapewear that's too small will ultimately create more rolls and bumps" (Cleveland Clinic) [S152] SNIPPET · Dr. Ditesheim: "distributing and holding in soft tissue" [S125].
+- **Tighter isn't better:** chest binding — "Over 97% reported at least one of 28 negative" outcomes (Peitzmeier 2017; transmasculine adults — an analogy only) [S127] SNIPPET; too-tight shirts → "breathing difficulty, rib pain, or tingling in your arms" (Dr. Ditesheim) [S125] VERBATIM.
+- **G3 skin:** "Compression garments do not physically shrink or tighten your loose skin… they do not rebuild damaged collagen… make your sagging skin appear more held in while you are wearing them" (Jim Brantner MD) [S135] VERBATIM; collagen and elastin "lose some of their ability to retract" (Healthline); 78% of men reported excess skin on the abdomen, their most common site (Staalesen 2013); 96% of bypass patients develop surplus skin and trouble "finding clothing that fit appropriately" (Kitzinger 2012) [S136] (run-1 sources, not re-checked).
+- **G5 shape shift:** "even when a person's weight or BMI remains stable, visceral fat often accumulates while muscle tissue wastes away" [S130] SNIPPET (§20: exact source sentence not re-located — don't use in ads); visceral fat area "increased by 42.9% in men" from 40 to 79 (a Japanese cohort) [S130]; free (not total) testosterone "declined by 1.2%/yr" [S129]; "Gynecomastia is common in males over 50" (Cleveland Clinic) [S123]; metabolism is "stable in adulthood (20 to 60 years)" (Pontzer, Science 2021) [S122] SNIPPET.
 
-- Compression works only while it's on (belief count 16): "Sounds like a perfect fix to loose skin (at least with clothes on)" ([BariatricPal](https://www.bariatricpal.com/topic/332101-spanx-for-men/), VERBATIM). "Compression shirts help long term with loose skin yes or no?" → "Not really" ([Facebook group](https://www.facebook.com/groups/728776328511346/posts/1912808226774811/), SNIPPET).
-- Shirts that fit while he was bigger, then didn't: "they got to big pretty quick as I lost weight" (BariatricPal 434635, VERBATIM).
+**Competitor side — what's TAKEN** (run-2 ad log, 867 rows [S140] + live product pages):
 
-**What he blames himself for:**
-
-- "I waited too long to lose weight and the amount of loose skin on me is" ([r/loseit](https://www.reddit.com/r/loseit/comments/1uubteh/confronting_photo_after_significant_weight_loss/))
-- own fault / lazy (4) · "id save money if id just get in shape lol" (rev-160)
-
-**What he believes causes it (right and wrong):**
-
-- Fat dragging the skin down: "As long as you still carry some fat there, it can drag the loose skin down" ([r/loseit](https://www.reddit.com/r/loseit/comments/1evyys6/the_extra_skin_after_weight_loss_is_so_cruel/))
-- Genetics (4), age (5), time ("it can take as long as 2 years for your body to fully settle", [r/antidietglp1](https://www.reddit.com/r/antidietglp1/comments/1d10e35/loose_skin_advice/))
-- **Wrong beliefs:**
-  - "compression tightens skin" (5): "I've heard wearing compression/shaping tops can help people to get their skin to begin tightening up" ([r/gastricsleeve](https://www.reddit.com/r/gastricsleeve/comments/10b91b8/compression_shirts_and_stretch_mark_skin/))
-  - it's all fat (5)
-  - compression burns fat (5)
-
-**What experts say the real cause is:**
-
-- **Collagen and elastin lose their spring:** "when skin has been significantly stretched and remains that way for a long period of time, collagen and elastin fibers become damaged. As a result, they lose some of their ability to retract." Also, "people who have weight loss surgery form less new collagen, and its composition is not as strong" (Healthline, med-reviewed 2024-11-29) [S5] VERBATIM.
-- **It can't shrink back after big losses:** "In cases where there is a large amount of weight loss (e.g. gastric bypass), the ability of the skin to contract may be inadequate… the only option is to have the excess skin removed surgically." (Dr. Alexander G. Nein MD, answering on The Aesthetic Society's Q&A, 2014 — one surgeon's answer, not a society position) [S6] VERBATIM.
-- **Where it sits in men:** excess skin is reported most often at "the abdomen in men (78%)" (Staalesen, Obes Surg 2013) [S7] VERBATIM.
-- **How common it is:** "96% of all patients developed surplus skin" after gastric bypass, and patients report trouble "finding clothing that fit appropriately" (Kitzinger 2012) [S8] VERBATIM.
-- **The chest after big loss is mostly skin:** "excess skin in chest, lateral chest, axilla and upper abdomen without enlargement of the breast glandular component" (pseudogynecomastia abstracts) [S9] SNIPPET. Diet and gym can't fix it: "The fat can respond to diet and exercise. The glandular tissue won't… The skin is stretched." (Arroyo Plastic Surgery) [S13] VERBATIM.
-- **True gland vs fat:** gland enlargement vs fat ("pseudogynecomastia") (Cleveland Clinic) [S12] VERBATIM.
-- **The GLP-1 era makes more of it:** "a dose-dependent link between the use of GLP-1 receptor agonists and an increase in subsequent aesthetic body contouring surgeries" (Toms et al. 2024) [S10] VERBATIM.
-
-**What compression does / does NOT do (the honest limit):**
-
-- **Does:** "can… create a firmer appearance while being worn… reduce the movement of saggy skin" (Jim Brantner MD) [S4] SNIPPET (page 403 on re-check; confirmed via search snippets); "Garments such as spanx may help your clothes look and fit better, but don't expect help with skin tightening if you wear one during your weight loss." (Dr. Nein, Aesthetic Society Q&A) [S6] VERBATIM.
-- **Does not:** "Compression garments do not physically shrink or tighten your loose skin… they do not rebuild damaged collagen or restore lost elasticity" [S4] SNIPPET-confirmed (page 403 on re-check); "There is no weight loss benefit to wearing a compression garment." [S6] VERBATIM.
-
-**The physics of why tanks ride up:**
-
-- Garment pressure follows **Laplace's law**: it depends on body circumference/curvature, fabric strain and stiffness. There's "a large variability of pressure across" a body section [S14] SNIPPET.
-- INFERENCE (to be checked on the sample): a short tank with one tight band sits below the belly bulge on a *smaller* circumference. When he sits or bends, it slides to the narrowest point (the waist crease) and rolls up, and the soft tissue escapes underneath it. → **length + a hem that sits below the belt** matters more than a harder squeeze.
-- Category evidence: rolls up/too short 30 objection tags (§11); Trustpilot "Product length too short" (6+2+2), "rides up" (3); Aida attacks rivals with "Rode up by lunch" [Doc 1 §2].
-
-**Competitor side — the mechanisms already TAKEN** (from Doc 1 §1E/§2):
-
-| Mechanism claim | Who | Verbatim | Status for us |
+| Mechanism claim | # ads | Who · verbatim | Status |
 | --- | --- | --- | --- |
-| Ionic compression / blood flow | North Alpine, Selure, Shaperluv PDPs | "advanced Ionic Compression fabric… promote healthy blood flow" | ❌ taken + unsubstantiated |
-| Ionic Ice / fat-cell breakdown | Evolv | "Breaks down love handle fat cells effectively" | ❌ taken + the claim the FTC sanctioned in 2014 |
-| Zoned / multi-zone / mapped | Gaudenza, Huracan, Aida | "three separate zones" · "mapped right where it pools" | taken; unverified on our SKU |
-| Lymphatic "fluid not fat" | Aida (~28+ Meta, 197 Google ads) | "A lot of it isn't loose skin or fat. It's fluid that settles at your middle" | taken — and **Aida denies the skin cause**, which leaves "it IS skin" open to us |
-| Infrared / sauna sweat | Mr. Sculpt, Rablaisie | "infrared-trapping heat — forcing your body to sweat harder" | ❌ |
-| Posture / back support | Natural Posture, Slim Shield, Evolv | 34 creatives | taken, off-wedge |
-| Extended cut / no ride-up | Shaperluv 3.0, Huracan | "The new extended cut stays anchored below your waistband all day. No riding up." | taken **as a feature**, never tied to *why* the skin escapes |
-| "Lift, don't squeeze" extra skin | **Auren (women's)**, US ad 2026-10-25 | "extra skin can't be pushed in… It can only be held up." | women only — the closest structure to ours. **Don't copy the wording** |
-| "The weight came off. The loose skin stayed." | Shape Lab (women's briefs) | as quoted | women only |
+| Posture / back support | **309** | Natural Posture "chest and mid-section slimming undergarment"; North Alpine "Improved back pain" | TAKEN + device risk (§2B) |
+| Extended length / no-roll hem | **126** | Shaperluv 3.0 "stays anchored below your waistband all day. No riding up."; Selure "The hem is built to stay put" [S141]; Alphacore "27% extra length"; InShape "Finally, a tank that doesn't roll up" | TAKEN **as a feature** — nobody explains *why* rolling makes it look worse |
+| Adjustable zip / hooks | 50 | Shapers "First Adjustable"; Nebility front zip | TAKEN |
+| Ionic compression | 31 | Selure, North Alpine, Pomence | TAKEN + unsubstantiated |
+| Zoned / triple-zone / 360° | 30 | InShape "360° chest compression"; Alphacore "Triple-zone" | TAKEN |
+| Heavyweight cotton | 20 | Somnea 340gsm | TAKEN (G2) |
+| Magnetic / lymphatic | 19 | Aida "The Fat Wasn't the Problem. Fluid Was." [S142] | TAKEN + unsubstantiated |
+| Sweat / thermal | 15 | Rablaisie | TAKEN + FTC Gut Check |
+| Double layer = double compression | 4 | Selure "That means double the compression" [S141] | TAKEN ("more squeeze") |
+| Hidden cause "It's not age. It's this." | 2 (5 dup) | Selure | TAKEN as a hook structure |
+| Indirect: cortisol / "you're inflamed"; lymph "congestion"; "GLP-1 skin" (women) | 5,173 / 5,705 / 6,856 active | Primal Viking; AT2A | TAKEN outside garments |
+| Women's adjacent: "lift, don't squeeze… Squeeze it, and it rolls and digs" | — | Auren (women, run-1) | women only |
+| **"Squeezing moves soft tissue to the garment's edge; flat comes from an even, full-length hold"** | **0 men's ads** (regex over 867 rows; absence ≠ proof) | — | **OPEN** |
 
-**Product side:** the spec facts (fabric %, body length per size, hem, chest panel) are **UNKNOWN** — the CJ page is bot-walled (§17). So the mechanism can only be *claimed* after the sample is measured and filmed.
+**Product side — what the SKU physically does (and doesn't):** a sleeveless compression tank, 180 g, S–3XL, five colours, ships from China; listing claims "Tummy Control Hide Pot Belly Flatten Chest". **Not verified:** fiber %, compression level, torso length per size, hem grip, panels, seams, breathability — the CJ spec tab sits behind a bot check and a login (not circumvented; §17). Any elastic tank presses hardest where the body curves most and "pushes tissue sideways and down" [S126]; holds soft tissue against the body while worn [S135]; adds heat [S149]. It does **not** remove fat, gland or skin, tighten skin, correct posture, drain fluid or change hormones [S123][S125][S126][S135].
 
-## Step 2 — The problem as a 4-link chain (W1)
+## Step 2 — The 4-link chain (per group)
 
-1. **Trigger:** a big weight loss (diet/gym, GLP-1, bariatric), often fast, after years heavy [S5][S10]. His words: "lost over 110 pounds" · "I dropped from around 250 to currently at 190".
-2. **Hidden process (UMP core):** years of stretching damaged the skin's collagen and elastin, so they "lose some of their ability to retract" [S5]. After a big loss the skin is now **extra**, not just loose — there's more skin than body. In men it pools at the **lower belly (78%)** [S7] and the **chest/side-chest** (skin, not gland) [S9][S13]. Gravity and leftover fat drag it down.
-3. **Visible symptom:** a soft, "deflated" chest and a lower-belly "ring" that shows through a T-shirt. He buys a size up and the skin moves when he runs [S8]. His words: "a "ring" of loose skin that gravity's placed around my lower abdomen"; "my clothes never fit right because I would have to buy up a size".
-4. **Why each failed solution missed it:**
-   - **Diet** acts on *fat*, but the excess is *skin* [S6].
-   - **Lifting** adds muscle *under* the skin but "doesn't actually shrink the skin".
-   - **Creams/collagen** act on the skin surface, not on the extra area [S5].
-   - **Regular slimming tanks** squeeze one band and are cut short, so they ride up to the waist crease and the skin slides out below (INFERENCE from [S14] + 30 objection tags).
-   - **Surgery** is the only thing that removes it, but it's costly, scarring and frightening ("crazy expensive and the possible side effects were frightening", Underworks testimonial).
-
-## Step 3 — The solution map
-
-- **Which link it acts on:** **link 3 only (the visible symptom).** It holds the extra tissue flat against the body, in place, under clothes, while worn [S4][S6].
-- **What supports it (spec → proof):**
-  - **Compression knit:** "Compression" is a supplier claim. Spandex % and pressure are UNKNOWN → needs the sample.
-  - **Tank cut** → hidden under a T-shirt/polo/dress shirt (true by design).
-  - **Body length / hem** → whether it stays below the belt = UNKNOWN → needs the sample (the make-or-break spec).
-  - **Chest panel** → UNKNOWN.
-  - **Colours incl. nude/white** → invisible under a white shirt = needs the opacity test.
-- **What it does NOT do (never claim):**
-  - shrink, tighten or firm skin;
-  - rebuild collagen;
-  - burn fat or cause weight loss;
-  - reduce gynecomastia;
-  - drain fluid or improve circulation;
-  - correct posture (unless the sample shows real back structure);
-  - replace surgery.
-- **What separates it from cheaper lookalikes:** today, nothing proven — it's a CJ SKU close to Amazon's $18–30 tanks. The difference has to come from: (a) **length + hem** (to verify, or source a longer version); (b) the **fit system + size-down swap** (offer, §15); (c) the **mechanism explanation** nobody else gives men.
-
-## Step 4 — Candidate UMP → UMS pairs (from THIS market's research)
-
-| # | UMP — why the problem exists | UMS — what this product does about it |
-| --- | --- | --- |
-| **P1 — "Extra skin, held flat"** | "It's not fat you missed. Your skin grew to fit the bigger you, and it can't shrink back. Diet and the gym work on fat and muscle, not on extra skin." | "So you don't squeeze it. You **hold it flat, in place**, under your shirt, for as long as it's on." |
-| **P2 — "It slides, it doesn't stay"** | "The tanks you tried squeeze one tight band and they're cut short. The moment you sit, it rides up to your waist and the skin slides out underneath — that's why it looked worse, not better." | "**Cut long, so the hold stays below your belt** when you sit, bend or reach." *(only if the sample proves it)* |
-| **P3 — "Empty skin, not man boobs"** | "After a big loss, your chest isn't fat or 'man boobs'. It's mostly empty skin sitting on a smaller chest." | "A flat front **lays that skin flat**, so your T-shirt hangs from your shoulders, not your chest." |
-| **P4 — "Your true size"** (backup) | "You've been buying shirts a size up to hide it — and baggy makes you look bigger than you are." | "Hold it flat underneath, then **wear your real size**." |
-
-## Step 5 — Checks per pair (recorded; none deleted)
-
-| Pair | 90% familiar / 10% new | Clarity — could an 11-year-old repeat it? (5th–8th grade line) | Plain-words test | Honesty check (§2B) |
+| Link | G3 lost the weight (LEAD) | G1 belly | G2 chest | G5 50+ |
 | --- | --- | --- | --- | --- |
-| **P1** | Familiar: loose skin exists, creams fail (both believed). **New:** squeezing doesn't fix extra skin — holding it does | ✅ "Your skin got bigger to fit you. It can't shrink back. This holds it flat." | "extra skin" ✅ (his word: "extra skin" appears in snippets) · "loose skin" ✅ · "hold it flat" ✅ · "skin laxity" ❌ · "redundant skin" ❌ | ✅ appearance-only ("held flat under your shirt"). Never "tightens". The product owns it while worn |
-| **P2** | Familiar: tanks roll up (30 objection tags). **New:** the roll-up is *why* it looked worse | ✅ "Short tanks slide up when you sit. This one is long, so it stays down." | "rides up" ✅ (his word) · "anti-roll" ✅ (passes, but never used by men) · "anchored" ⚠ · "Laplace" ❌ | ⚠ **OPEN** — product–mechanism match unknown until the sample's length/hem is measured. Partly taken: Shaperluv 3.0 "extended cut… No riding up" |
-| **P3** | Familiar: a soft chest after weight loss. **New:** it's skin, not fat or gland | ✅ "It's empty skin, not fat." | "empty skin" ✅ (his phrase: "Empty skin is almost paper thin") · "pseudogynecomastia" ❌ · "gyno" (taken, and compliance-risky in ads) | ✅ if never "reduces/fixes gyno"; the chest-panel spec is unknown |
-| **P4** | Familiar: sizing up to hide it (8 failed-solution tags + "buy up a size"). **New:** the bigger shirt *is* the problem | ✅ "Bigger shirts make you look bigger. Wear your size." | "true size" ✅ · "size up" ✅ | ✅ pure apparel claim |
+| **Trigger** | a big loss (diet / GLP-1 / bariatric) after years heavy [S136] | gradual gain, desk life, beer — a firm deep layer + a soft outer layer [S119][S121] | hormones (puberty, aging, meds) or fat (the aromatase loop) [S123][S133] | after 50: testosterone ↓ ~1%/yr, muscle ↓, deep fat ↑ at the same weight [S129][S130] |
+| **Hidden process (UMP core)** | stretched skin can't retract — it's *extra area*, not fat; squeezing pushes it down to the hem and into a roll [S135][S136] | soft tissue doesn't disappear when squeezed — it **moves**: a tight band or a short tank pushes it to the nearest edge (out under the hem, up into a roll) (r2sci-049; [S126]) | gland/fat sits on the pec; diet trims fat but not gland; pec growth projects it; squeezing harder doesn't flatten more [S123][S126] | same weight, new shape: muscle shrinks, fat moves inward and forward, chest softens, back rounds — the shirt drapes over new points [S130][S131] |
+| **Visible symptom** | soft chest and a "ring" of skin under a tee; sizing up | shirt clings at the belly, muffin top at the belt, tank rolls up | the chest "sticks out", nipple outline, wobble | "heading south" chest + belly in a dress shirt |
+| **Why the failed fixes missed it** | creams act on the surface; diet on fat; lifting adds muscle *under* the skin; short tanks ride up so the skin escapes below | crunches act on muscle not the fat layer [S120]; diet is whole-body and slow [S119]; baggy shirts make him look bigger; tight tanks squeeze one band → push it to the edge | pushups act on muscle → can push the gland out (r2sci-004); diet acts on fat not gland [S123]; tape irritates [S137]; binders hurt [S127] | gym and diet act slowly on an age process ("I guess I'm screwed and stuck with the fat" — r2sci-095, 59); posture vests claim correction (taken, device risk) |
 
-## Step 6 — Score and pick a lead
+## Step 3 — What the product acts on
 
-| Pair | Proof available now | Already used by a §1 competitor? | Sayable (§2B) | Clarity | 90/10 split | Research support (# sourced quotes + studies) | Fit with Stage 4→5 |
+- **Link 3 only (the visible symptom) — through *****how pressure is spread while worn*****.** It never touches link 2 (the cause) for any group, so we never claim to.
+- **The one design idea that bridges every group (from the research, not the listing):** an **even hold over the whole torso + a hem that stays down = no edge for soft tissue to be pushed to.** Whether THIS SKU delivers it is unproven: torso length, hem grip and pressure feel must be measured on a sample first.
+- **Does NOT:** shrink, burn, tighten, drain, correct posture, treat gyno — and may give "little change in profile" for "a large amount of gland or loose skin" [S126] — **a G3 limit**: G3 copy promises "lies smoother under a shirt", never "flat" (§11 G3 answer).
+
+## Step 4 — UMP → UMS candidates (≥3 per group)
+
+**Brand-level candidate — B1 "Squeeze moves it. Hold keeps it."**
+
+- **UMP:** "It's not that you didn't try. Soft tissue doesn't vanish when something squeezes it — it moves. Most tight tanks squeeze one band, so it gets pushed to the edge: out under the hem, up into a roll, and the shirt sticks to it."
+- **UMS:** "This holds evenly from chest to past the belt line, so the hem sits below the soft part and doesn't dig in — and it stays where you put it." (§20: every garment has an edge; what matters is *where* it sits and *how* it presses — ShaperX [S151].)
+
+| # | Group | UMP (cause) | UMS (fix) |
+| --- | --- | --- | --- |
+| G3-a | lost the weight | It's extra skin, not fat you missed; diet and gym can't shrink skin | Don't squeeze it — hold it flat while you wear it |
+| G3-b | lost the weight | Short tanks ride up to the waist crease when you sit, so the skin slides out under the belt | Long cut + a hem that stays below the waistband |
+| G3-c | lost the weight | Your chest isn't "man boobs" — it's empty skin over a smaller chest | A flat front hold lays it smooth |
+| G3-d | lost the weight | Sizing up to hide it makes you look bigger | Hold it flat, wear your real size |
+| G1-a | belly | Tight tanks squeeze the belly up and out under the hem — that's the muffin top and the roll | An even, full-length hold whose edge sits below the belt, not across the belly |
+| G1-b | belly | Two bellies: the soft "pinchable" layer and the firm one under it; the shirt only shows the soft one | Smooth the soft layer so the shirt drapes cleanly over the rest |
+| G1-c | belly | Crunches barely touch the soft layer (Vispute 2011); fat comes off slowly, mostly whole-body | Fix how the shirt sits today while the slow fix runs |
+| G1-d | belly | It's not your metabolism (stable to 60) — it's where your body keeps it now | Hold it where it is, flat |
+| G2-a | chest | Chest tissue sits on your pec; pushups make it stick out more and diet can't touch gland | A flat, even front hold so the tee hangs from the shoulders |
+| G2-b | chest | Binders and too-tight shirts press harder, but harder doesn't flatten more — it pushes tissue sideways and hurts | Firm, breathable, even hold: flat look, full breath |
+| G2-c | chest | What people notice is the *point* (nipple outline) tenting a thin tee | A smooth layer that bridges the point so the tee lies flat |
+| G5-a | 50+ | Same weight, new shape: after 50 muscle shrinks and fat moves forward — the shirt hangs from different points | An even hold that brings the line back to where the shirt was cut for |
+| G5-b | 50+ | (50–60 only) It's not your metabolism or that you stopped trying — it's age-driven redistribution the gym fixes slowly; after 60 metabolism *does* decline (Pontzer) | Look right in the shirt today while the slow fix runs |
+| G5-c | 50+ | A softer chest after 50 is common (hormones, medication) — not a failing | A smooth chest-to-belt layer under dress shirts |
+
+## Step 5 — Checks (recorded; nothing deleted)
+
+| # | 90% familiar / 10% new | Clarity (11-year-old version) | Plain-words test | Honesty (§2B) |
+| --- | --- | --- | --- | --- |
+| **B1** | ✅ familiar: tanks roll and spill · new: *the squeeze causes the spill* | "Squeezing pushes it somewhere else. This holds it all in place." ✅ | "hold" ✅ · "edge" ✅ · "muffin top" ✅ · "no-edge hold" ⚠️ untested · "displacement" ❌ | sayable as appearance-only; **owned only if the SKU is long enough, the hem anchors and pressure is even — UNVERIFIED** |
+| G3-a | ✅ / new: squeezing fails, holding works | "Your skin got bigger. It can't shrink. This holds it flat." ✅ | "extra skin" ✅ · "empty skin" ✅ | ✅ |
+| G3-b | ✅ / new: rolling is *why* it looks worse | "It doesn't roll up when you sit." ✅ | ✅ | needs hem proof; feature taken |
+| G3-c | ✅ / new: it's skin | "It's empty skin, not fat." ✅ | "pseudogynecomastia" ❌ | ✅ never "gyno" |
+| G3-d | ✅ / new: the big shirt is the problem | "Wear your real size." ✅ | ✅ | ✅ pure apparel |
+| G1-a | ✅ / new: the squeeze causes the spill | "Tight tanks push your belly out the bottom." ✅ | ✅ | as B1 |
+| G1-b | ✅ / new: the shirt only shows the soft layer | "There's a soft layer and a hard layer. The shirt shows the soft one." ✅ | "pinchable" ✅ · "visceral" ❌ | ✅ honest limit for firm bellies |
+| G1-c | ⚠️ low "new" | "Crunches don't shrink your belly. This fixes the shirt today." ✅ | ✅ | ✅ (never "never works") |
+| G1-d | ⚠️ | "It isn't your metabolism." ✅ | ✅ | ✅ with cite; structure close to Selure's hook |
+| G2-a | ✅ / new: the gym can make it look worse | "Pushups can make it stick out more. This lays it flat." ✅ | "gland" ⚠️ (in-group only) | ⚠️ never "reduces"; "gland" on LP only |
+| G2-b | ✅ / new: tightness isn't what flattens | "Tighter isn't flatter. Even is flatter." ✅ | ✅ | ✅ needs a breathing test on the sample |
+| G2-c | ✅ / new: it's the outline, not the size | "People see the point, not the size." ✅ | "nipple outline" ✅ (imagery risk) | ⚠️ imagery |
+| G5-a | ✅ / new: it's redistribution, not "getting fat" | "Same weight, different shape. This puts the shape back in the shirt." ✅ | "redistribution" ❌ → "it moves" ✅ | ✅ never "younger" / "posture fix" |
+| G5-b | ⚠️ | "It's not your metabolism." ✅ | ✅ | ✅ with cite; taken structure |
+| G5-c | ⚠️ | "A softer chest after 50 is common." ✅ | "hormones" ⚠️ | ⚠️ LP education only — never address his hormones in an ad |
+
+## Step 6 — Score and pick
+
+§8 = **Stage 4** (mechanisms exist; Shaperluv 3.0 / Selure already run an *upgraded* length/hem feature) → the winner must be an **upgraded mechanism that explains why the market's mechanisms (more squeeze, double layer, ionic, zones, "longer") fall short.**
+
+| # | Proof now | Used by a §1 competitor? | Sayable | Clarity | 90/10 | Research support | Stage-4 fit |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **P1** | **Y** (surgeon quotes [S4][S6] + 10 user "it holds it" quotes; the shirt-on demo can be filmed with ANY decent tank) | **Partly (§20):** InShape (since 2026-10-13) claims the *benefit* — "Smooth the Look of Loose Skin", "supports loose skin at the chest and middle" — but no *cause → why squeezing fails* mechanism was seen in its ads (its landing page wasn't analysed for mechanism → GAP). Women: Auren (structure), Shape Lab (phrase). Aida denies skin | **Y** | **Y** | loose skin is familiar / "hold, don't squeeze" is new | **High:** 133 loose-skin snippets + 5 studies/expert pages [S4–S10] | ✅ Stage 4: explains why the market's tanks (squeeze + short) fall short. Stage 5: carries the identity ("you did the work") |
-| P2 | **N** (needs the sample) | **Partly**: Shaperluv 3.0 "extended cut… No riding up" | Y if true | Y | familiar roll-up / new "that's why it looked worse" | 30 objection tags + 29 "stays down" needs | ✅ Stage 4 upgrade — but as a *proof feature* under P1, not the lead |
-| P3 | Partly (expert sources [S9][S13]; chest panel unknown) | Gyno is red ocean (63/100 creatives); "empty skin" framing = 0 | Y (with care) | Y | familiar soft chest / new "it's skin" | 101 chest snippets, but only 19 in W1 | Stage 3 — good sub-angle |
-| P4 | Y (it's apparel logic) | No (only Gaudenza "Before You Size Up" in the US + Arlevi in Italy) | Y | Y | familiar sizing-up / new "the big shirt is the problem" | 8 failed-solution + "buy up a size" (Underworks) | Stage 2–3 — a hook, not a mechanism |
+| **B1** | partly — expert + customer Y; **product N (sample)** | cause **no** in men's ads (0 of 867) — but openly explained in **women's** shapewear content (Hourglass Angel, ShaperX), so it's new only to men; fix (length/hem) taken as a *feature* — Shaperluv "No riding up", Selure "hem is built to stay put" | Y | Y | Y | 6 bank rows (r2sci-041/049/063/064/065/083) + run-1 row + Trustpilot ("too short" 6, "rides up" 3) + [S126][S127][S119] | **High** — turns "longer / no-roll" from a feature into the *reason the others fail* |
+| G3-a | Y (experts) | no (men); women's Auren adjacent | Y | Y | Y | run-1 10 rows + [S135][S136] | **High** — G3's door into B1 |
+| G1-a | partly | cause no / fix taken | Y | Y | Y | as B1 | High — G1's door |
+| G2-b | partly | no ("double compression" is the opposite claim) | Y | Y | Y | r2sci-033/034/005 + [S125][S126][S127] | **High** — G2's door |
+| G5-a | Y (science) | no | Y | Y | Y | 6 age-belief rows + [S129][S130][S131] | **High** — G5's door |
+| G1-b | Y | no | Y | Y | Y | [S119][S121] + 2 rows | Medium (LP education) |
+| G2-a | Y | Primal Viking / AT2A run "it isn't fat" reframes outside garments | ⚠️ | Y | Y | 11 gym + 4 gland rows | Medium (red group) |
+| G2-c | partly | no | ⚠️ imagery | Y | Y | [S126] + 2 rows | Medium |
+| G3-b | N (sample) | feature TAKEN | Y | Y | Y | run-1 + Doc 1 §1 | Medium (proof feature) |
+| G3-c | Y | no | Y | Y | Y | run-1 + [S136] | Medium |
+| G3-d | Y | Arlevi (IT) only | Y | Y | Y | run-1 | Medium |
+| G1-c | Y | partly (common fitness message) | Y | Y | ⚠️ | [S120] + 4 rows | Low (Stage-2 message) |
+| G1-d / G5-b | Y | structure taken (Selure "It's Not Age") | Y | Y | ⚠️ | [S122] + 2 rows | Low |
+| G5-c | Y | no (garment); Primal Viking owns hormone talk | ⚠️ | Y | ⚠️ | [S123][S129] | Low (compliance) |
 
-**LEAD: P1 — "Extra skin can't shrink. You don't squeeze it — you hold it flat."** P2 is its proof feature (verify on the sample). P3 is the chest angle and P4 is a hook family. All four stay as angles and backups.
+**LEAD: B1 "Squeeze moves it. Hold keeps it."** — one brand mechanism, entered from each group's own link: **G3 via G3-a** (extra skin can't be squeezed away, only held) · G1 via G1-a (the tight tank pushes the belly out the bottom) · G2 via G2-b (tighter isn't flatter) · G5 via G5-a (same weight, new shape). All lead to the same UMS: **an even, full-length hold with a hem that stays down.** Runners-up stay as angles (G1-b, G2-a/c, G3-b/c/d) and backups (G1-c/d, G5-b/c).  
+**Blocking condition:** B1 must not run until a filmed sample proves (1) torso length reaches below the waistband on S–3XL, (2) the hem stays put through sit / bend / arms-up / stairs, (3) normal breathing at true size. If the CJ SKU fails → swap the SKU, or fall back to G3-d / G1-b (pure fit and appearance claims).
 
 ## Step 7 — Finish
 
-- **Core metaphor (from his own words):** **the deflated balloon.**
-  - His words: "Was starting to feel like deflated balloon full of jelly." ([r/WegovyWeightLoss](https://www.reddit.com/r/WegovyWeightLoss/comments/1ijcidc/shapewearcompression_suggestions/), SNIPPET). US skincare ads use "left my skin looking like a deflated balloon" too.
-  - → *"You can't squeeze a deflated balloon back to small — you can only hold it flat."*
-  - Backup metaphor: "a suit tailored for a bigger man" (INFERENCE).
-- **Proof list (claim → proof):**
+- **Core metaphor (his words):** **"muffin top"** — the picture of soft tissue squeezed over an edge (Cleveland Clinic lists "muffin tops" as the soft-fat example [S119]). Line: *"A muffin top is what a squeeze looks like. Hold it instead."* G3 identity frame: **"winner skin"** (audience phrase, 2.3K likes [S138]); backup: "deflated balloon" (run 1).
+- **Proof list:**
+  | Claim | Proof | Status |
+  | --- | --- | --- |
+  | Squeezing moves soft tissue rather than removing it | Hourglass Angel "pushes it outward and away from where the shapewear is being worn" [S150]; ShaperX "The panel needs to extend beyond the fold you want to smooth" [S151]; Cleveland Clinic "more rolls and bumps" [S152]; Ditesheim "distributing and holding in soft tissue" [S125] | ✅ expert / industry (§20 re-sourced; Moein kept only for "tighter isn't flatter") |
+  | Tight/short tanks roll up and push the belly out | r2sci-049/041/063; Trustpilot "too short" / "rides up"; run-1 row | ✅ customer |
+  | Tighter doesn't flatten more — it hurts | [S126] "Pushing harder does not flatten the chest more"; [S125]; [S127] 97% negative outcomes | ✅ expert + study |
+  | Extra skin can't shrink; compression only holds it while worn | Brantner MD [S135]; Healthline / Kitzinger / Staalesen [S136] | ✅ expert |
+  | Our tank holds evenly from chest to below the belt | measure torso length per size vs Shaperluv/Selure; side view under a white tee | ❌ GAP — needs the sample |
+  | Our hem stays put | filmed sit/bend/arms-up/stairs, 8-hour wear | ❌ GAP — needs the sample |
+  | You can breathe normally | deep-breath + talk test on camera at true size | ❌ GAP — needs the sample |
+  | Breathable | fiber % + knit spec + textile label | ❌ GAP |
+  | Real men see it under a shirt | disclosed UGC per group (G3 big loss, G1 dad, G2 fellow sufferer, G5 55+) | ❌ to create |
+- **One-sentence summaries (5th–8th grade):**
+  - **UMP:** "Squeezing doesn't make a soft belly, chest or loose skin go away — it just pushes it out the bottom or makes the tank roll up."
+  - **UMS:** "This holds you evenly from chest to below your belt, so the edge sits below the soft part, not across it — and it stays put."
+  - G3 voice: "It's extra skin. You can't squeeze skin away — you can only hold it flat."
 
-| Claim | Proof | Status |
-| --- | --- | --- |
-| Extra skin can't shrink back on its own after big loss | Healthline [S5]; a surgeon on the Aesthetic Society Q&A [S6]; 96% surplus skin after bypass [S8]; 78% abdomen in men [S7] | ✅ HAVE (cite on the page, not as a medical promise) |
-| Diet/lifting/creams can't fix it | Arroyo [S13]; Youn "There isn't a magic cream" [S3]; his quotes ("Creams, lotions, potions don't work") | ✅ HAVE |
-| Compression holds it flat while worn | Brantner MD [S4]; 10+ user quotes (e.g. "When I wear compression clothing, my skin moves into place", [r/loseit](https://www.reddit.com/r/loseit/comments/wqc4h7/having_sex_for_the_first_time_since_losing/)) | ✅ HAVE + 🎥 shirt-on demo (CAN CREATE) |
-| It stays down when you sit/bend | sit/bend/arms-up film + body length (cm) | ⚠ GAP — needs the sample |
-| It looks invisible under a white shirt | white-shirt test | ⚠ GAP — needs the sample |
-| Fit = your real size | measured chart + fit-finder | ⚠ GAP — needs the sample measured |
+**§9 One Belief — REWRITTEN with the lead mechanism and repointed at the #1 core desire (§10A identity, 545):**  
+*"This new opportunity — ****holding instead of squeezing**** — is the key to ****looking like the man you actually are now in a normal shirt****, and it's only attainable through ****an even-hold undershirt that runs from chest to below the belt and stays down****."*  
+**What changed from the draft:** (1) the opportunity is now "holding instead of squeezing" — the same cause explains the failure for every group (G3 skin, G1 muffin top, G2 binder pain, G5 shape shift), not only G3; (2) the desire moved from the surface "look flat in a shirt" (363) to the core "look like the man you are now" (identity, 545); (3) "stays down" is the proof feature, pending the sample.
 
-- **One-sentence summaries (5th–8th grade, his words):**
-  - **UMP:** "After you lose a lot of weight, your skin is bigger than your body now — and skin can't shrink back, so diet and the gym can't fix it."
-  - **UMS:** "This undershirt doesn't squeeze it smaller — it holds that extra skin flat and in place under your shirt, all day."
-- **§9 One Belief — REWRITTEN with the lead mechanism and repointed at the #1 core desire (§10A identity):**
-  - *"This new opportunity — holding the extra skin flat instead of trying to shrink it — is the key to finally looking finished — like the weight loss is complete — in a normal shirt, and it's only attainable through a long-cut, hold-flat compression undershirt that stays below your belt."*
-  - **What changed from the draft:** (1) "instead of squeezing it" → "instead of trying to shrink it". Diet, gym and creams all try to shrink; that's the real enemy belief, and it ties to the UMP. (2) The desire moved from the surface "look flat and normal" (56) to the core "looking finished" (identity, 130). §20: worded away from InShape's live "You did the work. Let your shirt show it." (3) "Stays below your belt" is added as the proof feature (P2), pending the sample.
-- **§9B re-check against the lead mechanism:** beliefs 1–3 map 1:1 to the UMP chain (skin not failure → no wait for surgery → the shirts failed because they squeeze and ride up). Belief 4 (undershirt, not a girdle) and beliefs 5–6 (fit, refund) are untouched. **No change needed**, except belief 3's proof, which now names P2 as "pending sample".
-- **Lifespan:** P1 becomes the **brand's** mechanism once the first ad test confirms it. Ads can open from any link: the milestone (trigger), the deflated chest (symptom), the tank that rode up (failed solution). They all land on the same UMS. Revisit only if tests show it doesn't land, the market copies it (then raise it a level: "the long-cut hold"), or compliance forces it.
+**§9B re-check against the lead mechanism:** beliefs 1–3 map 1:1 to the B1 chain (it's skin / tissue, not failure → no need to wait for surgery → the tanks failed because they squeeze and ride up). **One addition** (from the mechanism research): belief 3 now carries the sub-step **"tighter isn't flatter"** (G2-b) before "even hold + anchored hem". Beliefs 4–6 (undershirt not girdle, fit, guarantee) unchanged.
 
----
+**Lifespan:** B1 becomes the **brand's** mechanism once the first ad test confirms it. Every group opens from its own link and lands on the same UMS. Revisit only if tests show it doesn't land, the market starts running the *cause* (then raise it a level), the sample fails, or compliance forces it.
 
-# 13B · Discovery Story (the advertorial's spine)
-
-**Built from the §18B candidates — picked: "D1 the forgotten support-belt lineage" as the spine + "D2 Conrad Jobst, 1950" as the turning point.** No founder, expert or event is invented. Every beat is dated and sourced; §20 fact-checked them.
-
-**The true history (the beats we can use):**
-
-1. **Men used to wear this openly.**
-   - The USS *Constitution*'s purser wore men's stays in 1810–1820 (linen and whalebone). A 1838 guide says "men's stays were used in the army, for hunting, and for strenuous exercise" (USS Constitution Museum) [S24] VERBATIM.
-   - A German WWI officer's corset was "removed from him by French troops" when he was taken prisoner at Dickebusch ("Dickiebusch"), Belgium, in 1916 (Australian War Memorial) [S25] VERBATIM.
-2. **In the 1920s–30s it was ordinary men's kit.**
-   - France's "Ceinture Anatomique" was sold in *Monsieur* in the first half of the 1920s (earliest cited: Feb 1920) to "sportsmen, motorists, and men 'beginning to grow a belly'".
-   - Germany's "Gentila Herrengürtel" was advertised weekly 1919–1929 (Bard Graduate Center) [S26] VERBATIM.
-   - In the US, Bauer & Black's "The Bracer" abdominal supporter belt (1936 ad): "When the mirror shows a bulge, don't worry . . . step out with the Bracer" [S27] VERBATIM — a dealer's transcription that names no magazine. A 1940 Elks Magazine ad (April 1940) is headlined '"MIDSECTION SAG" STEALS PEP_ SPOILS APPEARANCE' [S44] VERBATIM. ⚠ §20: the "LIFE 1937/1939" dates are **UNVERIFIABLE** → never print them.
-3. **Then it vanished — not banned, shamed and tailored away.**
-   - "Men's stomach belts seem to have fallen out of favor by the 1940s, thanks to looser tailoring in men's fashion." (BGC) [S26] VERBATIM (§20-corrected wording).
-   - "Male girdle ads… struggled to look different than women's undergarments" (Spokesman-Review 2009) [S28] VERBATIM → the "girdle" stigma he still feels today (§3).
-4. **The turning point — the same idea moves into medicine.**
-   - Conrad Jobst, a German-born engineer who "suffered from venous disease" himself, founded JOBST in Toledo, Ohio, in **1950**.
-   - After his death, his company expanded into "plastic and reconstructive surgery garments" ([jobst-usa.com](http://jobst-usa.com)) [S29] VERBATIM.
-   - Today surgeons still put men in **compression garments** after skin-removal surgery (Duke, 2026) [S30] VERBATIM.
-5. **Men rediscovered it when shirts went slim.**
-   - Equmen (Sydney, 2007 [S31]; Selfridges launch 5 March 2009 — the brand later collapsed, so it's proof men buy it, not a success story): "If it's going to be called a bloody girdle or 'mirdle' then I'll take it on the cheek if it gets men to try it" (AP, via Spokesman-Review 2009-03-14) [S28] VERBATIM.
-   - Spanx's 2010 men's "Mens Zoned Performance V Neck 'Manx'" is held by the V&A [S32] VERBATIM; Stanford GSB's 2018 profile says the men's undershirt "hadn't been updated in nearly 100 years" (the writer's narration, not a Blakely quote) [S32].
-
-**The emotional beats (real customer stories from §2C):**
-
-- *Before:* "I'm feeling more self consious now than I did when my skin was taught and I was fatter." (BariatricPal 2007)
-- *The discovery moment:* "was doing push ups and looked under me… saw the skin just hanging there… I think I may try some kind of compression shirt soon" (BariatricPal 2015)
-- *The turning point:* "I put this thing on… has sucked in my moobs (man boobs) and extra skin like no other. I can actually fit into a size smaller shirt now." (BariatricPal 2007)
-- *After:* "My daughters wedding was coming up and she suggested I wear it under my suit… I felt like a new man." (London Corset Co. review)
-
-**The story in one paragraph (advertorial spine — copy is written in Step 3, this is the research skeleton):**<br>For over a century, men quietly wore support under their clothes — soldiers, hunters, "men beginning to grow a belly". Then the word "girdle" made it embarrassing and looser suits made it unnecessary, so it disappeared. The idea didn't die. It went into medicine — Jobst, 1950 — and it's still what surgeons put men in after skin surgery. Now millions of men are losing big weight faster than ever (the GLP-1 era, §18B C2), and they're finding out what nobody told them: the skin stays. They don't need a miracle shirt. They need the old idea — even, all-day hold under the shirt — made for a man who did the work.
-
-⚠️ **Never** imply our tank is a medical or surgical garment, or that compression tightens skin (§2B). The medical beat proves the *principle* (even pressure holds tissue in place), not our product.
-
-**So What → do this:** the advertorial opens on the modern moment (the milestone that didn't fix the mirror). It reveals the forgotten history as the "aha", then lands on the UMS. That gives a burned, Stage-5 market a story instead of another claim.
+**So What → do this:** order the sample now and film the three proofs. If they pass, every ad in every group tells one story: *"the squeeze is why it showed — the hold is why it doesn't."*
 
 ---
 
-# 16 · Psychological solution — the emotional fix under the logical one
+# 13B · Discovery Story
 
-**The logical fix:** a long-cut compression undershirt that holds the extra skin flat under his shirt.<br>**The emotional fix (what he's really buying):** ***"The outside finally matches the work I did."*** He gets to feel **finished, normal and proud** in a shirt *today*, without waiting years or paying for surgery. (Hormozi: sell the identity — "the guy who did it" — not the garment.)
+**Built from §18B candidates L1 + L3 (the spine), C1 (the villain) and C2 (the G3 turning point).** Working name: **"The belt men stopped talking about."** Every fact is sourced; nothing is invented — no founder, no doctor, no "rediscovery".
 
-Evidence (real, sourced):
+1. **The struggle before (1819):** London dandies had servants haul on their stays to fake the waist fashion demanded; his French hairdresser "jeeringly refers to his master's 'John Bull Belly'" (Met Museum, "Laceing a Dandy", anonymous artist, published by Thomas Tegg, January 26, 1819) [S216] VERBATIM. Soldiers and hunters wore stays too — *The Workwoman's Guide* (1838) says stays were "worn by gentlemen in the army, hunters, or by those using violent exercise" (as quoted via the USS *Constitution* Museum's paraphrase; book wording from search snippets) — including a War-of-1812 US Navy purser's (USS *Constitution* Museum) [S218]; a German officer was wearing his corset when French troops captured him in 1916 (Australian War Memorial — which says it was for vanity or back support) [S219] VERBATIM.
+2. **The quiet golden age (1919–1930s):** a Paris men's magazine (*Monsieur*) advertised the "Ceinture Anatomique", "promoted by one Dr. Namy", for "sportsmen, motorists, and any other men who were 'beginning to grow a belly'"; a Berlin men's magazine ran the "Gentila Herrengürtel" ad "on a weekly basis from 1919 to 1929"; Royal Worcester Corset Co. sold a unisex belt from 1925 (Bard Graduate Center) [S220] VERBATIM. A 1936 US ad: **"When the mirror shows a bulge, don't worry . . . step out with the Bracer"** [S221] VERBATIM — the Bracer was a **"supporter belt"**: a jock pouch on a wide elastic belt that "gently pulls your stomach in… your clothes fit trimmer" (Collier's ad, May 1, 1948) [S253] VERBATIM. (§20: run 2's earlier "it was only an athletic supporter" correction was itself wrong.)
+3. **Faded (1940s–50s):** "Men's stomach belts seem to have fallen out of favor by the 1940s, thanks to looser tailoring in men's fashion" [S220] VERBATIM — the stand-alone belt faded, while the idea survived inside the Bracer supporter belt (still advertised in 1948–49 as "first in popularity everywhere" [S253]); the stigma made it unspeakable; the 2009 press laughed at the "mirdle" [S223] (run-1, not re-checked).
+4. **The gap got filled with promises (2002–2014):** electric ab belts sold "Now you can get rock hard abs with no sweat" and "Lose 4 Inches in 30 Days Guaranteed" until the FTC charged them (2002); Fast Abs marketers paid over $5 million (2003) [S239] VERBATIM. Caffeine-infused women's shapewear was sold on claims the FTC summarised as "destroy fat cells"; Wacoal and Norm Thompson paid $1.5M, and the FTC's consumer-protection chief Jessica Rich said: **"If someone says you can lose weight by wearing the clothes they are selling, steer clear."** [S238] VERBATIM.
+5. **The false dawn (2010–2025):** Spanx for Men launched in 2010, relaunched in 2021 and again in 2024, "but today their website offers no male shapewear at all"; Skims' men's line "contained nothing you could really describe as shapewear… Almost three years later, it still hasn't arrived" (The Guardian, 2025-12-14) [S213] VERBATIM. Men kept buying — quietly, on Amazon ("Nobody wants to admit to wearing it, really, do they?" — historian Dr Alun Withey [S213]).
+6. **The turning point (G3 version):** GLP-1s and surgery made millions of men lose weight fast. Surgeons now say "If you lose a significant amount of weight, you're going to have loose skin", and the top male procedure "by far is a lower body lift… removal of that ring of extra tissue" (ASPS, 2025-09-18) [S231] VERBATIM; "Body contouring procedures such as lifts instead grew for men" [S234]. The simple old idea — **hold it evenly, don't squeeze it** — is the one surgeons describe ("a full-length body so the shirt stays in place", §13). ⚠ We borrow the *principle* only — never a medical or post-op claim; even burn-unit pressure garments' efficacy "has never been scientifically proven" [S235] VERBATIM.
+7. **Real emotional beats (from the bank):** "I wore it to my cousin's wedding… for anyone like me who lost a lot of weight and still has some annoying excess skin… I looked great in all the pictures taken" ([Zappos 5★](https://www.zappos.com/product/review/7793804) · VERBATIM) · "I've lost 90 pounds… I was the guy who never took his shirt off at the pool or beach." (r/Mounjaro · SNIPPET) · "Going to a class reunion in 2 hrs. This video was a direct gift from God." ([YouTube](https://www.youtube.com/watch?v=6OUq5lXdNSw) · VERBATIM) · "Why is your belly sticking out of your shirt?" — his daughter, at the playground (r/daddit · SNIPPET).
 
-- **Finished / real progress:** "I can now put on the right size clothes and not look silly… I feel so much more confident, like I am making real progress… helping me to be a better husband and father." (Underworks testimonial [S33] VERBATIM) → true size + husband/father identity.
-- **Social freedom:** "you gave me confifent to walk among people and travel especially after I had my gastric sleeve surgery." (Underworks testimonial [S33] VERBATIM)
-- **The work shows:** "When I wear compression clothing, my skin moves into place and I actually look more jacked than I am" — posted in a thread titled "Having sex for the first time since losing 185 pounds. I am terrified." ([r/loseit](https://www.reddit.com/r/loseit/comments/wqc4h7/having_sex_for_the_first_time_since_losing/), SNIPPET) → less fear in the moment that matters most.
-- **Relief:** "these compression tank tops are unironically saving my life" ([r/gynecomastia](https://www.reddit.com/r/gynecomastia/comments/1o1exp0/these_compression_tank_tops_are_unironically/), SNIPPET) · "I felt like a new man." (trg-007, VERBATIM)
-- **Permission not to need surgery yet:** "Compression garments are my friend. I don't want surgery because my goal is to be healthy and happy with myself" ([r/loseit](https://www.reddit.com/r/loseit/comments/1hllpho/those_of_you_that_have_lost_60_lbs_how_mu/), SNIPPET)
-- **What he's escaping:** "I feel more self conscious now with the skin than the fat." ([r/loseit](https://www.reddit.com/r/loseit/comments/t9gfy8/excess_skin_after_weight_loss_any_ways_to_lose_it/), SNIPPET)
+**The honest frame:** *"An old, simple idea men stopped talking about — an even hold under the shirt — made thin enough to wear under a dress shirt, and sold without the promises that got the last ones fined."*  
+**Variants:** G1/G5 open on beat 1–2 (the belly under the coat is 200 years old); G2 opens on beat 5 (the brands that quit on men); G3 opens on beat 6 (nobody warned you about the skin).
 
-**Relief counts:** relief is the #2 emotional tag in the whole bank (91), and #1 in W1 rows (17). Pride shows up 38 times — mostly *after* it worked ("Heck I got pecs for the first time in my life").
+**So What → do this:** the advertorial spine is real history + an FTC-documented villain — it lets us say "it doesn't burn fat" as the hero line, not a disclaimer.
 
-**So What → do this:**
+---
 
-- Every page ends on the identity payoff, not the garment: "Wear your real size. Take the photo. Go to the pool."
-- The guarantee and the size-down swap make it **safe to feel finished now**. You can keep losing — we'll swap your size.
+# 16 · Psychological solution
+
+**The logical fix:** a shirt that makes the chest and belly look flatter under clothes. **The emotional fix underneath (Hormozi):** **he stops thinking about it.** No more watching himself — pulling the shirt down, sucking in, checking the reflection, dreading the pool, keeping the T-shirt on in bed.
+
+- "I've spent my entire life constantly pulling down my shirt in public to hide my man boobs." (§10) → the vigilance he wants to quit.
+- "i recently wore one of these for 18 hours (on my recent business trip)… when wearing a polo shirt or a smooth dress shirt etc they are a necessity for me." (BariatricPal · VERBATIM [S1]) → forgetting it's on.
+- "I spent my entire adult life being afraid to swim because of my loose skin, today that changed!" (r/Swimming · SNIPPET [S1]) → permission to live normally.
+- "Oh come on - it actually makes me feel more confident, more powerful, for some reason." (Styleforum · VERBATIM [S1]) → feeling like a man again.
+- "I looked at a picture at the beach taken two years ago and one taken last week and I did not recognize the guy in the second picture." (BariatricPal · VERBATIM [S1]) → G3: the mirror finally catching up with the work.
+
+**Per group:** G3 — *"finally look like the man I worked to become"* · G2 — *"stop hiding my chest; wear the white tee"* · G1 — *"tuck it in and forget about it"* · G5 — *"look sharp at my daughter's wedding, not old"*.
+
+**So What → do this:** sell **relief from vigilance** ("forget you're wearing it — and forget about it"), not slimness. The identity line (§4B) is the emotional fix said out loud: look like the man you are now.
 
 ---
 
 # 17 · Features → benefits
 
-**Every feature, chained:** benefit → desire hit → struggle removed → objection raised → how it's handled. ⚠ marks a weak claim or a product–mechanism mismatch.
+**Supplier spec access:** the CJ spec tab (fabric %, size chart in cm, length, compression) sits behind a **"Human verification" bot check and then a login** — stopped there, not circumvented [S201][S202]. Found on CJ's own mirror ([qksource.cn](http://qksource.cn)): exact title, **$4.59**, product id 2078410159890235394, **"Lists: 3"** — only **3 CJ stores** carry this exact SKU (vs 1,278 for a similar "Men Body Tummy Shaper Vest") — low dropshipper saturation [S202] DATA. Thumbnail viewed: a **sleeveless scoop-neck tank, wide straps, seamless-knit look, a knitted chest band, vertical rib panels on the belly, a plain hem band (no silicone grip visible)** [S203] VERBATIM (panel *function* = INFERENCE).
 
-**Spec status:** the CJ listing is behind a bot check (not bypassed). So only Nikita's listing facts are known: 180 g; black / grey / navy / beige-nude / white; S–3XL; ships from China, 1–3 days processing + 4–9 days CJPacket. **Unknown until a sample is in hand:** fabric %, body length per size, hem, chest panel, opacity, heat, true sizing.
+| Spec | Value | Source |
+| --- | --- | --- |
+| Sizes · colours · weight | S–3XL · black, grey, navy, beige/nude, white · 180 g | brief + [S203] |
+| Fabric % · compression level · torso length · size chart (cm) | **UNKNOWN** (login wall). Category refs: 82/18 nylon/elastane [S205]; 80/20, length ~67–71 cm [S207]; CN listings run "1 to 2 sizes smaller than European and American" [S210] | — |
+| Hem / seams / opacity of white & nude | **UNKNOWN** — needs the sample | — |
 
-| Feature | Benefit | Desire it hits (§10) | Struggle it removes | Objection it raises | How we handle it |
-| --- | --- | --- | --- | --- | --- |
-| Compression tank worn under clothes | Chest and belly look flatter in a T-shirt or dress shirt the moment it's on | look flat in shirt (56) · fitted shirts (25) | "my chest is a disaster zone" | just hides it (9) · only works while worn (16) | Own it: "It won't fix your skin. It fixes how your shirt looks." (§11) |
-| Holds soft tissue / loose skin close to the body | Skin stops moving and folding under the shirt; "keeps things in place" when he runs | hide it invisibly (49) · comfort all day (49) | "keep things from flying all over the place when I run" | ⚠ **MISMATCH RISK:** he may expect skin tightening (5 misconception tags) | Say "holds / smooths / flat under your shirt". Never "tightens / firms" (§2B) |
-| Sleeveless tank cut | Hidden under T-shirts, polos and dress shirts; cooler than a full tee | hide it invisibly | undershirt sleeves showing | ⚠ doesn't cover arm skin (W1 men often have arm skin too) | State scope plainly: chest + belly only |
-| ⚠ **Body length per size — UNKNOWN** | (if long) stays below the belt when sitting → the P2 proof | stays down (29 needs) · long torso (36) | "constantly rides up due to length" | rolls up / too short (30 tag hits) | **Measure the sample.** If it's short, source a longer version (Tusq / Qore make "Tall" lengths) before launch — the single biggest product risk |
-| ⚠ **Hem (grip band?) — UNKNOWN** | (if gripping) doesn't roll at the waist crease | stays down | "Too short. Constantly rolls up" | rolls up | Sample sit/bend/arms-up test on film |
-| ⚠ **Chest panel / layers — UNKNOWN** | (if a full front panel) lays the chest skin flat | look flat in shirt | soft chest after loss (101 chest snippets) | "the part that's supposed to compress the chest is so loose it actually stands away from me" | Sample check. Never "reduces gyno" |
-| ⚠ **Compression strength — UNKNOWN** (supplier says "compression") | Real hold, not a printed T-shirt | strong compression (84 needs) | — | not strong enough (73) — #1 objection | **Launch gate:** if the sample feels like a T-shirt, don't sell it |
-| 5 colours incl. **white and beige/nude** | Invisible under a white dress shirt (wedding, office) | invisible under white (9) | "needed a white one for under my suit" | ⚠ opacity and strap width unknown · shows lines (11) | White-shirt test on the sample before saying "invisible" |
-| Sizes S–3XL | Fits most men after weight loss | right size fit (75) | sizing up 2–3 sizes | sizing wrong (70); ⚠ **3XL ceiling** excludes the big & tall runner-up; Asian charts run small | Our own measured chart + fit-finder + free swap |
-| 180 g light knit | Wearable for a full workday, and in summer | comfort all day (49) | "Gets very hot all day and I sweat in this thing" | too hot (8) · too tight (26) | ⚠ Don't claim "breathable" until the fabric % is known |
-| Ships from China (CJ): 1–3 days + 4–9 days | — | — | — | slow shipping (14); ⚠ event buyers ("my wedding's in 3 weeks") need it fast | State real dates. No "for this weekend" urgency |
-| Landed ≈ US$11.90 (cost headroom) | Room for 3- and 5-packs: wear one, wash one | durable wash (33) | re-buying as he shrinks | price (33) | Bundles + a size-down swap (§15) |
-| No medical, weight-loss or "ionic" claims (a feature by omission) | He isn't sold a miracle | — | "fooled again!" | scam / ad lied (36) | Shown through the demo and what we don't claim (never as a trust slogan) |
+| # | Feature | → Benefit | → Desire | → Struggle removed (quote) | → Objection it raises | → How we handle it |
+| --- | --- | --- | --- | --- | --- | --- |
+| F1 | Compression knit body | chest + belly look flatter under a tee / dress shirt the moment it's on | look flat in a shirt | "I wore it to my cousin's wedding… I looked like I had a tummy tuck when I was all dressed up" ([Zappos 5★](https://www.zappos.com/product/review/7793804) · VERBATIM) | ⚠ "when you're sitting… your stomach will show through" (same) · "slimmed my tummy down by 1 inch. I can suck it in better than that!" (Zappos 1★) | promise the *look in clothes*, never inches; show a seated shot honestly |
+| F2 | Knitted chest band | softer chest pressed flatter; less nipple outline | hide it invisibly | "my nipples poke through dress shirts and polos" (Reddit · SNIPPET) | ⚠ **MISMATCH for firm gland / medication gyno** — "once they grow, truly only way… is by surgery" ([HealthUnlocked](https://healthunlocked.com/advanced-prostate-cancer/posts/151939618/man-boobs-from-adt) · VERBATIM) | "flatter-looking chest under your shirt", never "fixes gyno"; honest scope line on the PDP |
+| F3 | Belly rib panels | soft belly held in; love handles smoothed | fitted shirts | "pulled in my gut so I could fit into my pants lol" (site review · SNIPPET [S214]) | ⚠ **MISMATCH for big, firm bellies** — "they actually lift up my belly and make it stick out more" (YouTube · VERBATIM) | never show a big overhanging belly "erased"; show soft belly → smoother line; length + hem are the real fix (sample) |
+| F4 | Sleeveless, wide straps, scoop neck | hides under tees, polos, dress shirts | hide it invisibly | "I usually wear a polo shirt to work and the compression shirt was very hard to see" (site review · SNIPPET [S214]) | ⚠ may show under an open collar / V-neck; arms not covered (G3 arm skin); a tank holds the chest a bit less than a T ("the sleeveless ones a bit less") | state scope: chest + belly; shoot under a white crew tee *and* an open collar before claiming "invisible" |
+| F5 | Plain knitted hem (no silicone) | — | stays down | — | ⚠ **rolls up = core category objection (66)** | **sample test #1**; if it rolls, teach "tuck it into your waistband" — never claim "never rolls" |
+| F6 | Torso length (UNKNOWN) | covers the lower belly / loose-skin ring | long torso | "a 'ring' of loose skin that gravity's placed around my lower abdomen" (run-1 bank) | ⚠ the #1 G1/G3 risk | measure M + XL; if \< ~66 cm on XL, the G3 lower-belly promise is off |
+| F7 | S–3XL, China-cut | fits most men up to ~US 2XL | right size | "I'm a 2XL, and wanted to get one for an upcoming wedding" (YouTube · VERBATIM) | ⚠ our "3XL" may fit a US 2XL → **G4 excluded**; "Worst sizing recommendation. More like an act of body shaming" (Zappos 1★) | our own measured chart in inches (chest + waist), "between sizes → size up", free swap; don't target big & tall |
+| F8 | 5 colours incl. white + nude | under a white dress shirt at work / a wedding | invisible under white | "lady at work… glancing down to my chest" ([gynecomastia.org](http://gynecomastia.org) · VERBATIM) | ⚠ opacity unknown; nude-under-white less visible = INFERENCE | shoot nude + white under a white shirt on the sample first |
+| F9 | 180 g light knit | wearable all day | comfortable all day | "I wore it all day and was never uncomfortable… The shirt breathes very nicely" (Zappos 5★, Spanx) | ⚠ "Tight, hot, uncomfortable" (Zappos 1★); "By 4pm, I can't stand it any more" (Guardian reporter [S213]) | no "cooling/breathable" until fibre % is known; honest wear guidance (day/event, not 24/7) |
+| F10 | Pull-on, no hooks/zip | simple, discreet | easy on/off | "youre supposed to step into the shirt and the pull it up your body, it's actually really easy that way" (YouTube · VERBATIM, 49 likes) | ⚠ "It is really tough to get on" (Zappos 5★) — critical for G5 shoulders | "step in, pull up" on the PDP + a GIF |
+| F11 | Price headroom (landed $11.90) | room for a multi-pack (wear one, wash one; nude + white + black) | survives the wash | — | "overpriced (by at least 3X) scam of a garment!" (Zappos 1★) | bundle + guarantee; never "premium / medical-grade" |
+| F12 | Ships from China, 5–12 business days | — | — | — | ⚠ event deadlines: "class reunion in 2 hrs", "pool party… in two days" | show a delivery date at checkout; no "for this weekend" urgency |
 
-**Weak claims or mismatches flagged:** ⚠ skin tightening (never) · ⚠ length/hem/chest/strength (unproven until the sample) · ⚠ breathable (unproven) · ⚠ invisible under white (unproven) · ⚠ 3XL ceiling (limits sub-avatar #4) · ⚠ shipping speed for events.
+**Weak-claim / mismatch register (supplier title words):** "Slim" / "Body Shaper" → appearance only, magnitude unknown (Spanx XL "did not make any measurable change in my waist" — Zappos 1★) · "Tummy Control / Hide Pot Belly" → partial mismatch (can push a large belly forward) · "Flatten Chest" → mismatch for glandular / medication gyno · "Compression" → level unknown · **never add** "fat burning", "sweat", "posture / back support", "lymphatic / ionic / detox", "medical-grade" (FTC 2014: "If someone says you can lose weight by wearing the clothes they are selling, steer clear" [S238]) · "Tightens loose skin" → mismatch (ASPS: skin "doesn't have the elasticity to bounce back" [S231]).
 
-**So What → do this:** **order the sample (M + XL, black + white) before any copy goes live.** 7 of the 12 make-or-break facts are unknown, and two of them decide whether this SKU can carry the mechanism at all: length/hem and real compression.
+**What matters most per group:** G3 — length (lower-belly ring) → hem → soft seams over folds → **size swap** (body still changing) · G1 — length + stay-down hem → belly panel → nude for the office · G2 — chest band → opacity under white → heat → discreet shipping · G5 — **easy on/off** → comfortable compression → chest band · G4 — size range (fails).
 
----
-
-# 18B · Curiosity & Corruption angles (hook fuel)
-
-The history search was run **once**. §13B picked its story from here, by name. Searches covered: Victorian men's corsets (museums) · 1920s–30s men's girdles ("Director belt", "Bracer") · Bauer & Black Bracer · 1950s–60s men's girdle ads · cavalry/Prussian officers' corsets · Spanx men 2010 · Equmen's origin · Under Armour's origin · Conrad Jobst · post-lipo compression history · NCHS obesity 1960–2018 · ultra-processed food share · gynecomastia and endocrine disruptors · Slimane slim fit · Japan's metabo law · GLP-1 loose skin and plastic surgeons.
-
-## Type 1 — Lost / forgotten solution (pre-1960): 5 candidates
-
-| # | Candidate | Dated facts | Source · solidity |
-| --- | --- | --- | --- |
-| L1 | **Bauer & Black "The Bracer"** — a 1930s US men's abdominal supporter belt | 1936 ad: **"When the mirror shows a bulge, don't worry . . . step out with the Bracer"**; April 1940 Elks Magazine ad '"MIDSECTION SAG" STEALS PEP_ SPOILS APPEARANCE' | [S27] [atticpaper.com](http://atticpaper.com) (dealer transcription, no magazine named) VERBATIM · [S44] Elks Magazine 1940 scan VERBATIM · ⚠ §20: "LIFE 1937-09-06 / 1939-03-06" = **UNVERIFIABLE** (only a collector forum; Google Books blocked) → never print; "1939" for "Midsection Sag" dropped |
-| L2 | **Men's stomach belts, 1920s–30s** (Europe + US) | Elancia's rubber "Man's Stomach Belt" with holes for "air circulation"; *Monsieur* (first half of the 1920s, from Feb 1920) "Ceinture Anatomique" for "sportsmen, motorists, and men 'beginning to grow a belly'"; Germany's "Gentila Herrengürtel" advertised weekly 1919–1929; US Royal Worcester "The New Medallion" 1925. **"Men's stomach belts seem to have fallen out of favor by the 1940s, thanks to looser tailoring in men's fashion."**; ads called them "support" to downplay their "vain, corrective function" | [S26] Bard Graduate Center, *Fashioning the Body* — VERBATIM |
-| L3 | **Military men's stays / officers' corsets** | USS *Constitution* purser Thomas Chew's stays, 1810–1820; 1838: "men's stays were used in the army, for hunting, and for strenuous exercise"; German WWI officer's corset taken from a POW at Dickebusch, 1916; a c.1930s Spanish men's elastic belt "for back and abdominal support" | [S24] USS Constitution Museum · [S25] Australian War Memorial (2016-01-04) · [S34] Underpinnings Museum — VERBATIM |
-| L4 | **The 1916 "Wonder Health Belt"** (cautionary contrast) | "endorsed by physicians and surgeons… recommended for obesity, constipation, spinal deformities, and floating kidneys" | [S35] [periodpaper.com](http://periodpaper.com) original-ad listing — VERBATIM. Use only as "the overclaiming we refuse to do" |
-| L5 | **The male girdle that vanished (and the taboo)** | "Advertisements for male girdles became popular in the 1930s but many of the products struggled to look different than women's undergarments." (AP story, 2009); "has anyone ever seen an ad for a he-girdle? Anyone? Of course not." (2010 humour column, Sandra Babcock — colour only, not evidence) | [S28] Spokesman-Review/AP 2009-03-14 · [S36] Spokesman-Review 2010-12-04 — VERBATIM (§20-corrected wording) |
-
-**What happened to it:** it wasn't suppressed. It was **shamed and tailored away** — the "effeminate" stigma plus looser 1940s suits — and it came back only when slim fits returned (Equmen 2007, Spanx 2010). Honest framing: "forgotten", never "banned".
-
-## Type 2 — Corruption / "Fall from Eden": 5 candidates (+1 rejected)
-
-| # | Candidate | Facts | Source · solidity |
-| --- | --- | --- | --- |
-| C1 | **The problem used to be ~4× rarer** | US male obesity: 10.7% (1960–62) → 39.7% (Aug 2021–Aug 2023), men 20–74 | [S37] CDC/NCHS Health E-Stat 111 (Feb 2026), Table 1 — VERBATIM |
-| C2 | **The GLP-1 era created loose skin at scale** — a new problem, not an old one | Gallup 2025: 12.4% of US adults used a GLP-1 for weight loss (**men 9.7%**); ⚠ §20 correction: Gallup's July 2026 release puts *current* use at **11%** (15% ever), with no sex split — use "about 1 in 10 adults" in copy. ASPS (2025-09-18): "If you lose a significant amount of weight, you're going to have loose skin". Duke (2026-07-08): "We're seeing an explosion of patients coming in and asking, 'What can you do for this extra skin?'" | [S38] Gallup · [S39] ASPS · [S30] Duke — VERBATIM. ("~70% of men having cosmetic surgery had GLP-1 history, Q1 2026" is a secondary source only → **don't use** until the ASPS primary is found) |
-| C3 | **Slim-fit shirts made it show** | Hedi Slimane's Dior Homme (from 2000): "a radically slim silhouette … acting as a prototype for men's fashion throughout the decade" (McCauley Bowstead 2015; §20-corrected) — the mirror image of L2 (looser tailoring killed the stomach belt; slim tailoring brought the problem back). Equmen's founder (2009): it "helps men get into the latest slimmer-fitting suits" | [S40] UAL Research Online + [encyclopedia.com](http://encyclopedia.com) — SNIPPET · [S26] · [S28] VERBATIM |
-| C4 | **Ultra-processed food took over the diet** | NYU NHANES: UPF share of adult calories 53.5% → 57.0% (2001-02 → 2017-18); CDC (Aug 2025) ~55%. Sources disagree on the recent direction | [S41] PubMed 34647997 (captcha — not bypassed; figures from snippet) + Al Jazeera on CDC — SNIPPET → weak |
-| C5 | **A group without it: Japan** | 2008 "Metabo law": waist limit 85 cm for men aged 40–74 is screened; obesity rate ~3.5–4.5% (sources conflict) | [S42] PRI The World 2017 + others — SNIPPET → weak, verify OECD/MHLW first |
-| ✗ | Estrogenic chemicals → "rising gynecomastia" | **REJECTED:** a 2026 systematic review rests on "partial experimental evidence"; prevalence estimates range 24–65% "due, in part, to differences in the definition" → no trend can be shown | [S43] PMC12909171 — SNIPPET. Contested; don't use |
-
-## Ranking → what to use
-
-1. **Best hook: C2 — "The drugs took the weight. Nobody told you about the skin."** It's the newest, true and surgeon-sourced, and it maps 1:1 to W1. ⚠ §20: InShape now runs a "men after GLP-1" page (since 2026-10-13), so the hook is contested-early — differentiate on "nobody told you" + the mechanism. Frame the drug as **working**: the enemy is "nobody told you", never the patient or the medicine. ⚠ §2B: no drug names in the ad itself → say "the weight-loss shots" only in third-person articles, or just "big weight loss".
-2. **Runner-up: C3 + L2, "tailoring decides"** — the belt vanished when suits got loose and the problem came back when shirts got slim. Fully sourced, non-medical, good for the broad market.
-3. **C1** = supporting stat, not a hook. **C4/C5** = weak (contested or secondary).
-4. **§13B spine = L1 + L2 + L3** (the forgotten male support lineage) + Jobst 1950 as the turning point.
-
-**So What → do this:** use C2 as the cold W1 hook family, and L1–L3 as the advertorial's "aha". Always say "forgotten", never "suppressed".
+**So What → do this:** **order 2 samples (M + XL, white + nude)** and measure length, fabric %, hem grip, chest band, opacity, seated belly line and heat before any product claim goes live. The two mismatches that can sink reviews: big-belly push-out (G1) and glandular chest (G2/G5) — handle with honest scope lines, not bigger promises.
 
 ---
 
-# Sources (Doc 3)
+# 18B · Curiosity & Corruption Angles (hook fuel)
 
-Accessed 2026-10-28 unless dated otherwise. Customer quotes link to their own URLs (each is a row in the §2C data bank).
+**The history search ran once (§13B picks from here).** Searches: "history of men's corsets / stays", "men's girdles 1920s 1930s 1950s", "Bauer & Black Bracer", "Spanx for men history", "dad bod origin", "FTC ab belt / slimming clothing cases", "GLP-1 loose skin men plastic surgery", "gynecomastia binder history", "police / military undershirts slimming".
 
-- [S1] Subreddit sizes (GummySearch snapshots ≤2025-11) — [https://gummysearch.com/r/loseit/](https://gummysearch.com/r/loseit/) · [https://gummysearch.com/r/BariatricSurgery](https://gummysearch.com/r/BariatricSurgery) · SNIPPET
-- [S2] BariatricPal Guys' Room sorted by replies — [https://www.bariatricpal.com/forum/431-the-guys-room/?sortby=posts&sortdirection=desc](https://www.bariatricpal.com/forum/431-the-guys-room/?sortby=posts&sortdirection=desc) · VERBATIM
-- [S3] Dr. Anthony Youn — [https://www.dryoun.com/blog/5-things-nobody-tells-you-about-loose-skin/](https://www.dryoun.com/blog/5-things-nobody-tells-you-about-loose-skin/) (2026-06-16, VERBATIM) · [https://www.youtube.com/@doctoryoun](https://www.youtube.com/@doctoryoun) (5.57M subs, SNIPPET) · [https://www.tiktok.com/@doctoryoun](https://www.tiktok.com/@doctoryoun) (8.5M, SNIPPET)
-- [S4] Jim Brantner MD, "Can compression garments help loose skin?" (2026-06-14) — [https://jimbrantnermd.com/can-compression-garments-help-loose-skin/](https://jimbrantnermd.com/can-compression-garments-help-loose-skin/) · VERBATIM at collection; 403 on §20 re-check → SNIPPET-confirmed
-- [S5] Healthline, Loose skin after weight loss (med-reviewed 2024-11-29) — [https://www.healthline.com/nutrition/loose-skin-after-weight-loss](https://www.healthline.com/nutrition/loose-skin-after-weight-loss) · VERBATIM
-- [S6] The Aesthetic Society Q&A, answer by Dr. Alexander G. Nein MD (2014) — [https://www.theaestheticsociety.org/ask-question/98886](https://www.theaestheticsociety.org/ask-question/98886) · VERBATIM
-- [S7] Staalesen et al., Obes Surg 2013 — [https://pubmed.ncbi.nlm.nih.gov/23666714/](https://pubmed.ncbi.nlm.nih.gov/23666714/) · VERBATIM (abstract)
-- [S8] Kitzinger et al., Obes Surg 2012 — [https://pubmed.ncbi.nlm.nih.gov/22101887/](https://pubmed.ncbi.nlm.nih.gov/22101887/) · VERBATIM (abstract)
-- [S9] Pseudogynecomastia after massive weight loss — PubMed 39838129, 22173651, 31451852, 29916894 (abstracts) · SNIPPET
-- [S10] Toms et al., Aesthet Surg J 2024 (GLP-1 → body contouring, dose-dependent) — [https://pubmed.ncbi.nlm.nih.gov/38620005/](https://pubmed.ncbi.nlm.nih.gov/38620005/) · VERBATIM (abstract)
-- [S12] Cleveland Clinic, Gynecomastia (2024-07-09) — [https://my.clevelandclinic.org/health/symptoms/16227-enlarged-male-breast-tissue-gynecomastia](https://my.clevelandclinic.org/health/symptoms/16227-enlarged-male-breast-tissue-gynecomastia) · VERBATIM
-- [S13] Arroyo Plastic Surgery (Houston) — [https://www.arroyoplasticsurgeryhouston.com/blog/you-lost-the-weight-so-why-does-your-chest-still-look-like-this/](https://www.arroyoplasticsurgeryhouston.com/blog/you-lost-the-weight-so-why-does-your-chest-still-look-like-this/) · VERBATIM
-- [S14] Garment pressure / Laplace's law — PubMed 20628306 (J Burn Care Res), 30638979 (J Biomech), PMC12336246 (Front Bioeng 2025) · SNIPPET (abstracts)
-- [S24] USS Constitution Museum, Thomas Chew's stays — [https://ussconstitutionmuseum.org/collection-items/thomas-chews-stays/](https://ussconstitutionmuseum.org/collection-items/thomas-chews-stays/) · VERBATIM
-- [S25] Australian War Memorial, German officer's corset (2016-01-04) — [https://awm.gov.au/articles/blog/german-officers-corset](https://awm.gov.au/articles/blog/german-officers-corset) · VERBATIM
-- [S26] Bard Graduate Center, "Man's Stomach Belt" (Kirstin Purtich) — [https://www.bgc.bard.edu/research-forum/articles/84/mans-stomach-belt](https://www.bgc.bard.edu/research-forum/articles/84/mans-stomach-belt) · VERBATIM
-- [S27] 1936 Bauer & Black Bracer ad (dealer listing) — [https://www.atticpaper.com/proddetail.php?prod=1936-bauer-black-bracer-athletic-supporter-ad](https://www.atticpaper.com/proddetail.php?prod=1936-bauer-black-bracer-athletic-supporter-ad) · VERBATIM; LIFE issue dates via [https://yourjockstraps.com/threads/jock-historian.56/](https://yourjockstraps.com/threads/jock-historian.56/) · UNVERIFIABLE (§20) — not for copy
-- [S28] Spokesman-Review, "Mirdle: girdle for men hits retailers" (2009-03-14) — [https://spokesman.com/stories/2009/mar/14/mirdle-girdle-for-men-hits-retailers](https://spokesman.com/stories/2009/mar/14/mirdle-girdle-for-men-hits-retailers) · VERBATIM
-- [S29] JOBST history — [https://www.jobst-usa.com/compression-therapy/about-jobst](https://www.jobst-usa.com/compression-therapy/about-jobst) · VERBATIM
-- [S30] Duke School of Medicine, "In the age of GLP-1s, plastic surgeons face a new reality" (2026-07-08) — [https://medschool.duke.edu/news/age-glp-1s-plastic-surgeons-face-new-reality](https://medschool.duke.edu/news/age-glp-1s-plastic-surgeons-face-new-reality) · VERBATIM
-- [S31] Stanford Magazine, "Girth Control" (Sept/Oct 2009, Equmen) — [https://stanfordmag.org/contents/girth-control](https://stanfordmag.org/contents/girth-control) · VERBATIM
-- [S32] V&A, Spanx "Manx" men's undershirt (2010) — [https://collections.vam.ac.uk/item/O1359558](https://collections.vam.ac.uk/item/O1359558) · Stanford GSB (2018-06-21) [https://www.gsb.stanford.edu/insights/sara-blakely-start-small-think-big-scale-fast](https://www.gsb.stanford.edu/insights/sara-blakely-start-small-think-big-scale-fast) · VERBATIM
-- [S33] Underworks homepage testimonials — [https://www.underworks.com/](https://www.underworks.com/) · VERBATIM
-- [S34] Underpinnings Museum, elastic & leather sports belt — [https://underpinningsmuseum.com/Museum-Collections/elastic-leather-sports-belt/](https://underpinningsmuseum.com/Museum-Collections/elastic-leather-sports-belt/) · VERBATIM
-- [S35] 1916 Weil "Wonder Health Belt" ad (dealer listing) — [https://periodpaper.com/products/1916-ad-weil-wonder-health-belt-co-abdominal-muscles-original-advertising-076669-tin2-357](https://periodpaper.com/products/1916-ad-weil-wonder-health-belt-co-abdominal-muscles-original-advertising-076669-tin2-357) · VERBATIM
-- [S36] Spokesman-Review, "Girdles are back" (2010-12-04) — [https://www.spokesman.com/stories/2010/dec/04/girdles-are-back-i-was-just-getting-comfortable/](https://www.spokesman.com/stories/2010/dec/04/girdles-are-back-i-was-just-getting-comfortable/) · VERBATIM
-- [S37] CDC/NCHS Health E-Stat 111 (Feb 2026), obesity trends 1960–2023 — [https://www.cdc.gov/nchs/data/hestat/hestat111.htm](https://www.cdc.gov/nchs/data/hestat/hestat111.htm) · VERBATIM
-- [S38] Gallup (2025-10-28) — [https://news.gallup.com/poll/696599/obesity-rate-declining.aspx](https://news.gallup.com/poll/696599/obesity-rate-declining.aspx) · VERBATIM; superseded by Gallup July 2026 (11% current, 15% ever; no sex split) — see §20
-- [S39] ASPS, "Men using GLP-1s for weight loss" (2025-09-18) — [https://www.plasticsurgery.org/news/articles/men-using-glp-1s-for-weight-loss-how-is-this-impacting-male-plastic-surgery](https://www.plasticsurgery.org/news/articles/men-using-glp-1s-for-weight-loss-how-is-this-impacting-male-plastic-surgery) · VERBATIM
-- [S40] McCauley Bowstead (2015), Slimane / Dior Homme slim silhouette — [https://ualresearchonline.arts.ac.uk/id/eprint/15657/](https://ualresearchonline.arts.ac.uk/id/eprint/15657/) · [https://encyclopedia.com/fashion/news-wires-white-papers-and-books/slimane-hedi](https://encyclopedia.com/fashion/news-wires-white-papers-and-books/slimane-hedi) · SNIPPET
-- [S41] Ultra-processed food share — [https://pubmed.ncbi.nlm.nih.gov/34647997/](https://pubmed.ncbi.nlm.nih.gov/34647997/) (captcha, not bypassed) · [https://www.aljazeera.com/news/2025/8/7/cdc-reports-ultraprocessed-foods-comprise-more-than-half-of-the-us-diet](https://www.aljazeera.com/news/2025/8/7/cdc-reports-ultraprocessed-foods-comprise-more-than-half-of-the-us-diet) · SNIPPET
-- [S42] Japan "metabo law" — [https://theworld.org/stories/2017/03/10/fat-japan-youre-breaking-law](https://theworld.org/stories/2017/03/10/fat-japan-youre-breaking-law) · [https://stripe.jhu.edu/news/waistline-law-in-japan](https://stripe.jhu.edu/news/waistline-law-in-japan) · SNIPPET
-- [S44] The Elks Magazine, April 1940 (Bauer & Black "Midsection Sag" ad) — [https://www.elks.org/magazinescans/1940-04A.pdf](https://www.elks.org/magazinescans/1940-04A.pdf) · VERBATIM
-- [S43] Endocrine disruptors & gynecomastia review (2026) — [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12909171/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12909171/) · SNIPPET (rejected as a hook)
-- Customer/forum quotes: BariatricPal topics 36820, 434635, 332101, 235097 (VERBATIM) · ObesityHelp [https://www.obesityhelp.com/forums/vsg/6015323/quick-compression-shirt-reviews/](https://www.obesityhelp.com/forums/vsg/6015323/quick-compression-shirt-reviews/) (VERBATIM) · London Corset Co. review [https://www.thelondoncorsetcompany.co.uk/blog/innovative-shapewear-for-men/](https://www.thelondoncorsetcompany.co.uk/blog/innovative-shapewear-for-men/) (VERBATIM) · Reddit / Amazon / Trustpilot / Walmart / Zappos links inline.
+## Type 1 — Lost / forgotten solution (pre-1960)
+
+| # | Candidate | Dated facts | Source | Groups |
+| --- | --- | --- | --- | --- |
+| L1 | **"Laceing a Dandy" — the "John Bull Belly" (1819)** | servants haul on a dandy's stays; his French hairdresser "jeeringly refers to his master's 'John Bull Belly'" (Thomas Tegg, January 26, 1819); British Museum dandy satires 1818–19 | [S216] VERBATIM (Met) · [S217] SNIPPET | G1 · G5 — the belly under the coat is 200+ years old |
+| L2 | **Soldiers' and officers' stays** | USS *Constitution* purser's stays, 1810–1820 (linen, whalebone); *The Workwoman's Guide* (1838): "worn by gentlemen in the army, hunters, or by those using violent exercise" (museum paraphrase corrected — §20); a German officer's corset taken by French troops in 1916 (Australian War Memorial) | [S218][S219] VERBATIM (run-1, re-checked) | all — "soldiers wore it" = permission for men |
+| L3 | **1920s–30s men's stomach belts** | the "Ceinture Anatomique", advertised in Paris's *Monsieur* and "promoted by one Dr. Namy", for men "beginning to grow a belly"; the "Gentila Herrengürtel" advertised weekly 1919–1929; Royal Worcester's unisex belt (1925); "fallen out of favor by the 1940s, thanks to looser tailoring" | [S220] VERBATIM (Bard Graduate Center) | G1 · G5 |
+| L4 | **1936 "The Bracer"** | "When the mirror shows a bulge, don't worry . . . step out with the Bracer" — a **supporter belt** (jock pouch + wide elastic belt that "gently pulls your stomach in… your clothes fit trimmer", Collier's 1948); still advertised 1948–49 (§20: the earlier "only an athletic supporter" correction was wrong) | [S221] · [S253] VERBATIM | G1 hook |
+| L5 | 18th-century "corrective devices" for men | historian Dr Alun Withey: "the 18th century is the first time it's not just about… curing deformity. It's about trying to force your body into a shape that is socially desirable" | [S213] VERBATIM | G5 — ⚠ don't import posture claims |
+| L6 | 1950s men's girdles | only a Facebook nostalgia post ("1959 DOLPH'S - MEN'S GIRDLES !") | [S246] SNIPPET — **unverified, not used** | — |
+
+**What happened to it:** looser 1940s tailoring + stigma made the stand-alone belt fade (the Bracer supporter belt carried the idea into the late 1940s) (honest frame: **"forgotten", never "suppressed"**); it came back and **stalled again** — Spanx for Men (2010, relaunched 2021 and 2024) now sells no male shapewear; Skims never shipped any [S213]. Not found: verifiable 1950s men's support undershirts, police/military slimming undershirts, a documented origin of "gyno binders".
+
+## Type 2 — Corruption / "Fall from Eden"
+
+| # | Candidate (common enemy) | Facts | Source | Groups |
+| --- | --- | --- | --- | --- |
+| C1 | **The "burn it off without effort" gadget industry** | FTC 2002: three top ab belts charged over "Now you can get rock hard abs with no sweat", "Lose 4 Inches in 30 Days Guaranteed"; Fast Abs marketers paid >$5M (2003) · FTC 2014: caffeine-infused women's shapewear (FTC summary: claims it would "destroy fat cells"), $1.5M; Jessica Rich, FTC consumer protection: "If someone says you can lose weight by wearing the clothes they are selling, steer clear." | [S239][S238] VERBATIM ([ftc.gov](http://ftc.gov)) | **all — the safest enemy** |
+| C2 | **GLP-1 → loose skin at scale ("nobody warned you about the skin")** | ASPS 2025-09-18: "If you lose a significant amount of weight, you're going to have loose skin"; "About 30 percent of my patients are male"; the top male procedure "by far is a lower body lift… that ring of extra tissue"; "Body contouring procedures such as lifts instead grew for men" | [S231] VERBATIM · [S234] SNIPPET | **G3 lead** |
+| C3 | **"Surgery or nothing"** | male breast reduction 20,879 in 2025 vs 23,838 in 2024 (−12%) — still the most-performed male procedure; men wait years for surgery money ("until someday in the future I hope to have enough income to afford surgery") | [S234] DATA · [S250] VERBATIM | G2 · G5 — "Surgery is one answer. For the other 364 days, there's this." |
+| C4 | "Estrogen-blocker" pills | "no clinical evidence that Gynexin reduces gynecomastia" (⚠ a surgery practice — conflicted); supplements can contain undisclosed PEDs causing "Reversible Gynecomastia" (PMC case report) | [S242] SNIPPET · [S247] SNIPPET | G2 — category-level only, name no brand |
+| C5 | "Nobody told me" — medications that grow male breasts | Mayo lists anti-androgens for prostate cancer, finasteride, spironolactone among causes; an ADT patient: "I wish someone had told me about the drug I could've taken to prevent or diminish them." | [S242] SNIPPET · [S243] VERBATIM | G5 — ⚠ landing-page education only; never "On hormone therapy?" in an ad (§2B) |
+| C6 | The pain used to be ~4× rarer | US men 20–74 obesity 10.7% (1960–62) → 39.7% (2021–23) | [S244] VERBATIM (re-checked in §20 — nearly 4×, 3.7×) | G1 · G5 stat line |
+| C7 | Slim-fit tailoring made it show | belts vanished with loose 1940s tailoring [S220]; slim suits brought it back — "I never seriously thought about wearing Spanx until I was fitted in a slim suit and slim fitting shirt for a wedding" (Zappos · VERBATIM) | [S220] + bank | G1 (wedding / office) |
+| ✗ | "Spot reduction is a myth — the gym lied" | **REJECTED as a hard claim:** a 2023 RCT (n=16 men) concluded "spot reduction exists in adult males" [S240] | — | say "workouts take months; your shirt is tonight" |
+| ✗ | "Ionic / lymphatic shapewear is a scam" | no regulator ruling found; only commentary that "The lymphatic system is not a detox organ" [S241] SNIPPET | — | use only as "we don't claim this" |
+
+**Ranking:** 1. **C1** (FTC-documented, safest, all men — turns "it doesn't burn fat" into the hero line) · 2. **C2** (G3 lead — frame the drug as *working*; enemy = nobody warned you about the skin) · 3. **L1 + L3** (best curiosity hook for G1/G5: verified museum quotes, 1819 + 1920s) · C3 / C5 = G2 / G5 sub-angles (compliance-sensitive) · C4 category-only · C6 / C7 supporting lines.
+
+**Hook bank:** "In 1819 they called it the 'John Bull Belly.'" · "In the 1920s a Paris men's magazine advertised a belt for men 'beginning to grow a belly.' Then it disappeared." · "The FTC fined the 'burn fat while you wear it' crowd. We don't claim that. This just holds it flat." · G3: "Nobody warned you about the skin." · G2: "Surgery is one answer. For the other 364 days, there's this."
+
+**So What → do this:** history gives curiosity (1819 / 1920s), the FTC gives an enemy we can name safely, and GLP-1 gives the G3 turning point. Say "forgotten", never "suppressed".
+
+---
+
+## Sources (Doc 3)
+
+- [S1] the §2C Data Bank — 2,322 customer snippets; bank row ids (e.g. r2sci-049, r2soc-219) point to the row in the Data Bank, which holds the URL · VERBATIM / SNIPPET per row
+- [S100–S149] science / compliance / mechanism sources (numbering = run-2 science lane +100):
+- [S101] [https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/](https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/) · Meta Transparency · change log Jun 26 2024 · read 2026-11-02 · VERBATIM
+- [S102] [https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/) · Meta Transparency · change log Jul 23 2026 / Dec 27 2024 · read 2026-11-02 · VERBATIM
+- [S103] [https://www.facebook.com/business/help/2489235377779939](https://www.facebook.com/business/help/2489235377779939) · Meta Business Help "About Meta's Health and Wellness advertising policy" · read 2026-11-02 · VERBATIM
+- [S104] [https://transparency.meta.com/policies/ad-standards/restricted-goods-services/drugs-pharmaceuticals/](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/drugs-pharmaceuticals/) · Meta · change log Jun 11 2024, Oct 31 2024, Feb 27 2025 · read 2026-11-02 · VERBATIM
+- [S105] [https://transparency.meta.com/policies/ad-standards/objectionable-content/adult-nudity-and-sexual-activity/](https://transparency.meta.com/policies/ad-standards/objectionable-content/adult-nudity-and-sexual-activity/) · Meta · change log May 14 2025 · read 2026-11-02 · VERBATIM
+- [S106] [https://ecfr.gov/current/title-21/section-880.5780](https://ecfr.gov/current/title-21/section-880.5780) · eCFR · current · VERBATIM (gov search)
+- [S107] [https://ecfr.gov/current/title-21/chapter-I/subchapter-H/part-890/subpart-D/section-890.3490](https://ecfr.gov/current/title-21/chapter-I/subchapter-H/part-890/subpart-D/section-890.3490) · eCFR truncal orthosis · current · VERBATIM (gov search)
+- [S108] [https://ecfr.gov/current/title-21/chapter-I/subchapter-H/part-801/subpart-A/section-801.4](https://ecfr.gov/current/title-21/chapter-I/subchapter-H/part-801/subpart-A/section-801.4) · eCFR intended uses · current · VERBATIM (gov search)
+- [S109] [https://govinfo.gov/link/uscode/21/321](https://govinfo.gov/link/uscode/21/321) · 21 USC 321(h) · run-1, not re-checked
+- [S110] [https://ftc.gov/business-guidance/resources/gut-check-reference-guide-media-spotting-false-weight-loss-claims](https://ftc.gov/business-guidance/resources/gut-check-reference-guide-media-spotting-false-weight-loss-claims) · FTC · VERBATIM (gov search 2026-11-02)
+- [S111] [https://ftc.gov/system/files/documents/cases/1409normananalysis.pdf](https://ftc.gov/system/files/documents/cases/1409normananalysis.pdf) + [https://ftc.gov/news-events/news/press-releases/2014/09/norm-thompson-outfitters-wacoal-america-settle-ftc-charges-over-weight-loss-claims-caffeine-infused](https://ftc.gov/news-events/news/press-releases/2014/09/norm-thompson-outfitters-wacoal-america-settle-ftc-charges-over-weight-loss-claims-caffeine-infused) · FTC 2014 · VERBATIM (gov search)
+- [S112–S115] run-1 sources (FTC Health Products Compliance Guidance; 16 CFR 255.2; 16 CFR 465.2; Textile Act/16 CFR 303) · not re-checked
+- [S116] [https://portal.ct.gov/DCP/Common-Elements/Consumer-Facts-and-Contacts/Weight-Loss](https://portal.ct.gov/DCP/Common-Elements/Consumer-Facts-and-Contacts/Weight-Loss) · CT Dept. of Consumer Protection · SNIPPET (gov search)
+- [S117] [https://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/0501.html](https://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/0501.html) · Florida Statutes ch. 501 index · SNIPPET (gov search)
+- [S118] [https://ipwatchdog.com/2024/07/23/a-review-of-novo-nordisks-ozempic-and-wegovy-trademark-enforcement-campaign/](https://ipwatchdog.com/2024/07/23/a-review-of-novo-nordisks-ozempic-and-wegovy-trademark-enforcement-campaign/) · IPWatchdog 2024-07-23 · [https://lawreview.syr.edu/novo-nordisk-files-suit-centered-around-their-ozempic-and-wegovy-medications-again/](https://lawreview.syr.edu/novo-nordisk-files-suit-centered-around-their-ozempic-and-wegovy-medications-again/) · SNIPPET
+- [S119] [https://health.clevelandclinic.org/visceral-fat-vs-subcutaneous-fat](https://health.clevelandclinic.org/visceral-fat-vs-subcutaneous-fat) · Cleveland Clinic · 2025-08-26 · VERBATIM
+- [S120] PMID 21804427 (Vispute et al. 2011, J Strength Cond Res) · PMC10680576 (2023 RCT, Physiol Rep) · abstracts via firecrawl_research · SNIPPET
+- [S121] PMC4326001 (Sexual dimorphism of obesity) · PMID 37312268 (Obesity 2023) · PMID 8044194 · abstracts · SNIPPET
+- [S122] PMC8370708 (Pontzer et al., Science 2021, "Daily energy expenditure through the human life course") · abstract · SNIPPET
+- [S123] [https://my.clevelandclinic.org/health/symptoms/16227-enlarged-male-breast-tissue-gynecomastia](https://my.clevelandclinic.org/health/symptoms/16227-enlarged-male-breast-tissue-gynecomastia) · Cleveland Clinic · reviewed 2024-07-09 · VERBATIM (re-checked)
+- [S124] PMID 12560721 (Rohrich et al. 2003, Plast Reconstr Surg) · abstract · SNIPPET
+- [S125] [https://charlottegynecomastia.com/gynecomastia/compression-shirts-gynecomastia/](https://charlottegynecomastia.com/gynecomastia/compression-shirts-gynecomastia/) · Dr. Jeffrey Ditesheim · published 2026-06-30, modified 2026-08-28 · VERBATIM
+- [S126] [https://gynecomastiala.com/gynecomastia-compression-shirt/](https://gynecomastiala.com/gynecomastia-compression-shirt/) · Dr. Babak Moeinolmolki · published 2026-10-28 · VERBATIM
+- [S127] PMID 27300085 (Peitzmeier et al. 2017, Cult Health Sex) · PMC6298447 (Transgender Health 2018) · PMID 33542145 · abstracts · SNIPPET
+- [S128] PMID 26408934 · PMC3995375 (Breast Care 2014) · PMID 19175864 · PMID 22246094 · abstracts · SNIPPET
+- [S129] PMID 1719016 (MMAS) · PMID 11158037 (BLSA) · PMID 28945276 · abstracts · SNIPPET
+- [S130] PMID 42463833 (Sci Rep 2026) · PMID 24450556 (Geriatr Gerontol Int 2014) · PMC8977978 (J Cachexia Sarcopenia Muscle 2022) · abstracts · SNIPPET; [https://www.webmd.com/healthy-aging/sarcopenia-with-aging](https://www.webmd.com/healthy-aging/sarcopenia-with-aging) · SNIPPET
+- [S131] PMID 26378354 (Neurosurgery 2015) · PMID 17785488 (Ann Intern Med 2007) · abstracts · SNIPPET
+- [S132] PMC6540032 (Int J Mol Sci 2019) · abstract · SNIPPET
+- [S133] PMC12448628 (JCEM 2025) · PMID 17825496 · PMID 10342671 · abstracts · SNIPPET
+- [S134] PMC2770912 gynecomastia prevalence by age (Doc 1 §0) · [https://gynecomastialasvegas.com/how-do-aging-and-weight-gain-affect-wanted-male-chest-contours/](https://gynecomastialasvegas.com/how-do-aging-and-weight-gain-affect-wanted-male-chest-contours/) "about one-quarter of men over 50" · SNIPPET
+- [S135] [https://jimbrantnermd.com/can-compression-garments-help-loose-skin/](https://jimbrantnermd.com/can-compression-garments-help-loose-skin/) · Jim Brantner MD · 2026-06-14 · VERBATIM (run-1, re-checked 2026-11-02)
+- [S136] run-1 Step 1 research (Doc 3 §13) [S23]–[S30], [S33]–[S34], [S36]–[S39] (Healthline, Staalesen 2013, Kitzinger 2012, Toms 2024, MWL pseudogynecomastia abstracts, Arroyo, Aesthetic Society, Youn) · not re-checked
+- [S137] [forum.gynecomastia.org](http://forum.gynecomastia.org) threads, read 2026-11-02, VERBATIM: /gynecomastia-talk/1/do-you-ever-have-bad-days/19469 · /gynecomastia-talk/1/minor-gyno-fit-guy-my-story-pics/33619 (2018-08-21→10-02) · /gynecomastia-talk/1/qu-when-compression-garment-necessary/3395 · /acceptance-garments/30/compression-undershirts-any-long-term-effects-good-bad/21645 · /ask-doctor/38/re-do-compression-shirts-do-any-long-term-damage/20636 (Michael Bermant MD; Dr Jacobs); snippets: /compression-garments/39/under-armour/18660, /acceptance-garments/30/bra-vs-compression-shirt/35541/15, /gynecomastia-talk/1/gyno-suddenly-worse/30115, /asia/23/…/26876, /fat-gynecomastia/5/…/29512
+- [S138] YouTube via Firecrawl Alexandria `youtube-com` (video_details / video_comments / search_videos), observed 2026-11-02 · DATA/VERBATIM: NNvRxJHkNtA (ObesetoBeast, 6,533,810 views) · WH0B9itUICY (FatGuyReviews, 187,563) · ooYveJMdzVY (FatGuyReviews comparison, 19,196) · zATRzQOmHas (Talking With Docs, 872,862) · pXntc3PoEug (Bobby Maximus, 2,509,718) · wyVgM0OOOL0 (Better Pursuits/Esteem, 19,721) · PXm6nMaNCks (Fit Father Project, 727,109) · So9bqBBtbMo (Seth Capehart MD, 170,294) · q60sx6bfZwQ (Live Anabolic, 19,258) · cgi8vdwoneo (alpha m, 38 comments) · k64Jjcw26RA (losetogain) · raw JSON in src/
+- [S139] [https://www.underworks.com/compression-body-shirt](https://www.underworks.com/compression-body-shirt) · Underworks SKU 993, $34.99, "Made in the USA", 12 reviews · read 2026-11-02 · VERBATIM
+- [S140] run-2 ad log (867 rows) + per-group TAKEN tally (Doc 1 §1) · WH-derived · DATA
+- [S141] [https://selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0](https://selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0) · [https://selurewear.com/products/slimflex](https://selurewear.com/products/slimflex) · read 2026-11-02 · VERBATIM
+- [S142] [https://officialaidastore.com/pages/compressionvest-listicle-8-09-1-gk](https://officialaidastore.com/pages/compressionvest-listicle-8-09-1-gk) · read 2026-11-02 · VERBATIM
+- [S143] run-2 Doc 1 Audit first + §1C (North Alpine PDP audit; Primal Viking; Mott & Bow; AT2A) · 2026-11-02 · VERBATIM/DATA as tagged there
+- [S144] [https://www.realmenrealstyle.com/beer-belly-style/](https://www.realmenrealstyle.com/beer-belly-style/) (SNIPPET) · [https://www.youtube.com/user/RealMenRealStyle/videos](https://www.youtube.com/user/RealMenRealStyle/videos) "3.72M subscribers" (SNIPPET) · [https://alpham.com/mens-style-basics/](https://alpham.com/mens-style-basics/) "over 8 million followers combined" (SNIPPET)
+- [S145] Reddit threads — URL per row in the §2C Data Bank · SNIPPET
+- [S147] run-2 Doc 1 §0/§0B/§5 (r/gynecomastia 29k; [gynecomastia.org](http://gynecomastia.org) 33,673 members / 206,543 posts; r/bigmenfashionadvice 71k; KFF; muscle loss 3–8%/decade) · 2026-11-02
+- [S148] run-1 [S31] Laplace / garment pressure abstracts · not re-checked
+- [S149] run-1 [S32] PMC9051004 thermal comfort review · not re-checked
+- [S150] [https://www.hourglassangel.com/blog/-how-to-prevent-shapewear-lines-/](https://www.hourglassangel.com/blog/-how-to-prevent-shapewear-lines-/) · Hourglass Angel (women's shapewear) · VERBATIM · 2026-11-02 (§20)
+- [S151] [https://shaperx.com/blogs/fit-shaping/shapewear-for-back-fat](https://shaperx.com/blogs/fit-shaping/shapewear-for-back-fat) · ShaperX · VERBATIM · 2026-11-02 (§20)
+- [S152] [https://health.clevelandclinic.org/a-doctors-advice-on-wearing-shapewear](https://health.clevelandclinic.org/a-doctors-advice-on-wearing-shapewear) (+ Cleveland Clinic Facebook post) · SNIPPET · 2026-11-02 (§20)
+- [S201–S250] features / triggers / history sources (numbering = run-2 features lane +200):
+- [S201] [cjdropshipping.com](http://cjdropshipping.com) search + product URL — Firecrawl "All scraping engines failed"; Playwright → [https://frontend.cjdropshipping.com/egg/cj/validation.html](https://frontend.cjdropshipping.com/egg/cj/validation.html) ("Human verification") · 2026-11-02
+- [S202] [https://qksource.cn/search/men+slim+body+shaper+tank+top.html](https://qksource.cn/search/men+slim+body+shaper+tank+top.html) (CJ mirror; card: title, "Lists: 3", "$4.59") · product [https://qksource.cn/product/men-slim-body-shaper-tank-top-compression-tummy-control-hide-pot-belly-flatten-chest-undershirt-shapewear-p-2078410159890235394.html](https://qksource.cn/product/men-slim-body-shaper-tank-top-compression-tummy-control-hide-pot-belly-flatten-chest-undershirt-shapewear-p-2078410159890235394.html) (→ login) · 2026-11-02
+- [S203] [https://cf.cjdropshipping.com/8688f75b-2469-49b9-a021-132069b835f9.png](https://cf.cjdropshipping.com/8688f75b-2469-49b9-a021-132069b835f9.png) (listing thumbnail, viewed) · 2026-11-02
+- [S204] [https://blog.cjdropshipping.com/detail/1331129453853495297](https://blog.cjdropshipping.com/detail/1331129453853495297) (2020-11-24, different men's tummy shaper: black/white, six sizes)
+- [S205] [https://veroshape.com/blogs/news/hide-belly-fat-under-clothes](https://veroshape.com/blogs/news/hide-belly-fat-under-clothes) (snippet: 82% nylon/18% elastane, S–3XL, extended hem)
+- [S206] [https://waistsculpt.com/blogs/waist-sculpt-team/hide-your-stomach-under-clothes-styling-guide](https://waistsculpt.com/blogs/waist-sculpt-team/hide-your-stomach-under-clothes-styling-guide) (snippet: 70/30 double-layer, medium-firm)
+- [S207] [https://thenaturalposture.com/products/mens-slimming-body-shaper-under-shirt](https://thenaturalposture.com/products/mens-slimming-body-shaper-under-shirt) (snippet: length ~27–28" / 67–71 cm, 80/20)
+- [S208] [https://www.underworks.com/gynecomastia-shirts](https://www.underworks.com/gynecomastia-shirts) (snippet: chest-inch size chart)
+- [S209] [https://www.fashionbeans.com/article/best-mens-shapewear/](https://www.fashionbeans.com/article/best-mens-shapewear/) (snippet: category specs table)
+- [S210] [https://shop.com/products/7986123866190/gym-clothes-tank-top-sportswear-vest-men](https://shop.com/products/7986123866190/gym-clothes-tank-top-sportswear-vest-men) (meta description: "Asian sizes are 1 to 2 sizes smaller…")
+- [S211] [https://www.zappos.com/product/review/7793804](https://www.zappos.com/product/review/7793804) (Spanx for Men Zoned Performance Tank, 12 reviews, VERBATIM, 2012–2023)
+- [S212] [https://collections.vam.ac.uk/item/O1359558](https://collections.vam.ac.uk/item/O1359558) (V&A "Manx", 2010, 92% nylon/8% elastane) (run-1, re-checked 2026-11-02)
+- [S213] [https://www.theguardian.com/fashion/2025/dec/14/i-feel-shrink-wrapped-the-reluctant-rise-of-shapewear-for-men](https://www.theguardian.com/fashion/2025/dec/14/i-feel-shrink-wrapped-the-reluctant-rise-of-shapewear-for-men) (Tim Dowling, 2025-12-14)
+- [S214] [https://www.youtube.com/watch?v=WH0B9itUICY](https://www.youtube.com/watch?v=WH0B9itUICY) (FatGuyReviews; comments) · [S214b] [https://tryorven.com/products/built](https://tryorven.com/products/built) (site review, snippet) · [S214c] [https://bodysculptorx.com/es/products/men-compression-shirt-shapewear](https://bodysculptorx.com/es/products/men-compression-shirt-shapewear) (site review, snippet) · [https://www.youtube.com/watch?v=6OUq5lXdNSw](https://www.youtube.com/watch?v=6OUq5lXdNSw) · [https://www.youtube.com/watch?v=TtE-zMdoAsA](https://www.youtube.com/watch?v=TtE-zMdoAsA) · [https://www.youtube.com/watch?v=EO6UYT_o47g](https://www.youtube.com/watch?v=EO6UYT_o47g)
+- [S215] [https://www.walmart.com/ip/…/18810063141](https://www.walmart.com/ip/%E2%80%A6/18810063141) (snippet: double-layer)
+- [S216] [https://www.metmuseum.org/art/collection/search/384283](https://www.metmuseum.org/art/collection/search/384283) ("Laceing a Dandy", Thomas Tegg, 1819-01-26)
+- [S217] [https://www.britishmuseum.org/collection/object/P_1865-1111-2096](https://www.britishmuseum.org/collection/object/P_1865-1111-2096) · [https://bostonraremaps.com/inventory/george-cruikshank-lacing-in-style-1819/](https://bostonraremaps.com/inventory/george-cruikshank-lacing-in-style-1819/) (snippets)
+- [S218] [https://ussconstitutionmuseum.org/collection-items/thomas-chews-stays/](https://ussconstitutionmuseum.org/collection-items/thomas-chews-stays/)
+- [S219] [https://www.awm.gov.au/articles/blog/german-officers-corset](https://www.awm.gov.au/articles/blog/german-officers-corset) (last updated 2021-12-15)
+- [S220] [https://www.bgc.bard.edu/research-forum/articles/84/mans-stomach-belt](https://www.bgc.bard.edu/research-forum/articles/84/mans-stomach-belt)
+- [S221] [https://www.atticpaper.com/proddetail.php?prod=1936-bauer-black-bracer-athletic-supporter-ad](https://www.atticpaper.com/proddetail.php?prod=1936-bauer-black-bracer-athletic-supporter-ad)
+- [S222] [https://yourjockstraps.com/threads/jock-historian.56/](https://yourjockstraps.com/threads/jock-historian.56/) · eBay listings (run-1, not re-checked)
+- [S223] [https://spokesman.com/stories/2009/mar/14/mirdle-girdle-for-men-hits-retailers](https://spokesman.com/stories/2009/mar/14/mirdle-girdle-for-men-hits-retailers) (run-1, not re-checked) · [S224] [https://www.spokesman.com/stories/2010/dec/04/girdles-are-back-i-was-just-getting-comfortable/](https://www.spokesman.com/stories/2010/dec/04/girdles-are-back-i-was-just-getting-comfortable/) (run-1, not re-checked)
+- [S225] [https://stanfordmag.org/contents/girth-control](https://stanfordmag.org/contents/girth-control) (run-1, not re-checked) · [S226] [https://www.gsb.stanford.edu/insights/sara-blakely-start-small-think-big-scale-fast](https://www.gsb.stanford.edu/insights/sara-blakely-start-small-think-big-scale-fast) (run-1, not re-checked)
+- [S227] [https://www.undrapparel.com/blogs/nieuws/what-happened-to-spanx-for-men-and-what-replaced-it](https://www.undrapparel.com/blogs/nieuws/what-happened-to-spanx-for-men-and-what-replaced-it) (snippet; competitor blog)
+- [S228] [https://slate.com/human-interest/2015/04/what-is-the-dad-bod-america-s-leading-expert-explains.html](https://slate.com/human-interest/2015/04/what-is-the-dad-bod-america-s-leading-expert-explains.html) (snippet: Mackenzie Pearson, "Why Girls Love The Dad Bod", the Odyssey) · [S229] [https://www.lcsun-news.com/story/entertainment/local/pulse/2015/05/13/airwaves-dad-bod-gets-its-day-sun/32296783/](https://www.lcsun-news.com/story/entertainment/local/pulse/2015/05/13/airwaves-dad-bod-gets-its-day-sun/32296783/) (2015-05-13: "About six weeks ago, she published an essay…") · [S230] [https://en.wikipedia.org/wiki/Dad_bod](https://en.wikipedia.org/wiki/Dad_bod) (snippet: first published 2015)
+- [S231] [https://www.plasticsurgery.org/news/articles/men-using-glp-1s-for-weight-loss-how-is-this-impacting-male-plastic-surgery](https://www.plasticsurgery.org/news/articles/men-using-glp-1s-for-weight-loss-how-is-this-impacting-male-plastic-surgery) (2025-09-18) (run-1, re-checked 2026-11-02)
+- [S232] [https://medschool.duke.edu/news/age-glp-1s-plastic-surgeons-face-new-reality](https://medschool.duke.edu/news/age-glp-1s-plastic-surgeons-face-new-reality) (2026-07-08) (run-1, not re-checked)
+- [S233] [https://news.gallup.com/poll/696599/obesity-rate-declining.aspx](https://news.gallup.com/poll/696599/obesity-rate-declining.aspx) · KFF poll (run-1, not re-checked)
+- [S234] [https://www.plasticsurgery.org/plastic-surgery-statistics](https://www.plasticsurgery.org/plastic-surgery-statistics) · [https://www.plasticsurgery.org/documents/news/statistics/2025/plastic-surgery-statistics-report-2025.pdf](https://www.plasticsurgery.org/documents/news/statistics/2025/plastic-surgery-statistics-report-2025.pdf) (search-result text of tables)
+- [S235] [https://pmc.ncbi.nlm.nih.gov/articles/PMC3978593/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3978593/) (Atiyeh, El Khatib, Dibo, Ann Burns Fire Disasters 2013;26:205)
+- [S236] [https://www.shrinerschildrens.org/en/pediatric-care/pressure-garment-therapy](https://www.shrinerschildrens.org/en/pediatric-care/pressure-garment-therapy) (snippet)
+- [S237] [https://www.jobst-usa.com/compression-therapy/about-jobst](https://www.jobst-usa.com/compression-therapy/about-jobst) (run-1, not re-checked)
+- [S238] [https://www.ftc.gov/news-events/news/press-releases/2014/09/norm-thompson-outfitters-wacoal-america-settle-ftc-charges-over-weight-loss-claims-caffeine-infused](https://www.ftc.gov/news-events/news/press-releases/2014/09/norm-thompson-outfitters-wacoal-america-settle-ftc-charges-over-weight-loss-claims-caffeine-infused) (2014-09-29) · [https://www.ftc.gov/business-guidance/blog/2014/09/shape-your-shapewear-claims](https://www.ftc.gov/business-guidance/blog/2014/09/shape-your-shapewear-claims)
+- [S239] [https://www.ftc.gov/news-events/news/press-releases/2002/05/ftc-charges-three-top-selling-electronic-abdominal-exercise-belts-making-false-claims](https://www.ftc.gov/news-events/news/press-releases/2002/05/ftc-charges-three-top-selling-electronic-abdominal-exercise-belts-making-false-claims) · [https://www.ftc.gov/news-events/news/press-releases/2003/07/marketers-fast-abs-exercise-belt-pay-over-5-million-settle-ftc-charges](https://www.ftc.gov/news-events/news/press-releases/2003/07/marketers-fast-abs-exercise-belt-pay-over-5-million-settle-ftc-charges)
+- [S240] [https://www.researchgate.net/publication/51535689_The_Effect_of_Abdominal_Exercise_on_Abdominal_Fat](https://www.researchgate.net/publication/51535689_The_Effect_of_Abdominal_Exercise_on_Abdominal_Fat) (Vispute 2011, snippet) · [https://pmc.ncbi.nlm.nih.gov/articles/PMC10680576/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10680576/) (2023 RCT, "spot reduction exists in adult males")
+- [S241] [https://www.theeducatedpatient.com/view/lymphatic-drainage-medical-facts-vs-social-media-hype](https://www.theeducatedpatient.com/view/lymphatic-drainage-medical-facts-vs-social-media-hype) (snippet)
+- [S242] [https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793](https://www.mayoclinic.org/diseases-conditions/gynecomastia/symptoms-causes/syc-20351793) (snippet) · [https://my.clevelandclinic.org/health/symptoms/16227-enlarged-male-breast-tissue-gynecomastia](https://my.clevelandclinic.org/health/symptoms/16227-enlarged-male-breast-tissue-gynecomastia) (snippet) · [https://gynecomastiala.com/gynexin-review/](https://gynecomastiala.com/gynexin-review/) (snippet, conflicted) · [https://xsculpt.com/will-estrogen-blockers-get-rid-of-gynecomastia/](https://xsculpt.com/will-estrogen-blockers-get-rid-of-gynecomastia/) (snippet, conflicted)
+- [S243] [https://healthunlocked.com/advanced-prostate-cancer/posts/151939618/man-boobs-from-adt](https://healthunlocked.com/advanced-prostate-cancer/posts/151939618/man-boobs-from-adt) (VERBATIM via Firecrawl; thread 2025)
+- [S244] [https://www.cdc.gov/nchs/data/hestat/hestat111.htm](https://www.cdc.gov/nchs/data/hestat/hestat111.htm) (published 2026-02-25) (run-1 VERBATIM; re-check garbled)
+- [S245] [https://janeaustensworld.com/2010/08/10/the-regency-dandys-corset/](https://janeaustensworld.com/2010/08/10/the-regency-dandys-corset/) · [https://www.darkgarden.com/blogs/blog/corsets-for-men-past-and-present/](https://www.darkgarden.com/blogs/blog/corsets-for-men-past-and-present/) (secondary blogs)
+- [S246] [https://www.facebook.com/groups/WEGREWUPINJERSEYCITY/posts/5615839755097853/](https://www.facebook.com/groups/WEGREWUPINJERSEYCITY/posts/5615839755097853/) ("1959 DOLPH'S - MEN'S GIRDLES !", snippet, unverified)
+- [S247] [https://pmc.ncbi.nlm.nih.gov/articles/PMC11321837/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11321837/) (case report, snippet)
+- [S249] [https://underwearnewsbriefs.com/2010/09/review-spanx-for-men-%E2%80%93-cotton-compression-crew/](https://underwearnewsbriefs.com/2010/09/review-spanx-for-men-%E2%80%93-cotton-compression-crew/) (reader comment, 2010-09)
+- [S250] [https://forum.gynecomastia.org/gynecomastia-talk/1/any-awkwardembarrassing-stories/32082](https://forum.gynecomastia.org/gynecomastia-talk/1/any-awkwardembarrassing-stories/32082) · [https://forum.gynecomastia.org/gynecomastia-talk/1/hello-newly-dealing/37840](https://forum.gynecomastia.org/gynecomastia-talk/1/hello-newly-dealing/37840) · [https://forum.gynecomastia.org/gynecomastia-talk/1/what-wear/5783](https://forum.gynecomastia.org/gynecomastia-talk/1/what-wear/5783) · [https://forum.gynecomastia.org/index.php?topic=37836.15](https://forum.gynecomastia.org/index.php?topic=37836.15)
+- [S253] [https://archive.org/stream/colliers121aprspri_201803/colliers121aprspri_djvu.txt](https://archive.org/stream/colliers121aprspri_201803/colliers121aprspri_djvu.txt) (Collier's, May 1, 1948 — Bauer & Black Bracer "supporter belt" ad) · [https://jockstraps.com/pages/vintage-jockstrap-photos-volume-1](https://jockstraps.com/pages/vintage-jockstrap-photos-volume-1) · VERBATIM · 2026-11-02 (§20)
+- [S254] [https://archive.org/download/TheWorkwomansGuide/TheWorkwomansGuide.pdf](https://archive.org/download/TheWorkwomansGuide/TheWorkwomansGuide.pdf) (The Workwoman's Guide, 1838) · SNIPPET (book wording via search) · 2026-11-02 (§20)

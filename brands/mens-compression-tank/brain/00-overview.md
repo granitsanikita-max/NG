@@ -1,26 +1,28 @@
-# Men's Compression Slimming Tank — Step 1 Research (2026-10-28) — OVERVIEW
+# Deep Research Run 2 — Men's Compression Tank (folder overview)
 
-> Mirrored verbatim from the Notion folder page on 2026-10-29 (source: https://app.notion.com/p/407d53123cd6817187dbc91861161563). Notion is the source of truth.
-> **Supplier note (added 2026-10-29, Nikita):** the research below was run on CJ SKU CJDS299280217QJ. Nikita has since found a new supplier SKU, **CJYD323488825YB**. See `06-sourcing-new-supplier.md` for its details and how it compares.
+> Verbatim mirror of the Notion folder page https://app.notion.com/p/40cd53123cd681488348ee7264cc7fb6 (last edited 2026-11-03), copied 2026-11-04. Notion is the source of truth.
 
-Step 1 — Deep Market Research for the men's compression slimming tank (CJdropshipping CJDS299280217QJ). Market: USA · English · Facebook/Meta only. Run 2026-10-28, verified 2026-10-29.
+Step 1 — Deep Market Research, **run 2**, for the men's compression slimming tank (CJdropshipping CJDS299280217QJ). Market: USA · English · Facebook/Meta only. Started 2026-11-02.
 
-> 🎯 **The call:** Sell to US men who **lost the weight but it still shows**: loose skin first, chest second. The mechanism is **"extra skin can't shrink, so you don't squeeze it, you hold it flat"**, sold by an apparel-fit brand: *"the scale isn't the finish line — your shirt is."*
+**Why run 2:** run 1 researched only men who lost weight. Run 2 researches every men's buyer group (dad bod / belly, chest / gyno, post-weight-loss, big guys 2XL+, men 50+) and lets the evidence pick the launch lead. Women buyers and gym guys are excluded, per Nikita.
+
+> 🎯 **The call (finished 2026-11-02):** Launch lead = **post-weight-loss men (G3)**. It's the least-owned painkiller, but it is **contested and crowding**: InShape, Selure and Alphacore are running ≥21 live ads, and Alphacore names GLP-1. No men's group is fully uncontested. Dad bod (G1) and chest/gyno (G2) fail the Purple Ocean Gate because they're North Alpine's own angle. Big & tall (G4) fails because specialists own it and the SKU stops at 3XL. Men 50+ (G5) is a want, not a painkiller. **Gate box left unticked**, on purpose.
 >
-> ⚠️ **Verification corrected one big thing:** this angle is **not uncontested**. InShape launched a "men after GLP-1" loose-skin funnel on 2026-10-13, and Selure's "Arthur" persona runs the story too. Both are small, and the biggest player doesn't run it. It's a land-grab, so win on **mechanism + fit offer + speed**, not on the angle's wording.
+> **Mechanism:** "Squeeze moves it. Hold keeps it." It holds evenly from chest to past the belt line, so the hem sits below the soft part and doesn't dig in. **This only holds if a sample proves the length, the hem and the breathing.**
+> **Brand line:** "A shirt can't change your body — it can change how you look in your shirt." We're against the miracle shirt.
+> **Offer:** 60-day guarantee that the policy actually backs up · measured fit · free size swap + size-down swap · $39.95 / 2+1 FREE $79.90 (break-even ROAS 3.13 for 20% net). Landed cost $11.90.
 >
-> **Before any spend:**
->
-> 1. Order a sample (M + XL, black + white) and test length, hem, real compression, show-through and heat.
-> 2. Get CJ's multi-unit shipping quote.
-> 3. Send the CJ product URL.
+> **Blockers before launch:** physical sample · CJ combined-parcel quote · CJ product URL confirmed.
 
-**Read in this order:**
+**Read order:** Doc 1 (market + who to lead with) → Doc 2 (the customer, by group) → Doc 3 (beliefs, mechanism, story) → Doc 4 (brand, offer, funnel, KPIs, §20 verification report). Each doc opens with its Top 5.
 
-1. **Doc 1 — Market & Competition:** economics, the North Alpine audit, demand and seasonality, 33 competitors, the wedge, awareness, sophistication. → `01-market-and-competition.md`
-2. **Doc 2 — The Customer:** data bank summary, ICP, sub-avatars, every pain/desire/objection ranked, desire ladder, existing-solutions teardown, voice, triggers. → `02-the-customer.md`
-3. **Doc 3 — Persuasion:** emotional state, beliefs, belief chain, objections → answers, authority, mechanism (UMP → UMS), discovery story, features → benefits, history hooks. → `03-persuasion.md`
-4. **Doc 4 — Brand, Offer & Funnel:** SAY/DON'T SAY, contrast, brand position, 30 competitor offers walked to checkout + price ladder, Funnel Map, the §20 Verify report. → `04-brand-offer-funnel.md`
-5. **§2C Data Bank:** 581 real customer snippets, one row each, filterable by tag. → `05-data-bank-581.csv` (Notion database: https://app.notion.com/p/f0a76a26f61940139afb5a67559478e0)
+**Coverage:** 584 of 588 page lines done. 4 blocked: Google Trends ×2 (HTTP 429, Exploding Topics used instead), TikTok/YouTube comments, and the Purple Ocean Gate box. §20 verification: 36 of 40 quotes confirmed word for word, none invented; every correction is applied in the docs.
 
-> ✍️ **Nikita, your turn:** sit down, analyse everything, highlight and add notes. Get to know your consumer better than they know themselves.
+**This is the only research set for the brand** (chosen 2026-11-03). The earlier post-weight-loss-only run was deleted; its unique offer pieces (the 3+2 FREE $119.85 tier, the written guarantee, the gift rule, the quiz option and more) now live in Doc 4 §15-E2.
+
+Sub-pages (mirrored in this folder):
+- Doc 1 — Market & Competition → `01-market-and-competition.md`
+- Doc 2 — The Customer → `02-the-customer.md`
+- Doc 3 — Persuasion → `03-persuasion.md`
+- Doc 4 — Brand, Offer & Funnel → `04-brand-offer-funnel.md`
+- §2C Data Bank — 2,322 customer snippets (run 2) → `05-data-bank-2322.csv`

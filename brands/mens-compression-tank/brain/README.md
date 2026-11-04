@@ -1,14 +1,23 @@
-# brain/ — the source of truth for this brand
+# brain/ — source of truth for the men's compression tank (Unhidden)
 
-Nikita's research, kept intact. **Every station reads all of these before doing anything.** Station outputs (PRODUCT.md, OFFER.md, etc.) live one level up, not here.
+**Replaced 2026-11-04 on Nikita's order:** the Run 1 research (post-weight-loss only, 581-snippet data bank) was deleted.
+This folder now mirrors **Deep Research Run 2** from Notion in full — every page and the whole data bank.
+Notion folder: https://app.notion.com/p/40cd53123cd681488348ee7264cc7fb6
 
-**Source of truth:** the Notion folder "Men's Compression Slimming Tank — Step 1 Research (2026-10-28)" (https://app.notion.com/p/407d53123cd6817187dbc91861161563). It was mirrored here in full on 2026-10-29 on Nikita's instruction. The earlier product-research handoff files were removed; they are superseded by Notion.
+## Read in this order
+1. `00-overview.md` — the folder page: the call (launch lead G3 post-weight-loss), mechanism, brand line, offer summary, blockers.
+2. `01-market-and-competition.md` — Doc 1: demand, competitors, buyer groups G1–G5, who to lead with.
+3. `02-the-customer.md` — Doc 2: the customer by group (pains, desires, objections, voice).
+4. `03-persuasion.md` — Doc 3: beliefs, mechanism, story.
+5. `04-brand-offer-funnel.md` — Doc 4: brand, offer, funnel, KPIs, §20 verification report (incl. §15-E2 carried-over offer pieces).
+6. `05-data-bank-2322.csv` — the §2C Data Bank, all 2,322 customer snippets with every tag column
+   (ID, Quote, URL, Platform, Source type, Date, Stars, Buyer group, Pain, Desire, Objection, Belief, Failed solution, Trigger,
+   Emotional state, Burned, Need, Awareness, Authority, Misconception, Great phrase, Solidity, Collected by). Multi-tags are `; `-separated.
 
-## Index (mens-compression-tank)
-- `00-overview.md` — the folder page: the call (post-weight-loss men, "hold it flat"), what to do before spend, reading order.
-- `01-market-and-competition.md` — Doc 1: Pre-0 economics, the North Alpine audit, demand and seasonality, 33 competitors, the wedge (§2, contested-early), awareness, sophistication, top-ads appendix.
-- `02-the-customer.md` — Doc 2: the §2C bank summary, ICP, sub-avatars, every pain/desire/need/objection, the desire ladder, existing-solutions teardown, voice and swipe file, triggers.
-- `03-persuasion.md` — Doc 3: emotional state, beliefs and belief chain, objections → answers, authority, mechanism (UMP → UMS), discovery story, features → benefits, history hooks.
-- `04-brand-offer-funnel.md` — Doc 4: (§2B SAY / DON'T SAY deleted 2026-11-04 by Nikita), contrast, brand positioning, 30+ competitor offers + price ladder, offer inputs, Funnel Map, §20 Verify report.
-- `05-data-bank-581.csv` — the §2C data bank: 581 real customer snippets with URL and tags. Every count in Docs 2–3 is a tally of it.
-- `06-sourcing-new-supplier.md` — the new CJ SKU **CJYD323488825YB** (listing facts, size chart, fabric) + an analysis vs the old SKU CJDS299280217QJ. Costs are left out until the offer is built.
+## Kept (not part of Run 2)
+- `06-sourcing-new-supplier.md` — Nikita's supplier/SKU notes (kept with the offer material; see note there).
+- The offer itself lives one level up in `../OFFER.md` (Offer Launch 1, kept as-is).
+
+## Note for every station
+Run 2's own offer section (Doc 4) and `../OFFER.md` ("The Finish-Line Kit") are different versions. OFFER.md is the locked live offer
+until Nikita says otherwise. Run 2 names SKU CJDS299280217QJ; OFFER.md uses CJYD323488814NM — confirm with Nikita before quoting costs.

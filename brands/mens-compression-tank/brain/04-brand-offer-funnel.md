@@ -1,610 +1,693 @@
-# Doc 4 — Brand, Offer & Funnel (Men's Compression Slimming Tank)
+# Doc 4 — Brand, Offer & Funnel (Deep Research Run 2 — Men's Compression Tank)
 
-> Mirrored verbatim from Notion on 2026-10-29 (source: https://app.notion.com/p/407d53123cd6815d85e3ede6db73e504). Notion is the source of truth; formatting converted to markdown only — no content edited or summarised.
+> Verbatim mirror of the Notion page https://app.notion.com/p/40cd53123cd68151a39ddf7a0214455c (last edited 2026-11-03), copied 2026-11-04. Notion is the source of truth; formatting converted to Markdown.
 
-**Folder:** [Men's Compression Slimming Tank — Step 1 Research (2026-10-28)](https://app.notion.com/p/407d53123cd6817187dbc91861161563)
+**Folder:** Deep Research Run 2 — Men's Compression Tank
 
 ## Top 5 takeaways
 
-1. **Compliance shapes the brand.** Meta bans weight-loss claims for wearables and "you/your + condition" copy, and a Shaperluv page has already been disabled.
-   - → Run an **apparel-fit brand**: appearance-only claims, first/third person, no drug or surgery names in ads, URLs or pixel data.
-2. **Every big guarantee checked is contradicted by its own policy:** North Alpine final sale · Selure ~$10 returns · Aida minus $20 · Gaudenza 50% restocking.
-   - → The open slots: **a guarantee written into the policy + a size-down swap + a measurement fit-finder.**
-3. **Price ladder:** the market transacts at $19–$27 per tank; the floor is $10.
-   - → Test **$39.95 / 3 for $79.90 / 5 for $119.85**, and only with the three open slots. Never $10.
-4. **Brand line reworded after §20.** InShape already runs "You did the work. Let your shirt show it."
-   - → Locked: **"the scale isn't the finish line — your shirt is,"** AGAINST the miracle shirt.
-5. **Funnel = Discovery Stack:** advertorial (mechanism + history) → offer page with a fit-finder. Carousel "same shirt, without → with" is used by 0 competitors.
-   - → Build one advertorial + one offer page. Test a listicle next.
+1. **Sell appearance while worn — nothing else.** Meta's undergarment exemption doesn't cover slimming ads; any "lose / burn / slim / tighten / posture" claim pulls the tank into weight-loss, device or FTC territory.
+   - → "Looks flatter under your shirt the moment it's on." Third or first person, no "your + body", no GLP-1 or age questions, no body before/after.
+2. **The brand line (LOCKED):** *"We are the blunt, dry-funny brand that stands FOR 'a shirt can't change your body — it can change how you look in your shirt' and AGAINST the miracle shirt — the compression undershirt for men who want to look like the man they are now."*
+   - → InShape and Alphacore already say "won't tighten skin", so the moat is the line + the mechanism + the size-down swap + the attitude everywhere + speed.
+3. **13 of 22 competitor guarantees are contradicted by their own policy; 0 of 25 offer a size-down swap; 0 of 25 fit by chest + waist + height.**
+   - → The offer: a policy-true 60-day guarantee, a measured fit finder, a free size swap, a size-down swap for men still losing.
+4. **Price ladder:** market middle $19–23 per tank; real ceiling ~$33 (InShape); floor $10 (Shaperluv / Selure / Somnea) and moving down into Black Friday.
+   - → $39.95 single / "2 + 1 FREE" $79.90 auto-selected (ROAS 3.13 for 20% net at worst-case shipping). Never the $10 floor.
+5. **The funnel:** Discovery Stack — G3 ad (the milestone moment, shirt-on proof) → third-person advertorial (why it still shows + the squeeze-vs-hold mechanism + the forgotten history) → offer page → one cart add-on → a thank-you-page fit check and size swap.
+   - → Build one advertorial and one offer page for G3; later doors (G2, G1, G5) reuse the offer page and swap only the pre-sell.
 
 ---
 
-# 2B · Compliance & Claims — SAY / DON'T SAY — ❌ DELETED (Nikita, 2026-11-04)
+# 2B · (removed — compliance/claims guideline deleted per operator request, 2026-11-03; copy language now lives in [BRAND.md](http://BRAND.md): use the category's words freely)
 
-> The whole SAY / DON'T SAY table and this section's compliance rules were removed on Nikita's instruction. His call: creatives in this market win on "man boobs" / "Struggling with…?" language, so those hooks are allowed for Unhidden. Any other "§2B" reference in these docs points to rules that no longer apply.
+(removed per operator request, 2026-11-03)
 
----
-
-# 4 · Contrast — do the opposite of the market (🔒 LOCKED after §11)
-
-The 5 things nearly every §1 competitor does the same way, and our exact opposite:
-
-| # | What they all do | Evidence (§1 / §2C) | Our exact opposite |
-| --- | --- | --- | --- |
-| 1 | **Visual style:** UGC-style try-on video + designed infographic statics with arrows on chest/belly; trim models; shirtless/before-after splits | Video 53% / static 34% / DCO 13% / **carousel 0%** of 225 US rows; infographic statics are the #1 static sub-format (16 of 46); before/after splits (Gaudenza 6) [Doc 1 §2]. Buyers notice: "the men modelling the vest all looked fairly trim before and after" (rev-209, Trustpilot 1★) | **Shirt-ON proof only.** Same real 40–60 man, same plain T-shirt, with vs without, sitting and standing. Carousel sequences (0 competitors). No arrows, no shirtless bodies, no trim models |
-| 2 | **Tone:** hype + shame jokes + emoji — "2026 = NO MORE DAD BOD 🔥", "Say goodbye to beer belly, love handles and man boobs 💪", "LAST SIZES IN STOCK!" | Repeating hooks across North Alpine (18 ads), Evolv (25/41 captions "2+1 FREE TODAY"), Shaperluv (41/48 "Struggling with man boobs…") [Doc 1 §1] | **Calm, dry, proud, man-to-man.** He lost the weight — we talk to him like a guy who did something hard, not a guy who needs fixing. No emoji walls, no "say goodbye to" |
-| 3 | **Claim type:** bigger and bigger claims, incl. weight loss / ionic / fat-cell / "2x slimmer in seconds" | 58% of still-active direct ads lead with a bigger claim [Doc 1 §8]; "Accelerates Weight Loss", "Ionic Compression… blood flow", "Breaks down love handle fat cells" (North Alpine, Evolv PDPs) | **One small, true claim + the reason:** "Extra skin can't shrink. This holds it flat while you wear it." (appearance only, §2B). Say what it does NOT do |
-| 4 | **Offer shape:** fake anchor ($29.90 "vs $60"), 2+1 FREE, "$10 per tank / LAST SIZES" scarcity, 60–90-day guarantee | North Alpine / Selure / Evolv share the same Kaching ladder; Shaperluv "ONLY $10… LAST SIZES IN STOCK" on a 3-year-old product; 1★ reviews call the guarantee a 40% partial refund (rev-188) [Doc 1 §1, Doc 2 §10B] | **A fit offer, not a fake-discount offer:** a bundle built for a body that's still changing (wear one / wash one, and a size-down swap as he keeps losing — §15). Real price, real dates |
-| 5 | **Page format:** a PDP with claim chips + bundle widget, or a "5 reasons" listicle | 25/33 North Alpine ads → PDP; 27/48 Shaperluv ads → "5 reasons" listicle; 0 of 33 tank sellers run a quiz or fit-finder [Doc 1 §1] | **A story pre-sell ("why the skin stays when the weight goes") → a fit-finder on the product page** (height, chest, waist, weight, "still losing?") instead of 44-lb weight bands |
-
-**Counts added from the §15 store walk (36 product pages, 262 direct ads):**
-
-- **Visual:** 167 video / 71 image / 21 DCO / **1 carousel** of 262 direct ads.
-- **Tone:** **179 of 262** ads say man boobs/chest/men's breasts; 174 say belly or dad bod; 86 of 100 unique creatives use emoji.
-- **Claims:** **117 of 262** ads promise "instant / seconds / 2x slimmer"; 47 make weight-loss/fat claims. On the product pages, 16 of 36 make weight-loss claims and 5 say "Ionic".
-- **Offer:** a quantity ladder on 28 of 36 pages; "+FREE" units on 18; a "save / % off" anchor on 35 of 36; timers/scarcity on 17. 6 headline guarantees are contradicted by the store's own policy.
-- **Page:** **205 of 262** ads land on a /products/ page; weight-band size pickers on 10 of 36 pages.
-
-**So What → do this:** every creative and page passes the "would North Alpine run this?" test — if yes, change it. Execution contrast = shirt-on proof, calm man-to-man voice, one true claim, a fit-based offer, a story + fit-finder funnel.
+(removed per operator request, 2026-11-03)
 
 ---
 
-# 4B · Brand Positioning System (🔒 LOCKED after §11)
+# 4 · Contrast
 
-- **The Enemy (from the category's own 1★ reviews):** **the "miracle shirt"** — men's shapewear that promises weight loss, "Ionic" fat-burning and "2x slimmer in seconds", shows trim models, and delivers "a printed pattern that looks like the elastic webbing in the ads" (rev-193, Trustpilot 2★). Scam / ad-lied is the #4 objection (36 snippets) and "just a tight shirt / not strong enough" the #1 (73). Behind it sits a second enemy W1 men name themselves: **the scale-only finish line** — the weight-loss world that says "you're done" when the number drops and never mentions the skin ("Nobody told you about the skin" — see §18B C2).
-- **What we stand FOR:** **"The scale isn't the finish line. Your shirt is."** A shirt can't make you lose weight. It's for the man who already did, because the skin the scale can't move is the last thing between him and a shirt that fits. (§20 change: the draft line "the work you did should show" was too close to InShape's live ad "You did the work. Let your shirt show it." — reworded.) (Truth we tell even when it costs a sale: it won't tighten skin and it won't burn fat.)
-- **The Attitude:** **blunt, proud, dry-funny, man-to-man** — the guy at the gym who lost 120 lb and jokes about his "deflated balloon". No incumbent occupies it: they're all hype + shame + emoji (§4 #2). Their own words give the voice: "keeps all of my floppy bits from flopping", "a deflated balloon full of jelly" (§14).
-- **The Uncopyable Test:** if North Alpine adopted "a shirt can't make you lose weight — this is for men who already did," it would **indict its own claim chips** ("Accelerates Weight Loss / Crushes Dad Bod") and its whole funnel. Evolv would indict "breaks down fat cells". → real moat. (A discount, a feature or a longer cut they could bolt on — those aren't the moat.)
-- **Whole-store thread:** name + About manifesto ("the scale isn't the finish line") · product-page proof = shirt-on demos + fit-finder · offer = the size-down swap (we expect you to keep shrinking) · reviews shown = men mid-journey · voice = §14 swipe · FAQ says plainly what it doesn't do.
-- **Weakness-as-weapon:** new, small, no reviews → "we read 581 real posts and reviews from men who lost the weight before we chose a single fabric" (true — §2C) and "we're small enough to answer every email" (only if staffed). ⚠️ Nikita's standing rule bans trust/"honest brand"/"no scam" as a *lever* — so the underdog story is about **who it's built for**, never "trust us, we're the honest ones".
-- *Guardrails:* we must BE it (no weight-loss claims anywhere, ever); attack the pattern ("miracle shirts"), never name a competitor.
-- **🔒 LOCKED after §11:** the 1★ reviews confirmed the enemy. "Not strong enough / just a T-shirt" is the #1 objection (73) and "scam / the ad lied" is #4 (36). Changed from the draft: the "FOR" line is worded so it never becomes a trust/honesty *lever* (Nikita's rule). We show what we don't claim; we never say "trust us". §4's offer and page rows now answer the top 4 anxieties directly: fit-finder + size-down swap (sizing 70), step-in instructions (hard to put on 40), visible-compression demo (73 + 36).
-- **Output (LOCKED line — reworded in §20):** *"We are the blunt, proud brand that stands FOR 'the scale isn't the finish line — your shirt is' and AGAINST the miracle shirt — the compression undershirt that holds the extra skin flat, for men who already lost the weight."*
-- **§20 uncopyable re-check:** InShape (since 2026-10-13) now runs the post-weight-loss *angle* — "Lost Weight? Smooth the Look of Loose Skin." So the angle alone is NOT our moat. The moat is the **mechanism** (hold, don't shrink; long cut that stays below the belt) + **identity + fit offer** together. If North Alpine copied the line it would still indict its own "Accelerates Weight Loss" chips.
+The 5 things nearly every §1 competitor does the same way — and our exact opposite (execution only; identity is §4B).
+
+| # | What the market does (evidence) | Our exact opposite |
+| --- | --- | --- |
+| 1 | **Visual style:** designed infographic statics and product flat-lays — North Alpine's hero is three tanks with a bright-blue "ionic" panel, no man wearing it under a shirt [S43]; 0 carousels in 445 ads [S40] | **The shirt is the hero.** Same man, same shirt, with and without — filmed in real light, sitting, bending, arms up. Carousel "4 shirts, one undershirt". No tank flat-lays above the fold |
+| 2 | **Tone:** hype + shame + emoji — "BYE DAD BOD. / BEER BELLY? GONE. / MAN BOOBS? FLATTENED." · "2026 = NO MORE DAD BOD 🔥" · "Struggling with man boobs or stubborn beer belly?" [S40][S43] | **Blunt, dry, man-to-man.** No exclamation marks, no emoji, no body-shaming question. The way men in the bank talk: "Man titties are the bane of my existence", "depression shirts" (§14) |
+| 3 | **Claim type:** bigger claims and pseudo-mechanisms — 203 of 445 ads lead with a bigger claim; "Accelerates Weight Loss", "Ionic Compression", "drains your beer gut", "2x slimmer in seconds" [S40][S41][S42][S43] | **A smaller, true claim with a reason why:** "It won't change your body. It changes how your shirt sits." Appearance while worn only (§2B), explained by one honest mechanism (§13) |
+| 4 | **Offer shape:** "$10 per tank — LAST SIZES IN STOCK", fake compare-at ($29.90 vs $60), 2+1 FREE, a 60–90-day "no questions asked" promise the policy contradicts (final sale, store credit, buyer pays return) [S40][S43] | **A fit offer, not a fake-discount offer:** a real price, a measured size finder, a free size swap as he keeps changing, and a guarantee that says the same thing on the PDP and in the policy (built in §15) |
+| 5 | **Page format:** one product page for every man at once — dad bod + man boobs + love handles + weight loss + posture; 5 recycled testimonials covering ages 27–55 [S43] | **One page per man.** The lead funnel speaks only to the man who lost the weight; G2 / G1 / G5 each get their own pre-sell door and their own reviews (§3A) |
+
+**So What → do this:** every visual, word, claim, offer and page should look like the opposite of a "BYE DAD BOD 🔥" ad. If our ad could be mistaken for theirs with the logo covered, it fails.
+
+---
+
+# 4B · Brand Positioning System — DRAFT (locks after §10A + §11)
+
+- **The Enemy — the miracle shirt.** The category's pattern: promise a body change a garment can't deliver, then hide behind the fine print. Evidence from its own 1★ reviews and pages: claims ("Accelerates Weight Loss", "Ionic", "drains your beer gut") [S41][S42][S43]; buyers punish it ("Buyer Beware It's just a very lightweight wife-beater. Overpriced wife-beater." — [Trustpilot 1★](https://www.trustpilot.com/reviews/6a18fe6b7d9901e3627e1013) · VERBATIM); scam/trust is the #3 objection bank-wide (137) and #1 in 1–2★ rows (87 of 332) [S1]; the biggest store shows 2,383 reviews and 0 one-star on its own page vs 197 one-star on Trustpilot [Doc 2 §10B].
+- **What we stand FOR — the truth the category won't tell:** **"A shirt can't change your body. It can change how you look in your shirt."** It costs us the "lose inches" sale — and it's the only claim that survives Meta and the FTC (§2B).
+- **The Attitude:** **blunt, dry-funny, man-to-man** — the guy who lost 85 lb and calls his chest "the deflated balloon". No incumbent occupies it: they're all hype + shame + emoji (§4 #2). Men in the bank already talk this way (§3, §14).
+- **The Uncopyable Test:** if North Alpine adopted "a shirt can't change your body" tomorrow, it would indict its own "Accelerates Weight Loss / Crushes Dad Bod / BYE DAD BOD" page, its "ionic" product and its 2,295 live ads. If Aida adopted it, it would kill "drains your beer gut". → **Real moat against the big players.** ⚠️ **But two small players already say it (§20):** InShape's GLP-1 page — "InShape does not tighten skin or change your body" — and Alphacore's GLP-1 ads — "It won't tighten the skin" [S53]. So the honest line alone is *not* the moat; the moat is the honest line **+ the mechanism (§13) + the size-down swap for a changing body (nobody offers it) + the attitude on every surface + speed**.
+- **Whole-store thread:** the name (a man's word, not "shaper" — see the name shortlist), the About-page manifesto ("We make one thing: the undershirt that makes your shirt fit. It won't change your body. We'll never say it will."), the PDP proof (shirt-on demo + measured size chart + sit/bend film), the offer (fit swap, not "$10 last sizes"), the reviews shown (men describing the shirt moment, per group), the voice (§14).
+- **Weakness-as-weapon:** small and new means **one product made for one job** — the shirt moment — instead of a 109-product catalogue of tanks, socks, shorts and programs. David makes one thing and shows it on real men; Goliath runs 2,295 ads for a blue "ionic" vest. (Never sell "trust us, we're small/honest" — Nikita's rule; let the product proof carry it.)
+- **Guardrails:** (1) we must BE it — no inches, no weight loss, no "ionic", no curated-only reviews, a policy that matches the promise; (2) attack the pattern ("miracle shirts"), never name a competitor.
+
+**DRAFT line:** *"We are the blunt, dry-funny brand that stands FOR 'a shirt can't change your body — it can change how you look in your shirt' and AGAINST the miracle shirt — the compression undershirt for men who are done hiding in their clothes."*  
+Holds every men's group: G3 (the leftover the scale can't move), G2 (the chest on the shirt), G1 (the gut at the tuck), G5 (the shirt that fits different now). Re-checked against §10A's core desire and §11's objections before locking.
+
+**So What → do this:** build the brand to be the one men's undershirt that tells the truth about what a shirt can do — and then proves the part it can do on camera.
 
 ---
 
 # 15 · Competitor Offers + Price Ladder
 
-**Coverage:** every online seller named on this page — the §1 long-list (direct + indirect), the white-space advertisers and the §10B alternatives.
-
-- **80 store URLs checked:**
-  - **30 distinct stores walked to the checkout landing page** with playwright-skill (one script looping the whole list). Every walk stopped before any field was typed — **no personal or payment data entered, no order placed.**
-  - **13 stores:** product page captured but cart not walked (reason given in each block).
-  - **3 blocked and logged** (Cloudflare, HTTP 429, 404 — not bypassed).
-  - **24 dead or pivoted** (one line each at the end).
-- **Every variant, tier and compare-at price** comes from each Shopify store's `/products/[handle].js` (78 files).
-- **Refund and shipping policy text** pulled for 45 stores.
-- **Installed apps** from Winning Hunter `get_store_details` (11 new calls + Phase-1 data reused).
-- **Marketplaces** (CJ / AliExpress / Temu / Amazon / TikTok Shop / Etsy) priced, not walked.
-- Tags: VERBATIM (walked / fetched today) · DATA (WH) · SNIPPET · INFERENCE.
-
-## A · Direct competitors — one block each
-
-**NORTH ALPINE** — [https://north-alpine.com/products/northpower-experience-the-shift-in-shape-posture-pride](https://north-alpine.com/products/northpower-experience-the-shift-in-shape-posture-pride) · policies [https://north-alpine.com/policies/refund-policy](https://north-alpine.com/policies/refund-policy) · VERBATIM (walk) / DATA (WH)
-
-- One-time: **$29.90**, compare-at $60.00 ("You save $30.10"); all 32 variants $29.90/$60 (.js).
-- Bundles/tiers: 1 = $29.90 · **2 + 1 FREE $59.80** (vs $180, "BEST SELLER", ≈$19.93/unit) · **3 + 2 FREE $89.70** (vs $300, "BEST VALUE", $17.94/unit). Kaching bundle app (cart.js `__kaching_bundles`). No subscription.
-- Gifts/bonuses: none on PDP or in cart.
-- Upsells: cart cross-sells NorthPower-L $49.99 and NorthPower-T $39.90 (vs $70); no shipping protection seen pre-address; post-purchase **AfterSell** installed → one-click post-purchase upsell (INFERENCE from WH apps).
-- Guarantee/returns: PDP "90 Day Perfect Fit Money Guarantee… return it for a full refund — no questions asked" + "Free Returns & Exchanges… at no cost to you" — **but policy: "underwear and intimate apparel are final sale and cannot be returned… Return shipping costs are the responsibility of the customer. We do not provide prepaid return labels."** Return address not published (email contact@).
-- Shipping: PDP FAQ "arrive within 5 to 8 business days anywhere in the world"; policy "5 – 10 business days", ships "from our warehouses in the United States and Hong Kong"; no free-shipping threshold stated.
-- Discounts: email "Sign up" pop-up (Phase-1 mobile: gamified "Match 3 cards" pop-up); no countdown; no reason given beyond permanent "You save" anchors.
-- **Gap:** the guarantee is contradicted by its own policy (final-sale underwear, buyer pays return) — the #1 trust hole of the market leader; weight-only sizing; "Ionic Compression… promote healthy blood flow" pseudo-claim.
-
-**SHAPERLUV** — [https://shaperluv.com/products/shaperluv%E2%84%A2-tank-3-0](https://shaperluv.com/products/shaperluv%E2%84%A2-tank-3-0) · listicle [https://shaperluv.com/pages/5-reasons-why-shaperluv-v3](https://shaperluv.com/pages/5-reasons-why-shaperluv-v3) · VERBATIM
-
-- One-time: .js list $44.99 (no compare-at); bundle widget 1 tank **$15** (vs $45).
-- Tiers: 1 $15 · 3 $45 (vs $135) · **5 $50 "MOST POPULAR" (vs $225) = $10/tank** · 8 $80 "BEST PACK" (vs $360). Listicle "BUY NOW" lands on the same widget, 5-pack pre-selected (cart.js: 5 × $10.00, orig $44.99).
-- Gifts: none in today's walk (Phase-1/WH: "FIT DAD PROGRAM" $2.95 product + "Dad Bod to Fit Dad" program "(a $99 value)"; Trustpilot "Deceptive and confusing subscription enrollment" 4+4) [DATA].
-- Upsells: cart cross-sells "The Limited 3-Pack \| Shaperluv Tank 3.0" $25.00, "Limited 3-Pack Tank 2.0" $29.85, others $19.95–$29.95; Shipping Protection $2.97 (WH product list) [DATA]; no post-purchase app detected (WH: none).
-- Guarantee: PDP "60-DAY GUARANTEE… If you don't see ANY results, not only will we refund your money, but you also get to keep the product" (keep-it); policy: 60 days, "unworn… We currently do not provide return shipping labels. The cost of return is approximately $10."
-- Shipping: cart "Fast 2-4 Day US Shipping from Ohio"; policy Express 3–7 / Standard 5–10 business days + 1–3 processing; US warehouse.
-- Discounts: no email pop-up seen; cart "The items in your cart are selling fast!"; checkout "**Due to high traffic volume, your size is reserved for 9:59 min**" (fake reservation timer); ads' reason "ONLY $10… LAST SIZES IN STOCK" / Prime Day / Tariff clearance (Phase-1).
-- **Gap:** $10/tank = cheapest positioning in the market; S–2XL only (variants S,M,L,XL,2XL); "keep-it" PDP promise vs "unworn" policy; fake reservation timer.
-
-**SELURE WEAR** — [https://selurewear.com/products/slimflex](https://selurewear.com/products/slimflex) · [https://selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0](https://selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0) · policy [https://selurewear.com/policies/refund-policy](https://selurewear.com/policies/refund-policy) · VERBATIM
-
-- One-time: SlimFlex **$29.90** (vs $60.00; .js $29.95/$60); Shaping Tank 2.0 **$9.95** in widget (vs $44.95; .js $19.95/$44.95).
-- Tiers: SlimFlex 1 $29.90 · **2 + 1 FREE $59.80 "MOST POPULAR"** (vs $180, $19.94/unit in cart.js). Tank 2.0: 1 $9.95 · 3 $29.95 (vs $134.85) · **5 $49.75 MOST POPULAR** (vs $224.75, $9.95/u) · 8 $79.60 "BEST PACK + Free Shipping" (vs $359.60).
-- Gifts: Tank 2.0 5-pack → cart "YOU'VE UNLOCKED A FREE GIFT!🎁 'THE ANTI-DAD BOD GUIDE' (email delivery) FREE" (checkout line "Dad Bod to Fit Dad Guide FREE").
-- Upsells: cart drawer **"🚚 Priority Shipping Protection - Insured ($2.95)"**; cart cross-sells cotton fitted tank 3-pack $49 (vs $80), boxer 3-pack $34.95 (vs $70), Tank 2.0 $19.95; post-purchase app: none detected (WH) [DATA].
-- Guarantee: PDP "Enjoy 60 days of money-back-guarantee, with less than 1% of customers asking for their money back" + "60-Day Free size exchange"; checkout "Easy & Free 60 Day Returns"; **policy: "Return shipping costs are the responsibility of the customer (approx. $10…). We currently do not provide prepaid labels."** Return address: Online Seller RMA, 2125 Gateway Blvd #82212383, Hebron KY 41048, USA.
-- Shipping: "FAST 2-4 DAY US SHIPPING"; policy Express USA 2–4, Priority 5–10 business days.
-- Discounts: banner "🎃 HALLOWEEN SALE \| UP TO 75% OFF 👻"; "Almost sold out", "Only 8 left in stock❗️"; checkout "Limited Stock \| Reserved for: 9:55"; Phase-1 exit pop-up "CLAIM 80% OFF".
-- **Gap:** "Free returns" vs buyer-paid ~$10 returns; same template as North Alpine (claim chips, "ionic compression zones"); women are 56% of visitors (SimilarWeb, Phase-1) but nothing speaks to the partner.
-
-**EVOLV (V-Boost)** — [https://evolv-off.com/products/v-boost-v2-feel-the-power-of-confidence-energy-strength](https://evolv-off.com/products/v-boost-v2-feel-the-power-of-confidence-energy-strength) · VERBATIM / DATA
-
-- One-time: **$60.00** (.js, no compare-at); V-Boost v3 $80.00 (.js); V-Shape 2.0 $29.99 (vs $60).
-- Tiers: banner "Save up to 70% on bundles"; the bundle widget **did not render in our headless walk** (cart got 1 × $60); Phase-1 captions "2+1 FREE TODAY" (25/41 ads) [DATA]. Apps: Kaching, **Recharge Subscriptions** [DATA].
-- Gifts: none seen.
-- Upsells: "Package Insurance (Loss of parcel, theft, damage)" **$2.99** product (.js `evolv_insurance`); **UpCart** cart-upsell + Recharge (INFERENCE: cart add-ons / subscription option) [DATA].
-- Guarantee: PDP "60-day money-back guarantee… we'll refund you"; policy 60 days, "unworn, unused, with tags… return shipping costs are the responsibility of the customer"; worn items "cannot be returned".
-- Shipping: PDP "free delivery within 6 to 8 business days across the US, Canada, Australia and Europe".
-- Discounts: pop-up "SIGN UP AND SAVE — Subscribe to get special offers, free giveaways…"; reason "Early Halloween Sale".
-- **Gap:** highest list price ($60–$80) with the weakest claim hygiene ("Ionic Ice… breaks down fat cells", PDP review "I dropped 30 lbs in 2 months with V-Boost"); worn = non-returnable.
-
-**EVOLVBOOST (V-Boost clone store)** — [https://evolvboost.com/products/v-shape-slimming-shirt-2-0](https://evolvboost.com/products/v-shape-slimming-shirt-2-0) · VERBATIM
-
-- $29.99 (vs $60.00, "SAVE 50%"); no tiers; **"🚨 OFFER ENDS IN 00:18:25"** + "Hurry! Limited Stock."; cart add-ons "Free Weight Loss Program (SlimBoost)" $14.90, "Package Insurance" $2.50/$2.99, "The Ultimate Guide to Losing Weight and Gaining Confidence (e-book)" $12.90; 30-day guarantee, policy "Return shipping costs are the responsibility of the customer"; "Free Shipping (5-8 Days)". **Gap:** paid "weight-loss program" add-on = FTC-risk upsell; clone.
-
-**INSHAPE** — [https://in-shape.co/products/inshape-beaters](https://in-shape.co/products/inshape-beaters) · policy [https://in-shape.co/policies/refund-policy](https://in-shape.co/policies/refund-policy) · VERBATIM / DATA
-
-- One-time: **$44.90** (vs $54.90) "$33 per unit" (with sitewide 20%).
-- Tiers: 1 $44.90 · **3-pack $99.90** (vs $164.70; cart "TankBundle (-$34.80)" → $33.30/u) "+ FREE SHIPPING & FREE SOCKS" · 5-pack $149.90 (vs $274.50, $29.98/u). Kaching.
-- Gifts: "FREE SHIPPING & FREE SOCKS ON ORDERS OVER $95" (socks $15.90 product); CartBot gift-with-purchase app [DATA].
-- Upsells: cart shows tee $44.90/$54.90, socks $15.90; **AfterSell** post-purchase installed (INFERENCE).
-- Guarantee: "60-DAY FIT PROMISE \| WRONG SIZE? WE FIX IT FREE"; policy "contact us within 60 days and we will make it right with **full store credit**" (refund to card only for defects/EU).
-- Shipping: policy US Standard **$9.95** (4–7 days), Expedited $14.95, Priority $24.95; "free on qualifying US orders of $84 or more".
-- Discounts: "FALL SALE \| 20% OFF SITEWIDE".
-- Also: 3 PDP reviews are post-weight-loss men ("lose 500lbs… helps me with all the extra skin", "I lost 130lbs… How do I deal with the loose skin, and the answer is InShape") — loose skin lives only in its reviews; ads "No More Loose Skin" (Phase-1).
-- **Gap:** premium price ($44.90) but store-credit-only fit promise and paid shipping under $84; tiny traffic (9,453 visits Sep-26, $25–50k/30d) [DATA].
-
-**ROUNDERBUM** — [https://rounderbum.com/products/compression-tank-top](https://rounderbum.com/products/compression-tank-top) · policy [https://rounderbum.com/policies/refund-policy](https://rounderbum.com/policies/refund-policy) · VERBATIM — **cart not walked — ATC click had no effect (size selector not detected; page title "We're still here!")**
-
-- $59.00 single (.js; 28 variants $59, 8 at $47.20 cmp $59); tiers "Single, or 2, $59.00/Each · 3 pack + Free USA Shipping, Buy 3 save 20% off, $47.20/Each (Most popular) · 5 pack + Free USA shipping, save 30%, $41.30/Each".
-- Gifts: "Create an account & Subscribe… for a $5 USD reward" / pop-up "Get $5 USD Store Credit".
-- Guarantee: policy 30 days, unworn, tags, "**Returns are only eligible for store credit codes or exchange**", prepaid label provided.
-- Shipping: USPS 4–6 days $9.95, Express $19.99; free USA ≥ $75.
-- **Gap:** most expensive tank; no money back at all (store credit only).
-
-**THE NATURAL POSTURE** — [https://thenaturalposture.com/products/mens-slimming-body-shaper-under-shirt](https://thenaturalposture.com/products/mens-slimming-body-shaper-under-shirt) · policy [https://thenaturalposture.com/policies/refund-policy](https://thenaturalposture.com/policies/refund-policy) · VERBATIM — **cart not walked — no clickable add-to-cart element found (button has no text; form fallback also failed)**
-
-- $24.99 (vs $29.99, "Save 16%"); "Buy More & Save": 1 pack 10% · pack of 2 $44.98 (vs $49.98) · 3 $63.72 (vs $74.97) · **5 $99.96 "MOST POPULAR" (vs $124.95, $19.99/u)**.
-- Gift: "BONUS: The Natural Posture Improvement Guide E-Book Included with Purchase ($6.99)".
-- Upsells: product tags "Slim Shirt OCU", "Deluxe Full Back OCU" → Zipify **OCU** post-purchase upsells (INFERENCE from WH product tags).
-- Guarantee: "100% FREE RETURNS & EXCHANGES · 100% NO-RISK MONEY BACK GUARANTEE"; policy "60-day, 100% Satisfaction Guarantee for items… in perfect, resalable condition".
-- Shipping: "Low Cost Worldwide Shipping!"; warehouses USA, UK, Asia.
-- Discounts: pop-up "10% off your first order"; size guide uses **height and weight** ("custom sizes… Shirt Length ~27–28""). Since 2017; $125–210k/30d [DATA].
-- **Gap:** posture-brand positioning; gynecomastia framing ("CONCEALING VISIBLE SIGNS OF GYNECOMASTIA").
-
-**WAIST SCULPT** — [https://waistsculpt.com/products/mens-tummy-compression-slimming-undershirt](https://waistsculpt.com/products/mens-tummy-compression-slimming-undershirt) · VERBATIM / DATA
-
-- $42.98 (vs $78.99); 2-pack $62.98 (vs $120.98); banner "🔥 BUY 1 GET 2ND 50% OFF"; other shapers $24.98–$52.98.
-- Gifts: none. Upsells: **checkout tip selector 3% $1.29 / 5% $2.15 / 10% $4.30**; Bundler app [DATA].
-- Guarantee/returns: policy — "address of our return warehouse **in China**", "Customers are responsible for paying their own shipping costs… deducted from your refund"; worn/washed not returnable.
-- Shipping: Standard 7–12 business days free; Fast 6–8 days $19.99; processing 2–4 days. Business: Guangzhou company.
-- Discounts: "10% OFF FIRST ORDER \| CODE: 【NEW10】".
-- Also: store description "reduce **loose skin appearance**" (WH) + 1 PDP review "I've lost 30 pounds and this helps with the loose skin".
-- **Gap:** China returns; no guarantee.
-
-**SCULPTIX** — [https://trysculptix.com/products/sculptix-ultimate-compression-workout-tank-1](https://trysculptix.com/products/sculptix-ultimate-compression-workout-tank-1) · VERBATIM
-
-- 1 = $14.99 (vs $39.99, .js); 2-PACK $29.98 (vs $79.98) · 3-PACK $44.97 · **5-PACK $69.95 MOST POPULAR (vs $199.95, $13.99/u)** · 6-PACK "+ FREE GIFT" $89.94 (vs $239.94).
-- Upsells: drawer **"Add Package Protection — Protect your order from damage, loss, or theft"**; "72% of our customers bundle for the perfect sculpted look"; cross-sells tummy shorts $24.99 (vs $29.99), long-sleeve $24.99 (vs $49.99).
-- Guarantee: "Our 60-Day Risk-Free Guarantee — Wear it for 60 days. If you don't look noticeably better in the mirror or if anyone notices it under your clothes, send it back for a full refund. **No photos, no forms, no questions**"; policy 30-day template, return address "[INSERT RETURN ADDRESS]", contact [magicdrawing.store@gmail.com](mailto:magicdrawing.store@gmail.com).
-- Shipping: "Arrives in 7 days in the 🇺🇸"; "Estimated Arrival Time: 7-12 business days"; drawer "You eligible for free shipping!".
-- Discounts: "CLEARANCE SALE: Everything UNDER 10$"; "🚨 Almost SOLD OUT".
-- **Gap:** best-worded results guarantee in the category, undermined by a template policy with no return address.
-
-**QORE LOGIQ** — [https://qorelogiq.com/products/compression-shirt-tank-top-long](https://qorelogiq.com/products/compression-shirt-tank-top-long) · VERBATIM / DATA
-
-- $32.99 (vs $39.99) Tall Length; Regular $28.90 [DATA]; **3 Pack (22% OFF) $94.05** (vs $119.97, pre-selected); 5 Pack (30% OFF); cart "Buy 3+ and save 5% extra · $31.34 each · Buy 5+ save 15% extra $28.04 each".
-- Pop-up: **quiz** "What are you looking for help with? Smooth My Chest / Shape My Waist / Support My Core / Find a Taller Fit" → "Unlock Your Welcome Discount — 10% OFF".
-- Upsells: **Monster Cart Upsell + Free Gifts** app [DATA]; cross-sells short-sleeve $25.90, bodysuit $35.85.
-- Guarantee: "Try it risk-free for 30 days… full refund. No questions"; policy unused/unworn; return label provided but "not responsible for return shipping fees"; returns to HONU 3PL, Wind Gap PA.
-- Shipping: "FREE Shipping over $75"; policy Standard 3–5, Expedited 1–3 days; "Ships Today".
-- Mechanism: "3-tier compression… chest area has the strongest compression to minimize gynecomastia"; "Sizes up to 5XL (62-64" chest)"; Tall length.
-- **Gap:** only brand with a fit quiz + tall length, but 30-day unworn-only guarantee.
-
-**SHAPE (AU)** — [https://shapeclothing.com.au/products/men-s-tummy-shaper-tank](https://shapeclothing.com.au/products/men-s-tummy-shaper-tank) · VERBATIM — A$43.00 shown (.js A$59.95), no tiers; "FREE EXPRESS SHIPPING On all orders over $100"; "HASSLE-FREE RETURNS 21-day postage paid returns" (policy: men's underwear non-returnable for hygiene; ships to AU/NZ/PH/SG only); "Backordered". **Gap:** not a US offer at all.
-
-**GAUDENZA (FitForm™)** — [https://www.gaudenza.com/products/fitform%E2%84%A2-men-s-compression-undershirt](https://www.gaudenza.com/products/fitform%E2%84%A2-men-s-compression-undershirt) · policy [https://www.gaudenza.com/policies/refund-policy](https://www.gaudenza.com/policies/refund-policy) · VERBATIM
-
-- 1 Pack $29.90 (vs $39.90, "25% OFF"); **"Most Popular — Buy 2, Get 1 Free" $59.80** (vs $119.70; checkout code "FITFORM, BUY 2, GET +1 FREE (-$29.90)") · "Best Value — Buy 3, Get 2 Free" $89.70 (vs $199.50); per-shirt size/colour picker.
-- Gifts: none. Upsells: none in cart; no upsell app (WH: [Judge.me](http://Judge.me), Klaviyo) [DATA].
-- Guarantee: PDP "30-Day Guarantee — Love it or get your money back"; policy 45-day, unworn, "Shipping Fees are never refunded", "restocking fee of 50%" if not in original packaging; returns to PO Box 110601, Bradenton FL.
-- Shipping: "FREE SHIPPING On orders over $50"; policy US 5–16 days + 1–4 processing.
-- Discounts: "High demand, only a few left in stock!"; no email pop-up seen.
-- **Gap:** 50% restocking fee + "never refunded" shipping hidden behind "Love it or get your money back".
-
-**AIDA (Lymphatic Compression Vest)** — PDP [https://officialaidastore.com/products/aida-lymphatic-compression-vest](https://officialaidastore.com/products/aida-lymphatic-compression-vest) · listicle [https://officialaidastore.com/pages/lymphatic-compression-vest-listicle](https://officialaidastore.com/pages/lymphatic-compression-vest-listicle) · policy [https://officialaidastore.com/policies/refund-policy](https://officialaidastore.com/policies/refund-policy) · VERBATIM
-
-- One-time: **Buy 1 $54** (vs $108) "Start feeling lighter by evening" (.js $53.95/$107.90; WH bestseller list $34.99/$69.99) [DATA].
-- Tiers: Buy 2, Get 1 FREE $90 (vs $324) "Covers you between washes" · **Buy 3, Get 2 FREE $135 (vs $540) "5 vests: a fresh one every weekday" — MOST POPULAR, pre-selected** ("You're saving $405"). Free shipping all tiers.
-- Gifts: none; footer "Manage Your Subscription" (subscription exists somewhere on the store).
-- Upsells: "Expedited Processing available in your cart"; no upsell app detected [DATA].
-- Guarantee: **"The Keep-The-Vests Guarantee — Wear them daily for 30 days. Not feeling lighter? Email us within 60 days of delivery. Full refund. Keep the vests. No returns… One claim per household"** — vs policy: "Keep it, and we refund what you paid **minus $20 or 20%**"; unworn returns "Return shipping is paid by the customer"; Trustpilot "Difficult and costly returns process requiring shipping to China" (4) [DATA].
-- Shipping: "Free tracked, insured worldwide shipping… within 7–14 business days"; policy US 5–10.
-- Discounts: "🎃HALLOWEEN SALE: BUY 3, GET 2 FREE · DEAL ENDS IN 23:49:27"; cart "We will reserve for 09:54 minutes"; listicle "Buy 3, Get 2 FREE for new customers, online only. This offer can end at any moment."; weight-based sizing warning pop-up "⚠️ Not your usual size. We size by weight."
-- **Gap:** strongest-sounding guarantee in the market, contradicted by its own policy; claims "drain trapped fluid" (medical-ish); listicle-to-cart not walked (listicle CTA "See Bundle Prices →" did not add to cart — PDP walked instead).
-
-**HURACAN PERFORMANCE** — [https://www.huracanperformance.com/products/men-body-shaper-shirt](https://www.huracanperformance.com/products/men-body-shaper-shirt) · VERBATIM / DATA — Buy 1 $29.99 (vs $39.99) · **Buy 2 Get 1 Free $58.50 BEST SELLER** (vs $119.97; $19.50/u) · Buy 3 Get 2 Free $88.50 (vs $199.95); "FREE SHIPPING 📦"; "30-day return policy – exchange or refund, no questions asked" (policy 30 days, no other terms); ships in 24–72h, USA-only per policy, "fulfill within 7 business days"; newsletter "GET 10% OFF"; cart cross-sells linen pants $39.99, polo $31.99; Kaching [DATA]. **Gap:** menswear store, offer is generic.
-
-**VESARON** — [https://www.vesaron.com/products/mens-slimming-posture-compression-vest-base-layer](https://www.vesaron.com/products/mens-slimming-posture-compression-vest-base-layer) · VERBATIM — $23.99; Buy 2 10% off $43.18 · Buy 3 15% off $61.17 · Buy 4 20% off $76.77; "🔥92.8% of Customers Buy 2 or More🔥"; drawer **Shipping Protection $2.99**; "30-Day Guarantee… full refund, no questions asked" (policy template: "[INSERT RETURN ADDRESS]", contact [cyqg202607@163.com](mailto:cyqg202607@163.com)); "Free Shipping For Order Over $49.99"; 7–15 business days. **Gap:** % ladder (not "free"), no real return address. Same store template as Havengrand/Rrighodew.
-
-**IRONSTRIDE** — [https://ironstride.online/en-us/products/mens-slimming-compression-vest](https://ironstride.online/en-us/products/mens-slimming-compression-vest) · VERBATIM — Buy 1 $29 · **Buy 2, get 1 free $58 (33% off, Most Popular)**; cart showed A$40.00 (AUD store, Melbourne); "Free tracked & insured shipping · Free Returns · 30 Days Money Back Guarantee"; policy: customer pays return shipping; US 7–15 business days; banner "Hurry, SALE END SOON! BEST Steel Toe Sneakers" (wrong store copy). **Gap:** AU store, confused copy.
-
-**BIGGMANS** — [https://biggmans.com/products/compression-tank](https://biggmans.com/products/compression-tank) · VERBATIM / DATA — **cart not walked — size selects matched other products' variants; add-to-cart not found**. $29.99 (vs $49.98); .js big & tall vest $27–$78.99; "Get 15% OFF buying these products together"; "EASY RETURN WITHIN 30 DAYS"; shipping $9.99 under $129, US 7–24 business days; apps **AfterSell** + Kaching (INFERENCE post-purchase upsell); TP 2.5 (556), 0% replies [DATA]. **Gap:** HK general store, slow shipping.
-
-**ALPHACORE** — [https://alphacore-store.com/products/alphacore-compression-tank](https://alphacore-store.com/products/alphacore-compression-tank) · policy [https://alphacore-store.com/policies/refund-policy](https://alphacore-store.com/policies/refund-policy) · VERBATIM
-
-- 1-Pack $24.95 (vs $29.95) · **3-Pack · 1 FREE $49.90 MOST POPULAR** (vs $89.85; $16.64/u) · 5-Pack · 2 FREE $74.85 + FREE Shipping · 8-Pack · 4 FREE $99.80 **+ FREE Compression Short ($49.95)**.
-- Upsells: cart cross-sells longsleeve $29.95 (vs $59.95), tee $34.95; no app [DATA].
-- Guarantee: "45-Day Guarantee… If AlphaCore™ doesn't work for you for any reason… we will refund you in full. No forms, no hassle" — policy: unworn "(other than trying on)", customer pays return shipping; size exchange "for a small fee, with no return required".
-- Shipping: $4.95 under $45, free ≥$45 / 5-pack; 4–6 business days, ships within 24h.
-- Positioning: big men ("engineered specifically for big men… without rolling up… Sizes up to 5XL"); "Ionic Nylon micro-channel fabric". Owner FR; $3–7k/30d [DATA].
-- **Gap:** good free-gift-at-top-tier model, tiny brand, "Ionic".
-
-**HAVENGRAND** — [https://havengrand.com/products/mens-slimming-posture-compression-vest-base-layer](https://havengrand.com/products/mens-slimming-posture-compression-vest-base-layer) · VERBATIM / DATA — $23.99, no tiers on this store's copy; "FREE SHIPPING FOR ORDER OVER $49.99"; cart cross-sells random goods (stitch book, stove protectors); its #1 bestseller is "Shipping Insurance" $2.99 [DATA]; policy 14-day returns, "contact… to get the returned address"; 10–15 day shipping + 3–5 processing. **Gap:** general store.
-
-**CLASP COMPRESSION** — [https://claspcompression.com/products/clasp-compression-tank](https://claspcompression.com/products/clasp-compression-tank) · VERBATIM — BUY 1 $29 (vs $70, "Save $41") · **BUY 2 GET 1 FREE $58 total ($19/each, BEST VALUE)**; pop-up **"SPIN TO WIN — Enter your email for the chance to win a discount… No, I don't feel lucky"**; "BUY 2 GET 1 FREE sale ends in" countdown; "Almost sold out. Act fast!"; cart **Shipping Protection $3.00**; "✓ Free shipping"; "30-Day Fit Guarantee · Free Returns & Exchanges"; colours Black/White/**Skin**. **Gap:** new (Sep-26), no policy pages published.
-
-**RABLAISIE** — [https://rablaisie.com/products/mens-workout-zipper-body-shaper-tank-top-1](https://rablaisie.com/products/mens-workout-zipper-body-shaper-tank-top-1) · VERBATIM — **$17.99** (vs $35.99), 2-pack variants $29.99; "Only 25 item(s) left"; cart **"Worry-Free Delivery® for $1.28"**; "Free Shipping for Orders Over $50"; "24-hour fast shipping · 30-day no-questions-asked returns" vs policy "intimates… cannot be returned", return cost deducted; zipper sweat-vest; general store. **Gap:** commodity.
-
-**RRIGHODEW** (template store) — [https://rrighodew.com/products/men-s-compression-tank-top](https://rrighodew.com/products/men-s-compression-tank-top) · VERBATIM — $22.99 (vs $39.99); "Buy 2 Save 10% $41.38 · Buy 3 Save 15% $58.62 · Buy 4 Save 20% $73.57"; colour option "3pack (only $13.33/pack)"; timer "SUMMER OFFER · LIMITED TIME · ENDS OCT 28"; drawer **Shipping Insurance $3.50**; "Easy 14-day return policy"; "Standard Delivery: 11–18 Business Days"; PDP even says "Limited shaping effect". **Gap:** general store.
-
-**ORENIQO** (template store) — [https://oreniqo.com/products/%E2%9C%A8mens-compression-tank-top-sleeveless-tummy-control-shapewear-slim-fit-flexible](https://oreniqo.com/products/%E2%9C%A8mens-compression-tank-top-sleeveless-tummy-control-shapewear-slim-fit-flexible) · VERBATIM (1st load hit a Cloudflare "Just a moment…" page — logged; 2nd normal load passed by itself) — $29.99 (vs $60.99); Buy 2 10% $53.98 · Buy 3 15% $76.47; cart **Shipping Protection $2.50**; "Complimentary shipping on orders over $59.99"; 14-day returns; 11–18 business days. **Gap:** general store.
-
-**AETHON** — [https://tryaethon.com/products/mens-compression-undershirt](https://tryaethon.com/products/mens-compression-undershirt) · VERBATIM — 1x $29.99 (vs $60, "50% OFF"; .js $39.95) · **2+1 FREE $59.99 MOST POPULAR** (vs $180) · 3+2 FREE $89.99 (vs $300); **"200+ WASH GUARANTEE"** + "Free returns on every order" + "30-Day Guarantee"; "3-tier compression zones"; partner hook "My wife got me this instead of letting me buy a gym membership I won't use."; cart "Rated 4.9 \| 2,341 reviews"; "Duties and taxes included". **Gap:** only brand guaranteeing durability (200+ washes) — copyable.
-
-**COREARMOUR** (GB) — [https://core-armour.com/products/covearmour%E2%84%A2-mens-compression-tank-top](https://core-armour.com/products/covearmour%E2%84%A2-mens-compression-tank-top) · VERBATIM — £24.99; **1 + 1 FREE £49.98 "2 for the price of 1!"** (MoonBundle); "AUTUMN SALE! UP TO 50% OFF – WHILE STOCK LASTS"; "Only 4 left in stock"; cart add-ons socks £24.99/£5.99, sleeves £29.99, long-sleeve £33.99, tee £31.87 (all "You save 15–40%"); "30-day guarantee… Satisfaction guaranteed or your money back"; free delivery; sizes to 7XL. **Gap:** UK-only offer (US = none).
-
-**SHAPEMEN (ShapePower)** — [https://shape-men.com/products/shapepower](https://shape-men.com/products/shapepower) · VERBATIM — $34.99 · **2 + 1 FREE $69.99 MOST POPULAR "+ FREE Priority Shipping"** (vs $104.97) · 3 + 2 FREE $99.99 (vs $174.95); **"93% claimed this offer - Ends Tonight"**, "89% sold", "Ends in 16:34:05"; drawer **Shipping Protection $4.99**; "45-Day Money Back Guarantee — Less than 1% of customers have used our Money Back Guarantee"; policy 45 days, customer pays return; 6–10 days; North-Alpine copy clone ("Ionic Compression"). **Gap:** clone.
-
-**TUSQ APPAREL** — [https://tusqapparel.com/products/body-shaper-tank-regular-length](https://tusqapparel.com/products/body-shaper-tank-regular-length) · policy [https://tusqapparel.com/policies/refund-policy](https://tusqapparel.com/policies/refund-policy) · VERBATIM — $40.00 (Regular) / $42.00 (Tall, .js); "Buy 3, save 15%"; "or 2× $20 with shopPay"; cart "FREQUENTLY BOUGHT TOGETHER" shorts $35, Box-Fit Tees $29, Sleeveless $25, Hoodies $59, Hats $19; "Free 30-day returns · Free size exchange" and policy **"Return shipping labels are free for US customers"** (HONU 3PL, Pemberton NJ); free US standard shipping over $100; ships from US warehouse. **Gap:** honest but no bundle psychology; Regular + **Tall** lengths, MED–5XL.
-
-**SHAPERS (SlimShirt 3.0)** — [https://shaprs.shop/products/slimshirt-3-0](https://shaprs.shop/products/slimshirt-3-0) · VERBATIM — **cart not walked — ATC clicked but cart stayed empty (likely a German Shopify app cart)**. Buy 1 $39.99 (vs $49.99) "No gifts included" · Buy 2 $27.99/piece $54.99 "Includes 1 FREE Gift" · **Buy 3 $22.99/piece $69.99 MOST POPULAR "Includes 2 FREE Gifts"** (Posture Corrector $14.99 + free shipping) · Buy 5 $19.99/piece $99.99 "3 FREE Gifts"; "Shapewear Insider Guide FREE"; "6 Inches Off Your Waist. 25% Longer Fit"; "FALL SALE — 20% OFF"; policy 14-day return + "voluntary **60-day satisfaction guarantee**", customer pays return; US delivery 4–10 days; 2 PDP reviews on loose skin after weight loss. **Gap:** DE-run store.
-
-**VLYNE** — [https://www.v-lyne.com/products/vlyne-compression-shirt](https://www.v-lyne.com/products/vlyne-compression-shirt) · VERBATIM — $29.90 (vs $50) · **2 + 1 FREE $59.80 BEST SELLER** (vs $150) · 3 + 2 FREE $89.70 (vs $250); "OCTOBER SALE ENDS OCT 29TH" + "40% Off The Fit Dad's System"; "High demand, only a few left in stock!"; "Look slimmer in your clothes, or get your money back… within 30 days" — policy: **"Items may be used during the 30-day guarantee period"**, customer pays return; FREE standard shipping, 5–8 days "from our suppliers". **Gap:** honest outcome guarantee ("look slimmer in your clothes") — new (Oct-26).
-
-**OMNIBRACE** — [https://omnibrace.com/products/mens-body-slimming-vest-waist-belly-chest-shaper-underwear-shapewear-t-shirt-2](https://omnibrace.com/products/mens-body-slimming-vest-waist-belly-chest-shaper-underwear-shapewear-t-shirt-2) · VERBATIM — **cart not walked — add-to-cart element not found**. $14.99 (cmp $19.99–$26.99); "USA Company! Ships mainly from Salt Lake City, UT!"; "FREE SHIPPING ON ORDERS OVER $40!!" (policy $35); 30-day unworn returns, buyer pays return; 4–6 days; sizes to 6XL. **Gap:** no offer.
-
-**DILIGETIRECT** (Shopline template, same as Proudous) — [https://www.diligetirect.com/products/slimming-body-shaper-shirt-black-white-options-confident-fit-anywhere](https://www.diligetirect.com/products/slimming-body-shaper-shirt-black-white-options-confident-fit-anywhere) · VERBATIM — **cart not walked — Shopline cart (no /cart.js), ATC did not register**. "Save 50%"; "Buy 2 Get 10% OFF & Free Shipping🔥"; $60 (demand data); "Worldwide Express Shipping". Proudous ([proudous.com](http://proudous.com)) same template — PDP URL not resolvable, not walked.
-
-**AIYOUMOI** — [https://aiyoumoi.com/products/men-s-breathable-compression-body-shaper](https://aiyoumoi.com/products/men-s-breathable-compression-body-shaper) · VERBATIM — $22.99 (vs $45.98, "50% OFF"); "Buy $27.00 more to FREE Shipping" (≈$50); "30-day no-questions-asked returns" (policy: unworn, address "[INSERT RETURN ADDRESS]"); "24-hour fast shipping"; mostly women's store. **Gap:** none to learn.
-
-**ESTEEM APPAREL** — [https://esteem-compression-apparel.com/products/gynecomastia-chest-compression-shirts](https://esteem-compression-apparel.com/products/gynecomastia-chest-compression-shirts) · policy [https://esteem-compression-apparel.com/policies/refund-policy](https://esteem-compression-apparel.com/policies/refund-policy) · VERBATIM (Amazon: 14.2K ratings, $29.99) — Single $29.99 (vs $37.49); **3-pack $71.99 ($24.00 each)**; "Buy one, get the second 20% off — CODE: BOGO20"; pop-up "Get 10% off → Single shirts only; 3-packs excluded"; cart cross-sells EliteSlim $24.99, Max tank $26.99, UltraSlim $21.99; "Ships next-day · Free size exchanges · Ships in discreet packaging"; **policy: refunds/exchanges for ≤2 items need no return ("no return shipping, no waiting"); 3+ items returned and return shipping reimbursed**; free US shipping 3–7 days from US warehouse. **Gap:** gyno framing only; best *real* returns policy among tank sellers.
-
-**INSTA SLIM** — [https://instaslim.com/products/insta-slim-i-s-pro-usa-medium-compression-sleeveless-crew-tank-2tat0n1](https://instaslim.com/products/insta-slim-i-s-pro-usa-medium-compression-sleeveless-crew-tank-2tat0n1) · VERBATIM — **cart not walked — form submit ran but cart stayed empty**. $18.59 (vs $61.95); Big & Tall $24.95 (4XL–6XL); "FREE SHIPPING with code FREE1"; policy 30 days new/unused, "**10% restocking fee**", S/H non-refundable; "Made in USA" (Amazon $45.95, Phase-1). **Gap:** dated store.
-
-**UNDERWORKS** — [https://www.underworks.com/manshape-gynecomastia-tank](https://www.underworks.com/manshape-gynecomastia-tank) · VERBATIM — **cart not walked — non-Shopify cart did not register the add**; "THE MORE YOU BUY, THE MORE YOU SAVE"; "US Free Shipping On $99 Or More"; search snippet "30-day returns… From 33.33 (USD)" [SNIPPET]; Manshape® cotton-spandex. **Gap:** medical-supply look, no offer.
-
-**NEBILITY** — [https://www.nebility.com/products/belly-compression-tank-top-for-men](https://www.nebility.com/products/belly-compression-tank-top-for-men) — **cart not walked — Cloudflare bot check ("This website uses a security service to protect against malicious bots") → logged, not bypassed (no bot-check workarounds)**. Amazon $26.99 / $17.97 [DATA, Amazon demand sweep]; 184 active ads [DATA].
-
-**SELVARIC** — [https://selvaric.com/products/men-s-compression-tank](https://selvaric.com/products/men-s-compression-tank) — **cart not walked — HTTP 429 on the retry; not retried (no bot-check workarounds)**. .js $18.95 (vs $23.95), S–2XL.
-
-**MARVELOUSEE** — product URL now **404** (Shopline home loads). Not walked. **SELESTAA** — product URL redirects to a women's dress → product gone.
-
-[**UK.SHAPERLUV.COM**](http://UK.SHAPERLUV.COM) — .js `shaperluv_uk.js.json`: Tank 3.0 £44.95 list, S–2XL (GB only; not walked — same template as Shaperluv).
-
-**SHAPEEA** (Nepal) — .js NPR 2,490 (vs 3,000) per vest; targets CA/US (whitespace) — not a US offer; not walked.
-
-**CJ / AliExpress / Temu / Amazon / TikTok Shop / Etsy** — see the price ladder (marketplaces; not cart-walked).
-
-## B · Indirect competitors (same pain, other product)
-
-**PRIMAL VIKING** (testosterone supplement, "MAN BOOBS GONE") — [https://primalviking.com/products/primal-testosterone-booster](https://primalviking.com/products/primal-testosterone-booster) · VERBATIM — 1 jar $125 one-time; **subscription "63% OFF on subscription"**: $49.99/jar (1), $45.99 (2), $37.49 (4…); "Refill Ships Every 48 Days"; free shipping ≥2 jars; free e-book, free massage balm ($49), "Chance to Win Garmin Venu 4" (products.json); timer 00:09:23; "WARNING: LOW STOCK NOTICE (36 LEFT)… sold out 12 times"; "30-Day Money Back Guarantee… no relief, full refund"; pop-up "Sign up… get a 10% discount!". Walked to checkout. **Lesson:** front-loaded subscription + gifts; **weakness:** TP "Difficult or impossible subscription cancellation" (7) [DATA].
-
-**MARS MEN** — [https://mengotomars.com/products/natural-testosterone-support-for-men-over-40](https://mengotomars.com/products/natural-testosterone-support-for-men-over-40) · VERBATIM — **cart not walked — "Claim offer" CTA did not add**. $59 (vs $118) subscription default "every 4 weeks… Skip, pause, or cancel anytime"; "CLAIM YOUR OFFER 50% OFF + $70 FREE GIFTS"; **"LAUNCH KIT: ARRIVES WITH 1ST ORDER"** (FREE $50 / $30 / $8 items, 2 Ignite stick packs, Testosterone E-Book, Mentorship Program, "FUTURE SUBSCRIBER GIFTS FREE $15"); "90-DAY GUARANTEE" (policy: first order only, "$7 refund processing fee"); free shipping on first order; apps AfterSell, Postscript SMS, Rivo loyalty [DATA]. **Lesson:** the Notion "welcome kit + recurring discount" model, $10.5–19M/30d [DATA].
-
-**MOTT & BOW** (tees that "hide your belly and man boobs") — [https://mottandbow.com/pages/mens-tee](https://mottandbow.com/pages/mens-tee) · VERBATIM — **cart not walked — pack landing page, no direct ATC**. Driggs tee $39.99; "LIMITED TIME: Buy 4 men's tees, get 2 for free. No code needed"; 6-Pack $159.97 (vs $239.94), 3-Pack $95.97 (vs $119.97); "Bundle 32: The Weekly Rotation Pack" $160.76 (result-named bundle); free shipping $150+ (else $7); policy 30 days, prepaid mail-in label with "$9 USD processing fee", Happy Returns drop-off; units ladder "units:1-3_20-4_25-6_33.33-10_50" [DATA]. **Lesson:** "weekly rotation" naming.
-
-**UNDERFIT** (invisible undershirt) — [https://underfit.com/invisible-undershirt/](https://underfit.com/invisible-undershirt/) · VERBATIM — **cart not walked — BigCommerce-style build-a-pack flow; ATC opened a builder**. $42.00/shirt · 4 pack $35.50 · 6 pack $32.75 · 10 pack $29.50/shirt ("Save $125.00"); **"365-Day Free Returns — No Questions Asked"**; "Free Shipping on 3+ Undershirts"; "Discounts Apply Automatically — No Code Required"; "Over 96% of new customers keep theirs"; pop-up "Unlock My Savings". **Lesson:** the longest guarantee in the space (365 days) + confidence stat.
-
-**SHAPE LAB** (women's loose-skin shapewear — the proven women's version of our wedge) — [https://try-shapelab.com/products/high-waist-tummy-control-shaping-brief](https://try-shapelab.com/products/high-waist-tummy-control-shaping-brief) · VERBATIM / DATA ($180–280k/30d)
-
-- Buy 1, Get 1 Free $39.90 (vs $69.80) **+ "FREE Flat Tummy Plan ($14.90)"** · **Buy 2, Get 2 Free $49.90 MOST POPULAR** (vs $139.60) · Buy 3, Get 3 Free $64.90 "$10.82 each" + Free Shipping (vs $209.40) **+ "FREE $10 Gift Card"**; add-on Belly Sculpt Brush $9.90 (vs $22.90).
-- **Pop-up = segmentation quiz for a mystery gift:** "A free mystery gift — Everyone wins something. To claim it, pick what sounds most like you: **LOOSE OR SAGGING SKIN** · POSTPARTUM BELLY · BELLY & MUFFIN TOP · MENOPAUSE BELLY" ("No thanks, i don't like gifts").
-- Same product sold under avatar names: "Sculpt Brief · Instant Flat Tummy / · Postpartum Support / Seamless (Menopause)" [DATA].
-- Guarantee: "90-Day Money-Back Guarantee. Love them or full refund, no questions asked" + "Free 90-day exchanges" + "under 2% return rate" — policy: 30 days, worn/tried-on non-returnable, customer pays return (contradiction).
-- Sizing: "the size guide's calculator turns two measurements into one size".
-- Urgency: "🎃 Halloween Offer ends in 16:29:42", "92% Sold", "Last Chance, Ends Tonight". Shipping: US 5–8 business days.
-- **Lesson for us:** this is the template to port to men's W1 — avatar-named product, quiz pop-up with a loose-skin option, BOGO tiers with a digital "plan" gift and a gift card. **Weakness:** policy contradicts the 90-day promise.
-
-**SPANX FOR MEN** — not sold on [spanx.com](http://spanx.com) today ([https://spanx.com/collections/mens](https://spanx.com/collections/mens) shows only AirEssentials apparel, no undershirts) [VERBATIM curl]; "Men's Sculpt Cotton Spandex Tank · 50+ bought in past month" on Amazon; eBay resale "SPANX Men's Cotton Compression… US $55.00–$75.00" [SNIPPET [https://www.ebay.com/b/SPANX-Men/bn_7006315357](https://www.ebay.com/b/SPANX-Men/bn_7006315357)]. **Lesson:** the only "premium brand" anchor (~$55–75) has left DTC → premium slot open.
-
-**MANLY** (soap, "I cured my own man boobs…") — [https://usemanly.com/](https://usemanly.com/) — products.json: Natural Body Wash $18.00, Body Buffer $15.00 [VERBATIM]; not walked (listicle-led, parent-targeted). Irrelevant to offer design.
-
-## C · Summary table
-
-| Competitor | Price (1 unit → best per-unit) | Best offer | Gap we can beat |
+**How it was collected (2026-11-02):** one Playwright script (headless, default browser) walked **59 URLs**; **44 reached the checkout landing page across 23 stores** (14 pre-sell pages followed through to their product page) — every walk **stopped at checkout landing: nothing typed, no personal or payment data, no order placed** [S54]. Every block is sourced from the live product page, the raw Shopify `.js` product file (54 fetched) and the store's refund/shipping policy pages (31 stores) [S54][S55]; store numbers from Winning Hunter `get_store_details` [S56]. Coverage: **28 direct competitors** (incl. every new run-2 entrant and InShape's after-weight-loss page) + **5 indirect** (Primal Viking, Mott & Bow, Built Different, AT2A, IntelliSkin). Blocked: Nebility (HTTP 403 Cloudflare — logged, not bypassed; SNIPPET fallback). Not walked to checkout (reason in each block): 11 pages. The Notion **Offer Build** reference was opened and applied (summary in §15-E).
+
+## A · One block per competitor (direct first, by proven spend; then new entrants; then template/general stores; then indirect)
+
+### A1 · North Alpine: G1 + G2 (+ "over 40" ads). #1 by spend ($6.2–10.3M/30d, Doc 1 §1)
+
+Source: [https://north-alpine.com/products/northpower-experience-the-shift-in-shape-posture-pride](https://north-alpine.com/products/northpower-experience-the-shift-in-shape-posture-pride) · test PDP [https://north-alpine.com/products/northpower-feel-the-power-of-confidence-shape-control-new-offer](https://north-alpine.com/products/northpower-feel-the-power-of-confidence-shape-control-new-offer) · listicles [https://north-alpine.com/pages/5-reasons-why-northpower-instantly-transforms](https://north-alpine.com/pages/5-reasons-why-northpower-instantly-transforms) and [https://north-alpine.com/pages/5-reasons-men-ditching-baggy-shirts-northpower](https://north-alpine.com/pages/5-reasons-men-ditching-baggy-shirts-northpower) · policy [https://north-alpine.com/policies/refund-policy](https://north-alpine.com/policies/refund-policy)
+
+- **One-time:** $29.90, compare-at $60.00 ("You save $30.10"). All 32 variants are $29.90/$60 (.js DATA). VERBATIM.
+- **Tiers:**
+  - "1 NorthPower" $29.90
+  - "BEST SELLER 2 NorthPower + 1 FREE" $59.80 (vs $180) = $19.93/unit
+  - "BEST VALUE 3 NorthPower + 2 FREE" $89.70 (vs $300) = $17.94/unit
+  - App: Kaching (cart.js `__kaching_bundles`). No subscription. VERBATIM/DATA.
+- **NEW: price test running.** The second PDP ("new-offer", 3 of 58 live ads land there per the run-2 ad log) shows:
+  - 1 at $24.95 (vs $50)
+  - 2+1 FREE $49.90 = $16.63/unit
+  - **3 + 3 FREE $69.85 = $11.64/unit**
+  - It **pre-selects 2+1** (cart.js: 2 × $24.95 + 1 × $0). The main PDP pre-selects **1 unit** (cart.js: 1 × $29.90). DATA, 2026-11-02.
+  - So the market leader is testing a ~17% lower entry price and a deeper top tier.
+- **Gifts:** none.
+- **Upsells:**
+  - Cart cross-sells: "NorthPower-L" $49.99, and $39.90 (vs $70) (VERBATIM).
+  - Checkout shows "Pay in full or in installments" (Shop Pay).
+  - Post-purchase: **AfterSell** installed, so a one-click post-purchase upsell is INFERENCE (WH apps: [Judge.me](http://Judge.me), Klaviyo, GOAFFPRO, AfterSell, Kaching, Intelligems; Doc 1 §1).
+- **Guarantee vs policy:**
+  - PDP: "90 Day Perfect Fit Money Guarantee… return it for a full refund — no questions asked" + "Free Returns & Exchanges… at no cost to you."
+  - Both listicles say "**45-Day** Money Back Guarantee" and "We'll refund every penny. No forms. No hassle. No questions."
+  - Checkout line: "Your order includes free returns."
+  - **Policy:** "underwear and intimate apparel are final sale and cannot be returned or exchanged under any circumstances… we offer store credit instead of cash refunds… Return shipping costs are the responsibility of the customer. We do not provide prepaid return labels."
+  - So three different promises sit on three pages, and the policy cancels all of them. VERBATIM.
+- **Shipping:** no threshold on the PDP (listicle: "FREE shipping"). PDP FAQ: "5 to 8 business days anywhere in the world." Policy: US 5–10 business days, "warehouses in the United States and Hong Kong", DDP. VERBATIM.
+- **Discounts:** email pop-up "Sign up" (no offer stated). Listicle: "SALE ENDS SOON", "BUY 2 GET 1 FREE — FOR A LIMITED TIME ONLY… stock keeps selling out." Plus a "Please do NOT buy from Amazon" block (imitation warning). VERBATIM.
+- **Weak / missing:**
+  - Guarantee contradicted 3 ways.
+  - Single unit pre-selected on the main PDP, so the AOV relies on the shopper choosing up.
+  - Weight-band sizing only.
+  - "Ionic Compression… promote healthy blood flow" claim.
+  - Fabric stated two ways ("90% polyester, 10% spandex" vs "80% nylon, 20% spandex", VERBATIM).
+
+### A2 · Shaperluv: G1 + G2. $1.8–2.9M/30d
+
+Source: [https://shaperluv.com/products/shaperluv%E2%84%A2-tank-3-0](https://shaperluv.com/products/shaperluv%E2%84%A2-tank-3-0) · listicles [https://shaperluv.com/pages/5-reasons-why-shaperluv-instantly-transforms-3](https://shaperluv.com/pages/5-reasons-why-shaperluv-instantly-transforms-3) and [https://shaperluv.com/pages/5-reasons-why-shaperluv-v3](https://shaperluv.com/pages/5-reasons-why-shaperluv-v3) · policy [https://shaperluv.com/policies/refund-policy](https://shaperluv.com/policies/refund-policy)
+
+- **One-time:** widget 1 tank $15 (vs $45). The .js list price is $44.99 with no compare-at (DATA).
+- **Tiers:** 1 $15 · 3 $45 (vs $135) · **MOST POPULAR 5 tanks $50 (vs $225) = $10/tank, pre-selected** (cart.js 5 × $10.00, orig $44.99) · "✦ BEST PACK ✦" 8 for $80. Listicle CTA "Shop" goes to the same PDP. VERBATIM/DATA.
+- **Gifts:** none seen today. Catalogue: "FIT DAD PROGRAM" $2.95 and "DAD BOD TO FIT DAD FULL PROGRAM" free gift (cmp $99.99) (WH, Doc 1 §1).
+- **Upsells:** cart cross-sells "The Limited 3-Pack | Shaperluv Tank 3.0" $25.00 · "The Limited 3-Pack | Shaperluv Tank 2.0" $29.85 · items at $19.95–$34.95 ("SAVE 43%"). Shipping Protection $2.97 exists as a product (WH). No post-purchase app detected.
+- **Guarantee vs policy:**
+  - PDP: "If you don't see ANY results, not only will we refund your money, but you also get to keep the product" + "Exchanges and returns are FREE for 60 days."
+  - Policy: "All items must be unworn (with the exception of trying on)… We currently do not provide return shipping labels. The cost of return is approximately $10." VERBATIM.
+- **Shipping:** cart "Fast 2-4 Day US Shipping from Ohio". Policy: Express 3–7 / Standard 5–10 business days + 1–3 processing; "Most… shipped from our US warehouse". VERBATIM.
+- **Discounts:** no pop-up. Cart: "The items in your cart are selling fast!" The ads carry the reason: "ONLY $10… LAST SIZES IN STOCK" (Doc 1 §1).
+- **Weak:** sizes **S–2XL only** (.js). $10 positioning. Keep-it promise vs an unworn-only policy. Subscription complaints (Doc 1: 4+4).
+
+### A3 · Selure Wear: G1 + G2. Its G3 founder ads ("Arthur") land on a generic PDP. $1.8–3.6M/30d
+
+Source: [https://selurewear.com/products/slimflex](https://selurewear.com/products/slimflex) · [https://selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0](https://selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0) · policy [https://selurewear.com/policies/refund-policy](https://selurewear.com/policies/refund-policy)
+
+- **One-time:** SlimFlex $29.90 (vs $60). Shaping Tank 2.0 $9.95 in the widget (vs $44.95; .js $19.95/$44.95). VERBATIM/DATA.
+- **Tiers:**
+  - SlimFlex: 1 · **"MOST POPULAR 2 Slimflex + 1 FREE" $59.80 (vs $180), pre-selected** (cart.js 3 × $19.94).
+  - Tank 2.0: "ALL TANKS UNDER $10" 1 $9.95 · 3 $29.95 · **MOST POPULAR 5 $49.75, pre-selected** (5 × $9.95) · "✦ BEST PACK ✦" 8 $79.60 + Free Shipping.
+- **Gifts:** Tank 2.0 5-pack: drawer "YOU'VE UNLOCKED A FREE GIFT!🎁 'THE ANTI-DAD BOD GUIDE' (email delivery) FREE"; checkout line "Dad Bod to Fit Dad Guide FREE" (auto-added, cart.js $0). VERBATIM.
+- **Upsells:** drawer "🚚 Priority Shipping Protection - Insured ($2.95)" (opt-in). Cart cross-sells: Premium Ultra-Soft Boxer 3-pack $34.95 (vs $70), Tank 2.0 $19.95, items at $39.95–$40. Policy: "shipping insurance is non-refundable." No post-purchase app detected (WH).
+- **Guarantee vs policy:**
+  - PDP: "Enjoy 60 days of money-back-guarantee, with less than 1% of customers asking for their money back" · "60-Day Free size exchange" · "No Questions Asked".
+  - Policy: "Items must be unworn (except for trying on)… Return shipping costs are the responsibility of the customer (approx. $10…). We currently do not provide prepaid labels". Address: Online Seller RMA, Hebron KY. VERBATIM.
+- **Shipping:** "📦 FAST 2-4 DAY US SHIPPING". Policy: Express USA 2–4 / Priority 5–10 business days, processing 0–24 h. VERBATIM.
+- **Discounts:** banner "🎃 HALLOWEEN SALE | UP TO 75% OFF 👻", still live on 11-02 (stale reason). "Only 9 left in stock❗️". Listicle /pages/5-reasons-why-shaping is now **404**. VERBATIM.
+- **Funnel note for G3:** the "Arthur from Selure Wear" ads (244 lb → loose skin, 276 days live, Doc 1 §1) land on the **generic Tank 2.0 PDP**. That page talks about "Hides Man Boobs | Hides Beer belly"; loose skin and weight loss do not appear. Ad and page don't match (DATA from adlog + VERBATIM PDP headings).
+- **Weak:** returns cost about $10 despite "no questions". A stale Halloween reason. No G3 landing page. Gift is weight-loss framed ("Anti-Dad Bod Guide").
+
+### A4 · Evolv (V-Boost): G1 + G2 + "Men Over 40" listicle. $2.2–3.8M/30d
+
+Source: [https://evolv-off.com/products/v-boost-v2-feel-the-power-of-confidence-energy-strength](https://evolv-off.com/products/v-boost-v2-feel-the-power-of-confidence-energy-strength) · listicle [https://evolv-off.com/pages/lp-v-boost-5-reasons](https://evolv-off.com/pages/lp-v-boost-5-reasons) · policy [https://evolv-off.com/policies/refund-policy](https://evolv-off.com/policies/refund-policy)
+
+- **One-time:** list $60.00 (.js, all 40 variants). In the cart it auto-discounts: "1x V-Boost (-$30.01 USD)" = **$29.99**. VERBATIM/DATA.
+- **Tiers:** the bundle widget **did not render** at desktop or at 390 px, so the tier prices are not captured (GAP). Banner: "BUY 3, GET 3 Today Only". Listicle: "BUY 2 GET 1 FREE". Pre-selected: 1 unit. Apps: Kaching, Recharge Subscriptions, UpCart, Countdown Timer (WH, Doc 1 §1).
+- **Gifts:** listicle "🎁 Plus a FREE Confidence Guide ebook with every order". VERBATIM.
+- **Upsells:** UpCart cart upsell + Recharge (subscription option), INFERENCE from apps. Run-1 found a "Package Insurance" $2.99 product (run-1, not re-checked).
+- **Guarantee vs policy:** PDP "60-Day money-back guarantee". Listicle: "We'll refund every penny. No forms. No hassle. No questions." Policy: "unworn, unused, with tags attached… products that have been worn, washed… cannot be returned… return shipping costs are the responsibility of the customer." VERBATIM.
+- **Shipping:** "free delivery within 6 to 8 business days across the US, Canada, Australia and Europe". Shipping policy page returned 404.
+- **Discounts:** "SIGN UP AND SAVE — Subscribe to get special offers, free giveaways" pop-up. "Early Halloween Sale. Save up to 70% on bundles". The listicle still says "🔥 SUMMER SALE — BUY 2, GET 1 FREE ENDS IN:" (stale). VERBATIM.
+- **Funnel:** listicle headline "**5 Reasons Men Over 40 Are Ditching Baggy Shirts For This Tank**" with sections "Women Notice Immediately", "100,000 Men Already Switched", "Please do NOT buy from Amazon". It is the same template as North Alpine's listicle. VERBATIM.
+- **Weak:** highest list price ($60) with a hidden real price. Bundle UI broken in headless. Worn items not returnable. Stale sale reasons.
+
+### A5 · InShape: the only competitor with a **separate funnel per buyer group** (G1/G2, **G3 GLP-1**, **G5 55+**). Small: $25–50k/30d; Sep visits 9,453, PH 49.8% / US 49.2% (WH DATA today)
+
+Source: PDP [https://in-shape.co/products/inshape-beaters](https://in-shape.co/products/inshape-beaters) · offer PDP [https://in-shape.co/products/tanks-buy2get1free](https://in-shape.co/products/tanks-buy2get1free) · listicles [https://in-shape.co/pages/10-reasons-why-men-are-wearing-inshape-under-every-shirt](https://in-shape.co/pages/10-reasons-why-men-are-wearing-inshape-under-every-shirt) and [**https://in-shape.co/pages/after-weight-loss**](https://in-shape.co/pages/after-weight-loss) · advertorial [**https://in-shape.co/pages/clothes-that-fit-better**](https://in-shape.co/pages/clothes-that-fit-better) · policy [https://in-shape.co/policies/refund-policy](https://in-shape.co/policies/refund-policy)
+
+- **One-time:** $44.90 (vs $54.90). VERBATIM/DATA.
+- **Tiers:** 1 $44.90 · **"Most Popular Buy 2 Get 1 Free — Daily Rotation" $99.90 (vs $164.70) = $33.30/unit, pre-selected** (cart.js 3 × $33.30, code TANKBUNDLE −$34.80) · "Best Value Buy 3 Get 2 Free" $149.90 (vs $274.50) = $29.98/unit. Kaching. VERBATIM/DATA.
+- **Gifts:** "FREE SHIPPING & FREE SOCKS ON ORDERS OVER $95" (socks $15.90). CartBot gift-with-purchase app (WH today).
+- **Upsells:**
+  - Cart cross-sells: socks $15.90 (vs $19.90) and the compression tee $44.90 (vs $54.90; .js tee $56.90/$68.90).
+  - Shipping Protection is added at checkout. The policy ties the returns promise to it (below).
+  - Post-purchase **AfterSell** installed (INFERENCE). Apps (WH today): [Judge.me](http://Judge.me), Klaviyo, AfterSell, Kaching, Parcel Panel Returns, CartBot, Triple Whale.
+- **Guarantee vs policy:**
+  - PDP: "60-DAY FIT PROMISE | WRONG SIZE? WE FIX IT FREE."
+  - Policy: "**As part of our Shipping Protection program, added to your order at checkout, we resolve these cases with store credit for 100% of the value of your item(s), issued as a digital gift card**." A refund to the card happens only for defective items or EU cooling-off. VERBATIM.
+- **Shipping:** policy US Standard **$9.95** (4–7 business days), Expedited $14.95, Priority $24.95; free on qualifying US orders ≥ $84. The page says free on multipacks / over $95. VERBATIM.
+- **Discounts:** "FALL SALE | 20% OFF SITEWIDE"; "2 FROM YOU, 1 ON US (LIMITED STOCK)… Once it is gone, it is gone." **The PDP carries a 2-question size quiz** ("What size do you typically wear in non-compression clothing? / What is your primary goal…" → "Your Perfect InShape Size"). VERBATIM.
+- **G3 page (/pages/after-weight-loss, 5 live ads since 2026-08-17 per Doc 1 §1).** Headline "**10 REASONS WHY MEN AFTER GLP-1 ARE WEARING INSHAPE UNDER EVERY SHIRT.**" The ten reasons run: "GOODBYE LOOSE SKIN" · "INSTANT CONFIDENCE. THE MIRROR FINALLY CATCHES UP." · "BUILT FOR REAL WEIGHT LOSS. LOOSE SKIN INCLUDED." · "**InShape does not tighten skin or change your body. The visible shirt fit difference comes from immediate garment support**" · "AN OLD BUTTON DOWN SUDDENLY LOOKS SHARP." · "THE WEIGHT LOSS WAS REAL. SO IS THE LOOSE SKIN." · "LET YOUR SHIRT SHOW THE WORK." Proof quotes: "after all the work I've done to lose 500lbs. It REALLY helps me with all the extra skin" · "I lost 130lbs…" · "I've lost 100lbs… Not just for jacked dudes!" FAQ: "Is this only for men who used GLP-1 medication?" The CTA "FALL SALE | BUY 2, GET 1 FREE" goes to /products/tanks-buy2get1free. VERBATIM 2026-11-02.
+  - **Correction to the first Meta scan:** the first Meta scan found no GLP-1 wording in InShape's ad copy. Its G3 *landing page* does name GLP-1, and it already uses the honest "doesn't tighten skin" mechanism.
+- **G5 page (/pages/clothes-that-fit-better, 3 live ads).** Advertorial "**How A Simple Discovery Led to Flatter Chests and Smoother Stomachs Under the Shirts of Thousands of Men Over 55!**", byline "Written by David Carter", dated October 6, 2026. It runs a founder story (Matthew's father "in his late 50s… stopped wearing the polos he loved") and a narrator who is 58. It names failed fixes: "less beer, morning walks and bigger shirts… looked into liposuction". The offer box: "Buy 2 Get 1 Free: three tanks for $99.90… One to wear. One ready for tomorrow. One in the wash." VERBATIM.
+  - **Correction to Doc 1's first draft "0 ads name 50+":** that holds for ad copy. The landing page names 55+.
+- **Weak:**
+  - Premium price ($33/unit at the middle tier) with a store-credit-only fit promise tied to paid protection.
+  - Paid shipping under $84.
+  - Tiny, half-Philippines traffic: the per-group funnels exist, but there is no spend behind them (DATA).
+  - Sizes only to 3XL.
+
+### A6 · Alphacore (new in run 2): G4 big men. $3–7k/30d, scaling ads (Doc 1 §1)
+
+Source: [https://alphacore-store.com/products/alphacore-compression-tank](https://alphacore-store.com/products/alphacore-compression-tank) (ads use /products/compression-tank, which redirects) · advertorial [https://alphacore-store.com/pages/advertorial-2](https://alphacore-store.com/pages/advertorial-2) · comparison [https://alphacore-store.com/pages/top-5-compared](https://alphacore-store.com/pages/top-5-compared) · policy [https://alphacore-store.com/policies/refund-policy](https://alphacore-store.com/policies/refund-policy)
+
+- **One-time:** 1-Pack $22.95 (vs $29.95; .js $24.95/$29.95, so an extra "EARLY BLACK FRIDAY (-$29.95)" code applies on top). VERBATIM/DATA.
+- **Tiers:** **"MOST POPULAR 3-Pack · 1 FREE" $44.90 (vs $89.85) = $14.97/unit, pre-selected** · "5-Pack · 2 FREE" $67.35 + FREE Shipping ($13.47) · "BEST VALUE 8-Pack · 4 FREE" $89.80 ($11.23) **+ FREE Compression Short**. VERBATIM/DATA.
+- **Gifts:** the free short ($49.95 value per run-1) at the 8-pack.
+- **Upsells:** cart cross-sells longsleeve $29.95, tee $34.95. No apps detected (WH).
+- **Guarantee vs policy:** PDP "45-Day Guarantee… refund you in full. No forms, no hassle". **The PDP FAQ itself discloses the real terms:** "Full refund: send it back unworn in its original packaging (return shipping is on you). Keep it and get 50% back. Wrong size? Free exchange, no return needed." The policy matches. **It is the most honest disclosure in the set** (VERBATIM).
+- **Shipping:** policy $4.95 under $45, free ≥ $45. The FAQ says "Shipping is free on orders over $70" (internal conflict). 4–6 business days, "ship all orders within 24 hours". VERBATIM.
+- **Discounts:** "⚡ EARLY BLACK FRIDAY · UP TO 62% OFF ⚡". "Which size am I? Take the quiz" (60-second fit quiz). Size tip: "use our Buy 2 Get 1 Free offer to try two sizes or colors at once." VERBATIM.
+- **Funnel:** 30 of 35 ads go to the PDP. Two review-style pre-sells: "Best Compression Tanks for Big Men (2026)" (a buyer's guide that ranks AlphaCore first; CTA "CHECK ALPHACORE'S AVAILABILITY"), and "The Top 5 Big Men's Compression Tanks — And The One That Passed All Our Tests". The second grades AlphaCore A+ and Shaperluv B+, attacking Shaperluv's "bundle-pricing maze" and "constant upsells at checkout". VERBATIM.
+- **Weak:** tiny store. "Ionic Nylon" claim. Conflicting shipping thresholds. Its whole message is "most stopped at XL", which also attacks a 3XL cap like ours.
+
+### A7 · Qore Logiq: G4 big & tall (+ G2 chest). $24–42k/30d
+
+Source: [https://qorelogiq.com/products/compression-shirt-tank-top-long](https://qorelogiq.com/products/compression-shirt-tank-top-long) · listicle [https://qorelogiq.com/pages/compression-shirt](https://qorelogiq.com/pages/compression-shirt) · policy [https://qorelogiq.com/policies/refund-policy](https://qorelogiq.com/policies/refund-policy)
+
+- **One-time:** Tall Length $32.99 (vs $39.99). VERBATIM/DATA.
+- **Tiers:** 1 · **"3 Pack (22% OFF)" $94.05 (vs $119.97) = $31.35/unit, pre-selected** · 5 Pack (30% OFF). Cart: "Buy 3+ and save 5% extra $31.34 each · Buy 5+ and save 15% extra $28.04 each". VERBATIM.
+- **Gifts / upsells:** WH app "Monster Cart Upsell + Free Gifts". Cart cross-sells $25.90 and $24.99 items and a bodysuit $35.85.
+- **Pop-up = quiz:** "What are you looking for help with? Smooth My Chest / Shape My Waist / Support My Core / Find a Taller Fit" → "Unlock Your Welcome Discount" (10% off). VERBATIM.
+- **Guarantee vs policy:** "Try it risk-free for 30 days… full refund. No questions, no hassle." Policy: "unused, unworn… with tags"; label sent but "Original shipping costs are non-refundable". Returns go to HONU 3PL, Wind Gap PA. VERBATIM.
+- **Shipping:** "FREE Shipping over $75"; "Ships Today". Policy: Standard 3–5 business days, fulfilled through Amazon distribution centers. VERBATIM.
+- **Funnel:** 15 of 20 ads go to the listicle "**5 REASONS BIG AND TALL MEN ARE SWITCHING TO THE QORE LOGIQ TALL-LENGTH COMPRESSION TANK**", whose CTA leads to the PDP. VERBATIM.
+- **Weak:** 30-day unworn-only. % off framing, no free units.
+
+### A8 · Aida (new men's vest): G1 men in their 40s, lymphatic/magnetic claim. 30d rev $19–33k (run-1 WH, not re-checked)
+
+Source: listicles [https://officialaidastore.com/pages/lymphatic-compression-vest-listicle](https://officialaidastore.com/pages/lymphatic-compression-vest-listicle) and [https://officialaidastore.com/pages/mag-therapy-compression-vest-listicle](https://officialaidastore.com/pages/mag-therapy-compression-vest-listicle) · PDP [https://officialaidastore.com/products/aida-lymphatic-compression-vest](https://officialaidastore.com/products/aida-lymphatic-compression-vest) · policy [https://officialaidastore.com/policies/refund-policy](https://officialaidastore.com/policies/refund-policy)
+
+- **One-time:** "Buy 1 — Start feeling lighter by evening" $53.95 (vs $107.90). VERBATIM.
+- **Tiers:** "Buy 2, Get 1 FREE — Covers you between washes" $89.85 ($29.95) · **"🔥 MOST POPULAR · EARLY BLACK FRIDAY Buy 3, Get 2 FREE — 5 vests: a fresh one every weekday" $134.95 (vs $539.50) = $26.99/unit, pre-selected** (cart.js 5 × $26.99). "You're saving $404.55". Free shipping on all tiers. VERBATIM/DATA.
+- **Gifts:** none.
+- **Upsells:**
+  - "Expedited Processing available in your cart."
+  - The footer links "Manage Your Subscription", and the catalogue lists a "**VIP Membership**" at $29.99 (products.json DATA). That is a continuity offer.
+  - No apps detected (WH, run-1).
+- **Guarantee vs policy:** PDP: "**The Keep-The-Vests Guarantee** — Wear them daily for 30 days. Not feeling lighter? Email us within 60 days of delivery. Full refund. Keep the vests. No returns… One claim per household." **Policy (updated 2026-10-31):** "Keep it, and we refund what you paid, **minus a return fee of 20% of your order total**… Return shipping is paid by the customer… worn underwear and shapewear: … refund… less the return fee of 20%." VERBATIM.
+- **Shipping:** "Free tracked, insured worldwide shipping… Most orders arrive within 7–14 business days". Policy: US 5–10 business days + 1–2 processing; "Ready to ship - dispatch by Nov 03". VERBATIM.
+- **Discounts:** "🖤 EARLY BLACK FRIDAY SALE: BUY 3, GET 2 FREE", countdown "23:45:48". Cart and checkout show "**Your cart is in high demand! Reserved for 9:55**". "PLEASE NOTE: Buy 3, Get 2 FREE for new customers, online only." Size warning pop-up: "⚠️ Not your usual size. We size by weight." VERBATIM.
+- **Funnel:** 24 of 24 ads go to listicles. Headlines: "5 Reasons Men Are Wearing This Compression Vest To **Drain Trapped Fluid Starting In Just 48 Hours**" and "…Magnetic Therapy Vest To Get Stagnant Lymph Moving Again". Both CTA "See Bundle Prices →" to the PDP. VERBATIM.
+- **Weak:** medical-ish claims (drain fluid, magnets). Keep-it promise vs a 20% fee. Fake reservation timer. Hidden membership.
+
+### A9 · Shapers "SlimShirt 3.0" (new): G1. WH not_found
+
+Source: [https://shaprs.shop/products/slimshirt-3-0](https://shaprs.shop/products/slimshirt-3-0) · policy [https://shaprs.shop/policies/refund-policy](https://shaprs.shop/policies/refund-policy)
+
+- **One-time:** Buy 1 $39.99 (vs $49.99), "No gifts included". VERBATIM.
+- **Tiers / gifts:**
+  - Buy 2 $27.99/piece ($54.99) "Includes 1 FREE Gift" (free shipping, normally $4.99)
+  - **MOST POPULAR Buy 3 $22.99/piece ($69.99) "Includes 2 FREE Gifts — GIFT UNLOCKED Posture Corrector $14.99", pre-selected** in the widget
+  - BEST VALUE Buy 5 $19.99/piece ($99.99), 3 gifts
+  - Plus "Shapewear Insider Guide FREE". VERBATIM. Catalogue: 2/3/4/5-pack products $54.99–$99.99 (products.json DATA).
+- **Upsells:** pressing ATC opens an **order bump**: "Add Posture Corrector? … $14.99 (vs $29.99) −50%." VERBATIM.
+- **Cart not walked:** after the bump, cart.js stayed empty (German-built store; the bump intercepts ATC).
+- **Guarantee vs policy:** PDP "60-Day Money-Back Guarantee"; "100% Discreet Shipping". Policy: 14-day statutory + "voluntary 60-day satisfaction guarantee… Return shipping costs under the 60-day guarantee are the responsibility of the customer"; [support@lumagbr.de](mailto:support@lumagbr.de) (DE operator). VERBATIM.
+- **Shipping:** US 4–10 business days.
+- **Discounts:** "FALL SALE — 20% OFF". The PDP has "**Buy for someone else?**" (gifting option). VERBATIM.
+- **Weak:** DE operator, buyer-paid returns, broken cart. "6 Inches Off Your Waist. Instantly." claim.
+
+### A10 · Somnea: G2 chest (340 gsm heavyweight cotton, not compression). $65–105k/30d, 82% GB traffic (Doc 1 §1)
+
+Source: [https://shopsomnea.com/products/cotton-340gsm-tank-top](https://shopsomnea.com/products/cotton-340gsm-tank-top) (ad URL …-summersale redirects here) · [https://shopsomnea.com/products/cotton-340gsm-tank-top-bogo](https://shopsomnea.com/products/cotton-340gsm-tank-top-bogo) · policy [https://shopsomnea.com/policies/refund-policy](https://shopsomnea.com/policies/refund-policy)
+
+- **One-time:** $34.99. **Tiers:** 2 Pack $19.99 (vs $69.98) · **4 Pack $39.99 (vs $139.96) = $10/tank, pre-selected** (cart.js 4 × $10) · 6 Pack $59.99. VERBATIM/DATA.
+- **Gifts / upsells:** none on page. Apps: AfterSell (post-purchase, INFERENCE), Kaching, UpCart (Doc 1 §1).
+- **Guarantee vs policy:** "30 Day Money-Back Guarantee"; "COMFORT & DURABILITY GUARANTEE". Policy: unworn, unwashed, tags; "**A $15 processing fee is deducted from your refund**". VERBATIM.
+- **Shipping:** free on 6+ tanks; US & Canada 4–14 business days + 1–3 processing. VERBATIM.
+- **Discounts:** pop-up "5% OFF your first order of $35+? Cannot combine with bundles", "No thanks, I'll pay full price"; "Fall sale". **Sizing: "Use chest measurements first; waist and weight are secondary guides."** (the only chest-first chart). VERBATIM.
+- **Weak:** not compression. $15 return fee. Slow shipping.
+
+### A11 · Tusq Apparel (new): G4 big & tall (men 6'0"+) + events. $19–32k/30d (WH today)
+
+Source: [https://tusqapparel.com/collections/compression-wear](https://tusqapparel.com/collections/compression-wear) and [https://tusqapparel.com/collections/event-ready-compression-wear](https://tusqapparel.com/collections/event-ready-compression-wear) → [https://tusqapparel.com/products/body-shaper-tank-tall-length](https://tusqapparel.com/products/body-shaper-tank-tall-length) · policy [https://tusqapparel.com/policies/refund-policy](https://tusqapparel.com/policies/refund-policy)
+
+- **One-time:** Regular $40, Tall $42 (no compare-at; "or 2× $21 with shopPay"). VERBATIM/DATA.
+- **Tiers:** "BUILD YOUR 3-PACK — Any 3 shapewear pieces — 15% off, auto-applied… Three pieces clears $100, so shipping's on us too." VERBATIM.
+- **Gifts:** none. **Upsells:** "FREQUENTLY BOUGHT TOGETHER" (Zoorix, WH): shorts $35, Box-Fit Tees $29, Sleeveless $25, Hoodies $59, Hats $19. The cart offers each as one-click "Add" lines. VERBATIM.
+- **Guarantee vs policy:** PDP "Free 30-day returns · Free size exchange". The collection page says "3-month returns" (conflict). Policy: 30-day unworn; "**Return shipping labels are free for US customers**" (HONU 3PL, NJ). VERBATIM.
+- **Shipping:** free standard over $100 (US$15 credit); next-business-day dispatch from a US warehouse; duties prepaid. VERBATIM.
+- **Discounts:** none (no fake urgency).
+- **Weak:** no bundle psychology, no single-product hero; collection-page landing. One of only 2 honest return policies.
+
+### A12 · Rounderbum: generic. WH not_found
+
+Source: [https://rounderbum.com/products/compression-tank-top](https://rounderbum.com/products/compression-tank-top) · policy [https://rounderbum.com/policies/refund-policy](https://rounderbum.com/policies/refund-policy)
+
+- **Price and tiers:** $59 single · "Most popular 3 pack + Free USA Shipping, Buy 3 save 20% off, $47.20/Each" (pre-selected in the widget) · 5 pack save 30% $41.30/Each. VERBATIM.
+- **Gift:** "Get $5 USD Store Credit" for account + newsletter. VERBATIM.
+- **Policy:** "Returns are only eligible for store credit codes or exchange… **multipacks… are not eligible for return, refund, or credit**"; prepaid label. VERBATIM.
+- **Shipping:** USPS $9.95 4–6 days; free ≥ $75.
+- **Cart not walked:** ATC had no effect.
+- **Weak:** most expensive; no money back; multipacks non-returnable.
+
+### A13 · Nebility: G1. **BLOCKED** (HTTP 403 Cloudflare, logged, not bypassed)
+
+Source: [https://www.nebility.com/product-boost-extension/short/1VnW4TJS](https://www.nebility.com/product-boost-extension/short/1VnW4TJS) (ad landing) · SNIPPET from [https://www.nebility.com/collections/mens](https://www.nebility.com/collections/mens) and /collections/tank-tops-for-men
+
+- SNIPPET: "Buy 2 for $19.99" · "2ND 20%OFF | 3RD 40%OFF" · "FREE SHIPPING ON ORDERS OVER $55($47 U.S. ONLY)" · "Free delivery 45-day returns" · "MYSTERY BOX". Ads: "Buy 2, Get 1 Free – your favorite slimming tank" (Doc 1 §1). Amazon $17.97 (Doc 1 §1).
+- **Cart not walked:** bot wall. Guarantee wording on the policy page unknown (policies returned 403).
+
+### A14 · The Natural Posture: G2 gyno + posture
+
+Source: [https://thenaturalposture.com/products/mens-slimming-body-shaper-under-shirt](https://thenaturalposture.com/products/mens-slimming-body-shaper-under-shirt) · policy [https://thenaturalposture.com/policies/refund-policy](https://thenaturalposture.com/policies/refund-policy)
+
+- **Price:** $19.99 (vs $29.99, "Save 33%"; was $24.99 in run-1).
+- **Tiers:** 1 pack 10% off · 2 $35.98 · 3 $50.97 · MOST POPULAR 5 $79.96 ($15.99). VERBATIM.
+- **Gift:** "BONUS: The Natural Posture Improvement Guide E-Book… ($6.99)". **Upsell:** Zipify OCU product tags (run-1, INFERENCE).
+- **Guarantee vs policy:** "100% FREE RETURNS & EXCHANGES · … BACK GUARANTEE". Policy: 60-day 100% satisfaction "in perfect, resalable condition". VERBATIM.
+- **Shipping:** "Low Cost Worldwide Shipping"; US 3–5 working days.
+- **Pop-up:** 10% off first order; "Posture Advisor Quiz" link. **Sizing by height and weight**; "Shirt Length ~27–28"". VERBATIM.
+- **Cart not walked:** no clickable ATC element.
+
+### A15–A23 · Smaller / template / general stores (one line per item)
+
+- **Gaudenza** (ads stopped per Doc 1 §1) — [https://www.gaudenza.com/products/fitform%E2%84%A2-men-s-compression-undershirt](https://www.gaudenza.com/products/fitform%E2%84%A2-men-s-compression-undershirt)
+  - Price: $29.90 (vs $39.90).
+  - Tiers: "Most Popular - Buy 2, Get 1 Free" $59.80, pre-selected (cart.js 2 + 1 free) · B3G2 $89.70.
+  - Cart: "Almost yours - checkout in 09:53 ⏰" + "Complete the Look" shorts $34.90 (vs $59.90).
+  - Guarantee vs policy: PDP now "60-Day Guarantee — Love it or get your money back" (also "30-day fit guarantee"). **Policy: 45-day, unworn, "Shipping Fees are never refunded", "restocking fee of 50%".**
+  - Shipping: free over $50; 5–16 days + 1–4. VERBATIM.
+- **Clasp** — [https://claspcompression.com/products/clasp-compression-tank](https://claspcompression.com/products/clasp-compression-tank)
+  - Price: $29 (vs $70). B2G1 $58 ($19.33). Pre-selected: 1.
+  - Pop-up: "SPIN TO WIN… No, I don't feel lucky". "BUY 2 GET 1 FREE sale ends in". Cart: **Shipping Protection $3.00**.
+  - Guarantee: "30-Day Fit Guarantee · Free Returns & Exchanges". Refund policy 404; shipping policy fetch got 429 (not retried). VERBATIM.
+- **Aethon** — [https://tryaethon.com/products/mens-compression-undershirt](https://tryaethon.com/products/mens-compression-undershirt)
+  - Price: $29.99 (vs $60). **MOST POPULAR 2+1 FREE $59.99, pre-selected** ($20/u) · 3+2 $89.99.
+  - Guarantee: "30-Day Guarantee", "Free returns on every order", "**200+ WASH GUARANTEE**".
+  - Personas on page: "JORDAN, 29 / EVENT BUYER… wedding in 3 weeks", "MIKE, 36 / WORK MEETINGS", "DAVE, 44". Policies 404. VERBATIM.
+- **VLyne** — [https://www.v-lyne.com/products/vlyne-compression-shirt](https://www.v-lyne.com/products/vlyne-compression-shirt)
+  - Price: $29.90 (vs $50). BEST SELLER 2+1 $59.80, pre-selected · 3+2 $89.70. "OCTOBER SALE ENDS OCT 29TH" (stale).
+  - **The page now carries another product's copy** ("Targeted 26° Lumbar Decompression… 90-Day 'Results or Refund' Promise… 90 nights").
+  - Policy: 30-day, "Items may be used", buyer pays return; ships "from our suppliers" 5–8 days. VERBATIM.
+- **Shapemen** (NA clone) — [https://shape-men.com/products/shapepower](https://shape-men.com/products/shapepower)
+  - Price: $34.99. **MOST POPULAR 2+1 FREE $69.99 + FREE Priority Shipping, pre-selected** ($23.33/u) · 3+2 $99.99.
+  - Urgency: "**93% claimed this offer - Ends Tonight**", "Ends in 21:19:35", "OFFER ENDS TONIGHT 🎃". Drawer: **Shipping Protection $4.99**.
+  - Guarantee: 45-day, "Less than 1% of customers have used our Money Back Guarantee". Policy: unused, buyer pays. VERBATIM.
+- **Vesaron** (now redirects to [vesorin.com](http://vesorin.com); template) — [https://www.vesaron.com/products/mens-slimming-posture-compression-vest-base-layer](https://www.vesaron.com/products/mens-slimming-posture-compression-vest-base-layer)
+  - Price: $23.99 single (.js). The default variant is "🔥Black Friday Sale 3PCS" $47.98 (vs $89.99). Ladder: Buy 2 −10% / 3 −15% / 4 −20%; "🔥92.8% of Customers Buy 2 or More🔥".
+  - **Shipping Protection $2.99 auto-added to the cart** (cart.js).
+  - Guarantee: "30-Day… no questions asked". Policy: "[INSERT RETURN ADDRESS]", contact [cyqg202607@163.com](mailto:cyqg202607@163.com). The FAQ asks "What ammo fits this slingshot?" (template leftover). VERBATIM.
+- **Thirsix** (CN general store; Sep visits 167) — [https://thirsix.com/products/trimmer-vest](https://thirsix.com/products/trimmer-vest)
+  - Price: zip waist-trainer vest $21.99 (vs $43.99). "Buy 2 get extra 20% off"; random cross-sells.
+  - Shipping: free over $50, else $6.99; **14–30 days + 3–7 processing**. Policy: intimates excluded, return cost deducted. VERBATIM.
+- **Rablaisie** — [https://rablaisie.com/products/mens-workout-zipper-body-shaper-tank-top-1](https://rablaisie.com/products/mens-workout-zipper-body-shaper-tank-top-1)
+  - Price: $17.99 (vs $35.99); 2 $32.40 / 3 $45.90. Cart: "**Worry-Free Delivery® for $1.28**".
+  - Guarantee vs policy: "30-day no-questions-asked returns" vs policy 14 days, intimates excluded. VERBATIM.
+- **Waist Sculpt** (CN) — [https://waistsculpt.com/products/mens-compression-body-shaper-vest-belt](https://waistsculpt.com/products/mens-compression-body-shaper-vest-belt)
+  - Price: $38.98 (vs $78.98); "BUY 1 GET 2ND 50% OFF"; code "NEW10".
+  - Policy: return warehouse in China, buyer pays; free standard 7–12 days, Fast $19.99. VERBATIM.
+- **Biggmans** (HK) — [https://biggmans.com/products/compression-tank](https://biggmans.com/products/compression-tank)
+  - Price: $29.99 (vs $49.98); "Get 15% OFF buying these products together"; "EASY RETURN WITHIN 30 DAYS".
+  - Shipping: $9.99 under $129. Apps: AfterSell + Kaching (run-1).
+  - **Cart not walked:** ATC not found.
+- **Diligetirect** (Shopline) — [https://www.diligetirect.com/products/slimming-body-shaper-shirt-black-white-options-confident-fit-anywhere](https://www.diligetirect.com/products/slimming-body-shaper-shirt-black-white-options-confident-fit-anywhere)
+  - Price: $24.99 (drawer); "Buy 2 Get 10% OFF & Free Shipping🔥"; "Tight Inventory".
+  - **Not walked to checkout:** Shopline cart has no /cart.js.
+- **Esteem Apparel** (G2) — [https://esteem-compression-apparel.com/products/gynecomastia-chest-compression-shirts](https://esteem-compression-apparel.com/products/gynecomastia-chest-compression-shirts)
+  - Price: $29.99 (vs $37.49); 3-pack $71.99 ($24) (.js); cart cross-sells $19.99–$29.99.
+  - Pop-up: "Get 10% off single shirts… 3-packs excluded".
+  - **Policy (best real returns): "orders of 2 items or fewer… you do not need to mail anything back… full refund or… exchange — no return shipping, no waiting"; 3+ items mailed back, return shipping reimbursed.** Free US shipping 3–7 days, next-day dispatch from a US warehouse.
+  - **PDP not walked:** HTTP 429, not retried. VERBATIM (policy, cart page).
+- **CoreArmour** (GB only, NA template) — [https://core-armour.com/products/covearmour%E2%84%A2-mens-compression-tank-top](https://core-armour.com/products/covearmour%E2%84%A2-mens-compression-tank-top)
+  - Price: £24.99 for "1 CoreArmour™ + 1 FREE — 2 for the price of 1!" (pre-selected); sizes to 7XL; drawer socks £24.99/£5.99.
+  - Not a US offer. VERBATIM.
+- **Shapeea** (Nepal, COD) — [https://shapeea.store/products/compression-shaper-vest](https://shapeea.store/products/compression-shaper-vest)
+  - Price: NPR 2,490; "Order Now - Cash on Delivery"; bump "Add Moringa Powder for Rs100"; 3-day return window.
+  - **Not a US offer** (confirms Doc 1's INFERENCE). VERBATIM.
+- **Re-checked by .js only today (run-1 walk otherwise):**
+  - Sculptix $14.99/$39.99 · Evolvboost $29.99/$60 · Rrighodew $22.99/$39.99 · Huracan $29.99/$39.99 (DATA, 2026-11-02).
+  - Havengrand .js returned 429.
+  - Pomence and Allanii product handles return **404** (gone). StealthSlim still unreachable.
+  - Ironstride, Oreniqo, Aiyoumoi, Omnibrace, Insta Slim, Underworks: run-1, not re-checked.
+
+### A24 · INDIRECT (same pain, other product)
+
+- **Primal Viking** (testosterone / reindeer-organ supplement; $1.15–1.9M/30d, AOV $332.80, WH today): G2 + G1 + G5 ("Men Over 35", "Males 30-55+")
+  - Sources: [https://primalviking.com/pages/10-reasons-man-boobs](https://primalviking.com/pages/10-reasons-man-boobs) (redirects to /pages/7-reasons-lose-belly-fat) · /pages/cortisol · /pages/man-boobs-transformation-cta · /pages/quiz-v1 → [https://primalviking.com/products/primal-testosterone-booster](https://primalviking.com/products/primal-testosterone-booster).
+  - Prices: one-time $125. **Subscription "63% OFF on subscription"**: 1 jar $49.99 / **2 jars $91.99 ($45.99), pre-selected as a subscription "Deliver every 48 days"** (cart.js) / 4 jars $37.49/jar; free shipping on 2+ jars.
+  - Gifts: FREE e-book ($29 value) and "Chance to Win Garmin Venu 4" products (WH).
+  - Upsell pop-up: "WANT A STRONGER BOOST? $403 → $127 Subscribe & Save… SKIP OR CANCEL ANYTIME".
+  - Urgency: "60% OFF TODAY ONLY", "00:19:40", "BOTTLES LEFT: 24", "sold out 12 times".
+  - Guarantee: "30-Day Money Back Guarantee… NO RELIEF, FULL REFUND". Trustpilot (WH): "Difficult or impossible subscription cancellation" 7, "Forced subscription without clear consent" 4, "Restrictive money-back guarantee requiring unopened products" 3.
+  - **Quiz funnel:** 18 steps ("What Is Your Age?… How would you describe your belly fat?… Generating your testosterone diagnosis… Your Biological Age").
+  - VERBATIM/DATA. Reindeer PDP returned 429, not retried.
+- **Mott & Bow** (tees "hide your belly and man boobs"; $2.1–3.9M/30d, AOV $105.71, WH today): G1 + G2
+  - Sources: [https://www.mottandbow.com/pages/mens-tee](https://www.mottandbow.com/pages/mens-tee) · /collections/classic-tee-perfected2.
+  - Prices: Driggs tee $39.99; 3-Pack $95.97 (−20%); **6-Pack "BUY 4 TEES GET 2 FREE" $159.97 (vs $239.94)**; "**Bundle 32: The Weekly Rotation Pack**" $160.76; "LIMITED TIME… No code needed".
+  - Shipping: free $150+.
+  - Policy: refunds as **store credit gift card only**, "$9 USD processing fee" for mail-in. Trustpilot gaps (WH): "Confusing and misleading discount and promotion application" 17, "Aggressive post-purchase upselling" 6.
+  - Cart not walked (pack pages; CTA resolved to the gift card). VERBATIM/DATA.
+- **Built Different** (big-men tees; $780k–1.4M/30d, WH today): G4 + G1
+  - Source: [https://built-different.co/en-us/products/trial-2-pack](https://built-different.co/en-us/products/trial-2-pack).
+  - Prices: "TRIAL 2-PACK $31.00 (vs $61.00) SAVE 49%"; "**Beer Belly 6-Pack $79.00 (vs $181.00)**" (a result-named bundle); 3/6/10-pack −40/−50/−60%; Mystery T-Shirt £12.50 (WH).
+  - Guarantee: "**180-DAY WASH & WEAR GUARANTEE**". Policy: 30-day full refund, 180 days exchange/store credit, label provided, underwear not returnable.
+  - Shipping: free USA over $90. "Find My Size". Sizes L–6XL.
+  - Cart not walked (ATC not found). VERBATIM.
+- **AT2A / muvost** (drops for "man boobs"; body oil for GLP-1 skin aimed at women): G2 / G3-women
+  - Sources: [https://ly.muvost.com/](https://ly.muvost.com/) · [https://sb.muvost.com/](https://sb.muvost.com/).
+  - Prices: Buy 1 $29 (vs $39) · B1G1 · **MOST POPULAR B2G2 $58** · B3G2 $87.
+  - Guarantee: 60-day (drops) / 30-day (oil). Checkout on PlatformDTC with a subscription FAQ. "BUY 2 GET 1 FREE EXCLUSIVE GIFT".
+  - Cart not walked (non-Shopify). VERBATIM.
+- **IntelliSkin** (posture shirt): G5
+  - Source: [https://www.intelliskin.net/products/foundation-pro-series-2](https://www.intelliskin.net/products/foundation-pro-series-2).
+  - Price: $135 single; "Frequently Bought Together… 15% off" $238 (vs $280); pop-up "15% OFF your first order" (full-price only).
+  - Policy: "**customer is responsible for all shipping… as well as any return/exchange product costs**"; USPS 5–7 days. Walked to checkout. VERBATIM.
+- **Not re-walked (run-1, not re-checked):** UnderFit (365-day free returns, $42 → $29.50 at 10), Spanx for Men (off DTC; resale $55–75), Shape Lab (women's quiz pop-up with a "LOOSE OR SAGGING SKIN" option; .js today: Sculpt Brief $34.90 still live, DATA), Mars Men.
+
+---
+
+## B · Summary table (competitor · price · best offer · gap)
+
+Price = single → per-unit at the pre-selected (or best) tier. Groups in brackets.
+
+| Competitor [group] | Price | Best offer | Gap we can beat |
 | --- | --- | --- | --- |
-| North Alpine | $29.90 (vs $60) → $17.94 | 2+1 / 3+2 FREE, 90-day "no questions asked" | Policy: underwear final sale, buyer pays return; weight-only sizing; "Ionic" |
-| Shaperluv | $15 → **$10** (5 for $50) | 5-pack $50 default; keep-it results guarantee | Cheapest/"$10 tank" image; S–2XL; fake 9:59 timer; subscription complaints |
-| Selure Wear | $29.90 / $9.95 → $9.95 | 2+1 FREE; 5-pack + free guide; 60-day | Buyer-paid ~$10 returns; template clone; ignores the 56%-female visitors |
-| Evolv | $60 → (2+1, not rendered) | 60-day, "Save up to 70%" | Highest price + fat-loss claims; worn = no return |
-| InShape | $44.90 → $29.98 | 3-pack + free socks + free ship; 60-day Fit Promise | Store credit only; $9.95 shipping \< $84 |
-| Rounderbum | $59 → $41.30 | 3-pack 20% + free ship | Store credit only, no money back |
-| Natural Posture | $24.99 → $19.99 | 5-pack 20% + e-book; 60-day | Posture/gyno brand; no outcome |
-| Gaudenza | $29.90 → $17.94 | B2G1 / B3G2; free ship $50 | 50% restocking fee, shipping never refunded |
-| Aida | $54 → $27 | B3G2 default + "Keep-The-Vests" | Policy = refund minus $20/20%; China returns; "fluid" claim |
-| Sculptix | $14.99 → $13.99 | 6-pack + gift; "no photos, no forms" 60-day | Template policy, no return address |
-| Qore Logiq | $32.99 → $28.04 | Fit-quiz pop-up, tall length, 5XL | 30-day unworn only |
-| Alphacore | $24.95 → $12.48 | 8-pack + free $49.95 short; 45-day | Tiny; "Ionic"; buyer-paid return |
-| Aethon | $29.99 → $18.00 | 2+1 FREE + 200+ wash guarantee | 30-day only |
-| Clasp | $29 → $19.33 | B2G1 + spin-to-win | No policy pages |
-| VLyne | $29.90 → $17.94 | "Look slimmer in your clothes, or money back" (worn OK) | New; buyer-paid return |
-| Shapemen / CoreArmour | $34.99 / £24.99 | 2+1 / 1+1 FREE + timers | NA clones; CoreArmour UK only |
-| Huracan / Ironstride / Vesaron / Havengrand / Rrighodew / Oreniqo / Rablaisie / Aiyoumoi / Omnibrace / Diligetirect | $14.99–$29.99 | B2G1 or 10–20% ladders; $1.28–$3.50 protection | General/template stores; 11–24-day shipping; no real return address |
-| Tusq | $40 → $34 | Free US return labels; Tall length | No bundle psychology |
-| Shapers | $39.99 → $19.99 | 3 = 2 free gifts; 60-day | DE store; cart broke |
-| Esteem | $29.99 → $24.00 | ≤2 items: refund with no return | Gyno-only framing |
-| Insta Slim / Underworks / Omnibrace | $14.99–$33.33 | 4XL–6XL sizes; US-made | No offer, dated |
-| Shape Lab (women, indirect) | $39.90 (BOGO) → $10.82 | **Quiz pop-up w/ "LOOSE OR SAGGING SKIN" + plan gift + $10 card + 90-day** | Policy contradicts 90-day |
-| Mars Men / Primal Viking (indirect) | $59 / $49.99 sub | Launch kit + subscription | Cancellation complaints |
-| UnderFit (indirect) | $42 → $29.50 | **365-day free returns** | Not shapewear |
+| North Alpine [G1+G2, 40+] | $29.90 → $17.94 (test: $24.95 → $11.64) | 2+1 / 3+2 FREE; 90-day "no questions" | 3 conflicting guarantees; policy = final sale + store credit; single pre-selected; weight-band sizing |
+| Shaperluv [G1+G2] | $15 → **$10** (5 for $50, pre-selected) | 60-day "keep the product" | S–2XL only; keep-it vs unworn policy; ~$10 return cost |
+| Selure [G1+G2; G3 ad → generic PDP] | $29.90 → $19.94 / $9.95 | 2+1; 5-pack + free guide; protection $2.95 | Buyer pays ~$10 returns; stale Halloween reason; **no G3 page behind its 276-day G3 ad** |
+| Evolv [G1+G2; 40+ listicle] | $60 list → $29.99 cart | "Buy 3 get 3" banner, free ebook | Hidden real price; worn = no return; bundle UI broken |
+| **InShape [G1/G2, G3 GLP-1, G5 55+]** | $44.90 → $33.30 | B2G1 + free socks; size quiz; group-specific pre-sells | Store credit only (tied to paid protection); $9.95 shipping \< $84; no spend (9k visits, half PH); 3XL max |
+| Alphacore [G4] | $22.95 → $14.97 | 8-pack + free short; fit quiz; honest FAQ disclosure | Tiny; "Ionic"; conflicting free-ship threshold |
+| Qore Logiq [G4+G2] | $32.99 → $31.35 | Goal-quiz pop-up; tall length; 5XL | 30-day unworn; % off framing |
+| Aida [G1 40s] | $53.95 → $26.99 | B3G2 "a fresh one every weekday"; keep-the-vests | Policy minus 20%; reservation timer; medical claims; hidden membership |
+| Shapers [G1] | $39.99 → $23.33 | 3-pack + 2 gifts; order bump | Buyer-paid returns; DE operator; cart broke |
+| Somnea [G2] | $34.99 → $10 | 4-pack $39.99 | Not compression; $15 return fee; 4–14-day ship |
+| Tusq [G4, events] | $40–42 → $34 | Free US return labels; tall length | No bundle psychology; no hero; "3-month" vs 30-day |
+| Rounderbum | $59 → $41.30 | 3-pack 20% + free ship | Store credit only; multipacks non-returnable |
+| Natural Posture [G2] | $19.99 → $15.99 | 5-pack + e-book | Posture/gyno brand; height+weight sizing only |
+| Gaudenza [G1+G2] | $29.90 → $17.94 | B2G1/B3G2, free ship $50 | 50% restocking fee; shipping never refunded; checkout timer |
+| Aethon [G1] | $29.99 → $20 | 2+1 + 200+ wash guarantee | 30-day only; no policy page |
+| VLyne / Shapemen / Clasp / CoreArmour | $29–34.99 → $19–23 | 2+1 FREE (+ protection $3–4.99) | NA clones; broken or stale pages; no policy pages (Clasp) |
+| Vesaron / Thirsix / Rablaisie / Waist Sculpt / Biggmans / Diligetirect | $17.99–$38.98 | % ladders or BOGO 50% | General/template stores; 7–30-day shipping; no real return address |
+| Esteem [G2] | $29.99 → $24 | **Keep-it refund ≤2 items, no return** | Gyno-only framing; no bundle psychology |
+| Primal Viking (indirect) [G2+G1+G5] | $125 → $45.99 (sub) | Quiz → diagnosis; subscription; gifts | Subscription/cancel complaints; slow fix |
+| Mott & Bow (indirect) [G1+G2] | $39.99 → $26.66 (B4G2) | "Weekly Rotation Pack" | A tee can't flatten; store-credit returns |
+| Built Different (indirect) [G4] | $31 trial 2-pack → $13.17 (6-pack) | 180-day wash & wear; "Beer Belly 6-Pack" | Not compression |
 
-**Table stakes** (≥ half do it — we must match): a quantity-bundle ladder on the PDP (**28 of 36** direct PDPs — manual tally from the blocks above) with "+ FREE units" framing (**18 of 36**) and the middle tier pre-selected as "MOST POPULAR / BEST SELLER"; a "save / % off" anchor against an inflated compare-at (**35 of 36** PDPs; **36 of 56** raw .js product files carry a compare-at above the price); a money-back guarantee on the PDP (**31 of 36**; 9 of 36 say ≥ 60 days, 2 say 90); free shipping on all orders or above a threshold ($35–$150; only Biggmans $129 and Mott & Bow $150 sit high; InShape/Rounderbum charge $9.95 below $84/$75); an email pop-up, usually 10% off. Shipping protection $1.28–$4.99 is now near-standard among the template sellers (**12** stores).<br>**Best-in-class:** Shape Lab (women) — avatar quiz pop-up with a "LOOSE OR SAGGING SKIN" choice → mystery gift, BOGO tiers with a "Flat Tummy Plan" + $10 gift card, 90-day promise, 2-measurement size calculator. Among men's tanks: **Aida** (B3G2 default "a fresh one every weekday", Keep-The-Vests guarantee, free insured shipping) and **North Alpine** (2+1/3+2, 90-day) on volume; **UnderFit** on guarantee (365-day free returns); **Esteem** on real returns (keep-it ≤2 items).<br>**Nobody offers (open slots → Offer inputs):** (1) a men's offer built for **post-weight-loss / loose skin**. It appears inside competitor *reviews* (InShape 3, Shaprs 2, Selure 2, Waist Sculpt 1) and one store description. ⚠ **§20: InShape opened a "men after GLP-1" landing page on 2026-10-13** that sells its normal bundle (an angle page, not a W1-built offer). So a *W1-built offer* (size-down swap, fit-finder) is still open, but the angle is no longer; (2) a guarantee whose **policy matches the promise** — worn-OK, buyer pays nothing, US return address (every 60–90-day "no questions" promise we checked is contradicted by its policy: North Alpine, Selure, Shaperluv, Aida, Gaudenza, Shape Lab); (3) a **measurement fit-finder** for men (only weight bands: 10 stores; height+weight: Natural Posture; 2-measurement calculator exists only in women's Shape Lab); (4) a **partner-buyer** offer (gift wrap/"buy for him" — 0 stores, though 44–56% of top-store visitors are women, Phase-1); (5) a **useful, honest digital bonus** — today's bonuses are "Anti-Dad Bod Guide", "Weight Loss Program", "Fit Dad Program" (weight-loss framed, FTC-risky); (6) durability/fit-swap guarantee bundled together (Aethon has 200+ washes only).
+**Table stakes** (counted over the **25 US direct competitors** with a PDP captured today: NA, Shaperluv, Selure, Evolv, InShape, Alphacore, Qore, Aida, Shapers, Somnea, Tusq, Rounderbum, Natural Posture, Thirsix, Vesaron, Diligetirect, Rablaisie, Waist Sculpt, Biggmans, Gaudenza, Clasp, Aethon, VLyne, Shapemen, Esteem; DATA from offers_r2_table.tsv):
 
-## D · Price ladder — the same / closest tank at every level
+- A quantity ladder on the PDP: **24/25**.
+- A compare-at / "save" anchor: **24/25**.
+- A money-back or fit guarantee shown on the PDP: **22/25**. 16 say "money-back"; **9 promise ≥ 60 days**.
+- Free shipping on all orders or above a threshold: **25/25**. Thresholds run $45–$129; most commonly $50 or $75.
+- Among the 21 whose default tier is known, **14 pre-select a multi-unit tier**: 3 units ×10, 4–5 units ×4. Only 7 pre-select 1 unit (NA main PDP, Evolv, Clasp, Thirsix, Rablaisie, Waist Sculpt, Diligetirect).
+- "+FREE units" framing (2+1, B2G1, 3+2) is used by **11/25**. Every top-4 spender uses a free-unit or $10-pack frame.
+- **You must match:** a 3-tier ladder with a multi-unit middle tier auto-selected, an anchor, a visible guarantee, and free shipping at or above about $50.
 
-| Level | Real price (what a buyer pays for 1 tank) | Source | Solidity |
+**Best-in-class:**
+
+- *Offer structure:* **Alphacore**: escalating free units (3·1 / 5·2 / 8·4), a physical gift only at the top tier, a 60-second fit quiz, and the PDP FAQ discloses the real guarantee terms. **Aida**: B3G2 named by outcome, "5 vests: a fresh one every weekday".
+- *Funnel / segmentation:* **InShape**: one PDP fed by three group-specific pre-sells (G1/G2 listicle, G3 GLP-1 listicle, G5 "Men Over 55" advertorial) plus a size quiz.
+- *Returns:* **Esteem**: keep-it refund for ≤2 items, return shipping reimbursed for 3+. **Tusq**: free US return labels. **Built Different**: 180-day wash & wear guarantee.
+
+**Nobody offers** (open slots → Offer inputs):
+
+1. **A guarantee whose written policy matches the page.** 12 of the 22 that show a guarantee are contradicted by their own policy (list in §E.3). Only Alphacore discloses honestly, and only Esteem/Tusq make returns cheap.
+2. **A post-weight-loss offer built for a body that is still shrinking.** Example: a "size-down swap" (send the next size free as you keep losing). Only InShape mentions G3 at all, and its fit promise is store credit. 0/25 offer a re-size credit tied to continued weight loss (INFERENCE from the 25 PDPs + policies).
+3. **A 50+ named PDP or offer.** Only InShape's advertorial names 55+, and its PDP is generic.
+4. **Measured fit.** Chest + waist + height in one tool: 0/25. Instead: weight bands (9), height + weight (1), chest-first chart (1), 2–3-question quizzes (3).
+5. **An honest reason for the discount.** 13/25 run calendar sales (Halloween, Early Black Friday, Fall). 4 are stale on 11-02 (Selure Halloween, Evolv "Summer Sale", VLyne "Oct 29", Shapemen "🎃 ends tonight"). 5 show reservation or countdown timers.
+6. **A useful, non-weight-loss bonus.** Today's bonuses: "Anti-Dad Bod Guide", "Confidence Guide ebook", "Posture Improvement Guide", "Shapewear Insider Guide", posture corrector, socks, shorts.
+7. **Under-white-shirt colour logic as the bundle.** Only InShape says "Sand under light shirts. Black under dark ones."; nobody sells it as a named kit (INFERENCE).
+
+---
+
+## C · Upsells, cross-sells, checkout extras, apps (rolled up, DATA/VERBATIM)
+
+- **Shipping protection / insurance in the cart: 8 stores.**
+  - Selure $2.95 (opt-in) · Vesaron $2.99 (**auto-added**) · Clasp $3.00 · Shapemen $4.99 · Rablaisie "Worry-Free Delivery®" $1.28.
+  - InShape adds protection at checkout and makes returns depend on it.
+  - Shaperluv $2.97 and Evolv $2.99 exist as products (WH / run-1).
+- **Order bumps / pop-up add-ons:** Shapers posture corrector $14.99 on ATC · Primal Viking "Stronger Boost" bundle $127 sub · Shapeea moringa Rs100.
+- **Cart cross-sells:** NA (L $49.99, T $39.90) · Shaperluv (3-packs $25 / $29.85) · Selure (boxers $34.95) · InShape (socks $15.90, tee $44.90) · Alphacore (longsleeve $29.95, tee $34.95) · Qore ($24.99–$35.85) · Tusq (5 add-on lines) · Gaudenza (shorts $34.90) · CoreArmour (socks) · Biggmans/IntelliSkin (bought-together 15%).
+- **Post-purchase one-click upsell** (INFERENCE from installed apps, WH): NA AfterSell · InShape AfterSell · Somnea AfterSell · Biggmans AfterSell · Natural Posture Zipify OCU tags. **Cart-upsell apps:** Evolv UpCart (+ Recharge subscription) · Somnea UpCart · Qore Monster Upsells · Tusq Zoorix. **None detected:** Shaperluv, Selure, Alphacore, Aida, Mott & Bow, Built Different.
+- **Checkout extras:**
+  - "Pay in full or in installments" (Shop Pay) shows at most Shopify checkouts (NA, Shaperluv).
+  - The checkout line "**Your order includes free returns and 24/7 access to our award-winning customer service**" appears on NA, Alphacore, Somnea, Vesaron. That is a checkout-trust add-on that NA's own policy contradicts.
+  - Aida and Gaudenza show reservation timers at checkout/cart.
+  - Aethon: "Duties and taxes included".
+  - Discount-code field everywhere.
+  - Shipping methods are hidden until an address is entered, so fees were not seen.
+- **Subscriptions / continuity:** Aida "VIP Membership" $29.99 + "Manage Your Subscription" · Evolv Recharge · Primal Viking 48-day refill (pre-selected) · AT2A (PlatformDTC). **No direct tank seller pre-selects a subscription.**
+
+---
+
+## D · Price ladder (same or closest item at every level; date 2026-11-02)
+
+| Level | Real price for 1 tank (what a buyer pays) | Source | Tag |
 | --- | --- | --- | --- |
-| **CJ (our SKU CJDS299280217QJ)** | AUD 6.52 + AUD 10.42 CJPacket ≈ **US$11.90 landed** (4–9 days + 1–3 processing) | Nikita's CJ listing (Pre-0) | DATA |
-| **AliExpress** (same "men slimming body shaper compression tank") | normal displayed prices **$1.09–$10.25** (YBFDO 80K+ sold $1.56; 60K+ sold $1.33; mesh tank 3K+ sold $10.25); "New shoppers" teasers excluded (e.g. Vaslanda $8.82 shown, "New shoppers $27.81"); shipping not shown; item page did not render | [https://www.aliexpress.com/w/wholesale-men-slimming-body-shaper-compression-tank-top.html](https://www.aliexpress.com/w/wholesale-men-slimming-body-shaper-compression-tank-top.html) (Firecrawl query) | SNIPPET (lowest-SKU "from" prices, excl. shipping) |
-| **Temu** | "$3.96 mens shapewear… compression tank top"; "2pcs mens compression base $8.82"; "Tank Top Tummy Control Shapewear $16.23"; AU listing 81K+ sold AU$5.61 | firecrawl_search [temu.com](http://temu.com) (category page scrape returned no data) | SNIPPET |
-| **Amazon** | 32 shapewear-tank/tee listings: **$7.99–$32.99, median $19.99**; per-unit median **$17.99** (multipacks); unit-weighted avg $21.83 over ≥12,150 units/mo; Insta Slim "Made in USA" $45.95 high outlier | Doc 1 §0B Amazon sweep [S32–S34 in Doc 1] | SNIPPET/DATA |
-| **TikTok Shop (US)** | listed avg price #1 product **$28.32** — but **realized revenue/unit last 30 d = $11.72** (#1, 1,146 units / $13,431); 10 products realized $8.25–$24.37/unit (QORE LOGIQ $24.37) | WH TikTok Shop summary (Doc 1 §0B) | DATA |
-| **Budget DTC** | Shaperluv $10/u (5 for $50) · Selure 2.0 $9.95/u · Sculptix $13.99/u · Rablaisie $17.99 · Omnibrace/Sculptix single $14.99 · Insta Slim $18.59 | walks + .js (URLs in §A) | VERBATIM |
-| **Mid DTC (the volume leaders)** | single **$22.99–$34.99** (North Alpine/Gaudenza/Selure SlimFlex $29.90, Clasp $29, Aethon $29.99, Qore $32.99, Shapemen $34.99); middle tier **$58–$70 for 3 = $19–$23/u** | walks | VERBATIM |
-| **Premium DTC** | Shapers $39.99 · Tusq $40–42 · Waist Sculpt $42.98 · InShape $44.90 · Shaperluv list $44.99 · VLyne list $50 · Aida $54 · Rounderbum $59 · Evolv $60 / v3 $80 | walks + .js | VERBATIM |
-| **Brand ceiling** | Spanx for Men (off DTC) resale $55–$75; UnderFit undershirt $42 | eBay snippet; [underfit.com](http://underfit.com) | SNIPPET / VERBATIM |
+| **CJ (our SKU CJDS299280217QJ)** | AUD 6.52 + AUD 10.42 CJPacket = AUD 16.94 ≈ **US$11.90 landed**, 4–9 days + 1–3 processing | AGENT-COMMON brief | DATA |
+| **AliExpress** | regular (non-welcome-deal) prices **$4.33–$18.73**; high-volume listings (2K–10K+ sold) **$4.33–$6.56**, shipping not shown. "$1.09 New shoppers" teasers excluded | [https://www.aliexpress.com/w/wholesale-men-slimming-body-shaper-compression-tank-top.html](https://www.aliexpress.com/w/wholesale-men-slimming-body-shaper-compression-tank-top.html) | SNIPPET/DATA |
+| **Amazon US** | #1 Men's Shapewear Lgtfy **$17.99** (2K+/mo); XINGCOOL $19.99; 3-packs $19.97–$23.99 (= **$6.66–$8/tank**); range $5.99–$45.95 | Amazon (Doc 1 §0B, re-checked 2026-11-02) | VERBATIM/DATA |
+| **TikTok Shop US** | #1 listed $28.32 but **realized $14.51/unit** ($15.35k / 1,058 units, 30 d); #2 realized $12.43; QORE $24.80 | TikTok Shop (WH, Doc 1 §0B) | DATA |
+| **DTC floor ($10 packs)** | Shaperluv 5 for $50 = **$10** · Selure Tank 2.0 5 for $49.75 = $9.95 · Somnea 4 for $39.99 = $10 · Alphacore 8-pack $11.23 · NA test 3+3 $11.64 | walks (§A) | VERBATIM/DATA |
+| **DTC middle tier (pre-selected 3-unit)** | **$14.97–$23.33/tank**: Alphacore $14.97 · NA test $16.63 · NA/Gaudenza/VLyne $19.93 · Selure $19.94 · Clasp $19.33 · Aethon $20 · Shapers/Shapemen $23.33 | walks | VERBATIM/DATA |
+| **DTC single** | $15 (Shaperluv) · $17.99–$24.99 (Rablaisie, Natural Posture, Thirsix, Diligetirect, Alphacore $22.95) · **$29–$34.99** (NA, Selure, Clasp, Aethon, VLyne, Gaudenza, Qore $32.99, Shapemen, Somnea) | walks | VERBATIM |
+| **DTC premium** | InShape $44.90 single / $33.30 middle · Qore $31.35 middle · Aida $53.95 single / $26.99 at 5 · Tusq $40–42 · Shapers $39.99 · Rounderbum $59 / $41.30 · Evolv list $60 ($29.99 real) | walks | VERBATIM |
+| **Ceiling (adjacent)** | IntelliSkin posture shirt **$135** · Spanx for Men resale $55–$75 (run-1, not re-checked) · Mott & Bow tee $39.99 | walks / run-1 | VERBATIM/SNIPPET |
 
-**Floor:** ~$1.50–$10 (AliExpress/Temu) and **$10/tank** in DTC (Shaperluv, Selure). **Ceiling:** $54–$80 list (Aida, Rounderbum, Evolv) — but nobody *transacts* above ~$33/unit except Rounderbum ($41.30 at 5); the middle-tier market price is **$19–$27 per tank** (NA/Gaudenza/Clasp/VLyne/Aethon $19.33–$20; Aida $27; InShape $33.30).<br>**What it takes to justify ~$39.95–$49.95 (INFERENCE):** a single at $39.95–$44.95 is already "normal" (Shapers, Tusq, InShape, Shaperluv list) — but the buyer will compare it with $19–$20/unit 3-packs and $17.99 Amazon. To hold ~$27–$30/unit in the middle tier (≈ +40–50% over NA/Gaudenza), the offer needs what nobody has: (a) a specific post-weight-loss promise ("built for the body you earned"), (b) a guarantee whose policy matches the words (worn-OK, free US returns), (c) a measurement fit-finder + free size swap, (d) a durable/fresh-rotation kit, (e) US shipping 3–5 days. Without (a)–(c), $39.95 single lands us next to InShape ($25–50k/30d) — the evidence that price alone doesn't sell.
+- **Price floor:** about $4.33–$6.56 (AliExpress) and about $6.66–$8/tank (Amazon multipacks). Our landed cost is $11.90. Below $12 we lose money.
+- **Branded DTC floor:** $10/tank at 4–5 units (Shaperluv, Selure, Somnea).
+- **Price ceiling:** for a slimming tank, list prices of $53.95–$60 (Aida, Evolv) and $59 (Rounderbum). The real ceiling at which DTC tanks *transact* is about $33/unit at the middle tier (InShape) or $41 (Rounderbum, tiny). Posture shirts go to $135.
+- **Market middle:** a single at **$29.90–$34.99** with a 3-unit middle tier at **$19–$23/tank (≈$58–$70 basket)**. AOV at the pre-selected tier ranges $39.99–$134.95; the median of the 14 multi-unit defaults is **$59.80** (DATA).
+- **Trend (DATA, 2026-11-02):** the floor is being pushed down into Black Friday. NA is testing a $24.95 single and $11.64 at six; Alphacore's Early Black Friday puts its middle tier at $14.97. Selure, Shaperluv and Somnea are already at $10.
+- **Brand and offer needed to justify our price (INFERENCE):**
+  - **At a $69.90 middle tier ($23.30/u)** we sit at the top of the mid band (= Shapers/Shapemen). That needs one of: a group-specific promise (G3), a policy-true guarantee, or measured fit, because buyers can see $19.93 at North Alpine.
+  - **At $79.90–$99.90 ($26.63–$33.30/u)** we sit next to InShape ($33.30). InShape's $25–50k/30d is evidence that group pages + premium price **without** spend and trust don't scale on their own.
+  - **At ≤$59.80 ($19.93)** we are a North Alpine clone, and margin is about 37% before ads (break-even ROAS 2.7; 20% net needs ROAS ≈ 6).
 
-## E · Offer inputs for Step 2 (matched to the Notion **Offer Build** reference, opened this run: [Notion page](https://app.notion.com/p/3d9d53123cd681dabc18f09e90184c44))
+---
 
-The reference needs these inputs: offer TYPE · bundle shape (same-product multipack, middle tier auto-selected = target AOV, anchored to the single, named by result, "free" not %-off) · first-order pop-up · always-on items (price anchor, reason for the discount, long specific guarantee + confidence stat, protected margin, target AOV) · measure first-order CVR + 90-day LTV.
+## E · Offer inputs for Step 2 (matched to the Offer Build reference)
 
-1. **Offer TYPE:**
-   - **Type 2 Bundle**: a same-product multipack, mixed colours.
-   - **Plus a Type 3 first-order pop-up.**
-   - **No subscription:** a tank isn't consumable, and every subscription in this space draws cancellation complaints (Shaperluv, Primal Viking, Mars Men). This also fits Nikita's front-end-profit rule.
-2. **Problems the offer stack must solve — re-ranked with the §2C customer-bank counts (§10/§11):**
-   | # | Problem | Count | Offer answer |
-   | --- | --- | --- | --- |
-   | 1 | "It doesn't actually compress / just a T-shirt" | 73 (+ ad lied/scam 36) | Results guarantee written into the policy itself + shirt-on demo |
-   | 2 | Wrong size / can't trust the chart | 70 | Measurement fit-finder + **free size swap**, incl. a **size-down swap as he keeps losing** (W1 men shrink: "went from needing 2x… to wearing L now") |
-   | 3 | Can't get it on | 40 | "How to put it on" card + video in every order |
-   | 4 | Price | 33 | Bundles priced per wear ("one on, one in the wash, one spare"); no re-buying every size thanks to the swap |
-   | 5 | Too tight to breathe | 26 | Honest fit guidance + free exchange |
-   | 6 | Refund hassle | 23 | A guarantee the policy actually honours: worn-OK, money back, not store credit |
-   | 7 | Durability | 20 | Wash promise (Aethon runs "200+ wash guarantee"), **only if the sample's 5-wash test passes** |
-   | 8 | Rolls up / too short | 30 tag hits | Length claim **only if the sample proves it** (biggest product risk) |
-   | 9 | Slow shipping from China | 14 | State the real window: 1–3 days processing + 4–9 days CJPacket. **We can't claim US 2–4 day shipping** |
-   | 10 | W1-specific | 163 rows | "Holds and smooths", never "tightens". A useful bonus for the body after weight loss (below) |
+1. **Offer TYPE:** Type 2 **Bundle** (same tank, multiple colours) + Type 3 **first-order pop-up**. Not a subscription — no direct tank seller uses one, and every continuity offer in the space draws cancellation complaints (Primal Viking 7, Shaperluv 4+4, Mott & Bow "$40 a month club") [S54][S57].
+2. **The problems the offer stack must solve — ranked by the §2C customer bank (Doc 2 §10/§11), not competitor gaps:**
+   | # | Problem (bank count) | What the offer does about it |
+   | --- | --- | --- |
+   | 1 | **Wrong size** (261; G4 29, G3 13) | measured chart (chest + waist + height) + **free size swap** |
+   | 2 | **Not strong enough / no difference** (156) | the shirt-on demo on the PDP + guarantee "if your shirt doesn't sit flatter, money back" |
+   | 3 | **Scam / trust** (137) + refund hassle (23) + no service (7) | **policy-true guarantee**, no subscription, a reachable human |
+   | 4 | **Price** (135; G3 14 — "my size keeps changing") | the **size-down swap** for men still losing (nobody offers it) + bundle value |
+   | 5 | Too tight / can't breathe (87) | true-size fit guide (not "two sizes down") |
+   | 6 | Hard to put on (83) | "step in, pull up" GIF in the PDP + insert card |
+   | 7 | Durability (69) | wash-and-wear promise inside the guarantee |
+   | 8 | Rolls up (66) / too short (66) | torso length per size on the PDP (sample-measured) |
+   | 9 | Slow shipping (26) | honest 5–12 business-day window up front (CJPacket from China) |
+   | 10 | Shows under white (26) | the under-the-shirt colour kit (nude + white + black) |
+3. **The guarantee gap — 13 of 22 shown guarantees are contradicted by their own policy (§20: Alphacore added — page "full 45-day money-back guarantee, no questions asked" vs FAQ/policy unworn-only, buyer-paid return, a "small fee" for exchanges):** North Alpine (90 / 45 days / "free returns" vs final sale, store credit, buyer-paid return) · Shaperluv (keep-it vs unworn + ~$10) · Selure (no questions vs ~$10 buyer-paid) · Aida (keep + full refund vs −20%) · Gaudenza (60 vs 45 days + 50% restocking) · InShape ("fix it free" vs store credit via paid protection) · Somnea ($15 fee) · Evolv / Shapemen (unworn + buyer pays) · Rablaisie (14 days, intimates excluded) · Vesaron (template address) · Tusq ("3-month" vs 30-day) [S54][S55]. **Open slot:** a 60-day guarantee written **into the policy** — worn is OK, refund with no return needed for 1–2 units (Esteem proves it's operable), free size swap, wash-and-wear (Built Different proves 180 days). Name it by its outcome: *"If your shirt doesn't sit flatter, you don't pay for it."* Add a confidence stat only once real data exists.
+4. **Natural bundles (same product, colours; named by result):** (a) **the under-the-shirt colour kit** — nude/beige + white + black ("Sand under light shirts. Black under dark ones." is InShape's line — make ours a named kit) · (b) the work-week rotation (common — Aida, InShape, Gaudenza, Mott & Bow) · (c) **the G3 "size-down swap"** — open slot nobody runs. Free units beat % off (11 of 25 PDPs, including every top spender); a gift only at the top tier works (Alphacore's short at 8 units).
+5. **Price point to test — with the Pre-0 table re-run (USD, worst case = every unit its own CJ parcel at $11.90, 3% + $0.30 processing):**
+   | Variant | Units | CM $ | CM % | Break-even ROAS | Kill-line CPA (20% net) | ROAS @20% | Scale-line CPA (30% net) | ROAS @30% |
+   | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+   | Single $34.95 (anchor) | 1 | $21.70 | 62.1% | 1.61 | $14.71 | 2.38 | $11.22 | 3.12 |
+   | **"2 + 1 FREE" $69.90** (auto-selected, $23.30/tank) | 3 | $31.80 | 45.5% | 2.20 | $17.82 | 3.92 | $10.83 | 6.45 |
+   | "3 + 2 FREE" $104.85 ($20.97/tank) | 5 | $41.90 | 40.0% | 2.50 | $20.93 | 5.01 | $10.45 | 10.03 |
+   | **Test B: "2 + 1 FREE" $79.90** ($26.63/tank; single $39.95) | 3 | $41.50 | 51.9% | 1.93 | $25.52 | 3.13 | $17.53 | 4.56 |
 
-   
-   ⚠️ **Nikita's standing rule:** no trust / "honest brand" / "no scam" lines as a lever. The offer components (a guarantee the policy honours, real delivery dates, no subscription) are **built into the offer and the policy**. They are not advertised as "we're the honest ones".
-   
-3. **Guarantee gap:** every 60–90-day "no questions asked" promise checked is contradicted by its own policy — final sale on underwear, unworn only, buyer pays ~$10, restocking fees of 10–50%, a China return address, or "refund minus $20". **Open slot: a guarantee written into the policy** — e.g. "Wear it 60 days. If your shirt doesn't sit flatter, keep it — full refund" (Esteem shows keep-it works for ≤2 items) — plus a free size swap. **Length: 60 days**, which matches the market; 90 days only if the margin allows (Step 2 decides).
-4. **Natural bundles** (same product, different colours — per the reference):
-   - **"Under the white shirt" trio:** black + white + nude. Our SKU has all 5 colours; nude/beige matters under white shirts.
-   - **"Work-week" 5-pack:** "a fresh one every weekday" (Aida's most-popular framing; Mott & Bow's "Weekly Rotation Pack").
-   - **The size-down swap:** unique to W1 — he keeps losing and needs the next size down.
-   - **Gift that improves *use*, not weight-loss junk:** a wash bag, or a "dress for the body you earned" shirt-fit guide. **Never** a "weight-loss program" gift (Evolvboost, Selure, Shaperluv all do this = FTC/Meta risk, §2B).
-   - **Name by result, not quantity:** e.g. "The Flat-Under-Any-Shirt Kit" (working name; copy is Step 2's job).
-5. **Price point to test → Pre-0 re-run at this price** (bundles still costed as N separate parcels = worst case):
-   | Variant | Price | Landed | CM $ | CM % | BE ROAS | CPA @20% (ROAS) | CPA @30% (ROAS) |
-   | --- | --- | --- | --- | --- | --- | --- | --- |
-   | Single | $39.95 | $11.90 | $26.55 | 66.5% | 1.50 | $18.56 (2.15) | $14.57 (2.74) |
-   | **3-pack "2 + 1" — middle, auto-selected** | **$79.90** ($26.63/tank) | $35.70 | **$41.50** | 51.9% | 1.93 | **$25.52 (3.13)** | $17.53 (4.56) |
-   | 5-pack "3 + 2" | $119.85 ($23.97/tank) | $59.50 | $56.45 | 47.1% | 2.12 | $32.48 (3.69) | $20.50 (5.85) |
-   | Fallback 3-pack | $69.90 ($23.30/tank) | $35.70 | $31.80 | 45.5% | 2.20 | $17.82 (3.92) | $10.83 (6.45) |
+   <p>
+   **Pushback:** at worst-case shipping the $69.90 middle tier needs a **3.92 ROAS to clear 20% net** on cold Meta — too high for front-end profit. **Lead with Test B ($39.95 / 2+1 $79.90 — ROAS 3.13 for 20% net)**, which sits next to InShape's $33.30/tank ceiling only if the G3 promise + policy-true guarantee + size swap are on the page. **CJ's combined-parcel quote for 3 and 5 units is the most valuable missing number** (a single ~540 g parcel should cost far less than three; INFERENCE until quoted). Never drop to $10–15/tank — Shaperluv, Selure and Somnea own that and it's below a safe margin.
+   </p>
+6. **First-order pop-up (Type 3):** AOV \< $100 → %-off frames better (reference rule). Market: discount pop-ups on 7 of 25 PDPs; quiz pop-ups on Qore and InShape. **Test a segmentation quiz** ("lost the weight / chest / belly / 50+") that returns his size + the matching page + one offer — 0 of 25 combine fit + group. Don't run spin-to-win or giveaways.
+7. **Reason for the discount:** 13 of 25 use calendar sales (4 stale today), 5 run fake timers. Open: a real, dated reason (the launch batch, the first 100 reviewers).
+8. **Upsells:** one cart add-on (an extra colour); post-purchase one-click extra colour at a member price (AfterSell — used by North Alpine, InShape, Somnea, Biggmans); shipping protection opt-in only (InShape ties returns to it and buyers punish it). After purchase, use the thank-you page for the **fit check + size swap** — nobody does.
 
-   
-   **Pushback:** at worst-case shipping, the middle tier needs **≈3.1 ROAS to clear 20% net** on cold Meta — a high bar. **CJ's combined-parcel quote for 3 and 5 units is the most valuable number still missing.** One parcel for 3 instead of 3 parcels plausibly cuts landed cost by roughly a third (INFERENCE — get the quote). Never drop to $10–$15/tank: Shaperluv and Selure own that, and it signals cheap.
-   
-6. **First-order pop-up (Type 3):** AOV \< $100, so a %-off frame wins (per the reference). Market default is a flat "10% off". **Test that against a segmentation quiz pop-up**: Qore Logiq runs "Smooth My Chest / Shape My Waist / Find a Taller Fit", and women's Shape Lab runs "LOOSE OR SAGGING SKIN" → mystery gift. Ours would offer a men's option, "I lost weight — the loose skin still shows". Don't run spin-to-win (reference "don't run").
-7. **Reason for the discount:** the market uses calendar sales (Halloween, Fall) and fake "LAST SIZES / reserved 9:59". A **real** reason is open — e.g. launch pricing for the first buyers who send a photo review (INFERENCE).
-8. **Upsells:**
-   - **Pre-purchase:** shipping protection ($1.28–$4.99) is table stakes among the template stores but reads cheap → optional.
-   - **Post-purchase one-click:** an extra colour at a member price (AfterSell / Zipify OCU are in use at North Alpine, InShape, Biggmans, Natural Posture, Mars Men — INFERENCE from apps).
-   - **Cart:** "add a nude one for white shirts".
+**So What → do this:** copy the market's offer *structure* (ladder, middle auto-selected, free units, ~$50 free shipping) and win on the three things almost nobody does honestly — **a policy-true guarantee, measured fit with a free size swap, and an offer named for the man who's still losing.** Price at $39.95 / 2+1 $79.90 until CJ's combined-parcel quote proves the $69.90 tier.
 
-**So What → do this:**
+## E2 · Offer pieces carried over from run 1 (merged 2026-11-03, per Nikita)
 
-- Match the table stakes: bundle ladder with the middle tier pre-selected, an anchor, free shipping, a pop-up.
-- Win the three open slots nobody fills: **a post-weight-loss offer**, **a guarantee the policy actually backs**, and **a measurement fit-finder with a size-down swap**.
-- Test **$39.95 / 3 for $79.90 / 5 for $119.85**, and get CJ's multi-unit shipping quote before launch.
+Run 1 was deleted. These offer items were only in run 1, so they move here. Everything else in run 1's offer is already in §E above.
 
-**Dead / pivoted (one line each):**
+1. **The full 3-tier ladder at the $39.95 anchor (bundles still costed as N separate parcels, the worst case):**
 
-- **Unreachable:** StealthSlim (proxy 502 — may be a hosting lapse, not confirmed dead).
-- **Site dead:** Vantor · FormWear · Bond International · Echo Beaters · Elboo · Pure Care Goods · Slim Shield · Thracher · rukjx · Introductiont · Previouslyt · Commentaryt · [bazarii.store](http://bazarii.store) · Edgeshape · [myshaperluv.store](http://myshaperluv.store) · Frost Flex.
-- **Domain repurposed:** Shapecore (now gambling) · Primecurve (parked) · Corecraft (construction company).
-- **Pivoted:** Feetoot (sleep) · Pomence (sleep) · Mr. Sculpt (Gorilla Bar) · Rose Harlen (body wash).
-- **Tank product 404:** Allanii · Nominateh · Goodwillbrave · Porttalent · Marvelousee · Luramart (CATTIBOR). Selestaa redirects to a dress.
+| Variant | Price | Landed | CM $ | CM % | Break-even ROAS | CPA @20% net (ROAS) | CPA @30% net (ROAS) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Single | $39.95 | $11.90 | $26.55 | 66.5% | 1.50 | $18.56 (2.15) | $14.57 (2.74) |
+| **"2 + 1 FREE", middle tier, auto-selected** | **$79.90** ($26.63/tank) | $35.70 | **$41.50** | 51.9% | 1.93 | **$25.52 (3.13)** | $17.53 (4.56) |
+| **"3 + 2 FREE" top tier (new here)** | **$119.85** ($23.97/tank) | $59.50 | $56.45 | 47.1% | 2.12 | $32.48 (3.69) | $20.50 (5.85) |
+
+→ Test ladder: **$39.95 / 2+1 FREE $79.90 / 3+2 FREE $119.85.** The top tier makes the middle look like the smart pick and is where a gift goes (see 4).  
+2. **Price framed per wear:** "one on, one in the wash, one spare". It turns the bundle into a need rather than a discount.  
+3. **The guarantee, written out:** *"Wear it 60 days. If your shirt doesn't sit flatter, keep it — full refund."* Esteem shows keep-it works for ≤2 items. 60 days matches the market; go to 90 only if margin allows. A wash promise (Aethon runs "200+ wash guarantee") goes inside it **only if the sample's 5-wash test passes.**  
+4. **A gift that improves use (top tier only):** a wash bag, or a short "how a shirt should fit you now" guide. **Never** a weight-loss program or meal-plan gift: Evolv, Selure and Shaperluv do it, and it pulls the tank into FTC/Meta weight-loss territory (§2B).  
+5. **Name bundles by result, not quantity.** Working name: "The Flat-Under-Any-Shirt Kit". The final name is Copy's job.  
+6. **Pop-up quiz option for G3:** "I lost weight — the loose skin still shows". Women's Shape Lab runs "LOOSE OR SAGGING SKIN" → mystery gift. It sits inside the §E quiz (lost the weight / chest / belly / 50+).  
+7. **A real reason for the discount:** launch pricing for the first buyers who send a photo review.  
+8. **Every order ships with a "how to put it on" card and a video link.** It answers "hard to put on" (83 in the bank).  
+9. **Cart add-on line:** "Add a nude one for white shirts." Pre-purchase shipping protection ($1.28–$4.99 in the template stores) reads cheap, so keep it opt-in only.  
+10. **Creative and funnel gap from run 1:** a "same shirt, without → with" carousel. No competitor ran it in run 1's 315-ad log. **Test a listicle** pre-sell after the advertorial.  
+11. **The offer wording rule for G3:** "holds and smooths", never "tightens".
+
+⚠ Nikita's standing rule still applies: the guarantee, real delivery dates and no subscription are **built into the offer and the policy**. They're never advertised as "we're the honest ones".
 
 ---
 
 # The Funnel Map
 
-**Funnel picked from the Funnel Selection Board** (opened this run: [Notion page](https://app.notion.com/p/3e0d53123cd681bda4d6fbc54fd7b296)): **the Discovery Stack — Advertorial → Offer Page** (the board's default for a single-hero product), with a **fit-finder built into the offer page**.
+**Funnel picked (from the Notion Funnel Selection Board):** the **Discovery Stack — Advertorial → Offer Page** (the board's default for a single-hero product). **Why:** the launch man (G3) is problem → solution-aware (45% + 30%, §5) and burned by the category (Stage 4→5, §8). He needs the mechanism and the proof *before* he sees a price — the board's own rule: an advertorial works best "problem-unaware → aware" and "shifts beliefs via a third-party story". Never cold traffic to a home page (board rule). The market mostly runs ad → PDP or a "5 reasons" listicle; only InShape runs a pre-sell per buyer group, unfunded (§15-F). **Later doors:** G2 / G4 (more product-aware) can go **Ad → proof-heavy Offer Page** directly; the §15-E segmentation quiz (Personalization Stack: quiz → offer) is a test for mixed traffic once there is data.
 
-**Why this stack:**
+Each page continues the conversation — it never repeats what the last one said.
 
-- He's **solution-aware but burned** (Doc 1 §5 and §8). He needs a belief shift ("it's extra skin; squeezing fails, holding works") *before* he sees a price. That's the advertorial's job.
-- The board warns "never send cold paid traffic to a Home Page". The tank sellers' straight-to-PDP pattern is what made the market burned in the first place.
-- The fit-finder borrows the one useful part of the Personalization Stack (sizing is the #2 objection, 70) without a full quiz funnel.
-- Test later: a **listicle** variant ("5 reasons guys who lost the weight wear this under their shirt"). The board says listicles handle many objections at once, and we have 19 objections.
+| Stage | What it does for THIS product (G3 launch funnel) |
+| --- | --- |
+| **Ad** | Stops Mark with *his* moment and earns one click — never the sale. **Hook = the milestone** (the #1 G3 trigger, 106): first person, achievement words, no drug or surgery words — *"I'm down 85 lb. My shirt still told on me."* / *"The scale isn't the finish line. Your shirt is."* **Format gap:** shirt-on proof — same man, same shirt, with / without, sitting and standing (UGC-style video); a carousel ("4 shirts, one undershirt" — 0 carousels in 445 ads). Copy obeys §2B (no "you lost the weight", no GLP-1, no body before/after). |
+| **Pre-sell page (advertorial — third-person editorial)** | **Gives the mechanism + proof.** Opens on his moment (the milestone that didn't fix the mirror) → **UMP:** extra skin can't shrink, and squeezing doesn't make soft tissue go away — it *moves* it (out under the hem, up into a roll) (Brantner MD; shapewear sources: squeezing "pushes it outward and away from where the shapewear is being worn" — Hourglass Angel, "The panel needs to extend beyond the fold you want to smooth" — ShaperX; men's own "they actually lift up my belly and make it stick out more") → **why the tanks he tried failed** (short, one tight band, ride up — his quotes) → **the forgotten history** (the "John Bull Belly", 1819; the 1920s belts for men "beginning to grow a belly"; vanished with looser 1940s tailoring — Doc 3 §13B) → **the villain** (the FTC-fined "burn fat while you wear it" crowd — so we say plainly: *it won't burn fat, tighten skin or fix gyno*) → **UMS:** *"Squeeze moves it. Hold keeps it."* — an even hold from chest to past the belt line, so the hem sits below the soft part and stays down → **proof:** shirt-on with/without carousel, the sit/bend/arms-up film, the white-shirt test (sample-dependent), surgeons' public lines on what compression can and can't do, men's words ("winner skin") → ends on the identity payoff: *"Look like the man you are now."* CTA → the offer page. (Not InShape's "You did the work…" wording, §20.) |
+| **Product page (offer page)** | **Sells THIS product + the offer (built in Step 2 from §15-E):** a shirt-on hero (not a flat-lay) · the honest scope line (chest + belly; looks flatter while worn) · **measured size chart in inches + 3-question fit finder** (chest, waist, height) · torso length per size · the colour logic (nude under white, black under dark) · bundle ladder with free units and the middle **auto-selected** — **Test B: $39.95 single / "2 + 1 FREE" $79.90** ($26.63/tank) until CJ's combined-parcel quote proves the $69.90 tier · named by result (the under-the-shirt kit) · **the policy-true 60-day guarantee** ("If your shirt doesn't sit flatter, you don't pay for it" — worn OK, free size swap) · **the size-down swap** for men still losing · the "step in, pull up" GIF · an honest 5–12 business-day delivery window · reviews per group once they exist (never curated-only). |
+| **Cart** | **Raises order value:** the next colour at a member price (one add-on only) · a free-shipping threshold set just above the single (~$50, the market norm) · shipping protection opt-in only, never tied to returns. |
+| **After purchase** | **Kills regret, upsells, gets repeat buys:** thank-you page → the fit check (did the size work? swap it now, free) · post-purchase one-click extra colour (AfterSell-style) · day-3 email: how to put it on + how to wear it under a white shirt · day-14 email: the shirt-on photo ask (UGC for each buyer group) · **as he keeps losing: the size-down swap reminder** (G3 repeat buy — nobody runs it) · review request after the first wear, all reviews shown. |
 
-Each page continues the conversation and never repeats the last touchpoint.
+**Later funnels (same brand, same mechanism, own door — §3A):** G2 *"Wear the white tee again"* → proof-heavy offer page (invisible + cool; tighter-isn't-flatter) · G1 *"Tuck it in without the gut showing"* → a "why your tank pushes your belly out" pre-sell → offer page · G5 *"Look sharp at your daughter's wedding"* → advertorial with a 55+ narrator (InShape proves the format; nobody funds it) → offer page.
 
-**Ad (TOF) → Pre-sell page (advertorial) → Product page (offer) → Cart (raise AOV) → After purchase (kill regret, upsell, repeat)**
-
-| Stage | What it does for THIS product |
-|---|---|
-| **Ad** | **Stops him with his own moment and earns the click on curiosity — no price.** Openers from §18 and §14: the milestone that didn't fix the mirror ("Down 130 lbs. Still wearing a hoodie in July."), the pool, the tank that rode up by lunch, the old XXL tag next to an L. Formats from the §2 gaps: **carousel** "same shirt, without → with" (0 competitors use carousel); a calm shirt-on demo video; native first-person story statics. First or third person only; no drug or surgery names, no pinching, no shirtless shots (§2B). Run **one broad "your shirt finally fits right" control angle** next to the W1 angles (the §11 lock condition) |
-| **Pre-sell page (advertorial — third-person editorial)** | **Gives the mechanism + proof.** Opens on his moment (the milestone) → **UMP**: "after big weight loss the skin is bigger than the body, and skin can't shrink back — diet, gym and creams all try to shrink it" (Healthline, an Aesthetic Society Q&A surgeon, 78% of men / 96% surplus-skin stats, Doc 3 §13) → **why the tanks he tried failed**: they squeeze one band, are cut short and ride up (his quotes) → **the forgotten history aha**: men's support belts 1810–1940s, "When the mirror shows a bulge…" (1936), lost to stigma and looser suits; the same even-pressure idea is what surgeons use today (Doc 3 §13B) → **UMS**: "don't shrink it — hold it flat, long-cut, below the belt" → **proof**: shirt-on with/without carousel, sit/bend test (sample-dependent), surgeon quote on what compression can and can't do, men's own words ("hold it in and I just get on with it"). Ends on the identity payoff: "The scale said you're done. Now your shirt agrees." (Not "you did the work… let your shirt show it" — InShape's live wording, §20.) CTA → product page |
-| **Product page (sells THIS product + offer)** | **Offer inputs from Doc 4 §15-E** — the full offer is built in Step 2:<br> • **Bundle ladder**, middle auto-selected: single $39.95 · **"2 + 1" 3-pack $79.90** · "3 + 2" work-week 5-pack $119.85 (test prices). Named by result, not quantity<br> • **Measurement fit-finder** (height + chest + waist + "still losing?") replaces weight bands<br> • **Size-down swap** as he keeps losing<br> • A **guarantee written into the policy** (worn-OK, money back, not store credit)<br> • **Real delivery window** (1–3 days processing + 4–9 days shipping)<br> • The **"under the white shirt"** colour trio<br> • A 20-second "how to put it on" video<br> • **"What it doesn't do"** FAQ (no tightening, no fat loss)<br> • Fiber %, care and "Imported" (Textile Act)<br> • No fake timers, no "LAST SIZES"<br>Proof shown: demos + spec. Reviews only once real (no fake social proof — 16 CFR 465 and Nikita's rule) |
-| **Cart (raise order value)** | • One-tap add: **"Add a nude one for white shirts"** (single colour at bundle price).<br> • Upgrade nudge from 3 → 5: "a fresh one every weekday".<br> • Optional shipping protection (table stakes, $2.50–$4.99, but don't pre-tick).<br> • **No** weight-loss "program" add-on (FTC/Meta risk, §2B) |
-| **After purchase (kill regret, upsell, repeat)** | • **Post-purchase one-click:** an extra colour at a member price (AfterSell / Zipify-style).<br> • **Kill regret:** day 0 "what to expect the first time you put it on (it's tight — step in)" + the put-on video; day 3 fit check ("wrong size? swap it free").<br> • **Proof loop:** day 14 "send a shirt-on photo" review request — the only way to build real proof.<br> • **Repeat buys:** size-down swap reminders at day 30 / 60 ("down another size? swap for the next one"), plus seasonal summer-heat colours before the May–July peak.<br> • **No subscription** (front-end profit rule; category subscription complaints) |
-
-**So What → do this:**
-
-- Build **one advertorial (the mechanism + history story)** and **one offer page (bundle + fit-finder + swap)**. Send all cold traffic to the advertorial and retargeting straight to the offer page.
-- Test the listicle as the first challenger.
+**So What → do this:** build one advertorial and one offer page for the G3 man first; reuse the offer page for every later door and only swap the pre-sell.
 
 ---
 
 # 20 · Verify report
 
-## A) Every skill / tool this page names — ✅ ran · 🔁 substitute · ➖ not needed (fallbacks only) · ❌ couldn't
+## A) Every skill / tool the page names
 
-| Skill / tool | Status | Where it ran / why |
+| Skill / tool | Status | Where it ran (this run, 2026-11-02) |
 | --- | --- | --- |
-| **research-doc** | ✅ | Ran the whole page: fetched it live, saved it verbatim, built a 585-row line-by-line ledger, worked it in order, audited coverage and re-fetched the page before delivery |
-| **Audit first** | ✅ | North Alpine NorthPower PDP, walked mobile + desktop (Doc 1, right after Pre-0). §1 re-check: still the #1-traffic page |
-| **product-pulse** | ✅ (run on Firecrawl; its Notion publish step skipped — delivery is this folder) | §2C (social agent: Reddit in depth; the X side gave 4 posts, all mockery) · §10 (fed the lists) · §14 (voice) · §20 (refute agent A: ~25 male comments across ~18 threads, ~70% positive / 20% mixed / 10% skeptical) |
-| **agent-reach** | 🔁 → **Firecrawl MCP** (CLI not installed) | Every agent-reach job: §2C · §5 · §10 · §10B · §12 · §18 · §18B · §20 research + fact-check |
-| **Firecrawl** (`firecrawl_search` · `firecrawl_scrape`) | ✅ | §0B Amazon, ShelfTrend · §1 SimilarWeb ×4, Amazon, Etsy · §2C Reddit/forums/Trustpilot/Amazon/Walmart/Zappos · §5 · §10B · §13 medical/legal (+ firecrawl_research_\*, firecrawl_gov_search) · §13B/§18B history · §15 AliExpress/Temu · §20 all three refute agents. Note: Firecrawl auto-picked a "stealth" proxy on some public pages (SimilarWeb ×2, PubMed ×3, a doctor's blog) without being asked. The two SimilarWeb rows were **re-fetched on a normal connection and matched exactly**; every later scrape forced `proxy: basic` |
-| **playwright-skill** | ✅ (library run directly — the skill's wrapper and `npm run setup` files are absent) | Audit first · §0B Google Trends attempt · §1 funnels + Ad Library · §2 Ad Library region check · §15 one script walked **30 stores to the checkout landing** (stopped before typing anything — no data, no order) · §2C YouTube/TikTok comment attempts |
-| browser-use | ➖ | Fallback only "if Playwright fails". Playwright worked (the YouTube/TikTok blocks are captcha/login walls, not a Playwright failure). The browser-use MCP also failed to connect this session |
-| **Amazon trick** | ✅ (partly 🔁) | §2C · §10 · §10B · §11: 18 /dp/ pages scraped, 12 readable, "Customers say" + 168 verbatim excerpts split love/hate. 🔁 Individual reviews (stars + dates) are sign-in-walled, so 1–2★ wording came from the negative excerpts + Walmart/Trustpilot 1–2★ reviews (real stars). 6 page loads hit Amazon's checkpoint — not bypassed |
-| **Forum tactics** | ✅ partly / 🔁 | §2C · §5 · §14 · §18. BariatricPal Guys' Room + Plastics boards sorted by replies ✅ (real reply/view counts). Reddit `sort=comments` was refused by Firecrawl and Reddit .json redirects to login → 🔁 `site:reddit.com` search snippets (no comment counts; tagged SNIPPET) |
-| **SimilarWeb** | ✅ (via `firecrawl_scrape`, no connector) | §1 traffic + §3 demographics: north-alpine, shaperluv, selurewear, evolv-off. Exact visits from Winning Hunter |
-| **Winning Hunter** | ✅ | §0B, §1, §2, §15, §20: `search_facebook_ads` (~140 calls across agents) · `get_store_details` (19 stores) · `get_store_top_ads` (meta + tiktok; google → 🔁 `search_google_ads`) · `find_similar_shops`  • `brief_competitor` · `search_tiktok_products`  • `get_tiktok_product` (metrics + history) · `search_tiktok_ads` · `search_google_ads` · `check_credits`. `search_exploding_topics` (§0B fallback) ❌ "Request limit reached" ×6 |
-| **Facebook Ad Library** | ✅ 1 query / 🔁 | §1: one US "men compression tank" query parsed (26 ads, incl. the "page disabled" notice). Later logged-out queries returned 403 / "no ads" → 🔁 Winning Hunter `search_facebook_ads` with countries + languages for the §0B/§2 region proof (US vs GB/AU/CA/NZ, DE, FR, IT, ES, NL, BR) |
-| **TikTok + Google / Amazon / Etsy** | ✅ | TikTok ads + TikTok Shop (WH) · Google ads by domain (WH) · Amazon (Firecrawl) · Etsy search ✅ (3 tiny shops); Etsy reviews ❌ (empty extraction — negligible channel) |
-| **Google Trends** | ❌ | §0B: HTTP 429 on one normal load; fallback Exploding Topics ❌ (limit); a catalogued Trends provider was blocked by this session's anti-circumvention guard (not pursued). **No 5-year curve** — a 2-minute manual check for Nikita is in Doc 1 §0B |
-| **Notion connector** | ✅ | Funnel Map: Funnel Selection Board opened · §15: Offer Build reference opened · Delivery: this folder |
-| **Google Drive** | 🔁 → **Notion** (Nikita's instruction) | Nikita asked for one Notion folder named for the product, with sub-pages, instead of Drive. The Drive folder created at the start was trashed. The §2C "Sheet" = the §2C Data Bank database page in this folder |
-| **jq / python** (named inline) | ✅ | Every count: ad-log classification, de-dupe + tally of the 581-row data bank, KPI maths |
-| Inline: `get_tiktok_product` slices "metrics" + "history" | ✅ | §0B monthly units |
-| Inline: TikTok / YouTube comments via playwright-skill | ❌ | §2C: YouTube → HTTP 429 captcha; TikTok → comments behind a login wall. Not bypassed. 0 viewer comments; the other 6 source types were used |
-| Inline: Google AI-overview for "signs of [problem]" | 🔁 → `firecrawl_search` (no AI-overview tool) | §5 symptom bridge (the page's own stated fallback) |
+| **research-doc** | ✅ ran | the whole page, top to bottom — this run (588-row line-by-line ledger, 290/290 page lines mapped) |
+| **Audit first** | ✅ ran | [north-alpine.com](http://north-alpine.com) main PDP (highest traffic, 1.10M visits) — Playwright walk to cart, stopped before payment (Doc 1) |
+| **product-pulse** | ✅ ran | §2C / §10 / §14 (≈38 Firecrawl searches of Reddit + X) and §20 (24 fresh Reddit/X searches — no contradiction of the lead; new detail on the scam objection) · X gave almost no signal; Notion-publish step skipped (delivery is done once, at the end) |
+| **agent-reach** | 🔁 Firecrawl | CLI not installed → every agent-reach job (§2C, §5, §10, §10B, §12, §18, §18B, §20) ran on `firecrawl_search`  • `firecrawl_scrape` |
+| **Firecrawl** (`firecrawl_search` · `firecrawl_scrape` · `formats: ["query"]` · `firecrawl_gov_search` · `firecrawl_research_*` · Alexandria providers) | ✅ ran | §0B, §1, §2C, §5, §10B, §13, §13B, §15, §18B, §20 — `proxy: "basic"` on every scrape; Reddit, Amazon reviews and CJ walled in places (logged, not circumvented) |
+| **playwright-skill** | ✅ ran (library run directly — the skill's wrapper is absent, `npm run setup` not applicable) | Audit first · §0B (Google Trends → 429) · §1 (Facebook Ad Library) · §15 (59 URLs, 44 checkout landings, nothing entered) · §2C (YouTube comments until YouTube 429'd) · §17 (CJ / qksource) |
+| **browser-use** | ❌ couldn't | MCP failed to connect this session; ➖ not needed where Playwright worked |
+| **Amazon trick** | ✅ ran | §2C / §10 / §10B / §11 — 10 searches, 31 /dp/ pages, 29 "Customers say" summaries sorted per group into 4–5★ angles and 1–2★ objections (individual reviews behind sign-in → public excerpts used) |
+| **Forum tactics** | ✅ ran (partly) | [gynecomastia.org](http://gynecomastia.org) boards sorted by views (real counts), BariatricPal "The Guys' Room"; **Reddit comment/view sorting blocked** (old.reddit / API 403, Firecrawl unsupported) → ranked by relevance; thread titles used as hooks (Doc 2 §14) |
+| **SimilarWeb** | 🔁 via Firecrawl (no connector) | §1 traffic + §3 demographics: north-alpine, selurewear, evolv-off, shaperluv, mottandbow, primalviking (3 more failed — logged) |
+| **Winning Hunter** | ✅ ran | `search_facebook_ads` (~75 + verification calls), `get_store_details` (16 stores), `get_store_top_ads`, `brief_competitor`, `find_similar_shops` (name-noise only), `search_exploding_topics`, `search_tiktok_products`, `get_tiktok_product` (history slice), `search_tiktok_ads`, `search_google_ads`, `check_credits` |
+| **Facebook Ad Library** | ✅ ran (partly) | Playwright, logged out: 3 of 9 queries rendered in §1, 1 more in §20; the rest throttled — logged, not circumvented; Winning Hunter `countries` used as the fallback |
+| **TikTok + Google / Amazon / Etsy** | ✅ ran | §0B, §1, §2, §15 (TikTok ads + Shop, Google Ads Transparency via WH, Amazon 213 listings, Etsy 60 results) |
+| **Google Trends** | ❌ → 🔁 Exploding Topics | HTTP 429 on two separate normal loads (5-term US 5-year comparison) → Winning Hunter `search_exploding_topics`, labelled **not country-filtered** (Doc 1 §0B); no topic exists for the group terms → per-group search demand unmeasured (2-minute manual check given) |
+| **Notion connector** | ✅ ran | Funnel Selection Board + Offer Build reference opened (Funnel Map, §15); delivery |
+| **Google Drive** | 🔁 Notion (Nikita's standing override) | delivery = one Notion folder ("Deep Research Run 2 — Men's Compression Tank") with 4 doc pages + the §2C Data Bank database; .md copies saved to the brand repo |
+| **jq / python3** | ✅ ran | every count (data-bank tallies, ad-log tallies, KPI math) |
+| pandoc / HTML conversion | ➖ not needed | Notion delivery instead of Google Docs |
 
-## B) Adversarial fact-check — skeptics told to REFUTE
+## B) Adversarial fact-check — three skeptics told to refute
 
-Three independent verifier agents re-opened every key claim fresh on 2026-10-28.
+**A — wedge / market / economics · B — science / compliance / authority · C — history / customer quotes / product-pulse.** ~150 claims checked against sources opened today. **Corrections made (all applied in the docs, marked "§20"):**
 
-| Claim | Verdict | Fix made in the docs |
-| --- | --- | --- |
-| **The wedge is "uncontested in the US"** | ❌ **CORRECTED — WRONG.** InShape launched a "men after GLP-1" loose-skin funnel on 2026-10-13 (≥8 live ads, [in-shape.co/pages/after-weight-loss](http://in-shape.co/pages/after-weight-loss), "You did the work. Let your shirt show it."). InShape also ran "Say goodbye to loose skin insecurity" as a lead for 333 days. Selure's "Arthur" persona: 12 of 26 ads, 3 live. Why the first sweep missed it: Winning Hunter search is exact-phrase only, and the first sweep never used the "Men's Clothing" category | Doc 1 §2 + §1E, Doc 3 §11 LOCK + §13 + §18B, Doc 4 §4B + §15. The wedge is now called **contested-early**. The market choice stands (least-owned, and the alternatives are worse), but the edge moved from angle to **mechanism + offer + speed**, and the **brand line was reworded** away from InShape's words |
-| "The market is real" — Amazon ≥12,150 units/mo, 8,345 / 14,219 / 24,954 ratings | ✅ CONFIRMED (counts are floors). "Eleady" brand name unconfirmed | Doc 2 §10B relabelled "unbranded B07F1WJLVC" |
-| TikTok Shop US 3,485 units / 30 d | ✅ CONFIRMED (re-summed + fresh pull matches) | — |
-| North Alpine 1,101,150 visits, $6.18–10.35M / 30 d | ✅ CONFIRMED (store only created Feb-2026) | — |
-| 29 US on-market Meta advertisers | ⚠ PARTLY — undercount: Shaperluv was missed → **≥30** | Doc 1 §0B |
-| Authority — partner + peers over doctors | ⚠ PARTLY. The §2C counts are real (partner 31 · fellow sufferers 15 · doctors 3), but "trust" is inferred from who they cite. r/loseit 4.2M = third-party trackers, mixed-gender | Kept, labelled as citation counts |
-| Men talk about compression for loose skin | ✅ CONFIRMED (r/loseit 4oaqrf + ~25 more male comments) | — |
-| Healthline collagen/elastin quote | ✅ CONFIRMED (page shows "Updated Nov 29, 2024") | — |
-| Aesthetic Society quotes | ⚠ CORRECTED attribution — one member surgeon's 2014 answer (Dr. Alexander G. Nein), not a society position; the full Spanx sentence restored | Doc 3 §13 |
-| Staalesen 2013: abdomen 78% in men | ✅ CONFIRMED. (Its "unattractive body" figure is **91% in men**, 67% in women — not used in the docs) | — |
-| Kitzinger 96% surplus skin / 68% of men want contouring | ✅ CONFIRMED | — |
-| Toms 2024 "dose-dependent link" GLP-1 → contouring | ✅ CONFIRMED — it's an association (retrospective), so copy must never say GLP-1s *cause* loose skin | Note in Doc 3 |
-| Brantner MD compression quotes | ⚠ Page 403 on re-check → confirmed by search snippet only | Re-tagged SNIPPET in Doc 3 |
-| Cleveland Clinic gland vs fat | ✅ CONFIRMED (live URL used) | — |
-| CDC 39.2% men (crude 20+) · 10.7% → 39.7% (age-adjusted 20–74) | ✅ CONFIRMED — two different measures, never mixed | Doc 1 §0 labelled "crude rate" |
-| Mayo 24–65% · ASPS $5,587 | ✅ CONFIRMED — $5,587 is the surgeon's fee only | Doc 1 §0 qualified |
-| KFF men 9% vs women 15%, 50–64 22% | ✅ CONFIRMED — use for *any* reason (incl. diabetes) | Doc 1 §2 qualified |
-| Gallup 12.4% / men 9.7% (2025) | ⚠ CORRECTED — superseded: Gallup July 2026 = **11% current, 15% ever**, no sex split | Doc 3 §18B: "about 1 in 10 adults" for copy |
-| ASMBS 270,089 (2023), ~20% male | ⚠ 270,089 confirmed; "~20% male" isn't ASMBS (Obes Surg 2023: 80% female); volume fell to 177,297 in 2024 | Not used in the docs (raw only) |
-| Meta Health & Wellness rules + "Jul 22, 2026" change log · Personal attributes | ✅ CONFIRMED (correct URL used) — the weight-loss rules bite only when the ad promotes weight loss; undergarments are exempt from age-gating | Doc 4 §2B qualified |
-| Meta Rx — "only with LegitScript" | ⚠ CORRECTED — LegitScript is mandatory only for online pharmacies/telehealth; others go through "Meta's internal review process" | Doc 4 §2B |
-| FTC 2014 $230,000 + $1.3M · Gut Check · 16 CFR 465.2 · 303.34 | ✅ CONFIRMED — the 2014 cases were *caffeine-infused* shapewear; 303.1(u) brings online listings under "mail order" | Doc 4 §2B qualified |
-| 21 CFR 880.5780 · 21 USC 321(h) | ✅ CONFIRMED — 880.5780 is leg stockings, an analogy; the real exposure is intended use | Doc 4 §2B qualified |
-| Bracer 1936 tagline | ✅ CONFIRMED (dealer transcription, no magazine named); a 1940 Elks Magazine "MIDSECTION SAG" ad confirmed | Doc 3 §13B/§18B |
-| **Bracer in LIFE 1937-09-06 / 1939-03-06** | ❌ **UNVERIFIABLE** (collector forum only; Google Books captcha/429 — not bypassed) → **never in copy**; "1939 Midsection Sag" dropped | Doc 3 §13B/§18B |
-| BGC stomach-belt quote | ⚠ CORRECTED wording: "seem to have fallen out of favor by the 1940s, thanks to looser tailoring in men's fashion"; *Monsieur* = first half of the 1920s | Doc 3 |
-| USS Constitution stays 1810–20 · AWM corset 1916 · JOBST 1950 · Under Armour 1996 | ✅ CONFIRMED (Jobst's surgery garments came from 1957, after his death) | — |
-| Equmen "bloody girdle / mirdle" quote | ⚠ CORRECTED source — AP via Spokesman-Review 2009-03-14 (not Stanford Magazine); Equmen later collapsed | Doc 3 §13B |
-| Spanx "hadn't been updated in nearly 100 years" | ⚠ CORRECTED — the Stanford GSB writer's narration, not a Blakely quote; the V&A item is a V-neck "Manx" | Doc 3 §13B |
-| Slimane "took off across the industry" | ⚠ CORRECTED — not in either source; replaced with McCauley Bowstead's "a radically slim silhouette … acting as a prototype for men's fashion throughout the decade" | Doc 3 §18B |
-| Spokesman 2009 "male girdle ads… 1930s" | ⚠ CORRECTED to the exact AP wording; the 2010 "he-girdle" line is a humour column (colour only) | Doc 3 §18B |
-| ASPS Funderburk + Duke Patel quotes | ✅ CONFIRMED — never imply either endorses the tank | — |
-| **Economics:** xe 0.7022 → US$11.90 | ⚠ minor — xe 0.703503 at 12:00 UTC → US$11.91 (+1¢, no change) | Doc 1 Pre-0 |
-| Processing 3% + $0.30 | ✅ Shopify Basic 2.9% + 30¢; premium cards 3.5%, international +1% → stress-test at 3.5% | Doc 1 Pre-0 |
-| BFCM CPM spike | ✅ CONFIRMED (Lebesgue 2025: +59% BF week, +84% on BF vs Sept, from ~Nov 10) | Doc 1 §0B |
-| Competitor prices (North Alpine, Shaperluv) | ✅ CONFIRMED; Amazon range corrected to $7.99–$32.99 | Doc 1 §0B |
-
-**Corrections reported, not hidden:** the biggest is that **"uncontested" was wrong**. Everything that depended on it was rewritten (see the ⚠ boxes in Doc 1 §2 and the Doc 3 §11 lock).
+1. **⚠ The wedge was more contested than the first scan said.** "9 ads, 2 advertisers, 0 garment ads name GLP-1" → **≥21 live G3 ads from InShape (≥15), Selure (4) and Alphacore (≥2, naming GLP-1 since Oct 21)**; InShape's page has 1,845 active ads. **§2 rewritten:** no men's group is fully uncontested; G3 stays the **least-owned painkiller** (the biggest player doesn't run it) — a land-grab, not white space. Our working line "Lost the weight — but it still shows" is too close to InShape's live hook → internal label only.
+2. **The honest "won't tighten skin" line is already used by two small players** (InShape, Alphacore) → §4B moat restated: line + mechanism + size-down swap + attitude + speed.
+3. **Mechanism re-sourced:** Dr. Moeinolmolki's "pushes tissue sideways and down" was a *limit* statement (it ends "…so a man with a large amount of gland or loose skin may see little change in profile") — it's now a G3 objection answer; the "squeeze moves it" proof is Hourglass Angel / ShaperX / Cleveland Clinic / Dr. Ditesheim. "No edge to push it to" → "the hem sits below the soft part". The cause is new only among men's ads (women's brands already teach it).
+4. **Compliance:** Meta's undergarment exemption doesn't cover the Health & Wellbeing rules (slimming ads stay 18+, inferiority, pinch, wearables) · intended use is shown by design + every claim, not just the ad → rename the supplier title · the 2014 FTC order covers drug/cosmetic garments (analogy only) · "Crunches can't spot-reduce" moved to NEVER (a 2023 RCT in overweight men found it) · "It's not your metabolism" limited to under 60 · "other men over 50" added to NEVER · "man boobs" flagged under the inferiority rule · Novo Nordisk's enforcement targets clinics, not apparel.
+5. **Stats:** gynecomastia "up to 70% of men 50–69" is *asymptomatic* · Staalesen 78% = men reporting abdominal excess skin · ASPS $5,587 / $8,174 are surgeon fees only · CDC overweight + obesity re-based to the same age-adjusted table · "3–8% per decade" source unverifiable (kept out of ads) · CDC 1960–62 → 2021–23 obesity now verified (3.7×).
+6. **History:** the Bracer was a *supporter belt* that "gently pulls your stomach in" (Collier's 1948) — run 2's earlier "only an athletic supporter" correction was itself wrong · the belt faded in the 1940s but the idea survived in the Bracer into 1948–49 · the "Ceinture Anatomique" was advertised in a Paris men's magazine, "promoted by one Dr. Namy" · the 1838 line is a museum paraphrase of *The Workwoman's Guide* · the Met print's jeerer is a French hairdresser (anonymous artist, Tegg publisher) · FTC dates (2002 charges, 2003 $5M) and the "steer clear" speaker (Jessica Rich).
+7. **Customer data:** quote check **36 of 40 confirmed outright (90%), 38 of 40 hold (95%), none invented**; one wrong URL fixed (r2soc-330, also in the bank); "lost 100 pounds" → 90; ICP ages and the KFF "half" figure corrected; BariatricPal 65 rows; the "buy compression 1–2 sizes down" G4 tip carries a warning (it rolls the hem).
+8. **Economics:** landed $11.88 → **$11.90** (rounding + 08:29 rate); every KPI cell re-run; "≤$59.80 ≈ 40% margin" → 36.8%; **missing cost line added** (refunds / no-return refunds / size swaps — a 10% no-return refund rate takes the Test B kill-line CPA from $25.52 to ≈ $17.5); guarantees contradicted by policy = **13 of 22** (Alphacore added).
+9. **Competitor facts:** "8 new entrants since run 1" → only 2 are new (run 1 missed 7) · Primal Viking 4,874–5,173 active ads (daily drift) · North Alpine's 2,295 is a window-dependent search total (+ a third page with 713 active) · QORE "300+" unverifiable · Selure's PDP has one loose-skin review.  
+**Confirmed (selection):** North Alpine / Selure store numbers · Amazon #1 badges · TikTok Shop top SKU · longest-running ads (457 / 408 / 398 / 223 days) · every price-ladder fact · North Alpine's "final sale / store credit" policy · every Meta age example · FDA 880.5780 / 890.3490 / 801.4 wording · FTC Gut Check #7 · every Moein / Ditesheim / Brantner / Cleveland Clinic quote · Vispute, Kitzinger, KFF 9%, ASMBS 177,297, ASPS −12% · YouTube view counts · forum sizes · every museum fact (except the attributions corrected above) · the Guardian Spanx/Skims timeline; Spanx and Skims sell no men's shapewear today · 5 re-tallied data-bank counts match exactly. **Product-pulse** found no contradiction of the G3 lead and two new competitors to watch (GuyForm "Alpha AbTanks", a TWGONE "North Power" copy on Amazon). Full tables: verify/[RESULT-A.md](http://RESULT-A.md), [RESULT-B.md](http://RESULT-B.md), [RESULT-C.md](http://RESULT-C.md) (saved with this run's files).
 
 ## C) Completeness check
 
-- **Page re-fetched before delivery** and diffed against the saved copy → see the delivery note.
-- **Ledger:** all 585 rows marked done (with the doc + section) or blocked (with the reason) — `grep -c '| todo |'` = 0.
-- **Every heading, bullet and sub-bullet** checked against the 4 docs:
-  - All sections are present in page order. §10A (in the page body but missing from its doc list) sits in Doc 2 after §10.
-  - Lists are exhaustive with counts (§10: 18 pains, 12 desires, 10 needs, 19 objections, 7 misconceptions; §10B: 12 alternatives; §11: 19 objections + the checklist; §18: 14 triggers).
-- **Source types mined:**
-  - Reddit ✅ (224)
-  - Amazon 1–2★ (48) + 4–5★ (98) + mixed (22) ✅
-  - forums ✅ (BariatricPal, ObesityHelp, [gynecomastia.org](http://gynecomastia.org), Facebook posts — 39)
-  - Trustpilot / Walmart / Zappos ✅ (144)
-  - X ✅ (4)
-  - TikTok / TikTok Shop ✅ (TikTok Shop sales + TikTok ads; ❌ TikTok comments behind a login)
-  - Facebook Ad Library ✅ (1 query) + Winning Hunter
-  - competitor pages ✅ (30 walked to checkout + 45 policies)
-- **Gaps filled during the check:**
-  - the uncontested correction;
-  - the SimilarWeb stealth re-fetch;
-  - 31 science snippets converted into the data bank;
-  - near-duplicate de-dupe (8 removed).
+- The live page was re-fetched before delivery and diffed against the saved copy: **unchanged since 2026-10-28.**
+- Every heading, bullet and sub-bullet is mapped in the ledger: **588 rows — 0 todo** (status per row in the ledger file; blocked rows listed in D).
+- **Source types mined:** Reddit ✅ · Amazon 1–2★ ✅ + 4–5★ ✅ + 3★ ✅ · forums ✅ ([gynecomastia.org](http://gynecomastia.org), BariatricPal, ObesityHelp, Ask Andy, Styleforum, HealthUnlocked, Quora) · Trustpilot / Walmart / Zappos / brand sites ✅ · YouTube comments ✅ (partly — 429) · **TikTok comments ❌** (login wall, not bypassed) · TikTok Shop ✅ · Facebook Ad Library ✅ (partly) · Facebook groups (public snippets) ✅ · X ✅ (thin) · competitor pages ✅ (59 URLs) · museums / FTC / CDC / PubMed / ASPS ✅.
 
 ## D) Self-approval
 
-- [x] Every line on this page is covered in the 4 docs, thorough and sourced, or flagged as inference.
-- [x] Every skill/tool the page names was run, substituted (named) or marked ➖ (fallbacks only), and all are listed in A.
-- [x] The §2C data bank has **581 snippets from 6 source types with volume** (Reddit, Amazon, other reviews, forums, X, + 2 video rows). Every customer list §3–§18 is ranked by a Python tally of that file.
-- [x] Every historical / medical / stat claim that could enter ad copy is verified with a URL — or removed / flagged UNVERIFIABLE (the LIFE dates).
-- [ ] **The wedge passes the Purple Ocean Gate.** ❌ **Not fully, and said plainly:** it's a painkiller ✅ and a real market ✅, but **not uncontested**. InShape (tiny, since 2026-10-13) and a Selure persona page already run it; the biggest competitor doesn't. **No fully uncontested painkiller wedge exists for this product in the US.** W1 is the least-owned option, so the call stands with the edge on mechanism + offer + speed.
-- [x] The §2B compliance table matches the product's actual category (apparel, cosmetic claims).
-- [x] Economics use the real price (CJ AUD 6.52 + AUD 10.42 shipping), not a teaser — bundles are worst-case pending CJ's multi-unit quote.
-- [x] Product / mechanism gaps are flagged honestly (length, hem, chest panel, compression strength, fabric — sample needed).
+- [x] Every line on this page is covered in the 4 docs, thorough, and sourced (or flagged inference).
+- [x] Every skill / tool this page names was run, substituted (named), or marked — all listed in A.
+- [x] The §2C data bank has **2,322 snippets from 8 source types**, and every customer list (§3–§18) is ranked by a script tally of that file.
+- [x] Every historical / medical / stat claim that could enter ad copy is verified with a URL — or marked unverified and kept out of ads (two: "3–8% per decade", the "even when weight stays stable" line).
+- [ ] **The wedge passes the Purple Ocean Gate — NOT fully, said plainly:** G3 is a painkiller ✅ and a real market ✅, but **not uncontested** — InShape, Selure (a major player) and Alphacore already run it; the biggest competitor doesn't. **No fully uncontested painkiller men's group exists for this product in the US.** G3 is the least-owned option; the call stands with the edge on mechanism + the size-down swap + proof + speed.
+- [x] The §2B compliance table matches the product's actual category (apparel; claims decide the device line; Health & Wellbeing rules apply to slimming ads).
+- [x] Economics use the REAL CJ price (no welcome-deal teaser).
+- [x] Product / mechanism gaps are flagged honestly (spec tab walled; length, hem, breathing, opacity unproven; the mechanism is blocked until the sample passes).
 - [x] The Funnel Map is filled — every stage, for THIS product.
-- [x] §2, §4 and §4B were LOCKED after §11, and the §9 One Belief was rewritten after §13 — what changed is written down (plus the §20 rewording).
-- [x] The target region came from Pre-0 (US/English, Nikita's run request), and Audit first is done.
-- [x] Each of the 4 docs has the folder link + Top 5 takeaways at the top and its own Sources list at the end; the §2C bank is final and published as a database page.
-- [x] Corrections from verification are reported, not hidden.
+- [x] §2, §4, §4B were LOCKED after §11 and the §9 One Belief rewritten after §13 — what changed is written down (Doc 3 §11 LOCK note, §13 Step 7).
+- [x] The target region came from Pre-0 (US, English, Meta — Nikita's brief), and Audit first is done.
+- [x] Each of the 4 docs has the folder link + Top 5 takeaways at the top and its own Sources list at the end; the §2C CSV is final.
+- [x] Corrections from verification are reported, not hidden (B above + inline "§20" marks).
 
-**Verified & self-approved — with one box honestly unticked:** the wedge is contested-early, not uncontested.
+**Blocked rows (could not be satisfied — reason):** Google Trends 5-year US curve (HTTP 429 ×2, fallback used) · TikTok comments (login wall) · Reddit comment/view-count sorting (403) · CJ spec tab (bot check + login) · unedited reviews for a new store (don't exist yet — OPEN in §11).
+
+**Verified & self-approved — with one box unticked** (the Purple Ocean Gate's "uncontested"), stated above.
 
 ---
 
-# Sources (Doc 4)
+## Sources (Doc 4)
 
-Accessed 2026-10-28 unless dated otherwise. §15 competitor numbers each cite their product / policy page URL inline (walked with playwright-skill, .js fetched, policy text fetched).
-
-- [S1] [https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/](https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/) · Meta Transparency · change log Jun 26 2024, read 2026-10-28 · VERBATIM
-- [S2] [https://www.facebook.com/business/help/2557868957763449](https://www.facebook.com/business/help/2557868957763449) · Meta Business Help (Personal attributes) · read 2026-10-28 · VERBATIM
-- [S3] [https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/) · Meta Transparency · change log Jul 22 2026 · VERBATIM
-- [S4] [https://www.facebook.com/business/help/2489235377779939](https://www.facebook.com/business/help/2489235377779939) · Meta Business Help (Health & wellness) · read 2026-10-28 · VERBATIM
-- [S5] [https://transparency.meta.com/policies/ad-standards/restricted-goods-services/drugs-pharmaceuticals/](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/drugs-pharmaceuticals/) · Meta Transparency · read 2026-10-28 · VERBATIM
-- [S6] [https://transparency.meta.com/en-gb/policies/ad-standards/objectionable-content/adult-nudity-and-sexual-activity/](https://transparency.meta.com/en-gb/policies/ad-standards/objectionable-content/adult-nudity-and-sexual-activity/) · Meta Transparency · read 2026-10-28 · VERBATIM
-- [S7] [https://www.facebook.com/business/help/511197658391698](https://www.facebook.com/business/help/511197658391698) · Meta Business Help (data source categories) · read 2026-10-28 · VERBATIM
-- [S8] [https://www.curvecompliance.com/meta-healthcare-ad-restrictions-2026-changes-adaptation](https://www.curvecompliance.com/meta-healthcare-ad-restrictions-2026-changes-adaptation) · compliance vendor blog · 2026 · SNIPPET
-- [S9] [https://www.reddit.com/r/FacebookAds/comments/1v28o0d/health_wellness_policy_changes_at_meta_on_22nd/](https://www.reddit.com/r/FacebookAds/comments/1v28o0d/health_wellness_policy_changes_at_meta_on_22nd/) · Reddit · Jul 2026 · SNIPPET
-- [S10] [https://ecfr.gov/current/title-21/section-880.5780](https://ecfr.gov/current/title-21/section-880.5780) · eCFR · current · VERBATIM
-- [S11] [https://govinfo.gov/link/uscode/21/321](https://govinfo.gov/link/uscode/21/321) · US Code 21 USC 321(h) · current · VERBATIM
-- [S12] [https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance) · FTC · Dec 2022 · VERBATIM
-- [S13] [https://www.ftc.gov/news-events/news/press-releases/2014/09/norm-thompson-outfitters-wacoal-america-settle-ftc-charges-over-weight-loss-claims-caffeine-infused](https://www.ftc.gov/news-events/news/press-releases/2014/09/norm-thompson-outfitters-wacoal-america-settle-ftc-charges-over-weight-loss-claims-caffeine-infused) · FTC · 2014-09-29 · VERBATIM
-- [S14] [https://www.ftc.gov/business-guidance/resources/gut-check-reference-guide-media-spotting-false-weight-loss-claims](https://www.ftc.gov/business-guidance/resources/gut-check-reference-guide-media-spotting-false-weight-loss-claims) · FTC · 2014 (upd. 2020) · VERBATIM
-- [S15] [https://ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255/section-255.2](https://ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255/section-255.2) · eCFR 16 CFR 255.2 · current · VERBATIM
-- [S16] [https://ecfr.gov/current/title-16/chapter-I/subchapter-D/part-465/section-465.2](https://ecfr.gov/current/title-16/chapter-I/subchapter-D/part-465/section-465.2) · eCFR 16 CFR 465.2 · current · VERBATIM
-- [S17] [https://www.ftc.gov/business-guidance/resources/threading-your-way-through-labeling-requirements-under-textile-wool-acts](https://www.ftc.gov/business-guidance/resources/threading-your-way-through-labeling-requirements-under-textile-wool-acts) · FTC · current · VERBATIM (extract)
-- [S18] [https://ecfr.gov/current/title-16/chapter-I/subchapter-C/part-303/section-303.34](https://ecfr.gov/current/title-16/chapter-I/subchapter-C/part-303/section-303.34) + /section-303.1 · eCFR · current · VERBATIM
-- [S19] North Alpine PDP (playwright-skill walk, [https://north-alpine.com/products/northpower-experience-the-shift-in-shape-posture-pride](https://north-alpine.com/products/northpower-experience-the-shift-in-shape-posture-pride)); Shaperluv disabled-page ad 2053495562130439 (Facebook Ad Library, [https://www.facebook.com/ads/library/?id=2053495562130439](https://www.facebook.com/ads/library/?id=2053495562130439)); Selure 'Arthur' ad 1595932471662174; Trustpilot gap data via Winning Hunter · VERBATIM/DATA
-- [S20] Winning Hunter search_facebook_ads white-space corpus, US (225 ad rows / 100 creatives; Aida, Evolv, Mr. Sculpt, Huracan, Gaudenza ad text) + Evolv PDP [https://evolv-off.com/products/v-boost-v2-feel-the-power-of-confidence-energy-strength](https://evolv-off.com/products/v-boost-v2-feel-the-power-of-confidence-energy-strength) · DATA/VERBATIM
-- [S21] Winning Hunter search_facebook_ads, US, 2026-10-28: 'extra skin', 'after weight loss', 'ozempic', 'glp-1', 'bariatric', 'skin removal', 'lost weight compression', 'underworks', 'slimpressions' (0 of 120 page-1 ads target men) · DATA
-- [S22] Winning Hunter search_facebook_ads 'loose skin' (US + non-US), incl. Shape Lab, IONIX/'Dr. Michael Harrington' persona, Aida cashmere-core-wrap · DATA
-- [S23] [https://www.healthline.com/nutrition/loose-skin-after-weight-loss](https://www.healthline.com/nutrition/loose-skin-after-weight-loss) · Healthline (med-reviewed A. Palladino) · 2024-11-29 · VERBATIM
-- [S24] [https://www.unitypoint.org/news-and-articles/how-to-tighten-loose-skin-after-weight-loss](https://www.unitypoint.org/news-and-articles/how-to-tighten-loose-skin-after-weight-loss) · UnityPoint Health · n/d · VERBATIM
-- [S25] [https://pubmed.ncbi.nlm.nih.gov/23666714/](https://pubmed.ncbi.nlm.nih.gov/23666714/) · Staalesen et al., Obes Surg 2013 · VERBATIM (abstract)
-- [S26] [https://pubmed.ncbi.nlm.nih.gov/22101887/](https://pubmed.ncbi.nlm.nih.gov/22101887/) · Kitzinger et al., Obes Surg 2012 · VERBATIM (abstract)
-- [S27] [https://pubmed.ncbi.nlm.nih.gov/38620005/](https://pubmed.ncbi.nlm.nih.gov/38620005/) · Toms et al., Aesthet Surg J 2024 · VERBATIM (abstract)
-- [S28] [https://pubmed.ncbi.nlm.nih.gov/39021663/](https://pubmed.ncbi.nlm.nih.gov/39021663/) · Arkoubi, JPRAS Open 2024 · VERBATIM (conclusion)
-- [S29] PubMed 39838129 (Aesthetic Plast Surg 2025), 22173651, 31451852, 29916894 · abstracts via firecrawl_research_search_papers · SNIPPET
-- [S30] PMC13678443 (Front Endocrinol 2026), PMC11845967 (J Cosmet Dermatol 2025), PMID 40835770 · abstracts · SNIPPET
-- [S31] PMID 20628306 (J Burn Care Res, pressure prediction / Laplace), 30638979 (J Biomech), PMC12336246 (Front Bioeng 2025) · abstracts · SNIPPET
-- [S32] [https://pmc.ncbi.nlm.nih.gov/articles/PMC9051004/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9051004/) · narrative review, sports clothing thermoregulation · 2022 · VERBATIM (extract)
-- [S33] [https://my.clevelandclinic.org/health/symptoms/16227-enlarged-male-breast-tissue-gynecomastia](https://my.clevelandclinic.org/health/symptoms/16227-enlarged-male-breast-tissue-gynecomastia) · Cleveland Clinic · 2024-07-09 · VERBATIM
-- [S34] [https://www.arroyoplasticsurgeryhouston.com/blog/you-lost-the-weight-so-why-does-your-chest-still-look-like-this/](https://www.arroyoplasticsurgeryhouston.com/blog/you-lost-the-weight-so-why-does-your-chest-still-look-like-this/) · Arroyo Plastic Surgery (Dr. Christian Arroyo) · n/d · VERBATIM
-- [S35] [https://jimbrantnermd.com/can-compression-garments-help-loose-skin/](https://jimbrantnermd.com/can-compression-garments-help-loose-skin/) · Jim Brantner MD · 2026-06-14 · VERBATIM
-- [S36] [https://www.theaestheticsociety.org/ask-question/98886](https://www.theaestheticsociety.org/ask-question/98886) · The Aesthetic Society Q&A · 2014–2019 · VERBATIM
-- [S37] [https://www.brownhealth.org/be-well/body-contouring-after-weight-loss-what-you-need-know](https://www.brownhealth.org/be-well/body-contouring-after-weight-loss-what-you-need-know) · Brown University Health · n/d · SNIPPET
-- [S38] [https://www.plasticsurgery.org/cosmetic-procedures/body-contouring](https://www.plasticsurgery.org/cosmetic-procedures/body-contouring) · ASPS · n/d · SNIPPET
-- [S39] [https://www.dryoun.com/blog/5-things-nobody-tells-you-about-loose-skin/](https://www.dryoun.com/blog/5-things-nobody-tells-you-about-loose-skin/) (2026-06-16, VERBATIM) · [https://www.youtube.com/@doctoryoun](https://www.youtube.com/@doctoryoun) (5.57M subs, SNIPPET) · [https://www.tiktok.com/@doctoryoun](https://www.tiktok.com/@doctoryoun) (8.5M followers, SNIPPET)
-- [S40] [https://www.underworks.com/](https://www.underworks.com/) · Underworks homepage testimonials · read 2026-10-28 · VERBATIM
-- [S41] Reddit/Facebook threads listed row-by-row in raw/p2/science/her_side_snippets.csv (H1–H31) + LADbible FB [https://www.facebook.com/LADbible/videos/guy-shows-off-his-loose-skin-after-losing-150lbs/349310616232616/](https://www.facebook.com/LADbible/videos/guy-shows-off-his-loose-skin-after-losing-150lbs/349310616232616/) + r/loseit bis71 [https://www.reddit.com/r/loseit/comments/bis9f0/loose_skin_post_weight_loss/](https://www.reddit.com/r/loseit/comments/bis9f0/loose_skin_post_weight_loss/) + r/loseit favourites [https://www.reddit.com/r/loseit/comments/16l0hku/](https://www.reddit.com/r/loseit/comments/16l0hku/) · SNIPPET
-- [S42] [https://www.bespokebeautymd.com/post/how-to-tell-if-its-loose-skin-or-fat-a-practical-guide-from-a-plastic-surgery-perspectiveif-you-hav](https://www.bespokebeautymd.com/post/how-to-tell-if-its-loose-skin-or-fat-a-practical-guide-from-a-plastic-surgery-perspectiveif-you-hav) · [https://drvarunharish.com.au/blog/loose-skin-after-weight-loss](https://drvarunharish.com.au/blog/loose-skin-after-weight-loss) · [https://clinicmono.com/blog/stomach-still-big-after-weight-loss/](https://clinicmono.com/blog/stomach-still-big-after-weight-loss/) · SNIPPET
-- [S43] [https://westmedical.com/gastric-sleeve-before-and-after-skin-changes-west-medical/](https://westmedical.com/gastric-sleeve-before-and-after-skin-changes-west-medical/) · [https://boscenweightloss.com/blog/managing-loose-skin-after-weight-loss-surgery/](https://boscenweightloss.com/blog/managing-loose-skin-after-weight-loss-surgery/) · [https://cliniquemichelgagner.com/news/loose-skin-after-weight-loss-surgery](https://cliniquemichelgagner.com/news/loose-skin-after-weight-loss-surgery) · [https://procarenow.com/blogs/life-after-surgery/dealing-with-extra-skin-and-body-shaping-after-weight-loss-surgery](https://procarenow.com/blogs/life-after-surgery/dealing-with-extra-skin-and-body-shaping-after-weight-loss-surgery) · SNIPPET
-- [S44] [https://www.leonisa.com/blogs/articles/how-to-tighten-loose-skin-after-gastric-bypass-without-surgery](https://www.leonisa.com/blogs/articles/how-to-tighten-loose-skin-after-gastric-bypass-without-surgery) · Leonisa blog · SNIPPET
-- [S45] [https://shapermint.com/blogs/news/stop-your-shapewear-rolling-down-or-riding-up](https://shapermint.com/blogs/news/stop-your-shapewear-rolling-down-or-riding-up) · [https://byebra.com/how-to-keep-shapewear-from-rolling-down-or-up/](https://byebra.com/how-to-keep-shapewear-from-rolling-down-or-up/) · SNIPPET
-- [S46] [https://www.postwatch.app/best-time-to-post-on-reddit/r/loseit](https://www.postwatch.app/best-time-to-post-on-reddit/r/loseit) · [https://nutrola.app/en/blog/what-does-reddit-think-about-calorie-tracking-apps-2026](https://nutrola.app/en/blog/what-does-reddit-think-about-calorie-tracking-apps-2026) · "3.5M+" · SNIPPET
-- [S47] [https://clinicmono.com/blog/loose-skin-after-weight-loss-ozempic/](https://clinicmono.com/blog/loose-skin-after-weight-loss-ozempic/) · [https://kaoplasticsurgery.com/blog/ozempic-body-why-skin-can-look-loose-after-glp-1-weight-loss-and-what-can-be-done/](https://kaoplasticsurgery.com/blog/ozempic-body-why-skin-can-look-loose-after-glp-1-weight-loss-and-what-can-be-done/) · SNIPPET
-- Notion — Offer Build reference (Grand Slam Offer), opened this run: [Notion page](https://app.notion.com/p/3d9d53123cd681dabc18f09e90184c44) · Funnel Selection Board, opened this run: [Notion page](https://app.notion.com/p/3e0d53123cd681bda4d6fbc54fd7b296)
-- Winning Hunter get_store_details (11 new + 8 reused: gaudenza, officialaidastore, alphacore-store, havengrand, huracanperformance, qorelogiq, thenaturalposture, biggmans, try-shapelab, waistsculpt; north-alpine, shaperluv, selurewear, evolv-off, in-shape, mengotomars, primalviking, mottandbow) · DATA
-- AliExpress search — [https://www.aliexpress.com/w/wholesale-men-slimming-body-shaper-compression-tank-top.html](https://www.aliexpress.com/w/wholesale-men-slimming-body-shaper-compression-tank-top.html) · SNIPPET · Temu (firecrawl_search [temu.com](http://temu.com)) · SNIPPET · eBay Spanx men resale [https://www.ebay.com/b/SPANX-Men/bn_7006315357](https://www.ebay.com/b/SPANX-Men/bn_7006315357) · SNIPPET
+[S1] [https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/](https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/) · Meta Transparency · change log Jun 26 2024 · read 2026-11-02 · VERBATIM  
+[S2] [https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/) · Meta Transparency · change log Jul 23 2026 / Dec 27 2024 · read 2026-11-02 · VERBATIM  
+[S3] [https://www.facebook.com/business/help/2489235377779939](https://www.facebook.com/business/help/2489235377779939) · Meta Business Help "About Meta's Health and Wellness advertising policy" · read 2026-11-02 · VERBATIM  
+[S4] [https://transparency.meta.com/policies/ad-standards/restricted-goods-services/drugs-pharmaceuticals/](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/drugs-pharmaceuticals/) · Meta · change log Jun 11 2024, Oct 31 2024, Feb 27 2025 · read 2026-11-02 · VERBATIM  
+[S5] [https://transparency.meta.com/policies/ad-standards/objectionable-content/adult-nudity-and-sexual-activity/](https://transparency.meta.com/policies/ad-standards/objectionable-content/adult-nudity-and-sexual-activity/) · Meta · change log May 14 2025 · read 2026-11-02 · VERBATIM  
+[S6] [https://ecfr.gov/current/title-21/section-880.5780](https://ecfr.gov/current/title-21/section-880.5780) · eCFR · current · VERBATIM (gov search)  
+[S7] [https://ecfr.gov/current/title-21/chapter-I/subchapter-H/part-890/subpart-D/section-890.3490](https://ecfr.gov/current/title-21/chapter-I/subchapter-H/part-890/subpart-D/section-890.3490) · eCFR truncal orthosis · current · VERBATIM (gov search)  
+[S8] [https://ecfr.gov/current/title-21/chapter-I/subchapter-H/part-801/subpart-A/section-801.4](https://ecfr.gov/current/title-21/chapter-I/subchapter-H/part-801/subpart-A/section-801.4) · eCFR intended uses · current · VERBATIM (gov search)  
+[S9] [https://govinfo.gov/link/uscode/21/321](https://govinfo.gov/link/uscode/21/321) · 21 USC 321(h) · run-1, not re-checked  
+[S10] [https://ftc.gov/business-guidance/resources/gut-check-reference-guide-media-spotting-false-weight-loss-claims](https://ftc.gov/business-guidance/resources/gut-check-reference-guide-media-spotting-false-weight-loss-claims) · FTC · VERBATIM (gov search 2026-11-02)  
+[S11] [https://ftc.gov/system/files/documents/cases/1409normananalysis.pdf](https://ftc.gov/system/files/documents/cases/1409normananalysis.pdf) + [https://ftc.gov/news-events/news/press-releases/2014/09/norm-thompson-outfitters-wacoal-america-settle-ftc-charges-over-weight-loss-claims-caffeine-infused](https://ftc.gov/news-events/news/press-releases/2014/09/norm-thompson-outfitters-wacoal-america-settle-ftc-charges-over-weight-loss-claims-caffeine-infused) · FTC 2014 · VERBATIM (gov search)  
+[S12–S15] run-1 sources (FTC Health Products Compliance Guidance; 16 CFR 255.2; 16 CFR 465.2; Textile Act/16 CFR 303) · not re-checked  
+[S16] [https://portal.ct.gov/DCP/Common-Elements/Consumer-Facts-and-Contacts/Weight-Loss](https://portal.ct.gov/DCP/Common-Elements/Consumer-Facts-and-Contacts/Weight-Loss) · CT Dept. of Consumer Protection · SNIPPET (gov search)  
+[S17] [https://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/0501.html](https://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0501/0501.html) · Florida Statutes ch. 501 index · SNIPPET (gov search)  
+[S18] [https://ipwatchdog.com/2024/07/23/a-review-of-novo-nordisks-ozempic-and-wegovy-trademark-enforcement-campaign/](https://ipwatchdog.com/2024/07/23/a-review-of-novo-nordisks-ozempic-and-wegovy-trademark-enforcement-campaign/) · IPWatchdog 2024-07-23 · [https://lawreview.syr.edu/novo-nordisk-files-suit-centered-around-their-ozempic-and-wegovy-medications-again/](https://lawreview.syr.edu/novo-nordisk-files-suit-centered-around-their-ozempic-and-wegovy-medications-again/) · SNIPPET  
+[S19] [https://health.clevelandclinic.org/visceral-fat-vs-subcutaneous-fat](https://health.clevelandclinic.org/visceral-fat-vs-subcutaneous-fat) · Cleveland Clinic · 2025-08-26 · VERBATIM  
+[S20] PMID 21804427 (Vispute et al. 2011, J Strength Cond Res) · PMC10680576 (2023 RCT, Physiol Rep) · abstracts via firecrawl_research · SNIPPET  
+[S21] PMC4326001 (Sexual dimorphism of obesity) · PMID 37312268 (Obesity 2023) · PMID 8044194 · abstracts · SNIPPET  
+[S22] PMC8370708 (Pontzer et al., Science 2021, "Daily energy expenditure through the human life course") · abstract · SNIPPET  
+[S23] [https://my.clevelandclinic.org/health/symptoms/16227-enlarged-male-breast-tissue-gynecomastia](https://my.clevelandclinic.org/health/symptoms/16227-enlarged-male-breast-tissue-gynecomastia) · Cleveland Clinic · reviewed 2024-07-09 · VERBATIM (re-checked)  
+[S24] PMID 12560721 (Rohrich et al. 2003, Plast Reconstr Surg) · abstract · SNIPPET  
+[S25] [https://charlottegynecomastia.com/gynecomastia/compression-shirts-gynecomastia/](https://charlottegynecomastia.com/gynecomastia/compression-shirts-gynecomastia/) · Dr. Jeffrey Ditesheim · published 2026-06-30, modified 2026-08-28 · VERBATIM  
+[S26] [https://gynecomastiala.com/gynecomastia-compression-shirt/](https://gynecomastiala.com/gynecomastia-compression-shirt/) · Dr. Babak Moeinolmolki · published 2026-10-28 · VERBATIM  
+[S27] PMID 27300085 (Peitzmeier et al. 2017, Cult Health Sex) · PMC6298447 (Transgender Health 2018) · PMID 33542145 · abstracts · SNIPPET  
+[S28] PMID 26408934 · PMC3995375 (Breast Care 2014) · PMID 19175864 · PMID 22246094 · abstracts · SNIPPET  
+[S29] PMID 1719016 (MMAS) · PMID 11158037 (BLSA) · PMID 28945276 · abstracts · SNIPPET  
+[S30] PMID 42463833 (Sci Rep 2026) · PMID 24450556 (Geriatr Gerontol Int 2014) · PMC8977978 (J Cachexia Sarcopenia Muscle 2022) · abstracts · SNIPPET; [https://www.webmd.com/healthy-aging/sarcopenia-with-aging](https://www.webmd.com/healthy-aging/sarcopenia-with-aging) · SNIPPET  
+[S31] PMID 26378354 (Neurosurgery 2015) · PMID 17785488 (Ann Intern Med 2007) · abstracts · SNIPPET  
+[S32] PMC6540032 (Int J Mol Sci 2019) · abstract · SNIPPET  
+[S33] PMC12448628 (JCEM 2025) · PMID 17825496 · PMID 10342671 · abstracts · SNIPPET  
+[S34] PMC2770912 gynecomastia prevalence by age (Doc 1 §0) · [https://gynecomastialasvegas.com/how-do-aging-and-weight-gain-affect-wanted-male-chest-contours/](https://gynecomastialasvegas.com/how-do-aging-and-weight-gain-affect-wanted-male-chest-contours/) "about one-quarter of men over 50" · SNIPPET  
+[S35] [https://jimbrantnermd.com/can-compression-garments-help-loose-skin/](https://jimbrantnermd.com/can-compression-garments-help-loose-skin/) · Jim Brantner MD · 2026-06-14 · VERBATIM (run-1, re-checked 2026-11-02)  
+[S36] run-1 Step 1 research (Doc 3 §13 sources) [S23]–[S30], [S33]–[S34], [S36]–[S39] (Healthline, Staalesen 2013, Kitzinger 2012, Toms 2024, MWL pseudogynecomastia abstracts, Arroyo, Aesthetic Society, Youn) · not re-checked  
+[S37] [forum.gynecomastia.org](http://forum.gynecomastia.org) threads, read 2026-11-02, VERBATIM: /gynecomastia-talk/1/do-you-ever-have-bad-days/19469 · /gynecomastia-talk/1/minor-gyno-fit-guy-my-story-pics/33619 (2018-08-21→10-02) · /gynecomastia-talk/1/qu-when-compression-garment-necessary/3395 · /acceptance-garments/30/compression-undershirts-any-long-term-effects-good-bad/21645 · /ask-doctor/38/re-do-compression-shirts-do-any-long-term-damage/20636 (Michael Bermant MD; Dr Jacobs); snippets: /compression-garments/39/under-armour/18660, /acceptance-garments/30/bra-vs-compression-shirt/35541/15, /gynecomastia-talk/1/gyno-suddenly-worse/30115, /asia/23/…/26876, /fat-gynecomastia/5/…/29512  
+[S38] YouTube via Firecrawl Alexandria `youtube-com` (video_details / video_comments / search_videos), observed 2026-11-02 · DATA/VERBATIM: NNvRxJHkNtA (ObesetoBeast, 6,533,810 views) · WH0B9itUICY (FatGuyReviews, 187,563) · ooYveJMdzVY (FatGuyReviews comparison, 19,196) · zATRzQOmHas (Talking With Docs, 872,862) · pXntc3PoEug (Bobby Maximus, 2,509,718) · wyVgM0OOOL0 (Better Pursuits/Esteem, 19,721) · PXm6nMaNCks (Fit Father Project, 727,109) · So9bqBBtbMo (Seth Capehart MD, 170,294) · q60sx6bfZwQ (Live Anabolic, 19,258) · cgi8vdwoneo (alpha m, 38 comments) · k64Jjcw26RA (losetogain) · raw JSON in src/  
+[S39] [https://www.underworks.com/compression-body-shirt](https://www.underworks.com/compression-body-shirt) · Underworks SKU 993, $34.99, "Made in the USA", 12 reviews · read 2026-11-02 · VERBATIM  
+[S40] run-2 ad log (ad-log-run2.csv, 867 rows) + per-group TAKEN tally (Doc 1 §1) · WH-derived · DATA  
+[S41] [https://selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0](https://selurewear.com/products/selure%E2%84%A2-shaping-tank-2-0) · [https://selurewear.com/products/slimflex](https://selurewear.com/products/slimflex) · read 2026-11-02 · VERBATIM  
+[S42] [https://officialaidastore.com/pages/compressionvest-listicle-8-09-1-gk](https://officialaidastore.com/pages/compressionvest-listicle-8-09-1-gk) · read 2026-11-02 · VERBATIM  
+[S43] run-2 Doc 1 Audit first + §1C (North Alpine PDP audit; Primal Viking; Mott & Bow; AT2A) · 2026-11-02 · VERBATIM/DATA as tagged there  
+[S44] [https://www.realmenrealstyle.com/beer-belly-style/](https://www.realmenrealstyle.com/beer-belly-style/) (SNIPPET) · [https://www.youtube.com/user/RealMenRealStyle/videos](https://www.youtube.com/user/RealMenRealStyle/videos) "3.72M subscribers" (SNIPPET) · [https://alpham.com/mens-style-basics/](https://alpham.com/mens-style-basics/) "over 8 million followers combined" (SNIPPET)  
+[S45] Reddit threads — URL per row in the §2C Data Bank · SNIPPET  
+[S47] run-2 Doc 1 §0/§0B/§5 (r/gynecomastia 29k; [gynecomastia.org](http://gynecomastia.org) 33,673 members / 206,543 posts; r/bigmenfashionadvice 71k; KFF; muscle loss 3–8%/decade) · 2026-11-02  
+[S48] run-1 [S31] Laplace / garment pressure abstracts · not re-checked  
+[S49] run-1 [S32] PMC9051004 thermal comfort review · not re-checked  
+[S53] [https://in-shape.co/pages/after-weight-loss](https://in-shape.co/pages/after-weight-loss) · /pages/clothes-that-fit-better · refund policy · WH get_store_details [in-shape.co](http://in-shape.co) · 2026-11-02 · VERBATIM/DATA  
+[S54] Run-2 Playwright offer walk (59 URLs, 23 stores, 44 checkout landings; nothing entered, no orders) + Shopify .js product files (54) — every competitor PDP URL is named in its §15 block · 2026-11-02 · VERBATIM/DATA  
+[S55] Competitor refund + shipping policy pages (31 stores: /policies/refund-policy, /policies/shipping-policy on each domain named in §15) · 2026-11-02 · VERBATIM  
+[S56] Winning Hunter get_store_details (north-alpine, shaperluv, selurewear, evolv-off, [in-shape.co](http://in-shape.co), alphacore-store, qorelogiq, shopsomnea, tusqapparel, primalviking, mottandbow, [built-different.co](http://built-different.co), thirsix) · 2026-11-02 · DATA  
+[S57] the §2C Data Bank (2,322 snippets) — counts as in Doc 2 §10/§11

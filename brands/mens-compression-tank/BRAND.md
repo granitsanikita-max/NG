@@ -15,4 +15,4 @@
 ## Compliance guardrail — ❌ REMOVED (Nikita, 2026-11-04)
 "Man boobs" language and direct "you/your" hooks are allowed for this brand (Nikita's call).
 
-Full context: `brain/00-HANDOFF-READ-FIRST.md`.
+Full context: `brain/README.md` (Deep Research Run 2).
