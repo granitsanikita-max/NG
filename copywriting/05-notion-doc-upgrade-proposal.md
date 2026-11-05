@@ -1,370 +1,412 @@
-# Copywriting Fundamentals doc — upgrade proposal (from Breakthrough Advertising)
+# Copywriting Fundamentals doc — upgrade plan v2
 
-How to read this: every change is tagged **KEEP / UPGRADE / ADD / MOVE / DELETE**, with the section of your Notion doc it goes in. Text in the grey boxes is the exact wording I'd put in the doc. Nothing has been changed in Notion yet.
+Built from 3 full reads of *Breakthrough Advertising* plus your PDP doc's 7 headline ingredients. Nothing is changed in Notion until you approve this.
 
-Your structure stays the same: ① Skills → ② Fundamentals vs Techniques → ③ Analyse before writing → ④ Fundamentals → ⑤ Techniques → ⑥ Chiefing → ⑦ New plays. Desire selection stays in your deep research, upstream. This doc only receives it.
+**Tags:** KEEP · UPGRADE · ADD · MOVE · DELETE. Text in quote blocks is the exact wording that goes in the doc. Your ①–⑦ structure stays the same.
 
----
-
-## Change map (summary)
-
-| Section | Change | What |
-|---|---|---|
-| ① Skills | ADD | Competitor-ad sweep (needed for sophistication) |
-| ② | UPGRADE | Add "copy channels desire, never creates it" + "formulas are for wording, not the idea"; new order of work |
-| ③ A | ADD | "Inputs from research" box |
-| ③ B Awareness | UPGRADE | Per level: what the headline starts with, what's banned, body job, examples. Unaware gets 7 identification patterns |
-| ③ C Sophistication | UPGRADE | Per stage: HOW to build it. How to diagnose the stage. Stage 3 headline flip |
-| ③ D Fill-in table | UPGRADE | New columns: entry point, headline type, #1 belief blocker |
-| ③ E | ADD | **Headline rules** — whole new block |
-| ④ #1 Argument | UPGRADE | Becomes "Argument + Belief Architecture" (Gradualization). Necessary Beliefs moves in here |
-| ④ #2 Slippery Slide | UPGRADE / DELETE | Delete the "3–6 word vacuum" rule. Add momentum phrases + teasers |
-| ④ #4 Speed to Value | UPGRADE | Add the 3-part length rule |
-| ④ #5 Rhythm | UPGRADE | Rhythm matches mood (3 rhythms) |
-| ④ #6 Emotion | UPGRADE / DELETE | Delete "cut anything negative". Add image-sharpeners vs emotion-definers |
-| ④ #7 Human Voice | UPGRADE | Add "sound native to the platform" |
-| ④ #8 Objections | UPGRADE | Add the 3 reader demands + point to Redefinition |
-| ④ #9 Honesty | UPGRADE | Add the flaw-then-strength juxtaposition |
-| ④ #10 Consciousness Method | DELETE → replace | Replace with Schwartz's 3 dimensions: Desire / Identity / Belief |
-| ④ #11, #12 | ADD | Interweaving · Proof placement |
-| ⑤ Belief Change | UPGRADE | Rename "Belief Bridge" — you extend beliefs, you don't change them |
-| ⑤ Involvement / Ownership | MOVE | Folded into the new Intensification play |
-| ⑤ Sell the cure | UPGRADE | Add the prevention exception (sell it through loved ones) |
-| ⑤ | ADD | 7 new plays: Intensification · Identification · Gradualization devices · Redefinition · Mechanization · Concentration · Camouflage — plus Reinforcement, Price-cut reason-why, Campaign play |
-| ⑥ Chiefing | UPGRADE | Untick first box. Add 9 checks |
-| ⑦ Necessary Beliefs | MOVE | Into ④ #1 |
-| ⑦ Power Words | UPGRADE | Add the "invisible" rule |
+**Labels used in the doc:**
+- **(BA)** = straight from *Breakthrough Advertising*.
+- **(house rule)** = not from the book. These are kept but labelled so you know where each rule comes from.
 
 ---
 
-## ① Skills for this doc
+## Change map
 
-**KEEP** all three.
-**ADD** one line:
-
-> - **Competitor-ad sweep** — before writing, pull every live competitor ad for this product type (Meta Ad Library / WinningHunter). You can't judge sophistication (③C) without seeing what the market has already been told.
+| Where | Change |
+|---|---|
+| ① | ADD competitor-ad sweep |
+| ② | ADD 2 rules · UPGRADE order of work |
+| ③A | ADD "inputs from research" box |
+| ③B Awareness | UPGRADE: full table + 8 Unaware patterns + when to switch |
+| ③C Sophistication | REPLACE with the book's version. Stage 5 = identification. "New category" moves to "how to be first" |
+| ③D | UPGRADE columns |
+| ③E Headlines | ADD a full headline system: Schwartz + your 7 ingredients |
+| ④ #1 | UPGRADE → Argument + Belief Architecture (+ Necessary Beliefs moved in) |
+| ④ #2 | DELETE the "3–6 word" rule · ADD momentum devices |
+| ④ #4 #5 #6 #7 #8 #9 | UPGRADE (one short add each). #6 loses "cut anything negative" |
+| ④ #10 Consciousness Method | UPGRADE: the 5 depths, each explained + example + Lift & Drop |
+| ④ #11 #12 | ADD Interweaving · Proof placement |
+| ④ #13 | ADD The 3 Dimensions (desire / identity / belief) |
+| ⑤ | UPGRADE 2 plays · MOVE 1 · ADD 9 plays |
+| ⑥ | UNTICK first box · ADD checks |
+| ⑦ | MOVE Necessary Beliefs · UPGRADE Power Words |
 
 ---
 
-## ② Fundamentals vs Techniques
+## ① Skills — ADD
 
-**KEEP** the prime directive and the Fundamentals / Techniques split.
-**ADD** under the prime directive:
+> - **Competitor-ad sweep:** before writing, pull every live competitor ad for this product type (hooks AND body copy). You need it to judge sophistication (③C) and to avoid phrasing they've already burned.
 
-> - **Copy channels desire — it never creates it.** The desire comes from research. Your job is to point an existing want at this product. Fight the market's desire and you lose, however good the words.
-> - **No formula is the idea.** Formulas, templates and swipe headlines are only for *wording* (③E Verbalization). The idea comes from this product + this market + this moment. Copy a winning headline into a different market and you get an "echo ad" that reminds people of someone else.
+## ② Fundamentals vs Techniques — ADD + UPGRADE
 
-**UPGRADE** Order of work to:
-
-> **Order of work:** inputs from research (③A) → surface (③A) → awareness + sophistication (③B–C) → entry point + headline (③D–E) → body: every **fundamental** (④) active + the **techniques** this goal calls for (⑤) → chief it (⑥).
-
----
-
-## ③ Analyse the goal
-
-### A. What are you writing? — KEEP the table. ADD this box above it:
-
-> **Inputs from research (bring these in, don't redo them here):**
-> 1. **The ONE desire** this copy channels (urgent, lasting, widely shared).
-> 2. **The ONE performance** of the product that satisfies it best. Every other feature becomes proof for that one, never a second headline.
-> 3. **The primary image**: what buyers already believe this *type* of product is (e.g. "posture correctors = uncomfortable straps", "LED masks = gimmick"). You build from this image. You never contradict it head-on (⑤ Identification).
-
-### B. Awareness guide — UPGRADE (replace the table)
-
-> **Awareness = how ready they are to accept what you say.** Each level is separated by a wall. A headline written for one level fails at another, and it stops working once the market moves on. Cold Meta/TikTok traffic is mostly Problem Aware to Unaware.
-
-| Awareness | Headline starts with | Never in the headline | Body's job | Example shape |
-|---|---|---|---|---|
-| **Most Aware** | Product name + the offer (price, bonus, free shipping, deadline) | — | Quick recap of top benefits → CTA | "[Product] — was $79, now $49 this week only" |
-| **Product Aware** | Product name (or logo) + its **superiority**. Pick one job: reinforce desire · sharpen how it works · extend when/where it's used · new proof · new mechanism · removes an old limitation | Generic claims they've already heard from you | Elaborate the superiority: picture it, prove it, show how it works | "The only [product] that [new proof/limitation removed]" |
-| **Solution Aware** | **The desire and/or its solution**, crystallized so sharply they recognize it instantly | Product name up top | 3 steps: name it → prove it's possible → show the mechanism is in *this* product | "Who else wants [result] — without [pain]?" |
-| **Problem Aware** | **The need/problem** (sometimes the problem alone) | — | Name the need → **dramatize it** until they feel how badly they need a fix → product as the inevitable solution | "[Problem]?" · "Stops [problem]" · "[Fix] without [feared method]" |
-| **Unaware** | **The market itself** — an identification headline that names who they are, their mood, or a vague problem nobody has put into words | **Price. Product name. Any direct claim of what it does** | Chain: identify with them → make the problem/desire real → a solution exists → it's this product | See the 7 patterns below |
-
-> **Unaware — 7 ways in (pick one):**
-> 1. **Name a hidden dream** they've never said out loud.
-> 2. **Name a hidden fear** (the product stays out of the headline).
-> 3. **Start from an image everyone accepts**, then lead into a problem they'd reject if you said it bluntly.
-> 4. **Voice a shared resentment** (against an industry, a cost, a hassle). It reaches far more people than the direct promise does.
-> 5. **Show the triumph** they'd identify with (the "they laughed when I…" moment).
-> 6. **Show the RESULT of the problem**, so people who'd deny having the problem still see themselves in it.
-> 7. **Show the RESULT of the effort**, so people put off by the work see the reward instead.
+> - **Copy channels desire. It never creates it (BA).** The desire comes from research. Your job is to aim it at this product.
+> - **No formula is the idea (BA).** Formulas and swipes are only for wording (③E). A headline copied into a different market becomes an "echo ad" that reminds people of someone else.
 >
-> **Rule:** they must recognize themselves in it before they can buy from it. It should repel as many people as it attracts. A joke, a startler or a pretty picture with nothing behind it is an empty headline.
+> **Order of work:** research inputs (③A) → surface → awareness + sophistication (③B–C) → headline (③E) → body: fundamentals (④) + techniques (⑤) → chief it (⑥).
 
-### C. Sophistication guide — UPGRADE (replace the table)
+## ③A — ADD above the table
 
-> **How to diagnose the stage:** look at the competitor sweep. Mostly plain claims ("get clear skin") = Stage 1–2. Big numbers and bigger promises = late Stage 2. Leading with "how it works" = Stage 3–4. Leading with identity, lifestyle or vibe = Stage 5. Each new sub-category (e.g. "red-light masks" inside skincare) starts its own stage cycle from 1.
+> **Inputs from research:**
+> 1. **The ONE desire** this copy channels.
+> 2. **The ONE performance** that satisfies it best. Specs and materials are proof for it, never the hook.
+> 3. **The primary image:** what buyers already believe this type of product is. You build on it. You never fight it.
+> 4. **The one trait** that sums up the product's personality. It leads every headline; other traits support it.
 
-| Stage | Market state | What the copy must do | HOW |
-|---|---|---|---|
-| 1 | You're first | State the need or claim plainly | Simple, direct, no tricks. Dramatize the claim in the body, then prove it works |
-| 2 | Direct claim still works, others copying | Make the claim bigger | Measure it, speed it up, compare it, outbid the competition. Stay inside believability: once claims get absurd, the market starts discounting everyone's |
-| 3 | They've heard every claim | **New mechanism**: a new way the old promise works | **Flip the headline.** The mechanism takes the headline and the claim shrinks to a word or two. Then restate the full claim in the lead. The mechanism must be new, legitimate, and seen as believable and significant |
-| 4 | Your mechanism is being copied | Improve the mechanism | Easier, faster, surer; solves more of the problem; removes an old limitation; adds a benefit. Breaks at the same believability limit as Stage 2 → find a new mechanism or go to Stage 5 |
-| 5 | They believe no ads | Stop claiming. **Identification** | Bring them in through who they are, not what it does (⑤ Identification). Same playbook as Unaware. *(Your "own a new category" option: KEEP it, labelled as a modern positioning move. It isn't from Schwartz.)* |
+## ③B Awareness — UPGRADE (replace table)
 
-> **Splinter option:** with a small budget, own a sub-group the big players ignore (e.g. weight loss for *health* reasons vs *looks*). Same desire, different mechanism and proof. Win there, then use that win as your point of difference for the main market.
+> **Awareness = what they already know (BA):** the problem → that it can be solved → that a type of product solves it → your brand → your price. It also decides how much they'll **accept**. A wall separates each level: a headline built for one level dies at another, and stops working once the market moves up.
 
-### D. Fill-in table — UPGRADE columns
+| Level | Headline starts with | Body's job |
+|---|---|---|
+| **Most Aware** | Product name + the deal (price, bonus, deadline). The news IS the offer | Recap top benefits → CTA |
+| **Product Aware** (knows it, doesn't want it yet) | Product name + its **superiority**, through one of 7 jobs: reinforce desire (association, sensory detail, imagery) · sharpen how it works · extend when/where it's used · new proof · new mechanism · removes an old limit · a whole new image (→ ③C) | Elaborate the superiority: picture it, prove it, show how it works |
+| **Solution Aware** (knows the desire, not that your product exists) | **Name the desire and/or its solution** so sharply they recognize it at a glance. Plain is often best; if not, add fresh proof, mystery or wonder. The product name is optional | Name it → prove it can be done → show the mechanism is in this product |
+| **Problem Aware** (has a need, doesn't connect it to you) | **The problem.** Ladder of forms: bare problem ("Back pain?") · problem + fix · limit removed · fix + "without [feared thing]" · a substitute for a costly chore ("a salon blowout in a brush") · prevention · one stressed word ("Do YOU…") · a verbal twist when the fix has been promised too often | Name it → **dramatize it** until they feel it → product as the inevitable fix |
+| **Unaware** | **The market itself**: an identification line that names who they are or what they feel. **No price, no product name, no claim.** No product hero shot or logo in the first frame | Identify → make the problem/desire real → a fix exists → this product |
 
-| Project | Surface | Awareness | Sophistication | **Entry point** (offer / superiority / desire / need / identity) | **Headline type** (③E) | **#1 belief blocker** | → What THIS copy must do | Techniques to pull |
+> **Unaware: 8 ways in (BA):**
+> 1. Name a hidden dream
+> 2. Name a hidden fear
+> 3. Start from an accepted image, then lead into the problem they'd reject if you said it bluntly
+> 4. Voice a shared resentment
+> 5. Show the triumph moment
+> 6. Show the RESULT of the problem
+> 7. Show the RESULT of the effort, not the work
+> 8. Project the desire **visually only**, with no words
+>
+> **Rule:** they must recognize themselves before they can buy. It should repel as many as it attracts. A joke or a pretty picture with nothing behind it is an empty headline.
+> **When to switch to Unaware:** spend goes up but volume drops, and the product name, then the function, then the desire stop pulling. Also use it to reach people who'd never respond to the direct promise.
+
+## ③C Sophistication — REPLACE with the book's version
+
+> **Diagnose it from the competitor sweep:**
+> - Plain claims = Stage 1–2
+> - Big numbers and outbidding = late Stage 2
+> - "How it works" up front = Stage 3–4
+> - Identity, vibe or a return to plain pleasure = Stage 5
+>
+> Check body copy too, not just hooks. Every new sub-category starts again at Stage 1.
+
+| Stage | Market | Do this (BA) |
+|---|---|---|
+| 1 | You're first | Name the need or claim. Simple, direct, no tricks. Dramatize it in the body, then prove it |
+| 2 | Direct claim still works, others copying | **Copy the winning claim and enlarge it to the absolute limit.** Measure it, outbid it. If the benefit can't be measured, enlarge through bigger comparisons. (Warning: the market eventually stops believing anyone and starts discounting every claim) |
+| 3 | Heard every claim | **New mechanism.** Headline = the mechanism + the claim shrunk to a word ("Melts fat…"). Lead = the full claim, limits removed ("…without diets, without exercise"). The mechanism must be new, legitimate, and seen as believable and significant. Only works if the desire keeps renewing (a recurring want, an unsolved problem, regular replacement) |
+| 4 | Your mechanism is copied | Make the mechanism easier, quicker, surer; solve more of the problem; remove a limit; add a benefit. Template: **"First/Only [limit removed] [mechanism]"**. Then a new mechanism, or Stage 5 |
+| 5 | Believes nothing | **Stop claiming. Identification**: bring them in through who they are (⑤ Identification), or go back to the raw core pleasure stated plainly ("tastes good like a cigarette should"). Same playbook as Unaware |
+
+> **How to be first without inventing anything (BA):**
+> - Sell the same product to a new market
+> - Reach the market through an untapped channel
+> - Find a performance nobody has noticed and **coin a name for it**
+>
+> "Owning a new category" lives here. It resets you to Stage 1.
+> **Splinter move (BA):** own a sub-group the big players ignore, with its own mechanism and proof. Then use that win to attack the main market.
+
+## ③D Fill-in table — UPGRADE columns
+
+| Project | Surface | Awareness | Sophistication | Entry point (offer / superiority / desire / need / identity) | Headline form (③E) | #1 belief blocker | What THIS copy must do | Techniques |
 |---|---|---|---|---|---|---|---|---|
 
-### E. Headline rules — ADD (new block)
+## ③E Headlines — ADD (new block)
 
-> 1. **The headline's only job is to get the next line read.** It doesn't have to sell, and it doesn't have to name the product. Only for Most Aware buyers with a deal can the headline do the whole sale.
-> 2. **It must be interesting AND believed at first glance.** Your strongest claim is often not your strongest headline. If they can't believe it yet, they scroll.
->    → **Test move:** if a power-claim hook fails, test a hook with *fewer, more believable* claims, then build up to the big claim in the body (④ #1).
-> 3. **The first 5–10 words carry most of the ad's value.** Write 20+ options before picking one.
-> 4. **Lead with one desire and one performance.** Never two.
-> 5. **The Creative Gamble:** leaving the product and its benefit out of the hook is fine *if* the hook drags them into the body. If it doesn't, the ad is wasted.
-> 6. **Verbalization: ways to sharpen a headline once the idea is set** (pick one or combine):
->    - **Measure it:** size, amount, speed ("in 7 minutes")
->    - **Compare it:** vs the old way, vs the expensive option
->    - **Make them sense it:** see, feel, hear, smell
->    - **Demonstrate with one extreme example** (the "electric clock" move)
->    - **Dramatize the result** (a story moment)
->    - **Paradox / contradiction:** "how a bald barber saved my hair"; contradict how they think it works
->    - **Remove the limitation:** "…without [the thing they hate]"
->    - **Borrow authority or admired people**
->    - **Question / challenge / "which one has it?"**
->    - **How-to / information promise:** "What every [X] should know about…"
->    - **Name the problem:** give a vague feeling a label
->    - **Warn:** "Don't buy another [X] until…"
->    - **Swap the product for the thing it replaces:** "a [salon treatment] in a bottle"
->    - **Stress new / only / first**
->    - **Talk to who can't buy, or call out exactly who should**
->    - **Make it sound almost too good:** "Is it unfair to [result] this easily?"
->    - **Challenge a limiting belief:** "You're not [X], you're [Y]"
-
----
-
-## ④ Fundamentals — active in EVERY copy
-
-### #1 Argument > words — UPGRADE → rename "Argument + Belief Architecture"
-
-**KEEP** your current text and the pillowcase example.
-**ADD** after it:
-
-> **Belief is built by ORDER, not just content (Gradualization).** Every claim gets its strength from two things: what it says, and **what came before it**. Prepare a claim and it's accepted instantly. Drop it in cold and the same claim reads as hype.
-> - **You can't change a belief, only extend it.** Start with something they already believe, then walk them one acceptable step at a time to the belief they need. Contradict a belief they hold and nothing after it gets believed.
-> - **Build a chain of yeses.** Open with something they'll agree with (a shared frustration, a symptom they recognize), and keep stacking agreements before the big claim.
-> - **Hold back the scary part** (effort, price, "you'll have to…") until they're ready for it.
-> - **One fully believed promise beats ten half-believed ones.** Before you add a claim, strengthen the proof and preparation behind the one you have.
+> **1. The job (BA).** The headline's only job is to get the next line read. It doesn't have to sell or name the product. Only Most Aware + a deal sells in the headline itself. The first 5–10 words decide the ad, all or nothing.
 >
-> **MOVED here from ⑦ — Necessary Beliefs:** before writing, list the max 6 "I believe that…" statements they must accept, **in the order they need to accept them**. Each one should rest on the one before it. That order *is* the outline of the copy.
+> **2. Build it in this order:**
+> - **(a) Entry point** from ③B (what it starts with)
+> - **(b) Claim type** from ③C:
+>   - plain claim (Stage 1)
+>   - enlarged claim (Stage 2)
+>   - mechanism + one-word claim (Stage 3)
+>   - improved mechanism (Stage 4)
+>   - identity (Stage 5)
+> - **(c) Sharpen the wording** (step 4)
+> - **(d) Check the 7 ingredients** (step 5)
+>
+> **3. Believability rules (BA):**
+> - It must be **interesting AND believed at first glance.** Your strongest claim is often not your strongest headline.
+> - If a big-claim hook fails, test one with fewer, more believable claims, then build up to the big claim in the body (④ #1).
+> - **Never lead with the physical product** (specs, materials, factory). Those prove the claim; they aren't the claim.
+> - Lead with ONE desire, ONE performance and ONE summary trait.
+> - **Creative gamble:** leaving the product out of the hook is fine if the hook drags them into the body.
+>
+> **4. Sharpen the wording (BA, Verbalization).** If you're first, the bare claim beats all of these. Otherwise pick by purpose:
+> - **Strengthen it (Stage 2):**
+>   - measure size, amount or speed
+>   - compare
+>   - count the jobs it does ("all 5…")
+>   - before/after
+>   - remove a limit ("…without…")
+>   - borrow authority or admired people
+>   - show how much work it does
+> - **Make it fresh again (Stage 3+ or an over-promised claim):**
+>   - paradox ("how a bald barber saved my hair")
+>   - contradict how they think it works
+>   - metaphor
+>   - swap the product for what it replaces ("a ring-and-piston job in a tube")
+>   - a parallel reality ("the Atlantic becomes one-fifth as long")
+>   - mechanism + claim in one line
+>   - state the difference
+>   - "new / only / first"
+>   - make them sense it (see, feel, hear)
+>   - one extreme example (the "electric clock" move)
+>   - a torture test → "Nothing!"
+>   - how hard it was to make
+>   - split or repeat for emphasis
+> - **Pull them into the body (Unaware, creative gamble):**
+>   - a question
+>   - a challenge ("which one has it?")
+>   - a how-to or "what every X should know"
+>   - offer information
+>   - a customer quote ("Look, Mom—no cavities!": this is a UGC line)
+>   - a named case story ("Aunt Meg, who never married…")
+>   - name the problem
+>   - warn ("Don't buy another X until…")
+>   - call out who it's for, or who can't buy
+>   - "If you can [easy thing], you can [result]"
+>   - "almost too good" ("Is it unfair to…")
+>   - challenge a limiting belief
+>   - question → answer
+>   - dramatize the result as a story moment
+>
+> **5. The 7 ingredients check (house rule, from the PDP doc).** Hit at least 4–5 across the H1/hook and its subhead:
+>
+> | Ingredient | What it means | Fastest way to add it |
+> |---|---|---|
+> | Curiosity | An open loop they need closed | Hide the mechanism, a paradox, "the reason why…" |
+> | Call out the pain | Name the exact problem in their words | Pull the phrase from 1–2★ reviews |
+> | Promise the solution | The end result they get | State the outcome, not the feature |
+> | Specificity | Exact numbers, names, details | "22 nights", "3 straps", not "fast" or "many" |
+> | Simplicity | One idea, plain words | Cut to one desire; read it in one breath |
+> | Credibility | A reason to believe it | Authority, a test, a count, a believable (not maxed) claim |
+> | Timeframe | When they'll see it | "in 7 days", "by Friday", "the first night" |
+>
+> **6. Headline + image (BA).** A headline that seems to contradict its photo forces the read. In a campaign, the core idea can't be the headline every time; rotate the angle and keep the idea.
 
-### #2 The Slippery Slide — UPGRADE
+## ④ Fundamentals
 
-**DELETE:** "First line = a 3–6 word vacuum."
-**REPLACE with:**
+**#1 Argument > words → UPGRADE, rename "Argument + Belief Architecture." KEEP your text + pillowcase example. ADD:**
+> **Belief comes from ORDER (BA, Gradualization).** A claim's power = its content + what prepared it.
+> - Start with something they already believe, and walk them one accepted step at a time.
+> - **You can't change a belief, only extend it.** The one exception: a painful, limiting belief they'd be glad to lose. That needs strong authority, and the new claim straight after.
+> - Build a chain of yeses before the big claim, and hold back the scary part (effort, price) until they're ready.
+> - One fully believed promise beats ten half-believed ones.
+>
+> **Necessary Beliefs (moved from ⑦):** list the max 6 "I believe that…" statements, **in the order they must be accepted.** That order is your outline.
 
-> First line: short and almost incomplete ("It started with my mirror."). Its only job is to get line two read. Length is a guide, not the rule.
-> **Momentum devices:**
-> - **(a) Transition phrases** at every block change: "Here's why." · "Let me explain." · "But that's just the beginning." · "Here's what happened next." · "Just wait until you try this."
-> - **(b) Teasers:** create interest in a point → raise a question about it → promise the answer later. Every teaser must also carry a benefit. No empty cliffhangers.
+**#2 Slippery Slide → DELETE "3–6 word vacuum." REPLACE:**
+> The first line is short and almost incomplete; its only job is line two.
+> **Momentum devices (BA):**
+> - **(a) Transition phrases** at each block change: "Here's why." · "Let me explain." · "But that's just the beginning."
+> - **(b) Teasers:** raise interest → raise a question → promise the answer later. Every teaser must also carry a benefit.
 
-### #3 Clarity Mechanics — KEEP as is.
+**#3 Clarity — KEEP.**
 
-### #4 Speed to Value + Density — UPGRADE (add)
+**#4 Speed to Value — ADD:**
+> **Length (BA):** as long as it takes to build desire, fit their identity, and beat their disbelief. Cut anything that does none of the three.
 
-> **Length rule:** copy should be exactly as long as it takes to (1) build the desire to full strength, (2) make them feel this product fits who they are, (3) beat their disbelief. Cut anything that doesn't do one of those three. Keep anything that does, even if it makes the copy long.
-
-### #5 Rhythm & Cadence — UPGRADE (add)
-
-> Rhythm carries mood. Pick the one the piece needs:
-> - **Flowing, rich** sentences for sensory desire (beauty, comfort, results)
-> - **Machine-gun:** short, verb-led, claim after claim, for momentum and big promise stacks
-> - **Plain, almost clumsy:** for honest, "just the facts" credibility
+**#5 Rhythm — ADD:**
+> Rhythm carries mood:
+> - **flowing** for sensory desire
+> - **machine-gun** (short, verb-led, claim-claim-claim) for momentum
+> - **plain, almost clumsy** for honest credibility
 >
 > Read it aloud.
 
-### #6 Emotional Resonance — UPGRADE
+**#6 Emotion → DELETE "cut anything that triggers a negative reaction." REPLACE:**
+> Negatives are fine when the product resolves them (paint the problem, then the cure).
+> - **Image-sharpeners** make them see it; **emotion-definers** tell them how to feel ("finally", "that very morning").
+> - Definers must stay invisible. If the reader notices them, the copy reads as corny.
 
-**DELETE:** "keep every 'vibration' positive, cut anything that triggers a negative reaction."
-(Reason: Schwartz's "paint the black side, then apply the cure" is one of the strongest moves there is. Negatives are fine when the product resolves them.)
-**REPLACE with:**
+**#7 Human Voice — ADD:**
+> - Sound native to the platform; its trust rubs off (⑤ Camouflage).
+> - Use frank, plain tone-builders ("stopped cold", "like a sponge").
+> - Shift tone per channel, down as well as up.
 
-> Negatives are allowed only as contrast the product then resolves. Never leave them hanging.
-> **Two kinds of emotion words:**
-> - **Image-sharpeners** let them *see* it ("so thick you can't see the floor").
-> - **Emotion-definers** tell them how to *feel* about it ("finally", "that very morning", "you never imagined").
+**#8 Objections — ADD:**
+> The reader asks 3 questions as they read: **"Tell me more" · "Who says so?" · "How does it work?"** Answer each at the moment it rises.
+> Too hard / not important / too pricey → ⑤ Redefinition. Skeptical, burned buyers → ⑤ Skeptic Structure.
+
+**#9 Honesty — ADD:**
+> **Flaw → strength, back to back (BA).** Admit a real flaw, then give the strength straight after; the strength reads like a fair report.
+
+**#10 The Consciousness Method (iceberg) → UPGRADE (KEEP, expanded):**
+> Copy can hit 5 depths. Each one down is harder to reach and sells harder. Reach the deepest depth the surface allows: an ad hook may only touch 1–2; an advertorial or PDP should reach 4–5.
+> *(Example product: posture corrector.)*
 >
-> Definers must stay **invisible**. If the reader notices them, the copy turns corny. Match the tone to how sophisticated this audience is.
-
-### #7 Human Voice — UPGRADE (add)
-
-> **Sound native to the platform.** People trust the feed they're scrolling, not ads. Match its format, phrasing and tone, and your copy borrows that trust (⑤ Camouflage).
-
-### #8 Anticipate & Resolve Objections — UPGRADE (add)
-
-> **The reader asks three questions as they read. Answer each at the moment it comes up:**
-> 1. **"Tell me more"** (more picture, more desire)
-> 2. **"Who says so?"** (proof)
-> 3. **"How does it work?"** (mechanism)
+> | Depth | What it is | What the copy does | Example |
+> |---|---|---|---|
+> | 1. Conscious thought | What they'd say out loud | Say it back in their exact words, so they think "that's me" | "My back's killing me by 3pm." |
+> | 2. Emotion | The feeling under the thought | Name the feeling they don't say | The embarrassment of seeing yourself hunched in a photo |
+> | 3. Belief | What they think is true about the problem and the fixes | Bridge it (④ #1); never fight it | "Bad posture is just how I'm built" → "it's a muscle habit, and habits can be retrained" |
+> | 4. Identity | Who they think they are, or are becoming | Make the product fit or upgrade that self (⑤ Identification) | From "the tired-looking one" to "the one who walks in tall" |
+> | 5. Consciousness | How they experience life: the state they live in | **Lift & Drop** (below) | How it feels to move through a whole day light, open and confident |
 >
-> Answer too early and it's boring. Answer too late and they're gone.
-> **How to kill the 3 big objections ("too hard", "not important enough", "too expensive"): see ⑤ Redefinition.**
-
-### #9 Honesty — UPGRADE (add)
-
-> **Flaw → strength, back to back.** Admit a real flaw, then immediately give the strength. Put side by side, the strength reads like a fair report and gets believed far more.
-
-### #10 The Consciousness Method — DELETE → REPLACE
-
-**Reason:** "5 depths of consciousness" isn't actionable, and neither you nor an AI can apply it reliably. Schwartz's 3 dimensions cover the same ground and tell you what to *do*.
-
-> **#10 The 3 Dimensions (Schwartz).** Every piece must work on all three:
-> 1. **Desire:** make them want it (⑤ Intensification)
-> 2. **Identity:** make them feel it fits who they are, or who they're becoming (⑤ Identification)
-> 3. **Belief:** make them believe it will work for them (④ #1 + ⑤ Gradualization, Redefinition, Mechanization, Concentration)
+> **Lift & Drop (how depth 5 works):**
+> 1. **Lift:** put them inside the better state. Describe what it feels like to *be* there, not the product (the morning without pain, walking into a room tall, being seen differently). Make it vivid enough that they feel it now.
+> 2. **Drop:** gently bring them back to where they actually are today. Same moment, current reality: the stiffness, the slouch in the reflection.
+> 3. **Bridge:** the gap between the two is what they now want closed. Present the product as the way back up. They don't buy the strap; they buy getting that feeling back.
 >
-> Desire without belief = "sounds great, probably fake". Belief without desire = "true, don't care". You need both for conviction, and conviction is what makes them buy.
+> **Rules:**
+> - The lift must use their own dream, from research.
+> - The drop must be true and recognisable, never cruel.
+> - Always end on the way back up (hope sells, ④ #6).
 
-### #11 Interweaving — ADD
+**#11 Interweaving — ADD:**
+> Every sentence carries as much **promise + picture + logic + emotion** as it can (BA). A bare fact is dead copy.
 
-> Every sentence carries as many of these as it can: **promise + picture + logic + emotion**. Even proof sentences sell. A fact on its own is dead copy.
+**#12 Proof placement — ADD:**
+> - **Proof lands best the moment they'd ask "who says so?"** The same stat is dull too early and gripping right after you've made them want the answer.
+> - Stage it as the hero that removes what stands between them and the result. Keep it short, specific and dramatic.
+> - Weave it in after the claim it backs. At a high point, top it with authority instead of rushing to the close.
+> - Secondary proof and negatives go outside the main flow: FAQ, accordions, the reviews tab.
 
-### #12 Proof placement — ADD
-
-> **Proof works best at the exact moment the reader demands it.** The same stat is dull too early and gripping right after you've made them want the answer. Make the proof the hero: it's the thing standing between them and what they want. Keep it short, specific and dramatic.
-> Don't dump proof in one "reviews" block. Weave it in after the claims it backs. Stack one proof right after another at the high point: 1 + 1 = 10.
-
----
-
-## ⑤ Techniques — pick per goal
-
-### Existing plays
-
-- **Belief Change — UPGRADE → rename "Belief Bridge":**
-  > You don't change beliefs; you extend them. Find the belief blocking the buy and the nearest belief they *already* hold, then build steps from one to the other. To loosen a false belief ("I know you think X; here's why that's not true"), you need strong authority, and you should give the new positive claim straight after. Depth = skepticism × price.
-- **Curiosity & Contrast — KEEP.**
-- **Involvement / Ownership — MOVE** into Intensification below. It's 3 of Schwartz's 13 ways.
-- **Linking — KEEP.**
-- **Fear / loss aversion — KEEP.**
-- **Human element — KEEP.**
-- **That's-why evidence — KEEP.** (Same idea as Schwartz's "inclusion question": they prove it to themselves.)
-- **The silent problem — KEEP.**
-- **Let them reach the conclusion / Facts over opinions / Communicates > says — KEEP.** (All three are Schwartz's "understatement".)
-- **Sell the cure — UPGRADE (add):**
-  > **Exception:** prevention *does* sell when the risk falls on someone they love (kids, partner, parents, pets). People won't picture disaster happening to themselves, but they will picture it happening to them.
-
-### New plays — ADD
-
-**Intensification: build desire (13 ways)** · *Good for →* PDPs, advertorials, UGC scripts, any body copy.
-
-> One dominant desire, shown from a **new angle each time**. You can't repeat, but you can reinforce. The more vivid scenes of fulfilment, the less the price matters. Pick the angles that fit:
-> 1. **Full, specific description** of the product or the result (numbers, colours, sizes)
-> 2. **Product in action:** exactly how it does it, step by step
-> 3. **Put them in it:** "the first day you own it…" *(absorbs Involvement/Ownership)*
-> 4. **Give them a test to run themselves:** exact steps + the exact result they'll see
-> 5. **Stretch it over time:** week 1 → week 3 → month 2
-> 6. **Other people's eyes:** friends' reactions, case histories, testimonials
-> 7. **Experts amazed:** the skeptic or professional surprised
-> 8. **Side-by-side with the old way:** "While they're paying X for Y, you…"
-> 9. **Paint the black side, then the cure:** make the current problem vivid, then relieve it
-> 10. **How easy it is:** tiny effort vs big result ("30 seconds, 8 improvements")
-> 11. **Metaphor/analogy:** "like having a dermatologist at your elbow"
-> 12. **Catalog close:** the body is a rifle (one desire, deep). The catalog is a last shotgun (every use, one line each)
-> 13. **Guarantee as climax:** restate each key result as "…or your money back"
+**#13 The 3 Dimensions — ADD (BA):**
+> Every piece works on all three:
+> - **Desire:** they want it (⑤ Intensification)
+> - **Identity:** it fits who they are (⑤ Identification)
+> - **Belief:** it will work for them
 >
-> **Stop rule:** add an angle only if it's genuinely new. When it starts to feel like repetition, cut it.
+> Belief must prove 4 things: **it gives what they want · it works · people like them rely on it · nothing else does it as well.**
+> Desire without belief = "sounds fake". Belief without desire = "don't care".
 
-**Identification: build the role** · *Good for →* Stage 5 markets, Unaware, look-alike products, brand.
+## ⑤ Techniques
 
-> Every product should give two reasons to buy: the result, **and what owning it says about them**. When products are similar and price isn't the issue, the role decides the sale.
-> - **Character roles** (adjectives: disciplined, put-together, clean-living). People accept these far more easily than claims, especially when they're shown rather than said (visuals, setting, props).
-> - **Achievement roles** (titles: "the friend with great skin", "the guy who has it handled"). These are invisible, so they need a product to display them.
-> - **Start from the primary image** (③A). If it's good, intensify it. If it's neutral or negative, don't fight it: keep it, tone it down, and use it as a bridge to better images.
-> - **Believability check:** can they see their life *or their next step up* in this image? If not, insert a bridge image they instantly accept first. A role they can't reach kills the claims too.
+**UPGRADE**
+- **Belief Change → rename "Belief Bridge":**
+  > You extend beliefs; you don't change them. Start from the nearest belief they already hold and build steps to the one you need. You may only contradict a painful, limiting belief, with authority, and with the positive claim right after.
+  > DELETE the "Depth = skepticism × price" line (it isn't from the book), or keep it labelled (house rule). **Your call.**
+- **Sell the cure — ADD:**
+  > The exception: prevention sells when the risk falls on someone they love (kids, partner, pets) (BA).
 
-**Gradualization devices: belief by structure** · *Good for →* advertorials, long PDPs, skeptical markets.
+**MOVE**
+- **Involvement / Ownership** → into Intensification (#3–4).
 
-> - **Inclusion question:** a question nearly all your buyers answer yes to ("Do you wake up with a stiff neck?")
-> - **Symptom list:** describe their exact situation in detail, so they feel you know it. It has to come from research, or it rings false.
-> - **Contradict a false belief** (with authority), then give the positive claim straight after
-> - **Logic words:** "Here's why." · "That's because…" · "So what happened?" · "Which means…" · "In test after test…". These words carry conviction by themselves.
-> - **Cause → effect chain:** each step makes the next one inevitable ("more X → more Y → more Z")
-> - **If/then:** "If you have [condition], then…" Limiting the claim makes it more believable.
-> - **Echoing:** repeat the authority phrase across blocks ("Dermatologists found… They also found…")
-> - **Promise → proof → promise:** never give them space to doubt
-> - **Parallel structure:** a new claim written in the same form as one they already accepted borrows its acceptance
+**KEEP:** Curiosity & Contrast · Linking · Fear · Human element · That's-why · Silent problem · Let them conclude · Facts over opinions · Communicates > says · Named plays library. Add one line to the Urgency play: "every price cut needs a stated reason (Mechanization)."
 
-**Redefinition: remove the 3 big objections** · *Good for →* any product with a drawback.
+**ADD 9 plays**
 
-> - **Concept-judo (first choice):** turn the drawback into the proof. "Smells strong" → "that's how you know it's working."
-> - **Too hard → Simplify:** never lead with the hard word. Name their fear as a promise ("You don't need to be techy"). Rename the hard thing with easy words ("adjustments", not "repairs"). Shrink it into a small, countable list ("just 3 steps"). Compare it to something familiar.
-> - **Not important enough → Escalate:**
->   - Move the benefit to a bigger desire (from "nice skin" to "confidence on camera")
->   - Show that something they care about depends on it ("you spend $200 on skincare, and this $5 pillowcase undoes it nightly")
->   - Show it matters every day, not once in a while
-> - **Too expensive → Re-anchor:** never "worth every penny". Compare to a pricier standard (salon visit, dermatologist, the premium brand), show it pays for itself, and make the price feel like a favour ("you can have it for…").
+> **Intensification: build desire.** *Good for →* all body copy.
+> - Short formats: compress into a few key words and let the campaign carry the rest.
+> - Long formats: show the ONE desire from a new angle each time. You can't repeat, but you can reinforce.
+> - The 13 angles:
+>   1. Full, specific description
+>   2. The product in action, step by step
+>   3. Put them in it, the first day they own it
+>   4. A test they run themselves (exact steps, exact result)
+>   5. Stretch it over time (week 1 → month 2)
+>   6. Other people's reactions and case stories
+>   7. Experts amazed
+>   8. Side by side with the old way
+>   9. The black side, then the cure (as a story, by mocking the old product, or item-by-item parallel)
+>   10. Ease at every touchpoint (price, use, upkeep, durability, unboxing)
+>   11. Metaphor
+>   12. Catalog close: horizontal = more uses and more buyers; vertical = desire piled on desire
+>   13. Guarantee as the climax ("…or your money back" for each result)
+> - **Stop rule:** cut an angle when it repeats yours *or a competitor's* phrasing.
 
-**Mechanization: how much "how it works" to give** · *Good for →* every surface; set the amount by awareness.
+> **Identification: build the role.** *Good for →* supports every ad; leads in Stage 5, Unaware and look-alike products.
+> - Two reasons to buy: the result, and what owning it says about them. The product is either the **tool to reach** the role or the **proof they've reached it**.
+> - **Research which roles this market accepts and which it rejects.**
+> - **Character roles** (adjectives) are accepted most easily when shown, not said. **Achievement roles** (titles) need a product to display them.
+> - Start from the primary image: intensify it if good; if neutral or bad, keep it, tone it down, and bridge to better images.
+> - **Creative brief method:** keep the real usage scene, but glamorize every element "to the brink" (setting, person, props). Use props that carry several roles at once.
+> - Borrow cues from the product's background (clinical, pro-grade, lab) for the package and visuals.
+> - **Check:** can they see their life, *or their next step up*, in it? If not, open with a bridge image they instantly accept.
 
-> - **They already know how this type works → Name it** in a few words, then compete on offer and features.
-> - **They don't understand it → Describe it** after the promise, at the moment they start asking "how?". Mechanism copy must **sell**: emotional, vivid, never a lecture.
-> - **Saturated market → Feature it in the headline** (③C Stage 3).
-> - **Every deal needs a reason why.** An unexplained discount isn't believed. Give the cause: overstock, launch pricing, supplier deal, a real price rise coming.
+> **Gradualization devices: belief by structure.** *Good for →* advertorials, long PDPs.
+> - Inclusion question (nearly all buyers say yes)
+> - A detailed symptom list from research
+> - Logic words ("Here's why", "That's because", "So what happened?")
+> - A cause → effect chain
+> - "If… then…"
+> - Echo the authority phrase
+> - Promise → proof → promise
+> - Parallel structure (borrows acceptance)
+> - **Put their symptoms inside the promise** ("avoid those $15 repair bills")
+> - Keep the first promise's "how" vague until they're ready
+> - Later, restate the opening promise word for word and prove it
+> - Slip a new claim in as a continuation ("And, most important, [authority] found…")
 
-**Concentration: beat the alternatives** · *Good for →* stealing customers from a leader, saturated categories, comparison pages and ads.
+> **Redefinition: kill the 3 big objections.**
+> - **Concept-judo first:** the flaw becomes the proof.
+> - **Too hard → simplify:**
+>   - never lead with the hard word
+>   - state the fear as a promise ("you don't need to be techy")
+>   - rename it in easy words
+>   - shrink it into a small, countable list
+>   - isolate the truly hard part as rare ("the 5%")
+>   - compare it to something familiar
+>   - shouting "EASY" fails, so show the simplicity working (Mechanization)
+>   - for a revolutionary product, redefine the whole field first
+> - **Not important → escalate:**
+>   - move the benefit to a bigger desire
+>   - show that something they care about depends on it
+>   - show it matters every day
+> - **Too pricey → re-anchor:**
+>   - never say "worth every penny"
+>   - say what it "would have to sell for", and repeat that anchor per unit and per set
+>   - say it pays for itself
+>   - give the price per use
+>   - attach a small condition
+>   - "you can have it" (not "buy")
 
-> - Use it when most buyers already use something else. Skip it when you lead the category.
-> - **Never attack a weakness unless you fix it in the same breath.** Present the attack as being for *their* good.
-> - **Structure A, point by point:** their weakness → your fix, repeated. Use parallel sentences and contrasting words ("thin, flimsy" vs "dense, solid"). Back each point with a "because".
-> - **Structure B, their story:** "Here's what happens with what you use now…" (their own lived experience, step by step, so they nod at every line) → the failure → "So you tried another…" → the new way.
-> - In a headline it can be a single line: "[Result] without [the alternative's pain]."
+> **Mechanization: how much "how it works".**
+> - **They know how this type works → name it**, then compete on the offer.
+> - **They don't, or everyone shares the same mechanism → describe it,** at the moment the promise starts to sound too good to be true. Make it vivid and emotional, never a lecture.
+> - **Saturated market → put it in the headline;** the more mature the market, the deeper it goes (a named ingredient or process).
+> - **Every deal needs a cause** (overstock, launch, supplier deal, a real price rise). Lead with the cause story, bring in the bargain later, and keep selling quality.
 
-**Camouflage: borrow the platform's trust** · *Good for →* advertorials, native ads, UGC, email.
+> **Concentration: beat the alternatives.** Use it when most buyers already use something else; skip it when you lead.
+> - **Never attack a weakness without fixing it in the same breath**, and frame the attack as being for *their* good.
+> - **(A) Point by point:** their weakness → your fix, in parallel sentences, with weak words vs strong words and a "because" for each.
+> - **(B) Their story:**
+>   - give the old way a damning label ("passive")
+>   - walk through their lived experience step by step
+>   - "So what happened?"
+>   - put the accusation in a line they can't disagree with
+>   - foreshadow the hero in the accusation
+>   - "So you tried another…"
+>   - the new way
+> - One-line version: "[Result] without [the alternative's pain]."
 
-> - **Format:** look like the content around it. Advertorial = real article layout. UGC = real creator style. Email = a personal note.
-> - **Phrasing:** use the language that medium uses to tell the truth (news style, review style, creator talk).
-> - **Understatement:** fewer adjectives than they expect, short sentences that land softly, make the point and stop.
-> - **Deadly sincerity:** say who it's NOT for, admit its flaws, and the benefits get believed.
+> **Camouflage: borrow trust.**
+> - Match the platform's format down to small details (headline style, subheads, image style); format alone can add ~50%.
+> - Use the phrasing that medium tells the truth in.
+> - **Understatement:** few adjectives, soft endings, make the point and stop.
+> - **Deadly sincerity:** say who it's NOT for and admit flaws.
+> - Platform style only: never fake a real outlet, byline or doctor.
 
-**Reinforcement: 1 + 1 = 10** · *Good for →* taglines, hooks, any claim that feels weak.
+> **Skeptic Structure (BA, for burned buyers).** Don't pile up claims.
+> 1. Agree with their skepticism.
+> 2. Hand the story to a real authority for a long stretch (it can even sit above the headline).
+> 3. Then go back to the promise.
 
-> Pair a claim with its reason or its contrast, and the combination hits far harder than either alone ("We're #2, so we try harder"). Hunt for these pairings.
+> **Reinforcement: 1 + 1 = 10.** Pair a claim with its reason or its contrast ("We're #2, so we try harder"). Hunt for these pairings through the whole body and build each claim on the last. *(The flaw → strength pair from ④ #9 is the main example.)*
 
-**Campaign play: one angle, many creatives** · *Good for →* creative testing, scaling, fatigue.
+> **Campaign play: one idea, many creatives.** As frequency rises, the core idea leaves the headline. Patterns:
+> - **(a) Rule & Example:** same line, new visual each time
+> - **(b) Fixed message, new opening hook**
+> - **(c) One new product fact per creative**
+> - **(d) Focal point only:** no repeated line; one trait carried by every visual element
 
-> Lock one central idea, then restate it in fresh disguises:
-> - (a) the same line over changing visuals
-> - (b) a fixed message with a different opening hook each time
-> - (c) one new product fact per creative, with the theme never stated
+## ⑥ Chiefing — UNTICK the first box. ADD:
+
+> - [ ] Headline entry point matches awareness; claim type matches sophistication
+> - [ ] Headline is believable at first glance; 4–5 of the 7 ingredients
+> - [ ] The physical product isn't the hook
+> - [ ] Big claims come after their preparation
+> - [ ] Proof sits where "who says so?" would come up
+> - [ ] Belief proves the 4: it gives what they want · it works · people like them use it · nothing else does it as well
+> - [ ] Reached the deepest iceberg depth this surface allows
+> - [ ] **Swap test:** a competitor's name fits it → not specific enough
+> - [ ] No competitor phrasing reused
+> - [ ] Emotion words invisible; rhythm fits the mood (read aloud)
+> - [ ] Native to the platform
 >
-> Keep the core recognizable while making each one feel new.
-
-### Named plays library — KEEP. UPGRADE one line:
-
-> **Sense of urgency:** add "…and every price cut needs a stated reason (see Mechanization)."
-
----
-
-## ⑥ Chiefing — UPGRADE
-
-**DELETE:** the tick on the first checkbox (it's pre-checked by accident).
-**ADD these checks:**
-
-> - [ ] Headline matches the awareness level: starts with offer / superiority / desire / need / identity
-> - [ ] Headline is believable at first glance (not just exciting)
-> - [ ] Each big claim comes AFTER the material that prepares it
-> - [ ] Proof shows up exactly where the reader would ask "who says so?"
-> - [ ] Amount of "how it works" fits how well they know the mechanism
-> - [ ] Desire, identity AND belief are all worked on (④ #10)
-> - [ ] **Swap test:** put a competitor's name on it. If nothing breaks, it isn't specific enough
-> - [ ] Emotion words are invisible; read aloud, the rhythm fits the mood
-> - [ ] Looks and sounds native to the platform it runs on
->
-> **If the copy feels dead while writing** ("just writing words"), you've gone straight where the reader wanted to turn: you're promising when they need proof, or proving when they want the promise again. Switch block type. Still stuck? Throw out the hook and outline and restart from the opposite angle. A new structure is a new ad.
-
----
+> **Copy feels dead?** You've gone straight where they wanted to turn: promising when they need proof, proving when they want the promise again. Switch block type. If the body keeps producing a line better than the hook, make it the hook. Still stuck: restart from the opposite angle. A new structure is a new ad.
 
 ## ⑦ New plays
-
-- **Necessary Beliefs — MOVE** into ④ #1 (now with ordering).
-- **Specificity Rule — KEEP.**
-- **Power Words — UPGRADE (add):** "Use them so they don't stand out. If the reader notices the power word, it reads as hype."
-- **One Format = One Line — KEEP.**
-- **The Number Is the Hook — KEEP.**
+- **Necessary Beliefs — MOVE** to ④ #1.
+- **Power Words — ADD:** "If the reader notices the power word, it reads as hype."
+- Everything else **KEEP.**
