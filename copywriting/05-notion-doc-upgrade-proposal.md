@@ -14,7 +14,6 @@ Built from 3 full reads of *Breakthrough Advertising* plus your PDP doc's 7 head
 
 | Where | Change |
 |---|---|
-| ① | ADD competitor-ad sweep |
 | ② | ADD 2 rules · UPGRADE order of work |
 | ③A | ADD "inputs from research" box |
 | ③B Awareness | UPGRADE: full table + 8 Unaware patterns + when to switch |
@@ -33,9 +32,7 @@ Built from 3 full reads of *Breakthrough Advertising* plus your PDP doc's 7 head
 
 ---
 
-## ① Skills — ADD
-
-> - **Competitor-ad sweep:** before writing, pull every live competitor ad for this product type (hooks AND body copy). You need it to judge sophistication (③C) and to avoid phrasing they've already burned.
+## ① Skills — KEEP as is.
 
 ## ② Fundamentals vs Techniques — ADD + UPGRADE
 
@@ -79,7 +76,7 @@ Built from 3 full reads of *Breakthrough Advertising* plus your PDP doc's 7 head
 
 ## ③C Sophistication — REPLACE with the book's version
 
-> **Diagnose it from the competitor sweep:**
+> **Diagnose it from your research (what competitors' pages and ads already say):**
 > - Plain claims = Stage 1–2
 > - Big numbers and outbidding = late Stage 2
 > - "How it works" up front = Stage 3–4
@@ -303,7 +300,7 @@ Built from 3 full reads of *Breakthrough Advertising* plus your PDP doc's 7 head
 >   11. Metaphor
 >   12. Catalog close: horizontal = more uses and more buyers; vertical = desire piled on desire
 >   13. Guarantee as the climax ("…or your money back" for each result)
-> - **Stop rule:** cut an angle when it repeats yours *or a competitor's* phrasing.
+> - **Stop rule:** cut an angle when it repeats your own phrasing *or phrasing the market has already seen everywhere*.
 
 > **Identification: build the role.** *Good for →* supports every ad; leads in Stage 5, Unaware and look-alike products.
 > - Two reasons to buy: the result, and what owning it says about them. The product is either the **tool to reach** the role or the **proof they've reached it**.
@@ -400,7 +397,7 @@ Built from 3 full reads of *Breakthrough Advertising* plus your PDP doc's 7 head
 > - [ ] Belief proves the 4: it gives what they want · it works · people like them use it · nothing else does it as well
 > - [ ] Reached the deepest iceberg depth this surface allows
 > - [ ] **Swap test:** a competitor's name fits it → not specific enough
-> - [ ] No competitor phrasing reused
+> - [ ] No stock phrasing the market has already seen everywhere
 > - [ ] Emotion words invisible; rhythm fits the mood (read aloud)
 > - [ ] Native to the platform
 >
