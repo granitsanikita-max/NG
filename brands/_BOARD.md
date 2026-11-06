@@ -15,4 +15,6 @@ ad-creation → live → scaling
 | mens-compression-tank | live (day-1 test) + copy/store pending | LIVE / TESTING | **RUN 2 APPLIED (2026-11-04)** — brain = Run 2; BRAND (G3 lead, locked line), OFFER Launch 2 ($39.95 / 2+1 $79.90 / 3+2 $119.85, SKU CJDS299280217QJ), FUNNEL (Discovery Stack) all set. NEXT: COPY.md from FUNNEL.md. Blocked: sample, CJ combined-parcel quote. ⚠️ SCRIPTS/live ads on old SKU. | 2026-11-04 | daily-tasks |
 | menopause-serum | product-research | PARKED | #2 / fallback (own-a-position) — harder & pricier sourcing; parked behind ProudFold. | 2026-10-19 | product-research |
 
+| caregiver-bed-kit | deep-research | IN PROGRESS | Step 1 Deep Research running (Notion product page + 4 docs + §2C bank). Blocked for economics: CJ 86×132 handles-pad price, chair pad price, combined US shipping (Nikita). | 2026-11-06 | product-research |
+
 <!-- Add new brands below. -->
