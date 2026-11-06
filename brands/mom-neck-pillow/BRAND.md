@@ -1,14 +1,15 @@
-# BRAND — Mom Neck Pillow
+# BRAND — RecoverMama
 
 > Identity file. Filled when the brand is created; read by every station.
 
-- **Slug:** mom-neck-pillow
+- **Brand name:** **RecoverMama** — LOCKED (Nikita, 2026-11-06). Carries the positioning in the name: recover *her*, the mother — extends past the pillow to any new-mom recovery/self-care product.
+- **Slug:** mom-neck-pillow (repo folder kept as-is; the brand name is RecoverMama)
 - **Product (one line):** A contour / butterfly-shaped slow-rebound memory-foam cervical neck pillow — cradles the neck and shoulders, with a side-sleeper arm cutout and height-zoning.
 - **Niche / category:** Sleep / cervical-support pillow, positioned into postpartum / new-mom recovery.
 - **Target customer:** The new / postpartum US mom, ≈25–40, baby 0–18 months, with "mom neck" / "nursing neck" — the neck, upper-back and shoulder ache + "nursing hunch" from feeding, holding, rocking and looking down at the baby all day (plus phone-scrolling while nursing). She's been told it's "just part of it," is sleep-deprived, and wants something that works while she sleeps, not another chore.
 - **Positioning (one line):** The mom-FIRST pillow that owns her **nighttime recovery** — "undo the day's mom-neck while the baby sleeps" — vs. generic cervical pillows (sold to a faceless sleeper) and Neurogena's daytime massage roller.
-- **Brand name candidates:** TBD — naming happens in offer-design / store-build. See `brain/04-brand-offer-funnel.md` for direction. (Working slug "mom-neck-pillow" is the product name, not a final brand name.)
-- **Domain:** none yet.
+- **Brand name candidates:** LOCKED → **RecoverMama**. (Runners-up from the naming round, if ever needed: SoftDefiance, MotherMend, Matrelle, Past3am.)
+- **Domain:** **recovermama.com** — LOCKED, Nikita acquiring (2026-11-06).
 - **Created:** 2026-11-06
 
 ## Notes

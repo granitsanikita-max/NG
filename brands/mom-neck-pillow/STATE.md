@@ -9,4 +9,5 @@
 - **Last touched:** 2026-11-06 by deep-research
 
 ## Log (newest first)
+- 2026-11-06 · deep-research · **Brand name LOCKED: RecoverMama — domain recovermama.com** (Nikita acquiring). Name carries the position (recover the mother) and extends beyond the pillow to future new-mom recovery products.
 - 2026-11-06 · deep-research · Step 1 Deep Market Research committed to brain/ (4 docs + 605-snippet §2C data bank). Coverage 277/284 lines, 0 todo. Wedge = CONDITIONAL PASS (Dosaze already tests the nursing-neck pillow angle; mom-FIRST brand/PDP/nighttime-recovery identity still unbuilt). Economics deferred to Step 2 per Nikita. Same docs mirrored as Google Docs in Drive.
