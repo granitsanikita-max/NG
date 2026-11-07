@@ -12,6 +12,8 @@
 - **Stats grid: 4 tile IMAGES with text baked in** (copy in COPY.md S7): Up to 60 lb · 3 to 6 hours · 60 nights · 5 years. Plus wide tile background photo (replace GemLab man; 64% text stays editable).
 - Mechanism section: head-load chart image + chart title "How much your neck carries as your head tips down" (data in COPY.md S6).
 - Accordion: replace shower photo (mom side sleeping, arm in cutout).
+- Timeline: replace GemLab "Magic Foam" image; its baked-in icon strip becomes: Holds its shape · Room for your arm · Washable cover (COPY.md S9).
+- Mid-page banner: brown fabric background image (Nikita deleting it so plum gradient shows; replace only if we want a plum/lilac photo).
 
 ## Log (newest first)
 - 2026-11-07 · store-build · **Brand colours applied to the GemPages PDP (all 16 sections, colours only, no copy).** Light single-hue lilac gradients alternate Dusk `#F3ECF4→#E6DAE9→#D3C1D8` / Dawn (reverse); top bar, banner card, footer = light plum gradient `#7A6290→#9A82AB` with white text; every CTA Rosehip `#B8476A` white text; headings `#2E2340`, body `#2B2230`; comparison "ours" column + verified badges = plum `#6E5683`; review cards Milk. Restore point versionId 645081624827920917. Page is NEED_PUBLISHING — live page unchanged until republished.
