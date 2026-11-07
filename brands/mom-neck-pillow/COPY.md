@@ -611,7 +611,7 @@ Subline:
 > New memory foam can have a light smell for the first day or two. Take the cover off, leave it near an open window, and it fades quickly.
 
 **6. Can I wash it?**
-> The cover comes off and goes in the washing machine on a cold, gentle cycle. Hang it to dry. The foam inside doesn't go in the washer, so spot clean it with a damp cloth when you need to.
+> The cover unzips and goes in the washing machine on a cold, gentle cycle. Hang it to dry. The foam inside doesn't go in the washer, so spot clean it with a damp cloth when you need to.
 
 **7. Can I use it while I'm breastfeeding?**
 > Yes. It's just a pillow. There's nothing to take and nothing that goes near the baby.
