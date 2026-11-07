@@ -753,7 +753,7 @@ Every section checked against the PDP fundamentals (F1 to F14), the chosen techn
 | S9 Timeline step 3 | Ended on the pillow disappearing, not on her | Identity desire | Added "Your mornings start to feel like yours again." |
 | S10 Guarantee | Headline was the policy name, not the payoff | Zone 6 guarantee voiced to her fear | Headline "Wake up less stiff, or it's free"; the policy name becomes the subhead |
 | S12 FAQ 1 and 3 | "Most people / most moms" claims we can't back yet | F9 | Reworded to "It can take a night or two" and "You can switch between the two" |
-| S14 Founder | Tied to Nikita's mum and a son | Nikita's instruction | General mum founder, first baby, no family details; ends on "So I started RecoverMama"; promise paragraph adds the identity outcome |
+| S14 Founder | Tied to Nikita's mom and a son | Nikita's instruction | General mom founder, first baby, no family details; ends on "So I started RecoverMama"; promise paragraph adds the identity outcome |
 
 **Checked and passed with no change:** S7 stats (all real, footnoted) · S8 banner (real scarcity: first 500) · S11 reviews (six different situations, one 4 star with a real con, no store words) · S13 cross sell (each tile tied to a moment in her night) · S15 close (lands on permission: "Keep the night for you") · S16 footer (honest, "Not a medical device").
 
