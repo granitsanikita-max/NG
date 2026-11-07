@@ -656,8 +656,8 @@ Tab (one only):
 **Night Shift Warm Wrap**
 > Warm it in the microwave and drape it over your shoulders while you feed or wind down. Cozy, heavy and warm. [add heating time once confirmed]
 
-**Nap Time Neck Rest**
-> Lie back on it for ten quiet minutes while the baby naps. A small break that's just for you.
+**Night Shift Neck Cradle**
+> Lie back on it for ten quiet minutes at the end of a long day. A small break that's just for you.
 
 ---
 

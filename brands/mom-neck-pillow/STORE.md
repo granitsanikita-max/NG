@@ -164,9 +164,9 @@ Plus one variant image per case colour (only colours the factory makes).
 3. How to use: 3 steps "Warm it in the microwave for [X] seconds · Shake it out · Drape it over your shoulders" + "Check the heat before use". BLOCKED on heating time.
 4. Detail + size: plush close up + dimensions. BLOCKED on CJ dimensions.
 
-## Nap Time Neck Rest (Pink only)
+## Night Shift Neck Cradle (Pink only) · renamed from Nap Time Neck Rest 2026-11-07, no nap framing
 1. Hero: pink neck rest, 3/4 angle.
-2. In use: same AI mom lying back on the bed, neck resting in the curve, eyes closed, calm. Nap time feel.
+2. In use: same AI mom lying back on the bed, neck resting in the curve, eyes closed, calm. Evening wind down feel (hero + in use need regenerating: old name baked in, baby monitor nap shot).
 3. How to use: "Lie back · Rest your neck in the curve · Ten quiet minutes for you".
 4. Detail + size.
 Comfort only: no "stretch your spine", "cervical", "traction" or posture claims. All current CJ images (blue, purple, teal, spine diagrams) come off the listing.
