@@ -23,22 +23,23 @@ Sources: Notion "Reference: Store Images (Hero Carousel Formats)" + Carousel Ima
 - **Format:** 1:1 square, 2048 px, phone first. Headline max 6 words, big enough to read on a phone. Palette: lilac gradient backgrounds, plum `#2E2340` text, Rosehip `#B8476A` accent. Motion slides = short muted looping **MP4** product media (not GIF: GIFs are huge and slow on mobile).
 - All on-image copy follows COPY.md rules: no dashes, no "firm", no medical words.
 
-## HERO CAROUSEL · 10 slides
-| # | Type (library) | What it shows | On-image text | Objection it kills | Media |
-|---|---|---|---|---|---|
-| 1 | Product + spec labels | Light Gray pillow, 3/4 angle, lilac gradient studio | **The Night Shift Pillow** · chips: Memory foam · Arm cutouts · 2 heights · Washable cover | What is it | Still |
-| 2 | Infographic value prop / lifestyle | Mom asleep on her side, arm resting in the cutout, warm 3am lamp glow, baby monitor glow | **Wake up without the stiff, sore neck.** · badge: 60 nights to try it | Is it for me / dream outcome (matches ads) | Still |
-| 3 | Problem / pain + real stat | Mom hunched over feeding at night, head tipped down | **Feed. Hold. Rock. Look down. All day.** · "Up to 60 lb on your neck when you look down." · footnote: Hansraj 2014 | It's just normal / why it hurts | Still |
-| 4 | Mechanism (split) | Side view: flat pillow, head drops and neck bends vs Night Shift, neck held | **Most pillows are flat by 2am.** / This one holds your neck all night. | Will it work / why this, not my pillow | **MP4 (animated diagram)** |
-| 5 | Benefit callouts | Top-down product, 4 thin callout lines | **Made for how you sleep now.** · Lower middle for your back · Higher sides for your side · Cutouts for arm and shoulder · Curve under your neck | Fit / how it works | Still |
-| 6 | On-body close-up | Side sleeper, arm slid into the cutout, shoulder relaxed | **Somewhere for your arm to go.** · No more dead arm. | Side-sleeping numb arm | Still |
-| 7 | Detail / demo | Hand presses into the foam, foam slowly springs back | **Holds its shape until morning.** · 5 year warranty: if it goes flat, we replace it. | Goes flat like the others | **MP4 (real supplier footage)** |
-| 8 | Comparison | Mini table: Night Shift vs Regular pillow vs Massage. 4 rows: Holds your neck all night · Room for your arm · Still helping at 3am · $79 once vs $60+ a visit | **Most fixes wear off. This one works all night.** | Why not massage / my pillow / money | Still |
-| 9 | How to use | 4 steps with photos: Unroll · Let it rise 24 to 72 hrs · Sleep · Cover unzips and washes | **Easy from night one.** · tip chip: light new foam smell fades in a day | Hassle, vacuum rolled surprise, smell, spit up | **MP4 option: unroll and rise timelapse (real footage)** |
-| 10 | Guarantee + size & colours | 60 night seal, 3 colour swatches (Light Gray · Dark Gray · Navy), size line | **Wake up less stiff, or it's free.** · Refund and keep it · Free tracked shipping · 5 year warranty · 60 x 41 cm | Risk, which colour, will it fit my bed | Still |
+## HERO CAROUSEL · v2 (Nikita's structure + competitor teardown, 2026-11-07)
+Teardown of Mellow, Dosaze, Restora, Derila, Groove, Nuzzle, Elviros (raw files in session scratchpad). Best slides seen: Dosaze #9 alignment GIF (same person, flat pillow vs theirs), Groove #3 before/after 2x2, Mellow #4 height chooser, Groove #6+#7 guarantee then sceptic review, Elviros #7 two heights. Gaps nobody fills: a "future you" outcome scene, real data, an objection list slide, the arm cutout shown in real use.
 
-Order logic: what it is (1) → the dream (2) → the pain (3) → why it works (4) → the design (5, 6) → won't go flat (7) → vs alternatives (8) → easy (9) → no risk (10).
-Social proof: none in the carousel until real reviews exist; then add a small "★ 4.x · [n] moms" badge on slide 2, never a fake count.
+| # | Job (Nikita's list) | What it shows | On-image text | Media |
+|---|---|---|---|---|
+| 1 | Hero | Product big + mom asleep on it in the same frame (Elviros composite), lilac gradient | **The Night Shift Pillow** · badge: 60 nights to try it | Still |
+| 2 | Before & after | Same mom, same angle. Left: flat pillow, head drops, neck bends (red line). Right: Night Shift, neck held, arm in cutout (lilac line) | **Your pillow vs the Night Shift** · "Your neck bends all night" / "Your neck stays supported" | **MP4 alternating, Dosaze #9 style** |
+| 3 | Main objection ("I've tried everything") | 3 rows with icons: Stretches 10 min · Massage about an hour · Night Shift every hour you sleep | **Tried everything? This is why it wore off.** | Still |
+| 4 | Logical evidence | Head tilt diagram 0° 15° 30° 45° 60° with lb, source line | **Looking down at your baby = up to 60 lb on your neck.** · Hansraj 2014 | Still |
+| 5 | How it works (zone map) | Top down product, 4 callouts | **Made for how you sleep now.** · Lower middle for your back · Higher sides for your side · Cutouts for arm and shoulder · Curve under your neck | Still |
+| 6 | Height chooser (Mellow #4) | Two photos: back sleeper on lower middle, side sleeper on higher side, heights in cm/in | **Which side is yours?** | Still · needs real heights |
+| 7 | Objection list | 5 "Worried it'll…" rows, each answered | Go flat? 5 year warranty · Feel different? Give it two nights · Smell? Fades in a day · Spit up? Cover unzips and washes · Not work? 60 nights, refund, keep it | Still |
+| 8 | Take them to the future | 6am, morning light, mom lifting the baby, neck relaxed, smiling | **Your 6am feed, without the stiff neck.** | Still |
+| 9 | Testimonials | LAUNCH: real supplier footage, press and rebound + unzipping the cover. AFTER SEEDING: rotating review card MP4 of real reviews (Dosaze #4 style), headline answers scepticism | Launch: **Holds its shape until morning.** | **MP4** |
+| 10 | Risk reversal (Groove #6, outcome tied) | 60 night seal, mom waking rested | **Wake up less stiff, or it's free.** · 60 nights · Refund and keep it · Free tracked shipping · 5 year warranty | Still |
+
+What we will NOT copy: badge walls / made up awards (Mellow #1), unnamed stock doctors, condition lists (Groove #5), "heal", "relieves pain", "aligns your spine", CertiPUR/OEKO-TEX seals (we have no certificates), fake "ends today".
 
 ## REST OF THE PAGE · images list
 | Section | Image | Notes |
