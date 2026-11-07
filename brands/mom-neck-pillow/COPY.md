@@ -325,9 +325,9 @@ Trust row (3 icons):
 
 **Tab 3: Materials & care**
 > **Inside:** memory foam that slowly springs back to its shape.
-> **Outside:** a soft removable cover. [confirm fabric]
+> **Outside:** a soft polyester cover that zips off.
 >
-> **Washing:** take the cover off and wash it cold on a gentle cycle, then hang it to dry. The foam doesn't go in the washer. Spot clean it with a damp cloth.
+> **Washing:** unzip the cover and machine wash it cold on a gentle cycle, then hang it to dry. The foam doesn't go in the washer. Spot clean it with a damp cloth.
 >
 > **When it arrives:** it comes vacuum rolled so it ships safely. Unroll it, take it out of the plastic and give it 24 to 72 hours to fully rise. New foam can have a light smell for the first day or two. Leave it near an open window and it fades.
 
