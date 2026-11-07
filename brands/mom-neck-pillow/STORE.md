@@ -144,3 +144,29 @@ Motion: slide 4 (made animation), slide 9 later (review loop). Real supplier foo
 ## Needed from Nikita before generating
 1. Supplier videos (press/rebound, unroll/rise) from CJ or the 1688 factory listing.
 2. Confirm the two heights: 1688 says 60 x 41 x 13 x 11 cm; copy says 60 x 40 x 12 cm.
+
+---
+
+# OTHER PRODUCTS · IMAGE PLAN (2026-11-07, pending Nikita approval)
+Same look as the pillow: 2048 square, lilac gradient (#F3ECF4 to #D3C1D8), plum text, Nano Banana Pro 2K, one take each. Product shots copied exactly from the CJ photos. Plain words only, no medical claims.
+
+## Spare Night Shift Pillowcase · BLOCKED
+Current Shopify images are a DIFFERENT pillow (62 x 37 cm "horn shaped butterfly pillow", full pillows shown). Customers would think they get a pillow, and that case may not fit ours (60 x 40). Make images only after the right case (1688 factory, same pillow) is sourced and connected.
+1. Hero: the cover alone, neatly folded, zipper visible.
+2. On the pillow: Night Shift Pillow wearing the cover, zipper half open.
+3. Detail: fabric close up + zipper. Text: "Zips on in seconds · Machine washable · Fits the Night Shift Pillow".
+4. Why: "A fresh cover while the other one is in the wash."
+Plus one variant image per case colour (only colours the factory makes).
+
+## Night Shift Warm Wrap (Gray only)
+1. Hero: gray plush wrap laid in its U shape.
+2. In use: same AI mom, sitting up in bed at night, wrap over her shoulders, mug in hand, lamp light. No baby touching the warm wrap.
+3. How to use: 3 steps "Warm it in the microwave for [X] seconds · Shake it out · Drape it over your shoulders" + "Check the heat before use". BLOCKED on heating time.
+4. Detail + size: plush close up + dimensions. BLOCKED on CJ dimensions.
+
+## Nap Time Neck Rest (Pink only)
+1. Hero: pink neck rest, 3/4 angle.
+2. In use: same AI mom lying back on the bed, neck resting in the curve, eyes closed, calm. Nap time feel.
+3. How to use: "Lie back · Rest your neck in the curve · Ten quiet minutes for you".
+4. Detail + size.
+Comfort only: no "stretch your spine", "cervical", "traction" or posture claims. All current CJ images (blue, purple, teal, spine diagrams) come off the listing.
