@@ -140,13 +140,39 @@ Order follows scroll attention: everything needed to buy is in the hero; then he
 - **Techniques:** Complete the routine (Zone 16) · Each tile = one-line benefit tied to her night (Zone 7).
 - **Tiles:** spare pillowcase (never caught with it in the wash) · Warm Wrap · Neck Rest (only once its images and text are fully clean).
 
-### S14 · About us / mission
-- **Job:** make the brand a person and give her permission.
-- **Techniques:** Origin of necessity (Zone 15) — ONLY if true · Founder line or signed note (Zone 15) · Right authority found through research: for her that is a mom who's been there, then a physio, never a "doctor in a coat" (Zone 11, brain §12) · Disclosure as trust (Zone 11).
-- **Desires:** permission ("you're allowed one thing"), significance ("your pain is real"), belonging.
-- **Blocked by:** the founder question (§D, question 2). See the honest options there.
+### S14 · About us (founder note)
+*Techniques: origin of necessity (she had the pain, nothing lasted, she was told it was normal), the authority this buyer trusts most (a mum who has been there), a signed note so the brand is a person, permission and honesty as the promise. Kept general: no named child, no ages, nothing that ties to a real family.*
 
-### S15 · Final offer + CTA (ADD)
+**PASTE**
+
+Quote box:
+> "I spent the first year of motherhood waking up sore and being told it was just part of having a baby. It isn't. And you shouldn't have to wait it out."
+
+Signature:
+> [Founder first name]
+> [Founder full name] · Founder, and a mum who's been there
+
+Headline:
+> Made by a mum who got tired of hearing "that's just motherhood"
+
+Intro:
+> When my first baby arrived, I fed every two or three hours, day and night, with my head bent down the whole time. Within a few weeks the back of my neck was so tight I could barely turn to look at the clock. I stretched. I booked massages I couldn't really afford. I bought pillow after pillow. Everything helped for an hour, then the next feed started and I was right back where I began.
+>
+> The hardest part was being told it was normal. Everyone said the same thing: that's just what happens when you have a baby. I kept thinking, why does nobody make something for this? So I started RecoverMama.
+
+Sub heading 1:
+> **Why we focus on the night**
+
+> Your days belong to the baby. That isn't going to change, and you wouldn't want it to. But the hours you sleep can be yours. That's where we put everything: a pillow that holds your neck while you rest, so the night stops working against you and you wake up feeling more like yourself.
+
+Sub heading 2:
+> **Our promise to you**
+
+> Your pain is real, and you're allowed to do something about it. We'll always be honest about what this pillow does and doesn't do. It's a pillow, not a treatment. And if it doesn't make your mornings better, you get your money back and you keep it.
+
+---
+
+## S15 · Final offer + CTA (ADD)
 - **Job:** repeat the offer and close (Zone 16 closing sequence).
 - **Techniques:** Offer repeated with only true urgency (Zone 16, Universal 3.4) · One closing line.
 
@@ -213,7 +239,7 @@ Order follows scroll attention: everything needed to buy is in the hero; then he
 ---
 
 ## D · Answers from Nikita (2026-11-07)
-- **Shipping:** CJPacket Ordinary. Transit 4 to 9 days (62% of orders), 10 to 12 days (31%). Copy uses: leaves in 1 to 3 business days, arrives in 7 to 14 business days, free and tracked. (Processing 1 to 3 days = assumption, confirm.) ⚠ CJ quoted a $45.63 shipping fee on this screen vs $22.57 per unit on the listing screen. If $45.63 is for ONE pillow, landed cost jumps to ~$52 and margin at $79 drops to ~30%. Check the quantity on that calculator.
+- **Shipping:** CJPacket Ordinary. Transit 4 to 9 days (62% of orders), 10 to 12 days (31%). Copy uses: leaves in 1 to 3 business days, arrives in 7 to 14 business days, free and tracked. (Processing 1 to 3 days = assumption, confirm.) The $45.63 on that CJ screen was AUD. Offer prices in OFFER.md stand.
 - **Materials:** memory foam, polyurethane filler, polyester fibre core fabric. 60 × 40 × 12 cm. Ships vacuum rolled, roll 43 × 15 cm.
 - **Guarantee:** **60 nights** (changed from 90). Refund in full and **she keeps the pillow**. No return needed.
 - **Warranty:** 5 years, replace if it goes flat. Confirmed.
@@ -224,12 +250,12 @@ Order follows scroll attention: everything needed to buy is in the hero; then he
 - **Payments:** all major methods on.
 - **Sample:** none coming. So: no claim about exact heights, firmness level or rebound speed. Shape claims come from CJ photos only (lower centre, raised sides, arm cutouts, centre head hollow). Cover washability taken from the CJ listing (removable cover), flagged.
 - **Reviews:** written as a COPYWRITING TEST ONLY. Not to be published. Real reviews replace them.
-- **Founder:** Nikita's mum as founder. Draft written in her voice with [placeholders]; must be checked against her real story and approved by her before it goes live.
+- **Founder:** a mum founder in general terms (NOT Nikita's mum, no specific child). Name left as [Founder name].
 - **Style:** NO dashes anywhere in customer copy (no em, en, or hyphens). Professional but human.
 
 ---
 
-# PART 2 · FINAL COPY (v1, 2026-11-07)
+# PART 2 · FINAL COPY (v2 after full chief, 2026-11-07)
 > Written one section at a time against the plan in Part 1. No dashes anywhere. [Square brackets] = to fill in the offer/images pass or to confirm.
 > Each section opens with a short note on the techniques used. The copy to paste sits under **PASTE**.
 
@@ -240,7 +266,7 @@ Order follows scroll attention: everything needed to buy is in the hero; then he
 
 **PASTE (rotate these two):**
 - Free tracked shipping on every order
-- Sleep on it for 60 nights. Love it or get every cent back.
+- Wake up less stiff or get every cent back. 60 nights to try it.
 
 ---
 
@@ -256,14 +282,14 @@ Title:
 > The Night Shift Pillow
 
 Line under the title:
-> Your neck works the day shift. Let it rest at night.
+> Wake up without the stiff, sore neck. Even after a night of feeds.
 
 Description:
-> A contoured memory foam pillow that holds your neck in place all night and gives your arm somewhere to go when you sleep on your side. So you stop waking up stiff before the first feed.
+> Your neck works the day shift. This pillow holds it in place all night and gives your arm somewhere to go when you sleep on your side, so the hours you sleep finally go to rest.
 
 Bullets:
-- ✓ Wake up without that tight, stuck neck before the first feed
-- ✓ Sleep on your side again without a dead arm by morning
+- ✓ Pick the baby up at 6am without reaching for the back of your neck first
+- ✓ Sleep on your side again and wake up with both arms working
 - ✓ Memory foam that holds its shape until morning, not flat by 2am
 - ✓ Lower in the middle for your back, higher on the sides for your side
 
@@ -280,8 +306,10 @@ Trust row (3 icons):
 
 **PASTE**
 
-**Tab 1 (open by default): Why moms love it**
-> It works while you sleep. There's nothing to stretch, book or remember. You lie down, it holds your neck, and the hours you're asleep finally work for you instead of against you.
+**Tab 1 (open by default): Why you'll love it**
+> Picture tomorrow's first feed. You sit up, pick the baby up, and your neck just moves. No stiff, stuck feeling at the base of your skull. No bracing through the feed. You get to actually enjoy it.
+>
+> That's what the night is for. And this pillow works while you sleep. There's nothing to stretch, book or remember. You lie down, it holds your neck, and the hours you're asleep finally work for you instead of against you.
 >
 > It's made for how you actually sleep right now. On your side, one arm tucked under, half listening for the baby. The cutouts give your shoulder and arm room, so you don't wake up with a dead arm and a crick in your neck.
 >
@@ -326,7 +354,7 @@ Subline:
 **Card 1**
 - Title: I have a closet full of pillows that didn't work
 - Name: Jess M. · Breastfeeding, baby 4 months
-- Ticks: Didn't go flat overnight · Good for side sleeping · Worth it
+- Ticks: Wakes up less stiff · Didn't go flat overnight · Worth every cent
 - Review:
 > "Honestly bought this expecting to send it back. I've got a closet full of pillows from the last few months. This is the first one I haven't shoved off the bed at 2am. My neck still gets tired from feeding but I'm not waking up stiff anymore, which is all I wanted."
 
@@ -367,7 +395,7 @@ Columns: **Night Shift Pillow** · **Your regular pillow** · **Massage or chiro
 | Soft and fluffy from the very first night | ✗ | ✓ | ✓ |
 | Expert hands working on your neck | ✗ | ✗ | ✓ |
 | Nothing to book, no time away from the baby | ✓ | ✓ | ✗ |
-| Keeps working while you sleep | ✓ | ✗ | ✗ |
+| Still helping you at 3am | ✓ | ✗ | ✗ |
 | 60 nights to try it, refund and keep it | ✓ | ✗ | ✗ |
 
 Small line above the button:
@@ -394,7 +422,7 @@ Body:
 >
 > Stretches, a massage or a chiro visit feel good for an hour. Then the next feed starts. And at night, a flat pillow lets your head drop and your neck bend all over again. So the one stretch of time your neck could rest, it doesn't.
 >
-> That's the gap this pillow fills. It holds your neck in a comfortable, supported position the whole time you sleep, so you're not starting tomorrow's first feed already sore.
+> You're not doing anything wrong. Your neck just never gets a break. That's the gap this pillow fills. It holds your neck in a comfortable, supported position the whole time you sleep, so you're not starting tomorrow's first feed already sore.
 
 Chart title:
 > How much your neck carries as your head tips down
@@ -480,7 +508,7 @@ Headline:
 **Step 3 · WEEKS 2 TO 4**
 - Title: It's just your pillow now
 - Body:
-> The cover has been through the wash a couple of times. You've stopped thinking about it. You lie down, it holds your neck, and the night finally does what it's supposed to do.
+> The cover has been through the wash a couple of times. You've stopped thinking about it. You lie down, it holds your neck, and the night finally does what it's supposed to do. Your mornings start to feel like yours again.
 >
 > Everyone settles in at their own pace. That's why you get 60 nights to decide, not 30.
 
@@ -495,6 +523,9 @@ Image icon strip (3 icons):
 **PASTE**
 
 Headline:
+> Wake up less stiff, or it's free
+
+Sub headline:
 > The 60 Night Sleep On It Promise
 
 Body:
@@ -564,13 +595,13 @@ Subline:
 > Still wondering about something? Email hello@recovermama.com and a real person will get back to you.
 
 **1. It feels firmer than my old pillow. Is that normal?**
-> Yes. Most people need a night or two to get used to it. That firmness is what stops your head from sinking and your neck from bending while you sleep. Give it two nights before you decide.
+> Yes. It can take a night or two to get used to it. That firmness is what stops your head from sinking and your neck from bending while you sleep. Give it two nights before you decide.
 
 **2. I've tried other pillows. Why would this one be different?**
 > Most pillows go flat by the middle of the night, come in one height, and give your arm nowhere to go when you sleep on your side. This one holds its shape until morning, is lower in the middle for your back and higher on the sides for your side, and has cutouts for your arm and shoulder. And if it's still not right for you, you have 60 nights to get a full refund.
 
 **3. How do I know which part to use?**
-> On your back, rest your head in the lower middle. On your side, use the higher side and let your arm slide into the cutout. Most moms switch between the two during the night, and it works either way.
+> On your back, rest your head in the lower middle. On your side, use the higher side and let your arm slide into the cutout. You can switch between the two during the night, and it works either way.
 
 **4. Why did it arrive rolled up?**
 > We vacuum roll it so it ships safely. Take it out of the plastic, unroll it and give it 24 to 72 hours to fully rise. You can sleep on it the first night. It just keeps filling out.
@@ -701,3 +732,29 @@ Footer support line:
 
 Copyright:
 > © 2026 RecoverMama. Comfort products for new moms. Not a medical device.
+
+---
+
+# PART 3 · CHIEF LOG (v1 → v2, 2026-11-07)
+Every section checked against the PDP fundamentals (F1 to F14), the chosen techniques, and the rule above all: sell the dream outcome, not the pillow. Dream outcome = waking up not already sore before the first feed, enjoying the baby instead of bracing through feeds, feeling like herself again, certainty it isn't forever, permission to have one thing that's hers.
+
+**Desire coverage after v2:** Certainty (hero line, guarantee headline, timeline) ✓ · Identity "feel like me again" (timeline step 3, founder) ✓ · Permission (tab 1, mechanism "you're not doing anything wrong", final close) ✓ · Love/connection (hero bullet 1, tab 1 "actually enjoy it") ✓ was MISSING in v1 · Freedom/time (tab 1, comparison "nothing to book") ✓
+
+| Section | What failed in v1 | Rule broken | v2 fix |
+|---|---|---|---|
+| S1 Top bar | "Love it or get every cent back" was vague and product-centred | F11 specific; sell the outcome | "Wake up less stiff or get every cent back. 60 nights to try it." Outcome + risk reversal in one line |
+| S2 Line under title | "Let it rest at night" is a mechanism, not the outcome; no pain, no specificity | Zone 2 "dream first, mechanism second"; headline ingredients | "Wake up without the stiff, sore neck. Even after a night of feeds." The day shift line moved into the description as the how |
+| S2 Description | Opened on the product ("a contoured memory foam pillow") | Benefit beats name (F4); dream first | Opens on her ("Your neck works the day shift"), then what the pillow does, ending on the payoff (the hours you sleep go to rest) |
+| S2 Bullets 1 and 2 | Generic life-after lines | F11 specific and visceral | "Pick the baby up at 6am without reaching for the back of your neck first" and "wake up with both arms working": a movie in her head, adds love/connection |
+| S3 Tab 1 | Titled "Why moms love it" with zero customers (an untrue claim); opened on the mechanism | F9 only true claims; Zone 14 "Why you'll love it" | Retitled. Now opens by painting tomorrow's first feed without the stiff neck, then explains why |
+| S4 Ticks | "Worth it" was empty | F11 | "Wakes up less stiff" leads |
+| S5 Comparison row | "Keeps working while you sleep" was a feature | Sell the outcome | "Still helping you at 3am": her moment, same truth. Fair ticks kept (regular pillow wins "soft from night one" and "nothing to book", massage/chiro wins "expert hands") |
+| S6 Mechanism | Took blame off her only by implication | Permission core; belief 1 | Added "You're not doing anything wrong. Your neck just never gets a break." |
+| S9 Timeline step 3 | Ended on the pillow disappearing, not on her | Identity desire | Added "Your mornings start to feel like yours again." |
+| S10 Guarantee | Headline was the policy name, not the payoff | Zone 6 guarantee voiced to her fear | Headline "Wake up less stiff, or it's free"; the policy name becomes the subhead |
+| S12 FAQ 1 and 3 | "Most people / most moms" claims we can't back yet | F9 | Reworded to "It can take a night or two" and "You can switch between the two" |
+| S14 Founder | Tied to Nikita's mum and a son | Nikita's instruction | General mum founder, first baby, no family details; ends on "So I started RecoverMama"; promise paragraph adds the identity outcome |
+
+**Checked and passed with no change:** S7 stats (all real, footnoted) · S8 banner (real scarcity: first 500) · S11 reviews (six different situations, one 4 star with a real con, no store words) · S13 cross sell (each tile tied to a moment in her night) · S15 close (lands on permission: "Keep the night for you") · S16 footer (honest, "Not a medical device").
+
+**Hygiene:** 0 em/en dashes, 0 hyphens in customer copy · banned word scan clean (only the "not a treatment" disclaimer remains, deliberately) · every number matches: 60 nights, refund and keep it, free tracked shipping, 7 to 14 business days, 5 year warranty, 500 founding pillows, hello@recovermama.com.
