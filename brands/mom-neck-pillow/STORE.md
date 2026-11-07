@@ -114,8 +114,11 @@ Big Rosehip 60 NIGHTS seal top centre, 3 step row, box contents bottom.
 - Badges: Free tracked shipping · 5 year warranty
 - In the box: Night Shift Pillow + zip off washable cover (+ bonuses after the offer pass)
 
-### STATUS 2026-11-07
-Made on Higgsfield Nano Banana Pro, 2048 px, saved in assets/pdp_carousel/: 01 hero, 02 before & after, 03 main objection, 04 how it works (still; animated version later), 05 sleep positions, 06 evidence, 07 size & fit (60 x 40 x 12 cm), 08 every worry, 10 future, 11 guarantee. Slide 09 testimonial waits for real reviews. Mom is an AI woman written from text (no real person's likeness). Colours used: Light Gray 01/03/07, Dark Gray 02/08/11, Navy 05/10.
+### STATUS 2026-11-07 (v2, final order for Shopify)
+01 hero · 02 before & after · 03 main objection · 04 how it works · 05 sleep positions (arm under fixed: arm goes through the gap underneath) · 06 evidence · 07 size & fit (12 cm: Light Gray, Dark Gray, Navy; 14 cm: all other 7 colours) · 08 10 colours stack · 09 every worry (nursing + spit up replaced with worth the money + one more thing to keep up with, from brain §11 objections 2 and 6) · 10 future · 11 guarantee. Testimonial slot waits for real reviews.
+Product now has 10 colourways in Shopify.
+
+(older note) Made on Higgsfield Nano Banana Pro, 2048 px, saved in assets/pdp_carousel/: 01 hero, 02 before & after, 03 main objection, 04 how it works (still; animated version later), 05 sleep positions, 06 evidence, 07 size & fit (60 x 40 x 12 cm), 08 every worry, 10 future, 11 guarantee. Slide 09 testimonial waits for real reviews. Mom is an AI woman written from text (no real person's likeness). Colours used: Light Gray 01/03/07, Dark Gray 02/08/11, Navy 05/10.
 
 ### COLOUR IMAGES (variant linked, not counted as slides)
 One per colour: hand pressing into the pillow on a matching soft background (Mellow 12 to 20). Shown when the colour is picked.
