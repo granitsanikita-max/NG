@@ -16,6 +16,8 @@
 Sources: Notion "Reference: Store Images (Hero Carousel Formats)" + Carousel Image Library artifact (184 brands) + FUNNEL.md objection map + COPY.md v2.
 
 ## Rules we're building to
+- **ONLY OUR PILLOW in any bed scene.** No extra pillows, cushions or other pillow brands anywhere in the shot (Nikita, 2026-11-07).
+- **Arms and hands always rest outside the pillow**, never in, under or merged into it.
 - **Conversion / education carousel** (new brand, cold traffic): one claim per slide, text on almost every slide, 10 slides.
 - **Slide 1 = clean product** (Law 1). Not the lifestyle shot the old FUNNEL plan had.
 - **No testimonial slide, no fake proof, no certs, no expert.** Winners keep reviews down page; we have no real reviews or experts anyway. Authority = the real published study (Hansraj 2014). Real verbatim mom words only (research quotes, labelled honestly).
