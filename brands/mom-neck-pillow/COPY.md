@@ -393,10 +393,10 @@ Columns: **Night Shift Pillow** · **Your regular pillow** · **Massage or chiro
 | **What it costs** | [$79] once | $15 to $40 | $60+ every visit |
 | Holds your neck in place all night | ✓ | ✗ | ✗ |
 | Room for your arm when you sleep on your side | ✓ | ✗ | ✗ |
-| Already on your bed, nothing to buy | ✗ | ✓ | ✗ |
-| Expert hands working on your neck | ✗ | ✗ | ✓ |
-| Nothing to book, no time away from the baby | ✓ | ✓ | ✗ |
+| Lower in the middle for your back, higher on the sides for your side | ✓ | ✗ | ✗ |
+| Feels good the moment you use it | ✓ | ✓ | ✓ |
 | Still helping you at 3am | ✓ | ✗ | ✗ |
+| Nothing to book, no time away from the baby | ✓ | ✓ | ✗ |
 | 60 nights to try it, refund and keep it | ✓ | ✗ | ✗ |
 
 Small line above the button:
