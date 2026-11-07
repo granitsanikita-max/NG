@@ -125,21 +125,51 @@ One per colour: hand pressing into the pillow on a matching soft background (Mel
 
 Motion: slide 4 (made animation), slide 9 later (review loop). Real supplier footage (press and rebound, unroll and rise) can replace or follow slide 4.
 
-## REST OF THE PAGE · images list
-| Section | Image | Notes |
-|---|---|---|
-| Logo | Logo | Done: assets/logo/ |
-| Accordion | Mom asleep on her side, arm in the cutout | Replaces shower photo; can reuse slide 6 crop |
-| Comparison | none | Table only |
-| Mechanism | Head load bar chart + title | Data COPY.md S6. Bars `#8C739E`, 60 lb bar Rosehip |
-| Stats grid | 4 tile images (Up to 60 lb · 3 to 6 hours · 60 nights · 5 years) + wide tile photo behind 64% | Tiles are images with baked text |
-| Banner | No image (plum gradient) | Brown fabric bg removed |
-| Timeline | Vertical image + baked icon strip: Holds its shape · Room for your arm · Washable cover | Replaces "Magic Foam" |
-| Guarantee | 4 badges (60 nights to try it · Keep it, even with a refund · Free tracked shipping · 5 year warranty) + right photo (mom waking rested, morning light) | Remove fake certs now |
-| Kit | Shopify product images for Spare Case + Warm Wrap (+ Neck Rest once cleaned) | Clean the CJ medical images |
-| About | Mom feeding at 3am in soft lamplight | Replaces laptop |
-| Final offer | Optional product shot | |
-| Payment icons | Keep Visa/MC/Apple Pay/G Pay, remove McAfee | |
+## REST OF THE PAGE · image plan v2 (2026-11-07, from full page screenshot)
+Rule: anything with numbers or exact words is built in code (PIL), not AI. AI image models garble numbers, and a wrong stat is a lie. AI is only for photos and motion. 0 credits for the code-built items.
+
+| # | Slot | Format | What's in it | Why it sells | Tool |
+|---|---|---|---|---|---|
+| A | Accordion, right side (replaces shower man) | **GIF** 1:1, 3 s loop | A hand presses deep into the side wing, lets go, and the foam slowly rises back to full shape. Lilac background, Dark Gray pillow. | Proves "not flat by 2am" in 3 seconds. That's the #1 objection (I've tried every pillow and they all go flat). | Higgsfield image to video |
+| B | Review cards row 1 (3 card photos) | none for now | Hidden until real reviews. Later: real customer photos only. | Never use AI "customer" photos. That's fake proof. | — |
+| C | Comparison | none | Table does the work | — | — |
+| D | Mechanism chart (replaces GemLab body wash chart) | static 4:3 | Title "How heavy your head feels to your neck". 5 bars: upright 10 to 12 lb · 15° 27 lb · 30° 40 lb · 45° 49 lb · 60° 60 lb. 60° bar in Rosehip, labelled "Looking down at your baby". Others #8C739E. Source line small at bottom. | Turns "mom neck" from a feeling into a visible number. The reason she's sore isn't her, it's the angle. | PIL (free) |
+| E | Stats grid, 4 tiles (replace 50,000+ men, Dermatologist Approved, Expert Guidance, Premium Support) | 4 static tiles | Up to 60 lb · 3 to 6 hours · 60 nights · 5 years, with COPY.md S7 lines baked in, Plum on Milk | Real numbers only. The current tiles are FAKE CLAIMS live on the store. | PIL (free) |
+| F | Stats wide tile background (replaces man at mirror) | 21:9 photo | Mom feeding at night, head tipped down at the baby, warm lamplight from the right, left third dark and empty for the 64% text | Shows the exact angle from chart D. She sees herself. | Higgsfield NB Pro 2K |
+| G | Banner | no image | Remove the brown fabric bg image (it's still live). Plum gradient, heading in Milk #FBF4EE | Pink on brown is unreadable | GemPages setting |
+| H | Timeline image (replaces MAGIC FOAM shower) | **GIF/MP4** 4:5, 4 to 5 s | Rolled up pillow on a bed, plastic peeled off, it unrolls and puffs up to full shape. Morning light. | Matches DAY ONE copy word for word and kills the "why did it arrive rolled up / is it broken" worry before it happens. Best GIF on the page. | Higgsfield image to video |
+| I | Guarantee badges (replace ALL NATURAL / HIGH PROTEIN / ORGANIC) | 4 icons | 60 nights to try it · Keep it, even with a refund · Free tracked shipping · 5 year warranty. Line icons, Plum. | Current badges are fake certifications. Real promises only. | PIL (free) |
+| J | Guarantee photo (replaces COSME bottles) | 4:3 photo | Morning, mom sitting up in bed rolling her shoulders easy, relaxed face, baby asleep in bassinet beside her, Night Shift Pillow visible | Shows the outcome the guarantee promises: waking up less stiff | Higgsfield NB Pro 2K |
+| K | Reviews carousel | none | Hide section until real reviews | — | — |
+| L | Kit: Neck Cradle card | 1:1 | Regenerate hero with "Night Shift Neck Cradle" text (card still shows Nap Time) | Name match | Higgsfield NB Pro 2K |
+| M | Kit: pillow card | 1:1 | Use the Dark Gray lilac variant image as featured | Matches page look | Shopify |
+| N | About (replaces laptop) | 4:3 photo | Nightstand at 3:54am: phone clock glowing 3:54, baby monitor, half drunk water, lamplight, unmade bed edge. No person (no fake founder). | "The part of the day nobody was looking at: the night." Object shot fits the honest brand version | Higgsfield NB Pro 2K |
+
+Credits: A, H = 2 videos · F, J, L, N = 4 images. D, E, I = free.
+
+## COPY ERRORS FOUND ON LIVE PAGE (2026-11-07)
+URGENT (fake claims live now):
+1. Stats tiles say "50,000+ Men… GemLab", "Dermatologist Approved Formulas", "Ongoing Expert Guidance", "Premium Customer Support". Remove now.
+2. Guarantee badges: All Natural / High Protein / Organic. Fake certs. Remove now.
+3. BOTH review sections (cards under hero + "Moms are sleeping on their side again") show the COPY TEST reviews with "Verified Customer" badges. COPY.md says not to publish. Hide both until real reviews.
+4. Comparison eyebrow and headline are still Lorem ipsum. Should be "WHY THIS ONE" / "Most things you try wear off. This one works all night."
+
+Fixes:
+5. Comparison "What it costs": $79 once → $79.95 once.
+6. Comparison "Feels good the moment you use it": regular pillow ✗ → ✓.
+7. Comparison missing row: "Nothing to book, no time away from the baby" ✓ ✓ ✗.
+8. Comparison "60 nights to try it": regular pillow ✓ → ✗.
+9. Column header "RecoverMama" → "Night Shift Pillow"; "Regular pillow" → "Your regular pillow".
+10. Stats: "64%…³" has a footnote with no sources line. Add the sources line under the grid (¹ Hansraj 2014 · ² estimate · ³ PMID 41804213) or delete the ³.
+11. Mechanism heading Title Case ("It's The Hours Your Neck…") → "It's not your posture. It's the hours your neck never gets back."
+12. Timeline: leading space before "It's just your pillow now".
+13. FAQ: leading space before "How do I know which part to use?".
+14. Kit: "Nap-Time Neck Rest" title → "Night Shift Neck Cradle" (rename in Shopify).
+15. Kit: "Colour: Pink" / "Colour: Gray" → "Color".
+16. Kit pillow card shows raw CJ text (Product information… 60*40*12 cm… Polyurethane). Replace with the Shopify description; 12 cm is also wrong for 7 of 10 colors (14 cm).
+17. Warm Wrap "90 seconds": only keep if CJ confirmed it.
+18. Review text (if ever reused): "Spit up happens" (rejected phrase), Morgan "only giving 4 stars" under 5 stars, "-Morgan L" dash. Pillowcase kit copy also says "Spit up happens".
+19. hello@recovermama.com appears 3 times. Make sure the inbox works before ads go live.
 
 ## Needed from Nikita before generating
 1. Supplier videos (press/rebound, unroll/rise) from CJ or the 1688 factory listing.
