@@ -660,7 +660,7 @@ Tab (one only):
 
 ---
 
-## S14 · About us (founder note) · DRAFT, CHECK EVERY DETAIL WITH NIKITA'S MUM
+## S14 · About us (founder note) · DRAFT, GENERIC MOM FOUNDER (persona, see note)
 *Techniques: origin of necessity (she had the pain, nothing lasted, she was told it was normal), the authority she trusts most (a mom who's been there), a signed note to make the brand a person, permission and honesty as the promise. Every detail below must match her real story before it goes live. Change anything that isn't true.*
 
 **PASTE**
@@ -670,15 +670,15 @@ Quote box:
 
 Signature:
 > [First name]
-> [First name Last name] · Founder and mom of [number]
+> [First name Last name] · Founder, mom
 
 Headline:
 > Made by a mom who got tired of hearing "that's just motherhood"
 
 Intro:
-> When my son was born, I fed him every two or three hours, day and night, with my head bent over him the whole time. Within a few weeks the back of my neck was so tight I could barely turn to look at the clock. I stretched. I booked massages I couldn't really afford. I bought pillow after pillow. Everything helped for an hour, then the next feed started and I was right back where I began.
+> When my baby was born, I was feeding every two or three hours, day and night, with my head bent over the whole time. Within a few weeks the back of my neck was so tight I could barely turn to look at the clock. I stretched. I booked massages I couldn't really afford. I bought pillow after pillow. Everything helped for an hour, then the next feed started and I was right back where I began.
 >
-> The hardest part was being told it was normal. Everyone said the same thing: that's just what happens when you have a baby. Years later, I helped my son start RecoverMama because so many moms are still hearing it.
+> The hardest part was being told it was normal. Everyone said the same thing: that's just what happens when you have a baby. I started RecoverMama because so many moms are still hearing it.
 
 Sub heading 1:
 > **Why we focus on the night**
