@@ -23,23 +23,101 @@ Sources: Notion "Reference: Store Images (Hero Carousel Formats)" + Carousel Ima
 - **Format:** 1:1 square, 2048 px, phone first. Headline max 6 words, big enough to read on a phone. Palette: lilac gradient backgrounds, plum `#2E2340` text, Rosehip `#B8476A` accent. Motion slides = short muted looping **MP4** product media (not GIF: GIFs are huge and slow on mobile).
 - All on-image copy follows COPY.md rules: no dashes, no "firm", no medical words.
 
-## HERO CAROUSEL · v2 (Nikita's structure + competitor teardown, 2026-11-07)
-Teardown of Mellow, Dosaze, Restora, Derila, Groove, Nuzzle, Elviros (raw files in session scratchpad). Best slides seen: Dosaze #9 alignment GIF (same person, flat pillow vs theirs), Groove #3 before/after 2x2, Mellow #4 height chooser, Groove #6+#7 guarantee then sceptic review, Elviros #7 two heights. Gaps nobody fills: a "future you" outcome scene, real data, an objection list slide, the arm cutout shown in real use.
+## HERO CAROUSEL · v3 DETAILED BRIEF (2026-11-07) · supersedes v2
+Grounded in brain/03-persuasion.md §11 (ranked objections) + 02-the-customer.md (desires): #1 desire = lasting relief / wake up not already hurting (30 of 401). #1 objection = "Will it even work? I've tried everything / it only dulls it" (nursing pillow doubt 7). Belief to install = "my pillow is part of the problem: flat by morning, wrong height, no room to side sleep". Enemy = category 1 star reviews (flat after months, chemical smell, too thick pushed my head forward).
 
-| # | Job (Nikita's list) | What it shows | On-image text | Media |
-|---|---|---|---|---|
-| 1 | Hero | Product big + mom asleep on it in the same frame (Elviros composite), lilac gradient | **The Night Shift Pillow** · badge: 60 nights to try it | Still |
-| 2 | Before & after | Same mom, same angle. Left: flat pillow, head drops, neck bends (red line). Right: Night Shift, neck held, arm in cutout (lilac line) | **Your pillow vs the Night Shift** · "Your neck bends all night" / "Your neck stays supported" | **MP4 alternating, Dosaze #9 style** |
-| 3 | Main objection ("I've tried everything") | 3 rows with icons: Stretches 10 min · Massage about an hour · Night Shift every hour you sleep | **Tried everything? This is why it wore off.** | Still |
-| 4 | Logical evidence | Head tilt diagram 0° 15° 30° 45° 60° with lb, source line | **Looking down at your baby = up to 60 lb on your neck.** · Hansraj 2014 | Still |
-| 5 | How it works (zone map) | Top down product, 4 callouts | **Made for how you sleep now.** · Lower middle for your back · Higher sides for your side · Cutouts for arm and shoulder · Curve under your neck | Still |
-| 6 | Height chooser (Mellow #4) | Two photos: back sleeper on lower middle, side sleeper on higher side, heights in cm/in | **Which side is yours?** | Still · needs real heights |
-| 7 | Objection list | 5 "Worried it'll…" rows, each answered | Go flat? 5 year warranty · Feel different? Give it two nights · Smell? Fades in a day · Spit up? Cover unzips and washes · Not work? 60 nights, refund, keep it | Still |
-| 8 | Take them to the future | 6am, morning light, mom lifting the baby, neck relaxed, smiling | **Your 6am feed, without the stiff neck.** | Still |
-| 9 | Testimonials | LAUNCH: real supplier footage, press and rebound + unzipping the cover. AFTER SEEDING: rotating review card MP4 of real reviews (Dosaze #4 style), headline answers scepticism | Launch: **Holds its shape until morning.** | **MP4** |
-| 10 | Risk reversal (Groove #6, outcome tied) | 60 night seal, mom waking rested | **Wake up less stiff, or it's free.** · 60 nights · Refund and keep it · Free tracked shipping · 5 year warranty | Still |
+GLOBAL SPEC: 2048 x 2048 px, 120 px safe margin, phone first (headline readable at 375 px wide = min ~90 px type at 2048). Background: lilac gradient #F3ECF4 to #D3C1D8. Text plum #2E2340, accents Rosehip #B8476A, highlight Lamplight #E8B86B. One sans family (bold headlines, medium body). Rounded cards white/Milk #FBF4EE. Icons: single weight line icons in plum. Every person shot: same casting (one consistent mom, late 20s to 30s, natural, not a model look), same bedroom set, warm lamp or morning light. People images labelled "Illustrative" in tiny type where they depict an experience. No "aligns", "heals", "relieves pain", no certs, no awards, no doctors.
 
-What we will NOT copy: badge walls / made up awards (Mellow #1), unnamed stock doctors, condition lists (Groove #5), "heal", "relieves pain", "aligns your spine", CertiPUR/OEKO-TEX seals (we have no certificates), fake "ends today".
+### 1 · HERO (3 core benefits, info packed)
+Layout: product big on the right 55% (Light Gray, 3/4 angle, soft shadow). Left column: eyebrow, headline, 3 benefit rows, each an icon + bold line + one small line. Top left: round seal. Bottom: thin badge strip.
+- Eyebrow: FOR MOMS WHO FEED ALL NIGHT
+- Headline: The Night Shift Pillow
+- Benefit 1 (sunrise icon): **Wake up less stiff** / even after a night of feeds
+- Benefit 2 (arm icon): **Sleep on your side again** / arm cutouts, no dead arm
+- Benefit 3 (foam icon): **Holds its shape all night** / memory foam, not flat by 2am
+- Seal: 60 NIGHTS TO TRY IT
+- Badge strip: Free tracked shipping · Refund and keep it · 5 year warranty
+- Later: add "★ 4.x · [n] moms" over the headline once real reviews exist.
+
+### 2 · BEFORE & AFTER (her morning, not her body)
+Layout: vertical split, same mom, same bedroom, same 6:02am clock on the nightstand, baby in a bassinet beside the bed (never on the pillow / in her bed).
+- Top bar: **Same 6am. Different morning.**
+- Left label "YOUR PILLOW": sitting on the edge of the bed, hand on the back of her neck, wincing, flat squashed pillow behind her. Caption: Flat by 2am. Stiff by 6.
+- Right label "NIGHT SHIFT": same angle, lifting the baby from the bassinet, shoulders relaxed, smiling, Night Shift pillow on the bed. Caption: Neck held all night. Ready for the first feed.
+- Tiny: Illustrative.
+
+### 3 · MAIN OBJECTION: "I've tried everything"
+Answers objection #1 + nursing pillow doubt with Belief 3 (the pillow is the part she hasn't fixed). Mellow "US vs THEM" style with a crushed old pillow.
+- Headline: **Tried other pillows? Here's why they failed you.**
+- Left (grey, crushed yellowed pillow, label YOUR PILLOW) vs right (Night Shift, label NIGHT SHIFT), 3 rows with X / tick:
+  - Goes flat by 2am  ✗  |  Memory foam that springs back  ✓
+  - One height for everyone  ✗  |  Lower middle for back, higher sides for side  ✓
+  - Nowhere for your arm  ✗  |  Cutouts for your arm and shoulder  ✓
+- Footer: Your nursing pillow is for feeds. This one is for the night.
+
+### 4 · HOW IT WORKS (motion)
+6 second looping MP4, side profile line illustration (plum lines, lilac fills).
+- Headline: **What happens to your neck while you sleep**
+- Left panel "Flat pillow": clock ticks 11pm → 2am → 5am; pillow compresses, head sinks, neck curve bends, Rosehip tension glow at the base of the neck grows.
+- Right panel "Night Shift": same clock; foam holds, neck curve stays supported, soft lilac glow stays calm.
+- Footer: Your neck works all day. This gives it the night.
+
+### 5 · WAYS TO SLEEP ON IT (4 position grid)
+2 x 2 photo grid, same mom, top down or side angle, label chip on each.
+- Headline: **Made for how you sleep right now**
+- Back: head in the lower middle
+- Side: head on the higher side
+- Arm under: arm slides through the cutout, no dead arm
+- Curled toward the baby: side sleeping facing the bassinet, arm in the cutout (bassinet visible, baby in it)
+- Footer: Switch sides in the night. It works either way.
+
+### 6 · LOGICAL EVIDENCE (real numbers)
+Left: head tilt diagram (0° 10 to 12 lb · 15° 27 · 30° 40 · 45° 49 · 60° 60 lb), plum bars, 60 lb bar Rosehip. Right: 2 stat cards.
+- Headline: **Looking down at your baby puts up to 60 lb on your neck**
+- Card: 3 to 6 hours a day looking down during feeds*
+- Card: 64% of breastfeeding moms in one study reported neck pain
+- Footnote: Hansraj, Surgical Technology International, 2014 · *our estimate: 8 to 12 feeds x 20 to 40 min · PubMed 41804213
+
+### 7 · SIZE & FIT (Mellow style)
+Top down product with dimension lines + side view with the two heights called out. If a lower version is sourced, two column chooser (Regular vs Tall) exactly like Mellow #4.
+- Headline: **Size & fit**
+- Length 60 cm / 23.6 in · Depth 41 cm / 16 in · Middle [11] cm · Sides [13] cm · Weight [x] · Fits a standard pillow spot
+- Chooser (if two sizes): Regular: best if you're under 5'7" (most moms) · Tall: 5'7" and up or broad shoulders
+- Footer: Ships vacuum rolled. Fully rises in 24 to 72 hours.
+- BLOCKED: confirm real heights + weight from CJ.
+
+### 8 · EVERY WORRY, ANSWERED (objection list, nobody else does this)
+Six stacked white cards, question bold, answer one line, small product corner.
+- Headline: **Every worry, answered**
+- Will it work for me? → 60 nights to find out. Refund, keep the pillow.
+- Will it fit me? → Lower middle for back, higher sides for side.
+- Will it go flat? → Memory foam + 5 year warranty.
+- Does it smell? → New foam scent fades in a day or two.
+- Can I use it while nursing? → Yes. Nothing to take. It's just a pillow.
+- What about spit up? → Cover unzips and goes in the wash.
+
+### 9 · TESTIMONIAL (Mellow #9 layout, real customer, no doctor)
+Left: real mom holding the pillow, cut out, smiling. Right: cream card, 5 Rosehip stars, quote in big plum type with one key phrase in bold, line "Night Shift Pillow review". Bottom: NAME · Mom of [n], side sleeper · Verified buyer.
+- REAL REVIEWS ONLY. Launch without this slide; add as soon as seeded moms review. Pick a quote that answers scepticism ("I didn't think another pillow would help…").
+- Optional later: rotating MP4 of 5 to 8 review cards (Dosaze #4).
+
+### 10 · TAKE HER TO THE FUTURE
+Full bleed photo, morning light, mom on the floor playing with the baby (or walking with the baby in a carrier), easy, head up, smiling. Text over a soft gradient at the bottom.
+- Headline: **Picture tomorrow's first feed.**
+- Sub: You pick up the baby and your neck just moves.
+- Tiny: Illustrative.
+
+### 11 · RISK REVERSAL + WHAT'S IN THE BOX
+Big Rosehip 60 NIGHTS seal top centre, 3 step row, box contents bottom.
+- Headline: **Wake up less stiff, or it's free.**
+- Steps: 1 Sleep on it for 60 nights → 2 Not for you? Send one email → 3 Full refund. Keep the pillow.
+- Badges: Free tracked shipping · 5 year warranty
+- In the box: Night Shift Pillow + zip off washable cover (+ bonuses after the offer pass)
+
+### COLOUR IMAGES (variant linked, not counted as slides)
+One per colour: hand pressing into the pillow on a matching soft background (Mellow 12 to 20). Shown when the colour is picked.
+
+Motion: slide 4 (made animation), slide 9 later (review loop). Real supplier footage (press and rebound, unroll and rise) can replace or follow slide 4.
 
 ## REST OF THE PAGE · images list
 | Section | Image | Notes |
