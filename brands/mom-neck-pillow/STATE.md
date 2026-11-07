@@ -17,6 +17,7 @@
 - Mid-page banner: brown fabric background image (Nikita deleting it so plum gradient shows; replace only if we want a plum/lilac photo).
 
 ## Log (newest first)
+- 2026-11-07 · store-build · Speed: baseline mobile LCP 0.9s, 4.5MB on open (3.5MB images: 21 gallery originals at finest/100% + preload all). Fix saved: gallery preload off, quality high/80; colour pop preloads 3s after load. Needs publish + re-measure.
 - 2026-11-07 · store-build · Mellow-style colour pop: Custom Code element gRmColorPop in hero (assets/code/color_pop.js/.css). Tap colour = colour photo pops over main image, carousel held on current slide; swipe/arrow/thumb = pop fades. Variant links kept (cart shows right colour). Tested on live page via injection, mobile + desktop. Reviews carousel: peek off, 1 full card on mobile. Needs publish.
 - 2026-11-07 · store-build · Hero gallery option C: colour click still jumps to colour photo; main slider loop on (all devices) + arrows inside main image (plum on white). Copy: $79.95 once, Morgan L. fixed. Ticks/missing row left as is (Nikita). Needs publish + check arrows show.
 - 2026-11-07 · store-build · Mobile fixes: comparison table mobile cols [5,3,2,2] + smaller mobile type/padding; reviews carousel 1 card on mobile with peek, plum dots. Hero gallery: colour click jumps to colour image at slide 12+ (not a lock, all slides still there), fix option pending Nikita. All PDP images made + uploaded to Shopify Files (see STORE.md). Page NEED_PUBLISHING.

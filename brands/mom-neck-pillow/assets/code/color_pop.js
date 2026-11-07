@@ -29,7 +29,8 @@
     ov.innerHTML = '<img alt="">';
     host.appendChild(ov);
     var img = ov.querySelector('img');
-    Object.keys(MAP).forEach(function (k) { var i = new Image(); i.src = MAP[k] + '?width=900'; });
+    function preload() { Object.keys(MAP).forEach(function (k) { var i = new Image(); i.src = MAP[k] + '?width=900'; }); }
+    if (document.readyState === 'complete') setTimeout(preload, 3000); else window.addEventListener('load', function () { setTimeout(preload, 3000); });
     var lastIdx = sw.realIndex || 0;
     var holding = false;
     function hide() { ov.classList.remove('on'); }
