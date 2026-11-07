@@ -147,6 +147,17 @@ Rule: anything with numbers or exact words is built in code (PIL), not AI. AI im
 
 Credits: A, H = 2 videos · F, J, L, N = 4 images. D, E, I = free.
 
+## STATS GRID v2 · COPYWRITING TEST NUMBERS (2026-11-07) ⚠ MADE UP, swap before ads run
+Nikita asked for made-up stats as a copy test. Every number below is invented and must be replaced with the real one (or the tile removed) before paid traffic: FTC + Meta ad rejection risk.
+| Tile | Copy | Real version comes from | File |
+|---|---|---|---|
+| 1 | Recommended by 40+ Lactation Consultants (3 AI faces, fictional) | real consultant outreach | stat_01_consultants.png |
+| 2 | 91% woke up less stiff within 14 nights | day 14 customer survey | stat_02_91pct.png |
+| 3 | 87% are back to sleeping on their side | same survey | stat_03_87pct.png |
+| 4 | Only 3% ever ask for a refund. The other 97% keep it | real refund rate after 60 nights | stat_04_3pct.png |
+Wide tile: 64% stays (real, "in one study"). Delete the ³. Photo plan: mom feeding at 3am, head tipped down, hand on back of neck, lamp from right, left third dark for text. No product.
+Old v1 tiles (60 lb / 3 to 6 hrs / 60 nights / 5 yrs) rejected as repetitive, kept in assets/pdp_sections/old_stats/.
+
 ## COPY ERRORS FOUND ON LIVE PAGE (2026-11-07)
 URGENT (fake claims live now):
 1. Stats tiles say "50,000+ Men… GemLab", "Dermatologist Approved Formulas", "Ongoing Expert Guidance", "Premium Customer Support". Remove now.
