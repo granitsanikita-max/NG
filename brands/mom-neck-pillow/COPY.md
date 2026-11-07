@@ -239,6 +239,7 @@ Sub heading 2:
 ---
 
 ## D · Answers from Nikita (2026-11-07)
+- **Firmness:** never call it firm. Nikita: the pillow is not too firm. The settling-in line is about the new shape, not firmness.
 - **Shipping:** CJPacket Ordinary. Transit 4 to 9 days (62% of orders), 10 to 12 days (31%). Copy uses: leaves in 1 to 3 business days, arrives in 7 to 14 business days, free and tracked. (Processing 1 to 3 days = assumption, confirm.) The $45.63 on that CJ screen was AUD. Offer prices in OFFER.md stand.
 - **Materials:** memory foam, polyurethane filler, polyester fibre core fabric. 60 × 40 × 12 cm. Ships vacuum rolled, roll 43 × 15 cm.
 - **Guarantee:** **60 nights** (changed from 90). Refund in full and **she keeps the pillow**. No return needed.
@@ -321,7 +322,7 @@ Trust row (3 icons):
 > **Back sleeper?** Rest your head in the lower middle.
 > **Side sleeper?** Use the higher side and let your arm slide into the cutout.
 >
-> It feels firmer than a fluffy pillow at first. Give it two nights. That firmness is what stops your head from sinking.
+> The shape is new, so give it a night or two. Once your head finds its spot, it just feels like your pillow.
 
 **Tab 3: Materials & care**
 > **Inside:** memory foam that slowly springs back to its shape.
@@ -361,9 +362,9 @@ Subline:
 **Card 2**
 - Title: Finally sleeping on my side again
 - Name: Brianna K. · Side sleeper, baby 7 months
-- Ticks: No more numb arm · Firm but comfy · Easy to get used to
+- Ticks: No more numb arm · Soft but supportive · Easy to get used to
 - Review:
-> "My left arm went numb every single night from sleeping curled up. There's a spot where your arm just sits now and that alone was worth it. Took me a couple of nights to get used to how firm it is. Now my old pillow feels like nothing."
+> "My left arm went numb every single night from sleeping curled up. There's a spot where your arm just sits now and that alone was worth it. Took me a night or two to get used to the shape. Now my old pillow feels like nothing."
 
 **Card 3**
 - Title: Second baby, way less grumpy at 6am
@@ -488,7 +489,7 @@ Button:
 ---
 
 ## S9 · Timeline: what your first nights look like
-*Techniques: dated benefit ladder, the first real sensation, flaw to feature (firmness is the point), an honest expectation line, and the hand off straight into the guarantee. Comfort and feel only, no timed body results.*
+*Techniques: dated benefit ladder, the first real sensation, an honest settling in period (a new shape), an honest expectation line, and the hand off straight into the guarantee. Comfort and feel only, no timed body results.*
 
 **PASTE**
 
@@ -498,7 +499,7 @@ Headline:
 **Step 1 · DAY ONE**
 - Title: Unroll it and let it rise
 - Body:
-> It arrives rolled up tight. Take it out of the plastic and give it a day or so to fully rise. The first night it'll feel firmer than the pillow you're used to. That's normal, and it's the whole point. Your soft pillow is what's been letting your neck sink. Give it two nights.
+> It arrives rolled up tight. Take it out of the plastic and give it a day or so to fully rise. The first night your head is getting used to a new shape, so it can feel a little different from the pillow you're used to. That's normal. Give it two nights.
 
 **Step 2 · THE FIRST MORNINGS**
 - Title: Less stiff when the baby wakes
@@ -562,7 +563,7 @@ Subline:
 > Kayla T. · Side sleeper, baby 5 months
 
 **Review 2** ★★★★☆
-> "Firmer than I expected and the first night I wasn't sure. By night three I was annoyed when I had to sleep at my mom's on a normal pillow. Only giving 4 stars because it took almost 2 days to puff up all the way after unrolling."
+> "The shape is really different from my old pillow and the first night I wasn't sure. By night three I was annoyed when I had to sleep at my mom's on a normal pillow. Only giving 4 stars because it took almost 2 days to puff up all the way after unrolling."
 > Morgan L. · First baby, 10 weeks
 
 **Review 3** ★★★★★
@@ -594,8 +595,8 @@ Headline:
 Subline:
 > Still wondering about something? Email hello@recovermama.com and a real person will get back to you.
 
-**1. It feels firmer than my old pillow. Is that normal?**
-> Yes. It can take a night or two to get used to it. That firmness is what stops your head from sinking and your neck from bending while you sleep. Give it two nights before you decide.
+**1. It feels different from my old pillow. Is that normal?**
+> Yes. The shape is new, so it can take a night or two to get used to. Once your head settles into the middle or your arm finds the cutout, it just feels like your pillow. Give it two nights before you decide.
 
 **2. I've tried other pillows. Why would this one be different?**
 > Most pillows go flat by the middle of the night, come in one height, and give your arm nowhere to go when you sleep on your side. This one holds its shape until morning, is lower in the middle for your back and higher on the sides for your side, and has cutouts for your arm and shoulder. And if it's still not right for you, you have 60 nights to get a full refund.
