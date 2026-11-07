@@ -1,0 +1,3 @@
+.rm-color-pop{position:absolute;inset:0;z-index:6;opacity:0;pointer-events:none;transition:opacity .25s ease;border-radius:12px;overflow:hidden;background:#EEE4F0}
+.rm-color-pop.on{opacity:1}
+.rm-color-pop img{width:100%;height:100%;object-fit:contain;display:block}
