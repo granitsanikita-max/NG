@@ -2,13 +2,14 @@
 
 > The handoff file. EVERY station updates this before it stops. Read it first.
 
-- **Current stage:** store-build (PDP planning)
-- **Status:** IN PROGRESS — PDP plan done (FUNNEL.md); 4 products listed in Shopify via CJ (Draft)
-- **Next action:** Copywriting writes COPY.md from FUNNEL.md S1–S15, then build the PDP in GemPages (template + 6 added sections). Product photography + fit/height/rebound claims wait on the sample.
+- **Current stage:** store-build (PDP in GemPages)
+- **Status:** IN PROGRESS — copy v2 done (COPY.md); brand colours applied to the GemPages PDP (unpublished, NEED_PUBLISHING)
+- **Next action:** Nikita reviews the PDP preview, then pastes the COPY.md copy section by section; then offer pass (Kaching 2-pack, bonuses), images/gallery, republish when he says so.
 - **Blocked on (from Nikita):** a **sample order** (hero pillow + spare case + heat wrap + neck relaxer) to confirm foam quality, core = memory foam (not polyester), case fit, and heat retention — before the PDP goes live.
-- **Last touched:** 2026-11-07 by offer-design (PDP plan)
+- **Last touched:** 2026-11-07 by store-build (PDP colours)
 
 ## Log (newest first)
+- 2026-11-07 · store-build · **Brand colours applied to the GemPages PDP (all 16 sections, colours only, no copy).** Light single-hue lilac gradients alternate Dusk `#F3ECF4→#E6DAE9→#D3C1D8` / Dawn (reverse); top bar, banner card, footer = light plum gradient `#7A6290→#9A82AB` with white text; every CTA Rosehip `#B8476A` white text; headings `#2E2340`, body `#2B2230`; comparison "ours" column + verified badges = plum `#6E5683`; review cards Milk. Restore point versionId 645081624827920917. Page is NEED_PUBLISHING — live page unchanged until republished.
 - 2026-11-07 · copywriting · **PDP copy v1 written (COPY.md Part 2, S1 to S16).** No dashes, banned-word scan clean. Nikita's answers logged: guarantee now **60 nights, refund + keep the pillow** (was 90 / return label), 5-yr warranty yes, no certs, founding batch 500, support hello@recovermama.com, no sample coming, CJPacket Ordinary 4 to 12 days. Reviews in copy = writing test only, NOT for publishing. Founder note = draft in Nikita's mum's voice, must be checked with her. ⚠ CJ shipping quote $45.63 vs $22.57 per unit: check quantity, margin risk.
 - 2026-11-07 · offer-design · **PDP plan written to FUNNEL.md** against Nikita's GemPages template + Notion PDP fundamentals: 15 sections, objection map, honest proof plan, true-only urgency. Template kept as shell; 4 blocks repurposed (fake stats/chart/press/before-after removed), 6 sections added. Products listed via CJ to store ns1p1g-xq (Draft): Night Shift Pillow $79 (Light Gray/Dark Gray/Navy), Spare Night Shift Pillowcase $19 (305EV), Night Shift Warm Wrap $39 (304DW gray), Nap-Time Neck Rest $34 (Pink). 2-pack built in Kaching (2× single $129), not the 511KP SKU. Store currency switched to USD. Brand palette "The 3am Palette" proposed (Plum #2E2340 / Milk #FBF4EE / Rosehip #B8476A / Skin to Skin #F2D3C9 / Lilac #DCD0E8 / Lamplight #E8B86B) — pending Nikita lock.
 - 2026-11-06 · offer-design · **OFFER LOCKED.** 5 products sourced (hero V5 single `CJYD273980502BY`/2-pack `511KP` · spare case `CJYD316612305EV` · heat wrap `CJYD284212302BY` · neck relaxer `CJZT1634290`; lumbar optional). Real landed costs in (hero $29.11 USD). Prices set: hero $79 (CM 60%), case bump $19, neck relaxer $34, heat wrap $39, 2nd pillow $49. Digital bonus stack $87 (>product). 90-night free-both-ways guarantee. KPIs: break-even ROAS 1.67, target 2.5 (20% net); AOV ~$105. Name = "The Undo Mom-Neck Kit." Full detail in OFFER.md.
