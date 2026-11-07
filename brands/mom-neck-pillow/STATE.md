@@ -8,6 +8,11 @@
 - **Blocked on (from Nikita):** a **sample order** (hero pillow + spare case + heat wrap + neck relaxer) to confirm foam quality, core = memory foam (not polyester), case fit, and heat retention — before the PDP goes live.
 - **Last touched:** 2026-11-07 by store-build (PDP colours)
 
+## IMAGES PASS — to make (reminder for Nikita)
+- **Stats grid: 4 tile IMAGES with text baked in** (copy in COPY.md S7): Up to 60 lb · 3 to 6 hours · 60 nights · 5 years. Plus wide tile background photo (replace GemLab man; 64% text stays editable).
+- Mechanism section: head-load chart image + chart title "How much your neck carries as your head tips down" (data in COPY.md S6).
+- Accordion: replace shower photo (mom side sleeping, arm in cutout).
+
 ## Log (newest first)
 - 2026-11-07 · store-build · **Brand colours applied to the GemPages PDP (all 16 sections, colours only, no copy).** Light single-hue lilac gradients alternate Dusk `#F3ECF4→#E6DAE9→#D3C1D8` / Dawn (reverse); top bar, banner card, footer = light plum gradient `#7A6290→#9A82AB` with white text; every CTA Rosehip `#B8476A` white text; headings `#2E2340`, body `#2B2230`; comparison "ours" column + verified badges = plum `#6E5683`; review cards Milk. Restore point versionId 645081624827920917. Page is NEED_PUBLISHING — live page unchanged until republished.
 - 2026-11-07 · copywriting · **PDP copy v1 written (COPY.md Part 2, S1 to S16).** No dashes, banned-word scan clean. Nikita's answers logged: guarantee now **60 nights, refund + keep the pillow** (was 90 / return label), 5-yr warranty yes, no certs, founding batch 500, support hello@recovermama.com, no sample coming, CJPacket Ordinary 4 to 12 days. Reviews in copy = writing test only, NOT for publishing. Founder note = draft in Nikita's mum's voice, must be checked with her. ⚠ CJ shipping quote $45.63 vs $22.57 per unit: check quantity, margin risk.
