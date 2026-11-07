@@ -6,6 +6,24 @@
 - **Funnel type:** Discovery Stack — Ad → Advertorial (pre-sell) → Offer page (this PDP) → Cart → Post-purchase. Cold traffic never lands on the PDP; warm / retargeting traffic can.
 - **Build order:** PDP first → Advertorial → minimal Homepage.
 
+## ★ FINAL PDP SECTION ORDER — LOCKED 2026-11-07 (supersedes the S-numbering below)
+Ordered by scroll attention: everything needed to buy sits in the hero + gallery (seen by ~100%); then sections follow the order of her questions; emotional/"nice to have" goes low. Sections added in GemPages by Nikita.
+1. Top bar
+2. Hero + 8-slide gallery + buy box (gallery carries the whole argument: pain, comparison, cutout, heights, rebound, guarantee)
+3. "Why you'll love it" accordion (fit · care · shipping · returns)
+4. Short review strip (3–4) — pre-launch slot holds "You're not alone" mom quotes, swapped for real reviews
+5. Comparison table (old pillow vs Night Shift)
+6. Stats grid — real stats only: up to 60 lb neck load looking down (Hansraj 2014) · ~3–6 hrs/day looking down (8–12 feeds × 20–40 min, labelled estimate) · up to 64% of breastfeeding moms report neck pain (PMID 41804213, footnoted) · 5-second slow rebound · 2 heights (confirm on sample) · 90 nights / 5-yr warranty. Customer stats added only once real (survey). Head-load bar chart folded in here.
+7. "Why your pillow fails you at night" (mechanism)
+8. Timeline — "What your first nights look like" → ends on "that's why you get 90 nights"
+9. Guarantee block (before mission / not-alone: risk removal beats emotion at decision depth)
+10. Full reviews wall
+11. FAQ (13)
+12. Complete your 3am kit (case · warm wrap · neck rest)
+13. Mission + "You're not alone" (combined)
+14. Final offer repeat + trust strip + footer
+— Sticky mobile buy bar sitewide · email/quiz pop-up.
+
 ---
 
 ## 0 · Verdict on the GemPages template
