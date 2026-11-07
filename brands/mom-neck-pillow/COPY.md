@@ -140,30 +140,31 @@ Order follows scroll attention: everything needed to buy is in the hero; then he
 - **Techniques:** Complete the routine (Zone 16) · Each tile = one-line benefit tied to her night (Zone 7).
 - **Tiles:** spare pillowcase (never caught with it in the wash) · Warm Wrap · Neck Rest (only once its images and text are fully clean).
 
-### S14 · About us (founder note)
-*Techniques: origin of necessity (she had the pain, nothing lasted, she was told it was normal), the authority this buyer trusts most (a mum who has been there), a signed note so the brand is a person, permission and honesty as the promise. Kept general: no named child, no ages, nothing that ties to a real family.*
+### S14 · About us · HONEST BRAND VERSION (Nikita chose this 2026-11-07; no founder persona)
+*Techniques: origin told truthfully (built from real moms' words in our research, not a made up founder), a real verbatim mom quote in the quote box, "we" voice, permission and honesty as the promise. Quote is VERBATIM from brain/03-persuasion.md [S4].*
 
 **PASTE**
 
 Quote box:
-> "I spent the first year of motherhood waking up sore and being told it was just part of having a baby. It isn't. And you shouldn't have to wait it out."
+> "So everyone just walks around with discomfort like this?!"
 
-Signature:
-> [Founder first name]
-> [Founder full name] · Founder, and a mum who's been there
+Signature slot: delete it (no person signs this).
+
+Name line:
+> A new mom, in an online parenting group
 
 Headline:
-> Made by a mum who got tired of hearing "that's just motherhood"
+> Made for the mom who keeps hearing "that's just motherhood"
 
 Intro:
-> When my first baby arrived, I fed every two or three hours, day and night, with my head bent down the whole time. Within a few weeks the back of my neck was so tight I could barely turn to look at the clock. I stretched. I booked massages I couldn't really afford. I bought pillow after pillow. Everything helped for an hour, then the next feed started and I was right back where I began.
+> RecoverMama started with hundreds of posts from moms just like you. Moms feeding every two or three hours with their heads bent over the baby. Moms whose necks got so tight they could barely turn to check the clock. Moms who'd stretched, booked massages and bought pillow after pillow, and felt better for an hour before the next feed started.
 >
-> The hardest part was being told it was normal. Everyone said the same thing: that's just what happens when you have a baby. I kept thinking, why does nobody make something for this? So I started RecoverMama.
+> And again and again, the same line. Everyone told them it was normal. That's just what happens when you have a baby. We don't think you should have to wait it out. So we built something for the part of the day nobody was looking at: the night.
 
 Sub heading 1:
 > **Why we focus on the night**
 
-> Your days belong to the baby. That isn't going to change, and you wouldn't want it to. But the hours you sleep can be yours. That's where we put everything: a pillow that holds your neck while you rest, so the night stops working against you and you wake up feeling more like yourself.
+> Your days belong to the baby. That isn't going to change, and you wouldn't want it to. But the hours you sleep can be yours. That's where we put everything: a pillow that holds your neck while you rest, so the night stops working against you.
 
 Sub heading 2:
 > **Our promise to you**
