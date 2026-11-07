@@ -16,4 +16,4 @@ ad-creation → live → scaling
 
 <!-- Add new brands below. -->
 | unhidden | store-build PDP (setup) | IN PROGRESS | Brand grounded: brain mirrored from Notion (DOC1-4) + Nikita's funnel/offer doc. Men's compression tank "Unhidden", SKU CJYD323488814NM S-5XL, 5 colours. Offer = "The Finish-Line Kit" ($39.95/$79.90 B2G1 pre-sel/$119.85), digital Kit + "Look-Flatter-Or-It's-Free" keep-it guarantee + Founding-500 + Fit-Finder. PDP-FIRST funnel, 14-section map. PDP speaks to all avatars (loose-skin wedge + broad dad-bod + partner buyer); sharp per-avatar ads. COMPLIANCE existential (appearance-only, no weight-loss/condition/medical/fake-proof). Imagery = REAL (AI=dropship tell); design assets buildable now, on-body/demo sample-gated. Next: store template -> offer lock -> PDP copy -> images. | 2026-10-30 | store-build |
-
+| mom-neck-pillow | store-build | IN PROGRESS | RecoverMama (recovermama.com). Offer locked ($79 hero). PDP plan in FUNNEL.md (15 sections). 4 products listed via CJ as Draft. NEXT: COPY.md → GemPages build. Blocked: sample (fit/heights/rebound/photos). | 2026-11-07 | offer-design |

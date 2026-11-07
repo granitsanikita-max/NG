@@ -1,0 +1,16 @@
+# STATE — Mom Neck Pillow
+
+> The handoff file. EVERY station updates this before it stops. Read it first.
+
+- **Current stage:** store-build (PDP planning)
+- **Status:** IN PROGRESS — PDP plan done (FUNNEL.md); 4 products listed in Shopify via CJ (Draft)
+- **Next action:** Copywriting writes COPY.md from FUNNEL.md S1–S15, then build the PDP in GemPages (template + 6 added sections). Product photography + fit/height/rebound claims wait on the sample.
+- **Blocked on (from Nikita):** a **sample order** (hero pillow + spare case + heat wrap + neck relaxer) to confirm foam quality, core = memory foam (not polyester), case fit, and heat retention — before the PDP goes live.
+- **Last touched:** 2026-11-07 by offer-design (PDP plan)
+
+## Log (newest first)
+- 2026-11-07 · offer-design · **PDP plan written to FUNNEL.md** against Nikita's GemPages template + Notion PDP fundamentals: 15 sections, objection map, honest proof plan, true-only urgency. Template kept as shell; 4 blocks repurposed (fake stats/chart/press/before-after removed), 6 sections added. Products listed via CJ to store ns1p1g-xq (Draft): Night Shift Pillow $79 (Light Gray/Dark Gray/Navy), Spare Night Shift Pillowcase $19 (305EV), Night Shift Warm Wrap $39 (304DW gray), Nap-Time Neck Rest $34 (Pink). 2-pack built in Kaching (2× single $129), not the 511KP SKU. Store currency switched to USD. Brand palette "The 3am Palette" proposed (Plum #2E2340 / Milk #FBF4EE / Rosehip #B8476A / Skin to Skin #F2D3C9 / Lilac #DCD0E8 / Lamplight #E8B86B) — pending Nikita lock.
+- 2026-11-06 · offer-design · **OFFER LOCKED.** 5 products sourced (hero V5 single `CJYD273980502BY`/2-pack `511KP` · spare case `CJYD316612305EV` · heat wrap `CJYD284212302BY` · neck relaxer `CJZT1634290`; lumbar optional). Real landed costs in (hero $29.11 USD). Prices set: hero $79 (CM 60%), case bump $19, neck relaxer $34, heat wrap $39, 2nd pillow $49. Digital bonus stack $87 (>product). 90-night free-both-ways guarantee. KPIs: break-even ROAS 1.67, target 2.5 (20% net); AOV ~$105. Name = "The Undo Mom-Neck Kit." Full detail in OFFER.md.
+- 2026-11-06 · offer-design · **Hero LOCKED: V5 CJ pillow** (`CJYD273980502BY` single / `CJYD273980511KP` 2-pack), landed ~US$28. PRODUCT.md written. Step 2 Part A offer designed into OFFER.md (premium single-hero $79, 90-night free-both-ways guarantee, digital bonuses, discounted-2nd-pillow upsell — BOGO ruled out on margin). Competitor-offer spy done (Dosaze/Derila/Groove/Nuzzle/Restora/PillowCube/Neurogena). Sourcing list set: hero + spare cover + heat wrap + eye mask (physical) + digital bonuses + shipping-protection app.
+- 2026-11-06 · deep-research · **Brand name LOCKED: RecoverMama — domain recovermama.com** (Nikita acquiring). Name carries the position (recover the mother) and extends beyond the pillow to future new-mom recovery products.
+- 2026-11-06 · deep-research · Step 1 Deep Market Research committed to brain/ (4 docs + 605-snippet §2C data bank). Coverage 277/284 lines, 0 todo. Wedge = CONDITIONAL PASS (Dosaze already tests the nursing-neck pillow angle; mom-FIRST brand/PDP/nighttime-recovery identity still unbuilt). Economics deferred to Step 2 per Nikita. Same docs mirrored as Google Docs in Drive.
