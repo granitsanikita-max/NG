@@ -13,6 +13,7 @@
 - Mechanism section: head-load chart image + chart title "How much your neck carries as your head tips down" (data in COPY.md S6).
 - Accordion: replace shower photo (mom side sleeping, arm in cutout).
 - Timeline: replace GemLab "Magic Foam" image; its baked-in icon strip becomes: Holds its shape · Room for your arm · Washable cover (COPY.md S9).
+- Guarantee block: 4 badge images (replace fake All Natural/High Protein/Organic certs, we have NO certs): 60 nights to try it · Keep it, even with a refund · Free tracked shipping · 5 year warranty. Plus right-side photo (replace COSME bottles).
 - Mid-page banner: brown fabric background image (Nikita deleting it so plum gradient shows; replace only if we want a plum/lilac photo).
 
 ## Log (newest first)
