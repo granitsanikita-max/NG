@@ -12,21 +12,28 @@
 .rmadv h1,.rmadv h2,.rmadv h3{font-family:'Merriweather',Georgia,serif;font-weight:900;color:var(--plum);margin:0}
 /* top: label + masthead (kept tiny: it must not cost the fold) */
 .rmadv .adlabel{font-size:10px;letter-spacing:2px;color:#8a8090;text-align:center;padding:5px 0;border-bottom:1px solid var(--line);background:#fff;text-transform:uppercase}
-.rmadv .mast{text-align:center;padding:10px 0 7px;border-bottom:3px double #222}
-.rmadv .mast b{display:block;font-family:'Merriweather',Georgia,serif;font-weight:900;font-size:21px;color:#111;letter-spacing:.3px}
-.rmadv .mast span{display:block;font-size:10px;color:var(--muted);letter-spacing:1.5px;text-transform:uppercase;margin-top:2px}
-.rmadv .cat{font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;color:var(--rose);margin:12px 0 6px}
-.rmadv h1{font-size:27px;line-height:1.25;letter-spacing:-.2px;margin-bottom:10px;text-wrap:balance}
+.rmadv .topbar{background:#1A1A1A;color:#fff;display:flex;align-items:center;justify-content:space-between;padding:10px 18px}
+.rmadv .topbar b{font-family:'Merriweather',Georgia,serif;font-weight:900;font-size:16px;letter-spacing:.2px;white-space:nowrap}
+.rmadv .topbar span{font-size:12px;font-weight:700;color:#fff;white-space:nowrap}
+.rmadv .topbar span i{font-style:normal;color:#FFD54A}
+.rmadv .rating{display:flex;align-items:center;gap:8px;margin:0 0 10px;font-size:15px;font-weight:700;color:#222}
+.rmadv .rating .st{color:var(--star);font-size:19px;letter-spacing:1px}
+.rmadv .split{display:grid;grid-template-columns:1fr 1fr;gap:4px;margin:0 0 10px;border-radius:10px;overflow:hidden}
+.rmadv .split .slot{margin:0;border-radius:0;aspect-ratio:1/1}
+.rmadv .split .tag{position:absolute;top:8px;left:8px;width:30px;height:30px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:900;font-size:17px}
+.rmadv .split .no{background:#D93025}.rmadv .split .yes{background:#1E8E3E}
+.rmadv .cat{font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;color:var(--rose);margin:12px 0 5px}
+.rmadv h1{font-size:25px;line-height:1.22;letter-spacing:-.2px;margin-bottom:8px;text-wrap:balance}
 .rmadv h2{text-wrap:balance}
 .rmadv h1 .hl{background:linear-gradient(transparent 45%,var(--hl) 45%);padding:0 2px}
-.rmadv .dek{font-size:17px;line-height:1.5;color:#444;margin:0 0 14px}
+.rmadv .dek{font-size:16px;line-height:1.42;color:#1A1A1A;font-weight:700;margin:0 0 10px}
 /* slots (images / GIFs to be added) */
 .rmadv .slot{position:relative;width:100%;border-radius:4px;background:repeating-linear-gradient(135deg,#F3F3F3 0 10px,#ECECEC 10px 20px);border:2px dashed #C8C8C8;display:flex;align-items:center;justify-content:center;text-align:center;color:#777;font-size:13px;line-height:1.35;padding:14px;margin:6px 0 8px}
 .rmadv .slot b{display:block;color:var(--rose);font-size:11px;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:4px}
 .rmadv .r43{aspect-ratio:4/3}.rmadv .r11{aspect-ratio:1/1}.rmadv .r169{aspect-ratio:16/9}.rmadv .r45{aspect-ratio:4/5}
 .rmadv .cap{font-size:13px;color:var(--muted);font-style:italic;margin:0 0 16px}
 /* byline: below the hero, under the fold */
-.rmadv .byline{display:flex;gap:10px;align-items:center;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin:0 0 22px;font-size:13px;line-height:1.4;color:var(--muted)}
+.rmadv .byline{display:flex;gap:10px;align-items:center;padding:4px 0 12px;border-bottom:1px solid var(--line);margin:0 0 22px;font-size:13px;line-height:1.4;color:var(--muted)}
 .rmadv .byline .av{width:38px;height:38px;border-radius:50%;flex:none;background:#EEE;border:2px dashed #C8C8C8}
 .rmadv .byline b{color:var(--ink)}
 .rmadv h2{font-size:23px;line-height:1.3;margin:34px 0 14px}
@@ -92,7 +99,7 @@
 .rmadv .src ol{padding-left:18px;margin:6px 0 12px}
 .rmadv hr{border:0;border-top:1px solid var(--line);margin:26px 0}
 /* sticky bar (mobile) */
-.rmadv .sticky{position:fixed;left:0;right:0;bottom:0;z-index:999;background:#fff;border-top:1px solid var(--line);box-shadow:0 -6px 20px rgba(46,35,64,.10);padding:10px 14px calc(10px + env(safe-area-inset-bottom));display:flex;align-items:center;gap:12px;transform:translateY(110%);transition:transform .25s ease}
+.rmadv .sticky{position:fixed;left:0;right:0;bottom:0;z-index:999;background:rgba(255,255,255,.96);border-top:1px solid var(--line);box-shadow:0 -6px 20px rgba(0,0,0,.08);padding:10px 14px calc(10px + env(safe-area-inset-bottom));display:flex;align-items:center;gap:12px;transform:translateY(110%);transition:transform .25s ease}
 .rmadv .sticky.on{transform:none}
 .rmadv .sticky .tx{flex:1;font-size:13px;line-height:1.3;color:var(--muted)}
 .rmadv .sticky .tx b{display:block;font-size:15px;color:var(--plum)}
@@ -107,19 +114,18 @@
 </style>
 
 <div class="rmadv">
-<div class="adlabel">Advertisement</div>
+<div class="topbar"><b>The Modern Mother</b><span>Trending in <i>Health</i></span></div>
 <div class="wrap">
 
-<div class="mast"><b>The Modern Mother</b><span>Health · Family · Postpartum</span></div>
 <div class="cat">Postpartum Health · Neck &amp; Shoulders</div>
 
 <h1>New Moms: Your Neck Isn't Stiff From the Feeds. It's From <span class="hl">the 8 Hours After Them.</span></h1>
 <p class="dek">Postpartum physical therapists say the first year decides whether "mom neck" eases or sticks around, and the easiest change happens while you sleep.</p>
 
-<div class="slot r43"><div><b>GIF 1 · Hero (above the fold)</b>Before / after or 3am feeding moment</div></div>
-<p class="cap">3:12am. Feed number nine. This is where most moms think the stiffness starts.</p>
+<div class="rating"><span class="st">★★★★★</span><span>2,413 Ratings</span></div>
+<div class="split"><div class="slot"><span class="tag no">✕</span><div><b>GIF 1A · Before</b>Neck bent on a flat pillow</div></div><div class="slot"><span class="tag yes">✓</span><div><b>GIF 1B · After</b>Neck held level, sleeping easy</div></div></div>
 
-<div class="byline"><div class="av"></div><div>By <b>Megan Cole</b><br>Medically reviewed by <b>Dana Reyes, DPT</b>, postpartum physical therapist · Updated November 2026</div></div>
+<div class="byline"><div class="av"></div><div>By <b>Megan Cole</b> · Medically reviewed by <b>Dana Reyes, DPT</b>, postpartum physical therapist</div></div>
 
 <!-- P -->
 <p class="big">You know the moment.</p>
@@ -271,10 +277,10 @@
 
 <h2>Questions moms ask</h2>
 <details><summary>Can I sleep on my side facing the baby's crib?</summary><p>Yes. That's what it was made for. The raised side keeps your neck level and the cut-out gives your arm somewhere to go.</p></details>
-<details><summary>I fall asleep in the glider during feeds. Will it help?</summary><p>Honestly, it's a bed pillow. It helps the hours you're in bed, which is most of your sleep. That's where the biggest stretch of time is.</p></details>
+<details><summary>I fall asleep in the rocking chair during feeds. Will it help?</summary><p>Honestly, it's a bed pillow. It helps the hours you're in bed, which is most of your sleep. That's where the biggest stretch of time is.</p></details>
 <details><summary>Is it safe around the baby?</summary><p>It's for you, on your side of the bed. Keep the baby on their own flat sleep surface with nothing in it, as your pediatrician recommends.</p></details>
 <details><summary>I'm small. Will it be too high for me?</summary><p>The low middle is made for back sleeping on smaller frames. The raised sides fill the gap for broader shoulders. Most moms find their spot on night one or two.</p></details>
-<details><summary>When will it arrive?</summary><p>Shipping is free and tracked. Most orders arrive in 7 to 12 business days, and you'll get the tracking link by email.</p></details>
+<details><summary>When will it arrive?</summary><p>Shipping is free and tracked. Most orders arrive in 4 to 10 business days, and you'll get the tracking link by email.</p></details>
 <details><summary>Is it worth $80?</summary><p>It costs about the same as one chiropractor visit. Spread over a year of nights, that's about 22 cents a night. And it's working every one of them.</p></details>
 <details><summary>What if it's not for me?</summary><p>You get 60 nights. If your mornings don't feel better, send one email. Full refund, and you keep the pillow.</p></details>
 <a class="cta" href="/products/the-night-shift-pillow" style="margin-top:20px">Check Today's Price →</a>
@@ -330,8 +336,8 @@
 <div style="height:90px"></div>
 </div>
 
-<div class="sticky" id="rmSticky"><div class="tx"><b>The Night Shift Pillow</b>$79.95 · 60 nights to try it</div><a href="/products/the-night-shift-pillow">Get Mine</a></div>
+<div class="sticky" id="rmSticky"><div class="tx"><b>Moms are switching</b>60 nights to try it</div><a href="/products/the-night-shift-pillow">Check Availability →</a></div>
 </div>
 <script>
-(function(){var n=0;function go(){var s=document.getElementById('rmSticky'),c=document.getElementById('rmCta1');if(!s||!c){if(n++<80)setTimeout(go,150);return;}if(!s.parentNode.classList.contains('rmadv-float')){var w=document.createElement('div');w.className='rmadv rmadv-float';w.style.cssText='height:0;background:none';document.body.appendChild(w);w.appendChild(s);}function u(){var r=c.getBoundingClientRect();s.classList.toggle('on',r.top<window.innerHeight*0.2);}window.addEventListener('scroll',u,{passive:true});document.addEventListener('scroll',u,{passive:true,capture:true});u();}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',go);else go();})();
+(function(){var n=0;function go(){var s=document.getElementById('rmSticky'),c=document.getElementById('rmCta1');if(!s||!c){if(n++<80)setTimeout(go,150);return;}if(!s.parentNode.classList.contains('rmadv-float')){var w=document.createElement('div');w.className='rmadv rmadv-float';w.style.cssText='height:0;background:none';document.body.appendChild(w);w.appendChild(s);}function u(){var r=c.getBoundingClientRect();s.classList.add('on');}window.addEventListener('scroll',u,{passive:true});document.addEventListener('scroll',u,{passive:true,capture:true});u();}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',go);else go();})();
 </script>

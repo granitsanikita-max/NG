@@ -334,7 +334,7 @@ Dana is honest about this part. So are we.
 **Can I sleep on my side facing the baby's crib?**
 Yes. That's what it was made for. The raised side keeps your neck level and the cut-out gives your arm somewhere to go.
 
-**I fall asleep in the glider during feeds. Will it help?**
+**I fall asleep in the rocking chair during feeds. Will it help?**
 Honestly, it's a bed pillow. It helps the hours you're in bed, which is most of your sleep. That's where the biggest stretch of time is.
 
 **Is it safe around the baby?**
@@ -344,7 +344,7 @@ It's for you, on your side of the bed. Keep the baby on their own flat sleep sur
 The low middle is made for back sleeping on smaller frames. The raised sides fill the gap for broader shoulders. Most moms find their spot on night one or two.
 
 **When will it arrive?**
-Shipping is free and tracked. Most orders arrive in 7 to 12 business days, and you'll get the tracking link by email.
+Shipping is free and tracked. Most orders arrive in 4 to 10 business days, and you'll get the tracking link by email.
 
 **Is it worth $80?**
 It costs about the same as one chiropractor visit. Spread over a year of nights, that's about 22 cents a night. And it's working every one of them.
