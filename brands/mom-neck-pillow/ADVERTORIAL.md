@@ -94,9 +94,9 @@ By Megan Cole · Medically reviewed by Dana Reyes, DPT, postpartum physical ther
 
 You know the moment.
 
-You wake up. Your eyes aren't even open yet. You go to turn your head toward the bassinet.
+You wake up. Your eyes aren't even open yet. You go to turn your head toward the crib.
 
-And it won't go.
+**And it won't go.**
 
 Not all the way. There's a hard knot at the base of your skull. A tight band across the tops of your shoulders. Maybe a dull ache between your shoulder blades that was there yesterday too. And the day before.
 
@@ -104,11 +104,11 @@ So you do what every mom does. You roll your shoulders. You rub it with one hand
 
 For a lot of moms, it doesn't.
 
-And it was never really the feeds.
+**And it was never really the feeds.**
 
 First, you're not imagining this. You're not being dramatic, and you're not weak.
 
-When researchers asked breastfeeding moms about their bodies, up to 64% said they had neck pain. That's nearly two out of every three moms. Online, moms have their own name for it. They call it "mom neck."
+When researchers asked breastfeeding moms about their bodies, **up to 64% said they had neck pain.** That's nearly two out of every three moms. Online, moms have their own name for it. They call it "mom neck."
 
 Most of them were told the same thing you were. It's normal. It comes with the baby. Just stretch.
 
@@ -138,7 +138,7 @@ Now think about where your eyes go all day.
 
 Down at the latch. Down at her face. Down at the burp cloth. Down at the diaper. And at 3am, down at your phone, because it's the only thing keeping you awake.
 
-Most new moms feed 8 to 12 times a day, for 20 to 40 minutes at a time. Take an average day of 10 feeds at 27 minutes. That's 4 and a half hours with your head tipped forward.
+Most new moms feed 8 to 12 times a day, for 20 to 40 minutes at a time. Take an average day of 10 feeds at 27 minutes. **That's 4 and a half hours with your head tipped forward.**
 
 That's why the base of your skull is the first thing to lock up. That's why the tops of your shoulders feel like rope. It's not weakness. It's weight.
 
@@ -150,7 +150,7 @@ She doesn't think the feeds are the real problem.
 
 ## The one question Dana asks every mom
 
-"What do you sleep on?"
+**"What do you sleep on?"**
 
 That's it. That's the question.
 
@@ -166,13 +166,13 @@ Most pillows are soft fill. Polyester, feathers, or cheap foam. They feel lovely
 
 By 2am, your head has sunk. Your neck is bent again. Not forward this time, but down and sideways, with nothing under it.
 
-If you sleep on your side, facing the bassinet, it's worse. A flat pillow leaves a gap between your ear and your shoulder. Your neck hangs into that gap for hours. Your bottom arm gets crushed under the pillow. That's why you wake up shaking a dead arm.
+If you sleep on your side, facing the baby's crib, it's worse. A flat pillow leaves a gap between your ear and your shoulder. Your neck hangs into that gap for hours. Your bottom arm gets crushed under the pillow. That's why you wake up shaking a dead arm.
 
-If you're lying down right now, try this. Roll onto your side, the way you sleep. Slide two fingers between your neck and the pillow. If they fit, your neck is hanging. That's where it spends the night.
+If you're lying down right now, try this. Roll onto your side, the way you sleep. Slide two fingers between your neck and the pillow. **If they fit, your neck is hanging.** That's where it spends the night.
 
 Stack two pillows to fill the gap, and your head gets pushed too high the other way. Even a memory foam block has the same problem. It's one height. Right for your back or right for your side, never both.
 
-"So she finishes a whole day of looking down," Dana says. "Then she lies down, and her neck spends up to 8 more hours bent. It never gets a single hour off. She's not recovering at night. She's adding 8 more hours."
+"So she finishes a whole day of looking down," Dana says. "Then she lies down, and her neck spends up to 8 more hours bent. It never gets a single hour off. **She's not recovering at night. She's adding 8 more hours.**"
 
 We call it **the Night Shift.**
 
@@ -196,7 +196,7 @@ It doesn't switch off the day she's born. Your joints can stay looser for up to 
 
 "I see moms whose kids are 3 or 4 now. The stiffness never left. It just became normal for them. Some have the start of that rounded hump at the base of the neck."
 
-That's the part nobody warns you about. Mom neck isn't always a phase. For a lot of women, it's how their neck feels for years.
+That's the part nobody warns you about. **Mom neck isn't always a phase.** For a lot of women, it's how their neck feels for years.
 
 "But this works both ways," Dana says. "The same looseness that lets bad habits set in means your body responds fast to good ones. The moms who change their nights early are the ones who feel it fastest."
 
@@ -214,7 +214,7 @@ If you're reading this, you've probably tried a few things already. Moms in Dana
 
 None of these are bad. Massage and stretching really do help, and Dana recommends them.
 
-But look at when they happen. In the day. For a few minutes. Then night comes, and your neck goes back to being bent for hours. Whatever the massage loosened, the night tightens again.
+But look at when they happen. In the day. For a few minutes. Then night comes, and your neck goes back to being bent for hours. **Whatever the massage loosened, the night tightens again.**
 
 "It's like mopping the floor with the faucet still running," Dana says. "You're working so hard. The water just keeps coming."
 
@@ -250,7 +250,7 @@ Put the shape and the foam together, and you finally get a pillow that can hold 
 
 But most of them still weren't built for a new mom.
 
-"They're made for a guy who snores, or someone at a desk all day," Dana says. "Not for a mom who sleeps on her side facing a bassinet, gets up three times a night, and gets milk on everything."
+"They're made for a guy who snores, or someone at a desk all day," Dana says. "Not for a mom who sleeps on her side facing the baby's crib, gets up three times a night, and gets milk on everything."
 
 ## What Dana looks for
 
@@ -263,7 +263,7 @@ So Dana made a short list. If a pillow misses even one, she tells moms to skip i
 
 She tried 11 pillows against her list. Two came close. One was too tall for side sleeping. The other had a cover you couldn't take off.
 
-Only one passed all four.
+**Only one passed all four.**
 
 <!-- T · TRANSITION  (reveal ~55%, belief 5 → 6) -->
 
@@ -285,7 +285,7 @@ It's called **the Night Shift Pillow**, from a small brand called RecoverMama. I
 
 It won't change your feeds. You'll still look down at her 10 times a day. That's exactly why the night matters so much.
 
-And there's nothing to do.
+**And there's nothing to do.**
 
 No routine. No exercises. No appointments. You lie down at night, the same as always.
 
@@ -303,7 +303,7 @@ Dana is honest about this part. So are we.
 
 **Nights 2 and 3.** Your body settles in. Most moms say this is when it stops feeling new and starts feeling right.
 
-**Week 1.** You notice it in the mornings. Turning your head to check the bassinet. Lifting her out of the crib without bracing for it.
+**Week 1.** You notice it in the mornings. Turning your head to check on her. Lifting her out of the crib without bracing for it.
 
 **Week 2 and on.** It just becomes how you sleep. And there are whole days you don't think about your neck at all.
 
@@ -314,24 +314,24 @@ Dana is honest about this part. So are we.
 ## What moms say after a few weeks
 
 ★★★★★
-"I have four pillows in my closet I never use, so I rolled my eyes when my sister sent me this. The first night I wasn't sure. By the end of the week I caught myself turning toward the bassinet without bracing for it. That's when it clicked."
+"ok so I bought this at 3am during a feed, which is how I buy everything now lol. didn't expect much. first night my head felt kind of propped up and weird?? but by day 5 I realized I wasn't doing the whole neck roll thing every morning. my mom noticed before I did"
 **Alyssa M.** · baby 10 weeks
 
 ★★★★★
-"I sleep facing the bassinet and my bottom arm was dead every single morning. Now it just sits in the little cut-out and I don't think about it. I didn't know a pillow could change that."
+"I always sleep on my left side so I can see him, and my arm used to be completely numb by morning. Now it just goes in the gap on the side. Funny how much that used to annoy me and now I forget it was ever a thing."
 **Kelsey R.** · baby 4 months
 
 ★★★★★
-"I was paying $65 a week at the chiropractor and feeling good until about Wednesday. This cost about the same as one visit. I still go sometimes, but now it actually lasts."
+"Was going to the chiro every week since my daughter was born. $65 a pop. I still go about once a month now, which honestly says it all. Wish I'd bought it in month 1 and not month 7."
 **Monique T.** · baby 7 months
 
 ★★★★☆
-"Only reason it's not 5 stars is it's bigger than I expected and takes up more of the bed. But I'm not giving it back. My sister already ordered her own."
+"It's big. Bigger than I thought, and my side of the bed is NOT big. Took me 2 nights to get used to it. But I'm keeping it and my sister just ordered one for herself so"
 **Jen K.** · twins, 3 months
 
 ## Questions moms ask
 
-**Can I sleep on my side facing the bassinet?**
+**Can I sleep on my side facing the baby's crib?**
 Yes. That's what it was made for. The raised side keeps your neck level and the cut-out gives your arm somewhere to go.
 
 **I fall asleep in the glider during feeds. Will it help?**
@@ -382,7 +382,7 @@ When it arrives, unroll it, give it a few hours to rise, and put it on your side
 
 Think about tomorrow morning.
 
-If nothing changes, you know how it goes. You'll feed her at 2am. You'll lie back down on the same flat pillow. Your neck will spend the next few hours bent. And when you wake up and turn toward the bassinet, it'll catch. Again.
+If nothing changes, you know how it goes. You'll feed her at 2am. You'll lie back down on the same flat pillow. Your neck will spend the next few hours bent. And when you wake up and turn toward her crib, it'll catch. Again.
 
 Or.
 
@@ -390,7 +390,7 @@ You lie down on a pillow that holds your neck where it should be. You sleep. You
 
 That's the whole change. Nothing else in your day has to move.
 
-This year is the one that counts. Every night, your neck either rests or sets in a little more. The sooner your nights change, the more nights it gets back.
+This year is the one that counts. **Every night, your neck either rests or sets in a little more.** The sooner your nights change, the more nights it gets back.
 
 Founding pricing won't last forever. When it ends, the Night Shift Pillow goes back to $119.95. And you still get 60 nights to try it, so the only risk is waiting.
 
