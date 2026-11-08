@@ -1,0 +1,1 @@
+(function(){var s=document.getElementById('rmSticky'),c=document.getElementById('rmCta1');if(!s||!c)return; function u(){var r=c.getBoundingClientRect();s.classList.toggle('on',r.top<window.innerHeight*0.2);} window.addEventListener('scroll',u,{passive:true});u();})();

@@ -1,0 +1,337 @@
+<!-- RecoverMama advertorial v1.2 · layout + copy · image/GIF slots empty (to be filled) -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&family=Inter:wght@400;600;700;800&display=swap');
+/* hide store chrome on this page only */
+.shopify-section-group-header-group,header-group,#shopify-section-announcement-bar,.announcement-bar-section,.shopify-section-group-footer-group,footer-group{display:none!important}
+.rmadv{--plum:#111111;--ink:#222222;--muted:#666666;--rose:#B3261E;--rose-d:#0F6B2E;--cta:#16823A;--lilac:#F4F4F1;--lilac2:#E4E4E0;--milk:#FFFFFF;--line:#E6E6E6;--hl:#FFF0A0;--star:#F2A51A;
+  background:var(--milk);color:var(--ink);font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif;font-size:18px;line-height:1.65;-webkit-font-smoothing:antialiased}
+.rmadv *{box-sizing:border-box}
+.rmadv .wrap{max-width:680px;margin:0 auto;padding:0 18px}
+.rmadv p{margin:0 0 18px}
+.rmadv strong{color:var(--plum);font-weight:700}
+.rmadv h1,.rmadv h2,.rmadv h3{font-family:'Merriweather',Georgia,serif;font-weight:900;color:var(--plum);margin:0}
+/* top: label + masthead (kept tiny: it must not cost the fold) */
+.rmadv .adlabel{font-size:10px;letter-spacing:2px;color:#8a8090;text-align:center;padding:5px 0;border-bottom:1px solid var(--line);background:#fff;text-transform:uppercase}
+.rmadv .mast{text-align:center;padding:10px 0 7px;border-bottom:3px double #222}
+.rmadv .mast b{display:block;font-family:'Merriweather',Georgia,serif;font-weight:900;font-size:21px;color:#111;letter-spacing:.3px}
+.rmadv .mast span{display:block;font-size:10px;color:var(--muted);letter-spacing:1.5px;text-transform:uppercase;margin-top:2px}
+.rmadv .cat{font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;color:var(--rose);margin:12px 0 6px}
+.rmadv h1{font-size:27px;line-height:1.25;letter-spacing:-.2px;margin-bottom:10px;text-wrap:balance}
+.rmadv h2{text-wrap:balance}
+.rmadv h1 .hl{background:linear-gradient(transparent 45%,var(--hl) 45%);padding:0 2px}
+.rmadv .dek{font-size:17px;line-height:1.5;color:#444;margin:0 0 14px}
+/* slots (images / GIFs to be added) */
+.rmadv .slot{position:relative;width:100%;border-radius:4px;background:repeating-linear-gradient(135deg,#F3F3F3 0 10px,#ECECEC 10px 20px);border:2px dashed #C8C8C8;display:flex;align-items:center;justify-content:center;text-align:center;color:#777;font-size:13px;line-height:1.35;padding:14px;margin:6px 0 8px}
+.rmadv .slot b{display:block;color:var(--rose);font-size:11px;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:4px}
+.rmadv .r43{aspect-ratio:4/3}.rmadv .r11{aspect-ratio:1/1}.rmadv .r169{aspect-ratio:16/9}.rmadv .r45{aspect-ratio:4/5}
+.rmadv .cap{font-size:13px;color:var(--muted);font-style:italic;margin:0 0 16px}
+/* byline: below the hero, under the fold */
+.rmadv .byline{display:flex;gap:10px;align-items:center;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin:0 0 22px;font-size:13px;line-height:1.4;color:var(--muted)}
+.rmadv .byline .av{width:38px;height:38px;border-radius:50%;flex:none;background:#EEE;border:2px dashed #C8C8C8}
+.rmadv .byline b{color:var(--ink)}
+.rmadv h2{font-size:23px;line-height:1.3;margin:34px 0 14px}
+.rmadv .big{font-size:21px;font-family:'Merriweather',Georgia,serif;font-weight:700;color:var(--plum);line-height:1.4}
+.rmadv .quote{border-left:3px solid #D0D0D0;padding:2px 0 2px 14px;margin:0 0 18px}
+/* weight chart */
+.rmadv .chart{background:#fff;border:1px solid var(--line);border-radius:6px;padding:16px 16px 10px;margin:4px 0 20px}
+.rmadv .chart .row{display:grid;grid-template-columns:118px 1fr 52px;align-items:center;gap:10px;margin-bottom:10px;font-size:14px;line-height:1.25}
+.rmadv .chart .bar{height:14px;border-radius:8px;background:var(--lilac2);overflow:hidden}
+.rmadv .chart .bar i{display:block;height:100%;border-radius:8px;background:linear-gradient(90deg,#9A9A9A,#B3261E)}
+.rmadv .chart .lb{font-weight:800;color:var(--plum);text-align:right}
+.rmadv .chart small{display:block;font-size:11px;color:var(--muted);margin-top:2px}
+/* callout: the two-finger test */
+.rmadv .try{background:#FFF8DC;border:1px solid #F0E2A8;border-radius:6px;padding:16px 18px;margin:0 0 20px}
+.rmadv .try .t{font-size:11px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:var(--rose);margin-bottom:6px}
+.rmadv .try p:last-child{margin:0}
+/* lists */
+.rmadv ul.fails{list-style:none;padding:0;margin:0 0 18px}
+.rmadv ul.fails li{padding:10px 0 10px 30px;border-bottom:1px solid var(--line);position:relative}
+.rmadv ul.fails li:before{content:"✕";position:absolute;left:4px;top:10px;color:#999;font-weight:700}
+.rmadv ol.checks{list-style:none;counter-reset:c;padding:0;margin:0 0 18px}
+.rmadv ol.checks li{counter-increment:c;position:relative;background:#fff;border:1px solid var(--line);border-radius:6px;padding:12px 14px 12px 52px;margin-bottom:10px}
+.rmadv ol.checks li:before{content:counter(c);position:absolute;left:14px;top:12px;width:26px;height:26px;border-radius:50%;background:var(--plum);color:#fff;font-weight:800;font-size:14px;display:flex;align-items:center;justify-content:center}
+.rmadv .ticks p{padding-left:30px;position:relative}
+.rmadv .ticks p:before{content:"✓";position:absolute;left:2px;top:0;color:var(--cta);font-weight:900}
+/* CTA */
+.rmadv .cta{display:block;width:100%;text-align:center;background:var(--cta);color:#fff!important;text-decoration:none;font-weight:800;font-size:18px;padding:17px 16px;border-radius:6px;margin:8px 0 6px;box-shadow:0 3px 0 #0F6B2E}
+.rmadv .cta:active{background:var(--rose-d)}
+.rmadv .ctasub{text-align:center;font-size:13px;color:var(--muted);margin:0 0 24px}
+/* timeline */
+.rmadv .tl{border-left:2px solid var(--lilac2);margin:0 0 18px 8px;padding-left:18px}
+.rmadv .tl p{position:relative}
+.rmadv .tl p:before{content:"";position:absolute;left:-25px;top:8px;width:12px;height:12px;border-radius:50%;background:#222}
+/* reviews */
+.rmadv .rev{background:#fff;border:1px solid var(--line);border-radius:6px;padding:14px 16px;margin-bottom:12px}
+.rmadv .rev .st{color:var(--star);letter-spacing:2px;font-size:16px}
+.rmadv .rev .st .off{color:#E6DCDF}
+.rmadv .rev p{margin:6px 0 8px;font-size:17px}
+.rmadv .rev .who{font-size:13px;color:var(--muted)}
+.rmadv .rev .who b{color:var(--ink)}
+.rmadv .rev .ph{float:right;width:64px;height:64px;margin:0 0 6px 10px;aspect-ratio:1;padding:4px;font-size:9px}
+/* FAQ */
+.rmadv details{border-bottom:1px solid var(--line);padding:4px 0}
+.rmadv summary{cursor:pointer;list-style:none;font-weight:700;color:var(--plum);padding:12px 28px 12px 0;position:relative}
+.rmadv summary::-webkit-details-marker{display:none}
+.rmadv summary:after{content:"+";position:absolute;right:4px;top:8px;font-size:22px;color:#222}
+.rmadv details[open] summary:after{content:"–"}
+.rmadv details p{margin:0 0 14px}
+/* offer box */
+.rmadv .offer{background:#fff;border:2px solid #222;border-radius:8px;padding:18px;margin:6px 0 24px}
+.rmadv .offer .badge{display:inline-block;background:var(--plum);color:#fff;font-size:11px;font-weight:800;letter-spacing:1.4px;text-transform:uppercase;border-radius:999px;padding:5px 10px;margin-bottom:10px}
+.rmadv .offer .pr{display:flex;align-items:baseline;gap:10px;margin:6px 0 2px}
+.rmadv .offer .pr .now{font-size:30px;font-weight:800;color:#B3261E}
+.rmadv .offer .pr s{color:#9a8fa2;font-size:18px}
+.rmadv .offer .set{background:#F4F4F1;border-radius:6px;padding:10px 12px;font-size:16px;margin:10px 0 14px}
+.rmadv .offer ul{list-style:none;padding:0;margin:0 0 14px}
+.rmadv .offer li{padding:6px 0 6px 28px;position:relative;font-size:16px;line-height:1.45}
+.rmadv .offer li:before{content:"✓";position:absolute;left:4px;color:var(--cta);font-weight:900}
+.rmadv .twoimg{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+/* footer bits */
+.rmadv .see{background:#FFF7F2;border:1px solid #F1D9CC;border-radius:12px;padding:14px 16px;font-size:15px;margin:28px 0 18px}
+.rmadv .src{font-size:12px;color:var(--muted);line-height:1.5}
+.rmadv .src ol{padding-left:18px;margin:6px 0 12px}
+.rmadv hr{border:0;border-top:1px solid var(--line);margin:26px 0}
+/* sticky bar (mobile) */
+.rmadv .sticky{position:fixed;left:0;right:0;bottom:0;z-index:999;background:#fff;border-top:1px solid var(--line);box-shadow:0 -6px 20px rgba(46,35,64,.10);padding:10px 14px calc(10px + env(safe-area-inset-bottom));display:flex;align-items:center;gap:12px;transform:translateY(110%);transition:transform .25s ease}
+.rmadv .sticky.on{transform:none}
+.rmadv .sticky .tx{flex:1;font-size:13px;line-height:1.3;color:var(--muted)}
+.rmadv .sticky .tx b{display:block;font-size:15px;color:var(--plum)}
+.rmadv .sticky a{background:var(--cta);color:#fff!important;text-decoration:none;font-weight:800;font-size:15px;padding:12px 18px;border-radius:6px;white-space:nowrap}
+@media(min-width:768px){
+  .rmadv{font-size:19px}
+  .rmadv h1{font-size:40px}
+  .rmadv .dek{font-size:20px}
+  .rmadv h2{font-size:29px}
+  .rmadv .sticky{display:none}
+}
+</style>
+
+<div class="rmadv">
+<div class="adlabel">Advertisement</div>
+<div class="wrap">
+
+<div class="mast"><b>The Modern Mother</b><span>Health · Family · Postpartum</span></div>
+<div class="cat">Postpartum Health · Neck &amp; Shoulders</div>
+
+<h1>New Moms: Your Neck Isn't Stiff From the Feeds. It's From <span class="hl">the 8 Hours After Them.</span></h1>
+<p class="dek">Postpartum physical therapists say the first year decides whether "mom neck" eases or sticks around, and the easiest change happens while you sleep.</p>
+
+<div class="slot r43"><div><b>GIF 1 · Hero (above the fold)</b>Before / after or 3am feeding moment</div></div>
+<p class="cap">3:12am. Feed number nine. This is where most moms think the stiffness starts.</p>
+
+<div class="byline"><div class="av"></div><div>By <b>Megan Cole</b><br>Medically reviewed by <b>Dana Reyes, DPT</b>, postpartum physical therapist · Updated November 2026</div></div>
+
+<!-- P -->
+<p class="big">You know the moment.</p>
+<p>You wake up. Your eyes aren't even open yet. You go to turn your head toward the crib.</p>
+<p class="big"><strong>And it won't go.</strong></p>
+<p>Not all the way. There's a hard knot at the base of your skull. A tight band across the tops of your shoulders. Maybe a dull ache between your shoulder blades that was there yesterday too. And the day before.</p>
+<p>So you do what every mom does. You roll your shoulders. You rub it with one hand while the baby fusses. You tell yourself it's the feeds, and it'll ease up once she's bigger.</p>
+<p>For a lot of moms, it doesn't.</p>
+<p><strong>And it was never really the feeds.</strong></p>
+<p>First, you're not imagining this. You're not being dramatic, and you're not weak.</p>
+<p>When researchers asked breastfeeding moms about their bodies, <strong>up to 64% said they had neck pain.</strong> That's nearly two out of every three moms. Online, moms have their own name for it. They call it "mom neck."</p>
+<p>Most of them were told the same thing you were. It's normal. It comes with the baby. Just stretch.</p>
+<p>Dana Reyes is a physical therapist who works only with new moms. She says that advice misses the biggest part of the story.</p>
+<p class="quote">"I see moms with this every single week," she says. "Ask any postpartum PT. We all do. And there's one question I now ask every one of them. Almost none of them have been asked it before."</p>
+<p>We'll get to that question. First, you need to see what your neck is really carrying.</p>
+
+<!-- A1 -->
+<h2>Your head weighs 10 pounds. Unless you're looking down.</h2>
+<p>An adult head weighs about 10 to 12 pounds. Held straight, stacked over your shoulders, your neck carries it easily.</p>
+<p>Tip it forward, and the weight climbs fast.</p>
+<p>In 2014, spine surgeon Dr. Kenneth Hansraj measured exactly how fast:</p>
+<div class="chart">
+  <div class="row"><span>Head straight</span><div class="bar"><i style="width:17%"></i></div><span class="lb">10 lb</span></div>
+  <div class="row"><span>Look down a little</span><div class="bar"><i style="width:45%"></i></div><span class="lb">27 lb</span></div>
+  <div class="row"><span>Look down more</span><div class="bar"><i style="width:67%"></i></div><span class="lb">40 lb</span></div>
+  <div class="row"><span>Chin toward your chest</span><div class="bar"><i style="width:100%"></i></div><span class="lb">60 lb</span></div>
+  <small>How heavy your head feels to your neck. Source: Hansraj, 2014.</small>
+</div>
+<p>Sixty pounds. That's about the weight of an 8-year-old, hanging off the back of your neck.</p>
+<p>Now think about where your eyes go all day.</p>
+<p>Down at the latch. Down at her face. Down at the burp cloth. Down at the diaper. And at 3am, down at your phone, because it's the only thing keeping you awake.</p>
+<p>Most new moms feed 8 to 12 times a day, for 20 to 40 minutes at a time. Take an average day of 10 feeds at 27 minutes. <strong>That's 4 and a half hours with your head tipped forward.</strong></p>
+<p>That's why the base of your skull is the first thing to lock up. That's why the tops of your shoulders feel like rope. It's not weakness. It's weight.</p>
+<p>But what surprised me most when I talked to Dana was this.</p>
+<p>She doesn't think the feeds are the real problem.</p>
+
+<!-- A2 -->
+<h2>The one question Dana asks every mom</h2>
+<p class="big"><strong>"What do you sleep on?"</strong></p>
+<p>That's it. That's the question.</p>
+<p class="quote">"Moms look at me like I'm crazy," Dana says. "They came in to talk about feeding. But look at the numbers. You spend around 4 and a half hours a day looking down. You spend up to 8 hours a night lying down."</p>
+<p class="quote">"The night is the longest stretch your neck has. It's the one time it's supposed to rest. For most moms, it isn't resting at all."</p>
+
+<h2>What happens to your neck after you fall asleep</h2>
+<p>Dana sees the same thing again and again.</p>
+<p>Most pillows are soft fill. Polyester, feathers, or cheap foam. They feel lovely when you first lie down. But all night, your head slowly presses them flat.</p>
+<div class="slot r169"><div><b>GIF 2 · The Night Shift</b>A soft pillow slowly going flat overnight, the neck bending into the gap</div></div>
+<p>By 2am, your head has sunk. Your neck is bent again. Not forward this time, but down and sideways, with nothing under it.</p>
+<p>If you sleep on your side, facing the baby's crib, it's worse. A flat pillow leaves a gap between your ear and your shoulder. Your neck hangs into that gap for hours. Your bottom arm gets crushed under the pillow. That's why you wake up shaking a dead arm.</p>
+<div class="try"><div class="t">Try this now</div>
+<p>If you're lying down right now, try this. Roll onto your side, the way you sleep. Slide two fingers between your neck and the pillow. <strong>If they fit, your neck is hanging.</strong> That's where it spends the night.</p></div>
+<p>Stack two pillows to fill the gap, and your head gets pushed too high the other way. Even a memory foam block has the same problem. It's one height. Right for your back or right for your side, never both.</p>
+<p class="quote">"So she finishes a whole day of looking down," Dana says. "Then she lies down, and her neck spends up to 8 more hours bent. It never gets a single hour off. <strong>She's not recovering at night. She's adding 8 more hours.</strong>"</p>
+<p>We call it <strong>the Night Shift.</strong></p>
+<p>Your neck works the day shift, holding your head over the baby. Then it works a second shift all night, on a pillow that doesn't hold it. No breaks. No days off.</p>
+<p>And you'd never know. You're asleep. You don't feel it happen. You only feel the result, the second you try to turn your head in the morning.</p>
+<p>That's why it's often worst first thing, before you've even fed anyone.</p>
+
+<!-- A3 -->
+<h2>Why this first year matters more than any other</h2>
+<p>This next part is why Dana says not to wait.</p>
+<p>During pregnancy, your body makes a hormone called relaxin. Its job is to loosen your joints so your body can make room for the baby.</p>
+<p>It doesn't switch off the day she's born. Your joints can stay looser for up to 6 months after birth, and often longer while you're breastfeeding.</p>
+<p class="quote">"Loose is fine on its own," Dana says. "But loose joints hold whatever shape you keep putting them in. And this year, the shape you keep putting your neck in is forward and down all day, then bent all night."</p>
+<p class="quote">"I see moms whose kids are 3 or 4 now. The stiffness never left. It just became normal for them. Some have the start of that rounded hump at the base of the neck."</p>
+<p>That's the part nobody warns you about. <strong>Mom neck isn't always a phase.</strong> For a lot of women, it's how their neck feels for years.</p>
+<p class="quote">"But this works both ways," Dana says. "The same looseness that lets bad habits set in means your body responds fast to good ones. The moms who change their nights early are the ones who feel it fastest."</p>
+
+<!-- A4 -->
+<h2>"But I've already tried everything"</h2>
+<p>If you're reading this, you've probably tried a few things already. Moms in Dana's clinic list the same ones:</p>
+<ul class="fails">
+  <li><strong>Massage.</strong> Feels amazing. Lasts until the next feed.</li>
+  <li><strong>The chiropractor.</strong> Better for a day or two. Then $65 again next week.</li>
+  <li><strong>Stretches.</strong> They help, when you remember. You rarely have a free hand.</li>
+  <li><strong>The nursing pillow.</strong> Great for the feed. Does nothing for the night.</li>
+  <li><strong>A new pillow from Target.</strong> Soft and lovely. Flat by week three.</li>
+</ul>
+<p>None of these are bad. Massage and stretching really do help, and Dana recommends them.</p>
+<p>But look at when they happen. In the day. For a few minutes. Then night comes, and your neck goes back to being bent for hours. <strong>Whatever the massage loosened, the night tightens again.</strong></p>
+<p class="quote">"It's like mopping the floor with the faucet still running," Dana says. "You're working so hard. The water just keeps coming."</p>
+<p>So what would actually turn the faucet off?</p>
+
+<!-- S -->
+<h2>The physical therapist who couldn't turn her own head</h2>
+<div class="slot r43"><div><b>Image 3 · Dana</b>Dana at home with her baby (warm, real, not clinical)</div></div>
+<p>Dana doesn't usually share this part.</p>
+<p>After her first baby, she had it too.</p>
+<p class="quote">"I'm a PT. I teach people how to look after their necks for a living," she laughs. "And there I was at 6am, unable to look over my shoulder to check the car seat."</p>
+<p>She did all the right things. Stretches between feeds. Changing how she sat to feed. It helped a little. But every morning, she woke up locked again.</p>
+<p class="quote">"One night at 2am, after a feed, I noticed it. My pillow was flat as a pancake. My head was almost on the mattress. My neck was bent sideways. And I thought, I'm doing all this work in the day and undoing it every single night."</p>
+<p>So she went looking for a pillow that could hold a neck the right way, all night long.</p>
+<p>What she found surprised her.</p>
+
+<h2>Why most neck pillows weren't made for this</h2>
+<p>Ancient Egyptians slept on carved wooden headrests. A museum curator who tried one found the catch: it held the head, not the neck.</p>
+<p>For thousands of years, that was the whole problem. A pillow could prop up your head. It couldn't cradle your neck.</p>
+<p>In 1954, an inventor filed one of the first patents for a pillow shaped to fit the neck. Years later, NASA-funded researchers created memory foam to cushion test pilots. It molds to you, then slowly springs back. It doesn't go flat by 2am.</p>
+<p>Put the shape and the foam together, and you finally get a pillow that can hold a neck in place all night.</p>
+<p>But most of them still weren't built for a new mom.</p>
+<p class="quote">"They're made for a guy who snores, or someone at a desk all day," Dana says. "Not for a mom who sleeps on her side facing the baby's crib, gets up three times a night, and gets milk on everything."</p>
+
+<h2>What Dana looks for</h2>
+<p>So Dana made a short list. If a pillow misses even one, she tells moms to skip it.</p>
+<ol class="checks">
+  <li><strong>It keeps its shape until morning.</strong> Slow-rebound memory foam, not fluff. If it's flat by 2am, nothing else matters.</li>
+  <li><strong>Two heights.</strong> A lower middle for your back. Higher sides for when you roll toward the baby. One height can't do both.</li>
+  <li><strong>Room for your arm.</strong> A cut-out at each side, so your bottom arm rests in front of you instead of crushed under your head.</li>
+  <li><strong>A cover you can unzip and wash.</strong> Because milk and spit-up happen. Most nights.</li>
+</ol>
+<p>She tried 11 pillows against her list. Two came close. One was too tall for side sleeping. The other had a cover you couldn't take off.</p>
+<p class="big"><strong>Only one passed all four.</strong></p>
+
+<!-- T -->
+<h2>The one that passed</h2>
+<div class="slot r11"><div><b>GIF 4 · Product reveal</b>Hand presses into the Night Shift Pillow, it slowly rises back</div></div>
+<p>It's called <strong>the Night Shift Pillow</strong>, from a small brand called RecoverMama. It was made for new moms from day one, and it ticks every box on Dana's list.</p>
+<div class="ticks">
+  <p><strong>Keeps its shape.</strong> Slow-rebound memory foam. Press it, let go, and it slowly rises back. Same shape at 6am as at 10pm.</p>
+  <p><strong>Two heights.</strong> A low cradle in the middle for your back. Raised wings on each side for your side. Roll over, and your neck stays level.</p>
+  <p><strong>Room for your arm.</strong> Cut-outs on both sides. Your arm rests in front of you. No more dead arm at 3am.</p>
+  <p><strong>Washable cover.</strong> Unzip it, throw it in the wash, zip it back on.</p>
+</div>
+<p class="quote">"This is the first one I actually recommend to my moms," Dana says. "Not because it's fancy. Because it does the one job the night needs. It holds your neck still while you sleep."</p>
+<p>It won't change your feeds. You'll still look down at her 10 times a day. That's exactly why the night matters so much.</p>
+<p class="big"><strong>And there's nothing to do.</strong></p>
+<p>No routine. No exercises. No appointments. You lie down at night, the same as always.</p>
+<p>The pillow works the night shift. Your neck finally gets to rest.</p>
+<p>You hold her up all day. Let something hold you up at night.</p>
+<a class="cta" id="rmCta1" href="/products/the-night-shift-pillow">See the Night Shift Pillow →</a>
+<p class="ctasub">Free shipping · 60 nights to try it</p>
+
+<h2>What the first week feels like</h2>
+<p>Dana is honest about this part. So are we.</p>
+<div class="tl">
+  <p><strong>Night 1.</strong> It will feel new. Your neck is used to sinking, and now it's being held. Some moms say it feels "different" at first. That's your neck sitting where it should.</p>
+  <p><strong>Nights 2 and 3.</strong> Your body settles in. Most moms say this is when it stops feeling new and starts feeling right.</p>
+  <p><strong>Week 1.</strong> You notice it in the mornings. Turning your head to check on her. Lifting her out of the crib without bracing for it.</p>
+  <p><strong>Week 2 and on.</strong> It just becomes how you sleep. And there are whole days you don't think about your neck at all.</p>
+</div>
+<p class="quote">"Give it two nights before you judge it," Dana says. "Any new shape feels new. The moms who give it a few nights are the ones who message me later saying they can't sleep without it."</p>
+
+<!-- T: testimonial -->
+<h2>What moms say after a few weeks</h2>
+<div class="rev"><div class="slot ph"><b>Photo</b></div><div class="st">★★★★★</div><p>"ok so I bought this at 3am during a feed, which is how I buy everything now lol. didn't expect much. first night my head felt kind of propped up and weird?? but by day 5 I realized I wasn't doing the whole neck roll thing every morning. my mom noticed before I did"</p><div class="who"><b>Alyssa M.</b> · baby 10 weeks</div></div>
+<div class="rev"><div class="slot ph"><b>Photo</b></div><div class="st">★★★★★</div><p>"I always sleep on my left side so I can see him, and my arm used to be completely numb by morning. Now it just goes in the gap on the side. Funny how much that used to annoy me and now I forget it was ever a thing."</p><div class="who"><b>Kelsey R.</b> · baby 4 months</div></div>
+<div class="rev"><div class="st">★★★★★</div><p>"Was going to the chiro every week since my daughter was born. $65 a pop. I still go about once a month now, which honestly says it all. Wish I'd bought it in month 1 and not month 7."</p><div class="who"><b>Monique T.</b> · baby 7 months</div></div>
+<div class="rev"><div class="st">★★★★<span class="off">★</span></div><p>"It's big. Bigger than I thought, and my side of the bed is NOT big. Took me 2 nights to get used to it. But I'm keeping it and my sister just ordered one for herself so"</p><div class="who"><b>Jen K.</b> · twins, 3 months</div></div>
+
+<h2>Questions moms ask</h2>
+<details><summary>Can I sleep on my side facing the baby's crib?</summary><p>Yes. That's what it was made for. The raised side keeps your neck level and the cut-out gives your arm somewhere to go.</p></details>
+<details><summary>I fall asleep in the glider during feeds. Will it help?</summary><p>Honestly, it's a bed pillow. It helps the hours you're in bed, which is most of your sleep. That's where the biggest stretch of time is.</p></details>
+<details><summary>Is it safe around the baby?</summary><p>It's for you, on your side of the bed. Keep the baby on their own flat sleep surface with nothing in it, as your pediatrician recommends.</p></details>
+<details><summary>I'm small. Will it be too high for me?</summary><p>The low middle is made for back sleeping on smaller frames. The raised sides fill the gap for broader shoulders. Most moms find their spot on night one or two.</p></details>
+<details><summary>When will it arrive?</summary><p>Shipping is free and tracked. Most orders arrive in 7 to 12 business days, and you'll get the tracking link by email.</p></details>
+<details><summary>Is it worth $80?</summary><p>It costs about the same as one chiropractor visit. Spread over a year of nights, that's about 22 cents a night. And it's working every one of them.</p></details>
+<details><summary>What if it's not for me?</summary><p>You get 60 nights. If your mornings don't feel better, send one email. Full refund, and you keep the pillow.</p></details>
+<a class="cta" href="/products/the-night-shift-pillow" style="margin-top:20px">Check Today's Price →</a>
+<p class="ctasub">Founding New-Mom pricing · while it lasts</p>
+
+<!-- O -->
+<h2>Try it for 60 nights. If you don't love your mornings, keep it anyway.</h2>
+<p>RecoverMama is a new brand, and we want our first moms to try it, love it, and tell their friends. So for now, it's at <strong>Founding New-Mom pricing</strong>:</p>
+<div class="offer">
+  <span class="badge">Founding New-Mom pricing</span>
+  <div class="twoimg"><div class="slot r11"><div><b>Image 5</b>The pillow</div></div><div class="slot r11"><div><b>Image 6</b>3am Neck Reset guide</div></div></div>
+  <div class="pr"><span class="now">$79.95</span><s>$119.95</s></div>
+  <div style="font-weight:700;color:var(--plum)">The Night Shift Pillow</div>
+  <div class="set"><strong>The Night-Recovery Set · 2 pillows for $129</strong> ($64.50 each) · one for you, one for whoever keeps stealing yours.</div>
+  <div style="font-weight:700;color:var(--plum);margin-bottom:4px">Every order gets:</div>
+  <ul>
+    <li><strong>Free: The 3am Neck Reset guide.</strong> Six gentle moves you can do while she feeds.</li>
+    <li><strong>Free tracked shipping.</strong></li>
+    <li><strong>60 nights to try it.</strong> Not waking up better? One email. Full refund. Keep the pillow.</li>
+    <li><strong>5-year warranty.</strong> If it ever goes flat, we replace it.</li>
+  </ul>
+  <a class="cta" href="/products/the-night-shift-pillow">Get the Night Shift Pillow →</a>
+</div>
+<p>When it arrives, unroll it, give it a few hours to rise, and put it on your side of the bed. That's the whole setup.</p>
+<p class="quote">"It's the easiest thing I recommend," Dana says. "It costs nothing to try, and it works while you're asleep."</p>
+
+<!-- R -->
+<h2>Tonight, your neck works another shift. Or it doesn't.</h2>
+<p>Think about tomorrow morning.</p>
+<p>If nothing changes, you know how it goes. You'll feed her at 2am. You'll lie back down on the same flat pillow. Your neck will spend the next few hours bent. And when you wake up and turn toward her crib, it'll catch. Again.</p>
+<p class="big">Or.</p>
+<div class="slot r45"><div><b>Image 7 · The morning</b>Mom waking up on the pillow, turning to look at her baby, easy</div></div>
+<p>You lie down on a pillow that holds your neck where it should be. You sleep. Your neck rests for the first time in months. And in the morning, you turn your head to look at her, and it just turns.</p>
+<p>That's the whole change. Nothing else in your day has to move.</p>
+<p>This year is the one that counts. <strong>Every night, your neck either rests or sets in a little more.</strong> The sooner your nights change, the more nights it gets back.</p>
+<p>Founding pricing won't last forever. When it ends, the Night Shift Pillow goes back to $119.95. And you still get 60 nights to try it, so the only risk is waiting.</p>
+<a class="cta" href="/products/the-night-shift-pillow">Claim Founding New-Mom Pricing →</a>
+<p class="ctasub">$79.95 · free shipping · 60 nights to try it</p>
+<p><strong>P.S.</strong> If you remember one thing, make it this: it's not the feeds, it's the 8 hours after them. Try the two-finger test tonight. If your neck is hanging, a pillow built for those hours is the easiest change you'll make this year.</p>
+
+<div class="see"><strong>When to see someone.</strong> This article shares comfort tips, not medical advice. See your doctor or a physical therapist if you have numbness or tingling down your arm, headaches that keep coming back, stiffness after a fall, or anything that's getting worse.</div>
+<div class="src"><strong>Sources</strong>
+<ol>
+  <li>Hansraj KK. Assessment of stresses in the cervical spine caused by posture and position of the head. <i>Surgical Technology International</i>, 2014.</li>
+  <li>Breastfeeding moms and neck pain prevalence (PMID 41804213).</li>
+  <li>Relaxin and joint laxity during pregnancy and after birth.</li>
+  <li>Dean Fishman, "text neck," coined 2008.</li>
+  <li>Reed MJ. Contour Pillow. US Patent 2,896,227, filed 1954.</li>
+  <li>NASA Spinoff: memory foam (temper foam).</li>
+</ol>
+<p><i>This is an advertisement for RecoverMama. Individual results vary. The Night Shift Pillow is a comfort pillow and is not intended to diagnose, treat or prevent any condition.</i></p>
+</div>
+<div style="height:90px"></div>
+</div>
+
+<div class="sticky" id="rmSticky"><div class="tx"><b>The Night Shift Pillow</b>$79.95 · 60 nights to try it</div><a href="/products/the-night-shift-pillow">Get Mine</a></div>
+</div>
+<script>
+(function(){var n=0;function go(){var s=document.getElementById('rmSticky'),c=document.getElementById('rmCta1');if(!s||!c){if(n++<80)setTimeout(go,150);return;}if(!s.parentNode.classList.contains('rmadv-float')){var w=document.createElement('div');w.className='rmadv rmadv-float';w.style.cssText='height:0;background:none';document.body.appendChild(w);w.appendChild(s);}function u(){var r=c.getBoundingClientRect();s.classList.toggle('on',r.top<window.innerHeight*0.2);}window.addEventListener('scroll',u,{passive:true});document.addEventListener('scroll',u,{passive:true,capture:true});u();}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',go);else go();})();
+</script>
