@@ -864,21 +864,23 @@ Set compare at price $119.00 on the pillow in Shopify so the strike shows.
 Heading (TEST number):
 > What 2,400+ Moms Are Saying
 
-**Kristen R.** · First baby, 4 months · ★★★★★
-> "ok i was the person rolling my eyes at this. i have like 4 pillows in my closet from the last few months including the nursing one everyone swears by. first night on this one i honestly didn't love it, it's a weird shape and i kept moving around. second night i slept on my side and just didn't wake up with that locked feeling at the back of my neck?? week 3 now and i'm not going back"
-*Kills: tried everything · weird shape · is it for me*
+*v2 (in page): rewritten so none echo the PDP reviews. Four different buyers, four different reasons, one honest 4 star.*
 
-**Danielle T.** · Second baby, 7 months · ★★★★★
-> "$80 for a pillow felt crazy to me at first. then i did the math on the massages i was booking that lasted until the next feed lol. took about 10 days to get here which was annoying, but i emailed asking where it was and someone actually wrote back the same day. knowing i could get my money back made it an easy yes"
-*Kills: price · shipping time · is it legit · refund runaround*
+**Linda P.** · Bought it for her daughter · ★★★★★
+> "Bought this for my daughter after watching her rub her neck every single time she put the baby down. She never buys anything for herself. She texted me a week later saying it's the first thing that's actually helped, and asked which color I got so she could get one for her sister in law. That's a win in my book."
+*Kills: is it a good gift · is it for me (social proof from family)*
 
-**Priya S.** · Side sleeper, baby 3 months · ★★★★★
-> "came rolled up in a little plastic tube and i thought no way this is a pillow. gave it a day and it puffed all the way up. smelled a bit like a new yoga mat the first night, gone by morning. i sleep facing the bassinet and my bottom arm used to go completely numb. now it just slides under the side bit and stays there"
-*Kills: rolled up · smell · dead arm · side sleeping*
+**Jordan W.** · Back at work, baby 9 months · ★★★★★
+> "back at work full time so it's laptop all day and feeds all night, my neck basically never gets a day off. i was paying for a chiro visit every couple weeks and feeling good for maybe a day. this cost about the same as one visit. i still stretch at my desk but i don't start the morning already sore anymore"
+*Kills: price (vs chiro) · only for newborn stage*
 
-**Marissa K.** · Pumping mom, 5'2" · ★★★★★
-> "im 5'2 and every neck pillow i tried pushed my head way too far forward. on this one i use the lower middle part on my back and it's just right. 6 weeks in and it still bounces back the same as day one. also got milk all over the cover at 3am and it went straight in the wash, no drama"
-*Kills: fit / height · goes flat · washing*
+**Becca L.** · Toddler and a newborn · ★★★★☆
+> "taking a star off because my husband stole it the second night and i had to order another one lol. honestly that should tell you everything. mine is the light gray one now and it stays on MY side of the bed"
+*Kills: perfect-5s look fake · will anyone else like it (the 4★ is a compliment)*
+
+**Tamara J.** · Baby 6 weeks · ★★★★★
+> "Nobody warned me about the night sweats after having a baby. My old pillow would be damp by 3am and I'd keep flipping it over. Now I just unzip the cover, throw it in the wash every few days and it's fresh again. Honestly the easiest thing I've bought this whole postpartum."
+*Kills: smell / sweat · washing*
 
 ## S6 · Brand story (NEW section, clone from PDP S14)
 Quote:
