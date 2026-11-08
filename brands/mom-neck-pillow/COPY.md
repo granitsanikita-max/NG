@@ -760,3 +760,195 @@ Every section checked against the PDP fundamentals (F1 to F14), the chosen techn
 **Checked and passed with no change:** S7 stats (all real, footnoted) · S8 banner (real scarcity: first 500) · S11 reviews (six different situations, one 4 star with a real con, no store words) · S13 cross sell (each tile tied to a moment in her night) · S15 close (lands on permission: "Keep the night for you") · S16 footer (honest, "Not a medical device").
 
 **Hygiene:** 0 em/en dashes, 0 hyphens in customer copy · banned word scan clean (only the "not a treatment" disclaimer remains, deliberately) · every number matches: 60 nights, refund and keep it, free tracked shipping, 7 to 14 business days, 5 year warranty, 500 founding pillows, hello@recovermama.com.
+
+---
+
+# PART 3 · HOMEPAGE COPY (2026-11-08)
+
+Template: GemPages "Nutritional Shakes" (page 645189195421188929). Structure borrows Mellow's psychological order, not its words: proof before promise, numbers over adjectives, feeling first, a CTA in every section, tiny parallel taglines, a final close.
+⚠ TEST COPY: every "2,400+ moms" number and all 4 reviews are copywriting tests, same rule as the PDP. Not real. Swap for real numbers and real reviews before paid traffic.
+
+## Who lands here and what they're worried about
+
+Three visitors: (a) clicked an ad, then tapped the logo to check we're real, (b) Googled the brand, (c) came back from the PDP still deciding. All three are category skeptical (burned 20 of 401).
+
+| # | Objection (her words) | Research | Answered where |
+|---|---|---|---|
+| 1 | "Is this a real brand or some dropshipping thing?" | burned 20 / skeptical 9 | Trust strip under hero, FAQ 1, brand story, footer support links |
+| 2 | "I've tried everything. Why would a pillow work?" | pillow fails 24 + nursing pillow 25, doubt 7 | Why moms switch, Review 1, FAQ 2, brand story |
+| 3 | "Is this for me, a new mom, or some snorer in his 40s?" | product aware 9%, none mom targeted | Hero headline, every review is a mom |
+| 4 | "Will it go flat or smell like the others?" | flattens 7, smell 6 | Feature 1, Review 3, Review 4, FAQ 4, 5 year warranty |
+| 5 | "It's a weird shape. Will I hate it?" (the power move) | too firm 11 / too soft 13 | Review 1 says it out loud, FAQ 3 |
+| 6 | "$80 for a pillow? The Boppy was a waste." | price 4, Boppy waste | Review 2, trust strip, strike price on the card |
+| 7 | "Will it fit my height? Where does my arm go?" | too thick 5, the 5'3" pattern | Feature 2 and 3, Review 3, Review 4 |
+| 8 | "How long will shipping take? Where is it from?" | new store risk | Trust strip, Review 2, FAQ 7 |
+| 9 | "If it doesn't work, will they give me the runaround?" | the are-you-sure 1★ | Trust strip, FAQ 8, Review 2 |
+| 10 | "One more thing to keep up with?" | stretch/PT fatigue | Feature 4, brand story |
+| 11 | "Can I use it while breastfeeding? Is it safe near the baby?" | can't medicate 1, side lying risk 2 | FAQ 5 |
+| 12 | "Which one of these do I even need?" | homepage only | Range section subline |
+
+## S1 · Hero
+Proof line (above headline, TEST):
+> ★★★★★ Loved by 2,400+ new moms
+
+Headline:
+> The Pillow Made For Mom Neck
+
+Subline:
+> Your neck holds the baby all day. This holds your neck all night.
+
+Button:
+> Shop The Night Shift Pillow
+
+Next to the button (replaces "258K Bought"):
+> 60 nights to try it · Refund and keep it
+
+Image: green pillow sleeping mom (about_brand.png) or hero slide 01.
+
+## S2 · Trust strip (move directly under the hero, replaces "Our services")
+Heading:
+> Try it the easy way
+
+Subline:
+> No risk. No runaround. No surprises.
+
+1. **60 Night Trial**
+> Sleep on it for 60 nights. Not for you? Full refund, and you keep the pillow.
+2. **Free Tracked Shipping**
+> Free on every order, with tracking sent straight to your inbox.
+3. **5 Year Warranty**
+> If it ever goes flat, we send you a new one.
+4. **Real People, Real Replies**
+> Email hello@recovermama.com and a real person writes back.
+
+Icons: 60 night trial, 5 year warranty (made). Need: shipping truck, chat bubble (code built, free).
+
+## S3 · Why moms switch (replaces "What's good about Nutritional Shakes")
+Heading:
+> Why Moms Are Switching
+
+Subline:
+> Built around how you actually sleep right now.
+
+1. **Still holding at 3am**
+> Slow rebound foam keeps its shape all night, so you're not waking up on a flat pillow with a stiff neck.
+2. **Room for your arm**
+> Cutouts on both sides give your arm somewhere to go when you sleep curled toward the bassinet. No more dead arm.
+3. **Back or side, it fits**
+> Lower in the middle for your back, higher on the sides for your side. Switch whenever the baby wakes you.
+4. **The cover goes in the wash**
+> Milk, drool, 2am snacks. The cover unzips and goes straight in the machine.
+
+Centre image: anatomy diagram (accordion_anatomy.png) or a clean product shot.
+
+## S4 · The Night Shift range (replaces "Best sellers")
+Heading:
+> The Night Shift Range
+
+Subline:
+> Start with the pillow. Add the rest when you want a little more.
+
+Card lines (if the card shows a short description):
+- **The Night Shift Pillow** · $79.95 ~~$119.00~~
+> Holds your neck while you sleep, so you wake up less stiff.
+- **Night Shift Warm Wrap** · $39.00
+> Warm, heavy and cozy over your shoulders after a long day.
+- **Night Shift Neck Cradle** · $34.00
+> Ten quiet minutes, just for you.
+
+Button:
+> Shop All
+Set compare at price $119.00 on the pillow in Shopify so the strike shows.
+
+## S5 · Reviews (TEST, not for publishing)
+Heading (TEST number):
+> What 2,400+ Moms Are Saying
+
+**Kristen R.** · First baby, 4 months · ★★★★★
+> "ok i was the person rolling my eyes at this. i have like 4 pillows in my closet from the last few months including the nursing one everyone swears by. first night on this one i honestly didn't love it, it's a weird shape and i kept moving around. second night i slept on my side and just didn't wake up with that locked feeling at the back of my neck?? week 3 now and i'm not going back"
+*Kills: tried everything · weird shape · is it for me*
+
+**Danielle T.** · Second baby, 7 months · ★★★★★
+> "$80 for a pillow felt crazy to me at first. then i did the math on the massages i was booking that lasted until the next feed lol. took about 10 days to get here which was annoying, but i emailed asking where it was and someone actually wrote back the same day. knowing i could get my money back made it an easy yes"
+*Kills: price · shipping time · is it legit · refund runaround*
+
+**Priya S.** · Side sleeper, baby 3 months · ★★★★★
+> "came rolled up in a little plastic tube and i thought no way this is a pillow. gave it a day and it puffed all the way up. smelled a bit like a new yoga mat the first night, gone by morning. i sleep facing the bassinet and my bottom arm used to go completely numb. now it just slides under the side bit and stays there"
+*Kills: rolled up · smell · dead arm · side sleeping*
+
+**Marissa K.** · Pumping mom, 5'2" · ★★★★★
+> "im 5'2 and every neck pillow i tried pushed my head way too far forward. on this one i use the lower middle part on my back and it's just right. 6 weeks in and it still bounces back the same as day one. also got milk all over the cover at 3am and it went straight in the wash, no drama"
+*Kills: fit / height · goes flat · washing*
+
+## S6 · Brand story (NEW section, clone from PDP S14)
+Quote:
+> "So everyone just walks around with discomfort like this?!"
+> A new mom, in an online parenting group
+
+Headline:
+> Made for the mom who keeps hearing "that's just motherhood"
+
+Body: same as PDP S14 (RecoverMama started with hundreds of posts...).
+Button:
+> Try it for 60 nights
+Image: green pillow sleeping mom (about_brand.png).
+
+## S7 · FAQ (8)
+Heading:
+> Questions Moms Ask Us
+
+Subline:
+> Still wondering about something? Email hello@recovermama.com and a real person will get back to you.
+
+**1. Is RecoverMama a real company?**
+> Yes. We're a small brand built around one problem: the neck and shoulder strain that comes with feeding and holding a baby. Orders ship from our partner warehouse, every order is tracked, and you can email a real person at hello@recovermama.com any time.
+
+**2. I've tried other pillows. Why would this one be different?**
+> Most pillows go flat by the middle of the night, come in one height, and give your arm nowhere to go when you sleep on your side. This one holds its shape until morning, is lower in the middle for your back and higher on the sides for your side, and has cutouts for your arm. And if it's still not right, you have 60 nights to get a full refund.
+
+**3. It's a different shape. Will it feel weird?**
+> For a night or two, maybe. Your head is getting used to a new shape. Once you find the middle on your back or the side with your arm in the cutout, it just feels like your pillow. Give it two nights before you decide.
+
+**4. Why does it arrive rolled up? Does it smell?**
+> We vacuum roll it so it ships safely. Unroll it and give it 24 to 72 hours to fully rise. New foam can have a light smell for the first day or two. Leave it near an open window and it fades.
+
+**5. Can I use it while breastfeeding? Is it safe near the baby?**
+> Yes, it's just a pillow. Nothing to take, nothing near the baby. It's for adults only, so keep it out of your baby's sleep space. Your baby should always sleep alone, on their back, on a flat surface with nothing else in it.
+
+**6. Can I wash it?**
+> The cover unzips and goes in the washing machine on a cold, gentle cycle. Hang it to dry. Spot clean the foam inside with a damp cloth.
+
+**7. How long does shipping take?**
+> Free and tracked on every order. It leaves our fulfilment partner in 1 to 3 business days and most orders arrive within 7 to 14 business days. Tracking comes by email.
+
+**8. What if it doesn't work for me?**
+> Sleep on it for 60 nights. If your mornings don't feel better, email us and we'll refund every cent. You don't have to send it back.
+
+## S8 · Final CTA band (NEW, above footer)
+Proof line (TEST):
+> ★★★★★ Loved by 2,400+ new moms
+
+Headline:
+> Your neck worked all day. Give it the night.
+
+Button:
+> Get My Pillow
+
+## S9 · Footer
+Columns:
+- **Shop:** The Night Shift Pillow · Night Shift Warm Wrap · Night Shift Neck Cradle
+- **Learn:** Our Story · FAQ
+- **Support:** Contact Us · Track My Order · Shipping Policy · Refund Policy · Terms of Service · Privacy Policy
+
+Newsletter title:
+> Night Shift Notes
+
+Newsletter text:
+> Small tips for easier nights and first dibs on anything new. No spam. We're tired too.
+
+Copyright:
+> © 2026 RecoverMama
+
+Social icons: remove until the accounts exist.
+
+Hygiene: no em/en dashes, no hyphens in customer copy, no "firm", no medical words (align, relieve, cervical, heal), US spelling, numbers match PDP (60 nights, refund and keep it, 7 to 14 business days, 5 year warranty, hello@recovermama.com).
