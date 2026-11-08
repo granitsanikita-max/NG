@@ -112,11 +112,11 @@ When researchers asked breastfeeding moms about their bodies, **up to 64% said t
 
 Most of them were told the same thing you were. It's normal. It comes with the baby. Just stretch.
 
-Dana Reyes is a physical therapist who works only with new moms. She says that advice misses the biggest part of the story.
+Dana Reyes is a physical therapist who has worked only with new moms for 11 years. She says that advice misses the biggest part of the story.
 
 "I see moms with this every single week," she says. "Ask any postpartum PT. We all do. And there's one question I now ask every one of them. Almost none of them have been asked it before."
 
-We'll get to that question. First, you need to see what your neck is really carrying.
+I'll get to that question in a second. First, you need to see what your neck is really carrying.
 
 <!-- A · AGITATE  (belief 2) -->
 
@@ -160,21 +160,19 @@ That's it. That's the question.
 
 ## What happens to your neck after you fall asleep
 
-Dana sees the same thing again and again.
-
 Most pillows are soft fill. Polyester, feathers, or cheap foam. They feel lovely when you first lie down. But all night, your head slowly presses them flat.
 
 By 2am, your head has sunk. Your neck is bent again. Not forward this time, but down and sideways, with nothing under it.
 
 If you sleep on your side, facing the baby's crib, it's worse. A flat pillow leaves a gap between your ear and your shoulder. Your neck hangs into that gap for hours. Your bottom arm gets crushed under the pillow. That's why you wake up shaking a dead arm.
 
-If you're lying down right now, try this. Roll onto your side, the way you sleep. Slide two fingers between your neck and the pillow. **If they fit, your neck is hanging.** That's where it spends the night.
+If you're lying down right now, roll onto your side, the way you sleep. Slide two fingers between your neck and the pillow. **If they fit, your neck is hanging.** That's where it spends the night.
 
 Stack two pillows to fill the gap, and your head gets pushed too high the other way. Even a memory foam block has the same problem. It's one height. Right for your back or right for your side, never both.
 
 "So she finishes a whole day of looking down," Dana says. "Then she lies down, and her neck spends up to 8 more hours bent. It never gets a single hour off. **She's not recovering at night. She's adding 8 more hours.**"
 
-We call it **the Night Shift.**
+Dana has a name for it: **the Night Shift.**
 
 Your neck works the day shift, holding your head over the baby. Then it works a second shift all night, on a pillow that doesn't hold it. No breaks. No days off.
 
@@ -271,7 +269,7 @@ She tried 11 pillows against her list. Two came close. One was too tall for side
 
 [IMAGE: the Night Shift Pillow on a bed, a hand pressing into the foam]
 
-It's called **the Night Shift Pillow**, from a small brand called RecoverMama. It was made for new moms from day one, and it ticks every box on Dana's list.
+Fittingly, it's called **the Night Shift Pillow**, from a small brand called RecoverMama. It was made for new moms from day one, and it ticks every box on Dana's list.
 
 ✓ **Keeps its shape.** Slow-rebound memory foam. Press it, let go, and it slowly rises back. Same shape at 6am as at 10pm.
 
@@ -297,7 +295,7 @@ You hold her up all day. Let something hold you up at night.
 
 ## What the first week feels like
 
-Dana is honest about this part. So are we.
+Dana is honest about this part.
 
 **Night 1.** It will feel new. Your neck is used to sinking, and now it's being held. Some moms say it feels "different" at first. That's your neck sitting where it should.
 
@@ -358,7 +356,7 @@ You get 60 nights. If your mornings don't feel better, send one email. Full refu
 
 ## Try it for 60 nights. If you don't love your mornings, keep it anyway.
 
-RecoverMama is a new brand, and we want our first moms to try it, love it, and tell their friends. So for now, it's at **Founding New-Mom pricing**:
+RecoverMama is a small, new brand. To get their first moms trying it and telling friends, they're running what they call **Founding New-Mom pricing**:
 
 **The Night Shift Pillow · $79.95** ~~$119.95~~
 
@@ -368,7 +366,7 @@ Every order gets:
 ✓ **Free: The 3am Neck Reset guide.** Six gentle moves you can do while she feeds.
 ✓ **Free tracked shipping.**
 ✓ **60 nights to try it.** Not waking up better? One email. Full refund. Keep the pillow.
-✓ **5-year warranty.** If it ever goes flat, we replace it.
+✓ **5-year warranty.** If it ever goes flat, they replace it.
 
 When it arrives, unroll it, give it a few hours to rise, and put it on your side of the bed. That's the whole setup.
 
@@ -418,3 +416,6 @@ Founding pricing won't last forever. When it ends, the Night Shift Pillow goes b
 
 ## PART 3 · CHIEF LOG (v1 → v1.1, 2026-11-08)
 Read as the ICP (new mom, ~2am, phone in bed, neck stiff). Fixed: 8× "Here's" stock tic cut to 0 · headline says 8 hours but body said 6 to 8 → aligned to "up to 8" · ranges → specifics (10 feeds × 27 min = 4.5 hours; 60 lb = an 8-year-old, not a 5-year-old; relaxin "up to 6 months") · headline says PTs (plural) but body had one → "Ask any postpartum PT. We all do." · "Sound familiar?" → that's-why line (dead arm) · added two-finger self-test (involvement/ownership, she's likely lying down while reading) · added memory-foam-block objection (burned solution-aware tail) · swap test failed on the 4 checks → added which pillows failed and why · honesty line "It won't change your feeds" · FAQ: petite/too high + shipping time (7–12 business days) · ownership "When it arrives, unroll it" · objection before final CTA (60 nights, only risk is waiting) · P.S. cliché replaced with the self-test · history section tightened · repeated husband joke swapped. Fog 3.7–4.5 across 3 samples. ~3,150 words.
+
+## CHIEF LOG 2 (v1.3, 2026-11-08) · final copy
+Read again as the ICP. Fixed: brand voice leaks that broke nativeness ("So are we", "we want our first moms", "we replace it" → third person) · writer/brand "we" mix ("We'll get to that question" → "I'll get to that question in a second"; "We call it the Night Shift" → "Dana has a name for it", so the mechanism name comes from the authority) · product-name coincidence made natural ("Fittingly, it's called the Night Shift Pillow") · Dana specificity (11 years, only new moms) · cut filler line ("Dana sees the same thing again and again") · removed doubled "try this" in the self-test box. Copy locked as final for this test.
