@@ -38,3 +38,8 @@ D. Project row:
 
 ## ③E Headline rules (Nikita, pasted) — summary
 Job = get the next line read; first 5–10 words decide it. Order: entry point → claim type → sharpen wording → 7-ingredient check (4–5+ across H1+sub). Believable at first glance; strongest claim ≠ strongest headline; never lead with the physical product; ONE desire/performance/trait. Stage 3+ = make it fresh (contradict how they think it works, mechanism+claim in one line, paradox, state the difference). Pull-in forms: warn, question, call out who it's for, customer quote, named case. Headline that contradicts its photo forces the read. Rotate angle across campaign, keep the idea.
+
+## LOCKED headline (2026-11-08)
+H1: New Moms: Your Neck Isn't Stiff From the Feeds. It's From ==the 8 Hours After Them.==
+Sub: Postpartum physical therapists say the first year decides whether "mom neck" eases or sticks around, and the easiest change happens while you sleep.
+Hero image: her feeding at 3am (contradicts the headline). Split tests: B (PT quote), C (64% stat).
