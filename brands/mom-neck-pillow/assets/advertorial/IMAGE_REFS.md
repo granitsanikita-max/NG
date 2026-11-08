@@ -22,3 +22,8 @@
 - Shot: lying on her LEFT side on the pillow, arm resting in the side cut-out, selfie angle, bedroom daylight.
 
 Status: all 4 references received 2026-11-08. Nothing generated yet, waiting on Nikita's go.
+
+## Hero mom (GIF 1A/1B before/after), v2 reference (older, replaces the first one)
+- Woman in her mid to late 30s, light warm skin with a few freckles, long tousled chestnut / auburn-brown hair with a side part, brown eyes, natural no-makeup face, soft tired smile lines.
+- Real, lived-in look: a mom, not a model. Plain white tank (for the scene: grey sleep top).
+- Note: keep her hair a darker chestnut than Dana's copper so the two never look like the same person.
