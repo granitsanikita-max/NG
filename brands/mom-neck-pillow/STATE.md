@@ -38,3 +38,4 @@
 - 2026-11-08 · Store Build · Homepage hero image replaced with 3-moms community shot (assets/home_sections/hero_moms_v1.png; light gray / sky blue / light gray pillows). Link audit: footer Our Story -> /#gUFEWi9Qej, FAQ -> /#gFqF3t5YHP, Contact -> /pages/contact, Track My Order -> /account (was 404 /apps/track). Range product cards now link (title + image). All CTAs verified 200 on preview. Page NEED_PUBLISHING.
 - 2026-11-08 · Store Build · Hero image v2: two moms, natural candid angle (not top-down), light gray + green pillows (hero_moms_v2.png). Avatars described in text, no real faces used. Page NEED_PUBLISHING.
 - 2026-11-08 · Store Build · Hero image v3 live in editor: bird's eye, tight bed crop, pajamas, bed-head hair, blonde stretching (hero_moms_v3.png). Page NEED_PUBLISHING.
+- 2026-11-08 · Store Build · Hero image v4: blonde avatar hugging the White Mesh pillow, overhead editorial (hero_hug_v3.png, 2 edits to remove regular pillows). Page NEED_PUBLISHING.
