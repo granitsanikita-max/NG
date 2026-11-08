@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The 3am Neck Reset · RecoverMama</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --plum:#2E2340; --plum2:#4A3A5E; --mauve:#6E5683; --lilac:#B9A6C9; --lilac-soft:#EEE4F0;
+    --blush:#F3ECF4; --milk:#FBF4EE; --rose:#B8476A; --gold:#E8B86B; --ink:#2B2230; --muted:#6B6072;
+  }
+  @page{ size:8.5in 11in; margin:0 }
+  *{ box-sizing:border-box; margin:0; padding:0 }
+  html,body{ background:#d9d2dc }
+  body{ font-family:'Plus Jakarta Sans',Arial,sans-serif; color:var(--ink); font-size:11.5pt; line-height:1.55 }
+  .page{ width:8.5in; height:11in; position:relative; overflow:hidden; background:var(--milk); margin:0 auto; page-break-after:always; break-after:page }
+  .page:last-child{ page-break-after:auto; break-after:auto }
+  .inner{ padding:0.6in 0.7in 0.85in }
+  h1,h2,h3{ color:var(--plum); line-height:1.15 }
+  h2{ font-size:26pt; font-weight:800; letter-spacing:-0.5px; margin-bottom:6px }
+  h3{ font-size:15pt; font-weight:700; margin-bottom:4px }
+  .serif{ font-family:'Fraunces',Georgia,serif; font-weight:500 }
+  .eyebrow{ font-size:9pt; font-weight:700; letter-spacing:2.5px; text-transform:uppercase; color:var(--rose); margin-bottom:8px }
+  .lead{ font-size:12.5pt; color:var(--muted); margin-bottom:18px; max-width:6.4in }
+  p{ margin-bottom:9px }
+  strong{ color:var(--plum) }
+
+  /* header / footer */
+  .topbar{ height:0.42in; background:var(--plum); display:flex; align-items:center; justify-content:space-between; padding:0 0.7in }
+  .topbar img{ height:0.26in }
+  .topbar span{ color:var(--lilac); font-size:8.5pt; letter-spacing:2px; text-transform:uppercase; font-weight:600 }
+  .foot{ position:absolute; bottom:0.32in; left:0.7in; right:0.7in; display:flex; justify-content:space-between; font-size:8.5pt; color:var(--muted); border-top:1px solid #E6DAE9; padding-top:8px }
+
+  /* image placeholder */
+  .img{ border:2px dashed var(--lilac); border-radius:18px; background:repeating-linear-gradient(135deg,#F6EFF7 0 12px,#F1E8F3 12px 24px); display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; color:var(--mauve); padding:12px }
+  .img b{ font-size:8.5pt; letter-spacing:2px; text-transform:uppercase; color:var(--rose); margin-bottom:4px }
+  .img i{ font-style:normal; font-size:9pt; max-width:90%; line-height:1.4 }
+  .img img{ width:100%; height:100%; object-fit:cover; border-radius:16px }
+
+  /* cover */
+  .cover{ background:radial-gradient(90% 60% at 95% 100%, #4A3A5E 0%, #2E2340 60%); color:var(--milk) }
+  .cover .logo{ position:absolute; top:0.55in; left:0.7in; height:0.5in }
+  .cover .tag{ position:absolute; top:1.55in; left:0.7in; background:var(--gold); color:var(--plum); font-weight:800; font-size:9pt; letter-spacing:2px; text-transform:uppercase; padding:7px 14px; border-radius:99px }
+  .cover h1{ position:absolute; top:2.05in; left:0.7in; right:0.7in; color:var(--milk); font-family:'Fraunces',Georgia,serif; font-weight:600; font-size:52pt; line-height:1.0; letter-spacing:-1px }
+  .cover h1 em{ color:#E9A9C0; font-style:italic }
+  .cover .sub{ position:absolute; top:4.0in; left:0.7in; right:1.2in; font-size:14pt; color:#E6DAE9; line-height:1.5 }
+  .cover .img{ position:absolute; left:0.7in; right:0.7in; top:5.05in; height:4.55in; border-color:#6E5683; background:repeating-linear-gradient(135deg,#3a2d4f 0 12px,#35294a 12px 24px); color:var(--lilac) }
+  .cover .img b{ color:var(--gold) }
+  .cover .bottom{ position:absolute; bottom:0.45in; left:0.7in; right:0.7in; display:flex; justify-content:space-between; font-size:9pt; color:var(--lilac); letter-spacing:1px }
+
+  /* boxes */
+  .card{ background:#fff; border-radius:18px; padding:16px 18px; box-shadow:0 1px 0 #EADFEC }
+  .tint{ background:var(--blush) }
+  .row{ display:flex; gap:16px }
+  .col{ flex:1 }
+  .pill{ display:inline-block; background:var(--lilac-soft); color:var(--plum); font-weight:700; font-size:8.5pt; letter-spacing:1px; text-transform:uppercase; border-radius:99px; padding:4px 10px; margin-right:6px }
+  .pill.rose{ background:#F6DCE5; color:var(--rose) }
+  .num{ width:30px; height:30px; border-radius:50%; background:var(--rose); color:#fff; font-weight:800; display:inline-flex; align-items:center; justify-content:center; font-size:12pt; flex:none }
+  .rule{ display:flex; gap:12px; align-items:flex-start; margin-bottom:11px }
+  .rule p{ margin:0 }
+
+  /* moment banner */
+  .moment{ background:linear-gradient(120deg,var(--plum2),var(--plum)); color:var(--milk); border-radius:20px; padding:16px 20px; display:flex; align-items:center; justify-content:space-between; margin-bottom:16px }
+  .moment .m-left .eyebrow{ color:var(--gold); margin-bottom:2px }
+  .moment h2{ color:var(--milk); font-size:22pt; margin:0 }
+  .moment .when{ text-align:right; font-size:9.5pt; color:#E6DAE9; max-width:2.4in }
+
+  /* move */
+  .move{ display:flex; gap:16px; margin-bottom:14px }
+  .move .img{ width:2.35in; height:2.35in; flex:none }
+  .move .body{ flex:1 }
+  .move h3{ display:flex; align-items:center; gap:10px }
+  .steps{ list-style:none; counter-reset:s; margin:6px 0 8px }
+  .steps li{ counter-increment:s; position:relative; padding-left:24px; margin-bottom:4px }
+  .steps li::before{ content:counter(s); position:absolute; left:0; top:2px; width:17px; height:17px; border-radius:50%; background:var(--lilac-soft); color:var(--plum); font-size:8pt; font-weight:800; display:flex; align-items:center; justify-content:center }
+  .meta{ display:flex; gap:6px; flex-wrap:wrap; margin-bottom:6px }
+  .feel{ font-size:10pt; color:var(--muted); border-left:3px solid var(--gold); padding-left:10px }
+  .feel strong{ color:var(--rose) }
+
+  /* checklist */
+  .check{ list-style:none }
+  .check li{ position:relative; padding-left:28px; margin-bottom:10px }
+  .check li::before{ content:""; position:absolute; left:0; top:3px; width:16px; height:16px; border-radius:5px; border:2px solid var(--rose) }
+
+  table{ width:100%; border-collapse:separate; border-spacing:0; font-size:10pt; background:#fff; border-radius:16px; overflow:hidden }
+  th{ background:var(--plum); color:var(--milk); font-weight:700; padding:9px 6px; font-size:9pt; letter-spacing:.5px }
+  td{ border-bottom:1px solid #EFE6F1; padding:10px 6px; text-align:center; color:var(--muted) }
+  td:first-child{ text-align:left; padding-left:14px; color:var(--plum); font-weight:700 }
+  .box{ display:inline-block; width:15px; height:15px; border:2px solid var(--lilac); border-radius:4px }
+  .scale{ letter-spacing:5px; color:var(--lilac); font-weight:700 }
+
+  .warn{ background:#fff; border:2px solid #F0C9D6; border-radius:18px; padding:16px 18px }
+  .warn li{ margin:0 0 6px 18px }
+  .close{ background:var(--plum); color:var(--milk); border-radius:22px; padding:24px 26px; position:relative }
+  .close h2{ color:var(--milk); font-family:'Fraunces',Georgia,serif; font-weight:500; font-size:24pt }
+  .close p{ color:#E6DAE9 }
+  .small{ font-size:8.5pt; color:var(--muted); line-height:1.45 }
+</style>
+</head>
+<body>
+
+<!-- ============ PAGE 1 · COVER ============ -->
+<section class="page cover">
+  <img class="logo" src="logo.png" alt="RecoverMama">
+  <div class="tag">Free with your Night Shift Pillow</div>
+  <h1>The 3am<br><em>Neck Reset</em></h1>
+  <p class="sub">Six gentle moves for the feed, the bed and the morning. Two minutes each. One free hand is enough.</p>
+  <div class="img"><b>Image 1 · Cover</b><i>Warm night photo: a mom in a feeding chair, lamp glow, baby asleep on her chest, her chin level and shoulders soft. Calm, real, phone-camera feel. Landscape, about 2200 × 1300 px.</i></div>
+  <div class="bottom"><span>RECOVERMAMA.COM</span><span>BECAUSE MOM MATTERS TOO</span></div>
+</section>
+
+<!-- ============ PAGE 2 · WHY + HOW ============ -->
+<section class="page">
+  <div class="topbar"><img src="logo.png" alt=""><span>The 3am Neck Reset</span></div>
+  <div class="inner">
+    <div class="eyebrow">Start here</div>
+    <h2>Why your neck feels like this</h2>
+    <p class="lead">It isn't in your head. It's the math of looking down at someone you love, eight to twelve times a day.</p>
+
+    <div class="row" style="margin-bottom:14px">
+      <div class="col card tint" style="text-align:center">
+        <div class="serif" style="font-size:30pt;color:var(--plum);white-space:nowrap">10 lb</div>
+        <p class="small">What your head weighs when it sits level over your shoulders.</p>
+      </div>
+      <div class="col card tint" style="text-align:center">
+        <div class="serif" style="font-size:30pt;color:var(--rose);white-space:nowrap">60 lb</div>
+        <p class="small">How heavy it can feel to your neck looking down at about 60° (Hansraj, 2014).</p>
+      </div>
+      <div class="col card tint" style="text-align:center">
+        <div class="serif" style="font-size:30pt;color:var(--plum);white-space:nowrap">3 to 6h</div>
+        <p class="small">Roughly how long a day a new mom spends looking down: feeds, burps, phone at 3am.</p>
+      </div>
+    </div>
+
+    <p>Hold anything heavy for hours and the muscles holding it get tired and tight. That's what happens across the back of your neck and the tops of your shoulders. Meanwhile the small muscles at the front of your neck, the ones that hold your head up straight, barely get used.</p>
+    <p>So the goal is simple: <strong>loosen what's been holding on all day, wake up what's been switched off, and give your neck a better night.</strong> That's all this guide does.</p>
+
+    <h3 style="margin-top:10px">How to use it</h3>
+    <div class="row" style="margin-top:8px">
+      <div class="col card">
+        <span class="pill rose">Moment 1</span>
+        <h3 style="font-size:12.5pt;margin-top:8px">During the feed</h3>
+        <p class="small">2 moves you can do with the baby on you. Seated, one hand.</p>
+      </div>
+      <div class="col card">
+        <span class="pill rose">Moment 2</span>
+        <h3 style="font-size:12.5pt;margin-top:8px">In bed, before sleep</h3>
+        <p class="small">2 moves lying down, plus how to settle onto your pillow.</p>
+      </div>
+      <div class="col card">
+        <span class="pill rose">Moment 3</span>
+        <h3 style="font-size:12.5pt;margin-top:8px">First thing in the morning</h3>
+        <p class="small">2 moves before you pick anyone up.</p>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:12px;padding:12px 18px 4px">
+      <h3 style="font-size:12.5pt">The 4 rules</h3>
+      <div class="row" style="margin-top:8px">
+        <div class="col">
+          <div class="rule"><span class="num">1</span><p><strong>Slow beats strong.</strong> Every move is gentle. If you're straining, do less.</p></div>
+          <div class="rule"><span class="num">2</span><p><strong>Breathe out on the stretch.</strong> Your shoulders drop on the exhale.</p></div>
+        </div>
+        <div class="col">
+          <div class="rule"><span class="num">3</span><p><strong>Stretch, never pain.</strong> A mild pull is right. Sharp, pinching or tingling means stop.</p></div>
+          <div class="rule"><span class="num">4</span><p><strong>Any day counts.</strong> Do one moment, not all three. Something beats nothing.</p></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>RecoverMama · The 3am Neck Reset</span><span>2</span></div>
+</section>
+
+<!-- ============ PAGE 3 · MOMENT 1 ============ -->
+<section class="page">
+  <div class="topbar"><img src="logo.png" alt=""><span>The 3am Neck Reset</span></div>
+  <div class="inner">
+    <div class="moment">
+      <div class="m-left"><div class="eyebrow">Moment 1</div><h2>During the feed</h2></div>
+      <div class="when">Seated, baby on you, one hand free. Do these once per feed, any feed.</div>
+    </div>
+
+    <div class="move">
+      <div class="img"><b>Image 2</b><i>Side view illustration: mom seated, baby feeding, eyes level, chin gliding straight back (a gentle "double chin"). Arrow showing the head moving back, not down. Square.</i></div>
+      <div class="body">
+        <h3><span class="num">1</span> The Chin Glide</h3>
+        <div class="meta"><span class="pill">5 slow reps</span><span class="pill">Hold 3 breaths</span></div>
+        <ol class="steps">
+          <li>Sit back against the chair. Look straight ahead at the wall, not down.</li>
+          <li>Glide your chin straight back, like making a double chin. Your head moves back, not down.</li>
+          <li>Hold for 3 slow breaths, then let it ease forward. Repeat 5 times.</li>
+        </ol>
+        <p class="feel"><strong>You'll feel:</strong> a light stretch at the base of your skull and the front of your neck switching on. That's the "head up straight" muscle waking up.</p>
+      </div>
+    </div>
+
+    <div class="move">
+      <div class="img"><b>Image 3</b><i>Two-panel illustration: shoulders lifted up to the ears on the inhale, then dropped heavy on the exhale. Baby still in arms. Square.</i></div>
+      <div class="body">
+        <h3><span class="num">2</span> The Shoulder Melt</h3>
+        <div class="meta"><span class="pill">3 rounds</span><span class="pill">With your breath</span></div>
+        <ol class="steps">
+          <li>Breathe in through your nose and lift both shoulders up toward your ears.</li>
+          <li>Hold for a second at the top.</li>
+          <li>Breathe out slowly through your mouth and let your shoulders drop, heavy, like putting down shopping bags.</li>
+        </ol>
+        <p class="feel"><strong>You'll feel:</strong> the tops of your shoulders let go. Most moms notice they were holding them up the whole feed.</p>
+      </div>
+    </div>
+
+    <div class="card tint">
+      <h3 style="font-size:12.5pt">The 3-breath habit: eyes up</h3>
+      <p style="margin:0">Every time you switch sides or burp, lift your eyes to the far wall for 3 breaths and let your head follow back to level. It undoes the downward hang a few times an hour without adding a single minute to your day.</p>
+    </div>
+  </div>
+  <div class="foot"><span>RecoverMama · The 3am Neck Reset</span><span>3</span></div>
+</section>
+
+<!-- ============ PAGE 4 · FEEDING SETUP ============ -->
+<section class="page">
+  <div class="topbar"><img src="logo.png" alt=""><span>The 3am Neck Reset</span></div>
+  <div class="inner">
+    <div class="eyebrow">Moment 1 · bonus</div>
+    <h2>Fix the setup, save your neck</h2>
+    <p class="lead">Moves help. A better position helps all day. These five changes take seconds and add up fast.</p>
+
+    <div class="row">
+      <div class="col">
+        <div class="rule"><span class="num">1</span><p><strong>Bring baby up to you, not you down to baby.</strong> Stack a pillow under the baby until their mouth is level with your chest. Your back should touch the chair.</p></div>
+        <div class="rule"><span class="num">2</span><p><strong>Prop the elbow.</strong> A cushion under the arm holding the baby means your shoulder isn't carrying their weight for 30 minutes.</p></div>
+        <div class="rule"><span class="num">3</span><p><strong>Feet up.</strong> A stool, a box, a stack of books. It tips your hips back so you stop curling forward.</p></div>
+        <div class="rule"><span class="num">4</span><p><strong>Switch your gaze side.</strong> If you always look down to the left, your neck always twists the same way. Swap which side you sit on in bed and which shoulder you burp on.</p></div>
+        <div class="rule"><span class="num">5</span><p><strong>Phone at eye level.</strong> At 3am, hold the phone up in front of your face instead of in your lap. Same scroll, a fraction of the load.</p></div>
+      </div>
+      <div class="col" style="flex:0 0 2.7in">
+        <div class="img" style="height:6.2in"><b>Image 4</b><i>Real photo: mom in a feeding chair set up well. Baby raised on a pillow, elbow supported, feet on a small stool, back against the chair, phone held at eye level on the side table. Portrait, about 1200 × 2700 px.</i></div>
+      </div>
+    </div>
+
+    <div class="card tint" style="margin-top:14px">
+      <p style="margin:0"><strong>Carrying a car seat?</strong> Hold it in front of you with both hands, close to your body, or hook it on your forearm against your hip. One hand down at your side pulls your whole neck and shoulder sideways.</p>
+    </div>
+  </div>
+  <div class="foot"><span>RecoverMama · The 3am Neck Reset</span><span>4</span></div>
+</section>
+
+<!-- ============ PAGE 5 · MOMENT 2 ============ -->
+<section class="page">
+  <div class="topbar"><img src="logo.png" alt=""><span>The 3am Neck Reset</span></div>
+  <div class="inner">
+    <div class="moment">
+      <div class="m-left"><div class="eyebrow">Moment 2</div><h2>In bed, before sleep</h2></div>
+      <div class="when">Lying down, lights low. About 2 minutes, then straight to sleep.</div>
+    </div>
+
+    <div class="move">
+      <div class="img"><b>Image 5</b><i>Overhead illustration: mom lying on her back on the Night Shift Pillow, tiny "yes" nod arrows, then small side-to-side "no" turn arrows. Arms resting on the bed, outside the pillow. Square.</i></div>
+      <div class="body">
+        <h3><span class="num">3</span> Slow Yes, Slow No</h3>
+        <div class="meta"><span class="pill">10 nods</span><span class="pill">5 turns each way</span></div>
+        <ol class="steps">
+          <li>Lie on your back, head in the low middle of your pillow.</li>
+          <li>Make 10 tiny "yes" nods, small and slow. Your head barely leaves the pillow.</li>
+          <li>Then turn your head slowly to the left and right, only as far as feels easy. 5 each way.</li>
+        </ol>
+        <p class="feel"><strong>You'll feel:</strong> the stiffness from the day loosen without any stretch at all. Small and slow is the whole trick.</p>
+      </div>
+    </div>
+
+    <div class="move">
+      <div class="img"><b>Image 6</b><i>Illustration: mom lying on her side, knees bent, both arms out in front. The top arm sweeps up and over to open the chest toward the ceiling, eyes following the hand. Square.</i></div>
+      <div class="body">
+        <h3><span class="num">4</span> The Open Book</h3>
+        <div class="meta"><span class="pill">5 each side</span><span class="pill">Breathe out as you open</span></div>
+        <ol class="steps">
+          <li>Lie on your side, knees bent, both arms straight out in front of you, palms together.</li>
+          <li>Breathe out and slowly sweep your top arm up and over toward the other side, letting your eyes follow your hand. Keep your knees together.</li>
+          <li>Rest there for 2 breaths, then close the book. 5 times, then roll over and do the other side.</li>
+        </ol>
+        <p class="feel"><strong>You'll feel:</strong> your chest and upper back open, the exact opposite of the feeding hunch.</p>
+      </div>
+    </div>
+
+    <div class="card tint">
+      <h3 style="font-size:12.5pt">Then settle in</h3>
+      <p style="margin:0"><strong>On your back:</strong> head in the low center. <strong>On your side:</strong> move onto a raised side wing so your head stays level with your spine, and let your bottom arm rest in front of you in the arm cutout instead of under the pillow. Give it two nights; a new shape always feels new at first.</p>
+    </div>
+  </div>
+  <div class="foot"><span>RecoverMama · The 3am Neck Reset</span><span>5</span></div>
+</section>
+
+<!-- ============ PAGE 6 · MOMENT 3 ============ -->
+<section class="page">
+  <div class="topbar"><img src="logo.png" alt=""><span>The 3am Neck Reset</span></div>
+  <div class="inner">
+    <div class="moment">
+      <div class="m-left"><div class="eyebrow">Moment 3</div><h2>First thing in the morning</h2></div>
+      <div class="when">Before you lift the baby, the car seat or the laundry. About 2 minutes.</div>
+    </div>
+
+    <div class="move">
+      <div class="img"><b>Image 7</b><i>Illustration: mom sitting on the edge of the bed, right hand tucked under her right thigh, left ear tipping gently toward left shoulder, left hand resting lightly on her head. Square.</i></div>
+      <div class="body">
+        <h3><span class="num">5</span> The Ear to Shoulder Release</h3>
+        <div class="meta"><span class="pill">30 seconds each side</span><span class="pill">Seated</span></div>
+        <ol class="steps">
+          <li>Sit on the edge of the bed. Tuck your right hand under your right thigh to anchor that shoulder down.</li>
+          <li>Tip your left ear toward your left shoulder. Rest your left hand on your head for a little extra weight. No pulling.</li>
+          <li>Breathe slowly for 30 seconds, then switch sides.</li>
+        </ol>
+        <p class="feel"><strong>You'll feel:</strong> a long stretch down the side of your neck into the top of your shoulder. That's the muscle that does the most holding.</p>
+      </div>
+    </div>
+
+    <div class="move">
+      <div class="img"><b>Image 8</b><i>Illustration: mom standing in a doorway, forearms resting on each side of the frame at shoulder height, one foot stepping gently forward, chest opening. Square.</i></div>
+      <div class="body">
+        <h3><span class="num">6</span> The Doorway Opener</h3>
+        <div class="meta"><span class="pill">Hold 30 seconds</span><span class="pill">2 rounds</span></div>
+        <ol class="steps">
+          <li>Stand in a doorway. Rest your forearms on each side of the frame, elbows at shoulder height.</li>
+          <li>Step one foot forward slowly until you feel a stretch across the front of your chest.</li>
+          <li>Keep your chin level and breathe for 30 seconds. Step back, shake it out, do it once more.</li>
+        </ol>
+        <p class="feel"><strong>You'll feel:</strong> your chest open and your shoulders sit back where they belong. Tight chest muscles are half of what pulls you into a hunch.</p>
+      </div>
+    </div>
+
+    <div class="card tint">
+      <h3 style="font-size:12.5pt">Short on time? The 60-second version</h3>
+      <p style="margin:0">3 Chin Glides, 1 Shoulder Melt, 1 Doorway Opener. Done before the kettle boils.</p>
+    </div>
+  </div>
+  <div class="foot"><span>RecoverMama · The 3am Neck Reset</span><span>6</span></div>
+</section>
+
+<!-- ============ PAGE 7 · CHEAT SHEET + TRACKER ============ -->
+<section class="page">
+  <div class="topbar"><img src="logo.png" alt=""><span>The 3am Neck Reset</span></div>
+  <div class="inner">
+    <div class="eyebrow">Stick this on the fridge</div>
+    <h2>Your 7-night reset</h2>
+    <p class="lead">Tick a box when you do a moment. Rate your neck when you wake up. By night 7 you'll see your own pattern.</p>
+
+    <table>
+      <tr><th style="text-align:left;padding-left:14px">Night</th><th>Feed<br>moves 1+2</th><th>Bed<br>moves 3+4</th><th>Morning<br>moves 5+6</th><th>Neck on waking<br>1 stiff · 5 easy</th></tr>
+      <tr><td>Night 1</td><td><span class="box"></span></td><td><span class="box"></span></td><td><span class="box"></span></td><td class="scale">1 2 3 4 5</td></tr>
+      <tr><td>Night 2</td><td><span class="box"></span></td><td><span class="box"></span></td><td><span class="box"></span></td><td class="scale">1 2 3 4 5</td></tr>
+      <tr><td>Night 3</td><td><span class="box"></span></td><td><span class="box"></span></td><td><span class="box"></span></td><td class="scale">1 2 3 4 5</td></tr>
+      <tr><td>Night 4</td><td><span class="box"></span></td><td><span class="box"></span></td><td><span class="box"></span></td><td class="scale">1 2 3 4 5</td></tr>
+      <tr><td>Night 5</td><td><span class="box"></span></td><td><span class="box"></span></td><td><span class="box"></span></td><td class="scale">1 2 3 4 5</td></tr>
+      <tr><td>Night 6</td><td><span class="box"></span></td><td><span class="box"></span></td><td><span class="box"></span></td><td class="scale">1 2 3 4 5</td></tr>
+      <tr><td>Night 7</td><td><span class="box"></span></td><td><span class="box"></span></td><td><span class="box"></span></td><td class="scale">1 2 3 4 5</td></tr>
+    </table>
+
+    <h3 style="margin-top:22px">All six at a glance</h3>
+    <div class="row" style="margin-top:8px">
+      <div class="col card"><span class="pill rose">Feed</span><p style="margin:8px 0 0"><strong>1 · Chin Glide</strong><br><span class="small">Chin straight back, 5 × 3 breaths</span></p><p style="margin:8px 0 0"><strong>2 · Shoulder Melt</strong><br><span class="small">Up on the inhale, drop on the exhale, 3 ×</span></p></div>
+      <div class="col card"><span class="pill rose">Bed</span><p style="margin:8px 0 0"><strong>3 · Slow Yes, Slow No</strong><br><span class="small">10 tiny nods, 5 easy turns each way</span></p><p style="margin:8px 0 0"><strong>4 · Open Book</strong><br><span class="small">On your side, open the top arm, 5 each side</span></p></div>
+      <div class="col card"><span class="pill rose">Morning</span><p style="margin:8px 0 0"><strong>5 · Ear to Shoulder</strong><br><span class="small">Anchor one hand, tip the ear, 30 s each</span></p><p style="margin:8px 0 0"><strong>6 · Doorway Opener</strong><br><span class="small">Forearms on the frame, step through, 30 s × 2</span></p></div>
+    </div>
+  </div>
+  <div class="foot"><span>RecoverMama · The 3am Neck Reset</span><span>7</span></div>
+</section>
+
+<!-- ============ PAGE 8 · SAFETY + CLOSE ============ -->
+<section class="page">
+  <div class="topbar"><img src="logo.png" alt=""><span>The 3am Neck Reset</span></div>
+  <div class="inner">
+    <div class="eyebrow">Look after yourself</div>
+    <h2>When to check in with a pro</h2>
+    <p class="lead">These moves are gentle comfort stretches, not treatment. Your body has just done something huge, so listen to it.</p>
+
+    <div class="warn">
+      <h3 style="font-size:12.5pt;margin-bottom:8px">Stop and talk to your doctor or a physical therapist if you notice:</h3>
+      <ul>
+        <li>Numbness, tingling or weakness running down your arm or into your hand</li>
+        <li>Headaches that keep coming back or won't ease</li>
+        <li>Pain that's getting worse week to week, or wakes you up on its own</li>
+        <li>Pain after a fall, a bump or a sudden jolt</li>
+        <li>Any dizziness, or pain together with a fever</li>
+      </ul>
+      <p class="small" style="margin-top:8px">Had a C-section or a tough birth? Check with your provider before the Open Book (move 4) and skip anything that pulls on your scar. A postpartum physical therapist is one of the best people a new mom can see. Many moms say they wish they'd gone sooner.</p>
+    </div>
+
+    <div class="row" style="margin-top:20px;align-items:stretch">
+      <div class="col close">
+        <div class="eyebrow" style="color:var(--gold)">From all of us</div>
+        <h2 style="font-size:21pt">Your neck worked all day. Give it the night.</h2>
+        <p style="margin-top:10px">You spend every hour looking after someone else. This is two minutes that's just for you. Do what you can, skip what you can't, and let your Night Shift Pillow handle the rest while you sleep.</p>
+        <p style="margin-top:14px;margin-bottom:0;color:var(--gold);font-weight:700">Questions? Just reply to your order email. A real person reads every one.</p>
+      </div>
+      <div class="img" style="flex:0 0 2.6in"><b>Image 9</b><i>Soft morning photo: mom asleep on the Night Shift Pillow, early light, calm face, arms resting on the duvet. Portrait.</i></div>
+    </div>
+
+    <p class="small" style="margin-top:18px">This guide shares general comfort and posture tips for adults. It is not medical advice and does not diagnose, treat or prevent any condition. Stop any move that causes pain. © 2026 RecoverMama · recovermama.com</p>
+  </div>
+  <div class="foot"><span>RecoverMama · The 3am Neck Reset</span><span>8</span></div>
+</section>
+
+</body>
+</html>

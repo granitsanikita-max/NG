@@ -39,3 +39,4 @@
 - 2026-11-08 · Store Build · Hero image v2: two moms, natural candid angle (not top-down), light gray + green pillows (hero_moms_v2.png). Avatars described in text, no real faces used. Page NEED_PUBLISHING.
 - 2026-11-08 · Store Build · Hero image v3 live in editor: bird's eye, tight bed crop, pajamas, bed-head hair, blonde stretching (hero_moms_v3.png). Page NEED_PUBLISHING.
 - 2026-11-08 · Store Build · Hero image v4: blonde avatar hugging the White Mesh pillow, overhead editorial (hero_hug_v3.png, 2 edits to remove regular pillows). Page NEED_PUBLISHING.
+- 2026-11-08 · Store Build · Bonus 'The 3am Neck Reset' built (assets/bonus/3am_neck_reset.pdf + editable .html): 8 pages, 6 moves across feed/bed/morning, feeding setup, 7-night tracker, safety page. 9 image slots marked. Decision: ONE bonus, no fake $ value, 60-night guarantee. Kaching: 2-pack 'Night-Recovery Set' pre-selected per brain/04.
