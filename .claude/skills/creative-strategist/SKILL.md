@@ -100,6 +100,8 @@ Conflicts I found in the files: <list, or "none">
    organic/native · benefit callouts · comparison · review · offer + urgency · before/after.
    Already in the repo: <swipes from SCRIPTS/AD_RESEARCH, or "none">. Reuse them?
    Formats you don't cover: I find them in the ad library and you approve at the gate.
+6b. Where the ads send traffic: product page, advertorial, listicle or quiz? (TOFU native
+   ads usually go to an advertorial; the copy CTA changes with it.)        [from FUNNEL.md]
 7. Offer facts the ads may show (price, bundle, guarantee, shipping):  [from OFFER.md]
 8. Proof the ads may show (real review count, rating, customers sold):  [found / "none yet"
    → ads show NO social-proof numbers; prices + guarantee from item 7 are still fine]
@@ -146,11 +148,14 @@ same structure from the course.
 5b. **Swipe per angle.** All 25 are static images (formats stay consistent, so only the
    message varies). The angle's awareness level → static sub-format (course-map §6).
    LOOK at every swipe image and log its format + layout. Assign each angle its best-fit
-   swipe; one swipe can serve several angles. If a format has no swipe, search
+   swipe; one swipe can serve several angles. If the angle's planned format has no swipe,
+   use the closest-fitting one and log the substitution in `swipe.md`. If a format has no swipe, search
    `winning_hunters search_facebook_ads` / Meta `ads_library_search` / the competitors'
    pages for long-running static ads of that format; download 2–3, look at them, propose
    them at the gate. Save as `ads/D#A#/competitor.<ext>` + source URL in `swipe.md`.
    Never model an ad you haven't looked at.
+   Log every swipe in `<run>/swipes/CATALOG.md` (file · advertiser · run dates · format ·
+   NATIVE or DESIGNED · layout). Long-running = working; note it.
 
 **🛑 GATE.** Show Nikita the grid (`templates/desire-angle-grid.md` filled: desire ×
 angle × headline × awareness × format × swipe thumbnail/link) + exact credits
@@ -165,8 +170,12 @@ may cut, swap or rewrite angles or swipes here.
    `aspect_ratio: "1:1"`, `medias: [{product, image_references}, {swipe, image_references}]`,
    `prompt` = FINAL PROMPT. Wait (`jobs_wait`), then LOOK at the result: product matches
    the photo? Every ON-IMAGE TEXT string spelled right? ≤ 3 focal points? Desire readable in
-   2 seconds? Nothing outside the brief? Competitor branding gone? Fail → fix the prompt and
-   regenerate THAT ad (max 3 tries, then flag it). Log the job id + URL in `image.md`.
+   2 seconds? Nothing outside the brief? Competitor branding gone? Fail → write down WHY
+   (e.g. "shirt fold too subtle", "smile reads happy, not doubtful"), fix exactly that in the
+   prompt, and regenerate THAT ad (max 3 tries, then flag it). Log every try (job id, URL,
+   pass/fail + reason) in `image.md`. Check that the job's reported model matches the one you
+   asked for, and flag it if not. NATIVE ads: also check it reads as a real phone photo, with
+   no text and no ad look.
 7. **Copy, one ad per pass** (`prompts/07-copy.md`): the ad's funnel stage picks the
    section → `copy.md`. Check: character limits, brief-only claims, one desire.
 8. **Tracking** → `tracking.csv` (`templates/tracking.csv` = BBA Ad Tracking Master columns)

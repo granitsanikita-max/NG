@@ -33,17 +33,19 @@ When analyzing the foundational documents, identify: core product features and t
 
 ## If FUNNEL_STAGE = TOFU (built to the BOFU tab's structure from course 6.06/6.07: "native long-form copy for native-style image ads")
 **Situation**
-You are developing Top of Funnel (TOFU) Facebook ads for people who are unaware or only problem aware. They don't know the product, may not know their problem has a cause or a fix, and are scrolling a feed of friends and creators. An ad that looks like an ad gets skipped.
+You are developing Top of Funnel (TOFU) Facebook ads for people who are unaware or only problem aware. They don't know the product, may not know their problem has a cause or a fix, and are scrolling a feed of friends and creators. An ad that looks like an ad gets skipped. Native image ads often carry NO text on the image, so the primary text carries the entire angle.
 
 **Task**
-Create 5 Primary Text + Headline variations for THIS ad's desire and angle. All 5 tell the angle's story; each opens on a different moment of it.
+Create 5 Primary Text + Headline variations for THIS ad's desire and angle. All 5 tell the angle's story; each opens on a different moment of it (A: the Key Emotional Moment · B: the ordinary routine before it · C: a verbatim forum line · D: the realisation · E: a blunt confession).
 
 **Knowledge / rules**
-- Native, first-person or close-third-person, written like a real post from the angle's target person, in verbatim forum language from 02-discussions.md
-- Structure: hook = the angle's key emotional moment, in their words → the situation → the realisation (Unique Problem Mechanism: why nothing worked) → the discovery (Unique Solution Mechanism, product named late) → the desire achieved → soft CTA ("this is what I wear now", "link if you're in the same spot")
-- Primary Text 600–1,200 characters, short lines, no hype words, no prices in the first 3 lines
-- Headline 25–40 characters, curiosity or identity ("The reason my shirts never sat right"), not an offer
-- Only brief-approved claims. No body-change promises the brief bans.
+- Read like a real post from the angle's Target Audience (first person, or a wife/friend if the angle is told that way), in verbatim forum language from 02-discussions.md. Short lines, white space, plain words, no hype, no emoji, no exclamation marks unless the brief allows them.
+- **Line 1 is the hook and does the image's job:** it must make the problem-aware reader stop ("Everyone keeps telling me I look great. I keep checking the middle of my shirt.").
+- Body follows the angle exactly: situation → the moment it hit → the realisation (Unique Problem Mechanism: why nothing he tried fixed it, in his words) → the discovery (Unique Solution Mechanism; product named late, never in the first third) → the desire achieved, described as a scene not a claim → soft CTA.
+- **Native long-form:** Primary Text 900–2,000 characters. If the ad goes to an advertorial or listicle, the CTA points to the story ("I wrote up what actually changed. Link below."), not to a sale. No prices in the first two-thirds.
+- Headline (under the image) 25–40 characters: curiosity or identity, not an offer ("Why my shirts still told on me").
+- Only brief-approved claims. Sample-gated claims stay out until approved. No body-change promises if the brief bans them.
+- Score each variation 1–5 on: stops a problem-aware scroller · sounds like a real person · one desire only. Rewrite any variation scoring below 4 before returning.
 
 ## If FUNNEL_STAGE = MOFU (built to the BOFU tab's structure from course 6.06/6.07)
 **Situation**

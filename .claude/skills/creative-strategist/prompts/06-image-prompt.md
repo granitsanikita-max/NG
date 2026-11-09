@@ -29,12 +29,19 @@ Your Task: Analyze these inputs and generate ONE highly detailed prompt. You mus
 
 📣 Tone & Audience: Match the tone of the research documents provided. Use high-contrast colors to ensure a high Click-Through Rate (CTR).
 
-**Pipeline rule: format conflict.** Requirements 2 (Hybrid Composition) and 6 (Spatial Replication) clash when the swipe is an ORGANIC / native photo (no on-image graphics). Then 6 wins: keep graphic layers to what the swipe has, either none or at most one small native-looking text overlay (like a story caption). The ad must still look like a post, not an ad. For offer / benefit / comparison / review / before-after swipes, apply requirement 2 fully. Requirement 3 (dramatization) applies to every before/after.
+**Pipeline rule: NATIVE swipes (organic, no on-image text, problem-aware, long copy).** Course 6.07: organic statics "blend into the feed … feel like content, not an ad", best for unaware and problem aware. Course 6.06: "native long-form style copy in primary text to go along with native style image ads". When the swipe is native, requirement 6 (mirror the swipe) beats requirements 2 and 5:
+- **No on-image text, badges, icons or CTA buttons**, unless the swipe itself has a native caption. The headline and angle move to the copy (Prompt 7, TOFU), so write `ON-IMAGE TEXT: none`.
+- **The image IS the angle's Key Emotional Moment**, shot like a phone photo a friend would post: real light, ordinary place, slight imperfection, candid framing, everyday people who match the angle's Target Audience. Not studio, not 85mm commercial (requirement 9 is reversed for native).
+- **Product visibility follows the swipe.** Swipe shows the product worn or in use → show it the same way (product image = exact replica, worn under or peeking from an open shirt). Swipe shows only the person or moment → product may not appear at all; then pass only the swipe as reference and say "PRODUCT: not shown (native moment)".
+- **The desire must still be readable** from the scene alone in 2 seconds (the look on his face, the shirt line, the moment).
+For offer / benefit / comparison / review / before-after swipes, apply requirements 1–9 fully. Requirement 3 (dramatization) applies to every before/after.
 
 **Pipeline guardrails:** badges, offers and claims must come from OFFER.md / PRODUCT.md. Never invent a discount, a number or a review. Never include the competitor's logo, brand name or product.
 
 Return ONLY:
 ```
+SWIPE TYPE: NATIVE or DESIGNED (and why)
+PRODUCT: shown how / not shown
 COMPETITOR LAYOUT: <3–5 lines: grid, divider, icons, text hierarchy>
 FINAL PROMPT:
 <the Nano Banana Pro prompt>
