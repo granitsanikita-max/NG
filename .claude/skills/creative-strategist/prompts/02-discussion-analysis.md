@@ -2,6 +2,11 @@
 # Prompt #2 — Let the AI Analyze the 20 Discussions (own doc)
 
 Read `{{RUN_DIR}}/01-research.md`, then open and read IN FULL each of the 20 URLs listed there (post + strongest replies). If a URL is dead, replace it with an equivalent thread found via search and note the swap.
+**Access fallback (pipeline addition):** if a site can't be fetched in full (Reddit often blocks automated access):
+1. use forums that do load in full (e.g. BariatricPal, niche forums, Quora, review pages) for full-thread reading;
+2. if the brand brain has a customer data bank (verbatim quotes with URLs), Grep it for this problem space and use those verified quotes;
+3. keep search-snippet quotes, but tag each one `[EXCERPT]`; tag full-text quotes `[FULL]`, data-bank quotes `[BANK]`.
+Never present an excerpt as a full post. State the [FULL]/[EXCERPT]/[BANK] split in the Executive Summary.
 
 **Situation**
 You are analyzing public discussion forum posts from a specific customer demographic to inform high-converting advertising copy. These forum posts contain authentic customer language expressing real problems and pain points. This analysis will directly feed into a copywriting process that applies Breakthrough Advertising (Eugene Schwartz) and RMBC (Rapport, Message, Benefit, Close) method principles to create persuasive advertisements that drive profitable conversions at scale.

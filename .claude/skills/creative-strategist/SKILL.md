@@ -39,6 +39,23 @@ fix if it fails, and only then ticks `RUN.md` and starts the next pass.
 inline, one at a time, re-reading the prompt file and its inputs fresh before each, and
 never draft two units in one response.
 
+## Running outside the NG repo (claude.ai / Claude desktop upload)
+
+Detect it: no `brands/_BOARD.md` in the working directory. Then:
+- **Brand files** → Nikita uploads his foundational docs in the intake (item 2). Skip the
+  git, STATE and _BOARD steps; nothing is "locked", so Step 9 hands everything back as files.
+- **`<run>`** → `/mnt/user-data/outputs/creative-strategy/<brand>/` if it exists, else the
+  current working directory. Every step's output is saved as a file there AND shown in chat.
+- **No `Agent` tool** → use the inline one-by-one mode below. Still strictly one pass per
+  message turn: do one pass, save it, show a 5-line summary, continue to the next. Never put
+  two passes in one response.
+- **Web research** → the web search / fetch tools available there.
+- **Images** → if a Higgsfield connector is available, use it as in Step 6. If not, Step 6
+  outputs the final Nano Banana Pro prompt per ad. Nikita pastes it into Nano Banana Pro
+  with the product photo + swipe attached, then uploads the result so you can run the checks.
+- **`scripts/fill.py`** → run it with code execution if available; otherwise fill the
+  placeholders by hand and check for any `{{` left before using a prompt.
+
 ## Workspace (`<run>`)
 
 `<run>` = `<session scratchpad>/creative-strategy/<slug>/` (the scratchpad path is in the
