@@ -18,7 +18,6 @@ Prompt = the filled prompt file + this footer.
 | {{ANGLE_FILE}} / {{ANGLE_NAME}} / {{ANGLE_HEADLINE}} | `05-angles-D#.md`; headline = the strongest of the 3 options that uses NO gated/banned claim (check 00-brief) |
 | {{COMPETITOR_AD}} | `<run>/ads/D#A#/competitor.<ext>` |
 | {{PRODUCT_PHOTO}} | `<run>/product.<ext>` |
-| {{FUNNEL_STAGE}} | the angle's Funnel Stage (TOFU/MOFU/BOFU) |
 | {{EMOTIONAL_MOMENT}} | the angle's Key Emotional Moment (used by 06) |
 | {{OUTPUT_PATH}} | set automatically by fill.py (4th argument) |
 

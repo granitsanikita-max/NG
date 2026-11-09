@@ -1,13 +1,16 @@
 ---
 name: creative-strategist
-description: Use when a product or brand needs its next batch of static image ads planned and made with a creative strategy, when Nikita says "creative strategy", "creative strategist", "mass desires", "25 ads", "what do I test next", "build ads from these swipes", or when live ads have results and the next iteration batch must be decided. Runs the Brand Builders Academy creative-strategy process (research → 5 mass desires → 25 angles → 25 static image ads → copy → tracking → iteration), one pass at a time.
+description: Use when a product or brand needs a creative strategy, when Nikita says "creative strategy", "creative strategist", "mass desires", "angles", "25 angles", "what do I test next", or when live ads have results and the next desires/angles must be decided. Runs the Brand Builders Academy creative-strategy process, one pass at a time: research → 5 mass desires → 5 angles each = 25 angles in a spreadsheet. Then it asks whether to also swipe the 25 static image ads.
 ---
 
 # Creative Strategist
 
-Turns one product into **25 testable static image ads**: 5 mass desires × 5 angles. Each ad
-is built from exactly one desire + one angle, so a winner tells us WHY it won and can be
-repeated. Then it reads results and plans the next batch (80% iterate / 20% new).
+**The outcome, every run: 5 mass desires × 5 angles = 25 angles, delivered as a spreadsheet**
+(the BBA testing grid + full angle detail). Each future ad is built from exactly one desire +
+one angle, so a winner tells you WHY it won and can be repeated.
+After the spreadsheet, it **asks** whether to also swipe the 25 static image ads (optional
+Part 2). Ad copy is NOT part of this skill; Nikita writes it.
+With live results, Mode B decides the next desires/angles (80% iterate / 20% new).
 Theory and every course rule: `reference/course-map.md`. Read it at the start of every run.
 
 ## THE ONE-BY-ONE RULE (non-negotiable)
@@ -16,8 +19,9 @@ Every unit is its own focused pass, run strictly in order. A pass starts only af
 previous pass's output is saved and checked. Nothing runs in parallel. Nothing is batched.
 - 0b brief → #1 research → #2 discussions → #3 mechanism → #4 desires (5 passes)
 - angles: one pass per desire, D1 → D5 (5 passes; each pass reads the angles already written)
-- per ad: image-prompt pass → image → check → copy pass, then the next ad (25 × 2 passes)
-- full run ≈ **60 passes + 25–50 images**. Never copy one ad's prompt to make another.
+- spreadsheet (script, not a pass), then the Part 2 question
+- Part 2 only: per ad, image-prompt pass → image → check, then the next ad (25 passes)
+- core run ≈ **10 passes**; with Part 2, + 25 passes + 25–50 images. Never copy one ad's prompt to make another.
 
 **Pass mechanics (Agent tool available):** values live in `<run>/vars.json` (run-wide) and
 `<run>/vars-<id>.json` (per pass: `<id>` = `D#` for an angle pass, `D#A#` for an ad pass; the
@@ -34,7 +38,7 @@ fix if it fails, then tick `RUN.md`.
 model you are. Before each pass, re-read its prompt file, the Footer and every input file
 fresh. One pass per response: do it, save the output, show the footer's 3-line summary,
 then **end your turn** with "Next: <pass>. Reply `go`, or `autopilot` to run the rest
-without stopping." Autopilot still stops at 🛑 Gate 1, 🛑 Gate 2, any FLAGGED ad, and
+without stopping." Autopilot still stops at 🛑 THE QUESTION, 🛑 Gate 1, the Lock, any FLAGGED ad, and
 anything that needs an upload from the user. It is still one pass per response.
 
 ## Environment: detect at Step 0
@@ -50,28 +54,29 @@ Sections marked **[repo]** apply only here.
   line what you read. No git, STATE, board or charters. Skip every **[repo]** step.
 - **`<run>`** = `/mnt/user-data/outputs/creative-strategy/<brand>/` if writable, else
   `./creative-strategy/<brand>/`. **No filesystem at all** → keep each output as a clearly
-  headed chat message, and at Step 9 give everything as one downloadable document.
+  headed chat message, and at the Lock step give everything as one downloadable document.
 - **Intake changes:** first line "Creative strategy intake: <brand>" (no ACTIVE BRAND).
-  Item 6 asks for swipe uploads, since there's no ad-library search. Item 13 says "~60 passes
-  in this chat; images run in your Nano Banana Pro unless an image connector is available."
-- **Images without a connector:** Step 6 outputs the FINAL PROMPT + which reference images to
+  Item 6 asks for swipe uploads, since there's no ad-library search. Item 12 says "~10 passes in
+  this chat (+25 if you want images; they run in your Nano Banana Pro unless an image connector exists)."
+- **Images without a connector (Part 2):** Step 8 outputs the FINAL PROMPT + which reference images to
   attach, in order. The user renders it in Nano Banana Pro and uploads the result, and you
   run the checks. Because each render is a round trip, the user may choose at Gate 1:
-  (a) one ad at a time (prompt → user renders → check → copy), or (b) all 25 prompt passes
+  (a) one ad at a time (prompt → user renders → check), or (b) all 25 prompt passes
   first (still one per response), then renders and checks ad by ad. The max-3-tries rule
   still applies per ad. Gate 1's cost line = "25 renders + remakes in your Nano Banana Pro".
 - **fill.py without code execution:** by hand. Drop the leading `<!-- … -->` comment, replace
   every `{{UPPERCASE}}`, then append the extra note and the Footer from
   `templates/subagent-brief.md`. Check that no `{{UPPERCASE}}` is left.
-- **Step 9** = one document `creative-strategy-<brand>-LOCKED.md` (structure in Step 9) +
-  `tracking.csv`. **Mode B** starts by asking the user to upload it.
+- **Spreadsheet:** run `scripts/make_sheet.py` if code execution exists; otherwise build the
+  same two tables (Testing Grid + Angles) as a downloadable CSV/markdown by copying the angle
+  files exactly. **Mode B** starts by asking the user to upload the spreadsheet + LOCKED doc.
 
 ## [repo] Station + lanes
 
-Runs as the **Ad Research** station (`sessions/ad-research.md`), and from Step 6 as **Ad
-Creation** (`sessions/ad-creation.md`). It reads every brand file. It writes only at Step 9:
-`AD_RESEARCH.md` and `CREATIVES.md` (+ STATE, _BOARD). Those belong to two stations, so at
-Step 9 **ask Nikita once to OK writing both**, then write only what he locks.
+Runs as the **Ad Research** station (`sessions/ad-research.md`); in Part 2 also as **Ad
+Creation** (`sessions/ad-creation.md`). It reads every brand file. It writes only at the lock
+step: `AD_RESEARCH.md` (+ STATE, _BOARD), plus `CREATIVES.md` only if Part 2 ran (that file
+belongs to Ad Creation, so ask Nikita once to OK it), and only what he locks.
 
 ## Workspace `<run>`
 
@@ -79,10 +84,10 @@ Step 9 **ask Nikita once to OK writing both**, then write only what he locks.
 `/tmp/creative-strategy/<slug>/`). Drafts only, never the repo (rule 7).
 Files, in creation order: `RUN.md` (from `templates/RUN.md`) · `00-intake.md` ·
 `product.<ext>` · `00-brief.md` · `vars.json` · `01-research.md` · `02-discussions.md` ·
-`03-mechanism.md` · `04-desires.md` · `05-angles-D1..D5.md` · `swipes/` + `swipes/CATALOG.md`
-· `plan-grid.md` (Gate 1) · `media.json` (only with an image connector) · per ad
-`ads/D#A#/{competitor.<ext>, swipe.md, prompt.md, image.png, image.md, copy.md}` ·
-`tracking.csv` · `results-grid.md` (Mode B) · `pass-*.prompt.md` + `vars-*.json` (fill.py).
+`03-mechanism.md` · `04-desires.md` · `desires.json` · `05-angles-D1..D5.md` ·
+**`creative-strategy-<brand>.xlsx` + `.csv`** (the outcome) · Part 2 only: `swipes/` +
+`swipes/CATALOG.md` · `plan-grid.md` · `media.json` · per ad `ads/D#A#/{competitor.<ext>,
+swipe.md, prompt.md, image.png, image.md}` · always: `pass-*.prompt.md` + `vars-*.json` (fill.py).
 After compaction: re-read `RUN.md`, `00-intake.md`, this file and `reference/course-map.md`,
 then resume at the first unticked box. A full run takes hours. If the session is lost, start
 a new one, re-run Step 0 (paste the old `00-intake.md`), then do only what's missing.
@@ -117,16 +122,16 @@ Conflicts I found in the files: <list, or "none"; only if there are 2+ docs>
 6. ❗ Swipe ads: competitor STATIC image ads to model (uploads / links), ideally 1+ per format:
    native/organic (no text) · benefit callouts · comparison · review · offer + urgency · before/after.
    [repo] Already in the repo: <list / none>. Reuse? Formats you don't cover: I search and you approve at Gate 1.
-7. Where the ads send traffic: product page · advertorial · listicle · quiz?   [from FUNNEL]
+7. (Only if you'll want images) Where the ads send traffic: product page · advertorial · listicle · quiz?
 8. Offer facts the ads may show (price, bundle, guarantee, shipping):  [from OFFER]
 9. Proof the ads may show (real review count, rating, customers): [found / "none yet" → no
    social-proof numbers on ads; prices + guarantee from 8 are still fine]
 10. Banned claims/words · claims waiting on proof (e.g. a sample) · health/medical limits:  [from docs]
 11. Research: <what the docs already contain>. Default = fresh forum research (prompts #1–#2)
     merged with it. OK?
-12. Scope: full 25 (default) · or quick test = all research + 5 desires + desire 1's 5 angles + those 5 ads.
-13. Cost: ~60 Opus passes + 25 Nano Banana Pro images (+ remakes; exact credits shown before
-    any image). Missing tools: <none / list>.
+12. Scope: full 25 angles (default) · or quick test = all research + 5 desires + desire 1's 5 angles.
+    Cost: ~10 Opus passes for the 25 angles. Images are optional afterwards (+25 passes +
+    25 Nano Banana Pro images; exact credits shown first). Missing tools: <none / list>.
 Reply with your corrections and answers. I start only when every ❗ is answered.
 ```
 5. An item counts as answered only when the user confirms or corrects it explicitly (rule 7).
@@ -148,9 +153,8 @@ PROBLEM_SPACE_EXAMPLES, PRODUCT_PHOTO.
 
 ## The pipeline
 
-Prompts 01–06 and 07-BOFU are the original BBA prompt docs. Each file marks its few
-placeholder swaps and "pipeline additions". 07-TOFU/MOFU are built to the same structure
-from the course. Every check below is done by the orchestrator (you) before ticking.
+Prompts 01–06 are the original BBA prompt docs. Each file marks its few placeholder swaps
+and "pipeline additions". Every check below is done by the orchestrator (you) before ticking.
 
 1. **Market research** (`01-market-research.md`) → `01-research.md`. Check: 20 posts with
    URLs, about the problem (not product complaints), verbatim, FULL vs EXCERPT marked.
@@ -166,7 +170,28 @@ from the course. Every check below is done by the orchestrator (you) before tick
    PREVIOUS_ANGLE_FILES (earlier `05-angles-D*.md`, or "none"). Check: the depth bar, the
    support-group test, forum language, ⚠GATED tags on headlines.
    *Quick-test scope:* run D1 only, then continue with D1's 5 ads.
-5b. **Swipe per angle** (not a generative pass; work through the angles in order). Medium =
+6. **The spreadsheet: the main outcome.** Write `<run>/desires.json` from `04-desires.md`
+   (`[{"n":1,"desire":"I want …","segment":"…"}, …]`), then run
+   `python3 <skill>/scripts/make_sheet.py <run> "<brand>"` → `creative-strategy-<brand>.xlsx`
+   (tab **Testing Grid** = BBA Mass Desire output spread: desire → 5 angles → SPEND · CTR · CPC ·
+   ROAS; tab **Angles** = every angle in full: audience, story arc, both mechanisms, emotional
+   moment, headlines, awareness, funnel, static format, objections) + the same as `.csv`. It copies the
+   files exactly. Fix anything it reports under CHECK (rerun that angle pass), then rerun it.
+   Show the user the 5 desires + 25 angle names and deliver the spreadsheet file.
+
+**🛑 THE QUESTION (always ask, then stop):**
+```
+Your 25 angles are done (spreadsheet attached). Next:
+A) I swipe the 25 static image ads now: I match a competitor swipe to each angle, show you the
+   plan + cost, then make them one by one in Nano Banana Pro
+B) You'll make the images yourself: I'll lock the strategy now
+C) Later: I'll lock the strategy now; just say "swipe the images" when you're ready
+```
+**B or C** → go to **Lock**. **A** → Part 2.
+
+## Part 2 (optional): swipe the 25 static image ads
+
+7. **Swipe per angle** (not a generative pass; work through the angles in order). Medium =
    static images for all ads (formats stay consistent, so only the message varies). Each
    angle's **Static Format** (from its angle file) decides the swipe. In order:
    (a) the best-fit swipe of that format from the user's set (one swipe can serve several angles);
@@ -179,16 +204,14 @@ from the course. Every check below is done by the orchestrator (you) before tick
    We model the swipe's layout and format, never its product, claims or mechanism.
 
 **🛑 GATE 1: before any image.** Show `plan-grid.md` (`templates/plan-grid.md`: one row per
-ad: desire · angle · headline · awareness · funnel · format · swipe) + cost (exact credits via
+ad: desire · angle · headline · awareness · format · swipe) + cost (exact credits via
 `generate_image` with `get_cost: true` × ads × ~1.5 for remakes; upload mode without a
 connector: number of renders). The user may cut, swap or rewrite rows. No images until they say go.
 
-Then **per ad, D1A1 → D5A5, finish one ad before starting the next** (upload-mode option (b) above excepted):
-
-6. **Image prompt pass** (`06-image-prompt.md`). `vars-D#A#.json` = the desire fields +
-   AD_ID, ANGLE_FILE, ANGLE_NAME, EMOTIONAL_MOMENT, FUNNEL_STAGE, COMPETITOR_AD, and
+8. **Images, one ad at a time, D1A1 → D5A5** (`06-image-prompt.md`). `vars-D#A#.json` = the
+   desire fields + AD_ID, ANGLE_FILE, ANGLE_NAME, EMOTIONAL_MOMENT, COMPETITOR_AD, and
    ANGLE_HEADLINE = the most specific and emotionally sharp of the 3 options with no
-   ⚠GATED/BANNED claim. → `prompt.md`.
+   ⚠GATED/BANNED claim. Pass → `prompt.md`.
    **Generate (with a Higgsfield connector):** each reference goes into Higgsfield once
    (`media.json`): public URL → `media_import_url`; local file → `media_upload` (one file per
    call) → `curl -X PUT` → `media_confirm`. `generate_image` with `model: "nano_banana_pro"`,
@@ -202,38 +225,31 @@ Then **per ad, D1A1 → D5A5, finish one ad before starting the next** (upload-m
    **Fail →** write down the reason, then fix it: a small fix → edit `prompt.md` yourself; a
    wrong concept → rerun the pass with the reason as the extra note. Regenerate THAT ad, max
    3 tries, then mark it FLAGGED (autopilot stops). Log every try in `image.md`.
-7. **Copy pass** (`07-copy.md`). The angle's Funnel Stage picks the section. Extra note = the
-   ad's on-image text + traffic destination (intake 7). → `copy.md`: 5 variations + **PICK**.
-   Check: character limits, brief-only claims, one desire, PICK present.
-8. **Tracking** (mechanical: copy fields, write nothing new): one row per ad in
-   `tracking.csv` (`templates/tracking.csv`): ICP = the angle's Target Audience · Problems =
-   UMP · Key Objections = the angle's Key Objections · headline + primary text = PICK · ad
-   name `<slug>_D#A#_<format>` · folder `<slug>/D#/` · competitor_ad_source = swipe URL ·
-   image_prompt_file = `ads/D#A#/prompt.md` · spend/ctr/cpc/roas/winner left empty until
-   results. Test structure: **one ad set per desire, its 5 angle ads inside**.
+   Finish one ad (prompt → image → check) before starting the next.
+9. Rerun `make_sheet.py`: the spreadsheet picks up each ad's image link + swipe source. Show
+   all images (FLAGGED marked) and deliver the updated spreadsheet.
 
-**🛑 GATE 2 / Step 9: hand back + lock.** Show all images (FLAGGED ones marked), the plan
-grid and each PICK. The user may swap picks or drop ads. Ask "Want me to lock this in?" Lock
-only what they confirm. The LOCKED content, in this order:
+## Lock (after the question, or after Part 2)
+
+Ask "Want me to lock this in?" Lock only what the user confirms, in this order:
 1. Mechanism: UMP + UMS (03).
 2. Language bank: the top 20 verbatim phrases with sources (02).
 3. The 5 desires (04).
-4. All angles in full (05).
-5. Swipes, with source URLs.
-6. Test plan (ad sets = desires).
-7. One row per ad: ID, desire/angle, format, image URL + file name, exact final prompt, PICK
-   headline + primary text, tracking columns.
-- **[repo]** After the OK to write both station files: items 1–6 → `AD_RESEARCH.md`
-  ("Creative Strategy <date>"), item 7 → `CREATIVES.md`, then STATE + `_BOARD.md`, commit,
-  push. Image URLs can expire, so tell Nikita to download the finals to his ad folder.
-- **Upload:** one document `creative-strategy-<brand>-LOCKED.md` with items 1–7 + `tracking.csv`.
+4. All 25 angles in full (05).
+5. The spreadsheet.
+6. Part 2 only: the swipes, and per ad the image URL + file name + exact final prompt.
+- **[repo]** Items 1–5 → `AD_RESEARCH.md` ("Creative Strategy <date>"), with the spreadsheet saved
+  next to it as `brands/<slug>/creative-strategy-<date>.xlsx` (ask once, since it's a new file). Item 6
+  → `CREATIVES.md`, after Nikita OKs writing that file. Then STATE + `_BOARD.md`, commit, push.
+  Image URLs can expire, so tell Nikita to download the finals.
+- **Upload:** one document `creative-strategy-<brand>-LOCKED.md` (items 1–4, 6) + the spreadsheet.
 
 ## Mode B: Iterate (ads have results)
 
-Start: load the locked strategy ([repo] AD_RESEARCH.md + CREATIVES.md; [upload] the LOCKED
-document). Missing mechanism or language bank → rerun 0b → #3 first. Get per-ad spend, CTR,
-CPC and ROAS (from the user, or ads tools if connected) into `results-grid.md`
-(`templates/desire-angle-grid.md`). Read it per desire (course-map §8):
+Start: load the locked strategy ([repo] AD_RESEARCH.md + the spreadsheet; [upload] the LOCKED
+document + spreadsheet). Missing mechanism or language bank → rerun 0b → #3 first. Get per-ad
+spend, CTR, CPC and ROAS (from the user, or ads tools if connected) into the spreadsheet's
+Testing Grid. Read it per desire (course-map §8):
 - **2+ angles win under one desire** → strong desire → Prompt 05 with the extra note "5 NEW
   angles for this desire; don't reuse these: <winning + existing angles>".
 - **1 angle wins** → expand that story first → Prompt 05 with the extra note "5 VARIATIONS of
@@ -242,9 +258,9 @@ CPC and ROAS (from the user, or ads tools if connected) into `results-grid.md`
   "these desires exist: <list>. Output exactly 1 new desire that passes the distinction test
   against all of them." Then Prompt 05 for it.
 - **Wins scattered, no desire with 2–3 winners** → the mechanism isn't believed → rerun
-  Prompt 03 with the results attached, then new copy passes for the winners.
-- Next batch = 25 ads: **20 iterations** (on proven desires/angles) + **5 new**. Then
-  Steps 5b → 9, one ad at a time.
+  Prompt 03 with the results attached.
+- Next batch = 25 angles: **20 iterations** (on proven desires/angles) + **5 new**. Then the
+  spreadsheet (Step 6), the question, and Part 2 if wanted, one ad at a time.
 
 ## Quality bar (every output)
 
@@ -264,12 +280,14 @@ CPC and ROAS (from the user, or ads tools if connected) into `results-grid.md`
 |---|---|
 | Starting research before the ❗ answers | Intake first, always |
 | Each pass reading the whole brain | Brief once; passes read the brief |
-| Ads about the problem only | Agitate, then close the loop on the desire |
+| Angles about the problem only | Each angle must land on its desire |
 | Angle = headline | Full story at the depth bar |
-| Batching ads, or prompting ad 2 before ad 1 is checked | Finish one ad, then the next |
-| Native swipe + badges and a headline on the image | Native = no text; the angle goes in the copy |
+| Batching angles or ads | One pass each, finish one before the next |
+| Skipping the question after the spreadsheet | Always ask A / B / C |
+| Native swipe + badges and a headline on the image | Native = no text; the angle goes in your primary text |
 | Mirroring a swipe that breaks the brand rules | The brief beats the swipe |
 | Copying the course's dog-leash story | It's a depth benchmark only |
 | Invented "10,000+ happy customers" badge | Proof only from the brief |
 | Killing a desire after one losing angle | Judge on all 5; expand a lone winner first |
-| Generating before Gate 1 | Gate + cost first |
+| Generating images before Gate 1 | Gate + cost first |
+| Writing ad copy | Not this skill's job; Nikita writes copy |
