@@ -197,6 +197,9 @@ grid. Then (course-map §8):
 - Language comes from `02-discussions.md`, not copy-speak.
 - Every claim, number, offer and proof point is in `00-brief.md`. Nothing invented (rule 2).
 - Nothing in the repo before Nikita's explicit confirm (rule 7).
+- When a later pass corrects an earlier file (e.g. #2 reading threads in full fixes #1's
+  snippet attributions), the later file wins. Log the correction in `RUN.md` → Notes and tell
+  every following pass "where files differ, the later one wins".
 
 ## Common mistakes
 
