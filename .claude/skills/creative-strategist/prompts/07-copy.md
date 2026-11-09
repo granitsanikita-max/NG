@@ -1,4 +1,4 @@
-<!-- ORIGINAL BBA "6.3 Primary Texts & Headline Prompts" — only the BOFU tab was supplied. Adaptation for one-ad-per-pass: the desire is FIXED to this ad's desire, and the 5 variations vary the hook/proof within it. TOFU and MOFU tabs: still needed from Nikita; until then use the TOFU/MOFU rules at the bottom (from course transcript 6.06). -->
+<!-- ORIGINAL BBA "6.3 Primary Texts & Headline Prompts" — only the BOFU tab was supplied. Adaptation for one-ad-per-pass: the desire is FIXED to this ad's desire, and the 5 variations vary the hook/proof within it. TOFU/MOFU sections are built to the same structure from course 6.06/6.07; swap in the BBA TOFU/MOFU tabs if they ever turn up. -->
 # Prompt 7 — Primary Text + Headline for ONE ad
 
 [ATTACHED FOUNDATIONAL DOCS] = read {{BRAND_DOCS}} (OFFER.md for pricing/guarantee/offer), `{{RUN_DIR}}/02-discussions.md` (language), angle `{{ANGLE_FILE}}` section {{AD_ID}}, and `{{RUN_DIR}}/ads/{{AD_ID}}/prompt.md` (what the image says, so the copy doesn't repeat it).
@@ -31,10 +31,31 @@ For Bottom of Funnel audiences:
 
 When analyzing the foundational documents, identify: core product features and their emotional benefits; brand voice and tone; existing testimonials or proof points; USPs; pricing, guarantees, special offers; target demographics and psychographics. Map real product attributes to the desire; never force artificial connections.
 
-## If FUNNEL_STAGE = TOFU (placeholder until the BBA TOFU tab is supplied)
-Native, long-form, story-first primary text that reads like a real person's post (the angle's story → the realisation [problem mechanism] → what changed [solution mechanism] → the desire achieved → soft CTA), in the customer's verbatim language. 5 variations: different opening line, same angle. Headlines 25–40 characters.
+## If FUNNEL_STAGE = TOFU (built to the BOFU tab's structure from course 6.06/6.07: "native long-form copy for native-style image ads")
+**Situation**
+You are developing Top of Funnel (TOFU) Facebook ads for people who are unaware or only problem aware. They don't know the product, may not know their problem has a cause or a fix, and are scrolling a feed of friends and creators. An ad that looks like an ad gets skipped.
 
-## If FUNNEL_STAGE = MOFU (placeholder until the BBA MOFU tab is supplied)
-Mechanism + proof: why other solutions failed (problem mechanism), why this is different (UMS), the angle's key objection handled, then CTA. 5 variations. Headlines 25–40 characters.
+**Task**
+Create 5 Primary Text + Headline variations for THIS ad's desire and angle. All 5 tell the angle's story; each opens on a different moment of it.
+
+**Knowledge / rules**
+- Native, first-person or close-third-person, written like a real post from the angle's target person, in verbatim forum language from 02-discussions.md
+- Structure: hook = the angle's key emotional moment, in their words → the situation → the realisation (Unique Problem Mechanism: why nothing worked) → the discovery (Unique Solution Mechanism, product named late) → the desire achieved → soft CTA ("this is what I wear now", "link if you're in the same spot")
+- Primary Text 600–1,200 characters, short lines, no hype words, no prices in the first 3 lines
+- Headline 25–40 characters, curiosity or identity ("The reason my shirts never sat right"), not an offer
+- Only brief-approved claims. No body-change promises the brief bans.
+
+## If FUNNEL_STAGE = MOFU (built to the BOFU tab's structure from course 6.06/6.07)
+**Situation**
+You are developing Middle of Funnel (MOFU) Facebook ads for people who are solution or product aware. They know products like this exist, have probably tried one, and are skeptical ("they all roll up", "doesn't work for me").
+
+**Task**
+Create 5 Primary Text + Headline variations for THIS ad's desire and angle. Each leads with a different objection or comparison.
+
+**Knowledge / rules**
+- Lead with the knowledge gap: why what they tried failed (Unique Problem Mechanism) → why this works differently (Unique Solution Mechanism) → the angle's key objection handled → proof or guarantee from the brief → CTA
+- Comparison framing allowed (us vs "miracle shirts" / old solutions); never name a competitor unless the brief allows it
+- Primary Text 250–500 characters; Headline 25–40 characters (mechanism or benefit)
+- Customer language from 02-discussions.md; only brief-approved claims, offers and proof
 
 **Output:** a table of 5 rows: # · Primary Text · Headline · character counts. Flag any claim not in the brand docs.

@@ -29,6 +29,8 @@ Your Task: Analyze these inputs and generate ONE highly detailed prompt. You mus
 
 📣 Tone & Audience: Match the tone of the research documents provided. Use high-contrast colors to ensure a high Click-Through Rate (CTR).
 
+**Pipeline rule: format conflict.** Requirements 2 (Hybrid Composition) and 6 (Spatial Replication) clash when the swipe is an ORGANIC / native photo (no on-image graphics). Then 6 wins: keep graphic layers to what the swipe has, either none or at most one small native-looking text overlay (like a story caption). The ad must still look like a post, not an ad. For offer / benefit / comparison / review / before-after swipes, apply requirement 2 fully. Requirement 3 (dramatization) applies to every before/after.
+
 **Pipeline guardrails:** badges, offers and claims must come from OFFER.md / PRODUCT.md. Never invent a discount, a number or a review. Never include the competitor's logo, brand name or product.
 
 Return ONLY:

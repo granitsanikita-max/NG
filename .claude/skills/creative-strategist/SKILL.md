@@ -1,137 +1,191 @@
 ---
 name: creative-strategist
-description: Use when a brand needs its next batch of image ads planned and made, when Nikita says "creative strategy", "mass desires", "25 ads", "find what to test next", or when live ads have results and the next iteration batch must be decided. Runs the Brand Builders Academy creative-strategy process (research → 5 mass desires → 25 angles → 25 image ads → copy → tracking → iteration) for the ACTIVE BRAND in this repo.
+description: Use when a brand needs its next batch of image ads planned and made, when Nikita says "creative strategy", "creative strategist", "mass desires", "25 ads", "what do I test next", or when live ads have results and the next iteration batch must be decided. Runs the Brand Builders Academy creative-strategy process (research → 5 mass desires → 25 angles → 25 static image ads → copy → tracking → iteration) for one brand in this repo.
 ---
 
 # Creative Strategist
 
-Turns one brand into **25 testable image ads**: 5 mass desires × 5 angles, each ad
-built from its own desire + angle. Then reads results and decides the next batch.
+Turns one brand into **25 testable static image ads**: 5 mass desires × 5 angles. Each ad
+is built from exactly one desire + one angle, so a winner tells us WHY it won and can be
+repeated. Then it reads results and plans the next batch (80% iterate / 20% new).
+Theory and every course rule: `reference/course-map.md`. Read it before your first run.
 
-**Core idea:** creative strategy decides *what idea to test* before anyone designs an ad.
-Every ad activates exactly ONE desire through ONE angle, so when it wins, we know why
-and can repeat it. Full theory: `reference/course-map.md` — read it before your first run.
+## Station + lanes
+
+This skill runs as the **Ad Research** station (charter `sessions/ad-research.md`) and, from
+Step 6, the **Ad Creation** station (`sessions/ad-creation.md`). Nikita authorised it to
+write both stations' files, `AD_RESEARCH.md` + `CREATIVES.md` (+ STATE/_BOARD), **only at
+Step 9, after his explicit "lock it"**. It reads every other brand file; it writes nothing else.
 
 ## THE ONE-BY-ONE RULE (non-negotiable)
 
-Every generative unit is done **alone, in its own focused pass, in order**:
-- one research prompt at a time, output saved before the next starts
-- one desire's 5 angles per pass (5 passes)
-- **one ad per pass** for the image prompt (25 passes), then its image, then its copy
-- never batch several ads into one prompt, never run passes in parallel, never
-  "speed up" by templating ads off each other. Speed is not the goal; each ad being
-  the best possible version of its own angle is.
+Every generative unit is its own focused pass, done in order, never in parallel:
+- research prompts #1 → #2 → #3 → #4: one pass each, output saved before the next starts
+- angles: one pass per desire (5 passes)
+- per ad: one pass for the image prompt → generate + check that image → one pass for its copy.
+  25 ads = 25 + 25 passes.
+- never batch ads into one prompt, never copy one ad's prompt to make another. Each ad is
+  the best version of ITS angle. Speed is not a goal.
 
-Each pass = a fresh `Agent` call with `model: "opus"` and `subagent_type: "general-purpose"`,
-given **file paths** (not summaries) to everything it needs. The main session orchestrates,
-checks each output against the quality bar, saves it, ticks it in `RUN.md`, then starts
-the next. If an output fails the bar, rerun that pass with the specific fix — don't move on.
+**How a pass runs:** `Agent` with `subagent_type: "general-purpose"`, `model: "opus"`,
+`run_in_background: false`, given FILE PATHS (not summaries). Prompt = filled
+`prompts/0X-*.md` + the footer in `templates/subagent-brief.md`. The main session then
+reads the output, checks it against the Quality bar, reruns that same pass with a specific
+fix if it fails, and only then ticks `RUN.md` and starts the next pass.
+**If the `Agent` tool is not available** (e.g. you are yourself a subagent): do each pass
+inline, one at a time, re-reading the prompt file and its inputs fresh before each, and
+never draft two units in one response.
 
-## Inputs (check before starting — ask for anything missing)
+## Workspace (`<run>`)
 
-| Input | Where it comes from |
-|---|---|
-| Active brand | `ACTIVE BRAND: <slug>` — run the CLAUDE.md start-of-brand ritual first |
-| Foundational docs | `brands/<slug>/BRAND.md`, `PRODUCT.md`, `OFFER.md`, `RESEARCH.md`, all of `brain/` |
-| Product name, niche, problem space | BRAND.md / PRODUCT.md (ask if absent) |
-| Main competitor + their product URL + their customer demographic | AD_RESEARCH.md / RESEARCH.md, else ask Nikita |
-| Problem-space examples (for Prompt #1 constraint 3) | PRODUCT.md / RESEARCH.md, e.g. "loss of control during walks, safety concerns" |
-| Product photo, clean, plain white background | Ask Nikita (path or URL). **Required** before Step 6 |
-| Competitor ads to model | Nikita's swipe, else find via `winning_hunters` / Meta Ad Library (Step 5b) |
+`<run>` = `<session scratchpad>/creative-strategy/<slug>/` (the scratchpad path is in the
+system prompt; fallback `/tmp/creative-strategy/<slug>/`). Everything is a DRAFT here, never
+in the repo (CLAUDE.md rule 7). Copy `templates/RUN.md` → `<run>/RUN.md` and tick as you go.
+Files: `00-intake.md`, `00-brief.md`, `01-research.md`, `02-discussions.md`,
+`03-mechanism.md`, `04-desires.md`, `05-angles-D1..D5.md`, `ads/D#A#/{swipe.md,
+competitor.*, prompt.md, image.md, copy.md}`, `tracking.csv`, `grid.md`.
+After compaction: re-read `RUN.md` + `00-intake.md`, resume at the first unticked box.
+The scratchpad dies with the session, so a full run should finish in one session. If a
+session is lost, restart from Step 0 (answers can be pasted from the old intake).
 
-## Workspace
+## Step 0 — Intake (ALWAYS first)
 
-All run output is a DRAFT → session scratchpad, never the repo (CLAUDE.md rule 7):
-`<scratchpad>/creative-strategy/<slug>/` containing `RUN.md` (progress checklist — copy
-`templates/RUN.md`), `01-research.md` … `05-angles-D1.md` …, `ads/D1A1/` (prompt, image,
-copy), `tracking.csv`. If context gets compacted, re-read `RUN.md` and resume at the
-first unticked box.
+1. `git pull`. Identify the brand from Nikita's words against `brands/_BOARD.md`. If it
+   matches more than one brand or none, ask. If it's a new product, do CLAUDE.md "Starting a
+   new brand" first. State `ACTIVE BRAND: <slug>`.
+2. CLAUDE.md ritual: read `sessions/ad-research.md`, BRAND.md, STATE.md, PRODUCT.md,
+   OFFER.md, FUNNEL.md, AD_RESEARCH.md, SCRIPTS.md, CREATIVES.md and **every file in
+   `brain/`** (rule 2). Files over ~1 MB (data banks/CSVs): read the header + Grep, don't Read whole.
+   **Source priority when files disagree:** whatever STATE.md / BRAND.md marks CURRENT
+   (newest date) wins. List every conflict you find for Nikita.
+3. **Mode check.** If STATE/CREATIVES show live ads with results → ask "first run or
+   iterate (Mode B)?" before anything else.
+4. **Tool check.** Confirm you have: `Agent`, WebSearch/WebFetch or Firecrawl,
+   Higgsfield `generate_image` + `media_upload`, and one ad-library tool (`winning_hunters` or
+   `facebook ads_library_search`). Name anything missing in the intake message.
+5. Send Nikita ONE message, pre-filled from the files (he only corrects):
+
+```
+ACTIVE BRAND: <slug>. Creative strategy intake. ❗ = must answer before I start.
+Conflicts I found in the files: <list, or "none">
+
+1. ❗ Product, one line + the name customers see:         [pre-filled]
+2. ❗ Foundational docs (source of truth):                [list found]  Anything else to upload (avatar, strategy, UMS)?
+3. ❗ THE main competitor + product page URL + who buys from them:   [pre-filled / options]
+   (If there are several: I recommend the one whose buyers match our lead segment.)
+4. ❗ Problem space, what it fixes, 2–3 examples:         [pre-filled]
+5. ❗ Product photo: clean, high-res, plain white background. Upload / URL.
+   (Fallback, only if you OK it: the supplier listing photo.)
+6. ❗ Swipe ads: competitor STATIC image ads to model, uploads or links. One or more per format:
+   organic/native · benefit callouts · comparison · review · offer + urgency · before/after.
+   Already in the repo: <swipes from SCRIPTS/AD_RESEARCH, or "none">. Reuse them?
+   Formats you don't cover: I find them in the ad library and you approve at the gate.
+7. Offer facts the ads may show (price, bundle, guarantee, shipping):  [from OFFER.md]
+8. Proof the ads may show (real review count, rating, customers sold):  [found / "none yet"
+   → ads show NO social-proof numbers; prices + guarantee from item 7 are still fine]
+9. Banned claims/words, compliance:                       [from BRAND.md / brain]
+10. Research: the brain already has <X>. Default = fresh forum research (course
+    prompts #1–#2) merged with the brain. OK?
+11. Scope: full 25 (default), or a quick test (all research + 5 desires, then only
+    desire #1's 5 ads)?
+12. Rough cost: ~30 Opus passes + <N> Nano Banana Pro images (I'll show exact credits
+    before generating). Missing tools: <none / list>.
+```
+6. An item counts as answered only when Nikita explicitly confirms or corrects it.
+   Silence or "looks good" on an unseen item is not an answer (rule 7). Save everything to
+   `<run>/00-intake.md`, the run's contract.
+
+## Step 0b — Brand brief (one pass)
+
+One opus pass reads all foundational docs (and the intake) and writes `<run>/00-brief.md`
+(≤ 2,500 words): product + mechanism · brand voice/attitude · segments · **APPROVED
+CLAIMS** (verbatim + source file) · **APPROVED OFFER FACTS** · **APPROVED PROOF** ·
+**BANNED** words/claims · awareness and sophistication read · existing swipes. From here
+on, `{{BRAND_DOCS}}` = `<run>/00-intake.md` + `<run>/00-brief.md`. A pass may open a
+full brain file only to check a specific fact. **Image and copy passes use ONLY the
+claims, offers and proof listed in the brief.** The main session spot-checks 5 approved
+claims against their sources before continuing.
 
 ## The pipeline
 
-Prompts live in `prompts/`. Fill every `{{PLACEHOLDER}}` from the inputs; never leave one blank.
-Wrap each in the footer from `templates/subagent-brief.md`. Prompts 1–6 are the original BBA prompt
-docs (verbatim; only placeholders and marked "pipeline additions" were added). Prompt 7: BOFU is original;
-TOFU/MOFU are placeholders until those BBA tabs are supplied.
+Fill every `{{PLACEHOLDER}}` (see `templates/subagent-brief.md` for the list). Never send a
+prompt with one left. Prompts 1–6 are the original BBA docs, verbatim, plus marked
+"pipeline additions". Prompt 7: BOFU is the original BBA tab; TOFU/MOFU are built to the
+same structure from the course.
 
-**Step 1 — Market research** (`prompts/01-market-research.md`). Live web research
-(WebSearch/WebFetch, Firecrawl for Reddit/forums). Emotional landscape of the competitor's
-customers, problem space, their own language. Save `01-research.md`.
+1. **Market research** (`prompts/01-market-research.md`): live web, 20 forum posts →
+   `01-research.md`. Check: 20 real URLs, problem-focused (not product complaints), verbatim quotes.
+2. **Discussion analysis** (`prompts/02-discussion-analysis.md`) → `02-discussions.md`.
+   Check: all 8 sections, quotes with sources.
+3. **Copywriter + unique mechanism** (`prompts/03-copywriter-mechanism.md`) → `03-mechanism.md`.
+   Check: UMP + UMS are specific and use only brief-approved product facts.
+4. **5 mass desires** (`prompts/04-mass-desires.md`) → `04-desires.md`. Check the
+   distinction test: no two desires can merge, and each is an "I want" + segment.
+5. **Angles, one desire per pass** (`prompts/05-angles.md`) ×5 → `05-angles-D#.md`.
+   Check: support-group test (5 different people, different crisis moments), forum language used.
+5b. **Swipe per angle.** All 25 are static images (formats stay consistent, so only the
+   message varies). The angle's awareness level → static sub-format (course-map §6).
+   LOOK at every swipe image and log its format + layout. Assign each angle its best-fit
+   swipe; one swipe can serve several angles. If a format has no swipe, search
+   `winning_hunters search_facebook_ads` / Meta `ads_library_search` / the competitors'
+   pages for long-running static ads of that format; download 2–3, look at them, propose
+   them at the gate. Save as `ads/D#A#/competitor.<ext>` + source URL in `swipe.md`.
+   Never model an ad you haven't looked at.
 
-**Step 2 — Discussion analysis** (`prompts/02-discussion-analysis.md`). 20+ real
-discussions (mostly Reddit), with links. Phrases, words, jargon, emotions, intensity,
-emotional progression, executive summary of pains. Save `02-discussions.md` — this is the
-brand's voice-of-customer source of truth.
+**🛑 GATE.** Show Nikita the grid (`templates/desire-angle-grid.md` filled: desire ×
+angle × headline × awareness × format × swipe thumbnail/link) + exact credits
+(`generate_image` with `get_cost: true`, × number of ads). No images until he says go. He
+may cut, swap or rewrite angles or swipes here.
 
-**Step 3 — Copywriter + unique mechanism** (`prompts/03-copywriter-mechanism.md`). The
-core psychological shift ("tried everything" → "oh, THAT's why" → "this is different"),
-unique problem mechanism, unique solution mechanism, objections each one kills. Save `03-mechanism.md`.
+6. **Image, one ad per pass** (`prompts/06-image-prompt.md`). Upload the product photo
+   once (`media_upload` → PUT → `media_confirm`), and each swipe once. Pass → `prompt.md`.
+   Then `generate_image` with `model: "nano_banana_pro"`, `resolution: "2k"`,
+   `aspect_ratio: "1:1"`, `medias: [{product, image_references}, {swipe, image_references}]`,
+   `prompt` = FINAL PROMPT. Wait (`jobs_wait`), then LOOK at the result: product matches
+   the photo? Every ON-IMAGE TEXT string spelled right? ≤ 3 focal points? Desire readable in
+   2 seconds? Nothing outside the brief? Competitor branding gone? Fail → fix the prompt and
+   regenerate THAT ad (max 3 tries, then flag it). Log the job id + URL in `image.md`.
+7. **Copy, one ad per pass** (`prompts/07-copy.md`): the ad's funnel stage picks the
+   section → `copy.md`. Check: character limits, brief-only claims, one desire.
+8. **Tracking** → `tracking.csv` (`templates/tracking.csv` = BBA Ad Tracking Master columns)
+   + `grid.md`. ICP = a named person with age, situation and goal; Problems = numbered
+   mechanism beliefs; Key Objections = in their own voice. Structure: **one ad set per
+   desire, its 5 angle ads inside**. Ad name `<slug>_D#A#_<format>`; folder `<slug>/D#/`.
+9. **Hand back.** Show Nikita all images + grid + copy. Ask "Want me to lock this into the
+   brain?" Only on an explicit yes: desires, angles, swipes, test plan → `AD_RESEARCH.md`;
+   one row per ad (ID, desire/angle, format, image URL, exact final prompt, headline,
+   primary text) → `CREATIVES.md`; STATE + `_BOARD.md`; commit + push.
 
-**Step 4 — 5 mass desires** (`prompts/04-mass-desires.md`) with all foundational docs +
-steps 1–3. Save `04-desires.md`.
+## Mode B — Iterate (ads have results)
 
-**Step 5 — 25 angles, one desire per pass** (`prompts/05-angles.md`) ×5. Each angle is a
-full story (audience, story arc, problem mechanism, solution mechanism, key emotional
-moment, headline, awareness level, format). Save `05-angles-D1.md` … `D5.md`.
+Get per-ad spend, CTR, CPC, ROAS (Nikita, `facebook` ads tools, or Adnova) into the
+grid. Then (course-map §8):
+- 2+ angles winning under one desire → strong desire → new angles (new stories) for it
+- 1 angle winning → expand that story (variations) before judging the desire
+- 0 angles winning → the desire is weak, not the execution → replace it (new Step 4 pass for 1 desire)
+- wins scattered, no desire with 2–3 winners → the mechanism isn't believed → refine
+  the mechanism for the awareness level (rerun Step 3 with the results attached)
+- next batch = **80% iterations, 20% new**. Run Steps 5→9 for that batch, one by one.
 
-**Step 5b — Competitor ad per angle.** The test medium is static images for all 25 (keep formats consistent so only the message varies). Pick the static sub-format from the angle's awareness level
-(matrix in `reference/course-map.md` §6), then find a competitor/swipe image ad of that
-format to model. Download it to `ads/D#A#/competitor.*`. Log the source URL.
+## Quality bar (every output)
 
-**🛑 GATE — show Nikita the 25-angle grid** (desire × angle × headline × awareness × format)
-plus the image-credit cost (`generate_image` with `get_cost: true` × 25). Do not generate
-images until he says go. He may cut, swap or rewrite angles here.
-
-**Step 6 — 25 image ads, one per pass** (`prompts/06-image-prompt.md`). Per ad: subagent
-reads desire, angle file, mechanism, brand docs, and LOOKS at the product photo +
-competitor ad → writes the Nano Banana Pro prompt → main session generates with Higgsfield
-`generate_image`, `model: "nano_banana_pro"`, `resolution: "2k"`, `aspect_ratio: "1:1"` (BBA rule: always square), `medias` = product photo + competitor ad as
-`image_references` (upload once with `media_upload`, reuse the media IDs). Look at the
-result: product accurate? headline legible and spelled right? desire clear? If not,
-fix the prompt and regenerate that ONE ad. Save prompt + image link in `ads/D#A#/`.
-
-**Step 7 — Copy, one ad per pass** (`prompts/07-copy.md`). Headlines + primary text matched
-to the angle's awareness/funnel stage. Save in `ads/D#A#/copy.md`.
-
-**Step 8 — Tracking + test plan.** Fill `tracking.csv` (`templates/tracking.csv`, BBA Ad Tracking Master
-columns) and the desire × angle grid (`templates/desire-angle-grid.md`). ICP = a named person with
-age, situation and goal; Problems = numbered mechanism beliefs; Key Objections = in their own voice. Test structure: **one ad set per desire, its 5 angle ads inside it**.
-Watch spend, CTR, CPC, ROAS. Name every ad `<slug>_D#A#_<format>`.
-
-**Step 9 — Hand back.** Show Nikita the grid with images. Ask: "Want me to lock this into
-the brain?" Only on explicit confirmation: desires, angles and test plan → `AD_RESEARCH.md`;
-ad rows (ID, angle, format, asset link, exact prompt) → `CREATIVES.md`; update STATE +
-`_BOARD.md`; commit + push.
-
-## Mode B — Iterate (when ads have results)
-
-Input: per-ad spend, CTR, CPC, ROAS (from Nikita, `facebook` ads tools, or Adnova). Apply
-`reference/course-map.md` §7 exactly:
-- several angles winning under one desire → desire is strong → write NEW angles for it
-- one angle winning → expand that story (variations) before judging the desire
-- no angle winning → the desire is weak (not the execution) → replace it
-- wins but no desire has 2–3 winning angles → the mechanism isn't believed → refine
-  mechanism for the awareness level
-- next batch = **80% iterations on proven desires/angles, 20% new desires/angles**
-
-Then run Steps 5→8 again for the new batch only, still one by one.
-
-## Quality bar (check every output before saving)
-
-- Desire = a want that **already exists** in the market, first-person, not a product feature, not a problem.
-- Angle = a **specific story/moment** that triggers the desire, not a hook or a slogan.
-- Each ad belongs to exactly one desire. No mixing.
-- Customer language comes from Step 2, not invented copy-speak.
-- Every claim about the product is in the brain/PRODUCT.md. Nothing invented (rule 2).
-- Nothing lands in the repo before Nikita confirms (rule 7).
+- Desire = a want that ALREADY exists, "I want …", not a feature, not a problem.
+- Angle = a specific person's story + crisis moment, not a hook or a slogan.
+- One ad = one desire. No mixing.
+- Language comes from `02-discussions.md`, not copy-speak.
+- Every claim, number, offer and proof point is in `00-brief.md`. Nothing invented (rule 2).
+- Nothing in the repo before Nikita's explicit confirm (rule 7).
 
 ## Common mistakes
 
 | Mistake | Fix |
 |---|---|
-| Writing ads around problems only | Agitate the problem AND close the loop on the desire |
-| Angle = a headline | Needs the full story: who, arc, mechanisms, emotional moment |
-| Batching 5 ads in one prompt to save time | One pass per ad. Always. |
-| Generic competitor ad for every angle | Match format to the angle's awareness level |
-| Judging a desire on one losing angle | Need all 5 angles' results; expand a lone winner first |
-| Spending image credits before the gate | Gate first, cost preflight first |
+| Starting research before the ❗ answers | Intake first, always |
+| Each pass reading the whole 1 MB brain | Brief once; passes read the brief |
+| Ads about the problem only | Agitate, then close the loop on the desire |
+| Angle = headline | Full story: who, arc, mechanisms, emotional moment |
+| Batching 5 ads in one prompt | One pass per ad |
+| Same swipe layout for every awareness level | Format follows awareness |
+| Invented "10,000+ happy customers" badge | Proof only from the brief |
+| Killing a desire after one losing angle | Judge on all 5; expand a lone winner first |
+| Generating before the gate | Gate + exact credits first |
