@@ -1,26 +1,28 @@
-<!-- RECONSTRUCTED from course transcript 6.04. Replace body with BBA prompt doc "Prompt 1" when Nikita provides it; keep the {{PLACEHOLDERS}}. -->
-# Prompt 1 — Market research
+<!-- ORIGINAL BBA "Market Analysis Creative Strategy Prompts" — Prompt #1, verbatim. Only change: the course's leftover dog-leash / hike-footwear specifics are turned into {{PLACEHOLDERS}}. -->
+# Prompt #1 — Market Research (use live web search: WebSearch / WebFetch / Firecrawl)
 
-You are a senior direct-response market researcher. Use live web search (WebSearch, WebFetch; Firecrawl scrape for Reddit/forum threads).
+**Situation**
+You are conducting market research for a {{PRODUCT}}. Your primary competitor is in the {{NICHE}}. You need to understand the emotional landscape of your competitor's core customer base to identify the underlying problems your product addresses.
 
-**Product:** {{PRODUCT}}
-**Niche:** {{NICHE}}
-**Primary competitor:** {{COMPETITOR}} — {{COMPETITOR_URL}}
-**Problem space:** {{PROBLEM_SPACE}}  (what the product actually solves, in plain words)
+**Task**
+Use the live web search tool to locate and extract 20 public discussion forum posts (such as Reddit threads) from individuals who belong to your competitor's dominant customer demographic. These posts must focus on the emotional pain, frustration, fear, or anxiety caused by the underlying problem that your {{PRODUCT_SHORT}} solves.
 
-Conduct market research on the people who buy, or would buy, this kind of product. Understand the emotional landscape of the competitor's customer base and identify the underlying problems the product addresses.
+**Objective**
+Deeply understand the internal emotional state, language patterns, and specific vocabulary your target customers use when describing their problem. This insight will inform product positioning, messaging, and marketing strategy by revealing the emotional triggers and pain points that drive purchase decisions.
 
-Rules:
-- Search Reddit, niche forums, Facebook groups, Quora, product reviews (competitor + Amazon category), YouTube comments.
-- EXCLUDE posts that are complaints about specific products, brands or solutions. We want the problem and the life around it, not product reviews.
-- Prioritise posts with detailed emotional narratives over brief mentions.
-- Stay in the problem space above.
-- Capture people's internal emotional state, language patterns and the exact vocabulary they use to describe the problem. Quote them verbatim, with source links.
+**Knowledge**
+- Competitor: {{COMPETITOR}}
+- Competitor URL: {{COMPETITOR_URL}}
+- The posts should capture 'rock-bottom' moments, emotional tipping points, or obsessive worries related to the core problem
+- Focus on raw, unfiltered personal stories that reveal authentic emotional experiences
+- Posts must discuss the problem itself, NOT complaints about existing products or solutions
 
-Output (markdown):
-1. Who these people are (segments you see: life situation, demographics where visible)
-2. The problem in their words (verbatim quotes + links)
-3. Emotional states around it (fear, shame, frustration, guilt, hope…), with quotes
-4. What they've already tried and how they feel about it
-5. What they want life to look like instead (early desire signals)
-6. The list of the 20–30 strongest discussion threads found (title + URL), for Prompt 2
+**Critical Constraints**
+The assistant should:
+1. Exclude any posts where people complain about products, brands, or specific solutions
+2. Prioritize posts with detailed emotional narratives over brief mentions
+3. Focus on the problem space that a {{PRODUCT_SHORT}} would solve (e.g., {{PROBLEM_SPACE_EXAMPLES}})
+4. Extract posts that use vivid, specific language to describe their emotional experience
+5. Ensure posts come from the demographic that overlaps with {{COMPETITOR}} customers ({{COMPETITOR_DEMOGRAPHIC}})
+
+**Output (pipeline addition):** for each of the 20 posts: URL, title, the key verbatim passages, and a one-line note on the emotional moment. These 20 URLs feed Prompt #2.

@@ -34,7 +34,8 @@ the next. If an output fails the bar, rerun that pass with the specific fix — 
 | Active brand | `ACTIVE BRAND: <slug>` — run the CLAUDE.md start-of-brand ritual first |
 | Foundational docs | `brands/<slug>/BRAND.md`, `PRODUCT.md`, `OFFER.md`, `RESEARCH.md`, all of `brain/` |
 | Product name, niche, problem space | BRAND.md / PRODUCT.md (ask if absent) |
-| Main competitor + their product URL | AD_RESEARCH.md / RESEARCH.md, else ask Nikita |
+| Main competitor + their product URL + their customer demographic | AD_RESEARCH.md / RESEARCH.md, else ask Nikita |
+| Problem-space examples (for Prompt #1 constraint 3) | PRODUCT.md / RESEARCH.md, e.g. "loss of control during walks, safety concerns" |
 | Product photo, clean, plain white background | Ask Nikita (path or URL). **Required** before Step 6 |
 | Competitor ads to model | Nikita's swipe, else find via `winning_hunters` / Meta Ad Library (Step 5b) |
 
@@ -49,8 +50,9 @@ first unticked box.
 ## The pipeline
 
 Prompts live in `prompts/`. Fill every `{{PLACEHOLDER}}` from the inputs; never leave one blank.
-Wrap each in the footer from `templates/subagent-brief.md`. Prompts marked RECONSTRUCTED are
-rebuilt from the course transcripts; the original BBA prompt docs replace them when supplied.
+Wrap each in the footer from `templates/subagent-brief.md`. Prompts 1–6 are the original BBA prompt
+docs (verbatim; only placeholders and marked "pipeline additions" were added). Prompt 7: BOFU is original;
+TOFU/MOFU are placeholders until those BBA tabs are supplied.
 
 **Step 1 — Market research** (`prompts/01-market-research.md`). Live web research
 (WebSearch/WebFetch, Firecrawl for Reddit/forums). Emotional landscape of the competitor's
@@ -72,7 +74,7 @@ steps 1–3. Save `04-desires.md`.
 full story (audience, story arc, problem mechanism, solution mechanism, key emotional
 moment, headline, awareness level, format). Save `05-angles-D1.md` … `D5.md`.
 
-**Step 5b — Competitor ad per angle.** Pick the ad format from the angle's awareness level
+**Step 5b — Competitor ad per angle.** The test medium is static images for all 25 (keep formats consistent so only the message varies). Pick the static sub-format from the angle's awareness level
 (matrix in `reference/course-map.md` §6), then find a competitor/swipe image ad of that
 format to model. Download it to `ads/D#A#/competitor.*`. Log the source URL.
 
@@ -83,8 +85,7 @@ images until he says go. He may cut, swap or rewrite angles here.
 **Step 6 — 25 image ads, one per pass** (`prompts/06-image-prompt.md`). Per ad: subagent
 reads desire, angle file, mechanism, brand docs, and LOOKS at the product photo +
 competitor ad → writes the Nano Banana Pro prompt → main session generates with Higgsfield
-`generate_image`, `model: "nano_banana_pro"`, `resolution: "2k"`, aspect `4:5` (feed) unless
-the format calls for 1:1/9:16, `medias` = product photo + competitor ad as
+`generate_image`, `model: "nano_banana_pro"`, `resolution: "2k"`, `aspect_ratio: "1:1"` (BBA rule: always square), `medias` = product photo + competitor ad as
 `image_references` (upload once with `media_upload`, reuse the media IDs). Look at the
 result: product accurate? headline legible and spelled right? desire clear? If not,
 fix the prompt and regenerate that ONE ad. Save prompt + image link in `ads/D#A#/`.
@@ -92,8 +93,9 @@ fix the prompt and regenerate that ONE ad. Save prompt + image link in `ads/D#A#
 **Step 7 — Copy, one ad per pass** (`prompts/07-copy.md`). Headlines + primary text matched
 to the angle's awareness/funnel stage. Save in `ads/D#A#/copy.md`.
 
-**Step 8 — Tracking + test plan.** Fill `tracking.csv` from `templates/tracking.csv`
-(one row per ad). Test structure: **one ad set per desire, its 5 angle ads inside it**.
+**Step 8 — Tracking + test plan.** Fill `tracking.csv` (`templates/tracking.csv`, BBA Ad Tracking Master
+columns) and the desire × angle grid (`templates/desire-angle-grid.md`). ICP = a named person with
+age, situation and goal; Problems = numbered mechanism beliefs; Key Objections = in their own voice. Test structure: **one ad set per desire, its 5 angle ads inside it**.
 Watch spend, CTR, CPC, ROAS. Name every ad `<slug>_D#A#_<format>`.
 
 **Step 9 — Hand back.** Show Nikita the grid with images. Ask: "Want me to lock this into

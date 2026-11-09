@@ -1,7 +1,7 @@
 # Course map — BBA Creative Strategy module (6.01–6.07)
 
 Everything the course teaches, in order. The skill's rules come from here.
-(6.03 Awareness Levels transcript was not captured; awareness content below comes from 6.06 + 6.07.)
+Sources: transcripts 6.01, 6.02, 6.04, 6.05, 6.06, 6.07 read in full (6.03 Awareness Levels was never captured; awareness content comes from 6.06 + 6.07), plus the BBA docs: Market Analysis prompts #1–5, DETAILED Image Ad Generation Prompt (Step 2), 6.3 Primary Text & Headline prompt (BOFU tab), Ad Tracking Strategy Master sheet, Mass Desire × Angle output spread.
 
 ## 1. What creative strategy is (6.01)
 - The decision layer **before** copy or design. Answers "what idea should I test?", not "how should the ad look?".
@@ -42,6 +42,9 @@ Run in ONE chat, web search on, the strongest model available. Read every output
 3. **Train Claude as a copywriter** + unique mechanism frameworks. Core psychological shift: "I've tried everything and nothing works" → "Oh, *that's* why nothing worked" → "This is different." The mechanism makes the shift believable and handles objections.
 4. **5 dominant mass desires**, with foundational docs + customer avatar docs attached, in a fixed format. Paste into the desire × angle spreadsheet.
 5. **5 angles per desire**, one desire at a time, five times. Paste into the spreadsheet (D1A1…D5A5), and keep the full angle detail in a doc.
+- Every output goes into its own doc (the 20-discussion analysis especially) = the brand's source of truth, reused later for copy, store and funnel optimisation.
+- Prompt #2 needs no edits; it runs in the same chat right after #1. Prompt #4 needs the foundational + customer-avatar docs attached.
+- After the 25 are mapped: "understand different creative formats … so that we can **keep the formats consistent**." During the 25-ad test, hold the medium constant (static images) so the only variable is the message (desire × angle).
 
 ## 6. Formats × awareness (6.07)
 - Different formats do different jobs. **Statics** win on clarity and speed (strongest mid/bottom funnel: offers, benefits, proof, comparisons). **Videos** win on context and emotion (strongest top/mid: UGC, demos, founder stories, mashups). General rules, not laws.
@@ -71,11 +74,14 @@ Run in ONE chat, web search on, the strongest model available. Read every output
 - In the detailed image-generation prompt: the angle's **headline** goes in the headline-logic / "new mechanism" slot; the **desire** goes in the desire slot.
 - Into Claude: the filled prompt, a clean high-res product photo on plain background, a competitor ad to model, and the brand foundational docs → Claude writes the image-generation prompt.
 - Into **Nano Banana Pro**: that prompt plus the same product photo and competitor ad.
-- Repeat 25 times. **Each desire = one ad set** (5 ads). Monitor spend, CTR, CPC, ROAS.
+- Course example output: headline "My dog wasn't being bad, my equipment was", the desire line, and a proof badge ("47,000+ calmer walks"). Proof numbers must come from the brand's real data.
+- If you forget the foundational docs, the prompt asks for them. Never run it without them.
+- Repeat 25 times, one by one ("to maintain maximum creative focus and quality"). **Each desire = one ad set** (5 ads). Monitor spend, CTR, CPC, ROAS.
+- Image prompt rules (Master Architect doc): product = exact replica (don't over-describe it); hybrid ad with graphic layers (3D badges, ✓/✗ icons, CTA button); max 3 focal points; before = painful, after = aspirational; show the UMS in the "after"; headline = [New Mechanism] + [Angle] with exact placement, bold font and colour; mirror the competitor layout exactly; hyper-real models with dramatised emotion; **always 1:1**; commercial photography (85mm, f/1.8), no stock vibes; high-contrast colours for CTR.
 
 ## 8. Tracking, copy, iteration (6.06)
 - Tracking sheet per ad: ICP description, awareness level, desire, problem, angle, key objections, folder/file name, unique ad name, headline, primary text, winner yes/no. A template; adapt it.
-- The awareness level sets the funnel stage, and the funnel stage picks the headline/primary-text prompt (a tab per stage; native long-form copy for native-style image ads).
+- The awareness level sets the funnel stage (course example: unaware → problem aware at the physio = TOFU), and the funnel stage picks the headline/primary-text prompt tab. Attach foundational docs + the desire and angle; it generates per desire; pick the one for this ad's desire and give it direction. There's a native long-form option for native-style image ads.
 - **Iteration is where scale happens.** Initial testing reveals which *desires* resonate, not just which ads win. Scaling = repeating what works across more angles.
 - Reading results:
   - multiple angles win under one desire → strong desire → create more angles (new stories) for it
