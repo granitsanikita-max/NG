@@ -1,4 +1,4 @@
-# Desire × Angle testing grid — {{slug}}
+# Results grid (Mode B): {{slug}}
 (Mirrors BBA "Mass Desire Creative Strategy Output Spread". One ad set per desire.)
 
 | MASS DESIRE 1 | {{D1}} | SPEND | CTR | CPC | ROAS |

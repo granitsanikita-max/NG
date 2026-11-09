@@ -22,7 +22,7 @@ The forum research you analyzed contains real language patterns, situations, and
 
 **Core Instructions** — structure each of the 5 angles using this exact format:
 
-### D{{DESIRE_NUMBER}}A{{n}}
+### D{{DESIRE_NUMBER}}A<n>   (n = 1–5)
 **Angle Name:** [Descriptive title that captures the essence of this story]
 **Target Audience:** [Specific description of who relates to this particular story, including life circumstances and characteristics]
 **Story Arc:** [Complete narrative flow: Beginning situation → Crisis/realization moment → Discovery → Resolution]
@@ -30,14 +30,14 @@ The forum research you analyzed contains real language patterns, situations, and
 **Unique Solution Mechanism:** [How the solution works differently in THIS specific context - must be different from other angles]
 **Key Emotional Moment:** [The precise "rock bottom" or turning point that creates urgency - must be different from other angles]
 *Pipeline addition:*
-**Headline options (3):** [Headline formula: New Mechanism + Angle, lifted from the story in customer language, e.g. "My dog wasn't being bad. My body was breaking down."]
+**Headline options (3):** [Headline formula: New Mechanism + Angle, lifted from the story in customer language, e.g. "My dog wasn't being bad. My body was breaking down." Tag any headline that uses a GATED claim with ⚠GATED.]
 **Awareness Level:** [unaware / problem aware / solution aware / product aware / most aware] · **Funnel Stage:** [TOFU / MOFU / BOFU]
-**Static Format:** [from the matrix: organic screenshot · benefit callouts · comparison · review · offer+urgency · before/after]
+**Static Format:** [from the matrix in reference/course-map.md §6: native/organic (no on-image text) · benefit callouts · comparison · review · offer+urgency · before/after]
 **Key Objections:** [what this person will doubt]
 
 **Depth bar (pipeline addition): the course's own example, every angle must be at least this concrete:**
 > **Angle Name:** The Invisible Injury · **Target Audience:** women with medium-to-large dogs who walk daily and think they're doing the right thing · **Story Arc:** She's walked her Labrador for three years. The walks "work": the dog doesn't run off, nobody gets hurt. But her right shoulder has ached for months; she ices it, avoids the gym, blames tension from work. One evening she reaches for a high shelf and feels a sharp pull. At the physio she's asked about repetitive-strain activities, lists her job, posture and sleep, then, almost embarrassed, mentions the dog walks. · **Unique Problem Mechanism:** cumulative physical trauma from an asymmetrical load: same arm, same wrist, every day · **Unique Solution Mechanism:** changes where and how force is distributed, redirecting the dog through geometry rather than grip strength, so the body absorbs near-zero impact · **Key Emotional Moment:** in the physio's office, realising something she did daily as a responsible owner was quietly injuring her · **Headline:** "My dog wasn't being bad. My body was breaking down."
-Concrete = a named routine, a physical object or place, a specific trigger moment, a real-sounding line of thought. Generic ("he feels insecure about his body") fails the bar.
+Concrete = a named routine, a physical object or place, a specific trigger moment, a real-sounding line of thought. Generic ("they feel bad about it") fails the bar. This example is from the course's dog-leash brand: match its DEPTH, never its content, setting or structure.
 
 **Critical Differentiation Requirements:**
 - Features a DIFFERENT moment of realization or crisis point that is emotionally and situationally distinct

@@ -7,11 +7,12 @@ You are a world-class DTC Creative Director and Image Generation Expert.
 
 📄 Inputs (all provided now; read/LOOK at every one):
 1. Foundational brand documents (strategy, audience, UMS): {{BRAND_DOCS}}, `{{RUN_DIR}}/03-mechanism.md`
-2. Competitor Reference Ad: `{{COMPETITOR_AD}}` (view it with Read)
-3. Clean Product Photo: `{{PRODUCT_PHOTO}}` (view it with Read)
+2. Competitor Reference Ad: `{{COMPETITOR_AD}}` (look at it: Read tool, or the attached image)
+3. Clean Product Photo: `{{PRODUCT_PHOTO}}` (look at it: Read tool, or the attached image)
 4. The Marketing Angle: {{AD_ID}}, full detail in `{{ANGLE_FILE}}` (only section {{AD_ID}})
    - Mass desire: {{DESIRE_TEXT}}
    - Angle: {{ANGLE_NAME}}
+   - Key emotional moment: {{EMOTIONAL_MOMENT}}
    - Headline (New Mechanism + Angle): {{ANGLE_HEADLINE}}
 
 Your Task: Analyze these inputs and generate ONE highly detailed prompt. You must recreate the image concept—but styled and tailored for my brand.
@@ -32,13 +33,15 @@ Your Task: Analyze these inputs and generate ONE highly detailed prompt. You mus
 **Pipeline rule: NATIVE swipes (organic, no on-image text, problem-aware, long copy).** Course 6.07: organic statics "blend into the feed … feel like content, not an ad", best for unaware and problem aware. Course 6.06: "native long-form style copy in primary text to go along with native style image ads". When the swipe is native, requirement 6 (mirror the swipe) beats requirements 2 and 5:
 - **No on-image text, badges, icons or CTA buttons**, unless the swipe itself has a native caption. The headline and angle move to the copy (Prompt 7, TOFU), so write `ON-IMAGE TEXT: none`.
 - **The image IS the angle's Key Emotional Moment**, shot like a phone photo a friend would post: real light, ordinary place, slight imperfection, candid framing, everyday people who match the angle's Target Audience. Not studio, not 85mm commercial (requirement 9 is reversed for native).
-- **Product visibility follows the swipe.** Swipe shows the product worn or in use → show it the same way (product image = exact replica, worn under or peeking from an open shirt). Swipe shows only the person or moment → product may not appear at all; then pass only the swipe as reference and say "PRODUCT: not shown (native moment)".
-- **The desire must still be readable** from the scene alone in 2 seconds (the look on his face, the shirt line, the moment).
+- **Product visibility follows the swipe.** Swipe shows the product worn or in use → show it the same way (product image = exact replica, worn or in use, exactly as the swipe shows it). Swipe shows only the person or moment → product may not appear at all; then pass only the swipe as reference and say "PRODUCT: not shown (native moment)".
+- **The desire must still be readable** from the scene alone in 2 seconds (the look on the person's face, the visible problem, the moment).
 For offer / benefit / comparison / review / before-after swipes, apply requirements 1–9 fully. Requirement 3 (dramatization) applies to every before/after.
 
-**Pipeline rule: the brief beats the swipe.** If mirroring the swipe would break anything in 00-brief.md's BANNED list or brand look rules (e.g. a product-only hero when the brand requires the shirt-on look), adapt the layout so the FINAL PROMPT complies, and note the adaptation in COMPETITOR LAYOUT. Never output a non-compliant final prompt with a compliant "alternative".
+**Pipeline rule: the brief beats the swipe.** If mirroring the swipe would break anything in 00-brief.md's BANNED list or brand look rules (e.g. a product-only hero when the brand requires the product shown in use), adapt the layout so the FINAL PROMPT complies, and note the adaptation in COMPETITOR LAYOUT. Never output a non-compliant final prompt with a compliant "alternative".
 
-**Pipeline guardrails:** badges, offers and claims must come from OFFER.md / PRODUCT.md. Never invent a discount, a number or a review. Never include the competitor's logo, brand name or product.
+**Pipeline rule: health and platform policy.** For health-adjacent products (pain, posture, weight, skin, supplements): no body before/afters that imply a health result, no medical or cure claims on the image, and no dramatised suffering of a body part. Use the situation (the moment, the clothes, the desk, the walk) instead of the body. If requirement 4's mechanism isn't visible (e.g. a garment worn under clothes), show its RESULT in use; never invent a visual of something the brief marks GATED.
+
+**Pipeline guardrails:** badges, offers, numbers and claims must come from 00-brief.md (APPROVED CLAIMS / OFFER FACTS / PROOF); nothing GATED or BANNED. Never invent a discount, a number or a review. Never include the competitor's logo, brand name or product.
 
 Return ONLY:
 ```

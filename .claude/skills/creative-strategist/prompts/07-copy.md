@@ -1,7 +1,7 @@
 <!-- ORIGINAL BBA "6.3 Primary Texts & Headline Prompts" — only the BOFU tab was supplied. Adaptation for one-ad-per-pass: the desire is FIXED to this ad's desire, and the 5 variations vary the hook/proof within it. TOFU/MOFU sections are built to the same structure from course 6.06/6.07; swap in the BBA TOFU/MOFU tabs if they ever turn up. -->
 # Prompt 7 — Primary Text + Headline for ONE ad
 
-[ATTACHED FOUNDATIONAL DOCS] = read {{BRAND_DOCS}} (OFFER.md for pricing/guarantee/offer), `{{RUN_DIR}}/02-discussions.md` (language), angle `{{ANGLE_FILE}}` section {{AD_ID}}, and `{{RUN_DIR}}/ads/{{AD_ID}}/prompt.md` (what the image says, so the copy doesn't repeat it).
+[ATTACHED FOUNDATIONAL DOCS] = read {{BRAND_DOCS}} (00-brief.md §APPROVED OFFER FACTS for price/guarantee/offer), `{{RUN_DIR}}/02-discussions.md` (language), angle `{{ANGLE_FILE}}` section {{AD_ID}}, and `{{RUN_DIR}}/ads/{{AD_ID}}/prompt.md` (what the image says, so the copy doesn't repeat it).
 
 **This ad:** {{AD_ID}} · Desire: {{DESIRE_TEXT}} · Angle: {{ANGLE_NAME}} · Funnel stage: **{{FUNNEL_STAGE}}**
 
@@ -39,25 +39,28 @@ You are developing Top of Funnel (TOFU) Facebook ads for people who are unaware 
 Create 5 Primary Text + Headline variations for THIS ad's desire and angle. All 5 tell the angle's story; each opens on a different moment of it (A: the Key Emotional Moment · B: the ordinary routine before it · C: a verbatim forum line · D: the realisation · E: a blunt confession).
 
 **Knowledge / rules**
-- Read like a real post from the angle's Target Audience (first person, or a wife/friend if the angle is told that way), in verbatim forum language from 02-discussions.md. Short lines, white space, plain words, no hype, no emoji, no exclamation marks unless the brief allows them.
-- **Line 1 is the hook and does the image's job:** it must make the problem-aware reader stop ("Everyone keeps telling me I look great. I keep checking the middle of my shirt.").
-- Body follows the angle exactly: situation → the moment it hit → the realisation (Unique Problem Mechanism: why nothing he tried fixed it, in his words) → the discovery (Unique Solution Mechanism; product named late, never in the first third) → the desire achieved, described as a scene not a claim → soft CTA.
-- **Native long-form:** Primary Text 900–2,000 characters. If the ad goes to an advertorial or listicle, the CTA points to the story ("I wrote up what actually changed. Link below."), not to a sale. No prices in the first two-thirds.
-- Headline (under the image) 25–40 characters: curiosity or identity, not an offer ("Why my shirts still told on me").
-- Only brief-approved claims. Sample-gated claims stay out until approved. No body-change promises if the brief bans them.
+- Read like a real post from the angle's Target Audience (first person, or a partner/friend if the angle is told that way), in verbatim forum language from 02-discussions.md. Short lines, white space, plain words, no hype, no emoji, no exclamation marks unless the brief allows them.
+- **Line 1 is the hook and does the image's job:** it must make the problem-aware reader stop (e.g. from the course's dog-leash brand: "I thought I was being a good dog owner. My shoulder thought otherwise.").
+- Body follows the angle exactly: situation → the moment it hit → the realisation (Unique Problem Mechanism: why nothing they tried fixed it, in their words) → the discovery (Unique Solution Mechanism; product named late, never in the first third) → the desire achieved, described as a scene not a claim → soft CTA.
+- **Native long-form:** Primary Text 900–2,000 characters. If the ad goes to an advertorial or listicle, the CTA points to the story ("I wrote up what actually changed. Link below."). If it goes straight to a product page, keep the story, then a soft product CTA ("This is what I use now."). No prices in the first two-thirds.
+- Headline (under the image) 25–40 characters: curiosity or identity, not an offer ("Why my walks kept hurting").
+- Only brief-approved claims. Sample-gated claims stay out until approved. No promise the brief bans (e.g. body-change, medical or cure claims).
 - Score each variation 1–5 on: stops a problem-aware scroller · sounds like a real person · one desire only. Rewrite any variation scoring below 4 before returning.
 
 ## If FUNNEL_STAGE = MOFU (built to the BOFU tab's structure from course 6.06/6.07)
 **Situation**
-You are developing Middle of Funnel (MOFU) Facebook ads for people who are solution or product aware. They know products like this exist, have probably tried one, and are skeptical ("they all roll up", "doesn't work for me").
+You are developing Middle of Funnel (MOFU) Facebook ads for people who are solution or product aware. They know products like this exist, have probably tried one, and are skeptical ("I've tried those", "doesn't work for me").
 
 **Task**
 Create 5 Primary Text + Headline variations for THIS ad's desire and angle. Each leads with a different objection or comparison.
 
 **Knowledge / rules**
 - Lead with the knowledge gap: why what they tried failed (Unique Problem Mechanism) → why this works differently (Unique Solution Mechanism) → the angle's key objection handled → proof or guarantee from the brief → CTA
-- Comparison framing allowed (us vs "miracle shirts" / old solutions); never name a competitor unless the brief allows it
+- Comparison framing allowed (us vs the old way / the category's broken promise); never name a competitor unless the brief allows it
 - Primary Text 250–500 characters; Headline 25–40 characters (mechanism or benefit)
 - Customer language from 02-discussions.md; only brief-approved claims, offers and proof
 
-**Output:** a table of 5 rows: # · Primary Text · Headline · character counts. Flag any claim not in the brand docs.
+## Output (all funnel stages)
+| # | Primary Text | Headline | chars (PT / H) | score (TOFU: stop · real · one desire) |
+Then on its own line: **PICK: <#> because <one sentence>**. This PICK is what goes into tracking and the lock.
+Flag any claim not in 00-brief.md and any GATED claim.

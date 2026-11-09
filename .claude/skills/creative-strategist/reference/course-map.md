@@ -66,6 +66,9 @@ Run in ONE chat, web search on, the strongest model available. Read every output
 | Product aware | Reviews / proof | Founder story / proof |
 | Most aware | Offer + urgency | Mashup (reviews + testimonials + offer) |
 
+- **Awareness → funnel stage (used by the skill):** unaware + problem aware = **TOFU** · solution aware + product aware = **MOFU** · most aware = **BOFU**.
+- **Before/after** works wherever the transformation is visual. It's usually problem or solution aware. Keep it realistic and compliant (6.07).
+- **Native / organic statics** (no on-image text, phone-photo look, long story copy) are the top-of-funnel format. The angle lives in the primary text (6.06: "native long-form style copy … to go along with native style image ads").
 - Testing: keep it simple, cover every stage with at least one format, avoid over-segmenting. **Group ad sets by message (desire), not by format.** The message is the high-leverage learning; format only matters for how people consume. Scale winners, refresh hooks, recycle footage.
 
 ## 7. Making the 25 image ads (6.05)
