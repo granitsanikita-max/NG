@@ -27,9 +27,12 @@ Every generative unit is its own focused pass, done in order, never in parallel:
 - never batch ads into one prompt, never copy one ad's prompt to make another. Each ad is
   the best version of ITS angle. Speed is not a goal.
 
-**How a pass runs:** `Agent` with `subagent_type: "general-purpose"`, `model: "opus"`,
-`run_in_background: false`, given FILE PATHS (not summaries). Prompt = filled
-`prompts/0X-*.md` + the footer in `templates/subagent-brief.md`. The main session then
+**How a pass runs:** keep run-wide values in `<run>/vars.json` (placeholder table:
+`templates/subagent-brief.md`). Build the pass file:
+`python3 <skill>/scripts/fill.py <skill>/prompts/0X-*.md <run>/vars.json[,<run>/vars-<id>.json] <run>/pass-<id>.prompt.md <output path> ["extra note"]`
+(it refuses if any placeholder is unfilled). Then `Agent` with `subagent_type: "general-purpose"`,
+`model: "opus"`, prompt = "Your full task brief is in <run>/pass-<id>.prompt.md. Read it first and
+follow it exactly." Passes are strictly sequential: wait for each to finish before the next. The main session then
 reads the output, checks it against the Quality bar, reruns that same pass with a specific
 fix if it fails, and only then ticks `RUN.md` and starts the next pass.
 **If the `Agent` tool is not available** (e.g. you are yourself a subagent): do each pass
@@ -137,8 +140,10 @@ angle × headline × awareness × format × swipe thumbnail/link) + exact credit
 (`generate_image` with `get_cost: true`, × number of ads). No images until he says go. He
 may cut, swap or rewrite angles or swipes here.
 
-6. **Image, one ad per pass** (`prompts/06-image-prompt.md`). Upload the product photo
-   once (`media_upload` → PUT → `media_confirm`), and each swipe once. Pass → `prompt.md`.
+6. **Image, one ad per pass** (`prompts/06-image-prompt.md`). Get each reference into
+   Higgsfield ONCE and log the ids in `<run>/media.json`: anything with a public URL →
+   `media_import_url` (small, preferred); local-only files → `media_upload` (one file per
+   call, since its signed URLs are huge) → `curl -X PUT` → `media_confirm`. Pass → `prompt.md`.
    Then `generate_image` with `model: "nano_banana_pro"`, `resolution: "2k"`,
    `aspect_ratio: "1:1"`, `medias: [{product, image_references}, {swipe, image_references}]`,
    `prompt` = FINAL PROMPT. Wait (`jobs_wait`), then LOOK at the result: product matches

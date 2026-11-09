@@ -23,7 +23,7 @@ Prompt = the filled prompt file + this footer.
 ## Footer (append verbatim)
 ---
 You are doing ONE unit of a creative-strategy run. Give it your full attention. Other units are handled separately; don't do them.
-- Read every file listed above in full before writing. Ground everything in them. If a fact isn't in them, write "NOT IN DOCS" instead of inventing it.
+- Read every file listed above in full before writing. Ground everything in them, plus, for web-research passes, the live sources you cite with URLs. If a product fact isn't in them, write "NOT IN DOCS" instead of inventing it.
 - Product claims, offers, prices, numbers and proof: ONLY those listed in 00-brief.md.
 - Write your complete output to: {{OUTPUT_PATH}}
 - Then reply with only: the output path, a 3-line summary, and any NOT IN DOCS flags.
