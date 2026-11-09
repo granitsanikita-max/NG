@@ -36,6 +36,8 @@ Your Task: Analyze these inputs and generate ONE highly detailed prompt. You mus
 - **The desire must still be readable** from the scene alone in 2 seconds (the look on his face, the shirt line, the moment).
 For offer / benefit / comparison / review / before-after swipes, apply requirements 1–9 fully. Requirement 3 (dramatization) applies to every before/after.
 
+**Pipeline rule: the brief beats the swipe.** If mirroring the swipe would break anything in 00-brief.md's BANNED list or brand look rules (e.g. a product-only hero when the brand requires the shirt-on look), adapt the layout so the FINAL PROMPT complies, and note the adaptation in COMPETITOR LAYOUT. Never output a non-compliant final prompt with a compliant "alternative".
+
 **Pipeline guardrails:** badges, offers and claims must come from OFFER.md / PRODUCT.md. Never invent a discount, a number or a review. Never include the competitor's logo, brand name or product.
 
 Return ONLY:
@@ -44,6 +46,6 @@ SWIPE TYPE: NATIVE or DESIGNED (and why)
 PRODUCT: shown how / not shown
 COMPETITOR LAYOUT: <3–5 lines: grid, divider, icons, text hierarchy>
 FINAL PROMPT:
-<the Nano Banana Pro prompt>
+<the Nano Banana Pro prompt. It MUST open by naming the attached references in order, e.g. "Reference image 1 = the product (reproduce exactly). Reference image 2 = layout/style only; copy none of its products, text or branding." For a native ad with the product not shown: "Reference image 1 = layout/mood only." Use colour words, not hex codes; the image model can't read hex reliably.>
 ON-IMAGE TEXT: <every text string, exactly, so the render can be checked>
 ```
