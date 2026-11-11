@@ -17,6 +17,8 @@
 10. Cut fluff, duplicates, bullets that repeat the paragraph, off-message benefits (arm cutout only in D3).
 11. Cutting must keep effectiveness: problem, mechanism, proof, objection, lift + drop, identity line.
 12. Chief only what makes it stronger.
+12b. SHORTER PASS on EVERY ad, every time: can each line say the same thing in fewer words? Cut repeats (two "that's why" doing one job, product facts said twice). Report the cuts and why effectiveness holds.
+12c. Pedro: lead with her desire and pain, not education. Facts only as short proof after she feels it; never in the image subhead.
 
 ## Persuasion pieces that must be present
 13. Authority/proof only where "who says so?" comes up. Numbers need a source ("2014 study on head angle"). No invented numbers. Placeholder expert = test only.
