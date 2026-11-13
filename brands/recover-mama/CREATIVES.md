@@ -90,7 +90,7 @@ Model `nano_banana_pro` (Higgsfield; jobs reported engine `nano_banana_2`). Inpu
 |------|-------------|-----------|--------|-----------|
 | VSL PT | female PT, plain black scrubs, treatment room, talking to camera | pt-person + vsl-bg-treatmentroom | 14e4630a-43f9-47db-9bb4-f8fdd4455d98 | https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/hf_20261113_093616_14e4630a-43f9-47db-9bb4-f8fdd4455d98.png |
 | Podcast PT guest | SAME PT (face anchored to VSL job), charcoal blazer, LEFT seat, window backdrop | VSL-PT job 14e4630a + podcast-set | bbb686a1-c2f4-438f-8fe6-06784e1e57f9 | https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/hf_20261113_094227_bbb686a1-c2f4-438f-8fe6-06784e1e57f9.png |
-| Podcast host | brunette host, face subtly changed, RIGHT seat, acoustic-panel backdrop | podcast-host-and-set | 23b35403-3cb8-43cb-9ec7-e0b3feb135fe | https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/hf_20261113_094227_23b35403-3cb8-43cb-9ec7-e0b3feb135fe.png |
+| Podcast host (v2) | brunette host, face changed MORE (distinct person), RIGHT seat, acoustic-panel backdrop | podcast-host-and-set | ef0da664-51d3-4e81-9c8c-6dfe2323580b | https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/hf_20261113_094611_ef0da664-51d3-4e81-9c8c-6dfe2323580b.png |
 
 Consistency rules that worked: the podcast PT guest uses the VSL-PT **generated job id** as its identity reference, so the authority is the same face across all 3. Host vs guest are on opposite sides with different backdrops (host = acoustic panels, guest = window) so they read as two seats in one studio. Status: awaiting Nikita's sign-off to lock → then animate into talking videos.
 
