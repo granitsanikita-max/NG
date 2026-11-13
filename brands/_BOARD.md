@@ -17,4 +17,6 @@ ad-creation → live → scaling
 
 | caregiver-bed-kit | deep-research | IN PROGRESS | Step 1 Deep Research running (Notion product page + 4 docs + §2C bank). Blocked for economics: CJ 86×132 handles-pad price, chair pad price, combined US shipping (Nikita). | 2026-11-06 | product-research |
 
+| recover-mama | ad-creation | IN PROGRESS | Analysis done — 4 research docs + ad-format-references in brain/, all read; 4 scripts read (2 green-screen VSL ~120s + 2 podcast clips ~145–155s); CALLIXE + Revoget swipe refs viewed. **NEXT:** generate the 4 test videos via Higgsfield on Nikita's go (API key live). Blocked on production decisions (on-camera expert AI vs real, product photos, aspect ratio, VO, delivery) — see CREATIVES.md. Compliance: comfort/relief-feel only, no medical claims, no "your neck pain" hook. | 2026-11-13 | ad-creation |
+
 <!-- Add new brands below. -->
