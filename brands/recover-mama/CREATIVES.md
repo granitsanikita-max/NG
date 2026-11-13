@@ -99,6 +99,81 @@ Consistency rules that worked: the podcast PT guest uses the VSL-PT **generated 
 - **Photoreal talking-head base plate (Nano Banana Pro):** "Hyper-photorealistic vertical 9:16 still frame from a real [self-filmed clinic / high-quality podcast] video. [subject + action + framing]. IDENTITY — use reference image 1 for face/hair/build; create a NEW distinct person, keep age/hair/vibe, subtly change nose/eyes/lips/jaw. ENVIRONMENT — use reference image 2 ONLY for the room; ignore any person visible in it. EXTREME realism with natural imperfections: visible pores, fine lines, flyaway hairs, catchlights, shallow natural depth of field. ABSOLUTELY NO text/captions/subtitles/watermarks. NOT airbrushed / plastic / CGI."
   - Lessons: when a reference image contains a person you do NOT want, say "reference 2 is ONLY a decor reference, ignore the woman in it, she must NOT appear" — the plain "use for room only" was not enough and it copied the wrong face. Always add the no-text clause (a reference caption bled through once). Anchor a recurring character to its first GENERATED job id, not the raw source photo, to keep the face identical across shots.
 
+## VIDEO SCENE PLAN — TALKING-HEAD LAYER (b-roll is a separate later pass)
+Lines mirror the Google Doc script (source of truth; not altered here). **Legend:** `TH` = presenter talking to camera · `TH+P` = presenter talking while holding the Night Shift pillow · `HOST`/`EXP` = podcast host / expert on camera · `BR` = b-roll, VO only (gathered in the b-roll pass — NOT generated now). We generate the TH / TH+P / HOST / EXP scenes now from the base plates; VO (ElevenLabs) + lip-sync drives them.
+
+**Base plates:** Ads 1&2 presenter = VSL PT plate (treatment room). Ads 3&4 expert = PT-guest plate; host = host plate. **NEW plate to generate before the product scenes: "VSL PT holding the Night Shift pillow" (treatment room)** — for Ad1 S8–S11 and Ad2 S7–S10.
+
+### AD 1 — CONTROL (green-screen VSL) · ~130s · 13 scenes (10 talking-head, 4 of them TH+P)
+| # | ~s | Shot | Says |
+|---|----|------|------|
+|1|0–7|TH|"If you've got mom neck and nothing you've tried lasts — stop stretching. You're not fixing it. And once I show you what's actually happening at night, you'll never pay for another chiro visit."|
+|2|7–15|TH|"I'm a physical therapist. Twelve years treating new moms. And I'm about to tell you something no chiropractor can fix for you — no matter how good they are."|
+|3|15–30|TH (→BR cutaways)|"Think about the last three months. You've tried something — a stretch routine, a chiro adjustment, a massage. I'm not knocking any of them. They work. For a few hours. You walk out loose. You feel the ache lift."|
+|4|30–38|BR|"And then you wake up the next morning stiff, with a knot right here — great. Back to square one. Again."|
+|5|38–50|TH intro (→BR/anim)|"Here's what nobody told you. Your head weighs ten pounds. But the second your chin tips forward — nursing, looking down, scrolling at 3am — your neck isn't holding ten. It's holding sixty. Six times the weight."|
+|6|50–62|BR|"On a regular pillow, your head sinks into the foam, your chin tips forward — all night, eight hours straight, your neck is still carrying sixty pounds."|
+|7|62–74|TH|"Your chiropractor loosens you up at 4pm. Your pillow tightens you right back up by 6am. That's why nothing lasts. You can't out-chiro eight hours of sixty pounds. Nobody can."|
+|8|74–82|TH+P (picks up pillow)|"That's why I started telling my postpartum patients to switch to the Night Shift pillow. It does three things a regular pillow doesn't."|
+|9|82–95|TH+P (points to dip)|"First — a dip right here, shaped for a postpartum neck. Your head rests in the dip and your chin stays level. The second your chin is level, your neck drops back to its ten-pound load."|
+|10|95–103|TH+P (press demo)|"Second — the foam doesn't flatten overnight. Most pillows pancake by 3am. This one rebounds every time you move, so the support is still there at 6am."|
+|11|103–112|TH+P (points to cutout)|"Third — a cutout, right here on the side. When you curl toward the baby, your shoulder slides in instead of getting crushed. Your arm doesn't go dead. You're resting on it."|
+|12|112–122|BR (text msgs)|"Moms text me: 'First morning in a year I woke up without reaching for painkillers.' 'Cancelled my weekly chiro visit.' 'I fed at 4am and could actually turn my head.' The pillow did that."|
+|13|122–132|TH (close)|"Sixty nights risk-free. Sleep on it for two months. If your neck isn't where it should be in the morning, send it back for a full refund. No stretching. No booking. Just sleep. Link below."|
+
+### AD 2 — HIDDEN MUSCLE (green-screen VSL) · ~128s · 13 scenes (11 talking-head, 4 TH+P)
+| # | ~s | Shot | Says |
+|---|----|------|------|
+|1|0–7|TH|"Your mom neck doesn't actually start in your neck. It starts in four tiny muscles at the base of your skull."|
+|2|7–16|TH (→BR anatomy)|"Four tiny muscles hidden right here — where your spine meets your skull. The suboccipital muscles. Their only job is to hold your head up."|
+|3|16–26|BR|"But every time you tip your chin down to feed her, hold her, or check on her at 3am, they clench. Over months of nursing, they lock up completely."|
+|4|26–36|TH|"That's the pressure at the base of your head. The knot between your shoulder blades. The stiffness when you wake up. The headache by two in the afternoon."|
+|5|36–48|TH|"Stretching doesn't help — it can make it worse. Cracking your neck doesn't reach them. Chiro buys you 48 hours, then the ache is back. Nothing you've tried has actually touched these muscles."|
+|6|48–56|TH|"That's why thousands of new moms spend their first year in pain they can't explain. They're treating the wrong thing."|
+|7|56–64|TH+P|"That's why a team of postpartum physical therapists designed a pillow specifically for new moms. It's called Night Shift."|
+|8|64–80|TH+P (dip) (→BR)|"The dip sits right under the base of your skull — where those muscles clench all day. It cradles that exact spot. Your chin stays level, your neck drops to its ten-pound load, and those four muscles finally have room to let go."|
+|9|80–92|TH+P (press demo)|"Through the night the foam doesn't flatten. Most pancake by three a.m. — right when you need it. This one rebounds, so your neck is still held when the next feed hits."|
+|10|92–100|TH+P (cutout)|"And when you curl toward the baby, there's a cutout on the side. Your shoulder slides in instead of getting crushed. Your arm doesn't go dead."|
+|11|100–112|BR|"Eight hours. You lay down, and the pressure at the base of your skull starts to release while you sleep. By the next feed, your neck has rested. For the first time in months."|
+|12|112–120|TH|"Right now, Night Shift is on sale. That's less than a single chiro visit. And that chiropractor isn't coming home with you."|
+|13|120–128|TH (close)|"If it doesn't work, you're covered for 60 nights. Full refund, no questions. Click below to get yours while it's still in stock."|
+
+### AD 3 — IDENTITY (podcast: Host + Expert) · ~145s · 11 scenes (all talking-head; BR layered over the story beats)
+| # | ~s | Shot | Says |
+|---|----|------|------|
+|1|0–8|HOST|"Why are new moms in their twenties waking up feeling 80 — stiff, hunched, like they've aged 30 years overnight?"|
+|2|8–14|EXP|"Because they're not aging. They're sleeping like they are. Let me tell you about a patient I'll call Emma."|
+|3|14–30|EXP (→BR)|"Emma's 29. Seven months postpartum. Nursing. Healthy. Last month she caught her reflection in a car window and started crying — it looked twenty years older than she is. She googled 'is nursing hunch permanent' at 2am. Next day she booked with me."|
+|4|30–40|EXP|"First thing I asked — 'All day, or mostly mornings?' She said: 'Mornings are the worst. By lunch I'm functional. Morning is when I feel 80.' That's when I knew."|
+|5|40–54|EXP (→BR)|"Here's the piece most people miss. Your head weighs ten pounds. But tip your chin down to nurse, look at the baby, scroll your phone — and your neck is holding sixty. That's the daytime load. Most people stop there."|
+|6|54–70|EXP (→BR)|"What they don't know is the night does the same thing. Emma's head sank into a regular pillow, chin tipped forward, another eight hours at sixty pounds. The muscles never rested, tightened around that shape, and by morning the shape was baked in."|
+|7|70–78|EXP|"Emma wasn't aging. She was being folded, eight hours at a time, into the posture she kept catching in the mirror."|
+|8|78–100|EXP (→BR features)|"So I told her: switch your pillow — to the Night Shift. Three things a regular pillow doesn't: a dip so her chin stayed level and her neck dropped to ten pounds all night; foam that doesn't flatten, still there at six; a side cutout so when she curled toward the baby her shoulder slid in and her arm didn't go dead. Her muscles rested for the first time in months."|
+|9|100–116|EXP (→BR results)|"Week one she texted: 'I looked in the mirror at 7am and didn't see my mother. I saw me.' Week three — a photo standing up straight for the first time since birth. Month two: 'My partner noticed before I did.'"|
+|10|116–124|EXP|"None of them aged backwards. They just stopped sleeping like someone twice their age."|
+|11|124–145|EXP (close)|"Nothing you do in the day can undo eight hours of folding at night. If you're waking up feeling twenty years older — try the Night Shift pillow. Sixty nights risk-free. If you don't see yourself in the morning, send it back. No stretching. No booking. Just sleep. Link below."|
+
+### AD 4 — LOVE (podcast: Host + Expert) · ~155s · 9 scenes (all talking-head; BR layered over the story beats)
+| # | ~s | Shot | Says |
+|---|----|------|------|
+|1|0–9|HOST|"Why do new moms with mom neck end up dreading every feed — and then feel like a bad mom for dreading it?"|
+|2|9–30|EXP (→BR)|"Because they've been told to stop looking down at their baby — and it hasn't worked. That's not even the problem. Sophie, 30, five months postpartum. Mid-feed, pain shot between her shoulder blades. Her baby reached up to touch her face; Sophie pulled back — couldn't tilt her head one more degree. The baby's hand hung in the air. Sophie cried: 'I'm scared the pain is changing how I love her.'"|
+|3|30–44|EXP|"I asked — do you dread holding her, or feeding her? 'Only feeds. A cuddle is fine. It's when she latches that I lock up.' That told me exactly where the pain was coming from — and where it wasn't."|
+|4|44–60|EXP (→BR)|"Your head weighs ten pounds. Tip your chin down and your neck holds sixty. But Sophie's pain wasn't from looking at her baby — cuddling didn't hurt, feeding did. A cuddle's two minutes; a feed's twenty. By minute fifteen her capacity was gone. And capacity only comes from rest — which she wasn't getting."|
+|5|60–74|EXP (→BR)|"At night her head sank into a regular pillow, chin forward — the exact angle of nursing. Another eight hours at sixty pounds. So by the next feed she was already out of capacity. The dread wasn't about her baby. It was about pain she knew was coming."|
+|6|74–98|EXP (→BR features)|"So I told her: switch to the Night Shift. A dip so her chin stayed level and her neck dropped to ten pounds; foam that doesn't flatten, still there at six; a side cutout so her shoulder slid in and her arm didn't go dead. By the next feed, her neck had rested — for the first time in months."|
+|7|98–118|EXP (→BR results)|"Day seven: 'Fed her twenty minutes this morning. She reached for my face. I tilted down to meet her. Didn't flinch.' Two weeks: 'I sang to her at 4am for the first time in months.' A month: 'She looked up while she nursed and I smiled back. I'd forgotten that feeling.'"|
+|8|118–140|EXP (emotional)|"If you're hurting too much to be fully there with your baby — that's not your love failing. That's a bad pillow stealing it. You don't have to stop looking at your baby. You just have to stop paying for it in your sleep."|
+|9|140–155|EXP (offer)|"Sixty nights risk-free. Just sleep. And when your baby reaches for you — meet her. Link below."|
+
+### Talking-head generation list (what we build NOW)
+- **Ad 1:** scenes 1,2,3,5,7,8,9,10,11,13 → 10 clips (8,9,10,11 = TH+P)
+- **Ad 2:** scenes 1,2,4,5,6,7,8,9,10,12,13 → 11 clips (7,8,9,10 = TH+P)
+- **Ad 3:** scenes 1–11 → 11 clips (1 = host, 2–11 = expert)
+- **Ad 4:** scenes 1–9 → 9 clips (1 = host, 2–9 = expert)
+- **Total ≈ 41 talking-head clips** from 4 base plates: VSL PT, **VSL PT holding pillow (to generate)**, PT-guest (podcast), host (podcast).
+- **Still needed before prompts:** (a) the product-holding PT plate; (b) voiceover decision (ElevenLabs AI vs your VO) — the talking heads lip-sync to it; (c) confirm clip length cap of the chosen Higgsfield video model (drives how finely scenes split).
+
 ## Finished-ad log — one row per rendered asset (keep exact prompts so winners can be remade)
 | Ad ID | Angle / script | Format | Asset link | Tool + prompt used | Status |
 |-------|----------------|--------|-----------|--------------------|--------|
