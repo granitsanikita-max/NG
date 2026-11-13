@@ -90,7 +90,8 @@ Model `nano_banana_pro` (Higgsfield; jobs reported engine `nano_banana_2`). Inpu
 |------|-------------|-----------|--------|-----------|
 | VSL PT | female PT, plain black scrubs, treatment room, talking to camera | pt-person + vsl-bg-treatmentroom | 14e4630a-43f9-47db-9bb4-f8fdd4455d98 | https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/hf_20261113_093616_14e4630a-43f9-47db-9bb4-f8fdd4455d98.png |
 | Podcast PT guest | SAME PT (face anchored to VSL job), charcoal blazer, LEFT seat, window backdrop | VSL-PT job 14e4630a + podcast-set | bbb686a1-c2f4-438f-8fe6-06784e1e57f9 | https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/hf_20261113_094227_bbb686a1-c2f4-438f-8fe6-06784e1e57f9.png |
-| Podcast host (v2) | brunette host, face changed MORE (distinct person), RIGHT seat, acoustic-panel backdrop | podcast-host-and-set | ef0da664-51d3-4e81-9c8c-6dfe2323580b | https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/hf_20261113_094611_ef0da664-51d3-4e81-9c8c-6dfe2323580b.png |
+| Podcast host (v3) | NEW face, generated with NO reference (so it couldn't copy the ref), solo in frame, acoustic-panel backdrop | none (text-only) | 64ad2b7c-cb28-47ea-a6b2-5c7d2715d09d | https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/hf_20261113_095045_64ad2b7c-cb28-47ea-a6b2-5c7d2715d09d.png |
+  (Lesson: to force a different face, DON'T pass the person reference — describe a new person in text and the set in text; passing the ref kept anchoring the face.)
 
 Consistency rules that worked: the podcast PT guest uses the VSL-PT **generated job id** as its identity reference, so the authority is the same face across all 3. Host vs guest are on opposite sides with different backdrops (host = acoustic panels, guest = window) so they read as two seats in one studio. Status: awaiting Nikita's sign-off to lock → then animate into talking videos.
 
