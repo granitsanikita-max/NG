@@ -83,8 +83,20 @@ I have the **copy** fully (the scripts are complete HOST/EXPERT dialogues — Em
 4. **Voiceover:** ElevenLabs AI voice, or your own VO?
 5. **Delivery:** where do finished assets go (Drive folder? naming)?
 
-## Prompt library (reusable) — to fill as winners emerge
-- (none yet)
+## Talking-layer base plates — v1 (generated 2026-11-13 · Nano Banana Pro · 9:16 · 2k)
+Model `nano_banana_pro` (Higgsfield; jobs reported engine `nano_banana_2`). Input refs committed in `refs/`. Generated PNGs live on Higgsfield (URLs below); not committed to git until approved/locked (kept in scratchpad/gen/v1).
+
+| Slot | Who / where | Refs used | Job id | Result URL |
+|------|-------------|-----------|--------|-----------|
+| VSL PT | female PT, plain black scrubs, treatment room, talking to camera | pt-person + vsl-bg-treatmentroom | 14e4630a-43f9-47db-9bb4-f8fdd4455d98 | https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/hf_20261113_093616_14e4630a-43f9-47db-9bb4-f8fdd4455d98.png |
+| Podcast PT guest | SAME PT (face anchored to VSL job), charcoal blazer, LEFT seat, window backdrop | VSL-PT job 14e4630a + podcast-set | bbb686a1-c2f4-438f-8fe6-06784e1e57f9 | https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/hf_20261113_094227_bbb686a1-c2f4-438f-8fe6-06784e1e57f9.png |
+| Podcast host | brunette host, face subtly changed, RIGHT seat, acoustic-panel backdrop | podcast-host-and-set | 23b35403-3cb8-43cb-9ec7-e0b3feb135fe | https://d8j0ntlcm91z4.cloudfront.net/user_3EbWMyshft646IG6vjSAMAt70kN/hf_20261113_094227_23b35403-3cb8-43cb-9ec7-e0b3feb135fe.png |
+
+Consistency rules that worked: the podcast PT guest uses the VSL-PT **generated job id** as its identity reference, so the authority is the same face across all 3. Host vs guest are on opposite sides with different backdrops (host = acoustic panels, guest = window) so they read as two seats in one studio. Status: awaiting Nikita's sign-off to lock → then animate into talking videos.
+
+## Prompt library (reusable)
+- **Photoreal talking-head base plate (Nano Banana Pro):** "Hyper-photorealistic vertical 9:16 still frame from a real [self-filmed clinic / high-quality podcast] video. [subject + action + framing]. IDENTITY — use reference image 1 for face/hair/build; create a NEW distinct person, keep age/hair/vibe, subtly change nose/eyes/lips/jaw. ENVIRONMENT — use reference image 2 ONLY for the room; ignore any person visible in it. EXTREME realism with natural imperfections: visible pores, fine lines, flyaway hairs, catchlights, shallow natural depth of field. ABSOLUTELY NO text/captions/subtitles/watermarks. NOT airbrushed / plastic / CGI."
+  - Lessons: when a reference image contains a person you do NOT want, say "reference 2 is ONLY a decor reference, ignore the woman in it, she must NOT appear" — the plain "use for room only" was not enough and it copied the wrong face. Always add the no-text clause (a reference caption bled through once). Anchor a recurring character to its first GENERATED job id, not the raw source photo, to keep the face identical across shots.
 
 ## Finished-ad log — one row per rendered asset (keep exact prompts so winners can be remade)
 | Ad ID | Angle / script | Format | Asset link | Tool + prompt used | Status |
