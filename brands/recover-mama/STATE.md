@@ -4,9 +4,10 @@
 
 - **Current stage:** ad-creation
 - **Status:** IN PROGRESS (analysis complete — awaiting Nikita's go to generate)
-- **Next action (for the next station = me, on go):** Generate the 4 test-ad videos via Higgsfield and log the exact tool + prompt per asset in CREATIVES.md. Ads 1 & 2 = green-screen expert VSL (~120s); Ads 3 & 4 = podcast expert clip (~145–155s). The Higgsfield REST API key (api.higgsfield.ai) is live and verified.
-- **Blocked on (from Nikita):** the go to start generating, **plus the production decisions in CREATIVES.md → "Open questions"** (chief one: who/what is the on-camera expert — AI-generated presenter vs. real footage you supply; also aspect ratios, real product photos/SKU, voiceover source, and where to deliver finished assets).
+- **Next action (for the next station = me):** (1) get the podcast-format video reference(s) + the decisions in CREATIVES.md → "Open questions"; (2) generate start-scene images (avatars, sets, product, b-roll first frames); (3) image→video via Higgsfield; (4) b-roll. API key (api.higgsfield.ai) live + verified.
+- **Blocked on (from Nikita):** confirm the 5 production decisions (chief: AI female-PT authority avatar reused across all 4?) + source the reference ads listed in CREATIVES.md — above all 2–3 **podcast-clip** video references (no video ref for that format yet). (I can pull candidates via WinningHunter if you want.)
 - **Last touched:** 2026-11-13 by ad-creation
 
 ## Log (newest first)
+- 2026-11-13 · ad-creation · Downloaded the CALLIXE green-screen VSL and broke it down clip-by-clip (it's PiP talking-head over b-roll, not literal greenscreen; its mechanism section is all device claims we must NOT copy). Mapped the full reference-image inventory (authority = female postpartum PT reused across all 4; podcast host; hero mom + baby; 4 sets; product) into CREATIVES.md, plus the list of reference ads still to source.
 - 2026-11-13 · ad-creation · Brand created from _TEMPLATE. Saved the 4 deep-research docs + the Campaign-1 ad-format-references into brain/. Read 100% of brain + all 4 ad scripts. Viewed both swipe references (CALLIXE TheraPillow = green-screen VSL; Revoget Alignment Pillow = podcast primary-text pattern). Drafted the production plan in CREATIVES.md. Flagged: the "Campaign 1 Ad Format References" doc describes a different (earlier) format set than these 4 ads. Awaiting Nikita's go + production decisions to generate.
