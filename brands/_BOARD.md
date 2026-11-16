@@ -21,4 +21,4 @@ ad-creation → live → scaling
 
 <!-- Add new brands below. -->
 
-| wake-band | deep-research | IN PROGRESS | **Brand created 2026-11-16.** Nikita locked product (vibrating wake-up alarm wristband), avatar (55+ with hearing loss who take hearing aids out at night + adult children gifting) and positioning. Step 1 deep research running; drafts go to Notion, nothing else locked. Blocked: supplier + tested sample (vibration strength). | 2026-11-16 | product-research |
+| wake-band | deep-research | IN PROGRESS | **Product locked: vibrating wake-up alarm wristband. Market locked 2026-11-16: HEAVY SLEEPERS** (Nikita dropped the 55+ hearing-loss avatar the same day — gap mostly taken, evidence thin). Step 1 deep research restarted to find the best demographic inside heavy sleepers; drafts go to Notion. Demographic, positioning, offer, price, supplier NOT locked. Economics skipped until real costs. Blocked: supplier + tested sample (vibration strength). | 2026-11-16 | product-research |
