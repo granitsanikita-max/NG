@@ -22,3 +22,5 @@ ad-creation → live → scaling
 <!-- Add new brands below. -->
 
 | wake-band | deep-research | PARKED | **Parked by Nikita 2026-11-16** — he is restarting product research to look for a better product. Product (vibrating wake-up wristband) and market (heavy sleepers) were locked; demographic, positioning, offer, price, supplier never locked. Step 1 research drafted but unconfirmed and not in the repo. | 2026-11-16 | product-research |
+
+| bedwetting-alarm | deep-research | IN PROGRESS | Product + avatar locked by Nikita 2026-11-16 (kids' wireless bedwetting alarm, CJ CJJT138169201AZ $18.52 landed; moms of kids 8–12, sleepover/camp angle; US/UK/CA/AU/NZ). Step 1 Deep Research running → Notion. Then economics + offer. | 2026-11-16 | product-research |
