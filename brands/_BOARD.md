@@ -21,4 +21,4 @@ ad-creation → live → scaling
 
 <!-- Add new brands below. -->
 
-| wake-band | deep-research | IN PROGRESS | **Product locked: vibrating wake-up alarm wristband. Market locked 2026-11-16: HEAVY SLEEPERS** (Nikita dropped the 55+ hearing-loss avatar the same day — gap mostly taken, evidence thin). Step 1 deep research restarted to find the best demographic inside heavy sleepers; drafts go to Notion. Demographic, positioning, offer, price, supplier NOT locked. Economics skipped until real costs. Blocked: supplier + tested sample (vibration strength). | 2026-11-16 | product-research |
+| wake-band | deep-research | PARKED | **Parked by Nikita 2026-11-16** — he is restarting product research to look for a better product. Product (vibrating wake-up wristband) and market (heavy sleepers) were locked; demographic, positioning, offer, price, supplier never locked. Step 1 research drafted but unconfirmed and not in the repo. | 2026-11-16 | product-research |
