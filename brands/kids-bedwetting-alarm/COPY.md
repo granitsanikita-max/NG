@@ -85,6 +85,9 @@ Ships free. Tracked. Arrives in 4 to 10 days.
 
 Try it 100 nights. If they're not dry, or you decide it's not for you, email hello@dryheadstart.com. We refund you in full in 3 to 5 business days. Keep the unit. The refund covers used kits.
 
+5. Battery & charging
+Drop the clip and receiver into the charging box when not in use. The box keeps them topped up for up to 20 nights before you plug it in. 40 to 60 minute full charge via USB. No daily plugging in.
+
 ---
 
 ## STATS BLOCK (WAITING IS A SLOW BET)
@@ -359,28 +362,34 @@ It locks to the waistband of regular underwear. If it ever does come loose, the 
 5. Will it wake their siblings?
 Switch to vibration mode. Only they feel it. Add the parent receiver and the kids' room stays quiet all night.
 
-6. Does it work with pullups?
+6. Does it use Wi-Fi? Is it safe?
+No Wi-Fi. No Bluetooth. Just a short-range signal that fires when moisture is detected. Lower power than your phone. Safe for any age.
+
+7. Does it work with pullups?
 No. Pullups block the sensor. Your kid needs regular underwear for the plan to work. That's part of the training, not a workaround.
 
-7. Do I have to charge it every night?
+8. How do I clean it?
+Wipe the clip with a disinfecting wipe. The housing is waterproof, so no soaking or disassembly needed.
+
+9. Do I have to charge it every night?
 No. Full charge in under an hour, lasts 3 to 5 nights.
 
-8. How long before we see anything change?
+10. How long before we see anything change?
 Smaller wet patches by week 2. First dry streak by week 4 to 6 for most kids. Full dry nights by week 6 to 8.
 
-9. What age does it work for?
+11. What age does it work for?
 Ages 5 and up. Works for any kid with a waistband to clip to. Doctors' guidelines list alarms as the first-line option from age 5.
 
-10. Can they wear it when they're away from home?
+12. Can they wear it when they're away from home?
 No. It's a home training tool for the weeks before. Once they're dry, they don't need the alarm anywhere.
 
-11. Can't we just use the pill or wait?
+13. Can't we just use the pill or wait?
 The pill masks the symptom. 7 out of 10 kids relapse when they stop taking it. Waiting only resolves 15% of kids a year. The alarm trains them so they don't need either.
 
-12. What if it comes back?
+14. What if it comes back?
 Up to half of kids relapse once. If that happens, clip the alarm back on. It works faster the second time.
 
-13. What if it breaks or doesn't help us?
+15. What if it breaks or doesn't help us?
 Full refund for 100 nights. Keep the kit. Keep the plan. No return needed.
 
 ---
