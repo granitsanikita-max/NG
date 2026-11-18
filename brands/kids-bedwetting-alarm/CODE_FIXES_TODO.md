@@ -38,6 +38,13 @@ Rachel M. (hero mini review) still maps to
 `carousel/review_rachel_m_with_product_v2.png` — separate file, not in
 the FINAL folder.
 
+## 4. 8-week head-start timeline header image
+
+The top image tile inside the "8-week head start" timeline section
+(caption: "Kid waking up dry, calm and proud") maps to
+`carousel/timeline/FINAL/timeline_8week_header.png` — back-view child
+stretching in morning light, dry sheets, no face.
+
 Order in the wall is flexible — Nikita picks the mix per tile tag
 ("IT WOKE THEM", "DEEP SLEEPER", "AFTER [X]", etc.) at code-paste time.
 No names, no review text attached to these avatar images — label is
