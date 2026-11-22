@@ -23,4 +23,4 @@ Set STATE: stage `product-research`, status `READY FOR NEXT` (if GO), next actio
 If NO-GO, status `KILLED` and one line why. Pull before you start, push when done.
 
 ## Positioning tests
-Every product test uses `sessions/POSITIONING-PLAYBOOK.md`: model only Meta-first competitor libraries (3-question test) and test 3–4 positioning cells (sub-persona × mechanism × offer × proof).
+Use `sessions/POSITIONING-PLAYBOOK.md` on every product: a "saturated" product is only saturated in its positioning. Check the 5 levers (format · moment · person · signal · frame) for an open one, and test 3–4 positioning cells as separate ad sets + pages before changing the product.

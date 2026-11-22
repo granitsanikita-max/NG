@@ -1,61 +1,51 @@
-# POSITIONING TEST PLAYBOOK — test several brand positionings on every new product
+# POSITIONING PLAYBOOK — find white space in "saturated" products, and test positionings
 
-> Added 2026-11-22 at Nikita's request. Source: Blue Sense Digital, "The Ad Libraries That You Should Be Watching" (https://youtu.be/WvYpV69IEy0), a breakdown of how Meta-first D2C brands (Smooch, Hostage Tape, Resilia) scale versus omnichannel giants (Alo, SKIMS, Gymshark, Stanley).
-> **Who uses this:** product research (when scoring a product), offer design (when building the test), ad research (when choosing which competitors to model). Use it every time we test a product.
-
----
-
-## 1. Model the RIGHT competitors (before copying anyone's positioning)
-A big brand's ad library can look great while Meta is only *harvesting* demand made elsewhere (stores, influencers, events, PR, search). Copy those and you get their ads without their demand.
-
-**The 3-question test on any ad library:**
-1. **Does the hook need you to already know the brand?** Count the ads whose hook only works if you know the brand. High (Alo: 96%) = Meta is a retargeting channel, so don't model it. Low (Resilia 3%, Hostage Tape 7%, Smooch 18%) = Meta creates their demand, so model it.
-2. **Do they frame a problem?** Count the ads that agitate a problem. 0% = harvest brand. High = cold-traffic brand.
-3. **Volume and diversity:** how many active ads, across how many pages, and are they genuinely different concepts or just iterations?
-
-→ Model only brands that pass all 3 (Meta-first, problem-led, high diverse volume). For each product we research, write which competitor libraries pass and which are "harvest" brands to ignore.
-
-## 2. Positioning = Persona × Mechanism × Offer (test them as a set)
-The winners hold one thing fixed and test the rest:
-- **One overarching persona, never abandoned.** Smooch is always "women 40+ with a colour-changing promise". Fast-scaling Meta brands almost always target **40+** (men or women), because that's where the spending money is. Don't launch to 20-year-olds.
-- **3–5 sub-personas under it**, each with its own hook. Smooch: busy moms with 2 minutes · women burned by orange formulas · "foundation is over for me at 52" · "victim of the thin-brow '90s trend".
-- **The mechanism IS the angle.** Each ad leads with a different reason it works ("comes out white, reads your skin, becomes your shade in 30 seconds" / "one shade from Korea, waterproof" / "wakes up tired brow follicles"). New mechanism framing = new angle.
-- **Persona-per-offer (Hostage Tape model).** Don't just call out the persona in the hook; reshape the whole offer to it. Military → military discount + Jocko Willink ads. New dad → "Bearded Dad" product + "your wife didn't have to go to the couch". Sports fan → sports celebrity. The offer is shaped to the persona, not just the hook.
-
-**How we test it:** for each product, write **3–4 positioning cells**. Each cell = sub-persona + mechanism/angle + offer + proof type. Run each as its own ad set or concept group with 3–5 creatives. Judge on hook rate (3s view), hold rate, CTR, CPA/ROAS. Keep the winner as the brand; keep the runners-up as scale angles.
-
-## 3. Proof type must match the claim level
-- **No risky claims → creator demos** (Smooch: real-looking product demo, before/after, "no edits so you can trust me").
-- **Big claims → expert authority** (Resilia: doctors/researchers, with heavy compliance risk).
-- **No claims, lifestyle → celebrity/founder authority** (Hostage Tape: Rogan, Jocko, Troy Aikman).
-Pick the proof type per cell and say why.
-
-## 4. Formats and script structures that keep working
-- **Script skeleton:** Hook → Problem → Promise → Mechanism → Objection → Proof → Offer → Ask. Put the promise *before* the mechanism, so there's a reason to keep watching.
-- **Persona call-out hook** that dates or identifies the viewer ("If you were a victim of the thin-eyebrow trend of the '90s…").
-- **Negative hook** ("Don't waste your money on…", "I was skeptical…", "All these brands are scamming you") and the **fake-apology hook** ("To the 6,232 women who bought yesterday, we're sorry…").
-- **Alternative / switch ads:** "here's what you use now, here's why it fails, here's the switch". They hit warm, category-aware buyers. All 3 winners run them.
-- **Timeline mechanism** for slow-results products ("By week four… by week eight…"). It sells the wait, cuts refunds and justifies multi-unit offers. Use it whenever results take weeks.
-- **Anti-knockoff / "that's fake" ads** when cheap clones exist ("If it's $20 on Amazon/Temu, that's not us"). This turns the clone problem into a premium claim.
-- **Us-vs-them demo + unedited before/after.**
-- **Long-form storytelling (incl. AI animation, 3–15 min)** for unaware traffic. Borrow the structure, not unsupported claims.
-- **Spread across all awareness stages** (unaware → most aware). Bottom-funnel ads still carry mechanism and objection handling so they can scale cold if the hook works.
-
-## 5. Offer and urgency notes
-- Winners always run a headline offer (60% off, BOGO, buy-1-get-2) and test offers per persona. Permanent "ends today" sales work but tarnish the brand over time, so decide deliberately.
-- **Note:** their low-ROAS scaling relies on repeat purchase (consumables, subscriptions). **Our model is first-order profit** (one-time products), so we can't copy their 0.7–1x ROAS tolerance. Offers must hold margin on order 1.
-- Always add risk reversal (a guarantee) and make the ad's promise match the policy word for word.
-
-## 6. Hygiene at volume
-- Run an AI scrape of all live ad transcripts to catch contradictions (Hostage Tape ran "sold out after Rogan" and "warehouse overstocked" at the same time).
-- Concept diversity beats iterations: different people, angles, personas and formats, not 50 versions of one ad.
+> Added 2026-11-22 at Nikita's request. Source: Blue Sense Digital, "Your Category Isn't Saturated, Your Positioning Is" (https://youtu.be/cGDsB4adb7I).
+> **Who uses this:** product research (when a product looks saturated, and when scoring a product), offer design (when choosing the positioning and building the test), and ad research and ad scripting (when building the test ads).
 
 ---
 
-## Checklist to fill for every product test
-1. Competitor libraries that pass the 3-question test (and which to ignore).
-2. Overarching persona (default 40+ unless the data says otherwise).
-3. 3–4 positioning cells: sub-persona · mechanism/angle · offer shaped to persona · proof type · awareness stage · 2 hook lines.
-4. Which formats each cell uses (negative hook, switch ad, timeline, anti-knockoff, demo, long-form story).
-5. The test plan: one ad set per cell, 3–5 creatives each, kill/scale metrics.
-6. Compliance flags for each cell's claims.
+## The core idea
+**Markets are rarely saturated; positioning is.** If 5 brands all sell the same product the same way to the same person, the *positioning* is saturated, not the demand. A crowded category is actually the safer bet, because demand is already proven. Creating demand in a brand-new category is "business on hard mode". So go into a proven, crowded product and **reposition** to stand apart.
+
+**Repositioning is a pricing decision before it's a branding decision.** The point is pricing power, so there's margin to spend on ads.
+- Example: a $1 commodity repositioned to $3 takes gross margin from 30% to 67%. Break-even ROAS falls from **3.3 to 1.5**. A 1.5 is reachable within weeks on a new brand; a 3.3 is not.
+- Break-even ROAS = 1 ÷ gross margin %.
+
+## The 5 levers — change ONE (sometimes two)
+| Lever | Question | Example |
+|---|---|---|
+| **Format** | What does the product come in / how is it used? | Graza put olive oil in a squeeze bottle instead of glass ("use it every day, on the pan", which means more frequent repeat buys). |
+| **Moment** | *When* is it used? | Celsius moved from the "diet drink" moment to the "pre-workout / fitness" moment: same price, much bigger audience. |
+| **Person** | *Who* exactly is it for? | Fishwife sells the same tinned fish to a specific, style-conscious young woman ("hot girls eat tinned fish"). That means a smaller market but a far higher price. |
+| **Signal** | What does owning or using it *say about you*? | Liquid Death: the same water in a tall can that looks like beer. 9× the price per litre. |
+| **Frame** | What category or story is it compared against? | Olipop and Poppi turned "soda = guilty treat" into "gut health", so they get compared with kombucha, not Coke. 4× the price per can. |
+
+**The fill-in sentence:** *"The [product] for [specific person] at [specific moment]."* If you can fill it in, you stop competing on the specs everyone in the category leads with (grams of protein, number of LEDs, price) and become "the solution to this problem at this moment".
+
+## The 4 checks (a repositioning has to pass all of them)
+1. **Margin check.** The new positioning must *raise* price more than it raises cost of goods. Liquid Death charged 9× more but only gained about 10 points of margin, because tall cans are expensive. Change the ads, page, story and packaging, not the expensive parts of the product.
+2. **Claim check.** A *Frame* change can't rest on a claim we can't back up. Poppi paid an $8.9M settlement over gut-health claims based on 2 g of fibre. Reframe only as far as the evidence goes.
+3. **Better-not-worse check.** Never charge more for something the buyer sees as *worse* than what they already use. Beyond Meat charged 77% more than beef for a product people thought tasted worse; its gross margin fell from 33.5% to 2.8% and its stock is down ~97%. The new positioning has to feel like an upgrade *for that person at that moment*.
+4. **Copy check.** If it works you will be copied (Pepsi copied Olipop). That's fine, because first to market keeps the lead. Don't skip a position because it *could* be copied; skip it only if it's *already* taken (check competitors' ads, landers and product pages).
+
+## How we use it in PRODUCT RESEARCH
+- **Don't auto-cut "saturated" products.** When a product has 3+ big sellers, ask which levers are taken. Read the leaders' ads, landers and product pages: who they talk to, when it's used, what it signals, what it's framed as, what format it comes in. Then look for an open lever (a different person, moment, signal, frame or format) that a real audience needs, with proof from Reddit, reviews and forums. That counts as a valid "way in", alongside country gaps.
+- Record for each product: **category specs everyone leads with** · **levers already taken (by whom)** · **open lever(s) + evidence** · **the fill-in sentence** · **price we could charge vs category price** · **margin check**.
+
+## How we use it in a PRODUCT TEST
+1. Write **3–4 positioning cells**, each changing a different lever. Each cell gets: the fill-in sentence · the lever changed · price point · offer · 2–3 hooks · the claim limits.
+2. **Test it in ads and funnels before changing the product.** For each cell, run its own ad set + its own landing page/advertorial with matching copy and imagery. You don't need new packaging to test: the ads and pages *are* the positioning. Optional: test mock packaging/design in the creative.
+3. Judge on CTR, hook rate, cost per add-to-cart, CPA and ROAS at the cell's price. **The winner becomes the brand**; then build packaging, product tweaks and the rebrand around the proven cell.
+4. Stage guidance: under $1M/yr, test positions freely (no brand to protect yet). $1–10M: test through concept diversity. At scale: if the niche caps out, grow through new countries, a sister brand or new products, not by diluting the position.
+
+---
+
+## Checklist to fill for every product (research + test)
+1. The category's front-facing specs that everyone competes on.
+2. Levers already taken, and by whom (with ad / lander / product-page evidence).
+3. Open lever(s), with proof the target person/moment has the problem (quotes + URLs).
+4. 3–4 positioning cells: fill-in sentence · lever · price · offer · hooks · claim limits.
+5. Margin check per cell (price ÷ landed; break-even ROAS).
+6. Better-not-worse check per cell.
+7. Test plan: one ad set + one page per cell; kill/scale metrics.

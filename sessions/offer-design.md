@@ -21,4 +21,4 @@ Set STATE: stage `offer-design`, status `READY FOR NEXT`, next action
 "Write the funnel + store copy." Update the board. Commit + push. Pull first.
 
 ## Positioning tests
-Every product test uses `sessions/POSITIONING-PLAYBOOK.md`: model only Meta-first competitor libraries (3-question test) and test 3–4 positioning cells (sub-persona × mechanism × offer × proof).
+Use `sessions/POSITIONING-PLAYBOOK.md` on every product: a "saturated" product is only saturated in its positioning. Check the 5 levers (format · moment · person · signal · frame) for an open one, and test 3–4 positioning cells as separate ad sets + pages before changing the product.
