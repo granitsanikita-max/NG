@@ -21,3 +21,6 @@ Never write another station's file. (You'll also start new brand folders — see
 Set STATE: stage `product-research`, status `READY FOR NEXT` (if GO), next action
 "Deep research on audience + offer." Update the board. Commit + push.
 If NO-GO, status `KILLED` and one line why. Pull before you start, push when done.
+
+## Positioning tests
+Every product test uses `sessions/POSITIONING-PLAYBOOK.md`: model only Meta-first competitor libraries (3-question test) and test 3–4 positioning cells (sub-persona × mechanism × offer × proof).

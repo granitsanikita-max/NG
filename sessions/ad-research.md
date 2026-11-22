@@ -19,3 +19,6 @@ a shortlist of angles to script plus a test plan.
 **Only after Nikita explicitly confirms the work (CLAUDE.md rule 7).** Until then the draft stays in your scratchpad and nothing is committed — not the file, not STATE, not the board.
 Set STATE: stage `ad-research`, status `READY FOR NEXT`, next action
 "Script the shortlisted angles." Update the board. Commit + push. Pull before you start.
+
+## Positioning tests
+Every product test uses `sessions/POSITIONING-PLAYBOOK.md`: model only Meta-first competitor libraries (3-question test) and test 3–4 positioning cells (sub-persona × mechanism × offer × proof).
