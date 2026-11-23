@@ -2,7 +2,11 @@
 > Owned by: DEEP research & offer research. Run 2026-11-23 (ICP-only, per Nikita: women 40–60 who snore). Verified & self-approved with ONE box unticked (the wedge is a CONDITIONAL pass).
 
 **Notion folder:** https://app.notion.com/p/421d53123cd6810dbc39fd43ab250416
-NOTION_LINKS
+- Doc 1 — Market & Competition: https://app.notion.com/p/421d53123cd681fcbf4afd4ca7fa0555
+- Doc 2 — The Customer: https://app.notion.com/p/421d53123cd681c38f4dd734a7f3123f
+- Doc 3 — Persuasion: https://app.notion.com/p/421d53123cd681908fdbff8f43fabcbe
+- Doc 4 — Brand, Offer & Funnel: https://app.notion.com/p/421d53123cd681c58ff3c37245231fdb
+- §2C Data Bank (479 rows, Notion database): https://app.notion.com/p/421d53123cd68156bbd0dee35284a9d3
 
 **Local copies:** `research/` and `brain/01-step1-deep-research/`:
 - the 4 docs (.md)
