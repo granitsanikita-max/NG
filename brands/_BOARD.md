@@ -15,6 +15,6 @@ ad-creation → live → scaling
 | mens-compression-tank | deep-research DONE (one set, all men) → offer & funnel design | READY FOR NEXT | Research: https://app.notion.com/p/40cd53123cd681488348ee7264cc7fb6 (+ brain/03). Lead = G3 lost-the-weight-still-shows (contested & crowding: InShape, Selure, Alphacore); scale G2 → G1 → G5. Ladder $39.95 / 2+1 $79.90 / 3+2 $119.85. Gate: sample M+XL + CJ combined-parcel quote + CJ URL. | 2026-11-03 | deep-research |
 | menopause-serum | product-research | PARKED | #2 / fallback (own-a-position) — harder & pricier sourcing; parked behind ProudFold. | 2026-10-19 | product-research |
 
-| womens-snore-mouthpiece | deep-research (Step 1, ICP-only: women 40–60 who snore) | IN PROGRESS | Step 1 research running → Notion folder "Anti-Snoring Mouthpiece for Women". UK first → AU/NZ → US. | 2026-11-23 | deep-research |
+| womens-snore-mouthpiece | deep-research DONE → offer & funnel design | READY FOR NEXT (gated) | Research: https://app.notion.com/p/421d53123cd6810dbc39fd43ab250416 (+ brain/01). AU first → NZ (conditional), UK runner-up (AirVex owns it). Lead = her situation (spare room / menopause). Offer A$89 / A$119 pair / A$149. GATES: supplier 510(k)+CE+UKRP / AU ARTG sponsor · true women's size · samples · reconnect Winning Hunter. | 2026-11-23 | deep-research |
 
 <!-- Add new brands below. -->
