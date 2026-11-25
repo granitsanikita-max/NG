@@ -19,4 +19,6 @@ ad-creation → live → scaling
 
 | recover-mama | ad-creation | IN PROGRESS | Analysis done — 4 research docs + ad-format-references in brain/, all read; 4 scripts read (2 green-screen VSL ~120s + 2 podcast clips ~145–155s); CALLIXE + Revoget swipe refs viewed. **NEXT:** generate the 4 test videos via Higgsfield on Nikita's go (API key live). Blocked on production decisions (on-camera expert AI vs real, product photos, aspect ratio, VO, delivery) — see CREATIVES.md. Compliance: comfort/relief-feel only, no medical claims, no "your neck pain" hook. | 2026-11-13 | ad-creation |
 
+| stand-assist-cane | deep-research DONE → offer & funnel design | READY FOR NEXT (gated) | Research: https://app.notion.com/p/423d53123cd68179a939fa2e00f50d10 (+ brain/01). Lead = family of a parent who can't get up (AU first), runner-up post-op. Mechanism 'the missing armrest'. Offer A$99 / 2 for A$149 / buy-2-get-3rd-free A$198. GATES: sample + spec, TGA check, AU stock/returns; weekly Naxir re-check. | 2026-11-25 | deep-research |
+
 <!-- Add new brands below. -->
