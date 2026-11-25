@@ -17,4 +17,6 @@ ad-creation → live → scaling
 
 | womens-snore-mouthpiece | deep-research DONE → offer & funnel design | READY FOR NEXT (gated) | Research: https://app.notion.com/p/421d53123cd6810dbc39fd43ab250416 (+ brain/01). AU first → NZ (conditional), UK runner-up (AirVex owns it). Lead = her situation (spare room / menopause). Offer A$89 / A$119 pair / A$149. GATES: supplier 510(k)+CE+UKRP / AU ARTG sponsor · true women's size · samples · reconnect Winning Hunter. | 2026-11-23 | deep-research |
 
+| stand-assist-cane | deep-research (Step 1) | IN PROGRESS | Step 1 research running → Notion folder "Stand-Assist Folding Cane". AU first → CA → UK → NZ → US. | 2026-11-25 | deep-research |
+
 <!-- Add new brands below. -->
