@@ -2,7 +2,11 @@
 > Owned by: DEEP research & offer research. Run 2026-11-25. Verified & self-approved with ONE box unticked (the wedge is a CONDITIONAL pass).
 
 **Notion folder:** https://app.notion.com/p/423d53123cd68179a939fa2e00f50d10
-NOTION_LINKS
+- Doc 1 — Market & Competition: https://app.notion.com/p/423d53123cd681e89554c4c13757b91e
+- Doc 2 — The Customer: https://app.notion.com/p/423d53123cd68178868df0de2f9d0c62
+- Doc 3 — Persuasion: https://app.notion.com/p/423d53123cd6810382f7c53ec71af9d1
+- Doc 4 — Brand, Offer & Funnel: https://app.notion.com/p/423d53123cd681a59ca5cf2f02063b27
+- §2C Data Bank (664 rows, Notion database): https://app.notion.com/p/423d53123cd6812c8449d262cb6b0aa9
 
 **Local copies:** `research/` and `brain/01-step1-deep-research/`:
 - the 4 docs
